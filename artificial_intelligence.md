@@ -1664,6 +1664,10 @@ Artificial Intelligence
     * [OpenAI Codex Community Meetup Effective Harnesses for Long-Running Codex: AI가 밤새 코딩하는 시대 | 정구봉 - YouTube](https://www.youtube.com/watch?v=tjEVBcPT-RA)
       * [Effective Harnesses for Long-Running Codex: AI가 밤새 코딩하는 시대](https://livewiki.com/ko/content/openai-codex-ai-coding-3)
     * Ralphthon(12시간 AI 해커톤), Harness Engineering 패턴, Code Factory 조직 접근법. 스펙 명확성과 진화하는 하네스, 체계적 루프가 단순 스크립트보다 자율 코딩에 효과적
+* [Harness Engineering for Self-Improvement | Lil'Log (Lilian Weng)](https://lilianweng.github.io/posts/2026-07-04-harness/)
+  * [AI는 이제 모델이 아니라 하네스를 개선한다: 재귀적 자기 개선을 이끄는 하네스 엔지니어링 | digitalbourgeois](https://digitalbourgeois.tistory.com/3486)
+  * 하네스=기반 모델을 둘러싸고 실행을 조율하는 시스템(사고·계획, 도구 호출, 컨텍스트 관리, 결과 평가). 재귀적 자기개선(RSI)의 근시일 경로는 모델 가중치 수정이 아니라 하네스 자체를 최적화 대상으로 삼는 것
+  * 하네스 설계 패턴(워크플로 자동화·파일 시스템 영속 메모리·서브에이전트)→하네스 최적화(컨텍스트 엔지니어링·워크플로 탐색·자기개선 하네스·진화적 탐색·가중치 공동 최적화)→과제(약한 평가자·메모리 수명주기·보상 해킹·인간 감독). ACE·MCE·Meta-Harness·ADAS·AFlow·STOP·AlphaEvolve·Darwin Gödel Machine 정리
 * [harness engineering.pdf | HoYeon Lee](https://www.linkedin.com/posts/hoyeonleekr_harness-engineeringpdf-ugcPost-7447900106281877504-9eWf)
   * 100명+ 사내 세션 발표 자료. 같은 모델이라도 컨텍스트·워크플로우·검증 기준 설계에 따라 결과가 달라짐. Green Field vs Brown Field 구현 차이, 개인 AI 활용과 조직 단위 AI 적용의 근본적 차이(품질·검증 가능성·통제 가능성·운영 지속성)
 * [From Prompts to Harness — A 4-Year Record of AI Agentic Patterns](https://bits-bytes-nn.github.io/insights/agentic-ai/2026/04/05/evolution-of-ai-agentic-patterns.html)
@@ -3857,6 +3861,9 @@ Artificial Intelligence
   * Demirer·Musolff·Yang(Wharton/MIT). GitHub 개발자 10만+ AI 사용 텔레메트리 매칭 이벤트 스터디. autocomplete·인터랙티브 에이전트·자율 에이전트가 커밋을 각각 40%·140%·180% 늘리지만, 프로덕션 계층을 올라갈수록 급감(커밋 180%→프로젝트 수 50%→실제 릴리스 30%). weak-link 가설—AI의 강한 생산성 향상이 인간 병목에 의해 약화(AI-인간 대체탄력성 0.25로 강한 상보성). 4대 앱 마켓에서도 신규 앱은 소폭 증가하나 총 사용량 증가 없음
 * [AI가 다시 쓰는 소프트웨어 엔지니어링 전문성 | ITWorld](https://www.itworld.co.kr/article/4136233/ai%EA%B0%80-%EB%8B%A4%EC%8B%9C-%EC%93%B0%EB%8A%94-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81-%EC%A0%84%EB%AC%B8%EC%84%B1.html)
   * AI는 코드 작성 비용을 낮추지만 사고 비용은 낮추지 못함. 실제 티켓에는 모호성과 암묵적 맥락이 존재하며, 시스템 아키텍처 품질이 구현 속도보다 중요. 숙련된 엔지니어의 판단력은 대체 불가
+* [The Future of Software Engineering: When Code Isn't Enough - YouTube](https://www.youtube.com/watch?v=Ic_u_Lk_9Rw)
+  * InfoQ, Ben Greene. AI 코딩 에이전트가 루틴한 프로그래밍을 자동화하는 시대에 시니어 엔지니어·아키텍트·리더가 가치를 내는 법—스타트업에서 배우는 5가지 마인드셋
+  * ① 단순하게 시작(Jevons Paradox·Gall's Law) ② 이해가 핵심(AI 코드 부채의 함정) ③ 새로운 것 시도(Einstellung 효과 극복) ④ 어려운 부분 먼저 공략(MVP 전에 POC) ⑤ 임팩트에 관심(고객 공감·시스템 사고). vibe coding이 장기 소프트웨어 품질을 위협하는 이유 Q&A 포함
 * [AI in software engineering at Google: Progress and the path ahead](https://research.google/blog/ai-in-software-engineering-at-google-progress-and-the-path-ahead/)
   * [구글 소프트웨어 엔지니어링의 AI: 진전과 향후 전망 | GeekNews](https://news.hada.io/topic?id=15258)
 * [GN#289 AI 보조 코딩이 소프트웨어 엔지니어링을 어떻게 바꿀 것인가 | GeekNews](https://news.hada.io/weekly/202503)
@@ -5546,6 +5553,9 @@ Artificial Intelligence
     * [🆓 Matt Pocock Skills 완벽 가이드 - AI 코딩 에이전트 실무 필수 스킬 (30 초 설치)](https://fornewchallenge.tistory.com/entry/%F0%9F%86%93-Matt-Pocock-Skills-%EC%99%84%EB%B2%BD-%EA%B0%80%EC%9D%B4%EB%93%9C-AI-%EC%BD%94%EB%94%A9-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EC%8B%A4%EB%AC%B4-%ED%95%84%EC%88%98-%EC%8A%A4%ED%82%AC-30-%EC%B4%88-%EC%84%A4%EC%B9%98-1)
     * [좋은 스킬을 발견하게 되어 공유합니다 | Teo Yu](https://www.linkedin.com/posts/teo-yu_%EC%A2%8B%EC%9D%80-%EC%8A%A4%ED%82%AC%EC%9D%84-%EB%B0%9C%EA%B2%AC%ED%95%98%EA%B2%8C-%EB%90%98%EC%96%B4-%EA%B3%B5%EC%9C%A0%ED%95%A9%EB%8B%88%EB%8B%A4-1-%EC%84%A0%EA%B5%AC%EC%9E%90%EA%B0%80-%EB%90%98%EA%B3%A0-%EC%8B%B6%EC%9D%80-%EB%A7%88%EC%9D%8C%EC%97%90-%EC%A0%80%EB%8F%84-share-7457350055386161152-jOL9)
     * 엔지니어링 스킬(`/grill-with-docs`, `/tdd`, `/diagnose`, `/improve-codebase-architecture`, `/triage`, `/to-issues`, `/to-prd`, `/zoom-out`, `/prototype`) + 생산성 스킬(`/grill-me` 결정 트리 해소, `/caveman` 토큰 75% 절감 압축 커뮤니케이션, `/write-a-skill`). 에이전트 4대 실패(오정렬·장황·비기능 코드·아키텍처 퇴화) 대응
+    * [한영자막 Matt Pocock 스킬, 이번 업데이트로 확 달라졌다 - YouTube](https://www.youtube.com/watch?v=sZrFaPMau6A)
+      * Tech Bridge. v1.2 업데이트 정리—새 공식 문서 사이트(aihero.dev/skills)·AI 코딩 사전 공개, Claude Code 공식 플러그인 마켓플레이스 등록, Codex 호환성 개선
+      * 신규·개선 스킬: Wait What(Opus 장황한 답변 교정), Grill Me(여러 질문을 그래프 구조로 묶어 라운드 단위 질문), Writing for Agents, Wizard(대화형 인프라 프로비저닝), To Questionnaire(협업용)
   * [skillstead: Practical, portable skills for agentic coding workflows](https://github.com/kyungseo/skillstead)
     * [svg-infographic 스킬 예제 (README.ko)](https://github.com/kyungseo/skillstead/blob/main/examples/svg-infographic/README.ko.md)
     * [설치 가이드 (INSTALL.md)](https://github.com/kyungseo/skillstead/blob/main/docs/INSTALL.md)
@@ -6780,6 +6790,9 @@ Artificial Intelligence
   * [🤖 Live Avatar: 무한 길이 실시간 오디오 기반 아바타 생성 혁신](https://fornewchallenge.tistory.com/entry/%F0%9F%A4%96-Live-Avatar-%EB%AC%B4%ED%95%9C-%EA%B8%B8%EC%9D%B4-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EC%98%A4%EB%94%94%EC%98%A4-%EA%B8%B0%EB%B0%98-%EC%95%84%EB%B0%94%ED%83%80-%EC%83%9D%EC%84%B1-%ED%98%81%EC%8B%A0)
 * [OpusClip - AI-powered Video Repurposing](https://www.opus.pro/)
   * [7개월 만에 연매출 130억 찍은, 숏폼 만들어 주는 AI 스타트업](https://maily.so/founderstory/posts/0a0968c1)
+* [seedance-prompt-skill: Seedance 2.0 video prompt generation skill for Claude Code](https://github.com/songguoxs/seedance-prompt-skill)
+  * [Claude Code에서 Seedance 2.0 영상 프롬프트를 자동 생성하는 방법 | digitalbourgeois](https://digitalbourgeois.tistory.com/3497)
+  * 자연어 아이디어를 ByteDance Seedance 2.0(即梦)용 구조화 영상 프롬프트로 변환하는 Claude Code 커스텀 스킬. Timestamp Storyboarding, Negative Prompting, @이미지/@영상/@오디오 멀티모달 참조, 15초 초과 시 Multi-Segment Stitching 등 10가지 기능. MIT
 * [ToonCrafter: a research paper for generative cartoon interpolation](https://github.com/ToonCrafter/ToonCrafter)
   * [ToonCrafter - a Hugging Face Space by Doubiiu](https://huggingface.co/spaces/Doubiiu/tooncrafter)
   * [AI 뉴스 - 애니메이션 제작 ToonCrafter, 일레븐랩스 효과음 AI, 머스크 키보드배틀, 라마3-V, GPT-5 루머 등 - YouTube](https://www.youtube.com/watch?v=KLbTaePK82I)
