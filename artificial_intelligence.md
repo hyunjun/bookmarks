@@ -4695,6 +4695,10 @@ Artificial Intelligence
     * [Improving frontend design through Skills | Claude](https://www.claude.com/blog/improving-frontend-design-through-skills)
       * [Frontend design skills improvement | Claude](https://claude.ai/share/0ae73f21-ffd8-4b9a-96da-73f87d1afa0a)
       * [LLM이 또 흰 배경에 보라색 그라데이션 웹페이지를 만들어줬나요? 이틀 전에 추가된 Claude frontend-design skill 을 써을 써야합니다.. +Anthropic 에서 제공하는 기본 스킬도 다운로드 받는 plugin까지 LLM한테 랜딩 페이지를 만들어달라고 하면 흰 배경 위의 보라색 그라데이션을 만듭니다. 왜냐면 이런 디자인이 실제로… | 정구봉 Goobong Jeong](https://www.linkedin.com/posts/gb-jeong_llm%EC%9D%B4-%EB%98%90-%ED%9D%B0-%EB%B0%B0%EA%B2%BD%EC%97%90-%EB%B3%B4%EB%9D%BC%EC%83%89-%EA%B7%B8%EB%9D%BC%EB%8D%B0%EC%9D%B4%EC%85%98-%EC%9B%B9%ED%8E%98%EC%9D%B4%EC%A7%80%EB%A5%BC-%EB%A7%8C%EB%93%A4%EC%96%B4%EC%A4%AC%EB%82%98%EC%9A%94-%EC%9D%B4%ED%8B%80-%EC%A0%84%EC%97%90-activity-7395222942961446912-oC8r)
+    * [Hallmark — Anti-AI-slop design skill for Claude Code, Cursor, and Codex](https://www.usehallmark.com/)
+      * [hallmark](https://github.com/Nutlope/hallmark)
+      * [AI가 만든 뻔한 UI를 피하는 디자인 스킬, hallmark | digitalbourgeois](https://digitalbourgeois.tistory.com/3501)
+      * AI 티가 나는 획일적 디자인(보라색 그라디언트 히어로·Inter 폰트·전부 중앙 정렬)을 피하는 오픈소스 디자인 스킬. 21개 테마, 4개 동사(Build 생성/Study 참고 디자인 DNA 분석/Audit 안티패턴 진단/Redesign 재설계), 57개 슬롭 테스트 게이트. 자체 완결형 HTML+CSS 출력, `npx skills add nutlope/hallmark` 설치. MIT
     * [Don't Build Agents, Build Skills Instead – Barry Zhang & Mahesh Murag, Anthropic - YouTube](https://www.youtube.com/watch?v=CEvIs9y1uog)
       * [에이전트가 아닌 '스킬'을 구축해야 하는 이유: Anthropic의 새로운 에이전트 아키텍처 및 스킬 생태계 혁신](https://livewiki.com/ko/content/agents-skills-anthropic)
       * [스킬은 직접 만드는 Micro SaaS입니다. 에이전트 만들지 말고 Skills을 만드세요. 정교한 Skills가 많이 만들어지고 있습니다. 어떤 사람들은 Skills는 마크다운 패키징에 불과하다고 하지만, 이건 AI를 잘 쓰는 사람들의 패턴입니다. 1. 에이전트는 천재지만 전문가가 아닙니다 현재의 LLM 에이전트는 IQ 300의 천재처럼 복잡한 계산을… | 정구봉 Goobong Jeong](https://www.linkedin.com/posts/gb-jeong_%EC%8A%A4%ED%82%AC%EC%9D%80-%EC%A7%81%EC%A0%91-%EB%A7%8C%EB%93%9C%EB%8A%94-micro-saas%EC%9E%85%EB%8B%88%EB%8B%A4-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EB%A7%8C%EB%93%A4%EC%A7%80-%EB%A7%90%EA%B3%A0-skills%EC%9D%84-activity-7404274903606321152--F0F)
