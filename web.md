@@ -588,14 +588,17 @@ Web
   * [잇창명 EatChangmyeong🪖 ~ 240207 on X: "흥미가 생기는 글이라서 전문을 번역해보기로 했다 &lt;한없이 무모한 웹 브라우저의 기능 확장&gt;" / X](https://twitter.com/EatChangmyeong/status/1705905639174951078)
   * 글 작성일 기준 W3C 명세 카탈로그의 총 단어 수는 1억 1400만 단어. C11, C++17, UEFI, USB 3.2, POSIX 명세와 지금까지 공개된 RFC 8,754건, 위키백과의 가장 긴 소설 목록의 모든 소설을 합쳐도 W3C 명세보다 1200만 단어 부족
 * [Browser Fingerprint의 동작 원리와 운영시 예상되는 이슈](https://ebay-korea.tistory.com/94)
+* [브라우저가 곧 데이터베이스…로컬 퍼스트의 성숙 | ITWorld](https://www.itworld.co.kr/article/4138184/%eb%b8%8c%eb%9d%bc%ec%9a%b0%ec%a0%80%ea%b0%80-%ea%b3%a7-%eb%8d%b0%ec%9d%b4%ed%84%b0%eb%b2%a0%ec%9d%b4%ec%8a%a4%eb%a1%9c%ec%bb%ac-%ed%8d%bc%ec%8a%a4%ed%8a%b8%ec%9d%98-%ec%84%b1%ec%88%99.html)
+  * PGLite(브라우저 내 PostgreSQL), WebAssembly 기반 로컬 DB로 네트워크 지연 없는 즉각적 UI 반응성 확보. 형상 기반 동기화로 필요한 데이터만 선택적 동기화
 * [Baseline](https://web.dev/baseline/)
   * Chrome 팀에서 특정 웹 기능이 Chrome, Edge, Firefox, Safari 등 주요 버전에서 지원되는 지를 더 명확히 보여주어 웹에서 안정적으로 쓸 수 있는지를 판단할 수 있는 Baseline 공개
   * web.dev와 MDN에서 표시될 것이며 Interop 2022/2023에서 Apple, Microsoft, Mizilla와 협력해서 제작, 앞으로도 1년에 한 번씩 베이스라인을 발표할 예정
 * [Browserslist](https://browsersl.ist/)
   * 다양한 JavaScript에서 브라우저 호환성 정보를 공유하는 Browserslist 공식 웹사이트
   * `defaults`나 `last 2 versions`같은 설정을 입력하면 자세한 브라우져 사용 현황 확인 가능
-* [브라우저가 곧 데이터베이스…로컬 퍼스트의 성숙 | ITWorld](https://www.itworld.co.kr/article/4138184/%eb%b8%8c%eb%9d%bc%ec%9a%b0%ec%a0%80%ea%b0%80-%ea%b3%a7-%eb%8d%b0%ec%9d%b4%ed%84%b0%eb%b2%a0%ec%9d%b4%ec%8a%a4%eb%a1%9c%ec%bb%ac-%ed%8d%bc%ec%8a%a4%ed%8a%b8%ec%9d%98-%ec%84%b1%ec%88%99.html)
-  * PGLite(브라우저 내 PostgreSQL), WebAssembly 기반 로컬 DB로 네트워크 지연 없는 즉각적 UI 반응성 확보. 형상 기반 동기화로 필요한 데이터만 선택적 동기화
+* [nothing-private: Do you think you are safe using private browsing or incognito mode? This will prove that you're wrong](https://github.com/gautamkrishnar/nothing-private)
+  * [Nothing Private 데모](https://nothingprivate.gkr.pw)
+  * 브라우저 핑거프린팅으로 시크릿 모드·프라이빗 브라우징이 신원을 숨겨주지 못함을 직접 보여주는 개념 증명 데모. 이름을 입력한 뒤 시크릿 창으로 다시 접속해도 알아맞힘. JavaScript, GPL-3.0, 2.2k stars
 
 # C++
 * [Cheerp 1.1 - C++ for the Web with fast startup times, dynamic memory and now, more speed!](http://leaningtech.com/cheerp/blog/2015/06/17/Cheerp-1.1/)
