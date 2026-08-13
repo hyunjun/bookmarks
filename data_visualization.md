@@ -17,6 +17,8 @@ Data Visualization
 * [Nearly every job in America, mapped in incredible detail](http://www.washingtonpost.com/blogs/wonkblog/wp/2015/07/14/nearly-every-job-in-america-mapped-in-incredible-detail/)
 * [POSTER: THE HISTORIC DEVELOPMENT OF NETWORK VISUALIZATION](http://www.pfeffer.at/data/visposter/)
 * [Exploring Family Trees](https://learnforeverlearn.com/ancestors/?lifespan=true0)
+* [An American Mosaic - The New York Times](https://www.nytimes.com/interactive/2026/07/01/us/america-ancestry-census-data-map.html)
+  * 미국인이 자신의 조상·가족 출신을 어떻게 정체화하는지 인구조사 데이터로 지도화한 NYT 인터랙티브. 사람들이 자기 혈통과 스스로를 묘사하는 다양한 방식을 탐색
 * [“디자인과 데이터 분석 프로세스를 겸비해 단순한 디자이너, 단순한 프로그래머를 뛰어 넘어라”](http://www.venturesquare.net/595001)
 * [Ask HN: What data visualisation tools do data scientists and developers use?](https://news.ycombinator.com/item?id=9936897)
 * [Aperture Tiles tile-based visual analytics for big data](http://aperturetiles.com/)
