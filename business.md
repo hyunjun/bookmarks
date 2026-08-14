@@ -3072,6 +3072,10 @@ Business
 * [The 5 Common Mistakes Of New Engineering Managers - Ochronus online](https://ochronus.online/the-5-common-mistakes-of-new-engineering-managers/)
 * [실리콘 밸리의 엔지니어링 매니저(리더)들은 대체 무엇을 하는가? (1편) - Sendbird](https://sendbird.com/ko/blog/eng-leader-role-1)
 * [실리콘 밸리의 엔지니어링 매니저(리더)들은 대체 무엇을 하는가? (2편) - Sendbird](https://sendbird.com/ko/blog/eng-leader-role-2)
+* [Engineering Leaders Day-to-Day Activities | James Samuel](https://softwareleads.substack.com/p/engineering-leaders-day-to-day-activities)
+  * [엔지니어링 리더는 매일 무슨 일을 하는가? 보이지 않는 관리 업무의 6가지 활동](https://digitalbourgeois.tistory.com/3513)
+  * IC는 코드·기능처럼 눈에 보이는 결과물을 남기지만 관리자의 성과는 대화·의사결정·조율·개입·실행에 흩어져 드러남
+  * 관리자의 하루를 정보 수집 → 정보 공유 → 의사결정 → 의사결정에 영향 주기 → 실행 이끌기 → 계획의 반복으로 정리
 * [Mistakes I’ve Made as an Engineering Manager — so you can avoid them | by Matt Nigh | Literally Leading | Nov, 2021 | Medium](https://medium.com/leading-literally/mistakes-ive-made-as-an-engineering-manager-so-you-can-avoid-them-3391c5b63f66)
 * [Becoming a Great Engineering Manager is Hard](https://www.infoq.com/podcasts/hard-becoming-great-engineering-manager/)
 * [Becoming a Great Engineering Manager is Hard - YouTube](https://www.youtube.com/watch?v=OA6TLUtBlks)
