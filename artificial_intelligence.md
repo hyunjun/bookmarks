@@ -381,6 +381,9 @@ Artificial Intelligence
     * 에이전트가 생성한 코드를 이해하는 것이 단순 검증을 넘어 창의적 프로젝트 참여의 핵심. 규모 있는 AI 협업에서 이해를 효율적으로 구축하는 3가지 기법—코드 설명 문서, 인터랙티브 마이크로 월드, 공유 협업 공간
 * [인지부채 - 바이브 코딩 시대의 새로운 부채 관리법 :: ROBOCO](https://roboco.io/posts/cognitive-debt)
   * 정도현(로보코). 코드는 쌓이는데 이해는 쌓이지 않는 격차가 "인지부채". MIT Media Lab EEG 연구(LLM 사용 그룹의 뇌 연결성·소유감 저하), GitClear 2억 라인 분석(복붙 증가·리팩터링 반감)으로 뒷받침. human-in-the-loop는 사람이 병목·형식적 승인이 되어 실패(Bainbridge의 자동화 아이러니). 산출물 속도가 아니라 이해·정리를 부채로 관리해야 한다는 관점
+* [The human is the loop | Brent Fitzgerald](https://brentfitzgerald.com/posts/the-human-is-the-loop/)
+  * [인간이 루프의 중심이어야 한다 | GeekNews](https://news.hada.io/topic?id=32465)
+  * AI를 몇 주 멀리한 뒤 돌아본 회고—기존 사용 습관 상당수가 생산성보다 지적 능력·호기심·자신감을 약화시키는 의존 수단에 가까웠다는 자기 진단. 여러 에이전트와 Claude 대화를 동시에 벌이는 방식은 "더 많이 해야 한다"는 압박만 키우고 미완성 작업과 읽지 않을 산출물만 쌓는다는 지적
 * [OpenAI 연구원이 공개한 프롬프트 한 줄 - YouTube](https://www.youtube.com/watch?v=xyTPUdJhxLM)
   * 미드나잇 로그. 고교 중퇴 후 ChatGPT로 독학해 OpenAI 연구원이 된 사람의 학습법—AI에게 "대신 해줘"가 아니라 "가르쳐줘"로 묻고, 코드는 한 줄 한 줄 다 읽기. 지식은 더 이상 병목이 아니며(기초는 AI가 제공), "12살한테 설명하듯" 프롬프트로 기초를 빠르게 이해
 * [How I use LLMs to learn complex topics | Laurentiu Raducu](https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/)
@@ -897,6 +900,10 @@ Artificial Intelligence
 * [agentOS — Secure operating system without a sandbox](https://agentos-sdk.dev/)
   * [agentos: A faster, lighter, cheaper alternative to sandboxes. Run any coding agent inside an isolated Linux VM, with agent orchestration built in](https://github.com/rivet-dev/agentos)
   * Rivet의 경량 에이전트용 OS 라이브러리. 컨테이너·VM 없이 파일시스템·네트워킹·bash·Python·Node 제공, 격리된 Linux VM에서 코딩 에이전트 실행+에이전트 오케스트레이션 내장. 샌드박스보다 빠르고 가볍고 저렴. Rust, 3.8k stars
+* [Agent Plugins — A portable package format for reusable components that extend AI agents](https://agent-plugins.org/)
+  * [Introducing Agent Plugins - Vercel](https://vercel.com/blog/introducing-agent-plugins)
+  * [Agent Plugins 1.0.0 공개, AI 에이전트 확장을 위한 표준 플러그인 형식 | digitalbourgeois](https://digitalbourgeois.tistory.com/3506)
+  * Agent Skills와 MCP 서버를 하나의 예측 가능한 디렉터리 구조·매니페스트로 패키징하는 개방형·벤더 중립 표준(1.0.0). 같은 구성 요소를 클라이언트마다 다르게 패키징·탐색해야 하던 문제를 해결—호환 AI 에이전트 클라이언트가 발견하고 로드할 수 있는 배포 가능 플러그인
 * [AGENTS.md](https://agents.md/)
   * [바이브 코딩 시대의 정석: 에이전트용 프롬프트부터 설계하라](https://www.facebook.com/lsszz1/posts/pfbid0Cf9VWSPGp5ffGsdKYBASbE2jsg8n3PuY4LofPn7nnsFfknYfjwDte15Ge2Vm79Nil)
     * 실제 코딩 전에 모델에게 먼저 다음 문서를 생성하게 할 것
@@ -3544,6 +3551,8 @@ Artificial Intelligence
   * AI 앱 시장은 문제 복잡성·도입 난이도로 나뉘지만 지속적 경쟁 우위는 결국 사용 중 축적되는 데이터에 달림. 도입 쉬운 제품은 대규모 사용·빠른 피드백으로 데이터 플라이휠을 만들지만 교체도 쉬워 모델 제공업체와 자본·데이터 경쟁에 노출. 도입 어려운 제품은 전환 비용이 해자가 됨
 * [k-skill과 블루리본 공방을 보며 부리는 오지랖, 그리고 AI 시대의 해자 구축에 대한 생각 | Steady Study](https://www.stdy.blog/k-skill-and-blue-ribbon)
   * k-skill(김동규) 저장소가 블루리본 운영사 비알미디어로부터 고소장을 받은 사건을 계기로, 에이전트 행위의 책임 소재와 AI 시대의 데이터 해자 구축을 논의. 고소·고발만으로 데이터 해자를 지키기 어려운 시대에 운영·UX·데이터 관점의 방어를 제안
+* [이제 클로드가 만든 글엔 눈에 안 보이는 워터마크가 붙습니다 | 요즘IT](https://yozm.wishket.com/magazine/detail/3899/)
+  * 프로덕트 메이커를 위한 주간 AI 소식 3가지—Hallmark 디자인 스킬, Grok Bot AI 에이전트, Claude의 AI 생성 콘텐츠 워터마크
 * [Alchemy AI Newsletter](https://www.thealchemy.ai/)
 * [Cartography of generative AI](https://cartography-of-generative-ai.net/)
   * [Wontae Lee - <<보이지 않는 인공지능: 데이터, 노동, 에너지로 엮인 생성형 AI의 세계지도>>... | Facebook](https://www.facebook.com/wontae.lee.9889/posts/pfbid0HLHPwTvFwrL2cbPxRbHe5wLpwgS1eWcnHGPKB9EpQuAGr4HidGnkRW4Yz45eWQUxl)
