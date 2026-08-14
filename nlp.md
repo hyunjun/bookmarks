@@ -4397,6 +4397,8 @@ NLP
 * [RAG 대표적인 청킹 방법 5가지 !](https://velog.io/@autorag/RAG-%EB%8C%80%ED%91%9C%EC%A0%81%EC%9D%B8-%EC%B2%AD%ED%82%B9-%EB%B0%A9%EB%B2%95-5%EA%B0%80%EC%A7%80)
 * [Still Need Chunking When Long-Context Models Can Do It All?](https://jina.ai/news/still-need-chunking-when-long-context-models-can-do-it-all/)
   * [긴 컨텍스트 임베딩 모델에서 청킹(Chunking)은 여전히 필요할까요? | GeekNews](https://news.hada.io/topic?id=18191)
+* [What Is Chunkless RAG? How Docling & AI Agents Navigate Documents - YouTube](https://www.youtube.com/watch?v=vRZNJWw78BQ)
+  * IBM Technology, Ming Zhao. 청킹+유사도 검색에만 의존하는 RAG가 문서 맥락을 버린다는 문제 제기—Docling으로 문서 구조를 파악하고 AI 에이전트가 문서를 탐색하는 방식. 구조 인식 검색이 정확도·맥락·문서 이해를 개선하는 조건
 * [KT DS 김성우 단장님 RAG 강의 자료 리뷰 브리핑 - 8:07 부터 시작 - YouTube](https://www.youtube.com/watch?v=CKiXGNWmSr0)
   * [RAG 강의자료-KT DS 김성우 기술혁신단장님 자료 + BM25 + RAG 평가 - 기초부터 응용까지 : 네이버 카페](https://cafe.naver.com/aidev/804)
     * [사내 강의용으로 만든 RAG 시스템 이해 및 구현 교안](https://www.linkedin.com/posts/%EC%84%B1%EC%9A%B0-%EA%B9%80-58448045_ssam-retrieval-augmented-generation-rag-activity-7246734773266628609-E2hB/)
