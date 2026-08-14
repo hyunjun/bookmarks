@@ -6613,6 +6613,9 @@ Artificial Intelligence
   * [Kiro IDE Remote - AWS Generative AI Solution Box](https://aws-samples.github.io/sample-one-click-generative-ai-solutions/en/solutions/kiro-ide/)
   * [kiro-cli-workshop-pdf: AWS Kiro CLI 워크샵 18챕터 180슬라이드 PDF](https://github.com/whchoi98/kiro-cli-workshop-pdf)
     * AWS의 agentic AI 개발 도구 Kiro CLI를 다루는 종합 워크샵. 한국어/영어 PDF, 챕터당 30-45분. Foundations(CH01-06: 소개·설치·인증·모델·채팅·세션) → Core(CH07-11: 컨텍스트·터미널 UI·권한·steering·커스텀 에이전트) → Advanced(CH12-17: 서브에이전트·스킬·MCP·훅·헤드리스·자동완성) → Reference(CH18: 명령 레퍼런스). 50명 이하 기술 세미나용, 입문→고급. CC BY 4.0
+  * [Kiro Crew — The persistent, open source development workspace](https://kiro.dev/crew/)
+    * [KiroCrew: A persistent workspace for development work that self-improves and continues beyond one session](https://github.com/kirodotdev/KiroCrew)
+    * 세션이 끝나도 이어지는 영속 개발 워크스페이스. 컨텍스트를 기억하고 사용자의 작업 방식을 학습하며 각자 다른 도구·워크플로를 조율—돌아왔을 때 워크플로를 다시 세팅하는 대신 진행 상태를 이어받게 함. 자기개선형. Python, Apache-2.0
   * [kiro-with-harness: Kiro에 Harness 엔지니어링 적용하기](https://github.com/TeiNam/kiro-with-harness)
     * [GitHub - TeiNam/kiro-with-harness | Tei Nam](https://www.linkedin.com/posts/rastalion_claudeopus-aiengineering-developertools-share-7468699391575552000-8wgw/)
     * Kiro IDE용 하네스 엔지니어링. CLI/IDE 2-tier 인스톨러+워크로드 선택(언어·AI·클라우드·DB 등 29종)으로 steering rules·hooks·agents·skills(130개 패키지)·MCP 설정을 Kiro 워크스페이스에 배포. 역할 기반 모델 라우팅(추론=Opus 4.8, 비용 민감=Haiku 4.5), DAG 병렬 위임, 코드 리뷰·체인지로그 자동화 이벤트 훅. Everything Claude Code(ECC) 패턴을 Kiro 네이티브 포맷으로 적용
