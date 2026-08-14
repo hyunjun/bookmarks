@@ -4941,6 +4941,8 @@ Python
     * 워크플로우별 필수 uv 명령어 정리. 프로젝트 생성, 의존성 관리, 스크립트 실행, 도구 관리 등 치트시트
   * [uv vs pixi: Find the right Python environment manager for data science](https://codecut.ai/uv-pixi-comparison/)
     * 시스템 라이브러리, lockfile, 재현성 관점에서 uv와 pixi 비교
+  * [간단히 살펴보는 uv 설치 및 사용방법 (Windows, Ubuntu, macOS) - 멈춤보단 천천히라도](https://webnautes.com/%ea%b0%84%eb%8b%a8%ed%9e%88-%ec%82%b4%ed%8e%b4%eb%b3%b4%eb%8a%94-uv-%ec%84%a4%ec%b9%98-%eb%b0%8f-%ec%82%ac%ec%9a%a9%eb%b0%a9%eb%b2%95-windows-ubuntu-macos/)
+    * Windows·Ubuntu·macOS 3개 OS에서 uv를 설치하고 사용하는 방법 정리
   * [uv-demo: Demo of uv for a streamlined Python package management experience](https://github.com/prrao87/uv-demo)
     * [파이썬 개발자라면 uv 를 사용합시다. Poetry, Anaconda, virtualenv 는 이제 그만! | by Sigrid Jin | Medium](https://sigridjin.medium.com/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%9D%BC%EB%A9%B4-uv-%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%A9%EC%8B%9C%EB%8B%A4-546d523f7178)
 * virtualenv
