@@ -95,6 +95,10 @@ GIS
 * [**Luavis' Dev Story - Spatial data를 10,000배 잘 다루는 방법**](https://b.luavis.kr/server/how-to-deal-with-spatial-data)
 * [Running every street in Paris with Python and PostGIS — Vinayak Mehta - YouTube](https://www.youtube.com/watch?v=ll7qwO2P6yQ)
   * [Python과 PostGIS를 활용하여 파리 전역의 모든 거리를 달리기 프로젝트](https://livewiki.com/ko/content/running-streets-paris-python-postgis)
+* [Exploring Germany's Urban Geography with Census and OpenStreetMap Data PyCon DE & PyData 2026 - YouTube](https://www.youtube.com/watch?v=1LEXE8H0BaE)
+  * Travis Hathaway가 PostgreSQL + PostGIS에 100m 해상도 독일 Census 2022 데이터(직접 만든 census2pgsql)와 OpenStreetMap(pgosmflex), 통계청의 병원 위치·진료등급 데이터를 통합해 도시 지리·접근성을 분석
+  * 직선거리 대신 Open Route Service로 실제 도로망 이동시간을 계산 → 인구의 98.4%가 차로 30분 내 병원 접근 가능하나 15분 기준에서는 연령대별 편차가 크고(대학병원 근처 도심에 몰린 18-29세가 높음) 동독 주들의 고차 진료시설 접근성이 낮음
+  * 결과는 MapLibre + Tippecanoe로 인터랙티브 벡터 타일로 시각화
 
 # Python
 * 주소DB가지고놀기
