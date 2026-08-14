@@ -433,6 +433,8 @@ Artificial Intelligence
   * [스윙 고객센터, 어떻게 응답 시간을 71% 단축했나? - 1부: 게시판으로 전환](https://www.theswing.tech/cx_center_synapse_concierge_1/)
   * [스윙 고객센터, 어떻게 응답 시간을 71% 단축했나? - 2부: Synapse AI 도입](https://www.theswing.tech/cx_center_synapse_concierge_2/)
 * [챗봇 위주 AI 사용의 한계는 명확합니다 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/vibecoding20251204)
+* [AI 챗봇이 있어도 왜 콜센터 전화는 줄지 않을까? | 요즘IT](https://yozm.wishket.com/magazine/detail/3896/)
+  * AI 챗봇 도입 후에도 콜센터 문의가 줄지 않는 이유와 Hand-over(상담원 인계)·온톨로지 기반 해법 정리
 * [What’s Next for AI? OpenAI’s Łukasz Kaiser (Transformer Co-Author) - YouTube](https://www.youtube.com/watch?v=3K-R4yVjJfU)
   * [AI의 다음 혁명: OpenAI Łukasz Kaiser가 말하는 트랜스포머와 추론 모델의 미래](https://livewiki.com/ko/content/ai-openai-lukasz-kaiser)
   * [최승준 - AI의 다음 단계는 무엇인가? OpenAI의 루카스 카이저 (트랜스포머 공동 저자) 최근 트랜스포머 저자... | Facebook](https://www.facebook.com/seungjoon.choi/posts/pfbid02KTPXJnmCt5C18xbjKWYcPdhhrVTnxEhkd7h1jyv1mpMt7zDKSSjbhASZbSrGCTrWl)
@@ -5993,6 +5995,9 @@ Artificial Intelligence
 * [Amux — Bidirectional LLM API Adapter](https://www.amux.ai/)
   * [amux: Bidirectional LLM API adapter with IR pattern. Seamlessly convert between OpenAI, Anthropic, DeepSeek, and more](https://github.com/isboyjc/amux)
   * TypeScript IR 패턴으로 LLM 프로바이더 API 양방향 변환—App→Inbound Adapter(IR 파싱)→Bridge(검증)→Outbound Adapter(타겟 포맷). 8개 공식 어댑터(OpenAI/Anthropic/DeepSeek/Moonshot/Zhipu/Qwen/Gemini/MiniMax), 코어 런타임 의존성 0, 스트리밍·툴/함수 콜링. 멀티 프로바이더 앱·마이그레이션·비용 라우팅·폴백·테스팅 용도. MIT
+* [DeepSeek Harness: Everything is a Plugin](https://deepseek.com/harness/)
+  * [deepseek-harness: DeepSeek Harness (dsh) — open-source agent harness by DeepSeek AI](https://github.com/deepseek-ai/deepseek-harness)
+  * DeepSeek AI의 오픈소스 에이전트 하네스(`dsh`). "모든 것이 플러그인"인 아키텍처, Cordis(시공간 조합 가능성 프로그래밍 패러다임) 기반. `npx @deepseek-ai/dsh web`으로 웹 UI 실행(기본 127.0.0.1:3080). developer preview로 호환성 깨지는 변경 예고. TypeScript, MIT, 49k stars
 * [DeepSeek-Reasonix](https://esengine.github.io/DeepSeek-Reasonix/)
   * [DeepSeek-Reasonix: DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running](https://github.com/esengine/DeepSeek-Reasonix)
   * 멀티 프로바이더 대신 DeepSeek 단일 백엔드에 집중—prefix-cache 안정성 중심 설계로 장시간 세션에서 토큰 비용 최소화. 3 모드: `reasonix code`(파일/셸 도구), `reasonix chat`(경량), `reasonix run "task"`(파이프 1샷). SEARCH/REPLACE 리뷰 후 `/apply`. MCP(stdio/SSE/HTTP), 마크다운 스킬(.claude/skills/ 호환), 4종 메모리(user/feedback/project/reference), 라이프사이클 훅, 워크스페이스 셸 권한, semantic indexing, plan 모드, 웹 대시보드. 데스크톱 Tauri GUI(prerelease), QQ 채널. Node 22+, 유료 DeepSeek API 키 필수. `npm i -g reasonix`(또는 `dsnix`). MIT
