@@ -20,6 +20,9 @@ Time Series
 * Scaling Time Series Data Storage
   * [Part I](https://medium.com/netflix-techblog/scaling-time-series-data-storage-part-i-ec2b6d44ba39)
   * [Part II](https://medium.com/netflix-techblog/scaling-time-series-data-storage-part-ii-d67939655586)
+  * [Netflix는 1억 명의 시청 기록을 어떻게 저장할까? — Cassandra 시계열 데이터 스토리지 확장기 | 데일리한스](https://dailyhans.com/62)
+    * 1세대 "고객 1명 = 로우 1개" 모델이 데이터 폭증으로 무너져 SSTable 증가와 Compaction 비용이 급증. 2세대는 최근 데이터(LiveVH)와 압축 데이터(CompressedVH)를 분리하고 용량 초과 시 청킹으로 읽기/쓰기를 2회로 제한
+    * 3세대는 데이터 종류·나이·상세도별로 클러스터를 샤딩해 성장 속도를 격리하고 병렬 읽기로 요청 경로 최적화
 * [Challenge of the week: identifying patterns in complex time series](https://www.datasciencecentral.com/forum/topics/challenge-of-the-week-identifying-patterns-in-complex-time-series)
 * [Data-Augmentation-For-Wearable-Sensor-Data](https://github.com/terryum/Data-Augmentation-For-Wearable-Sensor-Data) A sample code of data augmentation methods for wearable sensor data (time-series data) ipynb
 * [Time, Interrupted: Measuring Intervention Effects with Interrupted Time-Series Analysis - Ben Cohen](https://www.youtube.com/watch?v=uuo8SwA1HO8)
