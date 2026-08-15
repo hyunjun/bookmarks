@@ -2597,10 +2597,20 @@ AWS
 * [Amazon SageMaker Inference –  파운데이션 모델 배포 비용과 지연 시간 감소 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/amazon-sagemaker-adds-new-inference-capabilities-to-help-reduce-foundation-model-deployment-costs-and-latency/)
 * [분산 학습을 위한 AWS 컴퓨트 선택 가이드 (1편: 모델 규모와 하드웨어 선택) | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/aws-compute-distributed-training-guide-model-scale-hardware/)
   * LLM 학습 시 "어떤 GPU를 얼마나 어떻게 확보하나" 결정 가이드. H100 vs B200, 단일 노드 vs 멀티 노드, On-Demand vs Capacity Block, EC2 클러스터 vs UltraClusters/HyperPod 선택 기준
+  * [분산 학습을 위한 AWS 컴퓨트 선택 가이드 (2편: 초대규모 스케일링과 인스턴스 확보) | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/aws-compute-distributed-training-guide-massive-scaling/)
+    * 울트라클러스터·울트라서버 두 아키텍처로 수천~수만 GPU를 하나의 고대역폭 네트워크 패브릭으로 연결하는 방법. ODCR과 Capacity Block 두 예약 전략으로 부족한 최신 GPU 인스턴스를 확보·관리하는 실무 방법
+  * [분산 학습을 위한 AWS 컴퓨트 선택 가이드 (3편: 클러스터 구축과 운영) | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/cluster-construction-and-operation/)
+    * [분산 학습을 위한 AWS 컴퓨트 선택 가이드 3편 | Sangman Cho](https://www.linkedin.com/posts/sangman-cho-a0237326_%EB%B6%84%EC%82%B0-%ED%95%99%EC%8A%B5%EC%9D%84-%EC%9C%84%ED%95%9C-aws-%EC%BB%B4%ED%93%A8%ED%8A%B8-%EC%84%A0%ED%83%9D-%EA%B0%80%EC%9D%B4%EB%93%9C-3%ED%8E%B8-%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0-%EA%B5%AC%EC%B6%95%EA%B3%BC-%EC%9A%B4%EC%98%81-share-7493437860809936896-sayi/)
+    * Enroot·Pyxis 컨테이너 기반 환경 구축과 Slurm 스케줄러 연동으로 전 노드 소프트웨어 일관성 확보. 클러스터 구성 전 리전·용량 확보 전략·운영 플랫폼 선택 정리, 노드 장애 자동 복구·통신 병목 해결 등 반복되는 현장 문제 대응 전략
+  * [High Performance Computing | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/category/high-performance-computing/)
 * [Amazon SageMaker HyperPod – 대규모 분산 학습을 위한 인프라 기능 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/introducing-amazon-sagemaker-hyperpod-a-purpose-built-infrastructure-for-distributed-training-at-scale/)
 * [AWS SageMaker HyperPod (w. EKS) 도입기](https://dev-ryuon.tistory.com/120)
 * [Amazon SageMaker HyperPod로 슈퍼브에이아이의 비전 파운데이션 모델 'ZERO' 효율적으로 대규모 분산 학습하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/amazon-sagemaker-hyperpod-superbai-zero-foundation-model/)
 * [생성형 AI를 위한 Amazon SageMaker Endpoint 기반 임베딩 모델 배포 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/deploying-embedding-model-on-sagemaker-endpoint-for-genai/)
+* [SageMaker AI에서 인코더 모델 서빙하는 방법의 종합 가이드 | Daekeun Kim](https://daekeun-ml.github.io/encoder-serving-sagemaker/)
+  * [encoder-serving-sagemaker: Benchmarked comparison of 5 serving patterns for Transformer encoder models (BERT-style classification, NLI) on Amazon SageMaker AI — ONNX CPU, multi-container, inference component, LMI, scale-to-zero](https://github.com/daekeun-ml/encoder-serving-sagemaker)
+  * [SageMaker AI에서 인코더 모델 서빙하는 방법 | Daekeun Kim](https://www.linkedin.com/posts/daekeun-kim_aws-sagemaker-modelserving-share-7492710169731035136-FD_z/)
+  * BERT 계열 인코더 모델을 SageMaker에 배포하는 7가지 방식을 직접 구현해 latency·throughput·비용을 동일 조건에서 비교. CPU 58ms, GPU 단일 26.8ms, Triton 15.4ms 등 구체적 측정 결과와 각 방식의 장단점, 34개 트러블슈팅 사례와 재현 가능한 코드 포함
 * [GenAI 모델 배포를 위한 툰스퀘어의 Amazon SageMaker 활용 사례 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/usecase-amazon-sagemaker-for-genai-model-deployment/)
 * [Amazon SageMaker 기반 완전 관리형 MLflow 정식 출시 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/manage-ml-and-generative-ai-experiments-using-amazon-sagemaker-with-mlflow/)
 * [AWS ParallelCluster와 Amazon SageMaker를 이용한 바이옴에이츠의 미생물 복합 균주 개발 사례 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/aws-parallelcluster-and-amazon-sagemaker-to-develop-its-microbial-complex/)
