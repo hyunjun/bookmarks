@@ -74,6 +74,10 @@ English
 * [jargonism.com](http://jargonism.com/)
 * [lang-8.com](http://lang-8.com/)
 * [learn.livemocha.com](https://learn.livemocha.com)
+* [Ludwig • Find your English sentence](https://ludwig.guru/)
+  * [이빈 - 일반인들이 잘 모르는 영어 공부 도구 Ludwig.guru | Facebook](https://www.facebook.com/BinLeeMasterClass/posts/pfbid0FPy1PjCtSHac234Li8zuCecBY74N88dpUyc38Vt66mnH1w87RfBk9KyLJZyFEhQRl)
+  * 뉴욕타임스·BBC·가디언·이코노미스트 등 신뢰할 수 있는 언론·학술지 문장에서 영어 표현을 검색하는 문장 검색 엔진. VS로 두 표현의 사용 비율을 그래프로 비교, 언더바(_)로 문맥에 맞는 동의어 추천, 한국어로 입력하면 번역 후 원어민 사용 맥락의 예문 확인
+  * 자동 교정 대신 실제 예문의 패턴 인식을 유도하는 귀납적 학습. 검색 문법 5가지: VS, *, _, 대괄호, 한국어 기본 입력
 * [memrise](https://www.memrise.com/)
 * [mylanguageexchange.com](http://mylanguageexchange.com/)
 * [youglish.com](https://youglish.com/) 실제 쓰이는 영어의 발음을 바로 검색해서 확인
