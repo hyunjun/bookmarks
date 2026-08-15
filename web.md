@@ -1400,6 +1400,10 @@ Web
 * [DHTMLX](http://docs.dhtmlx.com/)
 * [DiceBear | Open Source Avatar Library](https://www.dicebear.com/)
   * [DiceBear - 무료 아바타 이미지 생성 라이브러리 | GeekNews](https://news.hada.io/topic?id=25227)
+* [Bible Strong Avatar Lab](https://avatars.bible-strong.app/)
+  * [bible-strong-avatar-lab: Browser-based authoring studio for procedural 2D avatars](https://github.com/smontlouis/bible-strong-avatar-lab)
+  * 3D 영감 지오메트리 + SVG 렌더링으로 절차적 2D 아바타를 만드는 브라우저 저작 스튜디오. 바디 지오메트리·눈·색상으로 중립 외형 정의 → 표정(expression) 프리셋 → 타임라인에 배치한 애니메이션(loop/play-once/ping-pong, 자동 눈 깜빡임) 구성
+  * 계정·백엔드 없이 전부 브라우저에서 실행되고 프로젝트는 로컬 스토리지 저장(JSON export/import로 이동). 내보내기는 React 패키지, 프레임워크 없는 JS/HTML 패키지, SVG/PNG 스냅샷(투명·단색·그라디언트 배경). 아바타별 behavior 라이브러리 copy-on-write. 영어·프랑스어·중국어 UI. TypeScript
 * [EmDash - WordPress의 정신적 후속작](https://blog.cloudflare.com/emdash-wordpress/)
   * [EmDash - 플러그인 보안 문제를 해결한 WordPress의 정신적 후속작 | GeekNews](https://news.hada.io/topic?id=28111)
   * Cloudflare의 오픈소스 CMS. TypeScript+서버리스 아키텍처로 WordPress 재설계. 플러그인을 격리 샌드박스에서 실행하여 보안 문제 96% 차단, x402 결제 표준 내장
@@ -1427,6 +1431,11 @@ Web
   * [Hurl - 웹기반 HTTP Req 테스트 도구 | GeekNews](https://news.hada.io/topic?id=4250)
 * [HyperDev is the developer playground for building real web apps, fast](https://hyperdev.com/)
   * [Introducing HyperDev](http://joelonsoftware.com/items/2016/05/30.html)
+* [Instatic — Own your website](https://instatic.com/)
+  * [Instatic: The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages](https://github.com/CoreBunch/Instatic)
+  * [Instatic - Webflow, Framer, WordPress를 대체하는 오픈소스 셀프호스팅 비주얼 CMS | GeekNews](https://news.hada.io/topic?id=32372)
+  * 단일 Bun 서버 하나에 에디터·콘텐츠 API·미디어·인증·플러그인·호스팅·폼·애널리틱스를 모두 담은 셀프호스팅 비주얼 CMS. 발행하면 시맨틱 HTML+압축 CSS 정적 파일이 자기 서버에 저장되어 언제든 다른 호스트로 이동 가능
+  * 실제 캔버스 에디터로 여러 브레이크포인트 동시 편집, 모듈을 드래그해 재사용 컴포넌트 생성, AI 에이전트가 설명만으로 노드 편집, 플러그인은 QuickJS-WASM 샌드박스에서 실행. TypeScript, MIT, 8k stars
 * [Jet - Lightweight, Realtime Message Bus for the Web](http://jetbus.io/)
 * [LaunchKit — free template for devtool landing pages](https://launchkit.evilmartians.io/)
   * [devtool-template: Free free template for dev tools](https://github.com/evilmartians/devtool-template)
