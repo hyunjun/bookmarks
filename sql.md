@@ -499,6 +499,9 @@ SQL
   * [Introducing Amazon Aurora DSQL | AWS Database Blog](https://aws.amazon.com/ko/blogs/database/introducing-amazon-aurora-dsql/)
   * [Concurrency control in Amazon Aurora DSQL | AWS Database Blog](https://aws.amazon.com/ko/blogs/database/concurrency-control-in-amazon-aurora-dsql/)
   * [AWS가 SQL DB의 한계를 부셔버렸네요. Serverless SQL DB 서비스 : Aurora DSQL을 소개합니다. - YouTube](https://www.youtube.com/watch?v=TGQuSrePOPU)
+* [963초짜리 쿼리 하나가 HLL 205만까지 끌어올렸습니다 | 아임웹 기술블로그](https://tech.imweb.me/posts/aurora-hll-snapshot-lifetime/)
+  * Aurora에서 단일 장기 쿼리가 유지한 읽기 스냅샷이 정리되지 못한 undo 로그를 쌓아 History List Length가 205만까지 급증한 사례. Read Committed도 963초짜리 statement는 그만큼 스냅샷을 유지하므로 근본 해결이 아니었음
+  * 단일 조회를 1만 건씩 청크로 분할해 각 스냅샷 수명을 단축하고 조회를 리더 복제본으로 이동시켜 해결
 
 # Book
 * [SQL 전문가 되어보기](https://wikidocs.net/book/159)
@@ -561,6 +564,10 @@ SQL
   * [Bytebase - 웹 기반 DB스키마 변경 및 버전 관리도구 오픈소스 | GeekNews](https://news.hada.io/topic?id=4793)
 * [ChartDB - Database schema diagrams visualizer](https://chartdb.io/)
   * [ChartDB - 무료/오픈소스 DB 디자인 편집기 | GeekNews](https://news.hada.io/topic?id=16518)
+* [Chat2DB - AI-driven database client and SQL workspace](https://chat2db.ai/)
+  * [Chat2DB: free, cross-platform, local-first database client and SQL workspace](https://github.com/OtterMind/Chat2DB)
+  * [Chat2DB, AI와 SQL 워크스페이스를 결합한 데이터베이스 클라이언트 | digitalbourgeois](https://digitalbourgeois.tistory.com/3509)
+  * 로컬 우선 크로스 플랫폼 DB 클라이언트+SQL 워크스페이스. 40+ DB 연결, 자체 AI 모델로 자연어 SQL 생성·설명·최적화, 메타데이터 탐색·임포트/익스포트·대시보드 차트, AES-256-GCM으로 연결정보 암호화. 데스크톱/웹/Docker/CLI, MCP 지원. Java, 28k stars
 * [cozo: A general-purpose, transactional, relational database that uses Datalog and focuses on graph data and algorithms](https://github.com/cozodb/cozo)
 * [dataherald: Interact with your SQL database, Natural Language to SQL using LLMs](https://github.com/Dataherald/dataherald)
   * [Dataherald - 자연어-to-SQL 엔진, 전체 오픈소스로 전환 | GeekNews](https://news.hada.io/topic?id=15008)
@@ -1548,6 +1555,10 @@ SQL
   * [Postgres 19 프로퍼티 그래프 이해하기: 관계형 데이터를 그래프처럼 조회하는 SQL/PGQ | digitalbourgeois](https://digitalbourgeois.tistory.com/3386)
   * [relational-deep-learning-with-pg19: trying to see if RDL works with PG19 property graphs](https://github.com/neovintage/relational-deep-learning-with-pg19)
   * Postgres 19의 SQL/PGQ 프로퍼티 그래프 기능 설명. 데이터를 그래프 DB로 옮기지 않고 기존 관계형 스키마를 그래프 관점으로 해석하는 선언적 기능—MATCH 문법으로 그래프 패턴 질의, 옵티마이저·인덱스·통계 그대로 활용. 테이블이 vertex이자 edge가 될 수 있음. 연계 실험 레포는 관계형 딥러닝(RDL)을 PG19 프로퍼티 그래프에 적용
+* [모놀리식의 종말: PostgreSQL 18과 쿠버네티스 동적 확장 모듈 | EDB Korea](https://edbkorea.com/blog/postgresql-18-dynamic-extensions-kubernetes-cloud-native/)
+  * [모놀리식의 종말: PostgreSQL 18과 쿠버네티스 동적 확장 모듈 | 박상길](https://www.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_%EB%AA%A8%EB%86%80%EB%A6%AC%EC%8B%9D%EC%9D%98-%EC%A2%85%EB%A7%90-postgresql-18%EA%B3%BC-%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4-%EB%8F%99%EC%A0%81-%ED%99%95%EC%9E%A5-%EB%AA%A8%EB%93%88-share-7493150160340811776-CY2h/)
+  * PostgreSQL 18의 `extension_control_path` 설정과 Kubernetes 1.33 ImageVolume을 결합해 불변성을 유지하면서 확장 모듈을 동적 로드. 확장 모듈을 독립 OCI 이미지로 패키징해 모놀리식 DB 이미지와 분리—배포 시간을 수주에서 수분으로 단축
+  * CloudNativePG 오퍼레이터가 선언적으로 확장 모듈을 관리해 AI/벡터 서비스 같은 현대적 워크로드의 엔터프라이즈 운영 효율 개선
 * Vacuum
   * [베큠(VACUUM)을 실행해야되는 이유 그리고 성능 향상](http://blog.gaerae.com/2015/09/postgresql-vacuum-fsm.html)
   * [Visualizing PostgreSQL Vacuum Progress](http://dtrace.org/blogs/dap/2019/05/22/visualizing-postgresql-vacuum-progress/)
