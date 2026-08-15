@@ -169,12 +169,6 @@ Ruby
 * [Rails GraphQL authentication from scratch Series' Articles - DEV Community](https://dev.to/alec/series/24739)
 * [루비 온 레일즈 소식지 | K리그 프로그래머](https://jeho.page/essay/2024/07/09/rails-news-letter.html)
 * [Gumroad 가 rails 를 버리기로 결정 | GeekNews](https://news.hada.io/topic?id=17059)
-* Sidekiq [사이드킥 큐에서 태스크나 예약작업 삭제하기](https://www.44bits.io/ko/post/deleting-sidekiq-scheduled-job)
-* [Trilogy is a client library for MySQL-compatible database servers, designed for performance, flexibility, and ease of embedding](https://github.com/github/trilogy)
-  * [Introducing Trilogy: a new database adapter for Ruby on Rails | The GitHub Blog](https://github.blog/2022-08-25-introducing-trilogy-a-new-database-adapter-for-ruby-on-rails/)
-    * GitHub가 내부에서 Ruby on Rails로 사용하는 MySQL 호환 데이터베이스의 Active Record 클라이언트 라이브러리인 Trilogy를 오픈소스로 공개
-    * Trilogy는 Ruby VM 같은 환경에 임베딩해서 효율적으로 동작하도록 작성
-    * GitHub의 성능과 신뢰성을 개선하기 위해 2015년부터 사용
 * [The Plan for Rails 8 · The Ruby Dispatch](https://fly.io/ruby-dispatch/the-plan-for-rails-8/)
   * Rails 8 웹프레임워크 계획 공개, 최신 웹 앱의 복잡성을 압축해서 웹 앱을 더 쉽게 구축한다는 Rails의 모토를 여전히 유지
   * NVMe SSD로 데이터베이스가 훨씬 빨라짐에 따라 Solid Cache와 Solid Queue를 통해 기존 Redis에 의존하던 캐싱/백그라운드 작업 대체, 데이터베이스 사용
@@ -184,6 +178,15 @@ Ruby
   * 그외에도 Kamal 배포도구, HTTP 기본 인증 생성기, 벤치마크 도구, Rails 8의 Language Server 등의 도구 포함 예정
 * [1인 개발자를 위한 완벽한 프레임워크, 루비온레일즈 8, Windsurf/Cursor와 완벽한 궁합 - YouTube](https://www.youtube.com/watch?v=ByW7MuZmicM)
 * [Rails 8이 PostgreSQL 대신 SQLite를 권하는 진짜 이유 - YouTube](https://www.youtube.com/watch?v=TFASrm63wYc)
+* [Rails는 DHH 없이도 Rails일 수 있을까 | GeekNews](https://news.hada.io/article/rails-without-dhh)
+  * DHH와의 분리를 시도하는 커뮤니티 주도 포크 Amiko의 등장. 2021년 Basecamp 사태 이후 DHH의 정치적 발언, 2025년 Ruby Central의 RubyGems/Bundler 강제 인수로 거버넌스 신뢰가 붕괴된 배경
+  * 기술적 불만이 아닌 거버넌스·가치관의 분리를 추구하는 포크이며, Rails가 이미 충분히 "완성됐기 때문에" 포크가 가능하다는 분석
+* Sidekiq [사이드킥 큐에서 태스크나 예약작업 삭제하기](https://www.44bits.io/ko/post/deleting-sidekiq-scheduled-job)
+* [Trilogy is a client library for MySQL-compatible database servers, designed for performance, flexibility, and ease of embedding](https://github.com/github/trilogy)
+  * [Introducing Trilogy: a new database adapter for Ruby on Rails | The GitHub Blog](https://github.blog/2022-08-25-introducing-trilogy-a-new-database-adapter-for-ruby-on-rails/)
+    * GitHub가 내부에서 Ruby on Rails로 사용하는 MySQL 호환 데이터베이스의 Active Record 클라이언트 라이브러리인 Trilogy를 오픈소스로 공개
+    * Trilogy는 Ruby VM 같은 환경에 임베딩해서 효율적으로 동작하도록 작성
+    * GitHub의 성능과 신뢰성을 개선하기 위해 2015년부터 사용
 
 # TDD, Test
 * [factory_bot: A library for setting up Ruby objects as test data](https://github.com/thoughtbot/factory_bot)
