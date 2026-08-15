@@ -1449,6 +1449,10 @@ NLP
     * 블룸 분류(지식, 적용, 분석) 수준에 맞는 문항 생성에서, 정의, 행동동사를 명시한 상세 프롬프트(A)가 정렬 96%로 압도적이고 단순(B) 60%, 페르소나(C) 40%로 최악
     * 세 방식 모두 문항의 명확성, 관련성은 높았지만, 단순 프롬프트는 목표보다 어려운 문항을 만드는 인지적 과잉(overshooting) 유발
     * 페르소나 프롬프트는 ‘노련한 교수’ 신호가 복잡성 증가로 해석되어 낮은 수준 요청을 덮어버렸고, 실무적으로는 UI가 단순해도 백엔드에 구조화된 명시적 지시를 넣는 것이 효과적
+* [2608.09867 Stealing Reasoning Traces from Proprietary LLM APIs](https://arxiv.org/abs/2608.09867)
+  * [Dongsoo Lee - AI 추론 과정 도용 논문 분석 | Facebook](https://www.facebook.com/dongsoo.lee.104/posts/pfbid0iqvSY1ydH4nVxXn3sT9bLtj5ahSJdcn9EoVxaeE56RqGUM36K7q4Pqaw5sMvMF7Xl)
+  * OpenAI·Anthropic·Google이 암호화해 숨긴 reasoning trace를 추출하는 취약점. 암호화 블록이 모델 간 호환되는 구조적 결함을 이용해 약한 모델에 주입하면 평문으로 복호화—모델 추출, 개인정보·API 키 유출, 숨겨진 위험 정보 노출, 프롬프트 인젝션 4가지 공격 벡터 실증
+  * 추출한 Claude의 추론을 Kimi K3에 넣었을 때 자연스럽게 이어 쓰는 현상이 관찰되어 "Kimi가 Claude를 모방했나" 추측이 돌았지만 저자들은 직접적 증거가 아니라고 명시. 시사점은 Agentic AI에서 숨겨진 reasoning이 오히려 더 큰 보안 위협이 될 수 있다는 역설
 * [Agenta - Prompt Management, Evaluation, and Observability for LLM apps](https://agenta.ai/)
   * [agenta: The all-in-one LLM developer platform: prompt management, evaluation, human feedback, and deployment all in one place](https://github.com/Agenta-AI/agenta)
 * [Arch - Intelligent Prompt Gateway](https://archgw.com/)
@@ -2336,6 +2340,9 @@ NLP
 * [OpenAI will Transform Data Science - Here's How - YouTube](https://www.youtube.com/watch?v=NBseu9f3P5U) function calling
 * [Function Calling 연쇄 호출 테스트](https://aifactory.space/task/8841/discussion/4172)
 * [LLM Function Calling에 대한 요약](https://sturdy-mink-c2f.notion.site/LLM-Function-Calling-1a8020f4210280838773ccaf52c2be46)
+* [LLM이 어떤 API를 호출할지, 이제 서버가 아니라 AI가 결정합니다 (Function Calling) - YouTube](https://www.youtube.com/shorts/41wgfOix228)
+  * 2분코딩. Function Calling은 API 호출 결정권을 클라이언트에서 LLM으로 옮기는 패턴. description이 AI 판단 근거가 되고 enum과 명확한 네이밍이 정확도를 좌우
+  * Tool이 많아지면 정확도가 급락해 REST의 리소스 분리 원칙과 Tool Use의 최소화 원칙이 충돌하는 설계 딜레마 발생
 * [Ines Montani (spaCy) - Large Language Models from Prototype to Production PyData Südwest - YouTube](https://www.youtube.com/watch?v=UbPuen-rlDk) spaCy, Prodigy
 * [A Hackers' Guide to Language Models - YouTube](https://www.youtube.com/watch?v=jkrNMKz9pWU)
 * [Large Language Models (in 2023) - YouTube](https://www.youtube.com/watch?v=dbo3kNKPaUA)
@@ -3052,6 +3059,9 @@ NLP
 * [FlowiseAI - Build LLMs Apps Easily](https://flowiseai.com/)
   * [Flowise: Drag & drop UI to build your customized LLM flow](https://github.com/FlowiseAI/Flowise)
   * [Did you know you can build a functional LLM app that uses LangChain, OpenAI, and soon any model on Hugging Face without coding and within minutes?](https://www.linkedin.com/posts/sahar-mor_did-you-know-you-can-build-a-functional-llm-activity-7095044049841115137-BdnO/)
+* [frontier-moe-serving-benchmark: Serving and benchmarking 9 frontier MoE checkpoints (490 GiB+) with vLLM on a single 8x B200 node, plus a pre-download HBM fit checker](https://github.com/daekeun-ml/frontier-moe-serving-benchmark)
+  * [2026년 4~7월 공개 프론티어 MoE 9종을 8x B200 단일 노드 vLLM으로 서빙·벤치마크 | Daekeun Kim](https://www.linkedin.com/posts/daekeun-kim_aws-llminference-vllm-share-7493909499871924224-JO6B/)
+  * GLM-5.2, DeepSeek-V4-Pro, MiMo-V2.5-Pro, Ring-2.6, Nemotron-3-Ultra, SKT A.X-K2, LG K-EXAONE-2.0 등 9종의 서빙 방법·메모리 사용량·벤치마크. 파라미터 수만으로는 GPU 메모리 예측이 어려움(1.6T DeepSeek-V4-Pro와 743B GLM-5.2의 메모리 차이가 14% 수준). HF 모델 ID로 RTX 6000 Pro/A100/H100/H200/B200/B300 필요 GPU 수 계산 도구 포함
 * [Fuzz4All: Universal Fuzzing with Large Language Models](https://fuzz4all.github.io/)
 * [GLM-4.6V - Z.AI DEVELOPER DOCUMENT](https://docs.z.ai/guides/vlm/glm-4.6v)
   * [🤖 GLM-4.6V: 혁신적인 멀티모달 AI 모델 분석 및 가이드](https://fornewchallenge.tistory.com/entry/%F0%9F%A4%96-GLM-46V-%ED%98%81%EC%8B%A0%EC%A0%81%EC%9D%B8-%EB%A9%80%ED%8B%B0%EB%AA%A8%EB%8B%AC-AI-%EB%AA%A8%EB%8D%B8-%EB%B6%84%EC%84%9D-%EB%B0%8F-%EA%B0%80%EC%9D%B4%EB%93%9C)
@@ -3158,6 +3168,10 @@ NLP
     * [Kimi K3 - How to Run Locally | Unsloth Documentation](https://unsloth.ai/docs/models/kimi-k3)
       * [Unsloth AI on X](https://x.com/UnslothAI/status/2082463988953367031)
       * Unsloth의 Kimi K3 로컬 실행 가이드. quant 버전을 로컬 환경에서 구동하는 방법
+    * [Building Kimi K3 (2.8T model) in C to run on 8GB RAM | Level Up Coding](https://levelup.gitconnected.com/building-kimi-k3-2-8t-model-in-c-to-run-on-8gb-ram-a5792cbf3b59)
+      * [kimi-k3-in-c: A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU](https://github.com/FareedKhan-dev/kimi-k3-in-c)
+      * [2.78조 파라미터 AI 모델을 8GB RAM에서 실행하는 방법, Kimi K3 in C의 구조와 핵심 기술 | digitalbourgeois](https://digitalbourgeois.tistory.com/3504)
+      * 1.56TB 모델을 메모리에 올리는 대신 Dense trunk와 Routed Expert를 분리해 저장장치에서 스트리밍—Expert 4-bit 처리, KDA로 어텐션 메모리 억제, MLA로 어텐션 표현 축소. RAM 크기와 무관하게 출력 동일(RAM이 크면 속도만 향상). 초대형 모델 실행에서 메모리 용량보다 데이터 배치 전략이 중요함을 보여줌. C99, BLAS·프레임워크·GPU 불필요
   * [Kimi-Linear](https://github.com/MoonshotAI/Kimi-Linear)
     * [2510.26692 Kimi Linear: An Expressive, Efficient Attention Architecture](https://arxiv.org/abs/2510.26692)
     * [와.. 이 논문 정말 뜨겁습니다. Moonshot AI에서 공개한 Kimi Linear가 주목받고 있습니다. Kimi Linear는 기존의 full attention와 linear attention과 결합한 하이브리드 방식을 사용하는 것이 특징인데요. 핵심은 Kimi Delta Attention(KDA) 구조로, 채널 단위로 작동해 메모리 효율을 높이면서 성능 저하 없이 최대 6.3배 빠른 디코딩과 75% 적은 메모리 사용량(KV 캐시 기준)을 실현한 점입니다. 예를 들어, 1백만 토큰 디코딩 길이에서 기존 full attention 대비 6.3배 빠르게 디코딩하면서도, MMLU-Pro 성능은 51.0으로 full attention(MLA 모델, 47.2점)보다 높습니다. 기존 선형linear attention은 품질이 떨어져 주류에서 멀어졌지만, Kimi Linear는 속도와 품질 모두를 확보하며 실사용 가능한 수준에 도달한 것으로 보입니다.](https://www.threads.com/@choi.openai/post/DQmJi0Bj44E/%EC%99%80-%EC%9D%B4-%EB%85%BC%EB%AC%B8-%EC%A0%95%EB%A7%90-%EB%9C%A8%EA%B2%81%EC%8A%B5%EB%8B%88%EB%8B%A4moonshot-ai%EC%97%90%EC%84%9C-%EA%B3%B5%EA%B0%9C%ED%95%9C-kimi-linear%EA%B0%80-%EC%A3%BC%EB%AA%A9%EB%B0%9B%EA%B3%A0-%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4kimi-linear%EB%8A%94-%EA%B8%B0%EC%A1%B4%EC%9D%98-full-att?hl=ko)
@@ -5814,6 +5828,8 @@ NLP
   * [이 말투로 TTS를 만들면 어떻게 될까 - YouTube](https://www.youtube.com/watch?v=bYxwtLvFNRI)
 * [Handy](https://handy.computer/)
   * [Handy: A free, open source, and extensible speech-to-text application that works completely offline](https://github.com/cjpais/Handy)
+  * [음성 입력(Speech to Text) 앱에 돈 쓰지 마세요 | Ryan JS Han](https://www.linkedin.com/posts/ryan-js-han_%EC%9D%8C%EC%84%B1-%EC%9E%85%EB%A0%A5speech-to-text-%EC%95%B1%EC%97%90-%EB%8F%88-%EC%93%B0%EC%A7%80-%EB%A7%88%EC%84%B8%EC%9A%94-%EC%9A%94%EC%A6%98-%EB%8C%80%ED%98%95-ugcPost-7491847981533384704-ZdSc/)
+    * 여러 프로젝트를 동시에 진행하며 타자 속도가 병목이 되어 찾은 최적 조합—무료 오픈소스 Handy + Qwen3-ASR 1.7B 모델. 한국어 인식 성능이 우수해 해당 글의 90%를 Handy로 작성하고 줄바꿈·특수문자만 손으로 후처리
 * [Hound Internal Demo](https://www.youtube.com/watch?v=M1ONXea0mXg)
   * [숨쉬기 힘들 때까지 말해도…놀라운 음성인식엔진](http://techholic.co.kr/archives/35360)
 * [icefall](https://github.com/k2-fsa/icefall)
