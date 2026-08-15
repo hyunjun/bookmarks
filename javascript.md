@@ -3125,6 +3125,11 @@ Javascript
     * pnpm은 이 모두 파일에 쓰는 성능 문제를 해결하기 위해 모두 쓰지 않고 alias를 만들어서 연결
     * yarn은 Plug'n'Play 방식을 사용해서 `.pnp.cjs` 파일에 JavaScript Map으로 의존성을 찾는 방법을 명시해서 훨씬 빠르고 정확하게 동작
   * Toss는 Yarn의 좋은 아키텍처, 정확성과 성능 때문에 Yarn을 선택
+  * [모노리포 희망편, 절망의 리포가 희망의 리포로 부활하기까지 걸린 1년 | 토스 기술 블로그](https://toss.tech/article/52209)
+    * [패키지 매니저의 과거, 토스의 선택, 그리고 미래 | Yunsup Sim](https://www.linkedin.com/posts/pedogunu_%ED%8C%A8%ED%82%A4%EC%A7%80-%EB%A7%A4%EB%8B%88%EC%A0%80%EC%9D%98-%EA%B3%BC%EA%B1%B0-%ED%86%A0%EC%8A%A4%EC%9D%98-%EC%84%A0%ED%83%9D-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EB%AF%B8%EB%9E%98-activity-7492723969075286017-tV1M)
+      * 96MB→15MB는 Yarn PnP 링커 특화 지표라 node_modules 방식과 직접 비교가 불가능하다는 지적. 토스가 Yarn을 고른 이유는 성능뿐 아니라 플러그인 확장성(디자인 시스템 로깅 추가 시 라이브러리 코드 수정 없이 설치 단계에 개입해 패키지 변환). 타사 블로그 수치는 그들의 스택에서만 가능한 결과인지 구분해서 읽어야 함
+    * 100명+ 프론트엔드 엔지니어가 쓰는 모노리포에서 서비스마다 라이브러리 버전이 달라 의존성 설치가 느리고 개발 환경이 파편화된 문제. 표준 버전을 "카탈로그"로 정의해 모든 서비스가 동일 버전을 참조하도록 통일하고 월별 버전 관리로 안정성 확보
+    * 의존성 파일 크기 84% 감소, 설치 시간 52% 단축, 플랫폼 라이브러리 업데이트가 신뢰할 수 있는 과정으로 변화
 * [How we shrunk our Javascript monorepo git size by 94%](https://www.jonathancreamer.com/how-we-shrunk-our-git-repo-size-by-94-percent/)
   * [(번역) 자바스크립트 모노레포의 깃 용량을 94% 줄인 방법 | emewjin.log](https://emewjin.github.io/git-repo-size/)
 * [종결자는 누구? - YouTube](https://www.youtube.com/watch?v=THYI_JdmQqQ)
