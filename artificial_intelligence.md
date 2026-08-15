@@ -6015,10 +6015,12 @@ Artificial Intelligence
   * 여러 AI 코딩 에이전트를 격리된 git worktree에서 병렬 관리. 브랜치·개발·머지를 동시에
 * [Herdr — one terminal for the whole herd](https://herdr.dev/)
   * [herdr](https://github.com/ogulcancelik/herdr)
+  * 터미널 네이티브 에이전트 런타임. tmux 스타일 세션 영속+에이전트 인지 멀티플렉서. 실제 PTY 패널(채팅 UI 래핑 X), 마우스 클릭 가능 TUI, 시맨틱 상태 추적("blocked/working/done"), CLI+NDJSON 소켓 API로 에이전트가 패널 생성·명령 실행·상태 대기 가능. 로컬/SSH/원격 thin client, 모바일 SSH 반응형. 단일 Rust 바이너리(Linux/macOS). Claude Code·Codex·OpenCode·Gemini CLI·Grok CLI 호환
   * [Herdr - AI Agent 시대를 위한 tmux 스타일 터미널 워크스페이스 | GeekNews](https://news.hada.io/topic?id=29738)
   * [이제 tmux 대신 herdr 쓰세요. 강력추천합니다. with Claude Code - YouTube](https://www.youtube.com/watch?v=-dlYljXtYHQ)
     * StefanCho. 5년 쓴 tmux를 코딩 에이전트 시대에 맞춘 herdr로 갈아탄 과정. 설치·개념(Workspace/Tab/Pane), Claude Code·Codex 에이전트 상태(idle·working·blocked)를 한 화면에서 관리(20분)
-  * 터미널 네이티브 에이전트 런타임. tmux 스타일 세션 영속+에이전트 인지 멀티플렉서. 실제 PTY 패널(채팅 UI 래핑 X), 마우스 클릭 가능 TUI, 시맨틱 상태 추적("blocked/working/done"), CLI+NDJSON 소켓 API로 에이전트가 패널 생성·명령 실행·상태 대기 가능. 로컬/SSH/원격 thin client, 모바일 SSH 반응형. 단일 Rust 바이너리(Linux/macOS). Claude Code·Codex·OpenCode·Gemini CLI·Grok CLI 호환
+  * [herdr is a must use - YouTube](https://www.youtube.com/watch?v=2CR9tDNAzB0)
+    * Academind. 에이전틱 워크플로우 구동에 특화된 터미널 멀티플렉서. tmux보다 단순하면서 여러 AI 에이전트 작업을 병렬로 몰아주는(herd) 데 강점
   * [awesome-herdr: A curated guide to the Herdr ecosystem — tools, workflows, configs, clients, skills, and integrations](https://github.com/yigitkonur/awesome-herdr)
 * [entroly — Self-Evolving Daemon](https://juyterman1000.github.io/entroly/)
   * [entroly: Compress 2M-token repos into a razor-sharp Principal Engineer context. 85-99% fewer tokens, 100% accuracy retention](https://github.com/juyterman1000/entroly)
