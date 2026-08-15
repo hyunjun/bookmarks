@@ -408,6 +408,10 @@ Artificial Intelligence
 * [AI is removing the middle class of software engineering | Florian Herrengt](https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html)
   * [AI가 소프트웨어 엔지니어링의 중산층을 제거하고 있음 | GeekNews](https://news.hada.io/topic?id=32441)
   * AI로 코드 생성 속도는 극도로 빨라졌지만 이해·리뷰 속도는 그대로라 품질 악화가 가속. 급여가 양극화되어 우수한 엔지니어는 더 가치 있어지고 평범한 엔지니어는 대체 가능해짐. 문제는 AI 자체가 아니라 이해 없이 생산량만 늘리는 사용 방식이 시스템을 유지보수 불가능하게 만드는 것
+* [Nothing Works and Everyone Is Euphoric | ptrchm](https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/)
+  * [AI로 코딩은 빨라졌는데, 왜 소프트웨어는 점점 나빠지는가 | digitalbourgeois](https://digitalbourgeois.tistory.com/3499)
+  * AI로 개발 속도가 올라갔는데도 은행 앱 중복 인증, Slack 포커스 탈취, 자동차 인포테인먼트 오류 같은 기본적인 문제는 오히려 늘어나는 역설. 기업이 KPI 중심으로 AI로 얻은 생산성을 버그 수정·안정성보다 새 기능 추가에 배분하기 때문
+  * "얼마나 많은 코드를 만들었는가"보다 "사용자가 얼마나 안정적으로 쓸 수 있는가"가 핵심—생산성 향상보다 그것을 어디에 쓸지 정하는 우선순위가 더 중요. 저자는 비관적이지만 개인 개발자가 AI로 더 나은 소프트웨어를 만들 기회는 기대
 * [시속 300km를 달리는 AI 와 함께 개발한다는 것은](https://www.linkedin.com/pulse/%EC%8B%9C%EC%86%8D-300km%EB%A5%BC-%EB%8B%AC%EB%A6%AC%EB%8A%94-ai-%EC%99%80-%ED%95%A8%EA%BB%98-%EA%B0%9C%EB%B0%9C%ED%95%9C%EB%8B%A4%EB%8A%94-%EA%B2%83%EC%9D%80-jin-hyung-park-sigrid-jin--rsfkc) 빠른 속도를 감당하려면 배포 주기와 피드백 루프가 빨라야 한다
 * [퇴근 후 1억이 거래되는 서비스 만들기 | 내가 AI를 사용하는 방법 - Speaker Deck](https://speakerdeck.com/maryang/toegeun-hu-1eogi-georaedoeneun-seobiseu-mandeulgi-naega-aireul-sayonghaneun-bangbeob)
   * [퇴근 후 1억이 거래되는 서비스 만들기 | 내가 AI를 사용하는 방법 - YouTube](https://www.youtube.com/watch?v=uu1DcnHDFGo)
@@ -1632,6 +1636,8 @@ Artificial Intelligence
 * [Agentic Engine Optimization (AEO)](https://addyosmani.com/blog/agentic-engine-optimization/)
   * [에이전틱 엔진 최적화 (AEO) | GeekNews](https://news.hada.io/topic?id=28588)
   * AI 코딩 에이전트가 문서를 효과적으로 활용하도록 콘텐츠를 구조화하는 새 패러다임. robots.txt, llms.txt, skill.md 등 6계층 구현
+* [AI한테 마크다운으로 인수인계시키는 지금 방식은, 색소폰을 글로 배우는 것과 같다 | Gallery X](https://x.com/realgalleryx/status/2085874917984387571)
+  * Dwarkesh Patel의 "지속학습 시대의 8가지 예측" 도입부 우화 소개—색소폰을 처음 보는 학생이 실패하고 노트를 남기면, 다음 학생이 그 노트를 읽고 또 실패하고 노트를 보탬. 마크다운 파일로 에이전트에 컨텍스트를 인수인계하는 현재 방식의 한계를 짚는 비유
 * [2507.13334 A Survey of Context Engineering for Large Language Models](https://arxiv.org/abs/2507.13334)
   * [‘Context Engineering’을 주제로 한 160페이지가 넘는 리서치 서베이](https://www.linkedin.com/posts/jaeyunhenrylee_%EC%99%80%EC%9A%B0-%EB%8C%80%EB%B0%95-%EA%B6%81%EA%B8%88%ED%96%88%EB%8D%98-%EB%82%B4%EC%9A%A9%EC%9D%84-%ED%95%9C%EB%B2%88%EC%97%90-%EB%8B%A4-%EC%A0%95%EB%A6%AC%ED%95%B4%EC%A4%8D%EB%8B%88%EB%8B%A4-%ED%98%84%EC%9E%AC-%EB%A7%8E%EC%9D%80-%EB%B6%84%EB%93%A4%EC%9D%B4-activity-7352114484351561730-e3Yi/)
   * [이제는 더욱 중요한 '컨텍스트'를 설계해야 할 때](https://www.linkedin.com/feed/update/urn:li:activity:7343801990730104832/) AI 에이전트를 도입하기 전 '워크플로 정리'가 중요
@@ -3415,6 +3421,14 @@ Artificial Intelligence
   * AI 시뮬레이션 vs 구현 논쟁. "시뮬레이션이 충분히 정교해지면 구현이다"라는 반론에 대한 철학적 검토
 * [AI와 협업하는 조직으로의 여정 | Arawn Park](https://speakerdeck.com/arawn/aiwa-hyeobeobhaneun-jojigeuroyi-yeojeong)
   * 제품 조직의 AI 네이티브 전환 발표. Generic 에이전트 한계→조직 전용 에이전트 구축, 인간은 판단·기준, AI는 구현·검증. 문서·기준·테스트·워크플로우가 조직 생산성을 만든다
+* [Why Netflix is betting on systems thinkers—not specialists—in the AI era | Elizabeth Stone (CPTO) | Lenny's Podcast - YouTube](https://www.youtube.com/watch?v=t0GiTyz4syY)
+  * [Netflix가 AI 시대에 전문가보다 시스템 사고형 인재에 베팅하는 이유 | GeekNews](https://news.hada.io/topic?id=32159)
+  * Netflix CPTO Elizabeth Stone 인터뷰. 생성형 AI로 PM·디자이너·데이터 과학자가 프로토타입과 코드 작성까지 맡게 되며 직무 경계가 흐려지지만 이는 직업 소멸이 아닌 역할 변화—공통 인프라·설계 템플릿 구축을 주도하는 시스템 사고자가 핵심 인재상이며 각 분야의 깊은 전문성은 여전히 희소
+  * AI 유창성은 직급 무관 공통 기대치("AI가 유용한 지점을 판단하고 결과는 인간이 책임"). 높은 인재 밀도·자율성·위험 감수·최소 프로세스를 결합한 "탁월함의 운영체제" 문화 유지
+* [AI 혁명에 경영진은 열광하고 직원은 분개하는 이유 | atmostbeautiful X](https://x.com/atmostbeautiful/status/2084416696073470452)
+  * 룰루레몬 8년 CIO의 증언. 기업들이 보도자료·실적 발표·제품명·채용 공고·직책명에 'AI'를 붙이지만 진짜 문제는 그 뒤의 전략—발표를 전략으로 착각하는 경영진과 그 괴리에 분개하는 직원들
+* [블루칼라와는 다른 지위라 여겼건만, AI가 무너뜨린 화이트칼라의 신화 | atmostbeautiful X](https://x.com/atmostbeautiful/status/2083881623519674747)
+  * 과거 화이트칼라는 정신 노동을 수행한다는 점에서 안락·풍요·사회적 지위를 약속받았고 그 풍요가 소비 사회·대중 문화·고등 교육·도시 지형을 형성했지만, AI가 그 신화를 무너뜨리고 있다는 원문 발췌·해설
 * [Why the A.I. Job Apocalypse (Probably) Won't Happen - Ezra Klein NYT 번역 | 이형열](https://www.facebook.com/hyungrlee/posts/pfbid02oFCNKZSBqGHRRKV3ZcZCrFa47gQFXzooJSchJaiNa4dteXpoW8CPfk9ZQ175LjtYl)
   * 미국 실업률 4.3% 안정. 스프레드시트가 회계사 수를 4배로 늘렸듯(Jevons Paradox) AI는 대체보다 보완. 자동화 증가 시 인간 관계·진정성 수요 상승. 진짜 리스크는 대량실업이 아닌 부분적 직무 대체
 * [2026.04 Week 1 Five Trending Repos of the Week](https://codepointer.substack.com/p/202604-week-1-five-trending-repos)
