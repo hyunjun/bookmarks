@@ -3405,6 +3405,9 @@ Business
   * Cision 기자간담회. 생성형 AI 시대 보도자료의 핵심 대상에 기자뿐 아니라 AI도 포함해야—기업 정보가 AI 검색·LLM 답변에 반영될 때 보도자료가 신뢰할 수 있는 공식 자료로 활용됨
 * [Synthetic Customers Earn Their Stripes | Bain & Company](https://www.bain.com/insights/synthetic-customers-earn-their-stripes/)
   * AI로 생성한 합성 고객(synthetic customers)이 실제 고객 조사를 보완하는 리서치 도구로 자리잡는 흐름을 다룬 Bain 인사이트
+* [Why AI Is Raising the Bar for Marketing Leadership | Shachar Scott, Inc.](https://www.inc.com/shachar-scott/why-ai-is-raising-the-bar-for-marketing-leadership/91389420)
+  * AI가 브리프 작성·리걸 사전 검토·QA 등 캠페인 실행 체인을 압축(4주 → 4일)하면서 CMO의 일은 제작 관리에서 시스템 설계·기능 정렬·의사결정 품질로 이동
+  * 예측 가능하고 규칙 기반인 작업(캠페인 트래피킹, 성과 리포팅, 템플릿 초안)은 자동화하고, 맥락 판단·문화적 직관·이해관계자 조율이 필요한 일(신규 시장 브랜드 포지셔닝)은 사람이 유지하라는 필터 제시
 
 # Mobile
 * ["앱의 시대"는 끝났다](http://ppss.kr/archives/34606)
