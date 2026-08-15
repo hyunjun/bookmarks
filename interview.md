@@ -770,6 +770,9 @@ Interview
   * [시스템 설계 관련 자료들 모음 | GeekNews](https://news.hada.io/topic?id=6686)
 * [system-design-visualizer: An interactive tool that transforms static system design diagrams into explorable, interactive visualizations using AI](https://github.com/mallahyari/system-design-visualizer)
   * [System Design | HiredInTech](https://www.hiredintech.com/system-design/)
+* [면접에서 "확장성"을 말하는 순간, 면접관은 이것부터 확인한다 | Greg Lee](https://medium.com/greglee-lab/%EB%A9%B4%EC%A0%91%EC%97%90%EC%84%9C-%ED%99%95%EC%9E%A5%EC%84%B1-%EC%9D%84-%EB%A7%90%ED%95%98%EB%8A%94-%EC%88%9C%EA%B0%84-%EB%A9%B4%EC%A0%91%EA%B4%80%EC%9D%80-%EC%9D%B4%EA%B2%83%EB%B6%80%ED%84%B0-%ED%99%95%EC%9D%B8%ED%95%9C%EB%8B%A4-77383ee3fb25)
+  * 확장성은 "많이 붙일 수 있음"이 아니라 "안 고쳐도 됨"—기존 코드를 최소한만 건드리고 새 코드 추가로 대응되는 OCP 구조이며, 그 유일한 열쇠는 추상화. 추상화는 뭉뚱그려 감추는 게 아니라 변하는 축을 식별해 구현 용어에 의존하지 않는 중립적 계약(인터페이스)으로 선언하는 것
+  * 면접관은 화려한 아키텍처 다이어그램이 아니라 "인터페이스를 진짜 쓸 줄 아는가"를 검증. 결제 정합성 체크를 `if` 문으로 쌓지 않고 `Validator<T>` 인터페이스로 선언해 서비스가 구현체를 모른 채 계약 목록만 주입받아 실행하는 예시
 
 # Book
 * [소프트웨어 장인 CHAPTER 9 인재 채용](https://github.com/hyunjun/bookmarks/blob/master/programming_books/the_software_craftsman.md#chapter-9-%EC%9D%B8%EC%9E%AC-%EC%B1%84%EC%9A%A9)
