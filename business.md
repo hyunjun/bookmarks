@@ -2062,6 +2062,9 @@ Business
     * '제품시장적합성'이 아니라 '시장제품적합성' - 시장이 원하는 걸 만들어야 함
     * 자기 확신을 시험하는 게 아니라 약점을 찾아내는 게 목표
     * "고객과 대화"가 아니라 "모든 사람과 대화"
+* [23 ways I'd use AI agents to grow my startup to $1M ARR or PMF | GREG ISENBERG](https://x.com/gregisenberg/status/2086534549341610457)
+  * [조여준 - AI 시대의 창업 기회 리스트 (원본 23개 중 한국 창업자에게 유효한 10개 선별) | Facebook](https://www.facebook.com/ethan.cho.12/posts/pfbid0oGEmygLgAS2h7cNh6sNTQ2QtzxPSURgX6dgdyqyTGD7ee9QhukMddV291DKMWtebl)
+  * AI 지출 관리(에이전트 예산 통제·사기 방지), 콘텐츠 검토 도구, 딥페이크 대응 신원 인증, 전화 예약 보이스 에이전트, LLM 검색(새로운 SEO), 성과형 빌링(좌석당 과금 개편), 레거시 소프트웨어 재개발(의료·관리·건설), 과거 수익성 낮던 니치 시장, 기계 간 거래 인프라, 오디언스 기반 유통 전략
 
 # KPI
 * [손자병법에서 배우는 기업의 5가지 핵심 KPI](http://ppss.kr/archives/26234)
