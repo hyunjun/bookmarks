@@ -1171,6 +1171,10 @@ Business
 * [조직개편, 왜 늘 실패할까요? 체계적인 조직개.. : 네이버블로그](https://blog.naver.com/job-analysis/224337297378)
   * [조직개편, 왜 늘 실패할까요? 체계적인 조직개편의 방법 | 박상길](https://www.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_%EC%A1%B0%EC%A7%81%EA%B0%9C%ED%8E%B8-%EC%99%9C-%EB%8A%98-%EC%8B%A4%ED%8C%A8%ED%95%A0%EA%B9%8C%EC%9A%94-%EC%B2%B4%EA%B3%84%EC%A0%81%EC%9D%B8-%EC%A1%B0%EC%A7%81%EA%B0%9C%ED%8E%B8%EC%9D%98-%EB%B0%A9%EB%B2%95-share-7479746161252192256--a-y/)
   * 비전·성과목표에서 출발→핵심성공요인(CSF)으로 구조를 묶고→역할에서 과업을, 역량에서 적합한 사람을 선정·배치→소통·지표·리스크 관리로 정착시키는 체계적 조직개편 프레임워크
+* [How The Fastest AI-First Companies Really Work | NFX](https://www.nfx.com/post/ai-first-company-structure-mission-pods)
+  * [가장 빠른 AI-First 기업은 실제로 어떻게 일하는가 | GeekNews](https://news.hada.io/topic?id=32075)
+  * AI 시대의 병목은 0→1(초안 생성)이 아니라 1→2(프로토타입→테스트→출시→학습)로 이동—직무별 부서 대신 결과 책임 중심의 "미션 팟" 구조로 개편하고 개인 산출량보다 학습 속도와 실제 성과를 측정
+  * 5가지 함정: 소통 능력 부족한 개별 기여자, 산출량만 측정, AI 토큰 사용량을 생산성으로 착각, 주니어 채용 중단, 미완성 조직을 린 조직으로 오해. AI로 인간을 대체하는 게 아니라 인간 역량을 증폭시키는 구조가 경쟁력
 
 # 변화
 * [사람들이 변화하지 않는 진짜 이유](https://eopla.net/magazines/231#)
@@ -4129,6 +4133,9 @@ Business
       * Market Share
       * Customer Satisfaction
       * Revenue and Profitability Metrics
+* [기술도, 재무도, 정치도…최고의 프로젝트 매니저가 갖춰야 할 20가지 | CIO](https://www.cio.com/article/4206003)
+  * 뛰어난 프로젝트 관리자는 기술·비즈니스·대인관계 역량을 균형 있게 갖춘 전략적 파트너로서 단순 업무 관리를 넘어 조직의 비즈니스 목표 달성을 이끌어야 함. 침착함·결단력·공감능력·변화 대응력 등 20가지 핵심 역량 정리
+  * AI·자동화 시대에도 "무엇이 진정으로 중요한 일인지 판단하고 가치 창출에 집중"하는 역할은 오히려 더 중요해짐
 
 # Sales
 * [Mark Cuban’s advice for his younger self: 'Be a salesperson’](https://www.cnbc.com/2022/08/17/mark-cubans-advice-for-his-younger-self-be-a-salesperson-.html)
