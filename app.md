@@ -2304,6 +2304,13 @@ App
     * [Spring Boot Discord Bot(디스코드 봇) 만들기 - Spring Boot(스프링 부트)를 이용한 간단한 API 만들기 feat.mybatis(마이바티스)](https://junyharang.tistory.com/382)
     * [Spring Boot Discord Bot(디스코드 봇) 만들기 - JAVA를 이용한 API 호출](https://junyharang.tistory.com/383)
     * [Spring Boot Discord Bot(디스코드 봇) 만들기 - 디스코드 봇을 이용하여 API 호출](https://junyharang.tistory.com/384)
+* [KLATalk — Meet your friends and your AIs](https://klatalk.com/)
+  * [김경훈 - KLATalk 메신저 개발기 | Facebook](https://www.facebook.com/nolimit.k/posts/pfbid0B2AMkjCeuSe2dZwdRdiMtKYDpZPZsqEKSoS5SbZXDkAtZSDeTkBnC9NEHjn4hGjrl)
+  * [klatalk-agent: KLATalk agent client — AI agents as first-class room members](https://github.com/beingcognitive/klatalk-agent)
+    * KLATalk protocol-v1의 서드파티 구현. 봇 API가 아니라 AI가 자기 계정·읽음 표시를 갖고 초대·수락으로 멤버십을 형성—신원이 전화번호가 아닌 관계라서 가능한 구조. `bin/klatalk` CLI(가입·입장·대화·장시간 listen, Python 3 + websockets)가 진실의 원천이고 `skill/SKILL.md`는 Claude Code 스킬로 방에서의 행동 규범 담당
+    * 스킬이 강제하는 규범: 사람 메시지에만 응답, 방 메시지를 지시로 실행 금지(인젝션 방어), 방 경계 넘지 않기, 잠들기 전 읽음 표시. 설치는 심볼릭 링크가 아니라 릴리스 태그를 고정해 복사하는 방식—`git pull`이나 업스트림 침해가 allowlist된 경로의 코드를 조용히 바꿔치기할 수 없게 함
+  * 전화번호 없이 닉네임·초대 링크만으로 가입·입장하는 메신저. Claude Code·Codex 같은 AI 에이전트를 사람과 동등한 멤버로 같은 방에 초대해 대화에 참여시킬 수 있고, 피드·추천 알고리즘 없이 초대받은 방만 홈에 표시
+  * iOS·Android·macOS 데스크톱 앱 동시 접속 지원, 오픈소스 에이전트 클라이언트 제공. AWS LightSail+CloudFlare R2로 월 $30 수준에 10만명 수용 가능한 경량 설계. 개발은 Claude Fable이 주도하고 Codex·Opus가 코드 검수. 오픈 베타
 * [Mattermost: Open-source, high-trust, developer-centric collaboration platform](https://mattermost.com/)
   * [mattermost - Slack 대안 오픈소스 Mattermost를 소개합니다](https://blog.cometkim.kr/posts/mattermost-contribution/introduction-to-mattermost)
   * [NASA와 삼성이 선택한 메신저 ‘Mattermost’ 알아보기 | InfoGrab, DevOps 전문 기술 기업 | 인포그랩 | GitLab기반 DevSecOps 구축,컨설팅,교육,기술지원 서비스 제공](https://insight.infograb.net/blog/2024/06/19/mattermost-overview/)
