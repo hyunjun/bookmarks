@@ -1008,6 +1008,9 @@ App
 * [Kan.bn | The open source alternative to Trello](https://kan.bn/)
   * [kan: The open source Trello alternative](https://github.com/kanbn/kan)
     * [Kan.bn - Trello의 오픈소스 대체제 | GeekNews](https://news.hada.io/topic?id=21257)
+* [Kaneo — All you need. Nothing you don't.](https://kaneo.app/)
+  * [kaneo: Open source project management that works for you, not against you](https://github.com/usekaneo/kaneo)
+  * 셀프호스팅 오픈소스 프로젝트 관리 도구. 필요한 것만 담은 미니멀 설계. TypeScript, 8.3k stars
 * [Leantime — open source project management for non-project managers](https://leantime.io/)
   * [leantime: Leantime is an open source project management system for non-project managers](https://github.com/Leantime/leantime)
   * 목표 중심 오픈소스 프로젝트 관리 플랫폼. ADHD·자폐·난독증 접근성 고려 설계, 칸반·간트·태스크·타임시트(Trello/Jira 수준) 제공하면서 사용 편의성 유지. 다국어·커뮤니케이션 통합, Docker/서버 셀프호스팅
@@ -1207,6 +1210,9 @@ App
 * [Trix - A Rich Text Editor for Everyday Writing](https://github.com/basecamp/trix)
 * [typora](https://typora.io/)
   * [Typora 글꼴 변경하기](http://bundokim.tistory.com/43)
+* [vwEditor](https://github.com/vuski/vwEditor)
+  * [Seungbum Kim - 기가바이트 단위 csv/tsv를 빠르게 열어보는 에디터 v1.0 공개 | Facebook](https://www.facebook.com/permalink.php?story_fbid=pfbid02ocfD6MaNLZgy7ZiHX9s58vRrKCwLYvyD81ndnz7gnd2R7FuD81mxsHreZZ6PSJGdl&id=1595135592)
+  * 기가바이트 단위 csv/tsv를 EmEditor와 비슷하거나 더 빠른 속도로 열어 컬럼 단위로 파싱해 한눈에 파악. 편집 모드, 정렬, 찾기/바꾸기, 특정 문자열 포함 행 추출, 바이너리·parquet 파일 지원. Rust
 * [Zed - Code at the speed of thought](https://zed.dev/)
   * [Atom 개발자가 만든 텍스트 에디터 Zed :: Outsider's Dev Story](https://blog.outsider.ne.kr/1665)
   * [VSC 경쟁자가 나타났다? Zed 의 등장! - YouTube](https://www.youtube.com/watch?v=_RIn7dSUkEg)
@@ -1220,6 +1226,10 @@ App
   * [Introducing Parallel Agents in Zed](https://zed.dev/blog/parallel-agents)
     * [Zed 병렬 에이전트 기능으로 달라지는 AI 기반 개발 워크플로우 정리](https://digitalbourgeois.tistory.com/3034)
     * 단일 에디터 창에서 여러 AI 에이전트 동시 실행. Threads Sidebar로 병렬 에이전트 스레드 관리, 레포별 접근 제어·진행 모니터링. Cmd+Option+J(Mac) / Ctrl+Option+J(Linux/Windows) 단축키
+  * [Delta](https://delta.dev/)
+    * [Introducing Delta | Zed Blog](https://zed.dev/blog/introducing-delta)
+    * [Delta - 에이전트와 함께 코딩하고 검토하는 멀티플레이어 환경 | GeekNews](https://news.hada.io/topic?id=32453)
+    * Zed 팀이 만든 별도 앱. DeltaDB로 대화와 작업 트리를 실시간 복제(기존 Git 저장소와 호환), 코드 어느 줄에나 댓글 연결·변경 후에도 결정 맥락 보존, 데스크톱·브라우저·Claude Code 세션 간 스레드 동기화. 에이전트 출력을 편집 가능한 문서로 취급. DeltaDB는 향후 Zed에도 통합 예정. 비공개 베타
 
 # Etc
 * [다운로드 없이 SMS 문자만으로 즐기는 “앱”](http://techneedle.com/archives/20495)
@@ -2265,11 +2275,14 @@ App
 * [xhyve – Lightweight Virtualization on OS X Based on bhyve](http://www.pagetable.com/?p=831)
 
 ## Mac OS X
-* `sudo nvram StartupMute=%0[0|1]` [Bring back your Mac’s startup chime with this simple terminal command](https://9to5mac.com/2020/02/21/bring-back-mac-startup-chime-command/)
+* [맥OS 숨겨진 치트키 15가지｜명령어 몇 줄로 맥이 달라집니다 - YouTube](https://www.youtube.com/watch?v=Tmn8YziSuwk)
+  * 코드깎는노인. `defaults write` 터미널 명령으로 macOS 기본 동작을 바꾸는 15가지 팁: 키 반복 입력·속도, 자동 텍스트 보정 끄기, Dock 표시 지연·애니메이션 제거, 스크린샷 그림자·미리보기·저장 위치 등
+  * 일부 명령은 `killall Finder/Dock/SystemUIServer`로 UI를 재시작하므로 파일 복사·이동 중에는 실행 금지, 적용 안 되면 로그아웃·로그인 필요
 * 한글
   * [macOS에서 한글 파일/디렉터리 잘 다루기 – rein's world](https://rein.kr/blog/archives/5378)
   * [gluebyte — 맥에서 깨진 한글 파일명 복구하기](https://gluebyte.tumblr.com/post/132268284865)
   * [mac-filename-kr: 한글 자모가 분리된 파일 이름 수정 도구](https://github.com/hyunbinseo/mac-filename-kr)
+* `sudo nvram StartupMute=%0[0|1]` [Bring back your Mac’s startup chime with this simple terminal command](https://9to5mac.com/2020/02/21/bring-back-mac-startup-chime-command/)
 * troubleshooting
   * [구입한 지 얼마 되지 않은 레티나 맥북프로가 배터리로 2~3시간 밖에 안 간다면?](http://macnews.tistory.com/79)
   * [iMac 21.5-inch, Late 2009 HDD 교체](https://hyeonseok.com/soojung/hardware/2019/04/20/851.html)
