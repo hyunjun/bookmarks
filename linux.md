@@ -119,6 +119,8 @@ Linux
   * [(리눅스 업스킬 도전 #4) 새로운 애플리케이션 설치하기](https://jhrogue.blogspot.com/2020/09/4.html)
   * [(리눅스 업스킬 도전 #13) 파일 접근 허가 기초와 사용자 추가](https://jhrogue.blogspot.com/2020/10/13.html)
   * [(리눅스 업스킬 도전 #17) 소스 코드로 프로그램 컴파일하고 설치하기](https://jhrogue.blogspot.com/2020/10/17.html)
+  * [Linux Upskill Challenge](https://linuxupskillchallenge.org/)
+    * [linuxupskillchallenge: Learn the skills required to sysadmin a remote Linux server from the commandline](https://github.com/livialima/linuxupskillchallenge)
 * [Managing my personal server in 2020](https://github.com/erebe/personal-server/blob/master/README.md)
 * [How to Migrate a Linux Server To New Hardware – CloudSavvy IT](https://www.cloudsavvyit.com/7664/how-to-migrate-a-linux-server-to-new-hardware/)
 * [2020: The Year of the Linux Desktop - Moving from Macbook to Linux - CodiMD](https://monadical.com/posts/moving-to-linux-desktop.html)
