@@ -4428,6 +4428,10 @@ Programming
 * [Code Review Best Practices](http://kevinlondon.com/2015/05/05/code-review-best-practices.html)
 * [코드 리뷰의 주된 목적은 유지보수하기 어려운 코드를 찾는 것 | GeekNews](https://news.hada.io/topic?id=31067)
   * @mjd(mathstodon)의 관점. 코드 리뷰를 버그 탐지가 아니라 미래 유지보수자가 이해하기 어려운 코드를 찾는 과정으로 봄. 리뷰어가 이해 못 하면 미래 개발자도 못 함—명료성 자체가 수리 대상. "버그를 찾아라"보다 "이해해 보고 이해 안 되는 부분을 표시하라"가 더 실행 가능
+* [Reviewing code is a skill | Varun Gandhi](https://typesanitizer.com/blog/code-review.html)
+  * [코드 리뷰도 배워야 하는 기술이다 | GeekNews](https://news.hada.io/topic?id=32417)
+  * 코드 리뷰는 버그 탐지 도구가 아니라 교육·규범 유지·게이트키핑·사고 예방 네 역할을 수행하는 학습 가능한 기술. 최신 LLM이 놓친 실제 버그 3건(동시성 문제, 버전 호환성, 트랜잭션 실패 모드)으로 코드만으로는 알 수 없는 과거 경험과 맥락의 중요성을 보임
+  * 역량 향상 방법으로 소크라테스식 대화, near-miss 공유, 형식 모델링, 숙련자 암묵지 추출을 제안. AI 시대에도 "한 단계 낮은 추상화 수준까지 이해하는 능력"은 투자할 가치가 있다고 결론
 * [6 reasons why pre is better than post production code review](https://about.gitlab.com/2015/08/05/6-reasons-why-pre-is-better-than-post-production-code-review/)
 * [매끄러운 ‘코드 리뷰’를 돕는 10가지 방법](http://www.bloter.net/archives/238819)
 * [코드리뷰, Github로 바로 적용하기](https://realm.io/kr/news/codereview-howto/)
