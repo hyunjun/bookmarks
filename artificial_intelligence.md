@@ -3995,6 +3995,10 @@ Artificial Intelligence
 * [Moving away from Agile: What's Next – Martin Harrysson & Natasha Maniar, McKinsey & Company - YouTube](https://www.youtube.com/watch?v=SZStlIhyTCY)
   * [Moving away from Agile: What's Next | LilysAI 요약](https://lilys.ai/digest/7206880/7723498)
   * McKinsey 발표. 대부분 기업이 AI 도구만 추가하고 인재·운영 모델은 그대로 둬서 AI 소프트웨어 개발 가치 포착 부족. 10년 넘게 바뀌지 않은 개발 방식(작업 방식·팀 구성·역할 정의·스테이지 게이트)이 새 패러다임으로 이행 발목. AI-Native 워크플로우·PM 역할 변화·변화 관리 사례
+* [Build Wide, Ship Narrow | Adapt](https://adapt.com/blog/build-wide-ship-narrow)
+  * [넓게 만들고, 좁게 배포하라 | GeekNews](https://news.hada.io/topic?id=32507)
+  * 기존 방식은 구현 전 RFC를 쓰고 작은 PR로 미리 쪼개느라 정보가 가장 부족한 시점에 구조를 결정해야 했음. 대안은 무엇을 만들지만 먼저 정하고 한 브랜치에서 전체 기능을 끝까지 구현(Build Wide) → 동작을 데모해 피드백 수집 → 완성된 코드를 작은 PR로 분해(Ship Narrow)
+  * AI가 구현·설계는 물론 완성 코드를 PR로 다시 나누는 작업까지 저렴하게 처리하므로 실제 코드가 존재하는 시점에 구조를 결정할 수 있게 됨. 최종 PR 분할은 자동화 프롬프트로, 삭제 코드는 별도 마지막 PR로 분리해 리뷰 가능성과 롤백 안전성 확보
 * [2603.21439 LLM-Powered Workflow Optimization for Multidisciplinary Software Development](https://arxiv.org/abs/2603.21439)
   * [AGI KR](https://www.facebook.com/groups/255834461424286?multi_permalinks=2911883062486066)
   * Volvo Group 사례: 그래프 기반 워크플로우 최적화로 API당 개발 시간 5시간→7분, 총 979시간 절감. F1 93.7%. FSE 2026 Industrial Track 채택
