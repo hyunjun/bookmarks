@@ -3073,6 +3073,11 @@ NLP
 * [GLM-5.1 - How to Run Locally | Unsloth](https://unsloth.ai/docs/models/glm-5.1)
   * [GLM-5.1 로컬 실행 가이드: 대규모 언어 모델을 내 PC에서 사용하는 방법](https://digitalbourgeois.tistory.com/2971)
   * Z.ai 최신 오픈소스 모델, 200K 컨텍스트. Unsloth 동적 양자화로 1.65TB→220~236GB 압축. Unsloth Studio/llama.cpp/llama-server(OpenAI 호환 API) 로컬 배포
+* [GLM-5.3: Frontier Coding with Emergent Cyber Capabilities | Z.ai](https://z.ai/blog/glm-5.3)
+  * [GLM-5.3, 포스트 트레이닝 확장으로 코딩·에이전트·사이버 역량 강화 | digitalbourgeois](https://digitalbourgeois.tistory.com/3518)
+    * 실제 코드베이스 269개 프로젝트에서 2,436개 취약점 식별, 개별 취약점 탐지에서 다단계 공격 체인 계획까지 확장. 모델 성능이 높아질수록 좋은 훈련 환경을 만드는 일이 더 중요한 문제로 이동한다는 분석
+  * GLM-5.2와 같은 베이스 모델에 post-training만 스케일링(IndexShare 장문 컨텍스트 처리, SAO 장기 태스크 RL, slime 대규모 비동기 학습 스택). 자체 Z.ai Code Bench에서 GLM-5.2 대비 50% 향상, Terminal Bench 3.0·Agents' Last Exam 오픈소스 SOTA로 코딩 최강 오픈웨이트 주장
+  * post-training 스케일링 중 사이버 능력이 예상보다 빠르게 창발—CyberGym 취약점 발견 SOTA(84.5), 익스플로잇 벤치마크에서 GLM-5.2의 2배 이상. 웨이트는 안전성 평가·하드닝 완료 후 출시 2주 뒤 공개 예정
 * [good luck have fun](https://glhf.chat/landing/home)
   * [glhf - (거의) 모든 언어 모델 실행하기 | GeekNews](https://news.hada.io/topic?id=16069) vLLM 사용
 * [Gorilla: An API store for LLMs](https://github.com/ShishirPatil/gorilla)
