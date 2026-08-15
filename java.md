@@ -376,6 +376,9 @@ Java
   * [JDBC setReadOnly 호출 이슈 해결기](https://tech.inflab.com/20240901-jdbc-set-readonly-issue/)
     * AWS Advanced JDBC Wrapper 드라이버를 사용하면서 간혈적으로 터지는 오류를 하나하나 추적해나가는 과정을 기술 블로그로 정리
     * JVM 경력이 거의 없는 Node.js 개발자들끼리 IntelliJ IDEA와 네이버 핀포인트 모니터링 도구를 통해 차근차근 드라이버 문제에 접근하고 해결 진행
+  * [Introducing pg-java: A new PostgreSQL driver for the JVM | LaunchByLunch](https://launchbylunch.com/posts/2026/Jul/29/introducing-pg-java/)
+    * [Introducing pg-java: A new PostgreSQL driver | 박상길](https://www.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_introducing-pg-java-a-new-postgresql-driver-share-7493437989411381248-jL_I/)
+    * pgjdbc의 한계를 넘기 위한 PostgreSQL 전용 현대적 드라이버. "PostgreSQL-first" 설계로 DB 기능을 직접 활용—가상 스레드 지원, 실시간 스트리밍 기본값, 배열 파라미터 기반 배치 INSERT 최적화. Claude로 6주간 작성한 52,000줄, pre-release
   * [HikariCP - 光 HikariCP・A solid, high-performance, JDBC connection pool at last](https://github.com/brettwooldridge/HikariCP)
     * [**HikariCP 세팅시 옵션 설명**](https://effectivesquid.tistory.com/entry/HikariCP-세팅시-옵션-설명)
     * [HikariCP는 test-while-idle과 같은 커넥션 갱신 기능이 없을까?](https://pkgonan.github.io/2018/04/HikariCP-test-while-idle)
