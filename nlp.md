@@ -2414,6 +2414,10 @@ NLP
     * 대규모 언어 모델 훈련에 대한 두 가지 오해를 해소
       * 첫 번째는 비용 문제는 실제로 그렇게 높지 않다는 점
       * 두 번째는 어렵지 않다는 것
+* [Eval-driven development: Lessons from evaluating GenAI at scale | Airbnb Engineering](https://medium.com/airbnb-engineering/eval-driven-development-lessons-from-evaluating-genai-at-scale-e817e5ae5788)
+  * [평가 주도 개발 (Eval-driven development) | GeekNews](https://news.hada.io/topic?id=32257)
+  * GenAI의 비결정적 출력·주관적 정답 문제에 대응해 평가를 사후 검증이 아닌 핵심 엔지니어링 규율로 취급. 결정론적 검사(코드 기반)→LLM 심판→인간 평가를 계층적으로 적용
+  * 품질 차원별 3~5개의 보정된 평가기 유지, 50~100개 골든 데이터셋으로 인간 판단과 80~90% 일치도 목표, 프로덕션에서도 지속 표본 추출·모니터링. 명확한 제품 기준과 팀 협업이 최고의 모델보다 중요
 * [The Guide To LLM Evals: How To Build and Benchmark Your Evals | by Aparna Dhinakaran | Towards Data Science](https://towardsdatascience.com/llm-evals-setup-and-the-metrics-that-matter-2cc27e8e35f3)
   * LLM 평가 구축, 기준 설정
   * 사용자 피드백 부족 및 비용이 많이 드는 인간 레이블링으로 인한 전통적 평가 방법의 어려움, 평가 프로세스를 자동화하기 위해 LLM 도입
@@ -4157,6 +4161,10 @@ NLP
   * [How to use Unsloth as an API endpoint | Unsloth Documentation](https://unsloth.ai/docs/basics/api)
     * [Unsloth API 엔드포인트로 로컬 LLM을 도구처럼 사용하는 방법 :: 지식의 섬](https://digitalbourgeois.tistory.com/3064)
     * llama-server 기반 인증 API 서버. Anthropic 호환 `/v1/messages`(Claude Code/Anthropic SDK)와 OpenAI 호환 `/v1/chat/completions`(Cursor/Continue) 동시 지원. Self-healing tool calling로 망가진 도구 호출 50% 감소, 서버 사이드 Python/Bash 실행, 웹 검색 내장
+  * [Unsloth Desktop | Unsloth Documentation](https://unsloth.ai/docs/desktop)
+    * [Unsloth Desktop, 로컬 AI 실행부터 파인튜닝과 에이전트까지 하나로 | digitalbourgeois](https://digitalbourgeois.tistory.com/3524)
+    * macOS/Windows/Linux 무료 오픈소스 앱. LLM·이미지/비디오 diffusion·embedding·vision·TTS/STT 모델을 로컬에서 실행하고 LoRA/QLoRA/전체 파인튜닝/사전학습/RL까지 지원. PDF·CSV·DOCX에서 학습 데이터셋 자동 생성
+    * Claude Code 등 AI 에이전트를 로컬 LLM과 연결, MCP·Bash/Python 샌드박스·Self-Healing Tool Call, 학습한 모델을 OpenAI 호환 API로 서빙. 텔레메트리 없는 완전 오프라인 실행—데이터 준비부터 학습·에이전트 연결·배포까지 하나의 환경
   * [Unsloth Studio](https://unsloth.ai/docs/new/studio)
     * [Unsloth Studio 로컬 환경에서 AI 모델을 실행·학습하는 통합 노코드 플랫폼](https://digitalbourgeois.tistory.com/2895)
 * [Unstructured](https://unstructured.io/)
