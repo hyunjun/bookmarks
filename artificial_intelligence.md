@@ -3217,6 +3217,8 @@ Artificial Intelligence
   * AI 시대의 개발자는 시스템 의도를 설계할 수 있는 능력이야말로 가장 중요한 기술이 될 것이라고 주장한다
   * [Rewrite All the Code, All the Time](https://stng.substack.com/p/rewrite-all-the-code-all-the-time)
     * [AI 시대, 코드는 다시 만들어지고 명세가 소프트웨어의 핵심 자산이 될까 | digitalbourgeois](https://digitalbourgeois.tistory.com/3502)
+    * [모든 코드를, 항상 다시 작성하라 | GeekNews](https://news.hada.io/topic?id=32322)
+      * 보존할 것은 구현 코드가 아닌 최상위 요구사항·명세. 어셈블리가 고급 언어로부터 자동생성되듯 현대 소스 코드도 같은 위치로 이동할 가능성—다만 현재 AI와 자연어 명세로는 완전 자동화가 부족해 사람의 감독이 여전히 필요
     * 생성형 AI 비용이 낮아지면 기존 코드는 무가치해지고 명세(specification)가 소프트웨어의 진짜 자산이 됨—코드를 오래 유지·수정하는 대신 명세를 바꿔 전체 코드를 재생성하는 편이 경제적으로 합리적이 된다는 주장
     * 자연어만으로는 완전 자동화가 불가능하므로 형식적 의미론을 갖춘 형식 언어로 모호함 없이 요구사항을 기술해야 하며, 그러면 보안·성능 요구가 바뀔 때 코드를 빠르게 재생성해 최신 품질 기준을 모든 시스템에 적용할 수 있음
 * [Can LLMs be Computers?](https://www.percepta.ai/blog/can-llms-be-computers)
@@ -3606,6 +3608,10 @@ Artificial Intelligence
   * [이재흥 - OECD와 EU가 확정 발표한 AI 리터러시 프레임워크 | Facebook](https://www.facebook.com/weirdo0613518/posts/pfbid02Jdv5jJCrjJrn6PC7ECdFHHSbCe5QwZJ81a4dfWw8qLpyeQs6RwMyxt3EP8kYqyUwl)
   * EU와 OECD가 공동 개발한 초중등 AI 리터러시 교육 프레임워크. 4개 영역(AI 이해·AI 창작·AI 관리·AI 형성)의 학습 역량과 교수 역량 기준 제시. 100개국 2,000명+ 교육자·학생·정책가·과학자 협의로 완성
   * 2029년부터 PISA에 미디어·AI 리터러시 평가 항목으로 도입 예정. 6대 핵심 역량에 컴퓨터과학·데이터과학·미디어활용·디지털활용 외에 윤리와 디자인씽킹 포함. "AI가 인간을 대체할 수 없으며, 언제 사용하지 않을지 결정하는 능력"도 리터러시의 일부로 명시
+* [AI Loop Weaving — Summer 2026](https://ai-loop-weaving.erucipe.chatgpt.site/)
+  * [최승준 - 2026년 여름 AI 주요 뉴스 큐레이션 | Facebook](https://www.facebook.com/seungjoon.choi/posts/pfbid0edjFTKfm8FxDAfaad9Cxx5Pytev9f25kQqxPzLRkr7RJkwjCLp38xDDQt2PCAoKyl)
+  * 2026-07-01~08-15 46일간의 모델 출시·서빙·수학·보안 타임라인을 6개 주제로 엮은 큐레이션 페이지(키워드 필터링 탐색). "같은 46일, 4개의 채널", Discovery Loop, Claude가 앱의 일상 유지보수를 맡는 실험
+  * 재귀적 자기 개선과 AI 정렬(특히 오정렬), OpenAI-Hugging Face 사건, 인간 수준 AI·초지능 논의를 함께 다룸
 * [Alchemy AI Newsletter](https://www.thealchemy.ai/)
 * [Cartography of generative AI](https://cartography-of-generative-ai.net/)
   * [Wontae Lee - <<보이지 않는 인공지능: 데이터, 노동, 에너지로 엮인 생성형 AI의 세계지도>>... | Facebook](https://www.facebook.com/wontae.lee.9889/posts/pfbid0HLHPwTvFwrL2cbPxRbHe5wLpwgS1eWcnHGPKB9EpQuAGr4HidGnkRW4Yz45eWQUxl)
@@ -3853,6 +3859,10 @@ Artificial Intelligence
 * [evmbench.pdf](https://cdn.openai.com/evmbench/evmbench.pdf)
   * [Introducing EVMbench | OpenAI](https://openai.com/index/introducing-evmbench/)
     * [EVMbench: AI 에이전트의 스마트 컨트랙트 취약점 탐지·패치·공격 역량을 검증하는 벤치마크](https://digitalbourgeois.tistory.com/2785)
+* [GODMOD3.AI](https://godmod3.ai/)
+  * [G0DM0D3: LIBERATED AI CHAT](https://github.com/elder-plinius/G0DM0D3)
+  * 포스트 트레이닝 레이어의 한계를 시험하는 오픈소스 멀티모델 채팅 인터페이스—레드팀·인지 연구용. GODMODE CLASSIC(5개 프롬프트+모델 조합 병렬 경합), ULTRAPLINIAN(5티어 12~60개 OpenRouter 모델 평가+복합 점수), Parseltongue(33개 기법 3단계 입력 교란 엔진), AutoTune(20개 질의 맥락별 샘플링 파라미터)
+  * OpenRouter 60개·Venice 44개 모델 또는 Ollama/LM Studio/llama.cpp/vLLM 로컬 모델. 메타데이터 전용 텔레메트리(No-Log·Local-only로 비활성화 가능), 대화·설정은 브라우저 스토리지에 저장. TypeScript, AGPL-3.0, 10.5k stars
 * [guardian-cli: AI 오케스트레이션으로 침투 테스트를 자동화하는 엔터프라이즈 보안 플랫폼](https://github.com/zakirkun/guardian-cli)
   * 멀티 프로바이더 AI(OpenAI/Claude/Gemini/Ollama 등), 50+ 보안 도구(Nmap/Nuclei/SQLMap/Burp/ZAP), 전문 에이전트(Planner·Tool Selector·Analyst·Reporter)+debate 기반 triage, DAG 스케줄링, 증거 추적, CVSS·SARIF·DefectDojo 리포트, 프롬프트 인젝션 방어·DNS 스코프 검증. Python 3.11+, LangChain
 * [IronClaw - Your Personal AI Assistant, Hosted](https://ironclaw.co/)
@@ -6101,6 +6111,10 @@ Artificial Intelligence
 * [entroly — Self-Evolving Daemon](https://juyterman1000.github.io/entroly/)
   * [entroly: Compress 2M-token repos into a razor-sharp Principal Engineer context. 85-99% fewer tokens, 100% accuracy retention](https://github.com/juyterman1000/entroly)
   * Cursor/Claude Code/Opus/Codex/GPT/커스텀 프로바이더용. 2M 토큰 레포를 압축하여 정확도 유지
+* [Forge Orchestrator](https://forge.nxtg.ai/)
+  * [forge-orchestrator: Multi-AI task orchestration. File locking, knowledge capture, drift detection](https://github.com/nxtg-ai/forge-orchestrator)
+  * 같은 레포에서 Claude Code·Codex CLI·Gemini CLI를 조율. 단일 도구 내부 멀티에이전트(Claude Code의 20개 서브에이전트)는 잘 동작하지만 공유 상태가 없는 멀티 도구가 문제—Claude가 모듈을 리팩터하고 Codex가 리팩터 이전 인터페이스로 테스트를 갱신해 둘 다 저장하니 테스트가 깨지는 상황을 해결
+  * 파일 락, 지식 캡처, 태스크 계획, 드리프트 감지를 단일 `.forge/` 상태 디렉토리로 공유. 11개 도구 MCP 서버로 전체 오케스트레이션 상태를 연결된 AI 클라이언트에 노출. `forge init`→`forge plan --generate`(SPEC.md/README에서 의존성 인식 태스크 그래프 생성)→`forge status`/`forge run`(헤드리스 자율 실행). 단일 4.7MB 바이너리, 런타임 의존성 0. Rust, MIT
 * [Freebuff — the free coding agent (free Claude Code, Codex, Cursor & Lovable alternative)](https://freebuff.com/)
   * 무료 CLI 코딩 에이전트(`npm install -g freebuff`, API 키·카드 불필요)+웹 앱 빌더+AI 챗. DeepSeek v4·MiniMax M3 등 오픈소스 모델, 구독 대신 광고 기반 무료 일일 사용량. 23만+ 개발자
 * [Gas Town: Multi-agent orchestration with persistent work tracking](https://github.com/gastownhall/gastown)
