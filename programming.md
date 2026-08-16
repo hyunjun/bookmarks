@@ -760,6 +760,10 @@ Programming
 * [욕망 관리하기](https://jojoldu.tistory.com/688)
 * [SMTC(주문결제)DB 품으로 날아간 결제모듈 이관 스토리 :: GS Retail Engineering](https://gsretail.tistory.com/23) technical debt
 * [Prioritizing Technical Debt as If Time & Money Matters • Adam Tornhill • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=w9YhmMPLQ4U)
+* [Let's not call it "tech debt," it's just "mess" | Simpler Machines](https://www.simplermachines.com/lets-not-call-it-tech-debt-its-just-mess/)
+  * ["기술 부채"라고 부르지 말자, 그냥 "엉망"일 뿐 | GeekNews](https://news.hada.io/topic?id=32498)
+  * "기술 부채"는 오도적인 용어—금융 부채와 달리 대부분의 소프트웨어 문제는 발생 당시 비용을 알 수 없고, 의도적 트레이드오프가 아니라 기술 부족·미숙함의 결과인 경우가 많음
+  * 대신 집을 유지보수하듯 프로젝트를 지속적으로 정리·정돈하는 개념의 "엉망(mess)"이 더 적절한 용어라는 주장
 * [VDIASI23 - Laurențiu Spilcă - Technical Debt. A guide for developers and IT managers - YouTube](https://www.youtube.com/watch?v=20hfxiowGO4)
 * [회사 대표가 엔지니어에게 충분한 권한을 주는가?](https://brunch.co.kr/@graypool/697)
 * [분산 처리 환경에서 대용량 트래픽을 견디기 위한 로그인 기능 구현-1. 서버를 어떻게 확장시킬 것인가 - Scale Up VS Scale Out](https://chagokx2.tistory.com/92?category=871365)
