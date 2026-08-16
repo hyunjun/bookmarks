@@ -114,6 +114,10 @@ Math
 * [각도가 적용 된 사각형 도형의 각 꼭짓점 좌표 구하기 | Univdev](https://www.univdev.page/posts/get-points-rotated-rect/)
 * [함수해석학 맛보기 – LY4I](https://ly4i.com/post/functional-analysis-a-sneak-peek/)
 * [상자에 공 넣기, 상자를 두 개씩 고르면? (Power of Two Choices)](https://gazelle-and-cs.tistory.com/41)
+* [AI Isn't Outthinking Mathematicians. It's Out-Remembering Them | Davide Piffer](https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians)
+  * [AI는 수학자보다 더 잘 생각하는 게 아니라 더 많이 기억함 | GeekNews](https://news.hada.io/topic?id=32539)
+  * AI의 수학 능력은 뛰어난 추론력이 아니라 거대한 작업 기억에서 비롯—인간은 제한된 작업 기억으로 여러 조건·계산을 동시에 관리하기 어렵지만 AI는 긴 컨텍스트를 거대한 노트처럼 활용. 수학은 전제·정의·중간 계산을 전부 명시적 기호로 옮길 수 있어 이 구조적 이점이 극대화되는 영역
+  * 현 AI는 속도·폭·대규모 정보 처리의 폰 노이만식에 가깝고, 문제를 근본적으로 재구성하는 아인슈타인식 창의성("문제의 틀이 잘못됐음을 아는 능력")이 다음 단계
 
 # Bezier
 * [Improving UIBezierPath Performance and API](http://blog.getlooseleaf.com/post/110511009139/improving-uibezierpath-performance-and-api)
