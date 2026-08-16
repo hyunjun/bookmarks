@@ -1331,7 +1331,7 @@ Artificial Intelligence
   * 기업 등기부·선거자금·로비 공시·정부 계약 등 이질적 데이터셋을 수집해 엔티티를 교차 해석하고, 증거 기반 분석으로 비자명한 연결을 발굴하는 조사(investigation) 에이전트. 파일 I/O·셸 실행·웹 검색·재귀 서브에이전트 위임 자율 수행, 데스크톱 GUI+터미널. Python, 2.1K stars
 * [OpenSandbox - Universal Sandbox Infrastructure for AI Applications](https://open-sandbox.ai/)
   * Alibaba의 AI 에이전트용 격리 실행 환경. Docker/K8s 기반 샌드박스에서 셸 명령, 코드 인터프리터, 브라우저 자동화, 원격 개발 등 지원. Python/Java/JS SDK 제공
-  * [OpenSandbox](https://github.com/alibaba/OpenSandbox)
+  * [OpenSandbox: Secure, Fast, and Extensible Sandbox runtime for AI agents](https://github.com/opensandbox-group/OpenSandbox)
   * [류내원 - Alibaba just handed the AI agent community a... | Facebook](https://www.facebook.com/won.wizard/posts/pfbid0hHBbeWKfzHj1b7uV3SV6zrASLx9N1CAmHn5gTXQA8hmCPHgdDdX1H5USsjr2njfSl)
   * [7.3k 스타 알리바바 OpenSandbox로 AI 코딩 샌드박스 완전 정복](https://fornewchallenge.tistory.com/entry/%F0%9F%94%A5-73k-%EC%8A%A4%ED%83%80-%EC%95%8C%EB%A6%AC%EB%B0%94%EB%B0%94-OpenSandbox%EB%A1%9C-AI-%EC%BD%94%EB%94%A9-%EC%83%8C%EB%93%9C%EB%B0%95%EC%8A%A4-%EC%99%84%EC%A0%84-%EC%A0%95%EB%B3%B5)
 * [OpenTag: An open-source alternative to Claude in Slack](https://github.com/CopilotKit/OpenTag)
