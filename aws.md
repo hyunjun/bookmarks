@@ -2715,6 +2715,12 @@ AWS
 * [How AWS deals with a major outage - by Gergely Orosz](https://newsletter.pragmaticengineer.com/p/how-aws-deals-with-a-major-outage)
 * [That AWS Outage Was Nothing. When Meteors Meet Data Centers | by Tim O'Brien | Nov, 2025 | Medium](https://medium.com/@tobrien/that-aws-outage-was-nothing-730a2ac09e07)
 * [AWS, 고객 목소리에 응답하다···멀티클라우드 전략으로 방향 전환 | CIO](https://www.cio.com/article/4106162/aws-%EA%B3%A0%EA%B0%9D-%EB%AA%A9%EC%86%8C%EB%A6%AC%EC%97%90-%EC%9D%91%EB%8B%B5%ED%95%98%EB%8B%A4%C2%B7%C2%B7%C2%B7%EB%A9%80%ED%8B%B0%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%A0%84%EB%9E%B5%EC%9C%BC.html)
+* [비용과 운영 혼란의 근원, 클라우드 아키텍처 기본기를 되묻다 | ITWorld](https://www.itworld.co.kr/article/4207038/%EB%B9%84%EC%9A%A9%EA%B3%BC-%EC%9A%B4%EC%98%81-%ED%98%BC%EB%9E%80%EC%9D%98-%EA%B7%BC%EC%9B%90-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EA%B8%B0%EB%B3%B8%EA%B8%B0.html)
+  * 많은 기업이 클라우드 도입 시 공통 제어 레이어·비용 가시성·인적 요소 같은 기본 원칙을 무시해 예상치 못한 높은 청구서와 운영 혼란을 겪음
+  * 멀티클라우드에서는 각 공급업체의 독점 기술에만 의존하지 말고 전체 환경에 걸친 단일 제어 레이어를 구축해 복잡성과 비용을 줄여야 하며, 비용 최적화·운영 기술 인력을 설계 단계부터 고려해야 클라우드의 효율성을 실현
+* [Slack AI: The Path to Multi-Cloud | Slack Engineering](https://slack.engineering/slack-ai-the-path-to-multi-cloud/)
+  * 2023년부터 3년에 걸쳐 SageMaker → Bedrock → 멀티클라우드(AWS+GCP)로 진화한 LLM 서빙 인프라 여정. "복잡성을 위해서가 아니라 제품 혁신과 안정성 향상을 위해" 단일 공급자 장애 취약성을 제거
+  * 지능형 라우팅 계층과 자동화된 장애 조치로 추론 작업 품질 10% 향상, 저지연 작업 67% 속도 개선
 
 # Personalize
 * [**AMAZON PERSONALIZE WORKSHOP**](http://personalize-workshop-junghee.s3-website.ap-northeast-2.amazonaws.com/) movielens로 영화 추천 모델 구현
