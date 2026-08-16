@@ -2775,7 +2775,9 @@ Web
   * [Wazero - Go 개발자를 위한 종속성 없는 WebAssembly 런타임 | GeekNews](https://news.hada.io/topic?id=6569)
 * [webassembly.sh](https://webassembly.sh/)
 * [WebVM](https://webvm.io/)
+  * [webvm: Virtual Machine for the Web](https://github.com/leaningtech/webvm)
   * [기술 잡담 - 리눅스 서버가 브라우저에 들어왔다 (webvm, cheerpx) - YouTube](https://www.youtube.com/watch?v=AHhRTb3zN2w)
+  * CheerpX(x86 가상화 엔진) 기반으로 브라우저에서 서버 없이 클라이언트 사이드로 실행되는 리눅스 가상 머신. JavaScript, 17.2k stars
 * [workerd: The JavaScript / Wasm runtime that powers Cloudflare Workers](https://github.com/cloudflare/workerd)
   * [Introducing workerd: the Open Source Workers runtime](https://blog.cloudflare.com/workerd-open-source-workers-runtime/)
     * Cloudflare에서 JavaScript/Wasm 런타임인 workerd의 첫 베타를 오픈소스로 공개
