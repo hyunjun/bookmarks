@@ -218,6 +218,9 @@ App
   * [RescueTime 자동화하기 1](http://guswnsxodlf.github.io/automate-rescuetime-01)
   * [RescueTime 자동화하기 2](http://guswnsxodlf.github.io/automate-rescuetime-02)
   * [RescueTime 자동화하기 3](http://guswnsxodlf.github.io/automate-rescuetime-03) python
+* [Safebucket Documentation](https://docs.safebucket.io/)
+  * [safebucket: On-prem file sharing made simple, fast and safe](https://github.com/safebucket/safebucket)
+  * 파일이 서버를 거치지 않는 온프레미스 오픈소스 파일 공유 플랫폼—클라이언트가 S3 호환 스토리지로 직접 업로드/다운로드. OIDC 기반 SSO 인증, 버킷 단위 역할 기반 접근 제어(소유자/기여자/뷰어). Go, 889 stars
 * [ScanTailor](https://scantailor.org/)
   * [문서 스캔을 할 땐 ScanTailor!](https://www.clien.net/service/board/use/15014561)
   * 윈도우, 리눅스 프리웨어
@@ -350,6 +353,8 @@ App
 * [hackingtool: ALL IN ONE Hacking Tool For Hackers](https://github.com/Z4nzu/hackingtool)
 * [Hack Underway Toolkit — 20 open-source OSINT & cybersecurity tools](https://toolkit.hackunderway.com/)
   * 정찰·인프라 분석·보안 리서치용 오픈소스 OSINT 도구 20종 모음. 소셜 계정 검색, 이메일 유출 분석, WAF 탐지, 각종 플랫폼 인텔리전스 수집
+* [HEAVEN-Autonomous-Penetration-Testing: A production-grade autonomous penetration testing platform](https://github.com/nishu2402/HEAVEN-Autonomous-Penetration-Testing)
+  * 깊은 정찰, 머신러닝 기반 리스크 스코어링, 검증된 익스플로잇, 컴플라이언스 리포팅을 자동화. 159개 모듈, 비동기 태스크 그래프 오케스트레이터, MITRE ATT&CK·OWASP Top 10 자동 위협 매핑. Python
 * [huntkit: penetration testing, bug bounty, CTF, red teaming tools in a single Docker image](https://github.com/mcnamee/huntkit)
   * VM 없이 일회용 보안 환경을 빠르게 띄우는 Docker 이미지. Nmap·Metasploit·SQLMap 등 40+ 펜테스트·정찰 도구와 워드리스트 번들
 * [iNTERCEPT - Signal Intelligence Platform](https://www.intercept-sigint.com/)
