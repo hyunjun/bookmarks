@@ -671,6 +671,10 @@ Artificial Intelligence
 * [Function Calling + ReAct— From Generation to Agent | by Yuanyuan Lu | Nov, 2025 | Medium](https://medium.com/@monodara.lu/function-calling-react-from-generation-to-agent-457694cf9566)
   * [Function Calling + ReAct— From Generation to Agent | Yuanyuan Lu](https://www.linkedin.com/posts/yuan-yuan-lu_function-calling-react-from-generation-activity-7393599316688359424-9r_j)
 * [The Complete Guide to AI Agents — Build from Scratch | Maryam Miradi, PhD | 47 comments](https://www.linkedin.com/posts/maryammiradi_the-complete-guide-to-ai-agents-build-from-ugcPost-7384249905340448768-i9R1)
+* [Python으로 만드는 로컬 LLM 비서 - PyCon Seoul 2026 튜토리얼 발표자료 PDF](https://github.com/charsyam/pycon2026-tutorial-ai-agents/blob/main/pycon2026.pdf)
+  * [pycon2026-tutorial-ai-agents: mini-dev-agent — 로컬 LLM으로 AI 에이전트 직접 구현하기](https://github.com/charsyam/pycon2026-tutorial-ai-agents)
+  * PyCon Seoul 2026 튜토리얼 세션. AI 에이전트가 어떤 원리로 돌아가는지 로컬 소형 LLM 하나로 직접 만들어보며 Claude Code/Cursor/Codex류 도구의 핵심 구조를 이해—"LLM을 쓰는 개발자"가 아니라 "LLM 도구를 만드는 개발자"가 되는 것이 목표
+  * 5단계 흐름: 대화(LLM의 한계 체감)→Agent Loop(도구를 부르는 루프가 에이전트의 본질)→도구 상자(함수+맵 한 줄+스키마 한 칸 단일 실행 맵)→가드레일(workspace 격리·검증, "사실은 코드가 책임진다")→감시봇 응용(닌텐도 재고 감시로 "어디에 LLM을 안 쓸지" 배우기). 완성본은 15개 도구, Plan→Execute→Verify, RAG 포함. Python
 * [A Visual Guide to AI Agents - by Rohit Kumar Tiwari](https://awesomeneuron.substack.com/p/a-visual-guide-to-ai-agents)
   * [A Visual Guide to AI Agents | 박상길](https://www.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_a-visual-guide-to-ai-agents-activity-7382937387913535488--P9o)
 * [Agentic AI 디자인 패턴 (Part 1): 기초 패턴과 실전 적용 | STONI](https://stoni.space/posts/ko/ai/agentic-ai-patterns-part1)
@@ -2500,6 +2504,9 @@ Artificial Intelligence
   * [5 Powerful MCP Servers](https://aiengineering.beehiiv.com/p/5-powerful-mcp-servers)
   * [Minho Hwang - 🚀 MCP 열풍! 앤트로픽의 AI 연결 표준, 빅테크는 왜 주목하나? AI 기술에 관심 있는... | Facebook](https://www.facebook.com/rev.minho/posts/pfbid033LrVfzLbebfcsFpgC4QiMiWzE2JdhEQ2BG7kXESgSZpYDfw1YqqHi2T1wFazfg8il)
   * [서동욱 - MCP로 인해 기존 온라인 서비스들은 어떤 영향을 받게 될까? (조금 길지만 재미있을 수 있는 새로운... | Facebook](https://www.facebook.com/dsuh8/posts/pfbid0rVvPyNTA5GnU43CRUBSWTFebAA393BXTcaZbS5EvT6iHJKEtsTfT7vxrc3b9vn71l)
+  * [MCP 서버 직접 만들기 - 도구 22개를 운영하며 배운 설계와 함정 | junetapa](https://junetapa.com/blog/dev/posts/ai-ml/mcp-%EC%84%9C%EB%B2%84-%EC%A7%81%EC%A0%91-%EB%A7%8C%EB%93%A4%EA%B8%B0-%EC%84%A4%EA%B3%84%EC%99%80-%ED%95%A8%EC%A0%95.html)
+    * MCP 서버를 기능 확장이 아니라 "반복해서 틀리던 절차를 코드로 굳히는 도구"로 볼 것. 서버는 기능이 아니라 인증 경계와 생명주기로 나누고, 도구 이름·설명은 모델이 읽는 인터페이스라 세심하게 작성. 게이트·규칙은 서버 코드에 두되 구체적 규칙은 외부 파일로 분리
+    * 삭제·무제한 명령·만능 도구 같은 권한 확대 도구는 만들지 않고, 하나의 도구는 한 가지 일만 하되 검사 도구를 먼저 구축
   * [Why your MCP server fails (how to make 100% successful MCP server) - DEV Community](https://dev.to/samchon/why-your-mcp-server-fails-how-to-make-100-successful-mcp-server-iem)
   * [Model Context Protocol (MCP) with practical examples - Part 1: High level overview - YouTube](https://www.youtube.com/watch?v=1jNmSiU0QYM)
   * [MCP & Agents: Crash Course - YouTube](https://www.youtube.com/watch?v=OJ6ZLqO8HZI)
@@ -5667,6 +5674,11 @@ Artificial Intelligence
     * [svg-infographic 스킬 예제 (README.ko)](https://github.com/kyungseo/skillstead/blob/main/examples/svg-infographic/README.ko.md)
     * [설치 가이드 (INSTALL.md)](https://github.com/kyungseo/skillstead/blob/main/docs/INSTALL.md)
     * [Fable 5로 Skill 개선 손그림 sketch 프리셋 출시 | 생활코딩 Facebook](https://www.facebook.com/groups/174499879257223?multi_permalinks=37310132198600524)
+    * [실패를 성공으로 처리하지 않도록 설계한 svg-infographic (0.10.0)](https://kyungseo.github.io/posts/svg-infographic-rebuild)
+      * [TypePack Gallery — Claude가 생성할 수 있는 다이어그램 예시](https://kyungseo.github.io/skillstead/gallery)
+      * [svg-infographic 0.10.0 공유 | 생활코딩 Facebook](https://www.facebook.com/groups/174499879257223?multi_permalinks=38138860949060974)
+      * 결함 있는 결과물이 성공으로 오판되지 않게 막는 데 초점을 둔 재설계. 외부 폰트·이미지·스크립트 없이 단독으로 열리는 SVG를 기본 결과물로 정하고, 의미 어휘·역할 기반 시스템으로 색상·폰트·아이콘·배치 일관성 보장
+      * 한국어를 영문 번역이 아닌 동등한 기준 결과물로 취급하고 필요한 글리프만 서브셋해 SVG에 내장. receipt 결속 기록으로 입력·runtime·생성 SVG의 일관성 검증. 9개 TypePack(approval-gate·before-after·cards-kpi-grid·decision-matrix·layer-stack·nested-scope·process-flow·roadmap-timeline·topology-component)의 54개 canonical artifact 유지—새 유형은 검증 기능·문서가 함께 준비될 때만 카탈로그에 포함
     * [writing-quality-editor 스킬 (README.ko)](https://github.com/kyungseo/skillstead/blob/main/skills/writing-quality-editor/README.ko.md)
       * [writing-quality-editor로 공개 README를 전수 교정한 커밋](https://github.com/kyungseo/skillstead/commit/be0383ae64b8faae2e39bff270b2d7c01c10b474)
       * [writing-quality-editor 스킬 공유 | 생활코딩 Facebook](https://www.facebook.com/groups/174499879257223?multi_permalinks=37463217306625345)
