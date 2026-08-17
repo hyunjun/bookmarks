@@ -936,6 +936,10 @@ Artificial Intelligence
   * [/init으로 생성한 AGENTS.md가 오히려 비용을 20% 늘리는 이유와 올바른 컨텍스트 설계 전략](https://digitalbourgeois.tistory.com/2811)
   * [잘못된 CLAUDE.md가 AI를 망친다…연구진이 꼽은 설정 파일 6대 문제 | CIO](https://www.cio.com/article/4187601/)
     * 브라질 UFMG 연구진이 오픈소스 100개 레포(91%에서 문제 발견) 분석해 정리한 CLAUDE.md·AGENTS.md "설정 스멜" 6가지—①린트 누수(62%, 린터가 이미 잡는 스타일 규칙 중복) ②컨텍스트 비대(42%) ③스킬 누수(35%, 태스크별 지시를 메인 파일에) ④상충 지시(28%) ⑤init 화석화(24%, 방치된 낡은 규칙) ⑥맹목 참조(16%). 권고: 200줄 이하 유지, 전문 지식은 별도 파일 분리, 정기 검토, 참조에 설명 부여
+  * [A Complete Guide To AGENTS.md | AI Hero](https://www.aihero.dev/a-complete-guide-to-agents-md)
+    * [A Complete Guide to AGENTS.md | 박상길](https://www.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_a-complete-guide-to-agentsmd-share-7495027599690174464-vhmR/)
+    * AGENTS.md는 작게 유지할 것—프로젝트 설명 1줄, 패키지 매니저, 빌드 명령어 정도. 거대한 AGENTS.md는 토큰 낭비·문맥 오염·유지보수 악몽을 부르므로 타입스크립트 규칙·테스트 패턴 같은 세부는 별도 파일로 분리하는 점진적 공개(progressive disclosure) 방식 권장
+    * 모노레포에서는 루트 수준과 패키지 수준에 각각 AGENTS.md를 두어 병합 가능. 모든 지시사항은 명확하고 실행 가능해야 함
   * [AGENTS.md — a simple, open format for guiding coding agents](https://github.com/agentsmd/agents.md)
   * [AGENTS.md](https://github.com/golbin/AGENTS.md)
 * [agentskill: Let any agent produce code indistinguishable from the existing codebase](https://github.com/airscripts/agentskill)
