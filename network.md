@@ -414,6 +414,10 @@ Network
   * [Introducing Nebula, the open source global overlay network from Slack](https://slack.engineering/introducing-nebula-the-open-source-global-overlay-network-from-slack-884110a5579)
   * [Nebula, 슬랙이 공개한 Global Overlay Network 오픈소스 | GeekNews](https://news.hada.io/topic?id=940)
 * [nettop: Utility to show network traffic (both TCP and UDP v4 and v6) split by process and remote host](https://github.com/Emanem/nettop)
+* [network-fundamentals-lab: Hands-on network troubleshooting labs — break, observe, and fix core TCP/IP concepts using containerlab](https://github.com/gnu-gnu/network-fundamentals-lab)
+  * [이전에 올렸던 네트워크 기본기 스터디 GitHub Repository | 심근우](https://www.linkedin.com/posts/gnu-shim_%EC%9D%B4%EC%A0%84%EC%97%90-%EC%98%AC%EB%A0%B8%EB%8D%98-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EA%B8%B0%EB%B3%B8%EA%B8%B0-%EC%8A%A4%ED%84%B0%EB%94%94-github-repository-share-7494716912300589057-hWUe/)
+  * TCP/IP 기본 원리 하나를 잡고 그 개념이 깨졌을 때 나는 장애를 직접 재현→관찰→수정하며 체득하는 실습 시리즈. 클라우드 특정 기능이 아닌 벤더 중립 기본기(AWS·K8s는 실무 사례로만 인용). 각 편은 개념 한 장→토폴로지→재현(고장이 기본값)→`tcpdump`/`traceroute`/`ip`로 관찰→원인→한 줄 수정→교훈 순서
+  * containerlab + `nicolaka/netshoot`(동적 라우팅 편만 FRR). 편당 폴더 하나에 `*.clab.yml`+README+`fix.sh`+`WALKTHROUGH.md`(모범 답안—의도→실측 결과→해석). macOS는 `clab.sh` 래퍼로 containerlab을 컨테이너로 띄워 실행, EC2 실습 호스트 구성도 제공. `walkthrough.html` 웹 뷰어
 * [Ophiuchi - Your Local Development Companion](https://www.ophiuchi.dev/)
   * [ophiuchi-desktop: A local https proxy server using docker as backend](https://github.com/apilylabs/ophiuchi-desktop)
 * [OverTheWire: Wargames](https://overthewire.org/wargames/)
