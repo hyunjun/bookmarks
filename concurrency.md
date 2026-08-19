@@ -90,6 +90,8 @@ Concurrency
 * [코루틴을 사용한 지연 평가](https://chodragon9.github.io/blog/call-stack-and-coroutine/)
 * [F-Lab 미니컨 비동기로부터 우리를 구원해줄 코루틴 - YouTube](https://www.youtube.com/watch?v=w_kRlfhNb3c)
   * [F-Lab 미니컨 비동기로부터 우리를 구원해줄 코루틴 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/589571)
+* [스레드 1만 개는 죽고, 코루틴 1만 개는 멀쩡한 이유 (프로세스 vs 스레드 vs 코루틴) - YouTube](https://www.youtube.com/shorts/GElZaApvIeY)
+  * 2분코딩. 프로세스는 메모리 격리, 스레드는 힙 공유+스택 별도(개당 1MB), 코루틴은 런타임 스케줄링+수 KB. 코루틴이 1만 개를 감당하는 건 OS 컨텍스트 스위칭 없이 런타임에서 전환하기 때문. 단 협력적 스케줄링이라 CPU-bound 작업에서 한 코루틴이 양보하지 않으면 나머지가 멈춤
 
 # Concurrency
 * [Concurrency is not Parallelism](http://blog.golang.org/concurrency-is-not-parallelism)
