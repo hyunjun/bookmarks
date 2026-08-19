@@ -4169,6 +4169,8 @@ NLP
     * [Unsloth Desktop, 로컬 AI 실행부터 파인튜닝과 에이전트까지 하나로 | digitalbourgeois](https://digitalbourgeois.tistory.com/3524)
     * macOS/Windows/Linux 무료 오픈소스 앱. LLM·이미지/비디오 diffusion·embedding·vision·TTS/STT 모델을 로컬에서 실행하고 LoRA/QLoRA/전체 파인튜닝/사전학습/RL까지 지원. PDF·CSV·DOCX에서 학습 데이터셋 자동 생성
     * Claude Code 등 AI 에이전트를 로컬 LLM과 연결, MCP·Bash/Python 샌드박스·Self-Healing Tool Call, 학습한 모델을 OpenAI 호환 API로 서빙. 텔레메트리 없는 완전 오프라인 실행—데이터 준비부터 학습·에이전트 연결·배포까지 하나의 환경
+    * [🦥 Unsloth Desktop 설치·사용 가이드: 로컬 LLM 실행과 파인튜닝을 한 번에 | fornewchallenge](https://fornewchallenge.tistory.com/entry/%F0%9F%A6%A5-Unsloth-Desktop-%EC%84%A4%EC%B9%98%C2%B7%EC%82%AC%EC%9A%A9-%EA%B0%80%EC%9D%B4%EB%93%9C-%EB%A1%9C%EC%BB%AC-LLM-%EC%8B%A4%ED%96%89%EA%B3%BC-%ED%8C%8C%EC%9D%B8%ED%8A%9C%EB%8B%9D%EC%9D%84-%ED%95%9C-%EB%B2%88%EC%97%90)
+      * Tauri 기반 네이티브 앱(v0.1.800-beta, Apache-2.0/AGPL-3.0). NVIDIA/AMD/Intel/Apple Silicon/CPU 지원, `unsloth start claude` 한 줄로 로컬 모델을 Claude Code·Codex·Hermes에 연결. LoRA/QLoRA/GRPO/DPO 2배 빠르고 VRAM 70% 절약, GGUF/NVFP4/FP8 내보내기. "모델 실행과 학습을 모두 지원하는 최초의 데스크톱 앱"
   * [Unsloth Studio](https://unsloth.ai/docs/new/studio)
     * [Unsloth Studio 로컬 환경에서 AI 모델을 실행·학습하는 통합 노코드 플랫폼](https://digitalbourgeois.tistory.com/2895)
 * [Unstructured](https://unstructured.io/)
