@@ -3957,6 +3957,8 @@ Artificial Intelligence
 * [Vigolium - Find the security bugs code review and traditional scanners miss](https://www.vigolium.com/)
   * [vigolium: AI-powered security audit, not just a PR review](https://github.com/vigolium/vigolium)
   * 시니어 펜테스터처럼 동작하는 에이전틱 AI 보안 감사 플랫폼. PR diff가 아닌 전체 코드베이스+라이브 앱 분석, 발견에 따른 동적 공격 계획. 검증된 증거(평문 설명·재현 가능 HTTP 요청·수정 제안). AI 트리아지로 false positive 사전 필터. 2 모드: Native Scan(CI/CD용 결정론적, 130+ 액티브·85+ 패시브 모듈) / Agentic Scan(딥 AI 감사, 로직 결함). XSS·SQLi·SSTI·IDOR·CSRF·인증 우회·SSRF·race condition·프레임워크/클라우드 오설정 커버. 셀프호스트 오픈소스 무료, 온디맨드 $29/100K LoC, Starter $299, Enterprise
+* [watermarks-remover: Multi-vendor AI provenance-mark removal — Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata](https://github.com/guillaumemeyer/watermarks-remover)
+  * 소유한 콘텐츠의 AI 출처표시(워터마크) 제거 도구. 에이전트 스킬(코드 없는 HTTP 클라이언트)+Python 서비스 3계층—Layer A: 비가시 Unicode 캐리어(zero-width·bidi·tag char) 결정론적 제거, Layer B: 통계적/토큰 샘플링 워터마크 모델 기반 재작성(best-effort), 파일 클리너: C2PA·EXIF·XMP·문서 속성 제거(PNG·JPEG·PDF·DOCX·SVG·HTML·MD·오디오/비디오). `/inspect`·`/detect`·`/clean` HTTP 엔드포인트+OpenAPI 3.0.3, 벤더 API 미호출 원칙. Python 3.10+ stdlib 전용(선택적 c2patool·exiftool·qpdf, ML 백엔드 torch/transformers/diffusers). MIT
 * [Xalgorix — Self-Hosted AI Security Testing Platform](https://www.xalgorix.com/)
   * [xalgorix: AI Security Testing Platform](https://github.com/xalgord/xalgorix)
   * 셀프 호스트 AI 보안 테스트 플랫폼(127.0.0.1:9137 웹 대시보드). 8+ LLM 프로바이더 BYO(OpenAI/Anthropic/DeepSeek/Gemini/Groq/Ollama/MiniMax/OpenAI 호환), 22단계 방법론(정찰→리포팅), 3 모드(Single Target·DAST 브라우저·Wildcard/멀티 타겟). 실시간 WebSocket 이벤트 피드, CVSS 발견 관리, 브랜드 PDF 리포트, 스캔 영속/재개, 브라우저 자동화, Discord 알림, AgentMail 통합, 레이트 리밋·안전 제어. MIT, 권한 있는 시스템에만 사용
