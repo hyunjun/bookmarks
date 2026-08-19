@@ -3721,6 +3721,9 @@ App
   * [Patter SDK Guide: Building a Restaurant Booking Phone Agent | MarkTechPost](https://www.marktechpost.com/2026/07/16/patter-sdk-guide-to-building-a-restaurant-booking-phone-agent-with-dynamic-variables-guardrails-latency-dashboards-and-eval-checks/)
   * [Patter로 나만의 음성 AI 전화 에이전트 만들기 | digitalbourgeois](https://digitalbourgeois.tistory.com/3388)
   * 오픈소스 음성 AI SDK. Vapi/Retell 대안으로 스택을 직접 소유. 4줄이면 AI 에이전트에 전화번호 부여, Twilio·Telnyx·Plivo 연동. 동적 변수·가드레일·지연 대시보드·eval 체크. Python·TypeScript, MIT
+* [TranscriptionSuite — Fully local, private Speech-to-Text](https://transcriptionsuite.app/)
+  * [TranscriptionSuite: A fully local and private Speech-To-Text app, offering multiple model backends, diarization & calendar mode](https://github.com/homelab-00/TranscriptionSuite)
+  * 100% 로컬·프라이빗 음성→텍스트 앱(Windows/macOS/Linux). Electron 대시보드+Python 서버(Docker, Apple Silicon 네이티브 Metal). 롱폼·실시간 Live Mode 받아쓰기, 화자 분리, AI 요약·챗(OpenAI 호환—LM Studio/Ollama/Groq/OpenRouter), 캘린더형 Audio Notebook(전문 검색). Whisper·NVIDIA NeMo Parakeet/Canary·SenseVoice·VibeVoice-ASR·whisper.cpp·MLX 모델, 90+ 언어→영어 번역, NVIDIA CUDA/AMD·Intel Vulkan 가속. Tailscale/LAN 원격, 글로벌 단축키, .txt/.srt/.ass 내보내기, API·웹훅. GPL-3.0
 * [Wispr Flow | Effortless Voice Dictation](https://wisprflow.ai/)
   * 음성→AI 받아쓰기 도구. Mac/Windows/iPhone/Android 네이티브, 키보드(45wpm) 대비 4배 빠른 220wpm. 필러 단어·오타·횡설수설 자동 정제, Slack/Gmail/Notion/VS Code/Cursor/ChatGPT/Figma 등 어디서나. 개인 사전(고유어 학습), 스니펫 라이브러리, 100+ 언어 자동 감지. $81M 펀딩으로 "Voice OS" 빌드
 
