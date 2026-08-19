@@ -2358,6 +2358,8 @@ NLP
 * [지극히 사적인 나만의 LLM, 가질 수 있을까? 2편 - WebGPU Build & Run](https://blog.sionic.ai/webgpu-build-and-run)
 * [LoRA is a genius idea](https://www.linkedin.com/posts/svpino_lora-is-a-genius-idea-to-understand-the-activity-7156653694069932032-2GO8/)
 * [LLM 파인튜닝 기법 LoRA에 대한 개념 이해](https://bcho.tistory.com/1452) PEFT, LoRA, Adapter
+* [Can You Fine-Tune a 27B Model on a Laptop? (I Did the Math) - YouTube](https://www.youtube.com/watch?v=XcniP0CD-bs)
+  * Cloud Codes. 16GB VRAM RTX 4090 노트북에서 27B 모델 파인튜닝이 가능한지 파라미터당 18바이트 메모리 산수로 검증—QLoRA 하한 22GB의 벽, DeepSpeed offload 버그, layer-streaming 돌파구까지 로컬 LLM 학습의 한계와 우회를 분석
 * [Let's fine-tune a Small Vision Model - by Pau Labarta Bajo](https://paulabartabajo.substack.com/p/lets-fine-tune-a-small-vision-model)
   * [Let's fine-tune a Small Vision Model | 박상길](https://www.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_lets-fine-tune-a-small-vision-model-activity-7385492040274526210-opjL)
 * MoRA: High-Rank Updating for Parameter-Efficient Fine-Tuning
@@ -4083,6 +4085,8 @@ NLP
     * 알리바바 Qwen3.6. SWE-bench Pro/Terminal-Bench 2.0 등 6개 코딩 벤치마크 최상위. SkillsBench +9.9, SuperGPQA +2.3. preserve_thinking으로 대화 간 추론 유지. Alibaba Cloud Model Studio 독점, OpenAI·Anthropic API 호환. 27B/35B-A3B 로컬 실행, 256K·201개 언어
   * [Qwen3.7-Max 에이전트 중심 초대형 AI 모델의 기술적 특징과 의미 | digitalbourgeois](https://digitalbourgeois.tistory.com/3126)
     * 단순 QA형 LLM이 아닌 코딩·디버깅·사무 자동화·장기 자율 실행 목적 에이전트 중심 독점 모델. 학습 인스턴스를 Task(문제)·Harness(실행/도구)·Verifier(검증)로 분리해 벤치마크 과적합 방지·환경 일반화. Terminal Bench 2.0-Terminus 69.7, SWE-Verified 80.4, GPQA Diamond 92.4. 35시간 연속 자율 커널 최적화에서 사전 문서 없이 1,158 도구 호출·432 평가로 Triton 대비 기하평균 10× 속도. Alibaba Cloud Model Studio API, OpenAI/Anthropic 호환, Claude Code·Qwen Code 연동. AI 경쟁이 단일 답변 품질→장기 자율 실행·환경 일반화로 이동
+  * [Qwen3.8-27B · Hugging Face](https://huggingface.co/Qwen/Qwen3.8-27B)
+    * Qwen 팀의 27B 비전-언어 모델. Gated DeltaNet+Gated Attention 혼합 64층 아키텍처, 네이티브 262K(최대 1M) 컨텍스트. 코딩·에이전트 벤치마크 강세(SWE-bench Pro 61.7, OSWorld-Verified 84.3, GPQA Diamond 89.2). Apache-2.0
   * [Qwen3.8-max-preview 2.4조 파라메터 모델을 오픈으로 풀었다 - YouTube](https://www.youtube.com/watch?v=u45TJFlgGtA)
     * 토목엔지니어 돌종. 알리바바가 2.4조 파라미터 Qwen3.8-max-preview 공개(웨이트 미공개). 알리바바는 Fable 5 바로 아래 성능이라 밝힘, 돌종벤치(논리·수학·공학계산·코딩·도면·비전추론) 92점
     * [Alibaba's AI coded for 16 days straight and every commit is on GitHub - The New Stack](https://thenewstack.io/qwen-autonomous-coding-audit/)
