@@ -26,6 +26,8 @@ Redis
 * [Atomic 처리와 cache stampede 대책을 위해 Redis Lua script를 활용한 이야기](https://engineering.linecorp.com/ko/blog/atomic-cache-stampede-redis-lua-script/)
 * [Redis Lua Script를 이용해서 API Rate Limiter개발](https://dev.gmarket.com/69)
 * [Redis의 SCAN은 어떻게 동작하는가?](http://tech.kakao.com/2016/03/11/redis-scan/)
+* [Redis 호출 1000번에 3초 걸리던 API, 50ms로 줄었습니다 (Pipeline의 함정) - YouTube](https://www.youtube.com/shorts/_JXK2IOooto)
+  * 2분코딩. Redis 명령은 마이크로초지만 네트워크 왕복은 1~3ms. 1000번 개별 호출하면 왕복만 수 초, Pipeline으로 묶으면 왕복 1회로 수십 ms. 단 대량 Pipeline은 응답이 메모리에 한꺼번에 쌓여 GC 압박이 생기고 원자성도 없으므로 적절한 단위로 나눠 실행해야 함
 * [DNS 기반의 Redis HA 구현](http://tech.kakao.com/2016/03/18/redis-ha-dns/)
 * [Redis Labs](http://www.slideshare.net/RedisLabs)
 * [Redis in a Multi Tenant Environment–High Availability, Monitoring & Much More!](http://www.slideshare.net/RedisLabs/redis-in-a-multi-tenant-environmenthigh-availability-monitoring-much-more)
