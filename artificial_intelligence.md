@@ -1510,6 +1510,9 @@ Artificial Intelligence
 * [Agentic Engineering Patterns - Simon Willison](https://simonwillison.net/guides/agentic-engineering-patterns/)
   * [Simon Willison 에이전틱 엔지니어링 패턴 | Youshin Kim](https://www.linkedin.com/pulse/simon-willison-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8B%B1-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81-%ED%8C%A8%ED%84%B4-agentic-engineering-patterns-youshin-kim-hfk1c)
   * Claude Code/Codex 등 코딩 에이전트 활용 패턴. Red/Green TDD, 선형 워크스루, 인터랙티브 설명, 주석 달린 프롬프트 등 실용적 가이드
+* [AI 에이전트 개발은 루프를 돌리는 일이다 | kyungseo](https://kyungseo.github.io/posts/agent-development-loop/)
+  * 에이전트의 "루프"를 도구 호출 루프·작업 실행 루프·개선 루프 3가지로 구분—프롬프트만으로는 안정적 자동화 불가, 프롬프트 밖에 트리거·상태 저장·자동 평가·승인 게이트·실행 기록 5가지 요소 필요
+  * 완전 자동화 후에도 성공 기준 정의와 실패의 규칙 반영(개선 루프)은 사람의 몫. "같은 일을 반복해도 결과를 확인할 수 있고 문제가 생겼을 때 멈출 수 있는 에이전트"가 좋은 에이전트
 * [에이전틱 엔지니어링 시대의 생존 스킬 9가지](https://flowkater.io/posts/2026-03-01-agentic-engineering-9-skills/)
 * [조직에 Claude Code를 설치한다고 AX가 되지 않는다](https://flowkater.io/posts/2026-03-15-ax-organization-transformation/)
   * [에이전틱 엔지니어링 시대의 생존 스킬 9가지 | GeekNews](https://news.hada.io/topic?id=27104)
@@ -1683,6 +1686,9 @@ Artificial Intelligence
   * [하네스 엔지니어링 에이전트 우선 세계에서 Codex 활용하기 | raging-wind](https://www.linkedin.com/posts/raging-wind_%ED%95%98%EB%84%A4%EC%8A%A4-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EC%9A%B0%EC%84%A0-%EC%84%B8%EA%B3%84%EC%97%90%EC%84%9C-codex-%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0-geeknews-activity-7438212039631773696-7Qdh)
   * [Extreme Harness Engineering: 1M LOC, 1B toks/day, 0% human code or review — Ryan Lopopolo, OpenAI - YouTube](https://www.youtube.com/watch?v=CeOXx-XTYek)
     * Latent Space. OpenAI Frontier 팀이 Codex로 100만 줄 코드베이스를 인간 작성 코드 0%·머지 전 인간 리뷰 0%로 운영하는 방식. Ryan Lopopolo는 하루 10억 토큰($2~3k/일)을 안 쓰면 "직무유기"라고까지 표현하며 하네스 엔지니어링 전도
+  * [한글자막 OpenAI는 왜 코딩 에이전트 하네스를 이렇게 설계했을까요? - YouTube](https://www.youtube.com/watch?v=1eMDZjsVOh4)
+    * Tech Bridge. OpenAI 엔지니어 Dominik Kundel이 공개한 Codex 하네스 내부 설계—App Server 프로토콜+Responses API 확장형 구조, 도구 지연 로딩(Deferred Tools)·스킬 2% 캡으로 컨텍스트/캐시 최적화, OS별 샌드박스(Seatbelt·Bubblewrap·Windows 자체 오픈소스)
+    * 승인 피로를 줄이는 읽기 전용 Auto Review 서브에이전트의 위험 평가, 초당 1,000토큰 환경의 WebSocket 상태 동기화, /goal 연속 실행 루프와 서버 사이드 Auto Compaction
   * [Agent Harness | bijit211987 | Medium](https://medium.com/@bijit211987/agent-harness-b1f6d5a7a1d1)
   * [Harness | LangChain Docs](https://docs.langchain.com/oss/python/deepagents/harness)
     * [The Anatomy of an Agent Harness | LangChain](https://blog.langchain.com/the-anatomy-of-an-agent-harness/)
@@ -2409,6 +2415,13 @@ Artificial Intelligence
   * 엣지 디바이스용 프로덕션 LLM 추론. Android/iOS/Web/Desktop/IoT 크로스플랫폼, GPU·NPU HW 가속, 이미지·오디오 멀티모달, 함수 호출. Gemma·Llama·Phi-4·Qwen 지원, Chrome/Chromebook Plus/Pixel Watch 탑재. Apache-2.0
 * [llm-server-docs: Documentation for setting up a private, locally-hosted LLM server on Debian Linux](https://github.com/varunvasudeva1/llm-server-docs)
   * 셀프호스팅 LLM 인프라 엔드투엔드 가이드. 추론 엔진(Ollama/llama.cpp/vLLM), Open WebUI 챗 인터페이스, SearXNG 검색, MCP 서버, TTS·이미지 생성. GPU 드라이버·방화벽·SSH·Tailscale VPN 원격 접속까지. Linux 입문자 대상, 단순성·안정성·보안·유지보수 7원칙
+  * [Runpod RTX 5090 한 장으로 Qwen3.8 27B 돌리기 | oh-my-gpu](https://www.oh-my-gpu.com/ko/blog/llm/runpod-rtx5090-qwen38-27b-vllm-v2)
+    * RunPod Secure Cloud의 RTX 5090(32GB) 1장에 NVFP4 양자화 체크포인트를 vLLM 0.27.1로 서빙—modelopt 양자화·fp8 KV cache·262K max context 옵션, 가중치 약 18.77GiB
+    * 벤치마크: 동시성 1에서 71.86 tok/s, 동시성 4에서 238.67 tok/s, 62K 입력 첫 토큰 8.69초. RunPod HTTP Proxy로 OpenAI 호환 API 외부 호출 가능(무인증 노출 주의)
+* [local-llm: Local LLM setup guide for Apple Silicon](https://github.com/LeeKiYoung/local-llm)
+  * [Qwen3.8-27B 출시와 DeepSeek dsh 공개를 계기로 로컬 LLM 서버 재구축 | Ki Young LEE](https://kr.linkedin.com/posts/ki-young-lee-61730b5b_github-leekiyounglocal-llm-local-llm-share-7495158180767850496-JFuZ)
+  * Apple Silicon(M1~M5)에서 MLX로 로컬 LLM을 OpenAI 호환 API 서버로 구동하는 가이드. 툴 콜링·멀티모달·Thinking 모드, dsh 에이전트 대시보드 연동까지 완전 로컬 실행. MIT
+  * M5 Pro 64GB에서 Qwen3.8-27B 8bit 실측—피크 메모리 34GB, 9.8 tok/s. "에이전트 벤치마크 점수의 상당 부분이 모델이 아니라 하네스에서 나온다"는 DeepSeek 메시지 인용
 * [Lucid - Write in Flow](https://www.getlucid.app/)
 * [Marblism - Launch your React and Node.js app in minutes](https://www.marblism.com/)
   * [프롬프트 하나로 풀스택 웹앱을 만드는 Marblism | Disquiet\*](https://disquiet.io/@williamjung/makerlog/%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8-%ED%95%98%EB%82%98%EB%A1%9C-%ED%92%80%EC%8A%A4%ED%83%9D-%EC%9B%B9%EC%95%B1%EC%9D%84-%EB%A7%8C%EB%93%9C%EB%8A%94-marblism)
@@ -2509,6 +2522,7 @@ Artificial Intelligence
   * [Minho Hwang - 🚀 MCP 열풍! 앤트로픽의 AI 연결 표준, 빅테크는 왜 주목하나? AI 기술에 관심 있는... | Facebook](https://www.facebook.com/rev.minho/posts/pfbid033LrVfzLbebfcsFpgC4QiMiWzE2JdhEQ2BG7kXESgSZpYDfw1YqqHi2T1wFazfg8il)
   * [서동욱 - MCP로 인해 기존 온라인 서비스들은 어떤 영향을 받게 될까? (조금 길지만 재미있을 수 있는 새로운... | Facebook](https://www.facebook.com/dsuh8/posts/pfbid0rVvPyNTA5GnU43CRUBSWTFebAA393BXTcaZbS5EvT6iHJKEtsTfT7vxrc3b9vn71l)
   * [MCP 서버 직접 만들기 - 도구 22개를 운영하며 배운 설계와 함정 | junetapa](https://junetapa.com/blog/dev/posts/ai-ml/mcp-%EC%84%9C%EB%B2%84-%EC%A7%81%EC%A0%91-%EB%A7%8C%EB%93%A4%EA%B8%B0-%EC%84%A4%EA%B3%84%EC%99%80-%ED%95%A8%EC%A0%95.html)
+    * [MCP 서버를 몇 개 만들어 쓰고 있다. 만들면서 배운 것은 프로토콜이 아니라 설계였다 | 박준철, AI Agents KR Facebook](https://www.facebook.com/groups/9546662462016100/posts/29004437075812015/)
     * MCP 서버를 기능 확장이 아니라 "반복해서 틀리던 절차를 코드로 굳히는 도구"로 볼 것. 서버는 기능이 아니라 인증 경계와 생명주기로 나누고, 도구 이름·설명은 모델이 읽는 인터페이스라 세심하게 작성. 게이트·규칙은 서버 코드에 두되 구체적 규칙은 외부 파일로 분리
     * 삭제·무제한 명령·만능 도구 같은 권한 확대 도구는 만들지 않고, 하나의 도구는 한 가지 일만 하되 검사 도구를 먼저 구축
   * [Why your MCP server fails (how to make 100% successful MCP server) - DEV Community](https://dev.to/samchon/why-your-mcp-server-fails-how-to-make-100-successful-mcp-server-iem)
@@ -2698,6 +2712,8 @@ Artificial Intelligence
     * [클로드가 언리얼 엔진을 자동으로 조작하는 시대가 왔다](https://www.facebook.com/reel/1589989091994992)
   * [webmcp-tools](https://github.com/GoogleChromeLabs/webmcp-tools)
     * [WebMCP (Web Model Context Protocol) 공개 | GeekNews](https://news.hada.io/topic?id=26597)
+    * [Make your website agent ready with WebMCP - YouTube](https://www.youtube.com/watch?v=FARxSG_EY98)
+      * Google Cloud Tech, Hugo Zanini. 웹페이지 안에 타입 지정 도구를 직접 노출해 에이전트가 스크린샷 스크래핑 없이 빠르고 저렴하게 행동—React 개발자 포털 "Happy Coffee" 라이브 데모, 로컬 에이전트가 웹 UI를 활용하는 WebMCP for Local Agents 시연
 * [maple-auction-mcp: 메이플 경매장 mcp](https://github.com/oyc0401/maple-auction-mcp)
   * 메이플스토리 경매장 데이터를 AI 에이전트에 연결하는 MCP 서버. TypeScript, MIT
 * [motia: Event-based orchestration framework for agents and intelligent automations](https://github.com/MotiaDev/motia)
@@ -2717,6 +2733,10 @@ Artificial Intelligence
 * [OpenDevin: 🐚 OpenDevin: Code Less, Make More](https://github.com/OpenDevin/OpenDevin)
   * [OpenDevin - AI 소프트웨어 엔지니어 Devin의 오픈소스 구현체 | GeekNews](https://news.hada.io/topic?id=13997)
   * [LlamaIndex Webinar: Build an Open-Source Coding Assistant with OpenDevin - YouTube](https://www.youtube.com/watch?v=_1JZfv7r4mY)
+* [OrcaRouter — AI gateway routing every prompt to the best model](https://www.orcarouter.ai/)
+  * [OrcaRouter-Lite: Self-hosted LLM router with a managed safety net. OpenAI-compatible. BYOK. Single-workspace. Streaming](https://github.com/Continuum-AI-Corp/OrcaRouter-Lite)
+  * 200+ AI 모델을 하나의 OpenAI 호환 엔드포인트로—프롬프트를 1ms 이내 평가해 최적 모델로 자동 라우팅, 자동 페일오버·가드레일·프롬프트 캐싱·요청별 관측성. 토큰 마크업 0%(프로바이더 정가 과금)
+  * Lite는 오픈소스 셀프호스팅 단일 워크스페이스 에디션(MIT)—`model="auto"`로 가장 저렴한 적합 모델 자동 선택, SSE 스트리밍, 호스팅 API를 폴백 업스트림으로 연결 가능
 * [owl-bt is editor for Behavior trees. It has been inspired by Unreal engine behavior trees in a way, that it supports special node items like decorators and services. This makes trees smaller and much more readable](https://github.com/pruttned/owl-bt)
 * [paper-reviewer: Generate a comprehensive review from an arXiv paper, then turn it into a blog post. This project powers the website below for the HuggingFace's Daily Papers (https://huggingface.co/papers)](https://github.com/deep-diver/paper-reviewer)
   * [AI Paper Reviews by AI](https://deep-diver.github.io/ai-paper-reviewer/)
@@ -3202,6 +3222,10 @@ Artificial Intelligence
 * [Zeb Evans (ClickUp CEO) - Today we reduced headcount by 22%. The 100X Organization](https://x.com/DJ_CURFEW/status/2057522382315929802)
   * [ClickUp이 22퍼센트의 인원을 감원했습니다. CEO가 쓴 이 글은 500만회를 본 글인데... | Goobong Jeong](https://www.linkedin.com/posts/gb-jeong_clickup%EC%9D%B4-22%ED%8D%BC%EC%84%BC%ED%8A%B8%EC%9D%98-%EC%9D%B8%EC%9B%90%EC%9D%84-%EA%B0%90%EC%9B%90%ED%96%88%EC%8A%B5%EB%8B%88%EB%8B%A4-ceo%EA%B0%80-%EC%93%B4-%EC%9D%B4-%EA%B8%80%EC%9D%80-500%EB%A7%8C%ED%9A%8C%EB%A5%BC-share-7463576741001736192-J7ck/)
   * 비용 절감이 아닌 AI-native 재조립. 절감분은 남은 직원에게 재분배, AI로 outsized impact 내는 사람에게 연 $1M cash 밴드. 100x 조직의 4역할—10x 엔지니어(코드 작성자가 아닌 에이전트 오케스트레이터/리뷰어), 10x PM(production이 아닌 playground 코딩), Agent Manager(자기 일을 자동화한 사람이 시스템 오너), Front-liner(고객 미팅은 자동화 금지, 주변 업무만 자동화). "AI가 모두를 더 생산적으로 만든다"는 통념 부정—조직 단위에선 best engineers가 다른 사람 코드 리뷰에 갇히는 병목 발생. 모든 PR 500% 증가시키는 회사들의 'great reckoning of AI coding' 경고
+* [The Self-Driving Company | Replit Blog](https://replit.com/blog/self-driving-company)
+  * [Replit이 만든 자율주행 기업, AI 에이전트로 조직의 업무 방식이 바뀌다 | digitalbourgeois](https://digitalbourgeois.tistory.com/3529)
+  * Amjad Masad·Scott Kennedy. 6개월간 AI 에이전트를 전사 통합(GitHub·Slack·ZenDesk 연결)—1인당 코드 산출 2.9배(전체 5.8배) 증가하면서 리뷰 시간·revert 비율·장애 건수는 유지. PR 리뷰, 장애 조사, 데이터 분석, 영업 리서치, 고객 지원(고난도 티켓 60% 단축)까지 확산
+  * "self-driving company"=사람 없는 회사가 아니라 사람이 목적지(목표·우선순위·판단·책임)를 정하고 에이전트가 실행·검증하며 필요시에만 에스컬레이션하는 조직. 실무자(doer)→디렉터(director)로 "promoted". 내부 에이전트가 SaaS보다 나아 7자리 금액 외부 솔루션 해지—build vs buy 판단 변화
 * [빅테크의 ‘대규모 해고’는 내 일이 될까? | 요즘IT](https://yozm.wishket.com/magazine/detail/3409/)
 * [지난달 여수에서 열린 지역 개발자 행사에서 발표했던 장표의 하나입니다. AI의 대두와 함께 왜 유독 개발자(정확히는 코더)를 AI로 대체하겠다고 이토록 억지를 부리는지 세가지 요인으로 분석한 내용입니다. 가장 큰 요인은 한동안 뜨거웠던 묻지마 채용의 반동입니다. 사실 몇개월 학원 다니면 고액 연봉을 받을 수 있다는 사실이 그리 합리적인 상황은… | 박성철](https://www.linkedin.com/posts/fupfin_%EC%A7%80%EB%82%9C%EB%8B%AC-%EC%97%AC%EC%88%98%EC%97%90%EC%84%9C-%EC%97%B4%EB%A6%B0-%EC%A7%80%EC%97%AD-%EA%B0%9C%EB%B0%9C%EC%9E%90-%ED%96%89%EC%82%AC%EC%97%90%EC%84%9C-%EB%B0%9C%ED%91%9C%ED%96%88%EB%8D%98-%EC%9E%A5%ED%91%9C%EC%9D%98-%ED%95%98%EB%82%98%EC%9E%85%EB%8B%88%EB%8B%A4-ai%EC%9D%98-activity-7403747641849004032-N-Bh)
   * ![](https://media.licdn.com/dms/image/v2/D5622AQHeE-W0zThz8A/feedshare-shrink_800/B56Zr9lPxMJwAg-/0/1765190991137?e=2147483647&v=beta&t=9mGnkDdtTVmwHAVBrbSl5Dr7c2oX0cDdEk4cJXHsUwA)
@@ -4011,18 +4035,54 @@ Artificial Intelligence
   * [프로덕션 AI 에이전트를 GPT-5.6으로 전환해 2.2배 빠르고 27% 저렴해진 과정 | GeekNews](https://news.hada.io/topic?id=31404)
   * [GPT-5.6 전환으로 2.2배 빨라지고 비용은 27% 절감한 AI 에이전트 운영 사례 분석 | digitalbourgeois](https://digitalbourgeois.tistory.com/3377)
   * 프로덕션 마케팅 웹사이트를 생성하는 Ploy의 에이전트를 Claude Opus 4.8→GPT-5.6 Sol로 전환한 사례. 4개월간 어떤 프론티어 모델도 Opus를 못 이겼으나 GPT-5.6이 처음으로 넘어섬—빌드 시간 절반 이하(2.2배), 비용 27% 절감, 품질 동급 이상. 단순 성능·비용 비교를 넘어 평가 하네스, 도구 인자 채우기·프롬프트 캐싱·추론 재생 등 프로바이더별 가정을 함께 손봐야 했던 과정
+* [GPT-5.6 Sol is 50% off on AI Gateway for the next month | Vercel Changelog](https://vercel.com/changelog/gpt-5-6-sol-is-50-off-on-ai-gateway-for-the-next-month)
+  * 2026-09-18까지 Vercel AI Gateway에서 GPT-5.6 Sol 50% 할인(기본 티어 입력/출력 M토큰당 $2.50/$15.00). 모든 토큰 유형·티어·리전 적용, BYOK 제외
 * [Git real: AI agents aren't just for solo developers anymore | The New Stack](https://thenewstack.io/coding-agents-team-infrastructure/)
   * 코딩 에이전트가 솔로 개발자용을 넘어 팀 인프라로 자리잡는 흐름. 여러 에이전트를 팀 단위로 조율·공유하기 위한 인프라·워크플로 관점 분석
 * [What is inference engineering? Deepdive | Pragmatic Engineer](https://newsletter.pragmaticengineer.com/p/what-is-inference-engineering)
   * 추론 엔지니어링 심층 가이드. 하드웨어(NVIDIA GPU), 소프트웨어(CUDA~vLLM), 인프라(오토스케일링), 최적화(양자화, 투기적 디코딩, 캐싱, 병렬화) 7개 영역
 * [As an AI Infrastructure Engineer, Please learn... | Praveen Kumar Verma](https://x.com/Alacritic_Super/status/2072660023340401008)
   * AI 인프라 엔지니어가 배워야 할 스킬 목록: GPU 아키텍처·VRAM·CUDA, 양자화(INT8/FP8/4-bit)·배칭, vLLM·TensorRT-LLM·SGLang·llama.cpp 추론 최적화, KV 캐싱·투기적 디코딩, 분산 학습(DDP·FSDP·DeepSpeed·ZeRO), 모델 서빙(Triton·KServe·Ray Serve), Kubernetes·GPU 오케스트레이션, NCCL·InfiniBand
+* CloudNet@ LLMSO(Hands-On LLM Serving and Optimization) 스터디 2주차 — Model Serving System Design/Best Practices. 단일/멀티 모델 서빙 시스템을 6개 컴포넌트로 직접 구현하며 프로세스 격리·정적 배칭·스트리밍·KV 캐시·vLLM 전환을 실습하는 스터디원 글 모음
+  * [2주차-LLMSO CH3. Model Serving System Design A Deep Dive | devlos](https://devlos.tistory.com/128)
+    * API server·LLM engine·Workload manager·Model executor·Model worker·Model manager 6개 파일 구현 해설 + 멀티모델 서빙의 LRU 캐시·팩토리 패턴·Triton 위임과 비용 vs 지연 트레이드오프
+  * [2주차-LLMSO CH4. Model Serving Best Practices | devlos](https://devlos.tistory.com/129)
+    * 에이전트 워크로드가 서빙 요구사항을 바꾸는 방식(질문 1건→API 호출 4회), 엔터프라이즈 7계층 아키텍처, K8s/Ray Serve 스택, 직접 구축 vs 클라우드 손익분기(초당 약 3,255토큰)
+  * [LLM 서빙 실습 가이드 — AWS GPU에서 끝까지 돌려보기 | ddii.dev](https://ddii.dev/deep-learning/llm-serving-hands-on/)
+    * O'Reilly 실습 저장소를 EC2 g5.xlarge(A10G)에서 실측 검증—저장소 버그 2곳 수정, 배치 효과 ~2.4배, cold/warm 67배, RAG 에이전트 LLM 호출 계측(Planner 1회+Action N회), JumpStart 실패 후 EC2+vLLM 직접 서빙(438 tok/s)
+  * [서빙 1편. 여섯 컴포넌트 - 프로세스를 나누는 이유 | beengineer500](https://beengineer500.github.io/posts/2026/serving-01-architecture-and-isolation/)
+    * [서빙 2편. 정적 배칭 - 처리량이 64배 벌어지는 지점](https://beengineer500.github.io/posts/2026/serving-02-static-batching/)
+    * [서빙 3편. 스트리밍과 vLLM - 303줄을 20줄로](https://beengineer500.github.io/posts/2026/serving-03-streaming-and-vllm/)
+    * GPU 추론 프로세스 격리 근거와 mp.Queue IPC→정적 배칭의 라운드 단위 한계 vs vLLM 연속 배칭(N=64에서 64배)→sequence_id별 asyncio.Queue SSE 스트리밍, use_cache=False의 O(n²) 확인 후 직접 구현 303줄을 vLLM 20줄로 대체
+  * [LLM 모델 서빙: 시스템 설계와 베스트 프랙티스 — 통합 가이드 | gylee815](https://gylee815.github.io/llmso/w2/llm-model-serving-system-design-and-model-serving-bp.html)
+    * [실습 코드: single_model_llm_serving](https://github.com/gylee815/llm-model-inference/tree/main/ch03/single_model_llm_serving)
+    * [실습 코드: multi_model_serving](https://github.com/gylee815/llm-model-inference/tree/main/ch03/multi_model_serving)
+    * 서빙 3단 구조(API 접수→스케줄러/배치→GPU 워커)를 물류센터에 비유, vLLM·SGLang·Ray Serve·KServe vs Bedrock/SageMaker 비교, Build-or-Buy 손익분기, TTFT/TPOT 측정을 실습 코드와 1:1 매핑
+  * [LLM 스터디 2주차 - 단일 모델 LLM 서빙 서버 직접 만들어보기 | ken-0913](https://ken-0913.github.io/myblog/posts/llm/llm-serving-single-model-lab/)
+    * [멀티 모델 서빙과 Triton 위임 직접 해보기](https://ken-0913.github.io/myblog/posts/llm/llm-serving-multi-model-lab/)
+    * [kind + RTX 3050 6GB에서 Ray Serve LLM으로 vLLM 서빙하기](https://ken-0913.github.io/myblog/posts/llm/llm-ray-serving-result/)
+    * [클라우드 벤더와 함께 구축하기 — AWS SageMaker로 보는 모델 서빙 6단계](https://ken-0913.github.io/myblog/posts/llm/llm-sagemaker-serving-options/)
+    * RTX 3050 6GB에서 정적 배칭 한계·KV 캐시 부재 O(n²)·동기 vLLM API의 배칭 무력화 함정 확인→LRU 캐시(최대 2개)의 Triton 원격 언로드 위임 검증→KubeRay+RayService로 AWQ 양자화 Qwen2.5-1.5B 서빙(2.33 req/s)→Bedrock부터 자체 구축까지 AWS 6단계 스펙트럼
+  * [LLM 서빙과 최적화: 단일 모델 서빙 시스템 - 1. 개요: 트랜스포머에서 서빙 시스템으로 | sirzzang](https://sirzzang.github.io/dev/Dev-LLM-Serving-Optimization-01-LLM-Serving-Overview/)
+    * [2. 코드 구조: 다섯 컴포넌트 해부](https://sirzzang.github.io/dev/Dev-LLM-Serving-Optimization-02-LLM-Serving-From-Scratch-Structure/)
+    * [3.1. 기본 생성 요청: 첫 기동과 낮은 처리량](https://sirzzang.github.io/dev/Dev-LLM-Serving-Optimization-03-01-LLM-Serving-From-Scratch-Basic-Request/)
+    * [3.2. 배치 요청: 정적 배칭의 효과와 한계](https://sirzzang.github.io/dev/Dev-LLM-Serving-Optimization-03-02-LLM-Serving-From-Scratch-Batch-Request/)
+    * 서빙=시스템 엔지니어링 관점의 시리즈. 컴포넌트 해부(추론 프로세스 격리·큐 한 쌍 IPC)→hey 부하 테스트로 단일 워커 순차 처리 병목 재현(0.9 req/s 고정)→정적 배칭 2배 향상하되 HTTP 요청 간 배칭은 안 되는 한계 실측
+  * [2주차 Model Serving System Design/Best Practices | 김성중 velog](https://velog.io/@sejkim/2%EC%A3%BC%EC%B0%A8-Model-Serving-System-DesignBest-Practices)
+    * macOS kind 클러스터+KubeRay Operator로 RayService 배포, CPU 환경 vLLM으로 Qwen3-0.6B OpenAI 호환 서빙. Prometheus/Grafana 모니터링·트러블슈팅 포함
+* [Continuous Batching이 처리량을 높이는 방식 | 최병민 (Notion)](https://atlantic-andesaurus-8b9.notion.site/Continuous-Batching-3bd4c2420ac4801899f7c33bb57f64ee)
+  * [Windows에서 WSL2·Kubernetes·GPU·vLLM으로 LLM GPU Serving 구축 실습 | Paul Choi](https://kr.linkedin.com/posts/paul-choi-99a192244_continuous-batching%EC%9D%B4-%EC%B2%98%EB%A6%AC%EB%9F%89%EC%9D%84-%EB%86%92%EC%9D%B4%EB%8A%94-%EB%B0%A9%EC%8B%9D-notion-activity-7494374438906306560-f8Hk)
+  * WSL2+Kubernetes+GPU+vLLM 직접 연결 실습으로 Continuous Batching 동작 확인—같은 GPU에서도 요청을 어떻게 묶어 처리하느냐에 따라 성능이 크게 달라지는 과정 기록
 * [AI 에이전트는 나쁜 데이터도 그냥 쓴다...데이터 정제가 시급한 이유 | ITWorld](https://www.itworld.co.kr/article/4152850/ai-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EB%8A%94-%EB%82%98%EC%81%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%8F%84-%EA%B7%B8%EB%83%A5-%EC%93%B4%EB%8B%A4%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A0%95%EC%A0%9C.html)
 * [사용자가 개발자가 되는 시대_ AI 기반 애플리케이션 개발의 대전환 | lifidea Substack](https://lifidea.substack.com/p/ai-3c7)
   * Catch up AI 박창수. GOBI 프로젝트에서 공식 개발되지 않은 기능을 AI 에이전트가 완성한 경험을 바탕으로 "자가진화 SDLC" 제안. PoC 조기 배포→사용자 사용 패턴·실패가 실시간 요구사항이 되어 AI 개발자가 즉시 구현. 개발자 역할은 모든 벽돌을 쌓는 것이 아니라 AI가 안전하게 쌓고 배울 수 있는 환경 설계
 * [How to build AI-ready enterprise architecture in 90 days - Fast Company](https://www.fastcompany.com/91534353/ai-enterprise-architecture-strategy-90-day-plan)
   * [AI 전략의 한계는 아키텍처가 결정한다: 90일 안에 AI-ready 아키텍처 구축하기 :: 지식의 섬](https://digitalbourgeois.tistory.com/3066)
   * 2026 Vercel 보안 사고를 사례로 AI 도입 전 IT 아키텍처 재설계 필요성 논의. 3단계 90일 로드맵: 1-30일 현황 매핑, 31-60일 기반 인프라 구축, 61-90일 아키텍처 거버넌스 내재화. 데이터·컴퓨트·모델·오케스트레이션·거버넌스 5개 레이어
+* [20 questions for the Agentic Enterprise (and how Agent Platform can help) | Google Cloud Blog](https://cloud.google.com/blog/products/ai-machine-learning/20-questions-for-the-agentic-enterprise)
+  * [20 questions for the agentic enterprise | 박상길](https://kr.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_20-questions-for-the-agentic-enterprise-share-7494496610727391232-nBwg)
+  * Gemini Enterprise Agent Platform PM들이 정리한 기업 AI 에이전트 도입 시 IT 리더가 물어야 할 20가지 질문—구축(Build)→확장(Scale)→최적화(Optimize)→거버넌스(Govern) 4단계
+  * 개발 도구 선택(ADK·Antigravity·Agent Studio), MCP 데이터 연결, A2A 통신, 메모리/컨텍스트 관리, 비용 통제, 에이전트 신원·Shadow AI 방지(Agent Registry)·프롬프트 인젝션 방어(Model Armor)
 * [Governing AI in the Cloud: A Practical Guide for Architects | InfoQ](https://www.infoq.com/articles/governing-ai-cloud-guide/)
   * 아키텍트를 위한 클라우드 AI 거버넌스 실무 가이드(Dave Ward). Shadow AI가 공격면을 넓히는 문제에서 출발—대부분 조직은 이미 돌아가는 AI 통합 수를 모른다. 발견(CASB·서비스메시 텔레메트리·API 게이트웨이 로그)→데이터 분류(생성 시점 태깅, AWS Macie·Comprehend)→집행(IAM+VPC deny-by-default)→개발자 경험(보안 경로를 가장 쉬운 옵션으로)→Policy-as-Code(OPA로 컨텍스트 인지 정책). 거버넌스를 규제 체크포인트가 아닌 딜리버리 파이프라인의 일부로
 * [칼럼 AWS에서 보낸 20년, 에이전틱 AI에 대한 깨달음 | CIO](https://www.cio.com/article/4189225/)
@@ -4693,6 +4753,8 @@ Artificial Intelligence
   * [agent-orchestrator: Open-source IDE to supervise and coordinate multiple AI coding agents working in parallel](https://github.com/AgentWrapper/agent-orchestrator)
   * 최대 30개 AI 코딩 에이전트(Claude Code/Codex/Cursor/Aider/OpenCode 등 23+)를 격리된 git worktree·브랜치에서 병렬 실행·조율하는 오픈소스. CI 실패·코드 리뷰 코멘트·머지 충돌을 해당 세션으로 자동 라우팅, 실시간 칸반 대시보드+터미널 접근. Go 데몬+SQLite+Electron/React, tmux(Unix)/conpty(Windows). 플러그인 아키텍처(런타임·SCM·알림 교체), YAML 설정. Apache 2.0, 8k stars
 * [agent-skills: 20 structured workflows for AI coding agents (Addy Osmani)](https://github.com/addyosmani/agent-skills)
+  * [skills.addy.ie — Addy Osmani의 에이전트 스킬 허브](https://skills.addy.ie/)
+    * `npx skills add addyosmani/agent-skills`로 설치. 23개 라이프사이클 스킬+1개 메타, 8개 슬래시 커맨드(/spec·/plan·/build·/ship 등), 4개 페르소나, 7개 체크리스트(스펙 주도·TDD·코드 리뷰·보안 하드닝·디버깅·출시). MIT
   * [agent-skills - AI 코딩 에이전트를 위한 프로덕션급 엔지니어링 스킬 모음 | GeekNews](https://news.hada.io/topic?id=28294)
   * 시니어 엔지니어 수준의 워크플로우를 7개 슬래시 커맨드와 19개 스킬로 구조화. 스펙·테스트·보안 리뷰 품질 게이트 내장
 * [agent-skills: Browse, sync, and manage AI agent skills across Claude Code, Cursor, Gemini CLI, Copilot, and more](https://github.com/chrlsio/agent-skills)
@@ -5440,9 +5502,16 @@ Artificial Intelligence
     * [클로드 스쿼드 쓰면 워크트리 병렬 작업이 너무 쉽습니다.. 심지어 무료예요 - YouTube](https://www.youtube.com/watch?v=DGwXIi9wgIQ)
   * [claude-subconscious: Background agent that whispers to Claude Code — persistent memory by Letta](https://github.com/letta-ai/claude-subconscious)
     * Letta 에이전트가 Claude Code 세션 관찰, 코드베이스 탐색, 메모리 축적 후 각 프롬프트 전 관련 정보 제공. 상태 없는 코딩 에이전트에 영구 메모리 추가
+  * [Maximizing the value of your Claude Code sessions | Claude Blog](https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions)
+    * [Maximizing the value of your Claude Code sessions | 박상길](https://www.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_maximizing-the-value-of-your-claude-code-share-7495079830632259584-C2FA/)
+    * [Claude Code 세션의 가치를 극대화하는 방법 | GeekNews](https://news.hada.io/topic?id=32534)
+    * 토큰 비용 결정 요인—출력이 입력보다 약 5배 비쌈, 캐시 읽기는 입력의 0.1배. `/model`·`/effort`·패스트 모드 변경은 캐시를 깨므로 세션 시작이나 `/clear` 직후에
+    * 작업 전환 시 `/clear`, 자리 비우기 전 `/compact`, 파일은 @-멘션 첨부, 출력 많은 명령은 quiet 플래그나 서브에이전트로 격리해 매 턴 재전송 토큰 절감
   * [ClaudeTuner — Real-Time Claude.ai Usage Tracker & Rate Limit Monitor](https://claudetuner.com/)
     * [Claude 사용량을 한눈에: ClaudeTuner로 실시간 사용량 추적과 플랜 최적화하기](https://digitalbourgeois.tistory.com/2838)
     * Chrome 확장으로 5시간/7일 사용량 실시간 모니터링, 리셋 예측, 14일 패턴 분석 플랜 최적화. 팀 대시보드 지원
+  * [claude-pulse: Real-time usage monitor for Claude Code — session limits, weekly limits, and plan tier](https://github.com/NoobyGains/claude-pulse)
+    * Claude Code 상태바에 세션/주간 사용량·모델별 캡·비용을 컬러 프로그레스 바로 실시간 표시하는 단일 파일 Python 도구. 10가지 테마·애니메이션. MIT
   * [claude-workflow: Universal Claude Code workflow plugin with agents, skills, hooks, and commands](https://github.com/CloudAI-X/claude-workflow)
     * Claude Code를 위한 범용 워크플로우 플러그인, 소프트웨어 개발 과정을 자동화하고 최적화하기 위해 설계
     * 7개의 전문 에이전트와 6개의 지식 기술, 8개의 자동화 훅을 통해 복잡한 개발 작업을 체계적으로 관리
@@ -6936,6 +7005,11 @@ Artificial Intelligence
   * [🤖 Live Avatar: 무한 길이 실시간 오디오 기반 아바타 생성 혁신](https://fornewchallenge.tistory.com/entry/%F0%9F%A4%96-Live-Avatar-%EB%AC%B4%ED%95%9C-%EA%B8%B8%EC%9D%B4-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EC%98%A4%EB%94%94%EC%98%A4-%EA%B8%B0%EB%B0%98-%EC%95%84%EB%B0%94%ED%83%80-%EC%83%9D%EC%84%B1-%ED%98%81%EC%8B%A0)
 * [OpusClip - AI-powered Video Repurposing](https://www.opus.pro/)
   * [7개월 만에 연매출 130억 찍은, 숏폼 만들어 주는 AI 스타트업](https://maily.so/founderstory/posts/0a0968c1)
+* [Palmier — macOS video editor built for AI](https://www.palmier.io/)
+  * [palmier-pro](https://github.com/palmier-io/palmier-pro)
+  * [AI 에이전트와 함께 영상 편집한다, macOS 오픈소스 편집기 palmier-pro | digitalbourgeois](https://digitalbourgeois.tistory.com/3532)
+  * Swift 기반 macOS 전용(macOS 26 Tahoe·Apple Silicon) 비디오 편집기. 타임라인 안에서 Seedance·Kling·ElevenLabs 등 생성 모델로 이미지·비디오·오디오 생성, MCP 서버로 Claude Code/Codex/Cursor 연동해 편집 자동화
+  * 편집기 본체·MCP 서버·에이전트 챗은 오픈소스(GPL-3.0)·무료, 생성형 AI 처리 부분은 클로즈드소스(로그인·구독 필요)
 * [seedance-prompt-skill: Seedance 2.0 video prompt generation skill for Claude Code](https://github.com/songguoxs/seedance-prompt-skill)
   * [Claude Code에서 Seedance 2.0 영상 프롬프트를 자동 생성하는 방법 | digitalbourgeois](https://digitalbourgeois.tistory.com/3497)
   * 자연어 아이디어를 ByteDance Seedance 2.0(即梦)용 구조화 영상 프롬프트로 변환하는 Claude Code 커스텀 스킬. Timestamp Storyboarding, Negative Prompting, @이미지/@영상/@오디오 멀티모달 참조, 15초 초과 시 Multi-Segment Stitching 등 10가지 기능. MIT
