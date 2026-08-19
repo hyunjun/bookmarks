@@ -1801,8 +1801,11 @@ App
 * 절전 모드 방지
   * Amphetamine
   * caffeinate [맥용 잠자기 방지 도구 caffeinate](https://seorenn.tistory.com/61)
+  * [dontsleep: Keep the Mac awake with the lid closed](https://github.com/innocarpe/dontsleep)
+    * [맥북 뚜껑을 닫아도 Claude Code 세션이 끊기지 않도록 만든 DontSleep | Wooseong Kim](https://kr.linkedin.com/posts/wooseong-kim_github-innocarpedontsleep-keep-the-mac-activity-7494435145022885888-Aa5O)
   * [**KeepingYouAwake - A Caffeine clone for OS X Yosemite (and Dark Mode)**](https://github.com/newmarcel/KeepingYouAwake)
   * [Theine 2 - Caffeine for your Mac](https://www.ixeau.com/apps/theine/) KeepingYouAwake같은 앱
+    * 뚜껑을 닫아도 작업(코딩 에이전트 세션 등)이 계속되는 메뉴바 앱. 내장 화면·키보드 조명을 꺼 발열 감소(클램쉘 모드), 뚜껑 열면 원상 복원, 과열 경고 시 자동 잠자기 옵션. Apache-2.0
 * [3uTools](http://www.3u.com/) Files & Data Management Tool
 * Across Modern Calendar [일정부터 할일관리까지 하루를 완벽하게 | 아이폰 캘린더 앱 - YouTube](https://www.youtube.com/watch?v=TAiQE3dQWpM)
 * `afplay` [macOS에서 음원 파일 노동요 모드로 재생하기](https://rein.kr/blog/archives/5575)
