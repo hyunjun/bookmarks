@@ -877,6 +877,8 @@ Apache
 * [토스증권의 수 천개 실시간 데이터 파이프라인 운영방법 #2: MSA 환경 Observability 높이기](https://toss.tech/article/MSA-observability)
 * [Kafka는 메시지를 보내지 않는다 파일을 흘려보낸다](https://velog.io/@rlaejrqo465/Kafka%EB%8A%94-%EB%A9%94%EC%8B%9C%EC%A7%80%EB%A5%BC-%EB%B3%B4%EB%82%B4%EC%A7%80-%EC%95%8A%EB%8A%94%EB%8B%A4-%ED%8C%8C%EC%9D%BC%EC%9D%84-%ED%9D%98%EB%A0%A4%EB%B3%B4%EB%82%B8%EB%8B%A4)
 * [EC2 Benchmark Dashboard](https://benchmark.aws.atomai.click/#kafka) kafka는 disk io가 집약적이라 최신세대 인스턴스 이점이 거의 없음
+* [디스크는 느리다는데 Kafka는 어떻게 메모리만큼 빠를까요? (Kafka의 설계) - YouTube](https://www.youtube.com/shorts/aC8pQihrmZg)
+  * 2분코딩. Kafka가 디스크 기반인데도 빠른 건 sequential I/O, OS 페이지 캐시 활용, zero-copy 전송 덕분—디스크가 가장 잘하는 패턴만 골라 쓴 설계. NVMe 시대엔 sequential 우위가 줄어 설계 전제가 흔들리는 중
 
 ## Kafka Library
 * [aiokafka - asyncio client for kafka http://aiokafka.readthedocs.io ](https://github.com/aio-libs/aiokafka)
