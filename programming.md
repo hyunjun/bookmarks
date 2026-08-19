@@ -7846,6 +7846,8 @@ Programming
   * [기술 뉴스 #253 : 24-09-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1733)
   * [기술 뉴스 #254 : 24-09-16 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1734)
   * [기술 뉴스 #263 : 25-02-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1753)
+  * [기술 뉴스 #300 : 2026-08-16 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1809)
+    * Claude Sonnet 5·Grok 4.6·Gemini 3.7 Flash 출시, Cloudflare Agents Week 대규모 발표(Agent Cloud·Wallets·Kitesurf 브라우저), Agent Plugins 1.0.0 표준 공개 등
 * [teletext: Hacker news as teletext](https://github.com/glynnbird/teletext)
 
 # Oncall On call
@@ -8626,6 +8628,8 @@ Programming
   * [Protocol Buffers - overview](https://jusths.tistory.com/125)
   * [Protocol buffers vs JSON | An interview anecdote | by Uddeshya Singh | Mar, 2022 | Medium](https://singhuddeshyaofficial.medium.com/protocol-buffers-vs-json-an-interview-anecdote-265aff95c3f1)
   * [mypy-protobuf: open source tools to generate mypy stubs from protobufs](https://github.com/dropbox/mypy-protobuf)
+  * [같은 데이터를 Protobuf로 바꿨더니 페이로드가 70% 줄었습니다 (직렬화) - YouTube](https://www.youtube.com/shorts/EKqCAtEUVgg)
+    * 2분코딩. JSON은 필드 이름·구분자·숫자를 전부 문자열로 저장해 크기가 크고 파싱이 느림. Protobuf는 필드 번호+바이너리 인코딩으로 크기 70% 감소·속도 7~8배 향상. 단 사람이 못 읽어 디버깅이 어렵고 스키마 관리 비용 발생
 * [UBJSON](http://ubjson.org/)
 
 # Service, Product
