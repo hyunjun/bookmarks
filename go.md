@@ -1004,6 +1004,9 @@ Go
   * [golang - Lorca를 사용하여 Go로 HTML5 앱 만들기 - jacking75](https://jacking75.github.io/go_lib_Lorca/)
 * [wails: Create desktop apps using Go and Web Technologies](https://github.com/wailsapp/wails)
   * [Wails - Go 사용 데스크톱 응용 프로그램 개발 프레임 워크 | GeekNews](https://news.hada.io/topic?id=4774)
+  * [Wails v3 Beta is here!](https://v3.wails.io/blog/wails-v3-beta/)
+    * [Wails v3 Beta, Go 데스크톱 앱 개발 구조를 다시 설계하다 | digitalbourgeois](https://digitalbourgeois.tistory.com/3531)
+    * v3는 기능 추가가 아니라 앱 구성 방식 자체를 재설계. `wails.Run(...)` 대신 Application/Window/Service를 명시적 객체·수명주기로 관리, 멀티윈도우 기본 지원, binding 대신 Service로 API 경계 구분, Go 정적 분석 기반 TypeScript 바인딩(주석·파라미터명 보존), Taskfile 빌드, Server Build(네이티브 창 없이 실행). macOS/Windows/Linux(GTK4+WebKitGTK 6.0), iOS/Android 실험적. 안정판은 여전히 v2이며 v2→v3는 실질적 포팅 필요
 
 ## Library logging
 * [Concurrent Logging - in Golang](https://jusths.tistory.com/128)
