@@ -1214,6 +1214,9 @@ SQL
   * [WeSQL - S3를 저장소로 사용하는 혁신적인 MySQL 배포판 | GeekNews](https://news.hada.io/topic?id=18058)
 
 ## MySQL Sharding
+* [샤딩을 고려하기 전에 | 박수현](https://www.linkedin.com/posts/park-soohyun-b3494332_%EC%83%A4%EB%94%A9%EC%9D%84-%EA%B3%A0%EB%A0%A4%ED%95%98%EA%B8%B0-%EC%A0%84%EC%97%90-ugcPost-7494220604188024832-MlFp/)
+  * 샤딩은 최후의 수단—단일 인스턴스 최적화·캐싱·읽기 복제본·수직 확장을 모두 시도한 뒤 검토해야 하며, 단순한 데이터 증가만으로는 분산 시스템의 복잡성을 정당화하기 어려움
+  * 데이터 크기보다 소유권이 중요: 조직이 커지면 "누가 이 데이터를 책임지는가"가 기술적 포화보다 먼저 병목이 됨. 저자는 MSA 중심 경험 탓에 Oracle 샤딩 기능을 간과하고 오픈소스 진영 위주로 사고했음을 자기 성찰
 * [Sharding Pinterest: How we scaled our MySQL fleet](https://medium.com/@Pinterest_Engineering/sharding-pinterest-how-we-scaled-our-mysql-fleet-3f341e96ca6f)
 * [MySQL Sharding에 관한 자료들](http://jason-heo.github.io/mysql/2015/08/23/mysql-sharding.html)
 * [Apache ShardingSphere를 이용한 DB Sharding](https://blog.naver.com/asei/221511101848)
