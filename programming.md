@@ -1849,6 +1849,9 @@ Programming
 * [Software engineer — from monolith to cloud: think small](https://coder.today/software-engineer-from-monolith-to-cloud-think-small-f828effc6afc)
 * [데이터센터 모놀리스에서 클라우드 쿠버네티스: 클라우드 네이티브로의 성공적인 이전을 위한 전략](https://drive.google.com/file/d/1phjKwPQp7fSqyDeHRQFAbGn5D0_H_U9G/view)
 * [Beyond the Distributed Monolith: Rearchitecting the Big Data Platform](https://www.infoq.com/presentations/bbc-distributed-monolith-microservices/)
+* [플러그를 꽂듯 결합이 되어야 진정 모듈화라 부를 만하다](https://brunch.co.kr/@graypool/2805)
+  * 공개 프로젝트의 모듈화는 내부 의존성과 배포 이식성 두 측면을 구분해 관리해야 하며, 실제 서버 배포에서 PostgreSQL·PM2·SSL 인증서를 통합하려면 쉘 스크립트로 조율해야 함
+  * 진정한 모듈화는 규격화된 플러그를 꽂듯 각 요소가 오차 없이 결합되는 "접합부 통합의 엔지니어링"으로 완성된다는 관점
 * [What Is a Modular Monolith? | Rebel](https://www.jrebel.com/blog/what-is-a-modular-monolith)
 * [Modular Monolithic Architecture, Microservices and Architectural Drivers](https://www.infoq.com/news/2020/01/monolith-architectural-drivers/)
 * [Modular Monolith: A Primer - Kamil Grzybek](https://www.kamilgrzybek.com/design/modular-monolith-primer/)
