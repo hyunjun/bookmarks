@@ -102,6 +102,10 @@ Robot
   * [Oomwoo - 직접 만드는 오픈소스 로봇 청소기 | GeekNews](https://news.hada.io/topic?id=31060)
   * 메이커용 DIY 로봇 청소기. 2D LiDAR 매핑·자율 주행, ROS 2·Home Assistant 연동, 클라우드 없는 로컬 우선, 3D 프린팅 부품. Raspberry Pi + 부품 $100~200으로 $500~600급 상용 청소기 목표
 * [Robocode Home](https://robocode.sourceforge.io/)
+* [SimFoundry: Modular and Automated Scene Generation for Policy Learning and Evaluation](https://github.com/NVlabs/SimFoundry)
+  * [SimFoundry | NVIDIA Research](https://research.nvidia.com/labs/gear/simfoundry/)
+  * [2606.28276 SimFoundry](https://arxiv.org/abs/2606.28276)
+  * NVIDIA Labs. 짧은 실세계 영상 하나를 1시간 이내에 물리 시뮬레이션 씬으로 변환—수동 주석 없이 모든 물체를 자동 분할, 지오메트리 재구성, 텍스처 3D 메시 생성 후 물리 파라미터·digital cousin 변형·태스크 제안까지 포함한 OmniGibson 씬으로 컴파일. Python, Apache-2.0
 * [uoais: Codes of paper "Unseen Object Amodal Instance Segmentation via Hierarchical Occlusion Modeling", ICRA 2022](https://github.com/gist-ailab/uoais)
   * [학습하지 않은 물체 인식하는 '로봇 시각 인공지능'... 지스트 이규빈 교수팀, 오픈소스로 공개 < 이미지 < AI Tech < 기사본문 - 인공지능신문](http://www.aitimes.kr/news/articleView.html?idxno=24251)
 
