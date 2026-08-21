@@ -765,6 +765,10 @@ ElasticSearch - Lucene
   * Elasticsearch 대체제 오픈소스(Rust)
   * [Sonic - 빠르고 가벼운 Schema-less 검색 백엔드 | GeekNews](https://news.hada.io/topic?id=3856)
 * [SPLADE: sparse neural search (SIGIR21, SIGIR22)](https://github.com/naver/splade)
+* [SPLADE-mlx: SPLADE sparse retrieval models — text and visual — natively on Apple Silicon with MLX](https://github.com/NomaDamas/SPLADE-mlx)
+  * [BM25보다 더 좋은 키워드 검색 SPLADE의 MLX 포팅 버전을 공개합니다 | Jeffrey Dongkyu](https://www.linkedin.com/posts/jeffrey-dongkyu_bm25%EB%B3%B4%EB%8B%A4-%EB%8D%94-%EC%A2%8B%EC%9D%80-%ED%82%A4%EC%9B%8C%EB%93%9C-%EA%B2%80%EC%83%89-splade%EC%9D%98-mlx-%ED%8F%AC%ED%8C%85-%EB%B2%84%EC%A0%84%EC%9D%84-%EA%B3%B5%EA%B0%9C%ED%95%A9%EB%8B%88%EB%8B%A4-share-7495876784589058048-NaMm/)
+  * Apple Silicon에서 MLX로 SPLADE 스파스 검색 모델 실행. 텍스트 SPLADE는 정밀도 동일 조건에서 PyTorch MPS 대비 1.3~2.9배(CPU 대비 최대 7.3배) 빠르고 BEIR fp32 검색 품질은 PyTorch와 동일
+  * V-SPLADE(arXiv:2605.30917)는 NAVER의 inference-free 멀티모달 스파스 검색기 첫 MLX 포팅—ViDoRe에서 fp32 점수 동일, 쿼리는 약 6µs inference-free. M4 Max 측정
 * [subitolabs - ElasticSearch TestR, filters - tokenizers - analyzers](http://es.subitolabs.com/#/)
 * [Typesense: fast, open-source, typo-tolerant search engine](https://typesense.org/)
   * [typesense - 오픈소스 검색 엔진 | GeekNews](https://news.hada.io/topic?id=3369)
