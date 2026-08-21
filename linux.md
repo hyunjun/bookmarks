@@ -1420,6 +1420,8 @@ Linux
 * [리눅스용 멀티미디어 프로그램 - 유튜브 플레이어, 다운로더](https://sunyzero.tistory.com/300)
 * [Oddly useful Linux tools you probably haven't seen before - YouTube](https://www.youtube.com/watch?v=32O0a6qCQaQ)
 * [some cool Linux programs you've never seen - YouTube](https://www.youtube.com/watch?v=3BxIpVk_xZI)
+* [My favorite TUIs on Linux 2026 - YouTube](https://www.youtube.com/shorts/uDb0D6rSr2s)
+  * Slax. 2026년 추천 TUI 6종—neovim(에디터), btop(리소스 모니터), impala(Wi-Fi 관리), wiremix(PipeWire 오디오 믹서), yazi(파일 매니저), walker(앱 런처)
 * [123elf: A native port of Lotus 1-2-3 to Linux](https://github.com/taviso/123elf)
   * [Lotus 1-2-3 For Linux](https://lock.cmpxchg8b.com/linux123.html)
 * [aaPanel: Simple but Powerful web-based Control Panel](https://github.com/aaPanel/aaPanel)
@@ -1480,6 +1482,8 @@ Linux
   * [kkamagui의 작업실 :: xrandr로 화면 배열 변경 및 밝기 변경하기](https://kkamagui.tistory.com/930)
   * [kkamagui의 작업실 :: 리눅스용 간단한 볼륨 컨트롤 Pulseaudio Volume Control 설치하기](https://kkamagui.tistory.com/931)
   * [kkamagui의 작업실 :: i3wm 윈도우 매니저에서 배경 이미지 설정하기](https://kkamagui.tistory.com/934)
+* [impala: 🛜 TUI for managing wifi on Linux](https://github.com/pythops/impala)
+  * 리눅스 Wi-Fi 관리 TUI. Rust, 2.8k stars
 * Inotify
   * [Inotify: Efficient, Real-Time Linux File System Event Monitoring](https://www.infoq.com/articles/inotify-linux-file-system-event-monitoring)
   * [Linux file system events with C, Python and Ruby](http://markusjais.com/linux-file-system-events-with-c-python-and-ruby/)
@@ -1592,6 +1596,8 @@ Linux
 * [watchexec: Executes commands in response to file modifications](https://github.com/watchexec/watchexec)
 * [Wait4X - Wait for anything!](https://wait4x.dev/)
   * [Wait4X allows you to wait for a port or a service to enter the requested state](https://github.com/wait4x/wait4x)
+* [walker: Multi-Purpose Launcher with a lot of features. Highly Customizable and fast](https://github.com/abenz1267/walker)
+  * 다목적 앱 런처. 커스터마이징 자유도가 높고 빠름. Rust, 3k stars
 * Wayland
   * [Think twice before abandoning Xorg. Wayland breaks everything!](https://gist.github.com/probonopd/9feb7c20257af5dd915e3a9f2d1f2277)
   * [Isolating Xwayland in a VM - Thomas Leonard's blog](https://roscidus.com/blog/blog/2021/10/30/xwayland/)
@@ -1602,6 +1608,8 @@ Linux
 * [webcamize: Use (almost) any camera as a webcam](https://github.com/cowtoolz/webcamize)
 * [when: Timezones from the command line](https://github.com/mitsuhiko/when)
   * [when - 터미널에서 타임존별 시간 계산하기 | GeekNews](https://news.hada.io/topic?id=5537)
+* [wiremix: Simple TUI audio mixer for PipeWire](https://github.com/tsowell/wiremix)
+  * PipeWire용 간단한 TUI 오디오 믹서. Rust, 1k stars
 * [WinBoat - Run Windows Apps on Linux with Seamless Integration](https://www.winboat.app/)
   * [리눅스에서 윈도우 앱을 매끄럽게 실행하는 WinBoat | GeekNews](https://news.hada.io/topic?id=23549)
 * [X2GO: Linux Remote Desktop & Terminal Server System With Support For Published Applications](https://www.youtube.com/watch?v=oSuy1TS8FGs)
