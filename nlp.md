@@ -2779,6 +2779,9 @@ NLP
   * [B200 GPU로 한국어 소형 파운데이션 모델 구축하기 ① - 데이터셋](https://elice.io/ko/newsroom/b200-korean-llm-dataset-1)
   * [B200 GPU로 한국어 소형 파운데이션 모델 구축하기 ② - 학습·평가](https://elice.io/ko/newsroom/b200-korean-llm-dataset-2)
 * [Emergent Introspective Awareness in Large Language Models](https://transformer-circuits.pub/2025/introspection/index.html)
+  * [2601.01828 Emergent Introspective Awareness in Large Language Models](https://arxiv.org/abs/2601.01828)
+    * [Jack Lindsey 논문 소개 | Suk Hyun K.](https://www.linkedin.com/posts/suk-hyun-k-31ba9b369_suaqtztfmqvzsuystusxr-sjoswmrxgujp-aiqlwspf-share-7493077895981117440-eZtF/)
+    * arxiv 버전. Claude Opus 4·4.1이 가장 뛰어난 내재적 자기 인식을 보이고 모델이 자신의 출력과 외부 입력을 구분할 수 있었으나, 이 능력은 매우 불안정하고 맥락에 따라 달라짐
   * [김성완 - Emergent Introspective Awareness in Large Language Models... | Facebook](https://www.facebook.com/seongwan.kim.3/posts/pfbid0Q1ZapW8ac2uHR5tjr8LSqsDMAPTG9V8XvDXoRxA6erbMqmPZkvxpihgwZRnVHMZGl)
     * 앤트로픽에서 대규모 언어 모델(LLM)이 자신의 내부 상태를 성찰적으로 인식하는 능력이 있는지에 대한 연구
     * 연구진은 "개념 주입"이라는 기술 사용, 모델의 활성화에 의도적인 "생각" 삽입, 모델이 주입된 개념을 감지/식별할 수 있는지 측정
