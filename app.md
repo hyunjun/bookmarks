@@ -311,6 +311,9 @@ App
 * [AgentHound: Red team framework for AI agent infrastructure](https://agenthound.io/)
   * [adithyan-ak/AgentHound: Offensive security framework for AI agent infrastructure](https://github.com/adithyan-ak/AgentHound)
   * AI 에이전트 인프라(MCP·A2A·게이트웨이·추론·벡터스토어)를 겨냥한 오픈소스 레드팀 프레임워크. 정찰·크리덴셜 탈취·모델 exfiltration·포이즈닝·공격경로 분석을 수행하고 모든 공격 경로를 Neo4j 그래프로 증명. "에이전틱 스택의 BloodHound". Go, Apache-2.0
+* [AI-Infra-Guard: A full-stack AI Red Teaming platform](https://github.com/Tencent/AI-Infra-Guard)
+  * [GitHub Tencent/AI-Infra-Guard | 박상길](https://www.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_github-tencentai-infra-guard-a-full-stack-share-7496539710383730688-PpNJ/)
+  * 텐센트의 풀스택 AI 레드팀 플랫폼. Agent Scan·Skills Scan·MCP Scan·AI Infra Scan과 LLM 탈옥(jailbreak) 평가로 AI 생태계 보안 점검. Python, 5.2k stars
 * [AI-ML Pentest Academy — NEURAL BREACH (AI/ML roadmap for pentesters)](https://anmolksachan.github.io/LLMPenTestHub/ai-ml-roadmap-for-pentester.html)
   * [AI-ML-Free-Resources-for-Security-and-Prompt-Injection: AI/ML Pentesting Roadmap for Beginners](https://github.com/anmolksachan/AI-ML-Free-Resources-for-Security-and-Prompt-Injection)
   * 초보자용 AI/ML 펜테스팅·프롬프트 인젝션 학습 로드맵과 무료 리소스 큐레이션. anmolksachan
