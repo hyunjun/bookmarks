@@ -464,6 +464,9 @@ Hardware
 * [gokrazy: a native Go userland for your Raspberry Pi 3 or 4 appliances (or amd64 PCs!)](https://github.com/gokrazy/gokrazy)
 * [Hackberry-Pi_Zero: A handheld Linux terminal using Raspberry pi Zero 2W as Core with 4" 720X720 TFT display](https://github.com/ZitaoTech/Hackberry-Pi_Zero)
   * [Hackberry-Pi_Zero – Raspberry Pi Zero 2W를 사용하는 휴대용 | GeekNews](https://news.hada.io/topic?id=16146)
+* [Inky Impression - Pimoroni](https://shop.pimoroni.com/products/inky-impression)
+  * 40핀 헤더가 있는 모든 라즈베리파이(Zero 포함)에 붙이는 E Ink Spectra 6 컬러 ePaper 디스플레이. 6색(빨강·초록·파랑·노랑·검정·흰색), 4.0"(600x400, 180PPI, 리프레시 12초)·7.3"(800x480, 127PPI, 28초)·13.3"(1600x1200, 150PPI, 12초) 3종
+  * 저전력이라 항상 켜두는 프로젝트(대시보드·액자·상태 표시)에 적합. 버튼 4개와 Qwiic/STEMMA QT 커넥터 내장
 * [internet-pi: Raspberry Pi config for all things Internet](https://github.com/geerlingguy/internet-pi)
 * [MentorPi Open Source Robot Car: ROS2 & Raspberry Pi 5 - YouTube](https://www.youtube.com/watch?v=cUjPJp_xUIc)
 * Pi4J [Welcome to Pi4J - Pi4J](https://pi4j.com/)
