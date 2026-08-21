@@ -4107,6 +4107,8 @@ Python
 * [minikeyvalue](https://github.com/geohot/minikeyvalue)
   * [George Hotz | Programming | minikeyvalue: a sub 1000 line key value store (for production!)](https://www.youtube.com/watch?v=cAFjZ1gXBxc)
 * [miracle-ad - AAA 중 Authorization 관련 모듈 - miracle-acl](http://mcchae.egloos.com/11272920)
+* [Monopoly is a Python library & CLI that converts bank statement PDFs to CSV](https://github.com/benjamin-awd/monopoly)
+  * 은행 명세서 PDF를 CSV로 변환하는 Python 라이브러리·CLI. 415 stars
 * [MORPHiS is a global encrypted distributed datastore intended to replace the cloud for storage and far more](https://morph.is/)
 * [moviepy: Video editing with Python](https://github.com/Zulko/moviepy)
 * [MUMPS : a parallel sparse direct solver](http://mumps.enseeiht.fr/)
