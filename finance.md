@@ -309,6 +309,8 @@ Finance
 * [토스증권 Open API x 슬랙(Slack) 연동 주식 자동매매 시스템 구축 가이드 1편 - YouTube](https://www.youtube.com/watch?v=G1E921X5LYI)
   * [토스-슬랙 VCP 자동매매 구축 실록 (노션 가이드)](https://app.notion.com/p/Toss-Slack-VCP-389993d3695a8089b088e7bc4f6c2915)
   * 토스증권 Open API+Slack을 AI 에이전트(Claude 등)와 연동해 VCP(변동성 축소 패턴) 기반 자동매매 구축. 발굴 종목을 Slack으로 알리고 Approve/Reject 버튼으로 최종 주문 제어하는 Human-in-the-Loop. 모의투자 모드(TOSS_BOT_DRY_RUN=true) 기본
+* [KB증권 Open API로 나만의 주식투자 환경 구축해보기 | API 알려주는 누나 - YouTube](https://www.youtube.com/watch?v=cVpqVDmOYsI)
+  * 깨비증권 마블TV. KB증권이 출시한 Open API 소개와 실전 활용—API 개념, 활용 사례(자동매매·퀀트·AI비서·잔고 조회), API key 신청, 문서 확인, GPT/Claude로 코딩 몰라도 시세조회·매수/매도하는 나만의 앱 만들기까지 5파트 구성
 * [Show GN 여러 주식 및 경제지표 비교 사이트 | GeekNews](https://news.hada.io/topic?id=26813)
   * 비개발자가 AI 도움으로 만든 주식·경제 지표 비교 차트 사이트. 여러 종목의 수익률·가격 추이를 기간별로 복잡한 설정 없이 비교
 * [The MCP Features Bloomberg Built for High Stakes Financial AI - YouTube](https://www.youtube.com/watch?v=z6SuFQYClQI)
