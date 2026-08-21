@@ -4345,6 +4345,8 @@ Programming
 * [Nextcloud - Open source content collaboration platform](https://nextcloud.com/)
   * [클라우드 스토리지: Nextcloud | Varins](https://varins.com/library/server/cloud-storage-nextcloud/)
   * [(EP.09) 구글드라이브, iCloud 용량이 부족하다면?!! 미니PC에 Nextcloud 설치해보세요. - YouTube](https://www.youtube.com/watch?v=q56o7s6mrKM)
+  * [Access Your Files ANYWHERE You Go — The Ultimate Pi 5 Setup - YouTube](https://www.youtube.com/watch?v=jOYG10CvZZA)
+    * Raspberry Pi 5 + NVMe SSD에 Nextcloud와 Tailscale을 올려 월 구독료 없는 개인 클라우드 서버 구축. Google Drive·iCloud처럼 모든 기기에서 파일을 백업·동기화하고 어디서나 접근
 * [Open Source Cloud Guide](https://open-cloud-guide.dev/)
 * [OpenTelemetry](https://opentelemetry.io/)
   * [Why (and how) GitHub is adopting OpenTelemetry | The GitHub Blog](https://github.blog/2021-05-26-why-and-how-github-is-adopting-opentelemetry/)
