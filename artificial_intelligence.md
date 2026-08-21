@@ -680,6 +680,9 @@ Artificial Intelligence
 * [Agentic AI 디자인 패턴 (Part 1): 기초 패턴과 실전 적용 | STONI](https://stoni.space/posts/ko/ai/agentic-ai-patterns-part1)
 * [Agentic AI 디자인 패턴 (Part 2): 오케스트레이션과 라우팅 | STONI](https://stoni.space/posts/ko/ai/agentic-ai-patterns-part2)
 * [Agentic AI 디자인 패턴 (Part 3): Multi-Agent 시스템 | STONI](https://stoni.space/posts/ko/ai/agentic-ai-patterns-part3)
+* [The Architecture of Multi-Agent Systems | Code Pointer](https://codepointer.dev/p/the-architecture-of-multi-agent-systems)
+  * 멀티 에이전트 시스템을 제어·통신·상태·검증 네 가지 조정 결정으로 정리. 에이전트 설정의 7차원(에이전트 루프·모델 설정·작업·실행 환경·컨텍스트·메모리·도구)이 각 에이전트의 역할과 기능을 결정
+  * 제어 패턴으로 에이전트 도구·핸드오프·감독자·선언적 그래프를 비교하고, 상태 저장소와 독립적 검증 메커니즘으로 신뢰성 확보
 * [Introducing Agent HQ: Any agent, any way you work - The GitHub Blog](https://github.blog/news-insights/company-news/welcome-home-agents/)
   * [Introducing Agent HQ: Any agent, any way you work | 박상길](https://www.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_introducing-agent-hq-any-agent-any-way-activity-7389411287853821952-3kK_)
 * [Multi Agent 시스템 Scaling Out Architecture(Hybrid Cloud) | Hyunjun Jeon](https://www.linkedin.com/posts/rascal-hyunjun_multi-agent-%EC%8B%9C%EC%8A%A4%ED%85%9C-scaling-out-architecture-ugcPost-7389311558046138368-Wcwh)
@@ -829,6 +832,9 @@ Artificial Intelligence
 * [Your Agents Are Stuck In Your Org Chart | Joe Reis](https://joereis.substack.com/p/your-agents-are-stuck-in-your-org)
   * [에이전트를 100개 깔았는데 왜 더 느려졌냐고? 조직도가 그대로니까 | 원대로](https://www.facebook.com/drwonsg/posts/pfbid0jQEh6f7CQfb9y3htjGeFFGifb1GupTmHWoruJxpsrvCsS2WyvT8AQjeMTQjdVSM1l)
   * 에이전트를 아무리 늘려도 조직도(데이터 소유·의미 구조)가 그대로면 더 느려진다는 관점. 212명 설문에서 데이터 주인이 25%뿐—에이전트가 이 빈자리 위에서 날뛴다는 진단
+* [이 모델과 하네스 공식으로 에이전트 비용을 50배 줄일 수 있습니다 | Jeongmin Lee](https://www.linkedin.com/posts/jyoung105_%EC%9D%B4-%EB%AA%A8%EB%8D%B8%EA%B3%BC-%ED%95%98%EB%84%A4%EC%8A%A4-%EA%B3%B5%EC%8B%9D%EC%9C%BC%EB%A1%9C-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EB%B9%84%EC%9A%A9%EC%9D%84-50%EB%B0%B0-%EC%A4%84%EC%9D%BC-%EC%88%98-%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-share-7493122108395540480-HTtG/)
+  * DeepSeek V4 Flash + OmP(Oh-my-pi) 하네스 조합으로 에이전트 비용 약 50배 절감. 실제로 거의 10억 토큰을 $2.65에 처리(캐시 없이 같은 작업이면 $130 이상 청구될 상황)
+  * 핵심은 캐시 단가 차이—적중 시 1M 토큰당 $0.0028 vs 미스 시 $0.14(50배). OmP는 시스템 프롬프트 구조를 유지해 실사용 99.93% 적중률 달성, 연속 작업으로 캐시 TTL을 유지하면 적중률이 급상승. Meta Muse Spark 1.2도 더 저렴한 단가 구조 제공
 * [2506.02153 Small Language Models are the Future of Agentic AI](https://arxiv.org/abs/2506.02153)
   * [NVIDIA의 Peter Belcak가 소개하는 소형 언어 모델(SLM)이 에이전트 AI의 미래인 이유](https://www.arizekorea.com/insights/post/nvidias-small-language-models-are-the-future-of-agentic-ai-paper-jNrUOzqlulGhemG)
 * [2510.06445 A Survey on Agentic Security: Applications, Threats and Defenses](https://arxiv.org/abs/2510.06445)
@@ -1125,6 +1131,9 @@ Artificial Intelligence
 * [Dynamiq: The Operating Platform for GenAI Applications](https://www.getdynamiq.ai/)
   * [Dynamiq is an orchestration framework for agentic AI and LLM applications](https://github.com/dynamiq-ai/dynamiq)
 * [Embabel](https://github.com/embabel)
+  * [Embabel Agent Framework Reaches 1.0 | InfoQ](https://www.infoq.com/news/2026/08/embabel-1/)
+    * [Embabel Agent Framework Reaches 1.0 | 박상길](https://www.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_embabel-agent-framework-reaches-10-share-7492158042285936640-aZII/)
+    * Java·Kotlin 개발자용 AI 에이전트 프레임워크 정식 릴리스. 목표와 액션을 타입화된 도메인 객체로 정의해 프롬프트를 수동 작성할 필요 없음. 게임 AI의 GOAP(목표 지향 액션 계획)로 런타임에 액션 시퀀스를 자동 계획하고 상황 변화 시 동적 재평가. Spring AI 기반으로 OpenAI·Anthropic·Gemini 지원, LangGraph·Akka와 다른 프로그래밍 모델
   * [embabel-agent: Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/](https://github.com/embabel/embabel-agent)
     * [Embabel Agent Framework User Guide](https://docs.embabel.com/)
   * [GenAI Grows Up: Building Production-Ready Agents on the JVM • Rod Johnson • GOTO 2025 - YouTube](https://www.youtube.com/watch?v=yMDw0nlWd7s)
@@ -1292,6 +1301,8 @@ Artificial Intelligence
   * 로컬 퍼스트 AI 런타임. 48개 사전빌드 에이전트, 6개 비즈니스 유형, 150+ 통합 도구. macOS 데스크톱 자동화, 멀티디바이스 메시, 에너지 패턴 학습
 * [OmAgent: Build multimodal language agents for fast prototype and production](https://github.com/om-ai-lab/OmAgent)
   * [옴에이전트](https://om-agent.cn/)
+* [OmniScientist: AI Scientist Ecosystem](https://github.com/tsinghua-fib-lab/OmniScientist)
+  * 청화대 FIB Lab의 AI 과학자 생태계 프로젝트. 192 stars
 * [OpenAgent: The Web3 AI Agent Solution](https://github.com/webisopen/OpenAgent)
   * A new framework for deploying verifiable AI agents on the open network, built for DeFAI and DeSci innovation
   * It brings compute verification for high stakes operations and lightning fast agent deployment
@@ -1308,6 +1319,9 @@ Artificial Intelligence
   * 작업 생성→에이전트 자동 생성→코드 작성→결과 제출→PR 병합까지 자동화. 개발자는 작업 정의와 검증에 집중
   * [Running OpenAI Symphony with Claude Code](https://www.sapsaldog.com/posts/symphony-with-claude-code)
     * Symphony를 포크하여 Claude Code 백엔드 추가. JSON-RPC 2.0으로 Claude Code 래핑, GitHub Issues 지원, 다중 백엔드 추상화
+* [opencode_ml_practice: OpenCode 기반 반도체 failure 예측 + 자율 ML 연구 루프](https://github.com/Taekyoon/opencode_ml_practice)
+  * [GitHub Taekyoon/opencode_ml_practice | Taekyoon Choi](https://www.linkedin.com/posts/taekyoon-choi_github-taekyoonopencodemlpractice-opencode-share-7492119166762541056-k9xI/)
+  * 대화형 튜토리얼 19레슨, Airflow 자동 실험, LLM 위키 지식 베이스 포함. Python
 * [OpenConnector: Open-source auth gateway connecting 1000+ SaaS providers to AI agents](https://github.com/oomol-lab/open-connector)
   * [OOMOL — connect your product or AI agents to apps through one managed connection layer](https://oomol.com/)
   * [OpenConnector로 구축하는 AI 에이전트 커넥터 게이트웨이: 1,000개 이상의 서비스와 10,000개 이상의 액션을 하나의 런타임으로 연결 | digitalbourgeois](https://digitalbourgeois.tistory.com/3381)
@@ -3610,6 +3624,9 @@ Artificial Intelligence
   * AI 토큰 가격 전쟁 분석. 중국은 알고리즘·싼 전력으로 토큰 원가를 낮추고 미국은 자본·풀스택으로 버티는 구도. 한국은 HBM 공급국에서 국산 NPU·서비스까지 잇는 연산 생태계 보유국으로 올라가는 전환기라는 관점
 * [탈락한 네이버가 가장 크게 버는 국가대표AI 구조 | nahz.org](https://nahz.org/posts/korea-national-ai/)
   * 한국 국가대표AI는 모델 성능 대회가 아니라 독파모(모델)와 모두의 AI(추론 서비스) 두 개의 게임. 진짜 승부는 추론 원가·공급·가동률에서 갈리고, 가장 안정적인 자리는 우승팀이 아니라 칩·데이터센터·전력을 모든 진영에 파는 공급자라는 분석
+* [Qwen3.8-27B 정밀 분석 — 그리고 '독파모'에 대한 위협 평가 | Dennis Kim](https://www.linkedin.com/pulse/qwen38-27b-%EC%A0%95%EB%B0%80-%EB%B6%84%EC%84%9D-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EB%8F%85%ED%8C%8C%EB%AA%A8%EC%97%90-%EB%8C%80%ED%95%9C-%EC%9C%84%ED%98%91-%ED%8F%89%EA%B0%80-dennis-kim-huuxc)
+  * 2026-08 공개된 Qwen3.8-27B의 강점—Apache 2.0 완전 개방, 에이전트 성능(OSWorld 84.3·WebArena 64.8), 네이티브 비전-언어 통합, RTX 3060 이상에서 로컬 운영 가능
+  * 독파모 프로젝트에 대한 함의: 질문이 "글로벌 Top 모델을 만들 수 있는가"에서 "국산 모델을 왜 써야 하는가"로 이동. 존립 위협은 아니지만 경제적 명분을 잠식하는 기회비용 위협이며, 승부처는 벤치마크 추격이 아닌 한국어 도메인 깊이·규제 대응·감사 가능성
 * [Solar Open 2, 딥시크와 맞붙을 한국 AI의 첫 세계전 | nahz.org](https://nahz.org/posts/solar-open2-cerebras)
   * 업스테이지가 Cerebras와 공동 개최한 발표회에서 두 번째 독자 파운데이션 모델 Solar Open 2(250B) 공개. 벤치마크 점수보다 에이전트·추론 속도·국산 인프라를 강조한 행사 구성 분석
 * [DGX Spark 두 대로 경험하는 Solar Open 2 모델 서빙 | Backend.AI](https://www.backend.ai/ko/blog/2026-07-serving-solar-open-2-on-dgx-spark)
