@@ -5838,6 +5838,9 @@ Artificial Intelligence
   * [teo-claude-code: Claude Code 스킬·에이전트 마켓플레이스](https://github.com/developer-1px/teo-claude-code)
     * teo-stack 공개 플러그인(8개 thinking 스킬: 대화 구조화·충돌 해소·감산적 사고·민토 방법) + teo-project 비공개 플러그인(29개 파이프라인 스킬·4개 에이전트, interactive-os 전용). superpowers 보완—토론 구조화·외부 리서치 담당
   * [Tmux-Orchestrator](https://github.com/Jedward23/Tmux-Orchestrator) enables Claude agents to work autonomously
+  * [UI UX Pro Max](https://www.uupm.cc/)
+    * [ui-ux-pro-max-skill: An AI skill that provides design intelligence for building professional UI/UX across multiple platforms](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)
+    * 여러 플랫폼·프레임워크에서 전문적인 UI/UX를 만들도록 디자인 지능을 제공하는 AI 스킬. 192개 추론 규칙, 검색 가능한 79종 UI 스타일. Python, CLI는 `npm i ui-ux-pro-max-cli`. 119k stars
   * [Understand Anything — Graphs that teach the codebase](https://understand-anything.com/)
     * [Understand-Anything](https://github.com/Lum1104/Understand-Anything)
     * [Understand-Anything | Open Source Projects](https://www.opensourceprojects.dev/post/b206659e-38d5-4ae0-83e8-54c04caa16cb)
