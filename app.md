@@ -2063,10 +2063,6 @@ App
 * [ssheven: A modern SSH client for Mac OS 7/8/9](https://github.com/cy384/ssheven)
 * [Switcher](https://github.com/tkgka/Switcher) command + q 명령어를 두번 입력한 경우에만 동작하도록 설정 가능
   * [MacOS 키 입력을 제어해 보자](https://velog.io/@tkgka/MacOS-%ED%82%A4-%EC%9E%85%EB%A0%A5%EC%9D%84-%EC%A0%9C%EC%96%B4%ED%95%B4-%EB%B3%B4%EC%9E%90)
-* [Tailscale · Best VPN Service for Secure Networks](https://tailscale.com/)
-  * [macOS 화면 공유(feat. Tailscale)](http://ohyecloudy.com/pnotes/archives/macos-share-the-screen-via-tailscale/)
-  * [시놀로지 외부 접속, 포트포워딩 말고 이거 쓰세요! 더 쉽고 안전합니다. (Tailscale) - YouTube](https://www.youtube.com/watch?v=JFcJQaXqp88)
-    * 서울리안 SEOULiAN. 포트포워딩·복잡한 VPN 설정 없이 시놀로지 NAS 외부 접속을 Tailscale로 구성. 서브넷 라우터로 홈 네트워크 전체 접근, Exit Node로 해외에서 국내 서비스 사용까지
 * [termflix - Search and stream torrents from your command line](https://github.com/asarode/termflix)
 * [Timeline 3D for mac](http://bedreams.tistory.com/78)
 * [timer-app: A simple Timer app for Mac](https://github.com/michaelvillar/timer-app)
@@ -3758,7 +3754,6 @@ App
   * SwiftUI 네이티브 macOS 프록시 앱. 듀얼 모드(System Proxy + TUN Enhanced), 실시간 트래픽 시각화, 연결 토폴로지 추적, 구독 관리. macOS 13.5+ 지원
 * [EasyTier-iOS: EasyTier in SwiftUI for iOS/macOS](https://github.com/EasyTier/EasyTier-iOS)
   * 분산형 P2P VPN EasyTier(코어 레포 EasyTier/EasyTier)의 Apple 플랫폼 클라이언트. SwiftUI(95.6%)+Rust(3.7%), Network Extension 프레임워크 시스템 레벨 VPN 통합, Widget Extension. TestFlight 베타. GPLv3. **NOT ACTIVELY MAINTAINED**, 메인테이너 인계 모집 중
-* [HeadScale - TailScale 서버의 오픈소스 구현체 | GeekNews](https://news.hada.io/topic?id=5039)
 * [MasterDnsVPN: Advanced DNS tunneling VPN that encapsulates TCP traffic inside DNS queries to bypass censorship](https://github.com/masterking32/MasterDnsVPN)
   * DNS 터널링 + 멀티 리졸버 라우팅 + 커스텀 경량 ARQ(오버헤드 5-7바이트, DNSTT 59바이트 대비). DNSTT 대비 ~9배 빠른 처리량. 로컬 SOCKS5/TCP 프록시, DNS 캐싱, XOR/ChaCha20/AES 암호화, 8가지 로드밸런싱 전략
 * [Netmaker - WireGuard 기반 오픈소스 VPN 플랫폼 | GeekNews](https://news.hada.io/topic?id=5701)
@@ -3768,8 +3763,16 @@ App
   * 쉽게 사용할 수 있는 OpenVPN을 AWS EC2에 설치해서 사설망(AWS 내부망)에 접근하는 환경 설정을 설명
 * [shadowsocks-windows: A C# port of shadowsocks](https://github.com/shadowsocks/shadowsocks-windows)
   * 시스템 프록시 PAC/글로벌 모드, GeoSite·사용자 규칙 라우팅, HTTP 프록시 서버 자동 전환, UDP 릴레이, 플러그인·글로벌 핫키. .NET Framework 4.8+, GPLv3
-* Tailscale 개인 무료
-  * [headscale: An open source, self-hosted implementation of the Tailscale control server](https://github.com/juanfont/headscale)
+* [Tailscale · Best VPN Service for Secure Networks](https://tailscale.com/)
+  * [macOS 화면 공유(feat. Tailscale)](http://ohyecloudy.com/pnotes/archives/macos-share-the-screen-via-tailscale/)
+  * [시놀로지 외부 접속, 포트포워딩 말고 이거 쓰세요! 더 쉽고 안전합니다. (Tailscale) - YouTube](https://www.youtube.com/watch?v=JFcJQaXqp88)
+    * 서울리안 SEOULiAN. 포트포워딩·복잡한 VPN 설정 없이 시놀로지 NAS 외부 접속을 Tailscale로 구성. 서브넷 라우터로 홈 네트워크 전체 접근, Exit Node로 해외에서 국내 서비스 사용까지
+  * [Headscale](https://headscale.net/) Tailscale 개인 무료
+    * [headscale: An open source, self-hosted implementation of the Tailscale control server](https://github.com/juanfont/headscale)
+    * [HeadScale - TailScale 서버의 오픈소스 구현체 | GeekNews](https://news.hada.io/topic?id=5039)
+    * [Stop Using Tailscale. Use Open Source Instead. - YouTube](https://www.youtube.com/watch?v=7Jja20nWcqo)
+      * DevOps Toolbox. Tailscale 컨트롤 서버를 셀프호스팅해 메시 네트워크를 직접 통제하는 방법
+    * Tailscale 컨트롤 서버의 오픈소스 셀프호스팅 구현체. Go, 43k stars
 * [tinc - 오픈소스 P2P VPN 데몬 | GeekNews](https://news.hada.io/topic?id=4013)
   * [tinc-boot: Bootstrap your Tinc node quickly and easy](https://github.com/reddec/tinc-boot)
 * [ztm: A privacy-first open-source decentralized network software based on HTTP/2 tunnels](https://github.com/flomesh-io/ztm)
