@@ -289,6 +289,8 @@ Product
 * [스웨그키 공식 온라인 스토어](https://www.swagkey.kr/)
 * Thinkway TV99 [가성비 키보드 전쟁 - YouTube](https://www.youtube.com/watch?v=v9mR7c3AGkU)
 * TOMAK [새로운 스플릿 커스텀 키보드 종결템 시리안 인더스트리 토막61 TOMAK61 미리 살펴 보기 - YouTube](https://www.youtube.com/watch?v=ehRU_lJ9TvY)
+  * [국내 업체가 만든 고-급 반갈죽 커스텀키보드 - YouTube](https://www.youtube.com/shorts/w_-96rGa4Ds)
+    * 바룬 Baroon. SR Industry(시리안 인더스트리)의 토막79·토막 TKL LITE 리뷰. 국내 제작 하이엔드 커스텀급 스플릿 키보드로, 이름은 비슷하지만 타건감·사용감 특징이 확실히 다르므로 비교 후 구매 권장
 * [Ultimate Hacking Keyboard](https://www.crowdsupply.com/ugl/ultimate-hacking-keyboard)
 * [The WhiteFox Keyboard | Mechanical Keyboards | Custom Layout Mechanical Keyboards | Drop](https://drop.com/buy/the-whitefox-keyboard)
 * Womier WD75 V2 Retro [내 책상 위의 분위기를 완전히 바꿔 놓은 원목 키보드. Womier WD75 V2 Retro - YouTube](https://www.youtube.com/watch?v=2lcCki641qY)
