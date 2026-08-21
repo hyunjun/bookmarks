@@ -448,6 +448,11 @@ Monitoring
   * [Phoenix](https://phoenix.arize.com/)
 * [qryn: Lightweight, Polyglot, Snap-on Observability Stack. Drop-in Compatible with Loki, Prometheus, Tempo, Pyroscope, Opentelemetry and more! Vendor independent LGTM replacement and Splunk/Datadog/Elastic alternative! WASM powered ⭐️ Star to Support](https://github.com/metrico/qryn)
   * [Kubernetes Korea Group | 안녕하세요, 오늘은 옵저버빌리티 관련 오픈소스 하나를 소개 드립니다 | Facebook](https://www.facebook.com/groups/k8skr/posts/3855914668023511/)
+* [Superlog](https://superlog.sh/)
+  * [superlog: Open-source observability tool that uses AI agents to self-heal your software](https://github.com/superloglabs/superlog)
+  * [Superlog란? OpenTelemetry 기반 오픈소스 관측성 시스템의 특징과 설치 방법 | digitalbourgeois](https://digitalbourgeois.tistory.com/3541)
+  * OpenTelemetry 데이터를 위한 오픈 코어 관측성 워크스페이스. 트레이스·로그·메트릭을 수집해 인시던트 단위로 그룹화하고, AI 에이전트가 소프트웨어를 스스로 치유(self-heal)하는 것을 지향. 로컬 우선 디버깅 환경, Agent Runner로 확장
+  * Node.js 20+·pnpm 9+·Docker 필요. `pnpm install`→Docker Compose→DB 마이그레이션→`pnpm dev`로 Web(5173)·API(4100)·OTLP Intake(4101) 실행. 커뮤니티 에디션 무료. TypeScript, 1.4k stars
 * [Vector | A lightweight, ultra-fast tool for building observability pipelines](https://vector.dev/)
   * [Vector를 활용해 멀티 CDN 로그 및 트래픽 관리하기](https://techblog.lycorp.co.jp/ko/managing-multi-cdn-logs-traffics-with-vector)
 
