@@ -448,6 +448,9 @@ Network
 * [uvloop: Blazing fast Python networking](http://magic.io/blog/uvloop-blazing-fast-python-networking/)
 * [whosthere: Local Area Network discovery tool with a modern Terminal User Interface (TUI) written in Go. Discover, explore, and understand your LAN in an intuitive way. Knock Knock.. who's there? 🚪](https://github.com/ramonvermeulen/whosthere)
   * [Whosthere - Go로 작성된 현대적 TUI 기반 LAN 탐색 도구 | GeekNews](https://news.hada.io/topic?id=26096)
+* [TCP Viewer — Native Packet Viewer for Mac](https://tcpviewer.proxyman.com/)
+  * [TCPViewer: The best-in-class macOS app to See every packet clearly on your Mac. Alternative to Wireshark](https://github.com/ProxymanApp/TCPViewer)
+  * Proxyman 팀이 만든 macOS 네이티브 패킷 뷰어(Wireshark 대안). 간편한 패킷 캡처, PCAP/PCAPNG 드래그&드롭 미리보기, TCP 스트림 추적, 프로토콜 필터링. Swift, GPL
 * Wireshark
   * [Decrypting your own HTTPS traffic with Wireshark – Trickster Dev](https://www.trickster.dev/post/decrypting-your-own-https-traffic-with-wireshark/)
   * [네트워크 성능 문제를 해결하는 필수 오픈소스 툴 ‘와이어샤크’ - ITWorld Korea](https://www.itworld.co.kr/news/239629)
