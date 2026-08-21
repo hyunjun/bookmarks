@@ -1121,6 +1121,10 @@ Artificial Intelligence
 * [CUGA](https://cuga.dev/)
   * [cuga-agent: CUGA is an open-source generalist agent for the enterprise, supporting complex task execution on web and APIs, OpenAPI/MCP integrations, composable architecture, reasoning modes, and policy-aware features](https://github.com/cuga-project/cuga-agent)
     * [🤖 IBM CUGA: AppWorld 1위! 기업 환경을 위한 차세대 AI 에이전트](https://fornewchallenge.tistory.com/entry/%F0%9F%A4%96-IBM-CUGA-AppWorld-1%EC%9C%84-%EA%B8%B0%EC%97%85-%ED%99%98%EA%B2%BD%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%B0%A8%EC%84%B8%EB%8C%80-AI-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8)
+* [DeepAnalyze — Agentic LLM for Autonomous Data Science](https://ruc-deepanalyze.github.io/)
+  * [DeepAnalyze: DeepAnalyze is the first agentic LLM for autonomous data science](https://github.com/ruc-datalab/DeepAnalyze)
+  * 자율 데이터 사이언스를 위한 첫 엔드투엔드 에이전틱 LLM(DeepAnalyze-8B). CSV·JSON·DB 등 다양한 소스에서 데이터 준비→심층 분석→전문 보고서 생성까지 전체 파이프라인 자동 수행
+  * 인간 데이터 과학자의 학습 경로를 모방한 커리큘럼 기반 학습으로 훈련. 모델·코드·훈련 데이터 전부 오픈소스. Python, 4.5k stars
 * [DeepCode: "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)"](https://github.com/HKUDS/DeepCode)
   * [SOTA 기술 도입을 간단하게 실험해볼 수 있는 오픈소스](https://www.linkedin.com/posts/h4y3j1n_hkuds-activity-7366246830180847617-34Yi/)
 * [DeerFlow — Open-source SuperAgent Platform by ByteDance](https://deerflow.tech/)
@@ -2745,6 +2749,8 @@ Artificial Intelligence
     * [WebMCP (Web Model Context Protocol) 공개 | GeekNews](https://news.hada.io/topic?id=26597)
     * [Make your website agent ready with WebMCP - YouTube](https://www.youtube.com/watch?v=FARxSG_EY98)
       * Google Cloud Tech, Hugo Zanini. 웹페이지 안에 타입 지정 도구를 직접 노출해 에이전트가 스크린샷 스크래핑 없이 빠르고 저렴하게 행동—React 개발자 포털 "Happy Coffee" 라이브 데모, 로컬 에이전트가 웹 UI를 활용하는 WebMCP for Local Agents 시연
+    * [구글이 웹사이트를 AI용으로 바꾸기 시작했다 - YouTube](https://www.youtube.com/watch?v=tfrDp6FnhZc)
+      * 노마드 코더. AI 에이전트가 현재 웹사이트를 쓰는 방식 → WebMCP로 agent-ready 만들기 → JavaScript 15줄로 Tool 등록 → 에이전트가 직접 피자 주문 데모 → 인간이 아닌 AI를 위한 웹의 모습
 * [maple-auction-mcp: 메이플 경매장 mcp](https://github.com/oyc0401/maple-auction-mcp)
   * 메이플스토리 경매장 데이터를 AI 에이전트에 연결하는 MCP 서버. TypeScript, MIT
 * [motia: Event-based orchestration framework for agents and intelligent automations](https://github.com/MotiaDev/motia)
