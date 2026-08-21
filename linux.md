@@ -1280,6 +1280,9 @@ Linux
   * numfmt [Formatting numbers at the command line](https://www.johndcook.com/blog/2019/10/30/numfmt/)
 
 # iptable
+* [정진호 - 클라우드 서버에 자동 접근하는 스캐너 봇 IP 차단 자동화 | Facebook](https://www.facebook.com/jinho.jung/posts/pfbid0AGUuYn4i7cq9RAZnW6C2NEzNeddXc7CYVEJuRqmgGbhiJW4bDDYX22zCeverV9PLl)
+  * `.git/config`·`.env`·`/wp-login.php`·phpMyAdmin·xmlrpc.php처럼 일반 사용자가 칠 일 없는 경로를 두드리는 봇을 차단. 매일 새벽 4시 크론 셸 스크립트가 grep으로 access_log의 공격 패턴을 매칭해 iptables로 IP 차단·영구 저장, SSH 공격은 fail2ban으로 분담
+  * 관리자가 테스트로 해당 경로에 접근하면 본인도 차단되므로 관리자 IP 화이트리스트 등록 필요
 * [리눅스 방화벽과 NAT를 위한 ipTables](https://bcho.tistory.com/1366)
 * [The Complicated Firewall](https://www.thelinuxrain.com/articles/the-complicated-firewall)
 * [Using Multiple NICs on Linux](https://tech.ssut.me/using-multiple-nics-on-linux/) ip iproute2
