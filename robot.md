@@ -61,6 +61,10 @@ Robot
 * [Bessemer Predicts: Robotics and physical AI](https://www.bvp.com/atlas/bessemer-predicts-robotics-and-physical-ai)
   * [로보틱스 및 피지컬 AI 예측: 2026년의 6가지 투자 전망 | GeekNews](https://news.hada.io/topic?id=28932)
   * 로보틱스 현재 GPT-2.5 수준. Goldman Sachs 2035년 380억 달러 시장 전망도 Bessemer는 보수적 판단. 로보틱스 데이터 비용 2년간 30억 달러+
+* [Dyna Robotics Introduces Dyna-2: A World-Action Model Pre-Trained on 1 Million Hours of Human Video | MarkTechPost](https://www.marktechpost.com/2026/08/13/dyna-robotics-introduces-dyna-2-a-world-action-model-pre-trained-on-1-million-hours-of-human-video/)
+  * [Dyna-2: 100만 시간 인간 영상으로 로봇 행동 학습 | digitalbourgeois](https://digitalbourgeois.tistory.com/3545)
+  * 100만 시간(약 170년) 이상의 1인칭 인간 영상으로 사전 학습한 로봇 조작용 월드-액션 모델. 직접 수집·라벨링하는 기존 로봇 학습 방식 대신 대규모 인간 영상을 활용—1,000시간→100만 시간으로 늘릴 때 스케일링 법칙이 유지되고, 그 패턴이 미학습 로봇 데이터에도 전이됨을 처음 확인
+  * 영상과 액션을 공동 학습하면 액션만 학습한 경우보다 39개 작업 전부에서 우수, 실제 로봇 작업 평균 점수 20%→53%. 공개 가중치·API 없이 Dyna 로봇 셀 구매(벤더 운영) 방식으로만 제공되며 호텔·식당·세탁소 등 서비스업에 운영 중
 * [LingBot-VA 2.0: A Causal Video-Action Model Built Natively for Physical AI | Robbyant](https://technology.robbyant.com/lingbot-va-v2)
   * [Ant Group's Robbyant Unveils LingBot-VA 2.0 | MarkTechPost](https://www.marktechpost.com/2026/07/11/ant-groups-robbyant-unveils-lingbot-va-2-0/)
   * [LingBot-VA 2.0: 물리 AI를 위해 처음부터 설계된 차세대 비디오-액션 파운데이션 모델 | digitalbourgeois](https://digitalbourgeois.tistory.com/3372)
