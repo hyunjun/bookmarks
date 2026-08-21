@@ -3182,6 +3182,10 @@ App
 * [grdpwasm: A web-based RDP client](https://github.com/nakagami/grdpwasm)
   * [grdpwasm - 웹 기반 RDP 클라이언트 | GeekNews](https://news.hada.io/topic?id=28899)
   * 브라우저만으로 Windows 원격 데스크톱 접속. Go WebAssembly + 서버 측 WebSocket-to-TCP 프록시
+* [Jump Desktop](https://jumpdesktop.com/)
+  * [맥북 Jump Desktop 완벽 활용 가이드 2026: 원격 데스크톱의 혁신적 솔루션 | coconuts](https://coconuts.tistory.com/1480)
+  * RDP·VNC·Fluid 프로토콜을 모두 지원하는 원격 데스크톱. 5분 이내 설정, 무제한 연결, Fluid 2.0 프로토콜 성능, SSO·2FA·SOC 2 엔터프라이즈 보안
+  * 가이드는 Mac App Store 설치·계정 연동, 연결 방식별 선택(Fluid=Mac-Mac, RDP=Windows, VNC=Linux), 듀얼모니터 'displays in separate Windows'(Windows 무료 버전보다 우수)·파일 전송·클립보드 공유, VPN/포트포워딩·2FA, 네트워크별 성능 최적화, 한글 입력 등 문제 해결까지. 약 $29.99, 14일 무료
 * [Remotely: A remote control and remote scripting solution, built with .NET 7, Blazor, and SignalR](https://github.com/immense/Remotely)
   * [Remotely - An Open Source, Self Hosted, Remote Desktop and Remote Support Tool with Power! - YouTube](https://www.youtube.com/watch?v=t-TFvr7sZ6M)
 * [RustDesk | Open source remote desktop software | The Open Source TeamViewer Alternative](https://rustdesk.com/)
