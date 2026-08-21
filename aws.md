@@ -988,6 +988,9 @@ AWS
 * [AWS Lambda S3 Image Resize with URL Parameter (Cloudfront 요금 30% 감면)](https://tabmania.tistory.com/entry/AWS-Lambda-S3-Image-Resize-with-URL-Parameter) cost, image upload 최적화 등
 * [Terraform AWS CloudFront 인증서 오류](https://jybaek.tistory.com/1020)
 * [Amazon CloudFront의 원본 액세스 제어를 활용하여 Lambda 함수 URL을 안전하게 관리하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/secure-your-lambda-function-urls-using-amazon-cloudfront-origin-access-control/)
+* [Restrict access to an Amazon S3 Multi-Region Access Point origin - Amazon CloudFront](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/private-content-restricting-access-to-s3-mrap.html)
+  * OAC(origin access control)로 S3 Multi-Region Access Point 오리진 접근 제한. MRAP 정책+연결된 모든 하위 버킷 정책에 CloudFront 서비스 프린시펄 허용(`aws:SourceArn`으로 특정 distribution 한정), SSE-KMS면 각 리전 KMS 키 정책에도 문장 추가. OAC 생성 시 SigV4a 서명 프로토콜 선택
+  * opt-in 리전 버킷 기반 MRAP 엔드포인트는 미지원, Lambda@Edge origin request 트리거는 SigV4a OAC와 비호환
 * [월급쟁이부자들 CDN 다이어트. Overview | by 강현서 빌리 | weolbu_tech | Apr, 2025 | Medium](https://medium.com/weolbu/%EC%9B%94%EA%B8%89%EC%9F%81%EC%9D%B4%EB%B6%80%EC%9E%90%EB%93%A4-cdn-%EB%8B%A4%EC%9D%B4%EC%96%B4%ED%8A%B8-22370b0c94b7)
 * [aws-dynamic-cloudfront](https://linuxer.name/2020/01/aws-dynamic-cloudfront/)
 
