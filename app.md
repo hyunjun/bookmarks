@@ -339,6 +339,10 @@ App
 * [cariddi: Take a list of domains, crawl urls and scan for endpoints, secrets, api keys, file extensions, tokens and more](https://github.com/edoardottt/cariddi)
   * [edoardottt](https://edoardottt.com/)
   * 도메인 목록을 받아 URL을 크롤링하며 엔드포인트·시크릿·API 키·파일 확장자·토큰 등을 스캔하는 보안 크롤러. Go, GPL-3.0, 3.5k stars
+* [CertGames — Zero to Hired in Cybersecurity](https://certgames.com/)
+  * [Cybersecurity-Projects: Building 70 Projects ranging from beginner to advanced](https://github.com/CarterPerez-dev/Cybersecurity-Projects)
+  * 경험 없는 입문자를 위한 게임화 사이버보안 학습 플랫폼. 몇 가지 질문으로 SOC 분석가·침투 테스터 등 적합 직무 로드맵 추천, 26,000개+ 연습 문제·실습 게임·영상, CompTIA Security+/Network+/CCNA 등 20개+ 자격증 대비, AI 이력서 빌더·진로 상담. 무료/월 $25/연 $99.69
+  * 연동 레포는 초급~고급 70개 사이버보안 프로젝트를 공개—학습·참고·복사해 쓸 수 있게 구성. Go, 5.6k stars
 * [Claude-OSINT: Two paired Claude skills turning Claude into an external recon operator for authorized red-team and bug-bounty](https://github.com/elementalsouls/Claude-OSINT)
   * 인증된 레드팀·버그바운티용 외부 정찰 Claude 스킬 2종. 90+ recon 모듈, 48 secret-regex, 80+ dork, 9 read-only 크리덴셜 검증기, 27 공격경로 템플릿, 5,500+ 줄 tradecraft. SKILL.md drop-in. Python
 * [dark-web-osint-tools: OSINT Tools for the Dark Web](https://github.com/apurvsinghgautam/dark-web-osint-tools)
