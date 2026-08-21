@@ -2612,6 +2612,9 @@ AWS
 * [Amazon SageMaker HyperPod – 대규모 분산 학습을 위한 인프라 기능 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/introducing-amazon-sagemaker-hyperpod-a-purpose-built-infrastructure-for-distributed-training-at-scale/)
 * [AWS SageMaker HyperPod (w. EKS) 도입기](https://dev-ryuon.tistory.com/120)
 * [Amazon SageMaker HyperPod로 슈퍼브에이아이의 비전 파운데이션 모델 'ZERO' 효율적으로 대규모 분산 학습하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/amazon-sagemaker-hyperpod-superbai-zero-foundation-model/)
+* [Automate SageMaker HyperPod incident triage and root-cause-analysis with AWS DevOps Agent | AWS DevOps Blog](https://aws.amazon.com/ko/blogs/devops/automate-sagemaker-hyperpod-incident-triage-and-root-cause-analysis-with-aws-devops-agent/)
+  * AWS DevOps Agent로 SageMaker HyperPod 클러스터 운영 문제를 자동 감지·분류·원인 분석. 설정 이슈, 용량 상황, 반복되는 하드웨어 결함, 워크로드 수준 조건처럼 사람 판단이 필요한 상황을 24시간 모니터링하고 결론이 담긴 이메일 리포트 발송
+  * CloudFormation 스택 배포로 구현, 조사 1건당 약 $4 비용으로 엔지니어 수동 대응 시간 단축
 * [생성형 AI를 위한 Amazon SageMaker Endpoint 기반 임베딩 모델 배포 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/deploying-embedding-model-on-sagemaker-endpoint-for-genai/)
 * [SageMaker AI에서 인코더 모델 서빙하는 방법의 종합 가이드 | Daekeun Kim](https://daekeun-ml.github.io/encoder-serving-sagemaker/)
   * [encoder-serving-sagemaker: Benchmarked comparison of 5 serving patterns for Transformer encoder models (BERT-style classification, NLI) on Amazon SageMaker AI — ONNX CPU, multi-container, inference component, LMI, scale-to-zero](https://github.com/daekeun-ml/encoder-serving-sagemaker)
