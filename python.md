@@ -2101,6 +2101,8 @@ Python
 * [Elizaveta Shashkova - The Hidden Power of the Python Runtime - YouTube](https://www.youtube.com/watch?v=mAnOBOrgFdM) test, debug, code coverage, type, concurrent
 * [Almar Klein - Let’s embrace WebAssembly! - YouTube](https://www.youtube.com/watch?v=u2kKxmb9BWs) webassembly, wasm
 * [Prashant Chaubey - Writing Good Python - YouTube](https://www.youtube.com/watch?v=vnCXToWqz3M) PEP8, pylint, PEP257, pydocstyle, PEP484, mypy, bandit, black
+* [Stop firefighting: practical observability for Python APIs, workers & jobs - Daria Korsakova - YouTube](https://www.youtube.com/watch?v=X7jbc8EVs-w)
+  * EuroPython 2026. 서비스가 재시작 후 ready가 되지 않거나 백그라운드 워커가 조용히 태스크 소비를 멈추는 등 "괜찮아 보이던" 프로덕션이 불타는 이유는 대개 신호가 없기 때문. Python API·워커·잡에 실용적 옵저버빌리티를 붙이는 방법
 * [From Algorithms to Agendas: A Beginner's Guide to Integer Programming — Florian Wilhelm - YouTube](https://www.youtube.com/watch?v=Fe3MerZSbBE)
 
 ## Conference Pycon
