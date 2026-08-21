@@ -2739,6 +2739,8 @@ NLP
 * [초등학생을 위한 요즘 LLM](https://velog.io/@sunrabbit123/%EC%B4%88%EB%93%B1%ED%95%99%EC%83%9D%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%9A%94%EC%A6%98-LLM)
 * [오픈소스 LLM 선택 기준 체크리스트](https://brunch.co.kr/@jinhoyooephf/39)
 * [LLM 서빙 프레임워크로 프라이빗 AI구축하기 feat. Ollama, vLLM, SGLang 세미남589@토크아이티, 윤성열 대표 / 드림플로우 - YouTube](https://www.youtube.com/watch?v=UK4QwKJDf-Q)
+* [소형 언어모델 서빙을 위한 GPU 분할 전략 (fGPU vs MIG 백서) | Backend.AI](https://www.backend.ai/ko/resources/fgpu-vs-mig-whitepaper)
+  * GPU 한 장을 여러 워크로드가 나눠 쓰게 해 소형 언어모델 서빙의 자원 활용률·처리량을 높이는 GPU 분할가상화. H100 노드에서 19종 소형 언어모델 서빙 벤치마크로 NVIDIA MIG(하드웨어 수준)와 Backend.AI fGPU(컨테이너 수준)의 성능 차이 비교, 워크로드 특성별 분할 방식 선택 기준 제시
 * [In-House LLM Serving at Netflix | Netflix TechBlog](https://netflixtechblog.com/in-house-llm-serving-at-netflix-a5a8e799ea2c)
   * [Netflix의 사내 LLM 서빙 플랫폼, vLLM과 Triton으로 구축한 프로덕션 운영 구조 | digitalbourgeois](https://digitalbourgeois.tistory.com/3466)
   * LLM을 기존 ML 인프라와 분리하지 않고 통합하는 선택—기존 Model Scoring Service(MSS)에 NVIDIA Triton Inference Server와 vLLM을 연결하고 기존 gRPC 인터페이스와 OpenAI 호환 HTTP API를 함께 제공. GPU 자원 효율, 요청량 증가 대응, 안전한 모델 버전 전환, 모니터링, 커스텀 디코딩 로직까지 프로덕션 운영 관점에서 정리
@@ -4517,6 +4519,8 @@ NLP
   * [Chonkie - 빠르고 경량인 RAG용 파이썬 텍스트 청킹 라이브러리 | GeekNews](https://news.hada.io/topic?id=17714)
 * [ColiVara](https://colivara.com/)
   * [Colivara is a suite of services that allows you to store, search, and retrieve documents based on their visual embedding. ColiVara has state of the art retrieval performance on both text and visual documents. using vision models instead of chunking and text-processing for documents. No OCR, no text extraction, no broken tables, or missing images](https://github.com/tjmlabs/ColiVara)
+* [CORTEX-AI-SUPER-RAG: enterprise retrieval and knowledge assistant](https://github.com/SaiAkhil066/CORTEX-AI-SUPER-RAG)
+  * 사내 데이터에서 인용(citation)과 함께 정확한 답을 찾는 엔터프라이즈 검색·지식 어시스턴트. 권한 인식(permission-aware) 검색, 빠른 배포. Python, 2k stars
 * [CRAG: Corrective Retrieval Augmented Generation](https://github.com/HuskyInSalt/CRAG)
 * [django-pyhub-rag: 빠른 RAG 구현을 위한 장고 라이브러리](https://github.com/pyhub-kr/django-pyhub-rag)
 * [docpixie: Lightweight Vision native Multimodal Document Agent](https://github.com/qnguyen3/docpixie/)
