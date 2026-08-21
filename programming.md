@@ -5855,6 +5855,12 @@ Programming
   * [생각보다 쉬웠던 오픈소스 기여하기](https://dc-choi.tistory.com/69)
   * [FIDO2 클라이언트 SDK 오픈소스 소개](https://techblog.lycorp.co.jp/ko/introducing-fido2-client-sdk-open-source)
 * FingerprintJS [Cross-browser tracking vulnerablity in Tor, Safari, Chrome and Firefox - FingerprintJS](https://fingerprintjs.com/blog/external-protocol-flooding/)
+* [flock-zorch: Flock in Zorch](https://github.com/fractalyze/flock-zorch)
+  * [NVIDIA에 버그 리포트를 제출해보네요 하하 | Ryan Kim](https://www.linkedin.com/posts/ryan-kim-88469ba2_%EC%82%B4%EB%8B%A4%EB%B3%B4%EB%8B%88-nvidia%EC%97%90-%EB%B2%84%EA%B7%B8-%EB%A6%AC%ED%8F%AC%ED%8A%B8%EB%A5%BC-%EC%A0%9C%EC%B6%9C%ED%95%B4%EB%B3%B4%EB%84%A4%EC%9A%94-%ED%95%98%ED%95%98-flockbinary-share-7493829186986430464-RIvE/)
+    * GPU 가속 flock 프로버 개발 중 발견한 NVIDIA PTX 어셈블러 버그—RTX 5090(sm_120a)에서 `-O2/-O3`로 컴파일할 때 한 커널에 독립적인 GF(2^128) carryless-multiply 체인이 2개 이상이고 각 체인의 곱셈 깊이가 3회 이상이면 마지막 체인 외 나머지가 특정 입력에서 오답 반환. 컴파일러 fusion pass에 가드를 추가해 우회
+  * [2026/1329 Flock: Fast Proving for Batch Boolean Computations](https://eprint.iacr.org/2026/1329)
+  * flock의 binary-field R1CS PIOP를 위한 GPU 프로버. Python/FRX(Fractalyze의 JAX 포크)로 한 번 작성하면 컴파일러가 CPU·GPU 코드를 생성하고 출력이 레퍼런스 프로버와 bit-for-bit 일치—GPU 재작성이 아니라 단일 FRX/MLIR 코드베이스가 핵심
+  * 비싼 유한체 산술 최적화는 프로버가 아닌 컴파일러 패스에 두고(zk_dtypes 네이티브 유한체 dtype, GF(2¹²⁸) carryless-multiply lowering), byte-match 게이트로 변환이 출력을 바꾸지 않음을 보장. GSPMD로 수동 통신 코드 없이 다중 디바이스 샤딩. Python
 * [fridump3: A universal memory dumper using Frida for Python 3](https://github.com/rootbsd/fridump3)
   * [메모리 덤프 분석 (feat. fridump) :: iOYES](https://green1229.tistory.com/405)
 * [fuckvkeypad: 가상키보드(vKeyboard) 우회도구](https://github.com/soulee-dev/fuckvkeypad)
