@@ -669,8 +669,12 @@ Web
   * [deepcrawl](https://github.com/lumpinif/deepcrawl/)
   * 웹 페이지를 정제된 마크다운 + 계층 링크 트리로 변환. LLM 토큰 비용 절감·환각 최소화 설계. Cloudflare/Vercel 배포
 * [Greenflare - 오픈소스 로컬 SEO 크롤러 | GeekNews](https://news.hada.io/topic?id=3365)
-* [Scraping Browser - Automated Browser for Scraping](https://brightdata.com/products/scraping-browser)
-  * [차원이 다른 '웹 스크래핑' 비법 알려드림 - YouTube](https://www.youtube.com/watch?v=tcFz6NY3zpc)
+* [Kitesurf: an agent-first browser | Cloudflare Blog](https://blog.cloudflare.com/kitesurf/)
+  * [Kitesurf](https://kitesurf.cloudflare.app/)
+  * [Kitesurf | Cloudflare Docs](https://developers.cloudflare.com/browser-run/kitesurf/)
+  * [Kitesurf - V8 격리 환경에서 실행되는 에이전트 우선 브라우저 | GeekNews](https://news.hada.io/topic?id=32266)
+  * Cloudflare Workers 위에서 도는 AI 에이전트 전용 브라우저. Chromium 대비 CPU·메모리 3~7배 적게 쓰고(벽시계 시간은 1.7~1.8배 느림) 스크린샷·HTML 추출·PDF에 최적화. Rust·WebAssembly·Dynamic Workers로 12주 만에 개발, WPT 21.5만 개 통과
+  * Engine·PageScript·PageRenderer를 각각 Workers 격리 환경으로 분리해 신뢰할 수 없는 웹 페이지를 안전하게 실행. 영상·WebGL·실제 TLS 지문·장시간 세션은 미지원. Browser Run에서 베타 무료, CDP·렌더링 호환성 확대 후 오픈소스 공개 예정
 * Nepenthes [ZADZMO code](https://zadzmo.org/code/nepenthes/)
   * [Nepenthes - AI 웹 크롤러를 잡는 함정 | GeekNews](https://news.hada.io/topic?id=18770)
 * [Lightpanda | The headless browser designed for AI and automation](https://lightpanda.io/)
@@ -681,6 +685,8 @@ Web
 * [pipet: Swiss-army tool for scraping and extracting data from online assets, made for hackers](https://github.com/bjesus/pipet)
   * CLI 웹 스크레이퍼. HTML 파싱·JSON 파싱·클라이언트 JS 평가 3가지 모드, curl 등 기존 도구와 unix 파이프로 확장. 배송 추적·티켓 발매 알림·주가 변동 등 온라인 정보 모니터링. Go, MIT
 * [scraping-apis-for-devs: This GitHub repo is a powerhouse collection of scraping APIs for developers that you can start using immediately to build everything from simple automations to full-scale applications](https://github.com/cporter202/scraping-apis-for-devs)
+* [Scraping Browser - Automated Browser for Scraping](https://brightdata.com/products/scraping-browser)
+  * [차원이 다른 '웹 스크래핑' 비법 알려드림 - YouTube](https://www.youtube.com/watch?v=tcFz6NY3zpc)
 * [social-media-scraping-apis: A curated collection of social media scraping APIs and tools for Instagram, LinkedIn, Twitter/X, TikTok, YouTube, Facebook, and more](https://github.com/cporter202/social-media-scraping-apis)
 * [video-scraping-apis: A collection of APIs for scraping video metadata, engagement stats, and public video data across multiple platforms](https://github.com/cporter202/video-scraping-apis)
   * 여러 플랫폼의 영상 메타데이터·engagement 통계·공개 영상 데이터를 스크래핑하는 API 모음. JavaScript
