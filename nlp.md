@@ -4131,6 +4131,11 @@ NLP
   * [Skyvern – LLM 및 컴퓨터 비전을 활용한 브라우저 워크플로우 자동화 | GeekNews](https://news.hada.io/topic?id=13860)
 * [SNgramExtractor: Python package code repo for Implementation of syntactic n-grams (sn-gram) extraction](https://github.com/StatguyUser/SNgramExtractor)
   * 의존성 파스 트리 구조를 사용하여 syntactic 합성 n-gram 추출
+* [Soup — Fine-tune and post-train LLMs in one command](https://trysoup.dev/)
+  * [Soup: Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU](https://github.com/MakazhanAlpamys/Soup)
+  * [🆓 Soup: 4GB 노트북 GPU로 8B LLM 파인튜닝하는 오픈소스 CLI 설치·사용 가이드 | fornewchallenge](https://fornewchallenge.tistory.com/entry/%F0%9F%86%93-Soup-4GB-%EB%85%B8%ED%8A%B8%EB%B6%81-GPU%EB%A1%9C-8B-LLM-%ED%8C%8C%EC%9D%B8%ED%8A%9C%EB%8B%9D%ED%95%98%EB%8A%94-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-CLI-%EC%84%A4%EC%B9%98%C2%B7%EC%82%AC%EC%9A%A9-%EA%B0%80%EC%9D%B4%EB%93%9C)
+  * YAML 하나로 LLM 파인튜닝·포스트트레이닝. 핵심은 layer streaming—베이스 모델 가중치는 호스트 메모리에 두고 학습할 레이어만 GPU에 일시 올려 계산 후 내리며 LoRA 어댑터만 상주시켜 VRAM 급감. RTX 3050 Laptop 4GB에서 Llama-3.1-8B-Instruct를 NF4 양자화로 학습할 때 최대 3.32GB만 사용
+  * SFT·DPO·ORPO·SimPO·KTO 지원, `soup ship`으로 성능 회귀 자동 감지, GGUF 내보내 Ollama 실행. `pip install "soup-cli[train]"`(Python 3.10~3.12)→`soup init`→`soup train --config soup.yaml`. Apache-2.0, 2.6k stars
 * [sparrow: Data processing with ML and LLM](https://github.com/katanaml/sparrow)
 * StableLM: StableLM: Stability AI Language Models https://github.com/Stability-AI/StableLM
 * [stanford\_alpaca: Code and documentation to train Stanford's Alpaca models, and generate the data](https://github.com/tatsu-lab/stanford_alpaca)
