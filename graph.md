@@ -281,6 +281,8 @@ Graph
 * [LightRAG: Simple and Fast Retrieval-Augmented Generation](https://arxiv.org/abs/2410.05779)
   * [LightRAG](https://github.com/HKUDS/LightRAG)
   * 텍스트 인덱싱에 그래프 구조 통합한 dual-level 검색. NaiveRAG, GraphRAG보다 우수한 성능
+* [ontoflow: Ontology-native workflow automation for explainable business operations](https://github.com/llmragdev/ontoflow)
+  * 업무 데이터 모델과 업무 절차 실행을 연결해 사람이 이해·추적할 수 있는 업무 자동화를 만드는 공개 아키텍처 프로젝트. 대화형 AI나 도구 연결만으로는 답하기 어려운 질문—어떤 업무 데이터의 어떤 값이 바뀌었고 어느 단계에서 만들어졌는지, 외부 API·MCP 도구 호출의 입·출력 추적, 어떤 검증 규칙이 통과/실패했는지, 후보 변경이 언제 실제 데이터에 반영되는지—를 제품 구조의 핵심으로 다룸
 * [Ontology-Playground: Free, open-source web app for learning about ontologies and Microsoft Fabric IQ](https://github.com/microsoft/Ontology-Playground)
   * [우리 회사는 같은 단어를 같은 뜻으로 쓰고 있는가 | AX LABS 블로그](https://theaxlabs.com/blog/%EC%9A%B0%EB%A6%AC-%ED%9A%8C%EC%82%AC%EB%8A%94-%EA%B0%99%EC%9D%80-%EB%8B%A8%EC%96%B4%EB%A5%BC-%EA%B0%99%EC%9D%80-%EB%9C%BB%EC%9C%BC%EB%A1%9C-%EC%93%B0%EA%B3%A0-%EC%9E%88%EB%8A%94%EA%B0%80)
   * [Microsoft가 온톨로지 오픈소스를 공개했습니다 | Seungpil Lee](https://www.linkedin.com/posts/seungpil_microsoft%EA%B0%80-%EC%98%A8%ED%86%A8%EB%A1%9C%EC%A7%80-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%EB%A5%BC-%EA%B3%B5%EA%B0%9C%ED%96%88%EC%8A%B5%EB%8B%88%EB%8B%A4-%ED%81%B4%EB%A1%9C%EB%93%9C-%EC%BD%94%EB%93%9C%EB%A1%9C-share-7484748260364943360-TLY_/)
@@ -292,6 +294,11 @@ Graph
   * [Google Cloud Spanner Graph + PathRAG | Sungmin Kim](https://www.linkedin.com/posts/sungminkim23_googlecloud-spannergraph-pathrag-ugcPost-7441519507074015232-YJ2v)
   * flow-based pruning으로 중복 제거, path-based prompting으로 일관된 응답 생성
 * [pygraft: Configurable Generation of Schemas and Knowledge Graphs at Your Fingertips](https://github.com/nicolas-hbt/pygraft)
+* [Semantica — Graph-Native Infrastructure for Context and Accountable AI Systems](https://getsemantica.ai/)
+  * [semantica: Graph-Native Infrastructure for Context and Accountable AI Systems](https://github.com/semantica-agi/semantica)
+  * [Semantica, AI 에이전트를 위한 Context Graph와 의사결정 인프라 | digitalbourgeois](https://digitalbourgeois.tistory.com/3537)
+  * AI 에이전트의 의사결정을 추적·설명 가능하게 만드는 그래프 네이티브 인프라. 기업 데이터를 Context Graph로 통합(PDF·DB·API·Databricks·Snowflake), 의사결정을 기록하고 인과관계 연결, "왜 이 결정을 내렸는가" provenance 추적, 데이터 소스 간 충돌 감지·중복 제거
+  * LLM을 대체하지 않고 그 위에 구조화된 감사 추적 계층을 추가하는 방식. 금융(대출심사·AML)·의료(임상 의사결정)·법률(계약 분석)·정부·국방·사이버보안 등 규제 환경 대상. Python, 10k stars
 
 # Library
 * [Ajgu - a simple graph database power by BerkleyDB key-value store](https://bitbucket.org/amirouche/ajgu-graphdb)
