@@ -5795,6 +5795,9 @@ Artificial Intelligence
     * [한영자막 Matt Pocock 스킬, 이번 업데이트로 확 달라졌다 - YouTube](https://www.youtube.com/watch?v=sZrFaPMau6A)
       * Tech Bridge. v1.2 업데이트 정리—새 공식 문서 사이트(aihero.dev/skills)·AI 코딩 사전 공개, Claude Code 공식 플러그인 마켓플레이스 등록, Codex 호환성 개선
       * 신규·개선 스킬: Wait What(Opus 장황한 답변 교정), Grill Me(여러 질문을 그래프 구조로 묶어 라운드 단위 질문), Writing for Agents, Wizard(대화형 인프라 프로비저닝), To Questionnaire(협업용)
+    * [Skills | AI Hero](https://www.aihero.dev/skills)
+    * [/wayfinder: Nothing is too big to plan anymore - YouTube](https://www.youtube.com/watch?v=F3lL98Pj90o)
+      * Matt Pocock. 여러 에이전트 세션에 걸쳐 대규모 프로젝트를 조율하는 AI 계획 스킬 Wayfinder—막연한 아이디어를 구체적 실행 계획으로 매핑하고 리서치·프로토타이핑·태스크 관리를 내장. 결정 사항을 이슈 트래커에 기록, 티켓 유형·블로킹 관계 정의, 맵에서 스펙·티켓 생성
   * [skillstead: Practical, portable skills for agentic coding workflows](https://github.com/kyungseo/skillstead)
     * [svg-infographic 스킬 예제 (README.ko)](https://github.com/kyungseo/skillstead/blob/main/examples/svg-infographic/README.ko.md)
     * [설치 가이드 (INSTALL.md)](https://github.com/kyungseo/skillstead/blob/main/docs/INSTALL.md)
