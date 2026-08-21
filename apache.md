@@ -1605,6 +1605,10 @@ Apache
 * [Introduction to Apache NiFi and Storm](https://speakerdeck.com/heartsavior/introduction-to-apache-nifi-and-storm)
 
 # Superset
+* [Apache Superset](https://superset.apache.org/)
+  * [Apache Superset: Free Open Source Alternative to Tableau & Power BI (2026 Update) - YouTube](https://www.youtube.com/watch?v=Ne1gzmzLe2w)
+    * Elestio. SQL 데이터베이스를 인터랙티브 차트·대시보드로 바꾸는 오픈소스 BI 플랫폼 재조명—새로 디자인된 인터페이스, 다크 모드, 네이티브 대시보드 필터·크로스 필터링, BI 도구 중 최고 수준의 SQL 에디터, row-level security
+    * 신규 MCP 서버로 Claude 같은 AI 어시스턴트가 데이터를 질의하고 차트를 만들어줌. Elestio로 설치 후 기능 둘러보기 데모
 * [Superset](https://github.com/apache/incubator-superset) a data exploration and visualization web application
 * [Supercharging Apache Superset | by Airbnb | Airbnb Engineering & Data Science](https://medium.com/airbnb-engineering/supercharging-apache-superset-b1a2393278bd)
 * [Use Apache Superset for open source business intelligence reporting | Opensource.com](https://opensource.com/article/21/4/business-intelligence-open-source)
