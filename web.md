@@ -682,6 +682,8 @@ Web
   * CLI 웹 스크레이퍼. HTML 파싱·JSON 파싱·클라이언트 JS 평가 3가지 모드, curl 등 기존 도구와 unix 파이프로 확장. 배송 추적·티켓 발매 알림·주가 변동 등 온라인 정보 모니터링. Go, MIT
 * [scraping-apis-for-devs: This GitHub repo is a powerhouse collection of scraping APIs for developers that you can start using immediately to build everything from simple automations to full-scale applications](https://github.com/cporter202/scraping-apis-for-devs)
 * [social-media-scraping-apis: A curated collection of social media scraping APIs and tools for Instagram, LinkedIn, Twitter/X, TikTok, YouTube, Facebook, and more](https://github.com/cporter202/social-media-scraping-apis)
+* [video-scraping-apis: A collection of APIs for scraping video metadata, engagement stats, and public video data across multiple platforms](https://github.com/cporter202/video-scraping-apis)
+  * 여러 플랫폼의 영상 메타데이터·engagement 통계·공개 영상 데이터를 스크래핑하는 API 모음. JavaScript
 * [Webclaw — The fastest web scraper for AI agents](https://webclaw.io/)
   * [webclaw](https://github.com/0xMassi/webclaw)
   * Rust 기반 로컬퍼스트 웹 콘텐츠 추출. HTML→LLM 최적화 마크다운(토큰 67% 절감), 100KB 페이지 3.2ms 처리. MCP 서버(10개 도구), TLS 핑거프린팅, 변경 감지, 브랜드 아이덴티티 추출. CLI/REST API/Docker/SDK(TS·Python·Go)
