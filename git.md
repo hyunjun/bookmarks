@@ -237,6 +237,10 @@ Git
 * [What’s wrong with Git? A conceptual design analysis | the morning paper](https://blog.acolyer.org/2016/10/24/whats-wrong-with-git-a-conceptual-design-analysis/)
 * [Git as a NoSql database](https://www.kenneth-truyers.net/2016/10/13/git-nosql-database/)
 * [Scaling monorepo maintenance | The GitHub Blog](https://github.blog/2021-04-29-scaling-monorepo-maintenance/)
+* [모든 규모의 Git (Git at Any Scale) | Cursor](https://cursor.com/ko/blog/git-at-any-scale)
+  * [Git at Any Scale | 박상길](https://www.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_git-at-any-scale-cursor-share-7495962762305536001-hEeV/)
+  * Git 저장소 대규모 호스팅은 packfile 기반 설계 탓에 확장성·안정성 한계가 있고, 해법은 파일시스템·packfile·Git 자체를 분산하는 세 갈래. GitHub Spokes는 3단계 커밋 합의로 복제본 일관성을 지켰지만 대규모 모노레포와 수백만 소규모 저장소에서 한계 노출
+  * Cursor의 Continuity 시스템은 S3 기반 선행 기록 로그(WAL)를 핵으로 완전한 일관성을 유지하면서 무제한 수평 확장을 제공
 * ['폴리리포주의자'가 모노리포를 반대하는 3가지 이유 - ITWorld Korea](https://www.itworld.co.kr/news/214234)
 * [모노레포에서 Github Actions 현명하게 사용하기](https://f-lab.kr/blog/wise-use-of-github-actions-in-monorepo)
 * [GitHub Packages Container registry is generally available | The GitHub Blog](https://github.blog/2021-06-21-github-packages-container-registry-generally-available/)
