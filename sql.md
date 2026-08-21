@@ -552,7 +552,13 @@ SQL
 * [DuckDB 사용법(DuckDB Python + Jupyter Lab) · 어쩐지 오늘은](https://zzsza.github.io/data-engineering/2024/10/25/duckdb/)
   * [DuckDB 사용법(DuckDB Python + Jupyter Lab) | GeekNews](https://news.hada.io/topic?id=17450)
 * [pandas vs Polars vs DuckDB: A Data Scientist's Guide to Choosing the Right Tool | CodeCut](https://codecut.ai/pandas-vs-polars-vs-duckdb-comparison/)
-* [DuckLake: SQL as a Lakehouse Format – DuckDB](https://duckdb.org/2025/05/27/ducklake.html)
+* [DuckLake is an integrated data lake and catalog format – DuckLake](https://ducklake.select/)
+  * [DuckLake is an integrated data lake and catalog format](https://github.com/duckdb/ducklake)
+  * [DuckLake: SQL as a Lakehouse Format – DuckDB](https://duckdb.org/2025/05/27/ducklake.html)
+  * [DuckLake - Take Python and DuckDB for a swim in your data lake - Marc-André Lemburg - YouTube](https://www.youtube.com/watch?v=TB2P7pb6uR8)
+    * EuroPython 2026. DuckDB(`uv add duckdb`로 붙이는 임베디드 OLAP, PostgreSQL SQL 방언, 인메모리+디스크 영속, zero-copy Apache Arrow로 Polars 연동)와 DuckLake 확장으로 거대한 데이터셋을 복잡한 클라우드 인프라 없이 노트북에서 비슷한 속도로 다루는 방법
+    * DuckLake는 디스크나 S3 같은 오브젝트 스토어의 Parquet 파일로 데이터 레이크 기능을 제공
+  * [DuckLake - 통합 데이터 레이크 및 카탈로그 포맷 | GeekNews](https://news.hada.io/topic?id=21168)
 * [Unleashing the Power of DuckDB: A Modern Analytical Database Engine | Barani Dakshinamoorthy](https://kr.linkedin.com/pulse/unleashing-power-duckdb-modern-analytical-database-dakshinamoorthy-j6hie)
   * DuckDB의 주요 활용법 종합 가이드. 로컬 인메모리 분석, MotherDuck 클라우드 배포, Streamlit·Apache Superset 연동, ML 데이터 전처리까지. 라이선스 비용 없이 ad-hoc 분석부터 프로덕션 파이프라인까지 커버
 
