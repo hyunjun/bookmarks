@@ -802,6 +802,9 @@ AWS
   * [Claude Code on Amazon Bedrock Workshop](https://catalog.workshops.aws/claude-code-on-amazon-bedrock)
 * [Claude Apps Gateway on AWS 자세히 알아보기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/claude-apps-gateway-with-aws/)
   * Amazon Bedrock 기반 Claude Code·Claude Desktop 엔터프라이즈 도입 가이드. 데이터 학습 미활용, Private Network 구성, AWS 계정·IAM 통합 인증·비용 관리, Guardrails 콘텐츠 필터링
+* [Amazon Bedrock에서 LLM 게이트웨이의 두 사각지대 메우기: 사라진 호출자와 흐려진 모델 거버넌스 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/amazon-bedrock-litellm-integration/)
+  * LiteLLM·AWSome AI Gateway 같은 AI 게이트웨이가 업계에서 주목받는 흐름 속 LiteLLM + AWS 조합. 게이트웨이를 경유하면 "누가 호출했는가"가 사라지는데 `X-Amzn-Bedrock-Request-Metadata` 헤더로 사용자·팀 정보를 Bedrock 로그에 주입해 감사 추적 복원
+  * Application Inference Profile을 모델별로 만들어 CloudWatch에서 모델별 사용량을 관측하고 IAM 권한을 프로파일 ARN으로 한정해 모델 거버넌스 확보. Virtual Key 레벨 예산 강제 + IAM Identity Center 자동 매핑으로 개발자 단위 사용 통제, VPC 격리로 안전한 운영
 * [Build a Production-Ready AI Agent From Scratch — With LangGraph & AWS AgentCore](https://joudwawad.medium.com/production-ready-ai-agent-from-scratch-with-langgraph-aws-agentcore-e236cd3f675f)
   * [Build a Production-Ready AI Agent From Scratch | Darryl R.](https://www.linkedin.com/posts/darryl-ruggles_build-a-production-ready-ai-agent-from-scratch-activity-7430485562177863681-hrnc)
 * [Amazon Bedrock AgentCore (Preview) - AWS](https://aws.amazon.com/ko/bedrock/agentcore/)
