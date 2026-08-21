@@ -3090,6 +3090,9 @@ App
 * [Microsoft 365 Copilot 공개 - AI 기반 오피스 도우미 | GeekNews](https://news.hada.io/topic?id=8717)
 * [.new Shortcuts | A Domain Exclusively for Shortcuts | Google Registry](https://whats.new/shortcuts/)
   * [엑셀, 워드, PPT... 설치 없이 무료로 쓰는 방법⚡#shorts | JinKwon Jeon](https://www.linkedin.com/posts/jeonjk_%EC%97%91%EC%85%80-%EC%9B%8C%EB%93%9C-ppt-%EC%84%A4%EC%B9%98-%EC%97%86%EC%9D%B4-%EB%AC%B4%EB%A3%8C%EB%A1%9C-%EC%93%B0%EB%8A%94-%EB%B0%A9%EB%B2%95shorts-activity-7419384190468612096-RWgJ)
+* [BatiOffice — 오피스 전체를 무료로](https://bati.ai/batioffice/)
+  * DOCX·XLSX·PPTX·HWP·HWPX·PDF를 한 앱에서 편집하는 데스크톱 문서 편집기. 계정·구독료·문서 수 제한 없이 기본 편집 무료
+  * Bati AI로 문서 작성·데이터 분석·슬라이드 생성을 자동화하고, 개인 API 키나 로컬 AI도 연결 가능(AI는 선택 사항)
 * [DocuSeal | Open Source Document Signing](https://www.docuseal.com/)
   * [docuseal: Open source DocuSign alternative. Create, fill, and sign digital documents](https://github.com/docusealco/docuseal)
   * 오픈소스 DocuSign 대체. PDF/DOCX/XLSX/JPEG/PNG/ZIP 업로드 후 서명. 100MB 제한 외 파일 개수 무제한, 개인 무료, 기업·개발자용 API 제공
