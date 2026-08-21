@@ -1001,6 +1001,11 @@ App
 * [filesremote: An SSH file manager that lets you edit files like they are local](https://github.com/allanrbo/filesremote)
   * [FilesRemote - SSH 파일 매니저 | GeekNews](https://news.hada.io/topic?id=4867)
 * [KODExplorer - A web based file manager,Instead of ftp,online ide http://kalcaddle.com](https://github.com/kalcaddle/KODExplorer)
+* [superfile - Pretty fancy and modern terminal file manager](https://superfile.dev/)
+  * [superfile: Pretty fancy and modern terminal file manager](https://github.com/yorukot/superfile)
+  * [Superfile is AWESOME - YouTube](https://www.youtube.com/watch?v=pDIMXiKyvA4)
+  * [Superfile: 나를 CLI로 돌아오게 한 터미널 파일 매니저 | TechHut](https://techhut.tv/superfile-terminal-file-manager)
+  * Go로 작성된 현대식 터미널 파일 매니저(`spf`). 중앙 파일 브라우저+우측 미리보기+좌측 사이드바 레이아웃, 다중 패널로 여러 디렉토리 동시 탐색, Vim 스타일 커스터마이징 가능한 키바인딩, 선택 모드 대량 파일 작업, 검색·정렬, Nord/Dracula 등 테마. SSH로 원격 서버에서도 사용. 22.7k stars
 * [yazi: 💥 Blazing fast terminal file manager written in Rust, based on async I/O.](https://github.com/sxyazi/yazi)
   * [How To Use Yazi: An Awesome Terminal File Manager Written In Rust - YouTube](https://www.youtube.com/watch?v=iKb3cHDD9hw)
 
@@ -1887,6 +1892,10 @@ App
   * [맥에서 자막 내장한 mp4, m4v 작업하기](http://meteos.tistory.com/538)
 * [Hidden Bar lets you hide menu bar items to give your Mac a cleaner look](https://github.com/dwarvesf/hidden)
 * [highlight](https://github.com/taggon/highlight)
+* [highlight-cursor: macOS menu-bar app: cursor highlight, click ripple, spotlight, trail (SPM, AppKit + Core Animation)](https://github.com/jesamkim/highlight-cursor)
+  * 화면 공유·데모·발표·녹화에서 마우스 포인터가 잘 보이도록 커서에 시각 효과를 입히는 macOS 메뉴바 앱. 커서를 따라다니는 펄스 하이라이트 링, 5종 클릭 이펙트(물결·벚꽃·기 폭발·반짝임·ghostRain, 좌/우클릭 색 구분), 스포트라이트, 트레일. 효과별 개별 on/off와 색상·크기·투명도 슬라이더 설정
+  * 상시 화면을 다시 그려 CPU·배터리를 많이 쓰는 유사 앱들의 문제를 피하는 게 제작 이유—폴링 없이 `NSEvent` 전역 모니터로 실제 이동 시에만 콜백, 펄스·글로우·클릭 이펙트를 `CABasicAnimation`으로 전부 GPU 처리해 마우스가 멈추면 CPU 0%에 수렴. Swift + AppKit + Core Animation
+  * Plan → Build 전 과정을 Kiro(Model: Auto)로만 제작. 재빌드는 `git pull` → `pkill -x HighlightCursor` → `./scripts/build_app.sh`(ad-hoc 서명) → `open HighlightCursor.app`
 * [Hookshot](https://hookshot.app/) spectacle 유사
 * [HotKey 앱을 활용하여 단축키로 프로그램 실행하기](https://it-talktalk.tistory.com/955)
 * [Hyper 리뷰- Mac과 iOS, 안드로이드, 웹에서 사용가능한 사용자지정 양식 스택카드 (맥앱,iOS앱 추천)](https://www.appicide.net/p220)
