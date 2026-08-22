@@ -199,6 +199,8 @@ Product
   * [Valve, Steam Machine e-ink 전면을 오픈소스로 공개 | GeekNews](https://news.hada.io/topic?id=31095)
   * Valve가 Steam Machine 전면 e-ink 디스플레이를 직접 만들어 제공하지는 않지만, 누구나 자체 제작할 수 있도록 인터페이스를 오픈소스로 공개
 * [Viwoods AI Paper eInk Tablet Unboxing Impressions - YouTube](https://www.youtube.com/watch?v=LZ0QcAl5xVo)
+  * [삶의 질을 올려준 디지털 종이｜독서부터 기록까지, 비우즈 AIpaper Mini 실사용기 - YouTube](https://www.youtube.com/watch?v=7EyDhSLmFsM)
+    * 8인치 AIpaper Mini 7개월 실사용—이북리더기 사용성, 종이 유사 필기감, 손글씨 AI 텍스트 변환·녹음 요약, 노트 태그 관리, 구글 캘린더 일정관리, PDF·웹페이지 필기, 블루투스 키보드+노션 활용, 60만원대 가격에 대한 솔직한 평가
 
 # Keyboard
 * [One year with the Truly Ergonomic keyboard | CyberShadow's blog](https://blog.cy.md/2015/05/25/one-year-with-the-truly-ergonomic-keyboard/)
