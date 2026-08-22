@@ -1215,6 +1215,9 @@ Data Science
 * [the-algorithm: Source code for the X Recommendation Algorithm](https://github.com/twitter/the-algorithm)
 * [200밀리초의 벽을 지켜라…개발자를 위한 실시간 개인화 가이드 | ITWorld](https://www.itworld.co.kr/article/4135624/200%EB%B0%80%EB%A6%AC%EC%B4%88%EC%9D%98-%EB%B2%BD%EC%9D%84-%EC%A7%80%EC%BC%9C%EB%9D%BC%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EA%B0%9C%EC%9D%B8.html)
   * 투타워 아키텍처로 후보 생성/랭킹 분리, HNSW 그래프 인덱스로 콜드 스타트 해결, 모델 양자화로 크기 1/4 압축 및 속도 2배 향상, p99.9 지연 시간 기준 사용자 경험 평가
+* [GenRec: Towards LLM-Native Recommendation at Netflix | Netflix TechBlog](https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3)
+  * 수천 개 수작업 피처 기반 프로덕션 랭커를 LLM 기반으로 대체하는 실험. 사용자 이력·아이템 메타데이터·컨텍스트를 텍스트로 서술(verbalize)해 내부 파운데이션 LLM을 포스트트레이닝, 카탈로그 인지 스코어링 헤드 + 장기 멤버 가치 보상 정렬, vLLM prefill-only 모드로 비용 절감
+  * 대규모 A/B 테스트에서 기존 랭커 대비 단기·장기 지표 모두 유의미하게 개선—라벨 데이터·입력 신호는 소량만 사용. 피처 엔지니어링에서 컨텍스트 엔지니어링으로의 전환
 
 ## Recommendation Python
 * [**파이썬 추천 시스템 심화과정**](https://nbviewer.jupyter.org/github/lsjhome007/python_ds_ml_pieriandata/blob/master/Advanced%20Recommender%20Systems%20with%20Python_SJ.ipynb)
