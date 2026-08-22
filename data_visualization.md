@@ -259,6 +259,9 @@ Data Visualization
 * [Better Data Presentation with Chart Blocks](https://blog.squarespace.com/better-data-presentation-with-chart-blocks)
 * [McKinsey Chart of the Day | McKinsey & Company](https://www.mckinsey.com/featured-insights/sustainable-inclusive-growth/chart-of-the-day) data에 맞는 chart의 예시를 보고 싶을 때
 * [chart.xkcd - xkcd styled chart lib https://timqian.com/chart.xkcd ](https://github.com/timqian/chart.xkcd)
+* [cosmos.gl — GPU-accelerated force graph layout and rendering](https://cosmos.gl/)
+  * [graph: GPU-accelerated force graph layout and rendering](https://github.com/cosmosgl/graph)
+  * WebGL 셰이더에서 force 시뮬레이션과 렌더링을 모두 수행하는 GPU 가속 그래프 시각화 라이브러리. TypeScript, 1.3k stars
 * [data-formulator: 🪄 Create rich visualizations with AI](https://github.com/microsoft/data-formulator)
   * [Microsoft released a new AI powered data analysis tool](https://www.linkedin.com/posts/sumanth077_microsoft-released-a-new-ai-powered-data-activity-7307302736302153729-wDQy/)
 * [Datawrapper: Create charts, maps, and tables](https://www.datawrapper.de/)
