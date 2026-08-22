@@ -388,6 +388,7 @@ Artificial Intelligence
   * 미드나잇 로그. 고교 중퇴 후 ChatGPT로 독학해 OpenAI 연구원이 된 사람의 학습법—AI에게 "대신 해줘"가 아니라 "가르쳐줘"로 묻고, 코드는 한 줄 한 줄 다 읽기. 지식은 더 이상 병목이 아니며(기초는 AI가 제공), "12살한테 설명하듯" 프롬프트로 기초를 빠르게 이해
 * [How I use LLMs to learn complex topics | Laurentiu Raducu](https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/)
   * [LLM으로 복잡한 기술을 배우는 새로운 방법, 시각적 시뮬레이션 학습법 | digitalbourgeois](https://digitalbourgeois.tistory.com/3516)
+  * [LLM으로 복잡한 주제를 배우는 시각적 시뮬레이션 학습법 | GeekNews](https://news.hada.io/topic?id=32312)
   * LLM의 텍스트 설명 대신 인터랙티브 게임형 시뮬레이션을 만들어 학습—플랜 모드(Claude Code/OpenCode)에서 지식 베이스 구축→정확성 자기 검토→롤러코스터 타이쿤 스타일 로우폴리 시뮬레이션 제작→GitHub Pages 배포
   * 칩 제조 과정을 배우는 "ChipTycoon" 제작 사례, 로켓 엔진·LLM 작동 원리·F1 엔진·EUV 장비로 확장. 목표는 정신 모형(mental model)과 직관 형성—단 AI 자기 검토만으론 정확성이 보장되지 않아 직접 자료 검증 필요
 * [AI 시대의 개발자 문서는 어떠해야 하는가 (feat. 공공 API 유감)](https://www.stdy.blog/developer-docs-for-ai-area/)
@@ -1194,6 +1195,9 @@ Artificial Intelligence
     * Hermes 같은 자가 개선형 에이전트의 skill bloat 문제. 스킬 수명 주기 관리: 사용 메타데이터, 노후화, 아카이빙, 재검증 제안
   * [Hermes 칸반은 노션 같은 일반 칸반이 아닙니다 (Multi-Agent Profile Collaboration) | Goobong Jeong](https://www.linkedin.com/posts/gb-jeong_hermes-%EC%B9%B8%EB%B0%98%EC%9D%80-%EB%85%B8%EC%85%98-%EA%B0%99%EC%9D%80-%EC%9D%BC%EB%B0%98-%EC%B9%B8%EB%B0%98%EC%9D%B4-%EC%95%84%EB%8B%99%EB%8B%A4-multi-agent-activity-7458270693357563904-0Oxk)
     * 카드를 움직이는 건 사람이 아니라 named agent들. 각 워커는 별도 OS 프로세스로 떠서 같은 보드 위에서 동시에 작업
+  * [Nous Research Releases Bot Mode for Hermes Agent | MarkTechPost](https://www.marktechpost.com/2026/08/17/nous-research-hermes-bot-mode/)
+    * [Hermes Agent Bot Mode란? 역할별 AI 봇 구성과 에이전트 간 협업 방식 | digitalbourgeois](https://digitalbourgeois.tistory.com/3535)
+    * 하나의 에이전트 세션을 여러 named bot으로 확장—각 봇이 독립된 채팅·메모리·스킬·모델·인증 정보를 가진 프로필(기존 프로필 구조 재사용, 새 저장 시스템 불필요). Agent Inbox로 봇 간 작업 전달, `@mention`으로 작업 할당, 2~6개 봇 그룹 채팅 지원. v0.20.3부터 기본 활성화, MIT
   * ["쓸수록 나아진다"는 그 AI, Hermes Agent 제대로 알아보기 | 요즘IT](https://yozm.wishket.com/magazine/detail/3756/)
     * OpenRouter 사용량 1위 등극(Openclaw 추월). 4가지 자가 개선 메커니즘: 복잡 작업 자동 스킬 문서화, SQLite 기반 빠른 스킬 검색, 지속적 메모리 개선, 세션 간 사용자 모델 유지. 20+ 메시징 플랫폼·다중 백엔드 지원
   * [지금 가장 쉬운 AI 사업 아이디어 - YouTube](https://www.youtube.com/watch?v=-DXhS_uAMIw)
@@ -1230,6 +1234,9 @@ Artificial Intelligence
   * 개인 AI 어시스턴트 1분 배포 서비스. WhatsApp/Telegram 통합, Claude Opus/GPT 지원, 전용 서버 기반, 200 Kč/월(~$8)
 * [kaida-shield: The secure runtime for AI agents. Run anything. Break nothing.](https://github.com/ajpandit775/kaida-shield)
   * AI 에이전트를 위한 보안 런타임. 샌드박스 환경에서 안전하게 실행
+* [labs-OO-Agents: NVIDIA Object Oriented Agents — the Pythonic way to build AI Agents](https://github.com/nvidia-nemo/labs-OO-Agents)
+  * [엔비디아의 공식 에이전틱 하네스: NOOA | 율무커피](https://x.com/yulmu_coffee/status/2086698582019842164)
+  * NVIDIA Labs의 모델 불문(model-agnostic) 에이전트 연구 프레임워크. 프롬프트·도구·콜백·워크플로를 별도 추상화로 나누는 대신 에이전트의 상태·능력·프롬프트·타입 인터페이스를 하나의 Python 클래스로 표현하는 객체지향 접근. arXiv 논문·"6가지 에이전트 하네스 능력" 블로그 동반—에이전트 성능이 모델만으로 결정되지 않음을 수치로 증명. Apache 2.0, 1.9k stars
 * [LatentMAS: Latent Collaboration in Multi-Agent Systems](https://github.com/gen-verse/latentmas)
   * [2511.20639 Latent Collaboration in Multi-Agent Systems](https://arxiv.org/abs/2511.20639)
   * [Princeton/UIUC/Stanford 텍스트 없는 대화: 잠재 공간(Latent Space)에서의 협업을 통한 멀티 에이전트 시스템의 혁신 ‘LatentMAS’ | by YouShin kim | Nov, 2025 | Medium](https://medium.com/@mdpman/princeton-uiuc-stanford-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%97%86%EB%8A%94-%EB%8C%80%ED%99%94-%EC%9E%A0%EC%9E%AC-%EA%B3%B5%EA%B0%84-latent-space-%EC%97%90%EC%84%9C%EC%9D%98-%ED%98%91%EC%97%85%EC%9D%84-%ED%86%B5%ED%95%9C-%EB%A9%80%ED%8B%B0-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%98-%ED%98%81%EC%8B%A0-latentmas-2829777fc73a)
@@ -1414,6 +1421,8 @@ Artificial Intelligence
 * [Qoder - The Agentic Coding Platform](https://qoder.com/)
 * [Qwen-Agent: Agent framework and applications built on Qwen](https://github.com/QwenLM/Qwen-Agent)
   * [Qwen-Agent | GeekNews](https://news.hada.io/topic?id=27367)
+* [Qwen-MM-Plugins: Make any agent harness multimodal-native](https://github.com/QwenLM/Qwen-MM-Plugins)
+  * 어떤 에이전트 하네스든 멀티모달 네이티브로 만들어주는 Qwen 팀의 플러그인 모음. 2.8k stars
 * [Ranking Engineer Agent (REA): The Autonomous AI Agent Accelerating Meta’s Ads Ranking Innovation - Engineering at Meta](https://engineering.fb.com/2026/03/17/developer-tools/ranking-engineer-agent-rea-autonomous-ai-system-accelerating-meta-ads-ranking-innovation/)
   * [Ranking Engineer Agent REA: The Autonomous AI Agent Accelerating Meta's Ads Ranking Innovation | Jason Kang](https://www.linkedin.com/posts/byeongjinkang_meta%EA%B0%80-%EA%B4%91%EA%B3%A0-%EB%9E%AD%ED%82%B9-%EB%AA%A8%EB%8D%B8%EC%9D%98-end-to-end-ml-%EB%9D%BC%EC%9D%B4%ED%94%84%EC%82%AC%EC%9D%B4%ED%81%B4%EC%9D%84-%EC%9E%90%EC%9C%A8%EC%A0%81%EC%9C%BC%EB%A1%9C-share-7455734379634593792-cqMb)
   * Meta가 광고 랭킹 모델의 end-to-end ML 라이프사이클을 자율적으로 수행하는 REA 공개
@@ -3352,8 +3361,12 @@ Artificial Intelligence
   * [YC가 말하는 AI 스타트업의 레거시 산업 진입방법 회계 산업에 AI를 넣는다? 생각보다 복잡합니다. 첫날부터 완전 자동화는 불가능합니다. 그렇다면 어떻게 시작해야 할까요? 소프트웨어를 팔 것인가, 직접 회계법인을 운영할 것인가, 아니면 기존 회사를 인수할 것인가. 1. 레거시 산업 진입, 3가지 길 (회계산업 예) (1) 방식 1: 소프트웨어를… | Kyunghun Lee](https://www.linkedin.com/posts/leekh929_yc%EA%B0%80-%EB%A7%90%ED%95%98%EB%8A%94-ai-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%9D%98-%EB%A0%88%EA%B1%B0%EC%8B%9C-%EC%82%B0%EC%97%85-%EC%A7%84%EC%9E%85%EB%B0%A9%EB%B2%95-%ED%9A%8C%EA%B3%84-%EC%82%B0%EC%97%85%EC%97%90-ai%EB%A5%BC-activity-7387628331862679553-vged)
 * [OpenAI Reorgs For Profit, MiniMax-M2 Leads Open Coding, Universal Music Group Embraces AI, and more...](https://www.deeplearning.ai/the-batch/issue-326/)
   * [Tae Hyung Kim - 앤드루 응은 에이전트 시대엔 데이터 사일로가 더 고통스럽다고 말하며 API 키 하나 받는... | Facebook](https://www.facebook.com/socialego/posts/pfbid08SVj9B5Gy5SNjJqWNuZ9m33rWNfnYGZBwjVp3iXSRJDKwZoaPtCjs7xdsHEwtW96l)
+* [OpenAI 윤리 책임자, 합류 1년도 안 돼 퇴사 | GeekNews](https://news.hada.io/topic?id=32424)
+  * AI 윤리 책임자 Chloé Bakalar가 1년도 안 돼 퇴사, 후임 없음. 안전 시스템 책임자 등 안전·윤리 인력의 잇따른 퇴직으로 '윤리 부서 공동화' 심화
 * [Meta Pivots From Open Weights, Big Pharma Bets On AI, Regulatory Patchwork, and more... | The Batch Issue 349](https://www.deeplearning.ai/the-batch/issue-349/)
   * AI-native 소프트웨어 엔지니어링 팀이 전통적 팀과 다르게 운영되는 방식, Meta 오픈 웨이트 전환, 빅파마 AI 베팅, 규제 패치워크 등
+* [Mark Zuckerberg, Meta의 개방형 모델 복귀와 함께 '폐쇄형' AI 경쟁사 겨냥 | GeekNews](https://news.hada.io/topic?id=32367)
+  * 무료 고성능 AI를 수십억 명에게 배포하는 공개 모델 전략으로 복귀—개인 역량 강화와 폐쇄형 AI 기업 권력 견제 주장. 널리 배포된 오픈 모델이 더 많은 취약점 발견으로 오히려 안전하다는 논리
 * [Wontae Lee - <<브뤼셀의 회심(回心): 유럽 AI 규제 완화 조짐과 ‘Apply AI Strategy’,... | Facebook](https://www.facebook.com/wontae.lee.9889/posts/pfbid0g5Z7H5AY3Hf7CBxUsN6ZWU8vdsQYcNxrcEpDuKk1pXDKUidEML7LB2psHC3o5Nigl) 유럽의 AI 법체계가 이제 ‘룰북(rulebook)’에서 ‘플레이북(playbook)’으로 이동
 * [수요포럼 장광호 박사 "인공지능기본법 시행이 연구자에게 주는 기회는?" - YouTube](https://www.youtube.com/watch?v=Jl2g_EpQJeI)
   * [인공지능기본법 시행이 연구자에게 주는 기회: 장광호 박사의 수요포럼 강연 요약](https://livewiki.com/ko/content/ai-basic-law-researchers-opportunity)
@@ -3657,6 +3670,9 @@ Artificial Intelligence
 * [Kimi K3 is competitive with Fable; Kimi K3 + Fable is SoTA | Fireworks AI](https://fireworks.ai/blog/kimik3-fable)
   * [Kimi K3와 Fable 비교 분석: 단일 AI 모델보다 모델 라우팅이 더 중요한 이유 | digitalbourgeois](https://digitalbourgeois.tistory.com/3407)
   * Kimi K3가 Claude Fable와 대등하고, 둘을 라우팅으로 결합하면 SoTA에 도달한다는 Fireworks AI 분석. 단일 최강 모델보다 모델 라우팅·조합이 더 중요하다는 관점
+* [One prompt, 11 models, very different results | Netlify](https://www.netlify.com/blog/one-prompt-11-models-very-different-results/)
+  * [AI 모델 고르기: 같은 프롬프트, 11개 모델, 매우 다른 결과 | GeekNews](https://news.hada.io/topic?id=32505)
+  * 같은 커피숍 웹사이트 빌드 프롬프트로 11개 모델(Kimi K3, GLM 5.2, DeepSeek V4 등) 테스트—크레딧 사용량과 품질 편차가 크고, 최고가 모델(Claude Opus 5)이 항상 최고 품질은 아니며 저가 모델도 경쟁력 있음
 * [LLM Benchmarks, the Fine Line between Science and Marketing | codepointer](https://codepointer.substack.com/p/llm-benchmarks-the-fine-line-between)
   * LLM 벤치마크가 과학과 마케팅 사이 아슬아슬한 경계에 있다는 분석—벤치마크 수치가 마케팅 도구로 오남용되는 현실 비판
 * [LLM Translation Ledger — 금융 도메인 번역 벤치마크](https://inferplane.github.io/llm-benchmark/)
@@ -3681,6 +3697,12 @@ Artificial Intelligence
   * k-skill(김동규) 저장소가 블루리본 운영사 비알미디어로부터 고소장을 받은 사건을 계기로, 에이전트 행위의 책임 소재와 AI 시대의 데이터 해자 구축을 논의. 고소·고발만으로 데이터 해자를 지키기 어려운 시대에 운영·UX·데이터 관점의 방어를 제안
 * [이제 클로드가 만든 글엔 눈에 안 보이는 워터마크가 붙습니다 | 요즘IT](https://yozm.wishket.com/magazine/detail/3899/)
   * 프로덕트 메이커를 위한 주간 AI 소식 3가지—Hallmark 디자인 스킬, Grok Bot AI 에이전트, Claude의 AI 생성 콘텐츠 워터마크
+* [How AI text watermarking works: a visual guide | Declaude](https://declaude.org/watermarking/)
+  * [AI 텍스트 워터마킹의 작동 원리 | GeekNews](https://news.hada.io/topic?id=32518)
+  * 워터마크는 문자가 아니라 단어 선택 패턴에 숨음—비밀 키가 여러 단어 후보 중 특정 단어를 미묘하게 선호하도록 조정해 통계적 패턴 생성. 키 보유자만 감지 가능하고 단어 연쇄가 유지되는 부분에서만 작동하므로 대폭 재구성해야만 완전 제거됨
+* [Anthropic's Watermark Text Adulteration in Claude Is a Perversion of Writing | Daring Fireball](https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing)
+  * [Claude의 '워터마크'가 글쓰기를 왜곡하는 방식 | GeekNews](https://news.hada.io/topic?id=32579)
+  * John Gruber. EU 규제 준수용 워터마크가 단어 선택을 의도적으로 편향시켜 글의 질을 떨어뜨린다는 비판—선의의 사용자만 피해 보고 악의적 사용자는 우회한다며 EU 규제 자체의 비현실성 지적
 * [AILit Framework — AI Literacy Framework for Primary and Secondary Education](https://ailiteracyframework.org/)
   * [이재흥 - OECD와 EU가 확정 발표한 AI 리터러시 프레임워크 | Facebook](https://www.facebook.com/weirdo0613518/posts/pfbid02Jdv5jJCrjJrn6PC7ECdFHHSbCe5QwZJ81a4dfWw8qLpyeQs6RwMyxt3EP8kYqyUwl)
   * EU와 OECD가 공동 개발한 초중등 AI 리터러시 교육 프레임워크. 4개 영역(AI 이해·AI 창작·AI 관리·AI 형성)의 학습 역량과 교수 역량 기준 제시. 100개국 2,000명+ 교육자·학생·정책가·과학자 협의로 완성
@@ -5796,8 +5818,14 @@ Artificial Intelligence
       * Tech Bridge. v1.2 업데이트 정리—새 공식 문서 사이트(aihero.dev/skills)·AI 코딩 사전 공개, Claude Code 공식 플러그인 마켓플레이스 등록, Codex 호환성 개선
       * 신규·개선 스킬: Wait What(Opus 장황한 답변 교정), Grill Me(여러 질문을 그래프 구조로 묶어 라운드 단위 질문), Writing for Agents, Wizard(대화형 인프라 프로비저닝), To Questionnaire(협업용)
     * [Skills | AI Hero](https://www.aihero.dev/skills)
+    * [New Skills! v1.1 brings /wayfinder, /research, /implement, /to-spec, /to-tickets - YouTube](https://www.youtube.com/watch?v=A8mokin_YOs)
+      * Matt Pocock. v1.1 업데이트—flow 스킬 이름 변경(`/to-spec`, `/to-tickets`), grilling 개선, 개발 라이프사이클 전체 플로우 완성, refactoring smell 기반 코드 리뷰, 대규모 계획용 Wayfinder 신규 도입, 보조 스킬 research·prototype, TDD 스킬 갱신, 마이그레이션 가이드. `npx skills add mattpocock/skills`로 업데이트
     * [/wayfinder: Nothing is too big to plan anymore - YouTube](https://www.youtube.com/watch?v=F3lL98Pj90o)
       * Matt Pocock. 여러 에이전트 세션에 걸쳐 대규모 프로젝트를 조율하는 AI 계획 스킬 Wayfinder—막연한 아이디어를 구체적 실행 계획으로 매핑하고 리서치·프로토타이핑·태스크 관리를 내장. 결정 사항을 이슈 트래커에 기록, 티켓 유형·블로킹 관계 정의, 맵에서 스펙·티켓 생성
+    * [Learn anything with the /teach skill - YouTube](https://www.youtube.com/watch?v=s5T5oQJcJ6U)
+      * Matt Pocock. 맞춤 레슨을 만들고 진도를 추적하며 학습자의 근접발달영역(zone of proximal development)에 맞춰 조정하는 `/teach` 스킬. stateful vs stateless 스킬 차이, HTML 레슨·인터랙티브 콘텐츠, 참고 자료·용어집, 학습 세션 이어가기. 온보딩과 독학에 적합
+    * [/handoff is my new favourite skill - YouTube](https://www.youtube.com/watch?v=dtAJ2dOd3ko)
+      * Matt Pocock. AI 코딩 세션을 별도 에이전트로 넘기는 `/handoff` 스킬—컨텍스트 윈도우와 `/compact`의 동작을 설명하고 handoff가 compact와 어떻게 다른지, grilling 세션 중 사용·프로토타입으로 넘기기 같은 실전 패턴과 크로스 에이전트 워크플로우 이점
   * [skillstead: Practical, portable skills for agentic coding workflows](https://github.com/kyungseo/skillstead)
     * [svg-infographic 스킬 예제 (README.ko)](https://github.com/kyungseo/skillstead/blob/main/examples/svg-infographic/README.ko.md)
     * [설치 가이드 (INSTALL.md)](https://github.com/kyungseo/skillstead/blob/main/docs/INSTALL.md)
@@ -5844,6 +5872,8 @@ Artificial Intelligence
     * [SangRok Jung - AI가 쓴 글 같아요 댓글 받아본 적 있으세요? 방갈로르의 디자이너... | LinkedIn](https://kr.linkedin.com/posts/sangrok-jung-9ab787311_ai%EA%B0%80-%EC%93%B4-%EA%B8%80-%EA%B0%99%EC%95%84%EC%9A%94-%EC%9D%B4-%EB%8C%93%EA%B8%80-%EB%B0%9B%EC%95%84%EB%B3%B8-%EC%A0%81-%EC%9E%88%EC%9C%BC%EC%84%B8%EC%9A%94-%EB%B0%A9%EA%B0%88%EB%A1%9C%EB%A5%B4%EC%9D%98-%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88-activity-7465781598890655744-v_uB)
       * Atlassian 디자인 헤드 Hardik Pandya의 16KB 마크다운 스킬(7.6k stars). LLM이 AI 어투(throat-clearing 도입부, "X가 아니라 Y" 이분 구조, 무생물 주어, 부사·수동태·em dash 등)를 회피하게 학습. 8개 규칙(능동태·구체성·"you"로 독자 호명·리듬 변주·독자 지능 신뢰), 12개 출판 전 체크리스트, 5축 50점 스코어링(Directness·Rhythm·Trust·Authenticity·Density, 35점 미만 자동 재작성). 4가지 설치 방식(Claude Code 스킬 폴더·Claude Projects 지식·Custom Instructions·API 시스템 프롬프트). 배경: 메리엄-웹스터 2025 올해의 단어 "slop", 2026 Q1 신규 영어 웹 문서 49.9% AI 생성. 영문 산문 전용이지만 8개 규칙 중 ~6개는 한국어에도 전이 가능. MIT
   * [tailclaude: Claude Code on your Tailscale tailnet, powered by the iii engine](https://github.com/rohitg00/tailclaude)
+  * [teamwork-skill: Agent-agnostic teamwork handoff and resume skills with deterministic, secure project context payloads](https://github.com/RandyNorthrup/teamwork-skill)
+    * 프로젝트 컨텍스트를 `.teamwork/` 페이로드로 만들어 다른 에이전트·머신·세션에 안전하게 인계(`teamwork-handoff`)하고 검증 후 재개(`teamwork-resume`)하는 스킬 쌍. SHA-256 무결성 검사, 시크릿·스키마 불일치 시 fail-closed, Git 히스토리에 미포함. Codex·Claude Code·Gemini CLI 등 Agent Skills 규격 호환, Python 3.11+ 표준 라이브러리만 사용. MIT
   * [teo-claude-code: Claude Code 스킬·에이전트 마켓플레이스](https://github.com/developer-1px/teo-claude-code)
     * teo-stack 공개 플러그인(8개 thinking 스킬: 대화 구조화·충돌 해소·감산적 사고·민토 방법) + teo-project 비공개 플러그인(29개 파이프라인 스킬·4개 에이전트, interactive-os 전용). superpowers 보완—토론 구조화·외부 리서치 담당
   * [Tmux-Orchestrator](https://github.com/Jedward23/Tmux-Orchestrator) enables Claude agents to work autonomously
@@ -6860,6 +6890,8 @@ Artificial Intelligence
   * [kiro-cli-workshop-pdf: AWS Kiro CLI 워크샵 18챕터 180슬라이드 PDF](https://github.com/whchoi98/kiro-cli-workshop-pdf)
     * AWS의 agentic AI 개발 도구 Kiro CLI를 다루는 종합 워크샵. 한국어/영어 PDF, 챕터당 30-45분. Foundations(CH01-06: 소개·설치·인증·모델·채팅·세션) → Core(CH07-11: 컨텍스트·터미널 UI·권한·steering·커스텀 에이전트) → Advanced(CH12-17: 서브에이전트·스킬·MCP·훅·헤드리스·자동완성) → Reference(CH18: 명령 레퍼런스). 50명 이하 기술 세미나용, 입문→고급. CC BY 4.0
   * [Kiro Crew — The persistent, open source development workspace](https://kiro.dev/crew/)
+    * [우리팀에 새롭게 입사한 Kiro Crew를 활용하여 업무 생산성 올리기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/welcom-to-the-kiro-crew/)
+      * PR 리뷰·이슈 분류·코드 조사 등 반복 개발 업무를 자동화하는 24시간 자율 에이전트 팀원. UI·게이트웨이·에이전트 백엔드 3계층 구조로 대시보드·CLI·Slack 등 여러 채널에서 접근. AWS EC2에 원격 배포해 Issue Radar·Code Review Sage 앱으로 GitHub 저장소 자동 분류·조사·리뷰를 팀에 온보딩
     * [KiroCrew: A persistent workspace for development work that self-improves and continues beyond one session](https://github.com/kirodotdev/KiroCrew)
     * 세션이 끝나도 이어지는 영속 개발 워크스페이스. 컨텍스트를 기억하고 사용자의 작업 방식을 학습하며 각자 다른 도구·워크플로를 조율—돌아왔을 때 워크플로를 다시 세팅하는 대신 진행 상태를 이어받게 함. 자기개선형. Python, Apache-2.0
   * [kiro-with-harness: Kiro에 Harness 엔지니어링 적용하기](https://github.com/TeiNam/kiro-with-harness)
@@ -7046,6 +7078,7 @@ Artificial Intelligence
   * [Turbopuffer - 오브젝트 스토리지에서 빠른 검색 기술 | GeekNews](https://news.hada.io/topic?id=15775)
 * [turbovec: A Rust-based vector index with Python bindings built on Google Research's TurboQuant algorithm](https://github.com/RyanCodrai/turbovec)
   * 코드북 학습 불필요한 Data-Oblivious 양자화. ARM에서 FAISS 대비 12-20% 빠르고 31GB→4GB 극한 압축. LangChain·LlamaIndex·Haystack 연동 지원
+  * [Turbovec - Rust로 구현한 벡터 검색용 Google TurboQuant | GeekNews](https://news.hada.io/topic?id=32658)
 * [valori: A high-performance vector database library for Python that provides efficient storage, indexing, and search capabilities for high-dimensional vectors](https://github.com/varshith-Git/valori)
 * [vectorai: Vector AI — A platform for building vector based applications. Encode, query and analyse data using vectors](https://github.com/vector-ai/vectorai)
 * [vectordb: A Python vector database you just need - no more, no less](https://github.com/jina-ai/vectordb)
