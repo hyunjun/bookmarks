@@ -1161,6 +1161,9 @@ Artificial Intelligence
   * [Flue - 샌드박스 에이전트 프레임워크 | GeekNews](https://news.hada.io/topic?id=29849)
   * [Flue: TypeScript 기반 자율 에이전트 개발 프레임워크 완전정복 | digitalbourgeois](https://digitalbourgeois.tistory.com/3290)
   * TypeScript 자율 에이전트/워크플로 프레임워크. "Agent = Model + Harness" 철학—Claude Code/Codex 같은 코딩 에이전트 경험을 헤드리스·프로그래머블하게 재구성. 4계층 아키텍처: Model(토큰·도구·프롬프트)/Harness(스킬·메모리·세션)/Sandbox(bash·보안·네트워크)/Filesystem(read·write·grep·glob). 서브에이전트, 도구, durable execution(실패·재시작 생존), MCP 서버, OpenTelemetry/Braintrust/Sentry 옵저버빌리티, Slack/Teams/Discord/GitHub 챗 통합. vercel-labs/just-bash 가상 샌드박스 기본(컨테이너 스폰 없이 빠른 스케일), Daytona 등 원격 샌드박스 연결. Node.js/Cloudflare Workers/GitHub Actions/GitLab CI/CD 동일 빌드. 민감 토큰(GITHUB_TOKEN) 분리. Apache-2.0 (Experimental). "다른 사람의 에이전트를 임대하지 말라" 철학
+* [fullstack-agent: Give your AI a full stack: memory, voice, face, and hands](https://github.com/jaredrhod/fullstack-agent)
+  * [Free on Github My Jarvis AI Assistant - YouTube](https://www.youtube.com/watch?v=FiOTrxq9ckM)
+  * "AI 에이전트 갖고 싶다"의 지름길—설치 마법사로 jaredrhod 스택 전체를 구성하고 원하는 조각만 선택 가능. Memory(평문 텍스트 폴더를 매 대화 시작 시 읽고 작업하며 기록), Voice(키 누르고 말하면 음성 응답), Face·Hands(로컬 머신에서 실제 작업 수행). Shell
 * [GBrain: Garry Tan's personal knowledge management for AI agents](https://github.com/garrytan/gbrain)
   * 미팅·이메일·캘린더에서 검색 가능한 브레인 구축. PGLite/Supabase 기반 하이브리드 벡터/키워드 검색
 * [GenAI_Agents: A comprehensive tutorial collection for building Generative AI Agents](https://github.com/NirDiamant/GenAI_Agents)
@@ -2776,8 +2779,11 @@ Artificial Intelligence
   * 지능과 실행을 분리하여 리뷰 가능한 액션·로컬 소유권·사용자 가시 제어에 초점. Python+JavaScript+CSS, 알파 릴리스
 * [NotaGen: Advancing Musicality in Symbolic Music Generation with Large Language Model Training Paradigms](https://github.com/ElectricAlexis/NotaGen) classic 음악 특화
   * [NotaGen](https://electricalexis.github.io/notagen-demo/)
-* [OpenDevin: 🐚 OpenDevin: Code Less, Make More](https://github.com/OpenDevin/OpenDevin)
+* [OpenHands — AI-Driven Development](https://www.openhands.dev/)
+  * [OpenHands: 🙌 OpenHands: AI-Driven Development (구 OpenDevin)](https://github.com/OpenHands/OpenHands)
   * [OpenDevin - AI 소프트웨어 엔지니어 Devin의 오픈소스 구현체 | GeekNews](https://news.hada.io/topic?id=13997)
+  * [🤖 OpenHands 설치·사용 가이드: 자율 코딩 에이전트를 자체 서버에서 운영하기](https://fornewchallenge.tistory.com/entry/%F0%9F%A4%96-OpenHands-%EC%84%A4%EC%B9%98%C2%B7%EC%82%AC%EC%9A%A9-%EA%B0%80%EC%9D%B4%EB%93%9C-%EC%9E%90%EC%9C%A8-%EC%BD%94%EB%94%A9-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EB%A5%BC-%EC%9E%90%EC%B2%B4-%EC%84%9C%EB%B2%84%EC%97%90%EC%84%9C-%EC%9A%B4%EC%98%81%ED%95%98%EA%B8%B0)
+    * 셀프 호스팅 개발자 컨트롤 센터. npm·Docker·소스코드 3가지 설치법, 에이전트가 코드 작성·터미널 실행·웹 탐색·파일 조작 수행, CI/CD 연동 자동화 파이프라인. MIT, TypeScript, 84.8k stars
   * [LlamaIndex Webinar: Build an Open-Source Coding Assistant with OpenDevin - YouTube](https://www.youtube.com/watch?v=_1JZfv7r4mY)
 * [OrcaRouter — AI gateway routing every prompt to the best model](https://www.orcarouter.ai/)
   * [OrcaRouter-Lite: Self-hosted LLM router with a managed safety net. OpenAI-compatible. BYOK. Single-workspace. Streaming](https://github.com/Continuum-AI-Corp/OrcaRouter-Lite)
@@ -5886,6 +5892,10 @@ Artificial Intelligence
     * [Understand-Anything: Codebase를 인터랙티브 지식 그래프로 변환하는 Claude Code 플러그인](https://lum.is-a.dev/Understand-Anything/)
     * [심성재 - 바이브 코딩 후 "어디 고쳐야 할지 모름" 문제와 Understand-Anything 지하철 노선도 시각화 | Facebook](https://www.facebook.com/sungjae.shim/posts/pfbid0CPJ9Lun6BBUPrggvZUQD7FPArqB2Nx1RhAN22tiXiRzgqxH1Gm6dCwiz4QQHb3kxl)
       * 코드 모르는 사람이 AI로 만든 앱에 기능 추가할 때 어디 고칠지 모름—"설계도 없이 지은 집". 컴포넌트=원(역)·연결=노선의 지하철 노선도 시각화, 노드 클릭 시 평문 설명("로그인 처리"), "결제는 어떻게 동작하나" 같은 질문에 step-by-step trace. 창시자 철학 "감탄시키는 그림 말고, 조용히 가르치는 그림". CLI 도구 위에서 동작, 14.7k stars. AI 시대 진짜 스킬은 "이해"
+  * [unlazy: Anti-laziness skill for AI agents](https://github.com/Leonxlnx/unlazy)
+    * [한영자막 GitHub 1위 개발자가 만든 새로운 Claude 스킬이 대단한 이유입니다 - YouTube](https://www.youtube.com/watch?v=Hnm18BesInM)
+      * Tech Bridge. 컨텍스트가 쌓일수록 게을러지는 AI 에이전트의 근본 원인(컨텍스트 오버헤드), 기존 완료 체크 방식(Ralph 루프·goal 커맨드)의 허점, 직렬 실행을 10개 병렬 에이전트로 2시간에 단축한 프롬프트 수정법
+    * 쉬운 것만 하고 다 했다고 하는 AI 에이전트의 '게으름' 해결 스킬. 핵심은 Depth Tree 기법—작업을 N층 깊이 트리로 분할하고 모든 리프에 전체 작업의 시간 예산을 부여해 깊이에 비례해 노력이 증폭. 명령어 실행 결과로만 완료를 증명하는 Gates 원장 검증. 모델 게으름·underthinking·조기 완료에 관한 2025-2026 연구 기반. JavaScript
   * [vibe-tree: Vibe code with Claude in parallel git worktrees](https://github.com/sahithvibudhi/vibe-tree)
   * [yc-startup-school: YC Startup School 전체 강의를 Claude Code 플러그인으로](https://github.com/team-attention/yc-startup-school)
     * [YC Startup School 풀 트랜스크립트를 Claude Code 플러그인으로 | 정구봉 Goobong Jeong](https://www.linkedin.com/posts/gb-jeong_yc-startup-school-%ED%92%80-%ED%8A%B8%EB%9E%9C%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%A5%BC-claude-code-%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8%EC%9C%BC%EB%A1%9C-share-7438763528926220288-XaFT)
