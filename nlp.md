@@ -4091,6 +4091,17 @@ NLP
   * [Qwen3.7-Max 에이전트 중심 초대형 AI 모델의 기술적 특징과 의미 | digitalbourgeois](https://digitalbourgeois.tistory.com/3126)
     * 단순 QA형 LLM이 아닌 코딩·디버깅·사무 자동화·장기 자율 실행 목적 에이전트 중심 독점 모델. 학습 인스턴스를 Task(문제)·Harness(실행/도구)·Verifier(검증)로 분리해 벤치마크 과적합 방지·환경 일반화. Terminal Bench 2.0-Terminus 69.7, SWE-Verified 80.4, GPQA Diamond 92.4. 35시간 연속 자율 커널 최적화에서 사전 문서 없이 1,158 도구 호출·432 평가로 Triton 대비 기하평균 10× 속도. Alibaba Cloud Model Studio API, OpenAI/Anthropic 호환, Claude Code·Qwen Code 연동. AI 경쟁이 단일 답변 품질→장기 자율 실행·환경 일반화로 이동
   * [Qwen3.8-27B · Hugging Face](https://huggingface.co/Qwen/Qwen3.8-27B)
+    * [Qwen3.8 - How to Run Locally | Unsloth Documentation](https://unsloth.ai/docs/models/qwen3.8)
+      * [Qwen3.8 로컬 실행 방법과 하드웨어 요구사항 정리 | digitalbourgeois](https://digitalbourgeois.tistory.com/3526)
+      * [Unsloth, Qwen3.8 2.4T를 397GB로 줄여 로컬 실행 지원 | GeekNews](https://news.hada.io/topic?id=32456)
+      * Qwen3.8-27B·2.4T-A95B·Max를 로컬에서 실행하는 가이드. GGUF·NVFP4 양자화로 27B는 약 17GB RAM/VRAM이면 구동(2비트 11~13GB ~ BF16 56GB), 2.4T-A95B는 1비트 양자화로 397GB까지 축소. 실행 방법 4가지—Unsloth Desktop(UI, 가장 간편), llama.cpp, vLLM(Blackwell GPU), SGLang(고성능 서빙)—과 추론 파라미터 설정 안내
+    * [Qwen 3.8 27B is excellent, but defaults to overthinking | Simon Willison](https://simonwillison.net/2026/Aug/16/qwen-38-27b/)
+      * [Qwen 3.8 27B는 뛰어나지만 기본 설정에서 지나치게 오래 추론함 | GeekNews](https://news.hada.io/topic?id=32578)
+      * 노트북에서 도는 강력한 오픈 모델이지만 기본 추론 설정이 xhigh라 단순 작업에도 수분~20분 소모. 추론 수준을 낮추면 빨라지지만 정확도 하락 트레이드오프
+    * [Qwen3.8 27B | Artificial Analysis](https://artificialanalysis.ai/models/qwen3-8-27b)
+      * [Qwen3.8 27B, Artificial Analysis 지능 지수 52점 기록 | GeekNews](https://news.hada.io/topic?id=32599)
+    * [Qwen3.8-27B-Uncensored-MLX · Hugging Face](https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-MLX)
+      * [Qwen3.8-27B-Uncensored-MLX - 애플 실리콘용 검열 제거 버전 | GeekNews](https://news.hada.io/topic?id=32636)
     * Qwen 팀의 27B 비전-언어 모델. Gated DeltaNet+Gated Attention 혼합 64층 아키텍처, 네이티브 262K(최대 1M) 컨텍스트. 코딩·에이전트 벤치마크 강세(SWE-bench Pro 61.7, OSWorld-Verified 84.3, GPQA Diamond 89.2). Apache-2.0
   * [Qwen3.8-max-preview 2.4조 파라메터 모델을 오픈으로 풀었다 - YouTube](https://www.youtube.com/watch?v=u45TJFlgGtA)
     * 토목엔지니어 돌종. 알리바바가 2.4조 파라미터 Qwen3.8-max-preview 공개(웨이트 미공개). 알리바바는 Fable 5 바로 아래 성능이라 밝힘, 돌종벤치(논리·수학·공학계산·코딩·도면·비전추론) 92점
@@ -4252,6 +4263,9 @@ NLP
 * [This Code Does Not Exist](https://doesnotexist.codes/) GPT2를 이용한 코드 생성
 * [자연어 인공지능 모델 해킹하기 | GeekNews](https://news.hada.io/topic?id=3886) GPT2 대상 공격
 * [How GPT3 Works - Visualizations and Animations – Jay Alammar – Visualizing machine learning one concept at a time](https://jalammar.github.io/how-gpt3-works-visualizations-animations/)
+* [Models are getting dumber on purpose | w4g1](https://w4g1.dev/blog/models-are-getting-dumber-on-purpose)
+  * [모델은 의도적으로 더 멍청해지고 있다 | GeekNews](https://news.hada.io/topic?id=32564)
+  * 최신 모델들이 내부 지식 저장을 줄이고 추론 능력을 키우는 방향으로 설계되는 트렌드—사실 정보는 실시간 검색·도구로 외부에서 공급받고 모델에는 추론 절차만 남기는 편이 효율적이며 할루시네이션도 근본적으로 줄인다는 주장
 * [What is GPT-3? Showcase, possibilities, and implications - YouTube](https://www.youtube.com/watch?v=5fqxPOaaqi0)
 * [GPT-3가 뭐길래, 제2의 알파고? - YouTube](https://www.youtube.com/watch?v=vLCQGkT2nFc)
 * [GPT-3, 인류 역사상 가장 뛰어난 언어 AI – 핑퐁팀 블로그](https://blog.pingpong.us/gpt3-review/)
@@ -4609,6 +4623,10 @@ NLP
   * [Tencent 올인원 RAG 프레임워크를 오픈소스로 | HaYeJin Kang](https://www.linkedin.com/posts/h4y3j1n_tencent-activity-7407555266591932416-7ScG)
     * ReACT 패턴으로 지식베이스 + 웹 검색 + MCP 도구까지 알아서 조합해서 답변하도록 개발
   * [김헌기 - 단상 LLM이 매번 다른 대답을 하는 걸 보면서, 나도 한동안은 “프롬프트를 더 잘 쓰면 해결되겠지”라고... | Facebook](https://www.facebook.com/hnki0104/posts/pfbid0EM7dQkyd9nnRu5TmBNFr6KbeBrEREan4RSu1mbQ944QL1a9tceoR54V6rjbg7ywgl)
+* [xberg — Polyglot document intelligence framework](https://docs.xberg.io/)
+  * [xberg: A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and structured data from 101 formats](https://github.com/xberg-io/xberg)
+  * [xberg - 다국어 문서 인텔리전스 프레임워크 | GeekNews](https://news.hada.io/topic?id=32452)
+  * Rust 코어 문서 인텔리전스 프레임워크. 101개 포맷(115개 확장자)에서 텍스트·메타데이터·이미지·구조화 데이터 추출 + 371개 프로그래밍 언어 코드 인텔리전스. 9.2k stars
 
 # Law
 * [내가 “Cursor for 로톡 변호사”를 만들며 배운 것들 | Disquiet\*](https://disquiet.io/@pungrue26/makerlog/%EB%82%B4%EA%B0%80-cursor-for-%EB%A1%9C%ED%86%A1-%EB%B3%80%ED%98%B8%EC%82%AC-%EB%A5%BC-%EB%A7%8C%EB%93%A4%EB%A9%B0-%EB%B0%B0%EC%9A%B4-%EA%B2%83%EB%93%A4)
@@ -6059,6 +6077,9 @@ NLP
     * [인프런이 자동으로 자막을 생성하기까지 (AI/인프라 편)](https://tech.inflab.com/20231031-inflearn-subtitle/)
 * [Return Zero Inc. - The future of next-generation speech AI](https://www.rtzr.ai/en)
   * [음성인식 API (STT API) - RTZR STT](https://developers.rtzr.ai/)
+* [speech-to-speech: Build voice agents with open-source models](https://github.com/huggingface/speech-to-speech)
+  * [Huggingface Speech To Speech - 오픈소스 모델로 로컬 음성 에이전트 | GeekNews](https://news.hada.io/topic?id=32753)
+  * VAD→STT→LLM→TTS 파이프라인을 오픈소스 모델로 조합해 로컬 음성 에이전트 구축. Python, 12.8k stars
 * [supertonic: Lightning-fast, on-device TTS — running natively via ONNX](https://github.com/supertone-inc/supertonic)
   * [세상에서 가장 빠른 TTS, 수퍼토닉을 오픈소스로 공개 | Facebook](https://www.facebook.com/groups/255834461424286?multi_permalinks=2790590804615293&hoisted_section_header_type=recently_seen)
   * 31개 언어(한국어 포함), ~99M 파라미터로 경량. Python/JS/Java/C++/C#/Go/Swift/Rust/iOS/Flutter/브라우저 크로스플랫폼. 금융·전화번호·기술 단위·복잡한 구두점 네이티브 처리, `<laugh>`/`<breath>`/`<sigh>` 표현 태그. 완전 로컬, 네트워크 의존성 0
