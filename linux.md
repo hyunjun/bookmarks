@@ -256,15 +256,6 @@ Linux
 * [데비안(Debian)에서 최신 WIFI 드라이버 설치 방법](https://kkamagui.tistory.com/923)
 * [Debian running on Rust coreutils](https://sylvestre.ledru.info/blog/2021/03/09/debian-running-on-rust-coreutils)
 * [데비안 기반의 리눅스 배포판에서 페이스북에 한글 입력이 안될 때?](https://open-support.tistory.com/entry/%EB%8D%B0%EB%B9%84%EC%95%88-%EA%B8%B0%EB%B0%98%EC%9D%98-%EB%A6%AC%EB%88%85%EC%8A%A4-%EB%B0%B0%ED%8F%AC%ED%8C%90%EC%97%90%EC%84%9C-%ED%8E%98%EC%9D%B4%EC%8A%A4%EB%B6%81%EC%97%90-%ED%95%9C%EA%B8%80-%EC%9E%85%EB%A0%A5%EC%9D%B4-%EC%95%88%EB%90%A0-%EB%95%8C)
-* fcitx
-
-  ```
-  $ sudo apt-get install fcitx
-  $ sudo apt-get install fcitx-hangul
-  $ fcitx-configtool
-  $ im-config
-  ```
-  * [우분투 22.04에서 한글 입력기를 fcitx로 설정하기 | 웹으로 말하기](https://mytory.net/archives/14412)
 * pip [kkamagui의 작업실 :: 데비안(Debian) 리눅스에서 파이썬 pip 도구 설치하기](https://kkamagui.tistory.com/936)
 
 ## 배포판 Fedora
@@ -416,6 +407,17 @@ Linux
 * [우분투의 크롬 웹브라우저에서 구글 문서 사용시 한글 오타 해결 방법](https://haebojayo.tistory.com/25)
 * [우분투 Python 개발 환경: Visual Studio Code + Miniconda + Claude Code 설치 가이드 | 멈춤보단 천천히라도](https://webnautes.com/우분투-python-개발-환경-visual-studio-code-miniconda-claude-code-설치-가이드/)
   * 우분투에서 VS Code·Miniconda·Claude Code를 설치하고 Python 코드를 작성·실행하는 개발 환경 구축 가이드
+* [우분투에서 시스템 기본 표시 언어를 한국어로 바꾸기 | webnautes](https://webnautes.com/%EC%9A%B0%EB%B6%84%ED%88%AC%EC%97%90%EC%84%9C-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EA%B8%B0%EB%B3%B8-%ED%91%9C%EC%8B%9C-%EC%96%B8%EC%96%B4%EB%A5%BC-%ED%95%9C%EA%B5%AD%EC%96%B4%EB%A1%9C-%EB%B0%94%EA%BE%B8)
+  * 우분투 26.04에서 설정 UI로 한국어 변경 시 오류가 날 때 `sudo apt install language-pack-ko` 등 터미널 명령을 순서대로 실행하고 재부팅해 시스템 표시 언어를 한국어로 바꾸는 방법
+* fcitx
+
+  ```
+  $ sudo apt-get install fcitx
+  $ sudo apt-get install fcitx-hangul
+  $ fcitx-configtool
+  $ im-config
+  ```
+  * [우분투 22.04에서 한글 입력기를 fcitx로 설정하기 | 웹으로 말하기](https://mytory.net/archives/14412)
 
 # Automation
 * [Python and SSH: sending commands over SSH using Paramiko](https://daanlenaerts.com/blog/2016/01/02/python-and-ssh-sending-commands-over-ssh-using-paramiko/)
