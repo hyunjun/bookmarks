@@ -3036,6 +3036,8 @@ NLP
     * [DeepSeek-V4 공개 | GeekNews](https://news.hada.io/topic?id=28845)
     * [EP 95. DeepSeek-V4 논문 읽기 - YouTube](https://www.youtube.com/watch?v=rJEMaldMyLE)
       * [DeepSeek-V4 논문 정독: 모델 확장·Sparse Attention·Muon | GeekNews](https://news.hada.io/topic?id=28996)
+    * [DeepSeek Just Made Closed AI Look Ridiculous - YouTube](https://www.youtube.com/watch?v=kyYepbhe1g8)
+      * Two Minute Papers. DeepSeek V4 Pro 0813 공개판이 폐쇄형 최상위 모델들과 견주는 성능을 오픈 웨이트로 제공—커뮤니티 반응과 활용 사례 소개
     * 1.6T MoE(49B 활성), 1M 컨텍스트. Compressed Sparse Attention(CSA) + Heavily Compressed Attention(HCA) 하이브리드. DeepSeek-V3.2 대비 27% FLOPs, KV 캐시 90% 감소. Non-Think/Think High/Think Max 3단계 추론. MMLU-Pro 87.5, LiveCodeBench 93.5, SWE Verified 80.6. MIT
   * [ds4 (DwarfStar 4): DeepSeek 4 Flash local inference engine for Metal and CUDA | antirez](https://github.com/antirez/ds4)
     * [A few words on DS4 | antirez](https://antirez.com/news/165)
