@@ -2988,6 +2988,9 @@ App
     * vault를 AI 모델과 연결해 사이드바에서 에이전트 실행—이미 쓴 노트를 읽고 지식 그래프를 활용해 문서·슬라이드·코드를 함께 만들고 결과를 노트로 저장. 2.0: 퀵 프롬프트 칩, 세션 히스토리 전문 검색(복원·포크), 모든 에이전트에 Obsidian 브리핑 내장(위키링크·표·수식·Mermaid 기본 지원), 대화 중 에이전트 전환, 탭 undo·드래프트 보존, 메시지 큐잉, 완료 알림. Apache-2.0
   * [awesome-obsidian-vault: Awesome list of obsidian vaults](https://github.com/obsidian-pkm-vault/awesome-obsidian-vault)
     * 큐레이션된 Obsidian vault 모음(43 항목+11 리소스+3 쇼케이스). 카테고리: 요리(Based.cooking·Grimgrains·HowToCook), 컴퓨터 사이언스(JavaScript Info·OSSU CS), Dev/디자인(System Design 101·dotnet API), 디지털 가든(MaggieAppleton·CyanVoxel), 문서화(Kepano Obsidian·Blue Book·Obsidian Hub), 엔지니어링·지식·개인 사이트·코스몰로지. 사전(Kiwix·Wiktionary·Wordnet)·치트시트(Anki·rstacruz). Hugo 등 정적 사이트 생성기 출처는 일부 호환 안 될 수 있음
+  * [beautiful_pdf: Obsidian plugin: styled PDF export with profiles and preview](https://github.com/creative781/beautiful_pdf)
+    * [옵시디안 PDF 플러그인 이 정도면 대만족 - YouTube](https://www.youtube.com/watch?v=GbbaxF9ZGbs)
+      * Writer's Studio(플러그인 제작자). 옵시디안 노트를 워드 거치지 않고 바로 출력물 수준 PDF로 만드는 Beautiful PDF 플러그인 업데이트—설정창 개선, 머릿글·바닥글 편집, 표·이미지 편집, 가로선·숫자 목록 스타일 추가
   * [chatgpt-md: A (nearly) seamless integration of ChatGPT into Obsidian](https://github.com/bramses/chatgpt-md)
     * [Discover the Top 5 Obsidian ChatGPT Plugins for Ultimate Productivity](https://brianchristner.io/discover-the-top-5-obsidian-chatgpt-plugins-for-ultimate-productivity/)
   * [claudesidian: Claude Code + Obsidian Starter Kit](https://github.com/heyitsnoah/claudesidian)
