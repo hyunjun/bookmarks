@@ -1970,6 +1970,9 @@ App
 * [Mirror Displays](https://fabiancanas.com/open-source/mirror-displays)
 * [Mole: 🐹 Deep clean and optimize your Mac.](https://github.com/tw93/Mole)
   * [Mole - Mac을 깊게 청소하고 최적화하는 올인원 도구 | GeekNews](https://news.hada.io/topic?id=26527)
+  * [Mole](https://mole.fit/)
+  * [Mole - The Epic Free Mac System Cleaner - Reviewed - YouTube](https://www.youtube.com/watch?v=gUdh9oboG7E)
+    * Mostly Mac. M2 MacBook Pro에서 터미널 버전으로 캐시·로그·고아 파일 13GB 회수—clean·uninstall·optimise·analyse·status 도구 시연. CleanMyMac 대체 무료 오픈소스, GUI 원하면 $19 일회성 결제(구독 없음)
 * [MonitorControl: 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs](https://github.com/MonitorControl/MonitorControl)
 * [monodraw.helftone.com](http://monodraw.helftone.com/) ascii art editor, 30 days trial
 * [Monolingual - a program for removing unnecessary language resources from macOS](https://ingmarstein.github.io/Monolingual/) Mojave에서 default로 실행해본 결과 Languages에서 1.96GB, Architectures에서 227MB 삭제
@@ -2083,6 +2086,11 @@ App
   * [macOS : safari에 vim extension (vimari)설치하기](https://sunyzero.tistory.com/266)
 * [VirtualBuddy: Virtualize macOS 12 and later on Apple Silicon](https://github.com/insidegui/VirtualBuddy) caps lock -> ctrl 설정은 system 설정으로 가능
 * [volumemixer-app.com](http://www.volumemixer-app.com/)
+* [Vorssaint](https://vorssaint.com/)
+  * [vorssaint-utils: Free and open-source macOS menu bar toolkit](https://github.com/vorssaint/vorssaint-utils)
+  * [This App Fixes MacOS - YouTube](https://www.youtube.com/watch?v=s8dzlv4WuNk)
+    * Rogi. Mac용 최고의 Microsoft PowerToys 대안이라 평가한 리뷰
+  * 무료 오픈소스 macOS 메뉴바 툴킷. Swift, 6.5k stars
 * [Warp: The terminal for the 21st century](https://www.warp.dev/)
   * [New *incredible* mac OS terminal! (warp + starship + zsh) - YouTube](https://www.youtube.com/watch?v=NfggT5enF4o)
   * [Warp Terminal — a reimagined terminal experience! - YouTube](https://www.youtube.com/watch?v=wdrjIHzGW74)
