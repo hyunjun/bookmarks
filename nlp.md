@@ -1907,17 +1907,19 @@ NLP
 
 # Conference
 
+* [텐서플로 월드2019 행사 핵심요약 2. NLP가 대세입니다!](https://www.youtube.com/watch?v=5gKWS4CfE2Y)
+* [이 선 넘으면 침범이야 BEEP! - 문지형 - PyCon Korea 2020 - YouTube](https://www.youtube.com/watch?v=P0fyKb3U9yo)
+* [Highly-Scalable NLP to Answer Questions on COVID-19 WhatsApp Hotline | PyData Global 2021 - YouTube](https://www.youtube.com/watch?v=EzQ3i3yOZNY)
+* [Natural Language Processing: Trends, Challenges and Opportunities | PyData Global 2021 - YouTube](https://www.youtube.com/watch?v=Y2WZEV-Ds-o)
+* [Using NLP to Detect Knots in Protein Structures — Eva Klimentová - YouTube](https://www.youtube.com/watch?v=Kah5QOWnLrM)
+* [How the Guardian measured rhetorics toward immigration in Parliament - YouTube](https://www.youtube.com/watch?v=M2lrSbex6N0)
+  * PyData & PyCon Yerevan 2026. 가디언이 영국 의회 발언에서 이민 관련 수사(rhetoric)를 정량 측정한 텍스트 분석 사례
 * [JSALT 2019 Montréal: Dive into Deep Learning for Natural Language Processing](https://jsalt19.mxnet.io/)
 * [LangCon](https://songys.github.io/2019LangCon/about/)
   * [발표소개 | LangCon](https://songys.github.io/2020LangconOnOff/about/)
   * [2020Langcon - YouTube](https://www.youtube.com/playlist?list=PLqkITFr6P-oRTpBB7GZB7zRq70RQ4Brqt)
   * [2024Langcon - YouTube](https://www.youtube.com/playlist?list=PLqkITFr6P-oQ9YXCr5rsMGS1uyMqwA-H9)
     * [발표 및 스탭 안내](https://2024langcon.oopy.io/ad8826ed-57f6-4a98-b864-3d5aadccc5c1)
-* [텐서플로 월드2019 행사 핵심요약 2. NLP가 대세입니다!](https://www.youtube.com/watch?v=5gKWS4CfE2Y)
-* [이 선 넘으면 침범이야 BEEP! - 문지형 - PyCon Korea 2020 - YouTube](https://www.youtube.com/watch?v=P0fyKb3U9yo)
-* [Highly-Scalable NLP to Answer Questions on COVID-19 WhatsApp Hotline | PyData Global 2021 - YouTube](https://www.youtube.com/watch?v=EzQ3i3yOZNY)
-* [Natural Language Processing: Trends, Challenges and Opportunities | PyData Global 2021 - YouTube](https://www.youtube.com/watch?v=Y2WZEV-Ds-o)
-* [Using NLP to Detect Knots in Protein Structures — Eva Klimentová - YouTube](https://www.youtube.com/watch?v=Kah5QOWnLrM)
 
 # Corpus
 
@@ -4545,6 +4547,8 @@ NLP
 * [CORTEX-AI-SUPER-RAG: enterprise retrieval and knowledge assistant](https://github.com/SaiAkhil066/CORTEX-AI-SUPER-RAG)
   * 사내 데이터에서 인용(citation)과 함께 정확한 답을 찾는 엔터프라이즈 검색·지식 어시스턴트. 권한 인식(permission-aware) 검색, 빠른 배포. Python, 2k stars
 * [CRAG: Corrective Retrieval Augmented Generation](https://github.com/HuskyInSalt/CRAG)
+* [deepdoc: Deep research tool for local knowledge base](https://github.com/Oqura-ai/deepdoc)
+  * 로컬 지식 베이스를 대상으로 딥 리서치를 수행하는 도구. Python
 * [django-pyhub-rag: 빠른 RAG 구현을 위한 장고 라이브러리](https://github.com/pyhub-kr/django-pyhub-rag)
 * [docpixie: Lightweight Vision native Multimodal Document Agent](https://github.com/qnguyen3/docpixie/)
 * [embedJs: A NodeJS RAG framework to easily work with LLMs and embeddings](https://github.com/llm-tools/embedJs)
