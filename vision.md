@@ -953,6 +953,8 @@ Vision
 * [Develop and Deploy Image Classifier using Flask: Part 1 - Analytics Vidhya](https://www.analyticsvidhya.com/blog/2022/01/develop-and-deploy-image-classifier-using-flask-part-1/)
 * [Develop and Deploy Image Classifier using Flask: Part 2 - Analytics Vidhya](https://www.analyticsvidhya.com/blog/2022/01/develop-and-deploy-image-classifier-using-flask-part-2/)
 * [Alyona Galyeva - Human-like Visual Search Application with Small Data | PyData Fest Amsterdam 2020 - YouTube](https://www.youtube.com/watch?v=2l_WASP1_1A) Mask R-CNN, fast api
+* [Bio-Inspired Image Quality Assessment: Challenges and Solutions - YouTube](https://www.youtube.com/watch?v=O68AuHFU590)
+  * PyData & PyCon Yerevan 2026. 인간 시각 체계에서 영감을 받은(bio-inspired) 이미지 품질 평가(IQA)의 과제와 해법
 * [An Easy Way to Work and Visualize Lidar Data in Python | by Abdishakur | Spatial Data Science | Mar, 2022 | Medium](https://medium.com/spatial-data-science/an-easy-way-to-work-and-visualize-lidar-data-in-python-eed0e028996c)
 * [Python Computer Vision Guided Project - Tensorflow Rock Paper Scissor, Level 4, 35 minutes](https://www.datasimple.education/post/python-computer-vision-guided-project-tensorflow-rock-paper-scissor-level-4-35-minutes)
 * [Build Human Emotions Detection API with FastAPI Framework - YouTube](https://www.youtube.com/watch?v=c0y7OPP7Cf4)
