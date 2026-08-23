@@ -1244,6 +1244,8 @@ Machine Learning
   * [DVC(Data Version Control)](https://github.com/KIMCAT33/DVC)
   * [Data Version Control With Python and DVC – Real Python](https://realpython.com/python-data-version-control/)
   * [Hongjoo Lee - Automating machine learning workflow with DVC - YouTube](https://www.youtube.com/watch?v=u3NysDLdCR0)
+  * [Reproducible Machine Learning Using DVC - YouTube](https://www.youtube.com/watch?v=yJz2-LqO9qo)
+    * PyData & PyCon Yerevan 2026. DVC로 데이터·모델·실험을 버전 관리해 재현 가능한 ML 파이프라인 구축
 * [Food data set for machine learning](https://github.com/corona10/FoodDataSet)
 * [Gradio - a free, open-source python library that helps machine learning researchers interact with and share their machine learning models with collaborators and clients with only a few lines of extra code](https://gradio.app)
   * [Building A Visual Interface for Your ML Model with Gradio - Abubakar Abid | PyData Riyadh - YouTube](https://www.youtube.com/watch?v=dCbTi5ZKA9s)
