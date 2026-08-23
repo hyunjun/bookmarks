@@ -1762,8 +1762,14 @@ Artificial Intelligence
   * 2022-2026 AI 개발 패러다임 진화 기록. Prompt Engineering(2022-24)→Context Engineering(2025)→Harness Engineering(2026+). 엔지니어링 엄밀성이 프롬프트→컨텍스트→시스템 아키텍처로 이동
 * [Designing Domain-Specific Agent Harnesses](https://aayushmathur7.substack.com/p/designing-domain-specific-agent-harnesses)
   * 범용보다 도메인 특화 harness가 효과적. 에이전트 루프, 컨텍스트 관리, 도구, 권한, 훅 등 핵심 설계 요소를 코딩/고객지원/의료/법률 예시로 설명
+* [When to Build Your Own Agent Harness | Harrison Chase, LangChain - YouTube](https://www.youtube.com/watch?v=HI2q3ci3Iuc)
+  * Sequoia Capital 'Own Your Intelligence' 이벤트. 에이전트 = 하네스+모델+컨텍스트, 하네스는 적시에 올바른 컨텍스트를 모델에 가져오는 루프—미들웨어·훅·서브에이전트로 커스터마이즈. 태스크가 out-of-distribution일수록 자체 하네스가 필요하지만, 파일 편집처럼 모델 훈련 분포 안(in-distribution)인 부분은 커스텀 하네스라도 모델이 훈련된 방식 그대로 유지할 것
+  * 벤치마크 구축(Harbor eval), 에이전트 디버깅에 저평가된 관측성(문제는 대개 컨텍스트), traces→큐레이션→실험으로 이어지는 데이터 플라이휠, LangSmith Engine 데모
 * [Adversarial review | Jesse Vincent](https://blog.fsck.com/2026/05/01/adversarial-review/)
   * AI가 자기 작업물을 검토하면 이해상충(자기 시험지 채점)이 생기므로, 여러 서브에이전트를 경쟁시켜("심각한 이슈 가장 많이 찾는 쪽이 5점") 더 많은 문제를 찾게 하는 기법. "fresh eyes"로 다시 보게 하는 단순 기법도 효과적
+* [Navigating Silent Failures in AI: Strategies for Effective Oversight | Real Python Podcast #308 - YouTube](https://www.youtube.com/watch?v=eaDX1FF8H4s)
+  * Calvin Hendryx-Parker, 발표 'Orchestrate Agentic AI: Context, Checklists, and No-Miss Reviews' 후속 대담. 대형 문서를 LLM에 넘길 때의 조용한 실패—LLM은 확신에 차 있지만 무엇을 안 읽었는지 알 수 없는 '컨텍스트의 비극', 파일 포맷 문제·첨부 누락·조용한 절단(silent truncation)
+  * 에이전트·훅·스킬·스크립트를 Markdown으로 구성한 예제 프로젝트(GitHub 공개), 감사 추적(audit trail) 구축, 문서 추출·임베딩, 에이전트로 모델 고르기, 토큰 시장 동향까지
 * [Anthropic 엔지니어가 설계하는 에이전트 루프와 장시간 실행 AI 앱 개발 전략 | digitalbourgeois](https://digitalbourgeois.tistory.com/3282)
   * 장시간 실행 에이전트는 모델 성능보다 시스템 아키텍처가 중요. Planner(스펙 정의)-Generator(구현)-Evaluator(실제 실행 검증) 3역할 분리, "빌더와 비평가를 분리"(모델은 자기 작업에 관대). 풀 하네스 구현 6시간·$200 vs 단순 20분·$9, 프로덕션급 결과. 좋은 에이전트는 똑똑한 모델이 아니라 좋은 시스템 루프
 * [하네스 엔지니어링으로 AI 에이전트를 길들여봤습니다 | 요즘IT](https://yozm.wishket.com/magazine/detail/3733/)
@@ -5877,6 +5883,8 @@ Artificial Intelligence
     * Claude/LLM에게 AI 생성 글 특유 "예측 가능한 구문·구조·리듬" 식별·제거 가르치는 스킬. 금지 구문(throat-clearing 시작·강조 매개·비즈니스 자르곤·부사·모호 진술·메타 코멘트)+구조 클리셰(이항 대조·부정 리스트·드라마용 단편화·수사적 셋업·수동태)+문장 규칙(Wh- 시작 금지·em-dash 금지·게으른 극단·능동태 강제). 5차원(Directness·Rhythm·Trust·Authenticity·Density) 1-10 점수, 35/50 미만은 재작성. Claude Code 스킬/Projects 지식/커스텀 지시문/API 시스템 프롬프트 로드. Hardik Pandya, MIT, 7.2k stars
     * [SangRok Jung - AI가 쓴 글 같아요 댓글 받아본 적 있으세요? 방갈로르의 디자이너... | LinkedIn](https://kr.linkedin.com/posts/sangrok-jung-9ab787311_ai%EA%B0%80-%EC%93%B4-%EA%B8%80-%EA%B0%99%EC%95%84%EC%9A%94-%EC%9D%B4-%EB%8C%93%EA%B8%80-%EB%B0%9B%EC%95%84%EB%B3%B8-%EC%A0%81-%EC%9E%88%EC%9C%BC%EC%84%B8%EC%9A%94-%EB%B0%A9%EA%B0%88%EB%A1%9C%EB%A5%B4%EC%9D%98-%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88-activity-7465781598890655744-v_uB)
       * Atlassian 디자인 헤드 Hardik Pandya의 16KB 마크다운 스킬(7.6k stars). LLM이 AI 어투(throat-clearing 도입부, "X가 아니라 Y" 이분 구조, 무생물 주어, 부사·수동태·em dash 등)를 회피하게 학습. 8개 규칙(능동태·구체성·"you"로 독자 호명·리듬 변주·독자 지능 신뢰), 12개 출판 전 체크리스트, 5축 50점 스코어링(Directness·Rhythm·Trust·Authenticity·Density, 35점 미만 자동 재작성). 4가지 설치 방식(Claude Code 스킬 폴더·Claude Projects 지식·Custom Instructions·API 시스템 프롬프트). 배경: 메리엄-웹스터 2025 올해의 단어 "slop", 2026 Q1 신규 영어 웹 문서 49.9% AI 생성. 영문 산문 전용이지만 8개 규칙 중 ~6개는 한국어에도 전이 가능. MIT
+  * [Subagent-Bionic-Claude: Have Claude use a offline LLM as a subagent](https://github.com/JohnCorreiaisme/Subagent-Bionic-Claude)
+    * Claude가 오프라인 로컬 LLM을 서브에이전트로 부리게 하는 도구. PowerShell
   * [tailclaude: Claude Code on your Tailscale tailnet, powered by the iii engine](https://github.com/rohitg00/tailclaude)
   * [teamwork-skill: Agent-agnostic teamwork handoff and resume skills with deterministic, secure project context payloads](https://github.com/RandyNorthrup/teamwork-skill)
     * 프로젝트 컨텍스트를 `.teamwork/` 페이로드로 만들어 다른 에이전트·머신·세션에 안전하게 인계(`teamwork-handoff`)하고 검증 후 재개(`teamwork-resume`)하는 스킬 쌍. SHA-256 무결성 검사, 시크릿·스키마 불일치 시 fail-closed, Git 히스토리에 미포함. Codex·Claude Code·Gemini CLI 등 Agent Skills 규격 호환, Python 3.11+ 표준 라이브러리만 사용. MIT
@@ -6316,6 +6324,9 @@ Artificial Intelligence
   * [Cut Your Claude Code Token Use by Offloading Work to Cheaper Models with Houtini-LM](https://houtini.com/how-to-cut-your-claude-code-bill-with-houtini-lm/)
   * MCP 서버가 바운디드 태스크를 저렴한 LLM(LM Studio, Ollama, vLLM, DeepSeek, Groq, Cerebras)에 위임해 Claude Code 토큰 절감
 * [Humanize KR: Claude Code skill for removing AI writing traces from Korean text](https://github.com/epoko77-ai/im-not-ai)
+  * [I'm Not AI](https://imnotai.kr/)
+  * [왜 AI 로 쓴 글을 한번에 알아볼 수 있는가? AI가 쓴 티 지우는 방법 - YouTube](https://www.youtube.com/watch?v=KMwAvsDRxVk)
+    * 오늘코드todaycode. AI 글을 한눈에 알아보는 이유(번역투·기계적 병렬 구조 등 71가지 AI 티)와 im-not-ai 스킬로 지우는 방법. AI 생성 한국어 텍스트 탐지 연구 KatFishNet도 소개
   * 한글 AI 티 제거기. 번역투, 기계적 구조, AI 특유 표현 검출·재작성. 10개 주요 카테고리 40+ 하위 패턴, 심각도별 분류
 * [i-have-adhd: A skill to stop your coding agent from burying the answer — ADHD-friendly output](https://github.com/ayghri/i-have-adhd)
   * 코딩 에이전트가 답을 장황함 속에 묻어버리지 않게 하는 스킬. ADHD 친화적(핵심 먼저) 출력 유도. Python, MIT
@@ -6659,6 +6670,8 @@ Artificial Intelligence
   * [🤖 OpenCode 2025: 오픈소스 AI 코딩 에이전트 설치 가이드](https://fornewchallenge.tistory.com/entry/%F0%9F%A4%96-OpenCode-2025-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-AI-%EC%BD%94%EB%94%A9-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EC%84%A4%EC%B9%98-%EA%B0%80%EC%9D%B4%EB%93%9C)
   * [🤖💻Ollama와 OpenCode를 활용한 맞춤형 무료 AI 코딩 에이전트 구축](https://fornewchallenge.tistory.com/entry/%F0%9F%A4%96%F0%9F%92%BBOllama%EC%99%80-OpenCode%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EB%A7%9E%EC%B6%A4%ED%98%95-%EB%AC%B4%EB%A3%8C-AI-%EC%BD%94%EB%94%A9-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EA%B5%AC%EC%B6%95)
   * [OpenCode + Antigravity oAuth: FREE Alternative to Claude Code Max Plan - YouTube](https://www.youtube.com/watch?v=Kr9BL3ck2-g)
+  * [Getting Started With OpenCode: What Makes It Different & Connecting a Free Gemini Key - YouTube](https://www.youtube.com/watch?v=3S2Lm5r4RE0)
+    * Real Python. OpenCode 입문—다른 코딩 에이전트와의 차별점과 무료 Gemini 키 연결 방법
   * [awesome-opencode: A curated list of awesome plugins, themes, agents, projects, and resources for opencode.ai](https://github.com/awesome-opencode/awesome-opencode)
     * 공식 SDK(JS/TS/Go/Python), 90+ 플러그인(Agent Memory, Agent Identity, Dynamic Context Pruning), 테마(Ayu Dark·Lavi·Moonlight), 에이전트 컨피그, GUI 앱(OpenChamber·OpenWork), 모니터링(OCX·Tokscale) 큐레이션
 * [OpenCove: Infinite canvas for Claude Code, Codex, terminals, tasks, and notes](https://github.com/DeadWaveWave/opencove)
