@@ -144,4 +144,6 @@ Robot
 * [강의 계획서 - ROS for G Camp](https://www.notion.so/ROS-for-G-Camp-410d95df137d403ca176cfec4822351a)
   * [gcamp_ros_basic](https://github.com/Road-Balance/gcamp_ros_basic)
 * ['ROS2_Roadbalance' 태그의 글 목록](https://m-hackathon.tistory.com/tag/ROS2_Roadbalance)
+* [Python Takes Root in Robotics: ROS 2, Simulation, and Reinforcement Learning - YouTube](https://www.youtube.com/watch?v=m0WGHOnAxmA)
+  * PyData & PyCon Yerevan 2026. Python이 로보틱스에 자리 잡는 흐름—ROS 2, 시뮬레이션, 강화학습을 아우르는 발표
 * [bluerov2: Scripts to help BlueRov2 integration with ROS and UUV Simulator](https://github.com/fredvaz/bluerov2)
