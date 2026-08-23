@@ -4790,6 +4790,8 @@ Python
 * [파이썬 패키징, 배포 툴의 과거와 현재 · 개발블로그](https://blog.gyus.me/2020/python-packaging-history/)
 * [Michał Wodyński - Difficulties of Python code development:packages,virtualenvs and package mangers - YouTube](https://www.youtube.com/watch?v=NZ8K1GXI94M)
 * [Wei Lee - Python Table Manners: Cut the Cookie Gracefully - YouTube](https://www.youtube.com/watch?v=m6rF3Kah928)
+* [How many spoons does your environment cost: Broken demos & human element - Dawn Wages - YouTube](https://www.youtube.com/watch?v=GYSA2NpCaiA)
+  * EuroPython 2026. 험한 Python 환경들을 라이브로 로드해 실패시키며 보는 환경 마찰의 숨은 비용—인지 부하, 소모되는 '스푼', pip를 못 다뤄서 자신이 멍청하다 느끼고 업계를 떠날 뻔한 개발자들. 셋업 장벽은 불편이 아니라 접근성 장벽이라는 관점의 환경 관리 베스트 프랙티스
 * [Our Python Monorepo. At Opendoor we started putting all our… | by Dan Hipschman | Open House | Medium](https://medium.com/opendoor-labs/our-python-monorepo-d34028f2b6fa)
 * [Python Monorepos: What, Why and How - YouTube](https://www.youtube.com/watch?v=1qurVKSYVqY) Pants, Bazel, Buck
 * [PyCon KR 2023 Django Monorepo 마이크로서비스 도입기 김순 - YouTube](https://www.youtube.com/watch?v=yxDk9yDfrYE) pantsbuild
