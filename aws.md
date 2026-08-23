@@ -3277,6 +3277,8 @@ AWS
 * [인프라 몰라도 AI가 AWS 배포 다 해줌 Terraform + Claude Code - YouTube](https://www.youtube.com/watch?v=UFpqXcydq_Y) AI devops
 * [Terraform State — 당신의 인프라의 지도](https://velog.io/@lufianlee/Terraform-State)
   * State 파일에 저장되는 평문 시크릿(DB 비밀번호, IAM 자격증명, SSH 키) 보안 위험. S3 설정 오류, CI/CD 로그 등 노출 경로와 KMS 암호화, OIDC 페더레이션 대응
+* [Application-Driven Infrastructure Deployment • Kief Morris • GOTO 2025 - YouTube](https://www.youtube.com/watch?v=r06NY-heh-E)
+  * "Infrastructure as Code" 저자, Thoughtworks Distinguished Engineer. 클라우드·IaC가 소프트웨어 딜리버리 장벽 제거라는 약속을 못 지키는 이유—상향식 모놀리식 환경 배포에서 벗어나 pre-poured 인프라, 애플리케이션 주도 인프라, 조합 가능한(composable) 인프라로 가는 방법과 과제
 * Atlantis [Terraform Pull Request Automation | Atlantis](https://www.runatlantis.io/)
   * [Atlantis Hardening and Review Fatigue - DoorDash Engineering Blog](https://doordash.engineering/2023/12/05/atlantis-hardening-and-review-fatigue/)
     * DoorDash에서 Terraform 코드를 관리하기 위해서 Atlantis를 사용해서 자동화한 과정
