@@ -232,6 +232,9 @@ Product
   * [Cosmos - 손을 스캔해서 만드는 맞춤형 키보드 | GeekNews](https://news.hada.io/topic?id=18771)
 * DAREU [갓성비라 불리고 있는 키보드 - YouTube](https://www.youtube.com/watch?v=Sbp1wy_I_m4)
 * Dygma [인체공학의 정수, 디자인은 보너스 - 디그마 디파이 (Dygma Defy) 어고노믹 키보드 - YouTube](https://www.youtube.com/watch?v=pjUWSKP-4G8)
+* [ElimKeys Elytra UltraLight Wireless Split Keyboard](https://www.elimkeys.com/products/elytra)
+  * [양쪽 다 합쳐도 420g 초경량 휴대용 완전 무선 스플릿 로우프로파일 기계식 키보드 ElimKeys Elytra - YouTube](https://www.youtube.com/watch?v=jMoRlS1ZBgo)
+    * 북치 bookchi. 양쪽 합쳐 420g 초경량 휴대용 완전 무선 스플릿 로우프로파일 기계식 키보드 리뷰 (제품 협찬)
 * [펀키스 공식 홈페이지](https://funkeys.co.kr/)
 * freewrite traveler [80만원짜리 키보드의 맛... | 디지털 타자기라고 들어 보셨나요? | 프리라이트 트래블러 freewrite traveler 리뷰 - YouTube](https://www.youtube.com/watch?v=MikFdx4qBR8)
 * [GEONWORKS](https://geon.works/)
@@ -297,6 +300,9 @@ Product
 * [The WhiteFox Keyboard | Mechanical Keyboards | Custom Layout Mechanical Keyboards | Drop](https://drop.com/buy/the-whitefox-keyboard)
 * Womier WD75 V2 Retro [내 책상 위의 분위기를 완전히 바꿔 놓은 원목 키보드. Womier WD75 V2 Retro - YouTube](https://www.youtube.com/watch?v=2lcCki641qY)
   * 십만양품. 원목 하우징 특유의 따뜻한 질감과 차분한 타건음. 성능 경쟁에 집중하는 요즘 기계식 키보드들과 달리 책상의 분위기를 바꾸는 데 가까운 제품이라는 평
+* [YUNZII WOOD68 Wireless Mechanical Keyboard](https://www.yunzii.com/ko/products/yunzii-wood68-wireless-mechanical-keyboard)
+  * [YUNZII WOOD68 | 데스크 위 감성을 완성하는 원목 키보드 언박싱 & 타건 - YouTube](https://www.youtube.com/watch?v=Mm565XtNWgs)
+    * YukeyB. 캔디 리니어 스위치 조합 원목 무선 기계식 키보드 언박싱·타건 영상
 
 # Lamp
 * [전선 없이 빛을 내는 크리스마스 트리 전구](http://www.earlyadopter.co.kr/9430)
