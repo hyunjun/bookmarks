@@ -250,6 +250,8 @@ Graph
 * [데이터에 맥락을 새겨 넣는 법 — AI Ready Data, Semantic Layer, Knowledge Graph, Ontology](https://bits-bytes-nn.github.io/insights/data-architecture/2026/07/27/ai-ready-data-semantic-layer-knowledge-graph.html)
   * [데이터에 맥락을 새겨 넣는 법 — AI Ready Data, Semantic Layer | aldente0630](https://www.linkedin.com/posts/aldente0630_%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%97%90-%EB%A7%A5%EB%9D%BD%EC%9D%84-%EC%83%88%EA%B2%A8-%EB%84%A3%EB%8A%94-%EB%B2%95-ai-ready-data-semantic-share-7488726236085755904-dNsv/)
   * Analytics-ready→ML-ready→AI-ready의 차이는 "맥락이 어디에 있는가"—분석가 머릿속·데이터 밖에 있던 맥락을 시맨틱 레이어·지식 그래프·온톨로지로 데이터 자체에 새겨 넣어야 AI가 이해할 수 있다는 데이터 아키텍처 관점
+* [Keynote - Semantic Layers: The Missing Link Between AI and Business Knowledge - YouTube](https://www.youtube.com/watch?v=EGuTe4LV8z4)
+  * PyData & PyCon Yerevan 2026 키노트. AI와 비즈니스 지식 사이의 잃어버린 고리로서의 시맨틱 레이어
 * [Why Agentic Systems Need Ontologies — Frank Coyle, UC Berkeley - YouTube](https://www.youtube.com/watch?v=Sir59K8ZDPU)
   * AI Engineer. 확률적 에이전트가 저지르는 실수(같은 주문 이중 환불, 잘못된 수취인에게 지급, "아마 배송됨" 같은 모호한 상태)를 온톨로지로 방지—에이전틱 시스템에 온톨로지가 필요한 이유
 * [How Cerebras Built Its Enterprise Knowledge Base | Cerebras](https://www.cerebras.ai/blog/how-we-built-our-knowledge-base)
