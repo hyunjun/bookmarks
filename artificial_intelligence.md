@@ -6800,6 +6800,8 @@ Artificial Intelligence
 * [TokenTracker — Local-first token usage tracker for 11 AI coding tools](https://token.rynn.me/)
   * [TokenTracker](https://github.com/mm7894215/TokenTracker)
   * Claude Code/Codex/Cursor/Gemini 등 11개 도구 토큰 사용량 추적. 로컬 전용(클라우드 업로드 없음), 웹 대시보드+macOS 메뉴바+4개 위젯, 250+ 스킬 매니저, 7개 프로바이더 레이트 리밋 모니터링
+* [Tura — Local, open-source coding agent](https://github.com/Tura-AI/tura)
+  * 저장소를 이해한 뒤 변경을 수행하도록 설계된 로컬 오픈소스 코딩 에이전트. CLI·TUI·웹·데스크톱 인터페이스로 구조화된 도구 실행과 컨텍스트 기반 개발 워크플로우를 제공
 * [Trae - Ship Faster with Trae](https://www.trae.ai/)
   * [Bytedance에서 Cursor와 같은 AI기반 IDE 툴인 Trae를 발표](https://www.linkedin.com/posts/duckjungkim_%EC%A4%91%EA%B5%AD%EA%B8%B0%EC%97%85%EC%9D%B8-bytedance%EC%97%90%EC%84%9C-cursor%EC%99%80-%EA%B0%99%EC%9D%80-ai%EA%B8%B0%EB%B0%98-ide-%ED%88%B4%EC%9D%B8-activity-7297259258935484416-Fhv_)
 * [v0 by Vercel](https://v0.dev/)
