@@ -1875,6 +1875,10 @@ Machine Learning
 * [Reinforcement Learning 그리고 OpenAI - 2: CartPole예제 이해하기](http://www.modulabs.co.kr/RL_library/2136)
 * [Reinforcement Learning 그리고 OpenAI - 3: CartPole and Deep Q Learning (1) DQN(Deep Q-Networks)](http://www.modulabs.co.kr/RL_library/2621)
 * [Reinforcement Learning](https://github.com/sangjinhong/deep_learning)
+* [hydrogym: An RL-Gym for Challenge Problems in Data-Driven Modeling and Control of Fluid Dynamics](https://github.com/dynamicslab/hydrogym)
+  * [HydroGym: A Reinforcement Learning Platform for Fluid Dynamics - YouTube](https://www.youtube.com/watch?v=SQrPBk6f0GY)
+  * [HydroGym Nature 논문](https://www.nature.com/articles/s41586-026-10917-6)
+  * Steve Brunton 팀. 고차원·비선형이라 제어가 어려운 유체 흐름(양력 증가·항력 감소·혼합 강화·소음 저감)을 강화학습으로 다루는 벤치마크 플랫폼. Nature 게재, Python
 * [RLlib: Scalable Reinforcement Learning — Ray v1.5.2](https://docs.ray.io/en/latest/rllib.html)
   * [오픈소스(RLlib) 문제 발견부터 컨트리뷰션 까지 | MakinaRocks Tech Blog](https://makinarocks.github.io/open-source-contributions-rllib/)
 
