@@ -367,6 +367,8 @@ Programming
 * [좋은 코드를 만드는 이유, 좋은 코드를 만드는 방법](https://velog.io/@joosing/why-make-good-code-how-to-make-good-code)
 * [Things I Learned Managing Site Reliability for Some of the World’s Busiest Gambling Sites](https://zwischenzugs.wordpress.com/2017/04/04/things-i-learned-managing-site-reliability-for-some-of-the-worlds-busiest-gambling-sites/) SRE - Site Reliability Engineer
 * [2025 DevOps의 본질과 최신 트렌드](https://bcho.tistory.com/1465)
+* [Cloud and DevOps InfoQ Trends Report 2026: AI, Resilience, Platforms, FinOps, and Sovereignty - YouTube](https://www.youtube.com/watch?v=pJ8YPFlzGOo)
+  * InfoQ 편집진 연례 트렌드 팟캐스트. AI 거버넌스·컴플라이언스가 엔터프라이즈 도입을 늦추는가, AI 시대 플랫폼 엔지니어링의 진화, FinOps의 중요성, 회복탄력성(resilience)과 데이터 주권(sovereignty)까지 클라우드·DevOps 도메인 핵심 트렌드 좌담
 * [#1 SRE/DEVOPS의 개념](https://bcho.tistory.com/1325)
 * [#2 SRE는 어떻게 일하는가?](https://bcho.tistory.com/1327)
 * [#3 SRE의 주요 지표 SLI/SLO (Service Level Indicatior, Service Level Objectives)](https://bcho.tistory.com/1328)
@@ -2455,6 +2457,8 @@ Programming
 * [When to use a trait? — Matthias Noback - Blog](https://matthiasnoback.nl/2022/07/when-to-use-a-trait/)
 * [01 Software Architecture Concepts - YouTube](https://www.youtube.com/watch?v=bNxSWIl5kpo)
 * [Enterprise Architecture = Architecting the Enterprise? • Gregor Hohpe • YOW! 2017 - YouTube](https://www.youtube.com/watch?v=hhlxFtV_tZo)
+* [Modern Enterprise Architecture: Architecting for Outcomes • Simon Rohrer • GOTO 2025 - YouTube](https://www.youtube.com/watch?v=UMaZ-O2KRCw)
+  * Global Head of Enterprise Tech Architecture, 'Sooner Safer Happier' 공저자. 결과(outcome) 중심 현대 엔터프라이즈 아키텍처를 A~E로 정리—Aligning(사람·가치·기술 정렬), Better Value Sooner Safer Happier, Continuous conversational·자동화 거버넌스, DevOps at enterprise scale, Evolutionary 아키텍처
 * [Software Architecture for Developers • Simon Brown • YOW! 2017 - YouTube](https://www.youtube.com/watch?v=dtVI7PvgVsQ)
 * [Shortening the Architectural Feedback Loop • Eltjo R. Poort • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=lshfKKeB1Io)
 * [Vertical Slice Architecture, not Layers! - YouTube](https://www.youtube.com/watch?v=L2Wnq0ChAIA)
@@ -2649,6 +2653,9 @@ Programming
 * [Driving data enhancement & recruitment success with LinkedIn's unified integrations | LinkedIn Engineering](https://www.linkedin.com/blog/engineering/talent/driving-data-enhancement-and-recruitment-success-with-linkedins-unified-integrations)
   * [LinkedIn Consolidates Hiring Data Pipelines to Power AI Driven Talent Systems - InfoQ](https://www.infoq.com/news/2026/05/linkedin-unified-hiring-platform)
   * LinkedIn 통합 하이링 플랫폼: BuildIn(파트너 push)+BuildOut(LinkedIn pull) 이중 모델 + 3계층 아키텍처(표준화·오케스트레이션·강화)로 파편화된 채용 데이터 통합. 파트너 온보딩 시간 72% 단축, 데이터 커버리지 4배 확장. Hiring Assistant 등 AI 시스템을 위한 일관된 고품질 데이터 기반
+* [ZTA: Zero Token Architecture - Kelsey Hightower | PlatformCon 2026 - YouTube](https://www.youtube.com/watch?v=A7WFt2JQ5sg)
+  * "기본기는 여전히 중요하고 토큰을 태우는 게 필수는 아니다." 트랙쏘 유튜브 50시간 보고 목수가 된 줄 알았다는 비유—Claude Code로 Kubernetes 클러스터를 배포했다고 플랫폼 엔지니어가 되는 건 아님
+  * 결정론적으로 이미 풀린 문제(라이브러리에 담아 수천 번 재사용)를 매번 에이전트 토큰으로 다시 푸는 건 SQL 쿼리마다 DB 드라이버를 새로 짜는 것과 같다는 비판. 시스템을 애초에 legible하게 만들지 못한 것이 진짜 문제라는 Q&A 논의
 * [arc42 - arc42](https://arc42.org/)
   * [Documenting Software Architecture in Code Repository | by Huseyin Kutluca | Software Architecture Foundations | Feb, 2022 | Medium](https://medium.com/software-architecture-foundations/documenting-software-architecture-in-code-repository-74716412b0a2)
 * [architecture-decision-record: Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation](https://github.com/joelparkerhenderson/architecture-decision-record)
@@ -4441,6 +4448,8 @@ Programming
   * [코드 리뷰도 배워야 하는 기술이다 | GeekNews](https://news.hada.io/topic?id=32417)
   * 코드 리뷰는 버그 탐지 도구가 아니라 교육·규범 유지·게이트키핑·사고 예방 네 역할을 수행하는 학습 가능한 기술. 최신 LLM이 놓친 실제 버그 3건(동시성 문제, 버전 호환성, 트랜잭션 실패 모드)으로 코드만으로는 알 수 없는 과거 경험과 맥락의 중요성을 보임
   * 역량 향상 방법으로 소크라테스식 대화, near-miss 공유, 형식 모델링, 숙련자 암묵지 추출을 제안. AI 시대에도 "한 단계 낮은 추상화 수준까지 이해하는 능력"은 투자할 가치가 있다고 결론
+* [Defending Open Source from "AI" Slop: A Maintainer's Practical Guide - Sviatoslav Sydorenko - YouTube](https://www.youtube.com/watch?v=lDxaIKAUBoc)
+  * EuroPython 2026. 코드베이스 이해 없이 제출되는 AI 생성 PR—자신감 있는 어조, 그럴듯해 보이는 코드, 프로젝트 관례 무시—이 메인테이너의 부족한 리뷰 대역폭을 잠식하는 문제와 실전 방어 가이드. 미묘한 버그를 심는 표면적 '개선'부터 아무도 요청 안 한 대규모 리팩토링까지
 * [6 reasons why pre is better than post production code review](https://about.gitlab.com/2015/08/05/6-reasons-why-pre-is-better-than-post-production-code-review/)
 * [매끄러운 ‘코드 리뷰’를 돕는 10가지 방법](http://www.bloter.net/archives/238819)
 * [코드리뷰, Github로 바로 적용하기](https://realm.io/kr/news/codereview-howto/)
