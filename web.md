@@ -2755,6 +2755,8 @@ Web
   * [pyodide: Python with the scientific stack, compiled to WebAssembly](https://github.com/pyodide/pyodide)
   * [모질라, 브라우저에 파이썬 통합하는 ‘파이어다이드’ 프로젝트 분리 - CIO Korea](https://www.ciokorea.com/news/191529)
   * [Run Python in Your Browser Effortlessly](https://kai.bi/post/run-python-programs-easily-in-the-browser)
+  * [Python Everywhere: The State of Python on WebAssembly - Hood Chatham, Gyeongjae Choi - YouTube](https://www.youtube.com/watch?v=HklunTc9giA)
+    * EuroPython 2026, Pyodide 메인테이너 발표. CPython을 Emscripten으로 JS+WebAssembly 컴파일—PyScript·JupyterLite·Marimo의 기반이며 2024년 가을부터 Emscripten이 CPython tier 3 지원 플랫폼. 인터랙티브 노트북, 클라이언트 사이드 컴퓨팅, AI용 안전한 코드 실행, 엣지 컴퓨팅 데모와 생태계 표준화 작업 소개
 * [remove-bg: Remove background directly in your browser, powered by WebGPU](https://github.com/ducan-ne/remove-bg)
   * [Automate Your Image with Bannerify - Image & Video Generation Made Easy](https://bannerify.co/tools/remove-bg)
   * [Remove-bg - WebGPU를 이용한 이미지 배경 지우기 오픈소스 | GeekNews](https://news.hada.io/topic?id=16486)
