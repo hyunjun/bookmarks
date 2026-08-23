@@ -208,6 +208,8 @@ Programming Language
   * [바이브 코딩할 거면 C로 하지 그래요? | GeekNews](https://news.hada.io/topic?id=24973)
 * [The history of C# and TypeScript with Anders Hejlsberg | GitHub - YouTube](https://www.youtube.com/watch?v=uMqx8NNT4xY)
   * [C# 및 TypeScript의 역사와 미래: Anders Hejlsberg와의 인터뷰 | GitHub](https://livewiki.com/ko/content/csharp-typescript-anders-hejlsberg)
+* [The Past, Present & Future of Programming Languages • Kevlin Henney • YOW! 2025 - YouTube](https://www.youtube.com/watch?v=nNWROjHZzuU)
+  * John Backus의 Fortran에서 시작해 언어 랭킹(TIOBE·IEEE), Algol 68, if-then-else와 서브루틴·블록 구조의 기원, 함수형 언어, LISP과 머신러닝까지—프로그래밍 언어의 과거·현재·미래를 연대순으로 훑는 키노트
 
 # Closure
 * [Closures And Objects Are Equivalent](http://c2.com/cgi/wiki?ClosuresAndObjectsAreEquivalent)
