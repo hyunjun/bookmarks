@@ -1569,6 +1569,8 @@ App
 * [손쉽게 업무시간 절약하는 깨알 아이폰 팁 10가지 - CIO Korea](https://www.ciokorea.com/news/195754)
 * [아이폰 사용자 경험을 ‘확’ 바꾸는 10가지 숨은 설정 - ITWorld Korea](https://www.itworld.co.kr/news/220399)
 * [아이폰 핵꿀팁 🤯 꼭 해보세요! 한방에 아이폰 사진, 동영상 외장 백업 끝내기 - YouTube](https://www.youtube.com/watch?v=HDPwkcoBs5U)
+* [아이폰 사진 지금 당장 바꾸세요 - 아이폰 카메라 필수 설정 10 가지 - YouTube](https://www.youtube.com/watch?v=jnQSE_va0M8)
+  * Mac and Tips. 파노라마, 장노출 이미지, 고화질 촬영, 카메라 설정 저장, 격자, 플래시, 고속 연사, 수동 노출, 렌즈 활용, 접사 모드까지 아이폰 카메라 설정 10가지
 * [a-Shell - A text-based user interface for a screen-based platform](https://holzschu.github.io/a-Shell_iOS/)
 
 # Linux
@@ -1639,6 +1641,8 @@ App
   * [skunk-html/markdown-blog/2025-01-27.md at master · hyunjun/skunk-html](https://github.com/hyunjun/skunk-html/blob/master/markdown-blog/2025-01-27.md)
 * [야근을 줄여주는 맥북 사용 팁 5가지 (생각보다 많이 모릅니다) - YouTube](https://www.youtube.com/watch?v=QxrQHbG3vrs)
   * 키보드 탐색, 폴더 지정 단축키, 파인더 이동 단축키, 시스템 설정 바로가기, 텍스트 편집 관련
+* [Your MacBook can do so much MORE! - YouTube](https://www.youtube.com/watch?v=DmB_g4u6J0I)
+  * Byte Review. 새 맥 초기 설정, 필수 키보드 단축키·제스처, 생산성 단축키, iPhone·iPad 연동 팁, 맥에서 Windows 게임, 추천 도구·앱·액세서리까지 MacBook 활용 종합 가이드
 
 ## Mac App
 * [**practice - 최초 설치 후 install(M1)**](https://gist.github.com/hyunjun/cf75a8a9367b272c5707#file-install_m1-md)
