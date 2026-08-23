@@ -772,6 +772,8 @@ Python
   * deque
     * [Python - 데크(deque) 언제, 왜 사용해야 하는가?](https://chaewonkong.github.io/posts/python-deque.html)
     * [python deque index 접근 연산의 복잡도를 알아봅시다. - Codingdog Blog](https://codingdog.pe.kr/2023/10/28/python-deque-index-%ec%a0%91%ea%b7%bc-%ec%97%b0%ec%82%b0%ec%9d%98-%eb%b3%b5%ec%9e%a1%eb%8f%84%eb%a5%bc-%ec%95%8c%ec%95%84%eb%b4%85%ec%8b%9c%eb%8b%a4/)
+    * [Working With Python's deque: Getting Started & Popping/Appending Items Efficiently - YouTube](https://www.youtube.com/watch?v=cAZthQklq7I)
+      * Real Python. `collections.deque` 입문—양끝 append/pop을 O(1)로 처리하는 큐·스택 활용
 * configparser
   * [파이썬에서 설정값 관리하기](https://mingrammer.com/ways-to-manage-the-configuration-in-python)
   * [Use Python to parse configuration files | Opensource.com](https://opensource.com/article/21/6/parse-configuration-files-python) INI, JSON, YAML, TOML
@@ -5508,6 +5510,8 @@ Python
 * [Noa Tamir, Patrick Hoefler: Let's contribute to pandas (3 hours) PART.1 - YouTube](https://www.youtube.com/watch?v=B6fnPayCnuw)
 * [PyCon KR 2023 로컬 환경에서 사이즈가 큰 데이터를 효과적으로 처리,분석하기 위한 전략 오성우 - YouTube](https://www.youtube.com/watch?v=M6YuOk4dAH4)
 * [Pandas Dataframes on your GPU w/ CuDF - YouTube](https://www.youtube.com/watch?v=OnYGtKQT-rU)
+* [Pandas + Vector Search on GPU: How to Ensure Compatibility - YouTube](https://www.youtube.com/watch?v=a166iqlsvTE)
+  * PyData & PyCon Yerevan 2026. GPU에서 Pandas와 벡터 검색을 함께 쓸 때의 호환성 확보 방법
 * [cuDF - GPU DataFrame Library](https://github.com/rapidsai/cudf)
   * [cuDF - GPU DataFrame 라이브러리 | GeekNews](https://news.hada.io/topic?id=15161)
 * downcast [Essential basic functionality — pandas 1.4.3 documentation](https://pandas.pydata.org/docs/user_guide/basics.html?highlight=downcast#gotchas)
