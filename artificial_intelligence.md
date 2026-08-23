@@ -413,6 +413,8 @@ Artificial Intelligence
   * [AI로 코딩은 빨라졌는데, 왜 소프트웨어는 점점 나빠지는가 | digitalbourgeois](https://digitalbourgeois.tistory.com/3499)
   * AI로 개발 속도가 올라갔는데도 은행 앱 중복 인증, Slack 포커스 탈취, 자동차 인포테인먼트 오류 같은 기본적인 문제는 오히려 늘어나는 역설. 기업이 KPI 중심으로 AI로 얻은 생산성을 버그 수정·안정성보다 새 기능 추가에 배분하기 때문
   * "얼마나 많은 코드를 만들었는가"보다 "사용자가 얼마나 안정적으로 쓸 수 있는가"가 핵심—생산성 향상보다 그것을 어디에 쓸지 정하는 우선순위가 더 중요. 저자는 비관적이지만 개인 개발자가 AI로 더 나은 소프트웨어를 만들 기회는 기대
+* [Programming in the AI Era: Real Python Office Hours - YouTube](https://www.youtube.com/watch?v=NYwg01_2Kjg)
+  * Real Python 라이브 오피스아워. AI 시대에 프로그래밍이 어떻게 변하고 있고 프로그래머는 어떻게 적응해야 하는지에 대한 토론
 * [시속 300km를 달리는 AI 와 함께 개발한다는 것은](https://www.linkedin.com/pulse/%EC%8B%9C%EC%86%8D-300km%EB%A5%BC-%EB%8B%AC%EB%A6%AC%EB%8A%94-ai-%EC%99%80-%ED%95%A8%EA%BB%98-%EA%B0%9C%EB%B0%9C%ED%95%9C%EB%8B%A4%EB%8A%94-%EA%B2%83%EC%9D%80-jin-hyung-park-sigrid-jin--rsfkc) 빠른 속도를 감당하려면 배포 주기와 피드백 루프가 빨라야 한다
 * [퇴근 후 1억이 거래되는 서비스 만들기 | 내가 AI를 사용하는 방법 - Speaker Deck](https://speakerdeck.com/maryang/toegeun-hu-1eogi-georaedoeneun-seobiseu-mandeulgi-naega-aireul-sayonghaneun-bangbeob)
   * [퇴근 후 1억이 거래되는 서비스 만들기 | 내가 AI를 사용하는 방법 - YouTube](https://www.youtube.com/watch?v=uu1DcnHDFGo)
@@ -1393,6 +1395,9 @@ Artificial Intelligence
     * Andrew Ng의 멀티 프로바이더 통합 인터페이스. OpenAI 호환 API 하나로 여러 생성형 AI 프로바이더 호출. Python, 15K stars
 * [PageAgent - The GUI Agent Living in Your Webpage](https://alibaba.github.io/page-agent/)
   * [page-agent: JavaScript in-page GUI agent. Control web interfaces with natural language](https://github.com/alibaba/page-agent)
+* [PandaProbe — Open source agent engineering platform](https://www.pandaprobe.com/)
+  * [pandaprobe: traces, evals, and metrics to debug and improve your AI agents](https://github.com/chirpz-ai/pandaprobe)
+  * AI 에이전트 디버깅·개선을 위한 트레이스·평가·메트릭 플랫폼. LangGraph, CrewAI, Claude Agent SDK 등과 통합. Python
 * [PaperClip — Open-Source Orchestration Platform for zero-human companies](https://paperclip.ing/)
   * [paperclip: Open-Source Orchestration Platform](https://github.com/paperclipai/paperclip)
   * [PaperClip + OpenClaw + OpenCode: The Ultimate Open Source Swarm Intelligence Mission Control - YouTube](https://www.youtube.com/watch?v=iNxNkvZfNHM)
