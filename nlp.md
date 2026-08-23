@@ -1248,6 +1248,8 @@ NLP
     * [엔비디아, 오픈소스 소프트웨어 ‘네모 가드레일’ 출시](https://www.epnc.co.kr/news/articleView.html?idxno=232776)
     * [Nemo-Guardrails를 소개합니다](https://bobb-ai-brain.vercel.app/nemo-one)
     * [LLM 파인튜닝 없이 edge case 처리하기👀 with Nemo-Guardrails | bobb Kim](https://www.linkedin.com/posts/autorag-bwook_nemo-guardrails%EB%A5%BC-%EC%86%8C%EA%B0%9C%ED%95%A9%EB%8B%88%EB%8B%A4-activity-7347848727463677953-j7qU)
+  * [Speech: NVIDIA NeMo Speech — Speech AI (ASR and TTS)](https://github.com/NVIDIA-NeMo/Speech)
+    * LLM·멀티모달·음성 AI(음성인식·음성합성)용 NeMo 프레임워크의 Speech 전용 레포. Python, 18.2k stars
 * [NvChat: single-exe Windows client for NVIDIA's free LLMs](https://github.com/akon47/NvChat)
   * [NvChat – NVIDIA의 무료 LLM을 쓰는 단일 exe 윈도우 클라이언트 | GeekNews](https://news.hada.io/topic?id=31711)
   * build.nvidia.com의 오픈 모델(OpenAI 호환 API 무료)을 Claude·ChatGPT 데스크톱 앱처럼 쓰는 단일 exe 윈도우 클라이언트. C#, MIT
@@ -5924,6 +5926,10 @@ NLP
   * Medium 모델 WER 6.65%로 Whisper Large v3(7.44%) 능가. 스트리밍 기반, Python/iOS/Android 지원, 8개 언어 다국어
 * [moshi.chat](https://us.moshi.chat/)
   * [Unveiling of Moshi: the first voice-enabled AI openly accessible to all. - YouTube](https://www.youtube.com/watch?v=hm2IJSKcYvo)
+* [murmur-youtube: Push-to-talk dictation, on-device](https://github.com/per-simmons/murmur-youtube)
+  * [I Cancelled Wispr Flow & Built This Instead (Free Tool) - YouTube](https://www.youtube.com/watch?v=IMQw3aHjf2Q)
+    * Pat Simmons. Claude Code로 거의 원샷에 Wispr Flow 클론 제작—첫 프롬프트, 아키텍처 설명, 빌드·권한 부여, 인젝션 버그 수정까지의 과정. 속도는 동급, 로컬 실행, 데이터 소유, 완전 무료
+  * 온디바이스 push-to-talk 받아쓰기 앱. macOS 네이티브(Swift)+Windows(C#/Avalonia)가 교정 사전(correction dictionary)의 동작 규약 하나를 공유
 * [MVSEP - Music & Voice Separation](https://mvsep.com/en)
 * [Nari Labs: Dia Examples](https://yummy-fir-7a4.notion.site/dia)
   * [dia: A TTS model capable of generating ultra-realistic dialogue in one pass](https://github.com/nari-labs/dia)
@@ -6100,6 +6106,9 @@ NLP
 * [voice-pro: Gradio WebUI for creators and developers, featuring key TTS (Edge-TTS, kokoro) and zero-shot Voice Cloning (E2 & F5-TTS, CosyVoice), with Whisper audio processing, YouTube download, Demucs vocal isolation, and multilingual translation](https://github.com/abus-aikorea/voice-pro)
   * Voice cloning toolkit for creators
 * [voice-rag-example at main · SOPT-AI-25SS/week3 · GitHub](https://github.com/SOPT-AI-25SS/week3/tree/main/tutorial/voice-rag-example)
+* [VoiceStudio — The open-source, fully-local ElevenLabs alternative](https://voicestudio.sh/)
+  * [VoiceStudio: voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages](https://github.com/debpalash/VoiceStudio)
+  * 완전 로컬 오픈소스 ElevenLabs 대안. 646개 언어로 보이스 클로닝·보이스 디자인·비디오 더빙·받아쓰기·전사·오디오북 제작. Python, 11.3k stars
 * [VoiceTypr — Offline AI voice to text app for founders and builders](https://voicetypr.com/)
   * [VoiceTypr - AI powered offline voice to text dictation tool for busy founders, vibe coders, AI power users on macos, windows. Alternative to wispr flow and superwhisper](https://github.com/moinulmoin/voicetypr/)
 * [VoxFlow: Free offline speech-to-text for Windows and macOS](https://github.com/aievolutionpl/VoxFlow)
