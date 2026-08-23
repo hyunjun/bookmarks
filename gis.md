@@ -122,6 +122,8 @@ GIS
 * [Deckgl for Jupyter Notebook - 위치 데이터 시각화 라이브러리인 Deck.gl을 쥬피터 노트북 에서 사용 가능](https://github.com/heumsi/deckgl-jupyter)
 * [We can get more from spatial, GIS and public domain datasets! — SzymonMolinski - YouTube](https://www.youtube.com/watch?v=8LZvpsiHvhI)
 * [Marco Gorelli - Polars and time zones: everything you need to know - YouTube](https://www.youtube.com/watch?v=Qr0PnDox5MM)
+* [From Pixels to Insights: Python for Earth Observation - ELENI TOKMAKTSI - YouTube](https://www.youtube.com/watch?v=O9ZyixOwSrY)
+  * EuroPython 2026. 기후 변화로 늘어나는 대형 산불을 위성 지구 관측 데이터로 분석—위성 영상 기반 데이터 주도 접근으로 산불 사전 대응과 사후 복원 의사결정을 지원하는 Python 활용
 * geopandas [The Best Features of Geopandas 0.80 Release | by Abdishakur | Towards Data Science](https://towardsdatascience.com/the-best-features-of-geopandas-0-80-release-87f2d7aa8f5)
   * [Geospatial Python - Full Course for Beginners with Geopandas - YouTube](https://www.youtube.com/watch?v=0mWgVVH_dos)
 * GeoPy [Welcome to GeoPy’s documentation! — GeoPy 2.2.0 documentation](https://geopy.readthedocs.io/)
