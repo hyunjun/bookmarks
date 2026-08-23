@@ -111,6 +111,8 @@ Python
       * 이후 새로운 ABI인 abi4를 만들자는 아이디어를 채택해서 프로토타입을 개발 중이며 PEP가 필요하다는 데까지 합의가 된 상황
     * [Eyes For you — 지금이 Free Threading Python에 기여하기 좋은 시점입니다](https://iz4u.net/free-threading-pyconus2025-ko.html)
       * [지금이 Free Threading Python에 기여하기 좋은 시점입니다 | GeekNews](https://news.hada.io/topic?id=21017)
+  * [Improving NumPy Performance on Free-Threaded Python | Real Python Podcast #307 - YouTube](https://www.youtube.com/watch?v=014owf-ILtc)
+    * Christopher Trudeau와 PyCoder's Weekly 대담. free-threaded CPython에서 NumPy 멀티스레드 워크로드가 스케일하지 못하던 병목—GIL 제거만으로는 부족하고 프로파일링으로 NumPy·CPython의 숨은 병목을 찾아낸 작업. PyPI 소식, 순수 Python SIMD, Django 스키마 리뷰 도구 등 커뮤니티 소식 포함
 * [“파이썬은 느리다”에 대한 반론 | 요즘IT](https://yozm.wishket.com/magazine/detail/1608/)
 * [Modern Python performance considerations LWN.net](https://lwn.net/Articles/893686/)
 * [3 PROGRAMMING LANGUAGES TO REPLACE SHELL SCRIPTING](http://www.tactoth.com/3-programming-languages-to-replace-shell-scripting/)
@@ -593,6 +595,8 @@ Python
 
 # Android
 * [Python for Android Tutorial #1 - Using the Accelerometer](http://blog.rhesoft.com/2014/07/17/python-for-android-tutorial-1-using-the-accelerometer/)
+* [Supporting Android and iOS in your Python package - Malcolm Smith - YouTube](https://www.youtube.com/watch?v=pZ64kXOnID4)
+  * EuroPython 2026. Android·iOS가 CPython 공식 지원 플랫폼이 된 이후 패키지 메인테이너가 할 일—순수 Python 패키지는 대부분 그대로 동작하지만 C·Cython·Rust 등 네이티브 컴파일 언어를 쓰면 모바일 대응 작업 필요. 인기 PyPI 패키지의 모바일 지원 현황은 beeware.org에서 확인
 * Kivy
   * [kivy.org/planet](https://kivy.org/planet/)
   * [Python on Android](http://kivy.org/planet/2015/04/python-on%C2%A0android/)
@@ -2104,6 +2108,8 @@ Python
 * [Stop firefighting: practical observability for Python APIs, workers & jobs - Daria Korsakova - YouTube](https://www.youtube.com/watch?v=X7jbc8EVs-w)
   * EuroPython 2026. 서비스가 재시작 후 ready가 되지 않거나 백그라운드 워커가 조용히 태스크 소비를 멈추는 등 "괜찮아 보이던" 프로덕션이 불타는 이유는 대개 신호가 없기 때문. Python API·워커·잡에 실용적 옵저버빌리티를 붙이는 방법
 * [From Algorithms to Agendas: A Beginner's Guide to Integer Programming — Florian Wilhelm - YouTube](https://www.youtube.com/watch?v=Fe3MerZSbBE)
+* [Navigating waters of background jobs and queues in Python as of 2026 - Sebastian Buczyński - YouTube](https://www.youtube.com/watch?v=xWdTpXjeYzs)
+  * EuroPython 2026. Kafka vs RabbitMQ, Celery는 2026년에도 건재한가, Temporal·FastStream으로 갈아탈 것인가, 웹 프레임워크 내장 백그라운드 태스크면 충분한가—현대 Python 큐·작업 분산 생태계를 도구별 강점과 부하 상황 성능으로 종합 비교
 
 ## Conference Pycon
 * [PyCon Korea - YouTube](https://www.youtube.com/channel/UC26x6D5xpKx6io4ShfXa_Ow)
@@ -3728,6 +3734,8 @@ Python
 * [Must-Know Python Libraries - DZone Web Dev](https://dzone.com/articles/must-know-python-libraries) PySnooper Faker Pickle
 * [15 Python Libraries You Should Know About in 2023 - YouTube](https://www.youtube.com/watch?v=o06MyVhYte4)
 * [15 POWERFUL Python Libraries You Should Be Using - YouTube](https://www.youtube.com/watch?v=OiLgG4CabPo)
+* [15 Python Libraries That Deserve More Attention - YouTube](https://www.youtube.com/watch?v=ssLO99uwPWI)
+  * ArjanCodes. 설정·직렬화·의존성 주입·상태 머신·스케줄링·데이터 분석·테스트·UI 등 저평가된 15개 라이브러리—Pydantic Settings, msgspec, Dacite, AutoRegistry, python-statemachine, Dishka, DuckDB, Schedium, Whenever(DST 문제 해결 datetime 대체), Pint, GeoPy, NiceGUI, Faker, Zensical, Complexipy
 * [Top Python libraries of 2025 | Tryolabs](https://tryolabs.com/blog/top-python-libraries-2025)
   * [2025년 파이썬에서 주목받은 라이브러리들 | GeekNews](https://news.hada.io/topic?id=25458)
   * ty — Rust로 작성된 초고속 Python 타입 체커
