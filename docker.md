@@ -2370,6 +2370,8 @@ Docker
       * 파드 롤아웃 시 간헐적 503 트러블슈팅. 종료된 파드의 IP가 새 파드에 재할당될 때 waypoint Envoy가 stale connection을 재사용하는 것이 원인
     * [Istio 3-2편: Partially Enrolled Pod와 Untaint Controller | 채널톡 테크 블로그](https://tech.channel.io/kr/articles/ambient-mode-troubleshooting-2-1f761f31)
       * 파드가 Running인데 istio-cni가 준비되지 않은 partially enrolled 상태 문제. startup taint + untaint-controller로 istio-cni 준비 전 스케줄링 차단
+  * [Istio의 재시도 정책과 관련 메트릭 살펴보기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1810)
+    * Istio `defaultHttpRetryPolicy`(connect-failure·refused-stream·unavailable 등 조건에서 기본 2회 재시도, Virtual Service로 호스트별 재정의)를 데모 환경에서 실험—503 오류 40% 상황에서 재시도로 최종 오류율 10% 이하로 감소. `upstream_rq_retry`·`upstream_rq_retry_success` 등 Envoy 메트릭으로 재시도 현황 추적
 * [k0s - Zero Friction Kubernetes](https://github.com/k0sproject/k0s)
   * [Small Kubernetes for your local experiments: k0s, MicroK8s, kind, k3s, and Minikube – Flant blog](https://blog.flant.com/small-local-kubernetes-comparison/)
 * [k3d](https://k3d.io/)
