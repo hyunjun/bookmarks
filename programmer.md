@@ -418,6 +418,8 @@ Programmer
   * [Professional Skills for Software Engineers • Charles Humble & Trisha Gee | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5606112/5274086)
 * [The Best Programmer I Know • Daniel Terhorst-North • GOTO 2024 - YouTube](https://www.youtube.com/watch?v=ybA0zxwgpxw)
   * [The Best Programmer I Know • Daniel Terhorst-North • GOTO 2024 | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5612473/5283624)
+* [What World Class Software Engineers Do That You Don't - YouTube](https://www.youtube.com/watch?v=OkXuLNAjrSg)
+  * Beyond Coding 250회 특집. 훌륭한 엔지니어는 최신 도구나 깨끗한 코드를 좇는 사람이 아니라 빨리 배우고, 단순하게 유지하고, 비즈니스를 이해하는 사람. 배움은 모든 도구·언어·플랫폼보다 오래 남는 유일한 스킬, 최고의 아키텍트는 지도 제작자보다 정찰병처럼 행동, "simple is complicated enough"가 규모에서 clean code 도그마를 이김, 10년 후를 예측하기보다 진화하는 시스템을 설계, AI 에이전트 시대에 주니어가 실제로 해야 할 일
 * [Being good isn’t enough | people, ideas, machines](https://joshs.bearblog.dev/being-good-isnt-enough/)
   * [잘하는 것만으로는 충분하지 않음 | GeekNews](https://news.hada.io/topic?id=22998)
 * [Ex-Stripe CTO on What Grew His Career, Hiring Without Leetcode, Coding as a Leader (Career Story) - YouTube](https://www.youtube.com/watch?v=hl6Ryc_NUm8)
