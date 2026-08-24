@@ -343,6 +343,9 @@ Artificial Intelligence
   * [AI 시대의 개발자는 검증을 설계한다 (3) 기능을 검증하는 test | 송범근](https://kr.linkedin.com/pulse/ai-%EC%8B%9C%EB%8C%80%EC%9D%98-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%8A%94-%EA%B2%80%EC%A6%9D%EC%9D%84-%EC%84%A4%EA%B3%84%ED%95%9C%EB%8B%A4-3-%EA%B8%B0%EB%8A%A5%EC%9D%84-%EA%B2%80%EC%A6%9D%ED%95%98%EB%8A%94-test-bumgeun-song-zdkkc)
   * [AI 시대의 개발자는 검증을 설계한다 (4) 리팩토링을 견디는 test | 송범근](https://www.linkedin.com/pulse/ai-%EC%8B%9C%EB%8C%80%EC%9D%98-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%8A%94-%EA%B2%80%EC%A6%9D%EC%9D%84-%EC%84%A4%EA%B3%84%ED%95%9C%EB%8B%A4-4-%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81%EC%9D%84-%EA%B2%AC%EB%94%94%EB%8A%94-test-bumgeun-song-nguwc)
   * AI가 코드를 쓰는 시대에 개발자의 핵심 역량은 검증 설계라는 4부작. lint(구조 검증)·test(기능 검증)·리팩토링을 견디는 test 순으로 검증 체계를 다룸
+* [AI 시대 테스트를 어떻게 설계해야 하는가? | Mimul](https://www.mimul.com/blog/ai-test-rule/)
+  * [AI 시대 테스트를 어떻게 설계해야 하는가에 대한 읽을거리를 투척합니다 | mimul](https://www.linkedin.com/posts/mimul_ai-%EC%8B%9C%EB%8C%80-%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%A5%BC-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%84%A4%EA%B3%84%ED%95%B4%EC%95%BC-%ED%95%98%EB%8A%94%EA%B0%80%EC%97%90-%EB%8C%80%ED%95%9C-%EC%9D%BD%EC%9D%84%EA%B1%B0%EB%A6%AC%EB%A5%BC-%ED%88%AC%EC%B2%99%ED%95%A9%EB%8B%88%EB%8B%A4-share-7494007559901577217-gxJN)
+  * Classicist TDD 기반 언어 불문 테스트 원칙 20가지 + 철학 6가지. 구현이 아닌 행위를 테스트(순수 리팩토링은 테스트를 깨지 않아야), Test Oracle을 먼저 정의하고 AI에게 "코드가 틀렸음을 증명"시키는 falsification, 경계에서만 mock(Real→Fake→Stub→Mock), 커버리지는 점수가 아닌 빈틈 탐지 레이더. AI 특화(17-20): AI 생성 테스트 맹신 금지, Reward Hacking(조건 약화) 경계, 구현 에이전트와 검증 에이전트 분리, Mockist 레거시는 점진 이전
 * [코드 리뷰 없앤 지 3개월, 사이트가 터졌습니다 (한영자막) - YouTube](https://www.youtube.com/watch?v=-c43cv80FiA)
   * Tech Bridge. HumanLayer 공동창업자 Dex Horthy의 '라이트 오프'(코드 리뷰 없이 완전 자동화) 실험 실패담. 코딩 모델이 테스트 통과에만 최적화돼 유지보수성을 못 배우는 구조적 문제, 하네스만으로는 부족하다는 주장, 다시 코드를 읽으며 빠르게 개발하는 법(제품 리뷰·아키텍처·버티컬 슬라이스)
 * [Move code review before the code | The New Stack](https://thenewstack.io/move-code-review-upstream/)
@@ -686,6 +689,9 @@ Artificial Intelligence
 * [The Architecture of Multi-Agent Systems | Code Pointer](https://codepointer.dev/p/the-architecture-of-multi-agent-systems)
   * 멀티 에이전트 시스템을 제어·통신·상태·검증 네 가지 조정 결정으로 정리. 에이전트 설정의 7차원(에이전트 루프·모델 설정·작업·실행 환경·컨텍스트·메모리·도구)이 각 에이전트의 역할과 기능을 결정
   * 제어 패턴으로 에이전트 도구·핸드오프·감독자·선언적 그래프를 비교하고, 상태 저장소와 독립적 검증 메커니즘으로 신뢰성 확보
+* [Graph Engineering with Claude: 14-Step roadmap from 0 to graph architect (Full Course) | Codez](https://x.com/0xCodez/status/2079165300625330317)
+  * [Graph Engineering으로 설계하는 멀티 에이전트 워크플로우: 선형 구조에서 동적 그래프까지 | digitalbourgeois](https://digitalbourgeois.tistory.com/3553)
+  * 멀티 에이전트 워크플로우를 A→B→C 선형 체인이 아니라 그래프로 설계하는 방법(Codez @0xCodez의 14단계 로드맵 아티클). 노드(명확한 입출력 태스크)·엣지(한 태스크의 출력을 실제로 소비할 때만 존재), 불필요한 의존성 제거가 핵심. Contract/Schema(JSON Schema로 구조화·검증된 반환), fan-out/fan-in/다이아몬드 구조, 단순 데이터 변환은 에이전트 대신 코드(flatMap)로 처리해 토큰 절약, 조건부 라우팅·Verifier(적대적·다관점·판정단)·수렴하는 사이클(loop-until-dry), 모델 티어링, pipeline()>parallel() 배리어 선호. Claude Code가 런타임에 오케스트레이션 스크립트를 스스로 작성
 * [Introducing Agent HQ: Any agent, any way you work - The GitHub Blog](https://github.blog/news-insights/company-news/welcome-home-agents/)
   * [Introducing Agent HQ: Any agent, any way you work | 박상길](https://www.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_introducing-agent-hq-any-agent-any-way-activity-7389411287853821952-3kK_)
 * [Multi Agent 시스템 Scaling Out Architecture(Hybrid Cloud) | Hyunjun Jeon](https://www.linkedin.com/posts/rascal-hyunjun_multi-agent-%EC%8B%9C%EC%8A%A4%ED%85%9C-scaling-out-architecture-ugcPost-7389311558046138368-Wcwh)
@@ -827,6 +833,11 @@ Artificial Intelligence
 * [A practical guide to building agents | OpenAI](https://openai.com/business/guides-and-resources/a-practical-guide-to-building-ai-agents/)
   * [A practical guide to building agents | 박상길](https://www.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_a-practical-guide-to-building-agents-share-7488787348176969728-lBHj/)
   * OpenAI의 AI 에이전트 구축 실무 가이드. 유스케이스 판별, 모델 선택, 도구 설계, 가드레일, 오케스트레이션(단일·멀티 에이전트) 패턴을 단계별로 정리
+* [Build production agents with computer use, the Skills API, and the Files API | Claude](https://claude.com/blog/computer-use-skills-api-files-api)
+  * [Build production agents with computer use, the Skills API, and the Files API | 박상길](https://www.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_build-production-agents-with-computer-use-share-7496843578535473152-fLma)
+  * Anthropic이 Computer Use·Skills API·Files API를 정식 출시(2026.8.20). Computer Use는 1회 호출당 복수 동작 처리로 속도·비용 절감, HIPAA 워크로드 지원. 새 Browser Use 툴은 스크린샷+페이지 구조를 함께 읽어 웹 요소를 픽셀 좌표보다 정확히 조작. Skills API로 커스텀 스킬(지시·스크립트·템플릿)을 샌드박스에 업로드·버전 관리, Files API는 자동 만료·5배 rate limit·조직당 1TB 저장으로 문서를 ID로 참조. Microsoft Foundry 지원, Vertex AI 예정
+* [한영자막 기업 테크 스택이 AI 에이전트를 감당하지 못하는 진짜 이유 - YouTube](https://www.youtube.com/watch?v=M5oLcLGq0hU)
+  * Tech Bridge. 엔터프라이즈에서 데모·POC 성공 후 프로덕션 상용화 단계에서 마주치는 보안·컴플라이언스·감사 추적 난관과 이를 푸는 아키텍처 원칙. 감사 추적(Audit Trail)은 개발자 로그와 다른 법적 증거 연쇄, 불변 추가 전용 이벤트 로그로 시스템 상태 완벽 재현, 오케스트레이션+격리된 오브젝트 스토리지로 제로 트러스트, 인간과 LLM을 동일한 에이전트로 정의해 동적 에스컬레이션·컨텍스트 공유, 이 세 기반 위에서 프라이버시 보존 평가(Evals) 도출
 * [선웅규 - 포켓 커맨드 시스템: 폰에서 텔레그램으로 다수의 Claude Code를 백그라운드 실행 | Facebook](https://www.facebook.com/tlc500/posts/pfbid0uoprCLVwHLDP2opeJgDDniMYSkLk1JJt9Dc8C5gnznLgeAtkUHb7n23bM1bfJyMCl)
   * 텔레그램으로 폰에서 여러 Claude Code 인스턴스를 invisible/daemon/headless 백그라운드 모드로 구동. 워커-감사자 페어링 + 소대(platoon)식 팀 구조로 수십~수천 AI 동시 배치
 * [디스코드 하네스 멀티 에이전트 — 클로드·코덱스·제미나이를 API 없이 구독만으로 - YouTube](https://www.youtube.com/watch?v=XOYFwXejbvc)
@@ -1321,6 +1332,9 @@ Artificial Intelligence
   * [옴에이전트](https://om-agent.cn/)
 * [OmniScientist: AI Scientist Ecosystem](https://github.com/tsinghua-fib-lab/OmniScientist)
   * 청화대 FIB Lab의 AI 과학자 생태계 프로젝트. 192 stars
+* [oc (only-cli): Turn any website into a compact CLI tailored for AI agents. Browse the web in hundreds of tokens, not tens of thousands](https://github.com/only-cli/oc)
+  * [only-cli — Browse the web in tokens, not pages](https://only-cli.com/)
+  * 웹페이지를 raw HTML 대신 번호가 매겨진 컴팩트 뷰로 렌더링해 AI 에이전트가 토큰을 아끼며 브라우징하게 하는 CLI. `oc open <url>`이 수만 토큰짜리 페이지를 수백 토큰으로 압축(기본 500토큰 예산, raw 대비 ~45×), open·do·find·read·next·raw 명령으로 URL 직접 처리 없이 탐색. HN·Reddit·GitHub·X·LinkedIn·DuckDuckGo·Stack Overflow 등 사이트 단축키, JSON 엔드포인트도 페이지로 취급, 세션별 렌더 캐시(~/.only-cli), 프록시 지원. Claude Code·Codex·Cursor 등 스킬/플러그인으로 설치. Node 20+, `npm i -g @only-cli/oc`(또는 npx). JS 렌더링·로그인·강한 봇차단 페이지는 아직 미지원, 쓰기(fill/submit)는 예정. MIT
 * [OpenAgent: The Web3 AI Agent Solution](https://github.com/webisopen/OpenAgent)
   * A new framework for deploying verifiable AI agents on the open network, built for DeFAI and DeSci innovation
   * It brings compute verification for high stakes operations and lightning fast agent deployment
@@ -1340,6 +1354,9 @@ Artificial Intelligence
 * [opencode_ml_practice: OpenCode 기반 반도체 failure 예측 + 자율 ML 연구 루프](https://github.com/Taekyoon/opencode_ml_practice)
   * [GitHub Taekyoon/opencode_ml_practice | Taekyoon Choi](https://www.linkedin.com/posts/taekyoon-choi_github-taekyoonopencodemlpractice-opencode-share-7492119166762541056-k9xI/)
   * 대화형 튜토리얼 19레슨, Airflow 자동 실험, LLM 위키 지식 베이스 포함. Python
+* [opencodex: Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK, and Claude Code](https://github.com/lidge-jun/opencodex)
+  * [비전공자 문과생이 만든 오픈소스가 GitHub 1만 스타를 넘었습니다 | Byungjun Kim](https://www.linkedin.com/posts/byungjun-kim-19a87237b_%EB%B9%84%EC%A0%84%EA%B3%B5%EC%9E%90-%EB%AC%B8%EA%B3%BC%EC%83%9D%EC%9D%B4-%EB%A7%8C%EB%93%A0-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%EA%B0%80-github-1%EB%A7%8C-%EC%8A%A4%ED%83%80%EB%A5%BC-%EB%84%98%EC%97%88%EC%8A%B5%EB%8B%88%EB%8B%A4-share-7495288830510440448-7foa)
+  * 공식 Codex CLI/App/SDK와 Claude Code 안에서 Claude·Gemini·Grok·Kimi·DeepSeek·Ollama 로컬 모델 등 어떤 LLM이든 꽂아 쓰게 해 모델 락인 해소하는 범용 프로바이더 프록시. 비전공 문과생 개발자가 만들어 GitHub 1.2만 스타 돌파. TypeScript, MIT
 * [OpenConnector: Open-source auth gateway connecting 1000+ SaaS providers to AI agents](https://github.com/oomol-lab/open-connector)
   * [OOMOL — connect your product or AI agents to apps through one managed connection layer](https://oomol.com/)
   * [OpenConnector로 구축하는 AI 에이전트 커넥터 게이트웨이: 1,000개 이상의 서비스와 10,000개 이상의 액션을 하나의 런타임으로 연결 | digitalbourgeois](https://digitalbourgeois.tistory.com/3381)
@@ -1578,6 +1595,9 @@ Artificial Intelligence
 * [The Short Leash AI Coding Method For Beating Fable | Greg Slepak](https://blog.okturtles.org/2026/07/short-leash-ai-method/)
   * [Fable을 이기는 짧은 목줄 AI 코딩 방법 | GeekNews](https://news.hada.io/topic?id=31113)
   * 손 놓는 "vibe engineering"이 아니라 사람이 능동 감독해야 프론티어 모델로도 고품질 소프트웨어가 나온다는 주장. "짧은 목줄" 방법—위임 전 충분히 계획, 권한 프롬프트에서 모든 diff 리뷰·거부, 자주 개입해 탈선 방지, 서브태스크마다 커밋, AI(린터)+사람 종합 리뷰. AI 사용 PR은 사용 모델 공개와 제출자의 철저한 자기 리뷰(코드 이해 입증) 필수
+* [ELI5 skill: /eli5로 코드를 고치기 전에 HTML 그림으로 이해하기 | Thariq (trq212) on X](https://x.com/trq212/status/2090884854590382515)
+  * [앤트로픽의 ELI5 스킬: 코드를 고치기 전에 그림으로 이해하기 | desty](https://desty.github.io/blog/60-eli5-visual-explainer/)
+  * Anthropic 사내에서 많이 쓴다는 Thariq의 기법. `/eli5 <설명 대상>` 슬래시 명령에 "이 주제를 전혀 모르는 사람에게 큰 그림과 적은 글로, HTML 아티팩트로 설명하라"는 한 줄 지시를 묶은 것. 에이전트가 관련 코드를 읽고 박스·화살표·SVG로 시스템 흐름을 담은 단일 HTML 문서를 생성. 요청→코드 조사→HTML 구조 설명→사람 확인·수정→구현 순으로 구현 전에 시각적 리뷰 단계를 끼워, 사람과 에이전트가 같은 멘탈 모델을 공유하는지 확인(빠진 박스·틀린 화살표를 쉽게 발견). 단 "그림이 정확성을 보장하진 않음"—실제 읽은 파일 경로 인용·추측/사실 구분·브라우저 확인 등 검증 조건 추가 권장
 * [awesome-agentic-engineering: Curated resources for adopting agentic engineering — AI agents that plan, write, test, and develop software autonomously](https://github.com/jordimas/awesome-agentic-engineering)
   * 팀 도입 가이드(Claude Code/Codex 문서·베스트 프랙티스), 코딩 에이전트 도구(Aider/Cline/OpenHands/Plandex·Cursor/Claude Code), 멀티에이전트 프레임워크(LangChain/LangGraph/AutoGen/CrewAI), 브라우저 자동화, 표준·프로토콜(agents.md·MCP), 사례·논문 큐레이션. 이론보다 팀 적용 실용 자료 중심
 
@@ -7140,6 +7160,9 @@ Artificial Intelligence
 * [Live Avatar Project Page](https://liveavatar.github.io/)
   * [LiveAvatar: Implementation of "Live Avatar: Streaming Real-time Audio-Driven Avatar Generation with Infinite Length"](https://github.com/Alibaba-Quark/LiveAvatar)
   * [🤖 Live Avatar: 무한 길이 실시간 오디오 기반 아바타 생성 혁신](https://fornewchallenge.tistory.com/entry/%F0%9F%A4%96-Live-Avatar-%EB%AC%B4%ED%95%9C-%EA%B8%B8%EC%9D%B4-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EC%98%A4%EB%94%94%EC%98%A4-%EA%B8%B0%EB%B0%98-%EC%95%84%EB%B0%94%ED%83%80-%EC%83%9D%EC%84%B1-%ED%98%81%EC%8B%A0)
+* [MAGI-2 Preview: Scaling Video Generation Models Efficiently | Sand.ai](https://sand.ai/blog/magi-2-preview)
+  * [Magi-2 Preview, 114B 규모 영상 생성 모델을 효율적으로 확장하는 기술 | digitalbourgeois](https://digitalbourgeois.tistory.com/3546)
+  * Sand.ai의 통합 오디오·비디오 생성 모델(총 ~114B 파라미터, 토큰당 활성 ~6B). 텍스트·비디오·오디오를 하나의 토큰 시퀀스로 Self-Attention만으로 처리하는 Single-Stream 구조, 토큰을 12개 latent head(각 256차원)로 쪼개 head당 256 expert 중 Top-6만 활성하는 초미세 MoE(MagiMoE). Hierarchical Head Parallel(활성 교환은 InfiniBand·expert 상태는 NVLink)·MagiMuon 옵티마이저 등 학습 시스템 공동 설계, 필터링 중심 대신 고처리량 데이터 생산+정밀 멀티모달 주석("데이터 필터링 함정" 회피). 크로스샷 정체성 일관성·자막 동반 대사/노래가 전용 모듈 없이 창발. "더 큰 모델과 더 효율적인 모델은 분리해서 볼 수 없다"—아키텍처·데이터·시스템이 함께 스케일해야 한다는 논지. physical AGI를 향한 중간 검증
 * [OpusClip - AI-powered Video Repurposing](https://www.opus.pro/)
   * [7개월 만에 연매출 130억 찍은, 숏폼 만들어 주는 AI 스타트업](https://maily.so/founderstory/posts/0a0968c1)
 * [Palmier — macOS video editor built for AI](https://www.palmier.io/)
