@@ -754,6 +754,8 @@ Artificial Intelligence
   * PyData London 2026 키노트. LLM과 AI 에이전트의 작동 원리를 명료하게 풀어내는 입문/개념 정리 발표
 * [에이전트를 오래 + 잘 돌리기 위한 컨텍스트 관리 미세팁 4개 (+ 참고자료 12개)](https://www.stdy.blog/small-tips-for-context-mgmt/)
   * [배휘동 - 에이전트를 오래 + 잘 돌리기 위한 컨텍스트 관리 미세팁 4개 (+ 참고자료 12개) (블로그에서... | Facebook](https://www.facebook.com/hwidong.bae/posts/pfbid0BFvR7UAHzqYtvTSTEzH2itTE91PLRet3QoHMbvLwsDnMm6WWzCk4ZDTnpJm9sZhXl)
+* [Codex 압축 구조를 활용해 Luna를 일잘러로 만들기](https://www.stdy.blog/steering-luna-for-better-worker)
+  * Codex가 맥락 압축 시 최근 사용자 메시지를 원문 보존(최대 20K, Remote Compaction V2는 최대 64K 토큰)하는 구조를 활용. 저비용 모델 Luna(GPT-5.6)로 장기 작업 시 원칙을 어기고 조기 완료하는 문제를, AGENTS.md 대신 goal 활성화 후 스티어링 메시지로 핵심 원칙("실패를 냄새로 보고 구조적으로 해결"·"병렬 가능한 건 항상 병렬로")을 반복 각인해 해결하는 실험·팁
 * [Long-running Agents - by Addy Osmani](https://addyo.substack.com/p/long-running-agents)
   * [장시간 실행 에이전트의 구조와 설계: 3축 아키텍처와 세션 관리 :: 지식의 섬](https://digitalbourgeois.tistory.com/3056)
   * 단일 세션 챗봇과 다른 장시간(시간/일/주) 자율 실행 에이전트 아키텍처. 3가지 핵심 컴포넌트: 두뇌(모델 루프)·손(실행 샌드박스)·세션(내구성 이벤트 로그) 분리. Google Agent Platform·Anthropic Managed Agents·Cursor 공통 패턴 — 영속 상태 저장, 생성/평가 분리, 세션 간 구조화된 핸드오프로 컨텍스트 손실 방지
@@ -3687,6 +3689,9 @@ Artificial Intelligence
 * [Kimi K3 is competitive with Fable; Kimi K3 + Fable is SoTA | Fireworks AI](https://fireworks.ai/blog/kimik3-fable)
   * [Kimi K3와 Fable 비교 분석: 단일 AI 모델보다 모델 라우팅이 더 중요한 이유 | digitalbourgeois](https://digitalbourgeois.tistory.com/3407)
   * Kimi K3가 Claude Fable와 대등하고, 둘을 라우팅으로 결합하면 SoTA에 도달한다는 Fireworks AI 분석. 단일 최강 모델보다 모델 라우팅·조합이 더 중요하다는 관점
+* [OpenAI가 투자한 법률 AI, 속은 중국 모델이에요 | inlevel9](https://letter.inlevel9.com/issues/harvey-picks-chinese-model)
+  * [오광섭 - OpenAI가 투자한 법률 AI, 속은 중국 모델이에요 | LinkedIn](https://kr.linkedin.com/posts/oswarld_openai가-투자한-법률-ai-속은-중국-모델이에요-activity-7496955824662044673-CA9B)
+  * OpenAI가 투자한 법률 AI 유니콘 Harvey의 자체 모델 Tenet이 실은 중국 Moonshot의 오픈웨이트 Kimi K3(2.8T) 위에 구축됐다는 분석. 핵심 논지는 "모델이 아니라 1,750개 환경 + 75,000개 채점 기준(강화학습 파이프라인·도메인 데이터)이 진짜 자본"—어떤 베이스 모델을 쓰느냐보다 그 위에 쌓은 평가·학습 인프라가 해자라는 관점
 * [One prompt, 11 models, very different results | Netlify](https://www.netlify.com/blog/one-prompt-11-models-very-different-results/)
   * [AI 모델 고르기: 같은 프롬프트, 11개 모델, 매우 다른 결과 | GeekNews](https://news.hada.io/topic?id=32505)
   * 같은 커피숍 웹사이트 빌드 프롬프트로 11개 모델(Kimi K3, GLM 5.2, DeepSeek V4 등) 테스트—크레딧 사용량과 품질 편차가 크고, 최고가 모델(Claude Opus 5)이 항상 최고 품질은 아니며 저가 모델도 경쟁력 있음
@@ -3923,6 +3928,10 @@ Artificial Intelligence
   * 컨텍스트 윈도우 압축 시 안전 지시 누락으로 이메일 200통 삭제. 원격 킬 스위치 부재, 과도한 권한 설정이 원인. 입력 신뢰 수준 분류, 인간 승인 필수화 제안
 * [ClawJacked Flaw Lets Malicious Sites Hijack Local OpenClaw AI Agents via WebSocket](https://thehackernews.com/2026/02/clawjacked-flaw-lets-malicious-sites.html)
 * [Large reasoning models are autonomous jailbreak agents](https://www.nature.com/articles/s41467-026-69010-1)
+* [Vibe Quant Insight 고스트 인 더 쉘 - 인간의 얼굴을 하지 않은 전쟁 | Dennis Kim](https://www.linkedin.com/pulse/vibe-quant-insight-고스트-인-더-쉘-인간의-얼굴을-하지-않은-전쟁-dennis-kim-p3vhc)
+  * 攻殻機動隊를 렌즈로 AI 통제 실패를 다룬 칼럼. 보상 해킹(reward hacking)과 스키밍(scheming)의 차이, deliberative alignment의 한계를 짚고, 2026년 7월 일련의 AI 에이전트 사건들이 모두 Irregular 스타트업의 네트워크 오설정이라는 한 지점으로 수렴했음을 분석
+* [🌁FOD#162: OpenAI의 에이전트들, 정말 '재귀적 자기개선(RSI)'을 시작한 걸까요? | Turing Post Korea](https://turingpost.co.kr/p/fod-162-openai-rsi)
+  * 2026년 7월 ExploitGym 사건 분석—에이전트들이 JFrog Artifactory 제로데이를 익스플로잇하고 공유 스토리지를 블랙보드(blackboard) 아키텍처처럼 활용해 협업. RSI가 시작됐다는 우려에 대해 "아직은 아니다"로 결론(축적은 가중치가 아니라 외부 저장소에서 일어났음)
 * [How We Hacked McKinsey's AI Platform | CodeWall](https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform)
   * [맥킨지의 AI 플랫폼 해킹 사건 | GeekNews](https://news.hada.io/topic?id=27431)
   * 악의적 웹사이트가 localhost WebSocket으로 OpenClaw 에이전트 제어권 탈취. 게이트웨이 비밀번호 무차별 대입 후 신뢰 장치 등록. 2026.2.25 버전에서 수정
@@ -5879,6 +5888,8 @@ Artificial Intelligence
     * [superpowers: Claude Code superpowers: core skills library](https://github.com/abudhahir/superpowers)
   * [skills: Claude Code skills based on The Minimalist Entrepreneur by Sahil Lavingia](https://github.com/slavingia/skills)
   * [skillshare: Sync skills across all AI CLI tools with one command and simplify team sharing. Supporting Claude Code, OpenClaw, OpenCode & more](https://github.com/runkids/skillshare)
+  * [slop-free-korean: AI가 생성한 한국어 산문의 반복적 클리셰·문장 패턴·상투어를 걷어내는 한국어 글쓰기 스타일 가이드](https://github.com/hotuna/slop-free-korean)
+    * June Park의 한국어판 anti-slop 가이드(코드 없이 모델에 `korean-style-guide.md`를 먹여 사용). 번역투·이중 피동·강제 반전("X가 아니라 Y")·미번역 영어 자르곤·과잉 완곡·드라마용 서스펜스 프레이밍 등 한국어 AI-tell을 번호 규칙으로 탐지·교정. before/after 문단별 위반 분석 예시 포함. stop-slop의 한국어 버전 격. MIT
   * [socrates-protocol: Coding skill that clarifies ambiguity, risk, and tradeoffs before implementation](https://github.com/jiyeongjun/socrates-protocol)
     * 명확한 요청은 바로 실행, 모호하거나 고위험(API/스키마/인증/삭제 등) 변경 시에만 개입. 구현 트레이드오프를 코딩 전에 확인
   * [srt-whiteboard-animation: SRT 자막을 따뜻한 미황색 종이 배경의 흐르는 필적 화이트보드 손그림 애니메이션으로 만드는 skill](https://github.com/geeklee/srt-whiteboard-animation)
@@ -6852,6 +6863,9 @@ Artificial Intelligence
 * [Understanding Spec-Driven-Development: Kiro, spec-kit, and Tessl](https://martinfowler.com/articles/exploring-gen-ai/sdd-3-tools.html)
   * [Understanding Spec-Driven-Development: Kiro, spec-kit, and Tessl | 박성철](https://www.linkedin.com/posts/fupfin_understanding-spec-driven-development-kiro-activity-7385279368434159616-E8Wp)
   * [스펙 주도 개발(SDD) 심층 탐구하기 | 요즘IT](https://yozm.wishket.com/magazine/detail/3477/)
+* [Kiro CLI 첫 만남부터 제대로 파헤치기 (발표 슬라이드) | 방신철](https://kiro-presentation.shinchul.people.aws.dev/)
+  * [방신철 - Kiro AWS AIAgent 하네스 엔지니어링 세미나 후기 | LinkedIn](https://kr.linkedin.com/posts/shin-chul-bang-536050177_kiro-aws-aiagent-activity-7497500632493211648-Tp6C)
+  * AWS 방신철 SA의 Kiro CLI 30분 발표. Kiro는 IDE·CLI·Web·iOS·Crew가 하나의 에이전트 엔진·설정을 공유하는 에이전틱 개발 환경—Vibe 코딩 속도로 시작해 Spec 기반 구조로 프로덕션까지. Specs(요구사항·설계·작업 변환)·Steering(프로젝트 규칙 영구 컨텍스트)·Agent Skills·MCP·Custom Agents(deniedPaths 권한 차단)·Hooks/체크포인트/Headless. Claude·GPT·오픈웨이트 `/model` 전환, 크레딧 가중치 투명 표시(Luna 0.10x~Sol 2.40x). LinkedIn 후기: 같은 모델도 태스크당 비용이 더 저렴(agent-cost-bench), Ouroboros가 Kiro headless 모드를 런타임으로 활용, 8/19 '하네스 엔지니어링 with Kiro' 세미나(26개사 90여 명)
 * [Spec-Driven Dev Is Back. But Not How You Think • Daniel Terhorst-North & Gojko Adzic • GOTO 2026 - YouTube](https://youtube.com/watch?v=6mLYZF97oaU)
   * BDD 창시자 Daniel Terhorst-North와 Gojko Adzic이 대담. 명세 기반 개발의 재조명, 새로운 관점에서 살펴보는 현대적 SDD
 * [Learnings from a No-Code Library: Keeping the Spec Driven Development Triangle in Sync | dbreunig](https://www.dbreunig.com/2026/03/04/the-spec-driven-development-triangle.html)
