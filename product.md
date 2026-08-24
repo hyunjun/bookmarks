@@ -58,6 +58,8 @@ Product
 * [공유기계의 애플? Unifi 써보고 감탄했습니다 - YouTube](https://www.youtube.com/watch?v=nLD50V4P2IM)
 * [스마트폰 중독? 부모 필수템 등장 MSI Roamii BE Lite Mesh 시스템 이걸로 해결! - YouTube](https://www.youtube.com/watch?v=43DOaa8SqR4)
 * [여행용 전기면도기 강추 Laifen P3 Pro 언박싱 리뷰 - YouTube](https://www.youtube.com/watch?v=JmB5LD_38K4)
+* [10만 원 넘는 거 살 필요 없습니다. 가성비 끝판왕 오리코 도킹스테이션 - YouTube](https://www.youtube.com/watch?v=Bc7klOnlYkM)
+  * 얀니의 키보드. 노트북·맥북용 오리코 USB-C 도킹스테이션 리뷰. C타입·USB-A·SD카드·이어폰·HDMI 확장에 마그네틱(자석)으로 모니터암·스마트폰 뒷면 부착 가능. 2달 반 발열·연결 안정성 하드 테스트, 57% 특가 39,980원
 
 # 3D printer
 * [XYZ 프린팅, 0.025mm까지 프린팅 가능한 3D프린터 노벨 1.0 출시](http://www.earlyadopter.co.kr/14222)
@@ -235,6 +237,9 @@ Product
 * [ElimKeys Elytra UltraLight Wireless Split Keyboard](https://www.elimkeys.com/products/elytra)
   * [양쪽 다 합쳐도 420g 초경량 휴대용 완전 무선 스플릿 로우프로파일 기계식 키보드 ElimKeys Elytra - YouTube](https://www.youtube.com/watch?v=jMoRlS1ZBgo)
     * 북치 bookchi. 양쪽 합쳐 420g 초경량 휴대용 완전 무선 스플릿 로우프로파일 기계식 키보드 리뷰 (제품 협찬)
+* [Epomaker Split70](https://epomaker.com/products/epomaker-split70)
+  * [키보드가 반으로 쪼개지는 마법! 에포메이커 Split70 I 적응 기간 필수?! - YouTube](https://www.youtube.com/watch?v=hNGVzh9kXhg)
+    * YOZMTECH(요즘테크). 반으로 쪼개지는 인체공학 스플릿 기계식 키보드 에포메이커 Split70 리뷰. 손목·어깨 편안함과 적응 기간 필요성을 다룸 (제품 협찬)
 * [펀키스 공식 홈페이지](https://funkeys.co.kr/)
 * freewrite traveler [80만원짜리 키보드의 맛... | 디지털 타자기라고 들어 보셨나요? | 프리라이트 트래블러 freewrite traveler 리뷰 - YouTube](https://www.youtube.com/watch?v=MikFdx4qBR8)
 * [GEONWORKS](https://geon.works/)
