@@ -1026,6 +1026,8 @@ Interview
 * [프로필 하나로 이직 제안 받는 사람들의 비밀 (w. 최민희 링크드인 디렉터 2편) - YouTube](https://www.youtube.com/watch?v=Oiy9zUbfQBc)
   * [프로필 하나로 이직 제안 받는 사람들의 비밀 - LiveWiki 요약](https://livewiki.com/ko/content/profile-job-offers-secrets)
   * 리크루터의 시선을 끄는 LinkedIn 프로필 최적화 전략. 프로필 하나로 이직 제안을 받기 위한 구성 요소와 노하우
+* [4 LinkedIn Changes That Got Me 19 Recruiter Messages (No Applications) - YouTube](https://www.youtube.com/watch?v=Fk-1Kf1OtEM)
+  * LinkedIn Recruiter(리크루터가 쓰는 유료 검색 툴) 관점에서 본 프로필 최적화. 지원 대신 리크루터가 먼저 메시지하게 만드는 4가지 변경—리크루터가 검색창에 실제로 입력하는 직무 제목·하드스킬에 맞춰 프로필을 구성. 리크루터는 검색 상위 15명에게만 연락하므로 "탈락"이 아니라 "검색에서 발견되지 않는" 것이 진짜 문제라는 관점, Open to Work 설정 등 대부분이 잘못 쓰는 2가지 세팅
 * [Vol.4 이직을 가장 많이 후회하는 사람은, 이직한 사람이 아닙니다 | Kihung Thomas Kim](https://kr.linkedin.com/pulse/vol4-%EC%9D%B4%EC%A7%81%EC%9D%84-%EA%B0%80%EC%9E%A5-%EB%A7%8E%EC%9D%B4-%ED%9B%84%ED%9A%8C%ED%95%98%EB%8A%94-%EC%82%AC%EB%9E%8C%EC%9D%80-%EC%9D%B4%EC%A7%81%ED%95%9C-%EC%82%AC%EB%9E%8C%EC%9D%B4-%EC%95%84%EB%8B%99%EB%8B%88%EB%8B%A4-kihung-thomas-kim-m6cic)
   * 이직 기회를 놓친 사람이 이직한 사람보다 훨씬 크게 후회. "기회를 잡지 않은 것을 후회한 비율 57% vs 이직을 후회한 비율 25.6%"—현상 유지가 계산된 도약보다 더 큰 커리어 후회를 부른다는 분석
 * [job search tool for data scientists in NYC](https://jcp1016.shinyapps.io/indeedoor/)
