@@ -4446,6 +4446,7 @@ Programming
   * @mjd(mathstodon)의 관점. 코드 리뷰를 버그 탐지가 아니라 미래 유지보수자가 이해하기 어려운 코드를 찾는 과정으로 봄. 리뷰어가 이해 못 하면 미래 개발자도 못 함—명료성 자체가 수리 대상. "버그를 찾아라"보다 "이해해 보고 이해 안 되는 부분을 표시하라"가 더 실행 가능
 * [Reviewing code is a skill | Varun Gandhi](https://typesanitizer.com/blog/code-review.html)
   * [코드 리뷰도 배워야 하는 기술이다 | GeekNews](https://news.hada.io/topic?id=32417)
+  * [AI 시대에도 코드 리뷰를 배워야 하는 이유: LLM이 놓친 문제와 숙련된 리뷰어의 판단 | digitalbourgeois](https://digitalbourgeois.tistory.com/3547)
   * 코드 리뷰는 버그 탐지 도구가 아니라 교육·규범 유지·게이트키핑·사고 예방 네 역할을 수행하는 학습 가능한 기술. 최신 LLM이 놓친 실제 버그 3건(동시성 문제, 버전 호환성, 트랜잭션 실패 모드)으로 코드만으로는 알 수 없는 과거 경험과 맥락의 중요성을 보임
   * 역량 향상 방법으로 소크라테스식 대화, near-miss 공유, 형식 모델링, 숙련자 암묵지 추출을 제안. AI 시대에도 "한 단계 낮은 추상화 수준까지 이해하는 능력"은 투자할 가치가 있다고 결론
 * [Defending Open Source from "AI" Slop: A Maintainer's Practical Guide - Sviatoslav Sydorenko - YouTube](https://www.youtube.com/watch?v=lDxaIKAUBoc)
@@ -6020,6 +6021,8 @@ Programming
 * [데이터 분석가가 직접 정의, 배포, 관리하는 뱅크샐러드 데이터 파이프라인 | 뱅크샐러드](https://blog.banksalad.com/tech/datapipe/)
 * [분석 데이터를 프로덕션에서 쉽게 사용할 수 없을까? | 뱅크샐러드](https://blog.banksalad.com/tech/dataserving/)
 * [What is the role of Data Contracts in the Data Pipeline?](https://www.linkedin.com/posts/aurimas-griciunas_mlops-machinelearning-dataengineering-activity-7110890367461249024-Xaxp/)
+* [From Voice to Data: Designing Real-Time Pipelines on Top of Scraped Sources - YouTube](https://www.youtube.com/watch?v=MnPHMweTp-E)
+  * PyData & PyCon Yerevan 2026 발표. 스크래핑으로 수집한 소스(음성 포함)를 기반으로 실시간 데이터 파이프라인을 설계하는 방법
 
 # Date
 * [ISO 8601: the better date format | Blog | Kirby Kevinson](https://kirby.kevinson.org/blog/iso-8601-the-better-date-format/)
