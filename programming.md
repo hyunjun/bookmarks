@@ -6687,6 +6687,8 @@ Programming
   * 가상 메모리는 프로세스가 물리적 메모리 한계를 넘어 연속된 주소 공간을 가진 것처럼 느끼게 하는 추상화 기술
   * 운영체제는 페이지 테이블을 통해 가상 주소를 물리 주소로 매핑, 당장 필요 없는 데이터는 디스크로 옮기는 '요구 페이징'을 통해 효율성 극대화
   * 이를 통해 메모리 격리와 효율적인 자원 관리 가능
+* [Virtual Memory: 13 TLBs and Caches - YouTube](https://www.youtube.com/watch?v=3sX5obQCHNA)
+  * David Black-Schaffer의 컴퓨터 아키텍처 강의. 가상 메모리 위에서 캐시를 어떻게 인덱싱할지—물리 캐시 vs 가상 캐시, VIPT(Virtually Indexed Physically Tagged)로 TLB 조회와 캐시 인덱싱을 병렬화하는 기법을 설명
 * [Home — Memory Management Reference 4.0 documentation](https://www.memorymanagement.org/)
   * 메모리 관리에 관한 용어, 기초 개념, 논문, FAQ 등을 제공, 다양한 메모리 관리 기법과 관련 기술 소개
 
