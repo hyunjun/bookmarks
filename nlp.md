@@ -1243,6 +1243,9 @@ NLP
 * [needle: 26m function call model that runs on incredibly small devices](https://github.com/cactus-compute/needle)
   * [Needle 소비자 디바이스를 위한 초소형 AI 모델과 Simple Attention Network 구조 정리 | digitalbourgeois](https://digitalbourgeois.tistory.com/3122)
   * Gemini 3.1을 distill한 26M 파라미터 함수 호출 특화 모델. Simple Attention Network(SAN) 구조—d=512, 8H/4KV, BPE 8192, 12층 인코더(FFN 없음)+8층 디코더(masked self/cross-attn, RoPE, ZCRMSNorm). 200B 토큰 사전학습(16 TPU v6e ~27h)+2B 함수콜 후학습(~45min). Cactus 런타임 6000 toks/sec prefill·1200 decode. FunctionGemma-270m·Qwen-0.6B·Granite-350m·LFM2.5-350m 단일샷 함수콜 능가. 폰·시계·안경 같은 초소형 디바이스 타깃, 가중치+데이터셋 생성+학습 스크립트 MIT 공개, `needle playground` 로컬 UI(파인튜닝/평가/Gemini 합성 데이터)
+  * [Cactus Needle 2: Agentic LLM for tiny devices](https://cactuscompute.com/needle)
+    * [14MB 초소형 LLM으로 구현하는 온디바이스 AI 에이전트, Cactus Needle 2 | digitalbourgeois](https://digitalbourgeois.tistory.com/3548)
+    * needle 후속작. 45M 파라미터·14MB 단일 바이너리·최대 28MB RAM으로 동작하는 오픈(Apache 2.0) 온디바이스 함수 호출 모델. 학습 단계부터 적용한 2-bit 양자화(CQ2)·256 슬라이딩 윈도우, 압축 가중치를 직접 처리하는 C++ 추론 엔진(Cortex-M~x86~WASM). Raspberry Pi 5에서 500+ toks/s, $200 이하 폰에서 300~700 toks/s. "무엇을 말할지"가 아니라 "어떤 액션을 실행할지"에 특화(기기 제어·구조화 추출, 스키마 컴파일 문법으로 malformed JSON 방지), 신뢰도 점수로 로컬 처리/클라우드 에스컬레이션 하이브리드. Pebble Index 01 앱 실사용, FunctionGemma 270M·LFM2.5·Apple FM과 함수 호출 벤치 경쟁, 로컬 파인튜닝으로 정확도 21~58점 향상
 * [NeMo: a toolkit for conversational AI](https://github.com/NVIDIA/NeMo)
   * [NeMo-Guardrails: NeMo Guardrails is an open-source toolkit for easily adding programmable guardrails to LLM-based conversational systems.](https://github.com/NVIDIA/NeMo-Guardrails)
     * [엔비디아, 오픈소스 소프트웨어 ‘네모 가드레일’ 출시](https://www.epnc.co.kr/news/articleView.html?idxno=232776)
@@ -2748,6 +2751,8 @@ NLP
 * [In-House LLM Serving at Netflix | Netflix TechBlog](https://netflixtechblog.com/in-house-llm-serving-at-netflix-a5a8e799ea2c)
   * [Netflix의 사내 LLM 서빙 플랫폼, vLLM과 Triton으로 구축한 프로덕션 운영 구조 | digitalbourgeois](https://digitalbourgeois.tistory.com/3466)
   * LLM을 기존 ML 인프라와 분리하지 않고 통합하는 선택—기존 Model Scoring Service(MSS)에 NVIDIA Triton Inference Server와 vLLM을 연결하고 기존 gRPC 인터페이스와 OpenAI 호환 HTTP API를 함께 제공. GPU 자원 효율, 요청량 증가 대응, 안전한 모델 버전 전환, 모니터링, 커스텀 디코딩 로직까지 프로덕션 운영 관점에서 정리
+* [서빙 구조가 LLM 처리량을 바꾸는 방식](https://atlantic-andesaurus-8b9.notion.site/LLM-3c44c2420ac48157aaebe78f971e05c9)
+  * Ray Serve·Triton·KServe를 비교해 엔진 설정과 서빙 구조가 처리량에 미치는 영향을 분리 측정. 이번 환경에서는 vLLM 단독 ≈ KServe RawDeployment > Triton >> Ray Serve 순 처리량. Ray Serve에선 엔진 설정(max_num_seqs 등)을 바꿔도 처리량 증가가 제한적이지만 vLLM 단독은 같은 변경의 효과가 큼—엔진 설정만 조정하기보다 서빙 구조·요청 경로를 함께 점검한 뒤 엔진을 최적화해야 한다
 * [(1) AI 응답의 안정성을 높이는 3가지 방법 - 1) 무작위성 낮추기 | LinkedIn](https://www.linkedin.com/pulse/ai-%EC%9D%91%EB%8B%B5%EC%9D%98-%EC%95%88%EC%A0%95%EC%84%B1%EC%9D%84-%EB%86%92%EC%9D%B4%EB%8A%94-3%EA%B0%80%EC%A7%80-%EB%B0%A9%EB%B2%95-1-%EB%AC%B4%EC%9E%91%EC%9C%84%EC%84%B1-%EB%82%AE%EC%B6%94%EA%B8%B0-%ED%9C%98%EB%8F%99-%EB%B0%B0-uuuic/)
 * [(1) AI 응답의 안정성을 높이는 3가지 방법 - 2) 출력 형식 지정하기 | LinkedIn](https://www.linkedin.com/pulse/ai-%EC%9D%91%EB%8B%B5%EC%9D%98-%EC%95%88%EC%A0%95%EC%84%B1%EC%9D%84-%EB%86%92%EC%9D%B4%EB%8A%94-3%EA%B0%80%EC%A7%80-%EB%B0%A9%EB%B2%95-2-%EC%B6%9C%EB%A0%A5-%ED%98%95%EC%8B%9D-%EC%A7%80%EC%A0%95%ED%95%98%EA%B8%B0-%ED%9C%98%EB%8F%99-%EB%B0%B0-umzwc/)
 * [**GPT 호출이 전부가 아니다! 실전 LLM 앱 구조(아키텍처) 공개 #1 - YouTube**](https://www.youtube.com/watch?v=0T2LlsQDz-o)
