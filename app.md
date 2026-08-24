@@ -2643,6 +2643,9 @@ App
 * [Koharu — Local Manga Translation Application](https://koharu.rs/)
   * [koharu](https://github.com/mayocream/koharu)
   * 로컬 퍼스트 만화 번역 데스크톱 앱. ML 기반 객체 감지·OCR·인페인팅·LLM 번역 자동화. Rust 기반, Windows/macOS/Linux
+* [Lap — Private Local Photo Manager](https://julyx10.github.io/lap/)
+  * [julyx10/lap: An offline-first photo manager for large local libraries](https://github.com/julyx10/lap)
+  * 로컬 퍼스트·프라이버시 중심 오픈소스 사진 관리 데스크톱 앱(macOS/Windows/Linux). 클라우드 없이 기존 폴더 구조 그대로 사용, 온디바이스 로컬 AI 검색(텍스트·유사 이미지·얼굴 클러스터링·50개+ 언어 멀티링궐). Apple Live Photos·RAW+JPEG/HEIC 페어링, 룰 기반 스마트 앨범, 4분할 컬링 뷰어, 중복 탐지, 기본 편집(크롭·회전·리사이즈), 60개+ 포맷 지원. Tauri+Rust·Vue·SQLite·ONNX Runtime·CLIP·InsightFace. GPL-3.0
 * [Lottielab | Create and Edit Lottie Animations](https://www.lottielab.com/)
   * [GIF보다 작고 또렷한 로티 애니메이션 제작 ‘Lottielab’ | 요즘IT](https://yozm.wishket.com/magazine/detail/2202/)
   * [Lottie Creator: 로티 애니메이션을 제작할 수 있는 웹 기반 무료 디자인 도구 | GeekNews](https://news.hada.io/topic?id=17094)
