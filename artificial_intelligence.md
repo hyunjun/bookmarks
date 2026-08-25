@@ -2018,6 +2018,7 @@ Artificial Intelligence
 * [CS 188 | Introduction to Artificial Intelligence Fall 2018](https://inst.eecs.berkeley.edu/~cs188/fa18/)
 * [CS221: Artificial Intelligence: Principles and Techniques](http://web.stanford.edu/class/cs221)
   * [Artificial Intelligence cheatsheets for Stanfords CS 221](https://github.com/afshinea/stanford-cs-221-artificial-intelligence)
+  * learn+homestead — 오래 참고할 설명·따라 할 절차·검증 기록을 함께 담는 한국어 학습 자료 터전. Local LLM 2부작 경로: ① 내 장비에서 LLM 직접 실행(모델·runtime 선택, Ollama 설치~GPU 적재 확인) ② Local LLM을 내 프로그램에 연결(Python 4줄 첫 호출→대화 상태→JSON 구조화 출력→tool calling→읽기 전용 agent와 prompt injection 경계). context 창 64배 축소, JSON 펜스 파싱 실패, 가짜 도구 실행 연기 등 직접 검증한 함정 기록 포함. Python, Apache-2.0
 * [matrix.skku.ac.kr/2020-Math4AI-Final-pbl2/](http://matrix.skku.ac.kr/2020-Math4AI-Final-pbl2/)
 * [theschool.ai/courses/data-lit](https://www.theschool.ai/courses/data-lit/) Siraj Raval
 * [UNIST - YouTube](https://www.youtube.com/user/unistmedia)
@@ -2876,6 +2877,9 @@ Artificial Intelligence
   * [Strands SDK 시리즈 5: 실전 — 뉴스 요약·태깅 파이프라인 | STONI](https://stoni.space/posts/ko/ai/strands-05-example)
   * [Multi-Agent collaboration patterns with Strands Agents and Amazon Nova | Artificial Intelligence](https://aws.amazon.com/ko/blogs/machine-learning/multi-agent-collaboration-patterns-with-strands-agents-and-amazon-nova/)
     * [How to build multi-agent AI systems with Strands framework | Darryl R. posted on the topic | LinkedIn](https://www.linkedin.com/posts/darryl-ruggles_multi-agent-collaboration-patterns-with-strands-activity-7394125528540262401-7JZm)
+* [token-forge: AWS CDK templates for serving Hugging Face LLMs on EC2 Spot with vLLM (OpenAI-compatible)](https://github.com/roboco-io/token-forge)
+  * [AWS 스팟 인스턴스를 통해 값싸고 안전하게 프라이빗 LLM을 구축하는 도구를 만들었습니다 | DoHyun Jung - AWSKRUG](https://www.facebook.com/groups/awskrug/posts/27319430027732329/)
+  * 내 AWS 계정 안에서 도는 프라이빗 바이브코딩 LLM. 100% 스팟 인스턴스(온디맨드의 1/4~1/3)+30분 유휴 자동 종료로 30B급 모델 월 $100-200, placement-score 트렌드 피드로 리전 자동 선택—`tkf up`·`tkf connect claude` 두 명령이면 끝. OpenAI/Anthropic 호환 API로 Claude Code 직결, 프롬프트·응답·사용량이 계정 밖으로 안 나감. Qwen3-Coder-30B 기본, GLM-4.6·Solar-Open2-250B 검증 카탈로그. TypeScript, MIT
 * [tradeoffs.md at S2020 · ckaestne/seai](https://github.com/ckaestne/seai/blob/S2020/lectures/07_tradeoffs/tradeoffs.md)
 * [undetectable-fingerprint-browser: Free open-source Multilogin/Incogniton/Kameleo alternative for fingerprint spoofing (Canvas/WebGL/User-Agent). Perfect for Selenium/Playwright/Puppeteer automation, web scraping, social media bots, ads verification, and multi-accounting based on chromium. Avoid bans, bypass anti-bot systems, and prevent tracking with customizable stealth browsing · GitHub](https://github.com/itbrowser-net/undetectable-fingerprint-browser)
 * [vercel-labs/ai: Build AI-powered applications with React, Svelte, and Vue](https://github.com/vercel-labs/ai)
@@ -7004,6 +7008,8 @@ Artificial Intelligence
 * [Learn Prompting: Your Guide to Communicating with AI](https://learnprompting.org/)
 * [learnstead: 주제별 핵심 개념 이해부터 직접 실행까지 다루는 가이드·튜토리얼·실습 모음](https://github.com/kyungseo/learnstead)
   * 한국어 학습 자료 저장소. 가이드·튜토리얼·실습 3가지 유형, 현재 로컬 LLM 실행 가이드(Ollama, 오픈 웨이트 모델) 공개. 검증 기록과 성공/실패 판정 기준을 함께 담는 것이 특징. Apache-2.0
+  * [learnstead: 주제별 핵심 개념 이해부터 직접 실행까지 다루는 가이드·튜토리얼·실습 모음](https://github.com/kyungseo/learnstead)
+    * [가이드: Local LLM을 내 프로그램에 연결하기](https://github.com/kyungseo/learnstead/tree/main/guides/local-llm-app-integration)
 
 # Vector DB
 * [나만의 GPT 만들기, Embedding](https://sudormrf.run/2023/06/06/owngpt/)
