@@ -3852,6 +3852,10 @@ NLP
 * [LLMSurvey: A collection of papers and resources related to Large Language Models](https://github.com/RUCAIBox/LLMSurvey)
   * [A Survey of Large Language Models (LLMs)](https://www.linkedin.com/posts/jae-hong-eom-93368248\_survey-large-language-activity-7052275487703793665-WUfC/)
 * [llm-tutorials: A set of LLM Tutorials from my youtube channel](https://github.com/samwit/llm-tutorials)
+* [LLMRouter: An Open-Source Library for LLM Routing](https://github.com/ulab-uiuc/LLMRouter)
+  * [LLMRouter 공식 문서](https://ulab-uiuc.github.io/LLMRouter/)
+  * [LLMRouter로 구현하는 LLM 라우팅: 여러 LLM을 상황에 맞게 선택하는 오픈소스 라이브러리 | digitalbourgeois](https://digitalbourgeois.tistory.com/3565)
+  * UIUC ulab의 LLM 라우팅 오픈소스 라이브러리. 질의 특성·작업 복잡도·비용·성능 요구에 따라 적합한 모델을 동적 선택—KNN·SVM·MLP·Matrix Factorization·Elo Rating·Graph 등 16개+ 라우팅 방법 제공, 데이터 생성→Router 학습→추론→평가→대화형 인터페이스까지 단일 환경. Python, MIT, 2.5k stars
 * [LLM Visualization](https://bbycroft.net/llm)
   * [LLM 시각화 | GeekNews](https://news.hada.io/topic?id=22925)
 * lmarena.ai [Chatbot Arena (formerly LMSYS): Free AI Chat to Compare & Test Best AI Chatbots](https://lmarena.ai/)
@@ -4124,6 +4128,9 @@ NLP
     * [Qwen1.5-MoE: Matching 7B Model Performance with 1/3 Activated Parameters | Qwen](https://qwenlm.github.io/blog/qwen-moe/)
   * [🤖 QwenLong-L1.5: 4백만 토큰을 처리하는 알리바바의 최신 AI 모델](https://fornewchallenge.tistory.com/entry/%F0%9F%A4%96-QwenLong-L15-4%EB%B0%B1%EB%A7%8C-%ED%86%A0%ED%81%B0%EC%9D%84-%EC%B2%98%EB%A6%AC%ED%95%98%EB%8A%94-%EC%95%8C%EB%A6%AC%EB%B0%94%EB%B0%94%EC%9D%98-%EC%B5%9C%EC%8B%A0-AI-%EB%AA%A8%EB%8D%B8)
     * [2512.12967 QwenLong-L1.5: Post-Training Recipe for Long-Context Reasoning and Memory Management](https://arxiv.org/abs/2512.12967)
+  * [Qwen3.8-Flash-Next Technical Report PDF](https://github.com/QwenLM/Qwen3.8-Flash-Next/blob/main/tech_report.pdf)
+    * [Qwen3.8-Flash-Next, 125B 규모를 효율적으로 활용하는 차세대 LLM 아키텍처 | digitalbourgeois](https://digitalbourgeois.tistory.com/3575)
+    * Qwen4를 뒷받침할 아키텍처를 미리 보여주는 실험적 프리뷰 모델. 전체 125B 파라미터 중 활성화는 6B—Hybrid Attention with QSA, Gated Residual, N-gram Embedding, 새 학습 방식 적용. 기본 262,144 토큰·최대 1M 토큰 컨텍스트
   * [Sky-T1: Train your own O1 preview model within $450](https://novasky-ai.github.io/posts/sky-t1/)
     * [Sky-T1: $450로 o1 preview급의 고성능 추론 모델 훈련하기 | GeekNews](https://news.hada.io/topic?id=18764)
   * [smoothie-qwen: A lightweight adjustment tool for smoothing token probabilities in the Qwen models to encourage balanced multilingual generation.](https://github.com/dnotitia/smoothie-qwen)
