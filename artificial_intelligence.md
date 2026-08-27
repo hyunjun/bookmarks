@@ -967,6 +967,9 @@ Artificial Intelligence
     * 모노레포에서는 루트 수준과 패키지 수준에 각각 AGENTS.md를 두어 병합 가능. 모든 지시사항은 명확하고 실행 가능해야 함
   * [AGENTS.md — a simple, open format for guiding coding agents](https://github.com/agentsmd/agents.md)
   * [AGENTS.md](https://github.com/golbin/AGENTS.md)
+  * [What the 100 biggest GitHub repos put in their AGENTS.md files | coldtea](https://www.coldtea.ai/blog/agents-md-field-study)
+    * [GitHub 상위 100개 저장소가 AGENTS.md에 담은 AI 코딩 에이전트 운영 규칙 | digitalbourgeois](https://digitalbourgeois.tistory.com/3568)
+    * GitHub 상위 1,000개 공개 레포 중 27%가 AGENTS.md 보유—별 상위 100개(합산 1,140만 스타: vscode·ollama·n8n·pytorch 등) 전수 분석. 룰북이 아니라 운영 매뉴얼: 오리엔테이션(프로젝트 구조)+검증(빌드·테스트)이 전체의 절반, 주제별로 아키텍처 18.9%·테스트 17.2%·명령어 12.8%. 한편 명시적 don't 룰 784개, 90%가 must/always/never 명령형—클수록 더 단호해짐. 파일당 중앙값 1,198단어
 * [agentskill: Let any agent produce code indistinguishable from the existing codebase](https://github.com/airscripts/agentskill)
   * [Turning Repository Knowledge Into Usable Agent Context | DEV Community](https://dev.to/airscript/turning-repository-knowledge-into-usable-agent-context-4pe4)
   * [AI 코딩 에이전트를 위한 저장소 컨텍스트 정리 도구, Agentskill 이해하기](https://digitalbourgeois.tistory.com/3053)
@@ -1403,8 +1406,11 @@ Artificial Intelligence
   * [Slack에서 직접 운영하는 오픈소스 AI 에이전트, OpenTag 기술 정리 | digitalbourgeois](https://digitalbourgeois.tistory.com/3338)
   * 셀프호스팅 Slack AI 에이전트. 스레드를 읽고 질문에 답하고 도구를 호출하며 리치 결과를 대화에 렌더링. CopilotKit 봇 SDK 기반—런타임·모델 선택·도구 통합을 완전히 소유, 좌석당 과금·벤더 락인 없음. 인간 승인 워크플로우 지원
 * [OpenViking: Open-source context database engineered for AI Agents](https://github.com/volcengine/OpenViking)
+  * [OpenViking 공식 사이트](https://openviking.ai/)
   * [류내원 - ByteDance just open-sourced a brain for AI agents: OpenViking | Facebook](https://www.facebook.com/won.wizard/posts/pfbid027DFYveWzg6wzSHtFSQivRVtkiet4Q5Jco8NnSsYVkgJULXi3B5wo9oGo2EtMu9sQl)
+  * [AI 에이전트의 컨텍스트를 파일 시스템처럼 관리하는 OpenViking | digitalbourgeois](https://digitalbourgeois.tistory.com/3569)
   * ByteDance의 AI 에이전트용 오픈소스 컨텍스트 DB. 파일 시스템 패러다임으로 메모리·리소스·스킬을 통합 관리하고, L0/L1/L2 3단계 계층적 컨텍스트 로딩으로 토큰 소비 절감. 디렉토리 재귀 검색과 시맨틱 검색을 결합한 정밀 컨텍스트 획득
+  * viking:// 프로토콜 기반 가상 파일 시스템—블랙박스 벡터 스토어 조회 대신 ls·tree·find 방식으로 에이전트가 자기 컨텍스트를 탐색, 검색 경로 추적으로 결과 선택 과정 디버깅 가능. Python, AGPL-3.0, 33.8k stars
 * [OpenWorker — AI that gets your everyday tasks done](https://openworker.com/)
   * [openworker](https://github.com/andrewyng/openworker)
   * [Andrew Ng가 공개한 OpenWorker, 채팅이 아니라 일을 끝내는 AI | AX LABS 블로그](https://theaxlabs.com/blog/andrew-ng-openworker-practical-guide)
@@ -4081,6 +4087,9 @@ Artificial Intelligence
 * [The New SDLC with Vibe Coding (whitepaper) | Kaggle](https://www.kaggle.com/whitepaper-the-new-SDLC-with-vibe-coding)
   * [The New Software Development Lifecycle with Vibe Coding | Addy Osmani](https://addyosmani.com/blog/new-sdlc-vibe-coding/)
   * Google whitepaper(Addy Osmani·Shubham Saboo·Sokratis Kartakis) 해설. 에이전트=모델(10%)+하네스(90%), 정적/동적 컨텍스트 경계를 PR로 리뷰·버전관리하는 아키텍처 결정으로. "vibe coding"→프로덕션급의 스펙트럼은 검증 엄격성이 가름(테스트=결정론적 출력, eval=최종 정확성+추론 품질). 구현은 빨라지나 요구사항·아키텍처·검증이 병목—스펙 품질이 새 병목. 바이브 코딩은 싸 보여도 유지보수 비용 누적, 에이전틱 엔지니어링은 선투자로 장기 비용 3-10배 절감
+* [AI is removing the middle class of software engineering | Florian Herrengt](https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html)
+  * [AI가 소프트웨어 개발의 속도 제한을 없애면서 개발자의 가치가 달라지고 있다 | digitalbourgeois](https://digitalbourgeois.tistory.com/3552)
+  * AI가 개발 속도 제한을 없애자 엔지니어링 문화가 약한 팀은 훨씬 빨리 실패한다—코드가 만들어지는 속도와 사람이 이해·판단하는 속도의 격차가 문제. 겉보기엔 돌아가는 수만 줄짜리 PR이 쌓여 "지난주에 만든 사람도 데이터 출처를 모르는" 지경에 이르는 시나리오. 소프트웨어 엔지니어링의 중간층이 사라지고, AI 산출물을 평가하고 올바른 기술적 결정을 내리는 능력이 개발자 가치의 중심이 된다는 주장
 * [Younghyun Chung - 코드를 인간이 쓰지 않는 세상 | Facebook](https://www.facebook.com/risknfun/posts/pfbid02KqgVKz4DLQLWXsCUrx5E1VwmszfdJigmnXLKJzy2dEYrZWhUZFvSUA56WKZonW18l)
   * Toby의 "소프트웨어 엔지니어링은 정말 엔지니어링인가"(2026.6.3)에서 출발한 팀 고민 정리. 우리가 아는 소프트웨어 공학이 세운 세 전제(개발자는 비싸고·느리고, 사람이 코드를 쓴다)가 AI 코딩 시대에 흔들린다는 논의
 * [How AI-assisted coding will change software engineering: hard truths](https://newsletter.pragmaticengineer.com/p/how-ai-will-change-software-engineering)
