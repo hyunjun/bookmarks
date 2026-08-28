@@ -2656,6 +2656,8 @@ Programming
 * [ZTA: Zero Token Architecture - Kelsey Hightower | PlatformCon 2026 - YouTube](https://www.youtube.com/watch?v=A7WFt2JQ5sg)
   * "기본기는 여전히 중요하고 토큰을 태우는 게 필수는 아니다." 트랙쏘 유튜브 50시간 보고 목수가 된 줄 알았다는 비유—Claude Code로 Kubernetes 클러스터를 배포했다고 플랫폼 엔지니어가 되는 건 아님
   * 결정론적으로 이미 풀린 문제(라이브러리에 담아 수천 번 재사용)를 매번 에이전트 토큰으로 다시 푸는 건 SQL 쿼리마다 DB 드라이버를 새로 짜는 것과 같다는 비판. 시스템을 애초에 legible하게 만들지 못한 것이 진짜 문제라는 Q&A 논의
+* [아키텍처 그림, 문서 쉽게 만들기 | C4 · ADR · arc42 - YouTube](https://www.youtube.com/watch?v=LaLtZsRWFMc)
+  * 코딩하는기술사. 아키텍처 문서화의 공신력 있는 기준 3가지—C4 Model(다이어그램 그리는 방법), ADR(결정 근거 기록), arc42(문서 목차·템플릿)—과 셋의 관계, 문서화 안티패턴, 시작하는 법. AI 시대에 아키텍처 기록이 더 중요해지는 이유
 * [arc42 - arc42](https://arc42.org/)
   * [Documenting Software Architecture in Code Repository | by Huseyin Kutluca | Software Architecture Foundations | Feb, 2022 | Medium](https://medium.com/software-architecture-foundations/documenting-software-architecture-in-code-repository-74716412b0a2)
 * [architecture-decision-record: Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation](https://github.com/joelparkerhenderson/architecture-decision-record)
