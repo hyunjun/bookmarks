@@ -3100,6 +3100,7 @@ NLP
     * 실제 코드베이스 269개 프로젝트에서 2,436개 취약점 식별, 개별 취약점 탐지에서 다단계 공격 체인 계획까지 확장. 모델 성능이 높아질수록 좋은 훈련 환경을 만드는 일이 더 중요한 문제로 이동한다는 분석
   * GLM-5.2와 같은 베이스 모델에 post-training만 스케일링(IndexShare 장문 컨텍스트 처리, SAO 장기 태스크 RL, slime 대규모 비동기 학습 스택). 자체 Z.ai Code Bench에서 GLM-5.2 대비 50% 향상, Terminal Bench 3.0·Agents' Last Exam 오픈소스 SOTA로 코딩 최강 오픈웨이트 주장
   * post-training 스케일링 중 사이버 능력이 예상보다 빠르게 창발—CyberGym 취약점 발견 SOTA(84.5), 익스플로잇 벤치마크에서 GLM-5.2의 2배 이상. 웨이트는 안전성 평가·하드닝 완료 후 출시 2주 뒤 공개 예정
+  * [GLM-5.3-Flash | Z.ai](https://z.ai/blog/glm-5.3-flash)
 * [good luck have fun](https://glhf.chat/landing/home)
   * [glhf - (거의) 모든 언어 모델 실행하기 | GeekNews](https://news.hada.io/topic?id=16069) vLLM 사용
 * [Gorilla: An API store for LLMs](https://github.com/ShishirPatil/gorilla)
@@ -4284,6 +4285,9 @@ NLP
 * [Models are getting dumber on purpose | w4g1](https://w4g1.dev/blog/models-are-getting-dumber-on-purpose)
   * [모델은 의도적으로 더 멍청해지고 있다 | GeekNews](https://news.hada.io/topic?id=32564)
   * 최신 모델들이 내부 지식 저장을 줄이고 추론 능력을 키우는 방향으로 설계되는 트렌드—사실 정보는 실시간 검색·도구로 외부에서 공급받고 모델에는 추론 절차만 남기는 편이 효율적이며 할루시네이션도 근본적으로 줄인다는 주장
+* [Why your local LLM feels dumber than it is | Level1Techs Forum](https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917)
+  * [같은 로컬 LLM인데 왜 더 멍청하게 느껴질까? 실행 환경이 성능에 미치는 영향 | digitalbourgeois](https://digitalbourgeois.tistory.com/3562)
+  * 같은 모델 가중치라도 GPU 세대·명령어 세트·소프트웨어 스택에 따라 출력이 달라짐—KV 캐시 양자화(int4/int8)와 어텐션 백엔드(FlashAttention 2·Triton) 선택이 토큰 선택을 바꿔 도구 호출 실패·구문 오류로 이어지는 문제를 실제 네트워크 자동화 워크플로우로 입증
 * [What is GPT-3? Showcase, possibilities, and implications - YouTube](https://www.youtube.com/watch?v=5fqxPOaaqi0)
 * [GPT-3가 뭐길래, 제2의 알파고? - YouTube](https://www.youtube.com/watch?v=vLCQGkT2nFc)
 * [GPT-3, 인류 역사상 가장 뛰어난 언어 AI – 핑퐁팀 블로그](https://blog.pingpong.us/gpt3-review/)
@@ -5714,6 +5718,8 @@ NLP
     * [Introducing speech-to-text, text-to-speech, and more for 1,100+ languages](https://ai.facebook.com/blog/multilingual-model-speech-recognition/)
       * [Meta, 1100개 이상의 언어에 대한 음성-텍스트, 텍스트-음성 변환 모델 MMS(Massively Multilingual Speech) 공개 - 읽을거리&정보공유 - 파이토치 한국 사용자 모임](https://discuss.pytorch.kr/t/meta-1100-mms-massively-multilingual-speech/1618/1)
 * [gtbot - 구글 번역 API를 이용한 슬랙 번역 봇입니다](https://github.com/qodot/gtbot)
+* Interpretab [Chrome 확장 Interpretab 공개 — Gemini Live API 실시간 번역·자막 | Kazunori Sato](https://x.com/kazunori_279/status/2091334208719556749)
+  * 브라우저 탭이 재생하는 음성이나 마이크 음성을 Gemini Live API로 실시간 번역해 읽어주고 자막 표시. 인터넷 동영상·방송·팟캐스트·온라인 미팅을 70개+ 언어로 듣고 읽기
 * [Kagi Translate - Kagi 검색엔진이 제공하는 번역 서비스 | GeekNews](https://news.hada.io/topic?id=17663)
 * [LibreTranslate: Free and Open Source Machine Translation API. 100% self-hosted, no limits, no ties to proprietary services. Built on top of Argos Translate](https://github.com/uav4geo/LibreTranslate)
 * [nmtpy - a suite of Python tools, primarily based on the starter code provided in github.com/nyu-dl/dl4mt-tutorial for training neural machine translation networks using Theano](https://github.com/lium-lst/nmtpy)
