@@ -61,6 +61,9 @@ GIS
   * [GeoTIFF Coordinate Querying with JavaScript | by Thomas Horner | Sep, 2020 | Towards Data Science](https://towardsdatascience.com/geotiff-coordinate-querying-with-javascript-5e6caaaf88cf)
   * [Cloud Optimized GeoTIFF - An imagery format for cloud-native geospatial processing](https://www.cogeo.org/)
     * [A Handy Introduction to Cloud Optimized GeoTIFFs | by Patrick Armstrong | Planet Stories | Medium](https://medium.com/planet-stories/a-handy-introduction-to-cloud-optimized-geotiffs-1f2c9e716ec3)
+* [Spatial Intelligence — God's Eye View](https://www.spatialintelligence.ai/)
+  * [gods-eye-view: A spy satellite simulator in your browser, except the data is real](https://github.com/bilawalsidhu/gods-eye-view)
+  * 브라우저에서 도는 스파이 위성 시뮬레이터—실데이터 기반 오픈소스 공간 인텔리전스를 포토리얼 3D 지구본 위에 라이브로 표시. Bilawal Sidhu(전 Google 지도) 제작. JavaScript, 10.3k stars
 * [Leaflet - a JavaScript library for interactive maps](https://leafletjs.com/)
   * [Leaflet Map Routing JavaScript App - YouTube](https://www.youtube.com/watch?v=F8dnYNTncoU)
 * [mapscii: MapSCII is a Braille & ASCII world map renderer for your console - enter => telnet mapscii.me \<= on Mac (brew install telnet) and Linux, connect with PuTTY on Windows](https://github.com/rastapasta/mapscii)
