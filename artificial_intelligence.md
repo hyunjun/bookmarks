@@ -898,6 +898,9 @@ Artificial Intelligence
   * 텍스트로 표현되는 지식과 모델 파라미터에 담긴 기술을 별개로 다루던 기존 방식과 달리 둘을 하나의 흐름으로 연결. 모델 가중치 자체를 LLM이 다룰 수 있는 입력 모달리티로 보고 기존 학습된 여러 기술을 새 작업에 맞게 합성—단순 가중치 병합과의 차이가 핵심
   * 자연어 스킬 문서를 동결된 모델의 학습 가능한 외부 상태로 취급—텍스트 공간에서 가중치 대신 절차를 학습. 4단계 루프: Rollout(점수화 트래젝토리)→Reflect(성공/실패 패턴 추출)→Edit(add/delete/replace, edit budget=textual learning rate)→Gate(holdout 검증 통과해야 채택). D_tr/D_sel/D_test 분리, 거부된 수정은 음성 피드백 재활용. 7 모델×6 벤치마크 모두 최고/공동최고. 단일 `best_skill.md` 산출물이 모델 크기·하네스(Codex↔Claude Code) 간 이전 가능. GPT-5.5 +23.5/Codex +24.8/Claude Code +19.1 보고
 * [500-AI-Agents-Projects: The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more](https://github.com/ashishpatel26/500-AI-Agents-Projects) 다양한 산업 분야의 AI 에이전트 활용 사례를 선별하여 모은 컬렉션
+* [agentacct: See what your coding agents did and what it cost](https://github.com/mikehasa/agentacct)
+  * [코딩 에이전트가 실제로 무엇을 했는지 확인하는 방법, agentacct | digitalbourgeois](https://digitalbourgeois.tistory.com/3572)
+  * 코딩 에이전트의 각 태스크를 작업 단계로 분해—사용한 도구, 변경 파일, 실행한 테스트, 소요 시간·토큰 비용. Claude Code·Codex 등 지원 local-first 대시보드. Python
 * [AgentAwake — AI Agent Memory Playbook for ChatGPT, Claude, Cursor and More](https://agentawake.com/)
   * SOUL.md/MEMORY.md/AGENTS.md 템플릿으로 AI 에이전트에 영구 메모리 설정. OpenClaw, n8n, LangChain 등 8개 이상 플랫폼 지원
 * [agent-browser](https://agent-browser.dev/)
@@ -1277,6 +1280,10 @@ Artificial Intelligence
   * [llm-brain: LLM을 컴파일러로 쓰는 개인 지식 관리 시스템 (Second Brain Compiler)](https://github.com/kimsanguine/llm-brain)
   * [요즘 AI 에이전트 메모리에서 가장 과소평가된 패턴은 RAG가 아니라 LLM Wiki | Sanguine Kim](https://www.linkedin.com/posts/sanguinekim_%EC%9A%94%EC%A6%98-ai-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EB%A9%94%EB%AA%A8%EB%A6%AC%EC%97%90%EC%84%9C-%EA%B0%80%EC%9E%A5-%EA%B3%BC%EC%86%8C%ED%8F%89%EA%B0%80%EB%90%9C-%ED%8C%A8%ED%84%B4%EC%9D%80-rag%EA%B0%80-%EC%95%84%EB%8B%88%EB%9D%BC-llm-share-7479001617946554369-wfQy/)
   * 흩어진 노트·메모를 LLM 컴파일러로 구조화된 위키로 변환하는 개인 지식 관리 시스템. RAG처럼 원시 데이터를 즉석 검색하는 대신 에이전트가 읽기 좋게 사전 압축·정리된 지속 가능한 지식 레이어 구축. Obsidian vault+위키 링크+그래프 시각화, Claude Code 연동 4개 CLI 명령
+* [Luvus — Mission control for your AI agents](https://luvus.dev/)
+  * [luvus: Mission control for your AI agents](https://github.com/RizRiyz/luvus)
+  * [AI 코딩 에이전트를 한곳에서 관리하는 Luvus, 주요 기능과 사용 방법 | digitalbourgeois](https://digitalbourgeois.tistory.com/3577)
+  * 여러 AI 코딩 에이전트를 한곳에서 관리하는 미션 컨트롤. Rust
 * [memary: Open-source memory layer for autonomous agents](https://github.com/kingjulio8238/memary)
   * 메모리 스트림, 지식 그래프, 엔티티 추적으로 인간형 메모리 구현
 * [Memori: Open-Source Memory Engine for LLMs, AI Agents & Multi-Agent Systems](https://github.com/GibsonAI/Memori)
@@ -1329,6 +1336,11 @@ Artificial Intelligence
   * [nono](https://github.com/nolabs-ai/nono)
   * [🔒 AI 코딩 에이전트 보안 샌드박스 Nono 설치·사용 가이드 (무료 오픈소스) | fornewchallenge](https://fornewchallenge.tistory.com/entry/%F0%9F%94%92-AI-%EC%BD%94%EB%94%A9-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EB%B3%B4%EC%95%88-%EC%83%8C%EB%93%9C%EB%B0%95%EC%8A%A4-Nono-%EC%84%A4%EC%B9%98%C2%B7%EC%82%AC%EC%9A%A9-%EA%B0%80%EC%9D%B4%EB%93%9C-%EB%AC%B4%EB%A3%8C-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4)
   * 설정·지연 없이 몇 초 만에 AI 에이전트를 샌드박스에 격리 실행. Rust, Apache-2.0, 3.4k stars
+* [oci-agent: Netflix human-augmenting agentic workflow for causal inference](https://github.com/Netflix-Skunkworks/oci-agent)
+  * [A Human-Augmenting Agentic Workflow for Causal Inference | Netflix TechBlog](https://netflixtechblog.com/a-human-augmenting-agentic-workflow-for-causal-inference-4623f0a9c5af)
+  * [Netflix Open-Sources OCI Agent | InfoQ](https://www.infoq.com/news/2026/08/netflix-oci-agent)
+  * [Netflix, 인과관계 분석을 위한 에이전틱 워크플로우 오픈소스 공개 | digitalbourgeois](https://digitalbourgeois.tistory.com/3574)
+  * 관찰 데이터 기반 인과 추론(Observational Causal Inference)을 사람이 검토·개입하는 에이전틱 워크플로우로 자동화—사람을 대체하지 않고 증강(human-augmenting)하는 설계. Python
 * [ohwow: Local-first AI runtime for humans and AI agents to work together](https://github.com/ohwow-fun/ohwow)
   * 로컬 퍼스트 AI 런타임. 48개 사전빌드 에이전트, 6개 비즈니스 유형, 150+ 통합 도구. macOS 데스크톱 자동화, 멀티디바이스 메시, 에너지 패턴 학습
 * [OmAgent: Build multimodal language agents for fast prototype and production](https://github.com/om-ai-lab/OmAgent)
@@ -1478,6 +1490,9 @@ Artificial Intelligence
   * 셀프호스팅 AI 어시스턴트. Telegram 기반 인터페이스, 체크포인트 승인 시스템으로 위험 작업 사전 차단, Slack/GitHub/Notion/Jira 등 연동. 서브프로세스 격리로 API 키 유출 방지
 * [second-brain: LLM-based personal knowledge management](https://github.com/NicholasSpisak/second-brain)
   * 원본 자료를 Obsidian 구조화 위키로 자동 변환. 엔티티·개념·교차참조 페이지 생성. Karpathy의 LLM Wiki 패턴 기반—AI가 사서, 사용자가 큐레이터. 4개 스킬(설치·수집·질의·유지보수), Claude Code/Cursor/Gemini CLI 등 지원
+* [self_evolving_code_review_agent (Hands-On-AI-Engineering)](https://github.com/Sumanth077/Hands-On-AI-Engineering/tree/main/ai_agents/self_evolving_code_review_agent)
+  * [Self-Evolving Code Review Agent: 개발자 피드백으로 진화하는 코드 리뷰 자동화 | digitalbourgeois](https://digitalbourgeois.tistory.com/3578)
+  * 개발자 피드백을 축적해 리뷰 기준을 스스로 개선하는 코드 리뷰 에이전트 예제
 * [semiconductor-design: Report-Grounded Vibe-Coded AutoResearch for Open-Source DL Accelerator Design](https://github.com/roboco-io/semiconductor-design)
   * [바이브코딩으로 칩 설계 자동화(EDA)에 도전해 봤습니다 | Dohyun Jung](https://www.linkedin.com/posts/dohyun-jung-b66b8262_github-roboco-iosemiconductor-design-activity-7476105885854130176-x7rX)
   * AI 에이전트로 반도체 타이밍 예측 모델을 자동 개선하는 연구. Claude·Codex가 학습 스크립트를 세대별로 수정하는 진화 루프, 4단계 객관적 품질 게이트(median 검증·LODO·cross-design T1·Codex 평가)로 개선 채택 여부 결정. 비전문가도 고수준 가이드만으로 전문 도메인 연구 수행
