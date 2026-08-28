@@ -260,6 +260,9 @@ App
 * TrueNAS [(EP.05) 미니PC에 TrueNAS 설치하는 방법 - (USB 직접 설치) - YouTube](https://www.youtube.com/watch?v=fQap9UDXOg4)
 * Typometer [Pavel Fatin » Blog Archive » Typometer - Blog about human and technology](https://pavelfatin.com/typometer/)
 * [Twine / An open-source tool for telling interactive, nonlinear stories](https://twinery.org/)
+  * [twinejs: Twine, a tool for telling interactive, nonlinear stories](https://github.com/klembot/twinejs)
+  * [회고 잘하고 싶어서 만든 인터랙티브 회고 도구 | 요즘IT](https://yozm.wishket.com/magazine/detail/3917/)
+    * 인터랙티브 논리 스토리 도구 Twine을 활용한 회고 도구 제작기
 * [vagrant로 linux에서 winodws 사용하기](http://blog.naver.com/hancury/220757948510)
   * [15분만에 윈도우에서 Ansible 테스트 환경 구축하기 (서버 1대 + 노드 5대)](https://sysnet4admin.blogspot.com/2017/06/vagrant-15-ansible-1-5.html)
   * [How to install ubuntu on VirtualBox with vagrant](https://devgrill.com/how-to-install-ubuntu-on-virtualbox-with-vagrant-2/)
