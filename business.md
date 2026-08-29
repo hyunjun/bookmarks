@@ -4991,6 +4991,9 @@ Business
   * 특히 효과적인 프롬프트 작성을 위해 구체적이고 명확한 지시를 작성하는 방법, 디자인 문제에서 출발하는 접근법, 그리고 반복적인 작업을 자동화하는 전략 등
   * 이 가이드는 AI를 활용한 디자인 워크플로를 처음 시작하는 사람부터 디자인 프로세스의 상당 부분을 자동화하려는 전문가까지 모두에게 유용한 정보를 제공
 * [design-resources-for-developers: Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more](https://github.com/bradtraversy/design-resources-for-developers)
+* [Design System Library — 글로벌 75개 브랜드 디자인 시스템 레퍼런스](https://design-system-library-kshd.goos.chatgpt.site/)
+  * [디자인 시스템 라이브러리 공유 | Facebook](https://www.facebook.com/groups/426073703607223/?multi_permalinks=1059723060242281)
+  * 유명 브랜드 75곳의 컬러·서체·표면(surface)·강조 규칙을 한눈에 비교·탐색하는 레퍼런스. 디자인 프로젝트 시작 시 영감용
 * [Hotjar: Website Heatmaps & Behavior Analytics Tools](https://www.hotjar.com/)
   * [생산성을 높여요 - 인프런이 일하는 법 - 인프런 | 스토리](https://www.inflearn.com/pages/weekly-inflearn-31)
   * [웹기획 / UX 툴 소개 핫자(Hotjar) 시각적인 데이터분석 툴로 데이터드리븐 UX(Data-Driven UX)](https://ilsang2.tistory.com/223)
