@@ -82,6 +82,8 @@ Baby
 * [무크(MOOC)와 거꾸로 교실: 기술은 교육을 구원할 수 없다](http://slownews.kr/39610)
 * [악마는 프라다를 입는다: 도제교육의 원칙](http://ppss.kr/archives/57633)
 * [어려운 것을 쉽게 배우는 방법 : 슈퍼 파워를 장착하기 위한 3단계 학습법](http://www.moreagile.net/2016/02/learning-new-stuff.html)
+* [지금 당장 "이 습관"만 들여도 《이해력의 천재》가 된다! - YouTube](https://www.youtube.com/watch?v=mqxS2Oj5P8c)
+  * 언어의 정원. 이해력을 끌어올리는 습관을 뇌과학 공부법 관점에서 설명
 * [상대평가, 절대평가, 역량평가](http://hl1itj.tistory.com/180)
 * [스웨덴은 왜 '자녀 체벌' 금지했나](http://v.media.daum.net/v/20180725160226626)
 * [인턴 지원서](https://sungmooncho.com/2019/03/02/internship/) 교육의 방향 차이보다는 사회의 분위기 차이겠지만, 앞으로의 사회는 이 방향으로 나갈 거 같기에 기록을 위해 남겨둠
