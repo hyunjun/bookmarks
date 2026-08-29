@@ -3101,6 +3101,7 @@ NLP
   * GLM-5.2와 같은 베이스 모델에 post-training만 스케일링(IndexShare 장문 컨텍스트 처리, SAO 장기 태스크 RL, slime 대규모 비동기 학습 스택). 자체 Z.ai Code Bench에서 GLM-5.2 대비 50% 향상, Terminal Bench 3.0·Agents' Last Exam 오픈소스 SOTA로 코딩 최강 오픈웨이트 주장
   * post-training 스케일링 중 사이버 능력이 예상보다 빠르게 창발—CyberGym 취약점 발견 SOTA(84.5), 익스플로잇 벤치마크에서 GLM-5.2의 2배 이상. 웨이트는 안전성 평가·하드닝 완료 후 출시 2주 뒤 공개 예정
   * [GLM-5.3-Flash | Z.ai](https://z.ai/blog/glm-5.3-flash)
+    * [GLM-5.3-Flash, 320B 파라미터로 구현한 고성능·저비용 멀티모달 AI 모델 | digitalbourgeois](https://digitalbourgeois.tistory.com/3576)
 * [good luck have fun](https://glhf.chat/landing/home)
   * [glhf - (거의) 모든 언어 모델 실행하기 | GeekNews](https://news.hada.io/topic?id=16069) vLLM 사용
 * [Gorilla: An API store for LLMs](https://github.com/ShishirPatil/gorilla)
@@ -3141,6 +3142,9 @@ NLP
   * [🏯🧠Hunyuan-T1: GPT 4.5 뛰어넘은 세계 최초 Hybrid-Transformer-Mamba MoE 모델](https://fornewchallenge.tistory.com/entry/%F0%9F%8F%AF%F0%9F%A7%A0Hunyuan-T1-GPT-45-%EB%9B%B0%EC%96%B4%EB%84%98%EC%9D%80-%EC%84%B8%EA%B3%84-%EC%B5%9C%EC%B4%88-Hybrid-Transformer-Mamba-MoE-%EB%AA%A8%EB%8D%B8)
 * HY3 [Tencent Hy Research - HY3](https://hy.tencent.com/research/hy3)
   * [텐센트, 오픈AI 출신 과학자 영입 후 차세대 AI 모델 HY3 공개 | CIO](https://www.cio.com/article/4164030/%ED%85%90%EC%84%BC%ED%8A%B8-%EC%98%A4%ED%94%88ai-%EC%B6%9C%EC%8B%A0-%EA%B3%BC%ED%95%99%EC%9E%90-%EC%98%81%EC%9E%85-%ED%9B%84-%EC%B0%A8%EC%84%B8%EB%8C%80-ai-%EB%AA%A8%EB%8D%B8-hy3.html)
+* [Hy4-preview](https://github.com/Tencent-Hunyuan/Hy4-preview)
+  * [AGI KR 그룹 공유 포스트 | Facebook](https://www.facebook.com/groups/255834461424286?multi_permalinks=3071486279859076)
+  * Tencent Hunyuan의 Hy4 프리뷰. Python
 * [Inkling: Our open-weights model | Thinking Machines Lab](https://thinkingmachines.ai/news/introducing-inkling/)
   * [thinkingmachines/Inkling · Hugging Face](https://huggingface.co/thinkingmachines/Inkling)
   * [🆓 Inkling 975B 완벽 분석 Thinking Machines Lab의 첫 오픈소스 MoE 모델 | fornewchallenge](https://fornewchallenge.tistory.com/entry/%F0%9F%86%93-Inkling-975B-%EC%99%84%EB%B2%BD-%EB%B6%84%EC%84%9D-Thinking-Machines-Lab%EC%9D%98-%EC%B2%AB-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-MoE-%EB%AA%A8%EB%8D%B8)
@@ -3980,6 +3984,10 @@ NLP
 * [OpenCoder: Top-Tier Open Code Large Language Models](https://opencoder-llm.github.io/)
   * [OpenCoder-llm: The Open Cookbook for Top-Tier Code Large Language Model](https://github.com/OpenCoder-llm/OpenCoder-llm)
   * [OpenCoder: 최상위 코드 LLM을 위한 오픈 쿡북 | GeekNews](https://news.hada.io/topic?id=17675)
+* [OpenCompass](https://opencompass.org.cn/)
+  * [opencompass: OpenCompass is an LLM evaluation platform, supporting a wide range of models over 100+ datasets](https://github.com/open-compass/opencompass)
+  * [OpenCompass란? LLM 성능 평가부터 멀티모달·API 모델 평가까지 한눈에 알아보기 | digitalbourgeois](https://digitalbourgeois.tistory.com/3590)
+  * Llama3·Mistral·InternLM2·GPT-4·Qwen·GLM·Claude 등 다양한 모델을 100개+ 데이터셋으로 평가하는 LLM 평가 플랫폼. 멀티모달·API 모델 평가 지원. Python, 7.4k stars
 * [open\_flamingo: An open-source framework for training large multimodal models](https://github.com/mlfoundations/open_flamingo)
   * [OpenFlaminKO: Polyglot을 활용한 image-text multimodal](https://github.com/Marker-Inc-Korea/OpenFlaminKO)
     * [OpenFlaminKO - Polyglot-KO를 활용한 한국어 기반 MultiModal 도전기!](https://kyujinpy.tistory.com/100)
