@@ -4665,6 +4665,10 @@ NLP
 * [Smart Use of Legal NLP | Dr. Benjamin Werthmann, RAILS PyData Südwest / Big Data BBQ - YouTube](https://www.youtube.com/watch?v=0KfbrS_hUkQ)
 * [한국 교육법률 온톨로지 시각화 시스템](https://climtc.github.io/education-law-ontology/)
   * 국가교육발전계획 2028-2037 기반, 47개 교육 관련 법률×9개 프로젝트 분야 매핑 매트릭스. MiroFish GraphRAG + Multi-Agent Simulation 아키텍처 기반 비공식 연구용 사이트
+* [Introducing Gemini Enterprise for Legal | Google Cloud Blog](https://cloud.google.com/blog/products/ai-machine-learning/introducing-gemini-enterprise-for-legal)
+  * [법률 업무에 특화된 AI 플랫폼, Gemini Enterprise for Legal | digitalbourgeois](https://digitalbourgeois.tistory.com/3583)
+  * 법률 산업 특화 AI 솔루션. 계약 검토·규제 모니터링·DSAR 대응·문서 작성 자동화를 위해 법률 전문가와 함께 개발한 스킬, 시스템 연동, AI 에이전트, 파트너 생태계 4가지로 구성
+  * iManage·NetDocuments·Docusign·Everlaw 등 주요 법률 소프트웨어와 연동하며 기존 사용자 권한·데이터 격리를 유지한 엔터프라이즈급 거버넌스와 기밀성 보장
 * [korean-law-mcp: 대한민국 법률 검색 MCP 서버 및 CLI](https://github.com/chrisryugj/korean-law-mcp)
   * 법제처 Open API 기반 64개 법률 도구 제공. 법령·판례·행정규칙·조례·헌법재판소 결정 검색, 법률 약칭 자동 해석, 별표 마크다운 변환, 7개 복합 워크플로우 체인 도구. Claude Desktop·Cursor·Windsurf 등 MCP 클라이언트 지원
   * [나만의 인공지능 AI 변호사를 가져보세요 - YouTube](https://www.youtube.com/watch?v=GX0qaErlZuY)
