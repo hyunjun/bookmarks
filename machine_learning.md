@@ -756,6 +756,8 @@ Machine Learning
   * [Home — EvalML 0.23.0 documentation](https://evalml.alteryx.com/)
 * [mindsdb - Open Source AutoML for Developers](https://www.mindsdb.com/)
   * [mindsdb: In-Database Machine Learning](https://github.com/mindsdb/mindsdb)
+* [Octopus AutoML: Extracting Signal from Small and High-Dimensional Data - YouTube](https://www.youtube.com/watch?v=YPY0lY6tDvM)
+  * PyCon DE & PyData 2026. 임상시험 데이터처럼 작고 고차원인 테이블 데이터 전용 오픈소스 지도학습 AutoML 라이브러리—통계적으로 정직한 결과 보장과 데이터 누수(leakage) 방지 설계
 
 # Book
 * [패턴 인식 - 오일석](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788970859040&orderClick=LEA&Kc)
