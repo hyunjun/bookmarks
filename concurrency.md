@@ -112,6 +112,8 @@ Concurrency
 * [Dining philosophers problem](https://en.wikipedia.org/wiki/Dining_philosophers_problem)
 * [concurrent programming #1](https://01010011.blog/tag/concurrent/)
 * [백엔드 개발자들이 알아야할 동시성 1 — Concurrency와 Parallelism | by Choi Geonu | Medium](https://choi-geonu.medium.com/%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%93%A4%EC%9D%B4-%EC%95%8C%EC%95%84%EC%95%BC%ED%95%A0-%EB%8F%99%EC%8B%9C%EC%84%B1-1-concurrency%EC%99%80-parallelism-88c51aa2cdc5)
+* [SELECT FOR UPDATE를 걸었더니 처리량이 10분의 1로 떨어졌습니다 (비관적 락 vs 낙관적 락) - YouTube](https://www.youtube.com/shorts/tm-qpZMP8uk)
+  * 2분코딩. 비관적 락은 SELECT FOR UPDATE로 행을 잠가 충돌을 원천 차단, 낙관적 락은 version 컬럼으로 수정 시점에 충돌 감지. 충돌이 드물면 낙관적 락이 빠르지만 선착순 이벤트처럼 충돌이 잦으면 재시도 폭주로 비관적 락보다 느려짐
 
 # CUDA
 * [CUDA 툴킷 다운로드하고, GPU를 자유자재로 활용해보자!](http://blogs.nvidia.co.kr/2018/01/16/cuda-toolkit/)
