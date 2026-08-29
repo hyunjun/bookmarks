@@ -105,6 +105,10 @@ Hardware
   * [물리 SIM 슬롯만 있는 폰에서 9eSIM으로 eSIM 사용하기 | GeekNews](https://news.hada.io/topic?id=18825)
 * [Meet Kiro v1.0: The World’s First Personal Scanning Robot - YouTube](https://www.youtube.com/watch?v=OdagreVOfnA)
   * [Meet Kiro v1.0: The World’s First Personal Scanning Robot | 이태호 | 댓글 20](https://www.linkedin.com/posts/adldotori_meet-kiro-v10-the-worlds-first-personal-activity-7375949782844043265-5xyW) 개인용 자동스캔로봇
+* [Previewing the Model Hardware Standard | Anthropic](https://www.anthropic.com/news/model-hardware-standard-research-preview)
+  * [Model Hardware Standard - AI가 로봇과 실험 장비를 함께 다루게 하는 공통 표준 | GeekNews](https://news.hada.io/topic?id=32982)
+  * Anthropic과 HHMI Janelia가 개발. AI 에이전트가 물리 장비를 안전하게 조작하도록 실험실·제조 설비의 서로 다른 기기(현미경·로봇 팔·액체 처리기)를 read/write 같은 단순 명령의 표준 인터페이스로 통합—장비의 물리 특성·조정 범위·안전 한계를 기계 판독 형식으로 제공
+  * 기기 통합 시간을 수주~수개월에서 8시간 수준으로 단축. Genentech 단백질 분석, Carnegie Mellon 용량-반응 자동화, QuEra 양자 레이저 안정화(성공률 99.3%) 등 초기 적용 사례. 신청 기반 연구 프리뷰 중이며 안전 평가 후 오픈소스화 계획
 * [berry-doctor: 소규모 딸기 농가를 위한 무료 스마트팜 관리 도구](https://github.com/sinmb79/berry-doctor)
   * 카카오톡 기반 병해충 진단, 날씨 알림, 수확 추적, 온실 제어 추천. 고가 스마트팜 인프라 없이 사용 가능
 * [Making Software](https://www.makingsoftware.com/)
