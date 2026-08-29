@@ -1717,6 +1717,11 @@ Linux
   * [journalctl 사용법 :: Sysops Notepad](https://sysops.tistory.com/115)
 * [lolcat - Rainbows and unicorns!](https://github.com/busyloop/lolcat)
 * [nixar - New shell commandsJoyable equivalents for existent linux commands](http://nixar.work)
+* [Oh My Posh](https://ohmyposh.dev/)
+  * [oh-my-posh: The most customisable and low-latency cross platform/shell prompt renderer](https://github.com/jandedobbeleer/oh-my-posh)
+  * [We may have killed p10k, so I found the perfect replacement - YouTube](https://www.youtube.com/watch?v=9U8LCjuQzdc)
+    * Dreams of Autonomy. Powerlevel10k가 유지보수 최소 모드로 들어간 뒤 대안으로 Oh My Posh를 골라 p10k 설정과 동일하게 커스터마이즈한 과정
+  * 크로스 플랫폼·크로스 셸 프롬프트 렌더러. 커스터마이즈 자유도가 높고 지연이 낮음. Go, 23.4k stars
 * [Prezto - Instantly Awesome Zsh](https://github.com/sorin-ionescu/prezto)
 * [svsh - Take control of your supervisor](http://ido50.github.io/Svsh/)
 * [vnstat - Track and Log a Linux Server's Bandwidth Use](http://www.happyapps.io/blog/2015-08-15-track-and-log-a-linux-server-s-bandwidth-use)
