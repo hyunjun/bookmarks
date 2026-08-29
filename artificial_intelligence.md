@@ -1380,6 +1380,9 @@ Artificial Intelligence
   * [Building the Open Agent Ecosystem Together: Introducing OpenEnv](https://huggingface.co/blog/openenv)
     * Meta와 Hugging Face가 공개한 OpenEnv는 AI 에이전트 개발 환경 표준화 및 확장성을 목표로 하는 오픈소스 협업 프로젝트
     * 핵심 허브(OpenEnv Hub)에서 다양한 '에이전틱 환경(agentic environment)'을 제작, 테스트, 안전하고 일관된 에이전트 운영이 가능하도록 지원
+* [OpenExecutive: AI-powered virtual executive team](https://github.com/SenteLabsAI/OpenExecutive)
+  * 하버드 MBA급 지식의 시니어 어드바이저처럼 동작하는 가상 임원진—CSO·CFO·CHRO·법무·COO·CMO·CPO·이사회 커뮤니케이션 등 8개 전문 Claude 에이전트가 뒤에서 협업하고 사용자에게는 하나의 일관된 임원 목소리로 응답(내부 구조 비노출)
+  * 세션을 넘어 과거 결정·이니셔티브를 기억하는 에피소드 메모리와 후속 조치를 선제 제안하는 내장 스케줄러. FastAPI+Next.js, Apache-2.0, 2.5k stars
 * [OpenFang — The Agent Operating System](https://www.openfang.sh/)
   * [openfang: The Agent Operating System — open-source, built in Rust](https://github.com/RightNow-AI/openfang)
   * [32MB 단일 바이너리로 AI 에이전트 자율 실행 OpenFang 무료 에이전트 OS 완벽 가이드](https://fornewchallenge.tistory.com/entry/%F0%9F%9A%80-32MB-%EB%8B%A8%EC%9D%BC-%EB%B0%94%EC%9D%B4%EB%84%88%EB%A6%AC%EB%A1%9C-AI-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EC%9E%90%EC%9C%A8-%EC%8B%A4%ED%96%89-OpenFang-%EB%AC%B4%EB%A3%8C-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-OS-%EC%99%84%EB%B2%BD-%EA%B0%80%EC%9D%B4%EB%93%9C)
@@ -5736,6 +5739,9 @@ Artificial Intelligence
     * 30개 도구로 브라우저 제어, 스크린샷, 테스트 자동화. "see it, interact with it, and test it"
   * [GongMun-Doctor-MCP: AI 기반 한국어 공문서 교정 MCP 서버](https://github.com/sinmb79/GongMun-Doctor-MCP)
     * 100% 로컬 실행. 맞춤법·문법·공문서 서식 3단계 교정, hwpx/hwp 지원, 50개 행정문서 템플릿 내장
+  * [gpt-image-skill: Generate GPT images from Codex or Claude Code using a ChatGPT subscription, without the Images API](https://github.com/GENEXIS-AI/gpt-image-skill)
+    * [GPT Image Skill로 이미지 생성과 편집 환경 구축하기 | digitalbourgeois](https://digitalbourgeois.tistory.com/3579)
+    * Images API 없이 ChatGPT 구독만으로 Codex·Claude Code에서 GPT 이미지 생성·편집. JavaScript
   * [graph-workflow: Claude Code Graph Plugin Benchmark](https://graph.brnd.bio/)
     * DAG 기반 워크플로우 오케스트레이션. 시맨틱 인텐트 분류, 스킬 우선 라우팅, 2~4개 병렬 리서치 스트림, 적대적 검증(팩트체크·모순 감지), JSON 스펙 재현 가능 실행. v3.3 기준 92/100점, ~35분 내 복잡한 리서치 태스크 완료
   * [gstack: YC CEO Garry Tan's Claude Code workflow — opinionated slash commands for shipping](https://github.com/garrytan/gstack)
