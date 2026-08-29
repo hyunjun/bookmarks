@@ -303,6 +303,8 @@ Finance
 * [뉴테크프라임 » AIPilotSmarteasy 사용 사례 – AI 알고리즘 트레이딩으로 코인 거래하기 4](http://www.umlcert.com/aipilotsmarteasy-usecase-4/)
 * [뉴테크프라임 » AIPilotSmarteasy 사용 사례 – AI 알고리즘 트레이딩으로 코인 거래하기 5](http://www.umlcert.com/aipilotsmarteasy-usecase-5/)
 * [퀀트투자 분야에서 LLM을 사용할 수 있을까?](https://brunch.co.kr/@gauss92tgrd/172)
+* [Tidy Finance in Practice: How Explicit Assumptions Avoid Bad Investment Strategies - YouTube](https://www.youtube.com/watch?v=QAxh5FpVqT8)
+  * PyCon DE & PyData 2026. 극단적 음수 관측치 누락, 비선형 조작 등 암묵적 가정이 만드는 오해의 백테스트 성과 지표—Tidy Finance 원칙을 Python으로 적용해 숨은 가정을 드러내고 잘못된 투자 전략을 피하는 방법
 * [전종홍 - DeepSeek는 정말 실제로는 헤지펀드를 위한 사이드 프로젝트였던 것일까요 ? 미국 시장 조사 회사인... | Facebook](https://www.facebook.com/1biit/posts/pfbid02RSmx8ban35iGztCpKatY8tqAKvXMcaYwfiWExBQ1kibuSMYQvQ3bwQfvaEh9GZhil)
 * [구글 제미나이 3.0: 8분 만에 만드는 AI 주식 자동매매 시스템 (소스코드 무료 배포) - YouTube](https://www.youtube.com/watch?v=8BsHVuJdJgE)
   * [8분 만에 만드는 AI 주식 자동매매 시스템 (소스코드 무료 배포)](https://livewiki.com/ko/content/ai-stock-trading-system-source-code)
