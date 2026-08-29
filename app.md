@@ -324,6 +324,8 @@ App
   * [Hacking: Aircrack-ng on Mac OsX | Cracking wi-fi without kali in parallels](https://martinsjean256.wordpress.com/2018/02/12/hacking-aircrack-ng-on-mac-cracking-wi-fi-without-kali-in-parallels/)
   * [맥으로 WiFi 비밀번호 해킹하기](https://itselfstory.tistory.com/entry/%EB%A7%A5%EC%9C%BC%EB%A1%9C-WiFi-%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8-%ED%95%B4%ED%82%B9%ED%95%98%EA%B8%B0)
   * [Hacking WPA2 WiFi Networks | The Linux Rain](https://www.thelinuxrain.com/articles/hacking-wpa2-wifi-networks)
+* [airgorah: A WiFi security auditing software mainly based on aircrack-ng tools suite](https://github.com/martin-olivier/airgorah)
+  * aircrack-ng 도구 모음 기반 WiFi 보안 감사 GUI 소프트웨어. Rust, 1.7k stars
 * [Argus: The Ultimate Information Gathering Toolkit](https://github.com/jasonxtn/Argus)
   * OSINT·보안 평가용 정보 수집 플랫폼. 135개 모듈로 네트워크 분석, 웹 애플리케이션 스캔, 위협 인텔리전스 수집을 인터랙티브 CLI로 수행. Python 기반
 * [Awesome-Android-Reverse-Engineering: A curated list of awesome Android Reverse Engineering training, resources, and tools](https://github.com/user1342/Awesome-Android-Reverse-Engineering)
@@ -391,6 +393,8 @@ App
   * 마이크로소프트 월간 보안 업데이트(Patch Tuesday)를 분석·시각화하는 도구. CVE 심각도·악용 여부·유형별 통계와 추세를 제공. Python
 * [PwnPad: affordable, hands-on hardware hacking platform for practical learning](https://github.com/twelvesec/PwnPad)
   * 저렴한 실습형 하드웨어 해킹 학습 플랫폼. PCB 설계부터 사이드채널 공격까지 핵심 하드웨어 보안 개념을 단계별 챌린지로 학습. C++, GPL-3.0, 1.1k stars
+* [robin: AI-Powered Dark Web OSINT Tool](https://github.com/apurvsinghgautam/robin)
+  * AI 기반 다크웹 OSINT 도구. Python, 6.5k stars
 * [RustScan: The Modern Port Scanner](https://github.com/bee-san/RustScan)
   * 모든 65,535 포트를 몇 초 만에 스캔하고 발견한 열린 포트를 Nmap으로 자동 전달하는 초고속 포트 스캐너. 스크립팅 엔진(Python/Lua/Shell), 어댑티브 러닝, IPv6·CIDR 지원. Rust, 20k stars
 * [SearchPhone: OSINT toolkit for researching phone numbers | HackUnderway](https://github.com/HackUnderway/SearchPhone)
@@ -2628,6 +2632,7 @@ App
 * [Gfycat - 유튜브 영상·GIF 파일을 10분 1 크기로?](http://techholic.co.kr/archives/36747)
 * [hyperframes: Write HTML. Render video](https://github.com/heygen-com/hyperframes)
   * [HyperFrames - HTML로 비디오를 만드는 오픈소스 프레임워크 | GeekNews](https://news.hada.io/topic?id=28961)
+  * [HyperFrames란? HTML과 AI 에이전트로 만드는 자동화 영상 제작 프레임워크 | digitalbourgeois](https://digitalbourgeois.tistory.com/3570)
   * React 대신 순수 HTML/CSS+data attribute로 영상 구성. AI 에이전트 친화적, 빌드 단계 불필요. GSAP/Lottie/Three.js 등 커스텀 런타임 통합 Frame Adapter 패턴. Apache 2.0
 * [Immich](https://immich.app/)
   * [Don't Let Apple & Google Harvest Your Photos, Use Immich to Self-Host Your Own Cloud! - YouTube](https://www.youtube.com/watch?v=URJiQb8PwWo)
