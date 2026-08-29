@@ -683,6 +683,9 @@ Artificial Intelligence
   * 5단계 흐름: 대화(LLM의 한계 체감)→Agent Loop(도구를 부르는 루프가 에이전트의 본질)→도구 상자(함수+맵 한 줄+스키마 한 칸 단일 실행 맵)→가드레일(workspace 격리·검증, "사실은 코드가 책임진다")→감시봇 응용(닌텐도 재고 감시로 "어디에 LLM을 안 쓸지" 배우기). 완성본은 15개 도구, Plan→Execute→Verify, RAG 포함. Python
 * [A Visual Guide to AI Agents - by Rohit Kumar Tiwari](https://awesomeneuron.substack.com/p/a-visual-guide-to-ai-agents)
   * [A Visual Guide to AI Agents | 박상길](https://www.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_a-visual-guide-to-ai-agents-activity-7382937387913535488--P9o)
+* [The most important skills in Building and Deploying AI Applications | Andrew Ng](https://x.com/AndrewYNg/status/2090840747738374568)
+  * [앤드류 응이 정리한 AI 엔지니어링 스킬맵, AI 앱 구축에 필요한 6가지 핵심 역량 | digitalbourgeois](https://digitalbourgeois.tistory.com/3571)
+  * AI 애플리케이션 구축·배포에 가장 중요한 스킬을 정리한 스킬맵—6가지 핵심 역량
 * [Agentic AI 디자인 패턴 (Part 1): 기초 패턴과 실전 적용 | STONI](https://stoni.space/posts/ko/ai/agentic-ai-patterns-part1)
 * [Agentic AI 디자인 패턴 (Part 2): 오케스트레이션과 라우팅 | STONI](https://stoni.space/posts/ko/ai/agentic-ai-patterns-part2)
 * [Agentic AI 디자인 패턴 (Part 3): Multi-Agent 시스템 | STONI](https://stoni.space/posts/ko/ai/agentic-ai-patterns-part3)
@@ -1441,6 +1444,10 @@ Artificial Intelligence
 * [PaperClip — Open-Source Orchestration Platform for zero-human companies](https://paperclip.ing/)
   * [paperclip: Open-Source Orchestration Platform](https://github.com/paperclipai/paperclip)
   * [PaperClip + OpenClaw + OpenCode: The Ultimate Open Source Swarm Intelligence Mission Control - YouTube](https://www.youtube.com/watch?v=iNxNkvZfNHM)
+* [Paperthin — Low-level agentic design patterns](https://paperthin.ai)
+  * [paperthin: Turning old engineering wisdom into reflexes your agent reaches for on its own—on any agent](https://github.com/LilMGenius/paperthin)
+  * [AI 에이전트의 작업 품질을 높이는 Paperthin, 엔지니어링 원칙을 자동화하는 저수준 설계 패턴 | digitalbourgeois](https://digitalbourgeois.tistory.com/3585)
+  * 오래된 엔지니어링 지혜를 에이전트가 스스로 꺼내 쓰는 반사 행동으로 전환하는 저수준 에이전틱 설계 패턴 모음. 특정 에이전트에 종속되지 않음. Shell, 900 stars
 * [Philosophy_AI: Your AI is smart, but does it know you? Don't build just Agents. Build Identities](https://github.com/dev-whitecrow/philosophy_ai)
   * [Philosophy_AI: Your AI is smart, but does it know you? Don't build just Agents. Build Identities. | Yung J. Choi | 16 comments](https://www.linkedin.com/posts/yungdi_github-dev-whitecrowphilosophyai-your-activity-7421378252973416448-_Qdg)
 * [Pi - There are many coding agents, but this one is mine](https://pi.dev/)
@@ -1883,6 +1890,8 @@ Artificial Intelligence
   * 로컬 AI 세션 로그를 읽어 사용 패턴을 분석·인사이트화하는 VS Code 확장(데이터 외부 유출 없음). 어떤 하네스든 하나의 대시보드로. TypeScript, MIT
 * [awesome-harness-engineering: Awesome list for AI agent harness engineering: tools, patterns, evals, memory, MCP, permissions, observability, and orchestration](https://github.com/ai-boost/awesome-harness-engineering)
   * 하네스(컨텍스트 전달·도구 인터페이스·계획 아티팩트·검증 루프·메모리·샌드박스) 중심 큐레이션. "모델이 아니라 하네스에 집중—최고의 하네스는 모델이 좋아지면 불필요해질 구성요소를 알고 설계". CC0
+* [EvoHarness-RL: Learning Self-Evolving Runtime Harness for Long-Horizon LLM Agents](https://arxiv.org/abs/2608.05446v1)
+  * 장기 실행 LLM 에이전트가 상태 유지·진행 추적·도구 호출·결과 검증·경험 재사용을 위해 의존하는 외부 실행 지원(하네스). 노이즈 섞인 상호작용 트레이스로부터의 상태 형성(state formation)과 외부 상태 접근에 대한 런타임 제어라는 두 결합된 과제를 다룸
 * Graph Engineering
   * [Graph Engineering vs Loop Engineering: What Actually Changed | Louis Bouchard](https://www.louisbouchard.ai/graph-engineering-explained/)
     * [Graph 엔지니어링 vs Loop 엔지니어링: 실제로 달라진 것은 무엇인가 | digitalbourgeois](https://digitalbourgeois.tistory.com/3543)
