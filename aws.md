@@ -235,6 +235,9 @@ AWS
     * 인스턴스 생성부터 Plan 성공까지 스크린샷 포함 단계별 가이드
     * Supply Plan / Demand Plan 각각의 설정값 (검증 완료)
     * 데이터 검증 규칙 체크리스트 및 자주 발생하는 에러 해결 방법
+* [수요 패턴이 수요 모델을 고른다: Amazon Connect Decisions로 살펴보는 Agentic Demand Forecasting | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/single-model-not-forecast-sku)
+  * SKU를 ADI·CV² 지표로 4가지 수요 패턴으로 분류하고 WAPE(오차 크기)와 Bias(오차 방향)를 함께 측정해 숨은 예측 오류를 찾는 진단 방법
+  * Croston 같은 전통 시계열 기법부터 최신 파운데이션 모델까지 18종+ 도구 중 각 SKU 특성에 맞는 기법을 동적으로 선택. 프로모션·캘린더 등 외부 신호와 도메인 규칙을 학습 전후에 적용해 구축 시점에 멈추지 않고 계속 개선되는 예측 체계
 * [How to build a basic 2 nodes Jenkins architecture on AWS](https://hackernoon.com/how-to-build-a-basic-2-nodes-jenkins-architecture-on-aws-cb5c36a7d8d7)
 * [배포 자동화 젠킨스 AWS에서 사용하기 #jenkins - YouTube](https://www.youtube.com/watch?v=srXoakJ8Mx0)
 * [Jenkins + Docker + AWS EC2](https://okdevtv.com/mib/jenkins/docker)
