@@ -42,6 +42,10 @@ GIS
 * [Geospatial Sovereignty in the Age of AI.pdf](https://media.licdn.com/dms/document/media/v2/D4E1FAQGT6m6_AafHjg/feedshare-document-pdf-analyzed/B4EZsCiq.0GoAc-/0/1765274212510?e=1766016000&v=beta&t=Oo0LUGI1JR42xEQKP7OwfE5aMtLrebeKiSpK-TUqx2w)
   * OGC 행사에서 Carto 창업자가 발표한 자료
     * 이제 공간정보가 '특별'하지 않다는 점과 AI주권이 고립된 시스템을 의미하는 게 아니라고 강조한 점이 인상적
+* [2601.21149 Mobility-Embedded POIs: Learning What A Place Is and How It Is Used from Human Movement](https://arxiv.org/abs/2601.21149)
+  * [How mobility gives language models a deeper understanding of place | Google Research](https://research.google/blog/how-mobility-gives-language-models-a-deeper-understanding-of-place/)
+  * [이동 데이터로 장소를 이해하는 AI, Google Research의 ME-POIs | digitalbourgeois](https://digitalbourgeois.tistory.com/3560)
+  * 기존 지리공간 파운데이션 모델이 정적 텍스트 메타데이터에서 얻은 '장소 정체성'이나 이동 규칙성에 묶인 표현을 학습하는 데 그친다는 문제 제기—사람의 실제 이동에서 장소가 어떻게 사용되는지(POI의 기능)를 학습해 POI 표현에 임베딩
 
 # Go
 * [find3: High-precision indoor positioning framework, version 3](https://github.com/schollz/find3)
