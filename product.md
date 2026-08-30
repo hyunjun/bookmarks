@@ -226,6 +226,8 @@ Product
 * [내 경력을 구한 키보드 - YouTube](https://www.youtube.com/watch?v=BpDYrkHiNLc) ergonomic
 * [A Beginner's Guide to Split Keyboards](https://www.justinmklam.com/posts/2026/02/beginners-guide-split-keyboards/)
   * [분리형 키보드 초보자 가이드 | GeekNews](https://news.hada.io/topic?id=26853)
+* [After 11 Years... This Keyboard Has Been Dethroned - YouTube](https://www.youtube.com/watch?v=0dOTSnvq3eI)
+  * Switch and Click. 11년간 홈시어터 PC용 소파 키보드 기본값이던 Logitech K400 Plus를 대체할 후보 비교—CZUR Touchboard Pro, Rii i4 Mini, Fintie Ultra-Slim, iPazzPort, Arteck HW197, Clevetura S, Rii K22 (협찬·어필리에이트 포함)
 * [타이핑 웍스 typing works](https://typing.works/)
 * [AM AFA](https://www.angrymiao.com/am-afa/)
   * [집에서 석유가 솟으면 사고 싶은 키보드. 앵그리 미아오 AM AFA R2 - YouTube](https://www.youtube.com/watch?v=UrHt3nJxriI)
