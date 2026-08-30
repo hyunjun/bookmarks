@@ -1681,6 +1681,8 @@ App
 * ['최소 비용에 최대 기능' 맥 사용자를 위한 무료 앱 30가지](http://www.itworld.co.kr/news/150073)
 * [맥북 사면 바로 설치하는 무료 앱 9가지!](https://www.youtube.com/watch?v=q7CGf6bJ8AA) Spectacle, Appcleaner, Weather bug, Itsycal, Keka, Amphetamine, Helium 3, Encrypto, Alfred
 * [맥 사용자라면 바로 설치해야 할 무료 앱 35가지 - ITWorld Korea](https://www.itworld.co.kr/news/176764)
+* [10 Epic (Free!) Apps That Should Be Built Into macOS - YouTube](https://www.youtube.com/watch?v=jaFTv7uWBn0)
+  * Mostly Mac. macOS에 기본 탑재됐어야 할 무료 유틸 10종—Swift Salamander·Rascal(듀얼 페인 파일 매니저), Forel(파일 자동 정리), Ghostty(터미널), Amphetamine(절전 방지), Hyperkey(Caps Lock 재활용), Reminders Menubar, Vorssaint, Wick, Wisp. 협찬·어필리에이트 없음
 * [맥에서 아이폰 사진 앨범 일괄 전체 삭제 하는 방법](http://ddiriri.tistory.com/107)
 * [아이폰 사진 8만장 관리! 훨씬 더 쉽고 편한 방법이 있습니다 😲 - YouTube](https://www.youtube.com/watch?v=vXhYcS7f8rQ)
   * [아이폰 사진 8만장 관리! 훨씬 더 쉽고 편한 방법이 있습니다 😲 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/445309?sId=vXhYcS7f8rQ)
