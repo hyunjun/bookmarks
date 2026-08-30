@@ -1174,6 +1174,10 @@ Artificial Intelligence
 * Eve [Introducing eve: an open-source framework for building and deploying agents at scale | Vercel](https://vercel.com/blog/introducing-eve)
   * [Introducing eve | 박상길](https://www.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_introducing-eve-share-7476034323486269440-zgxy)
   * Vercel의 오픈소스 에이전트 프레임워크. 파일시스템 우선 설계(도구·스킬·지시·채널을 디렉토리로 구성), durable execution·샌드박스·휴먼 승인·옵저버빌리티 내장, Slack/Discord/Teams/GitHub 멀티채널 배포. `eve dev` 로컬 테스트·evals. "Next.js가 웹에 한 것을 에이전트에"
+* [EverOS](https://evermind.ai/everos)
+  * [EverOS: One portable memory layer for every AI agent: local-first, Markdown-native, user-owned, and self-evolving](https://github.com/EverMind-AI/EverOS)
+  * [EverOS란? AI 에이전트를 위한 로컬 우선 장기 메모리 런타임과 주요 기능 정리 | digitalbourgeois](https://digitalbourgeois.tistory.com/3557)
+  * 모든 AI 에이전트가 공유하는 포터블 메모리 레이어. local-first·Markdown 네이티브·사용자 소유이며 앱·도구·워크플로를 넘나들며 자기 진화. Python, 12.6k stars
 * [fantasy: Build AI agents with Go. Multiple providers, multiple models, one API 🧙](https://github.com/charmbracelet/fantasy)
 * [fara: Fara-7B: An Efficient Agentic Model for Computer Use](https://github.com/microsoft/fara)
   * Microsoft 7B Computer Use Agent(CUA). Qwen2.5-VL-7B 기반, Magentic-One 멀티에이전트로 생성한 145K 합성 trajectory SFT. 시각으로 마우스·키보드 좌표 직접 예측(접근성 트리·파싱 모델 불필요). 태스크당 평균 16스텝(비교 모델 ~41) 효율, 온디바이스 배포 가능. 웹 검색·요약, 폼 작성, 여행/티켓/예약, 쇼핑 비교, 구인/부동산. WebVoyager 73.5/Online-Mind2Web 34.1/DeepShop 26.2/WebTailBench 38.4 동급 SOTA. WebTailBench(11카테고리 609 실세계 웹 태스크)·CUAVerifierBench(trajectory judge 평가) 동반. Azure Foundry/vLLM/LM Studio/Ollama GGUF 로컬. MIT
@@ -1185,6 +1189,10 @@ Artificial Intelligence
   * [Flue - 샌드박스 에이전트 프레임워크 | GeekNews](https://news.hada.io/topic?id=29849)
   * [Flue: TypeScript 기반 자율 에이전트 개발 프레임워크 완전정복 | digitalbourgeois](https://digitalbourgeois.tistory.com/3290)
   * TypeScript 자율 에이전트/워크플로 프레임워크. "Agent = Model + Harness" 철학—Claude Code/Codex 같은 코딩 에이전트 경험을 헤드리스·프로그래머블하게 재구성. 4계층 아키텍처: Model(토큰·도구·프롬프트)/Harness(스킬·메모리·세션)/Sandbox(bash·보안·네트워크)/Filesystem(read·write·grep·glob). 서브에이전트, 도구, durable execution(실패·재시작 생존), MCP 서버, OpenTelemetry/Braintrust/Sentry 옵저버빌리티, Slack/Teams/Discord/GitHub 챗 통합. vercel-labs/just-bash 가상 샌드박스 기본(컨테이너 스폰 없이 빠른 스케일), Daytona 등 원격 샌드박스 연결. Node.js/Cloudflare Workers/GitHub Actions/GitLab CI/CD 동일 빌드. 민감 토큰(GITHUB_TOKEN) 분리. Apache-2.0 (Experimental). "다른 사람의 에이전트를 임대하지 말라" 철학
+* [freephdlabor](https://freephdlabor.github.io/)
+  * [freephdlabor: customizing personalized multiagent systems that researchs 24/7 on your own scientific problem](https://github.com/ltjed/freephdlabor)
+  * [2510.15624 freephdlabor 논문](https://arxiv.org/abs/2510.15624)
+  * 가설 생성부터 실험, 출판 가능한 원고 작성까지 과학 연구 전 주기를 자동화하는 오픈소스 멀티에이전트 프레임워크. 자신의 연구 문제에 맞춰 24/7 연구하는 개인화 멀티에이전트 시스템으로 커스터마이즈 가능. Python, MIT
 * [fullstack-agent: Give your AI a full stack: memory, voice, face, and hands](https://github.com/jaredrhod/fullstack-agent)
   * [Free on Github My Jarvis AI Assistant - YouTube](https://www.youtube.com/watch?v=FiOTrxq9ckM)
   * "AI 에이전트 갖고 싶다"의 지름길—설치 마법사로 jaredrhod 스택 전체를 구성하고 원하는 조각만 선택 가능. Memory(평문 텍스트 폴더를 매 대화 시작 시 읽고 작업하며 기록), Voice(키 누르고 말하면 음성 응답), Face·Hands(로컬 머신에서 실제 작업 수행). Shell
@@ -2070,6 +2078,11 @@ Artificial Intelligence
 # Library
 * [Model & API Provider Analysis | Artificial Analysis](https://artificialanalysis.ai/) 여러가지 기준으로 분석
 * [The Best Agent Framework Has Arrived (Coding Tutorial for PydanticAI w/ OpenAI, Ollama, AzureOpenAI) - YouTube](https://www.youtube.com/watch?v=xVe87QpNE80)
+* [2602.06036 DFlash: Block Diffusion for Flash Speculative Decoding](https://arxiv.org/abs/2602.06036)
+  * [DFlash 2 | inco.ai](https://inco.ai/blog/dflash2)
+  * [dflash-2 컬렉션 · Hugging Face](https://huggingface.co/collections/incoai/dflash-2)
+  * [DFlash 2, 병렬 Drafting으로 LLM 추론 속도를 높이는 방법 | digitalbourgeois](https://digitalbourgeois.tistory.com/3556)
+  * 자기회귀 LLM의 순차 디코딩 병목을 투기적 디코딩으로 완화하되, 기존 방식이 드래프팅 자체를 자기회귀로 해 여전히 순차적이라는 한계를 지적. 병렬 생성이 가능한 diffusion LLM을 블록 디퓨전 드래프터로 써서 속도를 높이는 접근
 * [A2A](https://github.com/google/A2A)
   * [Home](https://google.github.io/A2A/)
   * [/staticttps://a2a.dev/.html](https://a2a.dev/)
@@ -5716,6 +5729,10 @@ Artificial Intelligence
   * [diagram-design: 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop](https://github.com/cathrynlavery/diagram-design)
     * [이상선 - Claude Code·Codex용 오픈소스 다이어그램 디자인 도구 | Facebook](https://www.facebook.com/lsszz1/posts/pfbid035mgXZFCfkNDZRyBAEBjhvymYJ9fMCFh72gVd1syaGpobmbchaCGZ8XEyJt5ByqHml)
     * 플로우차트·아키텍처·타임라인·시퀀스 등 29종 에디토리얼 다이어그램을 자체 완결형 HTML+SVG로 생성하는 Claude Code 스킬. 프로젝트의 기존 색상·폰트를 분석해 서비스 디자인 스타일에 맞춰 구성. 17.6k stars
+  * [eli5: A Claude Code skill that explains anything to anyone: kids, managers, engineers, parents](https://github.com/dreambigou/eli5)
+    * [Building an ELI5 skill for Claude | Andrew Ou](https://andrewou.pages.dev/posts/building-an-eli5-skill-for-claude/)
+    * [Claude Code ELI5 Skill로 대상에 맞는 기술 설명 자동화하기 | digitalbourgeois](https://digitalbourgeois.tistory.com/3561)
+    * 무엇이든 상대에 맞춰 설명해주는 스킬. 아이·매니저·엔지니어·부모 등 청중에 따라 어조·어휘·비유를 조정. Python
   * [everything-claude-code: Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner](https://github.com/affaan-m/everything-claude-code)
     * [ECC Tools — Open Agent Harness System](https://ecc.tools/)
       * [ECC: The agent harness performance optimization system](https://github.com/affaan-m/ECC)
