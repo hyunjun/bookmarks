@@ -3894,6 +3894,10 @@ NLP
   * [LSP-AI : AI기능을 위한 오픈소스 랭귀지 서버 | GeekNews](https://news.hada.io/topic?id=15278)
 * [maestro: A framework for Claude Opus to intelligently orchestrate subagents](https://github.com/Doriandarko/maestro)
   * [Ollama 활용 🤖AI 자동화로 손쉽게 앱 만들기: Maestro 설치 및 활용](https://fornewchallenge.tistory.com/entry/Ollama-%ED%99%9C%EC%9A%A9-%F0%9F%A4%96AI-%EC%9E%90%EB%8F%99%ED%99%94%EB%A1%9C-%EC%86%90%EC%89%BD%EA%B2%8C-%EC%95%B1-%EB%A7%8C%EB%93%A4%EA%B8%B0-Maestro-%EC%84%A4%EC%B9%98-%EB%B0%8F-%ED%99%9C%EC%9A%A9)
+* [Marin](https://marin.community/)
+  * [marin: Open-source framework for the research and development of foundation models](https://github.com/marin-community/marin/)
+  * [535B-A23B MoE Hero Run: 18T 토큰 학습을 위한 Scaling Ladder와 대규모 GPU 학습 구조 | digitalbourgeois](https://digitalbourgeois.tistory.com/3564)
+  * 파운데이션 모델 연구·개발용 오픈소스 프레임워크. 535B-A23B MoE를 18T 토큰으로 학습하는 Hero Run에서 scaling ladder와 대규모 GPU 학습 구조 공개. Python, 3k stars
 * [MedLLMsPracticalGuide: Nature Reviews Bioengineering🔥 Application of Large Language Models in Medicine. A curated list of practical guide resources of Medical LLMs (Medical LLMs Tree, Tables, and Papers)](https://github.com/AI-in-Health/MedLLMsPracticalGuide)
 * [Mellum - 개발자를 위해 설계된 JetBrains의 새로운 LLM | JetBrains 블로그](https://blog.jetbrains.com/ko/blog/2024/11/21/introducing-mellum-jetbrains-new-llm-built-for-developers/)
 * [mem0: The memory layer for Personalized AI](https://github.com/mem0ai/mem0)
