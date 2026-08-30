@@ -3750,6 +3750,8 @@ Artificial Intelligence
 * [Qwen3.8-27B 정밀 분석 — 그리고 '독파모'에 대한 위협 평가 | Dennis Kim](https://www.linkedin.com/pulse/qwen38-27b-%EC%A0%95%EB%B0%80-%EB%B6%84%EC%84%9D-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EB%8F%85%ED%8C%8C%EB%AA%A8%EC%97%90-%EB%8C%80%ED%95%9C-%EC%9C%84%ED%98%91-%ED%8F%89%EA%B0%80-dennis-kim-huuxc)
   * 2026-08 공개된 Qwen3.8-27B의 강점—Apache 2.0 완전 개방, 에이전트 성능(OSWorld 84.3·WebArena 64.8), 네이티브 비전-언어 통합, RTX 3060 이상에서 로컬 운영 가능
   * 독파모 프로젝트에 대한 함의: 질문이 "글로벌 Top 모델을 만들 수 있는가"에서 "국산 모델을 왜 써야 하는가"로 이동. 존립 위협은 아니지만 경제적 명분을 잠식하는 기회비용 위협이며, 승부처는 벤치마크 추격이 아닌 한국어 도메인 깊이·규제 대응·감사 가능성
+* [독파모 2차 평가 결과로 본 AI 모델의 미래 - 벤치마크에서 실제 제품으로의 전환](https://sstratoshpere.tistory.com/123)
+  * 모티프 모델이 벤치마크 47점으로 높았는데도 탈락한 이유—모델이 똑똑한 것과 좋은 서비스를 만드는 것은 다르다는 관점. 평가가 지능(Function)뿐 아니라 성능·유지보수성·'일을 완료하는 데 드는 비용'까지 함께 보는 방향으로 이동
 * [Solar Open 2, 딥시크와 맞붙을 한국 AI의 첫 세계전 | nahz.org](https://nahz.org/posts/solar-open2-cerebras)
   * 업스테이지가 Cerebras와 공동 개최한 발표회에서 두 번째 독자 파운데이션 모델 Solar Open 2(250B) 공개. 벤치마크 점수보다 에이전트·추론 속도·국산 인프라를 강조한 행사 구성 분석
 * [DGX Spark 두 대로 경험하는 Solar Open 2 모델 서빙 | Backend.AI](https://www.backend.ai/ko/blog/2026-07-serving-solar-open-2-on-dgx-spark)
