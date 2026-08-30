@@ -1864,6 +1864,8 @@ Machine Learning
 * [3.3 4/4 뉴스 토픽 분류 랜덤포레스트 교차검증 데이콘에 제출하기 - YouTube](https://www.youtube.com/watch?v=05m8WyT7F50)
 
 # Reinforcement Learning
+* [The ultimate guide to RL environments: building and scaling them in the LLM era | Hugging Face Spaces](https://huggingface.co/spaces/AdithyaSK/rl-environments-guide)
+  * LLM 시대에 맞춘 강화학습 환경 구축·확장 종합 가이드. 실무 노하우와 베스트 프랙티스
 * [OpenAI Gym BETA - A toolkit for developing and comparing reinforcement learning algorithms. It supports teaching agents everything from walking to playing games like Pong or Go](https://gym.openai.com/)
 * [REINFORCEMENT LEARNING PART 1: Q-LEARNING AND EXPLORATION](https://studywolf.wordpress.com/2012/11/25/reinforcement-learning-q-learning-and-exploration/)
 * [Reinforcement Learning 1 - Expected Values](https://www.youtube.com/watch?v=3T5eCou2erg)
