@@ -785,6 +785,9 @@ Artificial Intelligence
 * [Making SPACE: Secure and Efficient Runtimes for Long-Running Agents | Perplexity Research](https://research.perplexity.ai/articles/making-space-secure-and-efficient-runtimes-for-long-running-agents)
   * [장시간 AI 에이전트를 위한 샌드박스 플랫폼, Perplexity SPACE 아키텍처 살펴보기 | digitalbourgeois](https://digitalbourgeois.tistory.com/3397)
   * Perplexity의 장시간(수시간~수일) 에이전틱 워크플로용 보안 샌드박스 플랫폼 SPACE. 악성·오동작 코드로부터 호스트와 다른 사용자 환경을 격리하면서 빠른 코드 실행을 제공하는 런타임 아키텍처
+* [Building Secure Environments for CLI Code Agents - YouTube](https://www.youtube.com/watch?v=PEJakKxVh1c)
+  * PyCon DE & PyData 2026, Harald Nezbeda. CLI 코딩 에이전트를 호스트에서 직접 돌릴 때의 위험(우발적 데이터 유출, 파괴적 파일시스템 작업, 악성 패키지 설치)—사용자 전체 권한으로 동작하는 에이전트가 개인 데이터·외부 네트워크·신뢰할 수 없는 콘텐츠 셋을 동시에 갖는 'lethal trifecta' 문제
+  * 호스트를 위험에 빠뜨리지 않고 에이전트를 쓰기 위한 컨테이너 기반 보안 환경 구축 데모
 * [AgentFS AI 에이전트의 안전한 I/O를 위한 파일시스템](https://codepointerko.substack.com/p/agentfs-ai-io)
 * [🗂️ AI 에이전트 도입 전에 회사를 하나의 "파일 시스템" 으로 바꾸세요 "에이전트 어떻게 써야 하죠?" 최근에 외부 행사에서 기업 규모를 가리지 않고 임원 분들을 만나면 저의 링크드인을 봤다고 말씀해주시면서 꼭 이 질문이 나옵니다. 아무리 바이브 코딩이 유행이라지만 솔직히 대부분의 업무는 코딩과 거리가 멀잖아요. 세상에 존재하는 노동자의… | Jeongmin Lee](https://www.linkedin.com/posts/jyoung105_ai-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EB%8F%84%EC%9E%85-%EC%A0%84%EC%97%90-%ED%9A%8C%EC%82%AC%EB%A5%BC-%ED%95%98%EB%82%98%EC%9D%98-%ED%8C%8C%EC%9D%BC-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%9C%BC%EB%A1%9C-%EB%B0%94%EA%BE%B8%EC%84%B8%EC%9A%94-activity-7428356829451255808-btFg)
 * [칼럼 | AI처럼 보이지 않고, 직원처럼 행동하는 AI를 만드는 방법 | CIO](https://www.cio.com/article/4129249/%EC%B9%BC%EB%9F%BC-ai%EC%B2%98%EB%9F%BC-%EB%B3%B4%EC%9D%B4%EC%A7%80-%EC%95%8A%EA%B3%A0-%EC%A7%81%EC%9B%90%EC%B2%98%EB%9F%BC-%ED%96%89%EB%8F%99%ED%95%98%EB%8A%94-ai%EB%A5%BC-%EB%A7%8C%EB%93%9C.html)
@@ -856,6 +859,8 @@ Artificial Intelligence
   * 핵심은 캐시 단가 차이—적중 시 1M 토큰당 $0.0028 vs 미스 시 $0.14(50배). OmP는 시스템 프롬프트 구조를 유지해 실사용 99.93% 적중률 달성, 연속 작업으로 캐시 TTL을 유지하면 적중률이 급상승. Meta Muse Spark 1.2도 더 저렴한 단가 구조 제공
 * [2506.02153 Small Language Models are the Future of Agentic AI](https://arxiv.org/abs/2506.02153)
   * [NVIDIA의 Peter Belcak가 소개하는 소형 언어 모델(SLM)이 에이전트 AI의 미래인 이유](https://www.arizekorea.com/insights/post/nvidias-small-language-models-are-the-future-of-agentic-ai-paper-jNrUOzqlulGhemG)
+  * [Demystifying Agentic AI Using Small Language Models - YouTube](https://www.youtube.com/watch?v=nk5BNz8v_9E)
+    * PyCon DE & PyData 2026, Serhii Sokolenko. GPU 팜 없이 SLM(10~30B, 16GB에 들어가는 모델)과 Iceberg 테이블로 확장 가능한 데이터 에이전트 구축. 추론 루프에 흔히 쓰는 LLM은 계산 비용이 크고 중복 데이터를 담고 있다는 문제 제기
 * [2510.06445 A Survey on Agentic Security: Applications, Threats and Defenses](https://arxiv.org/abs/2510.06445)
   * [전종홍 - ‘자율형 LLM 에이전트(agentic LLMs)’의 보안 문제를 체계적으로 정리하려는 첫시도. 기존... | Facebook](https://www.facebook.com/story.php?story_fbid=10164606243271410&id=683301409)
 * [2510.09244v1.pdf Fundamentals of Building Autonomous LLM Agents](https://arxiv.org/abs/2510.09244)
@@ -1884,6 +1889,9 @@ Artificial Intelligence
 * [출근하면 코드부터 짜던 개발자가 이제 봇부터 켭니다 | 요즘IT](https://yozm.wishket.com/magazine/detail/3906)
   * 하네스 엔지니어링 기반으로 직접 코드를 쓰던 방식에서 AI 봇(Anvil)에게 작업을 위임하는 방식으로 전환한 실무 기록. 봇 결과를 신뢰할 수 있는 이유는 자동 린트 검사·위험 명령 차단·정책 문서 기반 판단 같은 기술적 게이트가 모든 변경을 검증하기 때문
   * 개발자의 시간이 구현에서 정책 명시화·요구사항 문서화로 이동하고, 비개발자도 봇을 통해 개발 작업을 진행할 수 있게 됨
+* [How to Build a Software Factory for AI Coding Agents - YouTube](https://www.youtube.com/watch?v=tGbjIvvYuHE)
+  * Boundary 'AI That Works', Dex·Vaibhav 대담(71분). AI 에이전트가 사람 개입을 줄이며 코드를 쓰고 테스트·리뷰·배포까지 하는 '소프트웨어 팩토리' 아키텍처—전체 스택 자체 구축 vs 완전 관리형 구매(build vs buy) 판단, 개발 환경·코딩 하네스·컨트롤 플레인 계층 구분
+  * 내부/외부 하네스 구성, 에이전트 기반 머지 큐, 작업을 적절한 머신에 디스패치하기, 사용자 리포트에서 피드백 루프 자동화, 이슈 트리아지 eval 구축, 모델 전환의 숨은 비용, 에이전트 환경을 pets vs cattle로 관리하기, 가장 미개척 계층인 컨트롤 플레인
 * [2604.14228 Dive into Claude Code: The Design Space of Today's and Future AI Agent Systems](https://arxiv.org/abs/2604.14228)
   * [Dive-into-Claude-Code: Build Your Own AI Agent - A Design Guide](https://github.com/VILA-Lab/Dive-into-Claude-Code)
   * [Claude Code 아키텍처 분석: 에이전트 성능은 모델이 아니라 시스템 전체의 결과 | digitalbourgeois](https://digitalbourgeois.tistory.com/3257)
@@ -2097,6 +2105,8 @@ Artificial Intelligence
     * [Google A2A 프로토콜 첫인상 - MCP와의 비교 | GeekNews](https://news.hada.io/topic?id=20274)
   * [Building Multi-Agent with Google's A2A (Agent2Agent) Protocol, Agent Development Kit(ADK), and MCP (Model Context Protocol) - A Deep Dive(Full Code) | AI Cloud Lab](https://medium.com/ai-cloud-lab/building-multi-agent-ai-app-with-googles-a2a-agent2agent-protocol-adk-and-mcp-a-deep-a94de2237200)
   * [Google A2A Official Sample tutorials demo - YouTube](https://www.youtube.com/watch?v=3KXWyWeLWmg)
+  * [Building Agentic Systems with Python, LangGraph, MCP, and A2A - YouTube](https://www.youtube.com/watch?v=rJKBnHYicQA)
+    * PyCon DE & PyData 2026, Holger Nösekabel(TD Reply CTO). 허브앤스포크 아키텍처로 복잡한 비즈니스 프로세스를 자동화—M&A 대상 기업 식별·스코어링 사례. 코디네이터 에이전트가 데이터 수집·스코어링·아웃리치 전담 에이전트에 작업을 위임하고, MCP·A2A로 느슨한 결합 유지
   * [adk-bedrock-samples: A collection of sample agents built with Agent Development (ADK) and Amazon Bedrock](https://github.com/ksmin23/adk-bedrock-samples)
     * [(2) Amazon Bedrock과 Google ADK 연동 경험: AI Agent 개발의 새로운 가능성 | LinkedIn](https://www.linkedin.com/pulse/amazon-bedrock%EC%99%80-google-adk-%EC%97%B0%EB%8F%99-%EA%B2%BD%ED%97%98-ai-agent-%EA%B0%9C%EB%B0%9C%EC%9D%98-%EC%83%88%EB%A1%9C%EC%9A%B4-%EA%B0%80%EB%8A%A5%EC%84%B1-sungmin-kim-chpuc/?trackingId=Jgu32stehRa7c5xui4QB8A%3D%3D)
   * [ADK-sample](https://github.com/pjt3591oo/ADK-sample)
@@ -4699,6 +4709,9 @@ Artificial Intelligence
 * [Stitch - Design with AI](https://stitch.withgoogle.com/)
   * [GitHub - gemini-cli-extensions/stitch: The Stitch extension for Gemini CLI enables you to interact with the Stitch MCP server using natural language commands. | SangRok Jung](https://www.linkedin.com/posts/sangrok-jung-9ab787311_github-gemini-cli-extensionsstitch-the-activity-7419563139156992000-YbdF)
   * [stitch-mcp: Universal MCP Server for Google Stitch. Connect AI agents to your UI designs](https://github.com/Kargatharaakash/stitch-mcp)
+  * [말로만 앱 만들기?! Stitch + Gemini로 진짜 폰에 앱 설치까지 GO! - YouTube](https://www.youtube.com/watch?v=8nnZXhxW0XQ)
+    * [상세 가이드 | Easy Coding 네이버 블로그](https://blog.naver.com/goldensignal_/224394106209)
+    * 코드 한 줄 없이 바이브 코딩으로 안드로이드 앱 만들어 폰에 설치하는 3단계—① Stitch로 말로 앱 디자인 ② AI Studio로 보내 코틀린 앱 빌드 ③ 내 폰에 직접 설치
 * [Storytell.ai | Turn Data into Business Intelligence with AI](https://storytell.ai/)
   * [스토리텔AI로 10초 만에 운영전략 보고서 만들기 | 요즘IT](https://yozm.wishket.com/magazine/detail/3326/)
 * [Strix - The AI Penetration Testing Agent](https://www.strix.ai/)
@@ -6949,6 +6962,9 @@ Artificial Intelligence
 * [Spec-Driven Dev Is Back. But Not How You Think • Daniel Terhorst-North & Gojko Adzic • GOTO 2026 - YouTube](https://youtube.com/watch?v=6mLYZF97oaU)
   * BDD 창시자 Daniel Terhorst-North와 Gojko Adzic이 대담. 명세 기반 개발의 재조명, 새로운 관점에서 살펴보는 현대적 SDD
 * [Learnings from a No-Code Library: Keeping the Spec Driven Development Triangle in Sync | dbreunig](https://www.dbreunig.com/2026/03/04/the-spec-driven-development-triangle.html)
+* [Stop Writing Prompts. Start Writing Specs - YouTube](https://www.youtube.com/watch?v=Orr7qadkZD8)
+  * Microsoft Developer, Udo Diva(Microsoft MVP·클라우드 아키텍트). 프롬프트 우선 AI 코딩은 시작에는 유용했지만 큰 프로젝트·엔터프라이즈에서는 취약한 기반—프롬프트는 사적이고 일시적이며 리뷰가 어렵고 빌드는 되지만 요점을 놓친 결과물을 만든다는 문제 제기
+  * 프롬프트가 아니라 스펙을 주된 산출물로 다루는 전환. GitHub Enterprise·Copilot·Spec Kit과 VS Code 데모로 스펙 주도 개발 실천법 시연
 * [AddyOsmani.com - How to write a good spec for AI agents](https://addyosmani.com/blog/good-spec/)
   * [(번역) AI 에이전트를 위한 좋은 스펙 작성법 | Ykss](https://ykss.netlify.app/translation/2026/how-to-write-a-good-spec-for-ai-agents/)
   * AI 에이전트에게 방대한 정보를 한꺼번에 던지기보다, 명확한 구조와 경계를 가진 '스마트한 스펙' 제공이 핵심
