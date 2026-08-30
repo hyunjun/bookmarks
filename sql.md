@@ -1840,6 +1840,8 @@ SQL
 * [SQLite in production with WAL](https://victoria.dev/blog/sqlite-in-production-with-wal/)
 * [The Untold Story of SQLite With Richard Hipp - CoRecursive Podcast](https://corecursive.com/066-sqlite-with-richard-hipp/)
   * [**SQLite의 알려지지 않은 이야기 | GeekNews**](https://news.hada.io/topic?id=4558)
+* [Why Two Engineers Maintain the World's Most-Used Database - YouTube](https://www.youtube.com/watch?v=zzaj4ueQe8U)
+  * ByteMonk. 정부 지원 중단 시기에 한 사람이 만들어 이제 1조 대 이상 기기에서 도는 SQLite—미 해군 구축함에서 시작된 기원, 서버·설정 없는 라이브러리 구조, 파일 내부의 페이지와 B-tree, WAL(Write-Ahead Logging), 항공 소프트웨어 수준(DO-178B) 테스트, 그리고 두 명의 엔지니어가 유지보수하는 이유
 * [Show HN: SQLite query inside a Bash function | Hacker News](https://news.ycombinator.com/item?id=27762201)
 * [Using sqlite3 as a notekeeping document graph with automatic reference indexing](https://epilys.github.io/bibliothecula/notekeeping.html)
 * [35% Faster Than The Filesystem](https://www.sqlite.org/fasterthanfs.html)
