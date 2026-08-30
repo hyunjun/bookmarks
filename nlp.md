@@ -4538,6 +4538,8 @@ NLP
 * [Training 100x Cheaper Retrieval models: Neon and Castform | Neon Blog](https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency)
   * [100배 저렴한 오픈 모델로 GPT-5.6 Sol 수준의 검색 정확도 구현하기 | digitalbourgeois](https://digitalbourgeois.tistory.com/3480)
   * Castform으로 검색 태스크에 특화된 강화학습 후처리를 한 4B 오픈소스 모델이 GPT-5.6 Sol과 동급 검색 정확도를 내면서 비용은 1/100. 다중 홉 검색은 질문을 여러 단계로 나눠 반복 검색·종합해야 해서 프런티어 모델을 매 단계 호출하면 요청당 10초 이상·약 $0.03 발생—소형 모델 특화 학습이 대안
+* [Feeding the AI Brain: Building a Local, On-Premise RAG Pipeline - YouTube](https://www.youtube.com/watch?v=fQdig6v4dF8)
+  * 45Drives On-Prem AI 시리즈 2편. 민감 파일을 클라우드로 보내지 않고 사내 데이터를 온프레미스 AI 모델에 연결하는 엔드투엔드 RAG 파이프라인 설계·배포—문서 인제스트, 임베딩 생성, 벡터 DB 질의, 로컬 LLM 그라운딩까지. 청킹·임베딩 모델 선택이 결과에 미치는 영향
 * [2509.01092 REFRAG: Rethinking RAG based Decoding](https://arxiv.org/abs/2509.01092)
   * [Meta Researchers Introduce REFRAG: A New RAG Approach | Avi Chawla님이 토픽에 대해 올림 | LinkedIn](https://www.linkedin.com/posts/avi-chawla_researchersfrommetabuiltanewragapproach-activity-7383088093597220864-wXLO)
   * [토큰을 버리고 임베딩을 선택하다, Meta가 다시 쓴 RAG 공식 | Suk Hyun Kim](https://www.linkedin.com/posts/suk-hyun-kim-31ba9b369_ai-suaqtztfmqvz-rag-activity-7405368460823658496-aE2B)
@@ -4624,6 +4626,12 @@ NLP
 * [LumberChunker: Long-Form Narrative Document Segmentation](https://github.com/joaodsmarques/LumberChunker)
   * [2406.17526](https://arxiv.org/abs/2406.17526)
   * LLM을 활용해 장문 서사 문서를 의미론적으로 독립된 청크로 동적 분할. EMNLP 2024, GutenQA 데이터셋(100권 책, 3,000 QA 쌍) 제공
+* [OpenRAG](https://www.openr.ag/)
+  * [OpenRAG 문서](https://docs.openr.ag/)
+  * [Start using OpenRAG with Elestio](https://elest.io/open-source/openrag)
+  * [OpenRAG: Free Self-Hosted NotebookLM Alternative for Your Documents - YouTube](https://www.youtube.com/watch?v=tFJONNtDsiQ)
+    * Elestio. Elestio로 설치 후 기능 둘러보기—LLM 프로바이더 설정, OpenRAG만의 차별점 등
+  * 내 문서와 대화하는 무료 오픈소스 RAG 플랫폼. PDF·스프레드시트·슬라이드를 넣으면 출처(citation)와 함께 답변하고, MCP로 AI 에이전트와 연결. 완전 셀프호스팅 가능한 NotebookLM 대안
 * [PageIndex — Vectorless, reasoning-based RAG](https://pageindex.ai/)
   * [PageIndex](https://github.com/VectifyAI/PageIndex)
   * [Vectorless·Reasoning 기반 RAG, PageIndex로 다시 정의하는 문서 검색과 분석 :: 지식의 섬](https://digitalbourgeois.tistory.com/3062)
