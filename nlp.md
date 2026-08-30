@@ -2954,6 +2954,10 @@ NLP
   * [anthropic-cookbook/third_party/VoyageAI/how_to_create_embeddings.md at main · anthropics/anthropic-cookbook · GitHub](https://github.com/anthropics/anthropic-cookbook/blob/main/third_party/VoyageAI/how_to_create_embeddings.md)
   * [system_prompts_leaks/claude-3.7-full-system-message-with-all-tools.md at main · asgeirtj/system_prompts_leaks · GitHub](https://github.com/asgeirtj/system_prompts_leaks/blob/main/claude-3.7-full-system-message-with-all-tools.md)
     * ["Claude는 어떻게 응답을 결정할까?" — 유출된 시스템 프롬프트가 말해주는 AI의 내부 규칙](https://digitalbourgeois.tistory.com/1204)
+* [Colibrì](https://justvugg.github.io/colibri/)
+  * [colibri: Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk](https://github.com/JustVugg/colibri)
+  * [Colibrì, 25GB 환경에서 744B 거대 MoE 모델을 실행하는 AI 추론 엔진 | digitalbourgeois](https://digitalbourgeois.tistory.com/3563)
+  * 이미 가진 하드웨어에서 프런티어 MoE 모델을 돌리는 추론 엔진—expert를 디스크에서 스트리밍해 25GB 환경에서 744B 모델 실행. 순수 C, 의존성 없음. 26.4k stars
 * [cover-agent: CodiumAI Cover-Agent: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞](https://github.com/Codium-ai/cover-agent)
   * [We created the first open-source implementation of Meta’s TestGen–LLM | CodiumAI](https://www.codium.ai/blog/we-created-the-first-open-source-implementation-of-metas-testgen-llm/)
   * [Meta의 TestGen-LLM을 최초로 오픈소스로 구현 | GeekNews](https://news.hada.io/topic?id=14957)
@@ -4127,6 +4131,10 @@ NLP
     * [Qwen3.8-27B-Uncensored-MLX · Hugging Face](https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-MLX)
       * [Qwen3.8-27B-Uncensored-MLX - 애플 실리콘용 검열 제거 버전 | GeekNews](https://news.hada.io/topic?id=32636)
     * Qwen 팀의 27B 비전-언어 모델. Gated DeltaNet+Gated Attention 혼합 64층 아키텍처, 네이티브 262K(최대 1M) 컨텍스트. 코딩·에이전트 벤치마크 강세(SWE-bench Pro 61.7, OSWorld-Verified 84.3, GPQA Diamond 89.2). Apache-2.0
+  * [Qwen3.8-Flash-Next Technical Report PDF](https://github.com/QwenLM/Qwen3.8-Flash-Next/blob/main/tech_report.pdf)
+    * [Qwen3.8-Flash-Next: the foundation model developed by Qwen Team, Alibaba Group](https://github.com/QwenLM/Qwen3.8-Flash-Next/)
+    * [Qwen3.8-Flash-Next, 125B 규모를 효율적으로 활용하는 차세대 LLM 아키텍처 | digitalbourgeois](https://digitalbourgeois.tistory.com/3575)
+    * Qwen4를 뒷받침할 아키텍처를 미리 보여주는 실험적 프리뷰 모델. 전체 125B 파라미터 중 활성화는 6B—Hybrid Attention with QSA, Gated Residual, N-gram Embedding, 새 학습 방식 적용. 기본 262,144 토큰·최대 1M 토큰 컨텍스트
   * [Qwen3.8-max-preview 2.4조 파라메터 모델을 오픈으로 풀었다 - YouTube](https://www.youtube.com/watch?v=u45TJFlgGtA)
     * 토목엔지니어 돌종. 알리바바가 2.4조 파라미터 Qwen3.8-max-preview 공개(웨이트 미공개). 알리바바는 Fable 5 바로 아래 성능이라 밝힘, 돌종벤치(논리·수학·공학계산·코딩·도면·비전추론) 92점
     * [Alibaba's AI coded for 16 days straight and every commit is on GitHub - The New Stack](https://thenewstack.io/qwen-autonomous-coding-audit/)
@@ -4137,9 +4145,6 @@ NLP
     * [Qwen1.5-MoE: Matching 7B Model Performance with 1/3 Activated Parameters | Qwen](https://qwenlm.github.io/blog/qwen-moe/)
   * [🤖 QwenLong-L1.5: 4백만 토큰을 처리하는 알리바바의 최신 AI 모델](https://fornewchallenge.tistory.com/entry/%F0%9F%A4%96-QwenLong-L15-4%EB%B0%B1%EB%A7%8C-%ED%86%A0%ED%81%B0%EC%9D%84-%EC%B2%98%EB%A6%AC%ED%95%98%EB%8A%94-%EC%95%8C%EB%A6%AC%EB%B0%94%EB%B0%94%EC%9D%98-%EC%B5%9C%EC%8B%A0-AI-%EB%AA%A8%EB%8D%B8)
     * [2512.12967 QwenLong-L1.5: Post-Training Recipe for Long-Context Reasoning and Memory Management](https://arxiv.org/abs/2512.12967)
-  * [Qwen3.8-Flash-Next Technical Report PDF](https://github.com/QwenLM/Qwen3.8-Flash-Next/blob/main/tech_report.pdf)
-    * [Qwen3.8-Flash-Next, 125B 규모를 효율적으로 활용하는 차세대 LLM 아키텍처 | digitalbourgeois](https://digitalbourgeois.tistory.com/3575)
-    * Qwen4를 뒷받침할 아키텍처를 미리 보여주는 실험적 프리뷰 모델. 전체 125B 파라미터 중 활성화는 6B—Hybrid Attention with QSA, Gated Residual, N-gram Embedding, 새 학습 방식 적용. 기본 262,144 토큰·최대 1M 토큰 컨텍스트
   * [Sky-T1: Train your own O1 preview model within $450](https://novasky-ai.github.io/posts/sky-t1/)
     * [Sky-T1: $450로 o1 preview급의 고성능 추론 모델 훈련하기 | GeekNews](https://news.hada.io/topic?id=18764)
   * [smoothie-qwen: A lightweight adjustment tool for smoothing token probabilities in the Qwen models to encourage balanced multilingual generation.](https://github.com/dnotitia/smoothie-qwen)
