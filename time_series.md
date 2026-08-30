@@ -66,6 +66,8 @@ Time Series
   * [Inge van den Ende - Kickstart Your Probabilistic Forecasting | PyData Amsterdam 2025 - YouTube](https://www.youtube.com/watch?v=RIIfZ_Akeoc)
     * [확률론적 예측으로 포인트 예측 확장하기: PyData Amsterdam 2025 강연 요약](https://livewiki.com/ko/content/inge-ende-probabilistic-forecasting-pydata)
 * [Abhishek Murthy, Evans Addo - Classifying Time Series with Foundation Models (PyData Boston) - YouTube](https://www.youtube.com/watch?v=9n3dpkzPmSc)
+* [From Research Models to SLAs: Operationalizing TSFMs with Python - YouTube](https://www.youtube.com/watch?v=QkBtqERDlpg)
+  * PyCon DE & PyData 2026, Jeyashree Krishnan·Catarina Filipe. 시계열 파운데이션 모델(TSFM)을 연구 단계에서 엔터프라이즈 SLA를 만족하는 프로덕션 API·확장 가능한 Python 서비스로 옮기는 방법. 기존 예측이 요구하던 대량 데이터 수집·도메인별 모델 개발·지속적 재학습 부담을 줄이는 접근
 
 # Book
 * [Deep Learning for Time Series Forecasting - Predict the Future with MLPs, CNNs and LSTMs in Python](https://machinelearningmastery.com/deep-learning-for-time-series-forecasting/)
