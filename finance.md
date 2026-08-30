@@ -315,6 +315,9 @@ Finance
   * 깨비증권 마블TV. KB증권이 출시한 Open API 소개와 실전 활용—API 개념, 활용 사례(자동매매·퀀트·AI비서·잔고 조회), API key 신청, 문서 확인, GPT/Claude로 코딩 몰라도 시세조회·매수/매도하는 나만의 앱 만들기까지 5파트 구성
 * [Show GN 여러 주식 및 경제지표 비교 사이트 | GeekNews](https://news.hada.io/topic?id=26813)
   * 비개발자가 AI 도움으로 만든 주식·경제 지표 비교 차트 사이트. 여러 종목의 수익률·가격 추이를 기간별로 복잡한 설정 없이 비교
+* [I Built an AI Finance Team That Runs Itself With Claude (Full Tutorial) - YouTube](https://www.youtube.com/watch?v=MvUYORJpDSc)
+  * Luke Finance. Claude Cowork 안에 매출·비용·FP&A·CFO 리포팅 4개 전담 매니저로 월말 결산 사이클 전체를 자동화하는 AI 재무 팀 구축. 각 매니저를 재사용 가능한 Claude Skill로 만들고 구조화된 핸드오프·의존성 체크를 갖춘 플러그인으로 묶어 한 명령으로 전체 워크플로 실행
+  * 산출물은 이사회용 CFO 리포트, PowerPoint 발표자료, 액션 리스트, 인터랙티브 대시보드
 * [The MCP Features Bloomberg Built for High Stakes Financial AI - YouTube](https://www.youtube.com/watch?v=z6SuFQYClQI)
 * [2512.10971 AI-Trader: Benchmarking Autonomous Agents in Real-Time Financial Markets](https://arxiv.org/abs/2512.10971)
   * 주식하는 AI 에이전트, [홍콩대가 만든 밤낮없이 시장을 보고, 뉴스도 읽고, 스스로 판단하는 AI-Trader는 정작 성적표는 꽤 인간적](https://www.facebook.com/socialego/posts/pfbid0vDy6kZfygZnjAid17TiQJvvB3PunVbnpTSiAV1RHCYcDwnR9Fhszump1fS6kRWVKl)
