@@ -334,6 +334,9 @@ Business
   * [7thPseudoCon 정이태 그래프 오마카세 주방장이 말하는 현업과 학업간 괴리 - Google Slides](https://docs.google.com/presentation/d/1U4ndOKl1SAnfYuR2Up9QNMG4y--8yfqI5_rhFBGsxn0/edit?slide=id.g25d16e6e663_0_71#slide=id.g25d16e6e663_0_71)
   * [팔란티어에서 FDE(forward deployed engineer)로 근무했던 Nabeel S. Qureshi 팔란티어 8년 회고글](https://www.linkedin.com/posts/yitaejeong_%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94-%EC%A0%95%EC%9D%B4%ED%83%9C%EC%9E%85%EB%8B%88%EB%8B%A4-%EC%9A%94%EC%A6%98-%ED%8C%94%EB%9E%80%ED%8B%B0%EC%96%B4-%EA%B8%80%EC%9D%B4-%EC%9D%B4%EC%A0%84-%EB%8C%80%EB%B9%84-%EB%8D%94%EC%9A%B1-%EB%A7%8E%EC%9D%B4-%EB%B3%B4%EC%9D%B4%EA%B3%A0-activity-7352189163703558146-9a6C/)
     * 제품 이전에 사람과 조직문화가 중요
+* [How Palantir Scaled: Why the Best Software Is Built Backwards - YouTube](https://www.youtube.com/watch?v=3c0iaLanhyk)
+  * [Palantir 13년차 수석 아키텍트가 설명하는 FDE(전방 배치 엔지니어링) 모델의 정의와 실무 | OKKY](https://okky.kr/spaces/okky-fde/1562294)
+  * a16z Deep Dives. Palantir 수석 아키텍트 Akshay Krishnaswamy가 설명하는 Forward Deployed Engineer 모델—고객 현장의 구체적 결과에서 출발해 거꾸로 범용 제품을 만드는 방식. 용역·솔루션 조직과 다른 점, 개별 고객 성공과 제품 일반화라는 이중 목표
 * [The Anthropic Hive Mind. As you’ve probably noticed, something… | by Steve Yegge | Feb, 2026 | Medium](https://steve-yegge.medium.com/the-anthropic-hive-mind-d01f768f3d7b)
   * [AI기업 Anthropic은 어떻게 일하는가](https://brunch.co.kr/@230kimi/47)
   * [Anthropic이 OpenAI보다 잘하고 있는 핵심 포인트를 정리했습니다. 90일 이상 계획 없음, 일이 넘침, 정치 없음, Yes 모드, 도그푸딩. Steve Yegge가 Anthropic 직원 40명과 대화하고 쓴 'The Anthropic Hive Mind' 글에서 뽑은 6가지입니다. 1. Golden Age = 일 > 사람 일이 사람보다… | 정구봉 Goobong Jeong](https://www.linkedin.com/posts/gb-jeong_anthropic%EC%9D%B4-openai%EB%B3%B4%EB%8B%A4-%EC%9E%98%ED%95%98%EA%B3%A0-%EC%9E%88%EB%8A%94-%ED%95%B5%EC%8B%AC-%ED%8F%AC%EC%9D%B8%ED%8A%B8%EB%A5%BC-%EC%A0%95%EB%A6%AC%ED%96%88%EC%8A%B5%EB%8B%88%EB%8B%A4-activity-7426380560358383617-fKli)
