@@ -271,6 +271,10 @@ Data Visualization
 * [Evidence - Business Intelligence as Code](https://evidence.dev/)
   * [evidence: Business intelligence as code: build fast, interactive data visualizations in SQL and markdown](https://github.com/evidence-dev/evidence)
   * 드래그앤드롭 BI 도구의 코드 기반 오픈소스 대안. SQL과 마크다운으로 인터랙티브 데이터 제품 제작
+* [Flint — A visualization language for AI agents](https://microsoft.github.io/flint-chart/)
+  * [flint-chart: 🪄 Flint is a visualization language that lets AI agents reliably create expressive, good-looking charts from simple, human-editable chart specs](https://github.com/microsoft/flint-chart)
+  * [AI 시대의 시각화 언어, Flint로 간결한 차트 명세부터 다양한 백엔드까지 연결하기 | digitalbourgeois](https://digitalbourgeois.tistory.com/3587)
+  * Microsoft. 사람이 직접 편집할 수 있는 간결한 차트 명세로 AI 에이전트가 표현력 있고 보기 좋은 차트를 안정적으로 만들게 하는 시각화 언어. 여러 렌더링 백엔드 연결. TypeScript, 4.1k stars
 * [flourish.studio](https://flourish.studio/) Beautiful and easy data visualization and storytelling
 * [Graphic Walker — Open-source Tableau-style visual analytics](https://kanaries.net/graphic-walker)
   * [graphic-walker](https://github.com/Kanaries/graphic-walker)
