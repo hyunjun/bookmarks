@@ -52,6 +52,8 @@ Product
 * [I've Used All The Notebooks - Tyler Cipriani](https://tylercipriani.com/blog/2022/04/30/ive-used-all-the-notebooks/)
 * [스팸기름 떡칠도 닦아버리는 미친 성능의 안경닦이 물티슈ㅣ내돈내산 - YouTube](https://www.youtube.com/watch?v=Jl4lTbH2YRY)
 * [스마트 퍼니처 | 기발한 공간 절약 디자인 & 숨겨진 문 ▶13 - YouTube](https://www.youtube.com/watch?v=_WDPcFQw4ag)
+* [The Secret to a Perfect Murphy Bed: Engineering, Mechanisms & DIY Assembly - YouTube](https://www.youtube.com/watch?v=0U14ugOw5vw)
+  * Simple Vision. 가로형 머피 베드(접이식 벽침대) 전체 제작 과정—캐비닛 조립, 서랍 제작, 머피 베드 조립, 디자인 변형, 최종 설치·작동. 소형 아파트·게스트룸 등 공간 절약용 설계. Patreon에 도면·가이드 제공
 * [이 캐리어가 여행용 끝판왕인 이유 - 장박사의 해외여행 캐리어 추천 - YouTube](https://www.youtube.com/watch?v=xMUE9JtXEc8) RTRUNK
 * [Must-Have Gadgets for a Perfect Workspace - YouTube](https://www.youtube.com/watch?v=HJiZWkoypW4)
 * ["최소 3천만 원 쓰고 알았어요.." 가장 만족한 데스크 셋업 인생템 BEST 7 - YouTube](https://www.youtube.com/watch?v=HE72aDe_BjU)
