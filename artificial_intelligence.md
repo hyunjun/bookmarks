@@ -1511,6 +1511,11 @@ Artificial Intelligence
   * 멀티 에이전트 시스템을 위한 Byzantine fault-tolerant 합의 기반 검증 가능 기관 메모리 레이어. CometBFT 합의를 통해 에이전트가 지식을 축적, 검증, 공유
 * [safepilot: AI assistant that executes real work, safely](https://github.com/3DCF-Labs/safepilot)
   * 셀프호스팅 AI 어시스턴트. Telegram 기반 인터페이스, 체크포인트 승인 시스템으로 위험 작업 사전 차단, Slack/GitHub/Notion/Jira 등 연동. 서브프로세스 격리로 API 키 유출 방지
+* [ScientistOne](https://scientist-one.github.io/)
+  * [2605.26340 ScientistOne: Towards Human-Level Autonomous Research via Chain-of-Evidence](https://arxiv.org/abs/2605.26340)
+  * [generated-artifacts](https://github.com/scientist-one/generated-artifacts)
+  * [ScientistOne, 증거 체인으로 검증 가능한 자율 AI 연구를 구현하다 | digitalbourgeois](https://digitalbourgeois.tistory.com/3554)
+  * 자율 연구 에이전트의 산출물이 겉보기 평가로는 안 잡히는 검증 실패(조작된 인용, 재현 안 되는 점수, 구현과 어긋난 방법 서술)를 담는 문제를 지적. 모든 주장이 증거 출처까지 추적 가능해야 한다는 Chain-of-Evidence(CoE) 프레임워크와 이를 구현한 엔드투엔드 자율 연구 시스템
 * [second-brain: LLM-based personal knowledge management](https://github.com/NicholasSpisak/second-brain)
   * 원본 자료를 Obsidian 구조화 위키로 자동 변환. 엔티티·개념·교차참조 페이지 생성. Karpathy의 LLM Wiki 패턴 기반—AI가 사서, 사용자가 큐레이터. 4개 스킬(설치·수집·질의·유지보수), Claude Code/Cursor/Gemini CLI 등 지원
 * [self_evolving_code_review_agent (Hands-On-AI-Engineering)](https://github.com/Sumanth077/Hands-On-AI-Engineering/tree/main/ai_agents/self_evolving_code_review_agent)
