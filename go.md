@@ -1007,6 +1007,8 @@ Go
   * [Wails v3 Beta is here!](https://v3.wails.io/blog/wails-v3-beta/)
     * [Wails v3 Beta, Go 데스크톱 앱 개발 구조를 다시 설계하다 | digitalbourgeois](https://digitalbourgeois.tistory.com/3531)
     * v3는 기능 추가가 아니라 앱 구성 방식 자체를 재설계. `wails.Run(...)` 대신 Application/Window/Service를 명시적 객체·수명주기로 관리, 멀티윈도우 기본 지원, binding 대신 Service로 API 경계 구분, Go 정적 분석 기반 TypeScript 바인딩(주석·파라미터명 보존), Taskfile 빌드, Server Build(네이티브 창 없이 실행). macOS/Windows/Linux(GTK4+WebKitGTK 6.0), iOS/Android 실험적. 안정판은 여전히 v2이며 v2→v3는 실질적 포팅 필요
+    * [Wails V3: Go's Best GUI Framework (Electron Killer?) - YouTube](https://www.youtube.com/watch?v=N5bH6ALXX4U)
+      * Practical Coder. Wails V3 소개·첫 앱 만들기 실습. Electron(Chromium 번들, 앱당 최소 ~200MB)과 달리 Tauri처럼 OS 네이티브 웹뷰를 써서 빌드 크기·메모리·성능 우위. 대규모 성능 요구나 기존 Rust 코드가 없다면 Tauri보다 단순함·DX에서 Wails 추천. V3 전면 재작성—앱/윈도우 초기화 분리로 멀티윈도우 용이, 런타임에서 로직 디커플링
 
 ## Library logging
 * [Concurrent Logging - in Golang](https://jusths.tistory.com/128)
