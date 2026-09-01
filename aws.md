@@ -844,6 +844,9 @@ AWS
   * [Managed Harness - Amazon Bedrock AgentCore](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/harness.html)
     * [Bedrock AgentCore Managed Harness 심층 해부: 3번의 API 호출로 끝나는 에이전트 배포](https://jesamkim.github.io/ai-tech-blog/posts/2026-04-26-bedrock-agentcore-managed-harness-deep-dive/)
     * 선언형(model+systemPrompt+tools) 에이전트 배포. Strands Agents 엔진, microVM 세션 격리, 영속 파일시스템. 프리뷰 4개 리전, 추가 과금 없음
+  * [Amazon Bedrock AgentCore로 멀티 데이터소스 자연어 질의 에이전트를 프로덕션에 배포하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/amazon-bedrock-agentcore-multi-datasource-nlp-agent-production)
+    * AWS Summit Seoul "200개국 삼성 스마트 TV 앱 데이터를 자연어로 묻다" 세션 기반. 삼성전자 TV Apps Service 팀이 LangGraph PoC(Supervisor+KPI 조회·앱 지원·앱 검색 하위 에이전트)를 기존 코드 거의 그대로 AgentCore 운영 레이어에 올려 프로덕션화한 사례—Runtime(microVM 세션 격리), Gateway(검증계·운영계 DB·KPI 스토어를 단일 엔드포인트로+시맨틱 도구 검색), Memory(세션 멀티턴), Observability(CloudWatch), Policy(Cedar 기반 read-only 강제), Evaluations(CI 품질 게이트), Cognito JWT 인증
+    * 에이전트 프레임워크는 "두뇌"를 만들 뿐 운영 레이어는 별개라는 교훈. 프로덕션 전환 5대 한계(멀티 데이터소스 관리·동적 확장 불가·블랙박스 실행·인프라 부담·메모리 관리)와 실제 구성 코드·시행착오 정리
 * [Amazon Nova - Explore Amazon Nova foundation models](https://nova.amazon.com/)
   * [아마존, 웹 브라우저에서도 작동하는 생성형 AI 에이전트 플랫폼 ‘노바’ 공개 < 플랫폼 < AI Tech < 기사본문 - 인공지능신문](https://www.aitimes.kr/news/articleView.html?idxno=34429)
   * [Introducing Amazon Nova Sonic: Human-like voice conversations for generative AI applications | AWS News Blog](https://aws.amazon.com/ko/blogs/aws/introducing-amazon-nova-sonic-human-like-voice-conversations-for-generative-ai-applications/)
