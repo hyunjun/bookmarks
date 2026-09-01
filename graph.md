@@ -283,6 +283,9 @@ Graph
 * [LightRAG: Simple and Fast Retrieval-Augmented Generation](https://arxiv.org/abs/2410.05779)
   * [LightRAG](https://github.com/HKUDS/LightRAG)
   * 텍스트 인덱싱에 그래프 구조 통합한 dual-level 검색. NaiveRAG, GraphRAG보다 우수한 성능
+* [neocarta: Library built for generating semantic layer graphs for query routing, query generation and data discovery](https://github.com/neo4j-labs/neocarta)
+  * [Neocarta로 구축하는 Neo4j 기반 Semantic Layer와 AI Agent 데이터 활용 | digitalbourgeois](https://digitalbourgeois.tistory.com/3593)
+  * Neo4j Labs의 시맨틱 레이어 구축 라이브러리. 원본 데이터는 소스에 그대로 두고 스키마 메타데이터·비즈니스 용어집·메트릭 정의·쿼리 이력만 Neo4j 그래프로 통합, MCP 서버로 AI 에이전트에 제공—어떤 데이터가 어디에 있고 무엇을 뜻하며 어떻게 조인되는지 이해시켜 Text2Query·쿼리 라우팅·데이터 디스커버리를 신뢰성 있게. BigQuery 등 커넥터 제공. Python, Apache-2.0
 * [ontoflow: Ontology-native workflow automation for explainable business operations](https://github.com/llmragdev/ontoflow)
   * 업무 데이터 모델과 업무 절차 실행을 연결해 사람이 이해·추적할 수 있는 업무 자동화를 만드는 공개 아키텍처 프로젝트. 대화형 AI나 도구 연결만으로는 답하기 어려운 질문—어떤 업무 데이터의 어떤 값이 바뀌었고 어느 단계에서 만들어졌는지, 외부 API·MCP 도구 호출의 입·출력 추적, 어떤 검증 규칙이 통과/실패했는지, 후보 변경이 언제 실제 데이터에 반영되는지—를 제품 구조의 핵심으로 다룸
 * [Ontology-Playground: Free, open-source web app for learning about ontologies and Microsoft Fabric IQ](https://github.com/microsoft/Ontology-Playground)
