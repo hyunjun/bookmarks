@@ -1873,6 +1873,9 @@ Artificial Intelligence
 * [Using LLMs to secure source code | Claude](https://claude.com/blog/using-llms-to-secure-source-code)
   * [defending-code-reference-harness: Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can /customize | Anthropic](https://github.com/anthropics/defending-code-reference-harness)
   * Anthropic이 보안팀과의 협업(Glasswing)에서 얻은 학습 기반 자율 취약점 탐지·교정 레퍼런스 하네스. recon→find→triage→report→patch 루프, Claude Code 스킬(`/threat-model`·`/vuln-scan` 등). Bedrock/Vertex/Azure 호환. 관리형은 Claude Security. Apache 계열, 5.8k stars
+* [vulnerability-harness: Specialized LLM agents that confirm real vulnerabilities by executing a PoC in a Docker sandbox — per-file hunters, reviewer-verified, no flagship model required](https://github.com/ksgsslee/vulnerability-harness)
+  * Mythos·프리뷰 모델 없이 Bedrock(또는 OpenAI 호환 엔드포인트)의 일반 모델(Sonnet·Opus 등)만으로 도메인·언어 무관하게 취약점을 찾는 방어용 하네스. 파일별 독립 헌터 세션이 각기 다른 취약점 렌즈(injection·SSRF·역직렬화·접근제어·경로탐색)로 검사하고, 단순 코드 분석을 넘어 PoC를 작성해 Docker 샌드박스에서 직접 실행—재현된 취약점만 리포트하며 Reviewer가 PoC 재실행으로 검증. Python, Apache-2.0
+  * 잘 알려진 오픈소스 대상 전체 파일의 1~3%(30개 내외)만 돌려 공개 CVE 확보: Django(CVSS 8.8, SSRF/file write→RCE, 2026년 최고)·LangChain(8.2, 역직렬화, 2026년 최고)·Apache Shiro(8.2, 인증 우회)·authentik(9.4)·Keycloak(4.9), k8s(Go)·nginx(C/C++)는 CVE 발급 절차 진행 중. 접근 방식은 Security Agent 코드 스캐닝·Continuum과 유사—커스터마이징이 필요하면 이 하네스, 매니지드를 원하면 해당 서비스로 연결하는 식으로 활용
 * [Harness engineering for coding agent users | Martin Fowler](https://martinfowler.com/articles/harness-engineering.html)
   * 코딩 에이전트 사용자를 위한 하네스 엔지니어링. (기존 exploring-gen-ai 시리즈와 별개 글)
 * [프로덕션 Multi-Agent 시스템이 해결해야 할 5가지 문제 – Deep Insight 아키텍처로 배우는 실전 설계 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/practical-design-lessons-from-the-deep-insight-arch/)
@@ -3734,6 +3737,8 @@ Artificial Intelligence
   * Anthropic의 반복적 소통 실패 분석: 2025.8 품질 저하(라우팅 오류 16%), 2026.3 Claude Code reasoning effort 무단 축소, 직원 60명 접근 차단. 기술 경쟁 가속에도 사용자 신뢰가 시장 지배력을 결정한다는 주장
 * [고영혁 Dylan - Claude Design이 Claude Code API와 완전 통합 | Facebook](https://www.facebook.com/Dylan.Y.Ko/posts/pfbid0LtibJD2GhadyrKNEaBQZn1dYn9fPtoAiQEg6fyXkRtsdqDPhfwGqgg7nKKWqv2KHl)
   * 새 `/design-sync` 네이티브 스킬로 Claude Design ↔ Claude Code 연결. 디자인 산출물과 코드를 양방향 동기화
+* [클로드 역대급 디자인 스킬 업데이트 /design - YouTube](https://www.youtube.com/watch?v=QWMIQFJye-A)
+  * 코드팩토리. Claude의 `/design` 디자인 스킬 업데이트 소개—디자인까지 영역을 넓힌 Claude의 새 기능 시연
 * [How domain expertise shapes agentic coding | Anthropic](https://www.anthropic.com/research/claude-code-expertise)
   * [앤트로픽도 바이브 코딩에서 코딩 지식보다 도메인 전문 지식이 중요하다고 | 배승용](https://www.linkedin.com/posts/beseeyong_%EC%95%A4%ED%8A%B8%EB%A1%9C%ED%94%BD%EB%8F%84-%EB%B0%94%EC%9D%B4%EB%B8%8C-%EC%BD%94%EB%94%A9%EC%97%90%EC%84%9C-%EC%BD%94%EB%94%A9-%EC%A7%80%EC%8B%9D%EB%B3%B4%EB%8B%A4-%EB%8F%84%EB%A9%94%EC%9D%B8-%EC%A0%84%EB%AC%B8-%EC%A7%80%EC%8B%9D%EC%9D%B4-%EC%A4%91%EC%9A%94%ED%95%98%EB%8B%A4%EA%B3%A0-share-7475004246380306432-XGcH)
   * Claude Code 세션 약 40만 건 분석. 코딩 숙련도보다 도메인 전문성이 성공을 좌우—전문성이 깊을수록 지시당 Claude가 더 많은 일 수행(초보 액션 5개·600단어 vs 전문가 12개·3,200단어). 검증된 성공률 초보 15% vs 중급 이상 28~33%, 비SW 직군도 SW와 5%p 차이. 디버깅 세션 33→19% 감소, 운영·문서·데이터 분석 증가. 문제 이해가 프로그래밍 배경보다 중요
@@ -3804,6 +3809,9 @@ Artificial Intelligence
   * AI 앱 시장은 문제 복잡성·도입 난이도로 나뉘지만 지속적 경쟁 우위는 결국 사용 중 축적되는 데이터에 달림. 도입 쉬운 제품은 대규모 사용·빠른 피드백으로 데이터 플라이휠을 만들지만 교체도 쉬워 모델 제공업체와 자본·데이터 경쟁에 노출. 도입 어려운 제품은 전환 비용이 해자가 됨
 * [k-skill과 블루리본 공방을 보며 부리는 오지랖, 그리고 AI 시대의 해자 구축에 대한 생각 | Steady Study](https://www.stdy.blog/k-skill-and-blue-ribbon)
   * k-skill(김동규) 저장소가 블루리본 운영사 비알미디어로부터 고소장을 받은 사건을 계기로, 에이전트 행위의 책임 소재와 AI 시대의 데이터 해자 구축을 논의. 고소·고발만으로 데이터 해자를 지키기 어려운 시대에 운영·UX·데이터 관점의 방어를 제안
+* [How Claude's text watermarking works | Anthropic](https://www.anthropic.com/news/claude-text-watermark)
+  * 향후 Claude 모델이 생성하는 텍스트에 워터마크 적용—Claude가 만든 글인지의 확률을 키 보유자만 판별 가능하고 사람 눈에는 구분 불가. EU AI Act 준수(8/2부터 EU가 AI 생성 콘텐츠 마킹 요구)가 배경이며 다른 주요 모델 개발사들도 같은 Code of Practice에 서명. 금융 등 규제 산업 도입 가능성도 상승
+  * 방식은 Google DeepMind SynthID-Text(2024 Nature, Scott Aaronson 2022 제안 계열)—단어 선택의 난수 소스를 키+선행 단어로 바꿀 뿐이라 품질·창의성·가독성 영향 없음(내부 테스트·DeepMind Gemini 실트래픽 검증), 숨은 문자·추가 토큰·개인 식별 정보 없음. 한계: 짧은 글·사실 서술·교정 작업엔 감지 약함. 우회하려면 동일 단어를 바꾸는 paraphrasing이나 로컬 LLM rephrase 기법이 쓰일 수 있음
 * [이제 클로드가 만든 글엔 눈에 안 보이는 워터마크가 붙습니다 | 요즘IT](https://yozm.wishket.com/magazine/detail/3899/)
   * 프로덕트 메이커를 위한 주간 AI 소식 3가지—Hallmark 디자인 스킬, Grok Bot AI 에이전트, Claude의 AI 생성 콘텐츠 워터마크
 * [How AI text watermarking works: a visual guide | Declaude](https://declaude.org/watermarking/)
@@ -4144,6 +4152,9 @@ Artificial Intelligence
 * [The New SDLC with Vibe Coding (whitepaper) | Kaggle](https://www.kaggle.com/whitepaper-the-new-SDLC-with-vibe-coding)
   * [The New Software Development Lifecycle with Vibe Coding | Addy Osmani](https://addyosmani.com/blog/new-sdlc-vibe-coding/)
   * Google whitepaper(Addy Osmani·Shubham Saboo·Sokratis Kartakis) 해설. 에이전트=모델(10%)+하네스(90%), 정적/동적 컨텍스트 경계를 PR로 리뷰·버전관리하는 아키텍처 결정으로. "vibe coding"→프로덕션급의 스펙트럼은 검증 엄격성이 가름(테스트=결정론적 출력, eval=최종 정확성+추론 품질). 구현은 빨라지나 요구사항·아키텍처·검증이 병목—스펙 품질이 새 병목. 바이브 코딩은 싸 보여도 유지보수 비용 누적, 에이전틱 엔지니어링은 선투자로 장기 비용 3-10배 절감
+* [The AI-Native SDLC playbook | Claude](https://claude.com/blog/the-ai-native-sdlc-playbook)
+  * Anthropic Applied AI 팀의 AI 네이티브 SDLC 가이드. 코드는 더 이상 병목이 아닌데 승인 게이트·리뷰·핸드오프는 인간 속도 그대로라 병목이 build 좌우(계획·리뷰/테스트·배포)로 이동—라인별 수동 리뷰·주간 위원회 거버넌스가 현실과 불일치. 선형 흐름 대신 AI가 각 지점에 내장된 루프로 재설계, 6단계(Plan→Design→Build→Test→Deploy→Maintain)별 플레이 제공
+  * 관통하는 원칙은 "커밋된 아티팩트": 각 단계가 intent.md·spec.md·plan.md·diff+테스트·리뷰 findings·인시던트 기록을 버전 관리에 커밋하고 다음 단계가 그걸 읽음—커밋 체인이 곧 감사 추적. 에이전트 다층 리뷰+훅을 승인 게이트로, 인간 리뷰는 규제·핵심 코드에 집중
 * [AI is removing the middle class of software engineering | Florian Herrengt](https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html)
   * [AI가 소프트웨어 개발의 속도 제한을 없애면서 개발자의 가치가 달라지고 있다 | digitalbourgeois](https://digitalbourgeois.tistory.com/3552)
   * AI가 개발 속도 제한을 없애자 엔지니어링 문화가 약한 팀은 훨씬 빨리 실패한다—코드가 만들어지는 속도와 사람이 이해·판단하는 속도의 격차가 문제. 겉보기엔 돌아가는 수만 줄짜리 PR이 쌓여 "지난주에 만든 사람도 데이터 출처를 모르는" 지경에 이르는 시나리오. 소프트웨어 엔지니어링의 중간층이 사라지고, AI 산출물을 평가하고 올바른 기술적 결정을 내리는 능력이 개발자 가치의 중심이 된다는 주장
@@ -4981,6 +4992,8 @@ Artificial Intelligence
 * [archify: Architecture Diagrams from Plain English](https://github.com/tt-a1i/archify)
   * [archify](https://tt-a1i.github.io/archify/)
   * 평문 설명을 아키텍처 다이어그램으로 변환하는 AI 에이전트 스킬(Claude/Codex CLI/opencode 호환). 5종 다이어그램(architecture/workflow/sequence/data-flow/lifecycle), 다크·라이트 테마, 4배 해상도 PNG/JPEG/WebP/SVG 내보내기, "Redis 추가"·"auth 왼쪽으로" 같은 대화형 반복 수정. 의존성 없는 자체 완결형 HTML. MIT
+  * [Archify + (Claude Code/Codex): Turn Any Codebase into a Beautiful AI Architecture Diagram - YouTube](https://www.youtube.com/watch?v=tuOd32Qikrs)
+  * 코드베이스나 시스템 설명을 채팅 안에서 인터랙티브 시스템 맵으로 변환하는 에이전트 스킬(Cursor·Claude Code·Codex CLI·OpenCode). 에이전트가 타입드 JSON IR을 생성하면 Node.js 렌더러가 결정론적으로 HTML/SVG 컴파일—토폴로지를 지어내지 않고 검증된 사실만. 5가지 다이어그램 타입, Before/Delta/After 아키텍처 변경 비교, 소스 추적, 단일 HTML+PNG/SVG/WebM 내보내기. `npx skills add tt-a1i/archify -g`. JavaScript, MIT, 42.9k stars
 * [Archon: Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants](https://github.com/coleam00/archon)
   * [Archon — Knowledge and task management backbone for AI coding assistants](https://archon.diy/)
   * [Archon: AI 코딩 어시스턴트를 하나로 묶는 새로운 명령 센터](https://digitalbourgeois.tistory.com/2062)
@@ -5746,9 +5759,11 @@ Artificial Intelligence
       * [Atlassian의 DESIGN.md 실전 테스트 교훈 | GeekNews](https://news.hada.io/topic?id=30990)
       * Atlassian이 기존 구조화 콘텐츠 파이프라인에서 DESIGN.md를 생성·실전 테스트. 빠른 프로토타이핑엔 효과적(키노트 데모에서 제네릭 AI 출력을 Atlassian풍 UI로 전환). 한계: 자사 MCP 대비 토큰 ~92% 더 소모, 정보를 한 번에 로드, 단일 파일 압축으로 세부 손실, 컴포넌트 재사용 대신 재생성 유도. 아트 디렉션·낯선 환경 프로토타이핑·툴 상호운용·고객 테마링에 적합
   * [design-plugin](https://github.com/0xdesign/design-plugin) UI 변형 생성하고 비교하는 플러그인
-  * [diagram-design: 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop](https://github.com/cathrynlavery/diagram-design)
+  * [diagram-design: 39 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop](https://github.com/cathrynlavery/diagram-design)
     * [이상선 - Claude Code·Codex용 오픈소스 다이어그램 디자인 도구 | Facebook](https://www.facebook.com/lsszz1/posts/pfbid035mgXZFCfkNDZRyBAEBjhvymYJ9fMCFh72gVd1syaGpobmbchaCGZ8XEyJt5ByqHml)
     * 플로우차트·아키텍처·타임라인·시퀀스 등 29종 에디토리얼 다이어그램을 자체 완결형 HTML+SVG로 생성하는 Claude Code 스킬. 프로젝트의 기존 색상·폰트를 분석해 서비스 디자인 스타일에 맞춰 구성. 17.6k stars
+    * [Diagram Design 프로젝트 페이지](https://cathrynlavery.github.io/diagram-design/)
+    * 아키텍처·플로차트·시퀀스·Sankey·피시본·Wardley map·칸반·UML 클래스·DB 스키마 등 39개 에디토리얼 다이어그램 타입을 자체 완결형 HTML+SVG로 생성하는 에이전트 스킬(Claude Code·Codex·Factory Droid·Pi). 웹사이트를 읽어 60초 만에 브랜드 매칭, 시맨틱 패턴으로 레이아웃과 동작 분리, draw.io/Mermaid 소스를 지정 포맷·크기·상세도로 재작도. "액센트 색은 독자가 먼저 봐야 할 1~2곳에만" 절제 원칙. AWS 특화 변형인 masangbeom/aws-diagram-design의 원본. HTML, MIT, 29.4k stars
   * [eli5: A Claude Code skill that explains anything to anyone: kids, managers, engineers, parents](https://github.com/dreambigou/eli5)
     * [Building an ELI5 skill for Claude | Andrew Ou](https://andrewou.pages.dev/posts/building-an-eli5-skill-for-claude/)
     * [Claude Code ELI5 Skill로 대상에 맞는 기술 설명 자동화하기 | digitalbourgeois](https://digitalbourgeois.tistory.com/3561)
@@ -6966,6 +6981,9 @@ Artificial Intelligence
 * [Kiro CLI 첫 만남부터 제대로 파헤치기 (발표 슬라이드) | 방신철](https://kiro-presentation.shinchul.people.aws.dev/)
   * [방신철 - Kiro AWS AIAgent 하네스 엔지니어링 세미나 후기 | LinkedIn](https://kr.linkedin.com/posts/shin-chul-bang-536050177_kiro-aws-aiagent-activity-7497500632493211648-Tp6C)
   * AWS 방신철 SA의 Kiro CLI 30분 발표. Kiro는 IDE·CLI·Web·iOS·Crew가 하나의 에이전트 엔진·설정을 공유하는 에이전틱 개발 환경—Vibe 코딩 속도로 시작해 Spec 기반 구조로 프로덕션까지. Specs(요구사항·설계·작업 변환)·Steering(프로젝트 규칙 영구 컨텍스트)·Agent Skills·MCP·Custom Agents(deniedPaths 권한 차단)·Hooks/체크포인트/Headless. Claude·GPT·오픈웨이트 `/model` 전환, 크레딧 가중치 투명 표시(Luna 0.10x~Sol 2.40x). LinkedIn 후기: 같은 모델도 태스크당 비용이 더 저렴(agent-cost-bench), Ouroboros가 Kiro headless 모드를 런타임으로 활용, 8/19 '하네스 엔지니어링 with Kiro' 세미나(26개사 90여 명)
+* [Advancing price-performance for developers with GPT‑5.6 in Kiro | OpenAI](https://openai.com/index/gpt-5-6-in-kiro)
+  * GPT-5.6 모델 3종(Sol·Terra·Luna)이 Kiro에 탑재—SDLC 단계별로 지능·속도·비용을 골라 사용. Terminal-Bench 2.1에서 GPT-5.6 Terra가 Kiro 환경 기준 약 82% 비용 절감으로 작업 완수(OpenAI·AWS가 Kiro 환경·모델 공동 최적화). Kiro가 요구사항→기술설계→실행 가능 태스크로 구조화한 컨텍스트를 모델에 주입해 헛발질(missteps)을 줄이고 더 빨리 동작하는 해결책에 도달, 체크포인트 리뷰·property-based testing으로 정확성 검증
+  * 핵심 메시지는 새 모델 추가 자체보다 "Kiro의 스펙 주도 방식+GPT-5.6=저비용·고품질"이라는 price-performance. Swami Sivasubramanian(AWS Agentic AI VP)·Colleen Kapase(OpenAI 전략 파트너십 VP) 인용으로 양사 협력 지속 강조
 * [Spec-Driven Dev Is Back. But Not How You Think • Daniel Terhorst-North & Gojko Adzic • GOTO 2026 - YouTube](https://youtube.com/watch?v=6mLYZF97oaU)
   * BDD 창시자 Daniel Terhorst-North와 Gojko Adzic이 대담. 명세 기반 개발의 재조명, 새로운 관점에서 살펴보는 현대적 SDD
 * [Learnings from a No-Code Library: Keeping the Spec Driven Development Triangle in Sync | dbreunig](https://www.dbreunig.com/2026/03/04/the-spec-driven-development-triangle.html)
