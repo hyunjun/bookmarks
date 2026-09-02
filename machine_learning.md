@@ -1879,6 +1879,10 @@ Machine Learning
 * [Reinforcement Learning 그리고 OpenAI - 2: CartPole예제 이해하기](http://www.modulabs.co.kr/RL_library/2136)
 * [Reinforcement Learning 그리고 OpenAI - 3: CartPole and Deep Q Learning (1) DQN(Deep Q-Networks)](http://www.modulabs.co.kr/RL_library/2621)
 * [Reinforcement Learning](https://github.com/sangjinhong/deep_learning)
+* [envharness: A programmable layer that turns static agent environments into adaptive training worlds | Google Research](https://github.com/google-research/envharness)
+  * [Google AI Introduces EnvHarness: A Programmable Layer that Turns Static Agent Environments into Adaptive Training Worlds | MarkTechPost](https://www.marktechpost.com/2026/08/30/google-ai-introduces-envharness-a-programmable-layer-that-turns-static-agent-environments-into-adaptive-training-worlds/)
+  * [Google이 공개한 EnvHarness, 정적인 AI 에이전트 환경을 적응형 학습 환경으로 바꾸는 방법 | digitalbourgeois](https://digitalbourgeois.tistory.com/3607)
+  * Google Cloud AI Research·Washington University in St. Louis·UNC Chapel Hill 연구팀. 사람이 만들어 고정해 둔 에이전트 벤치마크 환경은 에이전트 실력이 향상되면 새로운 학습 기회를 주지 못한다는 문제의식—환경을 새로 만드는 대신 기존 환경을 그대로 유지하면서 에이전트의 현재 능력·약점에 맞춰 환경을 변형하는 프로그래머블 계층. Python, Apache-2.0
 * [hydrogym: An RL-Gym for Challenge Problems in Data-Driven Modeling and Control of Fluid Dynamics](https://github.com/dynamicslab/hydrogym)
   * [HydroGym: A Reinforcement Learning Platform for Fluid Dynamics - YouTube](https://www.youtube.com/watch?v=SQrPBk6f0GY)
   * [HydroGym Nature 논문](https://www.nature.com/articles/s41586-026-10917-6)
