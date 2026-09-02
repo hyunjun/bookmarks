@@ -591,6 +591,9 @@ Vision
     * [YOLOv10: Real-Time End-to-End Object Detection](https://github.com/THU-MIG/yolov10)
   * v11
     * [오브젝트365 데이터 세트 > 인공 지능 - Hell Maker](https://www.hellmaker.kr/post/1068)
+  * v26
+    * [Build a Computer Vision Database with Ultralytics YOLO26 | Detection, Tracking & SQLite - YouTube](https://www.youtube.com/watch?v=BA_BXPqNI_A)
+      * Ultralytics 공식 튜토리얼. YOLO26 객체 탐지·트래킹 결과를 SQLite DB에 저장하고 조회·시각화하는 Python 구현—DB 클래스 작성부터 추론 중 기록, 사후 분석까지. 리테일 분석·교통 모니터링·산업 운영·보안 시스템 등 응용의 기반
   * [yolo-training-template: In this repo there are some tips and a template to train your YOLO model for any kind of computer vision application](https://github.com/computer-vision-with-marco/yolo-training-template)
     * YOLO Training Template — 라벨링부터 배포까지 한 번에
     * YOLO Training Template: 프레임만 그리면 바운딩 박스 자동 생성 → 라벨링 속도 급상승
