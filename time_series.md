@@ -198,6 +198,11 @@ Time Series
 * [TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting](https://github.com/google-research/timesfm/)
   * [A Decoder-Only Foundation Model for Time-Series Forecasting | Google Research](https://research.google/blog/a-decoder-only-foundation-model-for-time-series-forecasting/)
   * [TimesFM 2.5 완전 정리: Google Research 시계열 파운데이션 모델의 구조, 특징, 설치 및 사용 방법](https://digitalbourgeois.tistory.com/2794)
+  * [TimesFM-3: A zero-shot foundation model for multivariate forecasting | Google Research](https://research.google/blog/timesfm-3-a-zero-shot-foundation-model-for-multivariate-forecasting/)
+    * [기존 예측 AI의 종말? - 구글 TimesFM-3가 가져온 시계열 혁신 | Suk Hyun K.](https://www.linkedin.com/posts/suk-hyun-k-31ba9b369_qvoqygtimesfm3-sxqqscsmcsmwtap-ai-share-7500655958315040768-4NQd/)
+    * 다변량 예측을 네이티브 지원하는 3세대. 330M 파라미터, 1조+ 시계열 포인트 사전학습. 다중 타깃·과거 공변량·미래 확정 공변량(프로모션·날씨·휴일)을 제로샷으로 지원, 인과적 시간 어텐션+전체 변수 어텐션 교차 구조, Contiguous Patch Masking으로 전체 예측 구간을 단일 순방향 패스로 생성(타깃별 9개 분위수). GIFT-Eval·FEV-Bench·TIME 3대 벤치마크에서 파운데이션 모델 1위
+    * [구글 TimesFM-3, 벤치마크 1위인데 회사에선 못 씁니다: 2.5와 달라진 것과 라이선스 함정 | 오픈위키](https://wikidocs.net/blog/@openwiki/30040/)
+      * 가중치 라이선스가 2.5의 Apache 2.0에서 timesfm-non-commercial-license-v1.0(비상업·비프로덕션 전용)으로 변경—성능은 최고지만 상업 서비스에는 붙일 수 없음(소스코드는 Apache 2.0 유지). 무엇이 달라졌고 실무자가 지금 무엇을 쓰면 되는지 1차 출처 기준 정리
 * TSBS [You are what you benchmark: Introducing the Time Series Benchmark Suite (TSBS)](https://blog.timescale.com/time-series-database-benchmarks-timescaledb-influxdb-cassandra-mongodb-bc702b72927e)
 * TSCoke
   * [TSDB as a Service, TSCoke 개발기 – tech.kakao.com](https://tech.kakao.com/2022/08/09/developing-tsdb-as-a-service-tscoke/)
