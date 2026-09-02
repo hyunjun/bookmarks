@@ -238,6 +238,8 @@ AWS
 * [수요 패턴이 수요 모델을 고른다: Amazon Connect Decisions로 살펴보는 Agentic Demand Forecasting | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/single-model-not-forecast-sku)
   * SKU를 ADI·CV² 지표로 4가지 수요 패턴으로 분류하고 WAPE(오차 크기)와 Bias(오차 방향)를 함께 측정해 숨은 예측 오류를 찾는 진단 방법
   * Croston 같은 전통 시계열 기법부터 최신 파운데이션 모델까지 18종+ 도구 중 각 SKU 특성에 맞는 기법을 동적으로 선택. 프로모션·캘린더 등 외부 신호와 도메인 규칙을 학습 전후에 적용해 구축 시점에 멈추지 않고 계속 개선되는 예측 체계
+  * Agentic Demand Forecasting—상품의 수요 패턴에 따라 에이전트가 판단하여 SKU마다 다른 수요 예측 모델을 동적으로 선택. 아마존 30년·4억+ SKU 공급망 노하우가 담긴 Amazon Connect Decisions(ACD)의 AI Teammates가 통계 기법부터 시계열 파운데이션 모델까지 18종+ 예측 도구를 오케스트레이션
+  * 가상 패션 리테일러 AnyFashion 합성 데이터로 5단계 실습: 진단(ADI×CV² 4사분면 SBC 분류)→측정(WAPE+Bias)→처방(Croston류·ETS/ARIMA·편향 보정)→외부 신호(프로모션·캘린더 covariate)→오케스트레이션(SKU별 agentic ensemble 자동 선택)
 * [How to build a basic 2 nodes Jenkins architecture on AWS](https://hackernoon.com/how-to-build-a-basic-2-nodes-jenkins-architecture-on-aws-cb5c36a7d8d7)
 * [배포 자동화 젠킨스 AWS에서 사용하기 #jenkins - YouTube](https://www.youtube.com/watch?v=srXoakJ8Mx0)
 * [Jenkins + Docker + AWS EC2](https://okdevtv.com/mib/jenkins/docker)
@@ -680,6 +682,9 @@ AWS
 * [AWS 에 구축하는 클라우드 디자인 패턴 시리즈 3부: 마이그레이션 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/cloud-design-patterns-on-aws-3/)
 * [AWS 에 구축하는 클라우드 디자인 패턴 시리즈 4부: API 관리 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/cloud-design-patterns-on-aws-4/)
 * [AWS 에 구축하는 클라우드 디자인 패턴 시리즈 5부: 데이터 관리 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/cloud-design-patterns-on-aws-5/)
+* [aws-diagram-design: AWS 브랜드로 스킨된 에디토리얼 다이어그램 스킬](https://github.com/masangbeom/aws-diagram-design)
+  * "ALB 뒤에 Fargate 서비스 두고, RDS Multi-AZ랑 ElastiCache 붙는 VPC 3-티어 구성도 그려줘"처럼 말로 설명하면 공식 AWS Architecture Icons·Amazon Ember 타이포그래피·VPC/서브넷/Region/계정 컨테이너 색상·배지 규약이 적용된 다이어그램을 자체 완결형 HTML로 생성(SVG/PNG 내보내기). Claude Code·Kiro용, cathrynlavery/diagram-design 스킬에 AWS 공식 아이콘 패키지를 입힌 변형. MIT
+  * 아키텍처 구성도(서버리스·VPC 네트워크·멀티 계정/멀티 리전·하이브리드 Direct Connect/VPN)부터 플로차트·시퀀스·상태 머신·ER·타임라인·스윔레인·간트·조직도·레이어 스택·데이터 플로 등 총 27개 시각 타입 지원. 기존 draw.io(.drawio)·Mermaid(.mmd) 파일을 내용은 유지한 채 지정한 크기·상세도(문서용/슬라이드용/요약본)로 재작도
 * [oh-my-cloud-skills: AWS 콘텐츠 제작·인프라 운영을 위한 Claude Code 플러그인 6종 모음](https://github.com/Atom-oh/oh-my-cloud-skills)
   * HTML 프레젠테이션·PPTX·Draw.io 아키텍처 다이어그램·SVG 트래픽 플로우·GitBook·Workshop Studio 콘텐츠 생성, EKS/네트워크/IAM 트러블슈팅, Well-Architected 6필러 100점 리뷰, Kiro/Codex/Gemini 변환·멀티 AI 협업. AWS MCP 서버(지식·문서·API·가격·IaC) 연동. MIT
 * [sample-semantic-lakehouse: Customer 360 analytics with semantic layer on AWS](https://github.com/aws-samples/sample-semantic-lakehouse)
@@ -2554,6 +2559,8 @@ AWS
 * [Introducing SageMaker Data Parallelism - AWS re:Invent 2020 - YouTube](https://www.youtube.com/watch?v=qS4VgHocAGQ)
 * [Scale By The Bay 2020: Antje Barth, Put Your Machine Learning on Autopilot - YouTube](https://www.youtube.com/watch?v=IBE6MdiyKlY)
 * [Amazon SageMaker 기반 사전 훈련된 딥러닝 모델 손쉽게 배포하기 – 김대근:: AWS Innovate 2021 - YouTube](https://www.youtube.com/watch?v=ZdOcrLKow3I)
+* [Amazon SageMaker 모델 배포 방법 소개 - 김대근, AI/ML 스페셜리스트 솔루션즈 아키텍트, AWS :: AWS AIML 스페셜 웨비나 - YouTube](https://www.youtube.com/watch?v=UigWJPfClcI)
+  * SageMaker 배포 입문자용 가이드. 빌트인 4가지 서빙 패턴(리얼타임·배치·비동기·서버리스 추론)부터 프로덕션 적용 핵심 기능과 비용 절감 방법까지
 * [sagemaker-inference-samples-kr: Deep Learning(DL) Inference hands-on labs; Learn how to host pre-trained DL models to Amazon SageMaker Endpoint without building Docker Image](https://github.com/aws-samples/sagemaker-inference-samples-kr)
 * [인공지능을 대규모로 가속화하려면?](https://brunch.co.kr/@synabreu/108)
 * [Amazon SageMaker와 Apache Airflow을 통한  기계학습 워크플로 구축하기 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/build-end-to-end-machine-learning-workflows-with-amazon-sagemaker-and-apache-airflow/)
