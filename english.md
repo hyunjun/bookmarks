@@ -57,6 +57,8 @@ English
 * [ChatGPT로 집에서 아이 원어민 만드는 방법 - YouTube](https://www.youtube.com/watch?v=HLxlKtEAL5U)
 * [AI 영어 회화 종결! BBC 6분 영상 하나로 리스닝·스피킹 200% 폭발합니다 (챗GPT 프롬프트 무료공개) - YouTube](https://www.youtube.com/watch?v=mWB1K4tsOsM)
   * 토종영어. BBC 6 Minute English 하나로 리스닝·스피킹·라이팅·보카를 끝내는 6단계 공부 루틴과 ChatGPT/Gemini 자동화 프롬프트 공개. 긴 미드·TED로 시작해 지쳐 포기하는 대신 하루 6분 자료를 완전히 소화하는 방식
+* [영어 회화 이렇게 했더니 7일 만에 입 뚫림｜2026 AI 영어 회화 공부법 - YouTube](https://www.youtube.com/watch?v=69RRB4pazVA)
+  * 제나쌤 영어독학. Claude 무료 프로젝트 기능+voice 모드로 코딩 없이(프롬프트 복붙) 나만의 AI 스피킹 선생님 만들기. 한 문장으로 답하면 꼬리 질문(Why?·What happened next?)으로 3~5문장까지 확장시키고, 막히면 정답 전체가 아니라 필요한 표현만 던져주고, 마지막에 같은 내용을 더 길고 자연스럽게 다시 말하게 하는 수업 규칙 프롬프트. 내 말하기 패턴을 학습해 다음 수업에 반영하는 방법까지
 * [11 Common English Words And Phrases With Racist Origins](https://www.babbel.com/en/magazine/common-racist-words-phrases) 조심해야 하는 영어표현들
 * [외국어가 정말 늘고 싶으면 이 영상을 보세요 - YouTube](https://www.youtube.com/watch?v=AN1-HonwJeY)
 * [구동사, 즉 Phrasal Verbs  도대체 왜 원어민들은 tolerate라는 멋진 라틴어 계열 단어를 두고 굳이 put up with라고 말하는 걸까](https://www.facebook.com/BinLeeMasterClass/posts/pfbid0g6ZXXJRFFSVEE1L7YAeXX4Gwi7FrenEH2E6yYCjFV8UjBAXNeCHNp1Ezn9YxEmEml)
