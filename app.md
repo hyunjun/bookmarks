@@ -2011,6 +2011,9 @@ App
 * [Pika • Super High Fives](https://superhighfives.com/pika)
 * Post-it for Mac [3M, 아이폰과의 동기화를 지원하는 Post-it for Mac을 발표](https://tagilog.tistory.com/441)
 * [QLStephen - 확장자에 관계없이 텍스트 파일 미리보기 QLStephen](http://mcchae.egloos.com/10981138)
+* [QuickRecorder: A lightweight screen recorder based on ScreenCapture Kit for macOS](https://github.com/lihaoyun6/QuickRecorder)
+  * [QuickRecorder 랜딩 페이지](https://lihaoyun6.github.io/quickrecorder/)
+  * ScreenCapture Kit 기반 경량·고성능 macOS 화면 녹화 앱. 화면·윈도우·앱·모바일 기기 녹화 지원, macOS 12.3+, `brew install lihaoyun6/tap/quickrecorder`. Swift, AGPL-3.0, 8.6k stars
 * [Raycast](https://www.raycast.com/)
   * [생산성에 진심인 자의 Raycast 세팅 엿보기 (for macOS)](https://velog.io/@wisepine/%EC%83%9D%EC%82%B0%EC%84%B1%EC%97%90-%EC%A7%84%EC%8B%AC%EC%9D%B8-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-Raycast-%EC%84%B8%ED%8C%85-%EC%97%BF%EB%B3%B4%EA%B8%B0-for-macOS)
   * [🍎 맥북 4년차, 최고의 무료앱 - YouTube](https://www.youtube.com/watch?v=6IAu1e4VX_4)
