@@ -4009,6 +4009,10 @@ Artificial Intelligence
   * [AI 언어 모델은 '수면'으로 어떻게 스스로 학습하고 기억을 통합하는가 | 김진관 닷커넥터](https://tigerjk9.github.io/post/language-models-need-sleep/)
   * [김진관 - AI 언어모델에게도 사람처럼 수면이 필요하다 | Facebook](https://www.facebook.com/faithfuljk/posts/pfbid029oTrTDRFFutBF23dQDQne3mw1UrxtXwKQab8EDaHbDtSZrkGwDf4m5iGLxuyRGP7l)
   * Behrouz·Hashemi·Mirrokni. 인간 수면에서 영감받은 'Wake/Sleep' 패러다임. NREM 단계는 Knowledge Seeding으로 작은 모델→큰 모델 상향 증류해 메모리 공고화, REM 단계는 RL로 합성 커리큘럼 생성해 자가 개선(Dreaming). 지식 노후화·치명적 망각 해결. 수학 추론 79.2%(SFT 75.5%·GRPO 76.4% 능가), 만주어 등 신규 언어 학습 시 기존 지식 보존, few-shot 80%
+* [mdlARC: Goal is to solve sample efficiency by using ARC-AGI as a benchmark](https://github.com/mvakde/mdlARC/)
+  * [44% on ARC-AGI-1 in 67 cents | mvakde](https://mvakde.github.io/blog/44-on-arc-1/)
+  * [67센트로 ARC-AGI-1에서 44% 달성 | GeekNews](https://news.hada.io/topic?id=33126)
+  * RTX 5090 한 장에서 1.5시간(67센트)에 소형 트랜스포머를 밑바닥부터 학습해 ARC-AGI-1 공개 평가 44%(ARC-2는 7%)—다수 LLM을 이기고 TRM/HRM과 동급(테스트 타임 트레이닝 계열 비교). 샘플 효율성이 AI의 가장 중요한 문제라는 관점에서 트랜스포머·현 딥러닝 기법의 한계 탐구와 저비용 반복이 목표. 전작이 Lucas Beyer·Jeremy Howard 등 유명 연구자들의 주목을 받으며 X에서 화제. ARC-AGI 시리즈 블로그 3편. Python, MIT
 * [paper-readers-guide at main · hyeshik/qbio-skills](https://github.com/hyeshik/qbio-skills/tree/main/paper-readers-guide)
   * [Hyeshik Chang - 대학원 1년차의 논문 읽기 방법 | Facebook](https://m.facebook.com/story.php?story_fbid=pfbid034yyB9QCDETBS9wAfMwGwP1k9Ca8git7LH55qzCkXo1N2tU5RWbmD2E4aHddQQG2al&id=599032501)
   * 논문 읽기를 보물찾기처럼. 글에서 찾을 수 있는 여러 실마리와 주요 포인트를 "오늘의 퀘스트" 목록처럼 제시하고 하나씩 체크해나가는 방식
