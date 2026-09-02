@@ -388,6 +388,8 @@ Redis
 * [Python & Redis PUB/SUB](https://medium.com/@johngrant/python-redis-pub-sub-6e26b483b3f7)
 * [A short script exploring Redis pubsub functions in Python](https://gist.github.com/jobliz/2596594)
 * [LINE LIVE 채팅 기능의 기반이 되는 아키텍처](https://engineering.linecorp.com/ko/blog/the-architecture-behind-chatting-on-line-live/)
+* [실전개발 Redis Pub/Sub를 활용한 실시간 알림 구현 with FastAPI - YouTube](https://www.youtube.com/watch?v=I6ioHc1yspg)
+  * 코딩하는기술사. Redis Pub/Sub 기반 실시간 채팅·알림 구현 강의—백엔드 FastAPI, 프론트 전달은 SSE(Server-Sent Events) 사용
 
 # Queue
 * [Benchmarking Message Queue Latency](https://bravenewgeek.com/benchmarking-message-queue-latency/)
