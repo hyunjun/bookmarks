@@ -1212,6 +1212,8 @@ Business
 * [(기업설문) 어떤 개발자를 구하시나요? – Place Of 42Seoul Story](https://42place.innovationacademy.kr/archives/6884)
 * [수습 기간은 피드백 미팅에 달려있다](https://brunch.co.kr/@kaytee/11)
 * [미래 조직의 인재상 (앞으로 기업에서는 어떤 사람을 채용해야 할까?](https://blog.naver.com/hs_group/222438548992)
+* [2026년 CMO부터 CFO까지, 회사가 예전과 다른 기준으로 인재를 찾기 시작했습니다 | Kihung Thomas Kim](https://www.linkedin.com/pulse/2026%EB%85%84-cmo%EB%B6%80%ED%84%B0-cfo%EA%B9%8C%EC%A7%80-%ED%9A%8C%EC%82%AC%EA%B0%80-%EC%98%88%EC%A0%84%EA%B3%BC-%EB%8B%A4%EB%A5%B8-%EA%B8%B0%EC%A4%80%EC%9C%BC%EB%A1%9C-%EC%9D%B8%EC%9E%AC%EB%A5%BC-%EC%B0%BE%EA%B8%B0-%EC%8B%9C%EC%9E%91%ED%96%88%EC%8A%B5%EB%8B%88%EB%8B%A4-kihung-thomas-kim-otgdc)
+  * AI & Career Playbook V11. 리크루터가 2026년 상반기 서치·인터뷰 현장에서 관찰한 CMO·Enterprise SaaS Sales·Data Scientist·HR·CFO 다섯 직군의 채용 기준 변화—기업들이 예전과 다르게 확인하기 시작한 경험과 역량 정리
 * [SKMS를 통한 핵심적인 인재상](https://www.facebook.com/fupfin/posts/pfbid02Y6avXSn1pY8DhLKmapfB6K99ZhTteGa4bNPvV6Vz2Av2t1zNf2WiRCnrguDKsh4Fl)
 * [좋은 인재의 세가지 특징 | LinkedIn](https://www.linkedin.com/pulse/%25EC%25A2%258B%25EC%259D%2580-%25EC%259D%25B8%25EC%259E%25AC%25EC%259D%2598-%25EC%2584%25B8%25EA%25B0%2580%25EC%25A7%2580-%25ED%258A%25B9%25EC%25A7%2595-yung-nok-chun-1e/) 열망 호기심 주도성. 다소 뻔하지만 중요한 이야기
 * [IT 인재가 넝쿨째 모인다?··· CIO들이 전하는 ‘인복’의 비결 - CIO Korea](https://www.ciokorea.com/news/202879)
