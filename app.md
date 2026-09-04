@@ -2363,6 +2363,8 @@ App
   * [mattermost - Slack 대안 오픈소스 Mattermost를 소개합니다](https://blog.cometkim.kr/posts/mattermost-contribution/introduction-to-mattermost)
   * [NASA와 삼성이 선택한 메신저 ‘Mattermost’ 알아보기 | InfoGrab, DevOps 전문 기술 기업 | 인포그랩 | GitLab기반 DevSecOps 구축,컨설팅,교육,기술지원 서비스 제공](https://insight.infograb.net/blog/2024/06/19/mattermost-overview/)
   * [‘Mattermost 공식 기술 문서 한글판 by 인포그랩’ 개발 후기(feat. GPT & RST) | InfoGrab, DevOps 전문 기술 기업 | 인포그랩 | GitLab기반 DevSecOps 구축,컨설팅,교육,기술지원 서비스 제공](https://insight.infograb.net/blog/2024/07/03/mattermost-memorize/)
+* [oh-my-dm: DM without looking like you're DMing — a discreet Agent CLI-style TUI messenger](https://github.com/stacking-money-forever/oh-my-dm)
+  * 코딩 에이전트 CLI처럼 보이는 위장 TUI 메신저—일하는 척하며 DM. TypeScript
 * slack
   * [Slack에서 public link를 생성하는 방법](https://velog.io/@king/Slack%EC%97%90%EC%84%9C-public-link%EB%A5%BC-%EC%83%9D%EC%84%B1%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-enk54zi6fc)
   * [슬랙(Slack)으로 특정 조건의 이메일을 받아보자!](https://www.44bits.io/ko/post/slack-email-app-integration)
