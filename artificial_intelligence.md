@@ -6078,6 +6078,8 @@ Artificial Intelligence
 * [CLIProxyAPI: Wrap Antigravity, Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service](https://github.com/router-for-me/CLIProxyAPI)
   * [🆓 Claude Code Codex Gemini CLI를 하나의 프록시로 CLIProxyAPI 무료 설치 및 설정 가이드 | fornewchallenge](https://fornewchallenge.tistory.com/entry/%F0%9F%86%93-Claude-Code-Codex-Gemini-CLI%EB%A5%BC-%ED%95%98%EB%82%98%EC%9D%98-%ED%94%84%EB%A1%9D%EC%8B%9C%EB%A1%9C-CLIProxyAPI-%EB%AC%B4%EB%A3%8C-%EC%84%A4%EC%B9%98-%EB%B0%8F-%EC%84%A4%EC%A0%95-%EA%B0%80%EC%9D%B4%EB%93%9C)
   * [CLIProxyAPI란? OpenAI·Claude·Gemini를 하나의 API로 사용하는 프록시 서버 | digitalbourgeois](https://digitalbourgeois.tistory.com/3406)
+  * [CLIProxyAPI - AI 구독 계정을 호환 API로 노출하는 프록시 | GeekNews](https://news.hada.io/topic?id=33206)
+    * ChatGPT·Claude·Gemini 등의 OAuth 계정을 로컬 프록시에 연결해 표준 API 형식으로 제공—별도 API 키 없이 기존 구독으로 다양한 클라이언트·에이전트에서 모델 호출, 라운드 로빈 요청 분산. Go, 50k stars
   * Antigravity·ChatGPT Codex·Claude Code·Grok Build 구독을 OpenAI/Gemini/Claude/Codex 호환 API 서비스로 래핑해, 무료 Gemini 3.1 Pro·GPT 5.5·Grok 4.3·Claude를 API로 사용. Go, 43k stars
 * [cmux](https://www.cmux.dev/)
   * [cmux: A Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents](https://github.com/manaflow-ai/cmux)
@@ -6559,6 +6561,7 @@ Artificial Intelligence
   * [Open Agents - open-source reference app for building background coding agents | GeekNews](https://news.hada.io/topic?id=28601)
   * Vercel Labs 오픈소스 레퍼런스. Web→Agent Workflow→Sandbox VM 3계층. AI SDK, Gateway, Sandbox, Workflow SDK
 * [openai-oauth: Free OpenAI API access with your ChatGPT account](https://github.com/EvanZhouDev/openai-oauth)
+  * [openai-oauth](https://openai-oauth.vercel.app/)
   * [openai-oauth - ChatGPT 계정으로 OpenAI API를 무료로 사용하기 | GeekNews](https://news.hada.io/topic?id=28569)
   * `npx openai-oauth`로 로컬 프록시 서버 생성. API 키 없이 http://127.0.0.1:10531/v1 엔드포인트 생성
 * [openclaude: Open-source coding-agent CLI that works with more than one model provider](https://github.com/Gitlawb/openclaude)
