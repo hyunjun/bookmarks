@@ -3992,6 +3992,9 @@ Artificial Intelligence
   * [awesome-Self-Improving-Agents 공유 | 박상길](https://www.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_github-selfimproving-agentawesome-self-improving-agents-share-7484798321568399360-lNkW/)
   * [AI Agent의 자기 개선(Self-Improvement) 체계: Foundation Model과 Scaffolding 기반 자율 진화 프레임워크 | digitalbourgeois](https://digitalbourgeois.tistory.com/3393)
   * 자기개선 자율 에이전트 서베이. 현대 에이전트를 파운데이션 모델+운영 스캐폴드(프롬프트·메모리·도구·제어 로직)의 결합으로 보는 시스템 레벨 프레임워크 제시. 자기개선을 모델 파라미터 또는 스캐폴드 구성요소에 업데이트를 획득·커밋하는 self-induced update operator로 형식화, 경험을 누적 역량 향상으로 전환하는 적응 시스템으로 정리
+* [2608.27454 WikiSkill: Compiling Agent Experience into Persistent Knowledge for Skill Evolution](https://arxiv.org/abs/2608.27454)
+  * [WikiSkill: 에이전트의 실행 경험을 영구적인 지식과 재사용 가능한 기술로 진화시키는 프레임워크 | digitalbourgeois](https://digitalbourgeois.tistory.com/3617)
+  * 에이전트 스킬을 영구 지식 베이스(wiki)와 공진화시키는 프레임워크. 원시 실행 경험·축적 지식·실행 가능 스킬을 분리하고, 경험을 wiki로 지속 통합해 후속 스킬 업데이트가 활용. SOTA 스킬 진화 방법 능가, 큰 모델일수록 진화 스킬 이득 크고 스킬 장착 소형 모델이 대형 모델을 능가하기도. 스킬은 모델·모델 패밀리 간 전이 가능—타 모델이 진화시킨 스킬이 자체 진화 스킬보다 나을 수 있음
 * [586830145_834419405978070_3937417229378696315_n.pdf](https://scontent-ssn1-1.xx.fbcdn.net/v/t39.2365-6/586830145_834419405978070_3937417229378696315_n.pdf?_nc_cat=104&ccb=1-7&_nc_sid=d65b48&_nc_ohc=KjIRxfgDxfAQ7kNvwGoG65l&_nc_oc=AdnmBuJ6JGzJoT-o1g2p5kU_Ie9Q6l0opInwzN9gx8-cFLdqu4nIoqAqcX5UbBS2tXg&_nc_zt=14&_nc_ht=scontent-ssn1-1.xx&_nc_gid=0GTg5NssrgYoqvvZMVLzaQ&oh=00_Afj4G_ayFCEs9RYgDV7LwWV6wQLZCrwNX3m3RqRso03rUA&oe=6928D4C0)
   * [Research Update: WorldGen — Text to Immersive 3D Worlds | Meta Quest 블로그 | Meta 스토어](https://www.meta.com/ko-kr/blog/worldgen-3d-world-generation-reality-labs-generative-ai-research/)
     * [Research Update: WorldGen — Text to Immersive 3D Worlds | Meta Quest 블로그 | Meta 스토어 | 박상길](https://www.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_research-update-worldgen-text-to-immersive-activity-7398104607908007936-kchh)
