@@ -5493,6 +5493,7 @@ Artificial Intelligence
   * [내 맥북에 로컬 LLM 설치해서 ClaudeCode 돌리면 쓸만할까? (Feat. 300만원짜리 맥북, vllm) | 성수 김](https://www.linkedin.com/pulse/%EB%82%B4-%EB%A7%A5%EB%B6%81%EC%97%90-%EB%A1%9C%EC%BB%AC-llm-%EC%84%A4%EC%B9%98%ED%95%B4%EC%84%9C-claudecode-%EB%8F%8C%EB%A6%AC%EB%A9%B4-%EC%93%B8%EB%A7%8C%ED%95%A0%EA%B9%8C-feat-300%EB%A7%8C%EC%9B%90%EC%A7%9C%EB%A6%AC-%EB%A7%A5%EB%B6%81-%EC%84%B1%EC%88%98-%EA%B9%80-wvimc)
     * MacBook Pro M4 48GB에서 Gemma 4 E2B·Qwen3 8B·Llama 3.1 8B·Mistral Small 3.2를 Claude Code에 연결해 게임 4종(테트리스·2048·개구리·격투) 900초 제한 빌드 비교. 오픈소스 모델은 테트리스도 완성 못한 반면 Opus는 4종 모두 15분 내 완성. 벤치마크 주장과 달리 로컬 무료 LLM은 아직 실용 대체재가 아니라는 결론
   * [academic-research-skills: Academic Research Skills for Claude Code: research → write → review → revise → finalize](https://github.com/Imbad0202/academic-research-skills)
+    * [Edward Wu - Open-source AI-powered academic research tools | Buy Me a Coffee](https://buymeacoffee.com/crucify020v)
     * 학술 연구 전체 파이프라인 지원 Claude Code 스킬 패키지. 4가지 스킬—Deep Research(13 에이전트·7 모드), Academic Paper(12 에이전트·LaTeX), Reviewer(7 에이전트·100점 평가), Pipeline(10단계 오케스트레이터). Semantic Scholar+OpenAlex+Crossref+arXiv 4-인덱스 인용 검증 게이트, 시간 일관성 검증, Socratic·Devil's Advocate 모드. APA/Chicago/MLA/IEEE/Vancouver, EN/zh-TW/zh-CN/JP. CC BY-NC 4.0
   * [ai-design-components: Comprehensive UI/UX and Backend component design skills for AI-assisted development with Claude](https://github.com/ancoleman/ai-design-components)
     * [Claude 기반 AI 보조 개발을 위한 Full-stack 기술 스킬 모음 정리](https://digitalbourgeois.tistory.com/2682)
@@ -5967,6 +5968,8 @@ Artificial Intelligence
     * 레포 분석+인터뷰 기반 Claude Code 환경 자동 구성. CLAUDE.md·.claude/ 설정·훅·MCP 서버 생성. 스택 자동 감지, 5단계 프로세스 템플릿(Intent→Requirements→Research→Plan→Implement), 성숙도 감사·스코어링, `roboco install`로 팀 환경 일관성 보장
   * [secure-claude-code: Security hardening for Claude Code](https://github.com/efij/secure-claude-code)
     * [secure-claude-code | Efi Jeremiah](https://www.linkedin.com/posts/efi-jeremiah_github-efijsecure-claude-code-security-activity-7442370116882927616-xKzP)
+  * [sepia: De-AI writing skill for any Agent Skills-compatible agent, with native plugins for Claude Code, Codex, Grok Build, and Antigravity](https://github.com/Nanako0129/sepia)
+    * 단어 치환식 휴머나이저가 아니라 문장 구조·지나치게 정돈된 논리·반복적 리듬 등 AI 특유의 글쓰기 패턴부터 분석해 제거하는 De-AI 스킬. 픽션은 서사 구조 수선, 전문 산문은 매체별 규칙 적용. StoryScope(arXiv 2604.03136) 기반, Skills CLI로 77+ 에이전트 지원. Python, 1.9k stars
   * [Skills for Real Engineers. Straight from my .claude directory. · GitHub](https://github.com/mattpocock/skills)
     * [Claude Code Skills 22개 한국어 정리 — mattpocock .claude 폴더 공개, TDD·PRD·grill-me 설치·활용법](https://jkf87.github.io/mattpocock-skills-real-engineers-claude-2026-04-27)
     * [Claude Code Skills 22개 한국어 정리 — mattpocock .claude 폴더 공개, TDD·PRD·grill-me 설치·활용법 | 박상길](https://www.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_claude-code-skills-22%EA%B0%9C-%ED%95%9C%EA%B5%AD%EC%96%B4-%EC%A0%95%EB%A6%AC-mattpocock-share-7454848076172775426-OE2M)
@@ -6981,6 +6984,9 @@ Artificial Intelligence
   * [open-walnut: Personal AI butler powered by Claude — task management, Claude Code sessions, memory system, and web UI. Self-hosted, local-first, open source](https://github.com/EvanZhang008/open-walnut)
   * 로컬·원격 서버의 Claude Code 세션을 단일 콘솔에서 관리하는 셀프호스팅 웹 인터페이스 an open-source web UI for Claude Code. 실시간 도구 호출 스트리밍, GitHub 스타일 코드 리뷰, 태스크 관리, 로컬 노트 저장. 모든 데이터를 자체 인프라에 보관
 * [Warp — The open platform for automating development](https://www.warp.dev/)
+  * [warp: Warp is an agentic development environment, born out of the terminal](https://github.com/warpdotdev/warp)
+  * [Skill Doctor: score and improve your agent skills | Warp](https://www.warp.dev/skill-doctor)
+    * Claude Code·Codex·Warp의 실제 에이전트 세션을 검증된 rubric으로 채점해 반복되는 실수와 불필요한 작업을 찾아내고, SKILL.md 파일에 대한 구체적 수정안을 제안. 무료 오픈소스
   * [Introducing the Warp Agent CLI: a CLI coding agent that does what others can't | Warp](https://www.warp.dev/blog/introducing-the-warp-agent-cli-coding-agent)
   * [Warp Agent CLI 핵심 기능과 특징: 터미널에서 활용하는 다중 모델 코딩 에이전트 | digitalbourgeois](https://digitalbourgeois.tistory.com/3483)
   * Warp Terminal의 다중 모델 코딩 에이전트를 독립형 CLI로 분리—Ghostty·iTerm 2·VS Code·Windows/Mac 기본 터미널 등 어디서나 실행. 터미널과 에이전트 사이 멀티플렉싱 구조로 셸 상태 유지·여러 저장소·원격 환경 전환에 대응, 터미널 중심 워크플로에 강점
@@ -7338,3 +7344,8 @@ Artificial Intelligence
   * [라벨링에 의존하는 AI는 현실에서 생존할 수 없다 | Suk Hyun K.](https://www.linkedin.com/posts/suk-hyun-k-31ba9b369_sqsrguriwqzc-worldmodel-ai-ugcPost-7417354333316632576-1sFF/)
 * [Awesome-World-Models: A Curated List of Awesome Works in World Modeling, Aiming to Serve as a One-stop Resource for Researchers, Practitioners, and Enthusiasts Interested in World Modeling](https://github.com/knightnemo/Awesome-World-Models)
   * 월드 모델 연구를 다방면에서 집대성한 저장소로, 자율주행, 임베디드 AI, 게임 시뮬레이션, 로봇 조작, 자연과학, 사회과학 등 다양한 분야의 최신 논문과 모델을 체계적으로 분류
+* [H3-World — Turning Language Understanding into World Control](https://danzer1xxxxchan.github.io/H3-World)
+  * [2609.01560 H3-World: Turning Language Understanding into World Control](https://arxiv.org/abs/2609.01560)
+  * [H3-World](https://github.com/Danzer1xxxxChan/H3-World)
+  * [H3-World 데모 영상 | Facebook](https://www.facebook.com/watch/?v=1641075517469213)
+  * 33B MiniMax-H3 비디오 생성 모델을 인터랙티브 월드 모델로 전환하는 프레임워크. 전용 액션 모듈 없이 자연어(캐릭터+카메라 지시)를 시간 정렬된 비디오 latent에 결합, temporal attention routing으로 액션 간 제어 누출 방지. 게임플레이 샘플 8,000개·LoRA 10,000스텝·학습 파라미터 0.199%의 경량 적응만으로 정밀한 시간 단위 월드 제어 달성
