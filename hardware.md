@@ -123,6 +123,9 @@ Hardware
 
 # AI
 * [이길환 - 제목: 엄지손가락 크기 칩이 품은 AI, ‘미미클로’…가격은 단돈 수십 달러 수십 달러짜리 초소형 개발보드... | Facebook](https://www.facebook.com/weaikorea/posts/pfbid0EmiTFt1ZSvUVWJuQ9vs7HQTXnpAxB3Y3x4uMseLBKsr1XAfyLeaWgfAhCj6UbKLxl)
+* [AI Chip Architectures - Jacob Peake](https://www.jepeake.com/ai-chip-architectures)
+  * [AI Chip Architectures | Donghyun Kim](https://www.linkedin.com/posts/kim-donghyun0916_ai-chip-architectures-share-7500397160341852160-bmGB/)
+  * Hennessy·Patterson의 2018 튜링 강연 "컴퓨터 아키텍처의 새로운 황금기" 예측(도메인 특화 아키텍처의 캄브리아기 대폭발)이 실현된 현재의 AI 칩 아키텍처 조망. GPU·TPU·LPU·NPU·DPU·웨이퍼스케일·재구성 데이터플로·뉴로모픽·포토닉·아날로그 등 수십 종 아키텍처 비교—실전 배치에서 승리한 것은 GPU와 systolic array 가속기
 * [AI 경쟁의 다음 승부처, 메모리 계층 구조 | SK하이닉스 뉴스룸](https://news.skhynix.co.kr/ai-competition-next-challenge/)
   * AI 인프라 경쟁의 초점이 순수 연산 성능에서 데이터 저장·이동·활용으로 확장. HBM(가속기)+AI-DRAM(시스템 메모리)+eSSD(스토리지) 3계층 전략, 학습(대역폭) vs 추론(응답성·효율·컨텍스트 유지) 요구 차이, Agentic AI로 데이터 검색·저장 아키텍처 중요성 증대
 * [CXL 메모리 풀링을 통한 AI 메모리 확장 한계 해결 | 삼성반도체 테크 블로그](https://semiconductor.samsung.com/kr/news-events/tech-blog/breaking-ai-memory-limits-with-cxl-memory-pooling/)
