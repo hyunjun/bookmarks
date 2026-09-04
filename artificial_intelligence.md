@@ -1905,6 +1905,9 @@ Artificial Intelligence
   * 내부/외부 하네스 구성, 에이전트 기반 머지 큐, 작업을 적절한 머신에 디스패치하기, 사용자 리포트에서 피드백 루프 자동화, 이슈 트리아지 eval 구축, 모델 전환의 숨은 비용, 에이전트 환경을 pets vs cattle로 관리하기, 가장 미개척 계층인 컨트롤 플레인
 * [AI Software Factories Are the Next Big Thing (And I'm Building You One) - YouTube](https://www.youtube.com/watch?v=DcLj_SO8JNk)
   * Cole Medin. AI 소프트웨어 팩토리는 AI 코딩의 최종 진화형—PRD 투입 → 태스크 분할 → 중간에 아무도 코드를 보지 않고 배포된 코드가 나옴. 1년간 실험으로 AI 튜터 Dynachat을 코드 한 줄 안 읽고 구축, 누구나 자기 프로젝트에 적용할 수 있는 오픈소스 버전 제작 중
+* [Running a Software Factory Efficiently at Uber Scale | Uber Blog](https://www.uber.com/us/en/blog/efficient-software-factory/)
+  * [Agentic SDLC at Uber — Uday Kiran Medisetty & Adam Huda, Uber | AI Engineer 2026](https://www.youtube.com/watch?v=17-YSUHo6Lk)
+  * Uber PR의 70%+가 로컬/클라우드 에이전트 작성, 에이전트 스킬 3,600개·일 30K 스킬 실행. 코드 리뷰·CI 자가 치유·E2E PR 완성(시각 검증)·온콜 트리아지·버그 디버깅을 관리형 에이전트가 자동 시작. 2026년 2~8월 주간 활성 사용자 7배·에이전틱 요청 9.4배 성장에도 최적화로 총 AI 비용은 4월 이후 안정화
 * [2604.14228 Dive into Claude Code: The Design Space of Today's and Future AI Agent Systems](https://arxiv.org/abs/2604.14228)
   * [Dive-into-Claude-Code: Build Your Own AI Agent - A Design Guide](https://github.com/VILA-Lab/Dive-into-Claude-Code)
   * [Claude Code 아키텍처 분석: 에이전트 성능은 모델이 아니라 시스템 전체의 결과 | digitalbourgeois](https://digitalbourgeois.tistory.com/3257)
