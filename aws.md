@@ -852,6 +852,11 @@ AWS
   * [Amazon Bedrock AgentCore로 멀티 데이터소스 자연어 질의 에이전트를 프로덕션에 배포하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/amazon-bedrock-agentcore-multi-datasource-nlp-agent-production)
     * AWS Summit Seoul "200개국 삼성 스마트 TV 앱 데이터를 자연어로 묻다" 세션 기반. 삼성전자 TV Apps Service 팀이 LangGraph PoC(Supervisor+KPI 조회·앱 지원·앱 검색 하위 에이전트)를 기존 코드 거의 그대로 AgentCore 운영 레이어에 올려 프로덕션화한 사례—Runtime(microVM 세션 격리), Gateway(검증계·운영계 DB·KPI 스토어를 단일 엔드포인트로+시맨틱 도구 검색), Memory(세션 멀티턴), Observability(CloudWatch), Policy(Cedar 기반 read-only 강제), Evaluations(CI 품질 게이트), Cognito JWT 인증
     * 에이전트 프레임워크는 "두뇌"를 만들 뿐 운영 레이어는 별개라는 교훈. 프로덕션 전환 5대 한계(멀티 데이터소스 관리·동적 확장 불가·블랙박스 실행·인프라 부담·메모리 관리)와 실제 구성 코드·시행착오 정리
+  * [삼성 계정 AIOps: AgentCore기반 멀티 에이전트 운영 자동화 여정 1편 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/agentcore-aiops-samsung-1/)
+    * [삼성 계정 AIOps: AgentCore기반 AIOps의 실전 활용과 자율성 확장 2편 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/agentcore-aiops-samsung-2/)
+    * [삼성 계정 AIOps: AgentCore기반 AIOps의 실전 활용과 자율성 | LinkedIn](https://www.linkedin.com/posts/ren-ai-ssance_%EC%82%BC%EC%84%B1-%EA%B3%84%EC%A0%95-aiops-agentcore%EA%B8%B0%EB%B0%98-alops%EC%9D%98-%EC%8B%A4%EC%A0%84-%ED%99%9C%EC%9A%A9%EA%B3%BC-%EC%9E%90%EC%9C%A8%EC%84%B1-share-7501464964558123008-_grS/)
+    * 전 세계 21억 사용자 삼성 계정의 멀티 에이전트 AIOps. Orchestrator→도메인 Supervisor→Sub-agent 3계층으로 책임 분리, Runtime·Observability·Evaluation·Guardrails 4필라 위에서 장애 분석·변경 추적·보안 점검·비용 최적화 자동화. 분석은 에이전트, 실행은 사람 승인을 거치는 단계적 자율운영
+    * 2편: 장애 알람 실시간 분석, 인프라 영향도 분석, 월간 리포트 자동화, 원격 긴급 작업 등 실전 활용—운영자 업무가 정보 수집에서 분석 결과 검증·최종 판단으로 재편. Level 3·4 자율운영 확대를 위한 신뢰 지표 정량화 추진
 * [Amazon Nova - Explore Amazon Nova foundation models](https://nova.amazon.com/)
   * [아마존, 웹 브라우저에서도 작동하는 생성형 AI 에이전트 플랫폼 ‘노바’ 공개 < 플랫폼 < AI Tech < 기사본문 - 인공지능신문](https://www.aitimes.kr/news/articleView.html?idxno=34429)
   * [Introducing Amazon Nova Sonic: Human-like voice conversations for generative AI applications | AWS News Blog](https://aws.amazon.com/ko/blogs/aws/introducing-amazon-nova-sonic-human-like-voice-conversations-for-generative-ai-applications/)
