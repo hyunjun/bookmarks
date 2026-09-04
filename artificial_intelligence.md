@@ -5502,6 +5502,9 @@ Artificial Intelligence
   * [academic-research-skills: Academic Research Skills for Claude Code: research → write → review → revise → finalize](https://github.com/Imbad0202/academic-research-skills)
     * [Edward Wu - Open-source AI-powered academic research tools | Buy Me a Coffee](https://buymeacoffee.com/crucify020v)
     * 학술 연구 전체 파이프라인 지원 Claude Code 스킬 패키지. 4가지 스킬—Deep Research(13 에이전트·7 모드), Academic Paper(12 에이전트·LaTeX), Reviewer(7 에이전트·100점 평가), Pipeline(10단계 오케스트레이터). Semantic Scholar+OpenAlex+Crossref+arXiv 4-인덱스 인용 검증 게이트, 시간 일관성 검증, Socratic·Devil's Advocate 모드. APA/Chicago/MLA/IEEE/Vancouver, EN/zh-TW/zh-CN/JP. CC BY-NC 4.0
+  * [agent-toolkit: RobinTech agent toolkit — engineering skills and product tooling for coding agents](https://github.com/robintech-seoul/agent-toolkit)
+    * [서브에이전트를 띄워서 코드 변경 내용들이 어느 블럭에 어떤 기능들인지 설명하고 html로 만들어줘 | Seokhyun K.](https://www.linkedin.com/posts/seokhyun_%EC%84%9C%EB%B8%8C%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EB%A5%BC-%EB%9D%84%EC%9B%8C%EC%84%9C-%EC%BD%94%EB%93%9C-%EB%B3%80%EA%B2%BD-%EB%82%B4%EC%9A%A9%EB%93%A4%EC%9D%B4-%EC%96%B4%EB%8A%90-%EB%B8%94%EB%9F%AD%EC%97%90-%EC%96%B4%EB%96%A4-%EA%B8%B0%EB%8A%A5%EB%93%A4%EC%9D%B8%EC%A7%80-%EC%84%A4%EB%AA%85%ED%95%98%EA%B3%A0-ugcPost-7500313703574028288-ge2M/)
+    * 단일 마켓플레이스(`/plugin marketplace add robintech-seoul/agent-toolkit`)로 설치하는 스킬·플러그인 모음. arch-explorer(코드베이스를 블럭·인터페이스 화살표로 시각화한 자체 완결 HTML로 매핑, 블럭 클릭 시 시그니처·file:line까지 드릴다운), code-wiki 등. PR 코드 변경 시 전체 시스템에서 바뀐 부분을 시각적으로 확인하는 용도로 유용
   * [ai-design-components: Comprehensive UI/UX and Backend component design skills for AI-assisted development with Claude](https://github.com/ancoleman/ai-design-components)
     * [Claude 기반 AI 보조 개발을 위한 Full-stack 기술 스킬 모음 정리](https://digitalbourgeois.tistory.com/2682)
   * [ai-marketing-skills: Claude Code marketing and sales skill collection](https://github.com/ericosiu/ai-marketing-skills)
