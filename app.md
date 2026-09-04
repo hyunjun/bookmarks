@@ -1022,6 +1022,8 @@ App
   * Go로 작성된 현대식 터미널 파일 매니저(`spf`). 중앙 파일 브라우저+우측 미리보기+좌측 사이드바 레이아웃, 다중 패널로 여러 디렉토리 동시 탐색, Vim 스타일 커스터마이징 가능한 키바인딩, 선택 모드 대량 파일 작업, 검색·정렬, Nord/Dracula 등 테마. SSH로 원격 서버에서도 사용. 22.7k stars
 * [yazi: 💥 Blazing fast terminal file manager written in Rust, based on async I/O.](https://github.com/sxyazi/yazi)
   * [How To Use Yazi: An Awesome Terminal File Manager Written In Rust - YouTube](https://www.youtube.com/watch?v=iKb3cHDD9hw)
+  * [Yazi: The CLI File Manager That's Faster Than Any GUI File Manager - YouTube](https://www.youtube.com/watch?v=RgV47l59NYs)
+    * CodeOps HQ. 설치부터 고급 커스터마이징까지—async I/O 기반 빠른 탐색·파일 작업, 이미지/코드 미리보기, Tokyo Night 테마 설정, USB/드라이브 관리용 mount.yazi 플러그인, 커스텀 키바인딩
 
 ## Development Project Management
 * [6 Must-Try Project Management Tools for Software Development](https://hackernoon.com/the-6-best-project-management-tools-for-software-development-dbe00a9771cf)
