@@ -655,6 +655,8 @@ Web
   * Camoufox 기반 AI 에이전트용 안티탐지 브라우저 서버. C++ 레벨 Firefox 패칭으로 Google/Cloudflare 우회, 안정적 엘리먼트 참조, 접근성 스냅샷(HTML 대비 90% 토큰 절감), 세션 격리, 프록시 자동 로케일/타임존 매칭. Docker/Fly.io/Railway 배포
 * [ego lite — The fastest browser for AI agents](https://lite.ego.app/)
   * [ego-lite: The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents](https://github.com/citrolabs/ego-lite)
+  * [드디어 모든 브라우저 자동화 고민을 해결해줄 구세주가 탄생했습니다 - YouTube](https://www.youtube.com/watch?v=uy5XmijKOUA)
+    * 코드팩토리. ego lite 소개—기존 로그인 세션에서 바로 작동, parallel Spaces로 여러 브라우저 작업 동시 실행
   * Codex·Claude Code 등 AI 에이전트에 로그인된 브라우저 상태를 방해 없이 공유해 브라우저 자동화를 실행. 무료·무설정. JavaScript, MIT, 7.5k stars
 * [fingerprint-suite: Browser fingerprinting tools for anonymizing your scrapers](https://github.com/apify/fingerprint-suite)
   * Apify의 브라우저 핑거프린팅 도구. header-generator(현실적 HTTP 헤더), fingerprint-generator(JS API+HTTP 영향 지문), fingerprint-injector(Playwright/Puppeteer 주입), generative-bayesian-network(베이지안 생성 네트워크). 모듈러 npm 패키지
