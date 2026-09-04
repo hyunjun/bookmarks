@@ -2695,6 +2695,10 @@ NLP
   * [노토랩 변형호 Mixture-of-Experts (MoE) 정리 | Notion | Hyungho Byun](https://www.linkedin.com/posts/hyungho-byun-6b2588224_%EB%85%B8%ED%86%A0%EB%9E%A9-%EB%B3%80%ED%98%95%ED%98%B8-mixture-of-experts-moe-%EC%A0%95%EB%A6%AC-notion-activity-7380441486330564608-KSy2)
 * [MoE (Mixture-of-Experts) | noviceforever](https://housekdk.gitbook.io/ml/genai/moe) MoE 딥다이브 기술 가이드
   * [MoE (Mixture-of-Experts) | noviceforever | Daekeun Kim](https://www.linkedin.com/posts/daekeun-kim_moe-mixture-of-experts-noviceforever-activity-7386671947801223168-R5WF)
+* [2606.20945 Grouped Query Experts: Mixture-of-Experts on GQA Self-Attention](https://arxiv.org/abs/2606.20945)
+  * [Grouped Query Experts: Mixture-of-Experts on GQA Self-Attention Review | dimensionstp](https://dimensionstp.github.io/study-concept/gqe/)
+    * [Grouped Query Experts: Mixture-of-Experts... | Joohyung Han](https://www.linkedin.com/posts/joohyung-han-669943213_grouped-query-experts-mixture-of-experts-share-7499677499665281024-NcHN/)
+  * MoE를 FFN이 아닌 attention block 안으로 가져오되 GQA의 KV-cache 구조는 유지하고 query-head 계산만 conditional하게 줄이는 GQE. 각 GQA 그룹 안에 여러 query-head expert를 두고 router가 토큰마다 top-k만 선택—KV cache layout은 GQA와 동일, query-side attention 연산만 절감
 * [인공지능소사이어티 - 연구활용 실전 LLMs | Pega Devlog](https://jehyunlee.github.io/2024/08/29/General-60-researchLLMs/)
 * [LLM, 더 저렴하게, 더 빠르게, 더 똑똑하게 - tech.kakao.com](https://tech.kakao.com/posts/633)
 * [Jonas Kim - 지난주 AWS AI Day에서 'AI Agentic Workflow: 단순 업무 보조에서 비즈니스... | Facebook](https://www.facebook.com/aldente0630/posts/pfbid02VUugMrLApo6zftJv6UF4NGEtu9P2UQykm778tPE13ixdSFBXY6H3QobTW96sU5p6l)
