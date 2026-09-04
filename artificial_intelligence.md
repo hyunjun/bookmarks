@@ -4161,8 +4161,16 @@ Artificial Intelligence
   * [The New Software Development Lifecycle with Vibe Coding | Addy Osmani](https://addyosmani.com/blog/new-sdlc-vibe-coding/)
   * Google whitepaper(Addy Osmani·Shubham Saboo·Sokratis Kartakis) 해설. 에이전트=모델(10%)+하네스(90%), 정적/동적 컨텍스트 경계를 PR로 리뷰·버전관리하는 아키텍처 결정으로. "vibe coding"→프로덕션급의 스펙트럼은 검증 엄격성이 가름(테스트=결정론적 출력, eval=최종 정확성+추론 품질). 구현은 빨라지나 요구사항·아키텍처·검증이 병목—스펙 품질이 새 병목. 바이브 코딩은 싸 보여도 유지보수 비용 누적, 에이전틱 엔지니어링은 선투자로 장기 비용 3-10배 절감
 * [The AI-Native SDLC playbook | Claude](https://claude.com/blog/the-ai-native-sdlc-playbook)
+  * [한영자막 Claude Code 팀이 새로 공개한 INTENT.MD의 정체와 AI-Native 개발 방식 - YouTube](https://www.youtube.com/watch?v=rGaSkBWjoHA)
+    * Tech Bridge. 플레이북 워크플로우 해설—에이전트 인터뷰로 요구사항 수집해 intent.md 생성(Discovery), 설계 명세 자동 생성·거버넌스(Spec), plan.md 수립 후 서브에이전트·git worktree 병렬 개발(Build), TDD·브라우저 E2E·지속적 Evals(Test), 비동기 PR 리뷰와 장애 시 자율 진단·intent 생성(유지보수)
   * Anthropic Applied AI 팀의 AI 네이티브 SDLC 가이드. 코드는 더 이상 병목이 아닌데 승인 게이트·리뷰·핸드오프는 인간 속도 그대로라 병목이 build 좌우(계획·리뷰/테스트·배포)로 이동—라인별 수동 리뷰·주간 위원회 거버넌스가 현실과 불일치. 선형 흐름 대신 AI가 각 지점에 내장된 루프로 재설계, 6단계(Plan→Design→Build→Test→Deploy→Maintain)별 플레이 제공
   * 관통하는 원칙은 "커밋된 아티팩트": 각 단계가 intent.md·spec.md·plan.md·diff+테스트·리뷰 findings·인시던트 기록을 버전 관리에 커밋하고 다음 단계가 그걸 읽음—커밋 체인이 곧 감사 추적. 에이전트 다층 리뷰+훅을 승인 게이트로, 인간 리뷰는 규제·핵심 코드에 집중
+* [From AI-Assisted to AI-Native: Building a Frontier Development Team — Clare Liguori, AWS - YouTube](https://www.youtube.com/watch?v=pqlWNihgdjI)
+  * [AWS 엔지니어가 공개한 아마존 내부 데이터 — 4.5배 빨라진 25개 팀의 습관 5가지 - YouTube](https://www.youtube.com/watch?v=O9iL08X9zMo)
+    * AgentOS. 원본 발표(AI Engineer World's Fair 2026)를 따라가며 갈린 팀들의 습관 5가지와 그 뒤에 새로 생긴 문제 3가지 정리
+  * 아마존이 평범한 50개 팀을 1년간 관찰—90%가 같은 코딩 어시스턴트를 썼는데 절반은 배포 속도 3배 미만, 절반은 중간값 4.5배(최대 10배+). 차이는 도구가 아니라 의도적으로 일하는 방식을 바꿨는가였고, 성공 팀 대부분이 맥락 문서화·오류 메시지 개선·테스트 정비 같은 준비 작업 탓에 초기엔 오히려 생산성이 떨어졌다고 답함
+  * 핵심은 에이전트와 대화하며 30초씩 기다리는 '돌보기(babysitting)'를 멈추고, 자기 검증 방법까지 함께 줘서 품질 기준을 충족할 때만 돌아오게 하는 '먹이 주기(feeding)'로 전환. 코드 작성이 1~2개월로 줄어든 지금 새 병목은 의사결정 속도—프런티어 팀은 코드 쓰는 시간보다 결정하는 시간이 더 많음
+  * 개인 팁: feeding할 때 타이핑 대신 딕테이션(voice 모드)으로 주르륵 떠드는 것이 효과적—타이핑하면 귀찮아서 자꾸 짧게 요청하게 됨
 * [AI is removing the middle class of software engineering | Florian Herrengt](https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html)
   * [AI가 소프트웨어 개발의 속도 제한을 없애면서 개발자의 가치가 달라지고 있다 | digitalbourgeois](https://digitalbourgeois.tistory.com/3552)
   * AI가 개발 속도 제한을 없애자 엔지니어링 문화가 약한 팀은 훨씬 빨리 실패한다—코드가 만들어지는 속도와 사람이 이해·판단하는 속도의 격차가 문제. 겉보기엔 돌아가는 수만 줄짜리 PR이 쌓여 "지난주에 만든 사람도 데이터 출처를 모르는" 지경에 이르는 시나리오. 소프트웨어 엔지니어링의 중간층이 사라지고, AI 산출물을 평가하고 올바른 기술적 결정을 내리는 능력이 개발자 가치의 중심이 된다는 주장
