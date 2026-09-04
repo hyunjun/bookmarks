@@ -1915,6 +1915,7 @@ Artificial Intelligence
 * [awesome-harness-engineering: Awesome list for AI agent harness engineering: tools, patterns, evals, memory, MCP, permissions, observability, and orchestration](https://github.com/ai-boost/awesome-harness-engineering)
   * 하네스(컨텍스트 전달·도구 인터페이스·계획 아티팩트·검증 루프·메모리·샌드박스) 중심 큐레이션. "모델이 아니라 하네스에 집중—최고의 하네스는 모델이 좋아지면 불필요해질 구성요소를 알고 설계". CC0
 * [EvoHarness-RL: Learning Self-Evolving Runtime Harness for Long-Horizon LLM Agents](https://arxiv.org/abs/2608.05446v1)
+  * [LLM 에이전트가 스스로 외부 상태를 활용하도록 학습하는 EvoHarness-RL | digitalbourgeois](https://digitalbourgeois.tistory.com/3614)
   * 장기 실행 LLM 에이전트가 상태 유지·진행 추적·도구 호출·결과 검증·경험 재사용을 위해 의존하는 외부 실행 지원(하네스). 노이즈 섞인 상호작용 트레이스로부터의 상태 형성(state formation)과 외부 상태 접근에 대한 런타임 제어라는 두 결합된 과제를 다룸
 * Graph Engineering
   * [Graph Engineering vs Loop Engineering: What Actually Changed | Louis Bouchard](https://www.louisbouchard.ai/graph-engineering-explained/)
@@ -2856,6 +2857,9 @@ Artificial Intelligence
   * [unreal-mcp: Enable AI assistant clients like Cursor, Windsurf and Claude Desktop to control Unreal Engine through natural language using the Model Context Protocol (MCP)](https://github.com/chongdashu/unreal-mcp)
     * [클로드가 언리얼 엔진을 자동으로 조작하는 시대가 왔다](https://www.facebook.com/reel/1589989091994992)
   * [webmcp-tools](https://github.com/GoogleChromeLabs/webmcp-tools)
+    * [WebMCP를 사전 체험판으로 이용할 수 있습니다 | Chrome for Developers](https://developer.chrome.com/blog/webmcp-epp)
+      * [WebMCP란 무엇인가? AI 에이전트와 웹사이트를 연결하는 새로운 방식 | digitalbourgeois](https://digitalbourgeois.tistory.com/3612)
+      * 선언적 API·명령형 API 두 방식으로 에이전트 상호작용을 구조화해 원시 DOM 조작보다 안정적인 워크플로 제공. 고객 지원·이커머스·여행 예약 같은 복잡한 작업을 에이전트가 대신 정확히 수행. 초기 프리뷰 프로그램(EPP) 참여자 모집
     * [WebMCP (Web Model Context Protocol) 공개 | GeekNews](https://news.hada.io/topic?id=26597)
     * [Make your website agent ready with WebMCP - YouTube](https://www.youtube.com/watch?v=FARxSG_EY98)
       * Google Cloud Tech, Hugo Zanini. 웹페이지 안에 타입 지정 도구를 직접 노출해 에이전트가 스크린샷 스크래핑 없이 빠르고 저렴하게 행동—React 개발자 포털 "Happy Coffee" 라이브 데모, 로컬 에이전트가 웹 UI를 활용하는 WebMCP for Local Agents 시연
@@ -4615,6 +4619,7 @@ Artificial Intelligence
 * [noton: A free and open documentation platform built with Laravel and Filament, enhanced by Ollama for local AI features, focused on clarity, structure, and self-hosted simplicity](https://github.com/bartvantuijn/noton/)
 * [omlx: LLM inference, optimized for your Mac](https://omlx.ai/)
   * [omlx](https://github.com/jundot/omlx)
+  * [Mac에서 로컬 LLM을 효율적으로 운영하는 oMLX, 주요 기능과 사용 방법 | digitalbourgeois](https://digitalbourgeois.tistory.com/3605)
   * 연속 배치 처리와 SSD 기반 계층형 KV 캐싱으로 최적화된 Apple Silicon용 LLM 추론 서버. macOS 메뉴 바에서 관리
 * [omni: Workplace AI Assistant and Search Platform](https://github.com/getomnico/omni)
   * [omni | GeekNews](https://news.hada.io/topic?id=27390)
@@ -6551,6 +6556,9 @@ Artificial Intelligence
 * [openclaude: Open-source coding-agent CLI that works with more than one model provider](https://github.com/Gitlawb/openclaude)
   * 멀티 프로바이더(OpenAI, Gemini, Ollama 등) 지원 오픈소스 코딩 에이전트 CLI. 스트리밍, 비전, MCP, 로컬 추론 지원
 * [OpenClaw — Personal AI Assistant](https://openclaw.ai/)
+  * [OpenClaw 2.0, Accidentally | OpenClaw 블로그](https://openclaw.ai/blog/openclaw-2-accidentally)
+    * [OpenClaw 2.0 총정리, 설치부터 브라우저·자동화·협업까지 달라진 대규모 업데이트 | digitalbourgeois](https://digitalbourgeois.tistory.com/3609)
+    * 933명 기여자(569명은 첫 참여)가 만든 2.0. 설치 단순화·브라우저 앱 개선에서 출발했다가 전체 시스템 개편으로 확대—기존 모델·API를 인식해 설정 최소화, 브라우저 앱을 핵심 경험으로 재구축, 개인 자동화에서 팀 협업까지 확장
   * [The creator of Clawd: "I ship code I don't read"](https://newsletter.pragmaticengineer.com/p/the-creator-of-clawd-i-ship-code)
     * [MoltBot 제작자: “나는 읽지 않은 코드를 배포한다” | GeekNews](https://news.hada.io/topic?id=26222)
   * [이제 그냥 다 지우세요! 차 마저 저렴하게 대신 구매 해주는 클로드봇 - YouTube](https://www.youtube.com/watch?v=UBx4il7x78I)
