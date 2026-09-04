@@ -1246,6 +1246,9 @@ Artificial Intelligence
     * Paperclip 회사 환경에서 Hermes Agent를 관리되는 직원처럼 운영. 8개 추론 프로바이더(Anthropic/OpenRouter/OpenAI/Nous/Codex/ZAI/Kimi/MiniMax), 30+ 네이티브 도구·80+ 스킬·MCP, 영구 세션·하트비트, 이슈 할당/댓글로 트리거
   * [hermes-war-room: Visual command center for Hermes Agent's multi-agent orchestration](https://github.com/Naroh091/hermes-war-room)
     * Hermes 멀티 프로필 위임·칸반 위에 구축한 비주얼 대시보드. War Room(미션 컨트롤+오퍼레이티브), 팀 로스터(에이전트 채용/해고·콜사인·스킬), 미션 아카이브, SQLite 직접 읽기 기반 칸반, SSE 실시간 업데이트, 자동 nudge. Nuxt 4+Tailwind v4+Nitro+ACP
+  * [Oh My Hermes - Power intelligence and agentic memory for Hermes Agent](https://rlaope.github.io/oh-my-hermes/)
+    * [oh-my-hermes: Just install once. The coding intelligence, a long-term memory system, optimized workflow packages, only plugin for Hermes Agent](https://github.com/rlaope/oh-my-hermes)
+    * 한 번 설치로 Hermes Agent에 코딩 인텔리전스·장기 기억 시스템·최적화된 워크플로 패키지를 더하는 플러그인. Python, 1.4k stars
   * [Open Second Brain — Dark Factory](https://dark-factory.techmeat.dev/)
     * [open-second-brain: Local-first memory for Hermes Agent that lives in your Obsidian vault and remembers project context](https://github.com/itechmeat/open-second-brain)
     * [YoonSeok Choi - 에이전트 메모리의 어려운 문제는 무엇을 기억할까가 아니라 무엇을 잊을까 | Facebook](https://www.facebook.com/yoonseok.choi.14/posts/pfbid025rNxVBZ96khvN8fQytxUiasrJ2qgEeTgdxXBU5wtF2yW4cs1H2UzTdY8hg6oqchpl)
@@ -1900,6 +1903,8 @@ Artificial Intelligence
 * [How to Build a Software Factory for AI Coding Agents - YouTube](https://www.youtube.com/watch?v=tGbjIvvYuHE)
   * Boundary 'AI That Works', Dex·Vaibhav 대담(71분). AI 에이전트가 사람 개입을 줄이며 코드를 쓰고 테스트·리뷰·배포까지 하는 '소프트웨어 팩토리' 아키텍처—전체 스택 자체 구축 vs 완전 관리형 구매(build vs buy) 판단, 개발 환경·코딩 하네스·컨트롤 플레인 계층 구분
   * 내부/외부 하네스 구성, 에이전트 기반 머지 큐, 작업을 적절한 머신에 디스패치하기, 사용자 리포트에서 피드백 루프 자동화, 이슈 트리아지 eval 구축, 모델 전환의 숨은 비용, 에이전트 환경을 pets vs cattle로 관리하기, 가장 미개척 계층인 컨트롤 플레인
+* [AI Software Factories Are the Next Big Thing (And I'm Building You One) - YouTube](https://www.youtube.com/watch?v=DcLj_SO8JNk)
+  * Cole Medin. AI 소프트웨어 팩토리는 AI 코딩의 최종 진화형—PRD 투입 → 태스크 분할 → 중간에 아무도 코드를 보지 않고 배포된 코드가 나옴. 1년간 실험으로 AI 튜터 Dynachat을 코드 한 줄 안 읽고 구축, 누구나 자기 프로젝트에 적용할 수 있는 오픈소스 버전 제작 중
 * [2604.14228 Dive into Claude Code: The Design Space of Today's and Future AI Agent Systems](https://arxiv.org/abs/2604.14228)
   * [Dive-into-Claude-Code: Build Your Own AI Agent - A Design Guide](https://github.com/VILA-Lab/Dive-into-Claude-Code)
   * [Claude Code 아키텍처 분석: 에이전트 성능은 모델이 아니라 시스템 전체의 결과 | digitalbourgeois](https://digitalbourgeois.tistory.com/3257)
@@ -2865,6 +2870,8 @@ Artificial Intelligence
       * Google Cloud Tech, Hugo Zanini. 웹페이지 안에 타입 지정 도구를 직접 노출해 에이전트가 스크린샷 스크래핑 없이 빠르고 저렴하게 행동—React 개발자 포털 "Happy Coffee" 라이브 데모, 로컬 에이전트가 웹 UI를 활용하는 WebMCP for Local Agents 시연
     * [구글이 웹사이트를 AI용으로 바꾸기 시작했다 - YouTube](https://www.youtube.com/watch?v=tfrDp6FnhZc)
       * 노마드 코더. AI 에이전트가 현재 웹사이트를 쓰는 방식 → WebMCP로 agent-ready 만들기 → JavaScript 15줄로 Tool 등록 → 에이전트가 직접 피자 주문 데모 → 인간이 아닌 AI를 위한 웹의 모습
+    * [MCP만큼 큰 변화가 또 옵니다, 이번엔 WebMCP - YouTube](https://www.youtube.com/watch?v=sOLFEc63US4)
+      * 코드깎는노인. MCP에 이어 오는 큰 변화 WebMCP를 짧고 쉽게 소개—AI가 웹사이트를 이용하는 방식이 어떻게 달라지는가
 * [maple-auction-mcp: 메이플 경매장 mcp](https://github.com/oyc0401/maple-auction-mcp)
   * 메이플스토리 경매장 데이터를 AI 에이전트에 연결하는 MCP 서버. TypeScript, MIT
 * [motia: Event-based orchestration framework for agents and intelligent automations](https://github.com/MotiaDev/motia)
@@ -7344,6 +7351,11 @@ Artificial Intelligence
   * [라벨링에 의존하는 AI는 현실에서 생존할 수 없다 | Suk Hyun K.](https://www.linkedin.com/posts/suk-hyun-k-31ba9b369_sqsrguriwqzc-worldmodel-ai-ugcPost-7417354333316632576-1sFF/)
 * [Awesome-World-Models: A Curated List of Awesome Works in World Modeling, Aiming to Serve as a One-stop Resource for Researchers, Practitioners, and Enthusiasts Interested in World Modeling](https://github.com/knightnemo/Awesome-World-Models)
   * 월드 모델 연구를 다방면에서 집대성한 저장소로, 자율주행, 임베디드 AI, 게임 시뮬레이션, 로봇 조작, 자연과학, 사회과학 등 다양한 분야의 최신 논문과 모델을 체계적으로 분류
+* [Code as Worlds: Agentic Discovery of Executable World Representations for Physical Reasoning](https://mirros-lab.github.io/code-as-world/)
+  * [Code-as-World: Agentic Discovery of Executable World Representations for Physical Reasoning](https://github.com/MirroS-Lab/Code-as-World)
+  * [Meet 'Code-as-World': An Agentic Loop That Rewrites Real Videos Into Executable MuJoCo Physics Programs | MarkTechPost](https://www.marktechpost.com/2026/08/29/mirros-code-as-world-executable-world-representations)
+  * [Code-as-World, 영상을 실행 가능한 물리 세계 코드로 바꾸는 AI 에이전트 기술 | digitalbourgeois](https://digitalbourgeois.tistory.com/3615)
+  * MirroS. 영상을 픽셀·설명문이 아닌 실행 가능한 MuJoCo 물리 프로그램으로 변환하는 에이전틱 루프. 물체의 질량·마찰·중력·충돌 같은 물리 메커니즘을 코드 형태 월드로 표현해 물리 추론 수행. Python, 393 stars
 * [H3-World — Turning Language Understanding into World Control](https://danzer1xxxxchan.github.io/H3-World)
   * [2609.01560 H3-World: Turning Language Understanding into World Control](https://arxiv.org/abs/2609.01560)
   * [H3-World](https://github.com/Danzer1xxxxChan/H3-World)
