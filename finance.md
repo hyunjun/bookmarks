@@ -321,6 +321,10 @@ Finance
 * [The MCP Features Bloomberg Built for High Stakes Financial AI - YouTube](https://www.youtube.com/watch?v=z6SuFQYClQI)
 * [2512.10971 AI-Trader: Benchmarking Autonomous Agents in Real-Time Financial Markets](https://arxiv.org/abs/2512.10971)
   * 주식하는 AI 에이전트, [홍콩대가 만든 밤낮없이 시장을 보고, 뉴스도 읽고, 스스로 판단하는 AI-Trader는 정작 성적표는 꽤 인간적](https://www.facebook.com/socialego/posts/pfbid0vDy6kZfygZnjAid17TiQJvvB3PunVbnpTSiAV1RHCYcDwnR9Fhszump1fS6kRWVKl)
+* [Agentic Trading Lab](https://agentic-trading-lab.vercel.app/)
+  * [AgenticTrading: Agentic Trading Lab](https://github.com/Open-Finance-Lab/AgenticTrading)
+  * [Agentic Trading Lab, LLM 기반 트레이딩 에이전트를 직접 실험하고 검증하는 오픈소스 플랫폼 | digitalbourgeois](https://digitalbourgeois.tistory.com/3599)
+  * Open-Finance-Lab. LLM 기반 트레이딩 에이전트를 직접 실험·검증하는 오픈소스 플랫폼. Python, 639 stars
 * [anthropic-quickstarts/financial-data-analyst at main · anthropics/anthropic-quickstarts](https://github.com/anthropics/anthropic-quickstarts/tree/main/financial-data-analyst)
   * [@aicoffeechat • Anthropic, 금융 전문가 'Quick Start' 공개 여러분, Anthropic에서 정말 흥미진진?... • Threads](https://www.threads.net/@aicoffeechat/post/DBRdapBT_kr)
 * [AutoHedge: Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution](https://github.com/The-Swarm-Corporation/AutoHedge)
@@ -478,7 +482,8 @@ Finance
 * [코인 시세 1초만에 보는 크롬 확장 프로그램 만들기 - peterkimzz](https://www.peterkimzz.com/%EC%BD%94%EC%9D%B8-%EC%8B%9C%EC%84%B8-1%EC%B4%88%EB%A7%8C%EC%97%90-%EB%B3%B4%EB%8A%94-%ED%81%AC%EB%A1%AC-%ED%99%95%EC%9E%A5-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-%EB%A7%8C%EB%93%A4%EA%B8%B0/)
 * [게으른 퀀트 ::: 홈](https://lazyquant.xyz/)
 * [한국 Trading API](https://igotit.tistory.com/entry/%EC%A6%9D%EA%B6%8C%EC%82%AC-API-DMA%EC%A0%95%EB%A6%AC)
-* [hometaxbot](https://github.com/finecodekr/hometaxbot)
+* [akshare: AKShare is an elegant and simple financial data interface library for Python, built for human beings! 开源财经数据接口库](https://github.com/akfamily/akshare)
+  * 주식·선물·옵션·펀드·채권·외환·암호화폐 등 금융 데이터를 간결한 인터페이스로 가져오는 오픈소스 Python 라이브러리. 22.4k stars
 * [Finance: 150+ quantitative finance Python programs to help you gather, manipulate, and analyze stock market data](https://github.com/shashankvemuri/Finance)
   * [이상선 - GitHub 프로젝트: Finance - 금융 데이터 분석 & 트레이딩 도구 - 핵심내용 - 1. 모듈... | Facebook](https://www.facebook.com/100001916096643/posts/31814107121569744/)
 * [FinceptTerminal: Open-source financial analysis platform — Bloomberg Terminal alternative](https://github.com/Fincept-Corporation/FinceptTerminal)
@@ -494,6 +499,7 @@ Finance
 * [Goldman Sachs · GitHub](https://github.com/goldmansachs/)
   * [Home - Goldman Sachs Developer](https://developer.gs.com/discover/home)
   * [Goldman Sachs Has an Open Source Python Package Called GS-Quant - YouTube](https://www.youtube.com/watch?v=6PSlX7Qqd1U)
+* [hometaxbot](https://github.com/finecodekr/hometaxbot)
 * [KIS Developers](https://apiportal.koreainvestment.com/intro) 한국투자증권
 * [OctoBot — Crypto trading bot for automated strategies](https://www.octobot.cloud/)
   * [OctoBot: Free open source crypto trading bot to automate AI, Grid, DCA and TradingView strategies](https://github.com/Drakkar-Software/OctoBot)
