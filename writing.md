@@ -133,6 +133,9 @@ Writing
   * 좋은 이야기
     * 낯선 곳에서 벌어지는 익숙한 이야기(e.g. 반지의 제왕)
     * 익숙한 곳에서 벌어지는 낯선 이야기(e.g. 실종)
+* [How We Use AI for Every Article Without Making AI Slop | Ahrefs](https://ahrefs.com/blog/how-we-use-ai-without-making-ai-slop/)
+  * [모든 글에 AI를 쓰면서도 'AI 슬롭'을 피하는 방법 | GeekNews](https://news.hada.io/topic?id=33225)
+  * Ahrefs는 발행하는 모든 글에 AI를 쓰지만 슬롭은 AI 사용량·문체(em dash, delve)의 문제가 아니라는 관점. 슬롭 정의: 독자의 주의를 정당화할 만큼의 인간의 이해·판단·증거·독창적 기여 없이 발행된 콘텐츠—창작자의 노력을 독자에게 전가하는 것. 조사·검증·의견 개발·중요도 판단은 사람이 수행
 
 # App
 * latex
