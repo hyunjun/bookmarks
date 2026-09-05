@@ -1227,6 +1227,9 @@ Web
   * Full Stack Javascript Engineer: Firebase등을 사용하면 아주 쉽게 혼자서 Web App을 만들 수 있다. 그런 이유(인건비, 속도등)로 Startup 중심으로 Full Stack Engineer의 수요가 증가하지 않을까 예상해 본다. 추후에는 Javascript로 백앤드를 할 수 있는 Firebase, Meteor등과 MEAN등을 위한 추가적인 개발 환경과 툴들이 더 나오고 성숙될 것이고, 그러면 본격적인 Full Stack Javascript Engineer의 세계가 열리지 않을까 예상해본다.
 * [최신 웹사이트와 꼼꼼한 개발자들을 위한 완벽 프론트엔드 체크리스트 http://frontendchecklist.com ](https://github.com/kesuskim/Front-End-Checklist)
 * [배민에서 웹 프론트엔드 프로그래머는 뭘 하나요?. 우아한형제들 채용 공고를 보면(2022년 11월 기준) 웹 프론트엔드… | by 송요창 | Nov, 2022 | Medium](https://medium.com/@totuworld/%EB%B0%B0%EB%AF%BC%EC%97%90%EC%84%9C-%EC%9B%B9-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EB%8A%94-%EB%AD%98-%ED%95%98%EB%82%98%EC%9A%94-44e5122f9c88)
+* [The asteroid currently hitting frontend web development | Nolan Lawson](https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development/)
+  * [AI라는 소행성이 강타한 프론트엔드 웹 개발 | GeekNews](https://news.hada.io/topic?id=33223)
+  * 프론트엔드 교육자들(Axel Rauschmayer, Josh Comeau 등)이 활동을 접거나 줄이고, 유명 인사들은 AI 이야기로 전향하는 현상 진단. 저자의 전문 분야였던 CSS 성능 분석조차 Claude가 Chrome trace를 읽고 처리하는 시대—AI라는 소행성이 프론트엔드 지식 생태계에 미친 충격에 대한 에세이
 
 # GraphQL
 * [REST vs GraphQL - What's the best kind of API?](https://www.youtube.com/watch?v=PeAOEAmR0D0)
