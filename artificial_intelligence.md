@@ -911,6 +911,8 @@ Artificial Intelligence
   * 코딩 에이전트의 각 태스크를 작업 단계로 분해—사용한 도구, 변경 파일, 실행한 테스트, 소요 시간·토큰 비용. Claude Code·Codex 등 지원 local-first 대시보드. Python
 * [AgentAwake — AI Agent Memory Playbook for ChatGPT, Claude, Cursor and More](https://agentawake.com/)
   * SOUL.md/MEMORY.md/AGENTS.md 템플릿으로 AI 에이전트에 영구 메모리 설정. OpenClaw, n8n, LangChain 등 8개 이상 플랫폼 지원
+* [Agent-Awareness: A cooperative admission gate for machines running several agent coding sessions at once](https://github.com/mr-tbot/Agent-Awareness)
+  * 한 머신에서 여러 에이전트 코딩 세션이 서로를 못 본 채 동시에 빌드를 시작하는 문제 해결—공유 큐와 단일 admission gate로 조율하고, 승인된 작업을 각각 메모리 제한 cgroup에서 실행해 OOM 시 에디터가 아닌 빌드만 종료. Python
 * [agent-browser](https://agent-browser.dev/)
   * [Vercel agent-browser 소개: AI 에이전트를 위한 새로운 헤드리스 브라우저 자동화 CLI](https://digitalbourgeois.tistory.com/2840)
     * Rust 기반 CLI, Chrome DevTools Protocol 직접 호출로 AI 에이전트 웹 브라우저 자동화 성능 향상
@@ -1925,6 +1927,8 @@ Artificial Intelligence
 * [EvoHarness-RL: Learning Self-Evolving Runtime Harness for Long-Horizon LLM Agents](https://arxiv.org/abs/2608.05446v1)
   * [LLM 에이전트가 스스로 외부 상태를 활용하도록 학습하는 EvoHarness-RL | digitalbourgeois](https://digitalbourgeois.tistory.com/3614)
   * 장기 실행 LLM 에이전트가 상태 유지·진행 추적·도구 호출·결과 검증·경험 재사용을 위해 의존하는 외부 실행 지원(하네스). 노이즈 섞인 상호작용 트레이스로부터의 상태 형성(state formation)과 외부 상태 접근에 대한 런타임 제어라는 두 결합된 과제를 다룸
+  * [Self-Evolving AI: Learning from Its Own Runs | Code Pointer](https://codepointer.dev/p/self-evolving-ai-learning-from-its)
+    * 자기 실행 결과로부터 학습하는 AI 딥다이브—모델·하네스·옵티마이저·환경 각각에 대한 변경의 메커니즘, 변경 타이밍, 수용 제어(acceptance control)를 정리
 * Graph Engineering
   * [Graph Engineering vs Loop Engineering: What Actually Changed | Louis Bouchard](https://www.louisbouchard.ai/graph-engineering-explained/)
     * [Graph 엔지니어링 vs Loop 엔지니어링: 실제로 달라진 것은 무엇인가 | digitalbourgeois](https://digitalbourgeois.tistory.com/3543)
@@ -2097,6 +2101,9 @@ Artificial Intelligence
   * [AI 시대, 이제 엔지니어는 어떻게 성장해야 하는가? – 이바닥늬우스](https://ebadak.news/2025/08/17/ai-engineer-meri-williams/)
 * [Should You Learn Coding Now? Anthropic CEO Explains - YouTube](https://www.youtube.com/watch?v=EdZWPB1fIJc)
   * Anthropic CEO 다리오 아모데이가 Nikhil Kamath 팟캐스트(WTF is)에서 AI 시대 코딩 학습·커리어를 논하는 약 9분 클립
+* [DHH: Future of Programming, AI, Agentic Engineering, Vibe Coding & Linux | Lex Fridman Podcast #501 - YouTube](https://www.youtube.com/watch?v=NYFGCESmikA)
+  * [DHH가 바라본 프로그래밍의 미래: 직접 코딩에서 AI 에이전트 팀 운영으로 | GeekNews](https://news.hada.io/topic?id=33245)
+  * Ruby on Rails 창시자·Omarchy Linux 개발자·37signals CTO DHH의 Lex Fridman 인터뷰. Opus 4.5와 에이전트 하네스를 기점으로 AI가 보조 도구에서 문제 해결 전반을 맡는 제작 주체로 전환됐다고 평가—Omarchy Quattro는 최근 3개월간 코드의 거의 100%를 에이전트가 작성, 개발자의 일이 직접 코딩에서 AI 에이전트 팀 운영으로 이동
 * [ai-tech-interview: 👩‍💻👨‍💻 AI 엔지니어 기술 면접 스터디 (⭐️ 2k+)](https://github.com/boost-devs/ai-tech-interview)
 * [interviews.ai: This book was written for you: an aspiring data scientist with a quantitative background, facing down the gauntlet of the interview process in an increasingly competitive field. For most of you, the interview process is the most significant hurdle between you and a dream job](https://github.com/BoltzmannEntropy/interviews.ai)
 
@@ -4075,6 +4082,7 @@ Artificial Intelligence
 * [AdaptixC2: AdaptixC2 is a highly modular advanced redteam toolkit](https://github.com/Adaptix-Framework/AdaptixC2)
   * [Welcome | Adaptix Framework](https://adaptix-framework.gitbook.io/adaptix-framework)
 * [agent-governance-toolkit: Microsoft AI Agent Governance Toolkit. Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents](https://github.com/microsoft/agent-governance-toolkit)
+  * [Microsoft Agent Governance Toolkit(AGT): AI 에이전트를 안전하게 운영하기 위한 정책·신원·감사 관리 | digitalbourgeois](https://digitalbourgeois.tistory.com/3598)
   * 자율 AI 에이전트 운영 거버넌스 툴킷(Public Preview, Microsoft 서명). 프롬프트 안전 의존이 아닌 결정론적 앱 코드에서 모든 도구 호출·메시지·위임을 인터셉트해 거부 액션 "구조적 불가능"화. YAML/OPA/Cedar 정책 엔진, SPIFFE/DID/mTLS zero-trust ID, 4링 권한 샌드박스, tamper-evident 감사 로그, kill switch·SLO 모니터·카오스 테스트, MCP Security Gateway(도구 포이즈닝·드리프트), Shadow AI Discovery. Python/TypeScript/.NET/Rust/Go SDK. Claude Code/Copilot CLI/OpenCode/Semantic Kernel/AutoGen/LangGraph/CrewAI/MS Agent Framework 통합. OWASP Agentic Top 10/NIST AI RMF/EU AI Act/SOC 2 매핑, 10 RFC 2119 스펙·992 conformance 테스트. MIT, 3.4k stars
 * [AiSOC by Cyble, the autonomous SOC](https://tryaisoc.com/)
   * Cyble의 자율 SOC 플랫폼(동명의 오픈소스 AiSOC와는 별개 상용 제품)
@@ -5569,6 +5577,9 @@ Artificial Intelligence
   * [ChatGPT-Image-2: Claude Code skill for OpenAI gpt-image-2: editorial typography, multi-image composition, text-heavy infographics](https://github.com/vdruts/chatgpt-Image-2)
     * [Claude Skill for OpenAI GPT-Image-2 | Claude Code Facebook Group](https://www.facebook.com/groups/claudecode/posts/1643346086814606/)
       * OpenAI GPT-Image-2 출시 2일 만에 만든 Claude Skill. Nano Banana 2 대비 뛰어난 디테일·텍스처 처리
+  * [cheat-on-content: A workflow that turns every post into a calibrated experiment—score, blind-predict, retro, evolve](https://github.com/XBuilderLAB/cheat-on-content)
+    * [Cheat on Content로 콘텐츠 성과 예측과 판단력을 지속적으로 개선하는 방법 | digitalbourgeois](https://digitalbourgeois.tistory.com/3601)
+    * 콘텐츠를 반복 학습 과정으로 다루는 스킬—게시 전 성과를 블라인드 예측하고 게시 후 실제 결과와 비교·회고해 콘텐츠 판단 기준 자체를 진화시키는 워크플로. Python, 6.7k stars
   * [claude-ads: Open-source Claude Code skill for automated advertising audits](https://github.com/AgriciDaniel/claude-ads)
     * [Claude Code Just Replaced Your Ad Agency: 250+ Checks in One Command | Agrici Daniel](https://agricidaniel.com/blog/claude-code-ad-agency)
       * [Claude-Ads - 오픈소스 Claude Code 스킬 광고 감사 자동화 | GeekNews](https://news.hada.io/topic?id=29022)
@@ -6058,6 +6069,9 @@ Artificial Intelligence
   * [teo-claude-code: Claude Code 스킬·에이전트 마켓플레이스](https://github.com/developer-1px/teo-claude-code)
     * teo-stack 공개 플러그인(8개 thinking 스킬: 대화 구조화·충돌 해소·감산적 사고·민토 방법) + teo-project 비공개 플러그인(29개 파이프라인 스킬·4개 에이전트, interactive-os 전용). superpowers 보완—토론 구조화·외부 리서치 담당
   * [Tmux-Orchestrator](https://github.com/Jedward23/Tmux-Orchestrator) enables Claude agents to work autonomously
+  * [token-optimizer: Find the ghost tokens. Fix them. Survive compaction. Avoid context quality decay](https://github.com/alexgreensh/token-optimizer)
+    * [AI 코딩 작업의 토큰 낭비를 줄이는 Token Optimizer의 주요 기능과 활용 방법 | digitalbourgeois](https://digitalbourgeois.tistory.com/3597)
+    * 명령어 출력 압축을 넘어 파일 재조회·검색 결과·Tool 결과·설정/메모리 구조적 컨텍스트·모델 선택·세션 연속성·compaction 이후 정보 보존까지 관리하는 토큰 최적화 도구. 설치 후 Hook으로 대부분 자동 실행. Python, 2.2k stars
   * [UI UX Pro Max](https://www.uupm.cc/)
     * [ui-ux-pro-max-skill: An AI skill that provides design intelligence for building professional UI/UX across multiple platforms](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)
     * 여러 플랫폼·프레임워크에서 전문적인 UI/UX를 만들도록 디자인 지능을 제공하는 AI 스킬. 192개 추론 규칙, 검색 가능한 79종 UI 스타일. Python, CLI는 `npm i ui-ux-pro-max-cli`. 119k stars
@@ -6540,11 +6554,16 @@ Artificial Intelligence
 * [MimikaStudio: AI-powered animation and motion capture](https://github.com/BoltzmannEntropy/MimikaStudio)
   * [MimikaStudio | GeekNews](https://news.hada.io/topic?id=27628)
 * [Modu-AI's Agentic Development Kit](https://github.com/modu-ai/moai-adk)
+  * [모두의AI — 완전 자율 AI 에이전트가 운영합니다](https://mo.ai.kr/)
+  * [MoAI-ADK 문서](https://adk.mo.ai.kr/)
   * [Agentic Coding(에이전틱 코딩) | Facebook](https://www.facebook.com/groups/1015790320162945/?multi_permalinks=1125291609212815&hoisted_section_header_type=recently_seen)
   * [moai-adk | Code Wiki](https://codewiki.google/github.com/modu-ai/moai-adk)
   * [모두의 코워크 MoAI-Cowork](https://cowork.mo.ai.kr/)
+    * [moai-cowork: 비개발자를 위한 한국 실무 AI 코워커 패밀리 — Claude Cowork·ChatGPT Work에서 /project 한 번으로 시작](https://github.com/modu-ai/moai-cowork)
     * [Goos Kim - 200여개의 스킬과 18개의 전문가 AI Coworker 완성 | Facebook](https://www.facebook.com/Goos.Kim/posts/pfbid02ordz6JBXAjbAARTSBGQBoESR1xP6ZZ8ig6umgzQmEnmyEMFuK2wPRLMuGReCwbTVl)
     * 브랜드 담당자·작가·마케터·디자이너 등 18개 AI 코워커와 8개+ 직무 분야 221개 스킬. 복잡한 설정 없이 자연어로 업무 위임하면 적절한 코워커가 처리, 5분 내 설치. 무료 공개 오픈소스, 온라인 문서 사이트
+  * [LIVE 모두의AI mo.ai.kr 론칭 | MoAI-ADK v3.1.4·MoAI-Cowork v2.1.3 리뷰와 AI Q&A - YouTube](https://www.youtube.com/live/qaCZ2CcPEzY)
+    * 모두의 AI 공장장. mo.ai.kr 론칭 기념 3시간 라이브—MoAI-ADK v3.1.4·MoAI-Cowork v2.1.3 변경점 리뷰, Claude Code·Codex 에이전틱 코딩/코워크 운영 설정법·역할 분담·검수 방법, AI 무엇이든 물어보세요 Q&A
 * [moltbook - the front page of the agent internet](https://www.moltbook.com/)
   * [Moltbook is the most interesting place on the internet right now](https://simonwillison.net/2026/Jan/30/moltbook/)
     * [최승준 - Moltbook: 지금 인터넷에서 가장 흥미로운 공간 2026년 1월 30일, Simon Willison... | Facebook](https://www.facebook.com/seungjoon.choi/posts/pfbid0yWtPueNf6Jhhpz9aBHGZLA1SV9tVnbk9LeqNW4oStP2oBukgUJyqXCwZYxvQQAjol)
@@ -6558,12 +6577,15 @@ Artificial Intelligence
 * [oh-my-codex: Multi-agent orchestration layer for OpenAI Codex CLI](https://oh-my-codex.dev/)
   * [oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex)
   * Codex CLI용 멀티 에이전트 워크플로우 레이어. git worktree 격리 병렬 실행, 33개 전문 역할 프롬프트, 36개 스킬, plan→design→execute→verify 파이프라인. Discord·Telegram·OpenClaw 연동, 5개 MCP 서버
-* [oh-my-opencode: #1 OpenCode Plugin- Battery included. ASYNC SUBAGENTS (YES LIKE CLAUDE CODE) · Curated agents with proper models · Crafted tools like LSP/AST included · Curated MCPs · Claude Code Compatible Layer — Steroids for your OpenCode. The Best LLM Agent Experience is Here.](https://github.com/code-yeongyu/oh-my-opencode/)
+* [oh-my-openagent (구 oh-my-opencode): OmO: Drop your tokens. Ultrawork. Done.](https://github.com/code-yeongyu/oh-my-openagent)
+  * [Oh My OpenAgent — The Best Agent Harness](https://omo.dev/)
   * [oh-my-opencode/README.ko.md at master · code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode/blob/master/README.ko.md)
   * [지금은 오픈코드를 시작하기 아주 좋은 시기입니다.(oh-my-opencode) - YouTube](https://www.youtube.com/watch?v=BhZofx0Ms88)
   * [Oh my open code.클로드 코드보다 강력한 자동화 에이전트.대한민국 최초 개발자 인터뷰.꿀팁 공개! l 울트라워크 엔지니어 김연규(AI 팟캐스트 #78) - YouTube](https://www.youtube.com/watch?v=o-rE93-nLpY)
     * [오마이 오픈 코드: 클로드 코드보다 강력한 자동화 에이전트 개발자 인터뷰 (울트라워크 엔지니어 김연규)](https://livewiki.com/ko/content/ultrawork-automation-agent-interview)
   * [✍🏻 Open Code와 Oh-my-opencode](https://velog.io/@takealittletime/Open-Code%EC%99%80-Oh-my-opencode)
+  * [🕹️ oh-my-openagent 사용 가이드: OpenCode를 멀티 에이전트 오케스트레이션 하네스로 확장하기 | fornewchallenge](https://fornewchallenge.tistory.com/entry/%F0%9F%95%B9%EF%B8%8F-oh-my-openagent-%EC%82%AC%EC%9A%A9-%EA%B0%80%EC%9D%B4%EB%93%9C-OpenCode%EB%A5%BC-%EB%A9%80%ED%8B%B0-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EC%98%A4%EC%BC%80%EC%8A%A4%ED%8A%B8%EB%A0%88%EC%9D%B4%EC%85%98-%ED%95%98%EB%84%A4%EC%8A%A4%EB%A1%9C-%ED%99%95%EC%9E%A5%ED%95%98%EA%B8%B0)
+  * oh-my-opencode에서 리브랜딩한 에이전트 하네스. 배터리 포함 에이전트 Sisyphus, 멀티 모델 오케스트레이션, Team Mode, 백그라운드 에이전트, 60+ 라이프사이클 훅. TypeScript, 68.7k stars
 * [OmniRoute — Never stop coding. Free MIT AI gateway](https://omniroute.online/)
   * [OmniRoute: One endpoint, 290+ providers (90+ free), 500+ models](https://github.com/diegosouzapw/OmniRoute)
   * [OmniRoute — 흩어진 무료/저가 AI 티어를 하나로 묶는 게이트웨이 | GeekNews](https://news.hada.io/topic?id=31710)
@@ -6847,6 +6869,10 @@ Artificial Intelligence
     * Real Python. OpenCode 입문—다른 코딩 에이전트와의 차별점과 무료 Gemini 키 연결 방법
   * [awesome-opencode: A curated list of awesome plugins, themes, agents, projects, and resources for opencode.ai](https://github.com/awesome-opencode/awesome-opencode)
     * 공식 SDK(JS/TS/Go/Python), 90+ 플러그인(Agent Memory, Agent Identity, Dynamic Context Pruning), 테마(Ayu Dark·Lavi·Moonlight), 에이전트 컨피그, GUI 앱(OpenChamber·OpenWork), 모니터링(OCX·Tokscale) 큐레이션
+* [Open Company - Self-Improving AI to Run Your Whole Business](https://opencompany.sh/)
+  * [opencompany: Self-improving AI that runs your whole business turning LLM tokens into work and dollars](https://github.com/zeenie-ai/opencompany)
+  * [OpenCompany, 내 컴퓨터에서 직접 운영하는 AI 에이전트 워크플로우 플랫폼 | digitalbourgeois](https://digitalbourgeois.tistory.com/3594)
+  * 개발·디자인·회계·영업·마케팅·세무를 자동화하는 6명의 AI 직원으로 비즈니스 전체를 운영하는 자기 개선형 AI 플랫폼. 200+ AI 모델 지원, 로컬 실행. Python, 857 stars
 * [OpenCove: Infinite canvas for Claude Code, Codex, terminals, tasks, and notes](https://github.com/DeadWaveWave/opencove)
 * [OpenDocs: Convert GitHub READMEs, Markdown, Jupyter Notebooks into professionally formatted docs](https://github.com/ioteverythin/OpenDocs)
 * [OpenMontage: World's First Open-Source, Agentic Video Production System](https://github.com/calesthio/OpenMontage)
@@ -7311,6 +7337,9 @@ Artificial Intelligence
 * [MAGI-2 Preview: Scaling Video Generation Models Efficiently | Sand.ai](https://sand.ai/blog/magi-2-preview)
   * [Magi-2 Preview, 114B 규모 영상 생성 모델을 효율적으로 확장하는 기술 | digitalbourgeois](https://digitalbourgeois.tistory.com/3546)
   * Sand.ai의 통합 오디오·비디오 생성 모델(총 ~114B 파라미터, 토큰당 활성 ~6B). 텍스트·비디오·오디오를 하나의 토큰 시퀀스로 Self-Attention만으로 처리하는 Single-Stream 구조, 토큰을 12개 latent head(각 256차원)로 쪼개 head당 256 expert 중 Top-6만 활성하는 초미세 MoE(MagiMoE). Hierarchical Head Parallel(활성 교환은 InfiniBand·expert 상태는 NVLink)·MagiMuon 옵티마이저 등 학습 시스템 공동 설계, 필터링 중심 대신 고처리량 데이터 생산+정밀 멀티모달 주석("데이터 필터링 함정" 회피). 크로스샷 정체성 일관성·자막 동반 대사/노래가 전용 모듈 없이 창발. "더 큰 모델과 더 효율적인 모델은 분리해서 볼 수 없다"—아키텍처·데이터·시스템이 함께 스케일해야 한다는 논지. physical AGI를 향한 중간 검증
+* [Openvid — Create Professional Demos and Edit Videos in Seconds](https://openvid.dev/)
+  * [openvid: Create professional demos and 3D mockups in seconds, directly in your browser](https://github.com/CristianOlivera1/openvid)
+  * 무료 AI 온라인 비디오 에디터—화면 녹화, 시네마틱 줌, 3D 목업, HD 내보내기, 워터마크 없음. 브라우저에서 바로 실행. TypeScript, 2.4k stars
 * [OpusClip - AI-powered Video Repurposing](https://www.opus.pro/)
   * [7개월 만에 연매출 130억 찍은, 숏폼 만들어 주는 AI 스타트업](https://maily.so/founderstory/posts/0a0968c1)
 * [Palmier — macOS video editor built for AI](https://www.palmier.io/)
