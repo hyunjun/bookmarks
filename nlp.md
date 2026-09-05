@@ -2031,13 +2031,12 @@ NLP
 * [Mimesis - a package for Python, which helps generate big volumes of fake data for a variety of purposes in a variety of languages](https://github.com/lk-geimfari/mimesis)
   * 기본적으로 Random 기반, 생성보다 Possible 한 목록이 기록된 json에서 내용 추출. 해쉬같이 완전히 무작위로 만드는 것도 존재
   * API 설계를 쉽게 해 둬서, 자신만의 Generator 생성 및 기존의 Generator와 혼합 가능
-  *
-    1. local 특성에 따라 달라지는것; Address, Business, Datetime, Food, Person, Science, Text
-  *
-    2. local 특성과는 무관한것; Clothing, Code, Choice, Cryptographic, Development, File, Hardware, Internet, Numbers, Path, Structure, Transport, UnitSystem
-  *
-    3. 나만의 Generator는 BaseDataProvider 같은 것을 상속받아 작성
+  * 1. local 특성에 따라 달라지는것; Address, Business, Datetime, Food, Person, Science, Text
+  * 2. local 특성과는 무관한것; Clothing, Code, Choice, Cryptographic, Development, File, Hardware, Internet, Numbers, Path, Structure, Transport, UnitSystem
+  * 3. 나만의 Generator는 BaseDataProvider 같은 것을 상속받아 작성
 * [The Pile](https://pile.eleuther.ai/)
+* [data-juicer: Data processing for and with foundation models](https://github.com/datajuicer/data-juicer)
+  * 파운데이션 모델 학습 데이터의 정제·필터링·중복 제거·분석을 위한 원스톱 데이터 처리 시스템(ModelScope에서 출발, datajuicer 조직으로 이전). Python, 7k stars
 
 # Disambiguation
 
@@ -4039,6 +4038,9 @@ NLP
     * 속도는 불편함 느끼지 못하게 빠름. 스트리밍 방식은 지원하지 않음. 일관된 성능을 보장해주는 느낌
     * 아직 버전이 0.1.0이라 갈 길이 많이 남았음. 응답을 내려주지 못하는 경우가 꽤 존재. Who are you 에도 대답을 못함; 구글에서는 이미 알고 있는 문제라고 함. 오히려 복잡한 질문에는 잘 대답
     * 현재 영어만 지원
+* [Personal AI Router for Local Inference | NVIDIA PAIR](https://www.nvidia.com/en-us/ai-on-rtx/personal-ai-router/)
+  * [Personal-AI-Router: Router that virtually distributes inference across connected devices in the home](https://github.com/NVIDIA/Personal-AI-Router)
+  * 집 안의 연결된 디바이스들(RTX PC·DGX Spark·Mac)에 AI 추론을 가상으로 분산 라우팅하는 NVIDIA 오픈소스. Go, 348 stars
 * [Phi-3CookBook: This is a Phi-3 book for getting started with Phi-3. Phi-3, a family of open AI models developed by Microsoft. Phi-3 models are the most capable and cost-effective small language models (SLMs) available, outperforming models of the same size and next size up across a variety of language, reasoning, coding, and math benchmarks](https://github.com/microsoft/Phi-3CookBook)
   * [Microsoft Phi-3 Cookbook | GeekNews](https://news.hada.io/topic?id=14975)
 * [phi-4 · Hugging Face](https://huggingface.co/microsoft/phi-4)
@@ -5862,6 +5864,9 @@ NLP
 * [How OpenAI Delivers Low-Latency Voice AI at Scale | OpenAI](https://openai.com/index/delivering-low-latency-voice-ai-at-scale/)
   * [OpenAI가 대규모 저지연 음성 AI를 제공하는 방법 | GeekNews](https://news.hada.io/topic?id=29168)
   * 주간 9억+ 사용자 대상 1:1 음성 대화를 위해 WebRTC를 relay+transceiver 구조로 재설계. SFU 대신 패킷 라우팅(relay)과 프로토콜 처리(transceiver) 분리, ICE username fragment 결정적 라우팅으로 K8s 배포의 UDP 노출 최소화
+* [Lowest-Latency Inference APIs for Voice and Realtime Agents: A Time to First Token TTFT-First Benchmark | MarkTechPost](https://www.marktechpost.com/2026/08/30/lowest-latency-inference-apis-for-voice-and-realtime-agents-a-time-to-first-token-ttft-first-benchmark/)
+  * [음성 AI 추론 API 성능 비교: TTFT보다 중요한 실제 응답 속도의 기준 | digitalbourgeois](https://digitalbourgeois.tistory.com/3604)
+  * 음성 에이전트용 추론 API의 TTFT·first audio 시간·전체 파이프라인 레이턴시 버짓 벤치마크. TTFT만으로는 체감 속도 판단 불가—TTS는 완성된 구절이 필요하므로 TTFS(Time to First Sentence)와 STT→LLM→TTS→네트워크 전 단계를 함께 측정해야 함
 * TTS survey
   * [(PDF) A SURVEY ON METHODS OF TTS AND VARIOUS TEST FOR EVALUATING THE QUALITY OF SYNTHESIZED SPEECH](https://www.researchgate.net/publication/353155941_A_SURVEY_ON_METHODS_OF_TTS_AND_VARIOUS_TEST_FOR_EVALUATING_THE_QUALITY_OF_SYNTHESIZED_SPEECH)
     * MOS Mean Opinion Score 결국 사람들의 평가
@@ -6165,6 +6170,8 @@ NLP
 * [voice-rag-example at main · SOPT-AI-25SS/week3 · GitHub](https://github.com/SOPT-AI-25SS/week3/tree/main/tutorial/voice-rag-example)
 * [VoiceStudio — The open-source, fully-local ElevenLabs alternative](https://voicestudio.sh/)
   * [VoiceStudio: voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages](https://github.com/debpalash/VoiceStudio)
+  * [음성 AI 로컬 설치부터 API 자동화까지 (17GB·7분·크레딧 0원) - YouTube](https://www.youtube.com/watch?v=OlE4mpwjiPU)
+    * 방구석컴퍼니. VoiceStudio 설치 실측(다운로드 18초·설치 7초·준비 6분 55초·디스크 17GB)부터 로컬 TTS API 서버로 띄워 코드에 연동까지—첫 호출 286초 이후 1.3초, 목소리 등록 0.02초, OpenAI 음성 코드는 주소 한 줄만 바꾸면 그대로 동작
   * 완전 로컬 오픈소스 ElevenLabs 대안. 646개 언어로 보이스 클로닝·보이스 디자인·비디오 더빙·받아쓰기·전사·오디오북 제작. Python, 11.3k stars
 * [VoiceTypr — Offline AI voice to text app for founders and builders](https://voicetypr.com/)
   * [VoiceTypr - AI powered offline voice to text dictation tool for busy founders, vibe coders, AI power users on macos, windows. Alternative to wispr flow and superwhisper](https://github.com/moinulmoin/voicetypr/)
