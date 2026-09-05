@@ -3544,6 +3544,8 @@ Business
 * [‘좋은 문제’ 정의하는 꿀팁 🍯. 사례로 살펴보는 나쁜 문제 정의 vs 좋은 문제 정의 | by Lewin.Parker | DelightRoom | Apr, 2024 | Medium](https://medium.com/delightroom/%EC%A2%8B%EC%9D%80-%EB%AC%B8%EC%A0%9C-%EC%A0%95%EC%9D%98%ED%95%98%EB%8A%94-%EA%BF%80%ED%8C%81-dc6e860abf8b)
 * [You Are Solving The Wrong Problem - AzarAsk](https://www.azarask.in/blog/post/the-wrong-problem/)
   * [번역 당신은 엉뚱한 문제를 풀고 있다. :: neozest : neo+zest](https://www.neozest.com/entry/TheWrongProblemTranslation)
+* [코딩부터 배포까지 쉬워진 시대, 제품의 승부는 여전히 코딩 전에 갈린다 | AI로 만들기](https://buildwithai.clearlyreqs.com/ko/before-coding-guide/)
+  * AI로 만들기가 쉬워져 병목은 구현·배포가 아니라 그 앞 단계로 이동—문제 정의, 사용자 조사, 경쟁 분석, 수요 검증, 수익 모델, 유통, 안전 요구사항을 코딩 전에 정리하는 실전 제품 기획 가이드 (《AI로 만들기: 비개발자를 위한 실전 가이드》 저자)
 * [User Adoption as Proxy for Business Benefit Realization • Troels Fleckenstein • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=DdxDoODU5U8)
   * Poorly adopted function에서는 poor data만 나오기 때문에 결국 이를 기반으로 하면 발전할 수 없음
   * Adoption rate의 중요성
