@@ -286,6 +286,8 @@ Data Visualization
   * [Redash 오류 탐험기: 오픈소스 컨트리뷰터가 될 뻔한 날 | by Whatsup | Jan, 2024 | 레몬베이스 팀블로그](https://blog.lemonbase.team/redash-%EC%98%A4%EB%A5%98-%ED%83%90%ED%97%98%EA%B8%B0-%EC%BB%A8%ED%8A%B8%EB%A6%AC%EB%B7%B0%ED%84%B0%EA%B0%80-%EB%90%A0-%EB%BB%94%ED%95%9C-%EB%82%A0-1f4f8e44ca70)
 * Semiotic [Introducing Semiotic for Data Visualization](https://medium.com/@Elijah_Meeks/introducing-semiotic-for-data-visualization-88dc3c6b6926)
 * [seoulzoo-map](https://github.com/leejeonghoon/seoulzoo-map) 서울동물원 지도 리디자인
+* [supersonic: SuperSonic is the next-generation AI+BI platform that unifies Chat BI (powered by LLM) and Headless BI (powered by semantic layer) paradigms](https://github.com/tencentmusic/supersonic)
+  * Tencent Music. LLM 기반 Chat BI와 시맨틱 레이어 기반 Headless BI를 하나로 통합한 차세대 AI+BI 플랫폼. Java, 5k stars
 * [μPlot An exceptionally fast, tiny time series chart (MIT Licensed)](https://github.com/leeoniya/uPlot)
 * [Vega - a declarative format for creating, saving, and sharing visualization designs](http://vega.github.io/)
   * [Vega, Vega-lite 넌 뭐니](http://mobicon.tistory.com/549)
