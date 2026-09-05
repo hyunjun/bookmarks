@@ -103,3 +103,22 @@ English
   * [It's bad, to say the least. 3초 안에 해석이 안되면 꼭 보세요🙇‍♀️💙 - YouTube](https://www.youtube.com/watch?v=d0ihj3BSnJU)
   * [We'll get by. 보자마자 바로 해석 안되면 꼭 보세요 (핵심 구동사 정리🤓💛) - YouTube](https://www.youtube.com/watch?v=DP0zm-lC_0I)
   * [영어를 빠르게 습득하고 절대로 잊지 않는 법!을 가르쳐 준다고? - YouTube](https://www.youtube.com/watch?v=fF4Jz9wFFHU)
+
+# Opinions, Columns
+서론-본론-결론 구조의 오피니언 에세이를 무료로 읽을 수 있는 사이트. Guardian보다 쉬운 수준 위주 (2026-09 검증)
+* [KidSpirit](https://www.kidspiritonline.com/magazine/)
+  * 11~17세 청소년이 쓰는 무료 온라인 매거진. 개인 에세이는 쉬운 편이나 글마다 난이도·구조 편차 있음
+* [Korea JoongAng Daily — Bilingual News 한영대역](https://koreajoongangdaily.joins.com/bilingual-news)
+  * 중앙일보 사설의 영어판을 같은 페이지에 한글 원문 전체와 함께 게재. 500~650단어로 Guardian의 절반 분량, 문장이 직설적이고 한국 이슈라 배경지식 부담 없음. 막히면 바로 아래 한글로 확인 가능해 좌절 없이 사설 구조 학습. 무료·로그인 불필요, 주 여러 편. 피드에 문화·라이프스타일 글이 섞이니 Editorials 표시 글 위주로
+* [LearnEnglish Teens — An opinion essay (B1) | British Council](https://learnenglishteens.britishcouncil.org/skills/writing/b1-writing/opinion-essay)
+  * B1(중급) 모범 오피니언 에세이를 First of all/In addition/To sum up 같은 구조 표지와 함께 제시. 분량은 적지만 서론-본론-결론 틀을 익히는 첫 교재로 적합
+* [Teen Ink](https://www.teenink.com)
+  * 10대 투고 기반 매거진(By Teens, For Teens). Opinion 섹션이 환경·학교·사회이슈 등 주제별로 정리, 어휘·문장이 Guardian보다 확연히 쉬움. 투고 글이라 편차가 있으니 Top Voted부터. 일부 하위 주제(약물·연애 등)는 가벼운 지도 필요
+* [The Korea Times — Editorial](https://www.koreatimes.co.kr/opinion/editorial)
+  * 매일 올라오는 정식 사설(ED 표시, 700~900단어). Guardian보다 어휘가 평이하고 문장이 직접적이나 한글 번역 없음. 기사마다 듣기(TTS)·요약·이해도 확인 질문 제공. JS 렌더링이라 일반 브라우저로 접속
+* [The Teen Magazine — Opinion](https://www.theteenmagazine.com/categories/youth-voices/opinion)
+  * 10대 필진의 논증 에세이(훅+주장 서론, 소제목 본론, 반론+결론). 표준화 시험·비디오 게임·SNS 등 친근한 주제, 23페이지 아카이브. 무료·로그인 불필요
+* [Youth Are Awesome](https://youthareawesome.com/category/current-issues/)
+  * 캐나다 고교생 블로그 집단의 시사 글. 문장은 짧고 평이하나 글 형식이 균일하지 않음
+* [Youth Journalism International — Opinion](https://youthjournalism.org/category/opinion/)
+  * 전 세계 학생 기자의 오피니언을 편집자가 다듬어 발행하는 비영리 매체. 짧은 문단·평이한 어휘에 구조는 확실. 봇 차단이 있어 일반 브라우저로 접속
