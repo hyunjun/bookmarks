@@ -659,6 +659,8 @@ Vision
   * 로컬 PDF 파싱. 바운딩 박스 공간 텍스트 추출, Tesseract.js OCR 내장, 스크린샷 생성. Grid Projection 알고리즘으로 멀티컬럼/표 정렬 보존
 * [llm_aided_ocr: Enhance Tesseract OCR output for scanned PDFs by applying Large Language Model (LLM) corrections.](https://github.com/Dicklesworthstone/llm_aided_ocr)
   * [Show HN: LLM-Aided OCR – LLM으로 Tesseract OCR 오류 수정 | GeekNews](https://news.hada.io/topic?id=16253)
+* [MinerU: Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows](https://github.com/opendatalab/MinerU)
+  * PDF·Office 등 복잡한 문서를 에이전틱 워크플로용 LLM-ready 마크다운/JSON으로 변환하는 OpenDataLab 도구. Python, 79k stars
 * [MinerU-Diffusion: Diffusion-based document OCR framework](https://github.com/opendatalab/MinerU-Diffusion)
   * [2603.22458](https://arxiv.org/abs/2603.22458)
   * 블록 수준 병렬 확산 디코딩으로 기존 대비 최대 3.26배 빠른 처리. 2.5B 파라미터, 레이아웃 감지·텍스트·수식·표 인식 지원
