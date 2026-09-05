@@ -132,6 +132,8 @@ Hardware
   * CXL 스위치로 여러 메모리 모듈을 통합해 대규모 KV Cache 오프로딩. 멀티 GPU 환경에서 DRAM 대비 약 92% 성능을 유지하며 메모리 용량을 크게 확장—LLM 추론의 KV Cache 병목 해결
 * [스위치 없이 B300 클러스터 구성하기 | Sionic AI](https://blog.sionic.ai/dgx-b300-direct)
   * NVIDIA DGX B300 ConnectX-8 8포트로 스위치 없는 full mesh 직접 연결. DAC 케이블로 비용 1/10, NCCL 커스텀 패치로 멀티 서브넷 분산 학습, 787GB/s(이론값 98%). 2~8대 ~100억원 이하 규모
+* [이제 안경 쓰고 코딩한다? 알리바바 Qoder AI 안경 버전 등장 - 차이나는 IT](https://chinaitnews.com/%EC%95%88%EA%B2%BD-%EC%93%B0%EA%B3%A0-%EC%BD%94%EB%94%A9-%EC%95%8C%EB%A6%AC%EB%B0%94%EB%B0%94-qoder-ai-%EC%95%88%EA%B2%BD-%EB%B2%84%EC%A0%84/)
+  * 알리바바의 AI 에이전트 코딩 플랫폼 Qoder가 2026년 9월 3일 공식 출시한 안경 버전. 단순 스마트 안경이 아니라 개발자의 일하는 방식을 바꿀 수 있는 웨어러블 코딩 인터페이스
 * [Cognitum — AI Agent Platform: Seed Device, MCP Tools & Developer SDK](https://cognitum.one/)
   * WASM 런타임·암호화 ID·벡터 스토리지 내장 Seed 하드웨어 + Rust/Node.js/Python SDK
 * [Tiiny AI Inc](https://tiiny.ai/)
