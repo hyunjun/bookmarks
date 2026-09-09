@@ -1803,6 +1803,9 @@ AWS
 # Forecast
 * [아마존닷컴처럼 Amazon Forecast로 시계열 예측하기 - 강지양 솔루션즈 아키텍트(AWS ), 강태욱 매니저(GSSHOP)](https://www.youtube.com/watch?v=4MuVRFQVx8Y)
 * [walmart-sales-forecast: Time Series Forecasting for Walmart Store Sales](https://github.com/youngmki/walmart-sales-forecast)
+* [zeroshot-forecasting-trust-aws: 제로샷 시계열 예측을 언제 믿고 자동 실행할까 — AWS 위에 얹는 컨포멀 신뢰 게이팅 계층 백서](https://github.com/Hyunsoo0128/zeroshot-forecasting-trust-aws)
+  * 제로샷 시계열 파운데이션 모델(TSFM)이 프로덕션 수준에 이른 지금 남은 병목은 정확도가 아니라 "어떤 예측을 사람 없이 믿고 실행해도 되는가"라는 신뢰 판단이라는 문제의식. 컨포멀 예측으로 예측 건마다 실측 기반 신뢰도를 매기고 비용 비대칭을 반영—믿을 만한 건 자동 실행, 불안한 건 사람에게 넘기며 결과로 스스로 개선되는 얇은 판단 계층 제안
+  * 소매 재고 실측 검증에서 비용 18.6% 절감(한쪽으로 틀릴 때 손해가 클수록 효과 증가). AWS Solutions Architect·Account Manager 대상 백서
 
 # Glue
 * [AWS Glue를 활용한 데이터 활용하기 Data Analysis #1 Hands-On](https://docs.google.com/document/d/137sbTTov-c6IoD8uDeVpPKvnubYf83XIjJLPBumrl58)
