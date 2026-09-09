@@ -319,6 +319,8 @@ Finance
   * Luke Finance. Claude Cowork 안에 매출·비용·FP&A·CFO 리포팅 4개 전담 매니저로 월말 결산 사이클 전체를 자동화하는 AI 재무 팀 구축. 각 매니저를 재사용 가능한 Claude Skill로 만들고 구조화된 핸드오프·의존성 체크를 갖춘 플러그인으로 묶어 한 명령으로 전체 워크플로 실행
   * 산출물은 이사회용 CFO 리포트, PowerPoint 발표자료, 액션 리스트, 인터랙티브 대시보드
 * [The MCP Features Bloomberg Built for High Stakes Financial AI - YouTube](https://www.youtube.com/watch?v=z6SuFQYClQI)
+* [클로드가 나한테 그만 물어보고 클로드끼리 알아서 하게 만들기, 주식 투자자분들 필수 시청! - YouTube](https://www.youtube.com/watch?v=EfHssW-iRUM)
+  * 프로그램 동산. 클로드가 클로드를 부리는 자동화 가이드—컨텍스트가 차면 생기는 문제부터 서브 에이전트·울트라 코드, 여러 Claude로 조직 세우기, 버스로 Claude끼리 메시지 주고받기, C-MUX·TUI 환경, 핸드오프 3가지 방식, bypass permissions와 도커 샌드박스, 컨텍스트 자동 비우기·무한 순환까지. 주식 자동화매매(LS증권·퀀트) 활용 관점
 * [2512.10971 AI-Trader: Benchmarking Autonomous Agents in Real-Time Financial Markets](https://arxiv.org/abs/2512.10971)
   * 주식하는 AI 에이전트, [홍콩대가 만든 밤낮없이 시장을 보고, 뉴스도 읽고, 스스로 판단하는 AI-Trader는 정작 성적표는 꽤 인간적](https://www.facebook.com/socialego/posts/pfbid0vDy6kZfygZnjAid17TiQJvvB3PunVbnpTSiAV1RHCYcDwnR9Fhszump1fS6kRWVKl)
 * [Agentic Trading Lab](https://agentic-trading-lab.vercel.app/)
