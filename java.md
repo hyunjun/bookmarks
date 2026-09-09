@@ -1147,6 +1147,8 @@ Java
 * [**여러 개의 JDK를 설치하고 선택해서 사용하기**](https://blog.benelog.net/installing-jdk.html) APT/YUM, update-alternatives / alternatives, Homebrew, Chocolatey, direnv, jEnv, SDKMAN, jabba
 * [JDK Mission Control 8 Released](https://www.infoq.com/news/2021/04/jdk-mission-control-8-released/)
 * [Staying JDK: Current in Production - YouTube](https://www.youtube.com/watch?v=YaoGXCwiG9M)
+* [The JDK Client Desktop : 2026 and Still Swinging - YouTube](https://www.youtube.com/watch?v=ux1IpWo3oXA)
+  * Java 공식 채널. Swing은 2026년에도 여전히 유효—Java2D 기반·AWT 통합 Swing UI 툴킷은 레거시가 아니라 JDK 클라이언트 라이브러리의 핵심으로 현대 데스크톱 환경 지원을 위해 계속 업데이트 중. 오늘날 Java 생태계에서 Swing의 위치와 활용을 다루는 세션
 * [Mac Java 21 & Gradle 8 설치하기](https://jojoldu.tistory.com/789) jEnv sdkman
 * [JDKMon: A little tool written in JavaFX that monitors your installed JDK's and inform you about updates](https://github.com/HanSolo/JDKMon)
   * [Introducing JDKMon: a New Tool to Detect and Update JDKs](https://www.infoq.com/news/2021/08/jdkmon-java/)
