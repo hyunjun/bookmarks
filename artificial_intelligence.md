@@ -683,6 +683,10 @@ Artificial Intelligence
   * 5단계 흐름: 대화(LLM의 한계 체감)→Agent Loop(도구를 부르는 루프가 에이전트의 본질)→도구 상자(함수+맵 한 줄+스키마 한 칸 단일 실행 맵)→가드레일(workspace 격리·검증, "사실은 코드가 책임진다")→감시봇 응용(닌텐도 재고 감시로 "어디에 LLM을 안 쓸지" 배우기). 완성본은 15개 도구, Plan→Execute→Verify, RAG 포함. Python
 * [A Visual Guide to AI Agents - by Rohit Kumar Tiwari](https://awesomeneuron.substack.com/p/a-visual-guide-to-ai-agents)
   * [A Visual Guide to AI Agents | 박상길](https://www.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_a-visual-guide-to-ai-agents-activity-7382937387913535488--P9o)
+* [10분만에 RAG 이해하기 | 브런치 @ywkim36](https://brunch.co.kr/@ywkim36/146)
+  * [10분만에 AI 에이전트(agent) 이해하기](https://brunch.co.kr/@ywkim36/160)
+  * [10분 만에 온톨로지(Ontology) 이해하기](https://brunch.co.kr/@ywkim36/206)
+  * 같은 저자의 "10분 만에 이해하기" 시리즈 3부작. RAG(검색-증강 생성)→AI 에이전트→온톨로지·시멘틱 레이어·어노테이션 순으로 각 글이 이전 글을 전제로 개념을 쌓아가는 입문 해설
 * [The most important skills in Building and Deploying AI Applications | Andrew Ng](https://x.com/AndrewYNg/status/2090840747738374568)
   * [앤드류 응이 정리한 AI 엔지니어링 스킬맵, AI 앱 구축에 필요한 6가지 핵심 역량 | digitalbourgeois](https://digitalbourgeois.tistory.com/3571)
   * AI 애플리케이션 구축·배포에 가장 중요한 스킬을 정리한 스킬맵—6가지 핵심 역량
