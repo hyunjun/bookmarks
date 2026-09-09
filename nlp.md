@@ -4106,6 +4106,9 @@ NLP
       * 262,144 토큰 컨텍스트, 멀티모달 기능. Ollama/HuggingFace/vLLM/SGLang으로 명령어 한 줄 로컬 실행
     * [Qwen3.5: How to Run & Fine-tune | Unsloth](https://unsloth.ai/docs/models/qwen3.5)
       * [Qwen3.5 | GeekNews](https://news.hada.io/topic?id=27315)
+      * [Qwen3.5 Fine-tuning Guide | Unsloth Documentation](https://unsloth.ai/docs/models/qwen3.5/fine-tune)
+        * [Qwen3.5 모델 파인튜닝 가이드: Unsloth 기반 학습 환경과 활용 방법 | digitalbourgeois](https://digitalbourgeois.tistory.com/2851)
+        * 0.8B~122B-A10B 전 모델군 텍스트·비전·RL 파인튜닝 지원. FA2 대비 1.5배 빠르고 VRAM 50% 절감—bf16 LoRA 기준 0.8B 3GB~27B 56GB, 35B-A3B는 74GB. 추론 능력 보존하려면 reasoning 예시 75% 이상 혼합 권장, 201개 언어 다국어 파인튜닝, 학습 후 GGUF(llama.cpp/Ollama)·vLLM 내보내기. 0.8B~4B는 무료 Colab 노트북 제공
     * [flash-moe: Pure C/Metal inference engine — Qwen3.5-397B on MacBook Pro 48GB at 4.4+ tok/s](https://github.com/danveloper/flash-moe)
       * [Autoresearching Apple's "LLM in a Flash" to run Qwen 397B locally](https://x.com/danveloper/status/2034353876753592372)
       * SSD에서 209GB 모델 스트리밍, Metal 컴퓨트 셰이더, Python 의존성 없음
