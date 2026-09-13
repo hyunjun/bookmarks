@@ -1195,6 +1195,8 @@ Business
 * [How to Bake a Change • Daniel Terhorst-North • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=wO8M6M39vZk)
 * [The uncomfortable math of AI transformation: 10% is the model | Hacking101 | Facebook](https://www.facebook.com/groups/hacking101/permalink/2785524075180826/)
   * AI 전환의 불편한 산수—모델은 10%일 뿐이고 나머지 90%는 조직이 예산에 넣지 않은 일이며, 대부분의 AI 전략이 조용히 실패하는 지점이 바로 그 90%라는 글
+* [AI 도입하고도 직원 수 유지하는 월마트의 비결은 - YouTube](https://www.youtube.com/watch?v=KQrIUK7jDBw)
+  * 티타임즈TV. AI로 사라지는 직무의 직원을 재교육해 새 역할로 이동시키겠다는 구상 1년 후—160만 직원에게 AI 교육 개방, 업무 앱에 AI 내장, 직원이 직접 앱·에이전트 제작, 매장·물류센터 직원의 기술직 전환 교육
 
 # 채용
 * [“조직 문화와의 궁합(Cultural fit)”, 제대로 된 인재 채용 기준으로 삼으려면? (1)](http://newspeppermint.com/2015/06/11/culturalfit/)
