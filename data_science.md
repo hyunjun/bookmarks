@@ -936,6 +936,9 @@ Data Science
 * [**데이터 품질에 관한 5개 체크포인트**](https://d2.naver.com/helloworld/1179024) 전처리와 관계된 매우 실용적이고 중요한 부분에 대한 좋은 글
 * [Data Observability In Practice: Data Monitoring At Scale With SQL And Machine Learning - Monte Carlo Data](https://www.montecarlodata.com/automated-data-quality-testing-at-scale-with-sql-and-machine-learning-2/)
 * [Data Quality Automation at Twitter](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2022/data-quality-automation-at-twitter)
+* [Why "AI-Ready Data" Means Almost Nothing | Malcolm Hawker, Profisee - YouTube](https://www.youtube.com/watch?v=hO_LPSckGi8)
+  * [AI-ready data is the wrong question | TinyTechGuides](https://tinytechguides.com/blog/data-faces-malcolm-hawker-ep49-ai-ready-data/)
+  * Profisee CDO·전 Gartner 애널리스트 Malcolm Hawker(The Data Hero Playbook 저자). 모든 벤더가 말하는 'AI-ready data'는 저마다 정의가 달라 사실상 무의미하며, 질문 자체가 잘못됐다는 비판적 분석 팟캐스트
 * [GX: a proactive, collaborative data quality platform • Great Expectations](https://greatexpectations.io/)
   * [데이터 품질 이슈로 발생하는 data downtime을 줄이자](https://d2.naver.com/helloworld/5766317)
 
