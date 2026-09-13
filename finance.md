@@ -488,6 +488,9 @@ Finance
   * 주식·선물·옵션·펀드·채권·외환·암호화폐 등 금융 데이터를 간결한 인터페이스로 가져오는 오픈소스 Python 라이브러리. 22.4k stars
 * [Finance: 150+ quantitative finance Python programs to help you gather, manipulate, and analyze stock market data](https://github.com/shashankvemuri/Finance)
   * [이상선 - GitHub 프로젝트: Finance - 금융 데이터 분석 & 트레이딩 도구 - 핵심내용 - 1. 모듈... | Facebook](https://www.facebook.com/100001916096643/posts/31814107121569744/)
+* [Finance Database | Jeroen Bouma](https://www.jeroenbouma.com/projects/financedatabase)
+  * [FinanceDatabase: This is a database of 300.000+ symbols containing Equities, ETFs, Funds, Indices, Currencies, Cryptocurrencies and Money Markets](https://github.com/jerbouma/FinanceDatabase)
+  * 주식·ETF·펀드·지수·통화·암호화폐·머니마켓 30만+ 심볼을 담은 오픈소스 Python 패키지. 8.9k stars
 * [FinceptTerminal: Open-source financial analysis platform — Bloomberg Terminal alternative](https://github.com/Fincept-Corporation/FinceptTerminal)
   * [Fincept Terminal — The Private AI Research Terminal](https://fincept.in/)
   * [Fincept Terminal - 금융 분석 플랫폼 오픈소스 | GeekNews](https://news.hada.io/topic?id=29089)
