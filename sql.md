@@ -306,6 +306,9 @@ SQL
   * [관계형 데이터 모델링](https://www.youtube.com/playlist?list=PLuHgQVnccGMDF6rHsY9qMuJMd295Yk4sa)
 * [Database 모델링에 대해서 정리해 봅니다](https://developer88.tistory.com/327)
 * [데이터 모델링이란? (관계형 DB 편)](https://bitnine.tistory.com/446)
+* [5. LLM 시대의 데이터 모델링 | DataNexus](https://datanexus-kr.github.io/posts/dw-modeling/005-llm-data-modeling-grain-snapshots/)
+  * [5편. LLM 시대의 데이터 모델링 | Junho Lee](https://www.linkedin.com/posts/leejuno_5-llm-%EC%8B%9C%EB%8C%80%EC%9D%98-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%AA%A8%EB%8D%B8%EB%A7%81-share-7504122655013228544-f0zl/)
+  * dbt·시맨틱 레이어·LLM이 SQL을 대신 짜주는 시대에도 30년 전 킴볼 방법론 같은 데이터 모델링 기본기가 오히려 더 중요해진다는 DW 모델링 시리즈 5편—grain·스냅샷 설계가 LLM 데이터 조회 정확도를 좌우
 * [검색엔진과 DB Like 검색의 결과가 다른 이유](https://www.slideshare.net/heungrae_kim/db-like)
 * [코호트 분석(Cohort Analysis)을 SQL로 구현하는 테스트 코드](https://www.sangkon.com/using_sql_for_cohort/)
 * [Write-Ahead Log for Dummies](https://work.tinou.com/2012/09/write-ahead-log.html)
@@ -1266,6 +1269,8 @@ SQL
 * [Postgres is All You Need for Durable Workflows | DBOS](https://www.dbos.dev/blog/postgres-is-all-you-need-for-durable-execution)
   * [Postgres만으로 지속 가능한 워크플로우를 만들 수 있는 이유 | GeekNews](https://news.hada.io/topic?id=29999)
   * Peter Kraft, 2026.5.20. Temporal·Airflow·AWS Step Functions 같은 외부 오케스트레이터는 과도하게 복잡—durable workflow는 본질적으로 프로그램 상태를 DB에 체크포인팅하는 것이므로 별도 오케스트레이터 서버 불필요. Postgres 기반 접근: 클라이언트가 workflows 테이블에 작업 INSERT, 서버가 locking 절로 폴링·dequeue, step 출력 직접 체크포인트. 워커 크래시 시 다른 워커가 마지막 체크포인트부터 재개. 장점: Postgres 스케일링 솔루션(streaming replication·failover·CockroachDB·sharded Postgres) 상속, SQL 테이블이라 declarative 모니터링 쿼리, 오케스트레이터 단일 장애점 제거·민감 데이터 외부 노출 회피. DBOS 미션은 Postgres-backed durable execution 단순·고성능화
+* [When failover isn't safe: Building high-availability PostgreSQL on Kubernetes | Datadog](https://www.datadoghq.com/blog/engineering/postgresql-ha-kubernetes/)
+  * Datadog 엔지니어링—Kubernetes 위 PostgreSQL 고가용성 구축에서 failover가 안전하지 않은 경우들과 대응 설계
 * [practice - unique index and null](https://gist.github.com/hyunjun/0b0b90a536a623edc59da4605adbf519#file-unique_index_and_null-md)
 * [Scaling out PostgreSQL for CloudFlare Analytics using CitusDB](https://blog.cloudflare.com/scaling-out-postgresql-for-cloudflare-analytics-using-citusdb/)
 * [Postgres CLI with autocompletion and syntax highlighting](https://github.com/amjith/pgcli)
