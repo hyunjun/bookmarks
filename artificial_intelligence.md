@@ -1254,6 +1254,8 @@ Artificial Intelligence
     * Hermes 멀티 프로필 위임·칸반 위에 구축한 비주얼 대시보드. War Room(미션 컨트롤+오퍼레이티브), 팀 로스터(에이전트 채용/해고·콜사인·스킬), 미션 아카이브, SQLite 직접 읽기 기반 칸반, SSE 실시간 업데이트, 자동 nudge. Nuxt 4+Tailwind v4+Nitro+ACP
   * [Oh My Hermes - Power intelligence and agentic memory for Hermes Agent](https://rlaope.github.io/oh-my-hermes/)
     * [oh-my-hermes: Just install once. The coding intelligence, a long-term memory system, optimized workflow packages, only plugin for Hermes Agent](https://github.com/rlaope/oh-my-hermes)
+    * [헤르메스 커뮤니티에서 공식 샤라웃을 받은, 설치만해도 헤르메스가 똑똑해지는 플러그인 | esperer](https://www.linkedin.com/posts/esperer_%ED%97%A4%EB%A5%B4%EB%A9%94%EC%8A%A4-%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0%EC%97%90%EC%84%9C-%EA%B3%B5%EC%8B%9D-%EC%83%A4%EB%9D%BC%EC%9B%83%EC%9D%84-%EB%B0%9B%EC%9D%80-%EC%84%A4%EC%B9%98%EB%A7%8C%ED%95%B4%EB%8F%84-%ED%97%A4%EB%A5%B4%EB%A9%94%EC%8A%A4%EA%B0%80-%EB%98%91%EB%98%91%ED%95%B4%EC%A7%80%EB%8A%94-share-7503948717532528640-xPFQ/)
+      * 저자 본인 소개—모델별 최적화, 자동 서브에이전트 라우팅, 장기 메모리 시스템을 탑재하고 도메인 전문가 스킬들끼리 협업시키는 구조. Hermes 커뮤니티 공식 샤라웃
     * 한 번 설치로 Hermes Agent에 코딩 인텔리전스·장기 기억 시스템·최적화된 워크플로 패키지를 더하는 플러그인. Python, 1.4k stars
   * [Open Second Brain — Dark Factory](https://dark-factory.techmeat.dev/)
     * [open-second-brain: Local-first memory for Hermes Agent that lives in your Obsidian vault and remembers project context](https://github.com/itechmeat/open-second-brain)
@@ -2998,6 +3000,10 @@ Artificial Intelligence
     * [AI 도입, 왜 95%의 기업은 실패하는가](https://brunch.co.kr/@botongmarketer/932)
   * [s1ngularity's aftermath: analysis of Nx supply chain attack | Wiz Blog](https://www.wiz.io/blog/s1ngularitys-aftermath)
   * [How AWS averted an AI coding supply chain disaster | ReversingLabs](https://www.reversinglabs.com/blog/aws-amazonq-ai-incident)
+* [YuE2 · Frontier Music with Symbolic Planning](https://map-yue2.github.io/)
+  * [YuE: YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing](https://github.com/multimodal-art-projection/YuE)
+  * [🎵 YuE2-3B 설치·사용 가이드: 36분 곡을 71초에 생성하는 오픈소스 음악 AI | fornewchallenge](https://fornewchallenge.tistory.com/entry/%F0%9F%8E%B5-YuE2-3B-%EC%84%A4%EC%B9%98%C2%B7%EC%82%AC%EC%9A%A9-%EA%B0%80%EC%9D%B4%EB%93%9C-36%EB%B6%84-%EA%B3%A1%EC%9D%84-71%EC%B4%88%EC%97%90-%EC%83%9D%EC%84%B1%ED%95%98%EB%8A%94-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EC%9D%8C%EC%95%85-AI)
+  * 심볼릭 플래닝·제로샷 커버·에이전틱 음악 편집을 갖춘 프런티어 음악 생성 모델. 3B 모델로 36분 곡을 71초에 생성. Python, 7.5k stars
 * [x.ai - a personal assistant who schedules meetings for you](https://x.ai/)
 * zAI - 파이썬 AI 라이브러리 zAI 사용기
   * [문자인식 (1/5)](https://tariat.tistory.com/353)
@@ -4030,7 +4036,11 @@ Artificial Intelligence
   * 자기개선 자율 에이전트 서베이. 현대 에이전트를 파운데이션 모델+운영 스캐폴드(프롬프트·메모리·도구·제어 로직)의 결합으로 보는 시스템 레벨 프레임워크 제시. 자기개선을 모델 파라미터 또는 스캐폴드 구성요소에 업데이트를 획득·커밋하는 self-induced update operator로 형식화, 경험을 누적 역량 향상으로 전환하는 적응 시스템으로 정리
 * [2608.27454 WikiSkill: Compiling Agent Experience into Persistent Knowledge for Skill Evolution](https://arxiv.org/abs/2608.27454)
   * [WikiSkill: 에이전트의 실행 경험을 영구적인 지식과 재사용 가능한 기술로 진화시키는 프레임워크 | digitalbourgeois](https://digitalbourgeois.tistory.com/3617)
+  * [모델 크기만 키우던 시대의 종말 - AI의 '단기 기억상실'을 치료했더니 벌어진 일 | Suk Hyun K.](https://www.linkedin.com/posts/suk-hyun-k-31ba9b369_aislsstwswktxu-srotniswmtnq-tfmsxrtyfswh-share-7499263255102734336-jaP0/)
   * 에이전트 스킬을 영구 지식 베이스(wiki)와 공진화시키는 프레임워크. 원시 실행 경험·축적 지식·실행 가능 스킬을 분리하고, 경험을 wiki로 지속 통합해 후속 스킬 업데이트가 활용. SOTA 스킬 진화 방법 능가, 큰 모델일수록 진화 스킬 이득 크고 스킬 장착 소형 모델이 대형 모델을 능가하기도. 스킬은 모델·모델 패밀리 간 전이 가능—타 모델이 진화시킨 스킬이 자체 진화 스킬보다 나을 수 있음
+* [2609.07925 FrogNano: Training a 4B Coding Agent via Online Task Synthesis](https://arxiv.org/abs/2609.07925)
+  * [요즘은 뛰어난 모델을 만들기 위해서는 증류(Distillation)가 필수라는 인식이 있습니다 | Kiwoong Yeom](https://www.linkedin.com/posts/kiwoong-yeom_%EC%9A%94%EC%A6%98%EC%9D%80-%EB%9B%B0%EC%96%B4%EB%82%9C-%EB%AA%A8%EB%8D%B8%EC%9D%84-%EB%A7%8C%EB%93%A4%EA%B8%B0-%EC%9C%84%ED%95%B4%EC%84%9C%EB%8A%94-%EC%A6%9D%EB%A5%98distillation%EA%B0%80-%ED%95%84%EC%88%98%EB%9D%BC%EB%8A%94-ugcPost-7503719600589524992-EZ2H/)
+  * Microsoft Research. 대형 모델 궤적을 베끼는 증류식 SFT 웜업 없이 하네스+RL만으로 Qwen3.5-4B를 거대 모델 수준 코딩 에이전트로 학습. 학습 알고리즘 이전에 인터페이스(하네스)가 먼저—표준 하네스(R2E-Gym)에서는 제출 프로토콜을 못 다뤄 시도의 96%가 턴 제한 타임아웃이었는데 하네스 개선만으로 8.3%→37.2%
 * [586830145_834419405978070_3937417229378696315_n.pdf](https://scontent-ssn1-1.xx.fbcdn.net/v/t39.2365-6/586830145_834419405978070_3937417229378696315_n.pdf?_nc_cat=104&ccb=1-7&_nc_sid=d65b48&_nc_ohc=KjIRxfgDxfAQ7kNvwGoG65l&_nc_oc=AdnmBuJ6JGzJoT-o1g2p5kU_Ie9Q6l0opInwzN9gx8-cFLdqu4nIoqAqcX5UbBS2tXg&_nc_zt=14&_nc_ht=scontent-ssn1-1.xx&_nc_gid=0GTg5NssrgYoqvvZMVLzaQ&oh=00_Afj4G_ayFCEs9RYgDV7LwWV6wQLZCrwNX3m3RqRso03rUA&oe=6928D4C0)
   * [Research Update: WorldGen — Text to Immersive 3D Worlds | Meta Quest 블로그 | Meta 스토어](https://www.meta.com/ko-kr/blog/worldgen-3d-world-generation-reality-labs-generative-ai-research/)
     * [Research Update: WorldGen — Text to Immersive 3D Worlds | Meta Quest 블로그 | Meta 스토어 | 박상길](https://www.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_research-update-worldgen-text-to-immersive-activity-7398104607908007936-kchh)
@@ -4065,6 +4075,8 @@ Artificial Intelligence
 * [클릭하지 않는 세상, 로그도 남지 않는 보안 위협](https://law-difficult-tech-people.tistory.com/55)
 * [AI의 "치명적인 삼중 위협"을 막는 방법 | GeekNews](https://news.hada.io/topic?id=23396)
 * ["바이브코딩 벌써 옛말…보안위험에 초고수 개발자 선호 흐름" | 연합뉴스](https://www.yna.co.kr/view/AKR20260117018200091)
+* [요즘 피드 절반이 "AI로 3주 만에 서비스 출시" 이야기입니다. 1년 전 중국 피드가 딱 이랬습니다 | datacode91](https://www.linkedin.com/posts/datacode91_aisoksakswm-rpwstwrzgtgkrht-rumsjm-share-7502552383403712513-hz-N/)
+  * 1년 먼저 'AI 스피드 출시' 붐을 겪은 중국에서 실제 터진 사고들—AI 연애 챗봇 2종이 인증 없는 서버로 사용자 40만 명의 개인정보·실시간 대화 노출, 검색 서버 설정 실수로 앱 3종의 사용자 로그 116GB 유출 등. 빠른 출시 이후에 벌어지는 일들의 예고편
 * [오픈클로, 실제 행동하는 AI가 만든 새로운 보안 위기 | ITWorld](https://www.itworld.co.kr/article/4126872/%EC%98%A4%ED%94%88%ED%81%B4%EB%A1%9C-%EC%8B%A4%EC%A0%9C-%ED%96%89%EB%8F%99%ED%95%98%EB%8A%94-ai%EA%B0%80-%EB%A7%8C%EB%93%A0-%EC%83%88%EB%A1%9C%EC%9A%B4-%EB%B3%B4%EC%95%88-%EC%9C%84%EA%B8%B0.html)
 * [Meta AI 안전 연구자 OpenClaw 에이전트에 의해 이메일 200통 삭제 사건 | Jaeyun Henry Lee](https://www.linkedin.com/posts/jaeyunhenrylee_%EC%98%A4%EB%8A%98-%EC%95%84%EB%A7%88-%EC%9D%B4%EA%B2%8C-%EC%A0%9C%EC%9D%BC-%ED%99%94%EC%A0%9C%EA%B0%80-%EB%90%98%EA%B3%A0-%EC%9E%88%EB%8A%94-%EC%86%8C%EC%8B%9D%EC%9D%BC-%EA%B2%81%EB%8B%88%EB%8B%A4-meta-ai-%EC%95%88%EC%A0%84-share-7431858694792904704-pZeh)
   * 컨텍스트 윈도우 압축 시 안전 지시 누락으로 이메일 200통 삭제. 원격 킬 스위치 부재, 과도한 권한 설정이 원인. 입력 신뢰 수준 분류, 인간 승인 필수화 제안
@@ -4113,6 +4125,10 @@ Artificial Intelligence
 * [claude-bug-bounty: BugHunter — AI-powered bug bounty hunting toolkit](https://github.com/shuvonsec/claude-bug-bounty)
   * [ShuvonSec — Ethical Hacker & AI Agent Builder](https://shuvonsec.me/)
   * 정찰(서브도메인 열거·호스트 발견·URL 크롤링)→헌팅(20개 웹 취약점+10개 스마트컨트랙트 버그 스캔)→검증(7문항 게이트로 false positive 필터)→HackerOne/Bugcrowd 제출용 리포트 생성. CLI+Claude Code 플러그인, Ollama(로컬)/Groq(무료)/DeepSeek 등 무료 AI 프로바이더, 세션 간 패턴 기억·취약점 체이닝. 승인된 스코프 내 사용 강조
+* [CVE-MCP-Server](https://www.mahipal.engineer/CVE-MCP-Server/)
+  * [cve-mcp-server: Production-grade MCP server giving Claude 27 security intelligence tools across 21 APIs — CVE lookup, EPSS scoring, CISA KEV, MITRE ATT&CK, Shodan, VirusTotal, and more](https://github.com/mukul975/cve-mcp-server)
+  * [Claude와 MCP로 CVE 분석 자동화하기: 28개 보안 도구를 하나로 연결하는 CVE MCP Server | digitalbourgeois](https://digitalbourgeois.tistory.com/3647)
+  * CVE 조회·EPSS 스코어링·CISA KEV·MITRE ATT&CK·Shodan·VirusTotal 등 21개 API에 걸친 27개 보안 인텔리전스 도구를 Claude에 연결하는 프로덕션급 MCP 서버. Python, 1.5k stars
 * [Cybersecurity AI CAI - A lightweight, ergonomic framework for building bug bounty-ready Cybersecurity AIs | Alias Robotics](https://aliasrobotics.github.io/cai/)
   * [cai: Cybersecurity AI CAI, the framework for AI Security](https://github.com/aliasrobotics/cai)
   * 300+ 모델(OpenAI/Anthropic/DeepSeek/Ollama, LiteLLM 기반), 정찰·익스플로잇·권한상승 내장 도구, 8 핵심(Agents/Tools/Handoffs/Patterns/Turns/Tracing/Guardrails/HITL). HackTheBox CTF·HackerOne·PortSwigger·Mercado Libre, Unitree G1·MiR-100 로봇·Ecoforest 히트펌프 OT 케이스. EU EIC RIS 공동 펀딩, 연구 무료/CAI PRO 상용
@@ -4551,6 +4567,9 @@ Artificial Intelligence
   * [Graphify — Turn any codebase into a queryable knowledge graph](https://graphify.com/)
   * [graphify: A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI | Graphify-Labs](https://github.com/Graphify-Labs/graphify)
     * Graphify-Labs 조직으로 이관된 레포. 코드베이스+문서+SQL 스키마+설정+PDF를 쿼리 가능한 지식 그래프로 변환. 로컬 결정론적 AST 파싱, 모든 엣지 설명 제공, 벡터 스토어 불필요. 95K+ stars
+  * [Production-Grade OKF + Graphify Setup, Not Just a Demo | Udaykiran Estari](https://medium.com/data-science-collective/production-grade-okf-graphify-setup-not-just-a-demo-aecf54c08153)
+    * [데모 수준을 넘어 실제 프로덕션 환경에서 AI 코딩 에이전트의 코드베이스 지식 그래프를 안정적으로 운영하기 | 박상길](https://www.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_%ED%95%B5%EC%8B%AC-%EC%9A%94%EC%95%BD-%EB%8D%B0%EB%AA%A8-%EC%88%98%EC%A4%80%EC%9D%84-%EB%84%98%EC%96%B4-%EC%8B%A4%EC%A0%9C-%ED%94%84%EB%A1%9C%EB%8D%95%EC%85%98-%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C-ai-%EC%BD%94%EB%94%A9-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EC%9D%98-share-7504406540439859200-Y1u6/)
+    * OKF+Graphify 지식 그래프의 프로덕션 운영—코드 변경에 따른 지식 그래프 동기화 불일치(지식 표류)를 막는 CI 검증, Git hooks, 커스텀 인리치먼트 파이프라인 구축
   * [Penpax — Personal knowledge graph that runs on your machine](https://safishamsi.github.io/penpax.ai/)
   * [Graphify Labs](https://graphifylabs.ai/)
     * graphify 위에 구축된 always-on 상용 레이어(Penpax). 회의·이메일·브라우저 히스토리에 동일한 그래프 접근을 적용, 백그라운드 지속 업데이트
@@ -4879,6 +4898,8 @@ Artificial Intelligence
   * [LLM으로 몇 달간 코딩한 후, 다시 내 두뇌를 쓰기로 했어요 | GeekNews](https://news.hada.io/topic?id=20955)
 * [Coding with LLMs in the summer of 2025 (an update) - <antirez>](https://antirez.com/news/154)
   * [LLM을 활용한 코딩 (2025년 여름) | GeekNews](https://news.hada.io/topic?id=22085)
+* [Linus Torvalds details his 'debug session from hell' pushing an AI to fix an error it repeatedly said was 'impossible and unsolvable'. He then made it write the report | PC Gamer](https://www.pcgamer.com/hardware/linus-torvalds-details-his-debug-session-from-hell-pushing-an-ai-to-fix-an-error-it-repeatedly-said-was-impossible-and-unsolvable-he-then-made-it-write-the-report/)
+  * 리누스 토르발스가 AI가 '불가능하고 해결 불가'라고 반복 주장한 오류를 끝까지 밀어붙여 고치게 만든 지옥의 디버그 세션—그리고 그 보고서까지 AI에게 쓰게 한 이야기
 * [My AI Code Prep & Cline Workflow for Budget Coding/Debugging (Part 1)](https://wuu73.org/blog/aiguide1.html)
   * [AI를 무료 또는 저렴하게 활용하여 개발하는 방법 | GeekNews](https://news.hada.io/topic?id=22437)
 * [공유용 - 250814 나날이 발전하고픈 개발자를 위한 AI 활용법.pdf - Google Drive](https://drive.google.com/file/d/1h99VB5Ra5nn78ZpcXzvN8HyJbSmcX-Qn/view)
@@ -5604,6 +5625,10 @@ Artificial Intelligence
   * [ccusage](https://ccusage.com/)
     * [Agentic Coding(에이전틱 코딩) | Claude Code TIP 대방출: | Facebook](https://www.facebook.com/groups/agentic.coding/posts/1085457189862924/)
       * Claude Code TIP 대방출: /statusline 셋팅으로 ccuseage를 Claude Code Statusline 추가해서 보기
+  * [cc-plugin](https://github.com/jongwony/cc-plugin)
+    * [Configure cloud environments | Claude Code Docs](https://code.claude.com/docs/en/cloud-environments)
+    * [개인 맥미니를 쓸 일이 거의 없어졌습니다 — Claude·Codex 클라우드 환경 활용 | Jongwon Choi](https://www.linkedin.com/posts/jongwon-choi-366b5b111_%EA%B0%9C%EC%9D%B8-%EB%A7%A5%EB%AF%B8%EB%8B%88%EB%A5%BC-%EC%93%B8-%EC%9D%BC%EC%9D%B4-%EA%B1%B0%EC%9D%98-%EC%97%86%EC%96%B4%EC%A1%8C%EC%8A%B5%EB%8B%88%EB%8B%A4-%EC%A0%80%EB%8A%94-%EA%B7%B8%EB%8F%99%EC%95%88-%ED%95%AD%EC%83%81-%ED%95%AB%EC%8A%A4%ED%8C%9F%EC%9D%84-%EC%97%B0%EA%B2%B0%ED%95%98%EB%A9%B0-share-7504460013940203520-lHUT/)
+    * Claude·Codex 구독료에 이미 클라우드 실행 환경이 포함—실행당 과금 없이 구독 토큰만 소모. 레포에 curl 설치 스크립트를 두고 부팅 스크립트로 Claude 환경에 Codex를, Codex 환경에 Claude를 상호 설치, Xvfb+headless Chrome으로 브라우저 제어까지 클라우드 안에서 처리해 개인 맥미니가 필요 없어졌다는 경험담
   * [cc-plugins: Collection of Claude Code plugins for various domains - Auth0 security, MFA, token security, compliance](https://github.com/modu-ai/cc-plugins)
     * [astory-blog-writers 완벽 가이드: DNA 기반 하이브리드 저자 시스템과 7인 협업 Crew Mode | DevBlog](https://goos.kim/ko/blog/astory-hybrid-author-system)
   * [cc-token-saver: Claude Code plugin for token and cost management](https://github.com/ww-w-ai/cc-token-saver)
@@ -5671,6 +5696,9 @@ Artificial Intelligence
       * 이 가이드북은 Claude와의 코딩 협업에 관한 핵심 철학(유연성, 투명성, 협업, 맥락 이해)부터 기본 사용법, 프로젝트 맞춤 설정까지 단계별로 설명
       * 특히 CLAUDE.md를 통한 프로젝트 컨텍스트 제공 방법, 효율적인 개발 워크플로우, AI 증강 코드 리뷰와 페어 프로그래밍 방법론을 소개
       * 다양한 조직과 팀에서의 실제 활용 사례와 성과 측정 방법을 통해 Claude를 개발 과정에 성공적으로 통합하는 방법 제시
+  * [claude-code-model-proxy: Use the Codex model inside Claude Code!](https://github.com/jclab-joseph/claude-code-model-proxy)
+    * [Claude Code에서 Claude와 OpenAI 모델을 함께 사용하는 방법 | digitalbourgeois](https://digitalbourgeois.tistory.com/3636)
+    * Claude Code 안에서 Codex(OpenAI) 모델을 함께 쓰게 해주는 프록시. Go
   * [claude-code-otel-gcp: Claude Code 텔레메트리를 GCP에서 수집·모니터링](https://github.com/jinseo-jang/claude-code-otel-gcp)
     * Cloud Run에 OTel Collector 배포, Cloud Monitoring + Cloud Logging으로 토큰 사용량·비용·세션·생산성 지표 추적. Terraform IaC, Grafana 대시보드 포함
   * [claude-code-showcase: Claude Code skills, agents, hooks, and GitHub Actions workflows demo](https://github.com/ChrisWiles/claude-code-showcase)
