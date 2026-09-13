@@ -160,6 +160,9 @@ Writing
   * [OpenDetex - Improved version of Detex - tool for extracting plain text from TeX and LaTeX sources](https://github.com/pkubowicz/opendetex)
   * [SwiftLaTeX, a WYSIWYG Browser-based LaTeX Editor](https://github.com/SwiftLaTeX/SwiftLaTeX)
   * Tectonic [Rust로 작성된 TeX 컴파일러, Tectonic](https://www.jiwon.me/tectonic/)
+* [CorTeX - Collaborative academic writing | Corca](https://cortex.corca.ai/)
+  * [CorTeX 소개 릴 | Facebook](https://www.facebook.com/reel/957648733294811)
+  * Corca의 학술 글쓰기 협업 도구
 * [Typst: Compose papers faster](https://typst.app/)
   * [새로운 Latex인 Typst 자습서](https://velog.io/@huansock/%EC%83%88%EB%A1%9C%EC%9A%B4-Latex%EC%9D%B8-Typst%EB%A5%BC-%EB%B0%B0%EC%9B%8C%EB%B3%B4%EC%9E%90)
   * [Typst - LaTeX를 대체할 수 있는 가능성 | GeekNews](https://news.hada.io/topic?id=23312)
