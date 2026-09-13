@@ -1234,6 +1234,7 @@ NLP
 * [LLM-As-Chatbot: LLM as a Chatbot Service](https://github.com/deep-diver/LLM-As-Chatbot)
 * [LocalAI · Make AI run on every machine](https://localai.io/)
   * [mudler/LocalAI: the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required](https://github.com/mudler/LocalAI)
+  * [LocalAI란? 다양한 AI 모델을 로컬 환경에서 실행하는 오픈소스 AI 엔진 | digitalbourgeois](https://digitalbourgeois.tistory.com/3644)
   * OpenAI 호환 API를 제공하는 오픈소스 로컬 AI 엔진. LLM·비전·음성·이미지·비디오 모델을 GPU 없이 소비자 하드웨어에서 실행. Go, MIT
 * [www.luis.ai](https://www.luis.ai)
 * [Mantium](https://mantiumai.com/)
@@ -2717,6 +2718,9 @@ NLP
   * This article explores recent research advancements in reasoning-optimized LLMs, focusing on inference-time compute scaling methods since the release of DeepSeek R1
   * It discusses several interesting research papers, such as s1: Simple Test-Time Scaling, which introduces "wait" tokens to control response length and improve accuracy
   * also covers other methods like Test-Time Preference Optimization, Thought Switching Penalty, and self-backtracking mechanisms to enhance LLMs' reasoning abilities
+* [GPT-6 Astra, Looped Transformers, and Recurrent Depth | Sebastian Raschka](https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and)
+  * [GPT-6 Astra와 Looped Transformer: 반복 계산이 AI 추론과 성능에 미치는 영향 | digitalbourgeois](https://digitalbourgeois.tistory.com/3641)
+  * 새 블록을 계속 쌓는 대신 동일한 Transformer 블록을 여러 번 재사용해 계산 깊이를 늘리는 Looped Transformer/Recurrent Depth 분석—GPT-6 Astra에서 관찰된 특징과의 관계, 반복 계산이 사용자에게 보이지 않는 hidden Chain of Thought와 어떻게 연결되는지, 기존 Transformer와의 차이·반복 비용·Universal Transformer 등 관련 연구 정리
 * [LLM vs. 전문가: AI가 인간의 직관과 경험을 대체할 수 있는가? - 인간의 직관이 중요한 이유. - 해경](https://www.haegyung.com/llm-vs-%EC%A0%84%EB%AC%B8%EA%B0%80-ai%EA%B0%80-%EC%9D%B8%EA%B0%84%EC%9D%98-%EC%A7%81%EA%B4%80%EA%B3%BC-%EA%B2%BD%ED%97%98%EC%9D%84-%EB%8C%80%EC%B2%B4%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8A%94%EA%B0%80/)
 * [경량화 레시피: Teacher 지식 조린 소형 모델, 근데 성능을 곁들인](https://d2.naver.com/helloworld/8866888)
 * [LLM 기반 체크리스트 생성 툴 공유](https://chance-doe.tistory.com/26)
