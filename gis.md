@@ -42,6 +42,8 @@ GIS
 * [Geospatial Sovereignty in the Age of AI.pdf](https://media.licdn.com/dms/document/media/v2/D4E1FAQGT6m6_AafHjg/feedshare-document-pdf-analyzed/B4EZsCiq.0GoAc-/0/1765274212510?e=1766016000&v=beta&t=Oo0LUGI1JR42xEQKP7OwfE5aMtLrebeKiSpK-TUqx2w)
   * OGC 행사에서 Carto 창업자가 발표한 자료
     * 이제 공간정보가 '특별'하지 않다는 점과 AI주권이 고립된 시스템을 의미하는 게 아니라고 강조한 점이 인상적
+* [Tae Hyung Kim - 이번에 세계지도가 바뀐다. 유엔총회가 164개국의 찬성으로 Equal Earth 세계지도 사용을 권고하는 결의안 채택 | Facebook](https://www.facebook.com/socialego/posts/pfbid0ApVWtk7VdnDtvqszbXX5et9dtYAV69vw7onXBmQGBhrM8QUx1KcuuauNh1nHW1Jwl)
+  * 면적 왜곡이 큰 메르카토르 도법 대신 면적을 보존하는 Equal Earth 도법을 유엔총회가 권고—세계지도 표준이 바뀌는 결의
 * [2601.21149 Mobility-Embedded POIs: Learning What A Place Is and How It Is Used from Human Movement](https://arxiv.org/abs/2601.21149)
   * [How mobility gives language models a deeper understanding of place | Google Research](https://research.google/blog/how-mobility-gives-language-models-a-deeper-understanding-of-place/)
   * [이동 데이터로 장소를 이해하는 AI, Google Research의 ME-POIs | digitalbourgeois](https://digitalbourgeois.tistory.com/3560)
