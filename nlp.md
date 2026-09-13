@@ -472,6 +472,9 @@ NLP
   * 2. 소비자용 GPU 지원: 과거 192GB VRAM이 필요했던 작업을 24GB VRAM(RTX 3090/4090 등)에서 수행 가능, 개인 개발자 접근성 향상
   * 3. 정확도 보존: 근사치 계산이 아닌 정확한 계산 방식을 사용하여 성능 저하 없이 최적화 달성
   * 4. 통합 최적화: vLLM 대기 모드(Standby), 플렉스 어텐션(Flex Attention)등 신기술을 결합, 긴 문맥 학습 시 발생하는 병목 현상 해결
+* [Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps | Hugging Face](https://huggingface.co/blog/grpo-with-trl-ifstruct)
+  * [LFM2.5-350M을 GRPO로 파인튜닝해 구조화된 출력 성능 높이기 | digitalbourgeois](https://digitalbourgeois.tistory.com/3642)
+  * TRL로 LFM2.5-350M 소형 모델을 GRPO 100스텝만 학습해 JSON 등 구조화 출력 성능을 끌어올리는 실전 가이드
 * [tokens are getting more expensive - by Ethan Ding](https://ethanding.substack.com/p/ai-subscriptions-get-short-squeezed)
   * [LLM 서비스 비용은 정말로 많이 내려갔는가? LLM의 가격이 지속적으로 떨어지고 있다는 이야기가 요즘 곳곳에서 들립니다. 언론에서도, 투자 보고서에서도 “AI 모델의 단가가 급격히 낮아지고 있다”고 말하곤 합니다. 그러나 이 말은 절반만 맞습니다. 지난 2년간 LLM 서비스 비용이 눈부시게 내려간 것은 사실이지만, 그 하락이 앞으로도 같은 속도로… | Dongsoo Lee](https://www.linkedin.com/posts/dongsoo-lee-45028017_llm-%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%B9%84%EC%9A%A9%EC%9D%80-%EC%A0%95%EB%A7%90%EB%A1%9C-%EB%A7%8E%EC%9D%B4-%EB%82%B4%EB%A0%A4%EA%B0%94%EB%8A%94%EA%B0%80-llm%EC%9D%98-%EA%B0%80%EA%B2%A9%EC%9D%B4-%EC%A7%80%EC%86%8D%EC%A0%81%EC%9C%BC%EB%A1%9C-ugcPost-7384202513224433664-iwxb) 토큰 비용 등
 * [Understanding KV Caching in Transformers | by Minhajul Hoque | Medium](https://medium.com/@minh.hoque/understanding-kv-caching-in-transformers-729271c9b74a)
@@ -1287,6 +1290,7 @@ NLP
 * [viper: Code for the paper "ViperGPT: Visual Inference via Python Execution for Reasoning"](https://github.com/cvlab-columbia/viper)
   * [bitsandbytes 이슈 삽질기 | Lablup Blog](https://blog.lablup.com/posts/2023/07/28/bitsandbytes/)
 * [wechaty: Conversational RPA SDK for Chatbot Makers. Join our Discord: https://discord.gg/7q8NBZbQzt ](https://github.com/wechaty/wechaty)
+  * [Wechaty](https://wechaty.js.org/)
 * [wit.ai](https://wit.ai/)
   * [Wit.ai stories/conversational app demo](https://youtu.be/yLAHVPaHWFA)
 * [x.ai is a personal assistant who schedules meetings for you](https://x.ai/)
