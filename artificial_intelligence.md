@@ -1809,6 +1809,9 @@ Artificial Intelligence
   * [🔧 Codex 에이전트에게 100만 줄을 맡긴 OpenAI, 사람이 한 건 딱 5가지였습니다 요즘 "하네스 엔지니어링"이라는 말이 갑자기 보이기 시작했을 거예요. 솔직히 처음엔 또 새 유행어인가 싶었습니다. 그런데 OpenAI 가 오늘 새벽 공개한 블로그를 읽고 생각이 바뀌었어요. 원문: https://lnkd.in/gRj6-5G3 일단 추론… | Jeongmin Lee](https://www.linkedin.com/posts/jyoung105_codex-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EC%97%90%EA%B2%8C-100%EB%A7%8C-%EC%A4%84%EC%9D%84-%EB%A7%A1%EA%B8%B4-openai-%EC%82%AC%EB%9E%8C%EC%9D%B4-%ED%95%9C-activity-7427487772422070272-7ShD)
   * [Unlocking the Codex harness | OpenAI](https://openai.com/index/unlocking-the-codex-harness/)
     * [Codex App Server 아키텍처: OpenAI가 표준 하네스로 통합한 에이전트 실행 구조](https://digitalbourgeois.tistory.com/2804)
+    * [Codex 하네스 활용하기: OpenAI가 App Server를 구축한 방법 (한국어판)](https://openai.com/ko-KR/index/unlocking-the-codex-harness)
+    * [Goos Kim - 48시간 폭풍 코딩해서 결국 해냈다. Codex CLI에서 GPT-6 Astro 모델을 이용해 Claude Code에 GPT-6 모델을 이식, moai gpt 명령어로 GPT 전 모델 사용 | Facebook](https://www.facebook.com/Goos.Kim/posts/pfbid09LesSgXjmzxUUSFbkenDjigsYSZumoQV1H1rz2txadauFsKPUijATU2G13vkEBHzl)
+    * Claude Code에서 GPT 계열 모델을 호출하는 4가지 방법: ①Codex CLI 브리지—Claude가 Bash로 `codex exec` 호출(ChatGPT 구독 과금, moai gpt와 동일 구조, Codex가 Bedrock 설정이어도 동작) ②claude-code-model-proxy—api.anthropic.com을 hosts+자체 CA로 위장하는 프록시(ChatGPT 구독 OAuth 필요, Claude Code가 Bedrock 모드면 트래픽이 그 주소로 안 가서 불가) ③LiteLLM 게이트웨이—ANTHROPIC_BASE_URL을 LiteLLM으로 지정해 Claude·GPT 모두 Bedrock에 SigV4 라우팅(Bedrock 사용자 권장) ④OpenAI API 직접 호출(종량 과금)
   * [Agent-First 시대의 소프트웨어 개발 전략: Codex로 코드 한 줄 안 쓰고 제품 만든 엔지니어링 인사이트](https://digitalbourgeois.tistory.com/2825)
     * AI 에이전트가 코드 100% 생성하는 실험적 제품 개발 사례. 인간의 역할이 코딩에서 시스템 설계, 아키텍처 관리, 피드백 루프 최적화로 전환
   * [하네스 엔지니어링, 에이전트 우선 세계에서 Codex 활용하기 | GeekNews](https://news.hada.io/topic?id=27457)
@@ -1919,6 +1922,8 @@ Artificial Intelligence
   * Cole Medin. AI 소프트웨어 팩토리는 AI 코딩의 최종 진화형—PRD 투입 → 태스크 분할 → 중간에 아무도 코드를 보지 않고 배포된 코드가 나옴. 1년간 실험으로 AI 튜터 Dynachat을 코드 한 줄 안 읽고 구축, 누구나 자기 프로젝트에 적용할 수 있는 오픈소스 버전 제작 중
 * [Running a Software Factory Efficiently at Uber Scale | Uber Blog](https://www.uber.com/us/en/blog/efficient-software-factory/)
   * [Agentic SDLC at Uber — Uday Kiran Medisetty & Adam Huda, Uber | AI Engineer 2026](https://www.youtube.com/watch?v=17-YSUHo6Lk)
+  * [PR 10개 중 7개를 에이전트가 쓰는 우버 팀에게 배울 것 | 요즘IT](https://yozm.wishket.com/magazine/detail/3938)
+    * 비용을 여섯 항의 방정식으로 쪼개고, 자기 업무 벤치마크로 모델을 고르고, 상한 대신 가시성으로 낭비를 막는 우버 소프트웨어 팩토리 운영법 한국어 정리
   * Uber PR의 70%+가 로컬/클라우드 에이전트 작성, 에이전트 스킬 3,600개·일 30K 스킬 실행. 코드 리뷰·CI 자가 치유·E2E PR 완성(시각 검증)·온콜 트리아지·버그 디버깅을 관리형 에이전트가 자동 시작. 2026년 2~8월 주간 활성 사용자 7배·에이전틱 요청 9.4배 성장에도 최적화로 총 AI 비용은 4월 이후 안정화
 * [2604.14228 Dive into Claude Code: The Design Space of Today's and Future AI Agent Systems](https://arxiv.org/abs/2604.14228)
   * [Dive-into-Claude-Code: Build Your Own AI Agent - A Design Guide](https://github.com/VILA-Lab/Dive-into-Claude-Code)
@@ -4240,6 +4245,8 @@ Artificial Intelligence
   * Toby의 "소프트웨어 엔지니어링은 정말 엔지니어링인가"(2026.6.3)에서 출발한 팀 고민 정리. 우리가 아는 소프트웨어 공학이 세운 세 전제(개발자는 비싸고·느리고, 사람이 코드를 쓴다)가 AI 코딩 시대에 흔들린다는 논의
 * [How AI-assisted coding will change software engineering: hard truths](https://newsletter.pragmaticengineer.com/p/how-ai-will-change-software-engineering)
   * [AI 보조 코딩이 소프트웨어 엔지니어링을 어떻게 바꿀 것인가: 불편한 진실 | GeekNews](https://news.hada.io/topic?id=18712)
+* [한영자막 AI 시대의 코드 품질: 완벽한 코드로도 부족한 진짜 이유입니다 - YouTube](https://www.youtube.com/watch?v=3JDqfWGKoiY)
+  * Tech Bridge. AI가 깔끔한 코드를 몇 초에 만들어도 소프트웨어 품질의 본질은 코드 작성이 아니라는 관점—구현 품질에서 결정 품질로(엔지니어 판단력이 핵심 가치), 단일 파일에서 시스템 단위 품질 평가로, 작성자 신뢰가 아닌 지속적 행동 검증·옵저버빌리티로, 문서가 아닌 실행 가능한 자동화 가드레일로, 릴리스 직전 체크포인트가 아닌 라이프사이클 전체의 실천으로
 * [Measuring the impact of AI on software engineering – with Laura Tacho](https://newsletter.pragmaticengineer.com/p/measuring-the-impact-of-ai-on-software)
   * [데이터는 과장 광고를 이깁니다(Data beats hype)](https://www.linkedin.com/posts/fupfin_measuring-the-impact-of-ai-on-software-engineering-activity-7362475426436276226-Q5Cf/)
     * AI를 도입하기는 했지만 얼마나 효과적인지 몰라 DX와 같이 데이터를 측정하며 AI 도입 전략을 정밀하게 수립하고 추진
@@ -7253,6 +7260,10 @@ Artificial Intelligence
   * 한국어 학습 자료 저장소. 가이드·튜토리얼·실습 3가지 유형, 현재 로컬 LLM 실행 가이드(Ollama, 오픈 웨이트 모델) 공개. 검증 기록과 성공/실패 판정 기준을 함께 담는 것이 특징. Apache-2.0
   * [learnstead: 주제별 핵심 개념 이해부터 직접 실행까지 다루는 가이드·튜토리얼·실습 모음](https://github.com/kyungseo/learnstead)
     * [가이드: Local LLM을 내 프로그램에 연결하기](https://github.com/kyungseo/learnstead/tree/main/guides/local-llm-app-integration)
+    * [가이드: AI Agent에게 일을 나눠 맡기는 법 — Subagent·병렬·검토 기초](https://github.com/kyungseo/learnstead/blob/main/guides/agent-delegation/README.md)
+      * Claude Code·Codex CLI에서 한 세션이 막히는 세 가지 이유(컨텍스트·시간·편향)와 서브에이전트·병렬 처리·검토로 작업을 나누는 법. 직접 처리 vs 분담 비교 실습
+    * [가이드: 여러 AI를 엮어 일하게 하기 — Agent와 오케스트레이션](https://github.com/kyungseo/learnstead/blob/main/guides/agent-orchestration/README.md)
+      * 같은 질문·같은 모델·같은 문서 3편으로 다섯 가지 처리 방식(단일 vs 역할·단계 분담)을 비교 검증한 오케스트레이션 가이드
 
 # Vector DB
 * [나만의 GPT 만들기, Embedding](https://sudormrf.run/2023/06/06/owngpt/)
