@@ -3177,6 +3177,7 @@ NLP
     * [카카오 AI 가드레일 모델, Kanana Safeguard 시리즈를 소개합니다. - tech.kakao.com](https://tech.kakao.com/posts/705)
   * [Kanana 언어모델에 추론 기능 붙여보기 (feat. Kanana-1.5) - tech.kakao.com](https://tech.kakao.com/posts/724)
   * [Kanana-2: 카카오의 오픈소스 에이전틱 AI 구현 차세대 언어모델](https://fornewchallenge.tistory.com/entry/Kanana-2-%EC%B9%B4%EC%B9%B4%EC%98%A4%EC%9D%98-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8B%B1-AI-%EA%B5%AC%ED%98%84-%EC%B0%A8%EC%84%B8%EB%8C%80-%EC%96%B8%EC%96%B4%EB%AA%A8%EB%8D%B8)
+  * [2502.18934 Kanana: Compute-efficient Bilingual Language Models](https://arxiv.org/abs/2502.18934v3)
   * Kanana-MoE [국내 최초 MoE 모델 ‘Kanana-MoE’ 개발기 - tech.kakao.com](https://tech.kakao.com/posts/716)
   * kanana nano
     * [작지만 강한 Kanana Nano 효율적으로 개발하기 - tech.kakao.com](https://tech.kakao.com/posts/682)
