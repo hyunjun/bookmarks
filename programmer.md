@@ -563,6 +563,9 @@ Programmer
 * [The Religion of Speed – The Gospel According to Graybeard](https://graybeard.ing/the-religion-of-speed/)
   * [속도의 종교 | GeekNews](https://news.hada.io/topic?id=32030)
   * "빠르게 움직이기"가 실무적 필요를 넘어 진지함·야망의 증거이자 도덕적 위치가 되면서 신중한 검토가 추진력을 방해하는 태도로 취급되는 문화 비판. 진짜 속도는 업무·제약·의존성을 이해하고 명확히 결정한 뒤 실행할 때 나오는데, 많은 조직이 모호한 요구사항·미완의 결정을 속도로 포장—이해 단계를 서두르면 재작업으로 되돌아온다
+* [No Meat Proxy — AI is a tool. You shouldn't be.](https://nomeatproxy.com/)
+  * [Meat Proxy가 되지 마세요. 동료의 질문을 AI에 그대로 넣고 나온 답변을 복붙해서 답장하신 적이 있으신가요? | Dale Seo](https://www.linkedin.com/posts/daleseo_meat-proxy%EA%B0%80-%EB%90%98%EC%A7%80-%EB%A7%88%EC%84%B8%EC%9A%94-%EB%8F%99%EB%A3%8C%EC%9D%98-%EC%A7%88%EB%AC%B8%EC%9D%84-ai%EC%97%90-%EA%B7%B8%EB%8C%80%EB%A1%9C-share-7503578501300629505-pUDV/)
+  * AI가 뱉은 결과물을 읽지도·이해하지도·검증하지도 않고 그대로 타인에게 넘기는 사람 = Meat Proxy('살로 된 중계기'). 에이전트가 짜준 코드를 안 읽고 PR 리뷰를 요청하는 행태에 대한 경고 선언 사이트
 
 # Programmers
 * [도널드 커누스 - 튜링상 수상자 시리즈, 지식함지](https://knowledgebasin.com/archives/persons/%EB%8F%84%EB%84%90%EB%93%9C-%EC%BB%A4%EB%88%84%EC%8A%A4)
