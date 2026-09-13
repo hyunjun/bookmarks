@@ -397,6 +397,8 @@ Apache
 * [토스증권 Iceberg 적용기 #1: CDC 환경은 왜 제대로 동작하지 않을까?](https://toss.tech/article/iceberg-cdc-1) COW(Copy-on-Write), MOR(Merge-on-Read), Equality Delete, Position Delete, Deletion Vector
 * [Apache Iceberg Specs Explained: v1, v2, v3 Innovations and What’s Coming in v4](https://community.cloudera.com/t5/Developer-Blogs/Apache-Iceberg-Key-Innovations-So-Far-and-What-s-Next-for/ba-p/413024)
   * [Apache Iceberg Evolution: Key Innovations & Future Directions | Dipankar Mazumdar posted on the topic | LinkedIn](https://www.linkedin.com/posts/dipankar-mazumdar_dataengineering-softwareengineering-activity-7402742507585077248-rF8S)
+* [Sub-Second Fraud Detection Meets Agentic AI: Streaming, Iceberg, and Automated Forensics - YouTube](https://www.youtube.com/watch?v=3l7dwzwU2hE)
+  * Apache Iceberg Meetup NY(2026-08). AWS Streaming Specialist SA Ashley Millette—스트리밍+Iceberg로 서브-초 사기 탐지와 에이전틱 AI 기반 자동 포렌식 결합
 
 # Ignite
 * [Ignite](https://ignite.apache.org/features/igniterdd.html) - Spark Shared RDDs
@@ -1139,6 +1141,8 @@ Apache
   * [Hans-Peter Grahsl&Gunnar Morling - Dissecting our Legacy: The Strangler Fig Pattern with ... - YouTube](https://www.youtube.com/watch?v=rl06nAIdIhQ)
   * [Scheduling Millions Of Messages With Kafka & Debezium | by Elia Rohana | Yotpo Engineering | Medium](https://medium.com/yotpoengineering/scheduling-millions-of-messages-with-kafka-debezium-6d1a105160c)
   * [대규모 CDC Pipeline 운영을 위한 Debezium 개선 여정](https://toss.tech/article/cdc_pipeline)
+  * [Debezium은 소스를 그대로 복제하지 않는다: 데이터가 조용히 어긋나는 세 가지 사례 | Backpressured](https://backpressured.dev/posts/debezium-cdc-silent-data-errors/)
+    * CDC 파이프라인이 잘 도는 것과 데이터가 기대한 의미·형태로 만들어지는 것은 다른 문제—Debezium 프로덕션 운영에서 에러 없이 데이터가 조용히 어긋난 세 가지 실사례
 * Decaton [Kafka를 이용한 작업 큐 라이브러리 'Decaton' 활용 사례 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/decaton-case-studies/)
 * kafka connect
   * [Integrate Apache Kafka and SAP with the Kafka Connect ODP Source Connector](https://www.confluent.io/blog/kafka-sap-integration-with-kafka-connect-odp-source-connector/)
