@@ -1795,6 +1795,8 @@ Programming
 * [Scaling Uber](http://www.infoq.com/presentations/uber-scalability-arch)
 * [uber 아키텍처](http://knight76.tistory.com/entry/%ED%8E%8C-uber-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98)
 * [UBER system design. Uber’s technology may look simple but… | by Narendra L | Medium](https://medium.com/@narengowda/uber-system-design-8b2bc95e2cfe)
+* [티켓 예매 시스템 | 고객 요구에서 설계로 가는 접근법 - YouTube](https://www.youtube.com/watch?v=7excI-0n2xk)
+  * 코딩하는기술사. 콘서트 티켓 예매 시스템 설계 실무 흐름—기술부터 고르지 않고 고객 요구사항에서 출발해 결정에 이르는 과정 자체를 보여주는 아키텍처 설계 연습
 * [서버 아키텍처 Vol. 2 (자막)](http://www.slideshare.net/sublee/lt-vol-2)
 * [**서버 비용을 70%나 줄인 온디맨드 리사이징 이야기**](http://engineering.vcnc.co.kr/2016/05/ondemand-image-resizing/)
 * [설계 중심의 시스템 구현](https://blog.ifunfactory.com/2016/01/29/%EC%84%A4%EA%B3%84-%EC%A4%91%EC%8B%AC%EC%9D%98-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EA%B5%AC%ED%98%84-2/)
@@ -4661,6 +4663,8 @@ Programming
   * [시간은 금이다: LLM을 이용한 AI 코드 리뷰 도입기 - YouTube](https://www.youtube.com/watch?v=7cwFhX14nkg)
   * [VidiGo 시간은 금이다: LLM을 이용한 AI 코드 리뷰 도입기.mp4](https://vidigo.ai/share/summary/a3546c6abe41)
   * [시간은 금이다: LLM을 이용한 AI 코드 리뷰 도입기 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/878195)
+* [GitHub PR 코드리뷰를 Muse Code로 바꿔보았다 - 박종훈 기술블로그](https://jonghoonpark.com/2026/09/04/github-actions-code-review-muse-code)
+  * GitHub Actions 기반 PR 자동 코드리뷰를 Muse Code로 교체한 실전 후기
 * [How to review code effectively: A GitHub staff engineer’s philosophy - The GitHub Blog](https://github.blog/developer-skills/github/how-to-review-code-effectively-a-github-staff-engineers-philosophy/)
   * GitHub의 스태프 엔지니어가 업무 중 중요한 부분으로 코드 리뷰를 하고 있어서 그동안의 경험을 정리한 글
   * 슬랙에서 `/github subscribe your/repo pulls +label:"your-team-label"`같은 명령어로 리뷰할 PR만 알림이 오게 설정하거나
