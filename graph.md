@@ -228,6 +228,11 @@ Graph
   * [Exploring Wikipedia with Gremlin Graph Traversals](http://markorodriguez.com/2012/03/07/exploring-wikipedia-with-gremlin-graph-traversals/)
   * [Titan Graph Database Integration with DynamoDB: World-class Performance, Availability, and Scale for New Workloads](http://www.allthingsdistributed.com/2015/08/titan-graphdb-integration-in-dynamodb.html)
 
+# GraphDB
+* [Using GraphDB Technology to Resolve Transitive Vulnerabilities at Scale • Emil Wareus • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=BMr7Bz8eGus)
+* [GraphDB: At Last, the Meaningful Database](http://www.ontotext.com/documents/reports/PW_Ontotext.pdf) GraphDB의 일반적인 장점
+* [온톨로지 기반 그래프DB, 어떻게 적용할까? 김선영의 AI-ready Data@토크아이티, 김선영 그룹장 / 엔코아 #세미남847 - YouTube](https://www.youtube.com/watch?v=m-jUgshQotk)
+
 # Knowledge Graph
 * [**Knowledge Graph 101 –from the perspective of engineers**](http://www.slideshare.net/hustwj/knowledge-graph-101-from-the-perspective-of-engineers)
 * [Machine Learning with Knowledge Graphs](http://videolectures.net/eswc2014_tresp_machine_learning/)
@@ -311,7 +316,6 @@ Graph
 
 # Library
 * [Ajgu - a simple graph database power by BerkleyDB key-value store](https://bitbucket.org/amirouche/ajgu-graphdb)
-* [Amazon Neptune, 신규 그래프 데이터베이스 서비스 - 김상필 솔루션즈 아키텍트 (AWS)](https://www.youtube.com/watch?time_continue=6&v=DZ7HmDQxioc)
 * [AmpliGraph - Open source Python library that predicts links between concepts in a knowledge graph](https://docs.ampligraph.org)
 * [ArangoDB](https://www.arangodb.com/)
   * [Native multi-model can compete with pure document and graph databases](https://www.arangodb.com/2015/06/multi-model-benchmark/)
@@ -340,8 +344,6 @@ Graph
   * [GraphBLAS: Building a C++ Matrix API for Graph Algorithms - YouTube](https://www.youtube.com/watch?v=odyPeZvPtFw)
 * [Graph Engine - SERVING BIG GRAPHS IN REAL-TIME](http://www.graphengine.io/) windows
   * [blogs.msdn.com/Graph Engine](http://blogs.msdn.com/b/graphengine/)
-* [graph-explorer](https://github.com/aws/graph-explorer)
-  * [Amazon Neptune announces graph-explorer, an open-source visual exploration tool for low-code users](https://aws.amazon.com/ko/about-aws/whats-new/2023/01/neptune-graph-explorer-open-source-visual-exploration-tool-low-code-users/)
 * [Graphgenpy](http://konstantinosx.github.io/graphgen-project/)
   * [Graph Analytics Over Relational Datasets with Python](http://blog.districtdatalabs.com/graph-analytics-over-relational-datasets)
 * [Graph-Reply - A graph based REPL that saves to and loads from disk](https://github.com/incrediblesound/Graph-Reply)
@@ -421,11 +423,6 @@ Graph
 * [Using MongoDB as a high performance graph database](http://www.slideshare.net/robotrobot/mongodb-uk)
   * [Object Graph Mapper for managing RDF data in Mongo](https://github.com/talis/tripod-php)
 
-# GraphDB
-* [Using GraphDB Technology to Resolve Transitive Vulnerabilities at Scale • Emil Wareus • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=BMr7Bz8eGus)
-* [GraphDB: At Last, the Meaningful Database](http://www.ontotext.com/documents/reports/PW_Ontotext.pdf) GraphDB의 일반적인 장점
-* [온톨로지 기반 그래프DB, 어떻게 적용할까? 김선영의 AI-ready Data@토크아이티, 김선영 그룹장 / 엔코아 #세미남847 - YouTube](https://www.youtube.com/watch?v=m-jUgshQotk)
-
 # Memory-based graph
 * [iGraph](http://igraph.org)
   * [Visualising Correlations using Graph](https://medium.com/@JavierBurroni/visualising-correlations-using-graph-2169c6415427) python igraph visualization
@@ -447,6 +444,16 @@ Graph
   * [Ordering Movie Credits With Graph Theory](https://endcrawl.com/credits-ordering/)
   * [Dina Bavli - Everybody Is an Influencer–Which Influencer Are You | PyData Global 2022 - YouTube](https://www.youtube.com/watch?v=3l9gFVVc_g0)
   * [Croshapes - Using Graph to Design a Toy - Irina Smirnova-Pinchukova - YouTube](https://www.youtube.com/watch?v=jzdFyCAV7H4)
+
+# Neptune
+* [Amazon Neptune, 신규 그래프 데이터베이스 서비스 활용 - 김상필 솔루션즈 아키텍트(AWS), 강정희 솔루션즈 아키텍트(AWS)](https://www.youtube.com/watch?v=akVdjlO4rMc)
+* [Amazon Neptune, 신규 그래프 데이터베이스 서비스 - 김상필 솔루션즈 아키텍트 (AWS)](https://www.youtube.com/watch?time_continue=6&v=DZ7HmDQxioc)
+* [Neptune GraphRAG Toolkit을 활용하여 정교한 비정형 데이터 검색하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/introducing-the-graphrag-toolkit-01/)
+  * Amazon Neptune 기반 GraphRAG Toolkit 소개 1부—벡터 검색만으로 부족한 비정형 데이터 검색을 그래프 구조로 정교화
+* [graph-explorer](https://github.com/aws/graph-explorer)
+  * [Amazon Neptune announces graph-explorer, an open-source visual exploration tool for low-code users](https://aws.amazon.com/ko/about-aws/whats-new/2023/01/neptune-graph-explorer-open-source-visual-exploration-tool-low-code-users/)
+* [sample-semantic-lakehouse: Customer 360 analytics with semantic layer on AWS](https://github.com/aws-samples/sample-semantic-lakehouse)
+  * S3 Tables(Iceberg)+Glue Catalog+Neptune 온톨로지 그래프+Bedrock AgentCore 기반 시맨틱 레이크하우스. 자연어→SQL 변환, 시맨틱 그래프 쿼리, Lake Formation ABAC 보안, CloudFormation 원클릭 배포
 
 # Paper
 * [Paper: FlashGraph: Processing Billion-Node Graphs On An Array Of Commodity SSDs](http://highscalability.com/login/?returnUrl=%2Fblog%2F2015%2F5%2F19%2Fpaper-flashgraph-processing-billion-node-graphs-on-an-array.html)
