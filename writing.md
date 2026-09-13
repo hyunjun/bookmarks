@@ -136,6 +136,9 @@ Writing
 * [How We Use AI for Every Article Without Making AI Slop | Ahrefs](https://ahrefs.com/blog/how-we-use-ai-without-making-ai-slop/)
   * [모든 글에 AI를 쓰면서도 'AI 슬롭'을 피하는 방법 | GeekNews](https://news.hada.io/topic?id=33225)
   * Ahrefs는 발행하는 모든 글에 AI를 쓰지만 슬롭은 AI 사용량·문체(em dash, delve)의 문제가 아니라는 관점. 슬롭 정의: 독자의 주의를 정당화할 만큼의 인간의 이해·판단·증거·독창적 기여 없이 발행된 콘텐츠—창작자의 노력을 독자에게 전가하는 것. 조사·검증·의견 개발·중요도 판단은 사람이 수행
+* [The revolt of the reader | Bryan Cantrill](https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/)
+  * 독자들은 LLM이 쓴 글을 확실히 알아보며 지쳐가고 있다는 독자 관점의 반란 선언. 아이디어와 초안은 사람이 만들고 LLM은 검토·다듬기 역할을 해야 하며, 프롬프트가 있다면 LLM에 넘겨 완성된 글을 받는 대신 그 프롬프트를 글의 뼈대로 삼아 직접 쓰라는 결론
+  * 과거 좋은 글의 경쟁력이던 문법·구조·표현력은 LLM이 평준화—앞으로 희소해지는 것은 사람의 경험, 판단, 실패, 관점, 그리고 그 사람 특유의 불완전한 표현
 
 # App
 * latex
