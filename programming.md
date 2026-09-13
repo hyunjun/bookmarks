@@ -8256,6 +8256,10 @@ Programming
 * [Auto-Diagnosis and Remediation in Netflix Data Platform | by Netflix Technology Blog | Jan, 2022 | Netflix TechBlog](https://netflixtechblog.com/auto-diagnosis-and-remediation-in-netflix-data-platform-5bcc52d853d1)
 * [The Four Innovation Phases of Netflix’s Trillions Scale Real-time Data Infrastructure | by Zhenzhong Xu | Feb, 2022 | Medium](https://zhenzhongxu.com/the-four-innovation-phases-of-netflixs-trillions-scale-real-time-data-infrastructure-2370938d7f01)
 * [2022-Streaming-Summit-Netflix.pdf](http://nabstreamingsummit.com/wp-content/uploads/2022/05/2022-Streaming-Summit-Netflix.pdf)
+* [실시간 시세(Tick/Candle) 데이터 아키텍처 | Park SooHyun](https://www.linkedin.com/posts/park-soohyun-b3494332_%EC%8B%A4%EC%8B%9C%EA%B0%84-%EC%8B%9C%EC%84%B8tickcandle-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-ugcPost-7504494427105693696-9_dv/)
+  * [증권사 실시간 시세(Tick/Candle) 데이터 및 FDS 아키텍처 — 통합 문서 (PDF)](pdfs/realtime_tick_candle_fds_architecture.pdf)
+  * ClickHouse+ScyllaDB 조합 개인 PoC—Peak 300,000 TPS 시세를 서브-10ms로 전달하며 FDS·감사용 원천 틱은 영구 보존. DB 12초 강제 중단, 역순 패킷 20% 주입, HdrHistogram 마이크로초 계측으로 검증. 거래소 나노초 타임스탬프를 ScyllaDB USING TIMESTAMP에 맡기는 스토리지 엔진 네이티브 LWW로 역순 틱 정합성 100%
+  * PDF는 설계 원칙(동기 dual-write 금지, 실시간 서빙 경로와 durable/OLAP 경로 물리 분리, feed_seq 기반 idempotency+Gap Detection+Replay)·Kafka/Redpanda 백본·NATS Core 팬아웃·Multi-DC HA·PoC 검증 절차까지 담은 확정본 명세서
 
 ## Real Time Processing, Streaming Library
 * [Apache Heron · A realtime, distributed, fault-tolerant stream processing engine](https://heron.incubator.apache.org/)
