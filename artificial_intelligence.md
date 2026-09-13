@@ -4486,6 +4486,8 @@ Artificial Intelligence
   * 코딩 무경험 디자이너 이키가 Claude로 7일간 900커밋, 문장 채집 앱 "문채" 앱스토어 출시. 3,800줄 단일 파일이 연쇄 버그, 42개 동시 수정으로 검은 화면→Git 롤백 후 최소 `str_replace` 원칙. 카카오/Apple 로그인·동기화·친구·AI 취향 분석·책 표지·Chrome 확장 추가. 비개발자 6 교훈: 무엇을 만들지가 코딩보다 중요/한 번에 많이 바꾸지 않기/AI에게 처음부터 파일 분리 요청/전문가 역할(보안·UX·QA) 반복 부여/테스터 2명이면 충분/약한 아이디어는 빠르게 폐기. 비용 Apple 개발자 12.9만원/년+Claude Max+호스팅
 * [무료 로컬 LLM 모델 TOP5 내 PC에서 공짜로 돌리기 - YouTube](https://www.youtube.com/shorts/4fmdeK2Hf6I)
   * AI INFO MAP. RTX 3060급 GPU나 맥에서 API 비용 없이 돌리는 오픈웨이트 5종을 용도별 1분 정리(2026-06-14 기준)—Qwen3(코딩·한국어 종합), DeepSeek R1(추론·수학), Gemma 4(멀티모달·140개+ 언어), Mistral Small 3(RAG·에이전트), Phi-4 Mini(3.8B 초경량). 전부 Apache 2.0 또는 MIT
+* [How well do agents use test/verification techniques? | Dan Luu](https://danluu.com/agentic-testing/)
+  * 에이전트가 테스트·검증 기법을 얼마나 잘 활용하는지에 대한 Dan Luu의 분석
 * [Agentic testing: where agents fit in the E2E testing stack | Slack Engineering](https://slack.engineering/agentic-testing-where-agents-fit-in-the-e2e-testing-stack/)
   * [에이전틱 테스팅: E2E 테스트 스택에서 에이전트의 자리 | digitalbourgeois](https://digitalbourgeois.tistory.com/3284)
   * [에이전틱 테스팅 - E2E 테스트 스택에서 에이전트의 역할 | GeekNews](https://news.hada.io/topic?id=30744)
@@ -4907,6 +4909,8 @@ Artificial Intelligence
   * [LLM을 활용한 코딩 (2025년 여름) | GeekNews](https://news.hada.io/topic?id=22085)
 * [Linus Torvalds details his 'debug session from hell' pushing an AI to fix an error it repeatedly said was 'impossible and unsolvable'. He then made it write the report | PC Gamer](https://www.pcgamer.com/hardware/linus-torvalds-details-his-debug-session-from-hell-pushing-an-ai-to-fix-an-error-it-repeatedly-said-was-impossible-and-unsolvable-he-then-made-it-write-the-report/)
   * 리누스 토르발스가 AI가 '불가능하고 해결 불가'라고 반복 주장한 오류를 끝까지 밀어붙여 고치게 만든 지옥의 디버그 세션—그리고 그 보고서까지 AI에게 쓰게 한 이야기
+* [AIでBlenderを操作する方法 - CLIとMCPの使い分け | npaka](https://note.com/npaka/n/n7f7531e7b9ed)
+  * Codex·Claude Code에서 Blender를 조작하는 두 방법 비교—Blender CLI(Python 스크립트 생성 후 커맨드라인 일괄 실행)와 Blender MCP(실행 중인 Blender에 접속해 상태를 확인하며 대화형 조작)의 특징과 사용 구분
 * [My AI Code Prep & Cline Workflow for Budget Coding/Debugging (Part 1)](https://wuu73.org/blog/aiguide1.html)
   * [AI를 무료 또는 저렴하게 활용하여 개발하는 방법 | GeekNews](https://news.hada.io/topic?id=22437)
 * [공유용 - 250814 나날이 발전하고픈 개발자를 위한 AI 활용법.pdf - Google Drive](https://drive.google.com/file/d/1h99VB5Ra5nn78ZpcXzvN8HyJbSmcX-Qn/view)
