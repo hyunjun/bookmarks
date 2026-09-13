@@ -1560,6 +1560,8 @@ Artificial Intelligence
   * 하이브리드 시맨틱 검색(벡터+FTS5), 마크다운 청킹, llama.cpp 로컬 임베딩, 오프라인 동기화
 * [TencentDB-Agent-Memory: fully local long-term memory for AI Agents via a 4-tier progressive pipeline](https://github.com/TencentCloud/TencentDB-Agent-Memory)
   * 외부 API 의존 0의 완전 로컬 AI 에이전트 장기 메모리. Mermaid 다이어그램 기반 심볼릭 단기 메모리 + 페르소나·시나리오로 구조화된 장기 메모리 4계층 파이프라인. OpenClaw·Hermes 연동 시 토큰 대폭 절감·태스크 성공률 향상
+* [the-curator: Your brain, then your team's brain, then your agents' brain](https://github.com/talirezun/the-curator)
+  * 문서를 떨어뜨리면 상호 링크된 마크다운 위키로 축적—Obsidian으로 읽고 자신의 프라이빗 GitHub 레포로 동기화, 코호트와 공유하고 코딩 에이전트의 지식 기반으로 활용. JavaScript
 * [Tiger_bot: Agentic Swarm AI Agent with persistent long-term memory, multi-provider LLM support, token management, self-learning, and Telegram bot integration](https://github.com/Sompote/Tiger_bot)
   * 장기 메모리, 다중 LLM 프로바이더, 토큰 관리, 자기학습, Telegram 통합을 갖춘 자율 운영 AI 에이전트 스웜. Linux 24/7 운영 설계
 * [TigrimOS — Self-hosted AI desktop with autonomous agent swarms](https://tigrimos.github.io/)
@@ -1624,6 +1626,8 @@ Artificial Intelligence
   * AI 에이전트용 결제 MCP 서버. 카드 인증 후 이미지 생성·음악 API·프리미엄 데이터셋 등 자율 결제. API 키·사전 충전 불필요, 서버사이드 지출 한도·일회용 토큰으로 보안 확보
 
 # AI Engineering
+* [인프런의 AI Gateway 도입기 | 인프랩 테크](https://tech.inflab.com/20260825-ai-gateway/)
+  * Envoy AI Gateway로 사내 LLM 요청을 중앙화하고, 모델 선택을 low/medium/high 세 등급으로 추상화한 과정
 
 ## Agentic Engineering
 * [바이브 코딩은 지났다, 에이전틱 엔지니어링이 여는 AI 개발의 다음 단계](https://digitalbourgeois.tistory.com/2802)
@@ -1942,6 +1946,11 @@ Artificial Intelligence
 * [harness-editor: A single-page HTML tool for visually editing .claude/agents/*.md and .claude/skills/**/SKILL.md files](https://github.com/amazingsyp/harness-editor)
   * [harness-editor demo](https://amazingsyp.github.io/harness-editor/harness-editor.html)
   * 로컬 only 싱글페이지 HTML. 디렉토리 트리(agents/skills/orchestrators 색상 구분), frontmatter 폼 편집기, 마크다운 스플릿 프리뷰, WYSIWYG 모드, 멀티 파일 검색/일괄 치환(regex), 설명 품질 점수
+* [harness-engineering-playbook: A practical framework to ship quality software with AI agents in team environments](https://github.com/lipingtababa/harness-engineering-playbook/)
+  * [AI 에이전트 하네스 엔지니어링 6계층 가이드 — AGENTS.md 템플릿부터 프로덕션 체크리스트까지 | AX LABS 블로그](https://theaxlabs.com/blog/harness-engineering-6-layer-guide)
+  * [구글에서 하네스 논문을 공개됐습니다. 이 글 꼭 저장하세요 | seungpil](https://www.linkedin.com/posts/seungpil_%EA%B5%AC%EA%B8%80%EC%97%90%EC%84%9C-%ED%95%98%EB%84%A4%EC%8A%A4-%EB%85%BC%EB%AC%B8%EC%9D%84-%EA%B3%B5%EA%B0%9C%EB%90%90%EC%8A%B5%EB%8B%88%EB%8B%A4-%EC%9D%B4-%EA%B8%80-%EA%BC%AD-%EC%A0%80%EC%9E%A5%ED%95%98%EC%84%B8%EC%9A%94-%ED%95%98%EB%84%A4%EC%8A%A4%EB%A5%BC-share-7499998958673506305-x3_c/)
+  * 팀 환경에서 AI 에이전트로 품질 좋은 소프트웨어를 출시하는 6계층 하네스 프레임워크—①가이드(AGENTS.md·룰 파일: 과거 실패를 영구 수정으로), ②센서(린터·테스트·검증), ③에이전틱 루프(계획→실행→검증→수정, 재시도·예산·에스컬레이션), ④외부 기억(컨텍스트 윈도우는 작업 공간이지 DB가 아님), ⑤권한(안전은 모델이 아닌 런타임이 강제), ⑥관측(토큰 수가 아닌 실패 궤적 추적)
+  * 핵심은 '래칫'—실패→누락 통제 발견→하네스 개선→검증→더 높아진 기준선. AX LABS 가이드는 7일 구축 로드맵·12항목 프로덕션 체크리스트·가이드 프롬프트 4종 제공
 * [harness-eval](https://github.com/whchoi98/harness-eval)
 * [harness-lab · GitHub](https://github.com/jikime/harness-lab)
   * [바이브코딩 | Facebook](https://www.facebook.com/groups/1183007433518603?multi_permalinks=1465348065284537&hoisted_section_header_type=recently_seen)
@@ -4057,6 +4066,9 @@ Artificial Intelligence
 * [Large reasoning models are autonomous jailbreak agents](https://www.nature.com/articles/s41467-026-69010-1)
 * [Vibe Quant Insight 고스트 인 더 쉘 - 인간의 얼굴을 하지 않은 전쟁 | Dennis Kim](https://www.linkedin.com/pulse/vibe-quant-insight-고스트-인-더-쉘-인간의-얼굴을-하지-않은-전쟁-dennis-kim-p3vhc)
   * 攻殻機動隊를 렌즈로 AI 통제 실패를 다룬 칼럼. 보상 해킹(reward hacking)과 스키밍(scheming)의 차이, deliberative alignment의 한계를 짚고, 2026년 7월 일련의 AI 에이전트 사건들이 모두 Irregular 스타트업의 네트워크 오설정이라는 한 지점으로 수렴했음을 분석
+* [Measuring AI capabilities in intelligence targeting and conventional weapons | Anthropic](https://www.anthropic.com/research/intelligence-targeting-conventional-weapons-capabilities)
+  * Anthropic Frontier Red Team의 전술 정보 분석·재래식 무기 개발 역량 평가. ①공개 사진·글만으로 위치·신원을 알아내는 정보 분석—사진 위치추정 중위 오차 37km로 상위 인간 플레이어(151km)를 앞섰고 소셜 사용자 8%를 1km 내로 특정 ②시뮬레이터에서 드론 유도·투하·항법 코드를 직접 작성하는 무기 엔지니어링—정지 표적은 Opus 5가 80% 명중했지만 위장·이동 표적에서는 무너짐
+  * 주목할 부분: Opus 5·Mythos Preview·Mythos 5·Sonnet 5가 모두 effort high로 유도 스택 구현을 시도했는데 Sonnet 5는 제대로 구현하지 못하는 경우가 많았음—비용 절감을 위해 저렴한 모델의 effort를 높여도 문제를 해결하지 못할 수 있다는 예시
 * [🌁FOD#162: OpenAI의 에이전트들, 정말 '재귀적 자기개선(RSI)'을 시작한 걸까요? | Turing Post Korea](https://turingpost.co.kr/p/fod-162-openai-rsi)
   * 2026년 7월 ExploitGym 사건 분석—에이전트들이 JFrog Artifactory 제로데이를 익스플로잇하고 공유 스토리지를 블랙보드(blackboard) 아키텍처처럼 활용해 협업. RSI가 시작됐다는 우려에 대해 "아직은 아니다"로 결론(축적은 가중치가 아니라 외부 저장소에서 일어났음)
 * [How We Hacked McKinsey's AI Platform | CodeWall](https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform)
@@ -4175,6 +4187,9 @@ Artificial Intelligence
 * [Vigolium - Find the security bugs code review and traditional scanners miss](https://www.vigolium.com/)
   * [vigolium: AI-powered security audit, not just a PR review](https://github.com/vigolium/vigolium)
   * 시니어 펜테스터처럼 동작하는 에이전틱 AI 보안 감사 플랫폼. PR diff가 아닌 전체 코드베이스+라이브 앱 분석, 발견에 따른 동적 공격 계획. 검증된 증거(평문 설명·재현 가능 HTTP 요청·수정 제안). AI 트리아지로 false positive 사전 필터. 2 모드: Native Scan(CI/CD용 결정론적, 130+ 액티브·85+ 패시브 모듈) / Agentic Scan(딥 AI 감사, 로직 결함). XSS·SQLi·SSTI·IDOR·CSRF·인증 우회·SSRF·race condition·프레임워크/클라우드 오설정 커버. 셀프호스트 오픈소스 무료, 온디맨드 $29/100K LoC, Starter $299, Enterprise
+* [vulnerability-harness: Specialized LLM agents that confirm real vulnerabilities by executing a PoC in a Docker sandbox](https://github.com/kwanjung/vulnerability-harness)
+  * [Vulnerability Harness Finds Flaws in Django, LangChain, authentik, and More | KwangWoo Lee](https://www.linkedin.com/posts/kwangwoo-lee-654340140_vulnerability-harness-llm-agents-that-prove-activity-7496233519187279872-Qpsb)
+  * 파일별로 취약점 클래스에 특화된 에이전트들이 독립 실행되어 PoC를 작성하고 격리 샌드박스에서 실행, 별도 리뷰어가 모든 PoC를 재실행해 재현 안 되는 것은 탈락—플래그십 모델 없이 실제 취약점만 증명. Django 8.8·LangChain 8.2·authentik 9.4 등 발견. 원본 레포(ksgsslee/vulnerability-harness)는 비공개 전환, 이 URL은 원작자 커밋이 담긴 공개 사본
 * [watermarks-remover: Multi-vendor AI provenance-mark removal — Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata](https://github.com/guillaumemeyer/watermarks-remover)
   * 소유한 콘텐츠의 AI 출처표시(워터마크) 제거 도구. 에이전트 스킬(코드 없는 HTTP 클라이언트)+Python 서비스 3계층—Layer A: 비가시 Unicode 캐리어(zero-width·bidi·tag char) 결정론적 제거, Layer B: 통계적/토큰 샘플링 워터마크 모델 기반 재작성(best-effort), 파일 클리너: C2PA·EXIF·XMP·문서 속성 제거(PNG·JPEG·PDF·DOCX·SVG·HTML·MD·오디오/비디오). `/inspect`·`/detect`·`/clean` HTTP 엔드포인트+OpenAPI 3.0.3, 벤더 API 미호출 원칙. Python 3.10+ stdlib 전용(선택적 c2patool·exiftool·qpdf, ML 백엔드 torch/transformers/diffusers). MIT
 * [Xalgorix — Self-Hosted AI Security Testing Platform](https://www.xalgorix.com/)
@@ -4331,6 +4346,9 @@ Artificial Intelligence
 * [2603.21439 LLM-Powered Workflow Optimization for Multidisciplinary Software Development](https://arxiv.org/abs/2603.21439)
   * [AGI KR](https://www.facebook.com/groups/255834461424286?multi_permalinks=2911883062486066)
   * Volvo Group 사례: 그래프 기반 워크플로우 최적화로 API당 개발 시간 5시간→7분, 총 979시간 절감. F1 93.7%. FSE 2026 Industrial Track 채택
+* [AI-SDLC — The Autonomous AI-SDLC Framework](https://ai-sdlc.io/)
+  * [ai-sdlc: Declarative governance framework for AI-augmented software development lifecycles](https://github.com/ai-sdlc-framework/ai-sdlc)
+  * AI 코딩 에이전트를 엔드투엔드로 오케스트레이션하는 오픈소스 자율 SDLC 프레임워크—자율 디스패치, 크로스 하네스 리뷰, 결정 엔진, 오퍼레이터 TUI, 선언적 거버넌스. TypeScript, 322 stars
 * [Almanac — The context layer for engineering teams](https://www.codealmanac.com/)
   * [codealmanac: A codebase wiki for AI coding agents. Captures what the code can't say: decisions, flows, invariants, gotchas](https://github.com/AlmanacCode/codealmanac/)
   * [AI 코딩 에이전트가 코드만 읽어서는 부족한 이유, CodeAlmanac으로 관리하는 코드베이스 지식 | digitalbourgeois](https://digitalbourgeois.tistory.com/3474)
@@ -5513,6 +5531,10 @@ Artificial Intelligence
     * [Claude Code 및 Codex 설정 변경으로 토큰을 절약하는 방법 | GeekNews](https://news.hada.io/topic?id=28697)
     * Opus 4.7 토큰 증가 대응. 캐싱 TTL 5분→1시간 설정, 모델 선택 튜닝으로 효율 개선
   * [GitHub Projects That Reduce Token Usage in Claude Code by 60-90% lucas_flatwhite on X (tweet 2046170220767670675)](https://x.com/lucas_flatwhite/status/2046170220767670675)
+  * [Portal by Spotify cut my Claude Code token usage by 90% | Spotify Engineering](https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90)
+    * AI 코딩 에이전트 작업 대부분은 사고가 아니라 I/O라는 관찰—Spotify 내부 플랫폼 Portal로 I/O를 처리해 Claude Code 토큰 사용량 90% 절감
+  * [Claude Code 토큰 비용 최적화하기 – 1부: 비용 구조와 세션 습관 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/claude-code-token-economy-01/)
+    * [Claude Code 토큰 비용 최적화하기 – 2부: 캐시 경제학과 Amazon Bedrock 조직 비용 관리 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/claude-code-token-economy-02/)
   * [Using Claude Code: Session Management & 1M Context trq212 on X (tweet 2044548257058328723)](https://x.com/trq212/status/2044548257058328723)
   * [Claude Code를 무료로 Ollama로 로컬 AI 코딩 도구 완벽 가이드](https://fornewchallenge.tistory.com/entry/%F0%9F%86%93-Claude-Code%EB%A5%BC-%EB%AC%B4%EB%A3%8C%EB%A1%9C-Ollama%EB%A1%9C-%EB%A1%9C%EC%BB%AC-AI-%EC%BD%94%EB%94%A9-%EB%8F%84%EA%B5%AC-%EC%99%84%EB%B2%BD-%EA%B0%80%EC%9D%B4%EB%93%9C)
   * [내 맥북에 로컬 LLM 설치해서 ClaudeCode 돌리면 쓸만할까? (Feat. 300만원짜리 맥북, vllm) | 성수 김](https://www.linkedin.com/pulse/%EB%82%B4-%EB%A7%A5%EB%B6%81%EC%97%90-%EB%A1%9C%EC%BB%AC-llm-%EC%84%A4%EC%B9%98%ED%95%B4%EC%84%9C-claudecode-%EB%8F%8C%EB%A6%AC%EB%A9%B4-%EC%93%B8%EB%A7%8C%ED%95%A0%EA%B9%8C-feat-300%EB%A7%8C%EC%9B%90%EC%A7%9C%EB%A6%AC-%EB%A7%A5%EB%B6%81-%EC%84%B1%EC%88%98-%EA%B9%80-wvimc)
@@ -6945,6 +6967,10 @@ Artificial Intelligence
   * [Prime Agent, 지속형 IPython 커널과 서브 에이전트로 바꾸는 AI 코딩 에이전트의 실행 방식 | digitalbourgeois](https://digitalbourgeois.tistory.com/3492)
   * 고정된 도구 스키마 대신 하나의 영구 Python REPL을 쓰고 서브 에이전트를 지속적인 IPython 커널 내의 함수 호출로 실행. RLM(Recursive Language Model)—컨텍스트를 변수처럼 다루고 서브 에이전트를 함수 호출처럼 실행, Continual Harness—프롬프트·서브에이전트·스킬·메모리를 에이전트가 직접 관리·수정
   * Opus 5 사용 시 ARC-AGI-3에서 95.5%로 인간 전문가(95.4%) 초과. 단 워커와 커널 프로세스는 보안 샌드박스가 아님
+* [Proliferate | Run a team of coding agents](https://proliferate.com/)
+  * [proliferate: The open-source AI IDE for Claude Code, Codex, OpenCode, and more. Run agents in parallel, locally or in the cloud, and build reusable workflows](https://github.com/proliferate-ai/proliferate)
+  * [Proliferate - 여러 코딩 에이전트를 병렬로 실행하는 오픈소스 AI IDE | GeekNews](https://news.hada.io/topic?id=33463)
+  * Claude Code·Codex·Gemini·오픈 모델을 로컬/클라우드에서 병렬 실행하고 재사용 가능한 워크플로를 만드는 오픈소스 에이전트 워크스페이스. TypeScript, 489 stars
 * [Prompt-Enhancer](https://github.com/xavierchoi/Prompt-Enhancer)
 * [quarkify: Local-first static analysis engine & source code topology map builder](https://github.com/companyjupiter/quarkify)
   * "모든 것은 폴더다" 철학의 설정 기반 정적 분석 엔진. 복잡한 소스코드를 파싱해 구조를 물리적 디렉토리 트리로 materialize—AI 코딩 에이전트(LLM)가 파일을 열지 않고도 대규모 코드베이스를 로컬에서 탐색·분석할 수 있는 AI-Ready Code Map 생성. JavaScript, Apache-2.0
@@ -6995,6 +7021,8 @@ Artificial Intelligence
 * [Swark: AI-Powered Software Architect](https://www.swark.io/)
   * [swark: Create architecture diagrams from code automatically using large language models (LLMs)](https://github.com/swark-io/swark)
 * [system-prompts-and-models-of-ai-tools: Collection of system prompts, internal tools, and AI model configurations of Augment Code, Claude Code, Cursor, Devin AI, Lovable, Manus, Windsurf, and more](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
+* [t3code: T3 Code is a minimal web GUI for coding agents (currently Codex and Claude)](https://github.com/hrishikeshmane/t3code)
+  * `npx t3`로 실행하는 코딩 에이전트용 미니멀 웹 GUI(데스크톱 앱 제공). Codex CLI·Claude Code 지원. TypeScript
 * [Tabby - Opensource, self-hosted AI coding assistant](https://www.tabbyml.com/)
   * [TabbyML: 완전한 온프레미스 AI 코드 어시스턴트](https://devocean.sk.com/blog/techBoardDetail.do?ID=167941)
   * [TabbyML: 완전한 온프레미스 AI 코드 어시스턴트 | SeongReol Park](https://www.linkedin.com/posts/seongreol-park-6bb2ba22b_tabbyml-%EC%99%84%EC%A0%84%ED%95%9C-%EC%98%A8%ED%94%84%EB%A0%88%EB%AF%B8%EC%8A%A4-ai-%EC%BD%94%EB%93%9C-%EC%96%B4%EC%8B%9C%EC%8A%A4%ED%84%B4%ED%8A%B8-activity-7383844756092538880-ds5M)
@@ -7128,6 +7156,8 @@ Artificial Intelligence
   * [Moving Towards Spec-Driven Development | Real Python Podcast #277 - YouTube](https://www.youtube.com/watch?v=-liy2as6zQI)
     * [SDD Spec Driven Development](https://notebooklm.google.com/notebook/eca0c6b4-f656-42c7-b1a4-e5b3a350c98e)
   * [Kiro IDE Remote - AWS Generative AI Solution Box](https://aws-samples.github.io/sample-one-click-generative-ai-solutions/en/solutions/kiro-ide/)
+  * [Kiro-SDLC-Scrum-best-practics: Ready-to-use Kiro IDE configurations for enterprise SDLC](https://github.com/timwukp/Kiro-SDLC-Scrum-best-practics/)
+    * 엔터프라이즈 SDLC용 Kiro IDE 구성 모음—Phase-Based(14롤·5단계)와 Sprint-Based DevSecOps(Scrum+시큐리티 시프트레프트). Steering·Hooks·Skills·Subagents·MCP/Powers
   * [kiro-cli-workshop-pdf: AWS Kiro CLI 워크샵 18챕터 180슬라이드 PDF](https://github.com/whchoi98/kiro-cli-workshop-pdf)
     * AWS의 agentic AI 개발 도구 Kiro CLI를 다루는 종합 워크샵. 한국어/영어 PDF, 챕터당 30-45분. Foundations(CH01-06: 소개·설치·인증·모델·채팅·세션) → Core(CH07-11: 컨텍스트·터미널 UI·권한·steering·커스텀 에이전트) → Advanced(CH12-17: 서브에이전트·스킬·MCP·훅·헤드리스·자동완성) → Reference(CH18: 명령 레퍼런스). 50명 이하 기술 세미나용, 입문→고급. CC BY 4.0
   * [Kiro Crew — The persistent, open source development workspace](https://kiro.dev/crew/)
@@ -7135,6 +7165,8 @@ Artificial Intelligence
       * PR 리뷰·이슈 분류·코드 조사 등 반복 개발 업무를 자동화하는 24시간 자율 에이전트 팀원. UI·게이트웨이·에이전트 백엔드 3계층 구조로 대시보드·CLI·Slack 등 여러 채널에서 접근. AWS EC2에 원격 배포해 Issue Radar·Code Review Sage 앱으로 GitHub 저장소 자동 분류·조사·리뷰를 팀에 온보딩
     * [KiroCrew: A persistent workspace for development work that self-improves and continues beyond one session](https://github.com/kirodotdev/KiroCrew)
     * 세션이 끝나도 이어지는 영속 개발 워크스페이스. 컨텍스트를 기억하고 사용자의 작업 방식을 학습하며 각자 다른 도구·워크플로를 조율—돌아왔을 때 워크플로를 다시 세팅하는 대신 진행 상태를 이어받게 함. 자기개선형. Python, Apache-2.0
+  * [kiro-dashboard](https://github.com/whchoi98/kiro-dashboard)
+    * Kiro IDE용 대시보드. TypeScript
   * [kiro-with-harness: Kiro에 Harness 엔지니어링 적용하기](https://github.com/TeiNam/kiro-with-harness)
     * [GitHub - TeiNam/kiro-with-harness | Tei Nam](https://www.linkedin.com/posts/rastalion_claudeopus-aiengineering-developertools-share-7468699391575552000-8wgw/)
     * Kiro IDE용 하네스 엔지니어링. CLI/IDE 2-tier 인스톨러+워크로드 선택(언어·AI·클라우드·DB 등 29종)으로 steering rules·hooks·agents·skills(130개 패키지)·MCP 설정을 Kiro 워크스페이스에 배포. 역할 기반 모델 라우팅(추론=Opus 4.8, 비용 민감=Haiku 4.5), DAG 병렬 위임, 코드 리뷰·체인지로그 자동화 이벤트 훅. Everything Claude Code(ECC) 패턴을 Kiro 네이티브 포맷으로 적용
