@@ -1293,6 +1293,11 @@ Apache
 * [Kyuubi Project Incubation Status - Apache Incubator](https://incubator.apache.org/projects/kyuubi.html)
   * distributed multi-tenant Thrift JDBC/ODBC server for large-scale data management, processing, and analytics, built on top of Apache Spark and designed to support more engines (i.e., Apache Flink)
 
+# Maka
+* [maka: Apache Maka (Incubating) is a high-performance agent workspace that keeps a complete record of everything it did](https://github.com/apache/maka)
+  * [Apache Maka - 에이전트가 한 일을 기록으로 남기는 로컬 우선 워크스페이스 | GeekNews](https://news.hada.io/topic?id=33336)
+  * 에이전트가 수행한 모든 작업의 완전한 기록을 남기는 고성능 로컬 우선 에이전트 워크스페이스(Incubating). TypeScript, 5.2k stars
+
 # Mesos
 * [Mesos](http://mesos.apache.org/)
 * [Advanced Mesos Course](http://open.mesosphere.com/intro-course/)
