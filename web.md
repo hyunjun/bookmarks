@@ -341,6 +341,8 @@ Web
 * [글로벌 SaaS 만드시려면, ‘제발’ 영어 콘텐츠랑 SEO 하셔야 합니다 - Kimchi hill](https://kimchihill.com/2022/09/17/please-kr-do-seo-for-going-global/)
 * [SEO 개선 초심자 가이드 | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2022/221208-basic-seo-guide/)
 * [(번역)성공적인 SEO 실행하기](https://brunch.co.kr/@edte1020/100)
+* [글로벌 서비스를 위해 여러 언어로 번역만 하면 해외에서 검색 유입이 잘 될까요? | Hansol Lee](https://www.linkedin.com/posts/hansol-lee-a69b0529_%EA%B8%80%EB%A1%9C%EB%B2%8C-%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC-%EC%9C%84%ED%95%B4-%EC%97%AC%EB%9F%AC-%EC%96%B8%EC%96%B4%EB%A1%9C-%EB%B2%88%EC%97%AD%EB%A7%8C-%ED%95%98%EB%A9%B4-%ED%95%B4%EC%99%B8%EC%97%90%EC%84%9C-%EA%B2%80%EC%83%89-%EC%9C%A0%EC%9E%85%EC%9D%B4-%EC%9E%98-%EB%90%A0%EA%B9%8C%EC%9A%94-share-7503664620994236416-bQNZ/)
+  * Smooth AI 랜딩페이지를 11개 언어로 확장하며 직접 검증한 다국어 테크니컬 SEO 5가지—각 언어 페이지가 서로의 번역본임을 알리는 hreflang 등, 번역만으로는 구글이 알아서 이해해주지 않는 것들
 * [기술 블로그를 위한 SEO - 재그지그의 개발 블로그](https://wormwlrm.github.io/2023/05/07/SEO-for-Technical-Blog.html)
 * [제목 스타일 단계는 문서 구조의 기둥과 보 - 넷마블 기술 블로그](https://netmarble.engineering/heading-style-guide-for-strong-document) SEO 이야기 약간
 * [당장 그만두어야 하는 구식 SEO 전략 7가지 | ㅍㅍㅅㅅ](https://ppss.kr/archives/267469)
