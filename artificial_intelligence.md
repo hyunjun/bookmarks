@@ -2573,6 +2573,7 @@ Artificial Intelligence
   * [전종홍 - 타임지의 표지 모델로 등장한 인도의 인공지능 스타트업 Karya AI. 그 선정 배경을 보니 어쩌면... | Facebook](https://www.facebook.com/1biit/posts/pfbid032VgpmasVcq9WNMKNTC3Q5Atn5NdhVrhS5Mib1BymYJCQZgHxjj4hahQqmLDbM1xil)
 * [KICE_slayer_AI_Korean: 수능 국어 1등급에 도전하는 AI](https://github.com/NomaDamas/KICE_slayer_AI_Korean)
 * [kvcached: Virtualized elastic KV cache library for GPU sharing in LLM serving](https://github.com/ovg-project/kvcached)
+  * [kvcached로 구현하는 유연한 GPU 공유와 LLM KV Cache 메모리 관리 | digitalbourgeois](https://digitalbourgeois.tistory.com/3645)
   * GPU 가상 주소와 물리 메모리 할당 분리, 수요 기반 탄력적 KV 캐시로 동적 워크로드 활용률 개선. SGLang/vLLM 통합, 멀티 모델 서빙·서버리스·공유 GPU
 * [kyutai: open science AI lab](http://kyutai.org/)
   * [3억 3천만 달러 예산을 가진 'Kyutai AI' 연구소, 모든 것을 오픈 소스로 공개 | GeekNews](https://news.hada.io/topic?id=11943)
@@ -3966,6 +3967,11 @@ Artificial Intelligence
 * [2602.08234 SkillRL: Evolving Agents via Recursive Skill-Augmented Reinforcement Learning](https://arxiv.org/abs/2602.08234)
   * [SkillRL: Evolving Agents via Recursive Skill-Augmented Reinforcement Learning](https://github.com/aiming-lab/SkillRL)
   * [최적의 데이터를 선별하여 LLM pre-training 효율을 극대화하는 OPUS | 0211 모두에게 전하는 모두연 AI뉴스 | Facebook](https://www.facebook.com/groups/agikr/posts/2870190993321940)
+* [2602.14080 Empty Shelves or Lost Keys? Recall Is the Bottleneck for Parametric Factuality](https://arxiv.org/abs/2602.14080)
+  * [2603.09906 Thinking to Recall: How Reasoning Unlocks Parametric Knowledge in LLMs](https://arxiv.org/abs/2603.09906)
+  * [프론티어 모델들은 이미 95% 이상의 지식을 저장(인코딩)해 두었지만, 정보를 인출하는데 문제를 겪고 있다 | Kiwoong Yeom](https://www.linkedin.com/posts/kiwoong-yeom_%ED%94%84%EB%A1%A0%ED%8B%B0%EC%96%B4-%EB%AA%A8%EB%8D%B8%EB%93%A4%EC%9D%80-%EC%9D%B4%EB%AF%B8-95-%EC%9D%B4%EC%83%81%EC%9D%98-%EC%A7%80%EC%8B%9D%EC%9D%84-%EC%A0%80%EC%9E%A5%EC%9D%B8%EC%BD%94%EB%94%A9%ED%95%B4-%EB%91%90%EC%97%88%EC%A7%80%EB%A7%8C-%EC%A0%95%EB%B3%B4%EB%A5%BC-share-7504200363659415552--ZQj/)
+  * Google Research ICML 2026. 13개 LLM·2,150개 사실·400만+ 응답 분석—사전학습 원문 맥락을 주면 Gemini-3-Pro 98.1%·GPT-5 95.3%가 지식을 정확히 출력(저장은 포화 상태)하지만, 맥락 없이 일반 질문으로 물으면 인출률이 72.2%·61.6%로 급락. 병목은 저장(empty shelves)이 아니라 인출(lost keys)
+  * 롱테일 지식은 저장률 격차가 `3~7%p`뿐인데 인출 격차는 `20~25%p`, 역전의 저주(A는 B다를 학습해도 B는 A로 못 꺼냄) 등 학습 조건과 질문 조건의 불일치가 원인. 후속 논문(Thinking to Recall)은 추론(reasoning)이 파라메트릭 지식 인출을 여는 열쇠임을 다룸
 * [2603.29791 Reasoning-Driven Synthetic Data Generation and Evaluation (Simula)](https://arxiv.org/abs/2603.29791)
   * [구글, 학습 데이터 스스로 설계하는 AI 프레임워크 'Simula' 공개..."단순 모방의 시대는 끝" - AI타임스](https://www.aitimes.com/news/articleView.html?idxno=209779)
   * 구글·EPFL. 합성 데이터를 "첫 원리"(물리·경제 규칙 등)로 설계하는 프레임워크. 4단계 프로세스(전역 다양화→지역 다양화→복잡화→품질 검증), 510,000+ 엔트리 생성, 보안·온디바이스·스팸 모델 실사용. TMLR 2026
@@ -4928,6 +4934,8 @@ Artificial Intelligence
   * [2026 AI Co-Scientist Challenge Korea (AI 연구동료 경진대회)](https://aifactory.space/task/9237/discussion/4605)
 * [끝난 줄 알았던 AI 코딩 도구 경쟁, 1인 개발자가 뒤집었습니다 AI 코딩 도구 시장은 어느정도 결판이 난 게임처럼 보였습니다. Anthropic은 수십억 달러를 투자받아 Claude Code를 출시했습니다. OpenAI에서도 Codex를 내놓았습니다. Cursor는 수억 달러를 유치했습니다. 자본, 인력, 데이터. 개인이 이길 방법이 없어… | Kyunghun Lee](https://www.linkedin.com/posts/leekh929_%EB%81%9D%EB%82%9C-%EC%A4%84-%EC%95%8C%EC%95%98%EB%8D%98-ai-%EC%BD%94%EB%94%A9-%EB%8F%84%EA%B5%AC-%EA%B2%BD%EC%9F%81-1%EC%9D%B8-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%92%A4%EC%A7%91%EC%97%88%EC%8A%B5%EB%8B%88%EB%8B%A4-ai-activity-7414417993180303360--BM0)
 * [기업/헤비유저 관점에서 본 최고의 프로덕션레벨 가성비 바이브 코딩 도구 (2026년 1월 기준) :: ROBOCO](https://roboco.io/posts/best-production-vibe-coding-tool-jan2026/)
+* [바이브 코딩 시대의 문서 관리: 무엇을 남기고, 어떻게 읽게 할 것인가 :: ROBOCO](https://roboco.io/posts/vibe-coding-documentation)
+  * 정도현(로보코). 문서의 목적은 커뮤니케이션이고 바이브 코딩은 그 대화 참여자(사람↔AI, AI↔AI)를 늘린다는 관점. 계속 갱신할 기준 문서와 역할이 끝나면 버릴 일회성 문서를 구분하고, 짧은 마크다운으로 나눠 폴더별 인덱스·규칙·스킬로 연결. 빠르게 확인할 내용은 열거형, 깊이 검토할 내용은 서술형으로
 * [바이브코딩: 프롬프팅을 넘어 파이프라인으로 - 커서맛피아(최수민) | 모두콘 2025 - YouTube](https://www.youtube.com/watch?v=238848ZqvsE)
   * [개발자가 바이브코딩하는 법 | SU MIN CHOI](https://www.linkedin.com/posts/su-min-choi-265a961b2_feat-interactive-run-mode-p-first-class-share-7441111062780968960-PdiG/)
   * [cc-company task-create.md](https://github.com/greatSumini/cc-company/blob/main/prompts/task-create.md)
