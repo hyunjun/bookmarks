@@ -88,6 +88,8 @@ AWS
 * [쏘카의 관제 장치(Telematics Device)가 하는 일 - SOCAR Tech Blog](https://tech.socarcorp.kr/mobility/2022/02/15/control-device-with-car-sharing.html)
 * [Netflix Billing Migration to AWS – Part II](http://techblog.netflix.com/2016/07/netflix-billing-migration-to-aws-part-ii.html)
   * 어떻게 자연스럽게 자체 IDC에서 AWS 환경으로 이전했는지에 대한 글
+* [Why Netflix Took 7 Years To Migrate To AWS | Egor Kabantsov](https://egorkabantsov.vercel.app/blog/why-netflix-took-7-years-to-migrate-to-aws)
+  * Netflix의 AWS 이전은 단순 lift-and-shift가 아니라 소프트웨어의 설계·배포·확장·복구 방식 전체를 다시 만든 7년짜리 재구축이었다는 회고 분석
 * [AWS Migration Hub를 활용한 클라우드 이전 전략 수립하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/first-step-to-migrate-to-the-cloud/)
 * [초보 서버 개발자의 AWS 회고](https://speakerdeck.com/mingrammer/cobo-seobeo-gaebaljayi-aws-hoego)
 * [Amazon Web Services Korea’s slideshows on SlideShare](https://www.slideshare.net/awskorea/tag/awscloud2017)
@@ -165,7 +167,6 @@ AWS
 * [Workshop for implementing/migrating Java web application on AWS with microservce, CICD and DevSecsOps](https://github.com/aws-asean-builders/aws-java-spring-dev-workshop)
 * [How to Deploy a Spring Cloud Function on AWS Lambda – My Developer Planet](https://mydeveloperplanet.com/2020/11/04/how-to-deploy-a-spring-cloud-function-on-aws-lambda/)
 * [서울시 자전거 따릉이를 위한 제대로된 웹사이트](https://github.com/breath103/seoul-bike)
-* [Amazon Neptune, 신규 그래프 데이터베이스 서비스 활용 - 김상필 솔루션즈 아키텍트(AWS), 강정희 솔루션즈 아키텍트(AWS)](https://www.youtube.com/watch?v=akVdjlO4rMc)
 * [How to train custom Word Embeddings using GPU on AWS](https://towardsdatascience.com/how-to-train-custom-word-embeddings-using-gpu-on-aws-f62727a1e3f6)
 * [해외 오피스를 위한 Amazon Workspaces와 Amazon Workdocs 구축 경험기](https://docs.google.com/presentation/d/13LNYqyPzYSDpf3AXRTSOAtXHqjTzuC8Cn8l74GtnuqY/edit#slide=id.p1)
 * [Rancher 기본 입문](https://www.slideshare.net/HyunminKim5/awskrug-rancher)
@@ -687,8 +688,6 @@ AWS
   * 아키텍처 구성도(서버리스·VPC 네트워크·멀티 계정/멀티 리전·하이브리드 Direct Connect/VPN)부터 플로차트·시퀀스·상태 머신·ER·타임라인·스윔레인·간트·조직도·레이어 스택·데이터 플로 등 총 27개 시각 타입 지원. 기존 draw.io(.drawio)·Mermaid(.mmd) 파일을 내용은 유지한 채 지정한 크기·상세도(문서용/슬라이드용/요약본)로 재작도
 * [oh-my-cloud-skills: AWS 콘텐츠 제작·인프라 운영을 위한 Claude Code 플러그인 6종 모음](https://github.com/Atom-oh/oh-my-cloud-skills)
   * HTML 프레젠테이션·PPTX·Draw.io 아키텍처 다이어그램·SVG 트래픽 플로우·GitBook·Workshop Studio 콘텐츠 생성, EKS/네트워크/IAM 트러블슈팅, Well-Architected 6필러 100점 리뷰, Kiro/Codex/Gemini 변환·멀티 AI 협업. AWS MCP 서버(지식·문서·API·가격·IaC) 연동. MIT
-* [sample-semantic-lakehouse: Customer 360 analytics with semantic layer on AWS](https://github.com/aws-samples/sample-semantic-lakehouse)
-  * S3 Tables(Iceberg)+Glue Catalog+Neptune 온톨로지 그래프+Bedrock AgentCore 기반 시맨틱 레이크하우스. 자연어→SQL 변환, 시맨틱 그래프 쿼리, Lake Formation ABAC 보안, CloudFormation 원클릭 배포
 
 # Athena
 * [AWS Athena와 Google BigQuery 간단 비교기](https://docs.google.com/document/d/15SYAJ-B3__1zgNraieDiOAdz3tDK_40O55BKmUrQCt0/edit)
@@ -806,6 +805,7 @@ AWS
 * [Agentic AI 기반 플랫폼 — 7주만에 기획부터 배포까지, Part1 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/agentic-ai-foundation-platform-part1/)
   * [Agentic AI 기반 플랫폼 7주만에 기획부터 배포까지 Part1 | Hyunmin Kim](https://www.linkedin.com/posts/hyunmin-kim-1356a260_agentic-ai-%EA%B8%B0%EB%B0%98-%ED%94%8C%EB%9E%AB%ED%8F%BC-7%EC%A3%BC%EB%A7%8C%EC%97%90-%EA%B8%B0%ED%9A%8D%EB%B6%80%ED%84%B0-%EB%B0%B0%ED%8F%AC%EA%B9%8C%EC%A7%80-part1-activity-7426801579581956096-fbqg)
   * AI-DLC 방법론으로 MCP Registry, Knowledge Base 파이프라인, Agent Management, Playground 포함 플랫폼을 7주 만에 구축. 12일 CRUD 작업을 30분~1시간으로 단축
+* [AI-DLC 를 팀 프로젝트에 적용하기: Subagent 와 Custom Skill 로 확장한 Armiq 사례 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/aidlc-armiq-subagent-customskills/)
 * [Amazon Bedrock과 함께 Claude Code 사용하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/bedrock-with-claude-code/)
   * [Claude Code on Amazon Bedrock Workshop](https://catalog.workshops.aws/claude-code-on-amazon-bedrock)
 * [Claude Apps Gateway on AWS 자세히 알아보기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/claude-apps-gateway-with-aws/)
