@@ -3931,6 +3931,10 @@ NLP
     * [MiniMax M2.5 출시 - 실제 업무 생산성을 위해 설계된 모델 | GeekNews](https://news.hada.io/topic?id=26658)
   * [MiniMax M2.7](https://www.minimax.io/news/minimax-m27-en)
     * [MiniMax M2.7: 자기 진화를 시작한 차세대 에이전트 AI 모델의 기술적 의미와 활용 가능성](https://digitalbourgeois.tistory.com/2897)
+* [MiniMind Project](https://jingyaogong.github.io/minimind/)
+  * [minimind: 🧠 Train a 64M-parameter LLM from scratch in just 2h!](https://github.com/jingyaogong/minimind)
+  * [GitHub - minimind | Hayejin](https://www.linkedin.com/posts/h4y3j1n_github-minimind-minimind-share-7502614647020204032-4Gbb/)
+  * 2시간 만에 64M 파라미터 LLM을 밑바닥부터 학습하는 초경량 학습 프로젝트—토크나이저·pretrain·SFT·LoRA·DPO·distillation까지 전 과정 코드 제공. Python, 60.9k stars
 * [mini-omni: open-source multimodal large language model that can hear, talk while thinking. Featuring real-time end-to-end speech input and streaming audio output conversational capabilities](https://github.com/gpt-omni/mini-omni/)
   * [2408.16725 Mini-Omni: Language Models Can Hear, Talk While Thinking in Streaming](https://arxiv.org/abs/2408.16725)
 * Mistral [Frontier AI LLMs, assistants, agents, services | Mistral AI](https://mistral.ai/)
@@ -4271,6 +4275,8 @@ NLP
     * [nanoRLHF 프로젝트에서 가장 어려웠던 nanovllm 개발 종료](https://www.facebook.com/story.php?story_fbid=3811983599094612&id=100008490288977)
     * [nanoRLHF/examples/nanovllm.py at main · hyunwoongko/nanoRLHF](https://github.com/hyunwoongko/nanoRLHF/blob/main/examples/nanovllm.py)
     * [nanoRLHF/nanorlhf/nanovllm at main · hyunwoongko/nanoRLHF](https://github.com/hyunwoongko/nanoRLHF/tree/main/nanorlhf/nanovllm)
+  * [초보자도 가능한 vLLM 빠르게 만드는 튜닝 방법 3가지! - YouTube](https://www.youtube.com/watch?v=VJkLGLuue3I)
+    * 괴발자. CPU 병목 개선으로 처리량 높이기, Preemption 최소화로 재연산 낭비 줄이기, Chunked Prefill로 체감 속도 높이기
 * VRAM & Performance Calculator [Can You Run This LLM? VRAM Calculator (Nvidia GPU and Apple Silicon)](https://apxml.com/tools/vram-calculator)
   * [내 맥북에서 어떤 LLM까지 돌릴 수 있을까? ](https://www.facebook.com/syp.sypark/videos/1404010003932593)
 * [webGPT: LLM이 Human Sequence of Actions을 모방할 수 있는가? | OPENAI 2021 | 조용래 - YouTube](https://www.youtube.com/watch?v=0yMZyIru-X0)
