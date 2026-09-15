@@ -3034,6 +3034,8 @@ AWS
 * [개발자를 위한 AWS 클라우드 보안 (1) - 클라우드 설계 원칙과 IAM – 핑퐁팀 블로그](https://blog.pingpong.us/aws-cloud-security-for-devs-1/)
 * [개발자를 위한 AWS 클라우드 보안 (2) - 로깅 및 모니터링과 데이터 보호 – 핑퐁팀 블로그](https://blog.pingpong.us/aws-cloud-security-for-devs-2/)
 * [개발자를 위한 AWS 클라우드 보안 (3) - 인프라 보안과 사고 대응 – 핑퐁팀 블로그](https://blog.pingpong.us/aws-cloud-security-for-devs-3/)
+* [Stave — AWS security findings from configuration snapshots](https://www.systeminvariant.dev/)
+  * 계정 구성 스냅샷에서 리소스 간 관계를 보는 configuration-graph 분석으로 단일 설정 스캐너가 못 잡는 보안 문제 탐지—예: CloudTrail이 계정 스냅샷에 존재하지 않는 대상 버킷을 참조하는 ghost destination. `go install github.com/sufield/stave` 또는 brew 설치, Docker 샌드박스 데모 제공
 * [AWS에서 보안 감사 및 이상징후 탐지 | 우아한형제들 기술블로그](https://techblog.woowahan.com/2603/)
 * [AWS SecurityHub. The AWS:SecurityHub:Hub resource… | by S3CloudHub | Jul, 2022 | Medium](https://s3cloudhub.medium.com/aws-securityhub-hub-1d42cb1199d2)
 * [Security SA 의 re:Inforce 행사 탐방기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/security-sa-%EC%9D%98-reinforce-%ED%96%89%EC%82%AC-%ED%83%90%EB%B0%A9%EA%B8%B0/)
