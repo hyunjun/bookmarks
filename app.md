@@ -1776,6 +1776,8 @@ App
   * macOS Tahoe의 단축어 자동화와 AI 모델(Apple/GPT) 통합. 조건 기반 자동 실행, iPhone/iPad 연동
 * [맥북 사용자 전부 무료로 받으세요 맥북 활용도 수직상승하는 무료앱 7가지 - YouTube](https://www.youtube.com/watch?v=3fJfKYVQ-vI)
   * BGS REVIEW. Loop(회전식 창 정렬), MonitorControl(외장 모니터 밝기), LinearMouse(마우스·트랙패드 커스터마이징), LosslessCut(무손실 영상 편집), Maccy(클립보드 히스토리), LocalSend(크로스플랫폼 파일 전송), HOP(HWP 뷰어) 7가지 무료앱 추천
+* [Your Mac Can Run Software Apple Never Told You About - Exploring Apple Container - YouTube](https://www.youtube.com/watch?v=VTWu60OvTAY)
+  * Mostly Mac. Apple 자체 컨테이너 플랫폼(Apple Container)으로 Apple Silicon Mac에서 무료 오픈소스 소프트웨어를 구동—클릭 몇 번으로 실행해주는 네이티브 무료 앱 Davit 소개, Stirling PDF(Acrobat 대안) 등 설치 시연
 * 동영상 인코딩
   * [Adapter](http://www.macroplant.com/adapter/) http://macnews.tistory.com/893
   * [practice - OSX에서 인코딩을 하기위한 최소한의 유틸리티 모음](https://gist.github.com/hyunjun/cf75a8a9367b272c5707#osx에서-인코딩을-하기위한-최소한의-유틸리티-모음)
