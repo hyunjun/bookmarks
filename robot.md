@@ -72,6 +72,8 @@ Robot
 * [ProtoBot — A Palm-Sized Robot for Makers | Microbots](https://microbots.io/products/protobot)
   * [Meet ProtoBot: A Palm-Sized Robot for Makers - YouTube](https://www.youtube.com/watch?v=p5PKpLMmyNI)
   * 메이커·학생·교육자를 위한 손바닥 크기 오픈소스 로봇 플랫폼. 빌드 가이드로 조립 후 폰으로 제어·자동화, Arduino 프로그래밍, 오픈소스 예제로 하드웨어·소프트웨어 커스터마이즈
+* [Everything is LLM - Vibe coding a robot task - YouTube](https://www.youtube.com/watch?v=OIw6zY_AQOg)
+  * sentdex. XGO Mini2 4족 보행 로봇의 태스크를 LLM으로 바이브 코딩하는 실험—"모든 것이 LLM이 되는" 흐름에서 로봇 제어까지 자연어로 시도
 
 # Book
 * [추천! 로봇공학 / 기계학습 무료 교재(pdf) 15가지](http://t-robotics.blogspot.in/2015/01/pdf-15.html)
