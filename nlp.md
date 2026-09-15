@@ -2385,6 +2385,11 @@ NLP
   * [(1) Andrej Karpathy on X: "Power to the people: How LLMs flip the script on technology diffusion" / X](https://x.com/karpathy/status/1909308143156240538)
     * [(1) 김성완 - 안드레이 카파시의 에세이입니다. 인민에게 권력을: LLM이 기술 확산의 패턴을 뒤집다 혁신적인 기술은... | Facebook](https://www.facebook.com/seongwan.kim.3/posts/pfbid0mHwpwVgLTmCyatpuqRN2ioDkqFfjuoXXGRkkTi5PH6hixTu21mxxqWjzmmH1suWHl)
   * [김성완 - 최근 안드레이 카파시의 인터뷰 내용에 많이 동의합니다. 특히, 교육자의 관점에서 뭐든 제대로 이해하려면... | Facebook](https://www.facebook.com/seongwan.kim.3/posts/pfbid0qaBZEfFL3a7BbSYJKfaWvjRyynz6DzRb8N7qo3LXyir2WNq5d3aKMmqvmERV8riwl)
+* [The Tokenizer was the Bottleneck, Part 1: Why Tokenization is the Quiet Lever — and a Graveyard of Failed Ideas | dnotitia](https://medium.com/@dnotitia/the-tokenizer-was-the-bottleneck-part-1-why-tokenization-is-the-quiet-lever-and-a-graveyard-of-ff37b243c81e)
+  * [The Tokenizer was the Bottleneck, Part 2: Marker-Pair Fusion — Vocabulary Surgery | dnotitia](https://medium.com/@dnotitia/the-tokenizer-was-the-bottleneck-part-2-marker-pair-fusion-vocabulary-surgery-guided-by-a566bb9aca08)
+  * [토크나이징 방식을 분석하여 LLM 품질을 끌어올린 기록 | 박상길](https://www.facebook.com/likejazz/posts/pfbid02Lynpn4Kd3JhGGQxBo5BCZgHbN2CrgD1vqowPaecDwrx7zN6HVqVmoD1NS7H4xaoLl)
+  * OpenAI 파라미터 골프 챌린지(16M 파라미터 모델을 H100 8장·10분 학습, bpb로 경쟁) 참가 경험 2부작. 대소문자 정보를 복원 가능한 형태로 분리(CaseOps)하고 그 과정에서 생긴 중복 토큰 쌍을 합치는 Marker-Pair Fusion(MP2)으로 학습 토큰 8.47% 감소+품질은 오히려 향상—최고 공개 베이스라인 위에서 3-Seed 기준 −0.00110 bpb 개선, 시드 간 편차 절반
+  * 토크나이저 재학습·파라미터 추가·아키텍처 변경 없는 스트림 편집이라 어떤 학습 파이프라인에도 이식 가능. 1편은 실패한 아이디어의 무덤에서 시작, 2편은 +1.99 mbpb 퇴보로 끝난 첫 시도를 토큰 위치별 손실 진단으로 되살린 과정
 * [How to Build LLM Apps that can See Hear Speak - SingleStore Spaces](https://www.singlestore.com/spaces/how-to-build-llm-apps-that-can-see-hear-speak/)
 * [Generative AI with Large Language Models | Coursera](https://www.coursera.org/learn/generative-ai-with-llms)
 * [Generative AI for Everyone - DeepLearning.AI](https://www.deeplearning.ai/courses/generative-ai-for-everyone/)
@@ -3061,6 +3066,10 @@ NLP
     * [DeepSeek Just Made Closed AI Look Ridiculous - YouTube](https://www.youtube.com/watch?v=kyYepbhe1g8)
       * Two Minute Papers. DeepSeek V4 Pro 0813 공개판이 폐쇄형 최상위 모델들과 견주는 성능을 오픈 웨이트로 제공—커뮤니티 반응과 활용 사례 소개
     * 1.6T MoE(49B 활성), 1M 컨텍스트. Compressed Sparse Attention(CSA) + Heavily Compressed Attention(HCA) 하이브리드. DeepSeek-V3.2 대비 27% FLOPs, KV 캐시 90% 감소. Non-Think/Think High/Think Max 3단계 추론. MMLU-Pro 87.5, LiveCodeBench 93.5, SWE Verified 80.6. MIT
+  * [DeepSeek-V4.1-Flash Technical Report PDF](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash/blob/main/DeepSeek_V41_Tech_Report.pdf)
+    * [(주의) DeepSeek이 Transformer의 계산 방식을 다시 바꿨습니다 | Jeongmin Lee](https://www.linkedin.com/posts/jyoung105_%EC%A3%BC%EC%9D%98-deepseek-%EC%9D%B4-transformer-%EC%9D%98-%EA%B3%84%EC%82%B0-%EB%B0%A9%EC%8B%9D%EC%9D%84-%EB%8B%A4%EC%8B%9C-share-7503723192742490112-861S/)
+    * 20층 Causal Encoder+20층 Decoder 비대칭 구조—Prefill 8B·Decode 16B 활성화, 텍스트+이미지 멀티모달. CSA2가 층마다 반복하던 KV·토큰 선택 계산을 Full/Reindex/Reuse 3모드로 재사용, MoE·Sparse Attention·Engram(메모리 조회) 결합. 토큰당 KV 캐시 V3.2 48,068B→V4-Flash 3,514B→V4.1-Flash 890B로 9개월 만에 약 1/54(100만 토큰 기준 48.1GB→0.89GB)
+    * DeepSWE v1.1 74.2(Opus 5 74.0)·Automation-Bench 54.8·CyberGym 88.1·Terminal-Bench 2.1 90.6으로 Opus 5와 경쟁하며 가격은 약 1/17~1/21(캐시 적중 입력 $0.006/M, 비혼잡 시간대·주말 추가 반값)
   * [ds4 (DwarfStar 4): DeepSeek 4 Flash local inference engine for Metal and CUDA | antirez](https://github.com/antirez/ds4)
     * [A few words on DS4 | antirez](https://antirez.com/news/165)
     * [DS4에 대한 몇 마디 | GeekNews](https://news.hada.io/topic?id=29541)
@@ -3793,6 +3802,8 @@ NLP
     * [Friends Don't Let Friends Use Ollama](https://sleepingrobots.com/dreams/stop-using-ollama/)
       * [로컬 LLM 생태계에는 Ollama가 필요하지 않다 | GeekNews](https://news.hada.io/topic?id=28622)
       * llama.cpp 크레딧 부족, 커스텀 백엔드 전환 후 성능 저하, 비호환 모델 형식으로 락인, GUI 비공개 전환 비판. 대안: llama.cpp, LM Studio, Jan
+    * [Ollama로 맥북에 로컬 AI 설치하는 방법 | 상세 튜토리얼 - YouTube](https://www.youtube.com/watch?v=XTLTffemff0)
+      * 감자나라ai. 맥북에 Ollama를 설치해 로컬 AI를 구동하는 단계별 한국어 튜토리얼 (강의자료 별도 제공)
     * [backend-generator-ai](https://github.com/cloudmatelabs/backend-generator-ai)
       * [AI를 이용해서 백엔드를 작성해주는 오픈소스 만듦](https://velog.io/@juunini/AI%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%B4%EC%84%9C-%EB%B0%B1%EC%97%94%EB%93%9C%EB%A5%BC-%EC%9E%91%EC%84%B1%ED%95%B4%EC%A3%BC%EB%8A%94-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EB%A7%8C%EB%93%A6)
     * [Cloud - Ollama](https://docs.ollama.com/cloud)
