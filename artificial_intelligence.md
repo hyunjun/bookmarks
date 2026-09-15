@@ -987,6 +987,10 @@ Artificial Intelligence
   * [What the 100 biggest GitHub repos put in their AGENTS.md files | coldtea](https://www.coldtea.ai/blog/agents-md-field-study)
     * [GitHub 상위 100개 저장소가 AGENTS.md에 담은 AI 코딩 에이전트 운영 규칙 | digitalbourgeois](https://digitalbourgeois.tistory.com/3568)
     * GitHub 상위 1,000개 공개 레포 중 27%가 AGENTS.md 보유—별 상위 100개(합산 1,140만 스타: vscode·ollama·n8n·pytorch 등) 전수 분석. 룰북이 아니라 운영 매뉴얼: 오리엔테이션(프로젝트 구조)+검증(빌드·테스트)이 전체의 절반, 주제별로 아키텍처 18.9%·테스트 17.2%·명령어 12.8%. 한편 명시적 don't 룰 784개, 90%가 must/always/never 명령형—클수록 더 단호해짐. 파일당 중앙값 1,198단어
+* [agentscope: Build and run agents you can see, understand and trust](https://github.com/agentscope-ai/agentscope)
+  * [AgentScope 공식 문서](https://docs.agentscope.io/)
+  * [AgentScope 2.0, LLM의 추론과 도구 활용을 기반으로 AI Agent를 개발하는 프레임워크 | digitalbourgeois](https://digitalbourgeois.tistory.com/3653)
+  * Agent·Toolkit·Model·Context·Event System·Permission & HITL·Middleware를 빌딩 블록으로 조합해 에이전트를 구성하는 프레임워크(2.0). 모델의 추론과 도구 사용 능력을 활용하는 방향으로 설계. Python, Apache-2.0, 31.7k stars
 * [agentskill: Let any agent produce code indistinguishable from the existing codebase](https://github.com/airscripts/agentskill)
   * [Turning Repository Knowledge Into Usable Agent Context | DEV Community](https://dev.to/airscript/turning-repository-knowledge-into-usable-agent-context-4pe4)
   * [AI 코딩 에이전트를 위한 저장소 컨텍스트 정리 도구, Agentskill 이해하기](https://digitalbourgeois.tistory.com/3053)
@@ -1011,6 +1015,10 @@ Artificial Intelligence
   * [GUI Agent와 Vision을 터미널, 컴퓨터, 브라우저에 통합해주는 멀티모달 AI Agent 스택을 오픈소스로 공개 | HaYeJin Kang](https://www.linkedin.com/posts/h4y3j1n_bytedance-tiktok-snyuiosqsswm-activity-7416618742526201856-wNFN)
 * [agents-towards-production: This repository delivers end-to-end, code-first tutorials covering every layer of production-grade GenAI agents, guiding you from spark to scale with proven patterns and reusable blueprints for real-world launches](https://github.com/NirDiamant/agents-towards-production)
 * [agent-workflow-memory: AWM: Agent Workflow Memory](https://github.com/zorazrw/agent-workflow-memory)
+* [Agent Zero AI: Open Source Agentic Framework & Computer Assistant](https://www.agent-zero.ai/)
+  * [spynel: One chat, unlimited AI orchestration](https://github.com/agent0ai/spynel)
+    * [Spynel - manage ALL of your AI work with one chat - YouTube](https://www.youtube.com/watch?v=-dq5PkLdAZ0)
+    * Agent Zero 팀의 경량 오케스트레이션 레이어. 채팅·프로젝트·도구·코딩 에이전트를 오가는 대신 하나의 어시스턴트·하나의 커뮤니케이션 채널로 AI 작업을 위임·조율. Go, MIT
 * [agf: Agent Finder — One TUI to find, resume, and manage AI coding agent sessions (Claude Code, Codex, Opencode, Gemini)](https://github.com/subinium/agf)
   * [agf: AI 코딩 에이전트 세션을 한눈에 관리하는 터미널 TUI](https://digitalbourgeois.tistory.com/2807)
 * [agno: High-performance runtime for multi-agent systems. Build, run and manage secure multi-agent systems in your cloud.](https://github.com/agno-agi/agno)
@@ -1046,6 +1054,9 @@ Artificial Intelligence
   * AI 에이전트 코드 실행, GUI 환경 사용을 위해, 안전하고 자체 호스팅 가능한 샌드박스(sandbox)를 제공하는 오픈소스 솔루션
   * 마이크로VM 기반의 격리 환경에서 스냅샷(snapshot) 및 복원(restore) 기능 기본 제공
     * 에이전트의 다단계 작업 흐름(multi-step workflows) 관리, REST API·Python SDK 등을 통해 programmatic하게 샌드박스 제어
+* [artemis: ARTEMIS turns natural-language instructions into reliable Android automation | Google](https://github.com/google/artemis)
+  * [Google just dropped ARTEMIS — an open-source system that lets AI assistants control REAL Android phones like a human | Pinoyfreecoder](https://www.facebook.com/PHfreecoder/posts/pfbid02eJR1CQ8R7fAfdgz1v63TiqLhx6A9g2f2cnDYkEuvHnLmuDZQYeNQpQfGfHjzD9DHl)
+  * 자연어 지시로 실제 Android 기기를 사람처럼 조작—엔드투엔드 워크플로 자동화, 앱 테스트, 스크린샷·로그 수집, 멀티스텝 작업. MCP 지원으로 Antigravity·Codex·Claude Code·Windsurf 등 AI 코딩 에이전트와 연동, AndroidWorld 벤치마크 99%+ 성공률. Python, Apache-2.0
 * [Athena — Intelligence Reimagined](https://athenalab.ai/)
   * [athena-core](https://github.com/Athena-AI-Lab/athena-core)
   * 범용 자율 AI 에이전트. 웹 브라우징, Python 실행, 파일·셸 접근, Telegram/Discord 통합, 스케줄링. TypeScript 기반, BSD 3-Clause
@@ -1128,7 +1139,6 @@ Artificial Intelligence
   * 에이전트의 모든 외부 통신을 가로채 규칙으로 검증·감시하는 보안 방화벽(Deno 제작). HTTP·SQL·Kubernetes 등 프로토콜별 세부 권한 관리(HCL 규칙), 위험한 작업은 LLM Judge나 사람 승인으로 게이트, 전체 감사 로그와 회귀 테스트로 정책 변경 검증. 셀프호스팅. Go, MIT, 1k stars
 * [Code2Video](https://showlab.github.io/Code2Video/)
   * [Code2Video: Video generation via code](https://github.com/showlab/Code2Video)
-* [AgentScope: Build and run agents you can see, understand and trust](https://github.com/agentscope-ai/agentscope)
 * [CoPaw: Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities](https://github.com/agentscope-ai/CoPaw)
   * [OpenClaw 따라잡은 알리바바의 CoPaw로 Discord 봇 만드는 법](https://fornewchallenge.tistory.com/entry/%F0%9F%94%A5OpenClaw-%EB%94%B0%EB%9D%BC%EC%9E%A1%EC%9D%80-%EC%95%8C%EB%A6%AC%EB%B0%94%EB%B0%94%EC%9D%98-CoPaw%EB%A1%9C-Discord-%EB%B4%87-%EB%A7%8C%EB%93%9C%EB%8A%94-%EB%B2%95)
     * CoPaw를 로컬 LLM으로 실행하고 Discord에 연동하는 단계별 가이드. 멀티 채널 지원, API 없는 로컬 실행
@@ -3430,6 +3440,8 @@ Artificial Intelligence
   * ![](https://media.licdn.com/dms/image/v2/D5622AQHeE-W0zThz8A/feedshare-shrink_800/B56Zr9lPxMJwAg-/0/1765190991137?e=2147483647&v=beta&t=9mGnkDdtTVmwHAVBrbSl5Dr7c2oX0cDdEk4cJXHsUwA)
 * [AI 때문에 해고하는 아마존, 가르쳐서 고용하는 월마트 - YouTube](https://www.youtube.com/watch?v=D3WzMWJHmgU)
   * [아마존은 해고, 월마트는 고용! AI 시대, 일자리 전략 승자는?](https://livewiki.com/ko/content/amazon-ai-firings-walmart-hires)
+* ["AI가 조직의 중심, 사람은 가장자리에서 일한다"는 잭 도시 - YouTube](https://www.youtube.com/watch?v=BeeSuExA9wM)
+  * 티타임즈TV. 트위터 공동창업자 잭 도시가 블록(Block)에서 시작한 AI 중심 조직 실험—전 직원 40% 감원·중간관리자 폐지, 인간 관리자가 하던 정보 전달·조율을 AI 에이전트에 넘기고 인간은 실무만 담당하는 구상
 * [AI is polytheistic, not monotheistic - balajis.com](https://balajis.com/p/ai-is-polytheistic-not-monotheistic)
   * [인공지능에 대한 10가지 생각 (발라지) : 네이버 블로그](https://blog.naver.com/bizucafe/223957612876)
 * [AI in Startup GTM Report 2025 Pt. 1: Benchmark Report](https://www.hubspot.com/startups/ai/ai-in-gtm-report-pt1)
@@ -4321,6 +4333,9 @@ Artificial Intelligence
   * 추론 엔지니어링 심층 가이드. 하드웨어(NVIDIA GPU), 소프트웨어(CUDA~vLLM), 인프라(오토스케일링), 최적화(양자화, 투기적 디코딩, 캐싱, 병렬화) 7개 영역
 * [As an AI Infrastructure Engineer, Please learn... | Praveen Kumar Verma](https://x.com/Alacritic_Super/status/2072660023340401008)
   * AI 인프라 엔지니어가 배워야 할 스킬 목록: GPU 아키텍처·VRAM·CUDA, 양자화(INT8/FP8/4-bit)·배칭, vLLM·TensorRT-LLM·SGLang·llama.cpp 추론 최적화, KV 캐싱·투기적 디코딩, 분산 학습(DDP·FSDP·DeepSpeed·ZeRO), 모델 서빙(Triton·KServe·Ray Serve), Kubernetes·GPU 오케스트레이션, NCCL·InfiniBand
+* [Inference Engineering | danialhasan on X](https://x.com/danialhasan/status/2099217156483494205)
+  * [핵심 요약 - 추론 공학(Inference Engineering)은 훈련된 AI 모델을 최적의 품질·응답 속도·신뢰성·비용 조건에 맞춰 실제 서비스 제품에 적용하는 분야 | 박상길](https://www.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_%ED%95%B5%EC%8B%AC-%EC%9A%94%EC%95%BD-%EC%B6%94%EB%A1%A0-%EA%B3%B5%ED%95%99inference-engineering%EC%9D%80-%ED%9B%88%EB%A0%A8%EB%90%9C-share-7505056138409689088-TsGE/)
+  * 향후 추론 영역에 수조 달러 지출 전망. 기존 소프트웨어 엔지니어링 역량(API 설계·프로파일링·캐싱·동시성 제어)이 그대로 적용—vLLM(PagedAttention·연속 배칭), SGLang(RadixAttention KV 캐시 재사용), llama.cpp(양자화·CPU/GPU 하이브리드), Truss & Chains(파이프라인 자원 분리·오케스트레이션). 단순 토큰 속도가 아니라 P95 지연·메모리·오차율·비용 한계 등 서비스 요건의 정의·측정이 핵심
 * CloudNet@ LLMSO(Hands-On LLM Serving and Optimization) 스터디 2주차 — Model Serving System Design/Best Practices. 단일/멀티 모델 서빙 시스템을 6개 컴포넌트로 직접 구현하며 프로세스 격리·정적 배칭·스트리밍·KV 캐시·vLLM 전환을 실습하는 스터디원 글 모음
   * [2주차-LLMSO CH3. Model Serving System Design A Deep Dive | devlos](https://devlos.tistory.com/128)
     * API server·LLM engine·Workload manager·Model executor·Model worker·Model manager 6개 파일 구현 해설 + 멀티모델 서빙의 LRU 캐시·팩토리 패턴·Triton 위임과 비용 vs 지연 트레이드오프
