@@ -1725,6 +1725,9 @@ AWS
   * 아마존 EKS을 온프레미스 환경에서 설치해서 Kubernetes 클러스터를 운영할 수 있도록 아마존에서 EKS Anyware를 오픈소스로 공개
   * [EKS Anywhere on vSphere Homelab - ddiiwoong Tech Blog](https://ddii.dev/kubernetes/eks-anywhere/)
   * [EKS Anywhere 구축기 | 우아한형제들 기술블로그](https://techblog.woowahan.com/10221/)
+* [**On-Premise GPU를 AWS EKS에 연결하기** | Seulbi Lee](https://www.linkedin.com/pulse/on-premise-gpu%EB%A5%BC-aws-eks%EC%97%90-%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B0-seulbi-lee-gvyzc/)
+  * EKS Hybrid Nodes+Hybrid Nodes gateway(2026-04 GA)로 온프레미스 GPU를 EKS에 연결하는 검증기—장비 도착 전 검증을 위해 EKS와 완전히 분리된 별도 VPC의 EC2를 원격지 장비처럼 Join시켜 온프레미스와 구조적으로 같은 환경 구성(실물 장비가 오면 그 자리에 갈아끼우는 목표). Local LLM 추론 플랫폼(LiteLLM) 용도
+  * IMDS 자격증명·인스턴스 프로파일 없이 SSM activation만으로 원격 Node Join, 컨트롤플레인↔원격 Node/Pod 양방향 네트워크(Transit Gateway+게이트웨이 ENI/VXLAN) 7종 경로 통과. 완성 구성만이 아니라 apply를 눌러야 드러나는 문제들과 막힌 지점을 순서대로 기록, 전체 Destroy 후 같은 코드로 재현까지 확인
 * [EKS Workshop | EKS Workshop](https://www.eksworkshop.com/)
 * [eksctl - a CLI for Amazon EKS](https://eksctl.io/)
   * [eksctl – the EKS CLI](https://aws.amazon.com/ko/blogs/opensource/eksctl-eks-cli/)
