@@ -2923,6 +2923,10 @@ App
 * [dumbdown: The dumb alternative to markdown. The keyword for title is title](https://github.com/treenotation/dumbdown)
 * [EASYME.md | 리드미를 쉽게! 이지미](https://www.easyme.online/)
 * [excel-to-markdown: Convert Excel / Google Sheets tables to Markdown](https://github.com/devin-liu/excel-to-markdown)
+* [foam: A personal knowledge management and sharing system for VSCode](https://github.com/foambubble/foam)
+  * [Foam — Your knowledge graph. For you and your AI](https://foam.md/)
+  * [VS Code와 GitHub로 지식을 연결하는 오픈소스 지식 관리 시스템, Foam | digitalbourgeois](https://digitalbourgeois.tistory.com/3656)
+  * Markdown 문서를 Wikilink로 연결해 하나의 지식 베이스로 관리하는 무료 오픈소스 PKM(Roam 대안). VS Code+GitHub 기반이라 데이터를 사용자가 직접 소유—구독·벤더 락인·클라우드 없음. 그래프 시각화, 웹 게시 지원, "당신과 당신의 AI를 위한 지식 그래프". TypeScript, 17.4k stars
 * [Fongshen - Markdown with Ace example](http://simular.co/works/fongshen/)
 * [ghostwriter](https://wereturtle.github.io/ghostwriter/)
 * [hackmd.io](https://hackmd.io/) gist

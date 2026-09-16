@@ -6892,7 +6892,6 @@ Javascript
   * [Flyde - 개발자를 위한 비쥬얼 프로그래밍, 오픈소스 | GeekNews](https://news.hada.io/topic?id=13857)
 * [FnApi – FnApi](https://fnapi.dev/)
   * [fnapi: A function is enough](https://github.com/fnapi/fnapi)
-* [foam: A personal knowledge management and sharing system for VSCode](https://github.com/foambubble/foam)
 * [fp-ts: Functional programming in TypeScript](https://github.com/gcanti/fp-ts)
   * [Introduction - fp-ts](https://gcanti.github.io/fp-ts/)
   * [폼 데이터를 우아하게 관리하는 방법](https://tech.devsisters.com/posts/functional-react-state-management/)
