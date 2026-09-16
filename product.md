@@ -283,6 +283,8 @@ Product
     * Lattech 라떼크 채널의 Nocfree & (녹프리 앤) 리뷰. 전작 Lite 대비 로우 프로파일·알루미늄으로 고급화, 한국 정식 버전은 F·U·Y·B 한 줄을 오른쪽에 추가해 한글 타이핑성 강화. 좌측 메인 키보드+우측 키보드+숫자패드 3개 파츠 구성, 좌측이 허브 역할(유선은 좌측만 연결). 웹 기반 커스터마이징·8개 레이어 지원. 텐팅 받침대·팜네스트·저소음 리니어 스위치 포함. 백라이트 끄면 한 달 가까이 사용 가능
   * [드디어 나왔습니다! 스플릿 키보드의 불편함을 원천 봉쇄한 프리미엄 인체공학 키보드 녹프리 & - YouTube](https://www.youtube.com/watch?v=ZPZFsYCguYA)
     * SeungupKBD. 녹프리 &(NocFree &) 와디즈 펀딩 제품 리뷰—구성품·제품 소개, 타이핑 사운드, 타건 후 느낌, 웹 디바이스(link.nocfree.com)로 설정하는 방식까지
+  * [NocFree & B키가 두 개인 스플릿 키보드 - YouTube](https://www.youtube.com/watch?v=a6uQShS26OU)
+    * 이기릿 EEgirIT. 녹프리 & 리뷰(제작비 지원)—한국 판매 물량 업데이트 소식, NocFree Link(link.nocfree.com)로 키맵 설정·펌웨어 업데이트를 비교적 간단하게 진행한 경험
 * [NuPhy® Studio | Premium keyboards and gear beyond imagination.](https://nuphy.com/)
   * [오직 예쁜 걸로만 유명해진 키보드가 있다? 무선 기계식 키보드 NuPhy AIR75를 써봤습니다. - YouTube](https://www.youtube.com/watch?v=pEyLxr909-8)
   * [Eng) 입문하기 좋은 커스텀 키보드 추천, Nuphy GEM80 - YouTube](https://www.youtube.com/watch?v=T9yB3dASNmM)
