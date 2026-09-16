@@ -1998,6 +1998,10 @@ Artificial Intelligence
   * [Loop Engineering, 핵심은 검증](https://wpti.dev/public-presentation/loop-engineering-verification.html)
     * [최근 보리스와 피터 스타인버거 모두 루프를 언급했습니다. 에이전트의 루프를 만들어서 더 이상 프롬프트로 지시하지 않는다 | JAEGYU LEE](https://www.linkedin.com/posts/q00_%EC%B5%9C%EA%B7%BC-%EB%B3%B4%EB%A6%AC%EC%8A%A4%EC%99%80-%ED%94%BC%ED%84%B0%EC%8A%A4%ED%83%80%EC%9D%B8%EB%B2%84%EA%B1%B0-%EB%AA%A8%EB%91%90-%EB%A3%A8%ED%94%84%EB%A5%BC-%EC%96%B8%EA%B8%89%ED%96%88%EC%8A%B5%EB%8B%88%EB%8B%A4-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EC%9D%98-%EB%A3%A8%ED%94%84%EB%A5%BC-share-7476853075694223360-QsFL/)
     * AI가 구현·테스트·개선을 자율 반복하되 검증을 유지하는 시스템 설계. 명확한 완료 기준·검증 분리(작성자와 리뷰어 분리)·상태 기록·정지 조건 4요소. 검증 품질(결정론적 규칙 vs AI 평가)이 루프 효과를 결정. 검증 결과가 다음 반복 입력이 되는 자기참조 루프 Ouroboros 소개
+  * [Loop vs Graph Engineering Clearly Explained | AI Engineering](https://aiengineering.beehiiv.com/p/loop-vs-graph-engineering-clearly-explained)
+    * [AI 에이전트 비용을 줄이는 Model Routing과 Loop·Graph Engineering의 이해 | digitalbourgeois](https://digitalbourgeois.tistory.com/3651)
+    * 에이전트 비용=토큰 수×평균 단가—저렴한 모델로 교체하면 단가만 내려가고 재시도·방황으로 토큰 수가 늘어 역효과. Glean이 Claude Cowork 대비 태스크당 $0.45 vs $1.84(4배 절감)를 낸 3요인: 모델 패밀리 라우팅(Luna가 대량 처리, Sonnet의 1/10 비용), 티어 라우팅(Opus를 오히려 10배 더 자주 쓰되 수술적으로), 더 나은 하네스·인덱싱(쿼리당 토큰 3배 절약)
+    * 결론은 "고르지 말고 라우팅하라"—루틴 작업을 다른 모델이 받쳐줄 때 어려운 스텝에 강한 모델을 써도 비용이 적게 듦. 하나의 Loop로 처리하기 어려워지는 시점에 Graph 구조로 확장하라는 판단 기준 제시
   * [루프 엔지니어링 - WikiDocs](https://wikidocs.net/book/20486)
     * "매번 프롬프트를 입력하는 사람을, 스스로 일을 찾고 수행하고 검증하며 반복하는 작은 시스템으로 대체하는 일"이라는 한 문장 정의로 시작하는 루프 엔지니어링 책
   * [The Art of Loop Engineering | LangChain](https://www.langchain.com/blog/the-art-of-loop-engineering)
@@ -4259,6 +4263,10 @@ Artificial Intelligence
 * [AI is removing the middle class of software engineering | Florian Herrengt](https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html)
   * [AI가 소프트웨어 개발의 속도 제한을 없애면서 개발자의 가치가 달라지고 있다 | digitalbourgeois](https://digitalbourgeois.tistory.com/3552)
   * AI가 개발 속도 제한을 없애자 엔지니어링 문화가 약한 팀은 훨씬 빨리 실패한다—코드가 만들어지는 속도와 사람이 이해·판단하는 속도의 격차가 문제. 겉보기엔 돌아가는 수만 줄짜리 PR이 쌓여 "지난주에 만든 사람도 데이터 출처를 모르는" 지경에 이르는 시나리오. 소프트웨어 엔지니어링의 중간층이 사라지고, AI 산출물을 평가하고 올바른 기술적 결정을 내리는 능력이 개발자 가치의 중심이 된다는 주장
+* ["Do You Still Read the Code?" | zanlib](https://zanlib.dev/blog/do-you-still-read-the-code/)
+  * [아직도 코드를 읽나요? | GeekNews](https://news.hada.io/topic?id=33735)
+  * "아직도(still)"라는 단어에 담긴 "코드 읽기는 사라질 관행"이라는 전제를 해부하는 에세이. AI 사용자를 둘로 구분—Accelerator는 이해를 코드로 번역하는 가속 도구로 AI를 쓰며 생성 코드를 읽는 책임을 유지(읽기가 생성을 못 따라가면 cognitive debt 누적), Vibecoder는 구현을 AI에 위임하고 명세·컨텍스트·평가에 집중(요구사항 유실·컨텍스트 드리프트로 intent debt 누적). 구분 기준은 모델이 얼마나 썼는지가 아니라 산출물과 개발자의 관계
+  * Naur의 "Programming as Theory Building"(1985) 재조명—코드는 프로그래밍의 진짜 산물이 아니라 부산물이고 자산은 그 뒤의 이론(설명·예측·수정 능력). 어느 쪽이 이길지는 유지보수 비용이 드러나는 데 오래 걸려 아직 판정 나지 않았다는 결론
 * [Younghyun Chung - 코드를 인간이 쓰지 않는 세상 | Facebook](https://www.facebook.com/risknfun/posts/pfbid02KqgVKz4DLQLWXsCUrx5E1VwmszfdJigmnXLKJzy2dEYrZWhUZFvSUA56WKZonW18l)
   * Toby의 "소프트웨어 엔지니어링은 정말 엔지니어링인가"(2026.6.3)에서 출발한 팀 고민 정리. 우리가 아는 소프트웨어 공학이 세운 세 전제(개발자는 비싸고·느리고, 사람이 코드를 쓴다)가 AI 코딩 시대에 흔들린다는 논의
 * [How AI-assisted coding will change software engineering: hard truths](https://newsletter.pragmaticengineer.com/p/how-ai-will-change-software-engineering)
@@ -4734,6 +4742,9 @@ Artificial Intelligence
   * [Google Opal, 디자이너도 AI로 앱을 만든다.](https://brunch.co.kr/@ghidesigner/298)
   * [AI업무자동화 구글 오팔 Opal 미쳤습니다... N8N, 이제 안녕! (무료 AI 앱 생성기) - YouTube](https://www.youtube.com/watch?v=3VJ9U2a25so)
   * [구글이 또 무료로? 구글 OPAL, n8n·Make 대체할 수 있을까? - YouTube](https://www.youtube.com/watch?v=-xW4rko5Q-M)
+* [open-code-review: Hybrid architecture code review tool — deterministic pipelines + LLM Agent | Alibaba](https://github.com/alibaba/open-code-review)
+  * [Open Code Review 공식 사이트](https://open-codereview.ai/)
+  * Alibaba 규모에서 검증된(수백만 실제 태스크) AI 코드 리뷰 도구. 결정론적 파이프라인+LLM 에이전트 하이브리드 구조로 정확한 라인 단위 코멘트, 다국어 내장 룰셋(NPE·스레드 안전성·XSS·SQL 인젝션), OpenAI·Anthropic 호환—어떤 LLM이든 연결하고 데이터는 완전 프라이빗 유지. `npm i -g @alibaba-group/open-code-review`, OpenSSF Gold. Go, Apache-2.0, 30.7k stars
 * [openai-cs-agents-demo: Demo of a customer service use case implemented with the OpenAI Agents SDK](https://github.com/openai/openai-cs-agents-demo)
   * [OpenAI + Temporal: Building Durable, Production Ready Agents - Cornelia Davis, Temporal - YouTube](https://www.youtube.com/watch?v=k8cnVCMYmNc)
     * AI Engineer 컨퍼런스. OpenAI Agents SDK로 만든 에이전트를 Temporal의 durable execution과 결합해 장애·재시작에도 상태를 잃지 않는 프로덕션급 에이전트로 만드는 방법
