@@ -1005,6 +1005,8 @@ Artificial Intelligence
     * [Manage Claude's memory | Claude Code Docs](https://code.claude.com/docs/en/memory)
     * [이보라 - 앤트로픽 공식 agent skills 강의 한국어 튜토리얼 | Facebook](https://www.facebook.com/learner.bora/posts/pfbid0TZfgHNZ71skk4njqV8mUTmX1v4KPsGxdcHm8Fogmt82XLpcBFmqykhDXrsbKRtL8l)
     * Anthropic 공식 강의 "Introduction to agent skills" 6개 챕터 한국어 튜토리얼. 개인 생산성 팁 위주 강의와 달리 우선순위 체계·조직 배포·도구 제한까지 다루고, 원본에 없는 규칙 파일(rules)과 스킬 비교를 보강
+  * [Anthropic senior engineer just released a 1-hour course on building a team of agents with loops - YouTube](https://www.youtube.com/watch?v=FGS75ep0yFc)
+    * RahulMCA. Anthropic 시니어 엔지니어의 1시간 무료 강의 소개—CLAUDE.md·Plan mode 입문, 스킬·훅 만들기, 에이전트·서브에이전트 구축, 루프·그래프 기반 자기 개선 에이전트 팀까지. "$500짜리 에이전틱 엔지니어링 코스를 대체"
 * [agent-skills: A collection of AI agent skills for Clawdbot, Claude Code, Codex](https://github.com/jdrhyne/agent-skills)
   * [AI 에이전트를 더 똑똑하게 만드는 agent-skills 저장소 정리 | digitalbourgeois](https://digitalbourgeois.tistory.com/3292)
   * 재사용 가능한 스킬·프롬프트 라이브러리. 범용 스킬(태스크 오케스트레이션·리서치 루프·문서 처리, 79% 크로스플랫폼), API 통합(Jira/GA/Zendesk/Salesforce), 순수 프롬프트(디자인 원칙·엔지니어링 베스트 프랙티스), 플랫폼별(OpenClaw/Claude Code/Codex). 의사결정 트리·트레이드오프 분석 등 전문 지식 강조
@@ -1946,7 +1948,8 @@ Artificial Intelligence
   * [하네스 엔지니어링: 모델보다 중요한 작업 환경 설계의 시대 | GeekNews](https://news.hada.io/topic?id=28966)
   * 모델보다 harness(프롬프트·도구·컨텍스트 정책·훅·샌드박스·피드백 루프)가 결과 좌우. 모델 비교 대신 작업 환경 설계가 핵심
 * [AI-Engineering-Coach: better agentic engineering — analyze your AI coding assistant usage, any harness, one dashboard | Microsoft](https://github.com/microsoft/AI-Engineering-Coach)
-  * 로컬 AI 세션 로그를 읽어 사용 패턴을 분석·인사이트화하는 VS Code 확장(데이터 외부 유출 없음). 어떤 하네스든 하나의 대시보드로. TypeScript, MIT
+  * [AI 코딩 어시스턴트 사용을 분석하는 AI Engineer Coach, 주요 기능과 설치 방법 | digitalbourgeois](https://digitalbourgeois.tistory.com/3663)
+  * 로컬 AI 세션 로그를 읽어 사용 패턴을 분석하는 VS Code 확장(데이터가 기기 밖으로 나가지 않음). 어떤 하네스든 하나의 대시보드로. 연습 점수·주간 트렌드·일별 활동 추적, 프롬프트 품질·세션 위생·코드 리뷰·도구 숙련·컨텍스트 관리 5개 영역 45개 안티패턴 규칙 탐지, AI 생성 코드 규모 확인과 반복 프롬프트 재사용. TypeScript, MIT
 * [awesome-harness-engineering: Awesome list for AI agent harness engineering: tools, patterns, evals, memory, MCP, permissions, observability, and orchestration](https://github.com/ai-boost/awesome-harness-engineering)
   * 하네스(컨텍스트 전달·도구 인터페이스·계획 아티팩트·검증 루프·메모리·샌드박스) 중심 큐레이션. "모델이 아니라 하네스에 집중—최고의 하네스는 모델이 좋아지면 불필요해질 구성요소를 알고 설계". CC0
 * [EvoHarness-RL: Learning Self-Evolving Runtime Harness for Long-Horizon LLM Agents](https://arxiv.org/abs/2608.05446v1)
@@ -4244,6 +4247,9 @@ Artificial Intelligence
     * Tech Bridge. 플레이북 워크플로우 해설—에이전트 인터뷰로 요구사항 수집해 intent.md 생성(Discovery), 설계 명세 자동 생성·거버넌스(Spec), plan.md 수립 후 서브에이전트·git worktree 병렬 개발(Build), TDD·브라우저 E2E·지속적 Evals(Test), 비동기 PR 리뷰와 장애 시 자율 진단·intent 생성(유지보수)
   * Anthropic Applied AI 팀의 AI 네이티브 SDLC 가이드. 코드는 더 이상 병목이 아닌데 승인 게이트·리뷰·핸드오프는 인간 속도 그대로라 병목이 build 좌우(계획·리뷰/테스트·배포)로 이동—라인별 수동 리뷰·주간 위원회 거버넌스가 현실과 불일치. 선형 흐름 대신 AI가 각 지점에 내장된 루프로 재설계, 6단계(Plan→Design→Build→Test→Deploy→Maintain)별 플레이 제공
   * 관통하는 원칙은 "커밋된 아티팩트": 각 단계가 intent.md·spec.md·plan.md·diff+테스트·리뷰 findings·인시던트 기록을 버전 관리에 커밋하고 다음 단계가 그걸 읽음—커밋 체인이 곧 감사 추적. 에이전트 다층 리뷰+훅을 승인 게이트로, 인간 리뷰는 규제·핵심 코드에 집중
+* [Prompt to Prod: Engineering an Autonomous SDLC at Scale | InfoQ](https://www.infoq.com/presentations/autonomous-ai-software-development-roblox)
+  * [Roblox Engineering Director: "Prompt to Prod" Is Broken Without Trust - YouTube](https://www.youtube.com/watch?v=x_dnHivzYtk)
+  * QCon AI. Roblox의 Andrew Swerdlow(Sr. Director, ex-Google·Instagram)가 AI 자동완성에서 완전 자율 "Prompt to Prod" 파이프라인으로 안전하게 전환한 과정—"typing vs. trust" 역설을 자동 코드 리뷰 에이전트, 샌드박스 런타임, 코드 리뷰 exemplar로 조직 지식 추출, 생산성 지표 재정의(피처 속도·장시간 AI 턴)로 해결. DAU 수천만 규모 플랫폼의 신뢰 기반 자동 배포
 * [From AI-Assisted to AI-Native: Building a Frontier Development Team — Clare Liguori, AWS - YouTube](https://www.youtube.com/watch?v=pqlWNihgdjI)
   * [AWS 엔지니어가 공개한 아마존 내부 데이터 — 4.5배 빨라진 25개 팀의 습관 5가지 - YouTube](https://www.youtube.com/watch?v=O9iL08X9zMo)
     * AgentOS. 원본 발표(AI Engineer World's Fair 2026)를 따라가며 갈린 팀들의 습관 5가지와 그 뒤에 새로 생긴 문제 3가지 정리
@@ -4729,6 +4735,8 @@ Artificial Intelligence
   * [AI업무자동화 구글 오팔 Opal 미쳤습니다... N8N, 이제 안녕! (무료 AI 앱 생성기) - YouTube](https://www.youtube.com/watch?v=3VJ9U2a25so)
   * [구글이 또 무료로? 구글 OPAL, n8n·Make 대체할 수 있을까? - YouTube](https://www.youtube.com/watch?v=-xW4rko5Q-M)
 * [openai-cs-agents-demo: Demo of a customer service use case implemented with the OpenAI Agents SDK](https://github.com/openai/openai-cs-agents-demo)
+  * [OpenAI + Temporal: Building Durable, Production Ready Agents - Cornelia Davis, Temporal - YouTube](https://www.youtube.com/watch?v=k8cnVCMYmNc)
+    * AI Engineer 컨퍼런스. OpenAI Agents SDK로 만든 에이전트를 Temporal의 durable execution과 결합해 장애·재시작에도 상태를 잃지 않는 프로덕션급 에이전트로 만드는 방법
 * [OpenAlex: The open catalog to the global research system](https://openalex.org/) 논문 검색
 * otranslator [Precise AI Document Translator – Flawless PDFs, DOCX, EPUB](https://otranslator.com/)
   * [O.Translator는 GPT-4.1 mini 및 Claude와 같은 AI 기술을 활용하여 PDF, DOCX, PPTX, XLSX, EPUB, SRT, PO, TXT, XML, JSON 등 다양한 형식의 문서를 고품질로 번역하는 AI 기반 번역 서비스](https://www.linkedin.com/posts/duckjungkim_otranslator%EB%8A%94-gpt-41-mini-%EB%B0%8F-claude%EC%99%80-%EA%B0%99%EC%9D%80-ai-activity-7319364605284073472-PfhD/)
@@ -4780,6 +4788,10 @@ Artificial Intelligence
   * [Google, 스타트업을 위한 무료 마케팅 AI 도구 ‘Pomelli’ 공개](https://www.facebook.com/reel/705044685396665)
 * [https://proxy.convergence.ai](https://proxy.convergence.ai/)
   * [무료 AI 에이전트 사용법, AI에게 쇼핑부터 리뷰 분석까지 시키는 꿀팁 (Convergence AI Proxy 1.0) - YouTube](https://www.youtube.com/watch?v=U69M9ObsqGA)
+* [pstack: Cursor 엔지니어 poteto(Lauren Tan)의 개인 스킬 스택 | cursor/plugins](https://github.com/cursor/plugins/tree/main/pstack)
+  * [Pstack Is Agent Overkill. Use It Anyway! - YouTube](https://www.youtube.com/watch?v=lUhXa8GiXns)
+    * Rob Shocks. Cursor 엔지니어링 팀이 한 주에 1만 번 사용한 개인 스킬 스택을 오픈소스화한 pstack 분석
+  * Meta·Netflix·Cursor를 거치고 React 컴파일러를 만드는 poteto의 "Cursor를 진짜 엔지니어링 팀으로 만드는" 스킬 모음. LOC 최대화가 아니라 더 적고 높은 품질의 코드가 목표—깊이 있는 단일 에이전트를 신뢰할 수 있어야 fearless parallelism이 가능(`poteto-mode`로 다중 에이전트 기동). 모델별 강점을 활용하는 멀티 모델 워크플로우, `/add-plugin pstack`으로 설치
 * [Qodo - AI Code Review: Deploy with confidence](https://www.qodo.ai/)
   * 엔터프라이즈 review-first AI 코드 리뷰 플랫폼(코파일럿 아닌 거버넌스). PR 리뷰(GitHub/GitLab/Bitbucket/Azure DevOps), Qodo CLI, Context Engine(코드베이스+의존성+PR 히스토리 인덱싱), Rules System, IDE 통합(VS Code/JetBrains). 15+ 전문 리뷰 에이전트(버그·테스트 커버리지·문서·체인지로그), 멀티 모델(Anthropic/OpenAI/Gemini/NVIDIA), 멀티 레포 컨텍스트. Zero retention·SOC 2 Type II·온프레미스·싱글테넌트. NVIDIA·Intel·Walmart·Intuit·monday.com 사용. Code Review Bench F1 64.3%
   * [생성형 AI로 테스트 커버리지를 높이는 자동화 도구, Qodo Cover 정리 | digitalbourgeois](https://digitalbourgeois.tistory.com/3125)
@@ -5542,6 +5554,8 @@ Artificial Intelligence
   * [Anthropic AI 에이전트 워크플로우 패턴: 작업 분해, 병렬 처리, 평가 구조 분리 | 임근영](https://www.linkedin.com/posts/keunyoung0924_claude-ai-activity-7435478224077275136-uVF6)
   * [10 CLI Tools I'm using alongside Claude Code | Starmorph AI - YouTube](https://www.youtube.com/watch?v=3NzCBIcIqD0)
     * LazyGit(실시간 git 변경 모니터링), Glow(CLI 마크다운 리더), LLM Fit(로컬 하드웨어에 맞는 모델 추천), Models CLI(프로바이더별 가격/벤치마크 비교), Zoxide(퍼지 디렉토리 점프), Btop(시스템 모니터링), eza(ls 대체), Ranger(터미널 파일 탐색기) 등
+  * [I Watched Iman Gadzhi's Claude Video So You Don't Waste 26 Minutes - YouTube](https://www.youtube.com/watch?v=JTX03Ba6gPU)
+    * Udo Onyekwere. Iman Gadzhi의 26분짜리 Claude 팁 영상에서 실제로 유효한 5가지 팁만 추려 3분으로 요약
   * [Using Claude Code: session management and 1M context | Claude](https://claude.com/blog/using-claude-code-session-management-and-1m-context)
     * [임백호 - 클로드 본사 엔지니어, 타리크의 클로드 도구 활용 꿀팁 | Facebook](https://www.facebook.com/100ho/posts/pfbid0nB3hy4BGiJxioyPESACL8YWYn8veL2cU8HF7U9WvXfok5M3YVMjcJ98mnnNVwjwMl)
     * 1M 토큰 컨텍스트 윈도우 효과적 관리 가이드. /rewind /compact /clear /subagent context rot(무관한 정보 축적으로 성능 저하) 방지
@@ -6152,6 +6166,9 @@ Artificial Intelligence
     * Claude/LLM에게 AI 생성 글 특유 "예측 가능한 구문·구조·리듬" 식별·제거 가르치는 스킬. 금지 구문(throat-clearing 시작·강조 매개·비즈니스 자르곤·부사·모호 진술·메타 코멘트)+구조 클리셰(이항 대조·부정 리스트·드라마용 단편화·수사적 셋업·수동태)+문장 규칙(Wh- 시작 금지·em-dash 금지·게으른 극단·능동태 강제). 5차원(Directness·Rhythm·Trust·Authenticity·Density) 1-10 점수, 35/50 미만은 재작성. Claude Code 스킬/Projects 지식/커스텀 지시문/API 시스템 프롬프트 로드. Hardik Pandya, MIT, 7.2k stars
     * [SangRok Jung - AI가 쓴 글 같아요 댓글 받아본 적 있으세요? 방갈로르의 디자이너... | LinkedIn](https://kr.linkedin.com/posts/sangrok-jung-9ab787311_ai%EA%B0%80-%EC%93%B4-%EA%B8%80-%EA%B0%99%EC%95%84%EC%9A%94-%EC%9D%B4-%EB%8C%93%EA%B8%80-%EB%B0%9B%EC%95%84%EB%B3%B8-%EC%A0%81-%EC%9E%88%EC%9C%BC%EC%84%B8%EC%9A%94-%EB%B0%A9%EA%B0%88%EB%A1%9C%EB%A5%B4%EC%9D%98-%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88-activity-7465781598890655744-v_uB)
       * Atlassian 디자인 헤드 Hardik Pandya의 16KB 마크다운 스킬(7.6k stars). LLM이 AI 어투(throat-clearing 도입부, "X가 아니라 Y" 이분 구조, 무생물 주어, 부사·수동태·em dash 등)를 회피하게 학습. 8개 규칙(능동태·구체성·"you"로 독자 호명·리듬 변주·독자 지능 신뢰), 12개 출판 전 체크리스트, 5축 50점 스코어링(Directness·Rhythm·Trust·Authenticity·Density, 35점 미만 자동 재작성). 4가지 설치 방식(Claude Code 스킬 폴더·Claude Projects 지식·Custom Instructions·API 시스템 프롬프트). 배경: 메리엄-웹스터 2025 올해의 단어 "slop", 2026 Q1 신규 영어 웹 문서 49.9% AI 생성. 영문 산문 전용이지만 8개 규칙 중 ~6개는 한국어에도 전이 가능. MIT
+    * [RayCodes_Humanizer: Humanizer Skill 3.0 — Local AI prose humanizer skill for Ollama, Claude Code, and Skills CLI](https://github.com/47thtechcorner/RayCodes_Humanizer)
+      * [Humanizer Skill 3.0: Make AI Writing Sound 100% Human Locally! - YouTube](https://www.youtube.com/watch?v=A5Z7XJpZLWI)
+      * Ray Codes. 로봇 같은 AI 문서를 문법·구문을 깨지 않고 자연스러운 기술 글로 바꾸는 무료 로컬 humanizer 스킬—Ollama·Claude Code·Skills CLI에서 구동. Python
   * [Subagent-Bionic-Claude: Have Claude use a offline LLM as a subagent](https://github.com/JohnCorreiaisme/Subagent-Bionic-Claude)
     * Claude가 오프라인 로컬 LLM을 서브에이전트로 부리게 하는 도구. PowerShell
   * [tailclaude: Claude Code on your Tailscale tailnet, powered by the iii engine](https://github.com/rohitg00/tailclaude)
@@ -7032,7 +7049,8 @@ Artificial Intelligence
 * [Proliferate | Run a team of coding agents](https://proliferate.com/)
   * [proliferate: The open-source AI IDE for Claude Code, Codex, OpenCode, and more. Run agents in parallel, locally or in the cloud, and build reusable workflows](https://github.com/proliferate-ai/proliferate)
   * [Proliferate - 여러 코딩 에이전트를 병렬로 실행하는 오픈소스 AI IDE | GeekNews](https://news.hada.io/topic?id=33463)
-  * Claude Code·Codex·Gemini·오픈 모델을 로컬/클라우드에서 병렬 실행하고 재사용 가능한 워크플로를 만드는 오픈소스 에이전트 워크스페이스. TypeScript, 489 stars
+  * [Proliferate: 여러 코딩 에이전트를 병렬로 실행하는 오픈소스 AI IDE | digitalbourgeois](https://digitalbourgeois.tistory.com/3659)
+  * Claude Code·Codex·OpenCode·Cursor·Grok 등 여러 코딩 에이전트를 한 워크스페이스에서 병렬 실행—태스크마다 격리된 git worktree(브랜치·터미널·대화·리뷰 상태)를 부여해 동시 작업 시 코드 충돌 방지, 진행 상황과 변경 내용을 한곳에서 확인. 로컬·클라우드 실행, 재사용 가능한 워크플로우. TypeScript, AGPL-3.0
 * [Prompt-Enhancer](https://github.com/xavierchoi/Prompt-Enhancer)
 * [quarkify: Local-first static analysis engine & source code topology map builder](https://github.com/companyjupiter/quarkify)
   * "모든 것은 폴더다" 철학의 설정 기반 정적 분석 엔진. 복잡한 소스코드를 파싱해 구조를 물리적 디렉토리 트리로 materialize—AI 코딩 에이전트(LLM)가 파일을 열지 않고도 대규모 코드베이스를 로컬에서 탐색·분석할 수 있는 AI-Ready Code Map 생성. JavaScript, Apache-2.0
