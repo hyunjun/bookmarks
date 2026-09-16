@@ -1573,6 +1573,11 @@ Linux
   * [Stow has forever changed the way I manage my dotfiles - YouTube](https://www.youtube.com/watch?v=y6XCebnB9gs)
   * [Why I'm Ditching Nix Home Manager - And What I'm Using Instead - YouTube](https://www.youtube.com/watch?v=U6reJVR3FfA)
     * [dotfiles: My dotfiles synced from localhost and remote machines](https://github.com/omerxx/dotfiles)
+* [superfile: Pretty fancy and modern terminal file manager](https://github.com/yorukot/superfile)
+  * [superfile 공식 사이트](https://superfile.dev/)
+  * [I wish I knew about this package sooner - YouTube](https://www.youtube.com/watch?v=bCibCIpq5ko)
+    * Melkey. superfile 소개—파일 처리를 더 쉽고 빠르고 효율적으로 만들어주는 터미널 파일 매니저 리뷰
+  * 모던하고 화려한 TUI 터미널 파일 매니저. Go, MIT, 23k stars
 * [TerminalTextEffects (TTE) is a terminal visual effects engine](https://github.com/ChrisBuilds/terminaltexteffects)
   * [TerminalTextEffects Docs](https://chrisbuilds.github.io/terminaltexteffects/)
   * [TerminalTextEffects (TTE) - 터미널 텍스트 효과 엔진 | GeekNews](https://news.hada.io/topic?id=15062)
