@@ -349,6 +349,8 @@ Monitoring
   * [라이브 서비스의 친구 Sentry. 이호성 - PyCon Korea 2021 - YouTube](https://www.youtube.com/watch?v=28PAPRLit4Q)
   * [Sentry로 우아하게 프론트엔드 에러 추적하기 | Kakao Pay Tech](https://tech.kakaopay.com/post/frontend-sentry-monitoring)
   * [선제적 장애 대응을 위한 Sentry 최적화 적용기 | 우아한형제들 기술블로그](https://techblog.woowahan.com/21604/)
+  * [Sentry, Grafana로 사용자가 겪는 오류 찾아내기 | 요즘IT](https://yozm.wishket.com/magazine/detail/3950/)
+    * 프론트엔드 에러 모니터링을 Sentry·Grafana 무료 티어로 운영하고 MCP로 쿼리까지 자동화한 실무 적용기
 * [shark: Modern System Performance Management](http://www.sharkly.io/)
 * [SigNoz - an open-source APM. It helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥. 👉 Open source Application Performance Monitoring (APM) & Observability tool](https://github.com/SigNoz/signoz)
   * [Open source APM | SigNoz](https://signoz.io/)
