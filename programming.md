@@ -2495,7 +2495,7 @@ Programming
   * 7. MVP (Model-View-Presenter): A pattern that makes your user interfaces easier to test and maintain
   * 8. DDD (Domain-Driven Design): This one's about making your code speak the language of the business. Crucial for complex domains
   * 9. Space-Based: Designed for high scalability, using in-memory data grids. Perfect for applications with unpredictable load
-* [The Log: What every software engineer should know about real-time data's unifying abstraction | LinkedIn Engineering](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
+* [**The Log: What every software engineer should know about real-time data's unifying abstraction | LinkedIn Engineering**](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
   * [**소프트웨어 엔지니어가 알아야 할 로그에 대한 모든 것. Apache Kafka의 탄생배경을 따라가보기 | by scalalang2 | RATE Labs | Aug, 2023 | Medium**](https://medium.com/rate-labs/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EA%B0%80-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A0-%EB%A1%9C%EA%B7%B8%EC%97%90-%EB%8C%80%ED%95%9C-%EB%AA%A8%EB%93%A0-%EA%B2%83-11513af8b998) 매우 좋은 글
     * Kafka를 만든 Jqy Kreps가 2013년에 작성한 글을 번역 정리한 글
     * Kafka를 만들면서 고민한 로그에 대한 생각
@@ -2503,6 +2503,8 @@ Programming
       * 데이터베이스, 분산 합의 알고리즘, 합의, 버전 제어 등에 모두 로그 사용
       * 이 로그를 데이터 통합, 실시간 처리, 시스템 구축에서 어떻게 사용하는지 설명
     * 10년 전 글이지만 중간에 작성자의 의견과 추가 정보가 담겨 있어서 더 이해하기 좋음
+  * [Kafka 제대로 이해하기 | 멤버십 영상 - YouTube](https://www.youtube.com/watch?v=v2Eab3U0W9s)
+    * 코딩하는기술사. Jay Kreps의 2013년 원문을 리뷰하며 분산 시스템에서 로그의 역할·중요성과 Kafka의 탄생 배경, 데이터 흐름 이해까지
 * [아키텍처 시각화 패턴 I | Architecture 101](https://architecture101.blog/2013/09/09/architecture_visualization_i/)
 * [아키텍처 시각화 패턴 II | Architecture 101](https://architecture101.blog/2013/10/08/architecture_visualization_ii/)
 * [아키텍처 시각화 패턴 III | Architecture 101](https://architecture101.blog/2023/08/20/archiecture_visualization_iii/)
