@@ -96,6 +96,9 @@ GIS
   * 로컬에 데이터를 저장하는 무료 오픈소스 클라우드 네이티브 GIS 플랫폼. Tauri v2·React·MapLibre GL JS·DuckDB-WASM Spatial·deck.gl 기반으로 웹·데스크톱·모바일·Jupyter 동작. GeoJSON·Shapefile·GeoPackage 로딩, DuckDB SQL 워크스페이스, 3D 렌더링, 실시간 협업 편집, AI 자연어 GIS, Planetary Computer·Earth Engine 연동
 * [GlobalBuildingAtlas](https://github.com/zhu-xlab/GlobalBuildingAtlas)
   * [27억5000만채…전세계 모든 건물 ‘용적’까지 파악한 입체지도 나왔다](https://v.daum.net/v/20251212093616829)
+* [OSIRIS — Open Source Intelligence Platform | Live Flight Tracking, CCTV, OSINT Tools & More](https://osirisai.live/)
+  * [osiris: Open Source Global Intelligence Platform - Real-Time OSINT Dashboard - A Palantir Alternative](https://github.com/simplifaisoul/osiris)
+  * 3D 지구 위에 항공기 1만+·위성 2천·전세계 CCTV를 실시간 추적하고, 브라우저에서 Nmap·DNS·WHOIS·위협 인텔리전스 스캔 실행. 20+ 라이브 인텔리전스 피드, Palantir 대안 지향. 무료 오픈소스, TypeScript, 9.6k stars
 * [H3: Uber’s Hexagonal Hierarchical Spatial Index](https://eng.uber.com/h3/) 지형 공간 데이터를 시각화 탐색을 용이하도록 하기 위해 개발한 오픈 소스 그리드 시스템
   * [h3: Hexagonal hierarchical geospatial indexing system](https://github.com/uber/h3)
   * [Large Scale Geospatial Indexing and Analysis on Apache Spark - YouTube](https://www.youtube.com/watch?v=TF_VvPUPCqU)
