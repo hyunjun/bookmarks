@@ -108,6 +108,10 @@ Robot
   * [Oomwoo - 직접 만드는 오픈소스 로봇 청소기 | GeekNews](https://news.hada.io/topic?id=31060)
   * 메이커용 DIY 로봇 청소기. 2D LiDAR 매핑·자율 주행, ROS 2·Home Assistant 연동, 클라우드 없는 로컬 우선, 3D 프린팅 부품. Raspberry Pi + 부품 $100~200으로 $500~600급 상용 청소기 목표
 * [Robocode Home](https://robocode.sourceforge.io/)
+* [로봇 아틀라스 — 생각에서, 움직임으로](https://robot-atlas.whchoi.net/)
+  * [로봇 아틀라스 워크숍](https://robot-atlas.whchoi.net/workshop/)
+  * 자연어로 로봇 팔에 작업을 지시하고 결과를 3D로 확인하는 Physical AI 실습 에셋. MuJoCo·NVIDIA Isaac Sim을 선택해 물건 옮기기·쌓기·정밀 배치 등 9가지 시연, Amazon Bedrock AgentCore 기반 작업 계획과 AWS 실행 환경 연결. 워크숍은 시뮬레이션 구성→클라우드 배포→EKS Spot 중단 대비 작업 복구까지 단계별 실습
+  * 구성: 모델은 Bedrock GPT-6 Astra, MuJoCo는 ECS Fargate, Isaac Sim은 EKS AutoMode Spot의 g6e 인스턴스. 노드가 바뀌어도 S3 Cache Mount로 g6e를 빠르게 띄워 비용을 절반 이하로 낮춤. CloudFront·ALB·ECS Fargate·Bedrock AgentCore·S3·DynamoDB·EKS AutoMode 사용
 * [SimFoundry: Modular and Automated Scene Generation for Policy Learning and Evaluation](https://github.com/NVlabs/SimFoundry)
   * [SimFoundry | NVIDIA Research](https://research.nvidia.com/labs/gear/simfoundry/)
   * [2606.28276 SimFoundry](https://arxiv.org/abs/2606.28276)
