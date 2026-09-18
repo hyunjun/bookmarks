@@ -2459,6 +2459,8 @@ NLP
   * 결론
     * 사용자 경험을 최적화하기 위해 프롬프트 템플릿을 포함한 전체 LLM 기반 시스템을 평가 중요성 강조
     * 최적의 결과를 얻기 위한 최선의 방법, 표준 도구 및 선별된 데이터셋의 역할 강조
+* [리더보드 1등 LLM, 토스에서도 1등일까? - Toss Benchmark 구축기 | Toss Tech](https://toss.tech/article/toss-benchmark)
+  * 공개 리더보드 순위가 자사 서비스 성능과 일치하지 않는다는 문제에서 출발해, 토스의 AI 기반 서비스에 적합한 LLM을 자체 평가하는 Toss Benchmark 구축 과정
 * [On-device용 AI 모델과, Cloud향 AI 모델의 구조가 점점 달라지는 방향으로 최적화될 거 같다는 예상](https://www.facebook.com/groups/TensorFlowKR/posts/2252038391803873)
 * [SK AI 경연 최우수상 수상 후기: 1B 모델로 tool calling하기 SK그룹에서는 매년 전 계열사가 참여하는 AI… | Jihwan Kim](https://www.linkedin.com/posts/jihwan-kim-749ba6164_sk-ai-%EA%B2%BD%EC%97%B0-%EC%B5%9C%EC%9A%B0%EC%88%98%EC%83%81-%EC%88%98%EC%83%81-%ED%9B%84%EA%B8%B0-1b-%EB%AA%A8%EB%8D%B8%EB%A1%9C-tool-calling%ED%95%98%EA%B8%B0-activity-7393153299140681728-Z6jh) on-device 경량 언어모델 개발
   * 1B 크기의 경량 모델(llama 3.2 1b)로 수십 종류의 function call을 정확하게 수행 필요
@@ -2714,6 +2716,9 @@ NLP
   * [Grouped Query Experts: Mixture-of-Experts on GQA Self-Attention Review | dimensionstp](https://dimensionstp.github.io/study-concept/gqe/)
     * [Grouped Query Experts: Mixture-of-Experts... | Joohyung Han](https://www.linkedin.com/posts/joohyung-han-669943213_grouped-query-experts-mixture-of-experts-share-7499677499665281024-NcHN/)
   * MoE를 FFN이 아닌 attention block 안으로 가져오되 GQA의 KV-cache 구조는 유지하고 query-head 계산만 conditional하게 줄이는 GQE. 각 GQA 그룹 안에 여러 query-head expert를 두고 router가 토큰마다 top-k만 선택—KV cache layout은 GQA와 동일, query-side attention 연산만 절감
+* [CPU MoE Offloading: GPU 메모리의 한계를 넘으면 무엇이 달라질까 | A Story about...](http://kyunam.com/?p=1036)
+  * [480B 모델을 H100 8장이 올리십니까? 전 4장으로 서빙 합니다 | mystous](https://www.linkedin.com/posts/mystous_llminference-moe-cpuoffloading-ugcPost-7505930907988480000-iaZb/)
+  * Qwen3-Coder-480B-A35B(층마다 160 expert 중 토큰당 8개 활성)를 H100 8장 대신 4장으로 서빙하는 CPU MoE Offloading—자주 쓰는 hot expert는 GPU HBM에 두고 GPU가 계산, cold expert는 호스트 메모리에 두고 CPU가 직접 계산해 결과만 GPU로 반환
 * [인공지능소사이어티 - 연구활용 실전 LLMs | Pega Devlog](https://jehyunlee.github.io/2024/08/29/General-60-researchLLMs/)
 * [LLM, 더 저렴하게, 더 빠르게, 더 똑똑하게 - tech.kakao.com](https://tech.kakao.com/posts/633)
 * [Jonas Kim - 지난주 AWS AI Day에서 'AI Agentic Workflow: 단순 업무 보조에서 비즈니스... | Facebook](https://www.facebook.com/aldente0630/posts/pfbid02VUugMrLApo6zftJv6UF4NGEtu9P2UQykm778tPE13ixdSFBXY6H3QobTW96sU5p6l)
