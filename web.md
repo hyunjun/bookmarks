@@ -874,6 +874,8 @@ Web
 * [eventlet#web-crawler](http://eventlet.net/doc/examples.html#web-crawler)
 * [facebook-scraper: Scrape Facebook public pages without an API key](https://github.com/0xSojalSec/facebook-scraper)
 * [Google Image Downloader - A simple script that fetches images from Google with browser simulation](https://github.com/bemoregt/google-image-downloader)
+* [iris: Screenshots of live websites. Minimal interface, powerful engine](https://github.com/brijr/iris)
+  * 라이브 웹사이트 스크린샷 도구. 미니멀 인터페이스, Rust, 377 stars
 * [kocrawl: A collection of useful Korean crawlers (always updated)](https://github.com/gusdnd852/kocrawl)
 * [KoreaNewsCrawler: 대량의 뉴스 데이터를 수집하기 위해 만들어진 뉴스 크롤러입니다](https://github.com/lumyjuwon/KoreaNewsCrawler)
 * [newscatcher - Programmatically collect normalized news from (almost) any website](https://github.com/kotartemiy/newscatcher)
