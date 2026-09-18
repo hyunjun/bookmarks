@@ -2958,6 +2958,8 @@ Programming
 * [NHN FORWARD 22 DDD 뭣이 중헌디? 🧐 - YouTube](https://www.youtube.com/watch?v=6w7SQ_1aJ0A)
 * [모두를 위한 DDD | 오토피디아 블로그](https://blog.doctor-cha.com/introduction-to-domain-driven-design-for-everyone)
 * [값 객체(Value Object)를 활용하여 변경 용이성 개선하기 | by 설연수 | 29CM TEAM | Sep, 2023 | Medium](https://medium.com/29cm/%EA%B0%92-%EA%B0%9D%EC%B2%B4-value-object-%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%98%EC%97%AC-%EB%B3%80%EA%B2%BD-%EC%9A%A9%EC%9D%B4%EC%84%B1-%EA%B0%9C%EC%84%A0%ED%95%98%EA%B8%B0-7457787b84c0)
+* [VO vs DTO: 정의와 용어 혼용의 역사 | 개발수양록](https://blog.benelog.net/vo-vs-dto)
+  * getter/setter만 있는 데이터 운반용 객체를 VO로 부르는 관행이 혼란을 부른다는 지적—VO는 값의 의미·동등성 분류이고 DTO는 데이터 전송 역할 분류. Core J2EE Patterns가 Java/J2EE 진영에 용어 혼용을 확산시킨 사례와 두 패턴의 정의 정리
 * [PyCon KR 2023 Python Domain Driven Desgin 신동현 - YouTube](https://www.youtube.com/watch?v=XJAHwmRKhJA)
 * [Art of Domain Modeling - Eric Normand - reClojure 2021 - YouTube](https://www.youtube.com/watch?v=KmIRWeJDzn8)
 * [Domain-Driven Design Made Me Realize Something About AI Tools - YouTube](https://www.youtube.com/watch?v=HM8jWW1tnqY)
