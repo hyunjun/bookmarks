@@ -220,6 +220,9 @@ Azure
 * [Enhancing AI Integrations with MCP and Azure API Management | Microsoft Community Hub](https://techcommunity.microsoft.com/blog/azuredevcommunityblog/enhancing-ai-integrations-with-mcp-and-azure-api-management/4407114)
 * [Azure AI Mind Map: Visual Guide to Scalable AI Applications - YouTube](https://www.youtube.com/watch?v=gf2xfNT7Mqw)
   * [Azure AI Mind Map: Visual Guide to Scalable AI Applications | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5154967/4586557)
+* [Publish agents to Microsoft 365 and Teams by using the REST API | Microsoft Foundry](https://learn.microsoft.com/en-us/azure/foundry/agents/how-to/publish-copilot-virtual-network)
+  * [재밌는 아키텍처 구성이 하나 나왔네요. 보안을 강화한 Private Networking 상태의 Microsoft Foundry Agent를 Microsoft 365 Copilot 및 Teams에 게시 | Korea Azure User Group | Facebook](https://www.facebook.com/groups/krazure/permalink/38511306095151422/)
+  * VNet Injection + Public Network Access Disabled 상태의 Foundry Agent를 Activity Protocol Endpoint로 M365 Copilot·Teams에 게시하는 방법
 
 # AKS
 * [애저듣보잡 AKS 활용법 101 - 박인혜 - YouTube](https://www.youtube.com/playlist?list=PLDZRZwFT9WkuMBsjmzk5E7GOG8DIh49Ur)
