@@ -1276,6 +1276,13 @@ Artificial Intelligence
     * OpenRouter 사용량 1위 등극(Openclaw 추월). 4가지 자가 개선 메커니즘: 복잡 작업 자동 스킬 문서화, SQLite 기반 빠른 스킬 검색, 지속적 메모리 개선, 세션 간 사용자 모델 유지. 20+ 메시징 플랫폼·다중 백엔드 지원
   * [지금 가장 쉬운 AI 사업 아이디어 - YouTube](https://www.youtube.com/watch?v=-DXhS_uAMIw)
     * 노마드 코더. Hermes Agent를 'AI 직원'으로 만들어 비즈니스로 파는 방법. 스스로 발전하는 구조, Hostinger 배포, AI 직원 커스터마이징·사업 모델
+  * [홍순성 - 헤르메스 에이전트 설치 문서 6종을 PDF로 공개합니다. 호스팅 가입부터 텔레그램·옵시디언 연결까지 STEP... | Facebook](https://www.facebook.com/hongss7/posts/pfbid0j2Rds4DXBexGGPRX2QYRRfsA4Xdz5ULXocAWq47cbgkzhD84CjSMwCM7gBPjDqeol)
+    * [00 먼저 읽기 — 헤르메스 에이전트 설치 안내 (PDF)](files/hermes_agent_00_install_intro.pdf)
+    * [01 따라 하기 — 호스팅어 VPS에 헤르메스 에이전트 설치 7 STEP (PDF)](files/hermes_agent_01_hostinger_vps_7step.pdf)
+    * [02 연결 — 텔레그램 6 STEP](files/hermes_agent_02_telegram_6step.md)
+    * [03 연결 — 슬랙 6 STEP](files/hermes_agent_03_slack_6step.md)
+    * [04 연결 — 옵시디언 헤드리스 12 STEP](files/hermes_agent_04_obsidian_headless_12step.md)
+    * [05 연결 — 구글 드라이브 9 STEP](files/hermes_agent_05_google_drive_9step.md)
   * [hermes-paperclip-adapter: Paperclip adapter for Nous Research's Hermes Agent](https://github.com/NousResearch/hermes-paperclip-adapter)
     * Paperclip 회사 환경에서 Hermes Agent를 관리되는 직원처럼 운영. 8개 추론 프로바이더(Anthropic/OpenRouter/OpenAI/Nous/Codex/ZAI/Kimi/MiniMax), 30+ 네이티브 도구·80+ 스킬·MCP, 영구 세션·하트비트, 이슈 할당/댓글로 트리거
   * [hermes-war-room: Visual command center for Hermes Agent's multi-agent orchestration](https://github.com/Naroh091/hermes-war-room)
@@ -2164,6 +2171,8 @@ Artificial Intelligence
 * [OpenAI researcher on agent swarms & recursive self-improvement | Noam Brown - Dwarkesh Podcast - YouTube](https://www.youtube.com/watch?v=6AgOfiZOWiY)
   * [Noam Brown — "We never want to be in a situation again where we underestimate the AI" | Dwarkesh Podcast](https://www.dwarkesh.com/p/noam-brown)
   * [New episode with @polynoamial | Dwarkesh Patel on X](https://x.com/dwarkesh_sp/status/2100616332144169048)
+  * [What Happens When AI Starts Improving AI? | TITV's AI Deep Dive - YouTube](https://www.youtube.com/watch?v=fqcy0xQATq0)
+    * The Information. OpenAI 연구원 Noam Brown이 Rocket Drew와 대담—AI 에이전트·강화학습, 유능해진 에이전트들이 서로 추론·위임·조율하기 시작하면 벌어지는 일, Hugging Face 사건, AI '연구 취향(research taste)'의 한계, 다음 세대 AI 개선을 돕는 시스템을 향한 OpenAI의 시도
   * OpenAI 연구자 Noam Brown과 멀티 에이전트(agent swarm), Navier-Stokes 등 최근 수학 연구의 폭발적 진전이 AI 연구 자동화 이후를 어떻게 예고하는지, 그리고 재귀적 자기개선(RSI)을 시작하기 전에 모델이 실제로 정렬됐는지 어떻게 알 수 있는지 논의
 * [ai-tech-interview: 👩‍💻👨‍💻 AI 엔지니어 기술 면접 스터디 (⭐️ 2k+)](https://github.com/boost-devs/ai-tech-interview)
 * [interviews.ai: This book was written for you: an aspiring data scientist with a quantitative background, facing down the gauntlet of the interview process in an increasingly competitive field. For most of you, the interview process is the most significant hurdle between you and a dream job](https://github.com/BoltzmannEntropy/interviews.ai)
@@ -4300,6 +4309,9 @@ Artificial Intelligence
   * [AI 보조 코딩이 소프트웨어 엔지니어링을 어떻게 바꿀 것인가: 불편한 진실 | GeekNews](https://news.hada.io/topic?id=18712)
 * [한영자막 AI 시대의 코드 품질: 완벽한 코드로도 부족한 진짜 이유입니다 - YouTube](https://www.youtube.com/watch?v=3JDqfWGKoiY)
   * Tech Bridge. AI가 깔끔한 코드를 몇 초에 만들어도 소프트웨어 품질의 본질은 코드 작성이 아니라는 관점—구현 품질에서 결정 품질로(엔지니어 판단력이 핵심 가치), 단일 파일에서 시스템 단위 품질 평가로, 작성자 신뢰가 아닌 지속적 행동 검증·옵저버빌리티로, 문서가 아닌 실행 가능한 자동화 가드레일로, 릴리스 직전 체크포인트가 아닌 라이프사이클 전체의 실천으로
+* [AI Didn't Make Software Engineering Easier. It Made the Hard Parts Harder | DEV Community](https://dev.to/iampraveen/ai-didnt-make-software-engineering-easier-it-made-the-hard-parts-harder-39n4)
+  * [개발자 커뮤니티에 올라온 글 하나가 계속 회자되고 있어서 소개해드립니다 | 최용식 | Facebook](https://www.facebook.com/cys712/posts/pfbid0239nr893rbekAiNiuVRPKXJab1dG6u8ptgccMYQJNUHZX7grK6MwKng2u2jDnb5yal)
+  * Praveen Rajamani. 사이드 프로젝트에 AI 도구를 본격적으로 쓰면서 일이 쉬워질 거라 기대했지만—상투적·반복적인 코드는 AI가 처리해 주는 대신 어려운 부분이 오히려 더 어려워졌다는 경험론. 수천 개 반응을 얻으며 개발자 커뮤니티에서 크게 공감을 산 글
 * [Measuring the impact of AI on software engineering – with Laura Tacho](https://newsletter.pragmaticengineer.com/p/measuring-the-impact-of-ai-on-software)
   * [데이터는 과장 광고를 이깁니다(Data beats hype)](https://www.linkedin.com/posts/fupfin_measuring-the-impact-of-ai-on-software-engineering-activity-7362475426436276226-Q5Cf/)
     * AI를 도입하기는 했지만 얼마나 효과적인지 몰라 DX와 같이 데이터를 측정하며 AI 도입 전략을 정밀하게 수립하고 추진
@@ -4900,6 +4912,8 @@ Artificial Intelligence
 * [TaskMaster AI](https://www.taskmaster.one/)
 * [Taskmaster AI - The PM for your AI agent](https://www.task-master.dev/)
   * [claude-task-master: An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.](https://github.com/eyaltoledano/claude-task-master)
+* [TCDD — Test × CodeReview Driven Development](https://github.com/hunkim/TCDD)
+  * 테스트가 코드 변경을 게이트하고, Solar Pro 4 리뷰가 DONE을 게이트하는 에이전트 스킬. 에이전트 스킬 폴더에 넣고 루프를 돌리는 방식—SKILL.md 본체, Freebuff 사후 변경 리뷰 동반 스킬, Solar Pro 4 강제·검증 스크립트, 코드리뷰 템플릿 포함. Python
 * [TesterArmy: Test your app with AI, catch bugs before users do](https://tester.army/)
   * AI가 앱을 테스트해 사용자보다 먼저 버그를 잡아주는 도구
 * [ThesisAI](https://thesisai.io/)
