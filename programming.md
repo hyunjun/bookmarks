@@ -8393,6 +8393,9 @@ Programming
   * [NSA가 만든 무료 리버스 엔지니어링 툴, "기드라" 사용 방법](http://www.itworld.co.kr/news/122618)
   * [리버스 엔지니어링 도구 기드라의 좋은 시작점 : 네이버 블로그](https://blog.naver.com/drvoss/222654240906)
   * [Patching an Embedded OS from 1996 with Ghidra](http://blog.petersobot.com/patching-the-k2500)
+  * [ghidra: Ghidra is a software reverse engineering (SRE) framework | NSA](https://github.com/NationalSecurityAgency/ghidra)
+  * [소스코드 없이 소프트웨어 내부를 분석하는 방법 | 이상선 | Facebook](https://www.facebook.com/lsszz1/posts/pfbid0o3xbEnWgAbPa7V9gXBZkdZ1yYoW6xXYT2gYJh4SMdnMuN5rLDLAGEX6vhqy7QSSl)
+    * NSA가 개발한 오픈소스 리버스 엔지니어링 프레임워크 소개—컴파일된 프로그램 디컴파일·어셈블리 분석, 내부 로직·함수 구조 파악, 의심 파일·악성코드 분석, 디버깅·에뮬레이션·그래프 분석·스크립팅
 * [h4cker - This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more](https://github.com/The-Art-of-Hacking/h4cker)
 * [hacksguard: A blazingly fast, multi-threaded TUI malware analysis tool built in Rust](https://github.com/Rhacknarok/hacksguard)
   * Rust 기반 터미널 악성코드 분석 도구. 심층 PE 파싱, YARA 스캔, 휴리스틱 리스크 스코어링. 멀티스레드 동시 처리, 엔트로피 그래프·디스어셈블리 뷰를 인터랙티브 CLI로 제공
