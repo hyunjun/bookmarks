@@ -263,6 +263,8 @@ Graph
   * PyData & PyCon Yerevan 2026 키노트. AI와 비즈니스 지식 사이의 잃어버린 고리로서의 시맨틱 레이어
 * [Why Agentic Systems Need Ontologies — Frank Coyle, UC Berkeley - YouTube](https://www.youtube.com/watch?v=Sir59K8ZDPU)
   * AI Engineer. 확률적 에이전트가 저지르는 실수(같은 주문 이중 환불, 잘못된 수취인에게 지급, "아마 배송됨" 같은 모호한 상태)를 온톨로지로 방지—에이전틱 시스템에 온톨로지가 필요한 이유
+* [#2. 온톨로지는 검색이 아니라 실행이어야 합니다 — AI-Native 금융을 향한 두 개의 축 | Hongsoo Kim](https://www.linkedin.com/posts/hongsoo-kim-2bb23512_toss-ainative-ontology-share-7506149649385197569-AFHM/)
+  * 토스. 고객데이터 온톨로지(마이데이터 기반 시맨틱 레이어—테이블·컬럼 위에 지표 노드를 올리고 각 지표에 SQL 표현을 묶어 숫자를 검증된 채로 답하게)와 사내지식 온톨로지 두 축. 틀린 숫자는 틀린 답이 아니라 사고라는 관점
 * [How Cerebras Built Its Enterprise Knowledge Base | Cerebras](https://www.cerebras.ai/blog/how-we-built-our-knowledge-base)
   * [Cerebras on X](https://x.com/cerebras/status/2077822555159945507)
   * [Cerebras 사내 지식 베이스 구축 전략: 기존 업무 환경을 유지하면서 AI 검색 시스템을 만든 방법 | digitalbourgeois](https://digitalbourgeois.tistory.com/3429)
