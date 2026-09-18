@@ -503,6 +503,9 @@ Artificial Intelligence
   * [sample-aidlc-kiro-power: AI-DLC Methodology Power for Kiro](https://github.com/aws-samples/sample-aidlc-kiro-power)
     * Kiro IDE용 AI-DLC 파워. 프로젝트 복잡도 기반 자동 단계 조정(Inception→Construction→Operations), 리스크 기반 평가, 품질 게이트, aidlc-docs/ 감사 추적
   * [aidlc-cc-plugin: AI-DLC (AI-Driven Development Life Cycle) claude code plugin](https://github.com/ijin/aidlc-cc-plugin)
+  * [AIDLC Collaborative Documentation](https://aws-samples.github.io/sample-collaborative-ai-dlc/)
+    * [sample-collaborative-ai-dlc: AI-DLC: Collaborative AI-Driven Development Lifecycle](https://github.com/aws-samples/sample-collaborative-ai-dlc)
+    * 여러 사람이 함께 쓰는 협업형 AI-DLC 샘플 구현과 문서. JavaScript, 78 stars
 * [이길환 - 제목: MCP, RAG, AI 에이전트, 대체 뭐가 다를까?…'계층'으로 이해해야 쉬운 AI 기술 트리오... | Facebook](https://www.facebook.com/weaikorea/posts/pfbid02tGCNoydznP3sSJREX76d7gp7C9Hy1f5twwam7FQcfmAray5sCg2QngBU2nkkdqvvl)
 * [The future of software engineering is SRE | Swizec Teller](https://swizec.com/blog/the-future-of-software-engineering-is-sre/)
   * [What is Agentic SRE? The Next Evolution of Reliability Engineering | PlayerZero](https://playerzero.ai/resources/what-is-agentic-sre-the-next-evolution-of-reliability-engineering)
