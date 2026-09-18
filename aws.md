@@ -540,6 +540,8 @@ AWS
 * [AWS를 활용하여 망간 파일전송 시스템 구축하기 | 뱅크샐러드](https://blog.banksalad.com/tech/how-we-transfer-files-in-network-separation-environment/)
 * [AWS Nitro System 기밀 컴퓨팅 기능에 대한 외부 검증 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/aws-nitro-system-gets-independent-affirmation-of-its-confidential-compute-capabilities/)
 * [AWS Supply Chain 서비스를 활용하여 SAP ECC 데이터로 수요 예측하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/aws-supply-chain-with-sap-ecc/)
+* [From zero-shot forecast to purchase order with Amazon Bedrock AgentCore | AWS Architecture Blog](https://aws.amazon.com/ko/blogs/architecture/from-zero-shot-forecast-to-purchase-order-with-amazon-bedrock-agentcore/)
+  * 수요를 정확히 예측해도 "몇 개 발주할까"는 여전히 사람이 스프레드시트로 정하는 마지막 구간을 자동화. Chronos2가 SKU별 학습 없이 zero-shot으로 수요를 내놓고, 4개 에이전트(Strands + Bedrock AgentCore)가 그 예측을 규칙에 맞춰 검증된 발주로 연결
 * [Amazon Kendra로 모든 유형의 자료 검색 구축하기 1부 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/building-search-foralltype-amazon-kendra/)
 * [Amazon Kendra로 모든 유형에 대한 자료 검색 구축하기 2부 – 음성 및 영상 검색 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/building-search-for-all-type-articles-amazon-kendra/)
 * [Amazon Kendra, LangChain 및 대규모 언어 모델(LLM)을 사용하여 엔터프라이즈 데이터에서 높은 정확도의 생성형 AI 애플리케이션을 빠르게 구축하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/quickly-build-high-accuracy-generative-ai-applications-on-enterprise-data-using-amazon-kendra-langchain-and-large-language-models/)
