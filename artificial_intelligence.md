@@ -832,6 +832,10 @@ Artificial Intelligence
   * 벡터 RAG vs 결정 장부(decision ledger) vs 오라클 메모리 성능 비교—순위 기반 결정 장부가 정확도와 비용을 함께 개선. 로컬 모델로 평가를 통제할 때의 이점도 다룸
 * [Agent Memory Systems and Knowledge Graphs: Letta, Mem0, Graphiti, and Cognee | Code Pointer](https://codepointer.substack.com/p/agent-memory-systems-and-knowledge)
   * Yongkyun Lee, 2026.5.28. 4개 오픈소스 장기 메모리 비교를 "그래프 적은→많은" 스펙트럼으로. Letta(MemGPT)는 그래프 없음—`core_memory_replace` 같은 도구로 텍스트 블록 자가 편집, 계층 메모리(core/archival vector/recall/filesystem). Mem0는 v3 OSS 리라이트에서 그래프 제거→spaCy 엔티티 링킹+허브앤스포크. Graphiti(Zep)는 양시간 엣지(when_true·when_learned)로 과거 보존, 모순 시 무효화. Cognee는 ECL 파이프라인(Extract-Cognify-Load), Pydantic DataPoint 타입 그래프 엣지, 온톨로지 그라운딩. 트레이드오프: 읽기에 fact-to-fact traversal 필요? 쓰기에 history 보존 필요? 벤더 벤치(LOCOMO/LongMemEval/HotPotQA/BEAM)는 답변 모델·judge 모델·judge 프롬프트가 다 달라 직접 비교 불가
+* [Agent Memory Architecture: 5 Layers That Cut Token Cost 90% and Make Your Agent Actually Learn (PDF)](pdfs/agent_memory_5_layer_playbook.pdf)
+  * [Anthropic just dropped a 13-page PDF on Agent Memory - 5 layers that cut token cost 90% | chuplung on X](https://x.com/choopyplug1/status/2099528592531001825)
+  * 5계층 에이전트 메모리 아키텍처—①working memory(컨텍스트 윈도우) ②episodic(무엇이 일어났나: 타임스탬프·결과 포함 상호작용 로그) ③semantic(무엇이 참인가: 지식 그래프) ④procedural(어떻게 하는가: 재사용 스킬) ⑤forgetting engine(무엇을 지울까: 오래된 데이터 정리·모순 해소). 컨텍스트가 차면 앞부분을 잘라내는 대신 중요한 내용을 episodic으로 오버플로시키는 방식
+  * 근거로 Mem0(토큰 90% 절감·레이턴시 91% 감소), Snowflake(온톨로지 레이어 하나로 정확도 +20%·도구 호출 -39%) 인용. CoALA 인지 아키텍처·Mem0·LangChain 프로덕션 자료 기반. **주의: PDF 표지에 "independently compiled, not affiliated with Anthropic — and not endorsed"라고 명시돼 있어 X 포스트의 "Anthropic이 발표"라는 표현은 사실과 다름**
 * [지금 진짜 쓸 만한 AI 에이전트 10가지 총정리 1: 웹·코딩 에이전트 | 요즘IT](https://yozm.wishket.com/magazine/detail/3786/)
   * [지금 진짜 쓸 만한 AI 에이전트 10가지 총정리 2: 자율 에이전트 | 요즘IT](https://yozm.wishket.com/magazine/detail/3800/)
   * 프로덕트 밸리. 에이전트를 가르는 4가지 기준(컨텍스트·도구·권한·트리거). 1편: 웹(Manus·Genspark)+코딩(Claude Code·Codex·Antigravity·Claude Cowork). 2편: 자율(OpenClaw·Hermes Agent·OpenHuman·Gemini Spark). 3단계 사다리—웹→코딩→자율, 권한을 좁게 시작해 점진 확장
@@ -2001,6 +2005,12 @@ Artificial Intelligence
 * [harness-lab · GitHub](https://github.com/jikime/harness-lab)
   * [바이브코딩 | Facebook](https://www.facebook.com/groups/1183007433518603?multi_permalinks=1465348065284537&hoisted_section_header_type=recently_seen)
   * [하네스 엔지니어링 백과사전 - WikiDocs](https://wikidocs.net/book/19689)
+* [Harness-of-Harness](https://flesymeb.github.io/HarnessOfHarness/)
+  * [2609.01481 Harness-of-Harness: Multi-Day Autonomous Software Development with Continual Improvement](https://arxiv.org/abs/2609.01481)
+  * [HarnessOfHarness: Harness of Harness: Multi-Day Autonomous Software Development with Continual Improvement](https://github.com/Flesymeb/HarnessOfHarness)
+  * [Harness-of-Harness 논문 정리 — Claude Code·Codex에 바로 넣는 Planner·Developer·QA 3역할 프롬프트 | AX LABS 블로그](https://theaxlabs.com/blog/harness-of-harness-planner-developer-qa-prompts)
+  * [상하이 AI Lab이 9월 1일 Harness-of-Harness(HoH) 논문을 공개했습니다 | seungpil](https://www.linkedin.com/posts/seungpil_aislsstwswktxu-claudecode-codex-share-7503688550534684672-l5Tz/)
+  * 상하이 AI Lab. Codex·OpenCode·Pi 같은 기존 하네스를 고치지 않고 같은 하네스를 Planner·Developer·QA 세 역할로 나눠 반복 호출하는 프로토콜. "계속 해줘"부터 같은 곳을 또 고치고 되던 기능을 깨뜨리며 안 된 걸 완료라고 보고하는 문제를 모델 능력이 아니라 긴 궤적에서 검증 상태를 잃는 문제로 규정. 3개 벤치마크 평균 52% 상대 개선, 70루프 FPS 게임 자율 개발
 * [my_harness: Claude Code/Codex 듀얼 런타임 AI 에이전트 팀 생성 팩토리](https://github.com/cookyman74/my_harness)
   * [AI 에이전트 팀 생성 도구를 공유합니다 - 클리앙](https://www.clien.net/service/board/lecture/19212444)
   * 한 문장 도메인 설명 입력 → 분석가·작성자·검토자 등 역할 분리 에이전트 팀+절차 스킬+오케스트레이터 생성(CLAUDE.md/AGENTS.md). 6개 아키텍처 패턴(파이프라인·팬아웃/팬인·스페셜리스트 풀·생성-검증·슈퍼바이저·계층 위임), 내부 QA+외부 AI(Codex/Gemini) 교차검증 2단계 품질 게이트, 리스크 기반 게이트. Apache 2.0
@@ -3460,7 +3470,10 @@ Artificial Intelligence
 * [Is AI Profitable Yet?](https://isaiprofitable.com/)
   * [AI는 아직 수익성이 있는가? | GeekNews](https://news.hada.io/topic?id=29816)
   * 2026.5 기준 누적 지출 1.4조 달러 vs 누적 매출 6,130억 달러—산업 전체 적자. 빅테크 모두 적자: Amazon -$291B/Alphabet -$262B/Microsoft -$235B/Meta -$227B. AI 연구소 모두 적자: OpenAI -$27B/Anthropic -$26.5B/xAI -$19.2B. 유일한 흑자는 Nvidia +$253B. 한계: SEC 공시·유출 자료 기반 비감사 추정, Google→Anthropic→Google Cloud 같은 순환 투자 중복 계산 가능. 댓글 논점—컴퓨트 크레딧·지분 교환 "셸 게임", 추론 마진은 양호·학습 비용 비중 감소 반론, AI 인프라 지출이 미국 주간고속도로 건설비 3배
-* sovereign [쿼바디스, 한국 AI 임문영 “한국형 AI는 소버린 AI가 아니다” – 바이라인네트워크](https://byline.network/2025/07/15-ai/)
+* sovereign
+  * [쿼바디스, 한국 AI 임문영 “한국형 AI는 소버린 AI가 아니다” – 바이라인네트워크](https://byline.network/2025/07/15-ai/)
+  * [소버린 AI를 다시 생각하게 만드는 최근의 사건들 | 이동수 | Facebook](https://www.facebook.com/dongsoo.lee.104/posts/pfbid0RoGAar9TXnEc1ho5YKG8zsBcBctqRcNWdj9EwUgCS1yXCdVLhwMyBh9429pvmVj9l)
+    * 같은 의미도 한국어는 영어보다 더 많은 토큰으로 쪼개지는 토크나이저 비효율이 미국·중국 모델에서 심해지고, 이것이 Agentic AI에서 비용·레이턴시로 직결된다는 소버린 AI 필요성 논의
 * [한영자막 당신만의 AI 스택을 소유하세요 - YouTube](https://www.youtube.com/watch?v=idS9XwpdGdU)
   * Tech Bridge. Sequoia Capital 파트너 Sonya Huang의 'Own Your Intelligence' 키노트. 소버린 AI는 폐쇄형 API를 버리라는 게 아니라 비용·속도·성능·주도권 4가지 이유로 인텔리전스 일부를 직접 소유하는 흐름—"가중치가 없으면 제품도 없다"
   * 무엇을 소유하고 무엇을 빌릴지 판단하는 프레임워크(비용/속도/성능/독점 데이터)와 자체 AI 구축 4단계(전략→팀 구성→가시성→기술 로드맵). 2026년 오픈 웨이트 모델이 특정 도메인에서 폐쇄형 성능을 넘어서는 시점
@@ -4640,6 +4653,11 @@ Artificial Intelligence
   * 화상회의 완전 은닉: Zoom / Google Meet / MS Teams에서도 감지 불가
 * [Google AI 에지  |  Google AI Edge  |  Google AI for Developers](https://ai.google.dev/edge?hl=ko)
   * [Google AI Edge - 온디바이스 크로스플랫폼 AI | GeekNews](https://news.hada.io/topic?id=21249)
+* [Graft: the context layer for large codebases](https://trailhq.com/graft)
+  * [Graft: Turbocharge Claude Code, Cursor, Codex, Gemini & every coding agent](https://github.com/trailhq/Graft)
+  * [한영자막 GitHub 1위 트렌딩 도구가 해결한 AI 에이전트의 치명적인 문제입니다 - YouTube](https://www.youtube.com/watch?v=VCQPCvN4uiA)
+  * 레포를 서로 링크된 평문 영어 페이지 그래프로 매핑해 git에 커밋—Claude Code·Cursor·Codex 등이 콜드 상태에서 grep을 반복하는 대신 방향을 잡고 시작. 도구 호출 46% 감소, 레이턴시 60% 감소, 정확도 손실 없음. TypeScript, 8.5k stars
+    * Tech Bridge 영상: 에이전트가 코드 수정 전에 터미널 검색을 반복하며 토큰을 낭비하고 컨텍스트 한도에 걸리는 문제를 지식 그래프 인덱싱으로 해결하는 방식 소개
 * [graphify: Transform code, docs, papers, images, and videos into interactive knowledge graphs](https://github.com/safishamsi/graphify)
   * [Graphify — Turn any codebase into a queryable knowledge graph](https://graphify.com/)
   * [graphify: A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI | Graphify-Labs](https://github.com/Graphify-Labs/graphify)
@@ -7080,6 +7098,8 @@ Artificial Intelligence
   * [Orchids가 최근 정식 버전을 출시](https://www.facebook.com/groups/1183007433518603?multi_permalinks=1289987116153967&hoisted_section_header_type=recently_seen)
 * [Ornith-1.0-9B-CoreAI · Hugging Face](https://huggingface.co/mlboydaisuke/Ornith-1.0-9B-CoreAI)
   * Qwen3.5 기반 self-scaffolding 에이전틱 코딩 모델의 Apple Core AI 변환. M4 Max에서 48~59 tok/s, Apple Silicon GPU 가속으로 완전 온디바이스 실행
+  * [Ornith-1.5: From Self-Scaffolding to Self-Improvement | Ornith Blog](https://ornith.ai/ornith_1_5.html)
+    * self-scaffolding을 엔드투엔드 자기개선 루프로 확장한 오픈소스 모델 패밀리
 * [Otty — a native, GPU-accelerated terminal with first-class AI code agent support](https://otty.sh/)
   * GPU 가속 네이티브 터미널. 리가처·트루컬러·인라인 이미지·클릭 링크, 탭·페인·분할·세션 복구·커맨드 팔레트. AI 코드 에이전트 1급 지원(에이전트 나란히 실행·진행 모니터링·출력을 챗으로 파이프). macOS 무료(Win/Linux 예정)
 * [The Pair — Automated Pair Programming with AI](https://thepair.timwuhaotian.dev/)
