@@ -87,6 +87,9 @@ Hardware
 * [홈랩 프로젝트#2: 현재 운영중인 장비와 구조 | Write the code. Change the world.](https://kyoungwon.me/homelab/2024/09/14/home-lab-devices/)
 * [230708 방구석 팜(스마트팜) 구축기 - 강성욱 · Present](https://present.do/documents/64aa897810ab9a5ae55bae90)
 * [미니 PC로 홈서버 운영하기 | GeekNews](https://news.hada.io/topic?id=18667)
+* [Umbrel - Personal home cloud and OS for self-hosting](https://umbrel.com/)
+  * [홈서버 어려워서 포기했다면, 이거 설치해 보세요 (N100 미니PC + UmbrelOS) - YouTube](https://www.youtube.com/watch?v=2CMf4reNCWw)
+  * 셀프호스팅용 홈서버 OS(umbrelOS)와 플러그앤플레이 하드웨어(Umbrel Home·Pro). Nextcloud·Jellyfin·비트코인 노드 등 수백 개 앱을 원클릭 설치. 잇츠 매거진 영상은 N100 미니PC에 설치해 영화 서버(Jellyfin)·스마트홈 구성까지
 * [Turning an Old Laptop into a Home Server! (2026) - YouTube](https://www.youtube.com/watch?v=46T4cDQBkDs)
   * [CasaOS - A simple, easy-to-use, elegant open-source personal cloud system](https://casaos.zimaspace.com/)
 * [Firmware Command Injection을 알아보자! : NHN Cloud Meetup](https://meetup.nhncloud.com/posts/376)
