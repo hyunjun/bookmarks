@@ -542,6 +542,9 @@ Programmer
 * ["Software Fundamentals Matter More Than Ever" — Matt Pocock - YouTube](https://youtube.com/watch?v=v4F1gFy-hqg)
   * [GN#355 잃어버린 기본기를 찾아서 | GeekNews](https://news.hada.io/weekly/202617)
   * AI 코딩 에이전트 시대에 오히려 소프트웨어 기본기가 더 중요해짐. Cursor/Claude가 만든 코드가 프로덕션에서 6-12개월 버틸 수 있는지, 팀원 변경 시 유지보수 가능한지에 대한 문제 제기
+* [If You Have Multiple Interests, Please Take Advantage of the Next 10 Years | Dan Koe - YouTube](https://www.youtube.com/watch?v=pmQhqVLVApw)
+  * [36분 영상 83만 뷰, Dan Koe — 직업은 250년짜리 발명품, AI 시대에 남는 스킬 스택 3층 - YouTube](https://www.youtube.com/watch?v=fsZ_7WGEego)
+  * 구독자 142만 작가 Dan Koe의 36분 영상. AI를 거부하지도 전부 맡기지도 않는 세 번째 길—여러 관심사를 하나의 브랜드로 결합하는 전략과 AI 시대에 남는 스킬 스택(AgentOS 한국어 정리 영상 포함)
 * [career-ladders](https://career-ladders.dev/)
 
 # Consult
