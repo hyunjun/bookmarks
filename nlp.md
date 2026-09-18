@@ -2042,6 +2042,12 @@ NLP
 * [The Pile](https://pile.eleuther.ai/)
 * [data-juicer: Data processing for and with foundation models](https://github.com/datajuicer/data-juicer)
   * 파운데이션 모델 학습 데이터의 정제·필터링·중복 제거·분석을 위한 원스톱 데이터 처리 시스템(ModelScope에서 출발, datajuicer 조직으로 이전). Python, 7k stars
+* [ToolGrad: Efficient Tool-use Dataset Generation with Textual Gradients](https://zhongyi-zhou.github.io/toolgrad/)
+  * [2508.04086 ToolGrad: Efficient Tool-use Dataset Generation with Textual "Gradients"](https://arxiv.org/abs/2508.04086)
+  * [toolgrad: ToolGrad: Efficient Tool-use Dataset Generation with Textual "Gradients" (ACL 26 Finding)](https://github.com/zhongyi-zhou/toolgrad)
+  * [ToolGrad: Efficient tool-use dataset generation with textual gradients | Google Research](https://research.google/blog/toolgrad-efficient-tool-use-dataset-generation-with-textual-gradients/)
+  * [ToolGrad: 답변을 먼저 만드는 방식으로 효율적인 AI Tool Use 데이터셋 생성 | digitalbourgeois](https://digitalbourgeois.tistory.com/3661)
+  * Google XR(Zhongyi Zhou·Ruofei Du), ACL 2026 Findings. 사용자 질문을 먼저 만들고 답을 찾는 기존 방식 대신, 검증된 tool-use chain을 먼저 생성하고 그에 맞는 사용자 프롬프트를 나중에 만드는 'answer-first' 접근—textual gradient로 체인을 반복 개선해 복잡한 멀티 API 데이터셋을 저비용으로 대량 생성
 
 # Disambiguation
 
