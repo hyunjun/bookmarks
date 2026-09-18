@@ -120,6 +120,8 @@ Math
   * 현 AI는 속도·폭·대규모 정보 처리의 폰 노이만식에 가깝고, 문제를 근본적으로 재구성하는 아인슈타인식 창의성("문제의 틀이 잘못됐음을 아는 능력")이 다음 단계
 * [This is on Harvard's entry exam.. | Brainblast SAT Prep App](https://www.youtube.com/shorts/aWnZ5cSfFF8)
   * (m−7)/(7−m) = 7 풀이 함정 문제. 기계적으로 양변에 분모를 곱해 풀면 m=7이 나오지만 대입하면 0/0이라 모순. 분자 m−7 = −(7−m)이므로 좌변은 m≠7에서 항상 −1 → −1=7은 불가능, 해 없음(no solution). 구한 해를 원식에 검산하는 습관의 중요성
+* [One of the world's greatest mathematicians explains 6 essential concepts of math | Terence Tao - YouTube](https://www.youtube.com/watch?v=OOMx2BHHWtE)
+  * Big Think. 테렌스 타오가 설명하는 수학의 핵심 개념 6가지
 
 # Bezier
 * [Improving UIBezierPath Performance and API](http://blog.getlooseleaf.com/post/110511009139/improving-uibezierpath-performance-and-api)
