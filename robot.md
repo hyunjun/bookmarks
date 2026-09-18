@@ -47,15 +47,8 @@ Robot
 * [로봇의 분류와 역사, 국가/분야별 로봇 시장 현황 (140p PDF) | GeekNews](https://news.hada.io/topic?id=6010)
 * [미쯔비시 로봇, Rubik's Cube를 0.305초만에 풀어 | GeekNews](https://news.hada.io/topic?id=15237)
 * [로봇 ML 모델의 경량화 1부: 훈련 후 양자화 | 우아한형제들 기술블로그](https://techblog.woowahan.com/18980/)
-* [HIL-SERL: Precise and Dexterous Robotic Manipulation via Human-in-the-Loop Reinforcement Learning](https://hil-serl.github.io/)
-  * 다양한 복잡한 환경에서의 성공적인 로봇 강화학습법, HIL-SERL
-    * 강화학습(RL)은 복잡한 로봇 조작 기술을 자율적으로 습득할 수 있는 큰 잠재력, 실제 환경에서 이러한 잠재력을 실현하는 것은 어려움
-    * UC Berkeley EECS 연구진이 동적 조작, 정밀 조립, 양팔 협조 등 다양한 정교한 조작 작업에서 인상적인 성능을 보여주는
-      * 사람-기계 상호작용 기반의 비전 강화학습 시스템인 HIL-SERL 제시
-    * 액터 프로세스, 러너 프로세스, 그리고 리플레이 버퍼라는 세 가지 주요 구성 요소로 이루어진 HIL-SERL은
-      * 인간의 시연을 통해 오프라인으로 학습된 보상 함수에 기반하여 행동 후 인간의 교정을 통해 행동을 고도화
-      * 이를 통해 HIL-SERL은 USB 접지, 케이블 자르기부터 IKEA 가구조립, 차량 조립까지 다양한 작업에서 이전 강화학습 접근법들을 크게 능가
-      * 평균적으로 성공률은 2배, 실행 속도는 1.8배 향상
+* [GPU 없이 VLA 돌리기: 퀄컴 NPU에서 1.6초를 230ms로 | 노타 블로그](https://blog.nota.ai/kr/insights/vla-edge-npu-optimization)
+  * KRAIN 2026(2026-09-11, 서울) 시연 사례. VLA 모델 기반 SO-101 로봇팔을 GPU 서버가 아니라 손바닥 크기 보드의 NPU(퀄컴 Dragonwing IQ-9075)로 구동—관람객이 고른 색의 큐브만 집어 옮기는 라이브 데모. 추론 1.6초를 230ms로 줄인 엣지 NPU 최적화 과정
 * [로보틱스: 아주 기초적인 것부터](https://turingpost.co.kr/p/inside-robotics)
   * [Robot Learning: A Tutorial - a Hugging Face Space by lerobot](https://huggingface.co/spaces/lerobot/robot-learning-tutorial)
 * [Bessemer Predicts: Robotics and physical AI](https://www.bvp.com/atlas/bessemer-predicts-robotics-and-physical-ai)
@@ -65,6 +58,15 @@ Robot
   * [Dyna-2: 100만 시간 인간 영상으로 로봇 행동 학습 | digitalbourgeois](https://digitalbourgeois.tistory.com/3545)
   * 100만 시간(약 170년) 이상의 1인칭 인간 영상으로 사전 학습한 로봇 조작용 월드-액션 모델. 직접 수집·라벨링하는 기존 로봇 학습 방식 대신 대규모 인간 영상을 활용—1,000시간→100만 시간으로 늘릴 때 스케일링 법칙이 유지되고, 그 패턴이 미학습 로봇 데이터에도 전이됨을 처음 확인
   * 영상과 액션을 공동 학습하면 액션만 학습한 경우보다 39개 작업 전부에서 우수, 실제 로봇 작업 평균 점수 20%→53%. 공개 가중치·API 없이 Dyna 로봇 셀 구매(벤더 운영) 방식으로만 제공되며 호텔·식당·세탁소 등 서비스업에 운영 중
+* [HIL-SERL: Precise and Dexterous Robotic Manipulation via Human-in-the-Loop Reinforcement Learning](https://hil-serl.github.io/)
+  * 다양한 복잡한 환경에서의 성공적인 로봇 강화학습법, HIL-SERL
+    * 강화학습(RL)은 복잡한 로봇 조작 기술을 자율적으로 습득할 수 있는 큰 잠재력, 실제 환경에서 이러한 잠재력을 실현하는 것은 어려움
+    * UC Berkeley EECS 연구진이 동적 조작, 정밀 조립, 양팔 협조 등 다양한 정교한 조작 작업에서 인상적인 성능을 보여주는
+      * 사람-기계 상호작용 기반의 비전 강화학습 시스템인 HIL-SERL 제시
+    * 액터 프로세스, 러너 프로세스, 그리고 리플레이 버퍼라는 세 가지 주요 구성 요소로 이루어진 HIL-SERL은
+      * 인간의 시연을 통해 오프라인으로 학습된 보상 함수에 기반하여 행동 후 인간의 교정을 통해 행동을 고도화
+      * 이를 통해 HIL-SERL은 USB 접지, 케이블 자르기부터 IKEA 가구조립, 차량 조립까지 다양한 작업에서 이전 강화학습 접근법들을 크게 능가
+      * 평균적으로 성공률은 2배, 실행 속도는 1.8배 향상
 * [LingBot-VA 2.0: A Causal Video-Action Model Built Natively for Physical AI | Robbyant](https://technology.robbyant.com/lingbot-va-v2)
   * [Ant Group's Robbyant Unveils LingBot-VA 2.0 | MarkTechPost](https://www.marktechpost.com/2026/07/11/ant-groups-robbyant-unveils-lingbot-va-2-0/)
   * [LingBot-VA 2.0: 물리 AI를 위해 처음부터 설계된 차세대 비디오-액션 파운데이션 모델 | digitalbourgeois](https://digitalbourgeois.tistory.com/3372)
@@ -116,6 +118,8 @@ Robot
   * [SimFoundry | NVIDIA Research](https://research.nvidia.com/labs/gear/simfoundry/)
   * [2606.28276 SimFoundry](https://arxiv.org/abs/2606.28276)
   * NVIDIA Labs. 짧은 실세계 영상 하나를 1시간 이내에 물리 시뮬레이션 씬으로 변환—수동 주석 없이 모든 물체를 자동 분할, 지오메트리 재구성, 텍스처 3D 메시 생성 후 물리 파라미터·digital cousin 변형·태스크 제안까지 포함한 OmniGibson 씬으로 컴파일. Python, Apache-2.0
+* [soma-retargeter: SOMA BVH to humanoid robot motion retargeting library built with Newton and NVIDIA Warp](https://github.com/nvidia/soma-retargeter)
+  * SOMA 스켈레톤 BVH 파일의 사람 동작을 휴머노이드 로봇의 관절 애니메이션으로 변환—결과를 CSV로 내보내 검사·비교하거나 로봇 제어·시뮬레이션 도구에 전달. NVIDIA, Newton·Warp 기반. Python, Apache-2.0, 612 stars
 * [uoais: Codes of paper "Unseen Object Amodal Instance Segmentation via Hierarchical Occlusion Modeling", ICRA 2022](https://github.com/gist-ailab/uoais)
   * [학습하지 않은 물체 인식하는 '로봇 시각 인공지능'... 지스트 이규빈 교수팀, 오픈소스로 공개 < 이미지 < AI Tech < 기사본문 - 인공지능신문](http://www.aitimes.kr/news/articleView.html?idxno=24251)
 
