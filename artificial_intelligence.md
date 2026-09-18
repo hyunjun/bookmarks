@@ -963,6 +963,9 @@ Artificial Intelligence
 * [agentOS — Secure operating system without a sandbox](https://agentos-sdk.dev/)
   * [agentos: A faster, lighter, cheaper alternative to sandboxes. Run any coding agent inside an isolated Linux VM, with agent orchestration built in](https://github.com/rivet-dev/agentos)
   * Rivet의 경량 에이전트용 OS 라이브러리. 컨테이너·VM 없이 파일시스템·네트워킹·bash·Python·Node 제공, 격리된 Linux VM에서 코딩 에이전트 실행+에이전트 오케스트레이션 내장. 샌드박스보다 빠르고 가볍고 저렴. Rust, 3.8k stars
+* [agent-pattern-examples: A hands-on tutorial exploring six agent architecture patterns with the OpenAI Agents SDK](https://github.com/ksmin23/agent-pattern-examples/)
+  * [에이전트 아키텍처 패턴을 코드로 배우려면, 어디서부터 시작하면 좋을까요? | Sungmin Kim](https://www.linkedin.com/posts/sungminkim23_agentssdk-agenticai-python-share-7504785849285382144-IKlK/)
+  * OpenAI Agents SDK로 6가지 에이전트 아키텍처 패턴을 실습—workflow planning(질문을 검색 작업으로 분할→병렬 검색→보고서 종합) 등 실행 흐름 설계에 초점. Python 예제·아키텍처 다이어그램·Jupyter/Colab 노트북. Jupyter Notebook
 * [Agent Plugins — A portable package format for reusable components that extend AI agents](https://agent-plugins.org/)
   * [Introducing Agent Plugins - Vercel](https://vercel.com/blog/introducing-agent-plugins)
   * [Agent Plugins 1.0.0 공개, AI 에이전트 확장을 위한 표준 플러그인 형식 | digitalbourgeois](https://digitalbourgeois.tistory.com/3506)
@@ -1138,6 +1141,8 @@ Artificial Intelligence
       * 코르카 CTO가 Jev로 만든 데모(jev-demo.corca.ai)—기존 LLM 없이 문장 간 논리적 관계 분석
     * [JEV Breakdown: The First AI Model Built For Code - YouTube](https://www.youtube.com/watch?v=2Bs0Ink_-Uo)
       * Rob Shocks. 첫 'System One' 모델 Jev 분석—텍스트를 쓰지 않고 코드가 바로 처리할 수 있는 타입 지정 결정과 보정된 확률을 반환
+    * ["환각·타입 오류 없다"...오픈AI 출신, 의사결정 특화 AI '제브' 선보여 | AI타임스](https://www.aitimes.com/news/articleView.html?idxno=215416)
+      * 자연어 생성 중심으로 발전해온 기존 LLM과 달리, AI가 소프트웨어의 의사결정을 직접 수행하도록 설계한 접근—환각과 타입 오류가 구조적으로 발생하지 않는다는 점을 내세움
 * [Building AI Agents](https://docs.google.com/document/d/1Z5SX89FV6bTy2KKnGGb61xCcS9iPg_fv2USQYi4Wc3g/mobilebasic)
 * [buzz: A workspace where humans and agents build together, on a relay you own](https://github.com/block/buzz)
   * [Buzz](https://buzz.xyz/)
@@ -4453,6 +4458,9 @@ Artificial Intelligence
   * [넓게 만들고, 좁게 배포하라 | GeekNews](https://news.hada.io/topic?id=32507)
   * 기존 방식은 구현 전 RFC를 쓰고 작은 PR로 미리 쪼개느라 정보가 가장 부족한 시점에 구조를 결정해야 했음. 대안은 무엇을 만들지만 먼저 정하고 한 브랜치에서 전체 기능을 끝까지 구현(Build Wide) → 동작을 데모해 피드백 수집 → 완성된 코드를 작은 PR로 분해(Ship Narrow)
   * AI가 구현·설계는 물론 완성 코드를 PR로 다시 나누는 작업까지 저렴하게 처리하므로 실제 코드가 존재하는 시점에 구조를 결정할 수 있게 됨. 최종 PR 분할은 자동화 프롬프트로, 삭제 코드는 별도 마지막 PR로 분리해 리뷰 가능성과 롤백 안전성 확보
+* [Frontier engineering | Kiro](https://kiro.dev/topics/frontier-engineering)
+  * [이 글은 Amazon에서 AI 에이전트를 기반으로 업무 워크플로우를 재구성한 팀들로부터 측정된 결과들을 바탕으로 | 윤석찬 | Facebook](https://www.facebook.com/channyblog/posts/pfbid02kcGdLH3pWWN12eARovdnE2ifXu6oZ8kRFSuYgNb691oGL9oxyT2YJSUGg2ozcWpZl)
+  * AI 에이전트와 일하며 훨씬 빠르게 출시하기 위한 10가지 원칙(실무자 가이드). Amazon에서 코드 작성뿐 아니라 업무 워크플로우 자체를 재구성한 팀들의 측정 결과 기반—AI 코딩 도구를 쓰는데도 출시 속도가 빨라지지 않았다면 볼 만한 글
 * [2603.21439 LLM-Powered Workflow Optimization for Multidisciplinary Software Development](https://arxiv.org/abs/2603.21439)
   * [AGI KR](https://www.facebook.com/groups/255834461424286?multi_permalinks=2911883062486066)
   * Volvo Group 사례: 그래프 기반 워크플로우 최적화로 API당 개발 시간 5시간→7분, 총 979시간 절감. F1 93.7%. FSE 2026 Industrial Track 채택
@@ -5047,6 +5055,8 @@ Artificial Intelligence
   * [second-brain-plugin: Git sync + Claude integration plugin for Obsidian](https://github.com/subicura/second-brain-plugin)
   * [흩어진 문서를 AI가 읽을 수 있게 — DocSync | Purple IO AI Quick Win](https://quickwin.purple.io/cases/14-docsync/)
   * 서브이카. "배포해줘~" 한마디면 보안 점검 후 내부망 배포되는 사내 시스템을 만든 것을 계기로 돌아본 지난 1년 전사 AX(AI Transformation) 여정. DocSync는 Confluence·Notion·Slack에 흩어진 문서를 5분마다 로컬로 가져와 AI가 검색·워크플로우 실행
+* [팀 단위의 공유 실행세계가 성공하는 비결은 'Backward 구현'에 있다 | Josh Lee](https://www.linkedin.com/posts/josh-lee-76b99833_%ED%8C%80-%EB%8B%A8%EC%9C%84%EC%9D%98-%EA%B3%B5%EC%9C%A0-%EC%8B%A4%ED%96%89%EC%84%B8%EA%B3%84%EA%B0%80-%EC%84%B1%EA%B3%B5%ED%95%98%EB%8A%94-%EB%B9%84%EA%B2%B0%EC%9D%80-backward-%EA%B5%AC%ED%98%84%EC%97%90-%EC%9E%88%EB%8B%A4-share-7506476456089133056-B2Cl/)
+  * 기업 AX가 실패하는 이유는 기술 부족이 아니라 시작점이 거꾸로 돼 있기 때문. 흔한 실패 패턴—①SI식 사고(레거시 API+LLM API 연동, MCP·함수호출 몇 개, 해커톤에서 하루에 에이전트 수십 개가 나오지만 몇 달 뒤 조직 생산성은 그대로) ②기존 SOP를 펼쳐놓고 바이브코딩(SOP는 사람을 위한 stateless procedure인데 agentic workflow는 상태와 동역학 중심이라 태생적 한계)
 * [AI를 활용한 프로그래밍 역량을 높이는 방법 | GeekNews](https://news.hada.io/topic?id=25060)
 * [AI 보조 코딩, 생산성을 높였을까? 해커뉴스가 말하는 2026년 3월의 현실](https://digitalbourgeois.tistory.com/2887)
 * [이보라 - 실패 없이 AI 코딩을 도입하는 7가지 조직 원칙 지난 16일 DevMentor가 주최한「기업의 바이브... | Facebook](https://www.facebook.com/learner.bora/posts/pfbid02x3ncsNiRSr1sxvmVHiSHXAYM354oy8FXYK6mMBYxh7bN33tqLTN6JuRRBZKCPit2l)
