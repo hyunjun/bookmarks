@@ -1716,6 +1716,11 @@ AWS
 * [GPU Time Slicing on AWS EKS with Bottlerocket and Karpenter](https://virtualcloud.medium.com/gpu-time-slicing-on-aws-eks-with-bottlerocket-and-karpenter-edec45c535ed)
 * [Implementing Zero-Maintenance HTTPS with AWS ACM Wildcard Certificates in Kubernetes](https://medium.com/@aniketwdubey/implementing-zero-maintenance-https-with-aws-acm-wildcard-certificates-in-kubernetes-b4e8a38a76b8)
   * ACM 와일드카드 SSL로 K8s 앱 유지보수 없는 HTTPS. 인증서 요청→DNS 검증→ALB Ingress 설정 8단계 가이드
+* [Fault tolerant distributed training on Amazon EKS using NVRx | AWS Machine Learning Blog](https://aws.amazon.com/ko/blogs/machine-learning/fault-tolerant-distributed-training-on-amazon-eks-using-nvrx/)
+  * NVIDIA Resiliency Extension(NVRx)으로 EKS 위 분산 학습의 장애 내성 확보—노드 실패 시 자동 감지·복구로 대규모 학습 중단 최소화
+* [Amazon EKS 고급 컨트롤 플레인 구성하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/eks-advanced-control-plane/)
+  * [Amazon EKS 고급 컨트롤 플레인 구성하기 | Woohyung Choi](https://www.linkedin.com/posts/woohyungchoi_aws-amazoneks-kubernetes-share-7505267750093701121-ADhG/)
+  * 새로 제공되는 Advanced Kubernetes Control Plane 기능 5가지—그동안 AWS가 관리하던 Kubernetes 컨트롤 플레인 동작 일부를 워크로드 특성에 맞게 조정하는 방법
 * [aws-node-termination-handler: Gracefully handle EC2 instance shutdown within Kubernetes](https://github.com/aws/aws-node-termination-handler)
   * [aws-node-termination-handler를 활용해서 EKS 워커 노드에 스팟 인스턴스 적용하기](https://alden-kang.tistory.com/31)
     * EKS에서 비용 절약을 위해 스팟 인스턴스를 고려하면서 스팟 인스턴스가 종료될 때 팟을 재배치해서 문제가 발생하지 않도록 aws-node-termination-handler를 도입한 과정 설명
