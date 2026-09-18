@@ -399,6 +399,9 @@ Apache
   * [Apache Iceberg Evolution: Key Innovations & Future Directions | Dipankar Mazumdar posted on the topic | LinkedIn](https://www.linkedin.com/posts/dipankar-mazumdar_dataengineering-softwareengineering-activity-7402742507585077248-rF8S)
 * [Sub-Second Fraud Detection Meets Agentic AI: Streaming, Iceberg, and Automated Forensics - YouTube](https://www.youtube.com/watch?v=3l7dwzwU2hE)
   * Apache Iceberg Meetup NY(2026-08). AWS Streaming Specialist SA Ashley Millette—스트리밍+Iceberg로 서브-초 사기 탐지와 에이전틱 AI 기반 자동 포렌식 결합
+* [AI-Assisted Data Engineering on an Apache Iceberg Lakehouse: An Eleven-Month Field Report | Yong Hyeok Rhee](https://yonghyeokrhee.github.io/2026/09/11/ai-assisted-lakehouse-engineering-ko/)
+  * [운영 중인 5000개 job을 Apache Iceberg로 이관한 11개월의 여정 | Yong Hyeok Rhee](https://www.linkedin.com/posts/yong_dataengineer-iceberg-share-7505975207996731392-mJ9X/)
+  * Hive+Spark 조합이 파티션 수가 천만~1억 단위를 넘어서며 드러낸 한계로 5,000개 운영 job을 Iceberg로 이관한 11개월 현장 기록. AI 보조 데이터 엔지니어링 실전 적용
 
 # Ignite
 * [Ignite](https://ignite.apache.org/features/igniterdd.html) - Spark Shared RDDs
