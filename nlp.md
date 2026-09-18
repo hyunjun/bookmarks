@@ -4269,6 +4269,8 @@ NLP
   * [투플랫폼 “수트라 한국어 추론 능력이 국내 모델보다 뛰어나“ < 인터뷰 < 산업 < 기사본문 - AI타임스](https://www.aitimes.com/news/articleView.html?idxno=159362)
 * [Introducing System One Models & Jev | TypeSafe AI](https://typesafe.ai/blog/introducing-system-one-models-and-jev)
   * [Jev - 문장 대신 판단과 확률을 반환하는 AI 모델 | GeekNews](https://news.hada.io/topic?id=33751)
+  * [Jev, 문장 대신 판단과 확률을 반환하는 AI 모델](https://digitalbourgeois.tistory.com/3670)
+    * 자체 워크플로 평가의 193.6배 빠름·444.6배 저렴이라는 수치가 어떤 조건에서 나왔는지 해설—모델별로 하네스를 바꾸지 않고 동일 코드 워크플로를 적용, 참조 확률은 GPT-6 Astra와 Fable 5.1 예측의 평균. TypeSafe AI 자신도 이 값이 개선 폭의 상단에 가깝고, 워크플로 작성자가 모델 역량 팀원이라는 편향과 참조 답이 OpenAI·Anthropic 중심이어서 Jev·DeepSeek이 과소평가됐을 가능성을 인정. 데모 비교 대상은 기본 추론 설정의 GPT-5.6 Terra
   * 전 OpenAI 연구자(ChatGPT의 기반이 된 instruction-following 연구 참여) Diogo Almeida가 창업한 TypeSafe AI의 첫 System One 모델 Jev(얼리 액세스). 텍스트 생성을 포기하는 대신 사전 정의된 타입 세이프 구조화 출력+보정된 확률(calibrated confidence)만 반환—환각·타입 오류가 원천적으로 불가능. RLCD(Reinforcement Learning for Calibrated Decisions)로 학습, 병렬 샘플링으로 70~500ms 응답(동급 지능 기준 프런티어 LLM 대비 40~200배), 입력 $0.042/M·출력 무료
   * 용도: 분류·라우팅·점수화·추출·조건 분기 같은 "smart if-statement", 페타바이트 데이터 map-reduce, 실시간 앱, LLM 출력 검증·가드레일·탈옥 감지. "프런티어 지능의 함수 호출—비구조화 상태를 넣으면 타입드 확률적 판단이 나온다"
 * [unsloth: Finetune Llama 3, Mistral, Phi & Gemma LLMs 2-5x faster with 80% less memory](https://github.com/unslothai/unsloth)
@@ -5704,6 +5706,8 @@ NLP
 * [Keyword Extraction with TF-IDF and scikit-learn – Full Working Example](http://kavita-ganesan.com/extracting-keywords-from-text-tfidf)
 * [시멘틱 웹 검색 엔진 만들기 python, mssql - YouTube](https://www.youtube.com/playlist?list=PL_fV1knZRgi49qS1OBEZsKngIoWbxwi3w)
   * [웹 페이지 수집하기](https://ehclub.net/649)
+* [Indexing: TF/IDF and BM25 - Google Slides](https://docs.google.com/presentation/d/1Su_Dpbjl3F5DeJffALsnDF5AIT_IfAM8KPTH-zihDcA/edit)
+  * 검색 색인의 가중치 기법 TF-IDF와 BM25를 다루는 강의 슬라이드
 * [Keyword_Extraction_Articles](https://github.com/AbdullahFarooq0/Keyword_Extraction_Articles)
 
 # Tokenization
