@@ -2192,6 +2192,12 @@ Artificial Intelligence
   * [What Happens When AI Starts Improving AI? | TITV's AI Deep Dive - YouTube](https://www.youtube.com/watch?v=fqcy0xQATq0)
     * The Information. OpenAI 연구원 Noam Brown이 Rocket Drew와 대담—AI 에이전트·강화학습, 유능해진 에이전트들이 서로 추론·위임·조율하기 시작하면 벌어지는 일, Hugging Face 사건, AI '연구 취향(research taste)'의 한계, 다음 세대 AI 개선을 돕는 시스템을 향한 OpenAI의 시도
   * OpenAI 연구자 Noam Brown과 멀티 에이전트(agent swarm), Navier-Stokes 등 최근 수학 연구의 폭발적 진전이 AI 연구 자동화 이후를 어떻게 예고하는지, 그리고 재귀적 자기개선(RSI)을 시작하기 전에 모델이 실제로 정렬됐는지 어떻게 알 수 있는지 논의
+* [How we built Grok Bot in a month | Roman Ugarte (SpaceXAI) - YouTube](https://www.youtube.com/watch?v=maSdsTLaMuU)
+  * [SpaceX AI가 한 달 만에 Grok Bot을 만든 방법](https://digitalbourgeois.tistory.com/3671)
+  * [How we built Grok Bot in a month | Roman Ugarte (SpaceXAI) - Lenny's Newsletter](https://www.lennysnewsletter.com/p/how-we-built-grok-bot-in-a-month) 전문 트랜스크립트
+  * Cursor에서 Growth를 이끌던 Roman Ugarte의 Lenny's Podcast 인터뷰. 소수 전담팀이 별도 공간·비공개 Slack에서 시작해 첫 코드부터 내부 프로토타입까지 약 1개월, 내부 공개에서 일반 공개까지 3주. 기존 코딩 제품에 탭으로 붙이지 않고 처음부터 독립 제품으로 만든 이유는 개발 도구라는 인식 자체가 비개발자에게 장벽이고, 서로 다른 작업 방식을 한 제품에 넣으면 여러 제품의 비전이 한 화면에 공존하게 되기 때문
+  * 설계 두 축은 '클라우드에서 상시 동작하는 봇'과 '봇 전용 컴퓨터'—사용자 기기 상태와 무관하게 같은 맥락을 유지하고, API·MCP가 부족한 도구는 화면을 직접 조작. 사용자와 컴퓨터를 공유하는 대신 각자 자기 컴퓨터를 가진 동료 구조. 매번 새 채팅이 아니라 기억을 유지하는 역할별 장기 에이전트가 기본 단위이며, 내부 사용자들 사이에서 자연발생한 '비서실장 봇이 다른 봇에 위임' 패턴을 강제하지 않고 장려만 함
+  * 2주간 수백 명을 직접 온보딩해 실패 지점(버튼 오클릭·로그인 실패)을 관찰하고 인프라팀에 전달하는 루프. 개선 기준은 대시보드 점수가 아니라 "새로운 업무 묶음을 실제로 맡길 수 있게 됐는가", 리뷰 기준은 "무엇이 추가됐나"가 아니라 "이제 무엇을 할 수 있나". 사고 과정·도구 호출·저장된 기억 노출은 출시 전 제거하고 할 일 목록과 우선순위만 보여줌—사람 동료에게 매초 보고를 요구하지 않는 것과 같은 논리. 자동화의 99%가 자연어로 생성
 * [ai-tech-interview: 👩‍💻👨‍💻 AI 엔지니어 기술 면접 스터디 (⭐️ 2k+)](https://github.com/boost-devs/ai-tech-interview)
 * [interviews.ai: This book was written for you: an aspiring data scientist with a quantitative background, facing down the gauntlet of the interview process in an increasingly competitive field. For most of you, the interview process is the most significant hurdle between you and a dream job](https://github.com/BoltzmannEntropy/interviews.ai)
 
@@ -7469,6 +7475,11 @@ Artificial Intelligence
   * [Build a vector database from scratch](https://maven.com/p/866f13/doug-live-codes-a-vector-database)
 * [김진중 - 기술의 발전에 따라 기존 문제의 해결 방법이 달라져야한다. RAG에 있어 벡터 서치가 유망하게 떠올랐지만,... | Facebook](https://www.facebook.com/hacker.golbin/posts/pfbid0K2Dj5cpFznCQemfzWY7GAX8FSXPCafSU7r8GvhM4Y36hg2nrW9K28rL7bePck5c9l) vector search vs. keyword search / BM25
 * [문서 벡터는 PQ로 압축하겠는데, 쿼리 벡터도 같이 양자화할까?](https://kr.linkedin.com/pulse/%EB%AC%B8%EC%84%9C-%EB%B2%A1%ED%84%B0%EB%8A%94-pq%EB%A1%9C-%EC%95%95%EC%B6%95%ED%95%98%EA%B2%A0%EB%8A%94%EB%8D%B0-%EC%BF%BC%EB%A6%AC-%EB%B2%A1%ED%84%B0%EB%8F%84-%EA%B0%99%EC%9D%B4-%EC%96%91%EC%9E%90%ED%99%94%ED%95%A0%EA%B9%8C-jin-hyung-park-sigrid-jin--zr7ec)
+* [Evolving Pinterest’s Embedding Retrieval Platform | Pinterest Engineering Blog](https://medium.com/pinterest-engineering/evolving-pinterests-embedding-retrieval-platform-aede4e831e01)
+  * [Pinterest의 대규모 임베딩 검색 플랫폼 Manas, 수백억 개 벡터를 처리하는 검색 아키텍처의 진화](https://digitalbourgeois.tistory.com/3672)
+  * 자체 분산 검색 플랫폼 Manas를 수백억 개 임베딩 규모로 확장한 과정. SQ/PQ 양자화 비교(1억 GraphSage 임베딩에서 PQ는 HNSW 74%·IVF 93% 압축이나 재현율 70~80%, SQ는 59%/75% 압축에 재현율 90% 이상)로 인덱스 메모리 50% 이상·서빙 비용 20~30% 절감. Linear Scaling SQ + SIMD 인트린식으로 거리 계산 전 디코딩을 없애 쿼리당 연산 10~15% 감소
+  * NVMe SSD 서빙(GB당 메모리의 1/10 비용)으로 메모리 1/10·CPU 40% 절감. DiskANN vs SPANN 비교 후 SPANN 채택(중심점 인덱스는 메모리 HNSW, 포스팅 리스트는 디스크) — PQ를 결합한 SPANN+PQ는 SPANN 대비 4.5배, DiskANN 대비 QPS 3배·지연 1/3(재현율 5% 하락). 50억+ Pin 추천 예비 평가에서 HNSW 대비 CPU 시간 40% 이상 절감
+  * 단일 임베딩의 표현력 한계는 ColBERT식 다중 임베딩(Sum of MaxSim)으로 보완—쿼리 파서와 서빙 스택을 확장해 한 쿼리에서 여러 ANN 검색을 동시 실행. 향후 SPFresh, SilverTorch·TIGER 같은 GPU 기반 검색 도입 계획
 * [Chroma](https://www.trychroma.com/)
   * [AI 이미지 검색 엔진 만들기 - 벡터 데이터베이스 설명과 Chroma DB 튜토리얼 - YouTube](https://www.youtube.com/watch?v=7WCRhW1Z8NI)
   * [LangChain KR | 이런 질문을 Stackoverflow에 우선 올려놨습니다 | Facebook](https://www.facebook.com/groups/langchainkr/posts/2830384060430641/)
