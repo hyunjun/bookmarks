@@ -32,6 +32,12 @@ Science
 * [China launches ambitious collaboration to map primate brains—including ours | Science | AAAS](https://www.science.org/content/article/china-launches-ambitious-collaboration-map-primate-brains-including-ours)
   * [Tae Hyung Kim - 지금까지 성체의 뇌가 완벽하게 지도화된 생명체는 초파리 단 하나뿐이었다. 그러나 이제 그... | Facebook](https://www.facebook.com/socialego/posts/pfbid0XjrCuc7jDheYt7V8PJSXhpiGiMgd1o5RYEArij4hjrT9X5smXLfbyqugTVFcf1Ptl)
   * ‘Stereo-cell’이라 불리는 혁신적 단일세포 전사체 분석 기술을 개발
+* [김효경 - 현미경의 역사와 잊힌 관찰자들: 왜 로버트 훅만 기억되는가 | Facebook](https://www.facebook.com/hyokyung.kim.165/posts/pfbid0uNWdSnJZQ4jpruVNFXF8UDVF37ZJmeXoQLL6GsLv2qg9V5bt5RF5AK4QffdVuDyul)
+  * 훅의 <마이크로그라피아>(1665)보다 21년 앞선 호디에르나 <파리의 눈>(1644), 1년 앞선 헨리 파워 <실험 철학>, 285배율로 세균까지 본 레이우엔훅은 왜 잊혔는가—관계망·영향력, '무엇을 봤나'만 적고 '어떻게 봤나'는 안 적은 차이, 왕립학회 실험 책임자라는 훅의 위치, <철학회보>(1665) 창간으로 "발표하지 않으면 없는 것"이라는 규칙 성립. 현미경은 망원경과 달리 물음이 없어 200년간 구경거리에 머물렀지만, 보이지 않는 것도 실재함을 확인 가능한 방식으로 보여준 첫 도구
+
+# AI
+* [초파리가 마인크래프트를 한다고? 뇌를 복제한 게 아닙니다, 훨씬 무서운 일이 벌어진 겁니다 | fruitspop | Facebook](https://www.facebook.com/fruitspop/posts/pfbid02K96Q5ks7YQkSrYMFT8uPnYHktgfRkrbFJi9futgMc9o8eAQJGMK8HyBns2Vb8qyNl)
+  * "OpenAI Astra가 초파리 뇌를 복제해 마인크래프트를 시켰다"는 타임라인의 문장이 왜 틀렸는지, 그리고 9월 3일 같은 날 발표된 두 가지 일이 실제로는 그보다 더 흥미로운 이유
 * [Understanding the brain with AI-driven explanations and experiments | Microsoft Research](https://www.microsoft.com/en-us/research/blog/understanding-the-brain-with-ai-driven-explanations-and-experiments/)
   * [Microsoft turns LLM brain predictions into fMRI-tested explanations | insights.marvin-42](https://insights.marvin-42.com/articles/ai-fmri)
   * Microsoft·UC Berkeley·UCSF·Columbia의 generative causal testing(GCT). 해석 불가능한 언어-뇌 예측 모델을 짧은 언어 가설로 변환하고, LLM이 표적 자극(스토리)을 생성해 특정 뇌 영역이 예측대로 반응하는지 fMRI로 검증—AI 브레인 모델을 검증 가능한 과학 이론으로
@@ -39,8 +45,6 @@ Science
   * [OpenScience 공식 사이트](https://www.openscience.sh/)
   * [OpenScience: 과학 연구를 위한 오픈소스 AI 워크벤치 기술 정리 | digitalbourgeois](https://digitalbourgeois.tistory.com/3345)
   * 문헌 조사·가설 수립부터 코드 작성·실험·결과 분석까지 과학 워크플로를 자동화하는 AI 리서치 플랫폼. 브라우저 기반 워크스페이스, 290개+ 전문 스킬, 주요 과학 데이터베이스 연동, 멀티 모델 지원. ML·생물·물리·화학 연구에 활용, 벤더 락인 없음
-* [김효경 - 현미경의 역사와 잊힌 관찰자들: 왜 로버트 훅만 기억되는가 | Facebook](https://www.facebook.com/hyokyung.kim.165/posts/pfbid0uNWdSnJZQ4jpruVNFXF8UDVF37ZJmeXoQLL6GsLv2qg9V5bt5RF5AK4QffdVuDyul)
-  * 훅의 <마이크로그라피아>(1665)보다 21년 앞선 호디에르나 <파리의 눈>(1644), 1년 앞선 헨리 파워 <실험 철학>, 285배율로 세균까지 본 레이우엔훅은 왜 잊혔는가—관계망·영향력, '무엇을 봤나'만 적고 '어떻게 봤나'는 안 적은 차이, 왕립학회 실험 책임자라는 훅의 위치, <철학회보>(1665) 창간으로 "발표하지 않으면 없는 것"이라는 규칙 성립. 현미경은 망원경과 달리 물음이 없어 200년간 구경거리에 머물렀지만, 보이지 않는 것도 실재함을 확인 가능한 방식으로 보여준 첫 도구
 
 # Biology
 * [영장류의 움켜잡기 능력에 대한 새로운 연구](http://newspeppermint.com/2015/04/28/primate-grip/)
