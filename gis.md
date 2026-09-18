@@ -102,6 +102,11 @@ GIS
 * [H3: Uber’s Hexagonal Hierarchical Spatial Index](https://eng.uber.com/h3/) 지형 공간 데이터를 시각화 탐색을 용이하도록 하기 위해 개발한 오픈 소스 그리드 시스템
   * [h3: Hexagonal hierarchical geospatial indexing system](https://github.com/uber/h3)
   * [Large Scale Geospatial Indexing and Analysis on Apache Spark - YouTube](https://www.youtube.com/watch?v=TF_VvPUPCqU)
+* [제주 아틀라스 — 제주를, 입체적으로](https://jeju-atlas.whchoi.net/)
+  * [jeju-atlas](https://github.com/whchoi98/jeju-atlas)
+  * [제주 아틀라스 워크샵](https://jeju-atlas.whchoi.net/workshop/)
+  * [Codex와 GPT-6 Astra로 제주 아틀라스를 만들었습니다 | Woohyung Choi](https://www.linkedin.com/posts/woohyungchoi_aws-amazonbedrock-agentcore-ugcPost-7504563144887853056-eg8r/)
+  * "성산일출봉 근처 맛집을 알려줘"에서 시작해 추천 장소를 3D 지도에서 확인·저장하고 실제 이동 경로까지 비교하는 AI 여행 가이드. 일정·코스 계획은 GPT-6 Astra, AWS Bedrock AgentCore 기반. Codex로 개발한 사례
 * [Shadowbroker: Open-source real-time geospatial intelligence OSINT dashboard](https://github.com/BigBodyCobain/Shadowbroker)
   * [Shadowbroker | GeekNews](https://news.hada.io/topic?id=27351)
 
