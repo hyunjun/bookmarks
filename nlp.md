@@ -4271,6 +4271,9 @@ NLP
   * [Jev - 문장 대신 판단과 확률을 반환하는 AI 모델 | GeekNews](https://news.hada.io/topic?id=33751)
   * [Jev, 문장 대신 판단과 확률을 반환하는 AI 모델](https://digitalbourgeois.tistory.com/3670)
     * 자체 워크플로 평가의 193.6배 빠름·444.6배 저렴이라는 수치가 어떤 조건에서 나왔는지 해설—모델별로 하네스를 바꾸지 않고 동일 코드 워크플로를 적용, 참조 확률은 GPT-6 Astra와 Fable 5.1 예측의 평균. TypeSafe AI 자신도 이 값이 개선 폭의 상단에 가깝고, 워크플로 작성자가 모델 역량 팀원이라는 편향과 참조 답이 OpenAI·Anthropic 중심이어서 Jev·DeepSeek이 과소평가됐을 가능성을 인정. 데모 비교 대상은 기본 추론 설정의 GPT-5.6 Terra
+  * [AI가 100배 빨라지고 100배 저렴해지는 것의 의미 (텍스트 없이 결론만 내리는 AI 모델: Jev) | 번개맞은씨앗 | PGR21](https://pgr21.com/freedom/107303)
+    * 속도·비용 개선이 왜 단순한 '양'이 아니라 '질'로 바뀌는지 4가지—①검토 시간이 생겨 안전이 올라감(단 AI 대 AI 대결에선 예외) ②brute force로 밀레니엄 문제급 탐색이 가능해짐 ③computer use·로봇이 하드웨어는 이미 올라왔으니 속도가 민첩함을 결정 ④비싸서 아예 시도 안 했던 것들(개인 LLM 위키 등)이 시도되며 경험이 축적됨. 물이 임계점에서 수증기가 되듯 양적 변화가 구조적 변화를 낳는다는 비유로 "AI 모델 외부에서의 창발"을 제안
+    * Jev 평가는 유보적—벤치마크 없이 자기 보고 성능이고 내부 구조·방법·모델 크기 미공개라 처음엔 반신반의했으나 이틀간 사용 후기는 대체로 호평. 신뢰도가 낮으면 "모르겠다"며 LLM에 넘길 수 있는 구조에 주목하고, 파이썬 결정론적 코드 / 경량 LLM / 고성능 LLM 배치에서 경량 LLM·휴리스틱·일부 RAG 자리를 Jev가 대체할 것으로 봄. 연결주의와 기호주의의 접점이라 협업론을 주장해온 학자들의 반응을 기다리는 중
   * 전 OpenAI 연구자(ChatGPT의 기반이 된 instruction-following 연구 참여) Diogo Almeida가 창업한 TypeSafe AI의 첫 System One 모델 Jev(얼리 액세스). 텍스트 생성을 포기하는 대신 사전 정의된 타입 세이프 구조화 출력+보정된 확률(calibrated confidence)만 반환—환각·타입 오류가 원천적으로 불가능. RLCD(Reinforcement Learning for Calibrated Decisions)로 학습, 병렬 샘플링으로 70~500ms 응답(동급 지능 기준 프런티어 LLM 대비 40~200배), 입력 $0.042/M·출력 무료
   * 용도: 분류·라우팅·점수화·추출·조건 분기 같은 "smart if-statement", 페타바이트 데이터 map-reduce, 실시간 앱, LLM 출력 검증·가드레일·탈옥 감지. "프런티어 지능의 함수 호출—비구조화 상태를 넣으면 타입드 확률적 판단이 나온다"
 * [unsloth: Finetune Llama 3, Mistral, Phi & Gemma LLMs 2-5x faster with 80% less memory](https://github.com/unslothai/unsloth)
