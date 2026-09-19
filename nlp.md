@@ -4180,6 +4180,10 @@ NLP
     * [Qwen 3.8 27B is excellent, but defaults to overthinking | Simon Willison](https://simonwillison.net/2026/Aug/16/qwen-38-27b/)
       * [Qwen 3.8 27B는 뛰어나지만 기본 설정에서 지나치게 오래 추론함 | GeekNews](https://news.hada.io/topic?id=32578)
       * 노트북에서 도는 강력한 오픈 모델이지만 기본 추론 설정이 xhigh라 단순 작업에도 수분~20분 소모. 추론 수준을 낮추면 빨라지지만 정확도 하락 트레이드오프
+    * [Qwen3.8 27B quantizations benchmarked | Quesma](https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/)
+      * [Qwen3.8 27B 양자화 벤치마크, 4비트는 성능 유지하고 1비트는 왜 무너질까? | digitalbourgeois](https://digitalbourgeois.tistory.com/3655)
+      * KL 발산·top-1 토큰 일치율 대신 실제 과제(GPQA Diamond·IFBench·Terminal-Bench 2.1 89문제)로 Unsloth 양자화를 평가. BF16 공식 결과를 먼저 재현한 뒤 비교—4비트(Q4_K_M, 55GB→약 17GB)는 세 과제 모두 원본과 유의차 없음(24GB RTX 4090에 올리고도 64k 컨텍스트 여유). 2비트(UD-Q2_K_XL, 약 10.7GB)는 GPQA·Terminal-Bench에서 하락하지만 Opus 4.7·Gemini 3.1 Pro 수준은 유지, IFBench는 11GB 미만에서도 차이 없음(컨텍스트가 약 4k로 짧은 탓). 같은 과제를 풀 때 턴 수는 비슷하나 출력 토큰을 약 25% 더 씀
+      * 손상은 선형이 아니라 1비트에서 비선형 붕괴—UD-IQ1_M/UD-IQ1_S의 GPQA는 무작위 추측 수준이고, xhigh가 low보다 낮았다(토큰 예산을 다 쓰고 빈 답변을 반환하는 빈도 증가). Unsloth 기준 6.2GB UD-IQ1_S가 크기 89% 절감에 top-1 예측 정확도 약 72%를 유지했다지만 실제 과제 성능은 무작위 수준이라, 남은 28%가 문제 해결에서 훨씬 크게 작용함을 보여줌. 재현성 주의—Modal GPU·llama.cpp 2026-08-16 빌드에 약 $3,000 소요, 2026-08-19에 v2 파일이 교체되어 실험에 쓴 정확한 파일은 더 이상 제공되지 않음
     * [Qwen3.8 27B | Artificial Analysis](https://artificialanalysis.ai/models/qwen3-8-27b)
       * [Qwen3.8 27B, Artificial Analysis 지능 지수 52점 기록 | GeekNews](https://news.hada.io/topic?id=32599)
     * [Qwen3.8-27B-Uncensored-MLX · Hugging Face](https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-MLX)
@@ -4274,6 +4278,8 @@ NLP
   * [AI가 100배 빨라지고 100배 저렴해지는 것의 의미 (텍스트 없이 결론만 내리는 AI 모델: Jev) | 번개맞은씨앗 | PGR21](https://pgr21.com/freedom/107303)
     * 속도·비용 개선이 왜 단순한 '양'이 아니라 '질'로 바뀌는지 4가지—①검토 시간이 생겨 안전이 올라감(단 AI 대 AI 대결에선 예외) ②brute force로 밀레니엄 문제급 탐색이 가능해짐 ③computer use·로봇이 하드웨어는 이미 올라왔으니 속도가 민첩함을 결정 ④비싸서 아예 시도 안 했던 것들(개인 LLM 위키 등)이 시도되며 경험이 축적됨. 물이 임계점에서 수증기가 되듯 양적 변화가 구조적 변화를 낳는다는 비유로 "AI 모델 외부에서의 창발"을 제안
     * Jev 평가는 유보적—벤치마크 없이 자기 보고 성능이고 내부 구조·방법·모델 크기 미공개라 처음엔 반신반의했으나 이틀간 사용 후기는 대체로 호평. 신뢰도가 낮으면 "모르겠다"며 LLM에 넘길 수 있는 구조에 주목하고, 파이썬 결정론적 코드 / 경량 LLM / 고성능 LLM 배치에서 경량 LLM·휴리스틱·일부 RAG 자리를 Jev가 대체할 것으로 봄. 연결주의와 기호주의의 접점이라 협업론을 주장해온 학자들의 반응을 기다리는 중
+  * [Awesome Jev — Directory of 488 projects built on Jev](https://awesomejev.com/)
+    * TypeSafe AI 공식 문서·SDK부터 통합·에이전트 툴링·브라우저/컴퓨터 사용·애플리케이션·게임·벤치마크까지 카테고리별로 묶은 488개 프로젝트 디렉터리. 최다 스타는 browser-use의 jev-ultrafast(4.8k), Claude Code의 compaction 요약을 Jev 판단으로 대체하는 fast-jev-compaction(2.7k), 오픈 모델로 3090에서 semantic if를 돌리는 비공식 SemIf(1.5k), 텍스트 선택지 중 하나를 한 번에 고르는 소형 모델 학습 jevlike(851)
   * 전 OpenAI 연구자(ChatGPT의 기반이 된 instruction-following 연구 참여) Diogo Almeida가 창업한 TypeSafe AI의 첫 System One 모델 Jev(얼리 액세스). 텍스트 생성을 포기하는 대신 사전 정의된 타입 세이프 구조화 출력+보정된 확률(calibrated confidence)만 반환—환각·타입 오류가 원천적으로 불가능. RLCD(Reinforcement Learning for Calibrated Decisions)로 학습, 병렬 샘플링으로 70~500ms 응답(동급 지능 기준 프런티어 LLM 대비 40~200배), 입력 $0.042/M·출력 무료
   * 용도: 분류·라우팅·점수화·추출·조건 분기 같은 "smart if-statement", 페타바이트 데이터 map-reduce, 실시간 앱, LLM 출력 검증·가드레일·탈옥 감지. "프런티어 지능의 함수 호출—비구조화 상태를 넣으면 타입드 확률적 판단이 나온다"
 * [unsloth: Finetune Llama 3, Mistral, Phi & Gemma LLMs 2-5x faster with 80% less memory](https://github.com/unslothai/unsloth)
