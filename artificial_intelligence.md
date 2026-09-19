@@ -4625,6 +4625,10 @@ Artificial Intelligence
   * AI INFO MAP. RTX 3060급 GPU나 맥에서 API 비용 없이 돌리는 오픈웨이트 5종을 용도별 1분 정리(2026-06-14 기준)—Qwen3(코딩·한국어 종합), DeepSeek R1(추론·수학), Gemma 4(멀티모달·140개+ 언어), Mistral Small 3(RAG·에이전트), Phi-4 Mini(3.8B 초경량). 전부 Apache 2.0 또는 MIT
 * [How well do agents use test/verification techniques? | Dan Luu](https://danluu.com/agentic-testing/)
   * 에이전트가 테스트·검증 기법을 얼마나 잘 활용하는지에 대한 Dan Luu의 분석
+* [Introducing Arrow 2 and Arrow 2 Telos | QuiverAI](https://quiver.ai/blog/introducing-arrow-2-0)
+  * [Arrow 2와 Arrow 2 Telos, 더 빠르고 정교해진 벡터·애니메이션 생성 기술 | digitalbourgeois](https://digitalbourgeois.tistory.com/3674)
+  * 2026-09-07 공개. SVG를 이미지가 아니라 코드로 의도적으로 구성한다는 기존 방향을 유지하면서 생성 속도와 품질을 함께 개선—제어점을 더 적고 정밀하게 써서 불필요한 노드와 겹치는 경로를 줄이고(생성 후 팀이 편집·재사용하기 쉬움), 간격·패딩·정렬을 프롬프트에 일일이 지정하지 않아도 자연스럽게 유지. 용도는 참조 이미지의 팔레트·형태·그래픽 스타일을 유지한 일러스트 변형, 강조와 배경을 구분하는 일러스트 다이어그램, 봉제선·여밈·패널 구성을 일관되게 유지하는 기술 도면, 래스터→편집 가능한 SVG 벡터화
+  * SVG에 이미 있는 도형·그룹을 움직여 로고 리빌·로딩 상태·애니메이션 아이콘 같은 웹용 마이크로 애니메이션 생성—평면적이고 구조가 명확한 아트워크에 적합. 함께 공개된 Arrow 2 Telos는 Arrow의 속도에 프런티어 모델의 정교한 개선 능력을 결합한 상위 버전으로, 속도·에셋당 비용이 우선이면 Arrow 2, 복잡한 스타일·구성·요구사항이 걸린 까다로운 브리프면 Telos를 쓰라는 구분. app.quiver.ai에서 전체 사용자 이용 가능
 * [Agentic testing: where agents fit in the E2E testing stack | Slack Engineering](https://slack.engineering/agentic-testing-where-agents-fit-in-the-e2e-testing-stack/)
   * [에이전틱 테스팅: E2E 테스트 스택에서 에이전트의 자리 | digitalbourgeois](https://digitalbourgeois.tistory.com/3284)
   * [에이전틱 테스팅 - E2E 테스트 스택에서 에이전트의 역할 | GeekNews](https://news.hada.io/topic?id=30744)
