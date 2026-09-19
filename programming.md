@@ -25,6 +25,9 @@ Programming
 * [awesome-philosophy-compsci: A list of resources that cross the disciplines of Computer Science and Philosophy](https://github.com/glennstreet/awesome-philosophy-compsci)
 * [The Best Github Repos for Self-Taught - DEV Community](https://dev.to/krishnaagarwal/the-best-github-repos-for-self-taught-114j)
 * [Best-websites-a-programmer-should-visit: Some useful websites for programmers](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
+* [Free Developer Websites Nobody Tells You About - YouTube](https://www.youtube.com/watch?v=Q2D-rCyj2b0)
+  * Beyond Google. 4분 동안 개발용 무료 사이트 10곳을 타임스탬프와 함께 소개—devdocs.io(오프라인 통합 문서), explainshell.com(셸 명령 분해 설명), regexr.com(정규식 테스트), learngitbranching.js.org(Git 브랜치 시각 학습), visualgo.net(알고리즘 시각화), jsoncrack.com(JSON→그래프), transform.tools(포맷 상호 변환), excalidraw.com(손그림 다이어그램), hoppscotch.io(API 클라이언트), carbon.now.sh(코드 이미지)
+  * 참고로 이 10곳은 모두 이 저장소에 이미 각 주제 파일로 흩어져 등록돼 있음—devdocs·carbon은 programming.md, explainshell은 bash.md/linux.md, regexr은 regular_expression.md, learngitbranching은 git.md, visualgo는 algorithm.md, jsoncrack은 json.md, transform.tools는 web.md, excalidraw·hoppscotch는 app.md. 새 도구 발굴보다 목록 점검용
 * [the-book-of-secret-knowledge: A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more](https://github.com/trimstray/the-book-of-secret-knowledge)
 * [30 seconds of code](https://www.30secondsofcode.org/)
   * [30-seconds-of-code: Coding articles to level up your development skills](https://github.com/Chalarangelo/30-seconds-of-code)
