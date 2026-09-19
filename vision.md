@@ -283,6 +283,11 @@ Vision
 * [실제 광고 이미지 만들기](https://aifactory.space/task/6679/overview)
 * [How to Detect, Track, and Identify Basketball Players with Computer Vision](https://blog.roboflow.com/identify-basketball-players/)
   * [농구 선수 식별을 위한 컴퓨터 비전 시스템 요약 | GeekNews](https://news.hada.io/topic?id=23387)
+* [Marigold V2: Revisiting Diffusion Transformers for Monocular Depth Estimation - a Hugging Face Space by huawei-bayerlab](https://huggingface.co/spaces/huawei-bayerlab/marigold-v2-web)
+  * [Marigold V2, Diffusion Transformer를 활용한 단일 단계 단안 깊이 추정 | digitalbourgeois](https://digitalbourgeois.tistory.com/3665)
+  * 이미지 편집용 사전학습 DiT(Qwen-Image-Edit-2509)를 밀집 예측 모델로 재활용. 반복 denoising 없이 VAE Encoder → DiT 1회 → VAE Decoder의 single-step 추론이고, 4-bit 양자화 + Rank-128 LoRA로 소비자용 GPU 한 장에서 일주일 이내 fine-tuning·32GB GPU에서 2048×2048 실행. 같은 loss가 SD 1.5, 기존 Marigold U-Net, FLUX.2 klein에도 효과가 있어 특정 backbone 의존이 아니라고 주장
+  * 2단계 학습—Stage 1은 LoRA만 학습하며 decoded target·spatial gradient loss와 iREPA(DiT 중간 feature를 ground-truth의 DINOv3 feature에 정렬)로 머리카락·털·나뭇잎 같은 세밀한 구조 복원, Stage 2는 VAE decoder를 풀고 SinkLoss(블록 단위 Sinkhorn-Knopp 매칭)를 추가해 얇거나 투명한 물체 주변의 엄격한 픽셀 대응을 완화. 합성 데이터만으로 학습한 zero-shot이며 flying pixels·머리카락 halo 같은 기존 문제를 줄인다고 제시
+  * supervision만 바꿔 같은 레시피로 확장—see-through depth(LayeredDepth-Syn 최종 레이어로 학습, 유리 뒤 구조까지 예측), surface normals(픽셀 loss 대신 angular loss), albedo(조명·그림자 제거한 표면 색), metric depth completion. Space에서 RGB 이미지를 올리면 depth map과 함께 이 출력들을 바로 확인 가능
 
 # Book
 * [더북(TheBook): Visual C++ 영상 처리 프로그래밍](https://thebook.io/006796/) 1~11장만
