@@ -166,6 +166,9 @@
 # Microsoft
 * [Microsoft Clarity - Free Heatmaps & Session Recordings](https://clarity.microsoft.com/)
   * [유저는 언제 나갔을까요? - Microsoft Clarity](https://velog.io/@wns450/%EC%9C%A0%EC%A0%80%EB%8A%94-%EC%96%B8%EC%A0%9C-%EB%82%98%EA%B0%94%EC%9D%84%EA%B9%8C%EC%9A%94Clarity)
+  * [GEO 담당자가 Microsoft Clarity 안 쓰면 손해인 이유 | 김도영](https://www.linkedin.com/posts/seodevin_seo-geo-clarity-share-7505896220989542400-3mVk/)
+    * Clarity 대시보드가 무료 제공하는 AI 가시성 탭을 AI 검색 구조대로 3단계(봇의 페이지 요청 → 답변 근거로 붙잡는 grounding → 사용자가 답변 속 링크를 눌러 들어오는 referral)로 분리해 보여준다는 점을 높게 평가—학습과 인용을 한 숫자로 뭉개는 툴들과 대비. 인용 데이터 출처는 Microsoft Copilot과 파트너 AI 플랫폼이라 공식 ChatGPT 크롤 결과로 볼 수는 없지만, OpenAI가 ChatGPT 검색에 빙 포함 서드파티 검색을 쓴다고 밝힌 만큼 빙 grounding에서 내 도메인이 어떻게 잡히는지가 가장 가까운 1차 데이터라는 해석
+    * Clarity만 되는 것은 트래픽 채널을 AI 플랫폼으로 걸면 그 방문자의 레코딩·히트맵이 열린다는 점—인용 수를 세는 툴은 많지만 인용된 뒤의 행동을 보여주는 툴은 드묶. "프로빙은 내가 묻는 것이고 Clarity는 사람들이 물은 것"이라며 GEO 측정 스택의 바닥에 Clarity를 두라고 권함
 
 # Naver
 * [python-PowerNad: Naver search Ad Lib for Python](https://github.com/devkingsejong/python-PowerNad)
