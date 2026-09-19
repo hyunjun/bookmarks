@@ -496,6 +496,9 @@ Data Science
 * [Table of Contents - Data Engineering for Large Models: Architecture, Algorithms & Projects](https://datascale-ai.github.io/data_engineering_book/en/)
   * [data_engineering_book/README_en.md at main · datascale-ai/data_engineering_book](https://github.com/datascale-ai/data_engineering_book/blob/main/README_en.md)
   * [대규모 모델을 위한 데이터 엔지니어링: 아키텍처, 알고리듬 및 프로젝트 | GeekNews](https://news.hada.io/topic?id=26712)
+* [Data Science Websites Most People Don't Know Exist - YouTube](https://www.youtube.com/watch?v=wlE9kEqwsF8)
+  * Beyond Google. 5분 동안 데이터 사이언스용 무료 사이트 9곳 소개—데이터셋 찾기(Google Dataset Search, UCI Machine Learning Repository, 특이한 데이터셋을 모으는 Data Is Plural), 통계·ML 시각 학습(Seeing Theory, 복잡한 코드 없이 ML을 설명하는 R2D3, 인터랙티브 해설 Setosa.io, ML 연구 시각 해설 Distill), 무료 통계 교재·연습문제(OpenIntro), 실제 대시보드 탐색(Tableau Public)
+  * 이 저장소 기준으로 Seeing Theory(statistics.md)·R2D3(data_visualization.md·machine_learning.md·r.md)·Setosa(math.md·machine_learning.md)·Distill(다수 파일)·Tableau Public(sports.md)은 이미 등록돼 있고, **Google Dataset Search·UCI ML Repository·Data Is Plural·OpenIntro 4곳은 아직 없음**
 
 # Book
 * [시스템 트레이딩을 위한 데이터 사이언스 (파이썬 활용편)](https://wikidocs.net/book/486)
