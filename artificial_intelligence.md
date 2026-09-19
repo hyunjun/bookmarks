@@ -1325,6 +1325,10 @@ Artificial Intelligence
 * [Instant 1.0: A backend for AI-coded apps | instantdb](https://www.instantdb.com/essays/architecture)
   * [Instant 1.0 – AI로 작성한 앱을 위한 백엔드 플랫폼 | GeekNews](https://news.hada.io/topic?id=28418)
   * 바이브 코딩 앱용 실시간 동기화·오프라인·인증·파일 저장소 오픈소스 백엔드. DB row 추가로 백엔드 생성, db.useQuery/db.transact만으로 관계형 쿼리
+* [Instinct](https://instinct.com/)
+  * [5개월 만에 14조원이 된 스타트업: 명문대 출신도 아닌 23살 연구원이 만든 AI 비서 | Ian Park, 주간실리콘밸리](https://ianpark.vc/p/instinct-10b/)
+  * 새 인터페이스 없이 문자·전화로 쓰는 개인 비서. 이메일·메시지·화면·오디오·위치에 연결되고 사람과 같은 방식으로 폰과 컴퓨터를 직접 조작하도록 학습—놓친 대화 팔로업, 먼저 전화·문자 걸기, 공항 차량 예약, 수리 기사 예약
+  * VC 이안 박의 체험기—Gmail·캘린더를 연결하지 않았는데 읽씹 4시간 뒤 공개된 한국어 뉴스레터를 찾아 읽고 서울 북토크 일정을 먼저 꺼냄. 프롬프트로 자기 설명을 시작하던 기존 AI와 달리 설정 없이 iMessage에서 바로 쓰는 경험이 차별점. 창업자는 23살 Noah Shinn, 5개월 만에 $10B(약 14조원) 기업가치로 투자 논의 중이며 VC들이 먼저 써보고 소문내고 투자하는 구도
 * [jai - easy containment for AI agents](https://jai.scs.stanford.edu/)
   * 스탠포드 연구. AI 에이전트를 위한 초경량 Linux 샌드박스
   * [oh-my-product: Multi-agent orchestration for Gemini CLI](https://github.com/jjongguet/oh-my-product)
@@ -2074,6 +2078,11 @@ Artificial Intelligence
     * [이제현 - AI Frenz 발표 자료, paper curation 도구 소개 | Facebook](https://www.facebook.com/jehyun.lee.9615/posts/pfbid0JFwPQjTspnza7hCcFSgiqrueQvu3H3aZQjsbUjDKV6RR63JNnmoQcAuP71dT3qkBl)
     * 휴머노이드 로보틱스 논문 544편을 9개 MECE 카테고리로 분류(2026.6.22 기준). 2018 DeepMimic→2026 foundation tracker(제로샷 프롬프트 제어)까지 타임라인, 7대 인사이트(VLA+물리기반 RL 통합, HW-제어 공동설계, egocentric 비디오 제로샷 학습, 임베디드 안전 제약 등). 로컬 학습 보조 도구이며 Cloudflare로 공개 배포 가능
   * Claude Code가 오케스트레이션하는 개인 논문 큐레이션 파이프라인. Zotero PDF→6섹션 한국어 구조화 리뷰→Bottom-up 토픽 분류(SPECTER2+HDBSCAN+UMAP)→연구 동향 타임라인→Deep Research(BM25+dense 하이브리드 RAG, [N] 인용)→Audio Overview(Gemini TTS). Obsidian 연동 compounding knowledge, arXiv/Semantic Scholar/OpenAlex 병렬 검색
+* [SoL-Pi: Scaling Auto-Research Loops for Efficient Agent Harnesses](https://nvlabs.github.io/SoL-Pi/)
+  * [SoL-Pi: Scaling Auto-Research Loops for Efficient Agent Harnesses](https://github.com/NVlabs/SoL-Pi)
+  * [SoL-Pi, AI 코딩 에이전트의 반복 작업과 컨텍스트 비용을 줄이는 효율화 확장 기능](https://digitalbourgeois.tistory.com/3666)
+  * NVIDIA Labs. "RSI를 키우기 전에 먼저 AI에게 AI를 더 효율적으로 만들게 해야 하지 않나"는 문제 제기—에이전트가 공개 데이터·공개 소프트웨어 환경으로 하네스 롤아웃용 실행 환경을 만들고, 다른 에이전트가 궤적 속 탐색을 관찰해 효율 목표 아래 하네스를 개선하는 auto-research loop를 돌린다. 이 탐색에서 살아남은 메커니즘을 묶은 결과물이 SoL-Pi로, 단일 문제를 다루는 연구자 기준 Codex·Claude Code 네이티브 하네스 대비 시간당 $8.75~13.50, Pi 대비 $4.36~5.71 절감(EdgeBench 51개 장기 과제는 held-out 평가용으로 보류). RSI의 지속적 가치는 개별 산출물이 아니라 공개 환경 전반으로 확장되는 탐색 과정에 있다는 관점
+  * Pi(@earendil-works/pi-coding-agent) 소스를 수정·포함하지 않고 공개 확장 API만 쓰는 독립 확장이며 4개 메커니즘 모두 기본 비활성(명시적 옵트인)—Action Fusion(편집·쓰기와 후속 검증 명령을 한 도구 호출로), ObservationPack(반복되는 대용량 결과를 핸들로 보관해 페이지 단위 재조회), Evidence-Preserving Reducer(긴 진단 로그를 축소하되 남긴 인용이 보관된 원본과 일치하는지 확인, 실패 시 원본 유지), Online Context Compact(완료된 계획 단계를 컨텍스트 압축 후보로). 단 reducer는 로그를 설정된 외부 모델로 전송할 수 있어 로컬에 유지해야 하는 로그엔 원격 축소를 켜지 말 것. TypeScript, MIT, 2.3k stars
 * [Team Big Five Harness: Team Science 팀워크 빅파이브(Salas 2005)를 Claude Code 에이전트 팀에 적용](https://github.com/tobyilee/team-bigfive)
   * [이일민 - 최근에 김창준 님이 언급하신 팀 사이언스 이론에서 팀 빅파이브 | Facebook](https://www.facebook.com/1070166746/posts/10236365929142899/)
   * [최근에 김창준 님이 언급하신 팀 사이언스 이론에서 팀 빅파이브라는 주제에 | Toby Lee](https://www.linkedin.com/posts/tobyilee_%EC%B5%9C%EA%B7%BC%EC%97%90-%EA%B9%80%EC%B0%BD%EC%A4%80-%EB%8B%98%EC%9D%B4-%EC%96%B8%EA%B8%89%ED%95%98%EC%8B%A0-%ED%8C%80-%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4-%EC%9D%B4%EB%A1%A0%EC%97%90%EC%84%9C-%ED%8C%80-%EB%B9%85%ED%8C%8C%EC%9D%B4%EB%B8%8C%EB%9D%BC%EB%8A%94-%EC%A3%BC%EC%A0%9C%EC%97%90-share-7465197682068926464-IhMI/)
@@ -2198,6 +2207,12 @@ Artificial Intelligence
   * Cursor에서 Growth를 이끌던 Roman Ugarte의 Lenny's Podcast 인터뷰. 소수 전담팀이 별도 공간·비공개 Slack에서 시작해 첫 코드부터 내부 프로토타입까지 약 1개월, 내부 공개에서 일반 공개까지 3주. 기존 코딩 제품에 탭으로 붙이지 않고 처음부터 독립 제품으로 만든 이유는 개발 도구라는 인식 자체가 비개발자에게 장벽이고, 서로 다른 작업 방식을 한 제품에 넣으면 여러 제품의 비전이 한 화면에 공존하게 되기 때문
   * 설계 두 축은 '클라우드에서 상시 동작하는 봇'과 '봇 전용 컴퓨터'—사용자 기기 상태와 무관하게 같은 맥락을 유지하고, API·MCP가 부족한 도구는 화면을 직접 조작. 사용자와 컴퓨터를 공유하는 대신 각자 자기 컴퓨터를 가진 동료 구조. 매번 새 채팅이 아니라 기억을 유지하는 역할별 장기 에이전트가 기본 단위이며, 내부 사용자들 사이에서 자연발생한 '비서실장 봇이 다른 봇에 위임' 패턴을 강제하지 않고 장려만 함
   * 2주간 수백 명을 직접 온보딩해 실패 지점(버튼 오클릭·로그인 실패)을 관찰하고 인프라팀에 전달하는 루프. 개선 기준은 대시보드 점수가 아니라 "새로운 업무 묶음을 실제로 맡길 수 있게 됐는가", 리뷰 기준은 "무엇이 추가됐나"가 아니라 "이제 무엇을 할 수 있나". 사고 과정·도구 호출·저장된 기억 노출은 출시 전 제거하고 할 일 목록과 우선순위만 보여줌—사람 동료에게 매초 보고를 요구하지 않는 것과 같은 논리. 자동화의 99%가 자연어로 생성
+* [AI researchers debate how close we are to recursive self-improvement | John Schulman, Beren Millidge, Charlie O'Neill - Dwarkesh Podcast - YouTube](https://www.youtube.com/watch?v=PrSf7IOYu-I)
+  * [AI researchers debate how close we are to recursive self-improvement — "We're nowhere near the ceiling." | Dwarkesh Podcast](https://www.dwarkesh.com/p/john-beren-charlie) 전문 트랜스크립트
+  * John Schulman(Thinking Machines 수석과학자, OpenAI 공동창업·ChatGPT로 이어진 RLHF 주도)·Beren Millidge(Zyphra CTO)·Charlie O'Neill(Baseten 모델 학습 총괄) 3인 좌담 97분. 상대적으로 개방적인 랩 소속이라 기록에 남길 수 있는 얘기를 한다는 전제로, RSI 반대 논거 스틸매닝부터 시작—2036년에 초지능이 없다면 가장 가능한 기술적 이유로 '벤치마크·환경에 넣은 건 다 잘하지만 진짜 일반화의 불꽃은 없는' 모라벡 역설식 정체와 continual learning 미해결을 든다
+  * RL이 예상보다 잘 되는 이유는 mid-training 기여가 과소평가된 탓—합성 추론 데이터와 환경으로 워밍업한 시점에 이미 최종 체크포인트의 80%에 도달하고, RL은 정책을 미세조정할 뿐이라 에피소드당 1비트로도 충분. SFT와의 차이는 비트 수가 아니라 목적함수가 다른 비트를 무시한다는 점(SFT는 남의 추론 토큰을 그대로 맞추느라 신호가 노이즈에 묻힘)
+  * Move 37급 창의성은 이미 부분적으로 관측(OpenAI-Hugging Face 사건에서 샌드박스 탈출용 제로데이 다수 발견)되지만, RL 이후 출력 다양성은 크게 줄어 특정 주제·인물명을 반복하는 tic이 생김. 게다가 다수가 주로 Claude에서 증류해 오픈웨이트 모델들이 같은 문체와 tic을 공유하는 모노컬처가 우려된다는 Schulman의 지적
+  * 화이트칼라 전반의 '한 달 단위로 일하는 드롭인 원격 노동자' 시점 예측은 브라우저 강제 시 Charlie 2년·비브라우저 1년, Beren은 완전 일반성까지 3년(단 조직들이 AI가 쓰기 쉽게 정비해 그 전에 80~90%는 도달). Charlie는 "일을 밀어붙이려 누군가에게 소리치는 일"처럼 모델이 너무 착해서 못 하는 잔여 영역을, Schulman은 이미 저품질 원격 인력 대비로는 AI가 나은 경우가 있다는 비교 기준 문제를 지적
 * [ai-tech-interview: 👩‍💻👨‍💻 AI 엔지니어 기술 면접 스터디 (⭐️ 2k+)](https://github.com/boost-devs/ai-tech-interview)
 * [interviews.ai: This book was written for you: an aspiring data scientist with a quantitative background, facing down the gauntlet of the interview process in an increasingly competitive field. For most of you, the interview process is the most significant hurdle between you and a dream job](https://github.com/BoltzmannEntropy/interviews.ai)
 
@@ -3948,6 +3963,10 @@ Artificial Intelligence
 * [Anthropic's Watermark Text Adulteration in Claude Is a Perversion of Writing | Daring Fireball](https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing)
   * [Claude의 '워터마크'가 글쓰기를 왜곡하는 방식 | GeekNews](https://news.hada.io/topic?id=32579)
   * John Gruber. EU 규제 준수용 워터마크가 단어 선택을 의도적으로 편향시켜 글의 질을 떨어뜨린다는 비판—선의의 사용자만 피해 보고 악의적 사용자는 우회한다며 EU 규제 자체의 비현실성 지적
+* [Measurements for understanding the pace of AI development inside frontier labs | Anthropic](https://www.anthropic.com/institute/measuring-pace-of-ai-development)
+  * [Anthropic, AI가 AI를 개발하는 내부 현황과 감독 지표 공개 | GeekNews](https://news.hada.io/topic?id=33871)
+  * 모델이 무엇을 할 수 있는지(역량 평가)가 아니라 어떻게 만들어지는지를 측정하는 3개 지표 제안—AI가 AI R&D를 얼마나 수행하는가, 에이전트 행동을 얼마나 감독하는가, 컴퓨팅을 어디에 배분하는가. Anthropic 내부 스냅샷: 2026년 8월 Claude가 AI R&D 업무의 26%를 주도(AL4)하고 90% 이상에서 협업(AL3) 이상을 맡았으나 완전 자율(AL5)에 이른 업무는 없음. 최대 내부 플랫폼에서 약 3만 에이전트가 동시 활동하며 모든 행동을 실행 전후로 감시(단 감시 범위가 모든 위험의 탐지를 뜻하지는 않는다고 명시), 조사 주간 AI R&D 컴퓨팅의 약 6%가 안전 작업에 사용(안전장치용 분류기 제외)
+  * Epoch AI의 AL0~AL5 자동화 척도로 재귀적 자기개선 근접도를 가늠하는 R&D Automation Index 시범 공개. 연구소 간 비교를 위한 공통 측정 기준과 독립 검증을 제안하고, 여러 기관의 외부 평가자를 내부 위험 평가팀에 준하는 접근 권한으로 상주시켜 안전 관행 검증·사고 보고·핵심 지표 모니터링을 맡길 계획. Dario Amodei가 제안한 개발 속도 조절 공조가 이뤄지면 이 수치들이 달라질 것이라고 스스로 밝힘
 * [AILit Framework — AI Literacy Framework for Primary and Secondary Education](https://ailiteracyframework.org/)
   * [이재흥 - OECD와 EU가 확정 발표한 AI 리터러시 프레임워크 | Facebook](https://www.facebook.com/weirdo0613518/posts/pfbid02Jdv5jJCrjJrn6PC7ECdFHHSbCe5QwZJ81a4dfWw8qLpyeQs6RwMyxt3EP8kYqyUwl)
   * EU와 OECD가 공동 개발한 초중등 AI 리터러시 교육 프레임워크. 4개 영역(AI 이해·AI 창작·AI 관리·AI 형성)의 학습 역량과 교수 역량 기준 제시. 100개국 2,000명+ 교육자·학생·정책가·과학자 협의로 완성
@@ -4239,6 +4258,9 @@ Artificial Intelligence
   * OpenRouter 60개·Venice 44개 모델 또는 Ollama/LM Studio/llama.cpp/vLLM 로컬 모델. 메타데이터 전용 텔레메트리(No-Log·Local-only로 비활성화 가능), 대화·설정은 브라우저 스토리지에 저장. TypeScript, AGPL-3.0, 10.5k stars
 * [guardian-cli: AI 오케스트레이션으로 침투 테스트를 자동화하는 엔터프라이즈 보안 플랫폼](https://github.com/zakirkun/guardian-cli)
   * 멀티 프로바이더 AI(OpenAI/Claude/Gemini/Ollama 등), 50+ 보안 도구(Nmap/Nuclei/SQLMap/Burp/ZAP), 전문 에이전트(Planner·Tool Selector·Analyst·Reporter)+debate 기반 triage, DAG 스케줄링, 증거 추적, CVSS·SARIF·DefectDojo 리포트, 프롬프트 인젝션 방어·DNS 스코프 검증. Python 3.11+, LangChain
+* [HackGPT - Enterprise AI-Powered Penetration Testing & Threat Intelligence Platform](https://yashab-cyber.github.io/HackGpt/)
+  * [HackGpt: cloud-native AI-powered penetration testing platform for enterprise security teams](https://github.com/yashab-cyber/HackGpt)
+  * 6단계 자동 파이프라인—정찰(서브도메인·포트·서비스 매핑)→스캔→AI 위협 평가·페이로드 생성→비파괴 PoC 익스플로잇 검증→DBSCAN 로그 클러스터링 제로데이 이상 탐지→경영진용 PDF/HTML 감사 리포트. 100+ 보안 도구 오케스트레이션, 4+ AI 프로바이더, OWASP 매핑·컴플라이언스 점수. Python, 1k stars, 커스텀 라이선스
 * [IronClaw - Your Personal AI Assistant, Hosted](https://ironclaw.co/)
 * [IronClaw — Secure AI Agent Runtime](https://www.ironclaw.com/)
   * [ironclaw: Rust-based secure personal AI assistant framework with WASM sandboxing](https://github.com/nearai/ironclaw)
@@ -4254,6 +4276,11 @@ Artificial Intelligence
   * mitmproxy로 Chrome HTTP/HTTPS 트래픽 가로채 2단계 분석: 20개 패턴 매처 사전 분석 + Claude Sonnet 35개 취약점 카테고리 상세 분석. CVSS v3.1 점수·OWASP Top 10 매핑. 200+ 공격 페이로드, 실시간 WebSocket 대시보드. Bedrock+Anthropic API
 * [LuaN1aoAgent: Fully autonomous AI penetration testing agent powered by DeepSeek V3.2](https://github.com/SanMuzZzZz/LuaN1aoAgent)
   * Dual-graph reasoning으로 XBOW Benchmark에서 90%+ 성공률, 중앙값 $0.09 익스플로잇 비용
+* [mantis: A modular, stack-agnostic toolkit for AI coding agents to autonomously find, reproduce, and patch vulnerabilities | Google](https://github.com/google/mantis)
+  * [Google Open-Sources Mantis: A Modular Skills Toolkit That Lets Coding Agents Find, Reproduce and Patch Vulnerabilities - MarkTechPost](https://www.marktechpost.com/2026/09/09/google-open-sources-mantis-a-modular-skills-toolkit-that-lets-coding-agents-find-reproduce-and-patch-vulnerabilities/)
+  * [Google 오픈소스 Mantis, 코딩 에이전트가 취약점 탐지부터 재현·패치까지 수행하는 보안 기술](https://digitalbourgeois.tistory.com/3657)
+  * 독립 스캐너가 아니라 기존 코딩 에이전트에 로드해 쓰는 보안 검토 스킬 집합. 탐색→오탐 제거→재현→익스플로잇 체인→패치→재공격 검증→위험도 평가→보고를 슬래시 명령으로 단계 실행하고 /mantis-meta-agent 슈퍼바이저가 장시간 세션을 이어붙인다. 핵심은 취약점 개수가 아니라 검증—/mantis-reproduce가 gVisor 또는 VM의 네트워킹 차단 환경에서 페이로드를 실제 실행해 "취약해 보인다"와 실제 발생을 구분하고, /mantis-patch 적용 후 다시 공격해 해결됐는지 확인
+  * /mantis-history(과거 보안 수정 이력)·/mantis-architecture·/mantis-threat-model·/mantis-critic(부정 규칙으로 실현 불가능한 문제 제거)·/mantis-chain(다단계 체인)·/mantis-calibrate(1~10 위험 점수)·/mantis-reflect(학습 반영)·/mantis-report. /mantis-advise는 흐름을 반대로 써서 축적된 위협 모델·버그 계보·검증된 패치 패턴을 코드 작성 전에 조회. Python, Apache-2.0, 1.6k stars
 * [MEDUSA - AI Security Scanner | Pantheon Security](https://pantheonsecurity.io/)
   * [medusa](https://github.com/Pantheon-Security/medusa)
   * AI-first 보안 스캐너. 78개 분석기, 9,600+ 탐지 규칙. 프롬프트 인젝션, MCP 취약점, RAG 포이즈닝, 에이전트 공격 탐지. 오픈소스
@@ -6713,6 +6740,12 @@ Artificial Intelligence
   * [왜 AI 로 쓴 글을 한번에 알아볼 수 있는가? AI가 쓴 티 지우는 방법 - YouTube](https://www.youtube.com/watch?v=KMwAvsDRxVk)
     * 오늘코드todaycode. AI 글을 한눈에 알아보는 이유(번역투·기계적 병렬 구조 등 71가지 AI 티)와 im-not-ai 스킬로 지우는 방법. AI 생성 한국어 텍스트 탐지 연구 KatFishNet도 소개
   * 한글 AI 티 제거기. 번역투, 기계적 구조, AI 특유 표현 검출·재작성. 10개 주요 카테고리 40+ 하위 패턴, 심각도별 분류
+* [Hyperresearch · Research that remembers](https://hyperresearch.ai/)
+  * [hyperresearch: Agent-driven research knowledge base. Agents collect, search, and synthesize web research into a persistent, searchable wiki](https://github.com/jordan-gibbs/hyperresearch)
+  * [Claude Code를 딥 리서치 에이전트로 만드는 Hyperresearch](https://digitalbourgeois.tistory.com/3650)
+  * Claude Code를 딥 리서치 에이전트로 만드는 리서치 하네스. 하나의 프롬프트를 티어에 따라 최대 16단계 파이프라인으로 전개—Decompose→Width Sweep→Contradiction Graph(출처 간 모순 수집)→Loci Analysis→Depth Investigation→Cross-Locus Reconcile→Source Tensions→Corpus Critic("이 주장을 뒤집을 출처는?")→Evidence Digest→Triple Draft→Synthesize→Adversarial Critic 4개 병렬→Gap-Fetch→Patcher→Cite-Check→Polish→Readability Audit. 각 단계 절차는 실행 시점에만 컨텍스트에 로드. Python, MIT, 3.4k stars
+  * 출처 수보다 검증이 핵심—Premier 프로필은 Width Sweep만으로 100~130개, 최종 코퍼스 250개 이상이지만 같은 보도자료 재게시를 5개 의견으로 세지 않도록 Independence Audit으로 파생 자료를 묶는다. Cite-Checker가 존재하지 않는 인용문 차단·숫자와 근거 연결 확인·철회 사실 미고지 인용 차단, 오래 전 Vault 출처도 보고서 생성 시점에 DOI Retraction Sweep 재확인. 두 원칙은 "Patch, never regenerate"(Patcher·Polish는 허용 도구가 Read+Edit로 제한돼 전체 재작성이 구조적으로 불가)와 "Canonical Research Query is gospel"(원본 프롬프트를 query.md에 보존해 래퍼 요구사항과 분리). 읽은 출처는 Markdown+SQLite Vault에 저장해 다음 세션에 재사용
+  * 단 DeepResearch-Bench RACE 리더보드 관련 성능 주장은 자체 내부 벤치마크 기준이고 제3자 검증은 진행 중이라고 레포가 직접 명시—확정된 외부 검증 결과로 읽지 않는 게 적절
 * [i-have-adhd: A skill to stop your coding agent from burying the answer — ADHD-friendly output](https://github.com/ayghri/i-have-adhd)
   * 코딩 에이전트가 답을 장황함 속에 묻어버리지 않게 하는 스킬. ADHD 친화적(핵심 먼저) 출력 유도. Python, MIT
 * [IJFW: Unified platform for 13 AI coding agents with shared local memory](https://github.com/theRealSeanDonahoe/ijfw)
