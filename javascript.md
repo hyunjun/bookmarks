@@ -3135,6 +3135,10 @@ Javascript
 * [종결자는 누구? - YouTube](https://www.youtube.com/watch?v=THYI_JdmQqQ)
 * [Webpack이란? CRA 없이 직접 설정하기, 다른 모듈 번들러와의 비교 (feat. vite, turbopack, rollup, parcel)](https://velog.io/@hi-rachel/Webpack%EC%9D%B4%EB%9E%80-CRA-%EC%97%86%EC%9D%B4-%EC%A7%81%EC%A0%91-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0-%EB%8B%A4%EB%A5%B8-%EB%AA%A8%EB%93%88-%EB%B2%88%EB%93%A4%EB%9F%AC%EC%99%80%EC%9D%98-%EB%B9%84%EA%B5%90-feat.-vite-turbopack-rollup-parcel)
 * [dev-server에서 HMR 문제 해결하기 with LocatorJs](https://velog.io/@wns450/HMR-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0-with-dev-server)
+* [왜 VanillaFront는 웹팩을 버리고 Dynamic Import 방식을 채택했나?](https://blog.vanillafront.com/111)
+  * 번들러 없이 브라우저가 ES6 모듈을 직접 로드하는 구조를 택한 이유를 세 축(번들 스플리팅이 야기하는 복잡도, 모던 브라우저의 성숙, HTTP/2 이후 성능 모델 변화)으로 설명. Webpack의 강점(tree shaking, 에셋 파이프라인, minification, 레거시 브라우저 지원, 모듈 포맷 변환, Dev Server·HMR)을 먼저 공정하게 정리한 뒤 "모든 상황에서 그런가"를 묻는 구성
+  * 비판의 초점은 번들을 나눌 때—splitChunks 옵션들이 서로 상호작용해 결과 청크 구성이 달라지는데 이를 완전히 이해하는 팀이 드물어 "다음 사람이 건드리기 두려운 코드"로 남고, React.lazy+Suspense는 라우트마다 에러 바운더리 위치·청크 로딩 실패 재시도·프리로딩 튜닝·`[hash]` 기반 CDN 캐시 무효화 정책을 각각 결정해야 함. 청크 간 의존성 그래프가 눈에 안 보여 webpack-bundle-analyzer 같은 도구가 필요하고, 사내 인트라넷·폐쇄망에서는 npm 레지스트리 프록시·노드 설치 승인·빌드 서버 구성이 큰 벽이라는 지적
+  * 대안은 `Va.setRouterPath()`에 라우트 경로만 선언하고 index.html에서 `<script type="module">`로 불러 방문 시점에 자동 `import()`—Node.js·package.json·빌드 없음. Dynamic Import는 ES2020 표준이고 Can I Use 기준 전 세계 96%+ 지원. 단 자사 프레임워크 설계를 변호하는 글임을 감안할 필요가 있고, 저자도 Webpack이 여전히 맞는 경우를 명시(초대형 서드파티 라이브러리의 tree shaking, 초기 페인트가 매출인 랜딩·이커머스, 레거시 브라우저 필수, 복잡한 CSS·에셋 파이프라인, Webpack 전담 인력이 있는 대규모 팀)
 * [Brunch - ultra-fast HTML5 build tool](https://brunch.io/)
 * [Farm Documentation | Farm](https://www.farmfe.org/)
   * [Farm - 매우 빠른, Vite 호환 빌드 도구 | GeekNews](https://news.hada.io/topic?id=15487)
