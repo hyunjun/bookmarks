@@ -2142,6 +2142,9 @@ App
 * karabiner [Hacking your keyboard with karabiner](https://blog.kaush.co/2019/12/25/hacking-your-keyboard/)
 * [kawa - A better input source switcher for OS X](https://github.com/utatti/kawa)
 * [kindaVim](https://kindavim.app/) Vim Mode for macOS
+* [TapLayer — make any keyboard QMK-compatible, mouse included](https://js-commit.github.io/taplayer-mac/)
+  * QMK의 home row mods·레이어·마우스 키를 펌웨어가 아니라 macOS 쪽에서 구현해 아무 키보드에나 적용—a/s/d/f·j/k/l/;를 탭하면 글자, 홀드하면 모디파이어가 되고 Esc를 홀드하면 글자들이 포인터로 바뀜. Native Swift 1MB 미만, 네트워크 코드 없음·입력 기록 없음·권한 1개·드라이버와 root 불필요. v1.3.0, macOS 13+, 무료
+  * 만든 동기가 특이한데—iPad나 안드로이드 태블릿에서 Jump Desktop으로 Mac에 원격 접속할 때 안드로이드가 Command를 아예 전달하지 않고 Esc는 자기 Back 버튼으로 가로채는 문제를 Mac 쪽에서 해결(Command를 f·j로 옮기고, 안드로이드가 전달해 주는 Caps Lock을 Escape로). 트랙패드 없는 폴리오 케이스 문제도 글자 포인터로 보완하므로 태블릿에 companion 앱을 깔 필요가 없음
 
 ## Mac development
 * [맥에서의 파이썬 개발 환경 자동화(pyenv, virtualenv, autoenv)](http://guswnsxodlf.github.io/blog/develop/pyenv-virtualenv-autoenv)
