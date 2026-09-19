@@ -311,6 +311,9 @@ App
 * [A hacker intercepted your Wi-Fi traffic and stole your contacts, passwords, and financial data. Here’s how](https://hackernoon.com/a-hacker-intercepted-your-wifi-traffic-stole-your-contacts-passwords-financial-data-heres-how-4fc0df9ff152) wifi 보안 관련 이야기
 * [“지갑도 지키고 개인정보도 지키는” 무료 보안 도구 4가지 - ITWorld Korea](https://www.itworld.co.kr/news/221799)
 * [How to hack a wifi-password - YouTube](https://www.youtube.com/watch?v=n4lx_aNRE3s)
+* [로그프레소 CTI 토스증권 사칭 macOS 악성코드 유포 분석 보고서 | 로그프레소](https://logpresso.com/ko/blog/2026-09-15-macos-malware-distribution-report-kor)
+  * 페이스북 유료 광고 → 토스증권 사칭 사이트(tos[.]sinvest-land[.]com) → macOS `.pkg` 다운로드 경로. postinstall이 외부 서버 스크립트를 curl→bash로 서명·해시 검증 없이 실행하는 드로퍼이고, 함께 설치되는 앱에는 화면 기록·전체 디스크 접근·입력 모니터링 권한 승인을 자동화하는 코드가 있음. 분석 시점에 Apple 개발자 인증서·공증은 폐기됐으나 **VirusTotal 안티바이러스 61종 0/61, 도메인 평판 89종 0/89로 전 엔진 미탐지**—평판만 믿을 수 없다는 점이 핵심. 토스증권과 도용된 언론사도 피해자
+  * 광고 유형 3종(개인 계정 명의·실존 가상자산 매체 명의로 공식 도메인 표시·The Korea Herald 사칭)이 광고주와 링크 도메인을 바꿔가며 순환하므로 특정 도메인 차단으로는 대응 불가—서명·식별자 기준 차단을 EDR에 적용하라는 권고. Meta 광고의 표시 링크는 실제 목적지와 다르게 넣을 수 있고 심사·노출 시점에 다른 페이지를 보여줄 수도 있음. 유형 B 광고 본문에 마크다운 `**`가 그대로 남아 생성 도구로 대량 제작한 흔적. 악성 파일 미실행 정적 분석(pkgutil·strings·otool·codesign)만으로 수행, IOC 공개
 * [AgentHound: Red team framework for AI agent infrastructure](https://agenthound.io/)
   * [adithyan-ak/AgentHound: Offensive security framework for AI agent infrastructure](https://github.com/adithyan-ak/AgentHound)
   * AI 에이전트 인프라(MCP·A2A·게이트웨이·추론·벡터스토어)를 겨냥한 오픈소스 레드팀 프레임워크. 정찰·크리덴셜 탈취·모델 exfiltration·포이즈닝·공격경로 분석을 수행하고 모든 공격 경로를 Neo4j 그래프로 증명. "에이전틱 스택의 BloodHound". Go, Apache-2.0
@@ -3238,6 +3241,9 @@ App
   * [RustDesk - 오픈소스 TeamViewer 대체제 | GeekNews](https://news.hada.io/topic?id=6621)
   * [팀뷰어를 대체 할 최고의 무료 원격 프로그램 RustDesk - YouTube](https://www.youtube.com/watch?v=k5VrVD8n0G8)
   * [Open Source Self Hosted Teamviewer Replacement - YouTube](https://www.youtube.com/watch?v=FIEcTNjFZNA)
+* [Screego - open source screen sharing for developers](https://screego.net/)
+  * [screego/server: screen sharing for developers](https://github.com/screego/server)
+  * 셀프호스팅 WebRTC 화면 공유. 다중 사용자가 동시에 화면을 공유하고 최대 해상도·여러 화면을 지원, 계정 없이 방 생성 가능(선택적 사용자 인증). 내장 TURN 서버로 방화벽·NAT 뒤에서도 동작. 단일 바이너리 또는 Docker 배포. Go, GPL-3.0, 10.6k stars
 
 # RSS feed
 * [Lighthouse - The feed reader for finding actionable content](https://lighthouseapp.io/blog/feed-reader-deep-dive)
