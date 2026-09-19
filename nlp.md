@@ -2524,6 +2524,11 @@ NLP
       * 모델이 훈련 데이터의 세부 정보를 너무 잘 학습하여 일반화하지 못하고 새로운 데이터에 적용하지 못할 수 있는 위험
       * 모델을 병합할 때 데이터 오염에 주의해야 하며, 믿을만한 벤치마크 도움이 실제로 얼마나 유용한지도 의문
 * [명확한 검증을 위한 LLM 성능 평가 벤치마크 데이터셋 구축 방법 - 텍스트넷 공식 블로그](https://article.textnet.kr/llm-benchmark-dataset-creation-methods)
+* [Introducing SWE-2: Pushing the Pareto Frontier | Cognition](https://cognition.com/blog/swe-2)
+  * [SWE-2 출시, 코딩 성능과 비용 효율을 함께 높인 AI 코딩 모델 | digitalbourgeois](https://digitalbourgeois.tistory.com/3658)
+  * Cognition이 2.8조 파라미터 Kimi K3를 기반으로 추가 RL한 코딩 모델. 핵심은 보상에 비용을 넣은 것—`R = S - λₑC`로 성공 여부(S)에서 달러 추론비·소요시간 혼합값(C)을 추론 수준별 계수(λₑ)만큼 차감. 그 결과 FrontierCode 1.1에서 50.0%로 Fable 5.1(50.9%)보다 0.9%p 낮지만 작업당 비용은 64% 저렴, DeepSWE 1.1 73.0%로 GPT-6 Astra와 수%p 차이에 비용은 약 1/4, Terminal-Bench 2.1은 92.8%로 비교군 최고
+  * 다만 Terminal-Bench 4에서는 27.3%로 Fable 5.1(55.8%)·GPT-6 Astra(57.9%)에 크게 뒤짐—평가에 따라 결과가 갈린다는 점을 함께 봐야 함. 비용 비교는 모든 모델을 같은 하네스로 돌린 게 아니라 각 모델의 주 하네스(Anthropic=Claude Code, OpenAI=Codex, xAI=Grok Build, 오픈웨이트=Devin CLI)를 쓴 값이고, 추론 설정은 모델별 최고점을 채택
+  * 행동 변화도 뚜렷—SWE-1.7은 수정 전 코드베이스를 과도하게 탐색했는데 SWE-2는 관련 영역을 먼저 판단해 첫 실질 코드 수정까지 중앙값 48단계→18단계(Medium), 평균 작업 단계 127회→53회. FrontierCode 100문제 3회 실행에서 SWE-1.7보다 점수는 높으면서 평균 단계 58%·평균 비용 81% 감소. Medium은 빠른 처리, High·Max는 복잡한 작업에서 계획·탐색·검증을 더 수행
 * [Nick Sorros - A Tour of Large Language Models - YouTube](https://www.youtube.com/watch?v=ksVED-hacKA)
   * [VidiGo Nick Sorros - A Tour of Large Language Models.mp4](https://vidigo.ai/share/summary/e3c4074acaeb)
     * LLM 훈련 과정의 단계 설명
@@ -3195,6 +3200,22 @@ NLP
 * [InternLM: InternLM has open-sourced a 7 billion parameter base model, a chat model tailored for practical scenarios and the training system](https://github.com/InternLM/InternLM)
   * [Intern-S1: A Scientific Multimodal Foundation Model](https://github.com/InternLM/Intern-S1/)
 * [jamo\_llm: 어느 고등학생의 심플한 확률론적 앵무새 만들기](https://github.com/yoonhero/jamo_llm)
+* Jev [Introducing System One Models & Jev | TypeSafe AI](https://typesafe.ai/blog/introducing-system-one-models-and-jev)
+  * [Jev - 문장 대신 판단과 확률을 반환하는 AI 모델 | GeekNews](https://news.hada.io/topic?id=33751)
+  * [Jev, 문장 대신 판단과 확률을 반환하는 AI 모델](https://digitalbourgeois.tistory.com/3670)
+    * 자체 워크플로 평가의 193.6배 빠름·444.6배 저렴이라는 수치가 어떤 조건에서 나왔는지 해설—모델별로 하네스를 바꾸지 않고 동일 코드 워크플로를 적용, 참조 확률은 GPT-6 Astra와 Fable 5.1 예측의 평균. TypeSafe AI 자신도 이 값이 개선 폭의 상단에 가깝고, 워크플로 작성자가 모델 역량 팀원이라는 편향과 참조 답이 OpenAI·Anthropic 중심이어서 Jev·DeepSeek이 과소평가됐을 가능성을 인정. 데모 비교 대상은 기본 추론 설정의 GPT-5.6 Terra
+  * [AI가 100배 빨라지고 100배 저렴해지는 것의 의미 (텍스트 없이 결론만 내리는 AI 모델: Jev) | 번개맞은씨앗 | PGR21](https://pgr21.com/freedom/107303)
+    * 속도·비용 개선이 왜 단순한 '양'이 아니라 '질'로 바뀌는지 4가지—①검토 시간이 생겨 안전이 올라감(단 AI 대 AI 대결에선 예외) ②brute force로 밀레니엄 문제급 탐색이 가능해짐 ③computer use·로봇이 하드웨어는 이미 올라왔으니 속도가 민첩함을 결정 ④비싸서 아예 시도 안 했던 것들(개인 LLM 위키 등)이 시도되며 경험이 축적됨. 물이 임계점에서 수증기가 되듯 양적 변화가 구조적 변화를 낳는다는 비유로 "AI 모델 외부에서의 창발"을 제안
+    * Jev 평가는 유보적—벤치마크 없이 자기 보고 성능이고 내부 구조·방법·모델 크기 미공개라 처음엔 반신반의했으나 이틀간 사용 후기는 대체로 호평. 신뢰도가 낮으면 "모르겠다"며 LLM에 넘길 수 있는 구조에 주목하고, 파이썬 결정론적 코드 / 경량 LLM / 고성능 LLM 배치에서 경량 LLM·휴리스틱·일부 RAG 자리를 Jev가 대체할 것으로 봄. 연결주의와 기호주의의 접점이라 협업론을 주장해온 학자들의 반응을 기다리는 중
+  * [Awesome Jev — Directory of 488 projects built on Jev](https://awesomejev.com/)
+    * TypeSafe AI 공식 문서·SDK부터 통합·에이전트 툴링·브라우저/컴퓨터 사용·애플리케이션·게임·벤치마크까지 카테고리별로 묶은 488개 프로젝트 디렉터리. 최다 스타는 browser-use의 jev-ultrafast(4.8k), Claude Code의 compaction 요약을 Jev 판단으로 대체하는 fast-jev-compaction(2.7k), 오픈 모델로 3090에서 semantic if를 돌리는 비공식 SemIf(1.5k), 텍스트 선택지 중 하나를 한 번에 고르는 소형 모델 학습 jevlike(851)
+  * [jevlike: Train a small model that chooses among a changing list of text options, one probability per option in a single pass](https://github.com/vinnylarouge/jevlike)
+    * [Jevlike - 문장 대신 선택지별 확률을 반환하는 Jev 방식의 오픈소스 모델 | GeekNews](https://news.hada.io/topic?id=33854)
+    * Jev와 같은 입출력(문맥+매번 달라지는 선택지 목록 → 합이 1인 선택지별 확률)을 직접 학습해 실험해 보는 서드파티 프로젝트. 각 선택지를 벡터화하고 문맥에 어텐션을 걸어 선택지별 문맥 표현을 만든 뒤 점수를 softmax로 변환—예측 전에 전체 선택지 목록이 주어져야 하고 최소 2개 필요. 바이트 단위 표현을 처음부터 학습하는 소형 모델이 기본이고, Qwen2.5-0.5B 같은 HF 사전학습 모델에 점수 계산부만 얹는 구성도 가능. CPU·Apple MPS·CUDA 학습 지원. Python, MIT, 926 stars
+    * **Jev의 복제나 비공개 학습 방식 재현이 아니며 동등한 판단 능력·확률 보정을 입증하지도 않았다고 레포가 직접 밝힘.** 학습·평가의 목표 페이지를 분리한 Wikispeedia 다음 클릭 예측에서 고정 Qwen2.5-0.5B+점수 계산기 26%, 처음부터 학습한 소형 모델 29%, 문맥 섞기·무작위 인코더 대조군 약 8%(합성 선택지 데이터만 쓰면 98%까지 나오지만 이는 누수된 수치). 선택지 8개를 한 번에 점수화하면 소형 디코더에 400토큰을 생성시키는 방식보다 약 100배 빨랐다는 것도 **로컬 소형 디코더 대비**이고 범용 100배 향상 주장이 아님
+    * Doom 7개 버튼·체스 5개 키처럼 화면을 보고 행동을 고르는 데모도 공개하지만 공개 영상은 5초 활동 구간을 선별한 것—Doom 체크포인트는 10 에피소드 평균 처치 0.60, 체스 전용 체크포인트는 무작위 상대에 4승 46무 0패지만 Stockfish 레벨 0에는 0승 2무 48패
+  * 전 OpenAI 연구자(ChatGPT의 기반이 된 instruction-following 연구 참여) Diogo Almeida가 창업한 TypeSafe AI의 첫 System One 모델 Jev(얼리 액세스). 텍스트 생성을 포기하는 대신 사전 정의된 타입 세이프 구조화 출력+보정된 확률(calibrated confidence)만 반환—환각·타입 오류가 원천적으로 불가능. RLCD(Reinforcement Learning for Calibrated Decisions)로 학습, 병렬 샘플링으로 70~500ms 응답(동급 지능 기준 프런티어 LLM 대비 40~200배), 입력 $0.042/M·출력 무료
+  * 용도: 분류·라우팅·점수화·추출·조건 분기 같은 "smart if-statement", 페타바이트 데이터 map-reduce, 실시간 앱, LLM 출력 검증·가드레일·탈옥 감지. "프런티어 지능의 함수 호출—비구조화 상태를 넣으면 타입드 확률적 판단이 나온다"
 * [JudgeBench: A Benchmark for Evaluating LLM-Based Judges](https://github.com/ScalerLab/JudgeBench)
 * [Jupiter | Sovereign — zero-dependency high-performance inference engine for LLMs](https://www.teamjupiter.ai/)
   * [Jupiter Sovereign 공유 | Jupiter Song](https://www.linkedin.com/posts/jupitersong_jupiter-sovereign-share-7486380864663076864-IBtp/)
@@ -4271,17 +4292,6 @@ NLP
   * [txtai - 시맨틱 검색, LLM 오케스트레이션, 언어모델 워크플로우를 위한 올인원 임베 | GeekNews](https://news.hada.io/topic?id=15957)
 * [TWO](https://www.two.ai/)
   * [투플랫폼 “수트라 한국어 추론 능력이 국내 모델보다 뛰어나“ < 인터뷰 < 산업 < 기사본문 - AI타임스](https://www.aitimes.com/news/articleView.html?idxno=159362)
-* [Introducing System One Models & Jev | TypeSafe AI](https://typesafe.ai/blog/introducing-system-one-models-and-jev)
-  * [Jev - 문장 대신 판단과 확률을 반환하는 AI 모델 | GeekNews](https://news.hada.io/topic?id=33751)
-  * [Jev, 문장 대신 판단과 확률을 반환하는 AI 모델](https://digitalbourgeois.tistory.com/3670)
-    * 자체 워크플로 평가의 193.6배 빠름·444.6배 저렴이라는 수치가 어떤 조건에서 나왔는지 해설—모델별로 하네스를 바꾸지 않고 동일 코드 워크플로를 적용, 참조 확률은 GPT-6 Astra와 Fable 5.1 예측의 평균. TypeSafe AI 자신도 이 값이 개선 폭의 상단에 가깝고, 워크플로 작성자가 모델 역량 팀원이라는 편향과 참조 답이 OpenAI·Anthropic 중심이어서 Jev·DeepSeek이 과소평가됐을 가능성을 인정. 데모 비교 대상은 기본 추론 설정의 GPT-5.6 Terra
-  * [AI가 100배 빨라지고 100배 저렴해지는 것의 의미 (텍스트 없이 결론만 내리는 AI 모델: Jev) | 번개맞은씨앗 | PGR21](https://pgr21.com/freedom/107303)
-    * 속도·비용 개선이 왜 단순한 '양'이 아니라 '질'로 바뀌는지 4가지—①검토 시간이 생겨 안전이 올라감(단 AI 대 AI 대결에선 예외) ②brute force로 밀레니엄 문제급 탐색이 가능해짐 ③computer use·로봇이 하드웨어는 이미 올라왔으니 속도가 민첩함을 결정 ④비싸서 아예 시도 안 했던 것들(개인 LLM 위키 등)이 시도되며 경험이 축적됨. 물이 임계점에서 수증기가 되듯 양적 변화가 구조적 변화를 낳는다는 비유로 "AI 모델 외부에서의 창발"을 제안
-    * Jev 평가는 유보적—벤치마크 없이 자기 보고 성능이고 내부 구조·방법·모델 크기 미공개라 처음엔 반신반의했으나 이틀간 사용 후기는 대체로 호평. 신뢰도가 낮으면 "모르겠다"며 LLM에 넘길 수 있는 구조에 주목하고, 파이썬 결정론적 코드 / 경량 LLM / 고성능 LLM 배치에서 경량 LLM·휴리스틱·일부 RAG 자리를 Jev가 대체할 것으로 봄. 연결주의와 기호주의의 접점이라 협업론을 주장해온 학자들의 반응을 기다리는 중
-  * [Awesome Jev — Directory of 488 projects built on Jev](https://awesomejev.com/)
-    * TypeSafe AI 공식 문서·SDK부터 통합·에이전트 툴링·브라우저/컴퓨터 사용·애플리케이션·게임·벤치마크까지 카테고리별로 묶은 488개 프로젝트 디렉터리. 최다 스타는 browser-use의 jev-ultrafast(4.8k), Claude Code의 compaction 요약을 Jev 판단으로 대체하는 fast-jev-compaction(2.7k), 오픈 모델로 3090에서 semantic if를 돌리는 비공식 SemIf(1.5k), 텍스트 선택지 중 하나를 한 번에 고르는 소형 모델 학습 jevlike(851)
-  * 전 OpenAI 연구자(ChatGPT의 기반이 된 instruction-following 연구 참여) Diogo Almeida가 창업한 TypeSafe AI의 첫 System One 모델 Jev(얼리 액세스). 텍스트 생성을 포기하는 대신 사전 정의된 타입 세이프 구조화 출력+보정된 확률(calibrated confidence)만 반환—환각·타입 오류가 원천적으로 불가능. RLCD(Reinforcement Learning for Calibrated Decisions)로 학습, 병렬 샘플링으로 70~500ms 응답(동급 지능 기준 프런티어 LLM 대비 40~200배), 입력 $0.042/M·출력 무료
-  * 용도: 분류·라우팅·점수화·추출·조건 분기 같은 "smart if-statement", 페타바이트 데이터 map-reduce, 실시간 앱, LLM 출력 검증·가드레일·탈옥 감지. "프런티어 지능의 함수 호출—비구조화 상태를 넣으면 타입드 확률적 판단이 나온다"
 * [unsloth: Finetune Llama 3, Mistral, Phi & Gemma LLMs 2-5x faster with 80% less memory](https://github.com/unslothai/unsloth)
   * [LLM unsloth를 사용한 파인 튜닝 및 GGUF 변환 - 미완성의신](https://unfinishedgod.netlify.app/2024/06/15/llm-unsloth-gguf/)
   * [How to use Unsloth as an API endpoint | Unsloth Documentation](https://unsloth.ai/docs/basics/api)
