@@ -72,8 +72,10 @@ App
   * [재택근무 끝내야 할까? 알로(Allo)의 직원 ‘활동 기록’ 공유로 해답을 찾다 | ㅍㅍㅅㅅ](https://ppss.kr/archives/262627)
 * [alternative-front-ends: Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)](https://github.com/mendel5/alternative-front-ends)
 * [ArchiveBox | 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more…](https://archivebox.io/)
+  * [ArchiveBox: 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...](https://github.com/ArchiveBox/ArchiveBox)
   * [Big changes are coming to ArchiveBox! - HedgeDoc](https://docs.sweeting.me/s/archivebox-plugin-ecosystem-announcement)
     * [ArchiveBox가 진화중: 셀프 호스팅 인터넷 아카이브의 미래 | GeekNews](https://news.hada.io/topic?id=17279)
+  * URL·브라우저 히스토리·북마크·RSS·Pocket/Pinboard를 받아 HTML·PDF·PNG·TXT·JSON·WARC·MP4로 저장하고 메타데이터는 SQLite에 보관. wget·SingleFile·헤드리스 Chromium·yt-dlp 등 여러 추출기를 병행하며 CLI·Web UI·REST API·웹훅·브라우저 확장·Mac/iPhone 공유 메뉴·Siri/Shortcuts로 수집. 스케줄 임포트로 스냅샷을 주기적으로 떠 사이트 변화를 비교 가능. 스냅샷이 평범한 파일·폴더라 호스팅 서비스 없이도 열람 가능하다는 점을 내세워 "100년+ 지속" 설계를 지향. Docker Compose 권장 설치, 애널리틱스 없음. Python, MIT, 28.5k stars
 * [Archivy - self-hosted knowledge repository](https://archivy.github.io/)
   * 북마킹한 웹페이지 내용을 로컬에 자동 저장
   * 노트는 마크다운포맷으로 저장
