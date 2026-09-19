@@ -2715,6 +2715,8 @@ App
   * [Revideo – 코드로 동영상을 제작하는 오픈소스 프레임워크 | GeekNews](https://news.hada.io/topic?id=15313)
 * [Rewatch: The private & secure video channel for your team](https://rewatch.tv/)
   * [Rewatch - 팀/회사를 위한 비디오 공유 | GeekNews](https://news.hada.io/topic?id=3555)
+* [rtelevision: A player for free TV streams from around the world](https://github.com/rainygirl/rtelevision)
+  * 전 세계 무료 TV 스트림 재생기. C++, MIT
 * [Shotcut - Home](https://shotcut.org/)
   * [Shotcut - a free, open source, cross-platform video editor](https://github.com/mltframework/shotcut)
   * [리눅스에서 비디오 편집 프로그램 추천 - Shotcut : 클리앙](https://www.clien.net/service/board/cm_linux/15344021)
