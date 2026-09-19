@@ -1986,6 +1986,10 @@ Artificial Intelligence
 * [2605.18747 Code as Agent Harness](https://arxiv.org/abs/2605.18747)
   * [Sujin Kang Ph.D. - 하네스 엔지니어링에서 프롬프트의 역할 정리 | LinkedIn](https://www.linkedin.com/posts/sujin-prompt-engineer_promptengineering-agentharness-llm-activity-7464602143690227712-KC2E)
   * UIUC·Meta·Stanford 서베이 논문 (Xuying Ning 외 41명). 코드는 LLM의 출력물이 아닌 "에이전트 추론·행동·환경 모델링·실행 검증의 operational substrate". 3계층 분류—Harness Interface(코드를 통한 에이전트 연결), Mechanisms(계획·메모리·도구 사용·피드백 제어), Scaling(단일→멀티 에이전트, 공유 코드 아티팩트로 조정·리뷰·검증). 코딩 어시스턴트·GUI/OS 자동화·embodied 에이전트·과학·DevOps·엔터프라이즈 워크플로 적용. 5 발견: 에이전트 안정성은 모델 크기보다 하네스 신뢰성에 의존, plan은 PLAN.md 같은 파일시스템 객체로, Plan-Execute-Verify 표준 루프, 메모리는 layered governance, 도구는 governed interface로. 4 프롬프트 설계 원칙: PEV 사이클·persistent plan 객체·메모리는 governance·라이프사이클 훅. "프롬프트의 무게중심이 문장→하네스로 이동"
+* [2609.20804 An Empirical Study of Harness Design for Coding Agents](https://arxiv.org/abs/2609.20804)
+  * [코딩 에이전트 하네스 설계에 관한 실증 연구 | GeekNews](https://news.hada.io/topic?id=33905)
+  * 하네스를 통째로 비교하던 기존 연구와 달리 ReAct 실행 루프를 고정한 경량 하네스에서 계획·행동 공간·컨텍스트 관리 세 구성요소만 바꿔 4개 모델 × SWE-Bench Verified·Terminal-Bench 2.1에서 176개 설정을 비교(컨텍스트 관리 5개 정책 × 컨텍스트 창 4개 예산). ①컨텍스트 관리는 창이 좁을수록 가치가 커지고 이득의 대부분이 컨텍스트 오버플로 실패 방지에서 나옴 ②규칙 기반 생략을 LLM 요약보다 먼저 두는 단계 구성이 효율 최고이고, 생략한 내용을 되살리는 장치는 모델이 거의 쓰지 않아 정확도 이득 없음
+  * ③계획은 약한 모델에선 정확도 보조 장치, 강한 모델에선 비용 절감 장치로 역할이 바뀌며 정확도 변화는 작음 ④전용 도구는 bash가 서툰 모델에 도움이 되지만 능숙한 모델은 bash만으로도 잘 동작하며 특히 CLI 중심 작업에서 비용이 크게 낮음. 궤적 분석으로 설명—컨텍스트 관리는 행동을 바꾸지 않고 궤적을 늘리고, 계획은 궤적이 멈추는 지점을 바꾸고, 행동 공간은 코드를 쓰는 granularity를 바꾼다. 선행 비교에서 Claude-Opus-4.5는 OpenHands, Claude-Sonnet-4.5는 SWE-Agent에서 최고였던 것처럼 모델별 하네스 선호가 다르다는 문제의식
 * [Agent Harness Engineering | AddyOsmani.com](https://addyosmani.com/blog/agent-harness-engineering/)
   * [하네스 엔지니어링: 모델보다 중요한 작업 환경 설계의 시대 | GeekNews](https://news.hada.io/topic?id=28966)
   * 모델보다 harness(프롬프트·도구·컨텍스트 정책·훅·샌드박스·피드백 루프)가 결과 좌우. 모델 비교 대신 작업 환경 설계가 핵심
@@ -2162,7 +2166,7 @@ Artificial Intelligence
   * 125시간 LLM 고급 코스. NLP 기초(토큰화·임베딩)부터 파인튜닝·RAG·LoRA·PEFT까지. Transformer, 벡터 DB 기반 LLM 앱. JetBrains IDE 프로젝트 기반, 무료, Python 3.12
 * [AI Engineer가 성장하려면 repo를 많이 저장하는 것보다 순서가 중요하다 | sanguinekim](https://www.linkedin.com/posts/sanguinekim_ai-engineer%EA%B0%80-%EC%84%B1%EC%9E%A5%ED%95%98%EB%A0%A4%EB%A9%B4-repo%EB%A5%BC-%EB%A7%8E%EC%9D%B4-%EC%A0%80%EC%9E%A5%ED%95%98%EB%8A%94-%EA%B2%83%EB%B3%B4%EB%8B%A4-%EC%96%B4%EB%96%A4-share-7474273361292840960-oE2E/)
   * 자료는 많지만 흐름 없이 보면 흩어진다는 문제의식. 5단계(기초→구축→에이전트→연결/메모리→검증/운영) 10개 레포 학습 경로—ai-engineering-from-scratch, Hands-On-Large-Language-Models, openai-cookbook, mcp-for-beginners, MCP python-sdk, LightRAG, deepagents, harness-books, autoresearch, ml-intern. 모델을 도구·메모리·검증·반복 루프와 잇는 실행 구조 설계가 핵심
-* [ai-agents-for-beginners: 10 Lessons to Get Started Building with AI Agents](https://github.com/microsoft/ai-agents-for-beginners)
+* [ai-agents-for-beginners: 18 Lessons to Get Started Building AI Agents](https://github.com/microsoft/ai-agents-for-beginners)
   * [한국어 번역본 (translations/ko)](https://github.com/microsoft/ai-agents-for-beginners/tree/main/translations/ko)
 * [AI Engineering from Scratch](https://aiengineeringfromscratch.com/)
   * [ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)
@@ -3965,6 +3969,9 @@ Artificial Intelligence
   * John Gruber. EU 규제 준수용 워터마크가 단어 선택을 의도적으로 편향시켜 글의 질을 떨어뜨린다는 비판—선의의 사용자만 피해 보고 악의적 사용자는 우회한다며 EU 규제 자체의 비현실성 지적
 * [Measurements for understanding the pace of AI development inside frontier labs | Anthropic](https://www.anthropic.com/institute/measuring-pace-of-ai-development)
   * [Anthropic, AI가 AI를 개발하는 내부 현황과 감독 지표 공개 | GeekNews](https://news.hada.io/topic?id=33871)
+  * [조여준 - Sam Altman, Dario Amodei, Elon Musk가 비슷한 이야기를 하는 아주 드문 상황 | Facebook](https://www.facebook.com/ethan.cho.12/posts/pfbid0dH7kQz3ZUe3iWMDd34z5yZupbKwPUR6Vr3Z4Bf99jZH5439sbEUpaxsr8PFCbs3el)
+    * 세 사람이 동시에 AI 속도 조절을 말하는 이유를 ①내부에서 보는 발전 속도가 자신들도 제어하기 어려운 수준 ②지정학—지금 수준의 프런티어 LLM을 중국이 대규모로 증류하기 시작하면 GPU 수출통제만으로 격차 유지가 어려워짐(모델 하나가 만들어지는 순간 그 지능이 훨씬 싼 모델들로 퍼진다)으로 정리하고, 앞으로의 변화 10가지를 전망—AI 거절 증가, AI permission popup 일상화, 직업·국가·보안등급별 capability tier, 사내 승인 AI만 허용+전체 로그, AI 신분증("이 행동은 AI agent가 수행"), 중요 업무마다 인간 승인 버튼, 중간 검사로 체감 속도 저하, 아동 parental control의 중심이 화면→AI로 이동, "Verified human"의 가치 상승
+    * 결론은 10번—프런티어가 느려져도 이미 있는 AI조차 대부분 제대로 못 쓰고 있으므로 격차는 "누가 최신 모델을 쓰는가"보다 "누가 AI에게 일을 잘 맡기는가"에서 생긴다. ChatGPT Pro 200이 이미 제한되기 시작했다는 관찰로 마무리
   * 모델이 무엇을 할 수 있는지(역량 평가)가 아니라 어떻게 만들어지는지를 측정하는 3개 지표 제안—AI가 AI R&D를 얼마나 수행하는가, 에이전트 행동을 얼마나 감독하는가, 컴퓨팅을 어디에 배분하는가. Anthropic 내부 스냅샷: 2026년 8월 Claude가 AI R&D 업무의 26%를 주도(AL4)하고 90% 이상에서 협업(AL3) 이상을 맡았으나 완전 자율(AL5)에 이른 업무는 없음. 최대 내부 플랫폼에서 약 3만 에이전트가 동시 활동하며 모든 행동을 실행 전후로 감시(단 감시 범위가 모든 위험의 탐지를 뜻하지는 않는다고 명시), 조사 주간 AI R&D 컴퓨팅의 약 6%가 안전 작업에 사용(안전장치용 분류기 제외)
   * Epoch AI의 AL0~AL5 자동화 척도로 재귀적 자기개선 근접도를 가늠하는 R&D Automation Index 시범 공개. 연구소 간 비교를 위한 공통 측정 기준과 독립 검증을 제안하고, 여러 기관의 외부 평가자를 내부 위험 평가팀에 준하는 접근 권한으로 상주시켜 안전 관행 검증·사고 보고·핵심 지표 모니터링을 맡길 계획. Dario Amodei가 제안한 개발 속도 조절 공조가 이뤄지면 이 수치들이 달라질 것이라고 스스로 밝힘
 * [AILit Framework — AI Literacy Framework for Primary and Secondary Education](https://ailiteracyframework.org/)
@@ -4224,6 +4231,9 @@ Artificial Intelligence
 * [agent-governance-toolkit: Microsoft AI Agent Governance Toolkit. Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents](https://github.com/microsoft/agent-governance-toolkit)
   * [Microsoft Agent Governance Toolkit(AGT): AI 에이전트를 안전하게 운영하기 위한 정책·신원·감사 관리 | digitalbourgeois](https://digitalbourgeois.tistory.com/3598)
   * 자율 AI 에이전트 운영 거버넌스 툴킷(Public Preview, Microsoft 서명). 프롬프트 안전 의존이 아닌 결정론적 앱 코드에서 모든 도구 호출·메시지·위임을 인터셉트해 거부 액션 "구조적 불가능"화. YAML/OPA/Cedar 정책 엔진, SPIFFE/DID/mTLS zero-trust ID, 4링 권한 샌드박스, tamper-evident 감사 로그, kill switch·SLO 모니터·카오스 테스트, MCP Security Gateway(도구 포이즈닝·드리프트), Shadow AI Discovery. Python/TypeScript/.NET/Rust/Go SDK. Claude Code/Copilot CLI/OpenCode/Semantic Kernel/AutoGen/LangGraph/CrewAI/MS Agent Framework 통합. OWASP Agentic Top 10/NIST AI RMF/EU AI Act/SOC 2 매핑, 10 RFC 2119 스펙·992 conformance 테스트. MIT, 3.4k stars
+* [Agentic-Bug-Hunter: AI-powered bug bounty hunting toolkit that works with or without subscription](https://github.com/Awarexone/Agentic-Bug-Hunter)
+  * [AwareXone — Security for the agentic era](https://www.awarexone.com/)
+  * 구독 없이도 동작하는 AI 기반 버그바운티 툴킷. 정찰·취약점 스캔·CTI를 Claude Code와 엮어 HackerOne·Bugcrowd 워크플로에 적용. Python, MIT, 5k stars. 말레이시아 기반 AwareXone(소셜 엔지니어링·오펜시브 보안·위협 인텔리전스 서비스)의 오픈소스 프로젝트 중 하나로, AXguard·Public Skills Builder·Web3 Bounty Skills도 함께 공개
 * [AiSOC by Cyble, the autonomous SOC](https://tryaisoc.com/)
   * Cyble의 자율 SOC 플랫폼(동명의 오픈소스 AiSOC와는 별개 상용 제품)
 * [AiSOC: Open-source AI-powered Security Operations Center](https://github.com/beenuar/AiSOC)
@@ -4301,6 +4311,8 @@ Artificial Intelligence
   * 자율 침투 테스트 CLI. 3단계(서브도메인·지문→12개 전문 에이전트 취약점 탐지→발견 체이닝) 자동화. 웹앱·API·클라우드 커버, ~191개 보안 도구, SARIF/PDF/JUnit 리포트, CI/CD 통합. 무료 오픈소스+유료 티어
 * [RAPTOR: Autonomous Offensive/Defensive Security Research Framework](https://github.com/gadievron/raptor)
   * Claude Code 기반 보안 자동화 프레임워크. Semgrep/CodeQL 정적 분석, AFL++ 퍼징, LLM 통합(Anthropic/OpenAI/Google/Mistral) 익스플로잇 생성·패치, OSS 포렌식, 9개 전문 보안 페르소나, 실시간 비용 관리. MIT
+* [redamon: An AI-powered agentic red team framework that automates offensive security operations, from reconnaissance to exploitation to post-exploitation, with zero human intervention](https://github.com/samugit83/redamon)
+  * 정찰→익스플로잇→포스트 익스플로잇 전 과정을 사람 개입 없이 자동화하는 에이전틱 레드팀 프레임워크. Metasploit·OSINT 도구 연동. Python, MIT, 2.5k stars
 * [reverse-SynthID: Reverse-engineering Google's SynthID watermarking](https://github.com/aloshdenny/reverse-SynthID)
   * 스펙트럼 분석으로 SynthID 워터마크 90% 정확도 탐지, 다중 해상도 주파수 도메인 제거(43+ dB PSNR). Google DeepMind 워터마킹 시스템의 취약점 분석
 * [Shannon - AI Pentester by Keygraph](https://keygraph.io/)
@@ -6333,6 +6345,8 @@ Artificial Intelligence
 * [cli-agent-orchestrator: 여러 AI 코딩 어시스턴트를 계층적으로 협업시키는 오케스트레이션 프레임워크](https://github.com/awslabs/cli-agent-orchestrator)
   * supervisor-worker 패턴(handoff 동기/assign 비동기/send_message 통신). 크로스 프로바이더 혼합(Claude Code·Kiro CLI·Amazon Q·Copilot), tmux 세션 격리, Web UI/CLI/MCP 컨트롤 플레인, cron 스케줄 플로우, 에이전트별 도구 제한·영구 메모리. Python 3.10+, MCP 기반
 * [CLI-Anything: 어떤 오픈소스든 CLI 도구로 변환하여 AI 에이전트가 직접 제어](https://github.com/HKUDS/CLI-Anything)
+  * [CLI-Anything Hub - Agent-Friendly CLI Registry](https://clianything.cc/)
+    * 생성된 agent-native CLI들을 모아 에이전트가 발견·설치·운용하게 하는 레지스트리 겸 패키지 매니저. `pip install cli-anything-hub` 후 `cli-hub list/search/install/info`로 쓰거나, SKILL.md를 에이전트에 먹여 자율 탐색·설치(OpenClaw·Nanobot·Claude Code·Codex·Antigravity 등 SKILL 호환 에이전트). ClawHub·SkillHub에도 등재. 데모는 FreeCAD 로버 조립·Blender 드론 모델링·Draw.io HTTPS 핸드셰이크 다이어그램처럼 GUI 없이 CLI만으로 산출물을 만드는 사례. 49.6k stars
   * [CLI-Anything이 클로드 코드의 미래를 바꿨습니다 - YouTube](https://www.youtube.com/watch?v=eIKk2oi9Ziw)
   * MCP 대신 CLI 통신으로 AI 에이전트와 오픈소스 SW 직접 연결. 레포 지정 시 7단계 파이프라인(분석→설계→계획→구현→테스트→문서화→배포)으로 CLI 자동 생성. Blender, Inkscape 등 검증
 * [cline: Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.](https://github.com/cline/cline)
