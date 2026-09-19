@@ -263,6 +263,11 @@ Product
   * [내 몸을 위한 앨리스배열 인체공학 키보드 K15 PRO 언박싱❤😮│어고노믹 기계식 키보드 언박싱│데스크테리어│키크론 Keychron - YouTube](https://www.youtube.com/watch?v=v_1Y-nETDpg)
   * [Keychron B11 Pro Review: The Foldable Keyboard That Turns My Phone Into a Laptop - YouTube](https://www.youtube.com/watch?v=-s-eqR9odU8)
     * JSyntax. 반으로 접히는 258g·65% Alice 배열 무선 키보드(2.4GHz/블루투스/USB-C)를 Galaxy Z Fold 8 Ultra + Jump Desktop + 본인이 만든 무료 앱 TapLayer와 묶어 폰을 노트북처럼 쓰는 구성을 1주간 실사용. 웹 기반 Keychron Launcher(설치 불필요)로 리맵하지만 네이티브 레이어는 기본적이고 진짜 home row mods가 없어 TapLayer로 보완. 키보드+폰 무게를 아이패드와 비교하는 대목도 있음. 제조사가 제품을 제공한 리뷰이며 어필리에이트 링크 포함
+  * [Finding success after the Keychron Nape Pro - YouTube](https://www.youtube.com/watch?v=oDqsIdWXFFQ)
+    * [「文字を打つたびに楽しくなる」究極のタイピング体験を追求した分割キーボード「Keychron Orca echo」 | CoSTORY](https://costory.jp/cf-published-sku-groups/1955012598)
+    * [Keychron Orca echo 소개 영상 (일본어, 자막 지원) - YouTube](https://www.youtube.com/watch?v=MHZKk1J0Dko)
+    * Work Flow State가 Keychron × Gizmodo 협업 이력을 훑는 7분 영상. Nape Pro를 만든 Gizmodo 편집자 겸 키보드 애호가 Koichiro Amemiya가 이번엔 분할 키보드 **Orca echo**를 내놨고, 일본 CoSTORY 크라우드펀딩에서 한 달도 안 돼 360만(엔) 이상 모아 성공—이미 그린라이트 상태. 49키 텐팅 오솔리니어 스플릿에 왼쪽 스크롤 휠 + 오른쪽 19mm 트랙볼(Nape Pro보다 약간 작음), 흰색·검정 2색이고 흰 모델은 휠·볼도 흰색. 블루투스·2.4GHz 동글·USB-C, Windows/macOS/iOS/Android, 8개 레이어
+    * 마우스 클릭은 Fn 홀드 + 검지·중지로 좌/우클릭, 한 손 조작은 JK=좌클릭·KL=우클릭처럼 전부 커스터마이즈. 기호 배치는 사용자가 직접 매핑하는 전제라 해당 면 키캡이 무각(blank). 알루미늄 바디 버전도 검토 중. 리뷰어 관점은 "Keychron은 프리미엄이 아니라 중간 지점—입문용으로 훌륭하다"는 것이고, 첫 스플릿 사용자를 겨냥한 제품이라는 점을 반복 강조. 현재는 일본 내 배송 조건의 진행 중 캠페인이지만 Nape Pro처럼 이후 일반 판매로 풀릴 가능성을 예상
 * [Keycool Rainbow Keyboard | Mechanical Keyboards | TKL Mechanical Keyboards | Drop](https://drop.com/buy/keycool-rainbow-keyboard)
 * [The Listening Museum · sheets.works](https://sheets.works/data-viz/keyboard-sounds)
   * [기계식 키보드 소리를 들어보는 박물관 | GeekNews](https://news.hada.io/topic?id=28723)
@@ -271,6 +276,9 @@ Product
 * [Matias Laptop Pro Keyboard for Mac](https://matias.ca/laptoppro/mac/)
 * [MatrixLab Faukwaa 파츠 끼우는 재미가 있는 키보드 퍼콰! - YouTube](https://www.youtube.com/watch?v=xS3uIMkpJw0)
 * [MDR Dasher Keyboard | For Work That's Mysterious & Important – My Store](https://mdrkeyboard.com/)
+* [Micropack Foldable Bluetooth Keyboard with Touchpad & Stand Leather Cover K-F01](https://www.micropackhk.com/products/foldable-bluetooth-keyboard-with-touchpad-stand-leather-cover-k-f01)
+  * [💻 Fold It. Tap It. Take It Anywhere! - YouTube](https://www.youtube.com/watch?v=AenpcPWW-ew)
+  * 접으면 9.8×3.5×0.6인치·약 0.8lb(363g)인 접이식 블루투스 키보드. macOS 제스처를 지원하는 멀티터치 터치패드 내장으로 화면에 손 뻗을 필요가 없고, 자석으로 붙는 PU 레더 케이스가 스탠드로 변형. 블루투스 5.0으로 태블릿·폰·노트북 3대를 동시 페어링해 조합키로 전환. 500mAh·USB-C 2시간 충전에 연속 80시간(대기 30일). $39.90(정가 $55.90), 그레이·레드. 링크한 영상은 48초 제조사 홍보 영상이라 실사용 평가는 아님
 * Mistel
   * [분리형 키보드 1년 사용후기 | MISTEL BAROCCO MD770 - YouTube](https://www.youtube.com/watch?v=sW4pnHVCHV4)
   * MD600 [웹소설 작가, 스플릿 키보드 어떻게 고르지? 적응은 가능? 마감은 되겠어?! | 내돈내산 키보드 후기 - YouTube](https://www.youtube.com/watch?v=_DKuo7YZUjQ)
