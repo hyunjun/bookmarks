@@ -49,6 +49,11 @@ Robot
 * [로봇 ML 모델의 경량화 1부: 훈련 후 양자화 | 우아한형제들 기술블로그](https://techblog.woowahan.com/18980/)
 * [GPU 없이 VLA 돌리기: 퀄컴 NPU에서 1.6초를 230ms로 | 노타 블로그](https://blog.nota.ai/kr/insights/vla-edge-npu-optimization)
   * KRAIN 2026(2026-09-11, 서울) 시연 사례. VLA 모델 기반 SO-101 로봇팔을 GPU 서버가 아니라 손바닥 크기 보드의 NPU(퀄컴 Dragonwing IQ-9075)로 구동—관람객이 고른 색의 큐브만 집어 옮기는 라이브 데모. 추론 1.6초를 230ms로 줄인 엣지 NPU 최적화 과정
+* [Everything is LLM - Vibe coding a robot task - YouTube](https://www.youtube.com/watch?v=OIw6zY_AQOg)
+  * sentdex. XGO Mini2 4족 보행 로봇의 태스크를 LLM으로 바이브 코딩하는 실험—"모든 것이 LLM이 되는" 흐름에서 로봇 제어까지 자연어로 시도
+* [GPT-6 Astra on robotic manipulation | Inspect Robots](https://openai.robocurve.org/gpt-6-astra/)
+  * 같은 YAM 로봇 팔·같은 Inspect Robots 에이전트 정책·같은 두 과제로 GPT-6 Astra와 Claude Fable 5.1을 interleaved blinded 쌍으로 비교(각 20 시행, 사람 채점자가 0~4단계 최고 도달 단계로 채점해 실패해도 얼마나 갔는지 기록). 블록을 그릇에 넣는 과제는 Astra 19/20 vs Fable 5.1 8/20 vs Fable 5 1/20, 시행당 2.5분 vs 6.8분, 추정 비용 $0.94 vs $2.12—완수율 2.4배·비용 2.3배 우위에 출력 토큰은 80% 적음
+  * 반면 퍼즐 조각을 홈에 끼우는 과제는 Astra 2/20 vs Fable 5.1 2/20으로 동일하고, Astra도 Fable과 똑같이 홈까지 도달한 뒤 마지막 삽입 단계에서 멈춤($1.36 vs $2.18). 모델이 좋아져도 정밀 삽입 같은 특정 병목은 그대로 남는다는 것을 같은 하네스·같은 채점 기준에서 보여주는 사례. Claude Fable 5 vs 5.1 비교 보고서의 후속
 * [로보틱스: 아주 기초적인 것부터](https://turingpost.co.kr/p/inside-robotics)
   * [Robot Learning: A Tutorial - a Hugging Face Space by lerobot](https://huggingface.co/spaces/lerobot/robot-learning-tutorial)
 * [Bessemer Predicts: Robotics and physical AI](https://www.bvp.com/atlas/bessemer-predicts-robotics-and-physical-ai)
@@ -74,8 +79,6 @@ Robot
 * [ProtoBot — A Palm-Sized Robot for Makers | Microbots](https://microbots.io/products/protobot)
   * [Meet ProtoBot: A Palm-Sized Robot for Makers - YouTube](https://www.youtube.com/watch?v=p5PKpLMmyNI)
   * 메이커·학생·교육자를 위한 손바닥 크기 오픈소스 로봇 플랫폼. 빌드 가이드로 조립 후 폰으로 제어·자동화, Arduino 프로그래밍, 오픈소스 예제로 하드웨어·소프트웨어 커스터마이즈
-* [Everything is LLM - Vibe coding a robot task - YouTube](https://www.youtube.com/watch?v=OIw6zY_AQOg)
-  * sentdex. XGO Mini2 4족 보행 로봇의 태스크를 LLM으로 바이브 코딩하는 실험—"모든 것이 LLM이 되는" 흐름에서 로봇 제어까지 자연어로 시도
 
 # Book
 * [추천! 로봇공학 / 기계학습 무료 교재(pdf) 15가지](http://t-robotics.blogspot.in/2015/01/pdf-15.html)
