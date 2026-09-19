@@ -1907,6 +1907,11 @@ Web
   * [picoapi: An opinionated wrapper around FastAPI with custom microservice registration](https://github.com/schlerp/picoapi)
     * [PicoAPI: FastAPI for microservices? | by Patrick Coffey | Towards Data Science](https://towardsdatascience.com/picoapi-fastapi-for-microservices-1e0770b747a2)
   * [shopping-mall](https://github.com/jybaek/shopping-mall) basic 예제 + uvicorn
+* [FastHTML - Modern web applications in pure Python](https://fastht.ml/)
+  * [fastlite - A bit of extra usability for sqlite](https://fastlite.answer.ai/)
+  * [FastHTML - Build Web Apps in Pure Python! - YouTube](https://www.youtube.com/watch?v=Ck0w7zqshjU)
+  * Answer.AI의 순수 Python 웹 프레임워크. HTML을 템플릿 언어가 아니라 Python 함수(`Div`·`Table`·`Tr`·`Td` 등)로 조립하고 htmx 기반이라 SPA 프레임워크 없이 서버가 HTML 조각을 돌려주는 하이퍼미디어 방식. 컴포넌트마다 JS·CSS를 인라인 또는 파일로 스코프(`ScriptX`·`StyleX`)하고 UI 라이브러리는 pip으로 설치. "최신 유행이 아니라 견고한 웹 기반 위에" 만들었다는 것이 슬로건이고, 공식 홈페이지 자체가 FastHTML 앱이라 실시간 weather.gov 데이터를 쓰는 라이브 컴포넌트 4개를 코드와 함께 보여줌
+  * DB는 같은 Answer.AI의 fastlite를 조합—`sqlite-utils` 라이브러리의 대화형 사용성을 개선한 얇은 래퍼로 Jupyter 사용자를 특히 겨냥(`pip install fastlite`). BugBytes의 26분 튜토리얼은 Django 공식 튜토리얼의 Polls 앱을 FastHTML로 다시 만드는 구성—폼 생성(04:29), POST 처리와 DB 저장(06:28), Python 데이터클래스로 DB 모델 정의(07:37), 투표 페이지(12:38), 투표 POST 처리(16:27)
 * [fastwsgi: An ultra fast WSGI server for Python 3](https://github.com/jamesroberts/fastwsgi)
   * [FastWSGI : 네이버 블로그](https://blog.naver.com/vwjdalsgkv/222599564643)
 * [HTTPX](https://www.python-httpx.org/)
