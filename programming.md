@@ -5472,7 +5472,8 @@ Programming
   * [Mathematics for Computer Science | MIT Open Learning Library](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about)
 * [nand2tetris](https://www.nand2tetris.org/)
 * [NovoEd delivers effective and engaging online training with our social learning platform](https://novoed.com/)
-* [omniget: Open source desktop app for studying online courses and books on your computer. Watch Hotmart, Udemy, Kiwify courses with timestamped notes, spaced repetition flashcards and a focus timer. Read PDFs and EPUBs with highlights, bookmarks and a focus mode. Also downloads YouTube, Instagram, TikTok and torrents. · GitHub](https://github.com/tonhowtf/omniget)
+* [omniget: Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and music library. Powered by yt-dlp](https://github.com/tonhowtf/omniget)
+  * Tauri(Rust+Svelte) 데스크톱 앱. yt-dlp 기반 1,800+ 사이트 다운로드에 25개 카테고리 158개 도구를 묶음—Whisper 전사·TTS, PDF/EPUB 리더(하이라이트·북마크·포커스 모드), 타임스탬프 노트와 간격 반복 플래시카드, 음악 라이브러리, 토렌트/마그넷, PDF 도구·이미지/영상 압축. 계정·광고 없고 다운로드 내용에 텔레메트리 없음, 파일은 로컬 유지. GPL-3.0, 13.8k stars
 * [Online-Computer-Science-Degree: Open-Source Computer Science Degree](https://github.com/eeeear/Online-Computer-Science-Degree)
 * [Open Logic Project – Open Source, Customizable, Advanced Logic Text](https://openlogicproject.org/)
   * [Open Logic Project Builds](http://builds.openlogicproject.org/)
