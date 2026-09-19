@@ -331,6 +331,10 @@ App
   * [Hacking WPA2 WiFi Networks | The Linux Rain](https://www.thelinuxrain.com/articles/hacking-wpa2-wifi-networks)
 * [airgorah: A WiFi security auditing software mainly based on aircrack-ng tools suite](https://github.com/martin-olivier/airgorah)
   * aircrack-ng 도구 모음 기반 WiFi 보안 감사 GUI 소프트웨어. Rust, 1.7k stars
+* [androguard: Reverse engineering and pentesting for Android applications](https://github.com/androguard/androguard)
+  * [Androguard Live — 브라우저에서 돌아가는 WASM 버전](https://ismyphonepwned.com/droid2web/)
+  * DEX·ODEX·APK·Android 바이너리 XML을 파싱하고 Dalvik 바이트코드를 디스어셈블·디컴파일하는 Python 도구. `pip install androguard`. Live 버전은 클라우드 전송 없이 전부 로컬 WASM으로 동작하며 디스어셈블러·디컴파일러·CFG·보안 체크를 제공—APK를 브라우저에 넣어 바로 확인 가능. Python, Apache-2.0, 6.3k stars
+  * 주의: 4.0.0 이상은 2019년 3.3.5 이후 오랜 공백을 거친 새 릴리스라 일부 기능이 제거됐고 문서도 갱신 중(레포가 직접 "Documentation contains outdated information"이라고 명시). 차세대 버전은 `ng` 브랜치에서 개발 중
 * [Argus: The Ultimate Information Gathering Toolkit](https://github.com/jasonxtn/Argus)
   * OSINT·보안 평가용 정보 수집 플랫폼. 135개 모듈로 네트워크 분석, 웹 애플리케이션 스캔, 위협 인텔리전스 수집을 인터랙티브 CLI로 수행. Python 기반
 * [Awesome-Android-Reverse-Engineering: A curated list of awesome Android Reverse Engineering training, resources, and tools](https://github.com/user1342/Awesome-Android-Reverse-Engineering)
