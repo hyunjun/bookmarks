@@ -261,6 +261,8 @@ Product
     * [키보드는 기계가 아닙니다 과학입니다(?) 손목의 편안함~ 키크론 Q8 리뷰 (feat. 백축!) - YouTube](https://www.youtube.com/watch?v=Ou_W9MGCDqU)
   * [키크론 Q11 QMK 리뷰 | 절반으로 잘라 쓰는 ‘인체공학 기계식’ 키보드 - ITWorld Korea](https://www.itworld.co.kr/topnews/295237)
   * [내 몸을 위한 앨리스배열 인체공학 키보드 K15 PRO 언박싱❤😮│어고노믹 기계식 키보드 언박싱│데스크테리어│키크론 Keychron - YouTube](https://www.youtube.com/watch?v=v_1Y-nETDpg)
+  * [Keychron B11 Pro Review: The Foldable Keyboard That Turns My Phone Into a Laptop - YouTube](https://www.youtube.com/watch?v=-s-eqR9odU8)
+    * JSyntax. 반으로 접히는 258g·65% Alice 배열 무선 키보드(2.4GHz/블루투스/USB-C)를 Galaxy Z Fold 8 Ultra + Jump Desktop + 본인이 만든 무료 앱 TapLayer와 묶어 폰을 노트북처럼 쓰는 구성을 1주간 실사용. 웹 기반 Keychron Launcher(설치 불필요)로 리맵하지만 네이티브 레이어는 기본적이고 진짜 home row mods가 없어 TapLayer로 보완. 키보드+폰 무게를 아이패드와 비교하는 대목도 있음. 제조사가 제품을 제공한 리뷰이며 어필리에이트 링크 포함
 * [Keycool Rainbow Keyboard | Mechanical Keyboards | TKL Mechanical Keyboards | Drop](https://drop.com/buy/keycool-rainbow-keyboard)
 * [The Listening Museum · sheets.works](https://sheets.works/data-viz/keyboard-sounds)
   * [기계식 키보드 소리를 들어보는 박물관 | GeekNews](https://news.hada.io/topic?id=28723)
