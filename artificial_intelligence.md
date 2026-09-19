@@ -1979,6 +1979,10 @@ Artificial Intelligence
   * Uber PR의 70%+가 로컬/클라우드 에이전트 작성, 에이전트 스킬 3,600개·일 30K 스킬 실행. 코드 리뷰·CI 자가 치유·E2E PR 완성(시각 검증)·온콜 트리아지·버그 디버깅을 관리형 에이전트가 자동 시작. 2026년 2~8월 주간 활성 사용자 7배·에이전틱 요청 9.4배 성장에도 최적화로 총 AI 비용은 4월 이후 안정화
 * [Kimi K3 + GLM-5.3: Self-Improvement (RSI) Unlocked - YouTube](https://www.youtube.com/watch?v=-4tobA2vRIE)
   * Discover AI. RSIAgent 논문(Aether AI·UC 등) 해설—새로운 환경에서 자율 탐색으로 재귀적 자기개선(RSI)을 수행하는 에이전트를 Kimi K3·GLM-5.3으로 검증
+* [Mohamed Rashad - Building a production-ready agentic harness from scratch and scaling it - YouTube](https://www.youtube.com/watch?v=ZrO55sK3d2I)
+  * PyData 56분 발표. Division X·Hyperion 공동창업자가 "아파트 렌트 ROI" 같은 열린 질문에 답하는 리서치 에이전트를 소재로 하네스를 바닥부터 설계. 출발점은 세 가지 계약(contract)—evidence(무엇을 근거로 인정할지), completion(언제 끝났다고 볼지, 예: "숫자를 내놓아야 함"), action(인터넷 검색·로컬 문서·사용자 질의 중 무엇을 허용할지). 반복해서 강조하는 관찰은 **LLM을 끼우는 모든 설계 단계에서 LLM 부분이 가장 작고 나머지는 비결정성을 통제하는 가드레일**이라는 점—그래서 그 단계 수를 최소화해 복잡도를 줄여야 한다
+  * 계획은 복잡도 3단계로 구분—①고정 워크플로(코드로 써도 됨) ②태스크는 정해졌고 입력만 모델이 만드는 bounded planning(질의 중복 제거·폴백) ③코딩 에이전트처럼 그래프를 런타임에 만드는 full dynamic task graph. 어느 단계든 태스크 계약이 필요하고(ID·출력 스키마·허용 도구—컨텍스트와 안전 때문에 모든 도구를 한꺼번에 주지 않음), 계획을 버전으로 저장해 두면 사용자가 중간에 개입해도 처음부터 다시 돌지 않고 필요한 부분만 고쳐 이어갈 수 있다. 메모리는 4종—execution ledger(실행 기록·승인), working state, usable memory(결정·산출물), evidence corpus(기존 RAG)—이고 **저장보다 회수(recall)가 훨씬 어렵다**는 지적
+  * 스케일링은 크래시 지점별 복구 설계가 핵심—읽기는 다시 해도 되지만 쓰기는 이미 커밋됐는지 확인해야 하고(코딩 에이전트는 같은 작업을 반복하면 품질이 degrade), 소셜·뉴스·날씨처럼 같은 결과가 안 나오는 작업은 별도 취급. 예산을 가중치로 보고 중첩 실행(4×3=12 동시 호출 등)에 배분하며, 지연은 큐 대기+최장 경로로 계산하고 프로바이더의 분당 토큰 한도(예: 120k TPM ÷ 런당 10k = 최대 12런)로 스케일 상한이 정해진다. Q&A에서 나온 실전 팁—실패 확률을 균등하게 가정하지 말고 Langfuse·Grafana 관측으로 구성요소별 실패 확률을 구해 가장 많이 깨지는 곳(발표자 경험상 메모리)을 보호할 것
 * [2604.14228 Dive into Claude Code: The Design Space of Today's and Future AI Agent Systems](https://arxiv.org/abs/2604.14228)
   * [Dive-into-Claude-Code: Build Your Own AI Agent - A Design Guide](https://github.com/VILA-Lab/Dive-into-Claude-Code)
   * [Claude Code 아키텍처 분석: 에이전트 성능은 모델이 아니라 시스템 전체의 결과 | digitalbourgeois](https://digitalbourgeois.tistory.com/3257)
@@ -4637,6 +4641,10 @@ Artificial Intelligence
   * [에이전틱 테스팅: E2E 테스트 스택에서 에이전트의 자리 | digitalbourgeois](https://digitalbourgeois.tistory.com/3284)
   * [에이전틱 테스팅 - E2E 테스트 스택에서 에이전트의 역할 | GeekNews](https://news.hada.io/topic?id=30744)
   * "테스트는 여정을 강제하고, 에이전트는 목표를 검증한다." Slack의 200+ 실험—Agent+Playwright MCP/CLI vs AI 생성 Playwright 테스트 비교. MCP 에이전트는 단순 작업 거의 0% 실패(복잡 0~12%), 생성 테스트는 가장 빠르나(약 3분) 복잡 워크플로에서 저하, 에이전틱 실행 비용 $15~30/회. 결정론적 E2E를 대체가 아닌 보완(탐색·디버깅·프로덕션 이슈 재현)
+* [ai-employees: Open source AI Employees. 8 scheduled business roles, 60 routines, on Claude Code and 10 other harnesses. They drive your browser the way you do and improve every run. You own the files](https://github.com/markfulton/ai-employees)
+  * 비즈니스 역할 하나를 폴더 하나로 만든 스케줄 루틴 킷 8종—GTM 엔지니어, SEO/AEO, 웹 개발, 소셜미디어, 광고 매니저, 세일즈, 고객만족, 비서실장(Chief of Staff). 자기 PC에서 이미 쓰는 에이전트 위에 올려 돌리고 매일 아침 브리핑하며, API가 아니라 브라우저·PC를 사람처럼 조작하고 실행 로그로 다음 실행을 개선. Chief of Staff는 다른 직원들의 실행 로그를 읽어 **조용히 멈춘 것**을 찾아내고 다음 수 세 가지를 가져오는 역할이라는 설계가 특징
+  * 설치는 킷 ZIP을 받거나 `npx ai-employees hire gtm-engineer --to <folder>` 후 그 폴더에서 에이전트에게 "Install the GTM Engineer from this folder"라고 말하면 웹사이트로 사업을 조사해 대시보드를 만들고 자기 루틴을 스케줄링. Claude Code 외 OpenClaw·Hermes·OpenCode·Grok Bot·Codex·Antigravity·Pi·Cline·Qwen Code·DeepSeek 지원(OneDrive·Dropbox·Google Drive·iCloud 안쪽 폴더는 피할 것). 돈이 움직이는 광고 변경은 승인 필요, 소셜 포스트는 veto 창 제공. JavaScript, MIT
+  * 단서—2026-09-02 생성된 신규 레포로 아직 별 4개이고, README가 제작자(Reinventing.AI의 Mark Fulton, 34만 명 페이스북 그룹 "Vibe Coding is Life" 운영)의 Agent Ops Club 가입·가격 페이지로 유도하는 링크를 다수 포함. 루틴과 스케줄 자체는 `employees/`에 전부 공개돼 있다고 명시
 * [AI Workflow - Supercharge your AI coding session - AI Workflow](https://ai-workflow.xiaominglab.com/en/)
   * [ai-workflow: 🚀 170+ pre-built skills for Claude Code, Cursor, Codex & 14+ AI tools. Stop re-teaching your AI the same things. One command → instant domain expertise. Marketing, SEO, Trading, Video, PM workflows included](https://github.com/nicepkg/ai-workflow)
 * [Alt - AI Lecture Notetaker](https://www.altalt.io/)
