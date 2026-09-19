@@ -791,6 +791,10 @@ Linux
     * [Finding CSV files that start with a BOM using ripgrep | Simon Willison’s TILs](https://til.simonwillison.net/bash/finding-bom-csv-files-with-ripgrep)
   * [sift is a fast and powerful open source alternative to grep](http://sift-tool.org/info.html)
     * [Super Fast and Accurate string distance algorithm: Sift4](http://siderite.blogspot.com/2014/11/super-fast-and-accurate-string-distance.html)
+  * [tgrep: Trigram-indexed grep with a client/server architecture for fast regex search in large codebases locally | Microsoft](https://github.com/microsoft/tgrep)
+    * [tgrep, Trigram 인덱스로 대규모 코드 저장소를 빠르게 검색하는 도구 | digitalbourgeois](https://digitalbourgeois.tistory.com/3664)
+    * 매번 전체를 스캔하는 대신 3바이트 Trigram 인덱스로 후보 파일을 좁힌 뒤 그 파일만 정규식 엔진으로 검사(후보 검색은 rayon 병렬). `tgrep index .`로 인덱싱하고 `tgrep serve .`로 서버를 띄우면 이후 검색이 자동으로 서버에 붙는 클라이언트/서버 구조—mmap 디스크 인덱스(IndexReader)와 서버 시작 후 변경분을 담는 메모리 오버레이(LiveIndex)를 HybridIndex로 결합해 인덱싱이 끝나기 전이나 파일 변경 후에도 최신 결과를 반환(미완성 인덱스일 때는 부분 결과 대신 파일시스템 검색으로 폴백). TCP JSON-RPC 2.0, native/polling 파일 감시+주기적 reconciliation. GitHub Copilot CLI의 빠른 grep에 통합. Rust, MIT, 3.2k stars
+    * 벤치마크는 18개 측정 중 17개에서 ripgrep보다 낮은 지연(gecko-dev 388K 파일 macOS arm64 33,402ms→643ms, linux 96K Windows 3,280ms→94ms로 34.8배)이고 예외는 Kubernetes Linux의 0.93x. 단 결과가 수만 개로 많으면 후보 선별로 아낀 시간보다 결과 전달 비용이 커져 차이가 줄어듬. 기본값이 64 MiB 초과 파일 제외인데—292,911 파일 저장소에서 13.41 GiB 생성 파일 하나가 검색 바이트의 71%를 차지했고 제한 적용 시 인덱스 214.5초→64.2초, warm query 21.30초→0.55초—**제외된 파일 안의 매치는 결과에 나타나지 않는다는 점은 주의**(`--no-max-filesize`로 해제, 파일을 직접 지정한 검색은 제외되지 않음). 인덱스 구축은 기본 external 전략으로 저장소 크기에 비례해 메모리가 늘지 않게 설계
   * [ugrep: 🔍NEW ugrep v3.1: ultra fast grep with interactive query UI and fuzzy search: search file systems, source code, text, binary files, archives (cpio/tar/pax/zip), compressed files (gz/Z/bz2/lzma/xz/lz4), documents and more. A faster, user-friendly and compatible grep replacement](https://github.com/Genivia/ugrep)
 * `gzip`
   * [Parallel gzip compression with pigz](https://rachaellappan.github.io/pigz/)
