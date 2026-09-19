@@ -1301,6 +1301,10 @@ Git
   * [고수들이 꿀빠는 git 명령 - YouTube](https://www.youtube.com/watch?v=nV9NW899zE8)
   * [Git Worktree로 여러 피처 동시에 개발하기 | AI 코딩 시대의 필수 스킬 - YouTube](https://www.youtube.com/watch?v=JtA2JeqlTnI)
     * [Git Worktree: AI 시대, 여러 기능을 동시에 개발하는 효율적인 방법 | 완벽 가이드](https://livewiki.com/ko/content/git-worktree-ai)
+  * [Git Worktrees Explained Simply - YouTube](https://www.youtube.com/watch?v=dtCgEwRpJl8)
+    * Codevolution. 왜 worktree가 AI 코딩에서 필요한지부터 시작—한 워킹 디렉터리는 한 브랜치만 체크아웃되므로, Claude가 피처 작업 중인데 버그픽스 브랜치로 전환하면 Claude가 다루던 파일이 바뀌고, 같은 폴더에 세션을 하나 더 열어도 파일을 공유해 소용이 없다. worktree는 브랜치마다 별도 폴더를 주되 **같은 저장소·같은 Git 히스토리를 공유**한다는 점이 핵심(저장소 2개를 만드는 게 아님)
+    * 기본 명령 3개: `git worktree add -b fix/example ../project-fix main`(새 브랜치 생성+폴더 지정+시작 브랜치), `git worktree list`, 병합 후 원래 폴더에서 `git worktree remove ../project-fix`. Claude Code 데스크톱 앱에서는 새 세션 만들 때 worktree 체크박스만 켜면 이 설정을 알아서 처리하고, 작업 완료 후 세션을 archive하면 worktree도 자동 제거
+    * 데모는 agent-native.com에서 슬라이드 랜딩 페이지 리디자인과 파비콘 교체를 두 세션으로 동시 진행—각 세션이 독립 폴더에서 돌아 PR의 변경 파일이 서로 섞이지 않는 것을 보여줌. 다만 브랜치 이름 규칙(`feature/` slug)을 지시했는데도 Claude가 `claude/slides-landing-page-redesign-해시` 형태로 만들어 다시 이름을 바꿔야 했던 장면도 그대로 나옴
   * [git-worktree-runner: Bash-based Git worktree manager with editor and AI tool integration](https://github.com/coderabbitai/git-worktree-runner)
 
 # Conference
