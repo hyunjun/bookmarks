@@ -2616,6 +2616,10 @@ App
 * [AudioMass - Free full-featured web-based audio & waveform editing tool](https://audiomass.co/)
   * [audiomass](https://github.com/pkalogiros/audiomass)
   * 설치·로그인 없이 브라우저에서 도는 무료 오디오·파형 편집기. 자르기·페이드·이펙트 등 풀기능, 프레임워크 의존성 없는 순수 JavaScript
+* [Auto-Editor — Automatically edit video and audio by analyzing where sections are silent or still and cut them out](https://auto-editor.com/)
+  * [auto-editor: Effort free video editing!](https://github.com/WyattBlue/auto-editor)
+  * 본 편집 전에 침묵 같은 "dead space"를 걷어내는 first pass를 자동화하는 CLI. `auto-editor video.mp4` 한 줄이 기본이고 `--edit` 방법으로 무엇을 기준으로 자를지 지정—기본은 오디오 음량(`audio:threshold=0.04`), 그 외 화면 움직임(`motion:threshold=0.02`)과 자막 기준. 트랙별로 다른 조건을 S-expression으로 조합 가능(`(or audio:stream=0 audio:threshold=10%,stream=1)`). `--margin`으로 컷 앞뒤에 여백을 넣어 편집 리듬을 조절(기본 0.2초, `0.3s,1.5sec`처럼 앞뒤 따로). CLI 외에 앱도 제공
+  * Nim으로 작성, Unlicense(퍼블릭 도메인), 5.3k stars. `npx skills add WyattBlue/auto-editor`로 에이전트 스킬 설치도 지원
 * [AutoFlip: An Open Source Framework for Intelligent Video Reframing](https://blog.research.google/2020/02/autoflip-open-source-framework-for.html)
   * [AutoFlip - 구글의 비디오 스마트 자르기 툴 | GeekNews](https://news.hada.io/topic?id=1523)
   * 가로(16:9, 4:3) 영상을 세로/정사각형 레이아웃으로 스마트 자르기. AI로 얼굴·주요 요소를 분석해 프레임 내 유지
