@@ -4272,6 +4272,11 @@ NLP
   * [TensorFlow KR | LLaMA 7B를 파인튜닝한 스탠포드의 Alpaca 7B가 나왔는데, 7B임에도 성능이 준수한가 봅니다 | Facebook](https://www.facebook.com/groups/TensorFlowKR/posts/1991567364517645)
 * [synthid-text](https://github.com/google-deepmind/synthid-text)
   * [구글 딥마인드, LLM이 생성한 텍스트를 워터마킹하고 감지하는 SynthID를 오픈소스로 | GeekNews](https://news.hada.io/topic?id=17508)
+* [🆓 Ternary Bonsai 2 27B 설치·사용 가이드: 5.9GB 로컬 구동과 브라우저 데모 총정리 | fornewchallenge](https://fornewchallenge.tistory.com/entry/%F0%9F%86%93-Ternary-Bonsai-2-27B-%EC%84%A4%EC%B9%98%C2%B7%EC%82%AC%EC%9A%A9-%EA%B0%80%EC%9D%B4%EB%93%9C-59GB-%EB%A1%9C%EC%BB%AC-%EA%B5%AC%EB%8F%99%EA%B3%BC-%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80-%EB%8D%B0%EB%AA%A8-%EC%B4%9D%EC%A0%95%EB%A6%AC)
+  * [Ternary Bonsai 2 WebGPU Kernels - a Hugging Face Space by webml-community](https://huggingface.co/spaces/webml-community/ternary-bonsai-2-webgpu-kernels) 설치 없이 Chrome·Edge에서 5.9GB PTQ1_0을 내려받아 바로 체험
+  * PrismML이 **Qwen3.8 27B를 3진수(-1·0·+1) 양자화**한 모델. 가중치를 Walsh–Hadamard 회전 기저로 옮겨 3진수 공간에 매핑하고 그룹별 FP16 스케일로 복원해 1.72 bpw(배포본 PTQ1_0은 1.76 bpw)를 달성—FP16 원본 약 54GB가 **5.93GB**로 줄어듦. 27.36B 구성(언어 백본 24.35B + 임베딩/LM 헤드 2.54B + 비전 타워 0.47B), 하이브리드 어텐션(선형 약 75%·전체 약 25%), 최대 컨텍스트 262,144 토큰, 텍스트+이미지 입력, Apache 2.0(상업적 이용 가능). 배포본은 PTQ1_0(5.93GB, 최소 용량)·PQ2_0(7.25GB, 2비트 슬롯에 3진수를 담아 디코딩이 단순해 프롬프트 처리가 빠름—공식 데모 기본값)·MLX 2-bit(8.49GB, Apple Silicon·비전 타워 풀정밀도), 이미지 입력엔 mmproj 0.63GB 별도
+  * **순정 런타임에서 안 돌아간다는 점이 실사용의 핵심 제약**—두 GGUF 패킹 모두 PrismML llama.cpp 포크(`prism-b10658` 이상)가 필요하고, 순정 빌드는 PTQ1_0·PQ2_0을 거부하며 업스트림 `Q2_0` 파일은 **조용히 로드된 뒤 엉뚱한 출력(gibberish)**을 낸다. MLX 패킹만 순정 MLX에서 바로 동작. 성능 유지율은 1세대 95%에서 98.2%로 올라 제조사가 "near-lossless"라 표현하지만 **PrismML 자체 측정**이고, 원문도 20개 벤치마크 thinking-mode 평균 83.9점 대 Qwen3.8 27B FP16 기준선 85.4점이라고 밝힘—독립 검증은 아직 충분하지 않음
+  * 커뮤니티 제보 실측 처리량(TG128 기준)—RTX PRO 6000 Blackwell 96GB 129.9 t/s, L40S 48GB 74.3, RTX 4070 Ti SUPER 16GB 69.6, RTX A5000 24GB 48.2, Apple M5 Max 48GB(Metal) 45.8, RTX 5060 Ti 16GB 44.4, M5 Pro 64GB(MLX) 29.5, M4 24GB(MLX) 12.7, M3 Pro 18GB 12.6. 설치 안내가 사람이 따라 하는 절차가 아니라 **에이전트 하네스(pi·opencode·hermes·Claude Code·Codex·Cursor)에 그대로 붙여넣는 작업 지시문** 형태인 점도 특징
 * [text-generation-inference: Large Language Model Text Generation Inference](https://github.com/huggingface/text-generation-inference) architecture
 * [Tiktokenizer](https://tiktokenizer.vercel.app/)
 * [Tinker - Thinking Machines Lab](https://thinkingmachines.ai/tinker/)
@@ -6054,8 +6059,10 @@ NLP
   * 로컬 퍼스트 한국어 음성 툴킷. 한국어 텍스트 정규화(숫자·영어·기호·날짜·조사), `kva polish` 음성 다듬기 프리셋, 품질 게이트·ASR 리뷰, 장시간 녹음 분할, 공개 한국어 AI 보이스 카탈로그, 개인정보 보호 매니페스트
 * [KoSpeech: Open Source Project for Korean End-to-End (E2E) Automatic Speech Recognition (ASR) in Pytorch for Deep Learning Researchers](https://github.com/sooftware/KoSpeech)
 * [KrillinAI — AI Video Translation and Dubbing Tool](https://www.klic.studio/)
-  * [KrillinAI](https://github.com/krillinai/KrillinAI)
+  * [OpenCreator: Formerly KrillinAI. Open-source AI workspace for creators, powered by Codex. Create videos, images, voice, avatars, translations, and edits with Agents in one place](https://github.com/krillinai/OpenCreator)
   * Whisper 기반 음성 인식 + LLM 스마트 자막 분할 + 100+ 언어 번역 + 음성 복제/TTS 더빙. 가로·세로 영상 모두 지원, YouTube/TikTok/Bilibili 등 플랫폼 최적화. Windows/Linux/macOS 데스크톱+서버
+  * 2026년에 **OpenCreator로 이름을 바꾸고 범위를 크게 넓힘**(`krillinai/KrillinAI` → `krillinai/OpenCreator`로 리다이렉트). 영상 번역·더빙 도구에서 크리에이터용 AI 워크스페이스로—자체 에이전트 루프를 다시 만들지 않고 **Codex CLI를 실행 엔진으로 재사용**하고 그 위에 로컬 Runtime·시각적 워크스페이스·Desktop 호스트를 얹은 구조. 영상 번역·다운로드, 이미지·영상 생성, 보이스오버, 글·소셜 포스트 작성, 숏폼 스크립트, 졸라맨 애니메이션 같은 전용 크리에이터 도구와, 프로젝트별 대화·백그라운드 Run·승인·첨부·파일·Skills·MCP·스케줄·알림·메모리·진단을 한곳에서 다루는 범용 에이전트 워크스페이스를 결합
+  * 프런트엔드는 Web 단일 구현이고 Desktop은 같은 Web 빌드를 로드해 디렉터리 선택·창 생명주기·트레이·네이티브 알림처럼 OS가 필요한 기능만 추가. 번들된 yt-dlp 버전을 점검·수동 업데이트하되 실패 시 기존 동작 버전을 유지하는 Managed Runtime, 수정마다 새 버전을 만들어 이전 설정·산출물을 비교할 수 있는 버저닝, 전역·프로젝트·스레드 3단 메모리와 재현 가능한 Run 입력 스냅샷. TypeScript, 11.7k stars(README 배지는 Apache 2.0이나 GitHub API는 라이선스를 인식하지 못함)
 * [KsponSpeech-preprocess: Pre-processing KsponSpeech corpus (Korean Speech dataset) provided by AI Hub](https://github.com/sooftware/KsponSpeech-preprocess)
 * [llm-voicebot: It is a voice bot based on LLM](https://github.com/kyopark2014/llm-voicebot)
   * [LinkedIn Kyoungsu Park 페이지: LLM으로 한국어 Voice-to-Voice 방식의 Voice bot을 Serverless Architecture로 만들어…](https://www.linkedin.com/posts/kyoungsu-park-9b9a1068_llm%EC%9C%BC%EB%A1%9C-%ED%95%9C%EA%B5%AD%EC%96%B4-voice-to-voice-%EB%B0%A9%EC%8B%9D%EC%9D%98-voice-bot%EC%9D%84-serverless-activity-7182599717908856832-jLn8)
