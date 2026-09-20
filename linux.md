@@ -418,6 +418,11 @@ Linux
   $ im-config
   ```
   * [우분투 22.04에서 한글 입력기를 fcitx로 설정하기 | 웹으로 말하기](https://mytory.net/archives/14412)
+* [I Replaced my iPhone with Linux. Here's What Happened. - YouTube](https://www.youtube.com/watch?v=LmvAZy1DxzY)
+  * [postmarketOS 설치 가이드](https://postmarketos.org/install/)
+  * Switch and Click. Nothing Phone 1에 postmarketOS(KDE Plasma)를 올린 실사용 보고—몇 달 전 Ubuntu Touch 시도가 터미널로 아무것도 설치할 수 없어 실망한 뒤 댓글 권유로 재도전. 지원 기기 목록이 좁고(대부분 낯설거나 10년 전 모델) 공식 설치 페이지가 경고 이모지 6개로 "work in progress"를 먼저 알림. 결과는 **Wi-Fi와 블루투스만 동작**하고 통화·문자·데이터·카메라 전부 불가—"내 Nothing Phone은 더 이상 폰이 아니라 말 그대로 nothing"
+  * KDE Discover로 Firefox 등을 계정 없이 클릭 설치할 수 있는 건 쾌적하지만 전부 데스크톱 앱이라 Discord 같은 경우 UI·해상도가 엉켜 사실상 못 씀. 모바일 앱을 쓰려고 Waydroid를 붙였으나 Wi-Fi 네트워크를 찾지 못해(위키에 전용 트러블슈팅 섹션이 있을 만큼 흔한 문제) 무용지물, 결국 블루투스 마우스·키보드를 붙인 "주머니 속 데스크톱"이 됨. 셀프호스팅 서버는 잘 돌아감
+  * 결론—"폰용 OS로는 전혀 실용적이지 않다"면서도 비전은 인정(폰 앱의 편의성에 데스크톱 모드의 자유를 더한 미래). 무보수 커뮤니티가 운영하고 지원 기기마다 완성도가 다르다는 한계를 짚으며, 먼지 쌓인 구형 폰이 있으면 "$300 라즈베리파이 사지 말고" 주머니 서버로 만들어 보라고 권함. Scrimba 유료 광고 포함
 
 # Automation
 * [Python and SSH: sending commands over SSH using Paramiko](https://daanlenaerts.com/blog/2016/01/02/python-and-ssh-sending-commands-over-ssh-using-paramiko/)
