@@ -8076,6 +8076,11 @@ Programming
 * [Guppy](https://docs.quantinuum.com/guppy/)
   * [Guppy: Programming the Next Generation of Quantum Computers](https://www.quantinuum.com/blog/guppy-programming-the-next-generation-of-quantum-computers)
   * [파이썬으로 더 쉽게…퀀티뉴엄, 양자 프로그래밍 언어 '구피' 공개 - ZDNet korea](https://zdnet.co.kr/view/?no=20250822092501)
+* [NVIDIA CUDA-Q — the QPU-agnostic platform for accelerated quantum supercomputing](https://developer.nvidia.com/cuda-q)
+  * [엔비디아, 오픈소스 '쿠다-큐' 확장…내결함성 양자컴퓨팅 개발 가속 | 양자신문](https://www.quantumtimes.net/news/articleView.html?idxno=57010)
+  * NVIDIA의 오픈소스 양자 개발 플랫폼. 커널 기반 프로그래밍 모델로 CUDA를 양자 가속기까지 확장해 GPU·CPU·QPU를 한 프로그램 안에서 계산하고, 특정 큐비트 방식에 종속되지 않아 공개된 QPU의 75%와 통합된다고 밝힘. Python·C++로 알고리즘을 기술하면 컴파일러가 MLIR·LLVM·QIR로 낮춰 백엔드별 최적화. `pip install cudaq`. 양자 오류 정정(QEC)·알고리즘 개발·가속 디코더·동역학 시뮬레이션 라이브러리 포함
+  * 2026-09-14 확장 발표—내결함성 애플리케이션 개발용 오케스트레이션 계층 **CUDA-Q Logical** 추가로 알고리즘·오류정정 코드·하드웨어 아키텍처·QPU 구성을 한 환경에서 교체하며 물리 큐비트 수·실행 시간·자원 요구량을 비교. 페르미 국립가속기연구소는 통상 5개월 걸리던 내결함성 시스템 설계·알고리즘 개발을 3주에 마쳐 약 7배 단축, Iceberg Quantum은 Diraq 큐비트로 논리 큐비트 1,000개를 물리 큐비트 약 15만 개로 구현할 가능성을 제시(Diraq 기존 추산의 약 1/10). Infleqtion·IQM·QCDesign·Quantum Motion·샌디아 국립연구소 등에서 사용 중
+  * 샌디아 국립연구소가 만든 벤치마크 **QUOPS**도 CUDA-Q에 포함—물리 큐비트 수·충실도·결맞음 시간 같은 개별 하드웨어 지표를 넘어 내결함성 환경에서 실제 애플리케이션을 처리할 수 있는 전체 시스템 능력을 하드웨어 독립적으로 측정하려는 개방형 교차 플랫폼 벤치마크. IEEE Quantum Week에 앞서 공개한 사전 논문에 Google·IBM·Quantinuum QPU 초기 측정 결과가 실렸고 참조 구현은 CUDA-Q에 공개. 주변 생태계로 NVQLink(QPU–GPU 슈퍼컴퓨터 연결 아키텍처), NVIDIA Ising(양자용 AI 모델군, Diraq이 실리콘 큐비트 보정에 사용) 확장
 * [Quantum Jumps In Cryptography and Computing by Dan Conn - YouTube](https://www.youtube.com/watch?v=jZJzJ1XWgCA)
 * [Qiskit](https://qiskit.org/)
   * [Introduction to Quantum Computing with Python and Qiskit - YouTube](https://www.youtube.com/watch?v=dIcS0Yozq_U)
