@@ -2762,6 +2762,9 @@ Artificial Intelligence
   * [Building MCP with Kotlin: Claude Desktop Controls My Smart Home Lights! - YouTube](https://www.youtube.com/watch?v=jwevCa96Z4Q)
     * integration between Hue Smart Lights and Claude Desktop using the Model Context Protocol (mCP) Kotlin SDK
   * [MCP – Model Context Protocol이 시사하는 점 :: Channy's Blog](https://channy.creation.net/blog/1932)
+  * [MCP vs API Explained: Do We Still Need API After MCP? - YouTube](https://www.youtube.com/watch?v=7yNvsFrwpp0)
+    * Cloud X Berry. "MCP가 API를 대체한다"는 말이 왜 틀린지 단계적으로 설명하는 입문용 7분 영상. 기존 방식은 개발자가 어떤 API를 언제 어떤 순서로 부를지 코드에 미리 써 두는 것이고 그게 API의 설계 목적인데, 지시가 버튼이 아니라 문장으로 오면 모델은 사용자의 의도는 알아도 어떤 엔드포인트가 있는지·무엇을 먼저 불러야 하는지·어떤 입력을 받는지 모른다(회사 API 문서 전체를 모델에 하드코딩할 수도 없음). 이 공백을 메우는 게 MCP라는 구성
+    * 결론은 **MCP 서버는 어댑터**—많은 MCP 서버가 기존 API 위에 올라가고, 모델이 도구를 고르면 애플리케이션이 MCP 서버를 통해 호출하고 서버가 실제로는 기존 API 하나 이상을 불러 결과를 돌려준다. 이득은 표준화된 도구 설명(무엇을 하고 어떤 입력을 받는지)을 서버가 노출해 애플리케이션이 발견(discover)할 수 있다는 점—내일 cancel order 도구가 추가되면 다음 연결 때 자동으로 발견된다. tool(행동)과 resource(파일·문서·DB 레코드 같은 정보)의 구분도 함께 설명
   * [MCP는 그냥 이런식으로 LLM이 호출할수 있는 operation이 (tool이라고 부릅니다만) 뭐가 있는지 선언하는 형식 프로토콜](https://www.linkedin.com/posts/kurt-lee-70010391_%EC%A3%BC%EB%A7%90%EC%97%90-%EC%A7%A7%EA%B2%8C-mcp-%EC%97%90-%EB%8C%80%ED%95%B4%EC%84%9C-%EC%95%8C%EC%95%84%EB%B3%B4%EC%95%98%EC%8A%B5%EB%8B%88%EB%8B%A4-%ED%98%B9%EC%8B%9C-%EA%B4%80%EB%A0%A8%ED%95%B4%EC%84%9C-%EA%B6%81%EA%B8%88%ED%95%98%EC%8B%A0-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%93%A4%EC%9D%84-activity-7309519199146545152-kffc/)
   * [MCP는 모델과 툴을 연결해주는 일종의 규약이라 생각](https://www.linkedin.com/posts/%EC%8A%B9%EC%9C%A4-%EB%B0%B1-aa40a4211_mcp%EC%97%90-%EB%8C%80%ED%95%9C-%EC%A0%9C-%EC%83%9D%EA%B0%81%EC%9D%84-%EC%A0%95%EB%A6%AC%ED%95%B4%EB%B4%85%EB%8B%88%EB%8B%A4-mcp%EA%B0%80-%EB%84%88%EB%AC%B4-%ED%95%AB%ED%95%9C-%ED%82%A4%EC%9B%8C%EB%93%9C%EB%A1%9C-%EB%82%98%EC%98%A4%EA%B3%A0-activity-7312832627927838720-KmkG/)
   * [MCP Host --> Client --> Server 구조에서 Client 역할](https://www.facebook.com/groups/backendlabs/?multi_permalinks=520969004146549&notif_id=1743488672030257&notif_t=group_activity&ref=notif)
@@ -4667,6 +4670,11 @@ Artificial Intelligence
   * [Mozilla의 LLM 비용 관리 솔루션: any-llm-gateway 오픈소스 공개 - AI Sparkup](https://aisparkup.com/posts/6726)
     * [Mozilla의 LLM 비용 관리 솔루션: any-llm-gateway 오픈소스 공개 | GeekNews](https://news.hada.io/topic?id=24515)
   * [캐럿 라우터, 왜 LiteLLM에서 any-llm으로 옮겼나 | Caret](https://caret.team/ko/blog/202512131111)
+* [apra-fleet: AI agents that write code, review each other's work, and coordinate across your machines](https://github.com/Apra-Labs/apra-fleet)
+  * [apra-fleet 웹사이트](https://apra-labs.github.io/apra-fleet)
+  * "컨테이너에 Kubernetes가 한 일을 AI 에이전트에 한다"를 슬로건으로 내건 에이전트 함대 컨트롤 플레인—에이전트 하나 돌리는 건 데모고 오피스 맥북·랩의 GPU 박스·클라우드 VM 3대·CI에 걸쳐 50개를 돌리는 건 운영 문제라는 문제의식. 4축 설계: **Any device**(Windows/macOS/Linux를 로컬 또는 SSH로 한 명령에 멤버 등록, 클라우드 멤버는 온디맨드 시작, Windows는 WMI로 detached 장기 작업까지 지원) **Any model**(Claude·Codex·Copilot·Antigravity·OpenCode 경유 로컬 OpenAI 호환 엔드포인트를 섞고 cheap/standard/premium 티어 라우팅으로 비용 통제—**서로 다른 blind spot을 가진 다른 모델이 모든 변경을 리뷰하는 cross-provider review를 품질 장치로 씀**) **Any workflow**(프롬프트 체인이 아니라 멤버 예약·원자적 상태를 갖춘 재개 가능·관측 가능한 durable 프로그램) **Any domain**(야간 재고 보충, 물류 예외 처리, 의료 인테이크, 인보이스 매칭 등)
+  * 비밀은 out-of-band로 입력해 모델에 노출하지 않고(원격 비밀번호는 별도 터미널에 입력해 SSH 키 설정에만 한 번 쓰고 폐기), 크레덴셜별 네트워크 egress 정책과 프로바이더별 권한 조합을 둠. 대표 워크플로 `fleet-sprint`는 plan→develop→review→deploy→integration-test→harvest를 목표 달성까지 반복하며 **이 레포 자체를 개발**—몇 시간짜리 무인 스프린트, 2,300+ 유닛 테스트와 81개 파일 통합 스위트, 자기 자신에게 버그를 등록하고 고치고 품질 게이트 통과까지 릴리스를 막음. 실제 운영 편성 예시는 orchestrator=Opus·doer-1=Sonnet·doer-2=Antigravity(대용량 컨텍스트)·reviewer=Opus
+  * `npm i -g @apralabs/apra-fleet` 후 `apra-fleet install`(기본 Claude Code, `--llm agy/opencode/codex/copilot`)하고 MCP로 붙이면 "로컬 멤버 doer 등록하고 reviewer 등록해서 페어링해"처럼 **대화로 함대를 구성**. Node.js 22+ 또는 플랫폼별 단독 인스톨러. JavaScript/TypeScript, README 배지는 Apache 2.0(GitHub API는 NOASSERTION), 92 stars로 아직 초기 단계
 * [AutoGTM by Explee — 24/7 AI-agent that finds clients while you sleep](https://explee.com/auto-gtm)
   * 자율 AI B2B 세일즈 플랫폼. 1.05억 기업+5.36억 인물 프로필에서 월 3~15건 적격 미팅 자동 생성
 * [automate-for-growth: Complete guide to automating content for growth: Sora 2 video generation, brand authority automation, multi-platform posting, bulk content creation, and API integration.](https://github.com/cporter202/automate-for-growth)
