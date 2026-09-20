@@ -4685,6 +4685,12 @@ Artificial Intelligence
   * [codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)
   * [클로드 코드 파일 읽기 토큰 99% 줄이는 codebase-memory-mcp - YouTube](https://www.youtube.com/watch?v=QOAJYkuX_-Y)
   * 코드베이스 전체를 함수·클래스·호출관계·HTTP 라우트 지식 그래프로 인덱싱해 AI가 파일을 안 읽고 그래프에 질의. 구조 질문 5개 기준 412,000→3,400 토큰(99.2%·120배 절감). 158개 언어, tree-sitter AST+SQLite, 단일 정적 바이너리·런타임 의존성 0, Hybrid LSP 타입 해석(9개 언어), MCP 서버로 11개 코딩 에이전트 자동 설정, 14개 도구(검색·콜패스·데드코드·임팩트 분석). 리눅스 커널(28M LOC) 3분 인덱싱·쿼리 1ms 미만. SLSA L3, 로컬 처리. [[rtk]] 보완
+* [codegraph — Understand any codebase as a graph](https://colbymchenry.github.io/codegraph/)
+  * [codegraph: Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local](https://github.com/colbymchenry/codegraph)
+  * [Graphify vs CodeGraph: I Tested Both With Claude Code - YouTube](https://www.youtube.com/watch?v=Xr2MjfirjqA)
+  * 코드베이스를 미리 인덱싱해 쿼리 가능한 지식 그래프로 만들어 MCP로 에이전트에 노출—파일을 열기 전에 프로젝트 맵을 질의하게 해서 토큰과 도구 호출을 줄이는 접근. Tree-sitter로 20+ 언어를 증분 파싱(추측이 아닌 실제 AST에서 심볼·엣지 추출), 코드 변경 시 자동 동기화, 심볼의 호출자·피호출자와 영향 반경(impact radius)을 추적하는 impact analysis. 완전 로컬이고 `npx @colbymchenry/codegraph`로 실행. Claude Code·Codex·Gemini·Cursor·OpenCode·Antigravity·Kiro·CoPilot·Hermes 지원. C, MIT, 71.5k stars
+  * The Gray Cat의 비교 실험(같은 커밋·같은 프롬프트·같은 모델 고정, Gray Cut 기능 하나 구현)—plain Claude 6.55M 토큰·9분 42초, Graphify 5.34M 토큰에 27초 단축이나 첫 인덱싱에 약 3분 30초와 Gemini·Claude API 비용 약 $2.30, CodeGraph 4.23M 토큰·8분 45초에 인덱싱은 모델 호출 없이 2초 미만. 정확성은 100개 1프레임 클립 테스트에서 갈렸는데 Graphify는 33ms 드리프트로 컷 근처 단어를 빠뜨릴 수 있었고 plain Claude는 1ms 오차, **CodeGraph만 두 타이밍 검사를 모두 통과**
+  * 단 영상 제작자 본인이 "설정당 1회 실행일 뿐이므로 더 일반적인 주장을 하기 전에 CodeGraph를 먼저 시도해 보고 더 큰 벤치마크를 돌려보겠다"고 명시—단일 실행 결과로 받아들일 것. 비교 대상 Graphify는 같은 섹션에 별도 항목으로 있음
 * [computer-use-large: Large-scale dataset for computer use agents](https://huggingface.co/datasets/markov-ai/computer-use-large)
 * [CUA - Computer Use Agent 2.0 - a Hugging Face Space by smolagents](https://huggingface.co/spaces/smolagents/computer-use-agent)
 * [deep-scholar](https://deep-scholar.vercel.app)
@@ -7215,6 +7221,11 @@ Artificial Intelligence
   * 구현 전 "laziness ladder"(존재할 필요 있나→이미 있나→stdlib/네이티브로 되나→그제서야 작성)를 따르게 해 코드 비대화 방지. YAGNI 원칙 체화, `/ponytail-review`로 과잉설계 감사. 16+ 에이전트 지원, lite/full/ultra/off 4모드. ~54% 코드 감소·20% 저렴·27% 빠름. MIT
 * [Prime Intellect Releases Prime Agent | MarkTechPost](https://www.marktechpost.com/2026/08/06/prime-intellect-releases-prime-agent/)
   * [Prime Agent, 지속형 IPython 커널과 서브 에이전트로 바꾸는 AI 코딩 에이전트의 실행 방식 | digitalbourgeois](https://digitalbourgeois.tistory.com/3492)
+  * [prime-agent: A self-improving RLM agent for coding workflows and long-running autonomous tasks](https://github.com/PrimeIntellect-ai/prime-agent)
+  * [Prime Agent란? RLM과 Continual Harness로 장시간 코딩·리서치를 지원하는 오픈소스 에이전트 | digitalbourgeois](https://digitalbourgeois.tistory.com/3662)
+    * 두 번째 축인 **Continual Harness** 해설—`/refine`이 불변인 기본 시스템 프롬프트를 다시 쓰는 게 아니라 보조 하네스 상태(supplemental prompts·memories·재사용 Skill 설명·subagent 사양)를 근거 있는 작은 변경으로 개선하고, 스냅샷으로 이전 상태로 되돌릴 수 있게 설계. Skill은 설명 문서가 아니라 import해서 쓰는 Python 패키지이고 Skill creator가 내장돼 반복 작업을 프로젝트·개인 스킬로 만들 수 있음. 서브에이전트는 `rlm.spawn(...)`으로 생성해 결과를 프로그램적으로 회수하고 실행 중 에이전트끼리 직접 메시지도 주고받음
+    * 장시간 실행용 지속성—daemon 기반이라 터미널 연결이 끊겨도 `prime-agent attach <agent>`로 재연결, `/goal`(완료·중지·삭제까지 유지되는 목표), `/heartbeat`·`prime-agent schedule`(주기적 재진입·예약 실행), `/autonomous`(턴·토큰·시간 예산 안에서 계속 진행, 사용자 정의 품질 게이트). 단 **품질 게이트 통과는 그 게이트가 보는 조건을 충족했다는 뜻일 뿐이고 제한 시간·사용량 한도 도달이 성공을 의미하지도 않는다**는 단서를 원문이 명시. CLI는 `agents`·`attach`·`--resume`·`status`·`doctor [--fix]`·`update`·`shutdown`
+    * 실사용 주의—모델이 만든 Python과 프로젝트 명령을 **사용자 권한으로** 실행하고 워커·커널 프로세스는 수명주기 격리용이지 보안 샌드박스가 아니므로, 신뢰할 수 있는 저장소·Instructions·Skills·Extensions만 쓰고 신뢰 못 하는 것은 외부 샌드박스에서 돌릴 것을 권고. 실제 프로젝트에 붙일 때는 일회용 클론이나 깨끗한 worktree, 별도 체크포인트를 쓰라는 조언. TypeScript, MIT, 21k stars
   * 고정된 도구 스키마 대신 하나의 영구 Python REPL을 쓰고 서브 에이전트를 지속적인 IPython 커널 내의 함수 호출로 실행. RLM(Recursive Language Model)—컨텍스트를 변수처럼 다루고 서브 에이전트를 함수 호출처럼 실행, Continual Harness—프롬프트·서브에이전트·스킬·메모리를 에이전트가 직접 관리·수정
   * Opus 5 사용 시 ARC-AGI-3에서 95.5%로 인간 전문가(95.4%) 초과. 단 워커와 커널 프로세스는 보안 샌드박스가 아님
 * [Proliferate | Run a team of coding agents](https://proliferate.com/)
