@@ -2937,6 +2937,8 @@ Artificial Intelligence
   * [fastmcp: The fast, Pythonic way to build Model Context Protocol servers 🚀](https://github.com/jlowin/fastmcp)
     * [MCP(Model Context Protocol)이 뭐길래? — DEV.DY](https://dytis.tistory.com/112)
     * [MCP(Model Context Protocol)이 뭐길래? 실습편 — DEV.DY](https://dytis.tistory.com/113)
+    * [Generative UI... in Python? — Jeremiah Lowin, Prefect - YouTube](https://www.youtube.com/watch?v=Krzs8GeiWTc)
+      * AI Engineer. FastMCP 저자·Prefect CEO의 MCP apps(올해 추가된 프로토콜 확장) 발표—에이전트만 MCP 서버에 닿을 수 있어 순진한 파일 업로드 도구는 에이전트가 파일을 문자 단위로 다시 타이핑하는 "세상에서 가장 비싼 복사-붙여넣기"가 되는 문제를, 도구 결과가 에이전트를 우회해 UI로 전달되는 MCP apps로 해결. Python으로 Generative UI 구현
   * [genai-toolbox: MCP Toolbox for Databases is an open source MCP server for databases, designed and built with enterprise-quality and production-grade usage in mind](https://github.com/googleapis/genai-toolbox)
     * [Introduction | MCP Toolbox for Databases](https://googleapis.github.io/genai-toolbox/getting-started/introduction/)
   * [github-mcp-server: GitHub's official MCP Server](https://github.com/github/github-mcp-server)
