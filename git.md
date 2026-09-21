@@ -1412,6 +1412,10 @@ Git
   * Git을 이용해 데이터 처리. 다른 인프라스트럭처가 필요 없이 GitHub를 이용해서 데이터를 수집하고 보여줄 수 있게 하는 프로젝트
   * 데이터를 수집하고 변환하는 GitHub Actions, 데이터 워크플로우를 작성하는 VS Code 확장 에디터, 처리된 데이터를 보는 뷰어 3가지로 구성
   * GitHub OCTO라는 소프트웨어 개발의 미래를 연구하는 CTO 조직에서 작성
+* [Forgejo – Beyond coding. We forge.](https://forgejo.org/)
+  * [Build Your Own Local Dev Platform with Forgejo - YouTube](https://www.youtube.com/watch?v=PTW7Duj9V2M)
+    * Engineering with Morris. 로컬 워크스테이션에 Forgejo를 세팅해 코드 저장을 넘어 Actions 실행·컨테이너 호스팅까지 갖춘 개인 개발 플랫폼 구축—공유 개발 환경과 싸우지 않고 실험·반복하면서도 프로덕션 파이프라인 경로를 미리 마련
+  * 셀프호스팅 경량 소프트웨어 포지(Gitea 포크). 설치 쉽고 유지보수 부담 적음, 보안·확장·연합(federation)·프라이버시 중심. 민주적 비영리 Codeberg e.V. 산하 100% 자유 소프트웨어—Codeberg.org가 이걸로 운영
 * [Fork - a fast and friendly git client for Mac and Windows](https://git-fork.com)
 * Fossil [Get started with Fossil, an alternative to Git | Opensource.com](https://opensource.com/article/20/11/fossil)
 * [fugitive](https://github.com/tpope/vim-fugitive)
