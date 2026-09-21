@@ -4589,6 +4589,8 @@ NLP
   * [RAG 강의자료-KT DS 김성우 기술혁신단장님 자료 + BM25 + RAG 평가 - 기초부터 응용까지 : 네이버 카페](https://cafe.naver.com/aidev/804)
     * [사내 강의용으로 만든 RAG 시스템 이해 및 구현 교안](https://www.linkedin.com/posts/%EC%84%B1%EC%9A%B0-%EA%B9%80-58448045_ssam-retrieval-augmented-generation-rag-activity-7246734773266628609-E2hB/)
 * [Goodbye, vanilla RAG Hello, Agentic RAG](https://www.linkedin.com/posts/804250ab_goodbye-vanilla-rag-hello-agentic-rag-activity-7259598157938880513-HfyM/)
+* [The unreasonable effectiveness of BM25 for agentic search — Jo Kristian Bergum, Hornet.dev - YouTube](https://www.youtube.com/watch?v=fZH97QHHYjY)
+  * AI Engineer. 검색·리트리벌 20년+ 경력 Jo Kristian Bergum의 발표—30년 된 lexical 스코어링 함수 BM25(Best Match 25, 25번째 실험이 가장 잘 돼서 붙은 이름)가 바뀐 것 하나 없이 에이전틱 검색 시대에 부활하는 이유. 에이전트가 쿼리를 재작성하며 반복 검색하는 환경에서는 임베딩 없이도 BM25가 놀랍도록 효과적이라는 주장
 * [10분 만에 RAG 이해하기](https://brunch.co.kr/@ywkim36/146)
   * [10분 만에 RAG 이해하기 | 요즘IT](https://yozm.wishket.com/magazine/detail/2828/)
 * [RAG Architectures](https://www.linkedin.com/posts/kalyanksnlp_rag-llms-nlproc-activity-7272451928540758016-TPYC/)
