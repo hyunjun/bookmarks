@@ -859,6 +859,14 @@ AWS
     * [삼성 계정 AIOps: AgentCore기반 AIOps의 실전 활용과 자율성 | LinkedIn](https://www.linkedin.com/posts/ren-ai-ssance_%EC%82%BC%EC%84%B1-%EA%B3%84%EC%A0%95-aiops-agentcore%EA%B8%B0%EB%B0%98-alops%EC%9D%98-%EC%8B%A4%EC%A0%84-%ED%99%9C%EC%9A%A9%EA%B3%BC-%EC%9E%90%EC%9C%A8%EC%84%B1-share-7501464964558123008-_grS/)
     * 전 세계 21억 사용자 삼성 계정의 멀티 에이전트 AIOps. Orchestrator→도메인 Supervisor→Sub-agent 3계층으로 책임 분리, Runtime·Observability·Evaluation·Guardrails 4필라 위에서 장애 분석·변경 추적·보안 점검·비용 최적화 자동화. 분석은 에이전트, 실행은 사람 승인을 거치는 단계적 자율운영
     * 2편: 장애 알람 실시간 분석, 인프라 영향도 분석, 월간 리포트 자동화, 원격 긴급 작업 등 실전 활용—운영자 업무가 정보 수집에서 분석 결과 검증·최종 판단으로 재편. Level 3·4 자율운영 확대를 위한 신뢰 지표 정량화 추진
+  * [awsome-ai-gateway: 사내 코딩 에이전트를 위한 통합 LLM 게이트웨이 | aws-samples/sample-agentic-ai-acceleration-kr](https://github.com/aws-samples/sample-agentic-ai-acceleration-kr/tree/main/projects/awsome-ai-gateway)
+    * [AWSome AI Gateway — 해외 배포판(us-llm-gateway) 문서 | gonsoomoon-ml fork](https://github.com/gonsoomoon-ml/sample-agentic-ai-acceleration-kr/tree/us/deploy-fixes/projects/awsome-ai-gateway/docs/us-llm-gateway)
+    * [web search — 게이트웨이가 서버에서 검색한다](https://github.com/gonsoomoon-ml/sample-agentic-ai-acceleration-kr/tree/us/deploy-fixes/projects/awsome-ai-gateway/docs/us-llm-gateway/web-search)
+    * [web search 데모 — 영상과 토큰·비용 (2026-09-20)](https://github.com/gonsoomoon-ml/sample-agentic-ai-acceleration-kr/blob/us/deploy-fixes/projects/awsome-ai-gateway/docs/us-llm-gateway/web-search/web-search-demo.md)
+    * [Claude Desktop Cowork + Web Search on AgentCore — AWSome AI Gateway - YouTube](https://www.youtube.com/watch?v=75OFe0q4YFs)
+    * [Claude Desktop Chat + Web Search on AgentCore — AWSome AI Gateway - YouTube](https://www.youtube.com/watch?v=LC821HxkMYA)
+    * 사내 Claude Code·Codex·Cowork 사용자용 통합 LLM 게이트웨이 샘플—OIDC(Cognito) 인증으로 Virtual Key 자동 발급, 클라이언트별로 Bedrock native/Mantle 백엔드를 `routing_profiles` 테이블로 데이터 드리븐 분기, 팀·사용자·앱별 예산·Rate Limit·모델 접근 제어·사용량 추적(ROI). 서울 리전 EKS Fargate에서 구동, 3개 AWS 계정 Bedrock으로 분기. 해외 배포판은 us-west-2·Bedrock 직결·공개 https·영문 UI(문곤수)
+    * Server-side Web Search on AgentCore 최적화: Claude Desktop(Cowork·Chat)과 Claude Code에서 최신 정보를 물으면 PC에 아무것도 설치하지 않고 게이트웨이가 Web Search on Amazon Bedrock AgentCore로 서버에서 검색해 Anthropic web search tool 형식으로 반환—검색 동시 2개 Fan-out 실행, 한 번 검색한 내용은 대화에 남아 재검색 없이 이어 답함, 검색과 파일 저장 같은 앱 도구가 함께 동작, 검색은 요청당 최대 6건으로 비용 통제. 데모: 삼성 HBM4·HBM4E 발표 요약→같은 자료에서 수치 추출→SK하이닉스·마이크론 비교표→임원 보고용 1페이지 저장(Sonnet 5 xhigh, Cowork 한국어 $0.58 vs Chat 영어 $0.36)
 * [Amazon Nova - Explore Amazon Nova foundation models](https://nova.amazon.com/)
   * [아마존, 웹 브라우저에서도 작동하는 생성형 AI 에이전트 플랫폼 ‘노바’ 공개 < 플랫폼 < AI Tech < 기사본문 - 인공지능신문](https://www.aitimes.kr/news/articleView.html?idxno=34429)
   * [Introducing Amazon Nova Sonic: Human-like voice conversations for generative AI applications | AWS News Blog](https://aws.amazon.com/ko/blogs/aws/introducing-amazon-nova-sonic-human-like-voice-conversations-for-generative-ai-applications/)
@@ -1233,6 +1241,11 @@ AWS
 * [AWS EBS 비용 최적화하는 4가지 방법](https://www.costclipper.io/blog/aws-ebselastic-block-storage-cost-saving)
 * [AWS 범용 클라우드 아키텍처의 데이터 전송 비용 알아보기 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/overview-of-data-transfer-costs-for-common-architectures/)
 * [AWS 관리형 데이터베이스 서비스 전송 비용 알아보기 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/exploring-data-transfer-costs-for-aws-managed-databases/)
+* [AWS 네트워크 데이터 전송 및 처리 요금, 아키텍처로 이해하기 1부: 요금 구조와 인터넷 경계 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/aws-networking-dto-dp-01/)
+  * [2부: 리전 안의 트래픽](https://aws.amazon.com/ko/blogs/tech/aws-networking-dto-dp-02/)
+  * [3부: VPC 간 연결과 하이브리드](https://aws.amazon.com/ko/blogs/tech/aws-networking-dto-dp-03/)
+  * AWS 네트워크 비용은 데이터 전송 요금(트래픽이 넘는 경계에 과금)과 데이터 처리 요금(NAT Gateway·VPC 엔드포인트 같은 관리형 서비스가 부과) 두 축—청구서에서 서비스 이름으로 묶이지 않고 EC2-Other(NAT 요금+전송 요금) 항목으로 흩어져 검토 고객 사례에서 청구액의 8~12%로 상위 2~3위. 인스턴스 타입과 달리 아키텍처 설계 순간에 대부분 결정돼 나중에 바꾸기 어려움. 1부: 인터넷 게이트웨이·퍼블릭 IPv4·NAT Gateway·VPC 엔드포인트·CloudFront(서울 인터넷 DTO GB당 $0.126)
+  * 2부: 같은 리전 AZ 간 전송은 양방향 각 $0.01—Kafka·Elasticsearch·Cassandra·Redis 같은 오픈소스 클러스터를 멀티 AZ로 운영할수록 분기마다 증가, 로드 밸런서·데이터베이스·EKS에서 AZ 경계 트래픽을 줄이는 방법. 3부: 여러 VPC·계정·온프레미스를 잇는 VPC 경계·리전 경계 트래픽의 과금과 연결 방식별 비용 차이
 * [Slashing Data Transfer Costs in AWS by 99% · Bits and Cloud](https://www.bitsand.cloud/posts/slashing-data-transfer-costs/)
   * AWS에서 가용영역(AZ)간에 데이터를 전송하면 비용 발생
   * S3는 1a, 1b 같은 AZ 단위가 아니라 리전 단위로 버킷 저장하므로
