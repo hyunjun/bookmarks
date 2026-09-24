@@ -6968,6 +6968,10 @@ Programming
 * [스토어 키워드 랭크 올리기. 우리 앱이 스토어에서 잘 노출되었으면 좋겠어 (1) | by Stephan Seunghwan Seo | DelightRoom | Medium](https://medium.com/delightroom/%EC%8A%A4%ED%86%A0%EC%96%B4-%ED%82%A4%EC%9B%8C%EB%93%9C-%EB%9E%AD%ED%81%AC-%EC%98%AC%EB%A6%AC%EA%B8%B0-7bce372c41f9)
 * [스토어 키워드 관리하기. 우리 앱이 스토어에서 잘 노출되었으면 좋겠어 (2) | by Stephan Seunghwan Seo | DelightRoom | Medium](https://medium.com/delightroom/%EC%8A%A4%ED%86%A0%EC%96%B4-%ED%82%A4%EC%9B%8C%EB%93%9C-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0-41335ec6ca9c)
 * [스토어 키워드 발굴하기. 우리 앱이 스토어에서 잘 노출되었으면 좋겠어 (3) | by Stephan Seunghwan Seo | DelightRoom | Mar, 2023 | Medium](https://medium.com/delightroom/%EC%8A%A4%ED%86%A0%EC%96%B4-%ED%82%A4%EC%9B%8C%EB%93%9C-%EB%B0%9C%EA%B5%B4%ED%95%98%EA%B8%B0-cfb84af1d706)
+* [The rise of the AI crawler | Vercel](https://vercel.com/blog/the-rise-of-the-ai-crawler)
+  * [우리 웹사이트, 구글엔 보이는데 AI 검색엔 왜 안 보일까요? | 박승희](https://www.linkedin.com/posts/seung-hee-park_%EC%9A%B0%EB%A6%AC-%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8-%EA%B5%AC%EA%B8%80%EC%97%94-%EB%B3%B4%EC%9D%B4%EB%8A%94%EB%8D%B0-ai-%EA%B2%80%EC%83%89%EC%97%94-%EC%99%9C-%EC%95%88-%EB%B3%B4%EC%9D%BC%EA%B9%8C%EC%9A%94-1-activity-7506625378191425536-n_0A)
+  * Vercel·MERJ가 nextjs.org와 Vercel 네트워크 등에서 수억 건의 AI 크롤러 요청을 분석—GPTBot(ChatGPT)·ClaudeBot·PerplexityBot 등 주요 AI 크롤러는 JavaScript를 실행하지 않음(Googlebot→Gemini만 예외). JS로 콘텐츠를 채우는 사이트는 AI 크롤러에게 빈 화면이라 서버가 보내는 원본 HTML에 콘텐츠가 없으면 인용할 게 없음
+  * LinkedIn 글: SEO는 잘했는데 ChatGPT·Perplexity에서 브랜드가 안 나오면 검색 로봇이 아니라 AI 크롤러 문제일 수 있다는 실습 후기—크롬 개발자도구로 JS 비활성화해 10초면 확인 가능, 직접 확인해보니 메인 페이지가 빈 화면이었던 사례
 * [Modern Mobile Development: Native vs Cross-Platform - YouTube](https://www.youtube.com/watch?v=Gezgc_Et1ro)
 * [Why I regret using Ionic for app development | by Mohammad Hossein Amri | Medium](https://mhamri.com/why-i-regret-using-ionic-for-app-development-c8b21b88d83a)
   * Ionic으로 앱을 개발했는데 Flutter를 사용할 걸 그랬다며 Ionic의 문제점을 정리한 글
