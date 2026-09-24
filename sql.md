@@ -606,6 +606,9 @@ SQL
   * [AQueryTool은 웹 기반 ERD 툴 + SQL 자동 생성 프로그램](http://aquerytool.com/)
   * [dbdiagram - Draw Entity-Relationship Diagrams, Painlessly](https://dbdiagram.io/)
   * [DBML: Database Markup Language · /usr/lib/libsora.so](https://libsora.so/posts/dbml-entity-relation-diagram-as-code/)
+  * [drawDB - Free, simple, and intuitive online database diagram editor and SQL generator](https://www.drawdb.app/)
+    * [drawdb: Free, simple, and intuitive online database diagram editor and SQL generator](https://github.com/drawdb-io/drawdb)
+    * 무료 온라인 DB 다이어그램 에디터+SQL 생성기. JavaScript, AGPL-3.0, 39.6k stars
   * [erdplus.com](https://erdplus.com)
   * [SequenceDiagram.org - UML Sequence Diagram Online Tool](https://sequencediagram.org/)
 * [falcon - Free, open-source SQL client for Windows and Mac](https://github.com/plotly/falcon)
