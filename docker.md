@@ -1542,6 +1542,10 @@ Docker
 * [쿠버네티스가 AI, ML, LLM를 위한 플랫폼인 이유](https://nauco.tistory.com/125) 실무적인 내용이나 근거는 없는 거 같아서 크게 마음이 가진 않음
 * [LLMs on Kubernetes Part 1: Understanding the threat model | CNCF](https://www.cncf.io/blog/2026/03/30/llms-on-kubernetes-part-1-understanding-the-threat-model/)
   * K8s에서 LLM 운영 시 보안 위협 모델. OWASP LLM Top 10 중 프롬프트 인젝션, 민감 정보 노출, 공급망 리스크, 과도한 에이전시 4가지 매핑. LiteLLM/Kong AI Gateway 등 정책 레이어 필요
+* [AI 고속도로 AI 시대 다시 뜨는 '쿠버네티스'…GPU·서비스 운영 핵심으로 | ZDNet Korea](https://zdnet.co.kr/view/?no=20260923101508)
+  * 생성형 AI 확산으로 대규모 GPU를 효율적으로 나눠 쓰는 기술이 중요해지며 컨테이너 오케스트레이션 표준이던 쿠버네티스가 GPU·NPU 가속기 배분부터 학습·추론까지 관리하는 AI 인프라 핵심 플랫폼으로 확장. CNCF 연례 조사에서 생성형 AI 운영 조직의 66%가 추론 워크로드 일부 또는 전체를 쿠버네티스에서 운영
+* [Google이 에이전트 런타임의 아래층만 CNCF에 제출한 이유 | CloudBro Community](https://www.cloudbro.ai/t/google%EC%9D%B4-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EB%9F%B0%ED%83%80%EC%9E%84%EC%9D%98-%EC%95%84%EB%9E%98%EC%B8%B5%EB%A7%8C-cncf%EC%97%90-%EC%A0%9C%EC%B6%9C%ED%95%9C-%EC%9D%B4%EC%9C%A0/4563)
+  * Google 엔지니어들이 2026-09-08 CNCF Sandbox에 신청한 Agent Substrate—Kubernetes 위에서 쉬는 에이전트를 재워 메모리·파일 상태를 저장하고 필요할 때 준비된 워커에 복원해 적은 워커로 많은 에이전트를 실행하는 런타임. 그 위에서 Task·Workspace·Gateway·Model을 관리하며 실제 에이전트 작업을 실행하는 Agent Executor(AX)는 같은 Apache-2.0 오픈소스인데도 CNCF 신청에서 제외되고 Google CLA 유지—라이선스가 아닌 다른 무엇이 두 층을 갈랐는지 분석
 * [Successful Kubernetes Development Workflows • Ellen Körbes • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=9csPAXYEf7M)
 * [How to Debug Dead Container in K8s](https://leoh0.github.io/post/2018-08-04-how-to-debug-dead-container-in-k8s/)
 * [Living with Kubernetes: Debug Clusters in 8 Commands – The New Stack](https://thenewstack.io/living-with-kubernetes-debug-clusters-in-8-commands)
