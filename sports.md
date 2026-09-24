@@ -52,6 +52,8 @@ Sports
   * [MLB 의 분석 야구, 새로운 단계로 진화하다](http://newspeppermint.com/2015/05/03/moneyball-statcast/)
   * [Every step they take - A new tracking system could revolutionise understanding of baseball](http://www.economist.com/news/science-and-technology/21650078-new-tracking-system-could-revolutionise-understanding-baseball-every-step)
   * [야구 분석의 미래, 스탯캐스트는 어떻게 만들어지나?](http://baseball-lab.com/2015/05/22/story_n_2809)
+* [The MLB Strike Zone Got A Lot Smaller In 2026 | Baseball America](https://www.baseballamerica.com/stories/the-mlb-strike-zone-got-a-lot-smaller-in-2026)
+  * 1990년대 톰 글래빈이 존 가장자리를 공략해 이닝이 갈수록 심판에게 1~2인치를 더 얻어내던 스트라이크존은 ABS(자동 볼 판정) 도입으로 사라짐—2026년 존은 플레이트 좌우 가장자리와 하단에서 훨씬 덜 관대해져 "다음 글래빈"은 완전히 다른 존에 적응해야 함
 * [안영명은 정말로 거듭났을까](http://baseball-lab.com/2015/05/07/story_n_2713) ERA, FIP, BABIP, SO/BB
 * [A Dynamic Programming Model For Baseball](http://footballcommentary.com/bbmodel.htm)
 * [Replicated Data Consistency Explained Through Baseball](http://research.microsoft.com/pubs/157411/ConsistencyAndBaseballReport.pdf)
