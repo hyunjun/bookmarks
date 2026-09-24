@@ -4596,6 +4596,9 @@ Artificial Intelligence
 * [Frontier engineering | Kiro](https://kiro.dev/topics/frontier-engineering)
   * [이 글은 Amazon에서 AI 에이전트를 기반으로 업무 워크플로우를 재구성한 팀들로부터 측정된 결과들을 바탕으로 | 윤석찬 | Facebook](https://www.facebook.com/channyblog/posts/pfbid02kcGdLH3pWWN12eARovdnE2ifXu6oZ8kRFSuYgNb691oGL9oxyT2YJSUGg2ozcWpZl)
   * AI 에이전트와 일하며 훨씬 빠르게 출시하기 위한 10가지 원칙(실무자 가이드). Amazon에서 코드 작성뿐 아니라 업무 워크플로우 자체를 재구성한 팀들의 측정 결과 기반—AI 코딩 도구를 쓰는데도 출시 속도가 빨라지지 않았다면 볼 만한 글
+  * [이 글은 Amazon에서 AI 에이전트를 기반으로 코드 작성 뿐만 아니라, 업무 워크플로우를 재구성한 팀들로부터 측정된 결과들을 바탕으로 SW 개발자들이 일하는 방법을 위한 열 가지 원칙 | 윤석찬 | Facebook](https://www.facebook.com/channyblog/posts/pfbid02kZm91VoosnCfNARJyaJSFg652Fk8cyoLUrxiDXqgSK5tboFqJ6QtbKAfd7CTGJoKl)
+    * Kiro 원문을 요약하며 개인 의견을 더한 10가지 원칙 한국어 정리(2026-09-14): ①코더가 아니라 아키텍트—직접 타이핑하는 코드는 1% 미만, 요구사항·제약·완료 기준을 글로 명확히 쓰는 훈련 ②에이전트 시간은 최대로 사람 개입은 최소로—구현·테스트·검증을 포함한 30분 이상 작업을 맡기고 밤새 병렬 실행 후 아침에 검토 ③에이전트를 위한 코드베이스—README·아키텍처 문서·모듈 경계를 코드처럼 관리, 에이전트는 매 세션 온보딩하므로 맥락을 명시적으로 ④에이전트에게 테스트 환경—린터·단위 테스트·브라우저 테스트로 스스로 검증하게 ⑤중요한 것은 방향성—설계 단계에서 대안 아키텍처 2~3개를 프로토타입으로 비교
+    * ⑥코드는 일회용—단위 테스트는 버려도 E2E·속성 기반·부하 테스트 같은 경계 테스트는 유지 ⑦AI 코드에 인간 기준—처음엔 한 줄씩 리뷰해 감을 쌓고 이후 AI 리뷰어로 부담 이전, 루프를 배포·모니터링·롤백까지 확장 ⑧에이전트가 아니라 경계를 신뢰—최소 권한 환경에서 자율 실행, 프로덕션 자격증명은 절대 금지 ⑨모든 개발 주기에 에이전트—설계 문서·스프린트 요약·온콜 리포트까지, 스펙·MCP·스킬을 공유하는 에이전트 코드베이스 ⑩에이전트 설정을 끊임없이 튜닝—실수마다 스펙·스킬 갱신, 새 모델이 나오면 이전 약점 우회 규칙 재평가. 개발자가 키워야 할 장기 역량은 자신의 주의력 관리
 * [2603.21439 LLM-Powered Workflow Optimization for Multidisciplinary Software Development](https://arxiv.org/abs/2603.21439)
   * [AGI KR](https://www.facebook.com/groups/255834461424286?multi_permalinks=2911883062486066)
   * Volvo Group 사례: 그래프 기반 워크플로우 최적화로 API당 개발 시간 5시간→7분, 총 979시간 절감. F1 93.7%. FSE 2026 Industrial Track 채택
