@@ -6177,8 +6177,15 @@ NLP
   * [Qwen3-ASR 및 Qwen3-ForcedAligner가 오픈소스로 공개](https://www.facebook.com/groups/255834461424286/?multi_permalinks=2857185841289122&hoisted_section_header_type=recently_seen)
   * [맥에서 Qwen3 ASR 쓰는 팁](https://x.com/xrath/status/2031588181347328165)
 * [Qwen-Audio-3.0-TTS Demo | FunAudioLLM](https://funaudiollm.github.io/qwen-audio-3.0-tts/)
+  * [2607.23938 Qwen-Audio-3.0-TTS: Freely Controllable and Highly Robust Speech Synthesis with Multi-Stage Training Paradigm](https://arxiv.org/abs/2607.23938)
   * [Qwen-Audio-3.0-TTS: 생산 환경을 위한 차세대 음성 합성(Text-to-Speech) 기술 | digitalbourgeois](https://digitalbourgeois.tistory.com/3403)
   * 생산 환경(Production) 중심 고성능 TTS. 콘텐츠 일관성·화자 유사도·자연스러운 억양·다국어 지원·빠른 생성 속도·스타일 제어에 초점
+  * [Qwen-Audio-3.1-TTS · Speech Synthesis — Freely Controllable and Highly Robust Speech Synthesis with Multi-Stage Training Paradigm | Alibaba Token Foundry](https://fun-resource-shanghai.oss-cn-shanghai.aliyuncs.com/cuijiayan.cjy/tmp/exp/qwen_audio_3_tts_blog_review_260918/index.shtml?Expires=2105366399&OSSAccessKeyId=LTAI5tQrCBwj82sVMCWoSmzE&Signature=9ZaZIEahoN41Zb9MFJjf34G%2BSCM%3D)
+    * 3.1 버전 기술 보고서 리뷰 페이지(2026-09-18, 데모 10종: zero-shot·다국어·교차언어·감정·방언·강건성·장문·텍스트 정규화·지시·세밀 태그). 12.5Hz 저프레임레이트 음성 토크나이저로 자기회귀 디코딩 비용 절감, LM·FM(flow matching) 독립 사전학습→고품질 데이터 어닐링 공동 학습→LM RL→FM 강건성 학습→FM RL의 5단계 점진 학습. 역할·감정·말투·속도·음색·억양을 자유 자연어 지시로 제어하고 86개 인라인 태그로 구절·단어 단위 표현 전환과 웃음·호흡·기침·한숨 같은 비언어 이벤트 삽입. 16개 언어(7개 신규)·중국 방언 20개 지역, 3분까지 원패스 장문 합성, 잡음·잔향 참조 음성에도 강건, 화자 파인튜닝 프로토콜과 보코더 초해상도로 48kHz 출력. SEED-TTS-Eval·CV3-Eval 등에서 SOTA, Artificial Analysis TTS 리더보드 1위
+  * [Qwen-Audio-3.1-ASR-Flash-Filetrans | QwenCloud](https://www.qwencloud.com/models/qwen-audio-3.1-asr-flash-filetrans)
+    * 회의 전사·콘텐츠 제작·통화 분석용 엔드투엔드 오프라인(비실시간) 음성인식 모델. 다국어와 중국 지역 방언 인식, 핫워드·문맥 강화, 화자 분리, 문장부호 예측, 텍스트 정규화, 잡음 환경에서도 안정적인 장시간 오디오 전사, 방언별 제어 가능한 ASR/AST(음성 번역) 출력
+  * [Qwen-Audio-3.1-Realtime-Plus | QwenCloud](https://www.qwencloud.com/models/qwen-audio-3.1-realtime-plus)
+    * 텍스트·오디오 입출력 풀듀플렉스 실시간 음성 대화 모델. 음성 언어 추론·다중 턴 지시 이행·공감 대화·롤플레이 강화, 잡음 억제와 다자 대화 이해로 끼어들기 처리·발화 종료 대기·자연스러운 턴 테이킹, 다국어 대화와 도구 호출로 지식베이스·업무 시스템 연결, 안전 요청 거부 강화—고객 서비스·업무 협업·음성 컴패니언 용도
 * [🤖 Qwen3-TTS: AI 음성 합성의 새로운 혁신](https://fornewchallenge.tistory.com/entry/%F0%9F%A4%96-Qwen3-TTS-AI-%EC%9D%8C%EC%84%B1-%ED%95%A9%EC%84%B1%EC%9D%98-%EC%83%88%EB%A1%9C%EC%9A%B4-%ED%98%81%EC%8B%A0-1)
   * [Qwen3 TTS Voice Design - a Hugging Face Space by Qwen](https://huggingface.co/spaces/Qwen/Qwen3-TTS-Voice-Design)
   * [Qwen TTS Clone Demo - a Hugging Face Space by Qwen](https://huggingface.co/spaces/Qwen/Qwen-TTS-Clone-Demo)
