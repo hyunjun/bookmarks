@@ -659,6 +659,11 @@ NoSQL
 * [ScyllaDB, Source Avaliable License로 변경 | GeekNews](https://news.hada.io/topic?id=18366)
 * [Building Resilient, High Performance ScyllaDB Clusters with Super Disk | Hyperconnect Tech Blog](https://hyperconnect.github.io/2025/05/15/Building-Resilient-High-Performance-ScyllaDB-Clusters-with-Super-Disk.html)
 
+# seekdb
+* [seekdb — AI-Native Search Database](https://www.seekdb.ai/)
+  * [seekdb: The AI-Native Search Database](https://github.com/oceanbase/seekdb)
+  * OceanBase의 에이전트 스토리지용 AI 네이티브 검색 DB—벡터·전문(full-text)·정형·반정형 데이터를 단일 엔진에 통합해 하이브리드 검색(벡터+전문+관계형 질의)을 한 문장으로. 1C2G에서 VectorDBBench 실행, Python으로 몇 분 만에 프로토타입→프로덕션. C++, Apache-2.0, 3k stars
+
 # Supabase
 * [Supabase - The open source Firebase alternative](https://supabase.io/)
 * [supabase: The open source Firebase alternative. Follow to stay updated about our public Beta](https://github.com/supabase/supabase)
