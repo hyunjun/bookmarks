@@ -1795,11 +1795,16 @@ Programming
 * [Managing 238M Memberships at Netflix - YouTube](https://www.youtube.com/watch?v=fCQKek_J3lQ)
 * [How Netflix Ensures Highly-Reliable Online Stateful Systems - YouTube](https://www.youtube.com/watch?v=paTtLhZFsGE)
 * [Enhancing Netflix Reliability with Service-Level Prioritized Load Shedding | by Netflix Technology Blog | Jun, 2024 | Netflix TechBlog](https://netflixtechblog.com/enhancing-netflix-reliability-with-service-level-prioritized-load-shedding-e735e6ce8f7d)
+* [10억 명 이상의 ChatGPT 사용자를 위한 온라인 스토리지의 빠른 확장 (1부) | OpenAI](https://openai.com/ko-KR/index/scaling-storage-one-billion-users-part-one/)
+  * OpenAI 제품이 필요한 정보에 빠르고 안정적으로 접근하게 하는 온라인 스토리지 플랫폼 Habitat—DevDay 2023 GPTs 지원용으로 단일 DB에 붙은 간단한 Python 클라이언트 라이브러리로 시작해, 지금은 약 40개 리전에서 주간 10억+ 사용자·초당 7천만+ 요청·500PB+ 데이터를 제공하는 분산 시스템(요청/응답/CDC 변경 사항). 시스템 엔지니어는 보통 10배 규모에 대비해 몇 년을 버티지만 OpenAI는 3년 연속 매년 10배 넘게 성장해 성숙한 플랫폼 구축과 전례 없는 속도의 확장을 동시에 해야 했던 이야기
 * [Scaling Uber](http://www.infoq.com/presentations/uber-scalability-arch)
 * [uber 아키텍처](http://knight76.tistory.com/entry/%ED%8E%8C-uber-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98)
 * [UBER system design. Uber’s technology may look simple but… | by Narendra L | Medium](https://medium.com/@narengowda/uber-system-design-8b2bc95e2cfe)
 * [티켓 예매 시스템 | 고객 요구에서 설계로 가는 접근법 - YouTube](https://www.youtube.com/watch?v=7excI-0n2xk)
   * 코딩하는기술사. 콘서트 티켓 예매 시스템 설계 실무 흐름—기술부터 고르지 않고 고객 요구사항에서 출발해 결정에 이르는 과정 자체를 보여주는 아키텍처 설계 연습
+* [내가 대규모 트래픽을 만나면 제일 먼저 하는 일 - YouTube](https://www.youtube.com/watch?v=1CRNXpfYvZE)
+  * 코딩하는기술사. 서버 증설·대기열·캐시 같은 기술 이전에 요구사항 자체를 조절해 크고 복잡한 일을 작고 단순한 일로 나누는 접근—코레일이 노선마다 예매일을 다르게 둔 것처럼 ①트래픽을 나눠 크기를 줄이고 ②일을 나눠 복잡성을 줄이고 ③피크 밖으로 일을 옮김. 시스템의 핵심 기능 파악, 여러 비즈니스 사례에 반복되는 동일 패턴
+  * 나누면 대가가 따르므로 트레이드오프로 설득하는 협상이 필수, 요구사항 조절 후 기술로 방어하는 다중 방어선 구축. "능력 있는 아키텍트는 기술로만 해결하지 않는다"
 * [서버 아키텍처 Vol. 2 (자막)](http://www.slideshare.net/sublee/lt-vol-2)
 * [**서버 비용을 70%나 줄인 온디맨드 리사이징 이야기**](http://engineering.vcnc.co.kr/2016/05/ondemand-image-resizing/)
 * [설계 중심의 시스템 구현](https://blog.ifunfactory.com/2016/01/29/%EC%84%A4%EA%B3%84-%EC%A4%91%EC%8B%AC%EC%9D%98-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EA%B5%AC%ED%98%84-2/)
@@ -6727,6 +6732,8 @@ Programming
 * [transactional outbox message relay 개선하기 - 리디주식회사](https://ridicorp.com/story/transactional-outbox-message-relay-ridi)
 * [커스텀푸시(리치 노티피케이션) / 푸시알림 전달 여부 고속 트래킹](https://rationalowl.tistory.com/20)
 * [**최신 메시지 큐(Messgae Queue) MQ 기술**](https://kji6252.github.io/2015/12/18/message-quere/)
+* [메시지 큐, 큐와 로그부터 순서 보장까지 | wonkooklee](https://blog.wonkooklee.com/docs/software-design-and-theory/message-queue-fundamentals/)
+  * 메시지 큐 기반 알림 기능을 고치다 파티션·오프셋(Kafka), 익스체인지·라우팅 키(RabbitMQ), 스트림·컨슈머(Redis Streams)가 비슷한 일을 다른 말로 설명하는 데서 출발—제품별 사용법이 아니라 "메시지 큐를 가르는 기준은 무엇이고 그 기준이 무엇을 결정하는가"를 큐 vs 로그 모델부터 순서 보장까지 개념 단위로 정리
 * [Reviewing Messaging in Distributed System Architectures](https://levelup.gitconnected.com/reviewing-messaging-in-distributed-system-architectures-6cf2fd7b8b4e)
 * [THE OPENMESSAGING BENCHMARK FRAMEWORK](http://openmessaging.cloud/docs/benchmarks/)
 * [Batch processing best practices - Vlad Mihalcea](https://vladmihalcea.com/scheduled-jobs-best-practices/)
@@ -6972,6 +6979,10 @@ Programming
   * [우리 웹사이트, 구글엔 보이는데 AI 검색엔 왜 안 보일까요? | 박승희](https://www.linkedin.com/posts/seung-hee-park_%EC%9A%B0%EB%A6%AC-%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8-%EA%B5%AC%EA%B8%80%EC%97%94-%EB%B3%B4%EC%9D%B4%EB%8A%94%EB%8D%B0-ai-%EA%B2%80%EC%83%89%EC%97%94-%EC%99%9C-%EC%95%88-%EB%B3%B4%EC%9D%BC%EA%B9%8C%EC%9A%94-1-activity-7506625378191425536-n_0A)
   * Vercel·MERJ가 nextjs.org와 Vercel 네트워크 등에서 수억 건의 AI 크롤러 요청을 분석—GPTBot(ChatGPT)·ClaudeBot·PerplexityBot 등 주요 AI 크롤러는 JavaScript를 실행하지 않음(Googlebot→Gemini만 예외). JS로 콘텐츠를 채우는 사이트는 AI 크롤러에게 빈 화면이라 서버가 보내는 원본 HTML에 콘텐츠가 없으면 인용할 게 없음
   * LinkedIn 글: SEO는 잘했는데 ChatGPT·Perplexity에서 브랜드가 안 나오면 검색 로봇이 아니라 AI 크롤러 문제일 수 있다는 실습 후기—크롬 개발자도구로 JS 비활성화해 10초면 확인 가능, 직접 확인해보니 메인 페이지가 빈 화면이었던 사례
+* [Search Seoul — Debugging JavaScript for LLMs: Presentation Snippets | jonathanmooredigital gist](https://gist.github.com/jonathanmooredigital/2668b3e4c89ecffe373b190fd55565dd)
+  * [AI가 내 사이트 텍스트를 읽을 수 있는지 직접 확인하는 법 | 박승희](https://www.linkedin.com/posts/seung-hee-park_ai%EA%B0%80-%EB%82%B4-%EC%82%AC%EC%9D%B4%ED%8A%B8-%ED%85%8D%EC%8A%A4%ED%8A%B8%EB%A5%BC-%EC%9D%BD%EC%9D%84-%EC%88%98-%EC%9E%88%EB%8A%94%EC%A7%80-%EC%A7%81%EC%A0%91-%ED%99%95%EC%9D%B8%ED%95%98%EB%8A%94-%EB%B2%95-1-share-7507709897669746688-lqBU/)
+  * Search Seoul 세션 "LLM은 우리 페이지에서 무엇을 받는가 — JavaScript 디버깅"의 실습 스니펫—DevTools 전체 소스 검색(Ctrl+Shift+F, 정규식)으로 콘텐츠를 로드하는 fetch/XHR/axios/jQuery AJAX/GraphQL 호출을 찾는 패턴 등
+  * 박승희 후속 글: AI 크롤러가 읽는 건 서버가 처음 보낸 원본 HTML이고 사람이 보는 건 JS 실행 후 완성된 DOM—둘이 같으면 문제없지만 JS가 나중에 채우는 텍스트는 사람 눈엔 보여도 AI에겐 존재하지 않는 텍스트. 원본 HTML과 DOM을 직접 비교해 확인하는 방법
 * [Modern Mobile Development: Native vs Cross-Platform - YouTube](https://www.youtube.com/watch?v=Gezgc_Et1ro)
 * [Why I regret using Ionic for app development | by Mohammad Hossein Amri | Medium](https://mhamri.com/why-i-regret-using-ionic-for-app-development-c8b21b88d83a)
   * Ionic으로 앱을 개발했는데 Flutter를 사용할 걸 그랬다며 Ionic의 문제점을 정리한 글
