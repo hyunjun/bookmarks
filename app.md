@@ -1000,6 +1000,9 @@ App
   * [n8n - YouTube](https://www.youtube.com/playlist?list=PLOI8xpLfBsbvljNN-Dy37vBvZA33aa_6W)
   * [AI 모드 대화: n8n 설치-Docker 설치하기](https://ideas27981.tistory.com/66)
     * 업무 자동화 툴 n8n 설치 가이드—Docker(권장)와 npm(Node.js) 두 방법을 단계별로 안내
+* [Navop：AI时代的开发和运维工作台](https://navop.dev/)
+  * [navop: A native, all-in-one workspace for databases, SSH, SFTP, terminals, remote desktop, monitoring, and AI](https://github.com/feigeCode/navop)
+  * 데이터베이스·SSH·SFTP·터미널·원격 데스크톱·모니터링을 하나의 네이티브 데스크톱 앱에서 관리하고, AI 에이전트가 실제 연결·쿼리 결과·명령 출력을 둘러싸고 작업을 돕는 개발·운영 워크벤치. Rust+GPUI로 WebView 없이 GPU 렌더링. Rust
 * [peco: Simplistic interactive filtering tool](https://github.com/peco/peco)
   * [**Peco 사용법: 커맨드라인 텍스트 증분검색 필터링 도구 | 44BITS**](https://www.44bits.io/ko/post/incremental-search-tool-peco)
 * Phind [개발자를 위한 AI 검색엔진 ‘파인드(Phind)’ 활용법 | 요즘IT](https://yozm.wishket.com/magazine/detail/1944/)
