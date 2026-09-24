@@ -3101,6 +3101,9 @@ AWS
 # TDD, Test
 * [AWS Release ‘SAM Local’ to Facilitate Local Build and Test of AWS Lambda Serverless Applications](https://www.infoq.com/news/2017/08/sam-local-beta)
 * [How to Test Serverless Applications in AWS](https://www.freecodecamp.org/news/how-to-test-serverless-applications-in-aws/)
+* [Floci - Any Cloud. Locally. Light, fluffy, and always free](https://floci.io/floci/)
+  * [floci: Light, fluffy, and always free - The AWS Local Emulator alternative](https://github.com/floci-io/floci)
+  * 무료 오픈소스(MIT) 로컬 AWS 에뮬레이터—계정·인증 토큰·유료 기능 게이트 없이 `docker compose up`만으로 localhost:4566에 AWS 호환 서비스 제공. AWS SDK·CLI·Terraform·CDK·OpenTofu·테스트 스위트를 그대로 사용, Testcontainers 연동, 웹 콘솔, LocalStack 마이그레이션 가이드. Java 구현
 * [kumo: A lightweight AWS service emulator written in Go](https://github.com/sivchari/kumo)
   * [kumo - Go로 작성된 경량 AWS 서비스 에뮬레이터 | GeekNews](https://news.hada.io/topic?id=28793)
   * 단일 바이너리 Go 기반 76개 AWS 서비스 에뮬레이터. 인증 불필요, Docker 지원, 선택적 JSON 데이터 보존, localhost:4566. CI/CD·로컬 개발용. MIT
