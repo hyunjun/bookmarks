@@ -3224,6 +3224,23 @@ NLP
     * 균형 잡힌 결론—193.6배·444.6배는 출시 측 자체 워크플로 측정값이고 독립 재현이 아니며, 반대로 커뮤니티 반론도 벤치마크가 아니라 논리적 지적이 중심. "환각이 없다"를 "틀리지 않는다"로 읽지 않는 것이 출발점이고, 공식 문서의 타입 안전성은 "정해진 형식과 범위를 벗어나지 않는다"는 뜻이지 "판단이 항상 옳다"는 뜻이 아님. Hacker News 스레드에 창업자가 직접 답했지만 아키텍처는 비공개 방침. 쿠팡 파트너스 문구 포함
   * 전 OpenAI 연구자(ChatGPT의 기반이 된 instruction-following 연구 참여) Diogo Almeida가 창업한 TypeSafe AI의 첫 System One 모델 Jev(얼리 액세스). 텍스트 생성을 포기하는 대신 사전 정의된 타입 세이프 구조화 출력+보정된 확률(calibrated confidence)만 반환—환각·타입 오류가 원천적으로 불가능. RLCD(Reinforcement Learning for Calibrated Decisions)로 학습, 병렬 샘플링으로 70~500ms 응답(동급 지능 기준 프런티어 LLM 대비 40~200배), 입력 $0.042/M·출력 무료
   * 용도: 분류·라우팅·점수화·추출·조건 분기 같은 "smart if-statement", 페타바이트 데이터 map-reduce, 실시간 앱, LLM 출력 검증·가드레일·탈옥 감지. "프런티어 지능의 함수 호출—비구조화 상태를 넣으면 타입드 확률적 판단이 나온다"
+  * [Building a Harness with Jev - YouTube](https://www.youtube.com/watch?v=VE5dsWll06M)
+    * LangChain. Jev를 에이전트 하네스에 통합하는 방법—분류형 태스크에서 LLM 대비 최대 200배 빠르고 400배 저렴해 모델 라우팅과 "Jev as a judge" 온라인 eval에 적합
+  * [Jev가 AI 틈새 기술? 구글이 바로 반응합니다… 빠른 응답에 돈을 내는 이유 | 세레브라스, Groq도 절대 안되는 기술이라 했죠 - YouTube](https://www.youtube.com/watch?v=qV5p14OSgXU)
+    * 안될공학. 문장 생성 대신 선택지의 확률을 돌려주는 Jev 해설—"작은 언어모델로도 가능하다"는 비판과 비교 조건 문제를 짚고, 토큰 순차 생성 vs 판단값 반환의 차이, 반복 판단에서 응답 시간·비용이 중요한 이유를 Cerebras·Groq 사례로 설명. 구글 DiffusionGemma를 Jev처럼 활용한 개발자 시도 소개(Gemini 앰배서더 제작지원)
+  * [Introducing Jev Skill Suggestion for Claude Code | Daniel San](https://x.com/dani_avila7/status/2101885477158547753)
+    * 스킬을 user-invocable 전용으로 두고 스킬 목록을 Jev에 보내 매 요청마다 가장 맞는 스킬을 분류·주입—필요할 때까지 스킬을 컨텍스트 윈도우 밖에 유지. TypeSafe API·Vercel AI Gateway 지원, `npx claude-code-templates@latest --mod productivity/jev-skill-suggestion`
+  * [System One Model과 Jev: AI 자동화를 위한 구조화된 의사결정 모델의 등장 | digitalbourgeois](https://digitalbourgeois.tistory.com/3690)
+    * 생성 텍스트 재해석·검증, 예상 밖 답변·환각, 응답 속도·비용이라는 LLM 자동화의 3대 제약을 System One Model이 어떻게 우회하는지 정리
+  * [Jev's Architecture Unmasked | Archer Hume](https://archerhume.com/posts/jevs-architecture-unmasked/)
+    * [Jev 아키텍처 분석: 텍스트 생성 대신 확률을 직접 읽어내는 의사결정 모델 | digitalbourgeois](https://digitalbourgeois.tistory.com/3688)
+    * "JSON 분류기에 1,200만 뷰? 버블이다"류 반응이 놓친 지점—일반 LLM이 "90% confident"라고 생성하는 텍스트는 실제 정답 확률과 무관하지만, Jev는 사전학습 LLM의 지식을 유지하면서 생성된 확신 문장 대신 내부 표현에서 읽은 결정 확률을 결과에 맞춰 보정. 오픈 웨이트가 아니라 TypeSafe API의 지연 시간 스케일링 시그니처를 프로빙해 추정한 아키텍처: 결정용으로 재구성한 causal transformer(sparse MoE 추정), 상태를 한 번 인코딩한 공유 그리드+질문별 병렬 브랜치, 텍스트 생성 대신 직접 확률 readout
+  * [Jev 따라하기 (LLM과 다른 의사결정 AI 시작하기) - WikiDocs](https://wikidocs.net/book/21376)
+  * [jevlike: 문장 대신 선택지별 확률을 계산하는 오픈소스 AI 모델](https://github.com/vinnylarouge/jevlike)
+    * [Jevlike, 문장 대신 선택지별 확률을 계산하는 오픈소스 AI 모델 | digitalbourgeois](https://digitalbourgeois.tistory.com/3680)
+    * Jev 방식의 모델을 직접 학습·실험할 수 있는 오픈소스—고객 문의를 환불/영업/기술지원으로 분류하거나 Wikipedia에서 다음 클릭할 링크를 고르는 것처럼 주어진 선택지 중 하나를 판단하는 작업을 문장 생성 없이 처리. Python, MIT, 1.3k stars
+  * [minecraft-agent: Astra planner and JEV controller for Minecraft, with native recording, tested routes, and run verification](https://github.com/rmalde/minecraft-agent)
+    * Astra(GPT-6)가 계획하고 Jev가 밀리초 단위로 제어하는 Minecraft 에이전트—네이티브 녹화, 검증된 경로, 실행 검증. JavaScript
 * [JudgeBench: A Benchmark for Evaluating LLM-Based Judges](https://github.com/ScalerLab/JudgeBench)
 * [Jupiter | Sovereign — zero-dependency high-performance inference engine for LLMs](https://www.teamjupiter.ai/)
   * [Jupiter Sovereign 공유 | Jupiter Song](https://www.linkedin.com/posts/jupitersong_jupiter-sovereign-share-7486380864663076864-IBtp/)
