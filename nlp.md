@@ -1253,6 +1253,9 @@ NLP
   * [Cactus Needle 2: Agentic LLM for tiny devices](https://cactuscompute.com/needle)
     * [14MB 초소형 LLM으로 구현하는 온디바이스 AI 에이전트, Cactus Needle 2 | digitalbourgeois](https://digitalbourgeois.tistory.com/3548)
     * needle 후속작. 45M 파라미터·14MB 단일 바이너리·최대 28MB RAM으로 동작하는 오픈(Apache 2.0) 온디바이스 함수 호출 모델. 학습 단계부터 적용한 2-bit 양자화(CQ2)·256 슬라이딩 윈도우, 압축 가중치를 직접 처리하는 C++ 추론 엔진(Cortex-M~x86~WASM). Raspberry Pi 5에서 500+ toks/s, $200 이하 폰에서 300~700 toks/s. "무엇을 말할지"가 아니라 "어떤 액션을 실행할지"에 특화(기기 제어·구조화 추출, 스키마 컴파일 문법으로 malformed JSON 방지), 신뢰도 점수로 로컬 처리/클라우드 에스컬레이션 하이브리드. Pebble Index 01 앱 실사용, FunctionGemma 270M·LFM2.5·Apple FM과 함수 호출 벤치 경쟁, 로컬 파인튜닝으로 정확도 21~58점 향상
+  * [Needle 3 - 8-29 MB foundation model for tiny devices | Cactus](https://cactuscompute.com/needle)
+    * [Needle 3 설치·사용 가이드: 8MB 초소형 온디바이스 툴콜링 AI로 스마트폰 에이전트 만들기 | fornewchallenge](https://fornewchallenge.tistory.com/entry/%F0%9F%93%B1-Needle-3-%EC%84%A4%EC%B9%98%C2%B7%EC%82%AC%EC%9A%A9-%EA%B0%80%EC%9D%B4%EB%93%9C-8MB-%EC%B4%88%EC%86%8C%ED%98%95-%EC%98%A8%EB%94%94%EB%B0%94%EC%9D%B4%EC%8A%A4-%ED%88%B4%EC%BD%9C%EB%A7%81-AI%EB%A1%9C-%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%8F%B0-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0-1)
+    * 2026-09-17 공개된 3세대. 모바일·웨어러블·로봇·스마트홈·자동차·마이크로컨트롤러용 자동화 파운데이션 모델—일반 채팅을 버리고 툴 콜링(앱이 노출한 함수 중 맞는 것을 골라 인자를 채움, 둘 요청하면 순서대로 두 호출, 해당 도구 없으면 추측 대신 빈 리스트)·구조적 추출(디코드 문법이 파싱 보장, 분류에도 일반화)·임베딩 3가지에 특화. 121M 파라미터·2-bit·8~29MB 단일 바이너리이면서 모바일 정확도는 클라우드 DeepSeek V4 Flash와 동등. 한 세트의 가중치로 2~20층 어느 깊이든 독립 모델로 동작하는 "intelligence ladder", $19에 파인튜닝 3회(호스팅 컴퓨트·학습 데이터 생성 포함). Apache-2.0, 12.4k stars
 * [NeMo: a toolkit for conversational AI](https://github.com/NVIDIA/NeMo)
   * [NeMo-Guardrails: NeMo Guardrails is an open-source toolkit for easily adding programmable guardrails to LLM-based conversational systems.](https://github.com/NVIDIA/NeMo-Guardrails)
     * [엔비디아, 오픈소스 소프트웨어 ‘네모 가드레일’ 출시](https://www.epnc.co.kr/news/articleView.html?idxno=232776)
@@ -3241,6 +3244,13 @@ NLP
     * Jev 방식의 모델을 직접 학습·실험할 수 있는 오픈소스—고객 문의를 환불/영업/기술지원으로 분류하거나 Wikipedia에서 다음 클릭할 링크를 고르는 것처럼 주어진 선택지 중 하나를 판단하는 작업을 문장 생성 없이 처리. Python, MIT, 1.3k stars
   * [minecraft-agent: Astra planner and JEV controller for Minecraft, with native recording, tested routes, and run verification](https://github.com/rmalde/minecraft-agent)
     * Astra(GPT-6)가 계획하고 Jev가 밀리초 단위로 제어하는 Minecraft 에이전트—네이티브 녹화, 검증된 경로, 실행 검증. JavaScript
+  * [Bespoke Nimble: A 9B Model Hit 90% on Jev — Built in Days, Not Months | explainx](https://explainx.ai/blog/bespoke-nimble-9b-model-90-percent-jev-eval-2026)
+    * [Bespoke Nimble, 9B 모델로 Jev 스타일 평가 90%를 기록한 LoRA 파인튜닝 사례 | digitalbourgeois](https://digitalbourgeois.tistory.com/3682)
+    * Bespoke Labs가 Qwen3.5-9B를 LoRA 파인튜닝해 Jev 스타일 평가에서 90% 정확도(데이터 큐레이션 전 66%→후 90%)를 며칠 만에 달성했다는 보고—TypeSafe 출시 48시간 내 등장한 6개 Jev 클론 중 하나. 처음부터 학습하지 않고 오픈웨이트 모델+작업 특화 데이터 정제+LoRA만으로 도달했다는 점이 오픈웨이트 빌더에게 갖는 의미
+  * [I Tried Jev AI in Python: Honest First Look - YouTube](https://www.youtube.com/watch?v=pmnq5e5Xp4s)
+    * Real Python. 하이프 없는 첫 사용기—Jev를 설치하고 OpenRouter 경유로 Python에서 호출해 결과를 정직하게 평가(모호하게 돌아온 답도 포함). 대문자 Y/N만 받는 평범한 Python 스크립트가 "yeah, I've lost..." 같은 입력에 무너지는 지점에서 출발해 Jev의 판단형 응답이 이를 어떻게 처리하는지 시연, 샘플 코드 제공
+  * [Build Your Own Jev With Claude Opus 5.5 - YouTube](https://www.youtube.com/watch?v=z8My0bX2-ZU)
+    * Mark Kashef. Claude Opus 5.5의 도움으로 Jev에서 영감받은 로컬 AI 스페셜리스트를 직접 만드는 과정—오픈소스 모델 선택→역할 정의→파인튜닝→Jev와 비교 테스트→이미지 이해 추가. 예시는 호텔 오퍼를 여행자 요구사항(환불·늦은 도착·수영장·가이드 투어)에 대조 판정하는 여행 모델. 빌드 프롬프트·가이드 무료 제공
 * [JudgeBench: A Benchmark for Evaluating LLM-Based Judges](https://github.com/ScalerLab/JudgeBench)
 * [Jupiter | Sovereign — zero-dependency high-performance inference engine for LLMs](https://www.teamjupiter.ai/)
   * [Jupiter Sovereign 공유 | Jupiter Song](https://www.linkedin.com/posts/jupitersong_jupiter-sovereign-share-7486380864663076864-IBtp/)
