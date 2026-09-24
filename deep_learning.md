@@ -3049,6 +3049,10 @@ CVPR2016)
 * [Muse: Text-To-Image Generation via Masked Generative Transformers](https://muse-model.github.io/) Transformer 기반. 기존의 Diffusion 이나 Autoregressive 모델의 성능을 능가하는 SOTA 달성. 모델 크기 900M, Inference 속도도 더 빠르다고 함
 * [Novel AI 찍먹해본 후기 | Univdev](https://www.univdev.page/posts/novel-ai-review/)
 * [PromptBase | DALL·E, Midjourney & GPT-3 Prompt Marketplace](https://promptbase.com/)
+* [Qwen-Image-2.1: Compact, Efficient, and Unified Image Creation | Qwen Blog](https://qwen.ai/blog?id=qwen-image-2.1)
+  * [외계인들을 고문하고 있는 알리바바 Qwen Image 2.1 | Dennis Kim](https://www.linkedin.com/posts/testcode_%EC%99%B8%EA%B3%84%EC%9D%B8%EB%93%A4%EC%9D%84-%EA%B3%A0%EB%AC%B8%ED%95%98%EA%B3%A0-%EC%9E%88%EB%8A%94-%EC%95%8C%EB%A6%AC%EB%B0%94%EB%B0%94-qwen-image-21-qwen-image-share-7507618046585249792-ZjGX/)
+  * 텍스트→이미지 생성과 편집을 하나로 통합한 7B(32층 Single-Stream DiT, 약 33GB) 경량 오픈 웨이트 모델—네이티브 2K(2048×2048 업스케일 없이, 가로 최대 2752×1536, 기본 40스텝), 64채널 RGBA VAE로 알파 채널이 잠재 공간에 내재돼 배경 제거·매팅 없이 스프라이트·로고·아이콘·제품 컷아웃을 바로 합성 가능한 투명 이미지로 출력. 최대 10장 참조 이미지로 다인 합성·모델+의상+액세서리 조합, 원형·페인트 주석·마스크 국소 편집, 인물 얼굴·제품 텍스트 보존
+  * Mixed-Granularity Attention(텍스트는 토큰, 이미지는 청크 단위)+프리픽스 KV 캐시 재사용으로 참조 이미지가 많아질수록 속도·메모리 효율 향상. 경쟁 모델 대비 비용 효율과 개방 가중치가 강점이지만 비상업 연구용 라이선스 제약
 * [Qwen-Image-3.0 | Qwen Blog](https://qwen.ai/blog?id=qwen-image-3.0)
   * [Qwen-Image-3.0 - 풍부한 콘텐츠, 사실적 디테일, 깊이 있는 지식 | GeekNews](https://news.hada.io/topic?id=31666)
   * [Qwen-Image-3.0 핵심 기능과 특징 정리: 더욱 현실적인 AI 이미지 생성 모델의 진화 | digitalbourgeois](https://digitalbourgeois.tistory.com/3400)
