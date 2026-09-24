@@ -999,6 +999,8 @@ Artificial Intelligence
   * [What the 100 biggest GitHub repos put in their AGENTS.md files | coldtea](https://www.coldtea.ai/blog/agents-md-field-study)
     * [GitHub 상위 100개 저장소가 AGENTS.md에 담은 AI 코딩 에이전트 운영 규칙 | digitalbourgeois](https://digitalbourgeois.tistory.com/3568)
     * GitHub 상위 1,000개 공개 레포 중 27%가 AGENTS.md 보유—별 상위 100개(합산 1,140만 스타: vscode·ollama·n8n·pytorch 등) 전수 분석. 룰북이 아니라 운영 매뉴얼: 오리엔테이션(프로젝트 구조)+검증(빌드·테스트)이 전체의 절반, 주제별로 아키텍처 18.9%·테스트 17.2%·명령어 12.8%. 한편 명시적 don't 룰 784개, 90%가 must/always/never 명령형—클수록 더 단호해짐. 파일당 중앙값 1,198단어
+  * [Claude Code 2.1.277, AGENTS.md 지원 시작… 프로젝트 지침 관리가 달라진다 | digitalbourgeois](https://digitalbourgeois.tistory.com/3679)
+    * CLAUDE.md가 없으면 AGENTS.md를 프로젝트 지침으로 자동 사용—여러 코딩 에이전트가 하나의 지침을 공유할 때 파일 복제·심볼릭 링크가 불필요. /config의 Project instructions에서 CLAUDE.md·AGENTS.md 사용 방식 선택 가능, 하위 디렉터리 AGENTS.md도 지원
 * [agentscope: Build and run agents you can see, understand and trust](https://github.com/agentscope-ai/agentscope)
   * [AgentScope 공식 문서](https://docs.agentscope.io/)
   * [AgentScope 2.0, LLM의 추론과 도구 활용을 기반으로 AI Agent를 개발하는 프레임워크 | digitalbourgeois](https://digitalbourgeois.tistory.com/3653)
@@ -1117,9 +1119,14 @@ Artificial Intelligence
 * [Awesome-AI-Memory: LLM/AI 에이전트 메모리 시스템 연구·프레임워크·구현체 정리](https://github.com/IAAR-Shanghai/Awesome-AI-Memory)
 * [Awesome-GraphMemory: 그래프 기반 에이전트 메모리 리소스](https://github.com/DEEP-PolyU/Awesome-GraphMemory)
 * [basic-memory: Persistent AI conversation system with local markdown knowledge base via MCP](https://github.com/basicmachines-co/basic-memory)
+* [Beacon — The Cross-Harness Memory Layer for Coding Agents](https://beacon.sh/)
+  * [agent-beacon: The cross-harness self-improving memory layer for AI agents](https://github.com/Asymptote-Labs/agent-beacon)
+  * Claude Code·Cursor·Codex·OpenCode 등 20+ 하네스의 에이전트 세션을 복리로 쌓이는 지식 레이어로 전환—성공한 실행마다 이후 모든 에이전트가 더 똑똑해지는 크로스 하네스 자기개선 메모리. CLI·SDK 제공, Asymptote Labs. Go, MIT
 * [BrowserOS — The open-source Agentic browser](https://browseros.com/)
   * [BrowserOS: The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia](https://github.com/browseros-ai/BrowserOS)
   * 오픈소스 에이전틱 브라우저. ChatGPT Atlas·Perplexity Comet·Dia 대안. TypeScript, AGPL-3.0, 12.7k stars
+* [BrowserSkill: Let AI agents use your real, logged-in browser without interrupting your work | Tencent](https://github.com/Tencent/BrowserSkill)
+  * 셸을 쓸 수 있는 어떤 AI 에이전트든 사용자의 실제 로그인된 브라우저를 작업 방해 없이 사용하게 하는 CLI+확장 프로그램. TypeScript, MIT, 6.2k stars
 * [BrowserWing - Modern Browser Automation Platform](https://www.browserwing.com/)
   * [browserwing: BrowserWing turns your browser actions into MCP commands Or Claude Skill](https://github.com/browserwing/browserwing)
   * 브라우저 동작을 MCP 명령이나 Claude Skill로 변환. AI 에이전트의 빠르고 안정적인 브라우저 제어
@@ -1135,6 +1142,7 @@ Artificial Intelligence
   * [video-use: Video editing through AI coding agents](https://github.com/browser-use/video-use)
     * 원본 영상→Claude Code 대화로 편집. 필러 제거, 컬러 그레이딩, 30ms 오디오 페이드, 자막 생성, Manim/Remotion 애니메이션 오버레이, 자체 품질 검증. project.md 세션 메모리
   * [jev-ultrafast: i. am. speed.](https://github.com/browser-use/jev-ultrafast)
+    * 동적 인덱스 액션 스페이스—관찰마다 새 요소 테이블을 만들고 Jev가 operation과 element를 고르며, 소형 LLM은 TYPE_TEXT일 때만 텍스트를 작성. Google Flights 취리히→런던 검색을 텍스트 생성·로딩 대기 포함 7.1초에 완료. Browser Use Cloud 대기열 오픈. Python, MIT, 18.7k stars
     * [Introducing System One Models & Jev | TypeSafe AI Blog](https://typesafe.ai/blog/introducing-system-one-models-and-jev)
     * [AI LLM이 글만 쓰는 시대는 지나가고 있나 봅니다 | futurewalker | Facebook](https://www.facebook.com/futurewalker/posts/pfbid0pHfgoWhbycuZgTTe7UReLWep8qn2gbpJkcL99G8SgaX79ypZM1DhNWnTj3hf8FD4l)
     * TypeSafe AI의 첫 System One 모델 Jev를 활용한 초고속 브라우저 자동화. Jev는 텍스트를 생성하지 않는 LLM—미리 정의된 선택지 중 하나를 보정된 신뢰도 점수와 함께 밀리초 단위로 골라 반환('생성'이 아닌 '판단'). 환각이 구조적으로 불가능, 입력 $0.042/MTok에 출력 사실상 무료. Python, 3.7k stars
@@ -1166,6 +1174,8 @@ Artificial Intelligence
   * 에이전트의 모든 외부 통신을 가로채 규칙으로 검증·감시하는 보안 방화벽(Deno 제작). HTTP·SQL·Kubernetes 등 프로토콜별 세부 권한 관리(HCL 규칙), 위험한 작업은 LLM Judge나 사람 승인으로 게이트, 전체 감사 로그와 회귀 테스트로 정책 변경 검증. 셀프호스팅. Go, MIT, 1k stars
 * [Code2Video](https://showlab.github.io/Code2Video/)
   * [Code2Video: Video generation via code](https://github.com/showlab/Code2Video)
+* [codeflow: Paste any GitHub URL → interactive architecture map](https://github.com/braedonsaunders/codeflow)
+  * GitHub URL을 붙이면 파일 간 연결을 보여주는 인터랙티브 아키텍처 맵 생성—무언가를 바꾸면 무엇이 깨지는지 확인. 설치·계정 없이 브라우저에서 전부 실행. MIT, 5.3k stars
 * [CoPaw: Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities](https://github.com/agentscope-ai/CoPaw)
   * [OpenClaw 따라잡은 알리바바의 CoPaw로 Discord 봇 만드는 법](https://fornewchallenge.tistory.com/entry/%F0%9F%94%A5OpenClaw-%EB%94%B0%EB%9D%BC%EC%9E%A1%EC%9D%80-%EC%95%8C%EB%A6%AC%EB%B0%94%EB%B0%94%EC%9D%98-CoPaw%EB%A1%9C-Discord-%EB%B4%87-%EB%A7%8C%EB%93%9C%EB%8A%94-%EB%B2%95)
     * CoPaw를 로컬 LLM으로 실행하고 Discord에 연동하는 단계별 가이드. 멀티 채널 지원, API 없는 로컬 실행
@@ -1187,6 +1197,10 @@ Artificial Intelligence
   * [National AI Research Lab (NAIRL) - Craken alpha test with KAIST | LinkedIn](https://www.linkedin.com/posts/national-ai-research-lab-nairl-recently-ugcPost-7468158010503311361-2IF_/)
     * KAIST 김기응·오태현 교수 연구실에서 Craken 알파 테스트—논문을 구조화 위키로 요약, 관련 문헌 조사, 상호 연결된 지식 페이지로 정리. NAIRL이 학계와 산업계를 잇는 testbed 역할
   * Corca(OpenAI 서비스 파트너 한국 스타트업)가 만든 AI 네이티브 협업 워크스페이스. 실시간 메시지·파일 공유·위키·AI 에이전트를 한 환경에 통합, 양방향 링크로 컨텍스트 그래프 형성. Craken CLI로 Claude Code/Codex 등 셸 기반 에이전트가 워크스페이스에 참여
+* [cua: Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation](https://github.com/trycua/cua)
+  * [Cua 공식 사이트](https://cua.ai/)
+  * [Cua 설치·사용 가이드: AI 에이전트에 컴퓨터를 쥐여주는 MIT 오픈소스 드라이버 | fornewchallenge](https://fornewchallenge.tistory.com/entry/%F0%9F%86%93-Cua-%EC%84%A4%EC%B9%98%C2%B7%EC%82%AC%EC%9A%A9-%EA%B0%80%EC%9D%B4%EB%93%9C-AI-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EC%97%90-%EC%BB%B4%ED%93%A8%ED%84%B0%EB%A5%BC-%EC%A5%90%EC%97%AC%EC%A3%BC%EB%8A%94-MIT-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EB%93%9C%EB%9D%BC%EC%9D%B4%EB%B2%84)
+  * 컴퓨터 사용(computer-use) 에이전트를 위한 오픈소스 인프라—크로스 OS 드라이버, 플릿 스케일링, 학습·평가·데이터 생성용 벤치마크. MIT, 25.5k stars
 * [CubeSandbox: Instant, Concurrent, Secure & Lightweight Sandbox Service for AI Agents | TencentCloud](https://github.com/TencentCloud/CubeSandbox)
   * [CubeSandbox 공식 사이트](https://cubesandbox.com/)
   * [AI 에이전트를 위한 초고속 보안 실행 환경, CubeSandbox 기술 정리 | digitalbourgeois](https://digitalbourgeois.tistory.com/3344)
@@ -1484,6 +1498,8 @@ Artificial Intelligence
   * [OpenMemory: Add long-term memory to any AI in minutes. Self-hosted, open, and framework-free](https://github.com/CaviraOSS/OpenMemory)
 * [OpenMonoAgent.ai: Local-first terminal coding agent with bundled llama.cpp, no token billing](https://github.com/StartupHakk/OpenMonoAgent.ai)
   * 로컬 LLM 기반 터미널 코딩 에이전트(Docker 내장 llama.cpp). GPU 45 tok/s, CPU 20 tok/s, 데이터 로컬 보관. 에이전틱 루프(25턴, doom-loop 탐지), 20개 내장 도구, 5개 서브에이전트(Explore/Plan/Coder/Verify/General), Roslyn(C#)+LSP(TS/Python/Go/Rust), YAML 플레이북, 분산 추론, TUI/CLI. C#/.NET 10, AGPL-3.0
+* [OpenMuse: A personal agent with a browser, terminal, files, and work that keeps going | CopilotKit](https://github.com/CopilotKit/OpenMuse)
+  * 브라우저·터미널·파일을 갖추고 작업을 끝까지 이어가는 개인 에이전트 템플릿—결과를 요청하면 계획을 따라가며 액션을 검토하고 결과를 받아옴. CopilotKit React Native(iOS/Android/웹)+AG-UI로 구축, 어떤 에이전트 하네스와도 호환. 알파(셀프호스팅·커스터마이즈 용도). TypeScript, MIT
 * [open-multi-agent: TypeScript-native multi-agent orchestration framework that auto-decomposes goals into task DAGs](https://github.com/open-multi-agent/open-multi-agent)
   * [🚀 Open Multi-Agent로 멀티 에이전트 오케스트레이션 시작하기](https://fornewchallenge.tistory.com/entry/%F0%9F%9A%80-Open-Multi-Agent%EB%A1%9C-%EB%A9%80%ED%8B%B0-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EC%98%A4%EC%BC%80%EC%8A%A4%ED%8A%B8%EB%A0%88%EC%9D%B4%EC%85%98-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0)
   * `runTeam(team, goal)` 한 번으로 목표를 태스크 DAG로 자동 분해. 10+ LLM 프로바이더(Anthropic/OpenAI/Azure/Gemini/Grok/DeepSeek/Ollama), 6개 내장 도구+Zod 커스텀 도구+MCP, 토큰 스트리밍, HTML 대시보드 추적. 런타임 의존성 3개뿐, Redis/Postgres 공유 메모리 지원
@@ -1943,9 +1959,6 @@ Artificial Intelligence
 * [Using LLMs to secure source code | Claude](https://claude.com/blog/using-llms-to-secure-source-code)
   * [defending-code-reference-harness: Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can /customize | Anthropic](https://github.com/anthropics/defending-code-reference-harness)
   * Anthropic이 보안팀과의 협업(Glasswing)에서 얻은 학습 기반 자율 취약점 탐지·교정 레퍼런스 하네스. recon→find→triage→report→patch 루프, Claude Code 스킬(`/threat-model`·`/vuln-scan` 등). Bedrock/Vertex/Azure 호환. 관리형은 Claude Security. Apache 계열, 5.8k stars
-* [vulnerability-harness: Specialized LLM agents that confirm real vulnerabilities by executing a PoC in a Docker sandbox — per-file hunters, reviewer-verified, no flagship model required](https://github.com/ksgsslee/vulnerability-harness)
-  * Mythos·프리뷰 모델 없이 Bedrock(또는 OpenAI 호환 엔드포인트)의 일반 모델(Sonnet·Opus 등)만으로 도메인·언어 무관하게 취약점을 찾는 방어용 하네스. 파일별 독립 헌터 세션이 각기 다른 취약점 렌즈(injection·SSRF·역직렬화·접근제어·경로탐색)로 검사하고, 단순 코드 분석을 넘어 PoC를 작성해 Docker 샌드박스에서 직접 실행—재현된 취약점만 리포트하며 Reviewer가 PoC 재실행으로 검증. Python, Apache-2.0
-  * 잘 알려진 오픈소스 대상 전체 파일의 1~3%(30개 내외)만 돌려 공개 CVE 확보: Django(CVSS 8.8, SSRF/file write→RCE, 2026년 최고)·LangChain(8.2, 역직렬화, 2026년 최고)·Apache Shiro(8.2, 인증 우회)·authentik(9.4)·Keycloak(4.9), k8s(Go)·nginx(C/C++)는 CVE 발급 절차 진행 중. 접근 방식은 Security Agent 코드 스캐닝·Continuum과 유사—커스터마이징이 필요하면 이 하네스, 매니지드를 원하면 해당 서비스로 연결하는 식으로 활용
 * [Harness engineering for coding agent users | Martin Fowler](https://martinfowler.com/articles/harness-engineering.html)
   * 코딩 에이전트 사용자를 위한 하네스 엔지니어링. (기존 exploring-gen-ai 시리즈와 별개 글)
 * [프로덕션 Multi-Agent 시스템이 해결해야 할 5가지 문제 – Deep Insight 아키텍처로 배우는 실전 설계 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/practical-design-lessons-from-the-deep-insight-arch/)
@@ -2043,6 +2056,9 @@ Artificial Intelligence
   * [Harness-of-Harness 논문 정리 — Claude Code·Codex에 바로 넣는 Planner·Developer·QA 3역할 프롬프트 | AX LABS 블로그](https://theaxlabs.com/blog/harness-of-harness-planner-developer-qa-prompts)
   * [상하이 AI Lab이 9월 1일 Harness-of-Harness(HoH) 논문을 공개했습니다 | seungpil](https://www.linkedin.com/posts/seungpil_aislsstwswktxu-claudecode-codex-share-7503688550534684672-l5Tz/)
   * 상하이 AI Lab. Codex·OpenCode·Pi 같은 기존 하네스를 고치지 않고 같은 하네스를 Planner·Developer·QA 세 역할로 나눠 반복 호출하는 프로토콜. "계속 해줘"부터 같은 곳을 또 고치고 되던 기능을 깨뜨리며 안 된 걸 완료라고 보고하는 문제를 모델 능력이 아니라 긴 궤적에서 검증 상태를 잃는 문제로 규정. 3개 벤치마크 평균 52% 상대 개선, 70루프 FPS 게임 자율 개발
+* [HarnessTax: How Much Does the Harness Matter for Coding Agents? | UC Berkeley·Arena](https://harnesstax.github.io/)
+  * [코딩 에이전트에서 하네스가 중요한 이유: 같은 모델의 비용과 성능을 바꾸는 구조 | digitalbourgeois](https://digitalbourgeois.tistory.com/3678)
+  * 7개 모델×3개 하네스(Claude Code·Codex CLI·Pi) 21개 조합을 SWE-bench Lite·Terminal-Bench 2.0에서 평가—같은 모델이 비슷한 성공률을 보이면서도 하네스에 따라 비용이 최대 5배 차이. 단순한 도구 구성의 Pi가 비용 대비 성공률에서 경쟁력, 같은 회사의 모델+하네스 조합이 항상 최선은 아님
 * [my_harness: Claude Code/Codex 듀얼 런타임 AI 에이전트 팀 생성 팩토리](https://github.com/cookyman74/my_harness)
   * [AI 에이전트 팀 생성 도구를 공유합니다 - 클리앙](https://www.clien.net/service/board/lecture/19212444)
   * 한 문장 도메인 설명 입력 → 분석가·작성자·검토자 등 역할 분리 에이전트 팀+절차 스킬+오케스트레이터 생성(CLAUDE.md/AGENTS.md). 6개 아키텍처 패턴(파이프라인·팬아웃/팬인·스페셜리스트 풀·생성-검증·슈퍼바이저·계층 위임), 내부 QA+외부 AI(Codex/Gemini) 교차검증 2단계 품질 게이트, 리스크 기반 게이트. Apache 2.0
@@ -2110,6 +2126,9 @@ Artificial Intelligence
 * [Trampoline.ai — Production-hardened agentic workflow management](https://www.trampoline.ai/)
   * [predict-rlm: Production focused Self-harnessed LM runtime (RLM) that allows the LM to call its sub-lm with DSPy signatures](https://github.com/Trampoline-AI/predict-rlm)
   * 자기-하네스(self-harnessed) LM 런타임. 입력·출력·도구만 정의하면 모델이 스스로 제어 흐름 처리, Stanford DSPy 기반. context rot 없이 완전 해석 가능한 trajectory + 모델 개선에 직접 비례하는 성능. 모델 무관. MIT
+* [vulnerability-harness: Specialized LLM agents that confirm real vulnerabilities by executing a PoC in a Docker sandbox — per-file hunters, reviewer-verified, no flagship model required](https://github.com/ksgsslee/vulnerability-harness)
+  * Mythos·프리뷰 모델 없이 Bedrock(또는 OpenAI 호환 엔드포인트)의 일반 모델(Sonnet·Opus 등)만으로 도메인·언어 무관하게 취약점을 찾는 방어용 하네스. 파일별 독립 헌터 세션이 각기 다른 취약점 렌즈(injection·SSRF·역직렬화·접근제어·경로탐색)로 검사하고, 단순 코드 분석을 넘어 PoC를 작성해 Docker 샌드박스에서 직접 실행—재현된 취약점만 리포트하며 Reviewer가 PoC 재실행으로 검증. Python, Apache-2.0
+  * 잘 알려진 오픈소스 대상 전체 파일의 1~3%(30개 내외)만 돌려 공개 CVE 확보: Django(CVSS 8.8, SSRF/file write→RCE, 2026년 최고)·LangChain(8.2, 역직렬화, 2026년 최고)·Apache Shiro(8.2, 인증 우회)·authentik(9.4)·Keycloak(4.9), k8s(Go)·nginx(C/C++)는 CVE 발급 절차 진행 중. 접근 방식은 Security Agent 코드 스캐닝·Continuum과 유사—커스터마이징이 필요하면 이 하네스, 매니지드를 원하면 해당 서비스로 연결하는 식으로 활용
 
 # Artificial Neural Networks
 * [A Gentle Introduction to Artificial Neural Networks](https://theclevermachine.wordpress.com/2014/09/11/a-gentle-introduction-to-artificial-neural-networks/)
@@ -2762,6 +2781,8 @@ Artificial Intelligence
   * [Building MCP with Kotlin: Claude Desktop Controls My Smart Home Lights! - YouTube](https://www.youtube.com/watch?v=jwevCa96Z4Q)
     * integration between Hue Smart Lights and Claude Desktop using the Model Context Protocol (mCP) Kotlin SDK
   * [MCP – Model Context Protocol이 시사하는 점 :: Channy's Blog](https://channy.creation.net/blog/1932)
+  * [MCP — AI에게 도구를 연결하는 표준 | 골든시그널](https://blog.naver.com/goldensignal_/224418302032)
+    * 초보 개발자용 MCP 입문 별책(Antigravity 2.0 기준 실습 촬영). 왜 MCP가 필요한가·구조·확인과 추가 방법·실제 호출 화면, 그리고 가장 중요한 권한·보안까지 실제 화면으로 따라하기
   * [MCP vs API Explained: Do We Still Need API After MCP? - YouTube](https://www.youtube.com/watch?v=7yNvsFrwpp0)
     * Cloud X Berry. "MCP가 API를 대체한다"는 말이 왜 틀린지 단계적으로 설명하는 입문용 7분 영상. 기존 방식은 개발자가 어떤 API를 언제 어떤 순서로 부를지 코드에 미리 써 두는 것이고 그게 API의 설계 목적인데, 지시가 버튼이 아니라 문장으로 오면 모델은 사용자의 의도는 알아도 어떤 엔드포인트가 있는지·무엇을 먼저 불러야 하는지·어떤 입력을 받는지 모른다(회사 API 문서 전체를 모델에 하드코딩할 수도 없음). 이 공백을 메우는 게 MCP라는 구성
     * 결론은 **MCP 서버는 어댑터**—많은 MCP 서버가 기존 API 위에 올라가고, 모델이 도구를 고르면 애플리케이션이 MCP 서버를 통해 호출하고 서버가 실제로는 기존 API 하나 이상을 불러 결과를 돌려준다. 이득은 표준화된 도구 설명(무엇을 하고 어떤 입력을 받는지)을 서버가 노출해 애플리케이션이 발견(discover)할 수 있다는 점—내일 cancel order 도구가 추가되면 다음 연결 때 자동으로 발견된다. tool(행동)과 resource(파일·문서·DB 레코드 같은 정보)의 구분도 함께 설명
@@ -3552,6 +3573,8 @@ Artificial Intelligence
   * [아마존은 해고, 월마트는 고용! AI 시대, 일자리 전략 승자는?](https://livewiki.com/ko/content/amazon-ai-firings-walmart-hires)
 * ["AI가 조직의 중심, 사람은 가장자리에서 일한다"는 잭 도시 - YouTube](https://www.youtube.com/watch?v=BeeSuExA9wM)
   * 티타임즈TV. 트위터 공동창업자 잭 도시가 블록(Block)에서 시작한 AI 중심 조직 실험—전 직원 40% 감원·중간관리자 폐지, 인간 관리자가 하던 정보 전달·조율을 AI 에이전트에 넘기고 인간은 실무만 담당하는 구상
+* [AI 생활혁명 "AI 직원이 늘자 회사 실적표가 달라졌다"…마이크로소프트가 바꾸는 기업 보고 방식 | AI라이프경제](https://www.aifnlife.co.kr/news/articleView.html?idxno=27786)
+  * 마이크로소프트가 기존 3개 사업 부문(생산성·비즈니스 프로세스, 지능형 클라우드, 개인 컴퓨팅)을 '에이전트·인프라'와 '디바이스·소비자' 2개 축으로 재편(WSJ 보도)—M365·GitHub·Azure를 AI 에이전트가 연결하는 하나의 생태계로 묶고, 실적 보고도 제품 판매량보다 AI가 만든 성과·운영 효율 중심으로 전환
 * [AI is polytheistic, not monotheistic - balajis.com](https://balajis.com/p/ai-is-polytheistic-not-monotheistic)
   * [인공지능에 대한 10가지 생각 (발라지) : 네이버 블로그](https://blog.naver.com/bizucafe/223957612876)
 * [AI in Startup GTM Report 2025 Pt. 1: Benchmark Report](https://www.hubspot.com/startups/ai/ai-in-gtm-report-pt1)
@@ -4372,6 +4395,8 @@ Artificial Intelligence
 * [The AI-Native SDLC playbook | Claude](https://claude.com/blog/the-ai-native-sdlc-playbook)
   * [한영자막 Claude Code 팀이 새로 공개한 INTENT.MD의 정체와 AI-Native 개발 방식 - YouTube](https://www.youtube.com/watch?v=rGaSkBWjoHA)
     * Tech Bridge. 플레이북 워크플로우 해설—에이전트 인터뷰로 요구사항 수집해 intent.md 생성(Discovery), 설계 명세 자동 생성·거버넌스(Spec), plan.md 수립 후 서브에이전트·git worktree 병렬 개발(Build), TDD·브라우저 E2E·지속적 Evals(Test), 비동기 PR 리뷰와 장애 시 자율 진단·intent 생성(유지보수)
+  * [클로드, SDD를 네이티브로? INTENT.md - YouTube](https://www.youtube.com/watch?v=lh2Klr0hcFo)
+    * 단테. Claude Code가 스펙 주도 개발(SDD)을 INTENT.md로 네이티브 지원하게 된 변화 해설
   * Anthropic Applied AI 팀의 AI 네이티브 SDLC 가이드. 코드는 더 이상 병목이 아닌데 승인 게이트·리뷰·핸드오프는 인간 속도 그대로라 병목이 build 좌우(계획·리뷰/테스트·배포)로 이동—라인별 수동 리뷰·주간 위원회 거버넌스가 현실과 불일치. 선형 흐름 대신 AI가 각 지점에 내장된 루프로 재설계, 6단계(Plan→Design→Build→Test→Deploy→Maintain)별 플레이 제공
   * 관통하는 원칙은 "커밋된 아티팩트": 각 단계가 intent.md·spec.md·plan.md·diff+테스트·리뷰 findings·인시던트 기록을 버전 관리에 커밋하고 다음 단계가 그걸 읽음—커밋 체인이 곧 감사 추적. 에이전트 다층 리뷰+훅을 승인 게이트로, 인간 리뷰는 규제·핵심 코드에 집중
 * [Prompt to Prod: Engineering an Autonomous SDLC at Scale | InfoQ](https://www.infoq.com/presentations/autonomous-ai-software-development-roblox)
@@ -4817,6 +4842,9 @@ Artificial Intelligence
 * [Guse](https://www.guse.io/)
   * [Guse라는 서비스... research → write → edit → share 라는 컨셉... 채팅창에서 뭔가 요구를 하면 Perplexity 와 같은 기능으로 리서치를 하고 그 결과가 구글닥스처럼... 수정하거나 채팅으로 내용을 추가... 마지막으로 결과를 여러 포맷(PPT 포함)으로 다운 받거나 공유](https://www.linkedin.com/posts/duckjungkim_%EC%BB%A8%EC%84%A4%ED%8C%85%EC%9D%84-%ED%95%98%EA%B1%B0%EB%82%98-%EB%B3%B4%EA%B3%A0%EC%84%9C%EB%A5%BC-%EC%9E%90%EC%A3%BC-%EC%93%B0%EC%8B%9C%EB%8A%94-%EB%B6%84%EB%93%A4%EC%9D%80-%EA%BC%AD-%EC%B0%B8%EA%B3%A0%ED%95%B4%EB%B3%B4%EC%84%B8%EC%9A%94-guse%EB%9D%BC%EB%8A%94-activity-7290720119142395904-oNQO/)
 * [H Company](https://www.hcompany.ai/)
+* [hypit: Clone any viral video with AI agents](https://github.com/hypit-ai/hypit)
+  * [Hypit 공식 사이트](https://hypit.ai/)
+  * 바이럴 영상을 AI 에이전트로 복제—스크립트만이 아니라 얼굴·대사·B-roll까지 전체 워크플로우를 바꿔치기해 한 명령으로 100개 변형 영상을 생산. TypeScript, 12.4k stars
 * IconScout [Download 10.1 Million+ Icons, Illustrations, 3D Illustrations, and Lottie Animations | IconScout](https://iconscout.com/)
 * [Keploy | Open Source AI-Powered API, Integration, Unit Testing Agent for Developers](https://keploy.io/)
   * [keploy: API, Integration, E2E Testing Agent for Developers that actually work. Generate tests, mocks/stubs for your APIs!](https://github.com/keploy/keploy)
@@ -4838,6 +4866,9 @@ Artificial Intelligence
 * [Learn Your Way](https://learnyourway.withgoogle.com/)
   * [Learn Your Way | 김덕중](https://www.linkedin.com/posts/duckjungkim_learn-your-way-activity-7374082724954882049-5gim)
 * [lets-talk](https://github.com/mafzaal/lets-talk)
+* [LibreChat](https://www.librechat.ai/)
+  * [LibreChat: Enhanced ChatGPT Clone — Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts](https://github.com/danny-avila/LibreChat)
+  * 셀프호스팅 ChatGPT 대안 챗 UI. 에이전트·MCP·Skills·Artifacts 지원, 멀티 프로바이더(Anthropic/OpenAI/Azure/Groq/Mistral/OpenRouter/Vertex AI/Gemini) 한 인터페이스에서 사용. TypeScript, MIT, 44.5k stars
   * [Introducing 'Let's Talk': An AI-Driven Chat Component for Technical Blogs | TheDataGuy](https://thedataguy.pro/blog/lets-talk-ai-chat-component/)
 * [llm-answer-engine: Perplexity Inspired Answer Engine](https://github.com/developersdigest/llm-answer-engine)
 * [llm-api-engine: Build and deploy AI-powered APIs in seconds](https://github.com/developersdigest/llm-api-engine)
