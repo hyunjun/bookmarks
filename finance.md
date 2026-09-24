@@ -362,6 +362,9 @@ Finance
 * [hometax-doum: 홈택스 세무 작업을 AI에게 말로 시키는 무료 스킬 6종 — 부가세·종합소득세·전자세금계산서 (Claude/Codex/Aside)](https://github.com/lbiz-partners/hometax-doum)
 * [InvestorClaw · GitLab](https://gitlab.com/argonautsystems/InvestorClaw)
   * [InvestorClaw — 16-command portfolio analysis skill without Mac Mini | OpenClaw Community](https://www.facebook.com/share/p/1LNkzzPK57/)
+* [Jev (TypeSafe System One) — Finance & Trading Projects | drillan gist](https://gist.github.com/drillan/6916b16e8ea31a8ec36c8f59d6483150)
+  * [jev-trade: Live Jev trader on Hyperliquid](https://github.com/aowang-ai/jev-trade)
+  * TypeSafe AI의 System One 판단 모델 Jev(2026-09-15 공개)를 투자·트레이딩·금융 데이터에 쓰는 프로젝트 조사(2026-09-20, GitHub API+awesome 리스트). 레퍼런스는 jarrodwatts/jev-trader—Monad 블록(~300ms)마다 Kuru MON-USDC 오더북을 읽고 Jev가 매수/매도를 답하면 post-only 지정가로 스프레드를 먹는 마켓메이커(Bun/TS, dry-run·SSE 대시보드). jev-trade는 이를 Hyperliquid로 포팅—BTC/ETH/SOL/DOGE/BNB 5개 격리 슬리브·5개 지갑·실제 체결. TypeScript
 * [korean-jangbu-for: 한국 스타트업, 1인 법인, 프리랜서, 개인 사업자를 위한 장부 자동 생성 Claude Code 스킬. 카드명세서 PDF·은행 CSV → 재무제표·세무사 전달 CSV 자동 생성. Level 2 민감정보 마스킹 적용](https://github.com/kimlawtech/korean-jangbu-for)
   * [5월 종소세, 이걸로 준비 끝납니다. 👩🏻‍💻스킬 "5월 종소세 준비 끝났다." 🇰🇷한국 사업자 장부 자동화 Claude Code 스킬을 공개합니다. /korean-jangbu-for ❤ 카드명세서 PDF 한 장이면 끝. 7대 카드사·5대 은행·홈택스 자동 수집 → 재무제표 → 세무사 전달… | 조사랑](https://www.linkedin.com/posts/chosarang_5%EC%9B%94-%EC%A2%85%EC%86%8C%EC%84%B8-%EC%9D%B4%EA%B1%B8%EB%A1%9C-%EC%A4%80%EB%B9%84-%EB%81%9D%EB%82%A9%EB%8B%88%EB%8B%A4-%EC%8A%A4%ED%82%AC-5%EC%9B%94-%EC%A2%85%EC%86%8C%EC%84%B8-ugcPost-7452727374376345600-UZmB)
 * [LLMs-in-Finance/Agents/Anthropic at main · hananedupouy/LLMs-in-Finance](https://github.com/hananedupouy/LLMs-in-Finance/tree/main/Agents/Anthropic)
