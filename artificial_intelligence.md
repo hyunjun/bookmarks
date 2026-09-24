@@ -1233,6 +1233,9 @@ Artificial Intelligence
     * [LLM과 자연어로 대화하게 두지 마세요 | 요즘IT](https://yozm.wishket.com/magazine/detail/3520/)
   * [자바 vs. 파이썬: 더 나은 에이전트 개발 언어는? | 요즘IT](https://yozm.wishket.com/magazine/detail/3708/)
     * LangGraph(파이썬)와 Embabel(Java JVM) 프레임워크 비교
+* [ENZO — AI Hub](https://enzo-hub.duckdns.org/)
+  * [ENZO: Self-hosted AI workspace with agents, skills, and tools (Gmail, Calendar) that runs entirely on your own provider API keys (BYOK)](https://github.com/theguysudo/ENZO)
+  * 셀프호스팅 BYOK(Bring Your Own Keys) AI 워크스페이스—Groq·OpenRouter·NVIDIA NIM·Hugging Face·Google AI·Cloudflare Workers AI 등 프로바이더 키를 내 기기에 저장하고 요청은 브라우저→ENZO→프로바이더로 내 인프라에서 직접 나가 래퍼 마진·락인 없음. 300+ 모델 통합 카탈로그, 태스크 한 번 설명하면 에이전트의 운영 매뉴얼을 스스로 작성, Gmail·Calendar 등 도구, 리서치·코드 생성·실행. Docker(ghcr.io) 배포. TypeScript, Apache-2.0
 * Eve [Introducing eve: an open-source framework for building and deploying agents at scale | Vercel](https://vercel.com/blog/introducing-eve)
   * [Introducing eve | 박상길](https://www.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_introducing-eve-share-7476034323486269440-zgxy)
   * Vercel의 오픈소스 에이전트 프레임워크. 파일시스템 우선 설계(도구·스킬·지시·채널을 디렉토리로 구성), durable execution·샌드박스·휴먼 승인·옵저버빌리티 내장, Slack/Discord/Teams/GitHub 멀티채널 배포. `eve dev` 로컬 테스트·evals. "Next.js가 웹에 한 것을 에이전트에"
@@ -2086,6 +2089,10 @@ Artificial Intelligence
     * [AI 에이전트 비용을 줄이는 Model Routing과 Loop·Graph Engineering의 이해 | digitalbourgeois](https://digitalbourgeois.tistory.com/3651)
     * 에이전트 비용=토큰 수×평균 단가—저렴한 모델로 교체하면 단가만 내려가고 재시도·방황으로 토큰 수가 늘어 역효과. Glean이 Claude Cowork 대비 태스크당 $0.45 vs $1.84(4배 절감)를 낸 3요인: 모델 패밀리 라우팅(Luna가 대량 처리, Sonnet의 1/10 비용), 티어 라우팅(Opus를 오히려 10배 더 자주 쓰되 수술적으로), 더 나은 하네스·인덱싱(쿼리당 토큰 3배 절약)
     * 결론은 "고르지 말고 라우팅하라"—루틴 작업을 다른 모델이 받쳐줄 때 어려운 스텝에 강한 모델을 써도 비용이 적게 듦. 하나의 Loop로 처리하기 어려워지는 시점에 Graph 구조로 확장하라는 판단 기준 제시
+  * [LoopX — Keep the loop moving](https://loopx-project.github.io/loopx/)
+    * [loopx: Open-source, local-first control plane for long-running personal agents and agent teams](https://github.com/loopx-project/loopx)
+    * 어떤 에이전트 하네스(Codex·Claude Code·OpenCode·TraeX·Pi) 위에서든 동작하는 오픈·프로바이더 중립·상태 유지형 컨트롤 플레인—런타임이 모델·도구를 제공하면 LoopX가 장기 목표(durable goals)·제한된 지속(bounded continuation)·피어 소유권·복구 가능한 핸드오프를 관리해 다음 할 일, 승인된 것, 사람에게 물을 시점을 추적. "에이전트가 야근하고, 판단은 당신이". 목표·주의·대화·태스크·파일·스케줄·복구가 며칠에 걸쳐 유지되는 로컬 퍼스트 Personal Agent Workspace
+    * LHTB(46 태스크, GPT-5.6 Sol) 벤치마크에서 LoopX 1.0.3 Heartbeat 평균 보상 0.4948—Plain Codex 대비 +17.3%, 네이티브 Codex Goal 대비 +10.6%. Python, Apache-2.0, 6k stars
   * [루프 엔지니어링 - WikiDocs](https://wikidocs.net/book/20486)
     * "매번 프롬프트를 입력하는 사람을, 스스로 일을 찾고 수행하고 검증하며 반복하는 작은 시스템으로 대체하는 일"이라는 한 문장 정의로 시작하는 루프 엔지니어링 책
   * [The Art of Loop Engineering | LangChain](https://www.langchain.com/blog/the-art-of-loop-engineering)
@@ -2126,6 +2133,10 @@ Artificial Intelligence
 * [Trampoline.ai — Production-hardened agentic workflow management](https://www.trampoline.ai/)
   * [predict-rlm: Production focused Self-harnessed LM runtime (RLM) that allows the LM to call its sub-lm with DSPy signatures](https://github.com/Trampoline-AI/predict-rlm)
   * 자기-하네스(self-harnessed) LM 런타임. 입력·출력·도구만 정의하면 모델이 스스로 제어 흐름 처리, Stanford DSPy 기반. context rot 없이 완전 해석 가능한 trajectory + 모델 개선에 직접 비례하는 성능. 모델 무관. MIT
+* [Unreal Agent — Unreal Labs](https://unreallabs.ai/blog/unreal-agent/)
+  * [Unreal Agent - 비동기 도구 실행으로 비용을 줄이는 에이전트 하네스 | GeekNews](https://news.hada.io/topic?id=34163)
+  * 에이전트가 도구 호출의 대기·폴링·하트비트를 관리하느라 시간과 토큰을 많이 쓴다는 관찰에서 출발—도구 호출을 완전 비동기로 처리하는 하네스. 도구 호출 즉시 "in-progress" 이벤트를 로그에 기록하고 백그라운드로 실행, 완료 시 결과를 세션 로그에 붙여 LLM 호출. 사용자는 도구 완료를 기다리지 않고 언제든 스티어링 가능, 모델 호출 사이에 더 많은 도구 작업을 스케줄해 더 적은 턴·입력 토큰으로 같은 결과(GPT-6 Astra xhigh에서 최대 40% 비용 절감, 품질-비용 파레토 프런티어)
+  * Claude Agent SDK 등 CLI 지향 SDK의 로컬 세션·서브프로세스 가정이 프로덕션에 안 맞고, 프로바이더 전환·SDK 업그레이드마다 도구·압축이 깨지는 호환 비용, 훅 기반 승인보다 샌드박스·허용 호스트·프록시 승인 게이트 같은 하네스 외부의 결정론적 제약이 더 견고하다는 교훈. "하네스 설계는 그 자체로 연구 분야"
 * [vulnerability-harness: Specialized LLM agents that confirm real vulnerabilities by executing a PoC in a Docker sandbox — per-file hunters, reviewer-verified, no flagship model required](https://github.com/ksgsslee/vulnerability-harness)
   * Mythos·프리뷰 모델 없이 Bedrock(또는 OpenAI 호환 엔드포인트)의 일반 모델(Sonnet·Opus 등)만으로 도메인·언어 무관하게 취약점을 찾는 방어용 하네스. 파일별 독립 헌터 세션이 각기 다른 취약점 렌즈(injection·SSRF·역직렬화·접근제어·경로탐색)로 검사하고, 단순 코드 분석을 넘어 PoC를 작성해 Docker 샌드박스에서 직접 실행—재현된 취약점만 리포트하며 Reviewer가 PoC 재실행으로 검증. Python, Apache-2.0
   * 잘 알려진 오픈소스 대상 전체 파일의 1~3%(30개 내외)만 돌려 공개 CVE 확보: Django(CVSS 8.8, SSRF/file write→RCE, 2026년 최고)·LangChain(8.2, 역직렬화, 2026년 최고)·Apache Shiro(8.2, 인증 우회)·authentik(9.4)·Keycloak(4.9), k8s(Go)·nginx(C/C++)는 CVE 발급 절차 진행 중. 접근 방식은 Security Agent 코드 스캐닝·Continuum과 유사—커스터마이징이 필요하면 이 하네스, 매니지드를 원하면 해당 서비스로 연결하는 식으로 활용
@@ -3102,6 +3113,12 @@ Artificial Intelligence
   * [Welcome to SkyPilot! — SkyPilot documentation](https://docs.skypilot.co/)
 * [stagehand: An AI web browsing framework focused on simplicity and extensibility](https://github.com/browserbase/stagehand)
   * [Stagehand - AI 기반 오픈 소스 브라우저 자동화 프레임워크 | GeekNews](https://news.hada.io/topic?id=18660)
+  * [Stagehand 공식 사이트](https://www.stagehand.dev/)
+  * [Stagehand v4, AI 에이전트를 위한 브라우저 자동화 SDK의 특징과 활용 방법 | digitalbourgeois](https://digitalbourgeois.tistory.com/3684)
+    * Playwright 유사 API+자연어 명령. v4는 브라우저↔외부 실행 환경 왕복 통신을 줄이고 페이지에서 모델에 필요한 정보만 선별 전달하도록 구조 개선—Playwright 대비 2배 속도. Claude Code·Codex·Eve·Mastra 등 에이전트 하네스에서 바로 사용. Browserbase, TypeScript, MIT, 25.3k stars
+  * [소비자용 AI 에이전트 전용 브라우저는 사라진다 | 황병선 futurewalker](https://drfuturewalker.com/sobijayong-ai-eijeonteu-jeonyong-beuraujeoneun-sarajinda/)
+    * Jev+Stagehand v4 분리형 파이프라인 분석—지각(Stagehand Hybrid Pruner가 Chrome 접근성 트리를 정규화 식별자로 색인)·판단(Jev가 255개 이하 유한 선택지에서 밀리초 단위 결정, 텍스트 생성 배제)·실행(브라우저 상주 익스텐션 런타임에서 CDP 직접 디스패치)·자가치유 캐시(성공 경로를 서버 캐싱해 추론 비용 0 재실행). DOM 전체 주입이나 VLM 스크린샷 반복 방식 대비 태스크당 $0.001·수 ms
+    * 이렇게 누구나 컴퓨터·브라우저 제어를 쉽게 할 수 있게 되면 에이전트 전용 브라우저 제품은 살아남기 어렵고, 소비자는 Meta Muse처럼 브라우저 UI 자체가 사라지는 접근을 쓸 것이라는 전망—AI가 무엇을 하는지 봐야 하는 곳은 라이브러리로 자체 통합
 * [Stanford Webinar - Agentic AI: A Progression of Language Model Usage - YouTube](https://www.youtube.com/watch?v=kJLiOGle3Lw)
 * [steel-browser: 🔥 Open Source Browser API for AI Agents & Apps. Steel Browser is a batteries-included browser instance that lets you automate the web without worrying about infrastructure](https://github.com/steel-dev/steel-browser)
   * [Steel - AI 에이전트 & 앱을 위한 오픈소스 브라우저 API | GeekNews](https://news.hada.io/topic?id=18240)
@@ -4415,6 +4432,14 @@ Artificial Intelligence
   * [아직도 코드를 읽나요? | GeekNews](https://news.hada.io/topic?id=33735)
   * "아직도(still)"라는 단어에 담긴 "코드 읽기는 사라질 관행"이라는 전제를 해부하는 에세이. AI 사용자를 둘로 구분—Accelerator는 이해를 코드로 번역하는 가속 도구로 AI를 쓰며 생성 코드를 읽는 책임을 유지(읽기가 생성을 못 따라가면 cognitive debt 누적), Vibecoder는 구현을 AI에 위임하고 명세·컨텍스트·평가에 집중(요구사항 유실·컨텍스트 드리프트로 intent debt 누적). 구분 기준은 모델이 얼마나 썼는지가 아니라 산출물과 개발자의 관계
   * Naur의 "Programming as Theory Building"(1985) 재조명—코드는 프로그래밍의 진짜 산물이 아니라 부산물이고 자산은 그 뒤의 이론(설명·예측·수정 능력). 어느 쪽이 이길지는 유지보수 비용이 드러나는 데 오래 걸려 아직 판정 나지 않았다는 결론
+* [AI Has No Wisdom and Neither Will You | alexn.org](https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/)
+  * [AI에게는 지혜가 없고 당신에게도 없게 될 것이다 | GeekNews](https://news.hada.io/topic?id=34122)
+  * "2025년 이후 코드를 안 썼다", "코드 리뷰는 죽었다", "사람들은 더 이상 코드를 읽지 않는다"는 말에 대한 반론—바이브 코딩 프로젝트는 시간이 지나며 유지보수 불가능한 상태로 퇴화하는데, 유지보수성·좋은 아키텍처는 즉시 측정할 지표가 없고 나쁜 효과가 드러나는 데 수개월~수년이 걸리기 때문. 숙련 엔지니어의 코드 스멜 감각은 프로덕션 장애를 밤새 고치며 쌓인 직관인데 AI는 즉시 보상 신호가 필요한 RL로는 이를 학습할 수 없고, 코드 읽기·쓰기를 멈춘 사람도 그 지혜를 쌓을 수 없다는 경고. GeekNews 댓글은 "오만한 판단"이라는 반박과 조직 지식 쇠퇴 우려로 갈림
+* [코드를 짜는 속도는 이제 병목이 아닙니다. 그러면 병목은 어디로 갔을까요 | HoYeon Lee](https://www.linkedin.com/posts/hoyeonleekr_%EC%BD%94%EB%93%9C%EB%A5%BC-%EC%A7%9C%EB%8A%94-%EC%86%8D%EB%8F%84%EB%8A%94-%EC%9D%B4%EC%A0%9C-%EB%B3%91%EB%AA%A9%EC%9D%B4-%EC%95%84%EB%8B%99%EB%8B%88%EB%8B%A4-%EA%B7%B8%EB%9F%AC%EB%A9%B4-%EB%B3%91%EB%AA%A9%EC%9D%80-%EC%96%B4%EB%94%94%EB%A1%9C-%EA%B0%94%EC%9D%84%EA%B9%8C%EC%9A%94-share-7508058677422161921-f0jz)
+  * 에이전트가 하루 수백 개 PR을 만드는 시점의 세 가지 생각—①개발자가 이슈를 읽고 맥락을 요약해 에이전트에 먹이고 결과를 사람 말로 바꿔 넘기는 "meat proxy"가 되면 설계 판단은 뒷전, 논의는 "누가 구현하나"에서 "소프트웨어 팩토리를 어떻게 설계하나"로 이동해야 하고 이슈 트래커는 사람·에이전트가 같은 맥락을 보는 실행 가능한 스펙이 되어야 함 ②PR 설명·PRD·ADR·스킬·메모가 불어나 에이전트 판단이 흐려지므로 에이전트 메모리는 쌓는 게 아니라 주기적으로 정리·최적화하는 "컨텍스트 가드닝"이 팀의 메인 태스크 ③검증은 예산—Linear CI 재구축 사례(주 2,000개 테스트 추가로 CI 자체가 병목)처럼 변경마다 리스크를 책정해 자동 승인 가능한 것과 사람이 봐야 할 것을 시스템 레벨에서 나누기
+* [팀의 업무 병목을 줄이기 위한 AX 전환 | devy](https://dev.devy.dev/posts/odin-ax-transformation/)
+  * Codex를 이미 쓰고 있어도 Slack 요청을 읽어 Codex에 옮기고 결과를 다시 요청자에게 전달하는 중계는 개발자 몫이라 병목이 해소되지 않았다는 실무 기록(9월 2일 하루 타임라인으로 반복 확인). 이를 줄이기 위해 팀원이 Slack에서 데이터·로그·이벤트 확인을 요청하면 맥락을 읽고 도구로 조사해 같은 대화에서 답하고, 정보 부족 시 직접 질문하고, 코드 수정이 필요하면 분석 맥락을 이어받아 개발·검증까지 하는 분석·개발 에이전트 "오딘" 구축
+  * 트러블슈터→목적별 에이전트 분리를 거쳐 결국 자기가 Codex와 일하던 방식(하나의 세션에서 분석·수정·검증)대로 흐름을 통합—새 하네스(Hermes 등)를 익히는 부담 대신 OpenAI Codex App Server로 기존 Codex 하네스를 Slack에 연결
 * [Younghyun Chung - 코드를 인간이 쓰지 않는 세상 | Facebook](https://www.facebook.com/risknfun/posts/pfbid02KqgVKz4DLQLWXsCUrx5E1VwmszfdJigmnXLKJzy2dEYrZWhUZFvSUA56WKZonW18l)
   * Toby의 "소프트웨어 엔지니어링은 정말 엔지니어링인가"(2026.6.3)에서 출발한 팀 고민 정리. 우리가 아는 소프트웨어 공학이 세운 세 전제(개발자는 비싸고·느리고, 사람이 코드를 쓴다)가 AI 코딩 시대에 흔들린다는 논의
 * [How AI-assisted coding will change software engineering: hard truths](https://newsletter.pragmaticengineer.com/p/how-ai-will-change-software-engineering)
@@ -5312,6 +5337,8 @@ Artificial Intelligence
     * [AI Studio에서 Antigravity로 Export, 정말 한 번의 클릭이면 충분할까? | digitalbourgeois](https://digitalbourgeois.tistory.com/3368)
     * Google이 I/O 2026에서 공개한 'Export to Antigravity'(AI Studio 멀티 에이전트 프로토타입을 로컬 워크스페이스로 이전) 기능을 Research Digest 프로젝트로 직접 검증. 무엇이 정상 이전됐고 어떤 부분(히스토리 누락·워크스페이스 핸드오프 버그)이 기대와 달랐는지, export 이후 실제 개발에서 발견한 문제와 해결 과정 정리
   * [antigravity-awesome-skills: The Ultimate Collection of 500+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents including official skills from Anthropic and Vercel](https://github.com/sickn33/antigravity-awesome-skills)
+  * [Antigravity 에이전트로 모바일 앱을 실제로 완성하기 위한 로컬 환경 준비 | 골든시그널](https://blog.naver.com/goldensignal_/224420840785)
+    * 초보 개발자 시리즈 별책 ④. 코드를 쓰기 전 내 PC를 준비시키는 단계—Android SDK·에뮬레이터 설치(Android Studio vs Command-line Tools만 쓰는 경량 방식 비교)부터 Antigravity가 그 로컬 환경을 실제로 쓸 수 있게 연결하기까지. Windows PC 기준, 읽기 25분+설치·설정 40분
 * [Aperant — Software that builds itself](https://aperant.com/)
   * 자율형 AI 코딩 플랫폼. 멀티 에이전트 파이프라인으로 아키텍처 설계→테스트→배포→유지보수 전체 라이프사이클 자동화. 코딩 관례와 아키텍처 결정사항 자동 학습
   * [Auto-Claude: Autonomous multi-session AI coding](https://github.com/AndyMik90/Auto-Claude)
@@ -5450,6 +5477,10 @@ Artificial Intelligence
   * [Hooks reference - Claude Code](https://code.claude.com/docs/en/hooks)
     * [Claude Code HTTP Hook 기능 추가: 자동화 워크플로우 확장 방법 정리](https://digitalbourgeois.tistory.com/2836)
     * 특정 라이프사이클 시점에 셸 명령/HTTP 엔드포인트/LLM 프롬프트를 자동 실행. 외부 시스템 연결로 중앙 집중식 정책 관리와 워크플로우 자동화
+  * [Mods — claude-code/mods | Anthropic](https://github.com/anthropics/claude-code/tree/main/mods)
+    * [Claude Code Mods 완벽 가이드: Function Hooks로 세션 화면까지 바꾸는 커스텀 모드 만들기 | fornewchallenge](https://fornewchallenge.tistory.com/entry/%F0%9F%9B%A0%EF%B8%8F-Claude-Code-Mods-%EC%99%84%EB%B2%BD-%EA%B0%80%EC%9D%B4%EB%93%9C-Function-Hooks%EB%A1%9C-%EC%84%B8%EC%85%98-%ED%99%94%EB%A9%B4%EA%B9%8C%EC%A7%80-%EB%B0%94%EA%BE%B8%EB%8A%94-%EC%BB%A4%EC%8A%A4%ED%85%80-%EB%AA%A8%EB%93%9C-%EB%A7%8C%EB%93%A4%EA%B8%B0-1)
+    * Mod는 동작이 hooks 모듈에 있는 Claude Code 플러그인—`register(on, options)` 진입점 하나로 엔진 이벤트를 `($, e, next)` 함수로 훅. Claude Code에 내장된 4종의 소스 공개: sec-default(조직의 classic hooks·관리 설정·도구 정책을 사용자 설치 플러그인에서 보호), diff(`/diff` 세션 미커밋 변경을 옆 pane에 파일·헝크별 실시간 표시), telemetry, agents-md(CLAUDE.md 없을 때/옆에 AGENTS.md를 프로젝트 지침으로). `claude --plugin-dir mods/diff`로 소스 실행, `claude plugin test`로 테스트
+    * 2026-09-14 Boris Cherny의 "Claude Mods are landing now" 트윗으로 공개—실행 파이프라인 자체를 TypeScript 함수로 감싸는 확장 계층. 공개 몇 시간 만에 Claude Code 화면 안에서 돌아가는 테트리스가 등장, "설정을 넘어선 프로그래밍 가능한 Claude Code"
   * [Sub agents - Anthropic](https://docs.anthropic.com/en/docs/claude-code/sub-agents)
     * [확장할 시간입니다... AI 코딩의 90%는 이제 불필요합니다 - YouTube](https://www.youtube.com/watch?v=Ppu6pJ5yyD4)
       * [Time to SCALE... 90% of AI Coding is Unnecessary Now | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5187465/4636563)
