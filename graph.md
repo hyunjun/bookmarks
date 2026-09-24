@@ -333,6 +333,10 @@ Graph
 * [degdb - Distributed Economic Graph Database](https://github.com/degdb/degdb)
 * [e4Graph](http://e4graph.sourceforge.net/) C++ library
 * [FlashGraph - A SSD-based graph processing engine for billion-node graphs](https://github.com/icoming/FlashGraph)
+* [Fluree DB](https://fluree.github.io/db/)
+  * [db: Fluree database library](https://github.com/fluree/db)
+  * [Fluree DB - 이력과 검증, 브랜치 병합을 갖춘 그래프 데이터베이스 | GeekNews](https://news.hada.io/topic?id=34150)
+  * 데이터의 현재 상태뿐 아니라 변경 이력과 출처를 함께 관리하는 Rust 기반 그래프 DB. Git처럼 DB를 브랜치로 나눠 독립적으로 변경한 뒤 다시 병합, 시간에 따른 변경 내역을 질의하고 검증 가능한 이력을 유지하는 temporal ledger 구조. CLI(fluree-db-cli) 제공
 * [Gephi](https://gephi.github.io/)
   * [GRAPHING THE HISTORY OF PHILOSOPHY](http://www.coppelia.io/2012/06/graphing-the-history-of-philosophy/)
   * [GEPHI](https://gitlab.com/cosmochain/handbook/blob/master/TwIL/20181001-20181012/20181010_JG_Gephi.md)
