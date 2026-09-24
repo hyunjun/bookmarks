@@ -3266,6 +3266,10 @@ NLP
     * "BERT 시절부터 하던 문제"라는 말이 기술적으로 틀리진 않지만 기술과 제품화는 다른 문제—혁신 제품 대부분은 새 알고리즘 발명이 아니라 이미 있던 논문·검증된 기술·알려진 아이디어를 현재 문제에 맞게 재조합해 쓸 수 있는 인터페이스로 만들고 비용 구조를 바꾸는 데서 나옴. 지난 몇 년 거의 모든 문제를 생성형 LLM으로 풀던 업계에 "생성하지 말고 결정하라"를 제품으로 제시한 것이 Jev의 의미
   * [왜 요즘 JEV 같은 의사결정 엔진이 주목받을까요? | Jung Min Kang](https://www.linkedin.com/posts/kangjungmin_ai-agenticai-llmops-share-7507427626169479168-4R0y/)
     * LLM 추론의 Prefill/Decode 중 시간과 토큰 비용을 잡아먹는 주범은 한 글자씩 순차 생성하는 Decode—Jev는 백지에 서술형 답을 쓰는 대신 정해진 선택지에 컴퓨터용 사인펜으로 마킹만 하는 방식. 병원 진료 시나리오로 본 3가지 판단 도구: Choice(부서 배정 내과 30%/피부과 70%)·Bool(응급 여부 참 95%)·Score(복잡도 0.15). 글짓기 루프 없이 단일 순방향 패스로 끝나 지연 20배↓, 할루시네이션·JSON 깨짐 원천 차단
+  * [Jev, 이해에서 판단으로 — Jev 가이드](https://jev-guide-gamma.vercel.app/)
+    * 개발자와 기획자가 함께 읽는 Jev(TypeSafe AI System One Model) 안내서—"언어의 이해를 소프트웨어의 판단으로": 자연어 state("환불은 필요 없고 지난달 결제 내역만 확인하고 싶어요")→의도·문맥·기준→choice 판단 결과(`billing_history` 97%)→코드의 다음 단계로 이어지는 흐름을 플레이그라운드와 개념 설명으로 정리
+  * [solar-mini4-jev: Upstage Solar Pro4/solar-mini4를 TypeSafe Jev System One API 형태로 노출하는 drop-in 래퍼](https://github.com/hunkim/solar-mini4-jev)
+    * `POST /v1/systemone`에 model·state·questions를 보내면 Jev와 같은 스키마의 noul/choice/score 질문 유형 지원. Vercel에 호스팅된 BYOK 엔드포인트(X-Upstage-Api-Key)로 배포 없이 시험 가능, llms.txt 제공
 * [JudgeBench: A Benchmark for Evaluating LLM-Based Judges](https://github.com/ScalerLab/JudgeBench)
 * [Jupiter | Sovereign — zero-dependency high-performance inference engine for LLMs](https://www.teamjupiter.ai/)
   * [Jupiter Sovereign 공유 | Jupiter Song](https://www.linkedin.com/posts/jupitersong_jupiter-sovereign-share-7486380864663076864-IBtp/)
@@ -4705,6 +4709,7 @@ NLP
   * [Home - ARES Documentation](https://ares-ai.vercel.app/)
 * [awesome-generative-ai-guide/research_updates/rag_research_table.md at main · aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide/blob/main/research_updates/rag_research_table.md)
 * [AutoRAG: RAG AutoML Tool - Find optimal RAG pipeline for your own data.](https://github.com/Marker-Inc-Korea/AutoRAG)
+  * 같은 저장소가 AutoRAG 2.0 "AutoRAG Agent"(Now your agent can find anything in your computer)로 전면 개편—Pi 에이전트 프레임워크 기반 self-evolving librarian agent(npm @autorag/librarian, Node 24+). 데이터를 벡터 DB로 옮기지 않고 제자리에서 연합 검색(BM25·벡터·RRF 하이브리드·Jikji find-first·datasource skills), MinSync CDC 청크 자동 관리, ~/.autorag/memory.json에 검색 방법별 성과를 기억해 자주 쓸수록 똑똑해짐, bash로 원문을 직접 열어 검증. 기존 Python RAG AutoML 도구는 legacy로 유지보수(pip install AutoRAG)
   * [🤖 E01. #AutoRAG 처음 사용자를 위한 튜토리얼 by Markr.AI 김동규 - YouTube](https://www.youtube.com/watch?v=rA5SoBXB8R4)
   * [🤖 E02. RAG 평가하다 $700 날렸다... by Markr.AI 김동규, 김병욱 - YouTube](https://www.youtube.com/watch?v=iMdwyGAgjd4)
     * [VidiGo E02. RAG 평가하다 $700 날렸다... by Markr.AI 김동규, 김병욱.mp](https://vidigo.ai/share/summary/a5e2bf80a283)
