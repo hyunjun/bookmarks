@@ -5285,6 +5285,11 @@ Javascript
 * [React Anti-Pattern: Stop Passing Setters Down the Components Tree | Matan Borenkraout](https://matanbobi.dev/posts/stop-passing-setter-functions-to-components)
 * [You don't need Next.js](https://www.comfydeploy.com/blog/you-dont-need-nextjs)
   * [당신에겐 Next.js가 필요하지 않습니다 - 우리가 Next에서 React로 이관한 이유 | GeekNews](https://news.hada.io/topic?id=18547)
+* [How we migrated lovable.dev away from Next.js and turned it into another Lovable app | Lovable](https://lovable.dev/blog/how-we-migrated-lovable-dev-away-from-nextjs)
+  * [Lovable은 6개월 동안 Next.js와 TanStack Start를 동시에 운영했습니다 | Yunsup Sim](https://www.linkedin.com/posts/pedogunu_lovable%EC%9D%80-6%EA%B0%9C%EC%9B%94-%EB%8F%99%EC%95%88-nextjs%EC%99%80-tanstack-start%EB%A5%BC-share-7507718556772528128-3IEh/)
+    * 두 프레임워크 병행 기간의 경계 설정에 초점—같은 프레임워크 내 이동은 중앙값 약 1.5초, 경계를 넘으면 약 5초. 사용자가 자주 오가는 경로를 5개 묶음으로 나눠 묶음 단위로 이전하고 사용자를 처음 배정된 프레임워크에 고정, 공유 코드에 두 프레임워크 import 금지 린트, 라우터 등은 공통 인터페이스 뒤 어댑터, 기능 플래그는 E2E에서 고정값으로 재현. 앱 전체를 /new/* 아래 병렬 검증 후 일괄 전환한 WorkOS의 App Router 이전과 대비—마이그레이션 계획에는 두 스택 공존 기간(경로 분류·사용자 고정·롤백)이 제품 요구사항으로 들어가야 함
+  * 월 4,200만+ 방문자, 400개 라우트, 91만 줄 코드의 lovable.dev를 Vercel의 Next.js에서 자사 호스팅 TanStack Start 앱으로 이전—dogfooding, 단일 앱 스케일링 한계 확장, 노하우를 빌더 에이전트에 환류가 목적. 6,000만+ 사용자 앱과 같은 V8 isolate 앱 로더 워커로 서빙, lovable.dev 전용 코드는 200줄 미만
+  * 빅뱅 이전의 후회에서 배워 점진 이전: 시작 시 35만 줄이 끝날 무렵 85만 줄로 늘어난 "도망가는 결승선". AI 보조 코드 이동, 트래픽 전환 시 배운 것(모듈 레벨에서 수 MB JSON 파싱 금지→메모리 2~12배 절감, 서버 번들에서 클라이언트 전용 코드 스텁 처리). TanStack Start 비교: Vite 기반 dev 서버 10초/1.5GB vs Next.js 70초/8GB, 서버 컴포넌트·서버 액션 등 Next.js 추상화보다 서버 함수·로더·중첩 라우트가 직관적, 작고 일관된 학습 코퍼스 덕에 에이전트가 첫 시도에 맞게 짜는 편, 대신 대형 앱은 번들러 설정을 많이 손봐야 함
 * [이제 React는 프론트엔드? 아니, 풀스택이다](https://velog.io/@composite/%EC%9D%B4%EC%A0%9C-React%EB%8A%94-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%95%84%EB%8B%88-%ED%92%80%EC%8A%A4%ED%83%9D%EC%9D%B4%EB%8B%A4)
 * [React Tech Stack 2025](https://www.robinwieruch.de/react-tech-stack/)
   * [2025년 리액트 기술 스택 가이드 | 요즘IT](https://yozm.wishket.com/magazine/detail/3029/)
