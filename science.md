@@ -283,6 +283,8 @@ Science
   * 수학·과학을 빼고 역사 흐름으로 보는 양자역학. 열역학+원자론→볼츠만 통계적 엔트로피→플랑크 양자가설(E=hv)→아인슈타인 광자→원자 모델로 이어지는 전개
 * [김성완 - Extropic의 열역학 컴퓨터 시제품 XTR-0 언박싱 | Facebook](https://www.facebook.com/seongwan.kim.3/videos/1338748978210809/)
   * Extropic이 디지털·양자가 아닌 제3의 컴퓨팅 패러다임으로 열역학 컴퓨터 시제품 XTR-0을 연구자/개발자에게 배송 시작. 기존 컴퓨터의 1/10,000 전력으로 동작, AI 시대 전력 병목 해결책. 올해 안에 100만+ 열역학 소자 본격 버전 출시 예정. 김성완 본인은 열역학 컴퓨팅 책 집필 중
+* [2506.15121 Generative thermodynamic computing](https://arxiv.org/abs/2506.15121)
+  * Stephen Whitelam. 랑주뱅 동역학을 따르는 물리 시스템의 자연스러운 시간 진화로 노이즈에서 구조화된 데이터를 합성하는 열역학 컴퓨팅용 생성 모델링 프레임워크—디퓨전 모델이 신경망으로 디노이징하는 대신, 구조 생성에 필요한 정보를 열역학 시스템의 동역학에 인코딩. 노이징 궤적의 역과정을 생성할 확률을 최대화해 학습하므로 최소 열 방출로 데이터 생성. 디지털 시뮬레이션으로 시연했고, 아날로그 하드웨어로 구현되면 인공 노이즈 주입·능동 디노이징 제어 없이 샘플을 만드는 생성 모델이 됨
 * [채수조 - 물리학은 암기 과목이 아니라 차원으로 세상을 이해하는 언어 | Facebook](https://www.facebook.com/soojoh.chae/posts/pfbid0QaLnCZiZDnVUce9YvGYqxMgBe2p6Y7eCZxGbDPZMM3YFXjriT56HncrJKfkDPVgJl)
   * 물리학 교수의 물리 교육론. 번개(~10C, 1억V, 0.01초에 10억J = 순간 100GW)와 스마트폰 배터리(3,100mAh·3.8V = 11.78Wh ≈ 42,408J) 비교로 "전기는 전하량만이 아니라 전압·에너지·방전 시간이 함께 결정"함을 체득시키는 차원 분석 중심 수업. 추상 개념에서 상대성이론으로 건너뛰는 교육이 물리 기피의 원인이라는 지적
 * [이해창 - 우주에서 본 지구가 점점 어두워지는 이유 | Facebook](https://www.facebook.com/ihaechang.463323/posts/pfbid025KZrJoLAv32jtt57TzA4vYa6BCQmtUXC8cYUXbwBgpzPV4eVynKruh1C6piaXcral)
