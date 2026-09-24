@@ -11,6 +11,8 @@ Network
 * [넷텐션, 중국의 치명적 '서버 혼잡붕괴'를 밝혀내다](http://m.khgames.co.kr/news/articleView.html?idxno=81843)
 * [HAVING NO FUN WITH RUBYGEMS, SYSTEMD, DOCKER AND NETWORKING](https://www.fedux.org/articles/2015/09/09/having-no-fun-with-rubygems-systemd-docker-and-networking.html)
 * [우리 집에서 구글까지 가는 길](https://evan-moon.github.io/2019/06/22/my-home-to-google/)
+* [쉽게 이해하는 네트워크 및 인프라 구성도 | 바이브 코딩 하는 분들을 꼭 끝까지 보세요 - YouTube](https://www.youtube.com/watch?v=wqzmZ97vAOY)
+  * 기술노트 with 알렉. 네트워크·인프라 구성도를 읽는 법을 쉽게 풀어주는 영상—바이브 코딩으로 서비스를 만드는 사람이 인프라 구조를 이해해야 하는 이유 강조
 * [Pushing the Limits of Kernel Networking](http://rhelblog.redhat.com/2015/09/29/pushing-the-limits-of-kernel-networking/)
 * [Non-Imperative Network Programming](https://github.com/mirage/mirage-decks/blob/master/slides/strangeloop15/content.md)
 * [비트윈의 멀티티어 아키텍처를 위한 프레젠터 이야기](http://engineering.vcnc.co.kr/2015/11/presenter-multitier-architecture/)
