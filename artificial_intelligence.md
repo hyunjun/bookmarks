@@ -918,6 +918,10 @@ Artificial Intelligence
   * [SkillSmith, 텍스트 지식과 파라미터 기술을 결합하는 LLM 에이전트 아키텍처 | digitalbourgeois](https://digitalbourgeois.tistory.com/3471)
   * 텍스트로 표현되는 지식과 모델 파라미터에 담긴 기술을 별개로 다루던 기존 방식과 달리 둘을 하나의 흐름으로 연결. 모델 가중치 자체를 LLM이 다룰 수 있는 입력 모달리티로 보고 기존 학습된 여러 기술을 새 작업에 맞게 합성—단순 가중치 병합과의 차이가 핵심
   * 자연어 스킬 문서를 동결된 모델의 학습 가능한 외부 상태로 취급—텍스트 공간에서 가중치 대신 절차를 학습. 4단계 루프: Rollout(점수화 트래젝토리)→Reflect(성공/실패 패턴 추출)→Edit(add/delete/replace, edit budget=textual learning rate)→Gate(holdout 검증 통과해야 채택). D_tr/D_sel/D_test 분리, 거부된 수정은 음성 피드백 재활용. 7 모델×6 벤치마크 모두 최고/공동최고. 단일 `best_skill.md` 산출물이 모델 크기·하네스(Codex↔Claude Code) 간 이전 가능. GPT-5.5 +23.5/Codex +24.8/Claude Code +19.1 보고
+* [2609.21032 Scaling Discovery through Test-Time Communication](https://arxiv.org/abs/2609.21032)
+  * [연산도 데이터도 아니다, AI 스케일링의 세 번째 축은 바로 '대화' | Suk Hyun K.](https://www.linkedin.com/posts/suk-hyun-k-31ba9b369_aislsstwswktxu-rgwtyyslsstwswktxu-aiswmtfesuerez-share-7507896345769390080-Wt8Y/)
+  * 박종호 외(Microsoft 등). 역할 없는 에이전트들이 공유 디렉터리로 소통하며 탐색하는 test-time communication이 독립 병렬 시도를 크게 앞선다는 연구—ARC-AGI-3에서 소통하는 k명 팀(team@k)이 독립 4k명과 같은 성공률, 이점은 k가 커질수록 복리로 증가. 5명 팀이 독립 33명과 동일 해결률(약 6.6배 효율), 단일 에이전트가 64회 시도에도 못 푼 난제를 65% 확률로 해결
+  * 원리: 여러 돌파구가 필요한 난제에서 독립 에이전트는 모든 돌파구를 혼자 찾아야 해 단계별 탐색 시간의 합의 최솟값 구조지만, 소통 팀은 누가 부분 돌파구를 찾으면 즉시 공유해 단계별 최단 발견 시간의 합 구조로 바뀜—돌파구 수가 늘수록 지수적 격차. 폴리오미노 패킹 신기록 0.945(종전 0.894), MNIST 모델 압축에서 인간 최고 2,461바이트·독립 AI 3KB 벽을 넘어 4명 팀이 1,957바이트 달성
 * [500-AI-Agents-Projects: The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more](https://github.com/ashishpatel26/500-AI-Agents-Projects) 다양한 산업 분야의 AI 에이전트 활용 사례를 선별하여 모은 컬렉션
 * [agentacct: See what your coding agents did and what it cost](https://github.com/mikehasa/agentacct)
   * [코딩 에이전트가 실제로 무엇을 했는지 확인하는 방법, agentacct | digitalbourgeois](https://digitalbourgeois.tistory.com/3572)
@@ -1420,6 +1424,9 @@ Artificial Intelligence
   * 다중 LLM 프로바이더·에이전트 간 영구·감사 가능한 메모리. PostgreSQL+pgvector / SQLite+sqlite-vec 다중 백엔드, GRAEAE 추론 버스(합의 점수+서킷 브레이커), 압축 콘테스트(APOLLO vs ARTEMIS), DAG 버전 관리(git-like 분기·머지·감사 로그), 페더레이션·웹훅·OAuth/OIDC. REST API + MCP + OpenAI 호환 게이트웨이
 * [MobiAgent: The Intelligent GUI Agent for Mobile Phones](https://github.com/IPADS-SAI/MobiAgent/)
 * [Mobile-use: 자연어로 스마트폰을 자동화하는 AI 에이전트](https://www.facebook.com/groups/9546662462016100/posts/27061598440095898/)
+* [Motifcode: A coding agent harness built specifically for Motif-3](https://github.com/TaewoooPark/Motifcode)
+  * [Motif-code를 공개합니다. 여러분의 도움이 필요합니다 | Taewoo Park](https://www.linkedin.com/posts/taewoo-park-427a05352_motif-code%EB%A5%BC-%EA%B3%B5%EA%B0%9C%ED%95%A9%EB%8B%88%EB%8B%A4-%EC%97%AC%EB%9F%AC%EB%B6%84%EC%9D%98-%EB%8F%84%EC%9B%80%EC%9D%B4-%ED%95%84%EC%9A%94%ED%95%A9%EB%8B%88%EB%8B%A4-%EC%A7%80%EB%82%9C-8%EC%9B%94-share-7507348585722585088-ctQx/)
+  * Motif Technologies가 2026년 8월 말 독자파운데이션모델(독파모) 사업 2차 평가에서 "사용성"을 이유로 탈락한 것을 계기로, 사용성은 가중치가 아니라 UI/UX·활용 방법론의 문제이니 한국 오픈소스 빌더들이 나설 때라며 공개한 Motif-3(314B-A13B, 256K 컨텍스트) 전용 코딩 에이전트 하네스—알려진 Motif-3 특성과 직접 라우팅하며 알게 된 특징들에 맞춰 최적화. Infron 무료 API 키로 사용, `npx motifcode`. 알파, TypeScript+Python, Apache-2.0
 * [multi-agent-marketplace: Magentic-Marketplace: Simulate Agentic Markets and See How They Evolve](https://github.com/microsoft/multi-agent-marketplace)
   * [류내원 - MS, AI 에이전트 테스트 시뮬레이션 환경 공개..."대부분 조작에 취약" (출처: 뉴스) 연구자들이... | Facebook](https://www.facebook.com/won.wizard/posts/pfbid0dQ3BJ19GMsPwgEJqNRVX5GykuQRwKfKeE4HLr3EoxzQFjUf3s1h1q6BDv4JV7e1vl)
 * [mycelium-memory: Persistent memory for LLM CLIs (Claude Code, Claude Desktop, Codex) that acts like a brain not a database](https://github.com/constant-itis/mycelium-memory)
@@ -1872,6 +1879,8 @@ Artificial Intelligence
 * [deepagents: Open-source agent framework built on LangChain and LangGraph](https://github.com/langchain-ai/deepagents)
   * [Deep Agents | LangChain Docs](https://docs.langchain.com/oss/python/deepagents)
   * Claude Code에서 영감받은 오픈소스 에이전트 하네스. 계획·파일시스템·셸·서브에이전트·컨텍스트 자동 요약 내장. 모든 tool-calling LLM 지원
+  * [Schedules for Managed Deep Agents: Cron jobs, prompts, and Slack delivery - YouTube](https://www.youtube.com/watch?v=-mWWsvv19jE)
+    * LangChain 프로덕트팀 Nathan Drezner. Managed Deep Agent에 스케줄을 추가해 누가 묻지 않아도 cron으로 실행하고 결과를 전달—매주 월요일 Salesforce 파이프라인 요약을 Slack에 게시하는 예시. 스케줄 문법, 월요일 cron job+프롬프트 구성, Slack 전달 설정, 같은 에이전트가 주중에는 애드혹 질문에도 계속 답하는 모습
 * [fenic: Declarative context engineering for agents](https://github.com/typedef-ai/fenic)
   * [What is fenic? - fenic, by typedef](https://docs.fenic.ai/)
 
@@ -2803,6 +2812,10 @@ Artificial Intelligence
     * MCP Host는 Application이고, Client는 Server를 호출하기 위한 SDK로 생각하면 편안
     * MCP Host가 Java application이고, Client는 JDBC Driver 정도로 생각하면 되고, Server는 Oracle/MS SQL과 같은 DB로
     * 개념도에서 MCP Host와 Client를 따로 분리해놔서 헷갈렸는데, MCP Host + Client = 하나의 애플리케이션 코드 이기때문에 Client를 그냥 SDK로 봐도 무방
+  * [Why MCP Was Always a Bad Idea | maharship](https://maharship.com/blog/why-mcp-was-always-a-bad-idea/)
+    * [MCP는 처음부터 잘못된 아이디어였다 | GeekNews](https://news.hada.io/topic?id=34059)
+    * 2024-11 Anthropic이 아직 원시적이던 모델을 위해 만든 프로토콜(2025 Linux Foundation 산하 Agentic AI Foundation에 기부)이 서버마다 여러 도구·스키마를 얹어 컨텍스트 비대를 낳고, 이를 감시·평가하는 "MCP 산업 복합체"까지 생겼지만 그사이 모델이 좋아졌다는 논지—이제 모델은 코드를 쓰고 실행하며 `--help`로 CLI를 스스로 발견하므로(Cloudflare Code Mode처럼 호출을 스크립트로 합성) 기존 API를 감싼 원격 MCP 서버 대부분이 불필요. "우리는 MCP 서버 대부분을 지웠다"
+    * 대안은 이미 존재하는 문서화된 HTTP API·콘텐츠 협상·성숙한 인증—에이전트 클라이언트가 자신을 식별하는 헤더를 붙이고 서버는 `Accept: text/markdown`(문서 사이트들이 HTML 대신 렌더링된 마크다운 반환)이나 Accept-Language로 선호 프로그래밍 언어를 전달(Vercel 엔지니어 제안, Tobi Lütke 동조)하는 식으로 표준화하자는 제안. MCP는 지난 시대의 프로토콜이니 EOL해야 한다는 결론
   * [**MCP의 모든 것을 알아봅시다**](https://velog.io/@k-svelte-master/what-is-mcp)
   * [간단하게 만들면서 이해해보는 MCP](https://velog.io/@todd/%EA%B0%84%EB%8B%A8%ED%95%98%EA%B2%8C-%EB%A7%8C%EB%93%A4%EB%A9%B4%EC%84%9C-%EC%9D%B4%ED%95%B4%ED%95%B4%EB%B3%B4%EB%8A%94-MCP)
   * [MCP 개념 10분만에 이해하기 - YouTube](https://www.youtube.com/watch?v=-b0IEN4JAGE)
@@ -4440,6 +4453,9 @@ Artificial Intelligence
 * [팀의 업무 병목을 줄이기 위한 AX 전환 | devy](https://dev.devy.dev/posts/odin-ax-transformation/)
   * Codex를 이미 쓰고 있어도 Slack 요청을 읽어 Codex에 옮기고 결과를 다시 요청자에게 전달하는 중계는 개발자 몫이라 병목이 해소되지 않았다는 실무 기록(9월 2일 하루 타임라인으로 반복 확인). 이를 줄이기 위해 팀원이 Slack에서 데이터·로그·이벤트 확인을 요청하면 맥락을 읽고 도구로 조사해 같은 대화에서 답하고, 정보 부족 시 직접 질문하고, 코드 수정이 필요하면 분석 맥락을 이어받아 개발·검증까지 하는 분석·개발 에이전트 "오딘" 구축
   * 트러블슈터→목적별 에이전트 분리를 거쳐 결국 자기가 Codex와 일하던 방식(하나의 세션에서 분석·수정·검증)대로 흐름을 통합—새 하네스(Hermes 등)를 익히는 부담 대신 OpenAI Codex App Server로 기존 Codex 하네스를 Slack에 연결
+* [한 달에 PR 3,200개, 새 기술은 하루 만에 프로토타입으로 — 에이전트 네이티브 팀으로 일하기 | vooy](https://blog.vooy.com/ko/blog/working-as-an-agent-native-team)
+  * 개인 맥락을 이해하는 AI 에이전트와 사람·에이전트 메신저를 만드는 vooy 팀의 운영 방식—한 달(2026.08.21~09.20) 병합 PR 3,205개. TypeSafe Jev 출시 소식을 vooy가 아침 X 브리핑으로 큐레이션→엔지니어들이 각자 자기 에이전트에게 프로토타입을 맡겨 다음 날 서로 다른 구현을 실행하며 속도 비교(미용실 검색→예약 조건 선택 39초 데모)→하루 만에 "이 방향의 모델이 프로덕트에 중요하다"는 확신
+  * 각자가 이렇게 빨리 만들 때 팀이 서로를 따라가는 법: 개인 에이전트의 작업 기록을 팀 공용 기록에 연결해 결정의 이유와 다음 작업 맥락을 재사용하고, 작업·이슈 관리 에이전트 "퓨처데빌"이 회의·작업 기록을 읽어 누가 무엇을 하기로 했고 어디서 막혔는지 정리(모르는 담당자·기한은 추측하지 않음). 인터뷰 형식으로 재구성
 * [Younghyun Chung - 코드를 인간이 쓰지 않는 세상 | Facebook](https://www.facebook.com/risknfun/posts/pfbid02KqgVKz4DLQLWXsCUrx5E1VwmszfdJigmnXLKJzy2dEYrZWhUZFvSUA56WKZonW18l)
   * Toby의 "소프트웨어 엔지니어링은 정말 엔지니어링인가"(2026.6.3)에서 출발한 팀 고민 정리. 우리가 아는 소프트웨어 공학이 세운 세 전제(개발자는 비싸고·느리고, 사람이 코드를 쓴다)가 AI 코딩 시대에 흔들린다는 논의
 * [How AI-assisted coding will change software engineering: hard truths](https://newsletter.pragmaticengineer.com/p/how-ai-will-change-software-engineering)
