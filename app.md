@@ -89,6 +89,9 @@ App
 * [Browsh](https://www.brow.sh/) a fully-modern text-based browser
 * [budget_tracker_tui: A simple TUI budget tracker app built in rust. Designed to track income and expenses and help visualize and gather basic insights from your transactions](https://github.com/Feromond/budget_tracker_tui) CLI 가계부
 * [calcure: Modern TUI calendar and task manager with minimal and customizable UI](https://github.com/anufrievroman/calcure)
+* [Citadel: manage your ebooks without frustration](https://citadel.page/)
+  * [citadel: Manage your ebook library without frustrations. Calibre compatible](https://github.com/everydaythingssoftware/citadel)
+  * 빠르고 미니멀한 데스크톱 전자책 라이브러리 관리 앱—서가·메타데이터·표지·검색. 임포트·서버 설치 없이 기존 Calibre 라이브러리를 열면 새 책·편집이 Calibre와 공유됨. Rust, MIT
 * [cool-retro-term - A good looking terminal emulator which mimics the old cathode display...](https://github.com/Swordfish90/cool-retro-term)
 * [copyparty: Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps](https://github.com/9001/copyparty/)
   * [introducing copyparty, the FOSS file server - YouTube](https://www.youtube.com/watch?v=15_-hgsX2V0)
@@ -424,6 +427,8 @@ App
 
 # Android
 * [안드로이드에만 있는 유용한 생산성 앱 10개](http://techneedle.com/archives/20513)
+* [android-titanium-browser: Secure open-source Android browser with support for extensions](https://github.com/jqssun/android-titanium-browser)
+  * 확장 프로그램을 지원하는 보안 중심 오픈소스 Android 브라우저. GPL-2.0, 2.7k stars
 * [Android tool for mac](https://github.com/mortenjust/androidtool-mac)
 * [Explore the night sky with this open source astronomy app | Opensource.com](https://opensource.com/article/21/1/kstars)
 * [Nexus 9에 설치한 Remix OS 살펴보기](http://thdev.net/744)
@@ -1163,6 +1168,8 @@ App
 
 # Dropbox, Google Drive, OneDrive
 * [A remote sync solution for iOS and Linux: Git and Working Copy](https://medium.freecodecamp.org/a-remote-sync-solution-for-ios-and-linux-git-and-working-copy-1aba488b3547)
+* [BYOC: One storage API for Google Drive, Nextcloud, and S3-compatible clouds, in TypeScript and Python](https://github.com/ajayvarmaramineni/byoc)
+  * Google Drive·Nextcloud·S3 호환 클라우드를 하나의 스토리지 API로 통합하는 라이브러리(Bring Your Own Cloud). TypeScript+Python, Apache-2.0
 * [Embedded File Viewer: Google Drive, OneDrive](https://gist.github.com/tzmartin/1cf85dc3d975f94cfddc04bc0dd399be)
 * [Fix-OneDrive-Zip: Fix OneDrive Zip files >4Gig](https://github.com/pmqs/Fix-OneDrive-Zip)
 * [goodsync.com](http://www.goodsync.com/)
@@ -3067,6 +3074,9 @@ App
   * [Obsidian Clipper - Start Here - YouTube](https://www.youtube.com/watch?v=OiWKZBd7Hn4)
   * [Obsidian Copilot: The Best AI Integration for Your Notes - YouTube](https://www.youtube.com/watch?v=iv_u67Y-6ek)
   * [obsidian-excalidraw-plugin: Obsidian plugin to edit and view Excalidraw drawings](https://github.com/zsviczian/obsidian-excalidraw-plugin)
+  * [kplex: K-Plex — Obsidian graph view plugin (ExcaliBrain 2.0)](https://github.com/zsviczian/kplex)
+    * [Meet K-Plex: The New Obsidian Graph View Plugin (ExcaliBrain 2.0) - YouTube](https://www.youtube.com/watch?v=pQbv5jSaW9Q)
+    * Zsolt(Excalidraw 플러그인 개발자)의 새 Obsidian 그래프 뷰 플러그인—ExcaliBrain의 후속(2.0). TypeScript, AGPL-3.0
   * [obsidian-excel-to-markdown-table: An Obsidian plugin to paste Excel data as Markdown table](https://github.com/ganesshkumar/obsidian-excel-to-markdown-table)
     * [Excel 데이터를 옵시디언 테이블로 - Excel to Markdown Table 플러그인](https://kaminik.tistory.com/entry/Excel-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC-%EC%98%B5%EC%8B%9C%EB%94%94%EC%96%B8-%ED%85%8C%EC%9D%B4%EB%B8%94%EB%A1%9C-Excel-to-Markdown-Table-%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8)
   * [obsidian-file-link: A plugin for the note taking app Obsidian to add better external file links to your notes](https://github.com/marcjulianschwarz/obsidian-file-link)
