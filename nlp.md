@@ -3227,12 +3227,15 @@ NLP
     * 균형 잡힌 결론—193.6배·444.6배는 출시 측 자체 워크플로 측정값이고 독립 재현이 아니며, 반대로 커뮤니티 반론도 벤치마크가 아니라 논리적 지적이 중심. "환각이 없다"를 "틀리지 않는다"로 읽지 않는 것이 출발점이고, 공식 문서의 타입 안전성은 "정해진 형식과 범위를 벗어나지 않는다"는 뜻이지 "판단이 항상 옳다"는 뜻이 아님. Hacker News 스레드에 창업자가 직접 답했지만 아키텍처는 비공개 방침. 쿠팡 파트너스 문구 포함
   * 전 OpenAI 연구자(ChatGPT의 기반이 된 instruction-following 연구 참여) Diogo Almeida가 창업한 TypeSafe AI의 첫 System One 모델 Jev(얼리 액세스). 텍스트 생성을 포기하는 대신 사전 정의된 타입 세이프 구조화 출력+보정된 확률(calibrated confidence)만 반환—환각·타입 오류가 원천적으로 불가능. RLCD(Reinforcement Learning for Calibrated Decisions)로 학습, 병렬 샘플링으로 70~500ms 응답(동급 지능 기준 프런티어 LLM 대비 40~200배), 입력 $0.042/M·출력 무료
   * 용도: 분류·라우팅·점수화·추출·조건 분기 같은 "smart if-statement", 페타바이트 데이터 map-reduce, 실시간 앱, LLM 출력 검증·가드레일·탈옥 감지. "프런티어 지능의 함수 호출—비구조화 상태를 넣으면 타입드 확률적 판단이 나온다"
+  * 프롬프트 인젝션 가드레일 실험 메모: 공격 확률 임계값 0.8 이상 차단 시 98.93%, 0.7로 낮추면 99.5%를 걸러냄(놓친 사례는 사람도 판단이 어려운 수준). 같은 날 셀렉트스타가 동일 프롬프트 예제로 적대적 공격 99.4% 방어를 발표했는데, 막 나온 외산 순정 모델이 훨씬 빠르고 싼 가격으로 그 이상을 보여준 셈(Bedrock 탑재 요청 PFR도 이미 올라옴). 보안 가드레일뿐 아니라 입력 인텐트 분류로 의도에 따라 적절한 agent flow나 결정론적 레거시 흐름을 태우는 등 "행동을 위한 결정이 필요한 순간"에 활용 가치—가장 무서운 건 속도와 비용
   * [Building a Harness with Jev - YouTube](https://www.youtube.com/watch?v=VE5dsWll06M)
     * LangChain. Jev를 에이전트 하네스에 통합하는 방법—분류형 태스크에서 LLM 대비 최대 200배 빠르고 400배 저렴해 모델 라우팅과 "Jev as a judge" 온라인 eval에 적합
   * [Jev가 AI 틈새 기술? 구글이 바로 반응합니다… 빠른 응답에 돈을 내는 이유 | 세레브라스, Groq도 절대 안되는 기술이라 했죠 - YouTube](https://www.youtube.com/watch?v=qV5p14OSgXU)
     * 안될공학. 문장 생성 대신 선택지의 확률을 돌려주는 Jev 해설—"작은 언어모델로도 가능하다"는 비판과 비교 조건 문제를 짚고, 토큰 순차 생성 vs 판단값 반환의 차이, 반복 판단에서 응답 시간·비용이 중요한 이유를 Cerebras·Groq 사례로 설명. 구글 DiffusionGemma를 Jev처럼 활용한 개발자 시도 소개(Gemini 앰배서더 제작지원)
   * [Introducing Jev Skill Suggestion for Claude Code | Daniel San](https://x.com/dani_avila7/status/2101885477158547753)
     * 스킬을 user-invocable 전용으로 두고 스킬 목록을 Jev에 보내 매 요청마다 가장 맞는 스킬을 분류·주입—필요할 때까지 스킬을 컨텍스트 윈도우 밖에 유지. TypeSafe API·Vercel AI Gateway 지원, `npx claude-code-templates@latest --mod productivity/jev-skill-suggestion`
+    * [Claude Code, 토큰 사용량 줄여주는 Jev 모드 공개 | 이상선](https://www.linkedin.com/posts/soulai_claudecode-jev-aitgkrht-ugcPost-7507727283340783616-eaGM/)
+      * 모든 스킬을 미리 컨텍스트에 넣지 않고 필요할 때만 로드—Jev가 요청에 맞는 스킬을 분석·선택해 Claude에 전달. 설치: `npx claude-code-templates@latest --mod productivity/jev-skill-suggestion`
   * [System One Model과 Jev: AI 자동화를 위한 구조화된 의사결정 모델의 등장 | digitalbourgeois](https://digitalbourgeois.tistory.com/3690)
     * 생성 텍스트 재해석·검증, 예상 밖 답변·환각, 응답 속도·비용이라는 LLM 자동화의 3대 제약을 System One Model이 어떻게 우회하는지 정리
   * [Jev's Architecture Unmasked | Archer Hume](https://archerhume.com/posts/jevs-architecture-unmasked/)
@@ -3251,6 +3254,18 @@ NLP
     * Real Python. 하이프 없는 첫 사용기—Jev를 설치하고 OpenRouter 경유로 Python에서 호출해 결과를 정직하게 평가(모호하게 돌아온 답도 포함). 대문자 Y/N만 받는 평범한 Python 스크립트가 "yeah, I've lost..." 같은 입력에 무너지는 지점에서 출발해 Jev의 판단형 응답이 이를 어떻게 처리하는지 시연, 샘플 코드 제공
   * [Build Your Own Jev With Claude Opus 5.5 - YouTube](https://www.youtube.com/watch?v=z8My0bX2-ZU)
     * Mark Kashef. Claude Opus 5.5의 도움으로 Jev에서 영감받은 로컬 AI 스페셜리스트를 직접 만드는 과정—오픈소스 모델 선택→역할 정의→파인튜닝→Jev와 비교 테스트→이미지 이해 추가. 예시는 호텔 오퍼를 여행자 요구사항(환불·늦은 도착·수영장·가이드 투어)에 대조 판정하는 여행 모델. 빌드 프롬프트·가이드 무료 제공
+  * [Awesome Jev / TypeSafe](https://abdelstark.github.io/awesome-typesafe-jev/)
+    * [awesome-typesafe-jev: a source-backed field guide to TypeSafe's System One model, with SDKs, live demos, agent tools, and independent evaluations](https://github.com/AbdelStark/awesome-typesafe-jev)
+    * "Jev는 소프트웨어에 타입드 판단을 주고, 코드는 여전히 주도권을 가진다"—문서화된 호출 예시(support-ticket 예제, 한 번의 호출로 세 개의 타입드 답) 확인, 라이브 프로젝트 체험, 스타터 복사, 독립 평가 열람으로 구성된 커뮤니티 필드 가이드. SDK·데모·에이전트 도구·독립 평가 큐레이션. MIT
+  * [laya-coreml: Local Laya typed decisions on Apple Core ML and Neural Engine](https://github.com/mizorewww/laya-coreml)
+    * 오픈 웨이트 판단 모델 Laya(convaiinnovations/laya-multilingual)를 Apple Silicon Core ML·Neural Engine으로 포팅—토큰 생성 없이 타입드 결정만 반환, PyTorch·Transformers·MLX 없이 로컬 추론. 짧은 다국어 판단 1건 4.98ms P50/5.31ms P95(M3 Max, ANE FP16), 컴파일된 MLX FP16 대비 시스템 전체 에너지 2.78배 개선(W8 팔레트 변형 4.88ms·3.19배). 실제 Laya가 확률·안전 개입을 보여주며 Snake를 플레이하는 데모(600스텝 3회 무사망, 49~50 결정/초), 재현 가능한 속도·에너지 벤치마크. `pip install laya-coreml`. Python, Apache-2.0, 1.4k stars
+  * [Jev는 그냥 BERT인가요 | Sigrid Jin (Jin Hyung Park)](https://www.linkedin.com/pulse/jev%EB%8A%94-%EA%B7%B8%EB%83%A5-bert%EC%9D%B8%EA%B0%80%EC%9A%94-sigrid-jin-jin-hyung-park--dqlkc)
+    * Han Xiao가 jina-reranker-v3.5를 Jev 유사 판단 API로 쓴 실험(query 대신 상황·목표, 문서 대신 행동 후보)을 출발점으로, "후보별 점수를 계산하는 구조를 공유한다"와 "그 점수가 같은 판단 기준을 반영한다"는 다른 이야기임을 논증—trolley problem에서 1명이 죽든 10억 명이 죽든 레버를 당기는 결과가 나온 이유. 검색의 relevance는 명제의 참·거짓과 다른 수치("양파 넣어주세요/넣지 마세요"는 둘 다 관련 자료지만 "고객은 양파를 원한다"엔 반대 판단), 범용 판단기는 입력과 기준의 관계를 학습해야 하므로 API 이름만 바꿔선 안 됨. last-but-not-late interaction 구조 해설
+    * 반대 방향 실험: TREC DL 2019/2020 query에 BM25 상위 100 passage를 Jev로 reranking—noul(P(yes))·choice(합 1 확률분포)·score(0~3 relevance grade 확률의 기댓값) 출력 형식 설명
+  * [Jev가 빠르게 바이럴되면서 "결국 classifier 아닌가?" 냉소적 반응에 대해 | Chris Han](https://www.linkedin.com/posts/chriskr7_ai-llm-jev-share-7508045166423760896-QHe1/)
+    * "BERT 시절부터 하던 문제"라는 말이 기술적으로 틀리진 않지만 기술과 제품화는 다른 문제—혁신 제품 대부분은 새 알고리즘 발명이 아니라 이미 있던 논문·검증된 기술·알려진 아이디어를 현재 문제에 맞게 재조합해 쓸 수 있는 인터페이스로 만들고 비용 구조를 바꾸는 데서 나옴. 지난 몇 년 거의 모든 문제를 생성형 LLM으로 풀던 업계에 "생성하지 말고 결정하라"를 제품으로 제시한 것이 Jev의 의미
+  * [왜 요즘 JEV 같은 의사결정 엔진이 주목받을까요? | Jung Min Kang](https://www.linkedin.com/posts/kangjungmin_ai-agenticai-llmops-share-7507427626169479168-4R0y/)
+    * LLM 추론의 Prefill/Decode 중 시간과 토큰 비용을 잡아먹는 주범은 한 글자씩 순차 생성하는 Decode—Jev는 백지에 서술형 답을 쓰는 대신 정해진 선택지에 컴퓨터용 사인펜으로 마킹만 하는 방식. 병원 진료 시나리오로 본 3가지 판단 도구: Choice(부서 배정 내과 30%/피부과 70%)·Bool(응급 여부 참 95%)·Score(복잡도 0.15). 글짓기 루프 없이 단일 순방향 패스로 끝나 지연 20배↓, 할루시네이션·JSON 깨짐 원천 차단
 * [JudgeBench: A Benchmark for Evaluating LLM-Based Judges](https://github.com/ScalerLab/JudgeBench)
 * [Jupiter | Sovereign — zero-dependency high-performance inference engine for LLMs](https://www.teamjupiter.ai/)
   * [Jupiter Sovereign 공유 | Jupiter Song](https://www.linkedin.com/posts/jupitersong_jupiter-sovereign-share-7486380864663076864-IBtp/)
@@ -4391,6 +4406,12 @@ NLP
     * [Xiaomi MiMo](https://mimo.xiaomi.com/blog/mimo-v2-flash)
   * [MiMo V2 Pro](https://mimo.xiaomi.com/mimo-v2-pro)
     * [Hunter Alpha 미스터리 샤오미 MiMo-V2-Pro 정체 공개](https://fornewchallenge.tistory.com/entry/%F0%9F%94%8D-Hunter-Alpha-%EB%AF%B8%EC%8A%A4%ED%84%B0%EB%A6%AC-%EC%83%A4%EC%98%A4%EB%AF%B8-MiMo-V2-Pro-%EC%A0%95%EC%B2%B4-%EA%B3%B5%EA%B0%9C)
+  * [MiMo-V2.6 | Xiaomi](https://mimo.xiaomi.com/mimo-v2-6)
+    * [MiMo-V2.6-Pro-RL: Scaling Reinforcement Learning Toward Self-Improvement · Hugging Face](https://huggingface.co/XiaomiMiMo/MiMo-V2.6-Pro-RL)
+    * [샤오미, MiMo-V2.6 공개 - 강화학습 과정을 공개한 멀티모달 모델 | GeekNews](https://news.hada.io/topic?id=34085)
+    * 고성능 Pro와 비용 효율 Flash 2종. Pro는 Artificial Analysis 지능 지수 46.32로 공개 모델 1위, API 가격은 이전 버전과 동일(입력/출력 100만 토큰당 $0.435/$0.87, 최대 20배 빠른 UltraSpeed 모드 별도). RL 진행 상황을 실시간 공개—6일 미만 학습에 코딩 평가 Pro +14점·Flash +17점. 3D 게임·Blender 모델·발표자료·영상 제작, 신소재 후보 탐색, 수학 증명 Lean 형식화 활용 사례
+    * MiMo-V2.6 시리즈 플래그십. 1.02T 총/42B 활성 Sparse MoE, 1M 컨텍스트, 텍스트·이미지·비디오·오디오 네이티브 옴니모달(681M ViT+308M 오디오 토크나이저), 5층 MTP 스펙큘러티브 디코더. "You Only RL Once"—코딩·일반 에이전트·비전·사이버보안을 한 번의 혼합 RL로(도메인별 분리 X), 학습 때 본 적 없는 하네스로도 전략 전이. 완전 비동기 GRPO(1,568 프롬프트×16 롤아웃/스텝)
+    * 자기개선 루프: 이진 pass/fail로는 통과 답들을 순위 매길 수 없어 보상 신호 자체를 스케일—에이전틱 그레이더가 그룹 내 롤아웃을 비교(Groupwise Reward Synthesis로 태스크별 루브릭 생성). 자기교정 콜드스타트, 환경 강화·적대적 스크리닝·검증기 교차확인으로 보상 해킹 방지, MOPD2(멀티 프리픽스 멀티 티처 on-policy distillation). MIT
 * [xionic-ko-llama-3-70b](https://github.com/sionic-ai/xionic-ko-llama-3-70b)
 * [Yi: A series of large language models trained from scratch by developers @01-ai](https://github.com/01-ai/yi)
   * [Yi - 차세대 오픈소스 이중언어 LLM | GeekNews](https://news.hada.io/topic?id=13767)
