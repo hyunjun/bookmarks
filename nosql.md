@@ -432,6 +432,11 @@ NoSQL
 * [Manhattan, our real-time, multi-tenant distributed database for Twitter scale](https://blog.twitter.com/2014/manhattan-our-real-time-multi-tenant-distributed-database-for-twitter-scale)
 * [Building DistributedLog: Twitter’s high-performance replicated log service](https://blog.twitter.com/2015/building-distributedlog-twitter-s-high-performance-replicated-log-service)
 
+# MatrixOne
+* [MatrixOne Documentation](https://docs.matrixorigin.cn/mo/en)
+  * [matrixone: AI-native HTAP database with Git-for-Data and built-in vector search](https://github.com/matrixorigin/matrixone)
+  * AI 네이티브 HTAP 데이터베이스. Git-for-Data(데이터 버전 관리)와 내장 벡터 검색을 갖춰 지능형 에이전트·애플리케이션의 데이터·메모리 백본 역할. Go, Apache-2.0
+
 # MapD; C++로 구현, GPU 기반의 In-Memory Columnar SQL DB
 * [MapD: Massive Throughput Database Queries with LLVM on GPUs](http://devblogs.nvidia.com/parallelforall/mapd-massive-throughput-database-queries-llvm-gpus/)
 * [MapD Open Sources GPU-Powered Database](https://www.mapd.com/blog/2017/05/08/mapd-open-sources-gpu-powered-database/)
