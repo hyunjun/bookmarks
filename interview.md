@@ -1030,6 +1030,13 @@ Interview
   * LinkedIn Recruiter(리크루터가 쓰는 유료 검색 툴) 관점에서 본 프로필 최적화. 지원 대신 리크루터가 먼저 메시지하게 만드는 4가지 변경—리크루터가 검색창에 실제로 입력하는 직무 제목·하드스킬에 맞춰 프로필을 구성. 리크루터는 검색 상위 15명에게만 연락하므로 "탈락"이 아니라 "검색에서 발견되지 않는" 것이 진짜 문제라는 관점, Open to Work 설정 등 대부분이 잘못 쓰는 2가지 세팅
 * [Vol.4 이직을 가장 많이 후회하는 사람은, 이직한 사람이 아닙니다 | Kihung Thomas Kim](https://kr.linkedin.com/pulse/vol4-%EC%9D%B4%EC%A7%81%EC%9D%84-%EA%B0%80%EC%9E%A5-%EB%A7%8E%EC%9D%B4-%ED%9B%84%ED%9A%8C%ED%95%98%EB%8A%94-%EC%82%AC%EB%9E%8C%EC%9D%80-%EC%9D%B4%EC%A7%81%ED%95%9C-%EC%82%AC%EB%9E%8C%EC%9D%B4-%EC%95%84%EB%8B%99%EB%8B%88%EB%8B%A4-kihung-thomas-kim-m6cic)
   * 이직 기회를 놓친 사람이 이직한 사람보다 훨씬 크게 후회. "기회를 잡지 않은 것을 후회한 비율 57% vs 이직을 후회한 비율 25.6%"—현상 유지가 계산된 도약보다 더 큰 커리어 후회를 부른다는 분석
+* [Notes on the Industry Job Search | Alisa Liu](https://alisawuffles.github.io/blog/job-search/)
+  * [Alisa's book of LLMs](https://alisawuffles.notion.site/alisa-s-book-of-llms)
+    * Notion 학습 노트: 신경망 기초(MLP·활성화·역전파·옵티마이저), 정보이론·수치 안정성·샘플링의 gradient flow, 현대 Transformer LM 구조와 파라미터·활성값·forward/backward FLOPs·학습/추론 메모리 계산(Accounting), Attention·RMSNorm·SwiGLU·RoPE, 추론(배칭·speculative decoding·KV 캐시 축소·Flash Attention), scaling laws·GPU, RNN/LSTM/SSM, post-training(policy gradient·PPO·RLHF·GRPO·DPO), 정밀도, 데이터/파이프라인/텐서 병렬화, 멀티모달
+  * [math notes | Alisa Liu](https://alisawuffles.notion.site/math-notes)
+    * 연구·ML 면접 대비 수학 정리—이산/연속 확률 분포(Bernoulli 등)부터
+  * [OpenAI 연구원의 LLM·수학·취업 준비 노트 공개 | 이상선](https://www.linkedin.com/posts/soulai_openai-aismyqvosqo-llm-share-7508015098762989569-Cmms/)
+  * UW NLP 박사 6년을 마치고 Research Scientist / MTS 자리에 지원한 과정을 한 데이터 포인트로 공개—Nathan Lambert 글에서 영감받은 인터뷰·결과(ghosted 포함) 타임라인, 회사 순서 정하기(연습 면접은 유용하지만 스태미나는 유한, 헤드카운트·팀 채용 상황이 준비보다 중요할 수 있음, 오퍼 데드라인은 exploding offer 제외 유연), 첫 인터뷰를 얻으려면 내부 추천이 필요하니 학회에서 사교·협업하기. 인터뷰 유형·준비·협상·학습 자료 부록
 * [job search tool for data scientists in NYC](https://jcp1016.shinyapps.io/indeedoor/)
 * [30 Questions To Ask Before Joining A Startup](https://angel.co/blog/30-questions-to-ask-before-joining-a-startup)
 * [Ask HN: Who wants to be hired? (July 2015)](https://news.ycombinator.com/item?id=9812247)
