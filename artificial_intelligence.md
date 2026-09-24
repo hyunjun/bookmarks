@@ -1222,6 +1222,10 @@ Artificial Intelligence
   * [deer-flow: DeerFlow is a community-driven Deep Research framework](https://github.com/bytedance/deer-flow)
   * [DeerFlow - 바이트댄스의 풀스택 Super Agent 플랫폼 | GeekNews](https://news.hada.io/topic?id=29518)
   * 컨텍스트 엔지니어링(장·단기 메모리), 분 단위~시간 단위 장기 작업 실행(계획·추론·순차/병렬 실행), 영구 Docker 샌드박스, Doubao/DeepSeek/OpenAI/Gemini 다중 모델 지원. 딥 리서치 에이전트에서 풀스택 SuperAgent 프레임워크로 진화. MIT
+* [deja-vu — the one memory your coding agents share](https://vshulcz.github.io/deja-vu/)
+  * [deja-vu: One memory shared by Claude Code, Codex, Cursor, Copilot CLI, OpenClaw and 29 more coding agents, built from the session history already on disk](https://github.com/vshulcz/deja-vu)
+  * 34개 코딩 에이전트가 이미 디스크에 써 둔 세션 기록을 제자리에서 인덱싱해 하나의 공유 메모리로 만드는 로컬 Go 바이너리—LLM·임베딩·클라우드 계정 없음. Codex에서 고친 문제를 Claude Code가 기억하고, 설치 전 수개월치 기록까지 소급 검색("we fixed this three weeks ago"). MCP `deja` 도구의 recall 모드, 세션 시작 자동 recall, 파일 편집·명령 실행 전 해당 파일의 이전 결정·동작하던 명령을 알려주고 실패 시 PostToolUse 훅으로 같은 에러 뒤에 무엇이 이어졌는지 응답
+  * 대화뿐 아니라 각 턴이 연 파일·실행 명령과 종료 상태·편집으로 교체된 스팬까지 인덱싱(요약이 버리는 부분). 43회 compaction 측정에서 요약은 결정의 77%·실행 명령의 0.2%만 남기는데 deja가 나머지를 돌려줌. `deja promote --state rejected`로 되돌린 결정 표시, 인덱스 생성 시 키·토큰 제거. Beacon과 같은 크로스 하네스 메모리 계열이지만 캡처 단계 없이 기존 트랜스크립트 자체를 메모리로 사용. install.sh·brew·go install·npx·Scoop, Claude Code 플러그인 마켓플레이스 지원. Go, 962 stars
 * [dp-archive: Skill-powered agents without workflow graphs or CLI](https://github.com/dp-archive/archive)
 * [Dynamiq: The Operating Platform for GenAI Applications](https://www.getdynamiq.ai/)
   * [Dynamiq is an orchestration framework for agentic AI and LLM applications](https://github.com/dynamiq-ai/dynamiq)
