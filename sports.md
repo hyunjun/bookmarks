@@ -54,6 +54,9 @@ Sports
   * [야구 분석의 미래, 스탯캐스트는 어떻게 만들어지나?](http://baseball-lab.com/2015/05/22/story_n_2809)
 * [The MLB Strike Zone Got A Lot Smaller In 2026 | Baseball America](https://www.baseballamerica.com/stories/the-mlb-strike-zone-got-a-lot-smaller-in-2026)
   * 1990년대 톰 글래빈이 존 가장자리를 공략해 이닝이 갈수록 심판에게 1~2인치를 더 얻어내던 스트라이크존은 ABS(자동 볼 판정) 도입으로 사라짐—2026년 존은 플레이트 좌우 가장자리와 하단에서 훨씬 덜 관대해져 "다음 글래빈"은 완전히 다른 존에 적응해야 함
+* [2026 KBO 리그는 정말로 싱거운 시즌이었을까? | psodds](https://psodds.com/blog/2026/09/kbo_ps_entropy.html)
+  * [Dong-nyeok Yeum - psodds.com에 새 블로그 글을 올렸습니다 | 세이버메트릭스 실험실](https://www.facebook.com/groups/978747995496996/?multi_permalinks=28628119036799853)
+  * 5강권이 너무 빨리 결정돼 김빠진 시즌이라는 볼멘소리를 정량적으로 검증—psodds가 2001시즌부터 계산해 온 포스트시즌 진출 확률에 정보 엔트로피(가능한 결과가 뻔할수록 정보량이 낮다)를 적용해 시즌별 "얼마나 빨리 판이 정해졌나"를 한 기준으로 비교. 정보 엔트로피의 직관적 도출(확률 곱→정보량 합이 되려면 로그)까지 친절하게 설명
 * [안영명은 정말로 거듭났을까](http://baseball-lab.com/2015/05/07/story_n_2713) ERA, FIP, BABIP, SO/BB
 * [A Dynamic Programming Model For Baseball](http://footballcommentary.com/bbmodel.htm)
 * [Replicated Data Consistency Explained Through Baseball](http://research.microsoft.com/pubs/157411/ConsistencyAndBaseballReport.pdf)
