@@ -58,23 +58,25 @@ Game
 * [What To Learn To Be A Real Time Graphics Programmer | The blog at the bottom of the sea](https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/)
   * [그래픽스 프로그래머가 되려면 무엇을 배워야 하는가 | GeekNews](https://news.hada.io/topic?id=31053)
   * 채용 가능한 그래픽스 프로그래머가 되기 위한 필수 지식. CPU 측(DirectX12·Vulkan 같은 최신 그래픽스 API)과 GPU 측(렌더링 수학·라이팅·최적화)으로 나눠 설명, 포트폴리오 프로젝트와 패스 트레이싱·PBR 학습 권장
-* [game-developer-roadmap: Roadmap to becoming a game developer in 2022](https://github.com/utilForever/game-developer-roadmap)
-* [Simutrans - Transport Simulator](https://www.simutrans.com/en/)
 * [질긴 고리 - 온라인 퍼즐 게임](https://ko.puzzle-loop.com/)
-* [Summle - a daily maths game](https://summle.net/)
 * [멘토특강 게임 서버 개발자 준비하기 - YouTube](https://www.youtube.com/watch?v=DtdttEhtgjI)
 * [폭력적이지 않고 스토리가 좋은 게임? | GeekNews](https://news.hada.io/topic?id=6679)
 * [가장 좋아하는 오픈소스 게임은? | GeekNews](https://news.hada.io/topic?id=6669)
 * [게임 수학, 어느 정도까지 배워야 할까? - BatStudio](https://www.ibatstudio.com/%EA%B2%8C%EC%9E%84-%EC%88%98%ED%95%99-%EC%96%B4%EB%8A%90-%EC%A0%95%EB%8F%84%EA%B9%8C%EC%A7%80-%EB%B0%B0%EC%9B%8C%EC%95%BC-%ED%95%A0%EA%B9%8C/)
 * [What it Takes to Make a Game by Yourself](https://dillonshook.com/what-it-takes-to-make-a-game-by-yourself/)
 * [The Best Command-Line-Only Video Games | Linux Journal](https://www.linuxjournal.com/content/best-command-line-only-video-games)
-* [snake6502.asm](https://gist.github.com/wkjagt/9043907)
 * [Making Video Games in 2025 (without an engine) - Noel Berry](https://noelberry.ca/posts/making_games_in_2025/)
   * [게임 엔진 없이 비디오 게임 개발하기 (2025) | GeekNews](https://news.hada.io/topic?id=21021)
 * [FEAT. AI 아티스트는 왜 데이터 스펙 가이드가 있어도 확인하지 않고 커밋하는 걸까?](https://techartnomad.tistory.com/714)
   * 20년 경력 테크니컬 아티스트 관점에서 아티스트의 스펙 미준수를 인문학·심리학·뇌과학으로 분석. 미술 교육의 규칙 파괴 문화, 시각적 사고와 텍스트 기반 스펙의 불일치, 몰입 상태 중단 비용 등이 원인. 자동화된 검증 시스템과 DCC 도구 내장 스펙, 즉각적 피드백 루프를 해결책으로 제안
 * [30년전 RPG (포가튼사가) 소스 포팅 하기 | GeekNews](https://news.hada.io/topic?id=29586)
   * 1997 한국 DOS RPG "포가튼 사가" 멀티 플랫폼 소스 포팅. 원본 PE32 실행파일+데이터만 남은 상태에서 리버스 엔지니어링·재구현
+* [game-developer-roadmap: Roadmap to becoming a game developer in 2022](https://github.com/utilForever/game-developer-roadmap)
+* [OpenDLSS-NR: A Vulkan reimplementation of NVIDIA's DLSS 5 Neural Rendering network, bit-exact against the original](https://github.com/maanHimself/OpenDLSS-NR)
+  * NVIDIA DLSS 5 뉴럴 렌더링 네트워크를 Vulkan으로 재구현—원본과 비트 단위로 동일한 결과. JavaScript, MIT
+* [snake6502.asm](https://gist.github.com/wkjagt/9043907)
+* [Simutrans - Transport Simulator](https://www.simutrans.com/en/)
+* [Summle - a daily maths game](https://summle.net/)
 
 # Board game
 * Carnegie [보드게임 리뷰 : 카네기(Carnegie) – “또 하고 싶다” - Guru's Blog](https://xguru.net/2258)
