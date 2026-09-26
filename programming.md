@@ -716,13 +716,6 @@ Programming
   * Vecel에서 DX를 제품의 성장을 이끄는 핵심으로 엣지 컴퓨팅에 미래가 있고 프론트엔드 개발자의 역량을 강화하고 개발자가 React 사이트를 만들 수 있는 프레임워크를 제공
   * Vecel에서 DX의 4가지 기둥이 있는데 교육, 문서, 커뮤니티, 템플릿
     * 좋은 DX를 제공하기 위해 노출 시간을 늘리고 만들면서 직접 테스트가 되어 배우고 개발자에게 공감하고 엄청 좋은 게 아니라면 선택하지 않아서 중요한 작업에 집중할 수 있게 한다
-* [The origin of complexity](https://itnext.io/the-origin-of-complexity-8ecb39130fc)
-* [Decrease complexity by separating Code from Data](https://blog.klipse.tech/databook/2020/10/30/data-book-chap2-part1.html)
-* [코드 복잡도 줄이기 (Cyclomatic Complexity, NPath Complexity)](https://prostars.net/336)
-  * [코드 복잡도 줄이기 (Cyclomatic Complexity, NPath Complexity) | Popit](https://www.popit.kr/%ec%bd%94%eb%93%9c-%eb%b3%b5%ec%9e%a1%eb%8f%84-%ec%a4%84%ec%9d%b4%ea%b8%b0-cyclomatic-complexity-npath-complexity/)
-* [wily: A Python application for tracking, reporting on timing and complexity in Python code](https://github.com/tonybaloney/wily)
-  * [A Python application for tracking, reporting on timing and complexity in Python code](https://pythonawesome.com/a-python-application-for-tracking-reporting-on-timing-and-complexity-in-python-code/)
-* [Measuring Software Complexity: What Metrics to Use?](https://thevaluable.dev/complexity-metrics-software/)
 * [How to Survive in 2022 as a Software Engineer | Better Programming](https://betterprogramming.pub/surviving-cloud-computing-complexity-1aabc1024a54)
 * ["The Mess We're In" by Joe Armstrong](https://www.youtube.com/watch?v=lKXe3HUG2l4)
 * [**문제를 해결할 때 사고가 중요한 이유**](https://engineering.linecorp.com/ko/blog/think-differently-to-solve-problems/) 다 아는 이야기이지만 문제 해결을 위해 어떻게 접근하는지에 대한 흐름을 자세히 설명한 글
@@ -2304,6 +2297,8 @@ Programming
 * [**Architecture for High-Throughput Low-Latency Big Data Pipeline on Cloud**](https://towardsdatascience.com/scalable-efficient-big-data-analytics-machine-learning-pipeline-architecture-on-cloud-4d59efc092b5)
 * [Cloud Design Patterns— Explained Simply](https://medium.com/@rahatshaikh/cloud-design-patterns-explained-simply-113c788b33ff)
   * Asynchronous Request and Reply, Command and Query Responsibility Segregation (CQRS), Event Sourcing, Retry, Circuit Breaker, Sidecar
+* [We turned off Pub/Sub and nobody noticed | incident.io](https://incident.io/blog/we-turned-off-pub-sub-and-nobody-noticed)
+  * 이벤트 드리븐 플랫폼 전체가 단일 메시지 브로커(GCP Pub/Sub)를 지나는 단일 장애점이어서 두 번째 브로커를 추가한 이야기—이벤트 로드 밸런서 구축, 그 뒤의 큐잉 이론, 그리고 **프로덕션에서 Pub/Sub을 실제로 꺼 본 카오스 테스트**(아무도 눈치채지 못함)까지
 * [You Keep Using That Word • Sam Newman • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=rZxIzrjvSGg) event driven, asynchronous, message queue
   * [VidiGo You Keep Using That Word • Sam Newman • GOTO 2023.](https://vidigo.ai/share/summary/38a45beea29d)
   * [그 단어를 계속 사용하는 당신 - 샘 뉴먼 - GOTO 2023 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/536409)
@@ -4445,6 +4440,24 @@ Programming
 * Vultr [SSD VPS Servers, Cloud Servers and Cloud Hosting by Vultr - Vultr.com](https://www.vultr.com/)
   * [Vultr](https://docsify.sokuricat.com/b1tk3y/1843/#/921)
   * [Vultr Kubernetes Engine 사용기 — 생존과 성장 사이](https://dokdo2013.tistory.com/12)
+
+# Code Complexity
+* [The origin of complexity](https://itnext.io/the-origin-of-complexity-8ecb39130fc)
+* [Decrease complexity by separating Code from Data](https://blog.klipse.tech/databook/2020/10/30/data-book-chap2-part1.html)
+* [코드 복잡도 줄이기 (Cyclomatic Complexity, NPath Complexity)](https://prostars.net/336)
+  * [코드 복잡도 줄이기 (Cyclomatic Complexity, NPath Complexity) | Popit](https://www.popit.kr/%ec%bd%94%eb%93%9c-%eb%b3%b5%ec%9e%a1%eb%8f%84-%ec%a4%84%ec%9d%b4%ea%b8%b0-cyclomatic-complexity-npath-complexity/)
+* [Measuring Software Complexity: What Metrics to Use?](https://thevaluable.dev/complexity-metrics-software/)
+* [lizard: A simple code complexity analyser without caring about the C/C++ header files or Java imports | terryyin](https://github.com/terryyin/lizard)
+  * 헤더 파일·import 없이도 동작하는 다언어 순환 복잡도(Cyclomatic Complexity) 분석기. Python, 2.5k stars
+* [jscpd: Copy/paste detector for source code](https://jscpd.dev/)
+  * [jscpd: 220+ languages, Rust engine, SARIF/HTML/badge reporters | kucherenko](https://github.com/kucherenko/jscpd)
+  * 220+ 언어를 지원하는 소스 코드 복사·붙여넣기(중복) 감지기—Rust 엔진, SARIF/HTML/배지 리포터. MIT, 6.3k stars
+* [Sokrates - Polyglot source code examination tool](https://www.sokrates.dev/)
+  * 다언어 소스 코드 구조·이력을 검사해 리포트를 만드는 코드베이스 분석 도구
+* [valknut: Next generation command line tool for automated code quality analysis | sibyllinesoft](https://github.com/sibyllinesoft/valknut)
+  * 자동화된 코드 품질 분석 CLI. JavaScript, 75 stars 초기 단계
+* [wily: A Python application for tracking, reporting on timing and complexity in Python code](https://github.com/tonybaloney/wily)
+  * [A Python application for tracking, reporting on timing and complexity in Python code](https://pythonawesome.com/a-python-application-for-tracking-reporting-on-timing-and-complexity-in-python-code/)
 
 # Code Coverage
 * [Writing a Code Coverage Tool](http://ismail.badawi.io/blog/2013/05/03/writing-a-code-coverage-tool/)
@@ -7048,6 +7061,9 @@ Programming
   * [The Unreasonable Effectiveness of JPEG: A Signal Processing Approach - YouTube](https://www.youtube.com/watch?v=0me3guauqOU)
   * [Unraveling The JPEG](https://parametric.press/issue-01/unraveling-the-jpeg/)
   * [애플이 아이폰16에 JPEG XL을 사용하는 이유와 사진에 미치는 영향 | GeekNews](https://news.hada.io/topic?id=16866)
+  * [The case against JPEG XL | Gianni Rosato](https://giannirosato.com/blog/post/case-against-jxl/)
+    * [JPEG XL에 반대하는 이유 | GeekNews](https://news.hada.io/topic?id=33682)
+    * JPEG XL이 웹 밖에서는 매력적이지만 **웹에 필요한 손실 압축 효율·빠른 디코딩에서는 최적화된 AVIF에 밀려** 브라우저 도입 필요성이 불분명하다는 주장—웹 이미지 대부분은 범용 손실 압축으로 충분하고, 무손실의 이점만으로 새 코덱을 브라우저에 추가할 근거가 약하다는 논지
   * [jpegoptim - utility to optimize/compress JPEG files](https://github.com/tjko/jpegoptim)
 * [Lottie](https://airbnb.io/lottie/) a library for Android, iOS, Web, and Windows that parses Adobe After Effects animations exported as json
 * [PNG Parser Differential](https://www.da.vidbuchanan.co.uk/widgets/pngdiff/)
