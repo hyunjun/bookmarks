@@ -398,6 +398,8 @@ Java
   * [Math 클래스의 반올림, 올림, 버림 등 자주 사용하는 메소드 정리](http://developer88.tistory.com/97)
   * [java BigDecimal을 이용해서 실수를 다뤄 봅시다](https://codingdog.tistory.com/entry/java-BigDecimal%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%B4%EC%84%9C-%EC%8B%A4%EC%88%98%EB%A5%BC-%EB%8B%A4%EB%A4%84-%EB%B4%85%EC%8B%9C%EB%8B%A4)
   * [BigDecimal A to Z: 정확한 계산을 위한 숫자 처리 클래스](https://dev.gmarket.com/75)
+  * [IEEE 754 부동소수점 오차와 Java의 대안 - 개발수양록 | benelog](https://blog.benelog.net/floating-point-java.html)
+    * double에 0.1을 저장할 때 IEEE 754 가수 52비트에서 반올림 오차가 생기는 원리와, 그 오차가 실제 장애로 이어진 사례(NEIS 성적 오류, 패트리어트 미사일). 대안으로 BigDecimal vs 정수형 최소 단위의 선택 기준, Java Money 같은 도메인 특화 라이브러리 정리
 * net
   * [Java Socket Client (TCP/IP) 소켓 프로그래밍](https://woolbro.tistory.com/28)
   * [Java Socket Client (TCP/IP) 소켓 프로그래밍](https://woolbro.tistory.com/29)
