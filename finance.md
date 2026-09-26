@@ -539,6 +539,14 @@ Finance
 * [빠르게 훑어보는 리디페이 백엔드 개발기](https://www.ridicorp.com/slides/skimming-ridi-pay-backend/) payment까지 포함한 source 공개
 * [빠르게 훑어보는 리디페이 백엔드 개발기](https://speakerdeck.com/ridi/bbareuge-hulteoboneun-ridipei-baegendeu-gaebalgi)
 * [MoR 서비스 중에 가장 유명한 두 개가 Paddle이랑 Lemon Squeezy | LinkedIn](https://www.linkedin.com/posts/sangrok-jung-9ab787311_%ED%81%B4%EB%A1%9C%EB%93%9C-%EC%BD%94%EB%93%9C%EB%A1%9C-saas-%ED%95%98%EB%82%98-%EB%9A%9D%EB%94%B1-%EB%A7%8C%EB%93%A4%EC%97%88%EB%8A%94%EB%8D%B0%EC%9A%94-%EA%B2%B0%EC%A0%9C-%EB%B6%99%EC%9D%B4%EB%A0%A4%EB%8B%88%EA%B9%8C-%EB%A7%89%ED%98%94%EC%8A%B5%EB%8B%88%EB%8B%A4-activity-7414630397856145408-hc8W/)
+* [What do Visa and Mastercard do? An intro to card networks | tautology.town](https://tautology.town/2026/06/01/card-networks.html)
+  * [Visa와 Mastercard는 무슨 일을 할까? 카드 네트워크 입문 | GeekNews](https://news.hada.io/topic?id=33453)
+  * Visa·Mastercard는 카드 발급사도 은행도 아니고 카드 소지자·발급사 쪽과 가맹점·매입사 쪽을 잇는 양면 시장 사업자—핵심 역할은 ①거래 메시지 전달(PAN이 IP 주소 같은 라우팅 식별자, 앞 6~8자리 BIN이 발급사 식별. Apple Pay 등의 토큰 PAN 때문에 16자리가 빠르게 소진 중) ②은행 간 차액·국제 정산(Visa의 2024 회계연도 일일 정산 익스포저 최대 1,374억 달러) ③이용을 유도하는 수수료 설정(미국 신용카드 100달러 결제의 수수료 2.50달러는 발급은행 2.00+처리업체 0.35+Visa 0.15로 배분—발급사 중심 배분이 카드 보상 프로그램을 뒷받침) ④규칙 집행·분쟁 해결(Visa 직접 심사 600달러·항소 1,000달러로 비싸게 만들어 당사자 간 해결 유도)
+  * 역할 구분 정리가 유용—카드 발급은 Chase 같은 발급사, 단말기·결제창은 처리업체, 가맹점 심사는 매입은행(점차 Stripe·Square·Adyen 같은 payment facilitator가 겸함). 네트워크 실명은 VisaNet·Banknet이고 Visa는 스스로를 "네트워크들의 네트워크"로 규정. 전체 구조가 공정성이나 사기 방지보다 **거래 촉진과 처리 효율**에 무게를 둔다는 관찰과, 해자까지 있는 버지니아 애슈번의 극비 데이터센터 같은 디테일도 재미 포인트
+* [🧠 The Agentic Payments Map | Fintech Brain Food](https://www.fintechbrainfood.com/p/the-agentic-payments-map)
+  * [에이전틱 결제 프로토콜 지도: 왜 난립하는가 | GeekNews](https://news.hada.io/topic?id=26357)
+  * "ACP, UCP, A2P, AXTP, x402. 눈이 흐려졌다면 당신만 그런 게 아니다"—난립처럼 보이는 에이전틱 결제 프로토콜들이 사실은 **같은 문제를 푸는 게 아니라**(상거래 vs B2B vs 에이전트 간 결제) 서로 다른 문제 영역을 겨냥한다는 정리. 인터넷은 정보 전달용으로 설계돼 결제 계층이 비어 있고(HTTP 402 Payment Required는 1997년 정의됐지만 실사용 없음), 에이전트가 그 공백을 드러냄—새 고객 유형(AEO), 채팅 인터페이스=결제 창구, 새 사기 위험(승인된 사용자·정당한 결제 수단인지 즉시 검증)
+  * 계층별 지도—**신뢰 계층이 결제보다 먼저**: ERC-8004 Trustless Agents(MetaMask·Google·Coinbase·Ethereum Foundation의 온체인 신원·평판 레지스트리, Draft EIP) vs Visa Trusted Agent Protocol(판매자가 신뢰 에이전트를 일반 봇과 구분하는 검증 서명). **커머스**: ACP(OpenAI+Stripe, ChatGPT에서 Walmart·Etsy·Instacart 실운영, 장바구니·결제 토큰·체크아웃을 규정한 거래 중심 표준) vs UCP(Google+Shopify, 판매자가 capability manifest를 게시하는 오케스트레이션 프레임워크—상거래의 DNS 역할, Google Search·Gemini 적용 예정)—ChatGPT와 Gemini 양쪽 노출엔 둘 다 지원해야 하는 상황. **네트워크 수준**: Visa Intelligent Commerce(2026 하반기 예정)·Mastercard Agent Pay. 결론은 단일 표준이 아니라 역할이 다른 프로토콜이 계층적으로 결합된 스택으로 진화한다는 것
 * [Autumn - Pricing and Billing](https://useautumn.com/)
   * [Autumn is an open-source pricing & billing platform](https://github.com/useautumn/autumn)
   * [몇 줄의 코드로 SaaS 요금제를 자동화하다 – 오픈소스 빌링 플랫폼 Autumn](https://digitalbourgeois.tistory.com/1605)
