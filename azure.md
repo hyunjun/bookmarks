@@ -260,6 +260,8 @@ Azure
   * [ChaosDB: How We Hacked Databases of Thousands of Azure Customers (rev) - YouTube](https://www.youtube.com/watch?v=QiJAxo30w6U)
 
 # Library
+* [Agent-Skills: Curated Agent Skills for Microsoft & Azure – giving AI coding assistants structured, real-time expertise | MicrosoftDocs](https://github.com/MicrosoftDocs/Agent-Skills)
+  * Microsoft Learn 팀이 큐레이션하는 공식 Agent Skills 모음—AI 코딩 어시스턴트에 Microsoft·Azure 서비스의 구조화된 최신 지식을 스킬 형태로 제공. CC-BY-4.0, 762 stars
 * [azure-functions-deno-worker - Run Deno on Azure Functions](https://github.com/anthonychu/azure-functions-deno-worker)
 * [azure-gpt-console](https://github.com/go-noah/azure-gpt-console)
 * [azure-llm-fine-tuning: This hands-on walks you through fine-tuning an open source LLM on Azure and serving the fine-tuned model on Azure. It is intended for Data Scientists and ML engineers who have experience with fine-tuning but are unfamiliar with Azure ML](https://github.com/daekeun-ml/azure-llm-fine-tuning)
