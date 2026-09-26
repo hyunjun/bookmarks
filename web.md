@@ -1137,6 +1137,8 @@ Web
   * [State of CSS 2023](https://2023.stateofcss.com/en-US/)에 따르면 관심/만족도에서 Tailwind CSS를 앞지름
 * [Rethinking CSS in JS - DEV Community](https://dev.to/black7375/rethinking-css-in-js-5dip)
   * [Rethinking CSS in JS | GeekNews](https://news.hada.io/topic?id=16727)
+* [scroll-craft: An agent skill for building premium, immersive, scroll-driven websites. Works with Codex, Claude Code, and others](https://github.com/nateherkai/scroll-craft)
+  * 프리미엄 스크롤 주도(scroll-driven) 웹사이트를 만들어 주는 에이전트 스킬. JavaScript, MIT, 2.8k stars
 * [shadcn/ui](https://ui.shadcn.com/)
   * [shadcn ui 자세히 알아보기](https://pyjun01.github.io/v/shadcn-ui)
     * 작년 가장 많은 GitHub Star를 받은 shadcn/ui 설명
