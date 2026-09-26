@@ -649,6 +649,10 @@ Data Science
   * [Data diffs: Algorithms for explaining what changed in a dataset | N=1 (marcua’s blog)](https://blog.marcua.net/2022/02/20/data-diffs-algorithms-for-explaining-what-changed-in-a-dataset.html)
 * [dbt - Transform data in your warehouse](https://www.getdbt.com/)
   * [dbt로 ELT 파이프라인 효율적으로 관리하기](https://www.humphreyahn.dev/blog/efficient-elt-pipelines-with-dbt)
+  * [dbt-charts: Declarative YAML around SQL for dbt-native dashboards | dbt Labs](https://github.com/dbt-labs/dbt-charts)
+    * [Charts built for Chat · dbt Charts](https://dbtcharts.com/blog/charts-built-for-chat/)
+    * [dbt Charts - AI와 대화로 만들고 Git으로 관리하는 대시보드 | GeekNews](https://news.hada.io/topic?id=33723)
+    * dbt Labs의 오픈소스 대시보드 언어—차트·필터·데이터 조회를 YAML 파일 하나로 정의해 **에이전트와 대화로 만든 대시보드도 Git으로 검토·거버넌스** 가능하게. AI가 여러 언어·파일을 늘어놓는 대신 한 파일에서 무엇을 어떻게 보여주는지 검토. Python, Apache-2.0
   * [SQLMesh](https://sqlmesh.com/)
     * [sqlmesh: Efficient data transformation and modeling framework that is backwards compatible with dbt](https://github.com/TobikoData/sqlmesh?tab=readme-ov-file)
     * [Introducing SQLMesh by Tobiko Data - YouTube](https://www.youtube.com/watch?v=UXpCeu0mD2E)
