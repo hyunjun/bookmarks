@@ -289,6 +289,8 @@ Science
   * 물리학 교수의 물리 교육론. 번개(~10C, 1억V, 0.01초에 10억J = 순간 100GW)와 스마트폰 배터리(3,100mAh·3.8V = 11.78Wh ≈ 42,408J) 비교로 "전기는 전하량만이 아니라 전압·에너지·방전 시간이 함께 결정"함을 체득시키는 차원 분석 중심 수업. 추상 개념에서 상대성이론으로 건너뛰는 교육이 물리 기피의 원인이라는 지적
 * [이해창 - 우주에서 본 지구가 점점 어두워지는 이유 | Facebook](https://www.facebook.com/ihaechang.463323/posts/pfbid025KZrJoLAv32jtt57TzA4vYa6BCQmtUXC8cYUXbwBgpzPV4eVynKruh1C6piaXcral)
   * "우주에서 지구가 점점 밝아질까 어두워질까" 퀴즈로 시작하는 글. 오염과 달리 실제로는 지구 알베도(반사율) 변화로 우주에서 본 지구가 점점 어두워지고 있다는 이야기
+* [커브볼은 왜 마지막 순간에 갑자기 떨어지는 것처럼 보일까? | 일상과학 - YouTube](https://www.youtube.com/shorts/NKctMC3dvGE)
+  * 실제 커브볼 궤적은 처음부터 부드러운 곡선(회전이 만드는 마그누스 효과의 낙차)인데, 공이 다가오며 **주변시에서 중심시로 처리 방식이 바뀌는 순간** 낙차가 갑자기 떨어지는 것처럼 극적으로 느껴진다는 물리+시각 착각 해설 쇼츠(95초)
 
 ## Space
 * [Why Does The International Space Station Have Such A Weird Shape?](http://gizmodo.com/why-does-the-international-space-station-have-such-a-we-1692193163)
