@@ -974,6 +974,10 @@ Artificial Intelligence
   * 로컬 실행, 외부 DB 불필요. AI 코딩 에이전트용 영구 메모리 벤치마크 1위. LongMemEval-S R@5 95.2%(mem0 68.5%·Letta 83.2% 대비), 240 observations 22K+ 토큰→1,900 토큰 92% 감소. 트리플 스트림(BM25+Vector+Graph RRF)+한국어/CJK 분할. 4-tier 메모리(Working→Episodic→Semantic→Procedural, sleep consolidation 영감). 51 MCP 도구, 임베딩 자동 감지(로컬 무료~Gemini/OpenAI/Voyage/Cohere/OpenRouter), port 3113 라이브 뷰어(지식 그래프·세션 재생). iii 엔진 기반, Postgres/Redis 불필요
 * [Agent-Memory-Paper-List: AI 에이전트 메모리 연구 논문 큐레이션](https://github.com/Shichun-Liu/Agent-Memory-Paper-List)
   * 형태(토큰/파라메트릭/잠재), 기능(사실/경험/작업), 동태(형성/진화/검색) 분류 체계
+* [Agent-Native — A framework for building agentic apps | BuilderIO](https://www.agent-native.com/)
+  * [agent-native: A framework for building agentic apps](https://github.com/BuilderIO/agent-native)
+  * [Agent-Native - 하나의 액션을 UI/에이전트/API에서 함께 쓰는 앱 프레임워크 | GeekNews](https://news.hada.io/topic?id=33920)
+  * 앱과 AI 에이전트를 별개로 만들지 않고 한 애플리케이션 안에서 같은 기능·데이터를 공유—작업을 `defineAction`으로 한 번 정의하면 **UI·에이전트 도구·HTTP API·MCP·A2A·CLI에서 같은 액션을 호출**. TypeScript, 6.8k stars
 * [agentOS — Secure operating system without a sandbox](https://agentos-sdk.dev/)
   * [agentos: A faster, lighter, cheaper alternative to sandboxes. Run any coding agent inside an isolated Linux VM, with agent orchestration built in](https://github.com/rivet-dev/agentos)
   * Rivet의 경량 에이전트용 OS 라이브러리. 컨테이너·VM 없이 파일시스템·네트워킹·bash·Python·Node 제공, 격리된 Linux VM에서 코딩 에이전트 실행+에이전트 오케스트레이션 내장. 샌드박스보다 빠르고 가볍고 저렴. Rust, 3.8k stars
@@ -1592,6 +1596,10 @@ Artificial Intelligence
   * [py-pimono: Python reimplementation of pi-mono for educational clarity](https://github.com/solvit-team/py-pimono)
     * [미니멀 에이전트의 출발점: pi-mono에서 Python으로 옮긴 py-pimono 이야기](https://digitalbourgeois.tistory.com/2938)
     * pi-mono의 Python 포팅. Engine·Session·UI 3계층 헥사고날 아키텍처, TUI/터미널/Discord 봇 3가지 인터페이스, Mock LLM 프로바이더, MCP(Notion) 통합
+* [px0 - the IDE for humans and AI, optimized for quick, fast code reviews](https://px0.ai/)
+  * [px0: It turns your browser into a fast code review surface | px0-ai](https://github.com/px0-ai/px0)
+  * [px0 - 브라우저에서 코드를 빠르게 탐색하고 검토하는 초경량 도구 | GeekNews](https://news.hada.io/topic?id=33964)
+  * 시작 1ms 미만·메모리 약 20MB를 내세우는 초경량 코드 뷰어—로컬·원격 서버의 코드를 브라우저에서 탐색·검토하고, 직접 편집하는 대신 **수정할 부분을 선택해 코딩 에이전트에 요청**하고 변경 결과를 화면에서 확인하는 방식. Go, MIT, 1.7k stars
 * [pxpipe: Cut Claude Code's input tokens by rendering bulky context as images](https://github.com/teamchong/pxpipe)
   * [이건 저장해두세요. 코드를 이미지로 바꾸면 비용이 60% 줄어듭니다 | Jeongmin Lee](https://www.linkedin.com/posts/jyoung105_%EC%9D%B4%EA%B1%B4-%EC%A0%80%EC%9E%A5%ED%95%B4%EB%91%90%EC%84%B8%EC%9A%94-%EC%BD%94%EB%93%9C%EB%A5%BC-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A1%9C-%EB%B0%94%EA%BE%B8%EB%A9%B4-%EB%B9%84%EC%9A%A9%EC%9D%B4-60-%EC%A4%84%EC%96%B4%EB%93%AD%EB%8B%88%EB%8B%A4-7%EC%9B%94-ugcPost-7479069463196237824-_upc/)
   * [Should LLMs just treat text content as an image? | Sean Goedecke](https://www.seangoedecke.com/text-tokens-as-image-tokens/)
@@ -6236,6 +6244,7 @@ Artificial Intelligence
     * [이상선 - Claude Code·Codex용 오픈소스 다이어그램 디자인 도구 | Facebook](https://www.facebook.com/lsszz1/posts/pfbid035mgXZFCfkNDZRyBAEBjhvymYJ9fMCFh72gVd1syaGpobmbchaCGZ8XEyJt5ByqHml)
     * 플로우차트·아키텍처·타임라인·시퀀스 등 29종 에디토리얼 다이어그램을 자체 완결형 HTML+SVG로 생성하는 Claude Code 스킬. 프로젝트의 기존 색상·폰트를 분석해 서비스 디자인 스타일에 맞춰 구성. 17.6k stars
     * [Diagram Design 프로젝트 페이지](https://cathrynlavery.github.io/diagram-design/)
+    * [Diagram Design - AI가 만드는 다이어그램에 디자인 규칙을 더하는 스킬 | GeekNews](https://news.hada.io/topic?id=33664)
     * 아키텍처·플로차트·시퀀스·Sankey·피시본·Wardley map·칸반·UML 클래스·DB 스키마 등 39개 에디토리얼 다이어그램 타입을 자체 완결형 HTML+SVG로 생성하는 에이전트 스킬(Claude Code·Codex·Factory Droid·Pi). 웹사이트를 읽어 60초 만에 브랜드 매칭, 시맨틱 패턴으로 레이아웃과 동작 분리, draw.io/Mermaid 소스를 지정 포맷·크기·상세도로 재작도. "액센트 색은 독자가 먼저 봐야 할 1~2곳에만" 절제 원칙. AWS 특화 변형인 masangbeom/aws-diagram-design의 원본. HTML, MIT, 29.4k stars
   * [eli5: A Claude Code skill that explains anything to anyone: kids, managers, engineers, parents](https://github.com/dreambigou/eli5)
     * [Building an ELI5 skill for Claude | Andrew Ou](https://andrewou.pages.dev/posts/building-an-eli5-skill-for-claude/)
@@ -6958,6 +6967,7 @@ Artificial Intelligence
   * 13개 AI 코딩 에이전트(Claude Code/Codex/Gemini/Cursor 등) 통합. 공유 로컬 메모리(BM25+시맨틱), 6중 토큰 절감(캐싱 90%), Trident 멀티AI 감사, DESIGN.md 디자인 계약, 제로 텔레메트리
 * [jcode - open-source AI coding agent for the terminal](https://jcode.sh/)
   * [jcode: A resource-efficient, open source AI coding agent with a native TUI, built in Rust](https://github.com/1jehuang/jcode)
+  * [jcode - 수십 개 세션을 병렬로 실행하는 터미널 코딩 에이전트 | GeekNews](https://news.hada.io/topic?id=33868)
   * Rust 기반 고성능 코딩 에이전트. Claude Code 대비 메모리 25배 적게 사용, 기동 13.6ms. 멀티에이전트 스웜(충돌 자동 해결·에이전트간 메시징), 시맨틱 벡터 메모리, 인라인 Mermaid 렌더링, 20+ LLM 프로바이더, 자기 소스코드 수정·리빌드 가능
 * [Jules - An Asynchronous Coding Agent](https://jules.google/)
   * [구글 미쳤다! 2025 구글 IO에서 월 200달러짜리 OpenAI Codex를 '무료'로 풀었다고?? - YouTube](https://www.youtube.com/watch?v=PRP9FyJQLvw)
@@ -7013,6 +7023,9 @@ Artificial Intelligence
 * [multica — Project Management for Human + Agent Teams](https://multica.ai/)
   * [multica: The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills](https://github.com/multica-ai/multica)
   * [multica - 코딩 에이전트를 실제 팀원으로 운영하는 관리형 에이전트 플랫폼 | GeekNews](https://news.hada.io/topic?id=28399)
+* [mysetup.ai · What's the craic with your AI setup?](https://mysetup.ai/)
+  * [Mysetup - 다른 사람의 AI 도구와 실제 작업 방식을 살펴보는 커뮤니티 | GeekNews](https://news.hada.io/topic?id=33861)
+  * 어떤 모델을 쓰는지만이 아니라 에이전트·스킬·연결 도구를 **어떻게 조합해 일하는지**를 공개하고 서로 배우는 커뮤니티—개인 페이지에 작업 흐름·설정·시행착오를 정리하고, 변경 이력과 팔로우로 다른 사람의 환경이 바뀌는 과정을 따라갈 수 있음
 * [oh-my-agentic-score: Measure and visualize your agentic coding quality](https://github.com/HwangTaehyun/oh-my-agentic-score)
   * [oh-my-agentic-score 당신의 agentic coding | Taehyun Hwang](https://www.linkedin.com/posts/taehyun-hwang-876631201_oh-my-agentic-score-%EB%8B%B9%EC%8B%A0%EC%9D%98-agentic-coding-ugcPost-7435976945043107840-t-oy)
 * [oh-my-codex: Multi-agent orchestration layer for OpenAI Codex CLI](https://oh-my-codex.dev/)
@@ -7360,6 +7373,9 @@ Artificial Intelligence
     * self-scaffolding을 엔드투엔드 자기개선 루프로 확장한 오픈소스 모델 패밀리
 * [Otty — a native, GPU-accelerated terminal with first-class AI code agent support](https://otty.sh/)
   * GPU 가속 네이티브 터미널. 리가처·트루컬러·인라인 이미지·클릭 링크, 탭·페인·분할·세션 복구·커맨드 팔레트. AI 코드 에이전트 1급 지원(에이전트 나란히 실행·진행 모니터링·출력을 챗으로 파이프). macOS 무료(Win/Linux 예정)
+* [Ouijit — a task and terminal manager for running coding agents in parallel](https://ouijit.com/)
+  * [ouijit: Git worktree-based task manager with integrated terminals for CLI coding agents](https://github.com/ouijit/ouijit)
+  * git worktree 기반으로 CLI 코딩 에이전트들을 병렬 실행하는 태스크+터미널 매니저. TypeScript, AGPL-3.0
 * [The Pair — Automated Pair Programming with AI](https://thepair.timwuhaotian.dev/)
   * [the-pair: Automated pair programming — grab a coffee while two AI agents cross-check each other's work](https://github.com/timwuhaotian/the-pair)
   * Mentor가 계획, Executor가 구현, Mentor가 리뷰하는 AI 에이전트 듀얼 워크플로우
@@ -7605,6 +7621,9 @@ Artificial Intelligence
       * AWS 데이터 스킬 5종 추가: SDK 사용법(boto3·JS v3·CLI v2), S3 Tables+Iceberg+Athena+Spark 레이크하우스, ETL/CDC 도구 선택 가이드(DMS·Glue·Kinesis·MSK·Flink), RDBMS 로그 데이터→S3/OpenSearch 패턴, 버전 확인 스킬
       * 코드 리뷰어 개선(숨은 에러·타입 설계·주석 정확성), 스킬 119→130개, 테스트 전체 통과
 * [LocalGPT: Local-first AI assistant with 3D world builder and autonomous task execution](https://github.com/localgpt-app/localgpt)
+* [OpenSpec: Spec-driven development (SDD) for AI coding assistants | Fission-AI](https://github.com/Fission-AI/OpenSpec)
+  * [OpenSpec - 코딩 에이전트와 구현 전에 명세를 맞추는 개발 도구 | GeekNews](https://news.hada.io/topic?id=33841)
+  * 대화 기록에만 남던 요구사항을 명세와 구현 계획으로 정리하고 **사람이 검토한 뒤** AI가 코드를 쓰게 하는 SDD 도구—변경 작업마다 제안서·요구사항과 시나리오·기술 설계·작업 목록을 별도 폴더에 모아 무엇을 왜 바꾸는지 함께 관리, 완료한 변경은 보관. TypeScript, MIT, 70.4k stars
 * [smart-ralph: Spec-driven development for Claude Code and Codex. Task-by-task execution with fresh context per task](https://github.com/tzachbon/smart-ralph)
   * Ralph 에이전틱 루프 패턴 기반 Claude Code 플러그인. 막연한 기능 아이디어→리서치·요구사항·기술 설계·태스크 분해·구현 단계를 전문 서브에이전트가 진행, 태스크마다 새 컨텍스트로 실행. Quick 모드/단계별 승인 게이트, 코드베이스 인덱싱, GitHub spec-kit 방식의 ralph-speckit 포함. v3.0 외부 의존성 제로
 * [sovereign-skills: 12 production-grade skills for AI coding agents (Claude Code/Codex/Cursor)](https://github.com/AlexZio00/sovereign-skills)
