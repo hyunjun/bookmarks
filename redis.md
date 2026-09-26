@@ -185,6 +185,9 @@ Redis
 * [You might not need Redis - viblo.se](https://www.viblo.se/posts/no-need-redis/)
   * [당신에겐 Redis가 필요하지 않을 수도 있습니다 | GeekNews](https://news.hada.io/topic?id=19665)
 * [개발자가 알면 좋은 Redis 꿀팁 모음 | 올리브영 테크블로그](https://oliveyoung.tech/2025-07-23/redis-tips-for-developer/)
+* [상품이 두 배 늘자 검색이 죽었다 — Redis 캐시 구조를 다시 짜고 TPS 6배 | yhjangs](https://yhjangs.tistory.com/entry/%EC%83%81%ED%92%88-%EA%B2%80%EC%83%89-%EC%9E%A5%EC%95%A0-%EA%B5%AC%EC%A1%B0-%EA%B0%9C%EC%84%A0-Redis-OpenSearch)
+  * [Redis·OpenSearch 검색 장애 구조 개선 | Yonghoon Jang | LinkedIn](https://www.linkedin.com/posts/yonghoon-jang-13004b319_redis-opensearch-smxugqqrmsnf-share-7507629660382449664-e9th/)
+  * 배포도 코드 변경도 없이 상품 수만 두 배로 늘자 Redis Direct Buffer OOM과 타임아웃으로 검색이 무너진 장애 회고—원인은 10MB 단일 할당이 동시 요청 수만큼 겹치는 구조(대기열 총량 = 값 크기 × 요청 수). 캐시 구조를 다시 설계해 TPS 6배 개선
 
 # AI artificial intelligence
 * [Redis Semantic Cache로 LLM 호출 비용 절감하는 법 - YouTube](https://www.youtube.com/watch?v=m_r_ySLBWJ4)
