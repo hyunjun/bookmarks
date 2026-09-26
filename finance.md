@@ -323,6 +323,18 @@ Finance
   * 프로그램 동산. 클로드가 클로드를 부리는 자동화 가이드—컨텍스트가 차면 생기는 문제부터 서브 에이전트·울트라 코드, 여러 Claude로 조직 세우기, 버스로 Claude끼리 메시지 주고받기, C-MUX·TUI 환경, 핸드오프 3가지 방식, bypass permissions와 도커 샌드박스, 컨텍스트 자동 비우기·무한 순환까지. 주식 자동화매매(LS증권·퀀트) 활용 관점
 * [중국 은행이 AI 토큰 쓴 양을 보고 대출을 해주기 시작했습니다 | datacode91](https://www.linkedin.com/posts/datacode91_%EC%A4%91%EA%B5%AD-%EC%9D%80%ED%96%89%EC%9D%B4-ai-%ED%86%A0%ED%81%B0-%EC%93%B4-%EC%96%91%EC%9D%84-%EB%B3%B4%EA%B3%A0-%EB%8C%80%EC%B6%9C%EC%9D%84-%ED%95%B4%EC%A3%BC%EA%B8%B0-%EC%8B%9C%EC%9E%91%ED%96%88%EC%8A%B5%EB%8B%88%EB%8B%A4-%EC%A7%80%EB%82%9C%EC%A3%BC%EC%97%90-share-7504600705337315328-lQup/)
   * 2026-08 광저우 중국은행의 '토큰 대출'—심사 기준이 공장·부동산이 아니라 매달 태우는 토큰량, 컴퓨팅 계약서, 고객 주문서, 미수금. 한도 3,000만 위안(약 58억)·3년, 출시 한 달에 6개사 2,800만 위안 집행. 자산 없는 AI 회사의 '컴퓨팅은 선불, 매출은 후불' 시차 문제를 은행 문턱을 바꿔 해결
+* [금융 AI 에이전트, 정확도만으로 신뢰할 수 있을까? 최근 연구 5편으로 살펴보는 핵심 평가 기준 | digitalbourgeois](https://digitalbourgeois.tistory.com/3669)
+  * [2608.11047 V-FiLLM: Verified Financial LLM Reasoning Benchmark](https://arxiv.org/html/2608.11047v1)
+    * 실제 표에 근거한 실행 가능 계산 트리에서 금융 추론 벤치마크를 생성—기호적으로 평가해 **정답이 구성상 보장되는(correct by construction)** 문항을 만듦
+  * [2606.29251 When Summaries Distort Decisions: Information Fidelity in LLM-Compressed Financial Analysis](https://arxiv.org/html/2606.29251v3)
+    * LLM이 금융 자료를 압축(요약)할 때 원문이 지지하던 투자 판단 자체가 바뀔 수 있다는 문제를 '정보 충실성(information fidelity)'으로 정식화—**요약이 결정을 바꾸면 충실성을 잃은 것**
+  * [2605.23955 From Accuracy to Auditability: A Survey of Determinism in Financial AI Systems](https://arxiv.org/html/2605.23955v4)
+    * 신용 리스크·사기 탐지·자금세탁방지 같은 규제 환경에서의 재현성 서베이—딥러닝·생성형 AI가 하드웨어·아키텍처에 뿌리를 둔 **기계적 비결정성**을 들여왔다는 진단, 정확도에서 감사 가능성으로의 관점 이동
+  * [2605.03310 Coordination as an Architectural Layer for LLM-Based Multi-Agent Systems](https://arxiv.org/html/2605.03310v1)
+    * 멀티 에이전트 LLM 시스템의 프로덕션 실패율이 41~87%인데 **대부분 기반 모델 능력이 아니라 조정(coordination) 결함** 때문—조정을 별도 아키텍처 계층으로 다뤄 설정과 실패 모드 시그니처의 대응을 원리적으로 제시
+  * [2606.29771 CLQT: A Closed-Loop, Cost-Aware, Strategy-Consistent Benchmark for Diagnostic Evaluation of LLM Portfolio-Management Agents](https://arxiv.org/html/2606.29771v3)
+    * 고정 구간 수익률 리더보드는 프로세스의 건전성도 우위의 지속성도 보증하지 못함(한 구간 수익은 시장 경로가 지배, 룩어헤드 편향·거래 비용을 통제하면 알파가 사라질 수 있음)—폐루프·비용 인지·전략 일관성을 진단하는 벤치마크 CLQT 제안
+  * 5편을 관통하는 리뷰의 질문—정답률을 넘어 **계산의 검증 가능성, 요약의 충실성, 재현성·감사 가능성, 협업 구조, 평가 방식**까지 봐야 금융 AI 에이전트를 신뢰할 수 있다는 프레임
 * [2512.10971 AI-Trader: Benchmarking Autonomous Agents in Real-Time Financial Markets](https://arxiv.org/abs/2512.10971)
   * 주식하는 AI 에이전트, [홍콩대가 만든 밤낮없이 시장을 보고, 뉴스도 읽고, 스스로 판단하는 AI-Trader는 정작 성적표는 꽤 인간적](https://www.facebook.com/socialego/posts/pfbid0vDy6kZfygZnjAid17TiQJvvB3PunVbnpTSiAV1RHCYcDwnR9Fhszump1fS6kRWVKl)
 * [Agentic Trading Lab](https://agentic-trading-lab.vercel.app/)
