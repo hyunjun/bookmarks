@@ -1274,6 +1274,9 @@ SQL
 * [Postgres is All You Need for Durable Workflows | DBOS](https://www.dbos.dev/blog/postgres-is-all-you-need-for-durable-execution)
   * [Postgres만으로 지속 가능한 워크플로우를 만들 수 있는 이유 | GeekNews](https://news.hada.io/topic?id=29999)
   * Peter Kraft, 2026.5.20. Temporal·Airflow·AWS Step Functions 같은 외부 오케스트레이터는 과도하게 복잡—durable workflow는 본질적으로 프로그램 상태를 DB에 체크포인팅하는 것이므로 별도 오케스트레이터 서버 불필요. Postgres 기반 접근: 클라이언트가 workflows 테이블에 작업 INSERT, 서버가 locking 절로 폴링·dequeue, step 출력 직접 체크포인트. 워커 크래시 시 다른 워커가 마지막 체크포인트부터 재개. 장점: Postgres 스케일링 솔루션(streaming replication·failover·CockroachDB·sharded Postgres) 상속, SQL 테이블이라 declarative 모니터링 쿼리, 오케스트레이터 단일 장애점 제거·민감 데이터 외부 노출 회피. DBOS 미션은 Postgres-backed durable execution 단순·고성능화
+* [All you need is PostgreSQL | ebellani](https://ebellani.github.io/blog/2026/all-you-need-is-postgresql/)
+  * [All you need is PostgreSQL 공유 | 박상길 | LinkedIn](https://www.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_all-you-need-is-postgresql-share-7490170060683239424-U7uR/)
+  * 뱅킹 예제(계좌·이체·거래)를 PostgreSQL만으로 구축하는 실습형 글—스키마·사용자 역할로 모듈화, 도메인 타입, **상태 머신과 시간 구간(temporal period) 제약으로 규율되는 이체**, 이체 상태 이력, 계좌 감사, 불변 이벤트로서의 트랜잭션. 비즈니스 규칙을 애플리케이션 코드가 아니라 의미 있는 DB 제약으로 유지하는 접근
 * [When failover isn't safe: Building high-availability PostgreSQL on Kubernetes | Datadog](https://www.datadoghq.com/blog/engineering/postgresql-ha-kubernetes/)
   * Datadog 엔지니어링—Kubernetes 위 PostgreSQL 고가용성 구축에서 failover가 안전하지 않은 경우들과 대응 설계
 * [practice - unique index and null](https://gist.github.com/hyunjun/0b0b90a536a623edc59da4605adbf519#file-unique_index_and_null-md)
