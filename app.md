@@ -1252,6 +1252,7 @@ App
   * [Sublime Text 설치 및 셋팅 for Windows](https://www.youtube.com/watch?v=ubPYAQJ-HjI)
   * [Ultimate Sublime for Python](https://blog.usejournal.com/ultimate-sublime-for-python-5c531224421b)
 * [Stirling-PDF: Open-source PDF editing platform](https://github.com/Stirling-Tools/Stirling-PDF)
+  * [Stirling PDF - 30M+ Downloads — A free, private PDF editor you can run on any infrastructure](https://www.stirling.com/)
   * 셀프호스팅 PDF 편집 플랫폼. 50+ PDF 도구(병합·분할·서명·편집·OCR·압축·변환), 노코드 워크플로우 자동화, REST API, SSO·감사 로그, 40+ 언어. 데스크톱/브라우저/서버. 77.8k stars
 * [Theia - Cloud and Desktop IDE Platform](https://theia-ide.org/)
   * [theia: Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript](https://github.com/eclipse-theia/theia)
@@ -2035,6 +2036,8 @@ App
   * 백업 탐색, 메시지 내보내기, 사진 추출, 앱 관리. 구독·iCloud 락인 없음
 * [Pika • Super High Fives](https://superhighfives.com/pika)
 * Post-it for Mac [3M, 아이폰과의 동기화를 지원하는 Post-it for Mac을 발표](https://tagilog.tistory.com/441)
+* [QLMarkdown: macOS Quick Look extension for Markdown files | sbarex](https://github.com/sbarex/QLMarkdown)
+  * Finder에서 스페이스바로 Markdown 파일을 렌더링해 미리 보는 Quick Look 확장. C++, GPL-3.0, 3.6k stars
 * [QLStephen - 확장자에 관계없이 텍스트 파일 미리보기 QLStephen](http://mcchae.egloos.com/10981138)
 * [QuickRecorder: A lightweight screen recorder based on ScreenCapture Kit for macOS](https://github.com/lihaoyun6/QuickRecorder)
   * [QuickRecorder 랜딩 페이지](https://lihaoyun6.github.io/quickrecorder/)
@@ -2149,6 +2152,9 @@ App
 
 ## Mac App Keyboard
 * [Autokbisw - Automatic keyboard input source switcher](https://github.com/jeantil/autokbisw)
+* [gksdud: 빠릿빠릿한 macOS 한영 전환 유틸 | codingnoye](https://github.com/codingnoye/gksdud)
+  * [gksdud - 씹힘 없고 빠릿빠릿한 Mac 한영 전환 | GeekNews](https://news.hada.io/topic?id=33788)
+  * Mac 한영 전환 시 글자가 하나씩 씹히는 고질병을 Karabiner 같은 복잡한 설정 없이 해결하는 것이 목표인 한영 키 유틸(이름은 '한영'의 두벌식 자판 그대로). Swift, MIT
 * karabiner [Hacking your keyboard with karabiner](https://blog.kaush.co/2019/12/25/hacking-your-keyboard/)
 * [kawa - A better input source switcher for OS X](https://github.com/utatti/kawa)
 * [kindaVim](https://kindavim.app/) Vim Mode for macOS
@@ -3856,7 +3862,14 @@ App
     * [Stop Using Tailscale. Use Open Source Instead. - YouTube](https://www.youtube.com/watch?v=7Jja20nWcqo)
       * DevOps Toolbox. Tailscale 컨트롤 서버를 셀프호스팅해 메시 네트워크를 직접 통제하는 방법
     * Tailscale 컨트롤 서버의 오픈소스 셀프호스팅 구현체. Go, 43k stars
+  * [We're making Tailscale faster | Tailscale Blog](https://tailscale.com/blog/making-tailscale-faster)
+    * [Tailscale을 더 빠르게 만들기 | GeekNews](https://news.hada.io/topic?id=34222)
+    * 패킷 메모리 처리·병렬 처리 개선으로 앱 커넥터·서브넷 라우터·출구 노드의 처리량을 높이고 지연을 줄이는 작업—Linux·Android에서 작은 패킷을 별도 64KiB 버퍼로 복사하지 않고 수신 버퍼 안에서 처리(multi-queue, writev, netmap 캐싱)
 * [tinc - 오픈소스 P2P VPN 데몬 | GeekNews](https://news.hada.io/topic?id=4013)
   * [tinc-boot: Bootstrap your Tinc node quickly and easy](https://github.com/reddec/tinc-boot)
+* [Tunnet — Open-source mesh networking platform](https://tunnet.io/)
+  * [Tunnet: Connect your machines into a private network, wherever they are | tunnetio](https://github.com/tunnetio/Tunnet)
+  * [Tunnet - 관리 서버까지 직접 운영하는 오픈소스 Tailscale 대안 | GeekNews](https://news.hada.io/topic?id=34204)
+  * Tailscale처럼 여러 컴퓨터를 하나의 암호화 사설망으로 연결(SSH·내부 서비스 공유·공개 터널·파일 전송을 같은 계정·정책으로 관리)하되, **에이전트만이 아니라 관리 서버·대시보드·릴레이까지 전부 공개**해 외부 제어 서버 의존 없이 전체 스택을 직접 운영. Rust, 176 stars
 * [ztm: A privacy-first open-source decentralized network software based on HTTP/2 tunnels](https://github.com/flomesh-io/ztm)
   * Zero Trust Mesh. HTTP/2 터널 기반 탈중앙 암호화 메시 네트워크(개인 2노드~기업 수천 노드). E2E 암호화·인증서 기반 접근 제어, 방화벽 통과, P2P 파일 공유, 내장 앱(Tunnel/Proxy/Terminal/Script). Pipy 프록시 엔진(PipyJS) 기반, 멀티 아키텍처·OS 지원
