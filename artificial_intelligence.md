@@ -569,6 +569,8 @@ Artificial Intelligence
 * [생성형 AI 서비스: 게이트웨이로 쉽게 시작하기 | 우아한형제들 기술블로그](https://techblog.woowahan.com/19915/)
 * [Slack 대화 한 번으로 끝나는 CDC 파이프라인 온보딩 | KREAM 기술 블로그](https://medium.com/kream-%EA%B8%B0%EC%88%A0-%EB%B8%94%EB%A1%9C%EA%B7%B8/slack-%EB%8C%80%ED%99%94-%ED%95%9C-%EB%B2%88%EC%9C%BC%EB%A1%9C-%EB%81%9D%EB%82%98%EB%8A%94-cdc-%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B8-%EC%98%A8%EB%B3%B4%EB%94%A9-20b3040305bd)
   * KREAM의 AI Agent "Megatron"—LangChain/LangGraph 기반 Agentic Loop와 MCP로 연결한 실행 백엔드가 반복되던 CDC 파이프라인 온보딩 절차를 Slack 대화 하나로 줄인 과정을 실제 구현 기준으로 정리
+* [고위드가 AI를 전사에 심은 과정 | gowid](https://www.gowid.com/blog/gowid-ai-integration-process)
+  * 핀테크 스타트업 고위드가 제품 개발을 넘어 전사에 AI를 도입한 과정과 일하는 방식의 변화를 정리한 글
 * [인공지능을 활용한 슬기로운 연구생활 | Pega Devlog](https://jehyunlee.github.io/2024/11/18/General-69_SNU/)
   * [인공지능을 활용한 슬기로운 연구생활.pdf](https://jehyunlee.github.io/2024/11/18/General-69_SNU/241118_%EC%9D%B4%EC%A0%9C%ED%98%84_%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EC%9D%84%ED%99%9C%EC%9A%A9%ED%95%9C%EC%8A%AC%EA%B8%B0%EB%A1%9C%EC%9A%B4%EC%97%B0%EA%B5%AC%EC%83%9D%ED%99%9C.pdf)
 * [AI 전문가 되기 매거진](https://brunch.co.kr/magazine/python1)
@@ -930,6 +932,7 @@ Artificial Intelligence
   * 박종호 외(Microsoft 등). 역할 없는 에이전트들이 공유 디렉터리로 소통하며 탐색하는 test-time communication이 독립 병렬 시도를 크게 앞선다는 연구—ARC-AGI-3에서 소통하는 k명 팀(team@k)이 독립 4k명과 같은 성공률, 이점은 k가 커질수록 복리로 증가. 5명 팀이 독립 33명과 동일 해결률(약 6.6배 효율), 단일 에이전트가 64회 시도에도 못 푼 난제를 65% 확률로 해결
   * 원리: 여러 돌파구가 필요한 난제에서 독립 에이전트는 모든 돌파구를 혼자 찾아야 해 단계별 탐색 시간의 합의 최솟값 구조지만, 소통 팀은 누가 부분 돌파구를 찾으면 즉시 공유해 단계별 최단 발견 시간의 합 구조로 바뀜—돌파구 수가 늘수록 지수적 격차. 폴리오미노 패킹 신기록 0.945(종전 0.894), MNIST 모델 압축에서 인간 최고 2,461바이트·독립 AI 3KB 벽을 넘어 4명 팀이 1,957바이트 달성
 * [500-AI-Agents-Projects: The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more](https://github.com/ashishpatel26/500-AI-Agents-Projects) 다양한 산업 분야의 AI 에이전트 활용 사례를 선별하여 모은 컬렉션
+  * [500+ AI Agent Projects & Use Cases — 웹 카탈로그](https://ashishpatel26.github.io/500-AI-Agents-Projects/)
 * [agentacct: See what your coding agents did and what it cost](https://github.com/mikehasa/agentacct)
   * [코딩 에이전트가 실제로 무엇을 했는지 확인하는 방법, agentacct | digitalbourgeois](https://digitalbourgeois.tistory.com/3572)
   * 코딩 에이전트의 각 태스크를 작업 단계로 분해—사용한 도구, 변경 파일, 실행한 테스트, 소요 시간·토큰 비용. Claude Code·Codex 등 지원 local-first 대시보드. Python
@@ -1067,6 +1070,8 @@ Artificial Intelligence
 * [AI Engineering](https://aiengineering.beehiiv.com/)
   * AI 에이전트가 반복 작업에서 학습한 워크플로우를 메모리로 저장·재사용하여 효율성을 높이는 프레임워크
 * [AI-Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search](https://github.com/SakanaAI/AI-Scientist-v2)
+  * [Towards end-to-end automation of AI research | Nature](https://www.nature.com/articles/s41586-026-10265-5)
+    * AI Scientist 팀(Chris Lu·Cong Lu·Robert Tjarko Lange·Jakob Foerster 외 8인)의 Nature 게재 논문(2026-03-25)—과학 프로세스의 개별 요소 자동화를 넘어 **착상부터 논문 출판까지 연구 수명주기 전체를 자율 수행하는 파이프라인** 제시
   * Sakana AI. 에이전틱 트리 탐색으로 워크숍 수준의 과학 연구를 자동 수행하는 AI 과학자 v2. Python, 6.9k stars
 * [ai_sre_agent_pub: AI SRE Agent - push-based observability and ops platform for Linux/GPU AI infra](https://github.com/jfang2048/ai_sre_agent_pub)
   * eBPF로 시그널 수집, 하이브리드 LLM 워크플로우로 위험 분석 및 RCA, 가드 액션으로 MTTR 단축. Go/C++/TS 기반
@@ -4095,6 +4100,8 @@ Artificial Intelligence
     * 결론은 10번—프런티어가 느려져도 이미 있는 AI조차 대부분 제대로 못 쓰고 있으므로 격차는 "누가 최신 모델을 쓰는가"보다 "누가 AI에게 일을 잘 맡기는가"에서 생긴다. ChatGPT Pro 200이 이미 제한되기 시작했다는 관찰로 마무리
   * 모델이 무엇을 할 수 있는지(역량 평가)가 아니라 어떻게 만들어지는지를 측정하는 3개 지표 제안—AI가 AI R&D를 얼마나 수행하는가, 에이전트 행동을 얼마나 감독하는가, 컴퓨팅을 어디에 배분하는가. Anthropic 내부 스냅샷: 2026년 8월 Claude가 AI R&D 업무의 26%를 주도(AL4)하고 90% 이상에서 협업(AL3) 이상을 맡았으나 완전 자율(AL5)에 이른 업무는 없음. 최대 내부 플랫폼에서 약 3만 에이전트가 동시 활동하며 모든 행동을 실행 전후로 감시(단 감시 범위가 모든 위험의 탐지를 뜻하지는 않는다고 명시), 조사 주간 AI R&D 컴퓨팅의 약 6%가 안전 작업에 사용(안전장치용 분류기 제외)
   * Epoch AI의 AL0~AL5 자동화 척도로 재귀적 자기개선 근접도를 가늠하는 R&D Automation Index 시범 공개. 연구소 간 비교를 위한 공통 측정 기준과 독립 검증을 제안하고, 여러 기관의 외부 평가자를 내부 위험 평가팀에 준하는 접근 권한으로 상주시켜 안전 관행 검증·사고 보고·핵심 지표 모니터링을 맡길 계획. Dario Amodei가 제안한 개발 속도 조절 공조가 이뤄지면 이 수치들이 달라질 것이라고 스스로 밝힘
+* [Towards human-AI collaborative learning: synergizing self-regulation and artificial-intelligence literacy | Education and Information Technologies](https://link.springer.com/article/10.1007/s10639-025-13880-3)
+  * Long Zhang·Shijun Cindy Chen (2026-01). 인간-AI 협력 학습을 위해 자기조절학습(self-regulation)과 AI 리터러시를 결합하는 접근을 다룬 교육공학 논문
 * [AILit Framework — AI Literacy Framework for Primary and Secondary Education](https://ailiteracyframework.org/)
   * [이재흥 - OECD와 EU가 확정 발표한 AI 리터러시 프레임워크 | Facebook](https://www.facebook.com/weirdo0613518/posts/pfbid02Jdv5jJCrjJrn6PC7ECdFHHSbCe5QwZJ81a4dfWw8qLpyeQs6RwMyxt3EP8kYqyUwl)
   * EU와 OECD가 공동 개발한 초중등 AI 리터러시 교육 프레임워크. 4개 영역(AI 이해·AI 창작·AI 관리·AI 형성)의 학습 역량과 교수 역량 기준 제시. 100개국 2,000명+ 교육자·학생·정책가·과학자 협의로 완성
@@ -4776,6 +4783,14 @@ Artificial Intelligence
   * 코딩 무경험 디자이너 이키가 Claude로 7일간 900커밋, 문장 채집 앱 "문채" 앱스토어 출시. 3,800줄 단일 파일이 연쇄 버그, 42개 동시 수정으로 검은 화면→Git 롤백 후 최소 `str_replace` 원칙. 카카오/Apple 로그인·동기화·친구·AI 취향 분석·책 표지·Chrome 확장 추가. 비개발자 6 교훈: 무엇을 만들지가 코딩보다 중요/한 번에 많이 바꾸지 않기/AI에게 처음부터 파일 분리 요청/전문가 역할(보안·UX·QA) 반복 부여/테스터 2명이면 충분/약한 아이디어는 빠르게 폐기. 비용 Apple 개발자 12.9만원/년+Claude Max+호스팅
 * [무료 로컬 LLM 모델 TOP5 내 PC에서 공짜로 돌리기 - YouTube](https://www.youtube.com/shorts/4fmdeK2Hf6I)
   * AI INFO MAP. RTX 3060급 GPU나 맥에서 API 비용 없이 돌리는 오픈웨이트 5종을 용도별 1분 정리(2026-06-14 기준)—Qwen3(코딩·한국어 종합), DeepSeek R1(추론·수학), Gemma 4(멀티모달·140개+ 언어), Mistral Small 3(RAG·에이전트), Phi-4 Mini(3.8B 초경량). 전부 Apache 2.0 또는 MIT
+* [Coding Agents Can Now Prove Python Programs with Machine-Checked Proofs | Neural Trend Hub - YouTube](https://www.youtube.com/watch?v=Bhn_cnP9RN8)
+  * [2608.21516 Neuro-Formal Verification: Agentic Language-Agnostic Formal Program Reasoning](https://arxiv.org/html/2608.21516v3)
+    * Shuvendu K. Lahiri(Microsoft Research). 형식 검증은 가장 강한 정확성 보장을 주지만 대부분의 개발자는 검증 지원 없는 언어를 쓰고 속성 형식화·실행 환경 모델링에 전문성이 필요해 혜택을 못 받아 왔음—AI 코딩 에이전트가 기계 검증 증명 작성 비용을 크게 낮춘 지금, 주류 언어(Python 등)에도 에이전트 기반 언어 불문 형식 추론을 제안하는 neuro-formal verification
+  * [2609.13948 Thought without systematicity? Evaluating reasoning models on rule induction tasks](https://arxiv.org/html/2609.13948v1)
+    * Simon Schug·Brenden M. Lake. 인지과학의 규칙 귀납 과제를 확장해 추론 모델의 **체계성(systematicity)**을 평가—구조적으로 동등한 과제 변형(task isomorphism)에서 일관된 성능을 보이는지 검사해, 한 개념을 이해하면 가까운 변형도 이해해야 한다는 인간 인지의 원칙을 모델이 충족하는지 측정
+  * [2609.10728 Towards a Deterministic Math Solver for Clinical Language Models](https://arxiv.org/html/2609.10728v1)
+    * LLM은 산술에 신뢰할 수 없는데 임상 계산기는 숫자 하나가 권고를 바꿈—계산기마다 검증된 함수를 하드코딩하는 표준 대응 대신, **모델은 계산하지 않고 케이스별 Python을 작성해 제한된 로컬 실행기가 결정론적으로 실행**하는 Program-Solve 인터페이스를 MedCalc-Bench Verified(1,100케이스·55계산기)에서 직접 산술과 비교 평가
+  * 주간 리뷰 영상(7분)의 관통 주제—신뢰할 수 있는 AI 시스템은 유창한 답이 아니라 **소프트웨어가 검증할 수 있는 산출물(체커블 프로그램·증명·계산)**을 내도록 강제되고 있으며, 남은 난제는 의도를 정밀한 가정으로 번역하고 규칙을 일관되게 적용하는 것
 * [How well do agents use test/verification techniques? | Dan Luu](https://danluu.com/agentic-testing/)
   * 에이전트가 테스트·검증 기법을 얼마나 잘 활용하는지에 대한 Dan Luu의 분석
 * [Introducing Arrow 2 and Arrow 2 Telos | QuiverAI](https://quiver.ai/blog/introducing-arrow-2-0)
