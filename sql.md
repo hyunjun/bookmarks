@@ -309,6 +309,8 @@ SQL
 * [5. LLM 시대의 데이터 모델링 | DataNexus](https://datanexus-kr.github.io/posts/dw-modeling/005-llm-data-modeling-grain-snapshots/)
   * [5편. LLM 시대의 데이터 모델링 | Junho Lee](https://www.linkedin.com/posts/leejuno_5-llm-%EC%8B%9C%EB%8C%80%EC%9D%98-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%AA%A8%EB%8D%B8%EB%A7%81-share-7504122655013228544-f0zl/)
   * dbt·시맨틱 레이어·LLM이 SQL을 대신 짜주는 시대에도 30년 전 킴볼 방법론 같은 데이터 모델링 기본기가 오히려 더 중요해진다는 DW 모델링 시리즈 5편—grain·스냅샷 설계가 LLM 데이터 조회 정확도를 좌우
+* [정규화를 하면 정말 성능이 느려질까요? | 이병후 | LinkedIn](https://www.linkedin.com/posts/%EB%B3%91%ED%9B%84-%EC%9D%B4-849142b1_%EC%A0%95%EA%B7%9C%ED%99%94%EB%A5%BC-%ED%95%98%EB%A9%B4-%EC%A0%95%EB%A7%90-%EC%84%B1%EB%8A%A5%EC%9D%B4-%EB%8A%90%EB%A0%A4%EC%A7%88%EA%B9%8C%EC%9A%94-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%AA%A8%EB%8D%B8%EB%A7%81%EC%9D%84-%ED%95%98%EB%8B%A4-%EB%B3%B4%EB%A9%B4-%EC%A0%95%EA%B7%9C%ED%99%94%EB%A5%BC-share-7508661889741004800-KpPI/)
+  * "정규화=JOIN 증가=성능 저하" 통념 반박—정규화의 우선 목적은 Grain과 함수 종속성을 명확히 해 중복·갱신 이상을 줄이는 정합성 확보이고, **성능에 긍정적인 경우도 있음**: 지나치게 넓은 Row에서 업무별 속성을 분리하면 Row Size가 줄어 한 Block에 더 많은 Row가 들어가 조회 효율이 올라감
 * [검색엔진과 DB Like 검색의 결과가 다른 이유](https://www.slideshare.net/heungrae_kim/db-like)
 * [코호트 분석(Cohort Analysis)을 SQL로 구현하는 테스트 코드](https://www.sangkon.com/using_sql_for_cohort/)
 * [Write-Ahead Log for Dummies](https://work.tinou.com/2012/09/write-ahead-log.html)
