@@ -3210,13 +3210,6 @@ NLP
   * [AI가 100배 빨라지고 100배 저렴해지는 것의 의미 (텍스트 없이 결론만 내리는 AI 모델: Jev) | 번개맞은씨앗 | PGR21](https://pgr21.com/freedom/107303)
     * 속도·비용 개선이 왜 단순한 '양'이 아니라 '질'로 바뀌는지 4가지—①검토 시간이 생겨 안전이 올라감(단 AI 대 AI 대결에선 예외) ②brute force로 밀레니엄 문제급 탐색이 가능해짐 ③computer use·로봇이 하드웨어는 이미 올라왔으니 속도가 민첩함을 결정 ④비싸서 아예 시도 안 했던 것들(개인 LLM 위키 등)이 시도되며 경험이 축적됨. 물이 임계점에서 수증기가 되듯 양적 변화가 구조적 변화를 낳는다는 비유로 "AI 모델 외부에서의 창발"을 제안
     * Jev 평가는 유보적—벤치마크 없이 자기 보고 성능이고 내부 구조·방법·모델 크기 미공개라 처음엔 반신반의했으나 이틀간 사용 후기는 대체로 호평. 신뢰도가 낮으면 "모르겠다"며 LLM에 넘길 수 있는 구조에 주목하고, 파이썬 결정론적 코드 / 경량 LLM / 고성능 LLM 배치에서 경량 LLM·휴리스틱·일부 RAG 자리를 Jev가 대체할 것으로 봄. 연결주의와 기호주의의 접점이라 협업론을 주장해온 학자들의 반응을 기다리는 중
-  * [Awesome Jev — Directory of 488 projects built on Jev](https://awesomejev.com/)
-    * TypeSafe AI 공식 문서·SDK부터 통합·에이전트 툴링·브라우저/컴퓨터 사용·애플리케이션·게임·벤치마크까지 카테고리별로 묶은 488개 프로젝트 디렉터리. 최다 스타는 browser-use의 jev-ultrafast(4.8k), Claude Code의 compaction 요약을 Jev 판단으로 대체하는 fast-jev-compaction(2.7k), 오픈 모델로 3090에서 semantic if를 돌리는 비공식 SemIf(1.5k), 텍스트 선택지 중 하나를 한 번에 고르는 소형 모델 학습 jevlike(851)
-  * [jevlike: Train a small model that chooses among a changing list of text options, one probability per option in a single pass](https://github.com/vinnylarouge/jevlike)
-    * [Jevlike - 문장 대신 선택지별 확률을 반환하는 Jev 방식의 오픈소스 모델 | GeekNews](https://news.hada.io/topic?id=33854)
-    * Jev와 같은 입출력(문맥+매번 달라지는 선택지 목록 → 합이 1인 선택지별 확률)을 직접 학습해 실험해 보는 서드파티 프로젝트. 각 선택지를 벡터화하고 문맥에 어텐션을 걸어 선택지별 문맥 표현을 만든 뒤 점수를 softmax로 변환—예측 전에 전체 선택지 목록이 주어져야 하고 최소 2개 필요. 바이트 단위 표현을 처음부터 학습하는 소형 모델이 기본이고, Qwen2.5-0.5B 같은 HF 사전학습 모델에 점수 계산부만 얹는 구성도 가능. CPU·Apple MPS·CUDA 학습 지원. Python, MIT, 926 stars
-    * **Jev의 복제나 비공개 학습 방식 재현이 아니며 동등한 판단 능력·확률 보정을 입증하지도 않았다고 레포가 직접 밝힘.** 학습·평가의 목표 페이지를 분리한 Wikispeedia 다음 클릭 예측에서 고정 Qwen2.5-0.5B+점수 계산기 26%, 처음부터 학습한 소형 모델 29%, 문맥 섞기·무작위 인코더 대조군 약 8%(합성 선택지 데이터만 쓰면 98%까지 나오지만 이는 누수된 수치). 선택지 8개를 한 번에 점수화하면 소형 디코더에 400토큰을 생성시키는 방식보다 약 100배 빨랐다는 것도 **로컬 소형 디코더 대비**이고 범용 100배 향상 주장이 아님
-    * Doom 7개 버튼·체스 5개 키처럼 화면을 보고 행동을 고르는 데모도 공개하지만 공개 영상은 5초 활동 구간을 선별한 것—Doom 체크포인트는 10 에피소드 평균 처치 0.60, 체스 전용 체크포인트는 무작위 상대에 4승 46무 0패지만 Stockfish 레벨 0에는 0승 2무 48패
   * [Jev explained in 7min.. - YouTube](https://www.youtube.com/watch?v=vj7hysh0mOI)
     * Caleb Writes Code. Jev를 "현재 AI 궤적에 대한 안티테제"로 위치시킴—ChatGPT 이후 모델은 인간 채팅 보조로, 2025년 이후엔 코딩 에이전트로 최적화됐고 애플리케이션 계층의 압력이 아래 계층을 그 방향으로 변형시켰는데, 그 과정에서 워크플로 자동화는 계속 문턱을 못 넘었다. TypeSafe의 주장은 Astra·Fable 같은 고지능 모델로도 이 문턱이 어려운 이유가 **모델이 다른 것에 최적화돼 있기 때문**이라는 것—인간 선호(RLHF)와 검증 가능한 보상(RLVR)으로의 최적화가 불확실성 하에서 빠른 결정이 필요한 상황으로 이어지지 않는다는 분열(schism) 지적
     * 기능적으로는 기존 LLM도 Jev가 하는 일을 다 할 수 있고 출력 형식까지 흉내낼 수 있지만, 토큰을 하나씩 생성하는 자기회귀 구조로는 70~500ms 지연을 맞추기 어렵다는 것이 핵심—Jev는 병렬 샘플링과 타입드 확률 결정이 아키텍처에 내장. 기본 프리미티브는 choice·score·null 세 가지뿐이라 "논리 게이트와 레지스터로 돌아가 그 위에 추상을 쌓는 느낌"이라고 표현. 소셜에서 돌아다니는 데모(이메일 분류·RAG 개선·게임 플레이·모델 라우팅)가 이해의 깊이보다 실행 속도를 보여주는 것들이라는 관찰
@@ -3242,11 +3235,6 @@ NLP
     * [Jev 아키텍처 분석: 텍스트 생성 대신 확률을 직접 읽어내는 의사결정 모델 | digitalbourgeois](https://digitalbourgeois.tistory.com/3688)
     * "JSON 분류기에 1,200만 뷰? 버블이다"류 반응이 놓친 지점—일반 LLM이 "90% confident"라고 생성하는 텍스트는 실제 정답 확률과 무관하지만, Jev는 사전학습 LLM의 지식을 유지하면서 생성된 확신 문장 대신 내부 표현에서 읽은 결정 확률을 결과에 맞춰 보정. 오픈 웨이트가 아니라 TypeSafe API의 지연 시간 스케일링 시그니처를 프로빙해 추정한 아키텍처: 결정용으로 재구성한 causal transformer(sparse MoE 추정), 상태를 한 번 인코딩한 공유 그리드+질문별 병렬 브랜치, 텍스트 생성 대신 직접 확률 readout
   * [Jev 따라하기 (LLM과 다른 의사결정 AI 시작하기) - WikiDocs](https://wikidocs.net/book/21376)
-  * [jevlike: 문장 대신 선택지별 확률을 계산하는 오픈소스 AI 모델](https://github.com/vinnylarouge/jevlike)
-    * [Jevlike, 문장 대신 선택지별 확률을 계산하는 오픈소스 AI 모델 | digitalbourgeois](https://digitalbourgeois.tistory.com/3680)
-    * Jev 방식의 모델을 직접 학습·실험할 수 있는 오픈소스—고객 문의를 환불/영업/기술지원으로 분류하거나 Wikipedia에서 다음 클릭할 링크를 고르는 것처럼 주어진 선택지 중 하나를 판단하는 작업을 문장 생성 없이 처리. Python, MIT, 1.3k stars
-  * [minecraft-agent: Astra planner and JEV controller for Minecraft, with native recording, tested routes, and run verification](https://github.com/rmalde/minecraft-agent)
-    * Astra(GPT-6)가 계획하고 Jev가 밀리초 단위로 제어하는 Minecraft 에이전트—네이티브 녹화, 검증된 경로, 실행 검증. JavaScript
   * [Bespoke Nimble: A 9B Model Hit 90% on Jev — Built in Days, Not Months | explainx](https://explainx.ai/blog/bespoke-nimble-9b-model-90-percent-jev-eval-2026)
     * [Bespoke Nimble, 9B 모델로 Jev 스타일 평가 90%를 기록한 LoRA 파인튜닝 사례 | digitalbourgeois](https://digitalbourgeois.tistory.com/3682)
     * Bespoke Labs가 Qwen3.5-9B를 LoRA 파인튜닝해 Jev 스타일 평가에서 90% 정확도(데이터 큐레이션 전 66%→후 90%)를 며칠 만에 달성했다는 보고—TypeSafe 출시 48시간 내 등장한 6개 Jev 클론 중 하나. 처음부터 학습하지 않고 오픈웨이트 모델+작업 특화 데이터 정제+LoRA만으로 도달했다는 점이 오픈웨이트 빌더에게 갖는 의미
@@ -3254,11 +3242,6 @@ NLP
     * Real Python. 하이프 없는 첫 사용기—Jev를 설치하고 OpenRouter 경유로 Python에서 호출해 결과를 정직하게 평가(모호하게 돌아온 답도 포함). 대문자 Y/N만 받는 평범한 Python 스크립트가 "yeah, I've lost..." 같은 입력에 무너지는 지점에서 출발해 Jev의 판단형 응답이 이를 어떻게 처리하는지 시연, 샘플 코드 제공
   * [Build Your Own Jev With Claude Opus 5.5 - YouTube](https://www.youtube.com/watch?v=z8My0bX2-ZU)
     * Mark Kashef. Claude Opus 5.5의 도움으로 Jev에서 영감받은 로컬 AI 스페셜리스트를 직접 만드는 과정—오픈소스 모델 선택→역할 정의→파인튜닝→Jev와 비교 테스트→이미지 이해 추가. 예시는 호텔 오퍼를 여행자 요구사항(환불·늦은 도착·수영장·가이드 투어)에 대조 판정하는 여행 모델. 빌드 프롬프트·가이드 무료 제공
-  * [Awesome Jev / TypeSafe](https://abdelstark.github.io/awesome-typesafe-jev/)
-    * [awesome-typesafe-jev: a source-backed field guide to TypeSafe's System One model, with SDKs, live demos, agent tools, and independent evaluations](https://github.com/AbdelStark/awesome-typesafe-jev)
-    * "Jev는 소프트웨어에 타입드 판단을 주고, 코드는 여전히 주도권을 가진다"—문서화된 호출 예시(support-ticket 예제, 한 번의 호출로 세 개의 타입드 답) 확인, 라이브 프로젝트 체험, 스타터 복사, 독립 평가 열람으로 구성된 커뮤니티 필드 가이드. SDK·데모·에이전트 도구·독립 평가 큐레이션. MIT
-  * [laya-coreml: Local Laya typed decisions on Apple Core ML and Neural Engine](https://github.com/mizorewww/laya-coreml)
-    * 오픈 웨이트 판단 모델 Laya(convaiinnovations/laya-multilingual)를 Apple Silicon Core ML·Neural Engine으로 포팅—토큰 생성 없이 타입드 결정만 반환, PyTorch·Transformers·MLX 없이 로컬 추론. 짧은 다국어 판단 1건 4.98ms P50/5.31ms P95(M3 Max, ANE FP16), 컴파일된 MLX FP16 대비 시스템 전체 에너지 2.78배 개선(W8 팔레트 변형 4.88ms·3.19배). 실제 Laya가 확률·안전 개입을 보여주며 Snake를 플레이하는 데모(600스텝 3회 무사망, 49~50 결정/초), 재현 가능한 속도·에너지 벤치마크. `pip install laya-coreml`. Python, Apache-2.0, 1.4k stars
   * [Jev는 그냥 BERT인가요 | Sigrid Jin (Jin Hyung Park)](https://www.linkedin.com/pulse/jev%EB%8A%94-%EA%B7%B8%EB%83%A5-bert%EC%9D%B8%EA%B0%80%EC%9A%94-sigrid-jin-jin-hyung-park--dqlkc)
     * Han Xiao가 jina-reranker-v3.5를 Jev 유사 판단 API로 쓴 실험(query 대신 상황·목표, 문서 대신 행동 후보)을 출발점으로, "후보별 점수를 계산하는 구조를 공유한다"와 "그 점수가 같은 판단 기준을 반영한다"는 다른 이야기임을 논증—trolley problem에서 1명이 죽든 10억 명이 죽든 레버를 당기는 결과가 나온 이유. 검색의 relevance는 명제의 참·거짓과 다른 수치("양파 넣어주세요/넣지 마세요"는 둘 다 관련 자료지만 "고객은 양파를 원한다"엔 반대 판단), 범용 판단기는 입력과 기준의 관계를 학습해야 하므로 API 이름만 바꿔선 안 됨. last-but-not-late interaction 구조 해설
     * 반대 방향 실험: TREC DL 2019/2020 query에 BM25 상위 100 passage를 Jev로 reranking—noul(P(yes))·choice(합 1 확률분포)·score(0~3 relevance grade 확률의 기댓값) 출력 형식 설명
@@ -3268,11 +3251,69 @@ NLP
     * LLM 추론의 Prefill/Decode 중 시간과 토큰 비용을 잡아먹는 주범은 한 글자씩 순차 생성하는 Decode—Jev는 백지에 서술형 답을 쓰는 대신 정해진 선택지에 컴퓨터용 사인펜으로 마킹만 하는 방식. 병원 진료 시나리오로 본 3가지 판단 도구: Choice(부서 배정 내과 30%/피부과 70%)·Bool(응급 여부 참 95%)·Score(복잡도 0.15). 글짓기 루프 없이 단일 순방향 패스로 끝나 지연 20배↓, 할루시네이션·JSON 깨짐 원천 차단
   * [Jev, 이해에서 판단으로 — Jev 가이드](https://jev-guide-gamma.vercel.app/)
     * 개발자와 기획자가 함께 읽는 Jev(TypeSafe AI System One Model) 안내서—"언어의 이해를 소프트웨어의 판단으로": 자연어 state("환불은 필요 없고 지난달 결제 내역만 확인하고 싶어요")→의도·문맥·기준→choice 판단 결과(`billing_history` 97%)→코드의 다음 단계로 이어지는 흐름을 플레이그라운드와 개념 설명으로 정리
-  * [solar-mini4-jev: Upstage Solar Pro4/solar-mini4를 TypeSafe Jev System One API 형태로 노출하는 drop-in 래퍼](https://github.com/hunkim/solar-mini4-jev)
-    * `POST /v1/systemone`에 model·state·questions를 보내면 Jev와 같은 스키마의 noul/choice/score 질문 유형 지원. Vercel에 호스팅된 BYOK 엔드포인트(X-Upstage-Api-Key)로 배포 없이 시험 가능, llms.txt 제공
+  * [Jev 미쳤다! 제브 AI 사용하여 클로드 토큰과 비용을 획기적으로 아끼는 가장 완벽한 방법 (2026 최신판) | AI 투데이 - YouTube](https://www.youtube.com/watch?v=5LFwLd7ZPvY)
+    * Claude Code의 판단성 잔일(모델 선택·분기)을 Jev에 넘겨 세션 모델을 매번 바꾸지 않아도 Opus가 잔일에 나가는 토큰을 줄이는 방법—Jev는 글을 쓰지 않고 미리 정한 보기에서 골라 확률만 반환(0.5초 내 응답, 입력 100만 토큰 4센트·출력 무료)이라는 요금 구조 활용
+  * [Jev 열풍 — 잠시 오프라인 세계에 쓰러져있다가 온라인으로 와보니 Jev가 너무 핫합니다 | Jamie Kim | LinkedIn](https://www.linkedin.com/posts/jamiekim5_jev-%EC%97%B4%ED%92%8D-%EC%9E%A0%EC%8B%9C-%EC%98%A4%ED%94%84%EB%9D%BC%EC%9D%B8-%EC%84%B8%EA%B3%84%EC%97%90-%EC%93%B0%EB%9F%AC%EC%A0%B8%EC%9E%88%EB%8B%A4%EA%B0%80-%EC%98%A8%EB%9D%BC%EC%9D%B8%EC%9C%BC%EB%A1%9C-%EC%99%80%EB%B3%B4%EB%8B%88-jev%EA%B0%80-share-7507213868591542272-O7Z0/)
+    * 열풍에 대한 냉정한 시각—"LLM의 대체자"라는 분석이 SNS를 도배하지만 **실제로 공개된 게 거의 없어** 원리는 추측의 영역이라는 지적. Transformer 기반이라는 사실은 밝혀졌으므로 LLM 대체 기술이라는 프레임은 잘못됐고 사실상 LLM 기술 기반 모델로 보인다는 판단
+  * [Mini-Vibe Check: TypeSafe's Jev Judged Everything I've Written in 0.7 Seconds | Every](https://every.to/vibe-check/mini-vibe-check-typesafe-s-jev-judged-everything-i-ve-written-in-0-7-seconds)
+    * [TypeSafe의 Jev가 내가 쓴 모든 글을 0.7초 만에 평가했다 | GeekNews](https://news.hada.io/topic?id=33973)
+    * 글의 반복·억지 양비론·과도한 설명 등 21개 기준으로 글 37개(777건 판단)를 0.7초 미만에 검사한 실사용 리뷰—퍼지한 질문을 확률로 바꾸는 게 충분히 싸고 빨라져 **에이전트가 일하는 도중 실시간으로 작업을 검수**할 수 있게 됐다는 관점
+  * [Jev means structured output is interesting again | Sean Goedecke](https://www.seangoedecke.com/jev-means-structured-output-is-interesting-again/)
+    * [Jev 덕분에 구조화된 출력이 다시 흥미로워졌다 | GeekNews](https://news.hada.io/topic?id=33975)
+    * "새 모델 리뷰는 Simon Willison의 몫"이라며 모델 글을 안 쓰는 저자가 예외로 쓴 에세이—프로그램의 의사결정 지점마다 빠르고 싼 판단이 놓이면 정교한 챗봇을 넘어 새로운 종류의 응용이 열린다는 논지. 여러 질문을 한 번에 병렬 처리하고, 텍스트로 전달한 게임 상태로 Doom을 실시간 플레이할 만큼 빠르다는 점을 근거로
+  * [Jev CEO: I made ChatGPT, now I'm building what's next | AI Engineer - YouTube](https://www.youtube.com/watch?v=cJ0EOzey--o)
+    * TypeSafe CEO Diogo Almeida(GPT-4 공저자)의 18분 강연—**RLHF는 루프 안의 인간을 기쁘게 하는 데 비상하게 뛰어난 모델을 만들었고, 그게 바로 문제**라는 진단에서 출발해 Jev가 겨냥하는 다음 단계를 설명
+  * [Jev From TypeSafe is a New Class of AI Model that is FAST and CHEAP - But There is a Caveat | Gary Explains - YouTube](https://www.youtube.com/watch?v=qdji39XXgEY)
+    * 11분 해설—자연어를 이해하되 답은 구조화된 응답+확률로만 돌려주는 LLM 아닌 모델이라는 정확한 위치 짚기
+  * [최근 난리난 Jev 직접 써봤습니다. 제 게임을 손 안 대고 깼습니다. | StefanCho - YouTube](https://www.youtube.com/watch?v=Evq6yIh4f1I)
+    * 27분 실험—state(정보)와 questions(질문)를 구조화해 넣으면 Choice·Score·Noul 세 타입으로 답과 확률을 반환하는 구조를 설명하고, 자기가 만든 게임의 상태를 넘겨 손 안 대고 클리어
+  * [Jev 진짜 200배 빠르고 400배 저렴한지 테스트 해봤습니다. | 코드팩토리 - YouTube](https://www.youtube.com/watch?v=GeM9URVnPV8)
+    * 벤더 수치(200배/400배)를 직접 실측으로 검증해 보는 14분 테스트
+  * [출시하자마자 난리 난 AI, JEV는 대체 뭐가 다른가 | 코드깎는노인 - YouTube](https://www.youtube.com/watch?v=lx3YkhzM_04)
+  * [What is Jev and How to Use it? | Codevolution - YouTube](https://www.youtube.com/watch?v=ZgXej_9isxY)
+    * 22분 튜토리얼—Jev가 무엇이고 LLM과 어떻게 다른지, 애플리케이션에서 실제로 쓰는 방법
+  * [LLM의 시대가 가고 JEV의 시대가 온다! (Feat. 제번스의 역설) | Suk Hyun K | LinkedIn](https://www.linkedin.com/posts/suk-hyun-k-31ba9b369_sxirsiswmstusmvsos-suaqtztfmqvz-slsstwswktxuai-share-7507030294785396736-655S/)
+    * "이 티켓이 긴급한가" 같은 **초고빈도 소형 판단(micro-judgment)**에조차 LLM은 토큰을 순차 생성하며 파싱·검증·재시도 연쇄 지연을 만든다는 문제의식—텍스트 생성을 완전히 배제한 '의사결정 엔진' 범주의 등장으로 정리(판단이 싸지면 수요가 폭증한다는 제번스의 역설 프레임)
+  * [Jev가 놀랍다면, AI Engineering을 하고 있는지 의심해 보자 | Taekyoon Choi | LinkedIn](https://www.linkedin.com/posts/taekyoon-choi_jev%EA%B0%80-%EB%86%80%EB%9E%8D%EB%8B%A4%EB%A9%B4-ai-engineering%EC%9D%84-%ED%95%98%EA%B3%A0-%EC%9E%88%EB%8A%94%EC%A7%80-%EC%9D%98%EC%8B%AC%ED%95%B4-%EB%B3%B4%EC%9E%90-share-7507772310515400704-vJI_/)
+    * 가장 신랄한 반문—AI 엔지니어링은 원래 생성 태스크와 분류 태스크를 구분하고 분류는 가볍고 빠르게 최적화하는 일인데, **Jev가 놀랍다면 프로젝트에서 분류 문제를 정의조차 안 하고 생성만으로 때워 왔다는 뜻 아니냐**는 지적
+  * [최근 TypeSafe AI의 Jev가 워낙 핫해서 이게 뭐지 하고 살펴봤습니다 | Seongeun So | LinkedIn](https://www.linkedin.com/posts/sungeuns2_%EC%B5%9C%EA%B7%BC-typesafe-ai%EC%9D%98-jev%EA%B0%80-%EC%9B%8C%EB%82%99-%ED%95%AB%ED%95%B4%EC%84%9C-%EC%9D%B4%EA%B2%8C-%EB%AD%90%EC%A7%80-%ED%95%98%EA%B3%A0-%EC%82%B4%ED%8E%B4%EB%B4%A4%EC%8A%B5%EB%8B%88%EB%8B%A4-share-7507822409333436416-z3Di/)
+    * "Next LLM"이라는 카피에 대한 교정—TypeSafe 문서 스스로 숫자 계산·날짜 비교·다단계 추론·긴 문맥에 약하다고 명시하며, "hallucination 없음"도 판단이 항상 옳다는 게 아니라 **정의 안 된 필드·선택지를 생성하는 type/schema error가 구조적으로 없다**는 의미. BERT 계보 encoder-only 모델의 일반화가 아닌가 하는 추정(아키텍처 비공개라 단정 불가)과 함께 다루는 문제 자체는 새롭지 않다고 정리
+  * [2609.26550 JEV-as-a-Judge: Accept When Confident, Escalate When Unsure](https://arxiv.org/html/2609.26550)
+    * [벌써 Jev의 실제 성능과 장점, 그리고 약점과 보완 방법까지 자세히 실험한 논문이 나왔습니다 | 염기웅](https://www.linkedin.com/posts/kiwoong-yeom_%EB%B2%8C%EC%8D%A8-jev%EC%9D%98-%EC%8B%A4%EC%A0%9C-%EC%84%B1%EB%8A%A5%EA%B3%BC-%EC%9E%A5%EC%A0%90-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%95%BD%EC%A0%90%EA%B3%BC-%EB%B3%B4%EC%99%84-%EB%B0%A9%EB%B2%95%EA%B9%8C%EC%A7%80-%EC%9E%90%EC%84%B8%ED%9E%88-%EC%8B%A4%ED%97%98%ED%95%9C-share-7509092892578050048-psZU/)
+    * CMU 계열 저자 4명(Yubo Li·Ramayya Krishnan·Rema Padman 외)의 첫 Jev 독립 평가 논문(2026-09-22). 판단만 내리는 저지가 LLM-as-a-judge의 경제적 1차 패스가 될 수 있는지를 16개 생성·리워드 모델 저지와 블라인드 인간 판정으로 비교—일반 선호·근거 기반 사실성에서는 최고 성능 LLM 저지 대비 3%p 이내를 **비용 0.36%**로 달성하지만, 유도 과정을 검증하거나 정교하게 쓰인 오답에 저항해야 하는 판단에서는 격차가 커짐
+    * 핵심 발견은 **오류가 저확신 구간에 집중**된다는 것—확신도 q≥0.95면 정답률 94~99%(q=1이면 99.1%, 평가 990개 중 322개=32.5%가 여기 해당)인데 q<0.6이면 47.7%로 곤두박질. 그래서 q≥0.90이면 Jev 판정을 확정하고 미만이면 상위 모델(GPT-6)로 이관하는 frozen cascade를 구성—전체의 34.3%만 이관해 통합 정확도 91.3%(GPT-6 전량 사용 91.7%의 99.6%)를 비용 47%로 보존(Jev 단독 86.3%). 작업별로 자동 조절되어 쉬운 선호 작업은 21.8%만 이관(비용 78% 절감), 고난도 JudgeBench는 Jev 스스로 확신을 못 해 60.6%를 이관
+  * [Awesome Jev — Directory of 488 projects built on Jev](https://awesomejev.com/)
+    * TypeSafe AI 공식 문서·SDK부터 통합·에이전트 툴링·브라우저/컴퓨터 사용·애플리케이션·게임·벤치마크까지 카테고리별로 묶은 488개 프로젝트 디렉터리. 최다 스타는 browser-use의 jev-ultrafast(4.8k), Claude Code의 compaction 요약을 Jev 판단으로 대체하는 fast-jev-compaction(2.7k), 오픈 모델로 3090에서 semantic if를 돌리는 비공식 SemIf(1.5k), 텍스트 선택지 중 하나를 한 번에 고르는 소형 모델 학습 jevlike(851)
+  * [Awesome Jev / TypeSafe](https://abdelstark.github.io/awesome-typesafe-jev/)
+    * [awesome-typesafe-jev: a source-backed field guide to TypeSafe's System One model, with SDKs, live demos, agent tools, and independent evaluations](https://github.com/AbdelStark/awesome-typesafe-jev)
+    * "Jev는 소프트웨어에 타입드 판단을 주고, 코드는 여전히 주도권을 가진다"—문서화된 호출 예시(support-ticket 예제, 한 번의 호출로 세 개의 타입드 답) 확인, 라이브 프로젝트 체험, 스타터 복사, 독립 평가 열람으로 구성된 커뮤니티 필드 가이드. SDK·데모·에이전트 도구·독립 평가 큐레이션. MIT
+  * [kev: Jev-like family of decision models built on top of Qwen3.5/3.8 you can train and run on your own | Jared Palmer](https://github.com/jaredpalmer/kev)
+    * [Kev - 직접 학습하고 실행할 수 있는 Jev 방식의 의사결정 모델 | GeekNews](https://news.hada.io/topic?id=34065)
+    * Vercel의 Jared Palmer가 만든 오픈소스 Jev류 모델 패밀리—Qwen3.5/3.8 기반으로 예/아니요 확률·선택지별 확률·평가 점수를 반환하고 직접 학습·실행 가능. 고객 문의 하나에서 담당 부서·긴급 여부·불만 정도를 함께 판단하되 각 질문이 서로 영향을 주지 않게 분리. 0.8B부터 시작. Python, Apache-2.0, 7.1k stars
+  * [laya: Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text](https://github.com/NandhaKishorM/laya)
+    * [🆓 Laya 설치·사용 가이드: Jev보다 7배 빠르고 무료인 421M 다국어 결정 엔진 | fornewchallenge](https://fornewchallenge.tistory.com/entry/%F0%9F%86%93-Laya-%EC%84%A4%EC%B9%98%C2%B7%EC%82%AC%EC%9A%A9-%EA%B0%80%EC%9D%B4%EB%93%9C-Jev%EB%B3%B4%EB%8B%A4-7%EB%B0%B0-%EB%B9%A0%EB%A5%B4%EA%B3%A0-%EB%AC%B4%EB%A3%8C%EC%9D%B8-421M-%EB%8B%A4%EA%B5%AD%EC%96%B4-%EA%B2%B0%EC%A0%95-%EC%97%94%EC%A7%84)
+    * Jev 방식 판단을 오픈 웨이트로 구현한 비자기회귀 System 1 결정 엔진—입력은 텍스트·이메일·티켓·JSON 같은 상태, 출력은 사전 정의 질문에 대한 확률(중간에 자연어가 없어 파싱할 것도 환각이 낄 자리도 없음). 체크포인트 3종을 하나의 **Router**로 묶어 입력의 문자 체계·언어를 0.5ms 미만에 판별해 자동 배정: laya(ModernBERT-large 421M·컨텍스트 512·영어), laya-multilingual(mmBERT-base 322M·1024·100+ 언어·2배 빠름), laya-typed-decisions(421M·1024·타입 결정 워크플로). 학습은 Jev처럼 RLCD—strictly proper scoring rule을 보상으로 삼아 확률값 자체가 통계적 의미를 갖는 보정을 노림
+    * fornewchallenge 가이드가 짚는 요점—"0.85 이상 자동 처리, 미만 사람 이관" 임계값 분기가 설계 중심인데 **가장 큰 약점도 바로 그 보정 지점에서 나온다**고 예고하며 장단점을 함께 정리. Python, Apache-2.0, 24.7k stars
+  * [laya-coreml: Local Laya typed decisions on Apple Core ML and Neural Engine](https://github.com/mizorewww/laya-coreml)
+    * 오픈 웨이트 판단 모델 Laya(convaiinnovations/laya-multilingual)를 Apple Silicon Core ML·Neural Engine으로 포팅—토큰 생성 없이 타입드 결정만 반환, PyTorch·Transformers·MLX 없이 로컬 추론. 짧은 다국어 판단 1건 4.98ms P50/5.31ms P95(M3 Max, ANE FP16), 컴파일된 MLX FP16 대비 시스템 전체 에너지 2.78배 개선(W8 팔레트 변형 4.88ms·3.19배). 실제 Laya가 확률·안전 개입을 보여주며 Snake를 플레이하는 데모(600스텝 3회 무사망, 49~50 결정/초), 재현 가능한 속도·에너지 벤치마크. `pip install laya-coreml`. Python, Apache-2.0, 1.4k stars
   * [Jev Engineering for Coding Agents: The TypeSafe Founder's Blueprint for Building with Jev (PDF)](pdfs/jev_engineering_for_coding_agents.pdf)
     * TypeSafe 창업자 Diogo Almeida의 설계 노트를 제3자가 정리한 12쪽 워킹 노트(2026-09, TypeSafe 비공식). 핵심 질문 "LLM에 KV 캐시가 없다면 코딩 에이전트를 어떻게 설계할까?"—KV 캐시 경제학이 append-only 트랜스크립트를 강제하며 현재 에이전트의 6가지 설계를 낳았다는 진단: ①라우팅 실패(Opus→Sonnet→Opus 경로가 컨텍스트 재처리 때문에 pure Opus 4.15 대비 6.19로 더 비쌈—토큰당이 아니라 컨텍스트 재구축당 가격을 매겨야 함) ②툴 스키마가 컨텍스트를 잠식 ③질문을 모른 채 압축하는 compaction ④상태 전달이 어려워 드물게 쓰이는 서브에이전트 ⑤좋은 상태까지 버리는 재시작 ⑥내장 기능이 컨텍스트를 영구 점유하는 batteries 논쟁. 토큰은 파일 읽기 30~40%·검색 10~18%·명령 출력 10~20%가 차지하고 코드 작성은 4~10%뿐(Microsoft fastcontext: GPT-5.4 궤적의 툴 호출 56.2%가 읽기·검색)
     * 대안: 상태를 주소 지정 가능한 타입드 청크로 명시하고 Jev가 매 턴 판단—컨텍스트 청크별 가시성 사다리(hide/short/long/full, 질의 인지 압축), 캐시 재사용 vs 재구축 noul, 라우팅 choice+비용 추정, 툴 top-k 선택(스니펫→스키마 온디맨드→문서 3단 공개), 명령 실행 allow/ask/deny 프로그래머블 권한 정책, 파일 민감도 점수로 보안 인지 라우팅(비밀·인프라 설정은 1st-party 프론티어만). 조건부 AGENTS.md(작업 조건에 붙어 compaction에 면역인 지시), 읽기/쓰기 타입 명시로 잠금 기반 극단적 병렬화와 서브골 중복 제거, 읽기 전용 백그라운드 작업(크로스 모델 리뷰·eval 생성·ELI5·진행 페이지)이 검색 패스 하나를 공유. 후보 내장 도구: headroom·rtk·ast-grep·ast-outline·fastcontext·fff
+  * [jevlike: Train a small model that chooses among a changing list of text options, one probability per option in a single pass](https://github.com/vinnylarouge/jevlike)
+    * [Jevlike - 문장 대신 선택지별 확률을 반환하는 Jev 방식의 오픈소스 모델 | GeekNews](https://news.hada.io/topic?id=33854)
+    * Jev와 같은 입출력(문맥+매번 달라지는 선택지 목록 → 합이 1인 선택지별 확률)을 직접 학습해 실험해 보는 서드파티 프로젝트. 각 선택지를 벡터화하고 문맥에 어텐션을 걸어 선택지별 문맥 표현을 만든 뒤 점수를 softmax로 변환—예측 전에 전체 선택지 목록이 주어져야 하고 최소 2개 필요. 바이트 단위 표현을 처음부터 학습하는 소형 모델이 기본이고, Qwen2.5-0.5B 같은 HF 사전학습 모델에 점수 계산부만 얹는 구성도 가능. CPU·Apple MPS·CUDA 학습 지원. Python, MIT, 926 stars
+    * **Jev의 복제나 비공개 학습 방식 재현이 아니며 동등한 판단 능력·확률 보정을 입증하지도 않았다고 레포가 직접 밝힘.** 학습·평가의 목표 페이지를 분리한 Wikispeedia 다음 클릭 예측에서 고정 Qwen2.5-0.5B+점수 계산기 26%, 처음부터 학습한 소형 모델 29%, 문맥 섞기·무작위 인코더 대조군 약 8%(합성 선택지 데이터만 쓰면 98%까지 나오지만 이는 누수된 수치). 선택지 8개를 한 번에 점수화하면 소형 디코더에 400토큰을 생성시키는 방식보다 약 100배 빨랐다는 것도 **로컬 소형 디코더 대비**이고 범용 100배 향상 주장이 아님
+    * Doom 7개 버튼·체스 5개 키처럼 화면을 보고 행동을 고르는 데모도 공개하지만 공개 영상은 5초 활동 구간을 선별한 것—Doom 체크포인트는 10 에피소드 평균 처치 0.60, 체스 전용 체크포인트는 무작위 상대에 4승 46무 0패지만 Stockfish 레벨 0에는 0승 2무 48패
+    * [Jevlike, 문장 대신 선택지별 확률을 계산하는 오픈소스 AI 모델 | digitalbourgeois](https://digitalbourgeois.tistory.com/3680)
+    * Jev 방식의 모델을 직접 학습·실험할 수 있는 오픈소스—고객 문의를 환불/영업/기술지원으로 분류하거나 Wikipedia에서 다음 클릭할 링크를 고르는 것처럼 주어진 선택지 중 하나를 판단하는 작업을 문장 생성 없이 처리. Python, MIT, 1.3k stars
+  * [minecraft-agent: Astra planner and JEV controller for Minecraft, with native recording, tested routes, and run verification](https://github.com/rmalde/minecraft-agent)
+    * Astra(GPT-6)가 계획하고 Jev가 밀리초 단위로 제어하는 Minecraft 에이전트—네이티브 녹화, 검증된 경로, 실행 검증. JavaScript
+  * [OpenJev — structured LLM decisions](https://jev.opendef.com/)
+    * [OpenJev: OpenSource Jev | SiliconLabAI](https://github.com/SiliconLabAI/OpenJev)
+    * [OpenJev: Open Source Alternative to TypeSafe Jev | DevsKingdom - YouTube](https://www.youtube.com/watch?v=xtXq279B4Go)
+    * 타입드 결과(choice·score·probability)를 반환하는 오픈소스 Jev 대안. TypeScript, MIT, 142 stars로 아직 초기
+  * [solar-mini4-jev: Upstage Solar Pro4/solar-mini4를 TypeSafe Jev System One API 형태로 노출하는 drop-in 래퍼](https://github.com/hunkim/solar-mini4-jev)
+    * `POST /v1/systemone`에 model·state·questions를 보내면 Jev와 같은 스키마의 noul/choice/score 질문 유형 지원. Vercel에 호스팅된 BYOK 엔드포인트(X-Upstage-Api-Key)로 배포 없이 시험 가능, llms.txt 제공
 * [JudgeBench: A Benchmark for Evaluating LLM-Based Judges](https://github.com/ScalerLab/JudgeBench)
 * [Jupiter | Sovereign — zero-dependency high-performance inference engine for LLMs](https://www.teamjupiter.ai/)
   * [Jupiter Sovereign 공유 | Jupiter Song](https://www.linkedin.com/posts/jupitersong_jupiter-sovereign-share-7486380864663076864-IBtp/)
@@ -4386,12 +4427,16 @@ NLP
   * [Inference startup Inferact lands $150M to commercialize vLLM | TechCrunch](https://techcrunch.com/2026/01/22/inference-startup-inferact-lands-150m-to-commercialize-vllm/)
     * [vLLM 제작자들이 설립한 'Inferact', 오픈소스 추론 엔진 상용화 위해 1억 5천 | GeekNews](https://news.hada.io/topic?id=26066)
   * [vLLM PagedAttention: 낭비되는 GPU 메모리 수 백만 달러 절약하기](https://codepointerko.substack.com/p/vllm-pagedattention-gpu)
+  * [초보자도 가능한 vLLM 빠르게 만드는 튜닝 방법 3가지! - YouTube](https://www.youtube.com/watch?v=VJkLGLuue3I)
+    * 괴발자. CPU 병목 개선으로 처리량 높이기, Preemption 최소화로 재연산 낭비 줄이기, Chunked Prefill로 체감 속도 높이기
   * [nano-vllm: Nano vLLM](https://github.com/GeeeekExplorer/nano-vllm)
     * [nanoRLHF 프로젝트에서 가장 어려웠던 nanovllm 개발 종료](https://www.facebook.com/story.php?story_fbid=3811983599094612&id=100008490288977)
     * [nanoRLHF/examples/nanovllm.py at main · hyunwoongko/nanoRLHF](https://github.com/hyunwoongko/nanoRLHF/blob/main/examples/nanovllm.py)
     * [nanoRLHF/nanorlhf/nanovllm at main · hyunwoongko/nanoRLHF](https://github.com/hyunwoongko/nanoRLHF/tree/main/nanorlhf/nanovllm)
-  * [초보자도 가능한 vLLM 빠르게 만드는 튜닝 방법 3가지! - YouTube](https://www.youtube.com/watch?v=VJkLGLuue3I)
-    * 괴발자. CPU 병목 개선으로 처리량 높이기, Preemption 최소화로 재연산 낭비 줄이기, Chunked Prefill로 체감 속도 높이기
+  * [vllm-metal: Community maintained hardware plugin for vLLM on Apple Silicon](https://github.com/vllm-project/vllm-metal)
+    * [vLLM Metal — docs](https://docs.vllm.ai/projects/vllm-metal/)
+    * [Announcing vllm-metal: Concurrent Serving on Apple Silicon | vLLM Blog](https://vllm.ai/blog/2026-09-22-vllm-metal-v0-28-0)
+    * Mac 로컬 추론은 요청이 겹치는 순간 TTFT·메모리 증가·수용 제어가 문제가 되는데, vllm-metal은 **vLLM의 스케줄러·페이지드 KV 캐시·OpenAI 호환 서버를 Apple Silicon에 가져오고 실행은 MLX·Metal이 담당**—동시 에이전트 부하에서 평평한 TTFT, 배치 MTP, 자동 메모리 관리. 첫 공식 릴리스 v0.28.0부터 업스트림 vLLM과 버전 정렬. Python, Apache-2.0, 1.8k stars
 * VRAM & Performance Calculator [Can You Run This LLM? VRAM Calculator (Nvidia GPU and Apple Silicon)](https://apxml.com/tools/vram-calculator)
   * [내 맥북에서 어떤 LLM까지 돌릴 수 있을까? ](https://www.facebook.com/syp.sypark/videos/1404010003932593)
 * [webGPT: LLM이 Human Sequence of Actions을 모방할 수 있는가? | OPENAI 2021 | 조용래 - YouTube](https://www.youtube.com/watch?v=0yMZyIru-X0)
@@ -4593,6 +4638,8 @@ NLP
   * Retriever와 Generator 사이에 경량 LLM 프루닝 단계를 추가해 검색된 청크를 5단계 관련도로 채점. 96% recall 유지하며 컨텍스트 68% 폐기, 소폭 지연 증가 대신 쿼리 비용 약 1/3 절감
 * [오픈소스 LLM으로 RAG 시스템 만들기 - YouTube](https://www.youtube.com/watch?v=04jCXo5kzZE)
 * [RAG(Retrieval-Augmented Generation)의 개념과 프레임워크 – Data Rabbit](https://flonelin.wordpress.com/2024/03/24/ragretrieval-augmented-generation%ec%9d%98-%ea%b0%9c%eb%85%90%ea%b3%bc-%ed%94%84%eb%a0%88%ec%9e%84%ec%9b%8c%ed%81%ac/) LangChain LlamaIndex
+* [What if RAG is no longer a single architecture, but a whole set of design patterns? | Ravena O | LinkedIn](https://www.linkedin.com/posts/ravena-o_what-if-rag-is-no-longer-a-single-architecture-share-7504915003926302720-h_Dg/)
+  * 2026년에 알아둘 RAG 설계 패턴 7가지 시각 정리—Naive RAG(벡터 검색→LLM), Retrieve-and-Rerank(리랭커로 컨텍스트 관련도 개선), Multimodal RAG(텍스트 외 멀티모달 문서·미디어), Graph RAG(벡터 검색+그래프 DB로 정보 간 관계 반영) 등. RAG가 단일 아키텍처가 아니라 유스케이스별 패턴 집합으로 진화했다는 관점
 * [RAG를 개선하는 전체적인 흐름](https://www.linkedin.com/posts/hoyeon-lee-a58702117_rag%EB%A5%BC-%EA%B0%9C%EC%84%A0%ED%95%98%EB%8A%94-%EC%9E%91%EC%97%85%EC%9D%80-%EC%A0%95%EB%A7%90-%EC%89%BD%EC%A7%80-%EC%95%8A%EC%8A%B5%EB%8B%88%EB%8B%A4-%EC%95%84%EB%A7%88-llm-%EA%B8%B0%EB%B0%98-%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC-activity-7210793127924649984-ps1H/)
   * 1. 평가 지표/방식 정하기
   * 2. 테스트 셋 만들기
@@ -5414,6 +5461,11 @@ NLP
   * Apple, NeurIPS 2025. Large Reasoning Models(LRM)이 thinking trace 내며 답하지만 실제 능력·스케일링 이해 부족. 수학·코딩 벤치는 contamination 가능. 통제 가능한 puzzle 환경으로 난이도 조절하며 최종 답+중간 추론 분석. 발견: ① 특정 복잡도 넘으면 정확도 완전 붕괴 ② 반직관적—복잡도↑에 따라 reasoning effort↑하다가 임계점 후 토큰 예산 남았는데도↓ ③ LRM vs LLM 동일 추론 컴퓨트 3구간—저복잡도(LLM 우위), 중간(LRM 우위), 고(둘 다 붕괴) ④ 정확 계산 어려움·명시적 알고리즘 미사용·스케일 간 일관성 결여. "thinking" 본질 의문 제기
 * [2507.18546v1 GLiNER2: An Efficient Multi-Task Information Extraction System with Schema-Driven Interface](https://arxiv.org/html/2507.18546v1)
   * [You should be using BERT-based SLMs. Because they are tiny! (And can be better at specific tasks than large proprietary models.) GLiNER2, released by Fastino is a SLM fine-tuned for structured data… | Mary Newhauser | 70 comments](https://www.linkedin.com/posts/mary-newhauser_you-should-be-using-bert-based-slms-because-activity-7397287634982719489-CzqD)
+  * [GLiNER2: Unified Schema-Based Information Extraction | fastino-ai](https://github.com/fastino-ai/GLiNER2)
+  * [GLiNER2.5-Decide: A 340M Open-Weight Model for Fast, Rule-Bound Decisions | explainx](https://explainx.ai/blog/gliner-2-5-decide-fastino-340m-open-weight-decision-model-2026)
+  * [What is GLiNER2.5-Decide? | explainx AI Dictionary](https://explainx.ai/dictionary/gliner-2-5-decide)
+  * [GLiNER2.5: The Open Source Alternative to Jev Is Here | Codedigipt - YouTube](https://www.youtube.com/watch?v=LnXUYibGOXw)
+  * 2026-09-24 Fastino가 **GLiNER2.5-Decide** 공개(340M, Apache 2.0)—타입드 분류·라우팅·추출·선택지 결정을 확률과 함께 돌려주는 오픈웨이트 인코더로, 답 후보의 적합도를 채점하고 배제 규칙 같은 사용자 정의 제약이 지켜지도록 공동 디코딩. CPU에서 돌아가는 지연으로 라우팅·트리아지·LLM-as-judge 단계를 겨냥—**Jev의 오픈소스 대안** 포지션. 17개 데이터셋 평균 60.1%로 Jev 상회를 주장하나 Fastino 자체 측정
 * [2508.15260 Deep Think with Confidence](https://arxiv.org/abs/2508.15260)
   * [복잡한 연산 없이 모델의 Confidence를 활용해 더 나은 추론](https://www.linkedin.com/posts/h4y3j1n_meta-activity-7365673072051318785-GjBT)
   * [DeepConf on vLLM - Minimal Patch & Usage Guide](https://jiaweizzhao.github.io/deepconf/static/htmls/code_example.html)
@@ -6050,6 +6102,13 @@ NLP
   * [코히어, 한국어 지원하는 기업용 2B 오픈소스 음성 모델 출시 - AI타임스](https://www.aitimes.com/news/articleView.html?idxno=208459)
   * 2B 파라미터 Conformer 기반 오픈소스 ASR. 14개 언어(한국어 포함), WER 5.42%로 Open ASR 리더보드 1위, 1분에 525분 오디오 처리
   * 하나의 .m4a이긴 했지만 실제로 테스트해봤을 때 성능은 whisper에 비해 크게 좋다고 하긴 어려웠음
+* [Confucius4-R2T2: A Low Latency and High Accuracy Real-Time Speech Recognition Model | NetEase Youdao](https://github.com/netease-youdao/Confucius4-R2T2)
+  * [netease-youdao/Confucius4-R2T2 · Hugging Face](https://huggingface.co/netease-youdao/Confucius4-R2T2)
+  * [#중국AI미래지도 에이전트를 위한 동시통역기, 오픈소스로 개발되다 — 경청하고 사고하는 음성인식·통역 모델 | 임선영 | Facebook](https://www.facebook.com/seonyoung.im.10/posts/pfbid02GRcms6aD54kgZPCpPn1VXjpbJehtreTFawfUuhNmpUrVXY5ZUNW4MMWSYFFXokxil)
+  * 넷이즈 유다오의 저지연·고정확 실시간 음성인식(스트리밍 ASR) 모델—Qwen3-ASR-1.7B 기반, 다국어, vLLM 서빙. 아래 T3PO(동시통역)와 함께 '에이전트를 위한 동시통역기' 세트의 귀 담당. Python, 652 stars
+* [Confucius4-T3PO: a Low latency and High Quality Text-to-text Simultaneous Translation model via Pareto Policy Optimization | NetEase Youdao](https://github.com/netease-youdao/Confucius4-T3PO)
+  * [netease-youdao/Confucius4-T3PO · Hugging Face](https://huggingface.co/netease-youdao/Confucius4-T3PO)
+  * 14B 텍스트-텍스트 동시 기계번역(SiMT) 모델—세그먼트 정렬 데이터 구축→스트리밍 콜드스타트→**품질·지연을 파레토 인지 강화학습으로 공동 최적화**하는 3단계 파이프라인. 스트리밍 입력을 받아 청크마다 READ(더 기다림)/WRITE(즉시 증분 번역) 결정을 동적으로 내리고, interleaved history 프로토콜로 KV 캐시를 재사용해 중복 연산 절감. 라이브 데모 t3po.youdao.com, 코드 Apache 2.0. 위 R2T2(ASR)와 세트
 * [~Coqui~](https://coqui.ai/)
   * [coqui](https://github.com/coqui-ai)
   * [TTS 0.16.3 documentation](https://tts.readthedocs.io/)
