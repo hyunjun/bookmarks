@@ -411,6 +411,9 @@ App
   * 모든 65,535 포트를 몇 초 만에 스캔하고 발견한 열린 포트를 Nmap으로 자동 전달하는 초고속 포트 스캐너. 스크립팅 엔진(Python/Lua/Shell), 어댑티브 러닝, IPv6·CIDR 지원. Rust, 20k stars
 * [SearchPhone: OSINT toolkit for researching phone numbers | HackUnderway](https://github.com/HackUnderway/SearchPhone)
   * 전화번호 OSINT 조사 Python CLI. Google·GitHub·Numverify·Reddit·DuckDuckGo 등 여러 API를 병렬 검색해 번호 검증·통신사 조회·코드/소셜 검색, JSON·PDF 리포트 자동 생성
+* [Taranis AI — advanced Open-Source Intelligence (OSINT) tool](https://taranis.ai/)
+  * [taranis-ai: leveraging Artificial Intelligence to revolutionize information gathering and situational analysis](https://github.com/taranis-ai/taranis-ai)
+  * AI로 정보 수집·상황 분석을 자동화하는 OSINT 플랫폼—Celery 비동기 태스크 큐로 뉴스 아이템을 처리해 수집→분석→보고 흐름을 지원. Python, EUPL-1.2(EU 공공 라이선스), 1.2k stars
 * [tlosint-vm: A Linux OSINT distribution built for Trace Labs, based on Kali Linux](https://github.com/tracelabs/tlosint-vm)
   * [VM Introduction | Trace Labs Docs](https://docs.tracelabs.org/vm/vm-introduction)
   * Trace Labs용 Kali 기반 OSINT 리눅스 배포판. OSINT 조사에 사전 구성된 도구와 하드닝된 Firefox 설정 제공. 완성 VM 이미지 다운로드 또는 Debian 계열에 도구 설치 스크립트 실행
@@ -2851,6 +2854,9 @@ App
   * 마크다운 네이티브 셀프호스팅 타임라인 메모. 폴더·워크스페이스·제목 결정 없이 즉시 기록. 프라이빗 피드 형태. Docker로 Raspberry Pi/VPS/클라우드 배포, 태그·검색, MIT
 * [memotron.io](https://memotron.io/)
   * [Memotron - The Personal Knowledge Management (PKM) app - YouTube](https://www.youtube.com/watch?v=SeWdndc7y4A)
+* [mini-diarium: A local-only journal with serious encryption. Free, open source, and never touches the internet | fjrevoredo](https://github.com/fjrevoredo/mini-diarium)
+  * [Mini Diarium: 인터넷 연결 없는 로컬 암호화 저널 애플리케이션의 구조와 보안 설계 | digitalbourgeois](https://digitalbourgeois.tistory.com/2798)
+  * 인터넷에 전혀 연결되지 않는 로컬 전용 일기 앱—AES-256-GCM 암호화 + 키 파일 기반 인증(X25519)으로 데이터 유출을 구조적으로 차단하는 '진짜 로컬 퍼스트' 설계. TypeScript, MIT
 * [nb: CLI plain-text note-taking, bookmarking, and archiving with encryption, filtering and search, Git-backed versioning and syncing, Pandoc-backed conversion, and more in a single portable script](https://github.com/xwmx/nb)
 * [Nimbus Note - One place to manage all your information | knowledge base | tasks | projects | etc](https://nimbusweb.me/)
   * [에버노트의 새로운 대안?이 될 수 있는 님부스 노트를 소개합니다. : 클리앙](https://www.clien.net/service/board/use/15793333)
