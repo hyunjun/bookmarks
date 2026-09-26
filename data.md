@@ -68,6 +68,8 @@ Government
 * [AI 학습용 텍스트 데이터 모음 | GeekNews](https://news.hada.io/topic?id=3087)
 * [빅데이터 거버넌스(Data Governance)의 정의 및 목적, 그리고 고려사항과 도구들 :: Kaden Sungbin Cho](https://kadensungbincho.tistory.com/12)
 * [데이터 거버넌스와 데이터 관리는 어떻게 다를까? (DG의 8단계)](https://www.grownbetter.com/article/201)
+* [Ever wondered what the secret sauce is behind business success in today's data-driven world? | Ravena O | LinkedIn](https://www.linkedin.com/posts/ravena-o_ever-wondered-what-the-secret-sauce-is-behind-share-7193157305025052672-ierw/)
+  * 데이터 관리의 성공 요소 체크리스트—Data Quality(garbage in, garbage out), Data Security(암호화·접근 통제), MDM(단일 관점으로 중복 제거), Testing Data(의사결정 전 정확성 검증), Data Governance(사용·취급 규정의 투명화)
 * [A Chat with Andrew on MLOps: From Model-centric to Data-centric AI - YouTube](https://www.youtube.com/watch?v=06-AZXmwHjo)
   * [Week 35 - 모델 중심에서 데이터 중심의 AI 개발로](https://jiho-ml.com/weekly-nlp-35/)
 * [정부 데이터 API를 이용해서 가져오기 - YouTube](https://www.youtube.com/watch?v=eBV6tAfekyw)
