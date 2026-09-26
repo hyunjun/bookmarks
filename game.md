@@ -184,6 +184,9 @@ Game
   * [번역 언리얼 엔진 RDG 소스 코드 분석](https://techartnomad.tistory.com/204)
   * [unreal_python_recipe_book: A Recipe Book on ways to use Python in Unreal Engine 5](https://github.com/bralkor/unreal_python_recipe_book)
 * [Vassal - a game engine for building and playing online adaptations of board games and card games](http://www.vassalengine.org/)
+* [voxel-musou: Dynasty Warriors-style voxel action game in the browser: Zhao Yun vs 300 soldiers. Three.js, no build step](https://github.com/mike007jd/voxel-musou)
+  * [Voxel Musou — 브라우저에서 바로 플레이](https://voxel-musou.vercel.app)
+  * 진삼국무쌍 스타일의 브라우저 복셀 액션 게임—조자룡으로 위나라 병사 수백을 상대(400+ 히트 체인, 차지 공격 C1~C6, 무쌍 컷인·150 K.O. 무쌍 드래곤). 빌드 스텝 없는 순수 ES 모듈 + Three.js r186 vendored, 결정론적 고정 60Hz 시뮬레이션. JavaScript, MIT
 * [Warzone 2100: A Free And Open Source Real-Time Strategy Game](https://wz2100.net/)
 
 ## Library DOS
