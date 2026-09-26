@@ -2969,6 +2969,10 @@ Javascript
 * [termcn — Beautiful terminal UI components, built on Ink and OpenTUI](https://www.termcn.dev/)
   * [termcn: Beautiful terminal UI components. 100% Free, Zero config, one command setup](https://github.com/shadcn-labs/termcn)
   * shadcn/ui 디자인 패턴을 따르는 React 기반 터미널 UI 컴포넌트. Ink·OpenTUI 위에 구축, 테마 지원·차트·AI 컴포넌트·내비게이션, 제로 설정 원커맨드 설치
+* [TermDOM — Build terminal apps with HTML, CSS and DOM](https://termdom.org/)
+  * [termdom: Build terminal apps with HTML, CSS and DOM | bikeshaving](https://github.com/bikeshaving/termdom)
+  * [TermDOM - HTML, CSS와 DOM으로 터미널 UI 만들기 | GeekNews](https://news.hada.io/topic?id=33760)
+  * 별도 터미널 위젯 API를 배우는 대신 HTML 요소를 만들고 DOM을 수정하는 방식으로 터미널 UI·대화형 CLI를 구성하는 JS/TS 라이브러리—노드가 바뀌면 스타일·배치를 다시 계산해 렌더링. TypeScript, MIT
 * [Three.js - JavaScript 3D library](http://threejs.org/)
   * [three.js examples](https://threejs.org/examples/)
   * [Interactive 3D Graphics by Autodesk](https://www.udacity.com/course/interactive-3d-graphics--cs291)
@@ -6062,6 +6066,10 @@ Javascript
 * [One - 웹, 네이티브 및 로컬 퍼스트를 통합하는 새로운 React 프레임워크 | GeekNews](https://news.hada.io/topic?id=17088)
 * [orbit-react](https://techstory.shma.so/orbit-react-b06e76f380ec)
 * [Parallx Scrolling Effect in React js | React Parallax Effect With react-parallax-Package - YouTube](https://www.youtube.com/watch?v=robIIDWt6SA)
+* [pdfcn — Beautiful pdf components, built on Takumi and Forme](https://www.pdfcn.dev/)
+  * [pdfcn: 100% Free, Zero config, one command setup | shadcn-labs](https://github.com/shadcn-labs/pdfcn)
+  * [pdfcn - React 컴포넌트로 만드는 PDF 문서 | GeekNews](https://news.hada.io/topic?id=34090)
+  * 청구서·보고서 같은 PDF를 처음부터 디자인하지 않고 준비된 React 컴포넌트·문서 템플릿을 조합해 생성—shadcn/ui처럼 **필요한 컴포넌트의 소스를 프로젝트로 가져와 직접 수정**하는 방식. TypeScript, MIT, 2.2k stars
 * [Piral, a Modern React-Based Microfrontends Library](https://www.infoq.com/news/2021/06/piral-microfrontends/)
 * [Plasma UI — Liquid glass panels for React](https://cruxgarden.github.io/plasma-ui/)
   * [plasma-ui: Liquid glass panels for React | CruxGarden](https://github.com/CruxGarden/plasma-ui)
