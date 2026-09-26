@@ -165,6 +165,9 @@ Art
 * [패티 보이드를 둘러싼 음악과 음악가 - INDIEPOST 인디포스트](https://www.indiepost.co.kr/post/2889)
 * [강호정 - 아버지의 흔적 (Synclavier와 전자음악) | Facebook](https://www.facebook.com/hojung.kang/posts/pfbid02BDcVpKXCjFcsz8gwDYQ6Y4ZcoCTf9q36QYwexqLKcUQQmioTETwb1xyvDiemNqn2l)
   * 베를린 공대 전자음악실의 Synclavier 신디사이저를 검색하다 우연히 발견한, 작고하신 아버지에 관한 팟캐스트를 계기로 아버지·음악·전자음악을 회상하는 글
+* [Music Theory for the 21st-Century Classroom](https://musictheory.pugetsound.edu/mt21c/MusicTheory.html)
+  * [21세기 교실을 위한 음악 이론 - 팝송과 악보로 배우는 무료 온라인 교재 | GeekNews](https://news.hada.io/topic?id=33513)
+  * Puget Sound 대학 Robert Hutchinson의 무료 온라인 교재—음표·리듬 읽기부터 화성, 작곡과 현대음악까지 대학 4학기 분량. 클래식뿐 아니라 팝송·영화음악·뮤지컬을 예제로 쓰고, 악보에 해당하는 연주 구간을 YouTube 영상으로 연결해 실제 소리를 들으며 배울 수 있는 구성
 
 ## Classic
 * [kkacl.com/md](http://www.kkacl.com/md)
