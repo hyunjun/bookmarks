@@ -50,6 +50,13 @@ Programmer
 * [Ask HN: 배울 수 있는 훌륭한 시니어 없이, 엔지니어로 어떻게 성장할 수 있을까요? | GeekNews](https://news.hada.io/topic?id=18068)
 * [AI가 없앤 주니어, 누가 미래의 시니어를 키우나 - CIO Korea](https://www.cio.com/article/4191554/)
   * AI 자동화로 주니어 채용이 줄면서 미래의 시니어를 키울 육성·멘토링 시스템이 위협받음. 주니어를 AI로 대체하기보다 AI로 성장을 가속해 숙련 엔지니어로 키워야 한다는 제언
+* [Everyone Is Hiring for Judgment. Nobody Is Making It Anymore. | The AI Corner](https://www.the-ai-corner.com/p/hiring-for-judgment-ai-seniorization)
+  * [😰신입 채용 공고에 '10년차 판단력 필수'. 근데 그 판단력, 누가 만들어 주는데? | 원대로 | EO 플래닛](https://eopla.net/magazines/47310)
+  * PwC가 10억 건+ 채용 공고를 분석해 붙인 이름 **'시니어화(seniorization)'**—AI 노출이 큰 직종의 신입 공고가 예전엔 경력 10년쯤에 요구하던 역량(전략적 판단·이해관계자 관리)을 요구할 확률이 7배. Indeed Hiring Lab 기준 2026년 5월 미국 시니어 공고 전년 대비 +14.7%·신입 −7.5%(소프트웨어 공고 10개 중 7개가 시니어), Harvard 워킹페이퍼(28만 기업·6,600만 명)는 생성형 AI 도입 기업이 주니어 채용을 줄이고 시니어를 늘렸음을 확인, AI 노출 큰 직종의 20대 초반 취업자는 약 16% 상대 감소
+  * 핵심 논지—실행이 싸지면 가치는 판단으로 옮겨가는데, **판단력을 배우던 견습 현장(주니어가 초안 쓰고 상사가 고치는 걸 옆에서 보는 2~3년)이 바로 AI로 자동화된 자리**라는 역설. 이 틈을 '조직 역량 부채(capability debt)'라 부름—기술 부채처럼 장부에 안 잡히다 어느 분기 청구서가 날아옴. 채용 필터는 좋아졌지만(Canva는 면접 질문을 '뭘 했냐'→'어떻게 알아냈냐'로, ElevenLabs는 연차 요건을 거의 폐기) 그 필터를 쓰는 회사들이 '다른 데서 주니어를 계속 길러주겠지'라는 말 없는 가정에 올라타 있다는 지적
+  * 대안은 신입 자리 재설계—초안은 덜, 검증은 더(미디어 에이전시 Brainlabs는 사내 아카데미를 AI 중심으로 개편해 신입 코호트를 19명→64명으로 237% 확대, 로펌들은 초안 작성 대신 모델 결과물 검증·워크플로 관리 쪽으로). 다만 eopla 해설이 짚는 닭-달걀 문제—틀린 걸 알아보려면 판단력이 필요한데 그건 반복 훈련으로 생기는 것이라 "달걀 낳던 닭부터 잡아먹은 형국". 원문에 Outskill 워크숍 유료 광고 포함
+* [개발자 직군별 채용 트렌드 (2026년 9월)](https://heyman333.github.io/developer-trend/)
+  * 채용 플랫폼 27곳의 개발 공고 1만여 건으로 본 주요 8개 직군의 기술 스택·AI 요구·경력 조건—AI 엔지니어가 직군 2위로 부상, 백엔드는 Java 57%, 크로스플랫폼은 Flutter가 React Native를 앞섬
 * [Stop Being a Junior](https://kentcdodds.com/blog/stop-being-a-junior)
   * [(번역) 주니어가 되는 것을 그만두세요](https://hellomooneekim.netlify.app/stop-being-a-junior/)
     * 회사에서 주니어라고 부르고 본인도 주니어라고 생각할 수 있지만
