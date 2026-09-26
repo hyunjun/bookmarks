@@ -2096,6 +2096,7 @@ Python
 * [Python Core Sprint 2024: Day 2](https://mariatta.ca/posts/python-core-sprint-2024-day-2/)
 * [Python Core Sprint 2024: Day 3](https://mariatta.ca/posts/python-core-sprint-2024-day-3/)
 * [PyCon KR 2023 Async State Machine 이상훈 - YouTube](https://www.youtube.com/watch?v=boFerSeA4zY)
+* [PyCon.KR 2026 발표 영상 재생목록 (36편) - YouTube](https://www.youtube.com/playlist?list=PLN5G1osPuVgk)
 
 ## Conference EuroPython
 * [EuroPython Podcast Questions](http://blog.europython.eu/post/115838231717/europython-podcast-questions)
