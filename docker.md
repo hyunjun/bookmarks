@@ -3018,6 +3018,10 @@ Docker
 # Library
 * [Top GUI for Docker | by appfleet team | appfleet | Medium](https://medium.com/appfleet/top-gui-for-docker-9b45588393d3)
 * [10 Tools That Complement Docker – CloudSavvy IT](https://www.cloudsavvyit.com/15158/10-tools-that-complement-docker/) Docker Compose, Portainer, Kubernetes, Traefik, Trivy, Syft, Dive, Flocker, Dokku, Hadolint
+* [Alien — Infrastructure for managed self-hosting](https://www.alien.dev/)
+  * [alien: Infrastructure for managed self-hosting | alienplatform](https://github.com/alienplatform/alien)
+  * [Alien - 고객 환경에 설치한 소프트웨어를 원격으로 운영하는 플랫폼 | GeekNews](https://news.hada.io/topic?id=33665)
+  * 데이터를 외부 SaaS로 보내기 어려운 고객을 위한 관리형 셀프호스팅—소프트웨어는 고객 환경에 설치되고 업데이트·운영은 개발사가 맡는 구조로, 고객은 서버·데이터·네트워크를 유지하고 개발사는 여러 설치처의 상태를 한곳에서 확인하며 배포·장애 대응. Rust, 245 stars
 * Anchore [도커 컨테이너 보안 취약점 스캔 도구 Anchore](https://bcho.tistory.com/1309)
 * [apollo - an extensible Docker-based Platform as a Service (PaaS)](https://gitlab.com/p3r.one/apollo)
 * [Batect](https://batect.dev/)
