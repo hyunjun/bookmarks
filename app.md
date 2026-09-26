@@ -2645,6 +2645,9 @@ App
 * [Cleanup.pictures - Remove objects, people, text and defects from any picture for free](https://cleanup.pictures/)
   * [Cleanup Pictures - 사진에서 필요없는 부분 지우기 | GeekNews](https://news.hada.io/topic?id=5843)
 * [cmdpxl: totally practical command-line image editor](https://github.com/knosmos/cmdpxl)
+* [Compositor – The Photoshop alternative for Mac](https://robbietilton.com/compositor)
+  * [Compositor: The Photoshop alternative for Mac | robbietilton](https://github.com/robbietilton/Compositor)
+  * 무료 오픈소스 Mac 네이티브 이미지 편집 앱—"Photoshop은 너무 비싸고 GIMP는 흐름을 유지할 만큼 익숙하지 않아서 만들었다"는 동기로, 전문적 컴포지팅에 필요한 도구를 Photoshop 사용자에게 익숙한 감각으로 제공. Swift, MIT, 5.6k stars
 * [다운튜브 DownTube - 동영상 다운로드 프로그램 4K/8K 가능](http://downtube.org/)
 * [Durdraw - ANSI, ASCII and Unicode Art Animation Studio for Linux](https://durdraw.org/)
   * [durdraw: Versatile ASCII and ANSI Art text editor for drawing in the Linux/Unix/macOS terminal, with animation, 256 and 16 colors, Unicode and CP437, and customizable themes](https://github.com/cmang/durdraw/)
@@ -2797,6 +2800,9 @@ App
     * 작업기억 공간의 한계 때문에 요약식 필기를 추천하지만, 복습할 시간이 충분하다면 강사의 모든 말을 필사하는 방법도 좋다
   * [Note-taking with computers: Exploring alternative strategies for improved recall](https://psycnet.apa.org/record/2012-27380-001) 세 가지 실험을 통해 노트 필기 전략과 기억력과의 관계를 조사
     * 결론: 작업 기억력이 좋지 않은 사람도 컴퓨터를 이용한 필사 후 복습 방식을 택하면 더 좋은 점수를 받을 수 있음
+* [Clankers Made Me Build a Second Brain | Jadarma's Blog](https://jadarma.github.io/blog/posts/2026/09/clankers-made-me-build-a-second-brain/)
+  * [깡통 AI들 때문에 두 번째 뇌를 만들게 됐다 | GeekNews](https://news.hada.io/topic?id=34251)
+  * AI 회의론자 개발자가 PKM을 시작하게 된 계기—Claude가 잊어버린 명령어 문법에 존재하지 않는 옵션을 답하는 일을 겪고, 이미 배운 내용을 Obsidian에 직접 기록해 찾아 쓰기로 함. 직접 노트를 쓰면 자신에게 맞는 답과 설명을 찾을 수 있고 정리 과정에서 이해·기억도 강화된다는 논지
 * [AI | AFFiNE - All In One KnowledgeOS](https://affine.pro/ai)
   * [AFFiNE: There can be more than Notion and Miro. AFFiNE(pronounced ə‘fain) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use](https://github.com/toeverything/affine)
   * [AFFiNE AI: Notion meets Infinite Canvas! - YouTube](https://www.youtube.com/watch?v=om6jgd30MBs)
