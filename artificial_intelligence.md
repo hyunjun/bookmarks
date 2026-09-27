@@ -6973,6 +6973,8 @@ Artificial Intelligence
 * [Amux — Bidirectional LLM API Adapter](https://www.amux.ai/)
   * [amux: Bidirectional LLM API adapter with IR pattern. Seamlessly convert between OpenAI, Anthropic, DeepSeek, and more](https://github.com/isboyjc/amux)
   * TypeScript IR 패턴으로 LLM 프로바이더 API 양방향 변환—App→Inbound Adapter(IR 파싱)→Bridge(검증)→Outbound Adapter(타겟 포맷). 8개 공식 어댑터(OpenAI/Anthropic/DeepSeek/Moonshot/Zhipu/Qwen/Gemini/MiniMax), 코어 런타임 의존성 0, 스트리밍·툴/함수 콜링. 멀티 프로바이더 앱·마이그레이션·비용 라우팅·폴백·테스팅 용도. MIT
+* [deepseek-build: DeepSeek-native terminal coding agent — Grok-class speed + Reasonix cache discipline + Deep Code V4 surface | innocarpe](https://github.com/innocarpe/deepseek-build)
+  * DeepSeek 모델 전용 풀스크린 터미널 코딩 에이전트(`dsb`). 안전한 편집·prefix-cache 인지 세션·병렬 실행, DeepSeek Harness 위에서 동작. Rust, Apache-2.0
 * [DeepSeek Harness: Everything is a Plugin](https://deepseek.com/harness/)
   * [deepseek-harness: DeepSeek Harness (dsh) — open-source agent harness by DeepSeek AI](https://github.com/deepseek-ai/deepseek-harness)
   * [DeepSeek Harness - 모든 구성 요소를 플러그인으로 만든 오픈소스 코딩 에이전트 | GeekNews](https://news.hada.io/topic?id=32474)
