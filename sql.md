@@ -285,6 +285,8 @@ SQL
 * [Software engineer — from monolith to cloud: Auto Increment to UUID](https://coder.today/software-engineer-from-monolith-to-cloud-auto-increment-to-uuid-a62f92f387c4)
 * [Reasons why SELECT * is bad for SQL performance | Tanel Poder Consulting](https://tanelpoder.com/posts/reasons-why-select-star-is-bad-for-sql-performance/)
 * [UUIDs are Popular, but Bad for Performance — Let’s Discuss](https://www.percona.com/blog/2019/11/22/uuids-are-popular-but-bad-for-performance-lets-discuss/)
+* [GUID로 업계가 집단 삽질했던 썰... 왜 그랬을까 | 포프TV - YouTube](https://www.youtube.com/watch?v=Yk2CBVkuEdo)
+  * NoSQL 유행기에 "분산 = GUID" 분위기 속에 유저 ID·주문 ID·로그까지 전부 random GUID로 만들던 시절의 회고(5분)—GUID는 분산에는 강하지만 RDBMS에서는 성능·인덱스·가독성 비용이 크다는 것, 업계의 각종 GUID 꼼수와 왜 결국 되돌아왔는지. "기술은 도구다, 유행은 설계 기준이 아니다"
 * [Generating UUIDs at scale on the Web | by Matthieu Wipliez | Teads Engineering | Jul, 2020 | Medium](https://medium.com/teads-engineering/generating-uuids-at-scale-on-the-web-2877f529d2a2)
 * [uuid-readable: Generate Easy to Remember, Readable UUIDs, that are Shakespearean and Grammatically Correct Sentences 🥳](https://github.com/Debdut/uuid-readable)
 * [Understanding How UUIDs Are Generated - Digital Bunker](https://digitalbunker.dev/2020/09/30/understanding-how-uuids-are-generated/)
