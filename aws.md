@@ -817,6 +817,8 @@ AWS
   * Application Inference Profile을 모델별로 만들어 CloudWatch에서 모델별 사용량을 관측하고 IAM 권한을 프로파일 ARN으로 한정해 모델 거버넌스 확보. Virtual Key 레벨 예산 강제 + IAM Identity Center 자동 매핑으로 개발자 단위 사용 통제, VPC 격리로 안전한 운영
 * [Build a Production-Ready AI Agent From Scratch — With LangGraph & AWS AgentCore](https://joudwawad.medium.com/production-ready-ai-agent-from-scratch-with-langgraph-aws-agentcore-e236cd3f675f)
   * [Build a Production-Ready AI Agent From Scratch | Darryl R.](https://www.linkedin.com/posts/darryl-ruggles_build-a-production-ready-ai-agent-from-scratch-activity-7430485562177863681-hrnc)
+* [Automate Oracle PL/SQL to PostgreSQL migration with Amazon Bedrock and Strands Agents | AWS](https://aws.amazon.com/ko/blogs/database/automate-oracle-pl-sql-to-postgresql-migration-with-amazon-bedrock-and-strands-agents/)
+  * 코드 변환의 '마지막 구간'을 자동화하는 생성형 AI 마이그레이션 어시스턴트—Bedrock 위 Claude Sonnet 4.6 + Strands Agents 프레임워크 + AWS Knowledge MCP Server 조합으로 Oracle PL/SQL→PostgreSQL 변환을 지원
 * [Amazon Bedrock AgentCore (Preview) - AWS](https://aws.amazon.com/ko/bedrock/agentcore/)
   * [Introducing Amazon Bedrock AgentCore: Securely deploy and operate AI agents at any scale (preview) | AWS News Blog](https://aws.amazon.com/ko/blogs/aws/introducing-amazon-bedrock-agentcore-securely-deploy-and-operate-ai-agents-at-any-scale/)
     * [Amazon Bedrock AgentCore 상세 분석 및 요약](https://www.facebook.com/groups/189675924467773/?multi_permalinks=9613723528729585&hoisted_section_header_type=recently_seen)
