@@ -1741,6 +1741,8 @@ Docker
 * [Kubernetes CrashLoopBackOff – Live Troubleshoot with Examples | Kubernetes Practice - YouTube](https://www.youtube.com/watch?v=ALAMyiQNOcw)
 * [Expedite Infrastructure Investigations With Kubernetes Anomalies | Datadog](https://www.datadoghq.com/blog/monitor-kubernetes-anomalies/)
 * [Equip Any User to Monitor Kubernetes With the Overview Page | Datadog](https://www.datadoghq.com/blog/unify-kubernetes-insights-with-the-kubernetes-overview-page/)
+* ["쿠버네티스는 GPU를 잘 활용하기 힘든 플랫폼" | 바이라인네트워크](https://byline.network/2026/03/27-597)
+  * K8s는 CPU·메모리 자원 최적화를 위해 태어나 **AI 학습·추론 워크로드에서 GPU를 효율적으로 쓰기 어렵다**는 지적—실제 플랫폼 구축 시 운영 관점의 문제 해결을 다룸
 * [AWS Summit Korea 2022 Kubernetes를 위한 Observability | 와탭랩스 세션 - YouTube](https://www.youtube.com/watch?v=DXXJEAfhjiQ)
 * [How Kubernetes Reinvented Virtual Machines (in a good sense)](https://iximiuz.com/en/posts/kubernetes-vs-virtual-machines/)
 * [kubernetes volume 사용 방법 정리하기. 사용하는 volume의 종류에 따라 ML training… | by Ryan Kim | Aug, 2022 | Medium](https://equus3144.medium.com/kubernetes-volume-%EC%82%AC%EC%9A%A9-%EB%B0%A9%EB%B2%95-%EC%A0%95%EB%A6%AC%ED%95%98%EA%B8%B0-49cc6bc5d761)
@@ -2945,6 +2947,10 @@ Docker
 * kube-proxy
   * [76. kubernetes NodePort Networking 분석 (kube-proxy : IPVS mode)](https://ikcoo.tistory.com/166)
   * [Cracking kubernetes node proxy (aka kube-proxy)](https://arthurchiao.art/blog/cracking-k8s-node-proxy/)
+* [NetObserv: network observability on Kubernetes / OpenShift](https://netobserv.io/)
+  * [netobserv-operator: A Kubernetes operator for network observability](https://github.com/netobserv/netobserv-operator)
+  * [GitHub - netobserv/netobserv-operator 공유 | 박상길 | LinkedIn](https://www.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_github-netobservnetobserv-operator-a-share-7472968303003648002-rGBF/)
+  * eBPF 기반 K8s/OpenShift 네트워크 관측 컴포넌트—플로우 수집·콘솔 플러그인·오퍼레이터. Go, Apache-2.0
 * [network-node-manager: network-node-manager is a kubernetes controller that controls the network configuration of a node to resolve network issues of kubernetes](https://github.com/kakao/network-node-manager)
   * [Kubernetes의 네트워크 이슈를 해결할 수 있는 network-node-manager – tech.kakao.com](https://tech.kakao.com/2021/03/03/network-node-manager/)
 
@@ -3218,6 +3224,8 @@ Docker
 * [rocker-compose - Docker composition tool with idempotency features for deploying apps composed of multiple containers](https://github.com/grammarly/rocker-compose)
 * [Sandboxie: Sandboxie - Open Source](https://github.com/sandboxie-plus/Sandboxie)
 * [seagull - Friendly Web UI to manage and monitor docker](https://github.com/tobegit3hub/seagull)
+* [Self-Hosting-Guide: Learn all about locally hosting (on premises & private web servers) | mikeroyal](https://github.com/mikeroyal/Self-Hosting-Guide)
+  * 온프레미스·사설 서버 셀프호스팅 종합 가이드—애플리케이션·미디어 서버·네트워킹·보안까지 큐레이션. 22.9k stars
 * Shipa [Home - Shipa](https://shipa.io/) Shipa does for applications what Terraform did for infrastructure. A consistent application definition for an evolving infrastructure
 * [Sokovan Container Orchestrator for Accelerated AI:ML Workloads and Massive scale GPU Computing - YouTube](https://www.youtube.com/watch?v=4t9zJIlB0n4)
 * [Ubicloud - Open and portable cloud](https://www.ubicloud.com/)
