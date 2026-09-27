@@ -1068,6 +1068,7 @@ Programming
   * [(광고) 3000만 명 이상이 사용하는 ‘토스’ 앱 안에 내 서비스를 출시할 수 있는 '앱인토스' 기능이 생겼습니다! 아직 블루오션인 지금 바로 시작해 보세요!! (☕스타벅스 커피 100% 증정 & 수수료 및 마케팅 무료 이벤트 진행 중) 저도 직접 강의 촬영 겸 앱인토스로 'AI 사진관' 앱을 만들어 출시해 봤습니다. 디자인, 개발, 수익화… | 조동근](https://www.linkedin.com/posts/jocoding_%EA%B4%91%EA%B3%A0-3000%EB%A7%8C-%EB%AA%85-%EC%9D%B4%EC%83%81%EC%9D%B4-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%ED%86%A0%EC%8A%A4-%EC%95%B1-%EC%95%88%EC%97%90-%EB%82%B4-%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC-%EC%B6%9C%EC%8B%9C%ED%95%A0-ugcPost-7386035844832223232-2s0b)
 * [Reconstructing the Simulmatics Code](https://storymaps.arcgis.com/stories/1a21155318ee48c3bd407b993d4a2336)
   * [what the Simulmatics Corporation actually did has been solved](https://www.linkedin.com/posts/adampool_reconstructing-the-simulmatics-code-activity-7394472644504363008-3-Qv)
+* [알아도 도움안되는 얕은 개발 지식들 - Google Slides](https://docs.google.com/presentation/d/1T8MbP89hY3EEfxft7H2qtmOfosTerhaGtoZpk8OYSso/mobilepresent?slide=id.p)
 
 # Agile, Scrum
 * book
@@ -2309,6 +2310,12 @@ Programming
 * [Idempotency in Distributed Systems | AlgoMaster](https://blog.algomaster.io/p/idempotency-in-distributed-systems)
 * [Stateful vs Stateless Architecture | AlgoMaster](https://blog.algomaster.io/p/stateful-vs-stateless-architecture)
   * 위 7편은 AlgoMaster(Ashish Pratap Singh)의 시스템 디자인 개념 시리즈 중 아키텍처 개념 편
+* [Master Software Architecture: From Simplicity to Complexity • Maciej «MJ» Jedrzejewski • GOTO 2025 - YouTube](https://www.youtube.com/watch?v=ZCrCqbblXjk)
+  * 「Master Software Architecture」 저자의 46분 발표—단순함에서 복잡함으로 가는 아키텍처 여정
+* [Platforms: Build Abstractions, not Illusions • Gregor Hohpe • GOTO 2025 - YouTube](https://www.youtube.com/watch?v=mRoWGqcBSzk)
+  * 「Platform Strategy」·「The Software Architect Elevator」 저자 Gregor Hohpe의 46분 발표—플랫폼은 환상(illusion)이 아니라 추상화(abstraction)를 만들어야 한다
+* [Best Simple System for Now • Daniel Terhorst-North • GOTO 2025 - YouTube](https://www.youtube.com/watch?v=u4Cv65F9DcY)
+  * BDD 창시자 Dan North의 44분 발표—미래를 예측한 최적 설계가 아니라 '지금을 위한 가장 단순한 시스템'을 반복적으로 유지하는 설계 철학
 * [You Keep Using That Word • Sam Newman • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=rZxIzrjvSGg) event driven, asynchronous, message queue
   * [VidiGo You Keep Using That Word • Sam Newman • GOTO 2023.](https://vidigo.ai/share/summary/38a45beea29d)
   * [그 단어를 계속 사용하는 당신 - 샘 뉴먼 - GOTO 2023 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/536409)
@@ -6080,6 +6087,8 @@ Programming
 * [코딩표준 DateTime.Now를 절대 쓰지 않는 이유 - YouTube](https://www.youtube.com/watch?v=FsnfNFdKNcA)
 
 # Debugging
+* [What Really Happens When You Hit a Breakpoint • Sy Brand • GOTO 2025 - YouTube](https://www.youtube.com/watch?v=-czq9nJQops)
+  * 「Building a Debugger」 저자(Fastly C++ 엔지니어)가 브레이크포인트를 찍었을 때 실제로 일어나는 일을 파헤치는 42분 발표
 * [당신의 디버깅에 니코니코니](http://www.slideshare.net/LusainKim/ss-54856264)
 * [How to Debug Any Problem](https://hackernoon.com/how-to-debug-any-problem-ac6f8a867fae)
 * [오늘의 질문 2018.12.18](https://jojoldu.tistory.com/363) 디버깅에 대한 창천향로님 의견
