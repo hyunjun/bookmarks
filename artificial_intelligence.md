@@ -2317,6 +2317,10 @@ Artificial Intelligence
 * [DHH: Future of Programming, AI, Agentic Engineering, Vibe Coding & Linux | Lex Fridman Podcast #501 - YouTube](https://www.youtube.com/watch?v=NYFGCESmikA)
   * [DHH가 바라본 프로그래밍의 미래: 직접 코딩에서 AI 에이전트 팀 운영으로 | GeekNews](https://news.hada.io/topic?id=33245)
   * Ruby on Rails 창시자·Omarchy Linux 개발자·37signals CTO DHH의 Lex Fridman 인터뷰. Opus 4.5와 에이전트 하네스를 기점으로 AI가 보조 도구에서 문제 해결 전반을 맡는 제작 주체로 전환됐다고 평가—Omarchy Quattro는 최근 3개월간 코드의 거의 100%를 에이전트가 작성, 개발자의 일이 직접 코딩에서 AI 에이전트 팀 운영으로 이동
+* [Linus Torvalds on the AI claim that makes him angry, and what security researchers should never do | ZDNET](https://www.zdnet.com/article/linus-torvalds-has-a-love-hate-relationship-with-ai/)
+  * [Why Linux creator Linus Torvalds gets angry hearing "99% of code is AI" | The New Stack](https://thenewstack.io/torvalds-ai-programming-productivity/)
+  * ["AI가 코드 99%를 짰다고? 헛소리!" 리눅스 창시자의 폭로 | Suk Hyun K | LinkedIn](https://www.linkedin.com/posts/suk-hyun-k-31ba9b369_aitgkrht-reeqsuswmtsarqetei-snyuiosqsswm-share-7468814218268655616-PJnp/)
+  * Open Source Summit North America 2026 키노트(Dirk Hohndel 대담, 2026-05)—"코드 99%를 AI가 썼다"는 말에 화가 나는 이유: **같은 논리라면 수십 년간 모든 코드가 100% 컴파일러로 기계어가 됐지만 아무도 "컴파일러가 내 프로그램을 만들었다"고 하지 않는다**. AI는 인간의 의도를 실행 가능한 코드로 변환하는 도구이자 생산성을 증폭시키는 새 계층일 뿐, 코드·시스템 아키텍처에 대한 인간의 이해를 대체하지 못하며 프로그래머의 일은 계속 있을 것이라는 관점(ZDNET 현장 취재: "Torvalds likes AI, but AI sometimes doesn't like Torvalds")
 * [OpenAI researcher on agent swarms & recursive self-improvement | Noam Brown - Dwarkesh Podcast - YouTube](https://www.youtube.com/watch?v=6AgOfiZOWiY)
   * [Noam Brown — "We never want to be in a situation again where we underestimate the AI" | Dwarkesh Podcast](https://www.dwarkesh.com/p/noam-brown)
   * [New episode with @polynoamial | Dwarkesh Patel on X](https://x.com/dwarkesh_sp/status/2100616332144169048)
