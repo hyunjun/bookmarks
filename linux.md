@@ -1733,6 +1733,10 @@ Linux
 * [ctypes.sh - A foreign function interface for bash](http://ctypes.sh/)
 * [ctypes.sh, a foreign function interface for bash](https://github.com/taviso/ctypes.sh/wiki)
 * [Dcron - Job scheduling made easy, distributed and highly-available](http://dcron.io/)
+* [deja: Predictive inline shell autosuggestions for zsh. Go daemon, no TUI, no sync | Giammarco-Ferranti](https://github.com/Giammarco-Ferranti/deja)
+  * [My Minimal Zsh Setup Is Ridiculously Good | Sam Natale - YouTube](https://www.youtube.com/watch?v=nzP_UcpaBZ0)
+    * Deja를 중심으로 한 미니멀 zsh 설정 8분—플러그인·히스토리·퍼지 파인딩 구성
+  * zsh-autosuggestions 대체—접두어 매칭 대신 퍼지 매칭·디렉터리 인지·명령 시퀀스 예측(`make build` 뒤 `make test`)·frecency 점수(1주 지수 감쇠)로 고스트 텍스트 제안. MIT
 * [Edbrowse, a Command Line Editor Browser](http://edbrowse.org/)
 * [Es: a shell with higher-order functions](http://wryun.github.io/es-shell/)
 * [fish shell - Finally, a command line shell for the 90s](http://fishshell.com/?version=2.2)
