@@ -1485,6 +1485,8 @@ Programming
 * [Saying Goodbye to Agile](https://lewiscampbell.tech/blog/260414.html)
   * [애자일에 작별을 고하며 | GeekNews](https://news.hada.io/topic?id=28583)
   * 애자일의 핵심 개념(반복 개발, 고객 참여)이 1970년대 연구에서 이미 존재했으며, 명확한 정의 없이 워터폴 반대로만 규정됐다고 비판. LLM 시대에 명세 기반 개발로 회귀 필요성 제기
+* [The Lean Tech Manifesto • Fabrice Bernhard & Steve Pereira • GOTO 2026 - YouTube](https://www.youtube.com/watch?v=5n6rFC6Ahhk)
+  * 「The Lean Tech Manifesto」 저자의 33분 대담—린 원칙을 테크 조직에 적용하기
 * [CodeOwnership](https://martinfowler.com/bliki/CodeOwnership.html)
   * [애자일 활동에서 Collective code ownership이 '코드 공유'를 말하는게...](https://www.facebook.com/jinho.yoo.10/posts/pfbid08uZceQNYc4gygBoaeHAjNv5SqDxEwfVyoSg833tKJBsc8SwFmKbcNekcR5KbPpp5l)
   * collective code ownership = shared code
@@ -2316,6 +2318,10 @@ Programming
   * 「Platform Strategy」·「The Software Architect Elevator」 저자 Gregor Hohpe의 46분 발표—플랫폼은 환상(illusion)이 아니라 추상화(abstraction)를 만들어야 한다
 * [Best Simple System for Now • Daniel Terhorst-North • GOTO 2025 - YouTube](https://www.youtube.com/watch?v=u4Cv65F9DcY)
   * BDD 창시자 Dan North의 44분 발표—미래를 예측한 최적 설계가 아니라 '지금을 위한 가장 단순한 시스템'을 반복적으로 유지하는 설계 철학
+* [Why The Best Software Engineers Focus On System Design | Beyond Coding - YouTube](https://www.youtube.com/watch?v=LeUUxLRdvho)
+  * 최고의 엔지니어들이 코드보다 시스템 디자인에 집중하는 이유(46분)
+* [Model-Based Systems Eng. & Requirements Definition • Dennis Hansen & Jorge Orellana • GOTO Book Club - YouTube](https://www.youtube.com/watch?v=-6BbPwlR6o4)
+  * 모델 기반 시스템 엔지니어링(MBSE)과 요구사항 정의를 다룬 북클럽 대담(23분)
 * [You Keep Using That Word • Sam Newman • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=rZxIzrjvSGg) event driven, asynchronous, message queue
   * [VidiGo You Keep Using That Word • Sam Newman • GOTO 2023.](https://vidigo.ai/share/summary/38a45beea29d)
   * [그 단어를 계속 사용하는 당신 - 샘 뉴먼 - GOTO 2023 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/536409)
@@ -5421,7 +5427,6 @@ Programming
 
 # Course MOOC Lecture
 * [외국대학 MOOC 영상과 대본 다운로드 받아 정리하는 방법 - 김형률 - YouTube](https://www.youtube.com/watch?v=kkfSgZAUdOA)
-* [awesome-courses - List of awesome university courses for learning Computer Science!](https://github.com/prakhar1989/awesome-courses)
 * [100+ Free Online Tools for Businesses and Startups](http://www.expertise.com/small-business/free-online-resources-for-small-business-and-startups)
 * [670 Free Online Programming & Computer Science Courses You Can Start in December](https://medium.freecodecamp.org/670-free-online-programming-computer-science-courses-you-can-start-in-december-a90149ac6de4)
 * [610 Free Online Programming & Computer Science Courses You Can Start This March](https://www.freecodecamp.org/news/free-online-programming-cs-courses/)
@@ -5474,6 +5479,7 @@ Programming
 * [5 Best Web API Design and Development Courses for Beginners in 2022 | by javinpaul | Javarevisited | Aug, 2022 | Medium](https://medium.com/javarevisited/best-web-api-design-and-development-courses-for-beginners-fb1c8dd83379)
 * [Adnan's classes | AdnanAziz.com](http://adnanaziz.com/classes/)
 * [Advanced Programming in the UNIX Environment](https://stevens.netmeister.org/631/)
+* [awesome-courses - List of awesome university courses for learning Computer Science!](https://github.com/prakhar1989/awesome-courses)
 * [boostcourse](https://www.boostcourse.org/)
 * [class-central.com](https://www.class-central.com/) find the best online courses from top universities
   * [Class Central - 온라인 강의 검색엔진 | GeekNews](https://news.hada.io/topic?id=6153)
@@ -5487,7 +5493,8 @@ Programming
 * [coursebuffet.com](https://www.coursebuffet.com/)
 * [CS101 Introduction to Computing Principles](https://web.stanford.edu/class/cs101/)
 * [CS50 - YouTube](https://www.youtube.com/c/cs50)
-* [cs-video-courses: List of Computer Science courses with video lectures](https://github.com/Developer-Y/cs-video-courses)
+* [cs-video-courses: List of Computer Science courses with video lectures | Developer-Y](https://github.com/Developer-Y/cs-video-courses)
+  * CS 전 분야(시스템·이론·AI·보안 등) 대학 강의 중 영상이 공개된 것만 모은 목록. 83.5k stars
 * [everdevel.com](http://www.everdevel.com/)
 * freecodecamp.org
   * [Free Code Camp's open source codebase and curriculum!](https://github.com/FreeCodeCamp/FreeCodeCamp)
