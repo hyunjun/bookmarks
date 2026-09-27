@@ -139,11 +139,18 @@ Hardware
   * 알리바바의 AI 에이전트 코딩 플랫폼 Qoder가 2026년 9월 3일 공식 출시한 안경 버전. 단순 스마트 안경이 아니라 개발자의 일하는 방식을 바꿀 수 있는 웨어러블 코딩 인터페이스
 * [Cognitum — AI Agent Platform: Seed Device, MCP Tools & Developer SDK](https://cognitum.one/)
   * WASM 런타임·암호화 ID·벡터 스토리지 내장 Seed 하드웨어 + Rust/Node.js/Python SDK
-* [Tiiny AI Inc](https://tiiny.ai/)
-  * [(1) 전종홍 - 120B 파라미터 모델을 클라우드 연결 없이 주머니에 넣고 다닐 수 있다면 당장 구입하실 생각이 있으신가요... | Facebook](https://www.facebook.com/1biit/posts/pfbid0WxgebboAwyUMXojQQNxzNJH8NE27wiEppkNYQC64NtojQkT1ukcZfEJdPt14hcnjl)
 * [The Personal AI Computer | Autonomous](https://www.autonomous.ai/computer)
   * [autonomous-computer: Open-source hardware and software designs for building personal AI computers](https://github.com/autonomous-ai/autonomous-computer)
   * 로컬에서 AI 모델을 완전 프라이빗하게 돌리는 커스터마이징·오픈소스 하드웨어. 자체 GPU로 3개 모델(AC2/AC4/AC8, 2×RTX 5090~4×RTX PRO 6000) 구성, 클라우드 연결·토큰 비용 없음. CAD·조립·BIOS 설정 공개
+* [text-to-cad | A library of agent skills for CAD, CAE and CAM](https://www.texttocad.dev/)
+  * [text-to-cad: A library of agent skills for CAD, CAE and CAM | earthtojake](https://github.com/earthtojake/text-to-cad)
+  * CAD(설계)·CAE(해석)·CAM(제조)용 에이전트 스킬 라이브러리—텍스트로 기계 설계·해석·가공 워크플로를 다루는 스킬 모음. Python, MIT, 16.4k stars
+* [Tiiny AI Inc](https://tiiny.ai/)
+  * [(1) 전종홍 - 120B 파라미터 모델을 클라우드 연결 없이 주머니에 넣고 다닐 수 있다면 당장 구입하실 생각이 있으신가요... | Facebook](https://www.facebook.com/1biit/posts/pfbid0WxgebboAwyUMXojQQNxzNJH8NE27wiEppkNYQC64NtojQkT1ukcZfEJdPt14hcnjl)
+* [xpu-top: Intel's CPU-GPU-NPU monitoring solution including discrete GPU without dependencies on Linux & Windows | circuluspibo](https://github.com/circuluspibo/xpu-top)
+  * [Intel Has CPU, GPU, and NPU. Why Doesn't It Have an NVIDIA-SMI? | Medium](https://medium.com/@rippertnt/intel-has-cpu-gpu-and-npu-why-doesnt-it-have-an-nvidia-smi-126be766c671)
+  * [Intel AIPC·OpenVINO·EdgeAI 공유 | Jonggun Park | LinkedIn](https://www.linkedin.com/posts/park-jonggun-ab5428bb_intelaipc-openvino-edgeai-share-7496054365800128512-H1_W/)
+  * NVIDIA에 nvidia-smi가 있듯 Intel CPU·GPU(외장 포함)·NPU를 **한 테이블로 모니터링**하는 의존성 없는 도구(Linux·Windows)—서큘러스(파이보)의 오픈소스. C++
 
 # Arduino
 * [Arduino](http://www.arduino.cc)
