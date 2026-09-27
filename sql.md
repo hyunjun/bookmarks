@@ -657,6 +657,8 @@ SQL
   * Java 기반 단일 .jar 도구. 기존 DB 스키마에서 ER 다이어그램 포함 HTML 문서를 자동 생성. Docker Hub 배포, Graphviz 의존
 * [sequel fumpt - Type some SQL. Move the slider to set output width](https://sqlfum.pt/)
   * [sqlfmt: an opinionated online SQL formatter](https://www.cockroachlabs.com/blog/sql-fmt-online-sql-formatter/)
+* [slowql: Next-generation SQL static analyzer written in Rust. 282+ rules. Zero false positives](https://github.com/slowql/slowql)
+  * 보안·성능 등 282개+ 규칙의 Rust SQL 정적 분석기—"zero false positives"를 내세움. 227 stars
 * [SpacetimeDB](https://spacetimedb.com/)
   * [1000X Faster Than PostgreSQL?! - YouTube](https://www.youtube.com/watch?v=k7ZemI82Qxs)
 * [**sq: swiss-army knife for data**](https://sq.io/) jq for relational data
@@ -1595,6 +1597,9 @@ SQL
 * [Agg: Parallel aggregations for PostgreSQL](http://www.cybertec.at/en/products/agg-parallel-aggregations-postgresql/)
 * [AlloyDB versus PostgreSQL: a performance review - Vettabase](https://vettabase.com/blog/alloydb-versus-postgresql/)
 * [What is AlloyDB? - YouTube](https://www.youtube.com/watch?v=YODa-x0_3l0)
+* [Optimizing AlloyDB AI text-to-SQL accuracy | Google Cloud Blog](https://cloud.google.com/blog/products/databases/optimizing-alloydb-ai-text-to-sql-accuracy?hl=en)
+  * [AlloyDB AI 텍스트-SQL 정확도 최적화 | Duke Donghyun Kim | Facebook](https://www.facebook.com/idreaming/posts/pfbid02B8dRfsHw6y3Hxtmpqw5UrsLxwZ6x1XtX6ykKhz5QJSJazX2DtNsitQ3eAeE1cUrJl)
+  * AlloyDB AI 자연어 API—에이전트나 최종 사용자가 DB 데이터에 자연어로 질문하고 정확한 답을 받도록 하는 기능과, 그 답의 정확도를 극대화하는 기법들
 * [asyncpg -- A fast PostgreSQL Database Client Library for Python/asyncio](https://github.com/magicstack/asyncpg)
 * [Biscuit is a specialized PostgreSQL index access method (IAM) designed for blazing-fast pattern matching on LIKE queries, with native support for multi-column searches. It eliminates the recheck overhead of trigram indexes while delivering significant performance improvements on wildcard-heavy queries](https://github.com/CrystallineCore/Biscuit)
   * [Biscuit - PostgreSQL에서 LIKE / ILIKE 패턴 검색을 고속화하기 위 | GeekNews](https://news.hada.io/topic?id=25649)
