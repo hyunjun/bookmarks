@@ -1128,6 +1128,10 @@ NLP
       * web browser는 ChatGPT가 웹 검색을 할 수 있게 하고 code interpreter는 Python 코드를 실행 가능
     * [나만의 ChatGPT 플러그인 만들기! 10분컷. - YouTube](https://www.youtube.com/watch?v=pBdwrB4rEA4)
     * [ChatGPT 플러그인 정리 - 모두의연구소](https://modulabs.co.kr/blog/chatgpt-%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8-%EC%A0%95%EB%A6%AC/)
+    * [Computer History in ChatGPT | OpenAI - YouTube](https://www.youtube.com/watch?v=W-HhMUe9hOg)
+      * Computer History 옵트인 시 Codex·ChatGPT가 작업 맥락을 이해—중단한 프로젝트 이어가기, 이력 기반 스킬·예약 작업 제안(공식 3분 소개)
+    * [ChatGPT는 답만 주는 도구가 아니라 직접 조작하며 이해하는 인터랙티브 공간이 되기 시작했습니다 | swhan0329 | LinkedIn](https://www.linkedin.com/posts/swhan0329_chatgpt%EB%8A%94-%EB%8B%B5%EB%A7%8C-%EC%A3%BC%EB%8A%94-%EB%8F%84%EA%B5%AC%EA%B0%80-%EC%95%84%EB%8B%88%EB%9D%BC-%EC%A7%81%EC%A0%91-%EC%A1%B0%EC%9E%91%ED%95%98%EB%A9%B0-%EC%9D%B4%ED%95%B4%ED%95%98%EB%8A%94-%EC%9D%B8%ED%84%B0%EB%9E%99%ED%8B%B0%EB%B8%8C-ugcPost-7498753580791742464-k8OR/)
+      * Visualize 플러그인으로 Intel RealSense D455 카메라 3D Lab을 만들어 본 사용기—글·표로만 이해하던 내용을 직접 움직이고 조작하며 이해(드론·3D Vision 본업 영역 적용)
     * [챗GPT 플러그인 만들기 1. 전체구조 2.OpenAI API - YouTube](https://www.youtube.com/watch?v=fpu4TwNSaHU)
     * [Building a ChatGPT Plugin for Medium | by Thomas Ricouard | Apr, 2023 | Medium Engineering](https://medium.engineering/building-a-chatgpt-plugin-for-medium-6813b59e4b24)
       * Medium에서 ChatGPT 플러그인을 만들어 보면서 경험을 정리한 글
@@ -3116,6 +3120,8 @@ NLP
   * [LG EXAONE4 AI 모델 GCC 연동 코.. : 네이버블로그](https://blog.naver.com/ulsancoding/223949457227)
   * [“주식 상식 깨졌다” 증권사 초토화된 AI신기술 등장, LG 진짜 무섭네 ㄷㄷ - YouTube](https://www.youtube.com/watch?v=KMMeRKr8w4Y)
     * [LG AI, 뉴욕 증시를 뚫다! 한국 최초의 AI상업화 성공 - 하이젠버그](https://heisenberg.kr/lg_financial/)
+  * [LG가 사고쳤네요; 구글 제치고 예측 AI 세계 1위, 예상한 수준 넘어섰다 | Softdragon SOD - YouTube](https://www.youtube.com/watch?v=tauRMf5VDiM)
+    * LG AI연구원 방문 후속편(9분, 2026-09-25)—①**EXAONE LQAI**: 사람 개입 없는 엔드투엔드 주식 예측·포트폴리오 AI로 미국 상장 ETF 운용, 예측 AI 분야에서 구글을 제치고 1위 주장(LG 자체 설명). GPT는 테크 섹터 선호 같은 **LLM별 섹터 편향을 제거**하는 연구와 지식 그래프 활용이 차별점 ②**K-EXAONE 체험**: 한국어 토큰이 풍부한 토크나이저로 한국어 깨짐 없음, 국내 최고 사이즈, 독자 파운데이션 모델(독파모) 사업 3단계 진출—다만 GPT-6 Astra 대비로는 "가야 할 길이 멀다"고 인정 ③AI가 발굴한 탈모 예방 신소재 '람시딜'
 * [Falcon LLM - Home](https://falconllm.tii.ae/)
   * [UAE's Falcon 40B is now Royalty Free | Technology Innovation Institute](https://www.tii.ae/news/uaes-falcon-40b-now-royalty-free)
   * [Falcon-40B 모델을 대규모 모델 추론 딥러닝 컨테이너(DLC)로 Amazon SageMaker에 배포하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/machine-learning-deploy-falcon-40b-with-large-model-inference-dlcs-on-amazon-sagemaker/)
@@ -3278,6 +3284,8 @@ NLP
     * 가장 신랄한 반문—AI 엔지니어링은 원래 생성 태스크와 분류 태스크를 구분하고 분류는 가볍고 빠르게 최적화하는 일인데, **Jev가 놀랍다면 프로젝트에서 분류 문제를 정의조차 안 하고 생성만으로 때워 왔다는 뜻 아니냐**는 지적
   * [최근 TypeSafe AI의 Jev가 워낙 핫해서 이게 뭐지 하고 살펴봤습니다 | Seongeun So | LinkedIn](https://www.linkedin.com/posts/sungeuns2_%EC%B5%9C%EA%B7%BC-typesafe-ai%EC%9D%98-jev%EA%B0%80-%EC%9B%8C%EB%82%99-%ED%95%AB%ED%95%B4%EC%84%9C-%EC%9D%B4%EA%B2%8C-%EB%AD%90%EC%A7%80-%ED%95%98%EA%B3%A0-%EC%82%B4%ED%8E%B4%EB%B4%A4%EC%8A%B5%EB%8B%88%EB%8B%A4-share-7507822409333436416-z3Di/)
     * "Next LLM"이라는 카피에 대한 교정—TypeSafe 문서 스스로 숫자 계산·날짜 비교·다단계 추론·긴 문맥에 약하다고 명시하며, "hallucination 없음"도 판단이 항상 옳다는 게 아니라 **정의 안 된 필드·선택지를 생성하는 type/schema error가 구조적으로 없다**는 의미. BERT 계보 encoder-only 모델의 일반화가 아닌가 하는 추정(아키텍처 비공개라 단정 불가)과 함께 다루는 문제 자체는 새롭지 않다고 정리
+  * [Opus 5.5 + Jev Just Solved AI's Biggest Problem | Nick Puru - YouTube](https://www.youtube.com/watch?v=Uq2tkX5_PRk)
+    * AI 자동화 에이전시 관점(n8n 계열)의 17분 영상—생성·실행은 Opus 5.5, 반복 판단은 Jev로 나누는 조합을 다룸
   * [2609.26550 JEV-as-a-Judge: Accept When Confident, Escalate When Unsure](https://arxiv.org/html/2609.26550)
     * [벌써 Jev의 실제 성능과 장점, 그리고 약점과 보완 방법까지 자세히 실험한 논문이 나왔습니다 | 염기웅](https://www.linkedin.com/posts/kiwoong-yeom_%EB%B2%8C%EC%8D%A8-jev%EC%9D%98-%EC%8B%A4%EC%A0%9C-%EC%84%B1%EB%8A%A5%EA%B3%BC-%EC%9E%A5%EC%A0%90-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%95%BD%EC%A0%90%EA%B3%BC-%EB%B3%B4%EC%99%84-%EB%B0%A9%EB%B2%95%EA%B9%8C%EC%A7%80-%EC%9E%90%EC%84%B8%ED%9E%88-%EC%8B%A4%ED%97%98%ED%95%9C-share-7509092892578050048-psZU/)
     * CMU 계열 저자 4명(Yubo Li·Ramayya Krishnan·Rema Padman 외)의 첫 Jev 독립 평가 논문(2026-09-22). 판단만 내리는 저지가 LLM-as-a-judge의 경제적 1차 패스가 될 수 있는지를 16개 생성·리워드 모델 저지와 블라인드 인간 판정으로 비교—일반 선호·근거 기반 사실성에서는 최고 성능 LLM 저지 대비 3%p 이내를 **비용 0.36%**로 달성하지만, 유도 과정을 검증하거나 정교하게 쓰인 오답에 저항해야 하는 판단에서는 격차가 커짐
@@ -3287,6 +3295,9 @@ NLP
   * [Awesome Jev / TypeSafe](https://abdelstark.github.io/awesome-typesafe-jev/)
     * [awesome-typesafe-jev: a source-backed field guide to TypeSafe's System One model, with SDKs, live demos, agent tools, and independent evaluations](https://github.com/AbdelStark/awesome-typesafe-jev)
     * "Jev는 소프트웨어에 타입드 판단을 주고, 코드는 여전히 주도권을 가진다"—문서화된 호출 예시(support-ticket 예제, 한 번의 호출로 세 개의 타입드 답) 확인, 라이브 프로젝트 체험, 스타터 복사, 독립 평가 열람으로 구성된 커뮤니티 필드 가이드. SDK·데모·에이전트 도구·독립 평가 큐레이션. MIT
+  * [CLM: Contrastive Language Models — A System One Model for Fast and Generalizable Decision-Making](https://github.com/Contrastive-LM/CLM)
+    * **상태(state)와 행동(action)을 잇는 대조학습(contrastive learning)으로 훈련한 새 계열의 System One 모델**—CLM-8B를 TypeSafe 호환 API로 서빙(Nemotron Q&A 6,000만 쌍 사전학습→합성 하드 네거티브 3,000만 중간학습→에이전틱 궤적 100만 사후학습). 컴퓨터 사용·게임·툴 호출에서 Jev와 동급 성능을 **최대 9배 낮은 지연**으로 낸다고 주장하고, 가벼운 파인튜닝으로 에이전틱 코딩 검증기(verifier) SOTA 주장—Terminal-Bench 2.1 87.6%, DeepSWE 81.6%(자체 보고)
+    * 상태·행동을 분리(disaggregate)해 임베딩을 독립적으로 캐시·재사용하는 설계가 학습·서빙 비용을 낮추는 핵심. 파인튜닝 튜토리얼·HF 데이터/모델 공개. `pip install contrastive-lm`. Python, Apache-2.0, 1.7k stars(2026-09-23 생성 나흘 만)
   * [kev: Jev-like family of decision models built on top of Qwen3.5/3.8 you can train and run on your own | Jared Palmer](https://github.com/jaredpalmer/kev)
     * [Kev - 직접 학습하고 실행할 수 있는 Jev 방식의 의사결정 모델 | GeekNews](https://news.hada.io/topic?id=34065)
     * Vercel의 Jared Palmer가 만든 오픈소스 Jev류 모델 패밀리—Qwen3.5/3.8 기반으로 예/아니요 확률·선택지별 확률·평가 점수를 반환하고 직접 학습·실행 가능. 고객 문의 하나에서 담당 부서·긴급 여부·불만 정도를 함께 판단하되 각 질문이 서로 영향을 주지 않게 분리. 0.8B부터 시작. Python, Apache-2.0, 7.1k stars
@@ -4054,6 +4065,9 @@ NLP
   * [marin: Open-source framework for the research and development of foundation models](https://github.com/marin-community/marin/)
   * [535B-A23B MoE Hero Run: 18T 토큰 학습을 위한 Scaling Ladder와 대규모 GPU 학습 구조 | digitalbourgeois](https://digitalbourgeois.tistory.com/3564)
   * 파운데이션 모델 연구·개발용 오픈소스 프레임워크. 535B-A23B MoE를 18T 토큰으로 학습하는 Hero Run에서 scaling ladder와 대규모 GPU 학습 구조 공개. Python, 3k stars
+* [MARL: VIDRAFT MARL Middleware](https://github.com/Vidraft/MARL)
+  * [AI가 "모르겠습니다"라고 말할 수 있게 된 날 — MARL 미들웨어 공개 | seawolf | 브런치](https://brunch.co.kr/@seawolf/113)
+  * "서울-부산 KTX 47분"(틀림)과 "훈민정음 1446년 반포"(맞음)를 **똑같은 자신감으로 말하는** 환각 문제에, LLM 앞단에서 확신도를 다뤄 모르는 건 모른다고 답하게 하는 미들웨어 접근. Python, 초기 단계(13 stars)
 * [MedLLMsPracticalGuide: Nature Reviews Bioengineering🔥 Application of Large Language Models in Medicine. A curated list of practical guide resources of Medical LLMs (Medical LLMs Tree, Tables, and Papers)](https://github.com/AI-in-Health/MedLLMsPracticalGuide)
 * [Mellum - 개발자를 위해 설계된 JetBrains의 새로운 LLM | JetBrains 블로그](https://blog.jetbrains.com/ko/blog/2024/11/21/introducing-mellum-jetbrains-new-llm-built-for-developers/)
 * [mem0: The memory layer for Personalized AI](https://github.com/mem0ai/mem0)
@@ -4600,17 +4614,20 @@ NLP
 * [mesh-transformer-jax: Model parallel transformers in JAX and Haiku](https://github.com/kingoflolz/mesh-transformer-jax)
   * [Checking out a 6-Billion parameter GPT model, GPT-J, from Eleuther AI - YouTube](https://www.youtube.com/watch?v=_z86t7LerrQ)
 * [microgpt](https://karpathy.ai/microgpt.html)
-  * [microgpt](https://karpathy.github.io/2026/02/12/microgpt/)
-  * [microgpt](https://gist.github.com/karpathy/8627fe009c40f57531cb18360106ce95)
-  * [MicroGPT Visualizer](https://microgpt.enescang.dev/)
-  * [vabruzzo/snes-gpt: micro-gpt in ASM on the Super Nintendo](https://github.com/vabruzzo/snes-gpt)
-  * [microgpt.js - a Hugging Face Space by webml-community](https://huggingface.co/spaces/webml-community/microgpt.js)
-  * [xenova/microgpt.js: The most atomic way to train and inference a GPT in pure, dependency-free JavaScript. This repository covers the complete algorithm. Everything else is just efficiency. Inspired by Karpathy's microgpt.py.](https://github.com/xenova/microgpt.js)
-  * [microgpt.ipynb - Colab](https://colab.research.google.com/drive/1vyN5zo6rqUp_dYNbT4Yrco66zuWCZKoN?usp=sharing)
   * [최승준 - microgpt 200라인의 코드에 압축했네요. 공개된 걸 본 후 저도 바로 Opus 4.6으로 하여금... | Facebook](https://www.facebook.com/seungjoon.choi/posts/pfbid0abNS3N74PuZx49THh1raoZeTodrY7Gv3qqQWdZgxnJbLk3hEFmpcAA1y7fjNx1Bdl)
-  * [microgpt.py | Karpathy gist](https://gist.github.com/karpathy/8627fe009c40f57531cb18360106ce95#file-microgpt-py)
   * [🚀 AI 입문자 필수, MicroGPT로 GPT 원리 5분 만에 이해하기 | fornewchallenge](https://fornewchallenge.tistory.com/entry/%F0%9F%9A%80-AI-%EC%9E%85%EB%AC%B8%EC%9E%90-%ED%95%84%EC%88%98-MicroGPT%EB%A1%9C-GPT-%EC%9B%90%EB%A6%AC-5%EB%B6%84-%EB%A7%8C%EC%97%90-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0)
   * [243줄로 만든 GPT, 이 코드를 읽으면 ChatGPT가 어떻게 작동하는지 보입니다 | FullstackFamily (carami)](https://www.fullstackfamily.com/@carami/posts/13891)
+  * [microgpt](https://karpathy.github.io/2026/02/12/microgpt/)
+  * [microgpt](https://gist.github.com/karpathy/8627fe009c40f57531cb18360106ce95)
+  * [microgpt | Andrej Karpathy](https://karpathy.ai/microgpt.html)
+    * [🚀 AI 입문자 필수! MicroGPT로 GPT 원리 5분 만에 이해하기 | fornewchallenge](https://fornewchallenge.tistory.com/entry/%F0%9F%9A%80-AI-%EC%9E%85%EB%AC%B8%EC%9E%90-%ED%95%84%EC%88%98-MicroGPT%EB%A1%9C-GPT-%EC%9B%90%EB%A6%AC-5%EB%B6%84-%EB%A7%8C%EC%97%90-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0)
+    * Karpathy가 **의존성 없는 순수 파이썬 약 200줄로 GPT의 핵심 알고리즘 전체를 구현**한 프로젝트(한 장의 포스터 형태 페이지)—파라미터 4,192개(GPT-2 15억 개의 약 36만분의 1), 32,000개 영어 이름 데이터로 학습해 다음 글자 예측의 본질을 보여줌. micrograd·nanoGPT 계보의 최소 구현판
+  * [microgpt.ipynb - Colab](https://colab.research.google.com/drive/1vyN5zo6rqUp_dYNbT4Yrco66zuWCZKoN?usp=sharing)
+  * [microgpt.js - a Hugging Face Space by webml-community](https://huggingface.co/spaces/webml-community/microgpt.js)
+  * [microgpt.py | Karpathy gist](https://gist.github.com/karpathy/8627fe009c40f57531cb18360106ce95#file-microgpt-py)
+  * [MicroGPT Visualizer](https://microgpt.enescang.dev/)
+  * [vabruzzo/snes-gpt: micro-gpt in ASM on the Super Nintendo](https://github.com/vabruzzo/snes-gpt)
+  * [xenova/microgpt.js: The most atomic way to train and inference a GPT in pure, dependency-free JavaScript. This repository covers the complete algorithm. Everything else is just efficiency. Inspired by Karpathy's microgpt.py.](https://github.com/xenova/microgpt.js)
 * [minGPT: A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training](https://github.com/karpathy/minGPT) 일종의 교육용 GPT
 * [Parti: Pathways Autoregressive Text-to-Image Model](https://parti.research.google/)
 * [Tracking AI](https://trackingai.org/) Monitoring Bias in Artificial Intelligence Chatbots
@@ -4640,6 +4657,8 @@ NLP
 * [RAG(Retrieval-Augmented Generation)의 개념과 프레임워크 – Data Rabbit](https://flonelin.wordpress.com/2024/03/24/ragretrieval-augmented-generation%ec%9d%98-%ea%b0%9c%eb%85%90%ea%b3%bc-%ed%94%84%eb%a0%88%ec%9e%84%ec%9b%8c%ed%81%ac/) LangChain LlamaIndex
 * [What if RAG is no longer a single architecture, but a whole set of design patterns? | Ravena O | LinkedIn](https://www.linkedin.com/posts/ravena-o_what-if-rag-is-no-longer-a-single-architecture-share-7504915003926302720-h_Dg/)
   * 2026년에 알아둘 RAG 설계 패턴 7가지 시각 정리—Naive RAG(벡터 검색→LLM), Retrieve-and-Rerank(리랭커로 컨텍스트 관련도 개선), Multimodal RAG(텍스트 외 멀티모달 문서·미디어), Graph RAG(벡터 검색+그래프 DB로 정보 간 관계 반영) 등. RAG가 단일 아키텍처가 아니라 유스케이스별 패턴 집합으로 진화했다는 관점
+* [Most RAG systems fail in production for one reason | Brij Kishore Pandey | LinkedIn](https://www.linkedin.com/posts/brijpandeyji_most-rag-systems-fail-in-production-for-one-share-7465966676107419648-mYif/)
+  * "retrieval + LLM"을 아키텍처 전부로 여기는 게 프로덕션 실패의 이유이고 그건 전체의 ~20%라는 지적—Query Construction(저장소가 번역을 결정: 관계형→text-to-SQL, 그래프→text-to-Cypher, 벡터→시맨틱 쿼리)부터 Query Translation 등 **품질이 새는 단계별 전체 파이프라인**을 시각 정리
 * [RAG를 개선하는 전체적인 흐름](https://www.linkedin.com/posts/hoyeon-lee-a58702117_rag%EB%A5%BC-%EA%B0%9C%EC%84%A0%ED%95%98%EB%8A%94-%EC%9E%91%EC%97%85%EC%9D%80-%EC%A0%95%EB%A7%90-%EC%89%BD%EC%A7%80-%EC%95%8A%EC%8A%B5%EB%8B%88%EB%8B%A4-%EC%95%84%EB%A7%88-llm-%EA%B8%B0%EB%B0%98-%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC-activity-7210793127924649984-ps1H/)
   * 1. 평가 지표/방식 정하기
   * 2. 테스트 셋 만들기
@@ -4885,17 +4904,26 @@ NLP
   * [법률 업무에 특화된 AI 플랫폼, Gemini Enterprise for Legal | digitalbourgeois](https://digitalbourgeois.tistory.com/3583)
   * 법률 산업 특화 AI 솔루션. 계약 검토·규제 모니터링·DSAR 대응·문서 작성 자동화를 위해 법률 전문가와 함께 개발한 스킬, 시스템 연동, AI 에이전트, 파트너 생태계 4가지로 구성
   * iManage·NetDocuments·Docusign·Everlaw 등 주요 법률 소프트웨어와 연동하며 기존 사용자 권한·데이터 격리를 유지한 엔터프라이즈급 거버넌스와 기밀성 보장
-* [korean-law-mcp: 대한민국 법률 검색 MCP 서버 및 CLI](https://github.com/chrisryugj/korean-law-mcp)
-  * 법제처 Open API 기반 64개 법률 도구 제공. 법령·판례·행정규칙·조례·헌법재판소 결정 검색, 법률 약칭 자동 해석, 별표 마크다운 변환, 7개 복합 워크플로우 체인 도구. Claude Desktop·Cursor·Windsurf 등 MCP 클라이언트 지원
-  * [나만의 인공지능 AI 변호사를 가져보세요 - YouTube](https://www.youtube.com/watch?v=GX0qaErlZuY)
-    * [나만의 AI 변호사를 만드는 방법 (코리안 로우 MCP & 코깎 DIR 활용)](https://livewiki.com/ko/content/ai-22108)
-  * [Claude Code에서 대한민국 법령 검색하는 방법 (3분 완성)](https://fornewchallenge.tistory.com/entry/%E2%9A%96%EF%B8%8F-Claude-Code%EC%97%90%EC%84%9C-%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD-%EB%B2%95%EB%A0%B9-%EA%B2%80%EC%83%89%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-3%EB%B6%84-%EC%99%84%EC%84%B1)
-  * [미용실에서 흥미로운 대화 - 실업급여·보험 분쟁에 법률 MCP 활용 | SungJae Shim](https://www.linkedin.com/posts/sungjae-shim-9b353159_%EC%96%B4%EC%A0%9C-%EB%AF%B8%EC%9A%A9%EC%8B%A4%EC%97%90%EC%84%9C-%ED%9D%A5%EB%AF%B8%EB%A1%9C%EC%9A%B4-%EB%8C%80%ED%99%94%EB%A5%BC-%ED%96%88%EC%8A%B5%EB%8B%88%EB%8B%A4-%EC%9B%90%EC%9E%A5%EB%8B%98%EC%9D%B4-%ED%87%B4%EC%82%AC%ED%95%9C-%EC%A7%81%EC%9B%90%EC%9D%98-%EC%8B%A4%EC%97%85%EA%B8%89%EC%97%AC-share-7443832006372827136-SW1u/)
-    * 웹 검색 결과가 아닌 법제처 원본 DB 직접 연결의 차이를 강조. 실업급여·보험 분쟁 등 일상 법률 문제에 AI+법률 MCP 활용 사례
-  * [AX 불 지핀 행정 8급 공무원 "혁신 가로막는 건 조직문화" | 지디넷코리아 (네이버)](https://n.news.naver.com/article/092/0002421919)
-    * 류승인 주무관 인터뷰. AI 확산엔 성과 내는 사람 인정·보상 체계가 필수. 공공 부문 AX 현장 사례
-  * [Korean Law MCP: AI 시대를 위한 대한민국 법령·판례 통합 분석 플랫폼 :: 지식의 섬](https://digitalbourgeois.tistory.com/3119)
-    * 법제처 41개 Open API를 15-17개 핵심 도구로 재구성. impact_map(조문 영향 그래프), time_travel(시점 비교 자동 diff), action_plan(시민 5단계 가이드), verify_citations(법령명·조문 번호 실시간 교차 검증으로 환각 차단)
+* [딴짓하는 류주임(chrisryugj) — Public AX FDE · GitHub](https://github.com/chrisryugj)
+  * [광진구청 행정 8급 바이브코더, 딴짓하는 류주임입니다 | LinkedIn](https://www.linkedin.com/posts/chrisryugj_%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94-%EC%8A%A4%EB%A0%88%EB%93%9Cthread%EC%97%90%EC%84%9C-%EC%A3%BC%EB%A1%9C-%ED%99%9C%EB%8F%99%ED%95%98%EB%8A%94-%EA%B4%91%EC%A7%84%EA%B5%AC%EC%B2%AD-%ED%96%89%EC%A0%95-8%EA%B8%89-%EB%B0%94%EC%9D%B4%EB%B8%8C%EC%BD%94%EB%8D%94-share-7471391088772059136-abJG/)
+    * "낮에는 구정소식지 만들고 밤에는 공공 데이터를 만집니다"—AI가 없는 조문을 지어내서 법령·판례 175,064건을 통째로 물린 국가법령정보 MCP, HWP 파싱의 한을 풀고 3.0부터 AI가 고친 내용을 서식·도장 그대로 HWP로 되돌리는 KorDoc, 윈도우 검색이 못 하는 본문 검색을 1초에 하는 Anything—광진구청 공무원이 만든 도구들 자기소개
+  * [Docufinder(Anything): 파일 이름이 아니라 본문으로 찾는 문서 검색기](https://github.com/chrisryugj/Docufinder)
+    * HWP·PDF·Office 전문(full-text) 검색을 100% 오프라인으로—내부망에서도 보안 걱정 없이. Windows·macOS. Rust, 653 stars
+  * [kordoc: 한국 문서(HWP/HWPX/PDF)를 마크다운으로 변환하는 파싱 라이브러리](https://github.com/chrisryugj/kordoc)
+    * HWP 5.x, HWPX, PDF 자동 감지 파싱, 문서 간 IR-level 비교, 정부 양식 필드 자동 추출, 마크다운→HWPX 생성, OCR 플러그인 지원. Claude·Cursor·Windsurf용 MCP 도구 7개 포함
+  * [korean-law-mcp: 대한민국 법률 검색 MCP 서버 및 CLI](https://github.com/chrisryugj/korean-law-mcp)
+    * 법제처 Open API 기반 64개 법률 도구 제공. 법령·판례·행정규칙·조례·헌법재판소 결정 검색, 법률 약칭 자동 해석, 별표 마크다운 변환, 7개 복합 워크플로우 체인 도구. Claude Desktop·Cursor·Windsurf 등 MCP 클라이언트 지원
+    * [나만의 인공지능 AI 변호사를 가져보세요 - YouTube](https://www.youtube.com/watch?v=GX0qaErlZuY)
+      * [나만의 AI 변호사를 만드는 방법 (코리안 로우 MCP & 코깎 DIR 활용)](https://livewiki.com/ko/content/ai-22108)
+    * [Claude Code에서 대한민국 법령 검색하는 방법 (3분 완성)](https://fornewchallenge.tistory.com/entry/%E2%9A%96%EF%B8%8F-Claude-Code%EC%97%90%EC%84%9C-%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD-%EB%B2%95%EB%A0%B9-%EA%B2%80%EC%83%89%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-3%EB%B6%84-%EC%99%84%EC%84%B1)
+    * [미용실에서 흥미로운 대화 - 실업급여·보험 분쟁에 법률 MCP 활용 | SungJae Shim](https://www.linkedin.com/posts/sungjae-shim-9b353159_%EC%96%B4%EC%A0%9C-%EB%AF%B8%EC%9A%A9%EC%8B%A4%EC%97%90%EC%84%9C-%ED%9D%A5%EB%AF%B8%EB%A1%9C%EC%9A%B4-%EB%8C%80%ED%99%94%EB%A5%BC-%ED%96%88%EC%8A%B5%EB%8B%88%EB%8B%A4-%EC%9B%90%EC%9E%A5%EB%8B%98%EC%9D%B4-%ED%87%B4%EC%82%AC%ED%95%9C-%EC%A7%81%EC%9B%90%EC%9D%98-%EC%8B%A4%EC%97%85%EA%B8%89%EC%97%AC-share-7443832006372827136-SW1u/)
+      * 웹 검색 결과가 아닌 법제처 원본 DB 직접 연결의 차이를 강조. 실업급여·보험 분쟁 등 일상 법률 문제에 AI+법률 MCP 활용 사례
+    * [AX 불 지핀 행정 8급 공무원 "혁신 가로막는 건 조직문화" | 지디넷코리아 (네이버)](https://n.news.naver.com/article/092/0002421919)
+      * 류승인 주무관 인터뷰. AI 확산엔 성과 내는 사람 인정·보상 체계가 필수. 공공 부문 AX 현장 사례
+    * [Korean Law MCP: AI 시대를 위한 대한민국 법령·판례 통합 분석 플랫폼 :: 지식의 섬](https://digitalbourgeois.tistory.com/3119)
+      * 법제처 41개 Open API를 15-17개 핵심 도구로 재구성. impact_map(조문 영향 그래프), time_travel(시점 비교 자동 diff), action_plan(시민 5단계 가이드), verify_citations(법령명·조문 번호 실시간 교차 검증으로 환각 차단)
+  * [lexdiff: 한국 법령을 자연어로 묻고 원문 근거와 함께 답을 받는 검색 서비스](https://github.com/chrisryugj/lexdiff)
+    * 신구조문 비교와 판례·해석례 연결. TypeScript, 초기 단계(9 stars)
 * [Law Professors Prefer AI Over Peer Answers | Stanford Law School](https://law.stanford.edu/wp-content/uploads/2026/06/salinas_et_al.pdf)
   * [Tae Hyung Kim - 차라리 AI가 더 공정하지 않을까 | Facebook](https://www.facebook.com/socialego/posts/pfbid0tgwedNGzKgiEeUyAW33Aft1s52HSu9TihgoromnPokbLYc39oww4jWGiKogdaRVml)
   * Salinas et al., 2026.5.27. 미국 16개 로스쿨 계약법 교수 16명 블라인드 평가에서 LLM 답변 평균 승률 75.33%, 최고 강사 수준. 유해 답변 비율 LLM 3.53% vs 교수 12.06%. 단일 정답이 없는 판단 중심 영역(법학·사회과학)에서도 전문가 합의 기반 평가 가능 입증, 추론 모델 최초 체계적 평가
@@ -5227,8 +5255,6 @@ NLP
   * [말뭉치를 이용한 한국어 용언 분석기 (Korean Lemmatizer)](https://lovit.github.io/nlp/2019/01/22/trained_kor_lemmatizer/)
   * [docker-ubuntu-konlpy](https://hub.docker.com/r/theeluwin/ubuntu-konlpy)
   * [KoNLPy-homi: Redesigned KoNLPy (Wrapper) for Usability and Portability with gRPC Using Homi](https://github.com/wesky93/KoNLPy-homi)
-* [kordoc: 한국 문서(HWP/HWPX/PDF)를 마크다운으로 변환하는 파싱 라이브러리](https://github.com/chrisryugj/kordoc)
-  * HWP 5.x, HWPX, PDF 자동 감지 파싱, 문서 간 IR-level 비교, 정부 양식 필드 자동 추출, 마크다운→HWPX 생성, OCR 플러그인 지원. Claude·Cursor·Windsurf용 MCP 도구 7개 포함
 * [korean - A library for Korean morphology](https://pythonhosted.org/korean/ko/)
   * [gist.github.com/allieus/0e8b609fe146ad63462ca81c70b2f5a2](https://gist.github.com/allieus/0e8b609fe146ad63462ca81c70b2f5a2)
 * [ko\_restoration - Module for restoring Korean text working with KomornaPy](https://github.com/lynn-hong/ko_restoration)
@@ -5539,6 +5565,9 @@ NLP
 * [2601.05437 Tracing Moral Foundations in Large Language Models](https://arxiv.org/abs/2601.05437)
   * [Moll on X: "Do LLMs have morality? The authors build on Moral Foundations Theory - the idea that human morality consists of several relatively independent foundations: care/harm, fairness, loyalty, authority, and sanctity. Instead of looking at surface-level answers, they search for these https://t.co/A3CCfl7bwS" / X](https://x.com/Moleh1ll/status/2010981563098411016)
   * [김성완 - LLM의 내부에 도덕적인 구조가 있는지 조사한 연구입니다. --- LLM에 도덕성이 있을까? 저자들은... | Facebook](https://www.facebook.com/seongwan.kim.3/posts/pfbid02fuypQi94nvk7PMwmLEvApRyooYuRWy6sNsdVVXKaWa8iSSdwVdvgGadVytcwjwHel)
+* [2601.07372 Conditional Memory via Scalable Lookup: A New Axis of Sparsity for Large Language Models](https://arxiv.org/html/2601.07372v2)
+  * [Scaling Law 이후의 새 희소성 축, 조건부 메모리 | 이승현 | Facebook](https://www.facebook.com/epoko/posts/pfbid02jdGTJ57a8qcm8fASiW5RH4b79ZFWDJRCqknWGRUE9Ds8YvKK5bAcHXf7NsYunuYcl)
+  * MoE가 조건부 계산으로 용량을 키우는 동안 Transformer에는 지식 조회(lookup)의 네이티브 프리미티브가 없어 **계산으로 검색을 비효율적으로 흉내** 내왔다는 문제의식—고전 N-gram 임베딩을 현대화해 O(1) 조회를 하는 Engram 모듈로 '조건부 메모리'라는 상보적 희소성 축을 제안
 * [2601.10639 STEM: Scaling Transformers with Embedding Modules](https://arxiv.org/abs/2601.10639)
   * [추론의 시대가 가고, STEM의 시대가 온다 | Suk Hyun K.](https://www.linkedin.com/posts/suk-hyun-k-31ba9b369_ai-suaqtztfmqvz-rhqtnk-activity-7419514213116559361-bjGm)
     * STEM이 진짜로 던지는 질문은 이것이다. 지능이란 진정으로 무엇인가?
