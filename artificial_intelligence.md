@@ -1691,6 +1691,9 @@ Artificial Intelligence
   * 하이브리드 시맨틱 검색(벡터+FTS5), 마크다운 청킹, llama.cpp 로컬 임베딩, 오프라인 동기화
 * [TencentDB-Agent-Memory: fully local long-term memory for AI Agents via a 4-tier progressive pipeline](https://github.com/TencentCloud/TencentDB-Agent-Memory)
   * 외부 API 의존 0의 완전 로컬 AI 에이전트 장기 메모리. Mermaid 다이어그램 기반 심볼릭 단기 메모리 + 페르소나·시나리오로 구조화된 장기 메모리 4계층 파이프라인. OpenClaw·Hermes 연동 시 토큰 대폭 절감·태스크 성공률 향상
+* [Terminal-Bench-Science — Evaluating AI agents on research workflows](https://www.terminal-bench-science.ai/)
+  * [terminal-bench-science: Evaluating AI agents on research workflows across scientific domains | harbor-framework](https://github.com/harbor-framework/terminal-bench-science)
+  * Terminal-Bench 계열—과학 연구 워크플로(도메인별 데이터 분석·시뮬레이션·논문 재현 등)에서 터미널 에이전트를 평가하는 벤치마크. Python, Apache-2.0
 * [the-curator: Your brain, then your team's brain, then your agents' brain](https://github.com/talirezun/the-curator)
   * 문서를 떨어뜨리면 상호 링크된 마크다운 위키로 축적—Obsidian으로 읽고 자신의 프라이빗 GitHub 레포로 동기화, 코호트와 공유하고 코딩 에이전트의 지식 기반으로 활용. JavaScript
 * [Tiger_bot: Agentic Swarm AI Agent with persistent long-term memory, multi-provider LLM support, token management, self-learning, and Telegram bot integration](https://github.com/Sompote/Tiger_bot)
@@ -4631,6 +4634,10 @@ Artificial Intelligence
   * [Claude.ai를 2주 만에 3배 빠르게 만든 방법 | GeekNews](https://news.hada.io/topic?id=34206)
   * 2026년 8월 2주 스프린트로 claude.ai·데스크톱 앱의 핵심 경험을 약 3배 가속한 기록—사용자 활동의 95%를 차지하는 4개 여정에 집중해 p75 기준 웹 첫 로드에서 입력 가능까지 3.1초→0.55초(5.6배), Claude Code 세션 시작 0.8→0.3초, Cowork 클라우드 세션 로드 2.6→0.73초. 매일 수만 사용자-시간의 대기를 절약하는 것으로 추산
   * 방법론이 볼거리—단일 Slack 채널에서 모든 스레드에 Claude를 넣고 운영한 스프린트로, "무엇이든 hill climbing할 수 있다"는 접근(계측→가드레일→스티어링 루프, 렌더링에 8ms 예산 같은 명시적 버짓). 실사용자 모니터링(RUM) 수치를 플랫폼·제품별로 전부 공개
+* [Beyond the Hype: What AI Actually Can (and Can't) Do • Jodie Burchell & Michelle Frost • GOTO 2026 - YouTube](https://www.youtube.com/watch?v=p-R7Doigqzc)
+  * JetBrains 데이터 사이언스 애드보킷들의 29분 대담—과대광고를 걷어내고 AI가 실제로 할 수 있는 것과 없는 것
+* [The Architect's Guide to the AI Era • Luca Mezzalira & Teena Idnani • GOTO 2026 - YouTube](https://www.youtube.com/watch?v=RG7XFPPzhZM)
+  * AWS 솔루션스 아키텍트 Luca Mezzalira의 34분 대담—AI 시대에 아키텍트의 역할이 어떻게 바뀌는가
 * [When AI writes almost all code, what happens to software engineering? | Pragmatic Engineer](https://newsletter.pragmaticengineer.com/p/when-ai-writes-almost-all-code-what)
   * [한국어 번역 | RosettaLens](https://rosettalens.com/s/ko/when-ai-writes-almost-all-code-what)
   * [AI가 거의 모든 코드를 작성할 때, 소프트웨어 엔지니어링은 어떻게 될까 | GeekNews](https://news.hada.io/topic?id=34310)
@@ -6400,6 +6407,9 @@ Artificial Intelligence
   * [original_performance_takehome: Anthropic's original performance take-home, now open for you to try!](https://github.com/anthropics/original_performance_takehome)
     * [Anthropic이 성능평가 테이크홈 과제를 오픈소스로 공개 | GeekNews](https://news.hada.io/topic?id=26026)
   * [ouroboros: Stop prompting. Start specifying](https://github.com/Q00/ouroboros)
+    * [Ouroboros — Agent OS](https://ouroboros.page/)
+    * [OpenClaw가 소크라테스가 됩니다 — Interview | Q00 | LinkedIn](https://www.linkedin.com/posts/q00_openclaw%EA%B0%80-%EC%86%8C%ED%81%AC%EB%9D%BC%ED%85%8C%EC%8A%A4%EA%B0%80-%EB%90%A9%EB%8B%88%EB%8B%A4-ooo-interview-ooo-share-7447318026124951553-hHgX)
+    * [docs/interview: add refine and restate gates | Q00 | LinkedIn](https://www.linkedin.com/posts/q00_docsinterview-add-refine-and-restate-gates-share-7459515379833491457-5EJf)
     * [I've been using Claude Code as my daily driver | Harry Munro](https://www.linkedin.com/posts/harryjmunro_ive-been-using-claude-code-as-my-daily-driver-activity-7435736122942664706-2yux)
     * 코드 작성 전 소크라테스식 인터뷰로 모호성을 0-1 스케일로 평가, 0.2 이하로 낮춰야 실행. 9개 전문 에이전트(반론가 포함)로 사양 안정화
     * [ouroboros: Agent OS — Stop prompting. Start specifying | 이재규](https://www.linkedin.com/posts/q00_github-q00ouroboros-agent-os-stop-prompting-share-7456008355896152064-jGQh/)
@@ -7046,6 +7056,9 @@ Artificial Intelligence
   * Moonshot AI의 터미널 코딩 에이전트 CLI. Kimi 모델 기반. Python, 10k stars
 * [Kombai - The AI Agent Built for Frontend Development](https://kombai.com/)
   * [가장 아름다운 UI/UX, Figma 디자인 그대로 옮겨 올 수 있는 프론트엔드 최적화 AI! Kombai! - YouTube](https://www.youtube.com/watch?v=Zm_N4H4wcWQ)
+* [launch-your-agent: Claude Code skills that take a founder from idea to a live Claude Managed Agent | anthropics](https://github.com/anthropics/launch-your-agent)
+  * [GitHub - anthropics/launch-your-agent 공유 | 박상길 | LinkedIn](https://www.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_github-anthropicslaunch-your-agent-claude-share-7473880080151105537--9Kt)
+  * Anthropic 공식—창업자를 아이디어에서 라이브 Claude Managed Agent까지 데려가는 스킬 모음(인터뷰→v0 스코핑→런칭). HTML, Apache-2.0, 1k stars
 * [LazyCodex — Codex agent harness for complex codebases](https://lazycodex.ai/)
   * [code-yeongyu/lazycodex](https://github.com/code-yeongyu/lazycodex)
   * Codex 안에 OmO 에이전트 하네스를 설치. 프로젝트 메모리·계획·병렬 에이전트·스킬·훅·라우팅·검증된 완료(verified completion)를 복잡한 코드베이스에 제공. TypeScript, MIT
@@ -7557,6 +7570,15 @@ Artificial Intelligence
   * [vibe-kanban: Get 10X more out of Claude Code, Codex or any coding agent](https://github.com/BloopAI/vibe-kanban)
   * [🚀 Vibe Kanban: OpenCode + Claude Code 동시에? AI 코딩 에이전트 오케스트레이션](https://fornewchallenge.tistory.com/entry/%F0%9F%9A%80-Vibe-Kanban-OpenCode-Claude-Code-%EB%8F%99%EC%8B%9C%EC%97%90-AI-%EC%BD%94%EB%94%A9-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EC%98%A4%EC%BC%80%EC%8A%A4%ED%8A%B8%EB%A0%88%EC%9D%B4%EC%85%98)
   * [Vibe Kanban 쓰면 클로드 코드 작업 전부 트래킹 가능합니다 - YouTube](https://www.youtube.com/watch?v=qCOYgKe_F8c)
+* [visual-explainer: Agent skill that generates rich HTML pages or slide decks for diagrams, diff reviews, plan audits, data tables, and project recaps | nicobailon](https://github.com/nicobailon/visual-explainer)
+  * [This Claude skill is sooo damn good 🔥 | Facebook Reel](https://www.facebook.com/reel/1537531081364168)
+  * 다이어그램·diff 리뷰·플랜 감사·데이터 테이블·프로젝트 요약을 리치 HTML 페이지 또는 슬라이드 덱으로 생성하는 에이전트 스킬—Anthropic의 ELI5 스킬(desty 해설 참조)과 같은 '코드를 그림으로 이해하기' 계열의 대표 구현. HTML, MIT, 9.9k stars
+  * 유사 계열 스킬들:
+    * [html-explainer: A Claude Skill that builds polished, interactive HTML explainers, with an automatic QA loop | ds-vibe](https://github.com/ds-vibe/html-explainer)
+    * [visual-explainer-skill: transforms any content or Mermaid diagram into stunning visual explanations | ericblue](https://github.com/ericblue/visual-explainer-skill) 동명의 별개 스킬
+    * [visual-planning-skills: Tool-agnostic Claude skills — visual-explainer, visual-plan, and challenge-plan | parthjshah95](https://github.com/parthjshah95/visual-planning-skills)
+    * [visualise: Agent skill for rendering inline interactive visuals — SVG diagrams, HTML widgets, charts | bentossell](https://github.com/bentossell/visualise)
+    * [viz-pack: Four Claude skills that turn any content into visuals — diagrams, infographics, interactive | joshua-heygen](https://github.com/joshua-heygen/viz-pack)
 * [Void](https://voideditor.com/)
   * [void](https://github.com/voideditor/void)
   * [Void - Cursor 대체용 오픈소스 코드 에디터 프로젝트 | GeekNews](https://news.hada.io/topic?id=20787)
