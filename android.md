@@ -668,6 +668,10 @@ Android
 * [EmuHub is an innovative tool designed to simplify the testing of Android applications by providing access to multiple emulators via web browsers. Built with Docker and NoVNC (HTML5-based VNC client), EmuHub offers developers and QA engineers a seamless platform for testing APKs across various Android device configurations](https://github.com/mohamed-helmy/emuhub)
 * [Espresso  |  Android 개발자  |  Android Developers](https://developer.android.com/training/testing/espresso)
   * [Android UI Test와 Espresso를 사용하는 방법](https://developer88.tistory.com/232)
+* [Maestro — Painless E2E Automation for Mobile and Web](https://maestro.dev/)
+  * [maestro: Painless E2E Automation for Mobile and Web | mobile-dev-inc](https://github.com/mobile-dev-inc/maestro)
+  * [What is Maestro? | docs](https://docs.maestro.dev/get-started/what-is-maestro)
+  * 모바일(Android/iOS)과 웹의 E2E UI 테스트 자동화 프레임워크—YAML 플로우 선언, 플래키함에 강한 내장 대기·재시도. Appium 계열의 현대적 대안. Kotlin, Apache-2.0, 15.8k stars
 * [Sixpack-java - Introducing Sixpack-java: A/B Testing for Android and Java Apps](http://chairnerd.seatgeek.com/sixpack-java-a-b-testing-for-android-and-java-apps/)
 
 # Tutorial
