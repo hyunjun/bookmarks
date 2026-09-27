@@ -819,6 +819,8 @@ AWS
   * [Build a Production-Ready AI Agent From Scratch | Darryl R.](https://www.linkedin.com/posts/darryl-ruggles_build-a-production-ready-ai-agent-from-scratch-activity-7430485562177863681-hrnc)
 * [Automate Oracle PL/SQL to PostgreSQL migration with Amazon Bedrock and Strands Agents | AWS](https://aws.amazon.com/ko/blogs/database/automate-oracle-pl-sql-to-postgresql-migration-with-amazon-bedrock-and-strands-agents/)
   * 코드 변환의 '마지막 구간'을 자동화하는 생성형 AI 마이그레이션 어시스턴트—Bedrock 위 Claude Sonnet 4.6 + Strands Agents 프레임워크 + AWS Knowledge MCP Server 조합으로 Oracle PL/SQL→PostgreSQL 변환을 지원
+* [AWS Agentic Stack for Scalable AI Systems | Hemant Virmani | LinkedIn](https://www.linkedin.com/posts/hemantvirmani_aws-agenticai-amazonbedrock-share-7468710637490200576-DKh7/)
+  * AWS의 에이전틱 AI 서비스가 너무 많아 뭘 쓸지 헷갈리는 팀을 위한 전체 지도—Layer 1 인터페이스·안전(Bedrock Guardrails)부터 계층별로 어떤 서비스를 고를지 정리한 카드
 * [Amazon Bedrock AgentCore (Preview) - AWS](https://aws.amazon.com/ko/bedrock/agentcore/)
   * [Introducing Amazon Bedrock AgentCore: Securely deploy and operate AI agents at any scale (preview) | AWS News Blog](https://aws.amazon.com/ko/blogs/aws/introducing-amazon-bedrock-agentcore-securely-deploy-and-operate-ai-agents-at-any-scale/)
     * [Amazon Bedrock AgentCore 상세 분석 및 요약](https://www.facebook.com/groups/189675924467773/?multi_permalinks=9613723528729585&hoisted_section_header_type=recently_seen)
@@ -1587,7 +1589,6 @@ AWS
 * [aws-EFS-backup-restore](https://linuxer.name/2020/01/aws-efs-backup-restore/)
 
 # EKS
-* [awesome-eks | A curated list of awesome tools for Amazon EKS](https://realvz.github.io/awesome-eks/)
 * [(몰아보기) Amazon EKS 실습](https://brunch.co.kr/@topasvga/1679)
 * [서비스 중단 없이 Amazon EKS로 옮긴 이야기](http://engineering.vcnc.co.kr/2019/02/eks-migration/)
 * [Amazon EKS (Elastic Container Service for Kubernetes)](https://ddii.dev/kubernetes/eksworkshop/)
@@ -1738,6 +1739,7 @@ AWS
 * [Amazon EKS 고급 컨트롤 플레인 구성하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/eks-advanced-control-plane/)
   * [Amazon EKS 고급 컨트롤 플레인 구성하기 | Woohyung Choi](https://www.linkedin.com/posts/woohyungchoi_aws-amazoneks-kubernetes-share-7505267750093701121-ADhG/)
   * 새로 제공되는 Advanced Kubernetes Control Plane 기능 5가지—그동안 AWS가 관리하던 Kubernetes 컨트롤 플레인 동작 일부를 워크로드 특성에 맞게 조정하는 방법
+* [awesome-eks | A curated list of awesome tools for Amazon EKS](https://realvz.github.io/awesome-eks/)
 * [aws-node-termination-handler: Gracefully handle EC2 instance shutdown within Kubernetes](https://github.com/aws/aws-node-termination-handler)
   * [aws-node-termination-handler를 활용해서 EKS 워커 노드에 스팟 인스턴스 적용하기](https://alden-kang.tistory.com/31)
     * EKS에서 비용 절약을 위해 스팟 인스턴스를 고려하면서 스팟 인스턴스가 종료될 때 팟을 재배치해서 문제가 발생하지 않도록 aws-node-termination-handler를 도입한 과정 설명
@@ -1759,6 +1761,10 @@ AWS
     * [HardenEKS: Amazon EKS 클러스터를 프로그래밍 방식으로 모범 사례 검증하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/hardeneks-validating-best-practices-for-amazon-eks-clusters-programmatically-kr/)
 * [kubectl-aws-eks: A Github action for kubectl, the Kubernetes CLI](https://github.com/kodermax/kubectl-aws-eks)
   * [kubectl-aws-eks · Actions · GitHub Marketplace](https://github.com/marketplace/actions/kubectl-aws-eks)
+* [NFM Dashboard — eBPF로 되찾은 AWS 내부 트래픽 가시성 | whchoi98](https://whchoi98.github.io/nfm-dashboard/)
+  * [nfm-dashboard](https://github.com/whchoi98/nfm-dashboard)
+  * [NFM Dashboard 공개 | 최우형 | LinkedIn](https://www.linkedin.com/posts/woohyungchoi_aws-ebpf-eks-ugcPost-7484489415982096384-OJxh/)
+  * AWS에서 데이터 전송 비용은 청구서에 찍히지만 **그 트래픽을 만든 주체는 어디에도 안 찍힌다**는 문제의식—VPC Flow Logs는 ENI·IP 수준이라 EKS Pod 재스케줄 시 추적이 끊기고 재전송·RTT 품질 지표가 없음. AWS Network Flow Monitor의 커널 레벨 eBPF 에이전트가 수집한 플로우를 토폴로지·비용(Cross-AZ)·SLO·AI 진단으로 재구성한 관측 대시보드. harness-eval·agent-ops의 whchoi98 작. TypeScript
 
 # Elastic Beanstalk
 * [한종원 : Daily Continuous Deployment를 위한 custom CLI 개발 및 AWS Elastic Beanstalk에 적용하기](https://www.youtube.com/watch?v=dEu24HJpuSI)
@@ -2203,6 +2209,7 @@ AWS
   * [함수 대 컨테이너 서버리스 환경 - Marcia Villalba & Julian Wood | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/1147153)
 * [AWS Lambda turns 10: A rare look at the doc that started it | All Things Distributed](https://www.allthingsdistributed.com/2024/11/aws-lambda-turns-10-a-rare-look-at-the-doc-that-started-it.html)
 * [The invisible engineering behind Lambda's network | All Things Distributed](https://www.allthingsdistributed.com/2026/04/the-invisible-engineering-behind-lambdas-network.html)
+  * [AWS Lambda의 빠른 성능은 단순히 서버리스라는 개념만으로 만들어진 게 아니다 | Donghyun Kim | LinkedIn](https://www.linkedin.com/posts/kim-donghyun0916_aws-lambda%EC%9D%98-%EB%B9%A0%EB%A5%B8-%EC%84%B1%EB%8A%A5%EC%9D%80-%EB%8B%A8%EC%88%9C%ED%9E%88-%EC%84%9C%EB%B2%84%EB%A6%AC%EC%8A%A4%EB%9D%BC%EB%8A%94-%EA%B0%9C%EB%85%90%EB%A7%8C%EC%9C%BC%EB%A1%9C-%EB%A7%8C%EB%93%A4%EC%96%B4%EC%A7%84-share-7481838837975932928-S2CJ/)
   * 콜드 스타트 네트워크 셋업을 수 초에서 200μs로 단축한 숨은 엔지니어링
 * [AWS EC2 인스턴스 프로파일 자동 부여 아키텍처 구현 | by rex.chun | Medium](https://medium.com/@7424069/aws-ec2-%EC%9D%B8%EC%8A%A4%ED%84%B4%EC%8A%A4-%ED%94%84%EB%A1%9C%ED%8C%8C%EC%9D%BC-%EC%9E%90%EB%8F%99-%EB%B6%80%EC%97%AC-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EA%B5%AC%ED%98%84-8667724dd06b)
 * [Handling billions of invocations – best practices from AWS Lambda | AWS Compute Blog](https://aws.amazon.com/ko/blogs/compute/handling-billions-of-invocations-best-practices-from-aws-lambda/)
