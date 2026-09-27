@@ -499,6 +499,8 @@ Data Science
 * [Data Science Websites Most People Don't Know Exist - YouTube](https://www.youtube.com/watch?v=wlE9kEqwsF8)
   * Beyond Google. 5분 동안 데이터 사이언스용 무료 사이트 9곳 소개—데이터셋 찾기(Google Dataset Search, UCI Machine Learning Repository, 특이한 데이터셋을 모으는 Data Is Plural), 통계·ML 시각 학습(Seeing Theory, 복잡한 코드 없이 ML을 설명하는 R2D3, 인터랙티브 해설 Setosa.io, ML 연구 시각 해설 Distill), 무료 통계 교재·연습문제(OpenIntro), 실제 대시보드 탐색(Tableau Public)
   * 이 저장소 기준으로 Seeing Theory(statistics.md)·R2D3(data_visualization.md·machine_learning.md·r.md)·Setosa(math.md·machine_learning.md)·Distill(다수 파일)·Tableau Public(sports.md)은 이미 등록돼 있고, **Google Dataset Search·UCI ML Repository·Data Is Plural·OpenIntro 4곳은 아직 없음**
+* [중국은 이미 한 바퀴 돌았습니다 — "AI로 데이터 분석"의 병목은 Chat이 아니라 지표 표준화 | datacode91 | LinkedIn](https://www.linkedin.com/posts/datacode91_%EC%A4%91%EA%B5%AD%EC%9D%80-%EC%9D%B4%EB%AF%B8-%ED%95%9C-%EB%B0%94%ED%80%B4-%EB%8F%8C%EC%95%98%EC%8A%B5%EB%8B%88%EB%8B%A4-%EC%9A%94%EC%A6%98-%ED%95%9C%EA%B5%AD%EC%97%90%EC%84%9C-%ED%95%9C%EC%B0%BD%EC%9D%B8-ai%EB%A1%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D-share-7499471563273134080-B0UC/)
+  * 2023~24년 중국의 ChatBI 붐이 지금 한국과 똑같았다는 관찰—데모에 환호하고 도입하고 조용히 실망한 끝에 남은 결론이 **"ChatBI의 병목은 Chat이 아니라 지표 표준화"**("시멘틱 레이어 없이 만든 ChatBI는 다 사기"라는 말까지). 채팅창에 쓴 돈은 안 남고 지표 인프라에 쓴 돈만 남더라는 것. 지금 중국은 메이투안이 '定义即研发(정의가 곧 개발)'을 내건 새 BI 아키텍처 공개 단계
 
 # Book
 * [시스템 트레이딩을 위한 데이터 사이언스 (파이썬 활용편)](https://wikidocs.net/book/486)
@@ -658,6 +660,9 @@ Data Science
     * [Introducing SQLMesh by Tobiko Data - YouTube](https://www.youtube.com/watch?v=UXpCeu0mD2E)
     * [SQLMesh for dbt - YouTube](https://www.youtube.com/playlist?list=PLwNHtUb1osYe1g_NI90oYZfi9_cscUc1a)
     * [Quickstart - YouTube](https://www.youtube.com/playlist?list=PLwNHtUb1osYdu1l3uPkDJYlxQuZ4p3B5G)
+* [DecisionBox — Autonomous AI Discovery For Your Data](https://decisionbox.io/)
+  * [decisionbox-platform: runs autonomous AI agents that write and execute SQL, and surfaces validated insights](https://github.com/decisionbox-io/decisionbox-platform)
+  * 데이터 웨어하우스에 연결해 자율 AI 에이전트가 SQL을 작성·실행하고 검증된 인사이트·실행 권고를 발굴하는 플랫폼. 셀프호스팅/엔터프라이즈/클라우드. Go, AGPL-3.0, 120 stars
 * [Decodable](https://www.decodable.co/)
   * [Announcing General Availability of the Decodable Real-Time Data Platform - Decodable](https://www.decodable.co/blog/decodable-is-ga)
 * [Digdag - a simple tool that helps you to build, run, schedule, and monitor complex pipelines of tasks](http://www.digdag.io/) Data Workflow Management Opensource Engine
