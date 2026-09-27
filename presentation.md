@@ -118,6 +118,9 @@ Presentation
 * [ppt-master: AI-powered tool to generate natively editable PPTX from PDF, DOCX, URL, and Markdown](https://hugohe3.github.io/ppt-master/)
   * [ppt-master](https://github.com/hugohe3/ppt-master)
   * 이미지가 아닌 실제 PowerPoint 도형·텍스트 상자를 생성하여 완전 편집 가능한 프레젠테이션 자동 생성
+* [PPT Reverse Prompt - AI PowerPoint Design Style Analyzer | genppt.ai](https://genppt.ai/ppt-reverse-prompt)
+  * [PPT Reverse Prompt라는 개념이 뜨고 있네요 | Duckjung Kim | LinkedIn](https://www.linkedin.com/posts/duckjungkim_%EC%96%BC%EB%A7%88%EC%A0%84%EA%B9%8C%EC%A7%80%EB%A7%8C-%ED%95%B4%EB%8F%84-chatgpt%EB%A5%BC-%EC%9E%98-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-%EC%9C%84%ED%95%B4-reverse-prompt-activity-7429881050136313856-UNbp)
+  * PPTX(최대 50MB)를 업로드하면 색상·타이포그래피·레이아웃·비주얼 요소·디자인 톤을 구조화된 마크다운 프롬프트로 역추출—Manus·Skywork·NotebookLM 등이 슬라이드를 생성하는 시대에 **회사 템플릿 기반 아웃풋을 만들기 위한 'PPT 역프롬프트'**가 새 작업이 되고 있다는 관찰
 * [pptx-tool: A script to fix up pptx font configurations considering Latin/EastAsian/ComplexScript/Symbol typeface mappings](https://github.com/achimnol/pptx-tool)
 * [present: A terminal-based presentation tool with colors and effects](https://github.com/vinayak-mehta/present)
 * [presenta-lib: A javascript library to build expressive web presentations in seconds](https://github.com/presenta-software/presenta-lib)
