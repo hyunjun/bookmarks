@@ -6969,6 +6969,10 @@ Artificial Intelligence
 * [entroly — Self-Evolving Daemon](https://juyterman1000.github.io/entroly/)
   * [entroly: Compress 2M-token repos into a razor-sharp Principal Engineer context. 85-99% fewer tokens, 100% accuracy retention](https://github.com/juyterman1000/entroly)
   * Cursor/Claude Code/Opus/Codex/GPT/커스텀 프로바이더용. 2M 토큰 레포를 압축하여 정확도 유지
+* [Epistemic Protocols — structure human-AI interaction quality at every decision point](https://epistemic-protocols.com/)
+  * [epistemic-protocols: Epistemic protocols for Claude Code | jongwony](https://github.com/jongwony/epistemic-protocols)
+  * [Epistemic Protocols 공유 | Jin Hyung Park (Sigrid Jin) | LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7509827980638973952/)
+  * AI 협업이 궤도를 벗어나면 전부 다시 해야 한다는 문제의식—**계획 단계에서 잘못된 방향을 잡아내는 구조화된 체크포인트**를 프로토콜로 제공(계획 수준의 방향 교정은 대화 한 턴, 코드로 굳은 뒤엔 몇 시간). 작업을 넘기기 전 `/inquire`, 무엇을 결정해야 할지 아직 안 보일 때 `/bound`, 세션 기록 기반 가이드 학습 `/onboard`, 결핍 인식 `/probe`, 대화 맥락에서 알맞은 프로토콜을 에이전트가 고르는 실험적 `route` 플러그인. Claude Code 플러그인이자 Codex 플러그인 마켓플레이스 겸용. cc-plugin의 jongwony 작. JavaScript, MIT, 165 stars
 * [Forge Orchestrator](https://forge.nxtg.ai/)
   * [forge-orchestrator: Multi-AI task orchestration. File locking, knowledge capture, drift detection](https://github.com/nxtg-ai/forge-orchestrator)
   * 같은 레포에서 Claude Code·Codex CLI·Gemini CLI를 조율. 단일 도구 내부 멀티에이전트(Claude Code의 20개 서브에이전트)는 잘 동작하지만 공유 상태가 없는 멀티 도구가 문제—Claude가 모듈을 리팩터하고 Codex가 리팩터 이전 인터페이스로 테스트를 갱신해 둘 다 저장하니 테스트가 깨지는 상황을 해결
