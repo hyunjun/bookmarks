@@ -1310,6 +1310,8 @@ NLP
 * [Prompting Is Programming: A Query Language For Large Language Models](https://www.facebook.com/seongwan.kim.3/posts/pfbid03RMbuzmddJ3HdeXdP8cH9fus62dAsvhzzcr1r7bFpm3D4JMiemjcpUHzMKbtzAZ3l)
 * [챗GPT의 모든 것 프롬프트](https://brunch.co.kr/@seungpillee/68)
 * [Don’t you (forget NLP): Prompt injection with control characters in ChatGPT - Dropbox](https://dropbox.tech/machine-learning/prompt-injection-with-control-characters-openai-chatgpt-llm)
+* [메타 프롬프팅 계속 물어보셔서 제 스타일 알려드림 | 코드팩토리 - YouTube](https://www.youtube.com/watch?v=J3BbFNYHvZM)
+  * 프롬프트를 직접 다듬는 대신 AI에게 프롬프트를 만들게 하는 메타 프롬프팅의 실전 스타일 공유(16분)
 * [ChatGPT 프롬프트 가이드 - 지시+문맥+(출력) - 틸노트 인공지능 공략집](https://tilnote.io/books/649ea7839c2b8d498077e2de/649ea7b09c2b8d498077e2f2)
 * [Ties de Kok - Going beyond ChatGPT: introduction to prompt engineering & LLMs | PyData Seattle 2023 - YouTube](https://www.youtube.com/watch?v=CG3b6D3XNOE)
 * [**I Scanned 1000+ Prompts so You Don’t Have to: 10 Need-to-Know Techniques | by Maximilian Vogel | MLearning.ai | Aug, 2023 | Medium**](https://medium.com/mlearning-ai/i-scanned-1000-prompts-so-you-dont-have-to-10-need-to-know-techniques-a77bcd074d97)
@@ -2361,6 +2363,8 @@ NLP
 * [hallucination으로 인한 Air Canada의 챗봇 손해배상 사건](https://www.linkedin.com/posts/jae-hong-e-93368248_%EB%B2%95%EC%A0%9Cbrief24-3-%EC%BA%90%EB%82%98%EB%8B%A4-%EC%B1%97%EB%B4%87-%EC%86%90%ED%95%B4%EB%B0%B0%EC%83%81-%EC%82%AC%EA%B1%B4%EC%9D%98-%EC%A3%BC%EC%9A%94-%EB%82%B4%EC%9A%A9-%EB%B0%8F-activity-7171470902704893953-xKZk/)
 * [LLaMA 같은 오픈소스 LLM을 사용 할 수 없는 이유](https://typical-clam-45a.notion.site/LLaMA-LLM-fe3501eebcbf4f5b949d913dd1191327)
 * [Large Language Models: From Prototype to Production — Ines Montani - YouTube](https://www.youtube.com/watch?v=ZjjgMiCU8s4)
+* [우리는 정말 GPU를 사고 있는 걸까요? | 고석현 | Facebook](https://www.facebook.com/goseoghyeon.243214/posts/pfbid0q4ZLMdaBcLaMJ2jxcR7QPntLFsnAx8SunjhLqusvyv2xu4U7V8j4Dx7MK2Y1CBqcl)
+  * 토큰 팩토리를 만들며 든 질문—GPU를 살 때 FLOPS·초당 토큰·디코딩 속도를 비교하지만, 실제 토큰 비즈니스의 병목과 구매 대상은 과연 '연산력'인가라는 인프라 경제 단상
 * [Frameworks for Serving LLMs. A comprehensive guide into LLMs inference and serving | by Sergei Savvov | Jul, 2023 | Medium | Better Programming](https://betterprogramming.pub/frameworks-for-serving-llms-60b7f7b23407)
 * [제8회 데보션(DEVOCEAN) 테크 데이 - 06. 리벨리온의 LLM Serving Stack - YouTube](https://www.youtube.com/watch?v=BNejw0Hjo7k)
 * [LLM 모델 기반 서비스 실전 가이드 | PPT](https://www.slideshare.net/taeyounglee1447/llm-261139869)
