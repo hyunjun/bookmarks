@@ -63,6 +63,11 @@ NoSQL
 * [Data modeling with multi-model databases](http://radar.oreilly.com/2015/07/data-modeling-with-multi-model-databases.html)
 * [NoSQL Performance Benchmark 2018 – MongoDB, PostgreSQL, OrientDB, Neo4j and ArangoDB](https://www.arangodb.com/2018/02/nosql-performance-benchmark-2018-mongodb-postgresql-orientdb-neo4j-arangodb)
 
+# ArcticDB
+* [ArcticDB — the fastest Python-native DataFrame database](https://arcticdb.io/)
+  * [arcticdb: a high performance, serverless DataFrame database built for the Python Data Science ecosystem | man-group](https://github.com/man-group/arcticdb)
+  * 헤지펀드 Man Group이 만든 서버리스 DataFrame 데이터베이스. Pandas DataFrame을 S3·LMDB에 버전 관리하며 저장, 페타바이트급 틱 데이터 처리. C++, 2.5k stars
+
 # Azure DocumentDB
 * [NoSQL database service Azure DocumentDB now Generally Available](http://azure.microsoft.com/blog/2015/04/08/nosql-database-service-azure-documentdb-now-generally-available)
 
