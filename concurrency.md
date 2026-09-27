@@ -38,6 +38,7 @@ Concurrency
   * 다중 사용자를 동시에 처리해 성능 향상이 가능하지만, 오히려 오버헤드가 발생할 수 있어 항상 성능 향상 보장은 불가능
   * 잘못된 동시성 코드는 deadlock, livelock, 처리량 저하 문제 야기
   * 따라서 동시성 코드는 다른 코드와 분리하고 단일 책임 원칙을 준수하며, 읽기-쓰기 문제 같은 핵심 문제 해결 집중 필요
+* [Concurrency vs Parallelism | AlgoMaster](https://blog.algomaster.io/p/concurrency-vs-parallelism)
 
 # Actor
 * [**The actor model in 10 minutes**](https://www.brianstorti.com/the-actor-model)

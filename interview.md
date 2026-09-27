@@ -489,6 +489,8 @@ Interview
   * [Javarevisited: 100+ System Design Interview Questions and Problems for Software Engineers](https://javarevisited.blogspot.com/2024/05/100-system-design-interview-questions.html)
   * [the basics of how systems are designed](https://www.linkedin.com/posts/progressivethinker_systemdesign-activity-7229771811545137152-H5cC/)
   * [15 System Design Building Blocks You Should Know](https://blog.algomaster.io/p/15-system-design-building-blocks)
+  * [30 Blogs to Learn 30 System Design Concepts | Aishwarya Pani | LinkedIn](https://www.linkedin.com/posts/aishwarya-pani-63a476167_%F0%9D%9F%AF%F0%9D%9F%AC-%F0%9D%97%95%F0%9D%97%B9%F0%9D%97%BC%F0%9D%97%B4%F0%9D%98%80-%F0%9D%98%81%F0%9D%97%BC-%F0%9D%97%9F%F0%9D%97%B2%F0%9D%97%AE%F0%9D%97%BF%F0%9D%97%BB-%F0%9D%9F%AF%F0%9D%9F%AC-%F0%9D%97%A6%F0%9D%98%86-share-7466337164927135744-ccZ1/)
+    * AlgoMaster 블로그의 시스템 디자인 개념 글 30편(API·게이트웨이·JWT·로드밸런싱·CAP·샤딩·컨시스턴트 해싱·CDC·캐싱·CDN·레이트리밋·메시지큐·블룸필터·멱등성·지오해싱 등) 링크 모음—30편 모두 이 저장소의 주제별 파일에 분산 수록됨
   * [Wondering how to balance your system design for optimal performance? Let's break down the essential trade-offs](https://www.linkedin.com/posts/piyush-ranjan-9297a632_wondering-how-to-balance-your-system-design-activity-7253250473363697665-emqh/)
   * [The System Design Newsletter | Neo Kim | Substack](https://newsletter.systemdesign.one/)
   * [If You're into Microservices & System Design, Don't Ignore These Topics:](https://www.linkedin.com/posts/akashsinnghh_if-youre-into-microservices-system-design-activity-7298562622713454593-n_Lt/)

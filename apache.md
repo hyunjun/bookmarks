@@ -566,6 +566,8 @@ Apache
   * 이 기능을 사용하는 방법 및 브로커와 다른 버전의 클라이언트를 사용할 경우에 대해 설명
 * [How to Build and Deploy Scalable Machine Learning in Production with Apache Kafka](https://www.confluent.io/blog/build-deploy-scalable-machine-learning-production-apache-kafka/)
   * 미션 크리티컬한 실시간 애플리케이션에서 중앙집중적이고 확장가능한 아키텍처를 어떻게 만들지에 대한 유스케이스에 대해 논의
+* [Message Queues | AlgoMaster](https://blog.algomaster.io/p/message-queues)
+* [Batch Processing vs Stream Processing | AlgoMaster](https://blog.algomaster.io/p/batch-processing-vs-stream-processing)
 * [Benchmarking Message Queue Latency](https://bravenewgeek.com/benchmarking-message-queue-latency/)
 * [Benchmarking RabbitMQ vs Kafka vs Pulsar Performance | KR](https://www.confluent.io/ko-kr/blog/kafka-fastest-messaging-system/)
 * [Kafka 벤치마크 리포트 | AtomAI](https://benchmark.aws.atomai.click/reports/kafka-report.html)
@@ -631,6 +633,7 @@ Apache
   * [카프카 기반의 대규모 모니터링 플랫폼 개발이야기](https://www.slideshare.net/ifkakao/2019-kafkakru-issac)
   * [2nd-meetup at master · kafkakru/meetup](https://github.com/kafkakru/meetup/tree/master/meetup/2023-meetup/2nd-meetup)
 * [Moving From Legacy To Event-Driven With Kafka](https://www.youtube.com/watch?v=H_ang8BatXQ)
+* [Change Data Capture (CDC) | AlgoMaster](https://blog.algomaster.io/p/change-data-capture-cdc)
 * [CDC & CDC Sink Platform 개발 1편 - CDC Platform 개발 | Hyperconnect Tech Blog](https://hyperconnect.github.io/2021/01/11/cdc-platform.html) Event Bus, Event Driven
 * [CDC & CDC Sink Platform 개발 2편 - CDC Sink Platform 개발 및 CQRS 패턴의 적용 | Hyperconnect Tech Blog](https://hyperconnect.github.io/2021/03/22/cdc-sink-platform.html)
 * [CDC & CDC Sink Platform 개발 3편 - CDC Event Application Consuming 및 Event Stream Join의 구현 | Hyperconnect Tech Blog](https://hyperconnect.github.io/2021/06/21/cdc-event-application-consuming.html)

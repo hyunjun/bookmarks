@@ -386,6 +386,7 @@ Web
 * [HTTP Archive: State of the Web](https://httparchive.org/reports/state-of-the-web)
 * [웹 브라우저에 URL을 입력하면 어떤 일이 생기나요? | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/what-happens-when-you-type-a-url-into-your-browser/)
 * [웹 개발 시간을 줄여주는 팁 4가지 | 요즘IT](https://yozm.wishket.com/magazine/detail/1585/)
+* [Content Delivery Networks (CDN) | AlgoMaster](https://blog.algomaster.io/p/content-delivery-networks)
 * [완벽 정리! 쿠키, 세션, 토큰, 캐시 그리고 CDN](https://hongong.hanbit.co.kr/%EC%99%84%EB%B2%BD-%EC%A0%95%EB%A6%AC-%EC%BF%A0%ED%82%A4-%EC%84%B8%EC%85%98-%ED%86%A0%ED%81%B0-%EC%BA%90%EC%8B%9C-%EA%B7%B8%EB%A6%AC%EA%B3%A0-cdn/)
 * [30 Ways to Validate Configuration Files or Scripts in Linux](https://www.tecmint.com/check-configuration-files-linux/)
 * [웹 표준 미니앱의 어려움 @ Sunghyun Cho](https://cho.sh/ko/blog/A370F3)
@@ -481,6 +482,7 @@ Web
 * [클라우드플레어 DNS 프록시 사용할 때 아파치 로그에 IP 주소 제대로 찍히게 하기 | 웹으로 말하기](https://mytory.net/archives/13708)
 
 # Authentication
+* [JSON Web Tokens (JWT) | AlgoMaster](https://blog.algomaster.io/p/json-web-tokens)
 * [Using Encryption and Authentication Correctly](https://paragonie.com/blog/2015/05/using-encryption-and-authentication-correctly?resubmit=true)
 * [HTML attributes to improve your users' two factor authentication experience](https://www.twilio.com/blog/html-attributes-two-factor-authentication-autocomplete)
 * [머릿말 - 웹 인증 및 SSO 가이드](https://wiki.kreonet.net/web-auth-sso)
@@ -1238,6 +1240,7 @@ Web
   * 프론트엔드 교육자들(Axel Rauschmayer, Josh Comeau 등)이 활동을 접거나 줄이고, 유명 인사들은 AI 이야기로 전향하는 현상 진단. 저자의 전문 분야였던 CSS 성능 분석조차 Claude가 Chrome trace를 읽고 처리하는 시대—AI라는 소행성이 프론트엔드 지식 생태계에 미친 충격에 대한 에세이
 
 # GraphQL
+* [REST vs GraphQL | AlgoMaster](https://blog.algomaster.io/p/rest-vs-graphql)
 * [REST vs GraphQL - What's the best kind of API?](https://www.youtube.com/watch?v=PeAOEAmR0D0)
 * [API Showdown: REST vs. GraphQL vs. gRPC – Which Should You Use? - YouTube](https://www.youtube.com/watch?v=mZ4trNrkv14)
 * [API Showdown: REST vs. GraphQL vs. gRPC – Which Should You Use?](https://www.infoq.com/presentations/rest-graphql-grpc/)
@@ -1610,6 +1613,7 @@ Web
 * [내블로그 :: nginx/1.18.0 (Ubuntu20.04) gzip](https://iesay.tistory.com/209)
 * [What Is NGINX? An Overview of the Basics | Elegant Themes Blog](https://www.elegantthemes.com/blog/wordpress/what-is-nginx-an-overview-of-the-basics)
 * [Improving NGINX Performance with Kernel TLS and SSL_sendfile( ) - NGINX](https://www.nginx.com/blog/improving-nginx-performance-with-kernel-tls/)
+* [What is an API Gateway? | AlgoMaster](https://blog.algomaster.io/p/what-is-an-api-gateway)
 * [NGINX를 API Gateway로 배포, 1부 - NGINX STORE](https://www.nginxplus.co.kr/best-practices/deploying-nginx-plus-as-an-api-gateway-part-1/)
 * [어떨 때 사용할까요? API Gateway vs Ingress Controller vs Service Mesh - NGINX STORE](https://www.nginxplus.co.kr/best-practices/when-to-use-it-api-gateway-vs-ingress-controller-vs-service-mesh/)
 * [엔진엑스 플러스(NGINX Plus)의 웹방화벽과 인그레스 콘트롤러의 활용 디지털투데이TV Live - YouTube](https://www.youtube.com/watch?v=eNZ9q5mJmFk)
@@ -1682,6 +1686,7 @@ Web
 * [PWA Stats](https://www.pwastats.com/)
 
 # Proxy
+* [Proxy vs Reverse Proxy Explained | AlgoMaster](https://blog.algomaster.io/p/proxy-vs-reverse-proxy-explained)
 * [코딩방송 Season1- EP 15. 프록시 proxy](https://www.youtube.com/watch?v=fC3Cxh5B9Ug)
 * [Why should I use a Reverse Proxy if Node.js is Production-Ready?](https://medium.com/intrinsic/why-should-i-use-a-reverse-proxy-if-node-js-is-production-ready-5a079408b2ca)
 * [Infra 리버스 프록시(reverse proxy) 서버 개념 - 로스카츠의 AI 머신러닝](https://losskatsu.github.io/it-infra/reverse-proxy/)
@@ -2017,6 +2022,7 @@ Web
 * [Transcrypt: Python 3.7 to JavaScript compiler - Lean, fast, open! -](https://github.com/QQuick/Transcrypt)
 
 # Restful
+* [What's an API? | AlgoMaster](https://blog.algomaster.io/p/whats-an-api)
 * [practice - restful](https://gist.github.com/hyunjun/44d0c4c4aa40b4b1d1e4b2f2d52b1dd2#file-restful-md)
 * [**Standards.REST - A collection of standards and specifications, that help make fantastic HTTP/REST APIs. Don't reinvent the wheel, use fantastic wheels, hashed out by experts, that solve problems you hadn't even considered yet**](http://standards.rest/)
 * [**API 관련 내용 정리**](https://jungwoon.github.io/infra,%20api,%20cloud/2019/01/31/Api-Summary/)
@@ -2058,6 +2064,7 @@ Web
 * [HTTP API 디자인 - URI편](https://jojoldu.tistory.com/783)
 * [골치아픈 REST API에서 벗어나 효율적인 모바일 네트워크를 구성하는 방법](https://realm.io/kr/news/best-practices-pain-points-mobile-networking-rest-api-failures/)
 * [REST의 representation이란 무엇인가](https://blog.npcode.com/2017/04/03/rest%EC%9D%98-representation%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80/?refer=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4)
+* [What are Webhooks? | AlgoMaster](https://blog.algomaster.io/p/what-are-webhooks)
 * [웹훅 기능을 테스트 하기 좋은 도구들 소개](http://blog.aliencube.org/ko/2017/06/02/tools-for-testing-webhooks/) RequestBin, ngrok
 * [REST API Tutorial](https://www.restapitutorial.com/)
   * [Resource Naming](http://www.restapitutorial.com/lessons/restfulresourcenaming.html)
@@ -2824,6 +2831,7 @@ Web
   * [Zaplib post-mortem: WASM은 생각보다 빠르지 않습니다. | GeekNews](https://news.hada.io/topic?id=6484)
 
 # Websocket
+* [Long Polling vs WebSockets | AlgoMaster](https://blog.algomaster.io/p/long-polling-vs-websockets)
 * [**WebSocket Simplified**](https://levelup.gitconnected.com/websocket-simplified-b532f266cc9f)
 * [웹소켓을 알아봅시다. - YouTube](https://www.youtube.com/watch?v=2oMPf-ueQic)
 * [오늘의 테크용어 : 웹소켓이 뭐냐면 - YouTube](https://www.youtube.com/watch?v=yXPCg5eupGM)

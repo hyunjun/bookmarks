@@ -634,6 +634,7 @@ Algorithm
 * [neuralhash-collisions: A catalog of naturally occurring images whose Apple NeuralHash is identical](https://github.com/roboflow-ai/neuralhash-collisions)
 
 ## Hash Consistent Hashing
+* [Consistent Hashing Explained | AlgoMaster](https://blog.algomaster.io/p/consistent-hashing-explained)
 * [**입 개발 Consistent Hashing 에 대한 기초**](http://www.popit.kr/consistent-hashing/)
 * [The easiest consistent hashing](https://www.slideshare.net/charsyam2/the-easiest-consistent-hashing)
 * [Jump consistent hash](http://www.popit.kr/jump-consistent-hash/)
@@ -724,6 +725,7 @@ Algorithm
 * [Ribbon filter: Practically smaller than Bloom and Xor](https://engineering.fb.com/2021/07/09/data-infrastructure/ribbon-filter/)
 
 ## Probablistic Filter Bloom Filter
+* [Bloom Filters | AlgoMaster](https://blog.algomaster.io/p/bloom-filters)
 * [Probabilistic data structures for processing continuous, unbounded streams](https://github.com/tylertreat/BoomFilters)
 * [PROBABILISTIC M2M RELATIONSHIPS USING BLOOM FILTERS](http://zacharyvoase.com/2012/08/31/m2mbloom/)
 * [What are Bloom filters?](https://medium.com/the-story/what-are-bloom-filters-1ec2a50c68ff)

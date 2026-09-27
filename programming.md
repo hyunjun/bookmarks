@@ -2301,6 +2301,14 @@ Programming
   * 이벤트 드리븐 플랫폼 전체가 단일 메시지 브로커(GCP Pub/Sub)를 지나는 단일 장애점이어서 두 번째 브로커를 추가한 이야기—이벤트 로드 밸런서 구축, 그 뒤의 큐잉 이론, 그리고 **프로덕션에서 Pub/Sub을 실제로 꺼 본 카오스 테스트**(아무도 눈치채지 못함)까지
 * [System design becomes easier when the vocabulary clicks — 30 system design concepts | Rocky Bhatia | LinkedIn](https://www.linkedin.com/posts/rocky-bhatia-a4801010_system-design-becomes-easier-when-the-vocabulary-share-7480581177498628096-ruqE/)
   * 시스템 디자인이 어려운 건 개념이 불가능해서가 아니라 어휘가 안 잡혀서라는 관점—client-server·DNS·프록시·지연·캐싱·샤딩·복제·큐·게이트웨이·마이크로서비스 등 면접·아키텍처 논의·장애 대응에 반복 등장하는 30개 개념 카드
+* [Scalability | AlgoMaster](https://blog.algomaster.io/p/scalability)
+* [System Design: What is Availability | AlgoMaster](https://blog.algomaster.io/p/system-design-what-is-availability)
+* [How to Avoid Single Point of Failures (SPOF) | AlgoMaster](https://blog.algomaster.io/p/system-design-how-to-avoid-single-point-of-failures)
+* [CAP Theorem Explained | AlgoMaster](https://blog.algomaster.io/p/cap-theorem-explained)
+* [Rate Limiting Algorithms Explained with Code | AlgoMaster](https://blog.algomaster.io/p/rate-limiting-algorithms-explained-with-code)
+* [Idempotency in Distributed Systems | AlgoMaster](https://blog.algomaster.io/p/idempotency-in-distributed-systems)
+* [Stateful vs Stateless Architecture | AlgoMaster](https://blog.algomaster.io/p/stateful-vs-stateless-architecture)
+  * 위 7편은 AlgoMaster(Ashish Pratap Singh)의 시스템 디자인 개념 시리즈 중 아키텍처 개념 편
 * [You Keep Using That Word • Sam Newman • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=rZxIzrjvSGg) event driven, asynchronous, message queue
   * [VidiGo You Keep Using That Word • Sam Newman • GOTO 2023.](https://vidigo.ai/share/summary/38a45beea29d)
   * [그 단어를 계속 사용하는 당신 - 샘 뉴먼 - GOTO 2023 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/536409)
@@ -3188,6 +3196,9 @@ Programming
 * [The Bootiful Microservice by Josh Long 한글 자막](https://www.youtube.com/watch?v=ZdpZlqumymM&t=17s)
 * [Microservices - a definition of this new architectural term](https://martinfowler.com/articles/microservices.html)
 * [Spring Cloud 기반 Micro Services로의 전환 개발 사례](http://readme.skplanet.com/?p=13782)
+* [Caching | AlgoMaster](https://blog.algomaster.io/p/4d7d6f8a-6803-4c7b-85ca-864c87c2cbf2)
+* [Top 5 Caching Strategies Explained | AlgoMaster](https://blog.algomaster.io/p/top-5-caching-strategies-explained)
+* [7 Cache Eviction Strategies | AlgoMaster](https://blog.algomaster.io/p/7-cache-eviction-strategies)
 * [Caching at Netflix The Hidden Microservice by Scott Mansfield](https://www.youtube.com/watch?v=Ve7ueEYC4TM)
   * [Application data caching using SSDs](https://medium.com/netflix-techblog/application-data-caching-using-ssds-5bf25df851ef)
 * [User & Device Identity for Microservices @ Netflix Scale](https://www.youtube.com/watch?v=eEZHZ806d6o)

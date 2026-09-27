@@ -526,6 +526,9 @@ SQL
   * [VDTRIESTE24 ORM을 넘어서 - 안드레스 알미레이의 컨퍼런스 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/740557)
 
 # Database
+* [SQL vs NoSQL: 7 Key Differences | AlgoMaster](https://blog.algomaster.io/p/sql-vs-nosql-7-key-differences)
+* [What are ACID Transactions in Databases | AlgoMaster](https://blog.algomaster.io/p/what-are-acid-transactions-in-databases)
+* [A Detailed Guide on Database Indexes | AlgoMaster](https://blog.algomaster.io/p/a-detailed-guide-on-database-indexes)
 * [joinc](http://www.joinc.co.kr/modules/moniwiki/wiki.php/Site/Database)
 * [A Database Model for Simple Board Games](http://www.vertabelo.com/blog/technical-articles/a-database-model-for-simple-board-games)
 * [DB/분산 초보자를 위한 CAP 이론](http://hamait.tistory.com/197)
@@ -1792,6 +1795,7 @@ SQL
 * [오픈소스 모바일 DB ‘렘’, 225억 투자 유치](http://www.bloter.net/archives/223748)
 
 # Sharding
+* [What is Database Sharding | AlgoMaster](https://blog.algomaster.io/p/what-is-database-sharding)
 * [What is Sharding?](https://medium.com/@radixdlt/what-is-sharding-6ca10b72cbd1)
 * [Database의 샤딩(Sharding)이란?](https://nesoy.github.io/articles/2018-05/Database-Shard)
 * [NHN의 안과 밖: Sharding Platform](https://d2.naver.com/helloworld/14822) Spock Proxy, Gizzard, Cubrid Shard 비교
