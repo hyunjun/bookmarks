@@ -406,6 +406,8 @@ Finance
 * [qlib: An AI-oriented Quant investment platform | Microsoft](https://github.com/microsoft/qlib)
   * [Qlib Documentation](https://qlib.readthedocs.io/)
   * Microsoft의 AI 기반 퀀트 투자 플랫폼. 데이터 처리→모델 학습→백테스트→포트폴리오 최적화 전 워크플로 지원, 지도학습·시장 동역학·강화학습 등 다양한 ML 패러다임과 사전 구축 모델·데이터셋 제공. RD-Agent와 통합돼 퀀트 트레이딩 R&D 자동화
+* [QuantHarness: Price-Driven Multi-Agent LLMs for High-Frequency Trading | Y-Research-SBU](https://github.com/Y-Research-SBU/QuantHarness)
+  * Stony Brook·CMU·UBC·Yale·Fudan 연구—가격 신호 주도 멀티 에이전트 LLM으로 고빈도 트레이딩(HFT)을 다루는 공식 레포. MIT, 2.9k stars
 * [QuantMuse: A comprehensive quantitative trading system with AI-powered analysis, real-time data processing, and advanced risk management](https://github.com/0xemmkty/QuantMuse)
 * [RD-Agent: LLM-based framework for automating data-driven R&D | Microsoft](https://github.com/microsoft/RD-Agent)
   * [RD-Agent 공식 사이트](https://rdagent.azurewebsites.net/)
@@ -434,6 +436,11 @@ Finance
 * [tradingcodex: Turn Codex into your investment workflow team](https://github.com/monarchjuno/tradingcodex)
   * 자율 매매가 아닌 역할 분리 투자 워크플로우 시스템. head-manager 에이전트가 자연어 요청을 펀더멘탈 분석가·포트폴리오 매니저·리스크 리뷰어 등 전문 에이전트로 라우팅, 리서치→분석→밸류에이션→포트폴리오 적합성→리스크 리뷰→승인 실행 단계 진행. 가정·반대 증거를 담는 Decision Package, Django 서비스 게이트로 미승인 브로커 주문·자기 승인·제한 종목 차단, 기본 페이퍼 트레이딩. 로컬 대시보드
 * [vibe-investing: 투자를 위한 AI 투자(Vibe Investing) 큐레이션, 시장 분석 칼럼, AI 트레이딩 도구 2종 (Harness Quant v2 + Earnings Momentum Agent) 를 다루며 미국 나스닥, S&P500, 가상화폐 투자를 다룹니다](https://github.com/gameworkerkim/vibe-investing/)
+  * [VibeQuant — AI Quant · CTI · Web3](https://vibequant.cc/)
+  * [토스증권 API 이용 퀀트봇 소스 무료 공개 | Dennis Kim | LinkedIn](https://www.linkedin.com/posts/testcode_tsaswm-tsaswmtedqwu-toss-share-7468358298837303296-PbBd/)
+    * [vibe-investing/Toss — 토스증권 퀀트봇 소스](https://github.com/gameworkerkim/vibe-investing/tree/main/Toss)
+    * [Toss_OpenAPI_Guide.md](https://github.com/gameworkerkim/vibe-investing/blob/main/Toss/docs/Toss_OpenAPI_Guide.md)
+    * 토스증권 Open API에 LLM 퀀트 모멘텀 전략을 적용해 한국 주식의 매수·매도·보유 시그널을 보여주는 퀀트봇—"레버리지의 민족"의 충동적 트레이딩을 과매수 구간·매도 권고 같은 퀀트 기반 답변으로 줄이려는 취지
 * [Vibe-Trading: Your Personal Trading Agent](https://github.com/HKUDS/Vibe-Trading)
   * [Vibe-Trading Wiki — Finance Research Agent](https://vibetrading.wiki/)
   * [Vibe-Trading - AI 다중 에이전트 트레이딩 전략 플랫폼 | GeekNews](https://news.hada.io/topic?id=29055)
@@ -786,6 +793,9 @@ Finance
 * [투자은행 핀테크 연봉 이야기 #2 - 금융권 개발자](http://blog.naver.com/joo_andy_lee/220369018195)
 * [AI퀀트 금융머신러닝 공부를 위해 봐야할 동영상](https://brunch.co.kr/@gauss92tgrd/48)
 * [주가 regression에 어떤 loss를 써야할까 – Passion is like genius; a miracle.](https://mkseo.pe.kr/blog/?p=4379)
+* [OpenQuant — collaborative and proper practices for financial machine learning](https://open-quant.github.io/openquant/)
+  * [openquant: Rust implementations of the methods in Advances in Financial Machine Learning, with Python bindings](https://github.com/Open-Quant/openquant)
+  * López de Prado의 「Advances in Financial Machine Learning」 기법들을 Rust로 구현하고 Python 바인딩 제공. Jupyter Notebook, MIT
 * [quant-trading-rest: 키움증권/한국투자증권 REST API 자동매매](https://github.com/CyberFlower/quant-trading-rest)
   * [Dong-Kwan Lee](https://www.linkedin.com/posts/dong-kwan-lee-b35a741bb_github-cyberflowerquant-trading-rest-activity-7436322079949430784--nJZ)
   * 시그널 조건을 체인 구조로 조합, 다중 브로커 실행 엔진 재사용. 낮(키움/국내장)·밤(한투/미국장) 세션별 crontab 운용
