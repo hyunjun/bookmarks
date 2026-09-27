@@ -56,6 +56,8 @@ Robot
   * 반면 퍼즐 조각을 홈에 끼우는 과제는 Astra 2/20 vs Fable 5.1 2/20으로 동일하고, Astra도 Fable과 똑같이 홈까지 도달한 뒤 마지막 삽입 단계에서 멈춤($1.36 vs $2.18). 모델이 좋아져도 정밀 삽입 같은 특정 병목은 그대로 남는다는 것을 같은 하네스·같은 채점 기준에서 보여주는 사례. Claude Fable 5 vs 5.1 비교 보고서의 후속
 * [로보틱스: 아주 기초적인 것부터](https://turingpost.co.kr/p/inside-robotics)
   * [Robot Learning: A Tutorial - a Hugging Face Space by lerobot](https://huggingface.co/spaces/lerobot/robot-learning-tutorial)
+* [커넥티드카, 플랫폼 만든 이야기 - Physical AI에 대한 짧은 생각 | greypencil](https://greypencil.tistory.com/282)
+  * 스마트카 서버 기술(임베디드+서버)을 만들다 퇴사한 개발자의 회고—이 기술이 로봇·다크 팩토리에도 쓰인다는 관찰과 함께, IoT는 한물간 게 아니라 **온디바이스 AI의 전제 인프라로 2차 진화 중**이라는 시사점 정리
 * [Bessemer Predicts: Robotics and physical AI](https://www.bvp.com/atlas/bessemer-predicts-robotics-and-physical-ai)
   * [로보틱스 및 피지컬 AI 예측: 2026년의 6가지 투자 전망 | GeekNews](https://news.hada.io/topic?id=28932)
   * 로보틱스 현재 GPT-2.5 수준. Goldman Sachs 2035년 380억 달러 시장 전망도 Bessemer는 보수적 판단. 로보틱스 데이터 비용 2년간 30억 달러+
