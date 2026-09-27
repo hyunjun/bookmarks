@@ -2558,6 +2558,7 @@ Web
   * 수많은 UI 요소를 관리하기 위해 Web Components와 Lit 라이브러리 사용
 * [Cloud Native Apps with Server-Side WebAssembly - YouTube](https://www.youtube.com/watch?v=JtwHtfFe6AI)
 * [webassembly vs javascript and its application in microservice & cloud computing - YouTube](https://www.youtube.com/watch?v=1wbIjxW2Ry4)
+* [WebAssembly on Kubernetes • Nicolas Frankel • GOTO 2025 - YouTube](https://www.youtube.com/watch?v=fMpDgsjBQzg)
 * [webassembly: the new kubernetes? -- wingolog](https://wingolog.org/archives/2021/12/13/webassembly-the-new-kubernetes)
 * [How Prime Video updates its app for more than 8,000 device types - Amazon Science](https://www.amazon.science/blog/how-prime-video-updates-its-app-for-more-than-8-000-device-types)
   * [아마존 프라임 비디오, WebAssembly 사용하여 8000개의 디바이스 타입 지원 | GeekNews](https://news.hada.io/topic?id=5858)
