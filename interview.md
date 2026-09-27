@@ -310,6 +310,8 @@ Interview
   * 바이브 코딩을 기본 전제로 두고, 화면 공유 30분 과제 형식으로 후보자가 어떤 프롬프트를 쓰고 AI 응답에 어떻게 이터레이션하는지 관찰하자는 제안. 프롬프트 그 자체보다 "스타일"—팀의 일하는 방식과의 적합성—이 핵심. 정답이 없는 영역(계획 우선 vs 구어체 한국어 지시 vs agent.md 강조)이라 코드 리뷰 시절보다 스타일 교정이 더 어려움. 댓글: 배휘동(작년부터 페어워크 인터뷰 진행), 최승범(피면접자가 프롬프팅 노출에 어색함), Kyle Koh(AI 의존이 자동조종 의존 사고처럼 기본기 결손 야기 우려)
 * [채용때 묻는 질문부터 달라졌어요 (신상민 도어대시 엔지니어링 팀장) - YouTube](https://www.youtube.com/watch?v=buGBE7fKHJI)
   * 티타임즈TV. 실리콘밸리 AI 시대 일하는 방식 변화. AI로 잘하는·못하는 엔지니어 격차 10~20배, 바운더리 넘는 풀스택형(백엔드 개발자가 iOS도)이 성공. 임원도 매일 코딩하며 '선수 겸 감독', 아웃풋 중심 평가와 AI 조직 가드레일
+* [개발자 면접 도구 2개 (코테 루틴) | 개발자방16 - YouTube](https://www.youtube.com/watch?v=6OkYwkVjlO4)
+  * InterviewBit과 AlgoMaster.io로 면접 준비를 '항상 준비된 상태'로 만드는 하루 1시간 루틴(3분)—LeetCode식 랜덤 풀이 대신 패턴 중심 학습
 
 # 후보자가 할 질문
 * [Interview questions](https://teh.id.au/posts/2017/09/07/interview-questions/index.html)
@@ -1017,6 +1019,9 @@ Interview
 * [CSPA COMPUTER SCIENCE PROFICIENCY ASSESSMENT](https://cspa.io)
 * [Data Interview Qs](https://www.interviewqs.com)
 * [Interview_Question_for_Beginner: Technical-Interview guidelines written for those who started studying programming. I wish you all the best](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
+* [OpenCluely — free, open source Cluely alternative](https://opencluely.techycsr.dev/)
+  * [OpenCluely: built for technical interviews like DSA, OAs | TechyCSR](https://github.com/TechyCSR/OpenCluely)
+  * DSA·온라인 평가(OA) 같은 기술 면접용 무료 오픈소스 Cluely 대안(화면 위 실시간 어시스턴트). JavaScript, Apache-2.0, 1k stars
 
 # Job Search
 * [경력별 취업 전략](http://siliconbeachstory.com/career-strategies-by-experience/)
