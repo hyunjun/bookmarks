@@ -805,6 +805,9 @@ Artificial Intelligence
   * PyCon DE & PyData 2026, Harald Nezbeda. CLI 코딩 에이전트를 호스트에서 직접 돌릴 때의 위험(우발적 데이터 유출, 파괴적 파일시스템 작업, 악성 패키지 설치)—사용자 전체 권한으로 동작하는 에이전트가 개인 데이터·외부 네트워크·신뢰할 수 없는 콘텐츠 셋을 동시에 갖는 'lethal trifecta' 문제
   * 호스트를 위험에 빠뜨리지 않고 에이전트를 쓰기 위한 컨테이너 기반 보안 환경 구축 데모
 * [AgentFS AI 에이전트의 안전한 I/O를 위한 파일시스템](https://codepointerko.substack.com/p/agentfs-ai-io)
+  * [AgentFS — The filesystem for agents](https://www.agentfs.ai/)
+  * [agentfs: The filesystem for agents | tursodatabase](https://github.com/tursodatabase/agentfs)
+  * Turso(libSQL)의 SQLite 기반 에이전트 전용 파일시스템—에이전트가 안전하게 파일을 읽고 쓰도록 격리된 I/O를 제공. Rust, 3.4k stars
 * [🗂️ AI 에이전트 도입 전에 회사를 하나의 "파일 시스템" 으로 바꾸세요 "에이전트 어떻게 써야 하죠?" 최근에 외부 행사에서 기업 규모를 가리지 않고 임원 분들을 만나면 저의 링크드인을 봤다고 말씀해주시면서 꼭 이 질문이 나옵니다. 아무리 바이브 코딩이 유행이라지만 솔직히 대부분의 업무는 코딩과 거리가 멀잖아요. 세상에 존재하는 노동자의… | Jeongmin Lee](https://www.linkedin.com/posts/jyoung105_ai-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EB%8F%84%EC%9E%85-%EC%A0%84%EC%97%90-%ED%9A%8C%EC%82%AC%EB%A5%BC-%ED%95%98%EB%82%98%EC%9D%98-%ED%8C%8C%EC%9D%BC-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%9C%BC%EB%A1%9C-%EB%B0%94%EA%BE%B8%EC%84%B8%EC%9A%94-activity-7428356829451255808-btFg)
 * [칼럼 | AI처럼 보이지 않고, 직원처럼 행동하는 AI를 만드는 방법 | CIO](https://www.cio.com/article/4129249/%EC%B9%BC%EB%9F%BC-ai%EC%B2%98%EB%9F%BC-%EB%B3%B4%EC%9D%B4%EC%A7%80-%EC%95%8A%EA%B3%A0-%EC%A7%81%EC%9B%90%EC%B2%98%EB%9F%BC-%ED%96%89%EB%8F%99%ED%95%98%EB%8A%94-ai%EB%A5%BC-%EB%A7%8C%EB%93%9C.html)
 * [Manus Agents Challenge OpenClaw With No-Setup Personal AI Assistants](https://www.trendingtopics.eu/manus-agents-challenge-openclaw-with-no-setup-personal-ai-assistants/)
@@ -1359,6 +1362,9 @@ Artificial Intelligence
     * [GitHub - Q00/rlm-forge: Runtime-Lifted Recursive Language Models | Goobong Jeong](https://www.linkedin.com/posts/gb-jeong_github-q00rlm-forge-runtime-lifted-recursive-share-7457107705376321536-Glhd)
     * Ouroboros가 재귀·상태·종료 관리 + Hermes 내부 LM 런타임. TraceGuard로 부모 합성 주장을 자식 증거로 결정적 검증(LLM 판사 없이). 메모리-증거 분리, 24-셀 매트릭스 호환성 테스트(Hermes GLM/Claude Code/Codex). 프로바이더 무관 모델 교체
 * [Hindsight: Biomimetic data structures for agent memory](https://github.com/vectorize-io/hindsight)
+  * [Hindsight — Agent Memory That Learns](https://hindsight.vectorize.io/)
+  * [🧠 Hindsight: 저장·검색·성찰 3가지로 AI 에이전트 장기 기억 구축 | fornewchallenge](https://fornewchallenge.tistory.com/entry/%F0%9F%A7%A0-Hindsight-%EC%A0%80%EC%9E%A5%C2%B7%EA%B2%80%EC%83%89%C2%B7%EC%84%B1%EC%B0%B0-3%EA%B0%80%EC%A7%80%EB%A1%9C-AI-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EC%9E%A5%EA%B8%B0-%EA%B8%B0%EC%96%B5-%EA%B5%AC%EC%B6%95)
+    * retain(입력에서 사실·인물·시간·관계 추출 저장)·recall(의미 유사도+키워드+그래프 연결+시간 범위 **4가지 검색 경로**를 순위 융합·재정렬로 결합)·reflect(기억 기반 심층 응답)의 내부 흐름 해설. 사용자·프로젝트별 메모리 뱅크 분리, 관련 사실에서 관찰(observation)을 백그라운드 합성. **화자 구분 함정** 지적—"제가 버그를 고쳤습니다"를 에이전트 자신의 경험으로 저장하면 기억의 주인이 바뀌므로 context에 화자를 명시할 것(대화 기록 일괄 업로드 시 특히). LongMemEval 성과는 재현 실험 없이는 단정하지 않는다는 신중한 태도
   * retain/recall/reflect 연산으로 세계 사실·경험·멘탈 모델 관리. SOTA 장기 메모리 성능
 * [hive](https://github.com/aden-hive/hive)
   * [프로덕션 환경에서 AI 에이전트를 실제로 돌리는 방법: Hive 런타임 하네스 완전 정리](https://digitalbourgeois.tistory.com/2941)
@@ -1396,6 +1402,9 @@ Artificial Intelligence
 * [LAP — Agent-Native API Specs for AI Agents](https://lap.sh/)
   * [LAP: Lean API Platform — agent-native API spec format compiler](https://github.com/Lap-Platform/LAP)
   * OpenAPI/Swagger/Postman/AsyncAPI/GraphQL/Protobuf을 에이전트 최적화 포맷으로 컴파일. API 호출 정확도 39.9%→86%, 토큰 88% 절감. 1,370+ 사전 컴파일된 API 레지스트리(Stripe/GitHub/Slack 등). 인증·인텐트 라우팅·실행 플레이북 자동 생성. Claude Code/Cursor/Codex/OpenClaw 통합. Apache 2.0
+* [LifeOS — The universal AI Harness designed to move you from Current to Ideal state in both life and work | Daniel Miessler](https://github.com/danielmiessler/LifeOS)
+  * [🆓 완전 무료! GitHub 9k! 나를 학습하는 PAI로 개인 AI 비서 구축하기 | fornewchallenge](https://fornewchallenge.tistory.com/entry/%F0%9F%86%93-%EC%99%84%EC%A0%84-%EB%AC%B4%EB%A3%8C-GitHub-9k-%EB%82%98%EB%A5%BC-%ED%95%99%EC%8A%B5%ED%95%98%EB%8A%94-PAI%EB%A1%9C-%EA%B0%9C%EC%9D%B8-AI-%EB%B9%84%EC%84%9C-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0)
+  * 보안 전문가 Daniel Miessler의 개인 AI 인프라(구 PAI, Personal AI Infrastructure)—Claude Code 기반으로 지속 학습·기억 시스템을 통해 AI가 나를 점점 잘 이해하게 만들고, **모든 데이터를 로컬에 저장**해 프라이버시를 지키는 무료 오픈소스. '삶과 일에서 현재 상태→이상 상태로 옮기는 범용 AI 하네스'를 표방. TypeScript, MIT, 19.2k stars
 * [LightAgent: Lightweight AI agent framework with memory, tools & tree-of-thought. Supports multi-agent collaboration, self-learning, and major LLMs (OpenAI/DeepSeek/Qwen). Open-source with MCP/SSE protocol integration.](https://github.com/wxai-space/LightAgent)
   * A framework for building an AI agent with memory
   * more: tools & tree-of-thought. Supports multi-agent collaboration, self-learning, and major LLMs (OpenAI/DeepSeek/Qwen)
@@ -2063,9 +2072,16 @@ Artificial Intelligence
   * [Dive-into-Claude-Code: Build Your Own AI Agent - A Design Guide](https://github.com/VILA-Lab/Dive-into-Claude-Code)
   * [Claude Code 아키텍처 분석: 에이전트 성능은 모델이 아니라 시스템 전체의 결과 | digitalbourgeois](https://digitalbourgeois.tistory.com/3257)
   * Claude Code v2.1.88(약 1,900 TS 파일·512K LOC) 아키텍처 분석. AI 의사결정 로직은 1.6%뿐, 나머지 98.4%가 결정론적 인프라(권한 게이트·컨텍스트 관리·도구 라우팅·복구). 7개 독립 안전 계층(deny-first), 5단계 컨텍스트 compaction, 4가지 확장(hooks·skills·plugins·MCP), 서브에이전트 위임. 프로덕션 에이전트 6대 설계 결정 가이드
+* [2604.25850 Agentic Harness Engineering: Observability-Driven Automatic Evolution of Coding-Agent Harnesses](https://arxiv.org/html/2604.25850v3)
+  * 하네스 엔지니어링이 수작업 공예로 남아 있는 이유(이질적 액션 공간, 신호가 묻히는 방대한 궤적)를 짚고, **관측 가능성 기반으로 하네스를 자동 진화**시키는 접근 제안
 * [2605.18747 Code as Agent Harness](https://arxiv.org/abs/2605.18747)
   * [Sujin Kang Ph.D. - 하네스 엔지니어링에서 프롬프트의 역할 정리 | LinkedIn](https://www.linkedin.com/posts/sujin-prompt-engineer_promptengineering-agentharness-llm-activity-7464602143690227712-KC2E)
   * UIUC·Meta·Stanford 서베이 논문 (Xuying Ning 외 41명). 코드는 LLM의 출력물이 아닌 "에이전트 추론·행동·환경 모델링·실행 검증의 operational substrate". 3계층 분류—Harness Interface(코드를 통한 에이전트 연결), Mechanisms(계획·메모리·도구 사용·피드백 제어), Scaling(단일→멀티 에이전트, 공유 코드 아티팩트로 조정·리뷰·검증). 코딩 어시스턴트·GUI/OS 자동화·embodied 에이전트·과학·DevOps·엔터프라이즈 워크플로 적용. 5 발견: 에이전트 안정성은 모델 크기보다 하네스 신뢰성에 의존, plan은 PLAN.md 같은 파일시스템 객체로, Plan-Execute-Verify 표준 루프, 메모리는 layered governance, 도구는 governed interface로. 4 프롬프트 설계 원칙: PEV 사이클·persistent plan 객체·메모리는 governance·라이프사이클 훅. "프롬프트의 무게중심이 문장→하네스로 이동"
+* [2605.23950 Stop Comparing LLM Agents Without Disclosing the Harness](https://arxiv.org/html/2605.23950v1)
+  * 포지션 페이퍼—프런티어급 모델들의 장기 과제 비교에서 **컨텍스트 구성·도구 상호작용·오케스트레이션·검증을 관장하는 하네스가 모델 차이보다 더 강한 성능 결정 요인**인 경우가 많으므로, 하네스를 공개하지 않은 에이전트 비교는 무의미하다는 주장
+* [2606.10106 What makes a harness a harness: necessary and sufficient conditions for an agent harness](https://arxiv.org/html/2606.10106v1)
+  * [Claude Code는 하네스(harness)라고 불립니다. 그런데 ChatGPT는 왜 하네스가 아닐까요? | Sanguine Kim | LinkedIn](https://www.linkedin.com/posts/sanguinekim_claude-code%EB%8A%94-%ED%95%98%EB%84%A4%EC%8A%A4harness%EB%9D%BC%EA%B3%A0-%EB%B6%88%EB%A6%BD%EB%8B%88%EB%8B%A4-%EA%B7%B8%EB%9F%B0%EB%8D%B0-chatgpt%EB%8A%94-share-7474636461825359873-LSuA/)
+  * 느슨하고 다의적으로 쓰이는 'agent harness'의 필요충분조건을 정리한 논문—하네스는 모델을 감싸 에이전트로 만드는 **런타임 레이어**이고, 실행 중에 네 조건(①추론→행동→관찰 루프 등)을 모두 갖춰야 성립하며 하나라도 빠지면 하네스가 아니라는 정의. "모델을 제외한 전부"라는 통념을 교정
 * [2609.14858 Dream-RSI: Recursive Self-Improvement through Evolving Worlds](https://arxiv.org/html/2609.14858v1)
   * [2/ AI에게 더 빠른 프로그램을 만들라고 하면, 코드를 쓰고 실행한 뒤 결과를 보며 수정하는 과정이 반복됩니다. 이때 성능이 좋아진 후보를 더 고칠지, 다른 방향을 열어볼지 결정해야 하는데, 그 선택이 좋은지 알아보려면 실험을 여러 번 진행해야 하므로, 탐색 방법을 비교하는 데도 비용이 듭니다. Dream-RSI는 여기서 이미 끝낸 탐색 기록을 활용합니다. 어떤 코드에서 출발했고, 무엇을 수정했으며, 어디서 실패하고 얼마나 개선됐는지를 나뭇가지처럼 연결해 저장합니다. 연구진이 'Discovery Tree'라고 부르는 이 기록이 다음 전략을 시험할 환경이 됩니다. | CHOI @choi.openai | Threads](https://www.threads.com/@choi.openai/post/DdZbHUsj7Cf)
   * RSI의 병목을 탐색(exploration) 전략의 관리·개선으로 규정—고정 전략은 검색 공간이 커지면 적응하지 못하고, 온라인 정책 최적화는 지연되고 값비싼 피드백 아래 거대한 메타 검색 공간을 장기 롤아웃으로 헤매야 하는 딜레마. Dream-RSI는 기저 코딩 에이전트는 그대로 둔 채 경량 오케스트레이션 레이어만 얹어 탐색을 명시적·프로그래머블하게 만든다
@@ -2847,6 +2863,8 @@ Artificial Intelligence
 * [MLIR: A new intermediate representation and compiler framework](https://medium.com/tensorflow/mlir-a-new-intermediate-representation-and-compiler-framework-beba999ed18d)
   * [MLIR: accelerating AI with open-source infrastructure](https://www.blog.google/technology/ai/mlir-accelerating-ai-open-source-infrastructure/)
 * [Model Context Protocol](https://modelcontextprotocol.io/)
+  * [MCP 프로토콜이 7월 28일에 완전히 바뀝니다 (Release Candidate) | Jeongmin Lee | LinkedIn](https://www.linkedin.com/posts/jyoung105_mcp-%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C%EC%9D%B4-7%EC%9B%94-28%EC%9D%BC%EC%97%90-%EC%99%84%EC%A0%84%ED%9E%88-%EB%B0%94%EB%80%9D%EB%8B%88%EB%8B%A4-release-candidate-share-7465178125644238848-m7Lx/)
+    * 원격 MCP 서버 운영의 고질병(sticky session, session store 공유, 로드밸런서 설정)을 끝내는 대격변—**프로토콜 자체가 stateless로 전환**. 달라지는 점 8가지 정리
   * [🚀 MCP: 웹 검색부터 파일 관리까지, AI의 한계를 확장하는 표준 기술](https://fornewchallenge.tistory.com/entry/%F0%9F%9A%80-MCP-%EC%9B%B9-%EA%B2%80%EC%83%89%EB%B6%80%ED%84%B0-%ED%8C%8C%EC%9D%BC-%EA%B4%80%EB%A6%AC%EA%B9%8C%EC%A7%80-AI%EC%9D%98-%ED%95%9C%EA%B3%84%EB%A5%BC-%ED%99%95%EC%9E%A5%ED%95%98%EB%8A%94-%ED%91%9C%EC%A4%80-%EA%B8%B0%EC%88%A0)
   * [How do we connect MILLIONS of AI agents seamlessly in the future?](https://www.linkedin.com/posts/andreashorn1_%F0%9D%97%9B%F0%9D%97%BC%F0%9D%98%84-%F0%9D%97%B1%F0%9D%97%BC-%F0%9D%98%84%F0%9D%97%B2-%F0%9D%97%B0%F0%9D%97%BC%F0%9D%97%BB%F0%9D%97%BB%F0%9D%97%B2%F0%9D%97%B0%F0%9D%98%81-%F0%9D%97%A0%F0%9D%97%9C%F0%9D%97%9F%F0%9D%97%9F%F0%9D%97%9C%F0%9D%97%A2%F0%9D%97%A1%F0%9D%97%A6-activity-7307291029890596864-yVh2/)
     * ![](https://media.licdn.com/dms/image/v2/D4D22AQHGGgmxS-3nhg/feedshare-shrink_800/B4DZWi2dqEG4Ak-/0/1742193942959?e=1745452800&v=beta&t=xen3hapetzGazSrXD4lw7KYZfIxVcKFqEkyHaoNgJYg)
@@ -2975,6 +2993,8 @@ Artificial Intelligence
     * [Claude도 인정한 문제, Docker가 해결했다! AI 에이전트 효율성 극대화 비법 공개](https://livewiki.com/ko/content/claude-docker-ai-agent-efficiency)
   * [갓생 만들어줄 MCP 서버 💪🏻 BEST 8종 모음 - YouTube](https://www.youtube.com/watch?v=szUo30BOZlo)
     * Notion MCP Server, Context 7, Microsoft Playwright MCP Server, Sequential Thinking, Figma MCP Server, PostgreSQL MCP, Browser Tools MCP, MCP YouTube
+  * [MCP Apps - Bringing UI Capabilities To MCP Clients | MCP Blog](https://blog.modelcontextprotocol.io/posts/2026-01-26-mcp-apps/)
+    * **첫 공식 MCP 확장(extension)**으로 승격된 MCP Apps 공식 발표—도구가 인터랙티브 UI 컴포넌트를 반환해 대화 안에 직접 렌더링
   * [Anthropic extends MCP with a UI framework - The New Stack](https://thenewstack.io/anthropic-extends-mcp-with-an-app-framework/)
     * [Anthropic, MCP에 UI 프레임워크 확장 - 대화형 AI를 ‘앱 플랫폼’으로 진화시키는 MCP Apps의 등장](https://digitalbourgeois.tistory.com/2677)
   * [Exploring MCP Apps & Adding Interactive UIs to Clients | Real Python Podcast #285 - YouTube](https://www.youtube.com/watch?v=M2rI0Rw1l9I)
@@ -5951,6 +5971,11 @@ Artificial Intelligence
   * [Claude Code 토큰 비용 최적화하기 – 1부: 비용 구조와 세션 습관 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/claude-code-token-economy-01/)
     * [Claude Code 토큰 비용 최적화하기 – 2부: 캐시 경제학과 Amazon Bedrock 조직 비용 관리 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/claude-code-token-economy-02/)
   * [Using Claude Code: Session Management & 1M Context trq212 on X (tweet 2044548257058328723)](https://x.com/trq212/status/2044548257058328723)
+  * [Maximizing the value of your Claude Code sessions | Claude Blog](https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions)
+    * [Maximizing the value of your Claude Code sessions | 박상길](https://www.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_maximizing-the-value-of-your-claude-code-share-7495079830632259584-C2FA/)
+    * [Claude Code 세션의 가치를 극대화하는 방법 | GeekNews](https://news.hada.io/topic?id=32534)
+    * 토큰 비용 결정 요인—출력이 입력보다 약 5배 비쌈, 캐시 읽기는 입력의 0.1배. `/model`·`/effort`·패스트 모드 변경은 캐시를 깨므로 세션 시작이나 `/clear` 직후에
+    * 작업 전환 시 `/clear`, 자리 비우기 전 `/compact`, 파일은 @-멘션 첨부, 출력 많은 명령은 quiet 플래그나 서브에이전트로 격리해 매 턴 재전송 토큰 절감
   * [Claude Code를 무료로 Ollama로 로컬 AI 코딩 도구 완벽 가이드](https://fornewchallenge.tistory.com/entry/%F0%9F%86%93-Claude-Code%EB%A5%BC-%EB%AC%B4%EB%A3%8C%EB%A1%9C-Ollama%EB%A1%9C-%EB%A1%9C%EC%BB%AC-AI-%EC%BD%94%EB%94%A9-%EB%8F%84%EA%B5%AC-%EC%99%84%EB%B2%BD-%EA%B0%80%EC%9D%B4%EB%93%9C)
   * [내 맥북에 로컬 LLM 설치해서 ClaudeCode 돌리면 쓸만할까? (Feat. 300만원짜리 맥북, vllm) | 성수 김](https://www.linkedin.com/pulse/%EB%82%B4-%EB%A7%A5%EB%B6%81%EC%97%90-%EB%A1%9C%EC%BB%AC-llm-%EC%84%A4%EC%B9%98%ED%95%B4%EC%84%9C-claudecode-%EB%8F%8C%EB%A6%AC%EB%A9%B4-%EC%93%B8%EB%A7%8C%ED%95%A0%EA%B9%8C-feat-300%EB%A7%8C%EC%9B%90%EC%A7%9C%EB%A6%AC-%EB%A7%A5%EB%B6%81-%EC%84%B1%EC%88%98-%EA%B9%80-wvimc)
     * MacBook Pro M4 48GB에서 Gemma 4 E2B·Qwen3 8B·Llama 3.1 8B·Mistral Small 3.2를 Claude Code에 연결해 게임 4종(테트리스·2048·개구리·격투) 900초 제한 빌드 비교. 오픈소스 모델은 테트리스도 완성 못한 반면 Opus는 4종 모두 15분 내 완성. 벤치마크 주장과 달리 로컬 무료 LLM은 아직 실용 대체재가 아니라는 결론
@@ -6167,10 +6192,6 @@ Artificial Intelligence
       * [65줄의 스킬에 깃허브 스타 6500개, 단순하지만 직관적 가이드라인으로 성능을 끌어올린 사례 - 안티그래비티에 적용하기 feat : 생활형 계산기 10개 - YouTube](https://www.youtube.com/watch?v=tcDoacn64Lo)
       * [Andrej Karpathy가 LLM 코딩의 문제점을 지적하자마자 그걸 | h4y3j1n](https://www.linkedin.com/posts/h4y3j1n_andrej-karpathy%EA%B0%80-llm-%EC%BD%94%EB%94%A9%EC%9D%98-%EB%AC%B8%EC%A0%9C%EC%A0%90%EC%9D%84-%EC%A7%80%EC%A0%81%ED%95%98%EC%9E%90%EB%A7%88%EC%9E%90-%EA%B7%B8%EA%B1%B8-share-7450026880222646272-x-Jx)
       * Think Before Coding(가정 명시·모호함 드러내기)·Simplicity First(최소 코드, 투기적 기능 배제)·Surgical Changes(필요한 부분만 수정)·Goal-Driven Execution(검증 가능한 성공 기준) 4대 원칙
-  * [Claude-Mem - Your AI's Perfect Memory Archive](https://claude-mem.ai/)
-    * 전용 관찰 AI가 코딩 세션을 실시간 모니터링하며 의사결정·버그수정·기능·발견 등을 자동 분류 기록. 파일 경로나 개념으로 검색 가능
-    * [claude-mem: A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions](https://github.com/thedotmack/claude-mem)
-    * [Claude Code 세션 간 메모리가 초기화되는 문제, 이제 플러그인 하나로 해결 | HaYeJin Kang](https://www.linkedin.com/posts/h4y3j1n_claude-activity-7406468130274930688-7GPV)
   * [claude-obsidian-assistant: Starter Obsidian vault template integrated with Claude Code](https://github.com/nemocake/claude-obsidian-assistant)
     * Claude Code 연동 Obsidian vault 템플릿. Johnny Decimal 폴더 구조, `/obsidian` 스킬(작업 디렉토리↔vault 매칭, 코드베이스 읽고 프로젝트 정보·개발로그·아키텍처 다이어그램 갱신), 아키텍처 캔버스, 5종 CSS 테마. CLAUDE.md 내장
     * [내가 사용해 본 가장 유용한 MCP 서버 😎 - YouTube](https://www.youtube.com/watch?v=ktr-4JjDsU0&t=1s)
@@ -6201,11 +6222,6 @@ Artificial Intelligence
     * [클로드 스쿼드 쓰면 워크트리 병렬 작업이 너무 쉽습니다.. 심지어 무료예요 - YouTube](https://www.youtube.com/watch?v=DGwXIi9wgIQ)
   * [claude-subconscious: Background agent that whispers to Claude Code — persistent memory by Letta](https://github.com/letta-ai/claude-subconscious)
     * Letta 에이전트가 Claude Code 세션 관찰, 코드베이스 탐색, 메모리 축적 후 각 프롬프트 전 관련 정보 제공. 상태 없는 코딩 에이전트에 영구 메모리 추가
-  * [Maximizing the value of your Claude Code sessions | Claude Blog](https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions)
-    * [Maximizing the value of your Claude Code sessions | 박상길](https://www.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_maximizing-the-value-of-your-claude-code-share-7495079830632259584-C2FA/)
-    * [Claude Code 세션의 가치를 극대화하는 방법 | GeekNews](https://news.hada.io/topic?id=32534)
-    * 토큰 비용 결정 요인—출력이 입력보다 약 5배 비쌈, 캐시 읽기는 입력의 0.1배. `/model`·`/effort`·패스트 모드 변경은 캐시를 깨므로 세션 시작이나 `/clear` 직후에
-    * 작업 전환 시 `/clear`, 자리 비우기 전 `/compact`, 파일은 @-멘션 첨부, 출력 많은 명령은 quiet 플래그나 서브에이전트로 격리해 매 턴 재전송 토큰 절감
   * [ClaudeTuner — Real-Time Claude.ai Usage Tracker & Rate Limit Monitor](https://claudetuner.com/)
     * [Claude 사용량을 한눈에: ClaudeTuner로 실시간 사용량 추적과 플랜 최적화하기](https://digitalbourgeois.tistory.com/2838)
     * Chrome 확장으로 5시간/7일 사용량 실시간 모니터링, 리셋 예측, 14일 패턴 분석 플랜 최적화. 팀 대시보드 지원
@@ -6219,6 +6235,11 @@ Artificial Intelligence
   * [claudia: A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more](https://github.com/getAsterisk/claudia)
     * [Claudia - The Elegant Desktop Companion for Claude Code](https://claudia.asterisk.so/)
     * [무료 클로드 코드 GUI 클로디아 - YouTube](https://www.youtube.com/watch?v=aoEjGsLnKCM)
+  * [cmem.ai](https://cmem.ai/)
+    * 전용 관찰 AI가 코딩 세션을 실시간 모니터링하며 의사결정·버그수정·기능·발견 등을 자동 분류 기록. 파일 경로나 개념으로 검색 가능
+    * [claude-mem: A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions](https://github.com/thedotmack/claude-mem)
+    * [Claude Code 세션 간 메모리가 초기화되는 문제, 이제 플러그인 하나로 해결 | HaYeJin Kang](https://www.linkedin.com/posts/h4y3j1n_claude-activity-7406468130274930688-7GPV)
+    * [🆓 Claude Code 영구 기억 플러그인 Claude-Mem 완벽 정복 | fornewchallenge](https://fornewchallenge.tistory.com/entry/%F0%9F%86%93-Claude-Code-%EC%98%81%EA%B5%AC-%EA%B8%B0%EC%96%B5-%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8-Claude-Mem-%EC%99%84%EB%B2%BD-%EC%A0%95%EB%B3%B5)
   * [code-review-graph: Local knowledge graph for Claude Code](https://github.com/tirth8205/code-review-graph)
     * [code-review-graph](https://code-review-graph.com/)
     * Tree-sitter 파싱으로 코드베이스 구조 그래프 생성, blast-radius 분석으로 관련 파일만 읽기. 코드 리뷰 토큰 6.8배 절감(대형 모노레포 최대 49배). 14개 언어, SQLite 로컬
@@ -6629,6 +6650,8 @@ Artificial Intelligence
   * [codex-plugin-cc: Use Codex from inside Claude Code for code reviews or to delegate tasks](https://github.com/openai/codex-plugin-cc)
     * /codex:review(코드 리뷰), /codex:adversarial-review(설계 도전적 리뷰), /codex:rescue(Codex 서브에이전트로 조사·수정 위임). 기존 Codex CLI 인증·설정 활용, 백그라운드 작업 관리
     * [Codex in Claude Code 사용해보기 | reach_vb on X](https://x.com/reach_vb/status/2038671858862583967)
+    * [⚡ Codex 가 Claude Code 안으로 들어왔습니다 | Jeongmin Lee | LinkedIn](https://www.linkedin.com/posts/jyoung105_codex-%EA%B0%80-claude-code-%EC%95%88%EC%9C%BC%EB%A1%9C-%EB%93%A4%EC%96%B4%EC%99%94%EC%8A%B5%EB%8B%88%EB%8B%A4-%EC%98%A4%EB%8A%98%EC%9D%98-%EB%B0%98%EC%A0%84%EC%9D%80-ugcPost-7444524721741832192--UeA)
+      * Anthropic이 Computer Use를 발표한 같은 날 OpenAI가 Codex를 Claude Code 플러그인으로 공개한 반전—"경쟁사 에이전트 안에 자기 에이전트를 심다니, 사실상 anthropic-use"라는 촌평. `/plugin marketplace add openai/codex-plugin-cc` 3줄 설치
   * [codex-mcp-server: MCP server wrapper for OpenAI Codex CLI](https://docs.tuannvm.com/)
     * [codex-mcp-server](https://github.com/tuannvm/codex-mcp-server)
     * Claude Code에서 Codex의 AI 기능을 MCP 프로토콜로 직접 활용
@@ -6967,6 +6990,8 @@ Artificial Intelligence
   * MCP 서버가 바운디드 태스크를 저렴한 LLM(LM Studio, Ollama, vLLM, DeepSeek, Groq, Cerebras)에 위임해 Claude Code 토큰 절감
 * [Humanize KR: Claude Code skill for removing AI writing traces from Korean text](https://github.com/epoko77-ai/im-not-ai)
   * [I'm Not AI](https://imnotai.kr/)
+  * [한글로 글을 쓰면 빠지는 함정, '번역투'를 정면으로 파고든 오픈소스 | beseeyong | LinkedIn](https://www.linkedin.com/posts/beseeyong_chatgpt%EB%93%A0-claude%EB%93%A0-gemini%EB%93%A0-%ED%95%9C%EA%B8%80%EB%A1%9C-%EA%B8%80%EC%9D%84-%EC%93%B0%EB%A9%B4-%EB%B9%A0%EC%A7%80%EB%8A%94-%ED%95%A8%EC%A0%95%EC%9D%B4-share-7466016740741771264-ANiQ/)
+    * 출시 한 달 만에 1.3k stars를 넘긴 반응 소개와 교정 예시—"강한 경쟁력을 가지고 있다"→"경쟁력이 강하다", "AI에 의해 생성된 이미지"→"AI가 만든 이미지", "논의할 필요가 있다"→"논의해야 한다"
   * [왜 AI 로 쓴 글을 한번에 알아볼 수 있는가? AI가 쓴 티 지우는 방법 - YouTube](https://www.youtube.com/watch?v=KMwAvsDRxVk)
     * 오늘코드todaycode. AI 글을 한눈에 알아보는 이유(번역투·기계적 병렬 구조 등 71가지 AI 티)와 im-not-ai 스킬로 지우는 방법. AI 생성 한국어 텍스트 탐지 연구 KatFishNet도 소개
   * 한글 AI 티 제거기. 번역투, 기계적 구조, AI 특유 표현 검출·재작성. 10개 주요 카테고리 40+ 하위 패턴, 심각도별 분류
@@ -7002,6 +7027,9 @@ Artificial Intelligence
 * [LazyCodex — Codex agent harness for complex codebases](https://lazycodex.ai/)
   * [code-yeongyu/lazycodex](https://github.com/code-yeongyu/lazycodex)
   * Codex 안에 OmO 에이전트 하네스를 설치. 프로젝트 메모리·계획·병렬 에이전트·스킬·훅·라우팅·검증된 완료(verified completion)를 복잡한 코드베이스에 제공. TypeScript, MIT
+* [LeanMCP AI Gateway — See What Your AI Agents Are Really Doing](https://www.leanmcp.com/ai-gateway)
+  * [superview.sh: See your claude code logs in clear details in your dashboard | Leanmcp](https://github.com/Leanmcp/superview.sh)
+  * Cursor·Cline·Windsurf·Claude Code·OpenCode·OpenClaw의 모든 LLM 요청을 모니터링하는 게이트웨이—**시크릿이 밖으로 나가기 전에 잡고**, 에이전트별 비용을 통제하며 팀의 AI 사용 전체를 가시화. superview.sh는 Claude Code 로그를 대시보드로 보는 오픈소스 도구(Shell, MIT, 2.1k stars)
 * [LogTape - Unobtrusive logging library with zero dependencies, library-first design for Deno, Node.js, Bun, browsers, and edge functions](https://logtape.org/)
 * [Loupe — AI가 짠 코드를 배포 전에 검증한다](http://theloupe.dev/)
   * AI 코드의 진짜 위험은 멈추는 버그가 아니라 맞아 보이는데 조용히 틀린 한 줄이라는 관점. 배포 전에 그런 코드를 잡아내는 눈을 기르는 연습 서비스(가입 없이 한 문제)
@@ -7344,6 +7372,10 @@ Artificial Intelligence
   * 개발·디자인·회계·영업·마케팅·세무를 자동화하는 6명의 AI 직원으로 비즈니스 전체를 운영하는 자기 개선형 AI 플랫폼. 200+ AI 모델 지원, 로컬 실행. Python, 857 stars
 * [OpenCove: Infinite canvas for Claude Code, Codex, terminals, tasks, and notes](https://github.com/DeadWaveWave/opencove)
 * [OpenDocs: Convert GitHub READMEs, Markdown, Jupyter Notebooks into professionally formatted docs](https://github.com/ioteverythin/OpenDocs)
+* [OpenMinis — The AI Agent app across platforms. Fully free and open source](https://openminis.app/)
+  * [OpenMinis: The AI Agent app across platforms](https://github.com/OpenMinis/OpenMinis)
+  * [이제 AI가 스마트폰을 직접 씁니다… '오픈미니스' 최초 공개 | 코난쌤 - YouTube](https://www.youtube.com/watch?v=_V5H_e3530A)
+  * 크로스플랫폼 무료 오픈소스 AI 에이전트 앱—코난쌤 영상(25분)은 아이폰에서 설치·ChatGPT 연동, 카카오톡 실행 자동화, 사진첩 분석·중복 사진 정리, HWPX·PPT 문서 생성, 온디바이스 로컬 모델·Apple Foundation 연결, 네이버 검색·이미지 생성 브라우저 자동화까지 시연. Swift, GPL-3.0, 4.7k stars
 * [OpenMontage: World's First Open-Source, Agentic Video Production System](https://github.com/calesthio/OpenMontage)
   * AI 코딩 어시스턴트를 영상 제작 스튜디오로 전환. 11개 프로덕션 파이프라인, 49개 도구, 400+ 에이전트 스킬. 리서치→편집→합성 자동화. Claude Code/Cursor/Copilot 지원
 * [OpenMythos: Open-source reverse-engineered Claude Mythos architecture](https://github.com/kyegomez/OpenMythos)
@@ -7779,6 +7811,9 @@ Artificial Intelligence
   * [Vector database - Milvus](https://milvus.io/)
   * [Milvus: A big leap to scalable AI search engine - Data Science Central](https://www.datasciencecentral.com/profiles/blogs/milvus-a-big-leap-to-scalable-ai-search-engine)
   * [그 많던 벡터는 다 어디로 갔을까? Milvus 활용기 – The Highlights – 라이너 팀 블로그](https://blog.getliner.com/milvus-usage/)
+* [MyScale | Run Vector Search with SQL](https://www.myscale.com/)
+  * [Myvector: high-performance vector search and full-text search | 0xSojalSec](https://github.com/0xSojalSec/Myvector)
+  * 벡터 검색과 SQL 분석을 융합한 관리형 AI 데이터베이스—대규모 멀티모달 벡터 데이터셋을 SQL로 다룸. Myvector는 그 오픈소스(MyScaleDB) 포크. Apache-2.0
 * NVIDIA [Deep Learning Online Courses | NVIDIA](https://www.nvidia.com/en-us/training/online/#free-courses)
   * [Nvidia가 개설한 무료 AI 강좌들 | GeekNews](https://news.hada.io/topic?id=14007)
 * Pinecone [Vector Database for Vector Search | Pinecone](https://www.pinecone.io/)
