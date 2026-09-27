@@ -51,13 +51,20 @@ Robot
   * KRAIN 2026(2026-09-11, 서울) 시연 사례. VLA 모델 기반 SO-101 로봇팔을 GPU 서버가 아니라 손바닥 크기 보드의 NPU(퀄컴 Dragonwing IQ-9075)로 구동—관람객이 고른 색의 큐브만 집어 옮기는 라이브 데모. 추론 1.6초를 230ms로 줄인 엣지 NPU 최적화 과정
 * [Everything is LLM - Vibe coding a robot task - YouTube](https://www.youtube.com/watch?v=OIw6zY_AQOg)
   * sentdex. XGO Mini2 4족 보행 로봇의 태스크를 LLM으로 바이브 코딩하는 실험—"모든 것이 LLM이 되는" 흐름에서 로봇 제어까지 자연어로 시도
+* [GLM 5.3 Flash Doing all High Level Robot Control - Everything is LLM P.2 | sentdex - YouTube](https://www.youtube.com/watch?v=g8WjRGi8o6w)
+  * 위 'Everything is LLM' 실험의 2편(55분)—XGO 로봇의 객체 인식과 모든 상위 제어 로직을 GLM 5.3 Flash의 함수 호출로 처리
 * [GPT-6 Astra on robotic manipulation | Inspect Robots](https://openai.robocurve.org/gpt-6-astra/)
   * 같은 YAM 로봇 팔·같은 Inspect Robots 에이전트 정책·같은 두 과제로 GPT-6 Astra와 Claude Fable 5.1을 interleaved blinded 쌍으로 비교(각 20 시행, 사람 채점자가 0~4단계 최고 도달 단계로 채점해 실패해도 얼마나 갔는지 기록). 블록을 그릇에 넣는 과제는 Astra 19/20 vs Fable 5.1 8/20 vs Fable 5 1/20, 시행당 2.5분 vs 6.8분, 추정 비용 $0.94 vs $2.12—완수율 2.4배·비용 2.3배 우위에 출력 토큰은 80% 적음
   * 반면 퍼즐 조각을 홈에 끼우는 과제는 Astra 2/20 vs Fable 5.1 2/20으로 동일하고, Astra도 Fable과 똑같이 홈까지 도달한 뒤 마지막 삽입 단계에서 멈춤($1.36 vs $2.18). 모델이 좋아져도 정밀 삽입 같은 특정 병목은 그대로 남는다는 것을 같은 하네스·같은 채점 기준에서 보여주는 사례. Claude Fable 5 vs 5.1 비교 보고서의 후속
 * [로보틱스: 아주 기초적인 것부터](https://turingpost.co.kr/p/inside-robotics)
   * [Robot Learning: A Tutorial - a Hugging Face Space by lerobot](https://huggingface.co/spaces/lerobot/robot-learning-tutorial)
+* [14 Reasons Robotics is Hard | Second Thoughts](https://secondthoughts.ai/p/14-reasons-robotics-is-hard)
+  * "데모 영상은 무시하라"—로보틱스가 어려운 14가지 이유 정리
 * [커넥티드카, 플랫폼 만든 이야기 - Physical AI에 대한 짧은 생각 | greypencil](https://greypencil.tistory.com/282)
   * 스마트카 서버 기술(임베디드+서버)을 만들다 퇴사한 개발자의 회고—이 기술이 로봇·다크 팩토리에도 쓰인다는 관찰과 함께, IoT는 한물간 게 아니라 **온디바이스 AI의 전제 인프라로 2차 진화 중**이라는 시사점 정리
+* [2607.10350 ABot-AgentOS: A General Robotic Agent OS with Lifelong Multi-modal Memory](https://arxiv.org/html/2607.10350v3)
+  * [ABot-AgentOS: Operating System for Robotic Agents | AI Research Roundup - YouTube](https://www.youtube.com/watch?v=zqQMfPXjp28)
+  * VLM·VLA가 인지·행동 예측을 개선했어도 장기 과제 수행 에이전트에는 추론·기억·도구 사용·검증·크로스 임바디먼트 실행을 관장하는 **범용 런타임 계층**이 필요하다는 문제의식—평생 멀티모달 메모리를 갖춘 로봇 에이전트 OS 제안(해설 영상 4분)
 * [Bessemer Predicts: Robotics and physical AI](https://www.bvp.com/atlas/bessemer-predicts-robotics-and-physical-ai)
   * [로보틱스 및 피지컬 AI 예측: 2026년의 6가지 투자 전망 | GeekNews](https://news.hada.io/topic?id=28932)
   * 로보틱스 현재 GPT-2.5 수준. Goldman Sachs 2035년 380억 달러 시장 전망도 Bessemer는 보수적 판단. 로보틱스 데이터 비용 2년간 30억 달러+
@@ -101,6 +108,8 @@ Robot
   * ROBOTIS의 오픈 휴머노이드 프로젝트. 개발 환경과 소스코드를 모두 오픈소스로 공개. 38도 폭염의 서울 한강변에서 불규칙한 야외 노면을 달린 Sim2Real 러닝 테스트 현장 영상. C++, Apache-2.0
 * [autoware: Autoware - the world's leading open-source software project for autonomous driving](https://github.com/autowarefoundation/autoware)
   * 자율주행 오픈소스 소프트웨어 프로젝트
+* [awesome-vla-wam: A Curated List of Vision-Language-Action (VLA) and World Action Models (WAM) Research and Beyond | DravenALG](https://github.com/DravenALG/awesome-vla-wam)
+  * VLA·월드 액션 모델(WAM) 연구 큐레이션. 1k stars
 * [dimos: Agentic operating system for physical space — program humanoids, quadrupeds, drones with natural language](https://github.com/dimensionalOS/dimos)
   * ROS 불필요. 자연어+Python으로 로봇 프로그래밍, SLAM 네비게이션, 다중 에이전트, MCP 인터페이스
 * [FarmBot | Open-Source CNC Farming](https://farm.bot/)
@@ -115,6 +124,8 @@ Robot
   * [Oomwoo - 직접 만드는 오픈소스 로봇 청소기 | GeekNews](https://news.hada.io/topic?id=31060)
   * 메이커용 DIY 로봇 청소기. 2D LiDAR 매핑·자율 주행, ROS 2·Home Assistant 연동, 클라우드 없는 로컬 우선, 3D 프린팅 부품. Raspberry Pi + 부품 $100~200으로 $500~600급 상용 청소기 목표
 * [Robocode Home](https://robocode.sourceforge.io/)
+* [RoboOS: A Universal Embodied Operating System for Cross-Embodied and Multi-Robot Collaboration | FlagOpen](https://github.com/FlagOpen/RoboOS)
+  * BAAI FlagOpen의 크로스 임바디먼트·멀티 로봇 협업용 임바디드 OS. Python, Apache-2.0, 626 stars
 * [로봇 아틀라스 — 생각에서, 움직임으로](https://robot-atlas.whchoi.net/)
   * [로봇 아틀라스 워크숍](https://robot-atlas.whchoi.net/workshop/)
   * 자연어로 로봇 팔에 작업을 지시하고 결과를 3D로 확인하는 Physical AI 실습 에셋. MuJoCo·NVIDIA Isaac Sim을 선택해 물건 옮기기·쌓기·정밀 배치 등 9가지 시연, Amazon Bedrock AgentCore 기반 작업 계획과 AWS 실행 환경 연결. 워크숍은 시뮬레이션 구성→클라우드 배포→EKS Spot 중단 대비 작업 복구까지 단계별 실습
@@ -125,6 +136,8 @@ Robot
   * NVIDIA Labs. 짧은 실세계 영상 하나를 1시간 이내에 물리 시뮬레이션 씬으로 변환—수동 주석 없이 모든 물체를 자동 분할, 지오메트리 재구성, 텍스처 3D 메시 생성 후 물리 파라미터·digital cousin 변형·태스크 제안까지 포함한 OmniGibson 씬으로 컴파일. Python, Apache-2.0
 * [soma-retargeter: SOMA BVH to humanoid robot motion retargeting library built with Newton and NVIDIA Warp](https://github.com/nvidia/soma-retargeter)
   * SOMA 스켈레톤 BVH 파일의 사람 동작을 휴머노이드 로봇의 관절 애니메이션으로 변환—결과를 CSV로 내보내 검사·비교하거나 로봇 제어·시뮬레이션 도구에 전달. NVIDIA, Newton·Warp 기반. Python, Apache-2.0, 612 stars
+* [spectacles-dimensional-os: Snap Spectacles AR integration with Dimensional OS — controller for Unitree GO2 and G1 robots | v4c38](https://github.com/v4c38/spectacles-dimensional-os)
+  * Snap Spectacles AR 안경으로 Unitree GO2(4족)·G1(휴머노이드) 로봇을 제어하는 Dimensional OS 연동. TypeScript, MIT
 * [uoais: Codes of paper "Unseen Object Amodal Instance Segmentation via Hierarchical Occlusion Modeling", ICRA 2022](https://github.com/gist-ailab/uoais)
   * [학습하지 않은 물체 인식하는 '로봇 시각 인공지능'... 지스트 이규빈 교수팀, 오픈소스로 공개 < 이미지 < AI Tech < 기사본문 - 인공지능신문](http://www.aitimes.kr/news/articleView.html?idxno=24251)
 
