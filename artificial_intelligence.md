@@ -6306,6 +6306,8 @@ Artificial Intelligence
     * 플로우차트·아키텍처·타임라인·시퀀스 등 29종 에디토리얼 다이어그램을 자체 완결형 HTML+SVG로 생성하는 Claude Code 스킬. 프로젝트의 기존 색상·폰트를 분석해 서비스 디자인 스타일에 맞춰 구성. 17.6k stars
     * [Diagram Design 프로젝트 페이지](https://cathrynlavery.github.io/diagram-design/)
     * [Diagram Design - AI가 만드는 다이어그램에 디자인 규칙을 더하는 스킬 | GeekNews](https://news.hada.io/topic?id=33664)
+    * [One Claude Code Skill Makes 40+ Kinds of Diagrams ! | TechyTacos - YouTube](https://www.youtube.com/watch?v=7_fUhHCa70U)
+      * 7분 데모—아키텍처·ER·타임라인·조직도 등 40+ 다이어그램 생성과 기존 draw.io/Mermaid/Excalidraw 파일의 동일 스타일 변환 시연
     * 아키텍처·플로차트·시퀀스·Sankey·피시본·Wardley map·칸반·UML 클래스·DB 스키마 등 39개 에디토리얼 다이어그램 타입을 자체 완결형 HTML+SVG로 생성하는 에이전트 스킬(Claude Code·Codex·Factory Droid·Pi). 웹사이트를 읽어 60초 만에 브랜드 매칭, 시맨틱 패턴으로 레이아웃과 동작 분리, draw.io/Mermaid 소스를 지정 포맷·크기·상세도로 재작도. "액센트 색은 독자가 먼저 봐야 할 1~2곳에만" 절제 원칙. AWS 특화 변형인 masangbeom/aws-diagram-design의 원본. HTML, MIT, 29.4k stars
   * [eli5: A Claude Code skill that explains anything to anyone: kids, managers, engineers, parents](https://github.com/dreambigou/eli5)
     * [Building an ELI5 skill for Claude | Andrew Ou](https://andrewou.pages.dev/posts/building-an-eli5-skill-for-claude/)
@@ -7012,6 +7014,8 @@ Artificial Intelligence
 * [Gas Town: Multi-agent orchestration with persistent work tracking](https://github.com/gastownhall/gastown)
   * [Gas Town: 에이전트는 소멸해도 작업은 소멸하면 안 된다](https://digitalbourgeois.tistory.com/3020)
   * 20-30+ AI 에이전트 동시 조율. Git worktree+Beads 원장 기반 영속 상태, Mayor(코디네이터), Convoy(작업 번들), Refinery(머지 큐), 3단계 감시 시스템. Go 94.8%
+* [GeneralStaff: Open-source local-first dispatcher for AI coding agents. Verification-gated, BYOK, rolls back on test failures | lerugray](https://github.com/lerugray/generalstaff)
+  * 에이전트의 "완료" 보고를 그대로 믿지 않는 검증 게이트—매 사이클 테스트 통과·비어있지 않은 diff·별도 리뷰어 AI의 스코프 일치 확인을 코드로 강제하고 실패 시 롤백, 전 과정을 PROGRESS.jsonl 감사 로그로 기록. 코딩 배경 없는 게임 디자이너가 AI 지시만으로 만든 프로젝트. TypeScript, AGPL-3.0
 * [grok-build: SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible](https://github.com/xai-org/grok-build)
   * [Grok Build 오픈소스 공개, 터미널 기반 AI 코딩 에이전트의 구조와 특징 | digitalbourgeois](https://digitalbourgeois.tistory.com/3380)
   * [🆓 SpaceXAI Grok Build, 84만 줄 Rust 오픈소스 AI 코딩 에이전트 완벽 가이드 | fornewchallenge](https://fornewchallenge.tistory.com/entry/%F0%9F%86%93-SpaceXAI-Grok-Build-84%EB%A7%8C-%EC%A4%84-Rust-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-AI-%EC%BD%94%EB%94%A9-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EC%99%84%EB%B2%BD-%EA%B0%80%EC%9D%B4%EB%93%9C)
