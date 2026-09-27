@@ -577,6 +577,8 @@ Artificial Intelligence
 * [비즈니스를 위한 통화 요약 솔루션 비교 - B2B Sales 블로그, Callabo](https://callabo.ai/blog/business-sales-call-summary-solution-comparison)
 * [MCP·RAG·AI 에이전트 핵심 개념 한 장 정리 | Ravena O | LinkedIn](https://www.linkedin.com/posts/ravena-o_ai-aiagents-mcp-activity-7503301602590474240-9saz)
   * 헷갈리기 쉬운 용어들의 역할 구분—MCP는 AI가 도구·시스템(API·DB·GitHub·Slack·Gmail)에 연결되는 표준 인터페이스(연결 계층), RAG는 AI가 올바른 정보를 가져오는 방법. 애플리케이션마다 커스텀 통합을 만드는 대신 표준화된 인터페이스를 쓴다는 관점의 입문용 카드
+* [AI Agents in Practice • Henrik Kniberg • GOTO 2025 - YouTube](https://www.youtube.com/watch?v=R7Dv2h3tYCU)
+  * 「Scrum and XP from the Trenches」로 유명한 Henrik Kniberg(현 Abundly.AI 공동창업자)의 40분 발표—실전에서의 AI 에이전트
 * [Building effective agents \ Anthropic](https://www.anthropic.com/research/building-effective-agents)
   * [효과적인 "Agents" 구축 방법 | GeekNews](https://news.hada.io/topic?id=18376)
   * [Agents에 대한 모든 기초 설명 - YouTube](https://www.youtube.com/watch?v=HujQhD8J2LQ)
@@ -2041,16 +2043,6 @@ Artificial Intelligence
 * [출근하면 코드부터 짜던 개발자가 이제 봇부터 켭니다 | 요즘IT](https://yozm.wishket.com/magazine/detail/3906)
   * 하네스 엔지니어링 기반으로 직접 코드를 쓰던 방식에서 AI 봇(Anvil)에게 작업을 위임하는 방식으로 전환한 실무 기록. 봇 결과를 신뢰할 수 있는 이유는 자동 린트 검사·위험 명령 차단·정책 문서 기반 판단 같은 기술적 게이트가 모든 변경을 검증하기 때문
   * 개발자의 시간이 구현에서 정책 명시화·요구사항 문서화로 이동하고, 비개발자도 봇을 통해 개발 작업을 진행할 수 있게 됨
-* [How to Build a Software Factory for AI Coding Agents - YouTube](https://www.youtube.com/watch?v=tGbjIvvYuHE)
-  * Boundary 'AI That Works', Dex·Vaibhav 대담(71분). AI 에이전트가 사람 개입을 줄이며 코드를 쓰고 테스트·리뷰·배포까지 하는 '소프트웨어 팩토리' 아키텍처—전체 스택 자체 구축 vs 완전 관리형 구매(build vs buy) 판단, 개발 환경·코딩 하네스·컨트롤 플레인 계층 구분
-  * 내부/외부 하네스 구성, 에이전트 기반 머지 큐, 작업을 적절한 머신에 디스패치하기, 사용자 리포트에서 피드백 루프 자동화, 이슈 트리아지 eval 구축, 모델 전환의 숨은 비용, 에이전트 환경을 pets vs cattle로 관리하기, 가장 미개척 계층인 컨트롤 플레인
-* [AI Software Factories Are the Next Big Thing (And I'm Building You One) - YouTube](https://www.youtube.com/watch?v=DcLj_SO8JNk)
-  * Cole Medin. AI 소프트웨어 팩토리는 AI 코딩의 최종 진화형—PRD 투입 → 태스크 분할 → 중간에 아무도 코드를 보지 않고 배포된 코드가 나옴. 1년간 실험으로 AI 튜터 Dynachat을 코드 한 줄 안 읽고 구축, 누구나 자기 프로젝트에 적용할 수 있는 오픈소스 버전 제작 중
-* [Running a Software Factory Efficiently at Uber Scale | Uber Blog](https://www.uber.com/us/en/blog/efficient-software-factory/)
-  * [Agentic SDLC at Uber — Uday Kiran Medisetty & Adam Huda, Uber | AI Engineer 2026](https://www.youtube.com/watch?v=17-YSUHo6Lk)
-  * [PR 10개 중 7개를 에이전트가 쓰는 우버 팀에게 배울 것 | 요즘IT](https://yozm.wishket.com/magazine/detail/3938)
-    * 비용을 여섯 항의 방정식으로 쪼개고, 자기 업무 벤치마크로 모델을 고르고, 상한 대신 가시성으로 낭비를 막는 우버 소프트웨어 팩토리 운영법 한국어 정리
-  * Uber PR의 70%+가 로컬/클라우드 에이전트 작성, 에이전트 스킬 3,600개·일 30K 스킬 실행. 코드 리뷰·CI 자가 치유·E2E PR 완성(시각 검증)·온콜 트리아지·버그 디버깅을 관리형 에이전트가 자동 시작. 2026년 2~8월 주간 활성 사용자 7배·에이전틱 요청 9.4배 성장에도 최적화로 총 AI 비용은 4월 이후 안정화
 * [Kimi K3 + GLM-5.3: Self-Improvement (RSI) Unlocked - YouTube](https://www.youtube.com/watch?v=-4tobA2vRIE)
   * Discover AI. RSIAgent 논문(Aether AI·UC 등) 해설—새로운 환경에서 자율 탐색으로 재귀적 자기개선(RSI)을 수행하는 에이전트를 Kimi K3·GLM-5.3으로 검증
 * [Mohamed Rashad - Building a production-ready agentic harness from scratch and scaling it - YouTube](https://www.youtube.com/watch?v=ZrO55sK3d2I)
@@ -2212,6 +2204,28 @@ Artificial Intelligence
 * [vulnerability-harness: Specialized LLM agents that confirm real vulnerabilities by executing a PoC in a Docker sandbox — per-file hunters, reviewer-verified, no flagship model required](https://github.com/ksgsslee/vulnerability-harness)
   * Mythos·프리뷰 모델 없이 Bedrock(또는 OpenAI 호환 엔드포인트)의 일반 모델(Sonnet·Opus 등)만으로 도메인·언어 무관하게 취약점을 찾는 방어용 하네스. 파일별 독립 헌터 세션이 각기 다른 취약점 렌즈(injection·SSRF·역직렬화·접근제어·경로탐색)로 검사하고, 단순 코드 분석을 넘어 PoC를 작성해 Docker 샌드박스에서 직접 실행—재현된 취약점만 리포트하며 Reviewer가 PoC 재실행으로 검증. Python, Apache-2.0
   * 잘 알려진 오픈소스 대상 전체 파일의 1~3%(30개 내외)만 돌려 공개 CVE 확보: Django(CVSS 8.8, SSRF/file write→RCE, 2026년 최고)·LangChain(8.2, 역직렬화, 2026년 최고)·Apache Shiro(8.2, 인증 우회)·authentik(9.4)·Keycloak(4.9), k8s(Go)·nginx(C/C++)는 CVE 발급 절차 진행 중. 접근 방식은 Security Agent 코드 스캐닝·Continuum과 유사—커스터마이징이 필요하면 이 하네스, 매니지드를 원하면 해당 서비스로 연결하는 식으로 활용
+
+## Software Factory
+* [AI Software Factories Are the Next Big Thing (And I'm Building You One) - YouTube](https://www.youtube.com/watch?v=DcLj_SO8JNk)
+  * Cole Medin. AI 소프트웨어 팩토리는 AI 코딩의 최종 진화형—PRD 투입 → 태스크 분할 → 중간에 아무도 코드를 보지 않고 배포된 코드가 나옴. 1년간 실험으로 AI 튜터 Dynachat을 코드 한 줄 안 읽고 구축, 누구나 자기 프로젝트에 적용할 수 있는 오픈소스 버전 제작 중
+* [OpenClaw로 만든 멀티 에이전트 Shorts Factory 운영기 | Yong Hyeok Rhee](https://yonghyeokrhee.github.io/2026/04/06/openclaw-shorts-factory-agent-architecture/)
+  * 소프트웨어가 아닌 콘텐츠에 적용한 팩토리—OpenClaw 위에서 YouTube Shorts 제작→업로드→성과 분석→리메이크까지 반복하는 멀티 에이전트 운영 구조 정리
+* [How to Build a Software Factory for AI Coding Agents - YouTube](https://www.youtube.com/watch?v=tGbjIvvYuHE)
+  * Boundary 'AI That Works', Dex·Vaibhav 대담(71분). AI 에이전트가 사람 개입을 줄이며 코드를 쓰고 테스트·리뷰·배포까지 하는 '소프트웨어 팩토리' 아키텍처—전체 스택 자체 구축 vs 완전 관리형 구매(build vs buy) 판단, 개발 환경·코딩 하네스·컨트롤 플레인 계층 구분
+  * 내부/외부 하네스 구성, 에이전트 기반 머지 큐, 작업을 적절한 머신에 디스패치하기, 사용자 리포트에서 피드백 루프 자동화, 이슈 트리아지 eval 구축, 모델 전환의 숨은 비용, 에이전트 환경을 pets vs cattle로 관리하기, 가장 미개척 계층인 컨트롤 플레인
+* [Running a Software Factory Efficiently at Uber Scale | Uber Blog](https://www.uber.com/us/en/blog/efficient-software-factory/)
+  * [Agentic SDLC at Uber — Uday Kiran Medisetty & Adam Huda, Uber | AI Engineer 2026](https://www.youtube.com/watch?v=17-YSUHo6Lk)
+  * [PR 10개 중 7개를 에이전트가 쓰는 우버 팀에게 배울 것 | 요즘IT](https://yozm.wishket.com/magazine/detail/3938)
+    * 비용을 여섯 항의 방정식으로 쪼개고, 자기 업무 벤치마크로 모델을 고르고, 상한 대신 가시성으로 낭비를 막는 우버 소프트웨어 팩토리 운영법 한국어 정리
+  * Uber PR의 70%+가 로컬/클라우드 에이전트 작성, 에이전트 스킬 3,600개·일 30K 스킬 실행. 코드 리뷰·CI 자가 치유·E2E PR 완성(시각 검증)·온콜 트리아지·버그 디버깅을 관리형 에이전트가 자동 시작. 2026년 2~8월 주간 활성 사용자 7배·에이전틱 요청 9.4배 성장에도 최적화로 총 AI 비용은 4월 이후 안정화
+* [How StrongDM's AI team build serious software without even looking at the code | Simon Willison](https://simonwillison.net/2026/Feb/7/software-factory/)
+  * [어떻게 코드를 보지 않고도 뛰어난 소프트웨어를 개발하는가? | GeekNews](https://news.hada.io/topic?id=26573)
+  * Dan Shapiro가 'Dark Factory'라 부른 AI 도입 단계—**아무도 코드를 보지 않는** StrongDM 팀의 데모를 본 Simon Willison의 후기. 사양과 시나리오를 기반으로 에이전트가 코드를 쓰고 하네스를 돌리고 사람 검토 없이 결과를 통합하는 비대화형 소프트웨어 구축
+* [How we built a software factory to drive Astro's GitHub issue count to zero | Cloudflare](https://blog.cloudflare.com/astro-issue-triage/)
+  * [⚠️ AI가 만든 이슈 폭탄, 이제 AI '소프트웨어 팩토리'로 처리해야 할 시기 | Jeongmin Lee | LinkedIn](https://www.linkedin.com/posts/jyoung105_ai-%EA%B0%80-%EB%A7%8C%EB%93%A0-%EC%9D%B4%EC%8A%88-%ED%8F%AD%ED%83%84-%EC%9D%B4%EC%A0%9C-ai-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%ED%8C%A9%ED%86%A0%EB%A6%AC%EB%A1%9C-%EC%B2%98%EB%A6%AC%ED%95%B4%EC%95%BC-share-7509558501225017344-wHSN)
+  * AI로 이슈·PR 생성 비용은 0에 수렴했는데 읽고 재현하고 고치는 사람 비용은 그대로라는 메인테이너 번아웃 문제를, GitHub Actions 안의 격리된 AI 서브에이전트(자동 버그 재현·패치 검증·프리뷰 릴리스)로 해결—**수동 이슈 검증을 대체해 Astro 오픈 이슈 85% 감소**(200+→~30, 일괄 종료 없이). 출발점은 거창한 개발 자동화가 아니라 가장 소모적인 반복 업무인 이슈 트리아지 하나
+* [Ralph로 불리는 장시간 돌아가는 AI 사용법은 사실은 "Software Factory"입니다 | GB Jeong | LinkedIn](https://www.linkedin.com/posts/gb-jeong_ralph%EB%A1%9C-%EB%B6%88%EB%A6%AC%EB%8A%94-%EC%9E%A5%EC%8B%9C%EA%B0%84-%EB%8F%8C%EC%95%84%EA%B0%80%EB%8A%94-ai-%EC%82%AC%EC%9A%A9%EB%B2%95%EC%9D%80-%EC%82%AC%EC%8B%A4%EC%9D%80-software-activity-7436538747371888640--N5k)
+  * Ralph가 바이브코딩과 다른 이유—오래 도는 루프여서가 아니라 **운영 중인 소프트웨어에 외부 자극(새 기획·유저 피드백)이 오면 자동으로 개선되는 시스템**이라는 재정의. Geoffrey Huntley의 Latent Patterns 사례: 제품 안 designer mode로 제품이 제품을 만들고 Cursor Cloud Agent가 risk matrix를 보고 자동 배포, "I'm on the loop, not in the loop"
 
 # Artificial Neural Networks
 * [A Gentle Introduction to Artificial Neural Networks](https://theclevermachine.wordpress.com/2014/09/11/a-gentle-introduction-to-artificial-neural-networks/)
@@ -7199,6 +7213,7 @@ Artificial Intelligence
       * Termux로 루트/부트로더 해제 없이 Android를 Linux PC화. Ollama 로컬 모델, Claude Code, Google Antigravity, Cursor AI, Blender, 게임까지. OnePlus 6T 검증
     * [OpenClaudeLinux](https://github.com/AbuZar-Ansarii/OpenClaudeLinux)
     * [Termux | F-Droid - Free and Open Source Android App Repository](https://f-droid.org/en/packages/com.termux/)
+  * [OpenCraw: 자율 AI 에이전트의 새로운 지평 - Google Slides](https://docs.google.com/presentation/d/1d5MZuISimddBStcS76XPdzPb9jLNz1Okg6iY-WmJS9k/mobilepresent?slide=id.p1)
   * [alphaclaw: The ultimate setup harness for OpenClaw. Deploy in minutes. Stay running for months. No CLI required](https://github.com/chrysb/alphaclaw)
     * Node.js OpenClaw 래퍼. 셋업 위저드(비밀번호 보호 웹 대시보드, CLI 불필요), 자가 치유 watchdog(크래시·크래시루프 복구·Telegram/Discord/Slack 알림), Git 기반 롤백(시간당 자동 커밋), 브라우저 옵저버빌리티. Gateway Manager(OpenClaw 게이트웨이 자식 프로세스 관리·프록시), Google Workspace OAuth(Gmail/Calendar/Drive/Docs), 멀티 에이전트 채널 오케스트레이션, anti-drift 부트스트랩 프롬프트 주입, 파일 탐색기·cron·웹훅·노드 관리. Docker/Linux 5분 내 첫 배포 목표. 락인 없음(제거해도 OpenClaw 계속 동작). MIT, ~1.4k stars
   * [Apex — Your Digital Twin](https://apex.host/)
