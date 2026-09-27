@@ -34,6 +34,8 @@ Science
   * ‘Stereo-cell’이라 불리는 혁신적 단일세포 전사체 분석 기술을 개발
 * [김효경 - 현미경의 역사와 잊힌 관찰자들: 왜 로버트 훅만 기억되는가 | Facebook](https://www.facebook.com/hyokyung.kim.165/posts/pfbid0uNWdSnJZQ4jpruVNFXF8UDVF37ZJmeXoQLL6GsLv2qg9V5bt5RF5AK4QffdVuDyul)
   * 훅의 <마이크로그라피아>(1665)보다 21년 앞선 호디에르나 <파리의 눈>(1644), 1년 앞선 헨리 파워 <실험 철학>, 285배율로 세균까지 본 레이우엔훅은 왜 잊혔는가—관계망·영향력, '무엇을 봤나'만 적고 '어떻게 봤나'는 안 적은 차이, 왕립학회 실험 책임자라는 훅의 위치, <철학회보>(1665) 창간으로 "발표하지 않으면 없는 것"이라는 규칙 성립. 현미경은 망원경과 달리 물음이 없어 200년간 구경거리에 머물렀지만, 보이지 않는 것도 실재함을 확인 가능한 방식으로 보여준 첫 도구
+* [math-science-video-lectures: List of Science courses with video lectures | Developer-Y](https://github.com/Developer-Y/math-science-video-lectures)
+  * cs-video-courses 자매 목록—수학·물리·화학·생물 등 과학 대학 강의 중 영상 공개분 모음. 4.2k stars
 
 # AI
 * [초파리가 마인크래프트를 한다고? 뇌를 복제한 게 아닙니다, 훨씬 무서운 일이 벌어진 겁니다 | fruitspop | Facebook](https://www.facebook.com/fruitspop/posts/pfbid02K96Q5ks7YQkSrYMFT8uPnYHktgfRkrbFJi9futgMc9o8eAQJGMK8HyBns2Vb8qyNl)
