@@ -1890,6 +1890,8 @@ AWS
 * [cloudsploit - Open-source AWS security scanning Misconfigurations, open security groups, permissive IAM roles. Scan for these threats and more for free](https://cloudsploit.com/)
 
 # Lambda
+* [Beyond the Basics: Production Serverless Patterns for Extreme Scale • Janak Agarwal • GOTO Serverless 2025 - YouTube](https://www.youtube.com/watch?v=tKO29SA7CAU)
+* [How to Build Your Full-Stack Applications With CDK & AWS Amplify • Erik Hanchett • GOTO Serverless 2025 - YouTube](https://www.youtube.com/watch?v=fto4t3Vl7dE)
 * [AWS Lambda 기초부터 실전까지 - YouTube](https://www.youtube.com/watch?v=BcoekcPRKWc)
 * [Serverless - Digital and Classroom Training | AWS](https://aws.amazon.com/ko/training/learn-about/serverless/)
 * [Serverless patterns | Serverless Land](https://serverlessland.com/patterns)
