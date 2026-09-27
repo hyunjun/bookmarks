@@ -72,6 +72,9 @@ Government
   * 데이터 관리의 성공 요소 체크리스트—Data Quality(garbage in, garbage out), Data Security(암호화·접근 통제), MDM(단일 관점으로 중복 제거), Testing Data(의사결정 전 정확성 검증), Data Governance(사용·취급 규정의 투명화)
 * [A Chat with Andrew on MLOps: From Model-centric to Data-centric AI - YouTube](https://www.youtube.com/watch?v=06-AZXmwHjo)
   * [Week 35 - 모델 중심에서 데이터 중심의 AI 개발로](https://jiho-ml.com/weekly-nlp-35/)
+* [assembly-api-mcp: 국회 API들에 대한 MCP — 276개 국회 + 8개 국민참여입법센터 API 100% 접근 | hollobit](https://github.com/hollobit/assembly-api-mcp)
+  * [주경야코 #18. 국회 Open API의 MCP 버전을 assembly-api-mcp로 공개합니다 | 전종홍 | Facebook](https://www.facebook.com/1biit/posts/pfbid0kdofPAC31poDwggAxq81HgDsLTzpXdbfPz5oRwSAuzcXU3onzBmCV9wiyoZ5Udz8l)
+  * 대한민국 국회 Open API 276개+국민참여입법센터 8개를 MCP 서버로 제공—6개 Lite/10개 Full 프로필 도구, 검증된 API 코드 107개. Claude 등 MCP 클라이언트에서 국회 의안·의원·회의록 데이터 조회. TypeScript, MIT
 * [정부 데이터 API를 이용해서 가져오기 - YouTube](https://www.youtube.com/watch?v=eBV6tAfekyw)
 * [Google AI Blog: Training Machine Learning Models More Efficiently with Dataset Distillation](https://ai.googleblog.com/2021/12/training-machine-learning-models-more.html)
 * [Submodular Optimization for Minimizing Redundancy in Massive Data Sets | PyData Global 2021 - YouTube](https://www.youtube.com/watch?v=vJ3ErkmUpLU)
