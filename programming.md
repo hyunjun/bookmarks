@@ -2299,6 +2299,8 @@ Programming
   * Asynchronous Request and Reply, Command and Query Responsibility Segregation (CQRS), Event Sourcing, Retry, Circuit Breaker, Sidecar
 * [We turned off Pub/Sub and nobody noticed | incident.io](https://incident.io/blog/we-turned-off-pub-sub-and-nobody-noticed)
   * 이벤트 드리븐 플랫폼 전체가 단일 메시지 브로커(GCP Pub/Sub)를 지나는 단일 장애점이어서 두 번째 브로커를 추가한 이야기—이벤트 로드 밸런서 구축, 그 뒤의 큐잉 이론, 그리고 **프로덕션에서 Pub/Sub을 실제로 꺼 본 카오스 테스트**(아무도 눈치채지 못함)까지
+* [System design becomes easier when the vocabulary clicks — 30 system design concepts | Rocky Bhatia | LinkedIn](https://www.linkedin.com/posts/rocky-bhatia-a4801010_system-design-becomes-easier-when-the-vocabulary-share-7480581177498628096-ruqE/)
+  * 시스템 디자인이 어려운 건 개념이 불가능해서가 아니라 어휘가 안 잡혀서라는 관점—client-server·DNS·프록시·지연·캐싱·샤딩·복제·큐·게이트웨이·마이크로서비스 등 면접·아키텍처 논의·장애 대응에 반복 등장하는 30개 개념 카드
 * [You Keep Using That Word • Sam Newman • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=rZxIzrjvSGg) event driven, asynchronous, message queue
   * [VidiGo You Keep Using That Word • Sam Newman • GOTO 2023.](https://vidigo.ai/share/summary/38a45beea29d)
   * [그 단어를 계속 사용하는 당신 - 샘 뉴먼 - GOTO 2023 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/536409)
@@ -7108,6 +7110,8 @@ Programming
   * [(2) Software-as-a-Newspaper - by Eugene Ting - csu_nerd](https://csunerd.substack.com/p/software-as-a-newspaper)
   * [Microsoft and Software Survival – Stratechery by Ben Thompson](https://stratechery.com/2026/microsoft-and-software-survival/)
 * [멘토 Pick! 25년 4월 셋째 주 아티클 모음](https://f-lab.kr/blog/250421-devclub)
+* [10배 빨라진 TypeScript 7, Better Auth를 인수한 Vercel, Rust로 갈아탄 Bun | Dale Seo(달레) | LinkedIn](https://www.linkedin.com/pulse/10%EB%B0%B0-%EB%B9%A8%EB%9D%BC%EC%A7%84-typescript-7-better-auth%EB%A5%BC-%EC%9D%B8%EC%88%98%ED%95%9C-vercel-rust%EB%A1%9C-%EA%B0%88%EC%95%84%ED%83%84-dale-seo-%EB%8B%AC%EB%A0%88--xesrc)
+  * JS 생태계 주간 정리—TypeScript 7은 전체 도구를 Go로 다시 만들어 빌드 최대 12배 가속, Bun은 **AI 워크플로 약 50개를 돌려 53만 줄 Zig 코드를 11일 만에 Rust로 이행**, Vercel은 Better Auth를 인수해 에이전트마다 독립 신원·권한을 주는 Agent Auth로, OpenAI는 ChatGPT Work로 Claude Cowork가 연 업무 에이전트 경쟁 합류
 * 월간 개발자스럽다
   * [1801호](https://blog.gaerae.com/2018/01/monthly.html)
   * [1802호](https://blog.gaerae.com/2018/02/monthly.html)
