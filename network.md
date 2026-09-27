@@ -122,6 +122,8 @@ Network
 * [What would happen if we didn't use TCP or UDP?](https://github.com/Hawzen/hdp)
   * [TCP나 UDP를 사용하지 않으면 무슨 일이 일어날까? | GeekNews](https://news.hada.io/topic?id=19467)
 * [누군가 staging에서 “임시 NAT”를 설정할 때마다 어딘가에선 SRE가 눈물을 흘린다](https://www.linkedin.com/posts/victor-maltsev_devops-kubernetes-incidentresponse-activity-7354819741246451713-jVQB/)
+* [Network 모니터링과 마이크로버스트 | minseong](https://blog.minseong.xyz/2026/07/12/aidc-network-monitoring-microburst/)
+  * AI 데이터센터(AIDC) 네트워크에서 평균 지표에 안 잡히는 **마이크로버스트**(밀리초 단위 순간 폭주)와 그 모니터링을 다룬 글
 
 # Asynchronous
 * [동기 I/O 와 비동기 I/O 의 성능 차이 (부록: Node.js 는 좋을게 없다.)](http://hamait.tistory.com/839)
@@ -416,8 +418,11 @@ Network
 * [Nebula - a scalable overlay networking tool with a focus on performance, simplicity and security](https://github.com/slackhq/nebula)
   * [Introducing Nebula, the open source global overlay network from Slack](https://slack.engineering/introducing-nebula-the-open-source-global-overlay-network-from-slack-884110a5579)
   * [Nebula, 슬랙이 공개한 Global Overlay Network 오픈소스 | GeekNews](https://news.hada.io/topic?id=940)
+* [NetScan-Pro: An interactive Bash-based network scanning tool — live host discovery, port scanning | niladri-1](https://github.com/niladri-1/NetScan-Pro)
+  * 라이브 호스트 발견·포트 스캔을 제공하는 인터랙티브 Bash 네트워크 스캐너. Shell
 * [nettop: Utility to show network traffic (both TCP and UDP v4 and v6) split by process and remote host](https://github.com/Emanem/nettop)
 * [network-fundamentals-lab: Hands-on network troubleshooting labs — break, observe, and fix core TCP/IP concepts using containerlab](https://github.com/gnu-gnu/network-fundamentals-lab)
+  * [GitHub - gnu-gnu/network-fundamentals-lab 공유 | 심근우 | LinkedIn](https://www.linkedin.com/posts/gnu-shim_github-gnu-gnunetwork-fundamentals-lab-share-7483304706904154112-OEmZ/)
   * [이전에 올렸던 네트워크 기본기 스터디 GitHub Repository | 심근우](https://www.linkedin.com/posts/gnu-shim_%EC%9D%B4%EC%A0%84%EC%97%90-%EC%98%AC%EB%A0%B8%EB%8D%98-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EA%B8%B0%EB%B3%B8%EA%B8%B0-%EC%8A%A4%ED%84%B0%EB%94%94-github-repository-share-7494716912300589057-hWUe/)
   * TCP/IP 기본 원리 하나를 잡고 그 개념이 깨졌을 때 나는 장애를 직접 재현→관찰→수정하며 체득하는 실습 시리즈. 클라우드 특정 기능이 아닌 벤더 중립 기본기(AWS·K8s는 실무 사례로만 인용). 각 편은 개념 한 장→토폴로지→재현(고장이 기본값)→`tcpdump`/`traceroute`/`ip`로 관찰→원인→한 줄 수정→교훈 순서
   * containerlab + `nicolaka/netshoot`(동적 라우팅 편만 FRR). 편당 폴더 하나에 `*.clab.yml`+README+`fix.sh`+`WALKTHROUGH.md`(모범 답안—의도→실측 결과→해석). macOS는 `clab.sh` 래퍼로 containerlab을 컨테이너로 띄워 실행, EC2 실습 호스트 구성도 제공. `walkthrough.html` 웹 뷰어
