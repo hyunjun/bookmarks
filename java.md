@@ -660,6 +660,8 @@ Java
 * [Concurrency - Part 4 - Curiosity into `Code`](https://moham.dev/java/Concurrency%20-%20Part%204/)
 * [Java Concurrency Evolution](https://hackmd.io/@HomoEfficio/H1V21v4K-l)
   * Java 동시성 진화 과정: Thread → ExecutorService → Fork/Join → CompletableFuture → Reactive → Project Loom Virtual Threads 비교
+* [Modern Concurrency in Java • Bazlur Rahman & Michael Redlich • GOTO 2026 - YouTube](https://www.youtube.com/watch?v=8G8jeAUYLAQ)
+  * 「Modern Concurrency in Java」 저자의 34분 대담—가상 스레드 이후의 자바 동시성
 
 ## Concurrency Parallel Thread Akka
 * [AKKA.JAVA](http://wiki.webnori.com/display/AKKA/AKKA.JAVA)
