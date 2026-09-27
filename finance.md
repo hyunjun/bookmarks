@@ -313,6 +313,8 @@ Finance
   * 토스증권 Open API+Slack을 AI 에이전트(Claude 등)와 연동해 VCP(변동성 축소 패턴) 기반 자동매매 구축. 발굴 종목을 Slack으로 알리고 Approve/Reject 버튼으로 최종 주문 제어하는 Human-in-the-Loop. 모의투자 모드(TOSS_BOT_DRY_RUN=true) 기본
 * [KB증권 Open API로 나만의 주식투자 환경 구축해보기 | API 알려주는 누나 - YouTube](https://www.youtube.com/watch?v=cVpqVDmOYsI)
   * 깨비증권 마블TV. KB증권이 출시한 Open API 소개와 실전 활용—API 개념, 활용 사례(자동매매·퀀트·AI비서·잔고 조회), API key 신청, 문서 확인, GPT/Claude로 코딩 몰라도 시세조회·매수/매도하는 나만의 앱 만들기까지 5파트 구성
+* [StockPilot · 자동매매 전략 노트 · 작동 원리 편 — Cloud Scheduler · Cloud Run · Firestore로 만든 자동매매 시스템 | 골든시그널](https://blog.naver.com/goldensignal_/224423409797)
+  * 실제 운영 중인 서버·스케줄 설정 기준(2026-09-26)의 자동매매 백엔드 해부—**Cloud Scheduler(알람시계)가 평일 장중 5분봉이 완성될 때마다 Cloud Run(두뇌)을 깨우고, Cloud Run은 Firestore(창고)에서 보유 종목·매매 기록을 꺼내 매수·매도를 판단한 뒤 결과를 저장하고 다시 잠드는** 구조. 서버를 24시간 켜 두지 않아 유지비가 거의 없음. 실계좌가 아닌 모의투자(페이퍼 트레이딩)로 운용 중임을 명시, 용어 사전 포함 입문자용 10분 글
 * [Show GN 여러 주식 및 경제지표 비교 사이트 | GeekNews](https://news.hada.io/topic?id=26813)
   * 비개발자가 AI 도움으로 만든 주식·경제 지표 비교 차트 사이트. 여러 종목의 수익률·가격 추이를 기간별로 복잡한 설정 없이 비교
 * [I Built an AI Finance Team That Runs Itself With Claude (Full Tutorial) - YouTube](https://www.youtube.com/watch?v=MvUYORJpDSc)
@@ -341,6 +343,8 @@ Finance
   * [AgenticTrading: Agentic Trading Lab](https://github.com/Open-Finance-Lab/AgenticTrading)
   * [Agentic Trading Lab, LLM 기반 트레이딩 에이전트를 직접 실험하고 검증하는 오픈소스 플랫폼 | digitalbourgeois](https://digitalbourgeois.tistory.com/3599)
   * Open-Finance-Lab. LLM 기반 트레이딩 에이전트를 직접 실험·검증하는 오픈소스 플랫폼. Python, 639 stars
+* [Alpha Arena | AI Trading Benchmark — nof1.ai](https://nof1.ai/)
+  * AI 모델들이 **실제 시장에서 실시간으로 트레이딩하며 경쟁하는 라이브 벤치마크**—리더보드로 모델별 성과를 공개(TSLA·NDX·NVDA·MSFT 등 종목 티커 실시간 표시)
 * [anthropic-quickstarts/financial-data-analyst at main · anthropics/anthropic-quickstarts](https://github.com/anthropics/anthropic-quickstarts/tree/main/financial-data-analyst)
   * [@aicoffeechat • Anthropic, 금융 전문가 'Quick Start' 공개 여러분, Anthropic에서 정말 흥미진진?... • Threads](https://www.threads.net/@aicoffeechat/post/DBRdapBT_kr)
 * [AutoHedge: Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution](https://github.com/The-Swarm-Corporation/AutoHedge)
@@ -421,6 +425,10 @@ Finance
 * [TradingAgents: Multi-agent LLM trading framework mirroring real-world trading firms](https://github.com/TauricResearch/TradingAgents)
   * [TradingAgents | Tauric Research](https://tauric.ai/research/tradingagents/)
   * [TradingAgents 사용법 — LLM 9명이 주식 분석·매매 결정하는 멀티에이전트 오픈소스](https://jkf87.github.io/tradingagents-multi-agent-trading-llm-2026-04-28)
+  * [2412.20138 TradingAgents: Multi-Agents LLM Financial Trading Framework](https://arxiv.org/html/2412.20138)
+    * 공식 논문—단일 에이전트나 독립적 데이터 수집을 넘어 **실제 트레이딩 회사의 협업 역학을 멀티 에이전트로 재현**하는 프레임워크 제안
+  * [MIT Researchers Built An AI Hedge Fund (Here's How To Use It) | AI Pathways - YouTube](https://www.youtube.com/watch?v=w-8XSCgwzHw)
+    * MIT·UCLA 연구진이 만든 TradingAgents를 헤지펀드처럼 굴리는 17분 사용법 튜토리얼(투자 자문 아님 고지 포함)
   * 펀더멘탈·센티먼트·뉴스·기술 분석 에이전트 + 불/베어 리서처 토론 + 트레이더·리스크 관리·포트폴리오 매니저로 구성된 멀티 에이전트 트레이딩 시스템
   * [Someone open-sourced a hedge fund (53k stars on GitHub) - YouTube](https://www.youtube.com/watch?v=9FoEsXNGLwI)
 * [tradingcodex: Turn Codex into your investment workflow team](https://github.com/monarchjuno/tradingcodex)
