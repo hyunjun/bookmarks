@@ -706,6 +706,7 @@ NLP
 * [The Smol Training Playbook: The Secrets to Building World-Class LLMs - a Hugging Face Space by HuggingFaceTB](https://huggingface.co/spaces/HuggingFaceTB/smol-training-playbook)
   * [김성완 - The Smol Training Playbook: The Secrets to Building... | Facebook](https://www.facebook.com/seongwan.kim.3/posts/pfbid02pezwpwmVR58WL5nmhFZ7nuNWt8Pr7cCRX5zEGQbWFqYsnQ6t7k7X9L1EvcJ3g6rhl)
 * [Speech and Language Processing (3rd ed. draft)](https://web.stanford.edu/\~jurafsky/slp3/)
+  * [Appendix A: Hidden Markov Models (PDF)](https://web.stanford.edu/~jurafsky/slp3/A.pdf)
 
 # Category
 
@@ -2706,6 +2707,10 @@ NLP
     * They emphasize the importance of using politeness in prompts and provide examples to illustrate the concept
 * [2303.16634 G-Eval: NLG Evaluation using GPT-4 with Better Human Alignment](https://arxiv.org/abs/2303.16634)
   * [LLM 기반으로 AI 제품 평가하기. LLM을 이용한 평가 자동화 방법과 그 한계 알기 | by Jonas Kim | Jul, 2024 | Medium](https://medium.com/@aldente0630/llm-%EA%B8%B0%EB%B0%98-rag-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%ED%8F%89%EA%B0%80-5aaeca30365e)
+* [2212.09720 The case for 4-bit precision: k-bit Inference Scaling Laws](https://arxiv.org/html/2212.09720v2)
+  * Dettmers & Zettlemoyer의 고전—비트 수와 모델 크기의 트레이드오프를 스케일링 법칙으로 분석해 **추론에서는 4비트가 비트당 정확도의 최적점**임을 보인 양자화 근거 논문
+* [auto-round: A simple and effective post training quantization toolkit for high-accuracy low-bit LLM inference | Intel](https://github.com/intel/auto-round)
+  * Intel의 고정확 저비트 사후 학습 양자화(PTQ) 툴킷. Python, Apache-2.0, 1.6k stars
 * [A Visual Guide to Quantization - by Maarten Grootendorst](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization)
   * [LLM 양자화에 대한 비쥬얼 가이드 | GeekNews](https://news.hada.io/topic?id=16107)
 * [LLM 양자화(Quantization): 원리부터 코드까지 - GPU 메모리는 왜 4배 줄어들까?](https://doobeom-coding.tistory.com/84)
@@ -2883,6 +2888,7 @@ NLP
 * [AI Playground by Vercel Labs](https://play.vercel.ai/)
   * [Show HN: AI Playground by Vercel Labs | Hacker News](https://news.ycombinator.com/item?id=35621417)
 * [airllm: AirLLM 70B inference with single 4GB GPU](https://github.com/lyogavin/airllm)
+  * [airllm(0xSojalSec 포크): Runs 405B LLMs on 8GB VRAM](https://github.com/0xSojalSec/airllm)
   * [What?! You can now run 70B LLMs on a 4GB GPU 🤯 AirLLM is a memory-optimized inference approach that makes very large models usable on low-memory hardware. The key idea is simple: models are… | Charly Wargnier | 61 comments](https://www.linkedin.com/posts/charlywargnier_what-you-can-now-run-70b-llms-on-a-4gb-activity-7416586634135228416-sH-_)
   * [이길환 - 제목: AI 대형 언어모델, 이제 일반 PC에서도 돌아간다… '레이어 단위 실행' 기술로 메모리 장벽 허물어... | Facebook](https://www.facebook.com/weaikorea/posts/pfbid0nb2WKmrcbuwcaRTcm6QXGhVdewEpq9fBPBP7RNpeUwg6M85QHiixh93d4G7bwHtol)
 * [AnythingLLM | The all-in-one AI application for everyone](https://anythingllm.com/)
@@ -5571,6 +5577,9 @@ NLP
 * [2601.10639 STEM: Scaling Transformers with Embedding Modules](https://arxiv.org/abs/2601.10639)
   * [추론의 시대가 가고, STEM의 시대가 온다 | Suk Hyun K.](https://www.linkedin.com/posts/suk-hyun-k-31ba9b369_ai-suaqtztfmqvz-rhqtnk-activity-7419514213116559361-bjGm)
     * STEM이 진짜로 던지는 질문은 이것이다. 지능이란 진정으로 무엇인가?
+* [2602.24281 Memory Caching: RNNs with Growing Memory](https://arxiv.org/html/2602.24281v1)
+  * [모두가 트랜스포머를 외칠 때, 구글은 RNN을 다시 살려냈다 | Suk Hyun K | LinkedIn](https://www.linkedin.com/posts/suk-hyun-k-31ba9b369_aiundsxu-ai-suaqtztfmqvz-share-7469517088122953728-U_eX/)
+  * Google Research·Cornell·USC. 트랜스포머의 이차 복잡도(O(L²)) 대안으로 선형 복잡도 RNN을 재조명—기존 RNN의 고정 크기 메모리 한계를 **컨텍스트에 따라 커지는 메모리 캐싱**으로 극복하려는 시도
 * [2603.19220v2 Nemotron-Cascade 2: Post-Training LLMs with Cascade RL and Multi-Domain On-Policy Distillation](https://arxiv.org/html/2603.19220v2)
   * [NVIDIA Nemotron-Cascade-2: 활성화 3B 모델로 IMO 금메달 달성](https://fornewchallenge.tistory.com/entry/%F0%9F%8F%86-NVIDIA-Nemotron-Cascade-2-30B-%EB%A1%9C-%EA%B8%88%EB%A9%94%EB%8B%AC-%EB%8B%AC%EC%84%B1)
 * [6019_editing_models_with_task_arith.pdf](https://openreview.net/pdf?id=6t0Kwf8-jrj)
@@ -5769,6 +5778,7 @@ NLP
   * [faiss-serving: A lightweight Faiss HTTP Server 🚀](https://github.com/scatterlab/faiss-serving)
 * [turbovec: A vector index built on TurboQuant. Compress 1M 1536-dim vectors into 1 GB. Faster than FAISS](https://github.com/RyanCodrai/turbovec)
   * [turbovec 메모리·속도·프라이버시를 모두 잡은 고성능 벡터 검색 엔진 | digitalbourgeois](https://digitalbourgeois.tistory.com/3143)
+  * [구글이 낳은 괴물 오픈소스 - GPU 10만 개보다 무서운 기술 | Suk Hyun K | LinkedIn](https://www.linkedin.com/posts/suk-hyun-k-31ba9b369_aisuauikrtq-rshtpsqrmsnf-snyuiosqsswmundrin-share-7469176361564184576-7VfU/)
   * Google Research TurboQuant 알고리즘 기반 Rust 벡터 인덱스+Python 바인딩. 1536차원 벡터 1천만 개를 31GB(FP32)→4GB로 16배 압축, 2/4비트 표현. SIMD 커널(NEON/AVX-512BW)로 FAISS IndexPQFastScan 대비 ARM 12-20% 빠름·x86 동급. 별도 학습 없이 온라인 인덱싱, IdMapIndex로 O(1) 삭제. id allowlist 필터를 SIMD 32벡터 블록 단위 처리해 SQL/BM25/ACL 하이브리드 검색 적합. LangChain/LlamaIndex/Haystack/Agno 통합. `pip install turbovec`/`cargo add turbovec`. 6단계 파이프라인(정규화→랜덤 회전→TQ+ 좌표 보정→Lloyd-Max 양자화→비트 패킹→길이 보정 점수). 로컬/에어갭 RAG 적합. MIT
 
 # Summary, Summarize
@@ -6582,6 +6592,8 @@ NLP
 * [고차원 임베딩에서 벡터 유사도를 파헤치기 | LinkedIn](https://www.linkedin.com/pulse/%25EA%25B3%25A0%25EC%25B0%25A8%25EC%259B%2590-%25EC%259E%2584%25EB%25B2%25A0%25EB%2594%25A9%25EC%2597%2590%25EC%2584%259C-%25EB%25B2%25A1%25ED%2584%25B0-%25EC%259C%25A0%25EC%2582%25AC%25EB%258F%2584%25EB%25A5%25BC-%25ED%258C%258C%25ED%2597%25A4%25EC%25B9%2598%25EA%25B8%25B0-jin-hyung-park-bvjsc/) 임베딩 기반 검색에서 높은 유사도 점수가 얼마나 중요한 시그널이 될 수 있는지
 * [임베딩의 이론과 실무: 한계와 효율을 동시에 바라보기](https://www.linkedin.com/pulse/%EC%9E%84%EB%B2%A0%EB%94%A9%EC%9D%98-%EC%9D%B4%EB%A1%A0%EA%B3%BC-%EC%8B%A4%EB%AC%B4-%ED%95%9C%EA%B3%84%EC%99%80-%ED%9A%A8%EC%9C%A8%EC%9D%84-%EB%8F%99%EC%8B%9C%EC%97%90-%EB%B0%94%EB%9D%BC%EB%B3%B4%EA%B8%B0-%EB%8C%80%EA%B3%A4-%EC%9C%A0-gk0ic)
 * [2605.22391 Epicure: Navigating the Emergent Geometry of Food Ingredient Embeddings](https://arxiv.org/abs/2605.22391)
+  * [충격적인 논문 - AI가 인류의 모든 요리를 단 2MB로 압축했다 | Suk Hyun K | LinkedIn](https://www.linkedin.com/posts/suk-hyun-k-31ba9b369_stisxr-aiqporlk-ai-ugcPost-7465537949883863041-Dza4/)
+    * 7개 언어 레시피 414만 개에서 핵심 재료 1,790개를 300차원 벡터 공간에 배치—인류의 미식 조합 패턴이 약 2MB 임베딩으로 응축된다는 감상
   * Jakub Radzikowski·Josef Chen, 2026.5.21. 다국어 레시피 코퍼스(영·중·러·베·스·터·인도·독·인도영, 11소스 414만 레시피)에서 처음부터 재학습한 3개 형제 skip-gram ingredient embedding. LLM 정규화로 1,790개 정식 ingredient. 그래프 2종: ingredient-ingredient NPMI 동시발생(203,508 엣지) + 타입 FlavorDB ingredient-compound(80,019 엣지, 15 카테고리 2,247 컴파운드 노드). Metapath2Vec 3변형(동일 아키텍처, 랜덤 워크 스키마만 다름): Cooc(동시발생만), Chem(타입 컴파운드만), Core(혼합 비율 조절). 화학-레시피 컨텍스트 스펙트럼상 다른 위치
 * [bilm-tf](https://github.com/allenai/bilm-tf)
   * word2vec, glove 등의 lookup 기반 embedding 기법과는 다르게 context word embedding을 사용해서 downstream task의 성능 향상
