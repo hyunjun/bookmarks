@@ -562,6 +562,15 @@ Programmer
 * [한기용 - 컨설팅 경험](https://www.linkedin.com/feed/update/urn:li:activity:6966791695581556736/)
 
 # Cultuer, Team
+* [Netflix Engineering Director: Why Code Scales Systems, But Clarity Scales Orgs | InfoQ - YouTube](https://www.youtube.com/watch?v=yiXm1dIWmjE)
+  * [Lessons from Building an Engineering Team | InfoQ](https://www.infoq.com/presentations/lessons-building-engineering-team/)
+  * 46분—코드는 시스템을 확장하지만 조직을 확장하는 것은 명료함이라는 Netflix 엔지니어링 디렉터의 교훈
+* [90% of Engineering Leaders Scale Tech But Fail the Humans | InfoQ - YouTube](https://www.youtube.com/watch?v=G1VxUFeSboM)
+  * [Human Scalability | InfoQ](https://www.infoq.com/presentations/human-scalability)
+  * 50분—기술은 확장하면서 사람의 확장에는 실패하는 엔지니어링 리더십 문제
+* [Why Engineering Culture Is Everything: Building Teams That Actually Work | InfoQ - YouTube](https://www.youtube.com/watch?v=Vix4Mtdxneo)
+  * [Engineering Culture: Building Teams | InfoQ Podcast](https://www.infoq.com/podcasts/engineering-culture-building-teams/)
+  * 24분—실제로 작동하는 팀을 만드는 엔지니어링 문화
 * book
   * [소프트웨어 장인 CHAPTER 13 배움의 문화](https://github.com/hyunjun/bookmarks/blob/master/programming_books/the_software_craftsman.md#chapter-13-%EB%B0%B0%EC%9B%80%EC%9D%98-%EB%AC%B8%ED%99%94)
 * [훌륭한 개발 문화의 이면(7) – 잉여력이냐 vs. 효율성이냐](http://channy.creation.net/blog/1238) 개발자 경력 경로
