@@ -483,6 +483,9 @@ Graph
 * [국립중앙도서관 linked open data - SPARQL 따라하기](http://lod.nl.go.kr/home/sparql/getting.jsp)
 * [D2RQ Accessing Relational Databases as Virtual RDF Graphs](http://d2rq.org/)
 * [OWL Reasoning Examples](http://owl.man.ac.uk/2003/why/latest/)
+* [oxigraph: SPARQL graph database](https://github.com/oxigraph/oxigraph)
+  * [Oxigraph란? RocksDB 기반 그래프 데이터베이스와 RDF·SPARQL 툴킷 알아보기 | digitalbourgeois](https://digitalbourgeois.tistory.com/3693)
+  * RocksDB 기반 RDF 저장·SPARQL 질의·RDF 파싱/직렬화/정규화를 한 스택으로 제공. Rust 라이브러리 중심에 Python·JS 바인딩과 CLI 서버 제공. Apache-2.0, 2k stars
 * [sparql-endpoint: Utilities to interact with a SPARQL endpoint in clojure](https://github.com/ont-app/sparql-endpoint)
 * [SPARQL-TOOL: Allow your Agent to query knowledge graphs | Vlad Korolev | PyData Boston Meetup - YouTube](https://www.youtube.com/watch?v=RiBsLgGABUQ)
   * AI 에이전트가 SPARQL로 지식 그래프를 직접 쿼리하는 도구. 벡터 임베딩 대신 RDF 그래프의 구조화된 관계 데이터 활용, 에이전트 시스템과의 통합 방법 시연
