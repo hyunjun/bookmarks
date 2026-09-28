@@ -561,6 +561,8 @@ Network
   * SSH 로컬 포트 포워딩은 로컬 머신의 특정 포트로 들어오는 트래픽을 SSH 터널을 통해 원격 서버나 제3의 목적지로 안전하게 전달하는 기술
   * 방화벽으로 막힌 내부 네트워크 서비스에 접근하거나 보안되지 않은 프로토콜을 암호화하여 전송할 때 매우 유용
   * 복잡한 네트워크 구조에서도 안전한 통로를 구축하는 핵심 기법
+* [Homa: The End of TCP for AI Clusters — John Ousterhout, Stanford | AI Engineer - YouTube](https://www.youtube.com/watch?v=eZ8WWZzoaR0)
+  * 「A Philosophy of Software Design」 저자 John Ousterhout의 19분 발표. AI 워크로드가 대용량 전송에서 KV 캐시 조회·배리어 동기화 같은 소형 메시지 중심으로 바뀌며 incast 큐잉이 테일 레이턴시를 키워 GPU를 놀림—송신자 주도 혼잡제어·바이트 스트림 모델의 TCP/RDMA 대신 수신자 주도·메시지 단위 Homa 프로토콜 제안
 * [tcp-over-http: A TCP proxy using HTTP - Reach SSH behind a Nginx reverse proxy](https://github.com/julianbuettner/tcp-over-http)
 * [wa-tunnel: Tunneling Internet traffic over Whatsapp](https://github.com/aleixrodriala/wa-tunnel)
 
