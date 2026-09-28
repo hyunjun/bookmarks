@@ -501,6 +501,13 @@ Data Science
   * 이 저장소 기준으로 Seeing Theory(statistics.md)·R2D3(data_visualization.md·machine_learning.md·r.md)·Setosa(math.md·machine_learning.md)·Distill(다수 파일)·Tableau Public(sports.md)은 이미 등록돼 있고, **Google Dataset Search·UCI ML Repository·Data Is Plural·OpenIntro 4곳은 아직 없음**
 * [중국은 이미 한 바퀴 돌았습니다 — "AI로 데이터 분석"의 병목은 Chat이 아니라 지표 표준화 | datacode91 | LinkedIn](https://www.linkedin.com/posts/datacode91_%EC%A4%91%EA%B5%AD%EC%9D%80-%EC%9D%B4%EB%AF%B8-%ED%95%9C-%EB%B0%94%ED%80%B4-%EB%8F%8C%EC%95%98%EC%8A%B5%EB%8B%88%EB%8B%A4-%EC%9A%94%EC%A6%98-%ED%95%9C%EA%B5%AD%EC%97%90%EC%84%9C-%ED%95%9C%EC%B0%BD%EC%9D%B8-ai%EB%A1%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D-share-7499471563273134080-B0UC/)
   * 2023~24년 중국의 ChatBI 붐이 지금 한국과 똑같았다는 관찰—데모에 환호하고 도입하고 조용히 실망한 끝에 남은 결론이 **"ChatBI의 병목은 Chat이 아니라 지표 표준화"**("시멘틱 레이어 없이 만든 ChatBI는 다 사기"라는 말까지). 채팅창에 쓴 돈은 안 남고 지표 인프라에 쓴 돈만 남더라는 것. 지금 중국은 메이투안이 '定义即研发(정의가 곧 개발)'을 내건 새 BI 아키텍처 공개 단계
+* Habitat [10억 명 이상의 ChatGPT 사용자를 위한 온라인 스토리지의 빠른 확장 | OpenAI](https://openai.com/ko-KR/index/scaling-storage-one-billion-users-part-one/)
+  * OpenAI에서 그들의 서비스를 위한 Online Data Platform인 Habitat를 공유한 블로그 포스트
+  1. OpenAI의 제품팀(개발팀)이 온라인 데이터스토어에 대한 관리를 신경쓸 필요 없이, 단순히 API call로 데이터 접근을 할 수 있도록 SDK로 시작해 플랫폼으로 성장
+  2. 최초 설계에선 self-managed PostgreSQL에 대부분의 OpenAI 온라인 데이터가 저장. 당시에는 모든 쿼리와 스키마 변경을 검토해 정상적으로 작동하고 인덱싱된 데이터에 접근하는지 확인한 후 프로덕션에 배포 용이. 팀과 제품이 성장하면서 이는 빠르게 관리 불가능한 수준이 되었고, 핫 패스에 추가된 고비용 쿼리 하나가 데이터베이스를 중단시켜 장애를 일으키는 일이 빈번. 그래서 스케일이 커지며 Azure Cosmos DB로 이동
+  3. 복잡한 조회는 데이터베이스 레벨에서 불가능하게 차단, 필요 시 Rockset를 통해 접근 가능한 오프라인 보조 뷰 제공
+  4. 최초 Python으로 플랫폼이 작성되었지만, Codex와 GPT-5.5로 Rust로 SDE 2명이 변경
+  * 추가로 이런 플랫폼 팀을 만들기 위해서는 DBA가 아닌 Software Engineer가 필요함을 이들의 채용 공고에서 명확히 확인 가능
 
 # Book
 * [시스템 트레이딩을 위한 데이터 사이언스 (파이썬 활용편)](https://wikidocs.net/book/486)
