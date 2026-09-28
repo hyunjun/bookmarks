@@ -1555,11 +1555,8 @@ NLP
     Expert 3: [Additional insight or alternative view].
     Goal: The objective is to leverage diverse perspectives to arrive at the most robust and accurate solution to the problem.
     ```
-* [Prompt-Engineering-Guide: 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering](https://github.com/dair-ai/Prompt-Engineering-Guide)
-  * 어떻게 최신 논문, 학습 가이드, 강의, 참고 자료 및 도구를 활용하여 LLM의 프롬프트 엔지니어링을 배울 수 있는지에 대한 모든 정보가 포함된 가이드
-  * [IT TREND 프롬프트 엔지니어링, AI라는 도구를 잘 사용하는 방법](https://tech.kakaoenterprise.com/188)
-  * [Prompt Engineering Guide | Prompt Engineering Guide](https://www.promptingguide.ai/)
-  * [Prompt Engineering Guide | Prompt Engineering Guide](https://www.promptingguide.ai/kr)
+* [Prompt_Engineering: 22 prompt engineering techniques with hands-on Jupyter Notebook tutorials | NirDiamant](https://github.com/NirDiamant/Prompt_Engineering)
+  * 기초부터 고급까지 22가지 프롬프트 엔지니어링 기법을 실행 가능한 노트북으로 정리. 7.9k stars
 * [Prompt engineering - OpenAI API](https://platform.openai.com/docs/guides/prompt-engineering)
   * [**Best practices for prompt engineering with the OpenAI API | OpenAI Help Center**](https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-the-openai-api) 구체적인 설명
   * [OpenAI just released a Prompting Guide](https://www.linkedin.com/posts/maxrascher-ai_ai-artificialintelligence-chatgpt-activity-7141419147279679488-ODMo/)
@@ -1601,6 +1598,12 @@ NLP
 * [Prompt Engineering | Kaggle](https://www.kaggle.com/whitepaper-prompt-engineering)
   * [구글 프롬프트 엔지니어링 백서 바이브 코딩 관련 내용 요약 :: ROBOCO](https://roboco.io/posts/google-prompt-engineering-whitepaper/)
   * [궁극의 프롬프팅](https://brunch.co.kr/@7efd1b0de0604d5/56)
+* [Prompt-Engineering-Guide: 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering](https://github.com/dair-ai/Prompt-Engineering-Guide)
+  * 어떻게 최신 논문, 학습 가이드, 강의, 참고 자료 및 도구를 활용하여 LLM의 프롬프트 엔지니어링을 배울 수 있는지에 대한 모든 정보가 포함된 가이드
+  * [IT TREND 프롬프트 엔지니어링, AI라는 도구를 잘 사용하는 방법](https://tech.kakaoenterprise.com/188)
+  * [Prompt Engineering Guide | Prompt Engineering Guide](https://www.promptingguide.ai/)
+  * [Prompt Engineering Guide | Prompt Engineering Guide](https://www.promptingguide.ai/kr)
+* [PrompTessor - AI Prompt Analysis and Optimization](https://promptessor.com/)
 * [promptflow: Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.](https://github.com/microsoft/promptflow)
   * [Developing LLM Powered XApplications: A Low/No Code Chat Application using Prompt Flow (6/n) | by Madhusudhan Konda | Oct, 2023 | Medium](https://mkonda007.medium.com/developing-llm-powered-xapplications-a-low-no-code-chat-application-using-prompt-flow-6-n-464738fd6364)
   * [LLMOps 도구인 Prompt Flow 활용한 LLM API 만들기 - YouTube](https://www.youtube.com/watch?v=ECl0D8rHoDc)
@@ -1763,7 +1766,6 @@ NLP
 * [prompt-poet: Streamlines and simplifies prompt design for both developers and non-technical users with a low code approach](https://github.com/character-ai/prompt-poet)
   * [Introducing Prompt Poet](https://blog.character.ai/introducing-prompt-poet/)
     * [뉴테크프라임 » AIPromptSmarteasy 사용해 보기 – 나 교수와 글 읽기 – Introducing Prompt Poet](http://www.umlcert.com/aipromptsmarteasy_prompt-poet/)
-* [PrompTessor - AI Prompt Analysis and Optimization](https://promptessor.com/)
 * [prompttools: Open-source tools for prompt testing and experimentation, with support for both LLMs (e.g. OpenAI, LLaMA) and vector databases (e.g. Chroma, Weaviate, LanceDB)](https://github.com/hegelai/prompttools)
 * [Prompty makes it easy to create, manage, debug, and evaluate LLM prompts for your AI applications. Prompty is an asset class and format for LLM prompts designed to enhance observability, understandability, and portability for developers](https://github.com/microsoft/prompty)
 * [smarter-prompt: 모두의AI에서 제공하는 SMART+ER Prompt](https://github.com/modu-ai/smarter-prompt)
