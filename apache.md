@@ -887,6 +887,8 @@ Apache
 * [EC2 Benchmark Dashboard](https://benchmark.aws.atomai.click/#kafka) kafka는 disk io가 집약적이라 최신세대 인스턴스 이점이 거의 없음
 * [디스크는 느리다는데 Kafka는 어떻게 메모리만큼 빠를까요? (Kafka의 설계) - YouTube](https://www.youtube.com/shorts/aC8pQihrmZg)
   * 2분코딩. Kafka가 디스크 기반인데도 빠른 건 sequential I/O, OS 페이지 캐시 활용, zero-copy 전송 덕분—디스크가 가장 잘하는 패턴만 골라 쓴 설계. NVMe 시대엔 sequential 우위가 줄어 설계 전제가 흔들리는 중
+* [순서대로, 한 번만, 빠르게 | AB180 엔지니어링](https://engineering.ab180.co/stories/kafka-event-ordering-at-scale)
+  * 대규모 트래픽에서 Kafka 이벤트의 순서 보장과 정확히 한 번 처리를 동시에 달성한 AB180 사례
 
 ## Kafka Library
 * [aiokafka - asyncio client for kafka http://aiokafka.readthedocs.io ](https://github.com/aio-libs/aiokafka)
