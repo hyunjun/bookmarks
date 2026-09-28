@@ -334,6 +334,8 @@ Google Cloud Platform GCP
   * [Announcing gcpdiag - Open Source Troubleshooting Tool for Google Cloud Platform | Google Cloud Blog](https://cloud.google.com/blog/topics/developers-practitioners/announcing-gcpdiag-open-source-troubleshooting-tool-google-cloud-platform)
 * [generative-ai: Sample code and notebooks for Generative AI on Google Cloud](https://github.com/GoogleCloudPlatform/generative-ai)
   * [always-on-memory-agent: Gemini agents with persistent memory](https://github.com/GoogleCloudPlatform/generative-ai/tree/main/gemini/agents/always-on-memory-agent)
+    * [Google PM open sources always-on memory agent, ditching vector databases | VentureBeat](https://venturebeat.com/orchestration/google-pm-open-sources-always-on-memory-agent-ditching-vector-databases-for)
+    * 벡터 DB 대신 파일 기반 영속 메모리로 항상 켜져 있는 Gemini 메모리 에이전트—Google PM의 오픈소스 공개
 * [Google Cloud Skills Boost](https://www.cloudskillsboost.google/journeys/118)
   * [Google Cloud, 생성형 AI 강좌 공개 (무료/영어) | GeekNews](https://news.hada.io/topic?id=9338)
 * [Google Workspace City — Antigravity Edition](https://strong-taiyaki-02fb75.netlify.app/)
