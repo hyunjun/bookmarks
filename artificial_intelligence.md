@@ -569,8 +569,12 @@ Artificial Intelligence
 * [생성형 AI 서비스: 게이트웨이로 쉽게 시작하기 | 우아한형제들 기술블로그](https://techblog.woowahan.com/19915/)
 * [Slack 대화 한 번으로 끝나는 CDC 파이프라인 온보딩 | KREAM 기술 블로그](https://medium.com/kream-%EA%B8%B0%EC%88%A0-%EB%B8%94%EB%A1%9C%EA%B7%B8/slack-%EB%8C%80%ED%99%94-%ED%95%9C-%EB%B2%88%EC%9C%BC%EB%A1%9C-%EB%81%9D%EB%82%98%EB%8A%94-cdc-%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B8-%EC%98%A8%EB%B3%B4%EB%94%A9-20b3040305bd)
   * KREAM의 AI Agent "Megatron"—LangChain/LangGraph 기반 Agentic Loop와 MCP로 연결한 실행 백엔드가 반복되던 CDC 파이프라인 온보딩 절차를 Slack 대화 하나로 줄인 과정을 실제 구현 기준으로 정리
+* [하나의 프롬프트, 세 개의 두뇌 | 아임웹 테크](https://tech.imweb.me/posts/multi-agent-cli-orchestration/)
+  * Multi-Agent CLI 오케스트레이션으로 인프라 운영 속도를 3배로 올린 아임웹 사례
 * [고위드가 AI를 전사에 심은 과정 | gowid](https://www.gowid.com/blog/gowid-ai-integration-process)
   * 핀테크 스타트업 고위드가 제품 개발을 넘어 전사에 AI를 도입한 과정과 일하는 방식의 변화를 정리한 글
+* [Can You Build a Production-Grade Agentic AI System in 2026 Without Paying a Cent in Licensing? | Hina](https://www.linkedin.com/posts/careerwithhina_%F0%9D%90%82%F0%9D%90%9A%F0%9D%90%A7-%F0%9D%90%98%F0%9D%90%A8%F0%9D%90%AE-%F0%9D%90%81%F0%9D%90%AE%F0%9D%90%A2%F0%9D%90%A5%F0%9D%90%9D-%F0%9D%90%9A-%F0%9D%90%8F%F0%9D%90%AB%F0%9D%90%A8%F0%9D%90%9D%F0%9D%90%AE%F0%9D%90%9C%F0%9D%90%AD%F0%9D%90%A2%F0%9D%90%A8%F0%9D%90%A7-%F0%9D%90%86%F0%9D%90%AB%F0%9D%90%9A%F0%9D%90%9D%F0%9D%90%9E-share-7480105007334285312-zGiw/)
+  * 라이선스 비용 없이 오픈소스 스택만으로 프로덕션급 에이전틱 AI 시스템을 구성하는 방법—진지한 AI는 독점 API여야 한다는 가정이 더는 성립하지 않는다는 주장
 * [인공지능을 활용한 슬기로운 연구생활 | Pega Devlog](https://jehyunlee.github.io/2024/11/18/General-69_SNU/)
   * [인공지능을 활용한 슬기로운 연구생활.pdf](https://jehyunlee.github.io/2024/11/18/General-69_SNU/241118_%EC%9D%B4%EC%A0%9C%ED%98%84_%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EC%9D%84%ED%99%9C%EC%9A%A9%ED%95%9C%EC%8A%AC%EA%B8%B0%EB%A1%9C%EC%9A%B4%EC%97%B0%EA%B5%AC%EC%83%9D%ED%99%9C.pdf)
 * [AI 전문가 되기 매거진](https://brunch.co.kr/magazine/python1)
@@ -985,6 +989,7 @@ Artificial Intelligence
 * [Agent-Native — A framework for building agentic apps | BuilderIO](https://www.agent-native.com/)
   * [agent-native: A framework for building agentic apps](https://github.com/BuilderIO/agent-native)
   * [Agent-Native - 하나의 액션을 UI/에이전트/API에서 함께 쓰는 앱 프레임워크 | GeekNews](https://news.hada.io/topic?id=33920)
+  * [Agent-Native, AI 에이전트와 UI를 하나의 구조로 연결하는 오픈소스 TypeScript 프레임워크 | digitalbourgeois](https://digitalbourgeois.tistory.com/3692)
   * 앱과 AI 에이전트를 별개로 만들지 않고 한 애플리케이션 안에서 같은 기능·데이터를 공유—작업을 `defineAction`으로 한 번 정의하면 **UI·에이전트 도구·HTTP API·MCP·A2A·CLI에서 같은 액션을 호출**. TypeScript, 6.8k stars
 * [agentOS — Secure operating system without a sandbox](https://agentos-sdk.dev/)
   * [agentos: A faster, lighter, cheaper alternative to sandboxes. Run any coding agent inside an isolated Linux VM, with agent orchestration built in](https://github.com/rivet-dev/agentos)
@@ -1204,6 +1209,8 @@ Artificial Intelligence
   * [Code2Video: Video generation via code](https://github.com/showlab/Code2Video)
 * [codeflow: Paste any GitHub URL → interactive architecture map](https://github.com/braedonsaunders/codeflow)
   * GitHub URL을 붙이면 파일 간 연결을 보여주는 인터랙티브 아키텍처 맵 생성—무언가를 바꾸면 무엇이 깨지는지 확인. 설치·계정 없이 브라우저에서 전부 실행. MIT, 5.3k stars
+* [continuum: Shared memory + orchestration for your coding agents — one MCP server, persistent vector memory | pouyahasanamreji](https://github.com/pouyahasanamreji/continuum)
+  * MCP 서버 하나로 여러 코딩 에이전트가 영속 벡터 메모리와 오케스트레이션을 공유. TypeScript
 * [CoPaw: Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities](https://github.com/agentscope-ai/CoPaw)
   * [OpenClaw 따라잡은 알리바바의 CoPaw로 Discord 봇 만드는 법](https://fornewchallenge.tistory.com/entry/%F0%9F%94%A5OpenClaw-%EB%94%B0%EB%9D%BC%EC%9E%A1%EC%9D%80-%EC%95%8C%EB%A6%AC%EB%B0%94%EB%B0%94%EC%9D%98-CoPaw%EB%A1%9C-Discord-%EB%B4%87-%EB%A7%8C%EB%93%9C%EB%8A%94-%EB%B2%95)
     * CoPaw를 로컬 LLM으로 실행하고 Discord에 연동하는 단계별 가이드. 멀티 채널 지원, API 없는 로컬 실행
@@ -1275,6 +1282,9 @@ Artificial Intelligence
   * [EverOS: One portable memory layer for every AI agent: local-first, Markdown-native, user-owned, and self-evolving](https://github.com/EverMind-AI/EverOS)
   * [EverOS란? AI 에이전트를 위한 로컬 우선 장기 메모리 런타임과 주요 기능 정리 | digitalbourgeois](https://digitalbourgeois.tistory.com/3557)
   * 모든 AI 에이전트가 공유하는 포터블 메모리 레이어. local-first·Markdown 네이티브·사용자 소유이며 앱·도구·워크플로를 넘나들며 자기 진화. Python, 12.6k stars
+* [EvoOntology: A Self-Evolving Ontology Layer for Data Agents | ruc-datalab](https://github.com/ruc-datalab/EvoOntology)
+  * [EvoOntology: 데이터 에이전트를 스스로 진화시키는 온톨로지 레이어 | digitalbourgeois](https://digitalbourgeois.tistory.com/3694)
+  * 에이전트가 테이블·파일·DB의 컬럼 의미·관계·지표 정의를 모르는 Agent-Data Gap을 해결하는 자기 진화 온톨로지 레이어—Claude Code/Codex 플러그인으로 온톨로지를 구축·진화. Python, MIT
 * [fantasy: Build AI agents with Go. Multiple providers, multiple models, one API 🧙](https://github.com/charmbracelet/fantasy)
 * [fara: Fara-7B: An Efficient Agentic Model for Computer Use](https://github.com/microsoft/fara)
   * Microsoft 7B Computer Use Agent(CUA). Qwen2.5-VL-7B 기반, Magentic-One 멀티에이전트로 생성한 145K 합성 trajectory SFT. 시각으로 마우스·키보드 좌표 직접 예측(접근성 트리·파싱 모델 불필요). 태스크당 평균 16스텝(비교 모델 ~41) 효율, 온디바이스 배포 가능. 웹 검색·요약, 폼 작성, 여행/티켓/예약, 쇼핑 비교, 구인/부동산. WebVoyager 73.5/Online-Mind2Web 34.1/DeepShop 26.2/WebTailBench 38.4 동급 SOTA. WebTailBench(11카테고리 609 실세계 웹 태스크)·CUAVerifierBench(trajectory judge 평가) 동반. Azure Foundry/vLLM/LM Studio/Ollama GGUF 로컬. MIT
@@ -1612,6 +1622,8 @@ Artificial Intelligence
   * [py-pimono: Python reimplementation of pi-mono for educational clarity](https://github.com/solvit-team/py-pimono)
     * [미니멀 에이전트의 출발점: pi-mono에서 Python으로 옮긴 py-pimono 이야기](https://digitalbourgeois.tistory.com/2938)
     * pi-mono의 Python 포팅. Engine·Session·UI 3계층 헥사고날 아키텍처, TUI/터미널/Discord 봇 3가지 인터페이스, Mock LLM 프로바이더, MCP(Notion) 통합
+* [Plano - Delivery Infrastructure for Agentic Apps](https://planoai.dev/)
+  * 에이전틱 앱을 프로덕션에 전달하는 AI 네이티브 프록시·데이터 플레인—에이전트 오케스트레이션, LLM 라우팅, 가드레일, 관측성
 * [px0 - the IDE for humans and AI, optimized for quick, fast code reviews](https://px0.ai/)
   * [px0: It turns your browser into a fast code review surface | px0-ai](https://github.com/px0-ai/px0)
   * [px0 - 브라우저에서 코드를 빠르게 탐색하고 검토하는 초경량 도구 | GeekNews](https://news.hada.io/topic?id=33964)
@@ -1685,6 +1697,10 @@ Artificial Intelligence
   * [Skill for vercel-labs/agent-skills](https://skills.sh/vercel-labs/agent-skills)
     * [agent-skills](https://github.com/vercel-labs/agent-skills)
     * [🚀 Vercel Agent Skills: AI 코딩 에이전트 성능 끌어올리는 무료 스킬](https://fornewchallenge.tistory.com/entry/%F0%9F%9A%80-Vercel-Agent-Skills-AI-%EC%BD%94%EB%94%A9-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EC%84%B1%EB%8A%A5-%EB%81%8C%EC%96%B4%EC%98%AC%EB%A6%AC%EB%8A%94-%EB%AC%B4%EB%A3%8C-%EC%8A%A4%ED%82%AC)
+* [SLayer - The open-source semantic layer for AI agents | Motley](https://motley.ai/slayer/)
+  * [slayer: An embeddable, expressive semantic layer for AI agents and humans | MotleyAI](https://github.com/MotleyAI/slayer)
+  * [AI 에이전트를 위한 시맨틱 레이어, SLayer의 주요 기능과 활용 방법 | digitalbourgeois](https://digitalbourgeois.tistory.com/3695)
+  * 에이전트가 데이터 웨어하우스를 다룰 때 필요한 DB 연결·SQL 변환·접근 권한·지표 일관 정의를 하나의 시맨틱 레이어로—Python 임베드 또는 서비스로 실행, 읽기 전용 연결·Row-level Security 지원. Python, MIT
 * [spagent: SPAgent — foundation agent for understanding, reasoning over, and operating within the physical and spatial world](https://github.com/zhangzaibin/spagent)
   * "Think3D: Thinking with Space for Spatial Reasoning" 연구 기반. 모듈러 도구 시스템(런타임 추가/제거, 병렬 실행), 다중 이미지 분석, GPT/Qwen/VLLM 멀티 모델 지원. 외부 전문 도구—Depth-AnythingV2, SAM2, GroundingDINO, Qwen2.5-VL, Pi3·VGGT·MapAnything(3D), Orient-AnythingV2, Sana/Veo/Sora/WAN(생성). GRPO 강화학습(ms-swift)
 * [sqlite-memory: SQLite extension for AI agent memory](https://github.com/sqliteai/sqlite-memory)
@@ -1699,6 +1715,8 @@ Artificial Intelligence
 * [Tiger_bot: Agentic Swarm AI Agent with persistent long-term memory, multi-provider LLM support, token management, self-learning, and Telegram bot integration](https://github.com/Sompote/Tiger_bot)
   * 장기 메모리, 다중 LLM 프로바이더, 토큰 관리, 자기학습, Telegram 통합을 갖춘 자율 운영 AI 에이전트 스웜. Linux 24/7 운영 설계
 * [TigrimOS — Self-hosted AI desktop with autonomous agent swarms](https://tigrimos.github.io/)
+  * [Tigrimos: A self-hosted AI workspace with chat, code execution, parallel multi-agent orchestration, and a skill system | Sompote](https://github.com/Sompote/Tigrimos)
+  * [단일 에이전트의 한계에 부딪혀 오케스트레이션 레이어를 처음부터 다시 만들었다 — TigrimOS 공개 | OpenClaw Community | Facebook](https://www.facebook.com/groups/321701343647959/posts/969160245568729/)
   * 데이터 주권 보장 셀프호스팅 AI 데스크톱. 7가지 에이전트 토폴로지(mesh/pipeline/star/P2P/broadcast/hierarchical/hybrid), 16개 빌트인 도구, OS 레벨 샌드박스(macOS Virtualization.framework/WSL2), 크로스머신 원격 에이전트. Ollama/llama.cpp/OpenAI/Claude 유연 통합. MIT
   * [TigrimOSR is the Rust version of TigrimOS — a high-performance native desktop rewrite of the original Python/Node.js AI assistant. Built entirely in Rust using egui for the UI, TigrimOSR delivers faster startup, lower memory usage, and a single self-contained binary with no Node.js or Python runtime required to run the app itself. · GitHub](https://github.com/Sompote/TigrimOSR)
 * [TinyFish - The web wasn't built for agents. We're fixing that](https://www.tinyfish.ai/)
@@ -2077,6 +2095,9 @@ Artificial Intelligence
 * [2606.10106 What makes a harness a harness: necessary and sufficient conditions for an agent harness](https://arxiv.org/html/2606.10106v1)
   * [Claude Code는 하네스(harness)라고 불립니다. 그런데 ChatGPT는 왜 하네스가 아닐까요? | Sanguine Kim | LinkedIn](https://www.linkedin.com/posts/sanguinekim_claude-code%EB%8A%94-%ED%95%98%EB%84%A4%EC%8A%A4harness%EB%9D%BC%EA%B3%A0-%EB%B6%88%EB%A6%BD%EB%8B%88%EB%8B%A4-%EA%B7%B8%EB%9F%B0%EB%8D%B0-chatgpt%EB%8A%94-share-7474636461825359873-LSuA/)
   * 느슨하고 다의적으로 쓰이는 'agent harness'의 필요충분조건을 정리한 논문—하네스는 모델을 감싸 에이전트로 만드는 **런타임 레이어**이고, 실행 중에 네 조건(①추론→행동→관찰 루프 등)을 모두 갖춰야 성립하며 하나라도 빠지면 하네스가 아니라는 정의. "모델을 제외한 전부"라는 통념을 교정
+* [2607.14159 MemoHarness: Agent Harnesses That Learn from Experience](https://arxiv.org/html/2607.14159v1)
+  * [Optimizing Harnesses with MemoHarness | Elvis S.](https://www.linkedin.com/posts/omarsar_great-research-paper-on-optimizing-harnesses-share-7483888259635531776-ubDk/)
+  * 프롬프트·파이프라인만 최적화하던 기존 자동 개선과 달리 하네스 전체(컨텍스트·도구·오케스트레이션·메모리·디코딩·출력 처리)를 실행 경험으로부터 학습해 개선—하네스 자체 실행 이력만으로 유지 가능하다는 주장
 * [2609.14858 Dream-RSI: Recursive Self-Improvement through Evolving Worlds](https://arxiv.org/html/2609.14858v1)
   * [2/ AI에게 더 빠른 프로그램을 만들라고 하면, 코드를 쓰고 실행한 뒤 결과를 보며 수정하는 과정이 반복됩니다. 이때 성능이 좋아진 후보를 더 고칠지, 다른 방향을 열어볼지 결정해야 하는데, 그 선택이 좋은지 알아보려면 실험을 여러 번 진행해야 하므로, 탐색 방법을 비교하는 데도 비용이 듭니다. Dream-RSI는 여기서 이미 끝낸 탐색 기록을 활용합니다. 어떤 코드에서 출발했고, 무엇을 수정했으며, 어디서 실패하고 얼마나 개선됐는지를 나뭇가지처럼 연결해 저장합니다. 연구진이 'Discovery Tree'라고 부르는 이 기록이 다음 전략을 시험할 환경이 됩니다. | CHOI @choi.openai | Threads](https://www.threads.com/@choi.openai/post/DdZbHUsj7Cf)
   * RSI의 병목을 탐색(exploration) 전략의 관리·개선으로 규정—고정 전략은 검색 공간이 커지면 적응하지 못하고, 온라인 정책 최적화는 지연되고 값비싼 피드백 아래 거대한 메타 검색 공간을 장기 롤아웃으로 헤매야 하는 딜레마. Dream-RSI는 기저 코딩 에이전트는 그대로 둔 채 경량 오케스트레이션 레이어만 얹어 탐색을 명시적·프로그래머블하게 만든다
@@ -3981,6 +4002,9 @@ Artificial Intelligence
   * [Introducing LongCat-2.0 | 공식 블로그](https://longcat.chat/blog/longcat-2.0/)
   * [LongCat-2.0 공개 - Nvidia 없이 학습한 1.6조 파라미터 오픈소스 모델 | GeekNews](https://news.hada.io/topic?id=31019)
 * [Sakana Fugu: One Model to Command Them All](https://sakana.ai/fugu-release/)
+  * [Sakana Fugu — Multi-agent System as A Model](https://sakana.ai/fugu/)
+  * [2606.21228 Sakana Fugu Technical Report](https://arxiv.org/html/2606.21228)
+  * [Diary - LLM Orchestration (Sakana Fugu) | Jae-Kyung Cho](https://jackyoung96.github.io/2026/07/01/llm-orchestration-router/)
   * [Asian AI startups launch Mythos-like models as Anthropic's export ban drags on | TechCrunch](https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/)
   * [아시아 AI 스타트업들, Anthropic Mythos 대체 모델 출시 | GeekNews](https://news.hada.io/topic?id=30915)
   * Sakana AI의 Fugu—여러 AI 모델을 동적으로 조율하는 단일 파운데이션 모델 API. 단일 벤더 종속·수출 통제 리스크 회피. Anthropic Mythos/Fable 5 수출 금지 이후 아시아 스타트업들이 대체 모델로 공백을 메우는 흐름
@@ -5050,6 +5074,7 @@ Artificial Intelligence
 * [llm-newsletter-kit-core: An extensible framework to automate your entire newsletter workflow. Handles data collection, LLM-based content analysis, and email generation, letting you focus on your unique domain logic](https://github.com/kimhongyeon/llm-newsletter-kit-core)
   * [고고학 출신 개발자가 만든 LLM 기반 뉴스레터 자동화 키트 | GeekNews](https://news.hada.io/topic?id=24900)
 * [llmfit: 497 models. 133 providers. One command to find what runs on your hardware](https://github.com/AlexsJones/llmfit)
+  * [llmfit 공식 사이트](https://www.llmfit.org/)
   * [내 PC에서 돌릴 수 있는 LLM, 한 줄이면 찾아준다: llmfit의 가능성과 한계](https://wikidocs.net/blog/@jaehong/8605/)
 * [mac-code: Run large language models (up to 35B) on Mac with SSD flash-streaming](https://github.com/walter-grace/mac-code)
   * 16GB RAM Mac mini M4에서 35B 모델을 초당 30토큰으로 처리. SSD 스트리밍으로 제한된 RAM에서도 대규모 모델 실행
@@ -5175,6 +5200,11 @@ Artificial Intelligence
 * [Reworkd](https://auth.reworkd.ai/)
   * [Reworkd라는 서비스는 원하는 사이트를 지정하면 자동으로 코드가 생성되고, 해당 코드가 실행 되면서 컨텐츠를 크롤링](https://www.linkedin.com/posts/duckjungkim_%EC%9B%B9-%EC%BB%A8%ED%85%90%EC%B8%A0%EB%A5%BC-%ED%81%AC%EB%A1%A4%EB%A7%81%ED%95%98%EB%8A%94-%EA%B8%B0%EC%88%A0%EC%9D%80-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%BD%94%EB%94%A9-%EB%B0%B0%EC%9A%B8%EB%95%8C-%EB%A7%8E%EC%9D%B4-%EC%8B%A4%EC%8A%B5%ED%95%9C-%EB%82%B4%EC%9A%A9%EC%9E%85%EB%8B%88%EB%8B%A4-activity-7327293373856260096-b9bm/)
 * [SalesGPT: Context-aware AI Sales Agent to automate sales outreach](https://github.com/filip-michalsky/SalesGPT/)
+* [sample-aws-genai-ops-demos/resilience/ai-load-test-generation-with-dlt at main · aws-samples/sample-aws-genai-ops-demos](https://github.com/aws-samples/sample-aws-genai-ops-demos/tree/main/resilience/ai-load-test-generation-with-dlt)
+  * AI Load Test Generator Agent
+  * API 스펙(OpenAPI/Swagger)이나 브라우저 HAR을 넣으면 JMeter/k6/Locust 부하 테스트 스크립트를 자동 생성하고, AWS Distributed Load Testing과 연동해 시나리오 등록부터 실행, 결과 해석까지 처리하는 AI Agent
+  * Amazon Bedrock AgentCore Runtime 기반 CDK 원클릭 배포가 가능
+  * 부하 테스트 한 사이클(스펙 파싱 → 스크립트 생성 → 스모크 → DLT 실행 (부하 발생) → 결과 해석)을 전부 자연어 대화로 처리
 * [scholar-translator: Academic paper PDF translator with Korean language focus, powered by AWS Bedrock and preserving formulas, charts, and layouts](https://github.com/hi-space/scholar-translator)
 * [Sentrux — Real-time architectural sensor for AI agents](https://sentrux.dev/)
   * [sentrux](https://github.com/sentrux/sentrux)
@@ -6975,6 +7005,9 @@ Artificial Intelligence
 * [Amux — Bidirectional LLM API Adapter](https://www.amux.ai/)
   * [amux: Bidirectional LLM API adapter with IR pattern. Seamlessly convert between OpenAI, Anthropic, DeepSeek, and more](https://github.com/isboyjc/amux)
   * TypeScript IR 패턴으로 LLM 프로바이더 API 양방향 변환—App→Inbound Adapter(IR 파싱)→Bridge(검증)→Outbound Adapter(타겟 포맷). 8개 공식 어댑터(OpenAI/Anthropic/DeepSeek/Moonshot/Zhipu/Qwen/Gemini/MiniMax), 코어 런타임 의존성 0, 스트리밍·툴/함수 콜링. 멀티 프로바이더 앱·마이그레이션·비용 라우팅·폴백·테스팅 용도. MIT
+* [Astera — Orchestrate many Claude Code and Codex sessions](https://astera.run/)
+  * [astera: Desktop app for running and orchestrating many Claude Code and Codex sessions | parsingk](https://github.com/parsingk/astera)
+  * 다수 Claude Code·Codex 세션 실행·오케스트레이션 데스크톱 앱—사용량 한도 도달 시 계정 롤링, git worktree 격리, Slack 원격 제어. TypeScript, Apache-2.0
 * [deepseek-build: DeepSeek-native terminal coding agent — Grok-class speed + Reasonix cache discipline + Deep Code V4 surface | innocarpe](https://github.com/innocarpe/deepseek-build)
   * DeepSeek 모델 전용 풀스크린 터미널 코딩 에이전트(`dsb`). 안전한 편집·prefix-cache 인지 세션·병렬 실행, DeepSeek Harness 위에서 동작. Rust, Apache-2.0
 * [DeepSeek Harness: Everything is a Plugin](https://deepseek.com/harness/)
@@ -7454,6 +7487,12 @@ Artificial Intelligence
     * techyoo. 오픈소스 Orca(2만 stars)로 여러 AI 에이전트를 각자 다른 worktree 브랜치에서 동시 실행하는 오케스트레이션 데모. Claude Code vs Codex 같은 과제 경쟁(레이스) + 기능 분담 병렬 개발
   * [Orca vs. Paseo vs. 순정: 에이전트 관리 도구 비교하기 | 요즘IT](https://yozm.wishket.com/magazine/detail/3903)
     * 2026년 개발 환경의 핵심 과제가 된 "에이전트 여러 대 동시 관리" 관점 비교. Orca는 병렬 워크트리+디자인 모드로 한 화면에서 여러 에이전트 감독, Paseo는 휴대폰 등 어느 기기에서나 조종하는 접근성 중심. 세션이 적거나 한 곳에서만 작업하면 순정 터미널로 충분—다중 세션 관리 필요성 vs 이동성 우선순위로 선택
+  * [무조건 쓰세요. 다른 터미널 툴을 압도하는 현존 최고의 IDE Orca의 특징은? | 찐AI - YouTube](https://www.youtube.com/watch?v=T9mypKihAeY)
+    * 25분 소개—병렬 에이전트 플릿 관리 ADE로서 Orca가 기존 터미널 도구와 다른 점 정리(패스트캠퍼스 Orca 강의 홍보 포함)
+  * [Orca 오케스트레이션, 이렇게 쓰면 됩니다 — AI 4개를 감독하는 법 | 아빠너구리 TV - YouTube](https://www.youtube.com/watch?v=jtfFsgD0JG4)
+    * 설치부터 실전까지 19분—에이전트 여러 개를 '동시에 돌리는 것'과 '감독하는 것'의 차이, 오케스트레이션 필수 세팅 2가지, 복잡한 절차를 문장 하나로 줄이는 법
+  * [그래프 엔지니어링? Orca orchestration 하나로 끝납니다. | 찐AI - YouTube](https://www.youtube.com/watch?v=-pk2umNC-18)
+    * 19분—여러 에이전트 간 의존 관계가 있는 작업 흐름(그래프 엔지니어링)을 Orca 오케스트레이션으로 처리하는 데모
 * [Orchids - The AI Fullstack Engineer](https://www.orchids.app/)
   * [Orchids가 최근 정식 버전을 출시](https://www.facebook.com/groups/1183007433518603?multi_permalinks=1289987116153967&hoisted_section_header_type=recently_seen)
 * [Ornith-1.0-9B-CoreAI · Hugging Face](https://huggingface.co/mlboydaisuke/Ornith-1.0-9B-CoreAI)
@@ -7576,6 +7615,8 @@ Artificial Intelligence
   * [vibe-kanban: Get 10X more out of Claude Code, Codex or any coding agent](https://github.com/BloopAI/vibe-kanban)
   * [🚀 Vibe Kanban: OpenCode + Claude Code 동시에? AI 코딩 에이전트 오케스트레이션](https://fornewchallenge.tistory.com/entry/%F0%9F%9A%80-Vibe-Kanban-OpenCode-Claude-Code-%EB%8F%99%EC%8B%9C%EC%97%90-AI-%EC%BD%94%EB%94%A9-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EC%98%A4%EC%BC%80%EC%8A%A4%ED%8A%B8%EB%A0%88%EC%9D%B4%EC%85%98)
   * [Vibe Kanban 쓰면 클로드 코드 작업 전부 트래킹 가능합니다 - YouTube](https://www.youtube.com/watch?v=qCOYgKe_F8c)
+* [vibe-ready: CLI tool that analyzes how ready your repository is for vibe coding (AI agent-based development) | roboco-io](https://github.com/roboco-io/vibe-ready-cli)
+  * Claude Agent SDK 또는 Codex CLI로 LLM이 직접 레포를 탐색해 7개 카테고리 점수와 개선 권고 제시(`npx vibe-ready .`). `--diagnose`로 커밋 로그·PR·CI 근거 기반 개발 프로세스 진단·후속 비교까지. TypeScript, MIT
 * [visual-explainer: Agent skill that generates rich HTML pages or slide decks for diagrams, diff reviews, plan audits, data tables, and project recaps | nicobailon](https://github.com/nicobailon/visual-explainer)
   * [This Claude skill is sooo damn good 🔥 | Facebook Reel](https://www.facebook.com/reel/1537531081364168)
   * 다이어그램·diff 리뷰·플랜 감사·데이터 테이블·프로젝트 요약을 리치 HTML 페이지 또는 슬라이드 덱으로 생성하는 에이전트 스킬—Anthropic의 ELI5 스킬(desty 해설 참조)과 같은 '코드를 그림으로 이해하기' 계열의 대표 구현. HTML, MIT, 9.9k stars
@@ -7720,7 +7761,9 @@ Artificial Intelligence
       * 코드 리뷰어 개선(숨은 에러·타입 설계·주석 정확성), 스킬 119→130개, 테스트 전체 통과
 * [LocalGPT: Local-first AI assistant with 3D world builder and autonomous task execution](https://github.com/localgpt-app/localgpt)
 * [OpenSpec: Spec-driven development (SDD) for AI coding assistants | Fission-AI](https://github.com/Fission-AI/OpenSpec)
+  * [OpenSpec 공식 사이트](https://openspec.dev/)
   * [OpenSpec - 코딩 에이전트와 구현 전에 명세를 맞추는 개발 도구 | GeekNews](https://news.hada.io/topic?id=33841)
+  * [OpenSpec: NEW Toolkit Ends Vibe Coding! 100x Better Than Vibe Coding (Full Tutorial) | WorldofAI - YouTube](https://www.youtube.com/watch?v=gHkdrO6IExM)
   * 대화 기록에만 남던 요구사항을 명세와 구현 계획으로 정리하고 **사람이 검토한 뒤** AI가 코드를 쓰게 하는 SDD 도구—변경 작업마다 제안서·요구사항과 시나리오·기술 설계·작업 목록을 별도 폴더에 모아 무엇을 왜 바꾸는지 함께 관리, 완료한 변경은 보관. TypeScript, MIT, 70.4k stars
 * [smart-ralph: Spec-driven development for Claude Code and Codex. Task-by-task execution with fresh context per task](https://github.com/tzachbon/smart-ralph)
   * Ralph 에이전틱 루프 패턴 기반 Claude Code 플러그인. 막연한 기능 아이디어→리서치·요구사항·기술 설계·태스크 분해·구현 단계를 전문 서브에이전트가 진행, 태스크마다 새 컨텍스트로 실행. Quick 모드/단계별 승인 게이트, 코드베이스 인덱싱, GitHub spec-kit 방식의 ralph-speckit 포함. v3.0 외부 의존성 제로
