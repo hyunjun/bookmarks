@@ -2765,6 +2765,8 @@ NLP
 * [GPT-6 Astra, Looped Transformers, and Recurrent Depth | Sebastian Raschka](https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and)
   * [GPT-6 Astra와 Looped Transformer: 반복 계산이 AI 추론과 성능에 미치는 영향 | digitalbourgeois](https://digitalbourgeois.tistory.com/3641)
   * 새 블록을 계속 쌓는 대신 동일한 Transformer 블록을 여러 번 재사용해 계산 깊이를 늘리는 Looped Transformer/Recurrent Depth 분석—GPT-6 Astra에서 관찰된 특징과의 관계, 반복 계산이 사용자에게 보이지 않는 hidden Chain of Thought와 어떻게 연결되는지, 기존 Transformer와의 차이·반복 비용·Universal Transformer 등 관련 연구 정리
+  * [AI가 하루 넘게 혼자 알아서 일했다! | 티타임즈TV - YouTube](https://www.youtube.com/watch?v=JI9YoLVuiE4)
+    * AGI 논쟁을 촉발한 GPT-6 Astra 11분 해설—화면 읽기·프로그램 조작 정확도 92.7%, 29시간 연속 자율 사이버보안 취약점 탐색, PCB 설계·게임 개발·건축 모델링 등 업무 통째 대행 사례
 * [LLM vs. 전문가: AI가 인간의 직관과 경험을 대체할 수 있는가? - 인간의 직관이 중요한 이유. - 해경](https://www.haegyung.com/llm-vs-%EC%A0%84%EB%AC%B8%EA%B0%80-ai%EA%B0%80-%EC%9D%B8%EA%B0%84%EC%9D%98-%EC%A7%81%EA%B4%80%EA%B3%BC-%EA%B2%BD%ED%97%98%EC%9D%84-%EB%8C%80%EC%B2%B4%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8A%94%EA%B0%80/)
 * [경량화 레시피: Teacher 지식 조린 소형 모델, 근데 성능을 곁들인](https://d2.naver.com/helloworld/8866888)
 * [LLM 기반 체크리스트 생성 툴 공유](https://chance-doe.tistory.com/26)
@@ -3239,9 +3241,14 @@ NLP
   * 프롬프트 인젝션 가드레일 실험 메모: 공격 확률 임계값 0.8 이상 차단 시 98.93%, 0.7로 낮추면 99.5%를 걸러냄(놓친 사례는 사람도 판단이 어려운 수준). 같은 날 셀렉트스타가 동일 프롬프트 예제로 적대적 공격 99.4% 방어를 발표했는데, 막 나온 외산 순정 모델이 훨씬 빠르고 싼 가격으로 그 이상을 보여준 셈(Bedrock 탑재 요청 PFR도 이미 올라옴). 보안 가드레일뿐 아니라 입력 인텐트 분류로 의도에 따라 적절한 agent flow나 결정론적 레거시 흐름을 태우는 등 "행동을 위한 결정이 필요한 순간"에 활용 가치—가장 무서운 건 속도와 비용
   * [Building a Harness with Jev - YouTube](https://www.youtube.com/watch?v=VE5dsWll06M)
     * LangChain. Jev를 에이전트 하네스에 통합하는 방법—분류형 태스크에서 LLM 대비 최대 200배 빠르고 400배 저렴해 모델 라우팅과 "Jev as a judge" 온라인 eval에 적합
+  * [JEV RAG: A More Efficient Solution for RAG Systems? | Gao Dalie - YouTube](https://www.youtube.com/watch?v=sa1qESk1x-o)
+    * RAG 파이프라인에서 Jev의 자리를 검증하는 9분 데모—쿼리 라우팅·문서 관련성 판정 같은 판단 지점을 70~500ms 타입드 판정+보정 확률로 대체해 LLM 호출 대비 수십~수백 배 비용 절감
   * [Jev가 AI 틈새 기술? 구글이 바로 반응합니다… 빠른 응답에 돈을 내는 이유 | 세레브라스, Groq도 절대 안되는 기술이라 했죠 - YouTube](https://www.youtube.com/watch?v=qV5p14OSgXU)
     * 안될공학. 문장 생성 대신 선택지의 확률을 돌려주는 Jev 해설—"작은 언어모델로도 가능하다"는 비판과 비교 조건 문제를 짚고, 토큰 순차 생성 vs 판단값 반환의 차이, 반복 판단에서 응답 시간·비용이 중요한 이유를 Cerebras·Groq 사례로 설명. 구글 DiffusionGemma를 Jev처럼 활용한 개발자 시도 소개(Gemini 앰배서더 제작지원)
   * [Introducing Jev Skill Suggestion for Claude Code | Daniel San](https://x.com/dani_avila7/status/2101885477158547753)
+    * Claude Code를 위한 Jev Skill
+      * Skill을 (user invocable only로 설정하면, Mod가 사용 가능한 Skill 목록을 Jev에 전달하고, 이후 모든 요청에 대해 Jev가 어떤 Skill이 해당 작업에 가장 적합한지 classification하고, 선택된 Skill 하나만 Claude의 Context에 inject 하는 방식
+      * Context Window , Token 절감에도 유용
     * 스킬을 user-invocable 전용으로 두고 스킬 목록을 Jev에 보내 매 요청마다 가장 맞는 스킬을 분류·주입—필요할 때까지 스킬을 컨텍스트 윈도우 밖에 유지. TypeSafe API·Vercel AI Gateway 지원, `npx claude-code-templates@latest --mod productivity/jev-skill-suggestion`
     * [Claude Code, 토큰 사용량 줄여주는 Jev 모드 공개 | 이상선](https://www.linkedin.com/posts/soulai_claudecode-jev-aitgkrht-ugcPost-7507727283340783616-eaGM/)
       * 모든 스킬을 미리 컨텍스트에 넣지 않고 필요할 때만 로드—Jev가 요청에 맞는 스킬을 분석·선택해 Claude에 전달. 설치: `npx claude-code-templates@latest --mod productivity/jev-skill-suggestion`
@@ -3296,6 +3303,8 @@ NLP
     * "Next LLM"이라는 카피에 대한 교정—TypeSafe 문서 스스로 숫자 계산·날짜 비교·다단계 추론·긴 문맥에 약하다고 명시하며, "hallucination 없음"도 판단이 항상 옳다는 게 아니라 **정의 안 된 필드·선택지를 생성하는 type/schema error가 구조적으로 없다**는 의미. BERT 계보 encoder-only 모델의 일반화가 아닌가 하는 추정(아키텍처 비공개라 단정 불가)과 함께 다루는 문제 자체는 새롭지 않다고 정리
   * [Opus 5.5 + Jev Just Solved AI's Biggest Problem | Nick Puru - YouTube](https://www.youtube.com/watch?v=Uq2tkX5_PRk)
     * AI 자동화 에이전시 관점(n8n 계열)의 17분 영상—생성·실행은 Opus 5.5, 반복 판단은 Jev로 나누는 조합을 다룸
+  * [Jev 공개 일주일 만에 오픈소스가 따라붙었습니다 | 코드브릿지 - YouTube](https://www.youtube.com/watch?v=GEvaXpJGiVA)
+    * 공개 직후 kev·Reflex·Ani 등 오픈소스 구현이 연달아 등장한 흐름 5분 정리—중요한 것은 Jev라는 제품인가, '문장 대신 판단을 반환하는' 새 구조인가라는 질문 제기. HN 1900포인트·댓글 500+ 반응 소개
   * [2609.26550 JEV-as-a-Judge: Accept When Confident, Escalate When Unsure](https://arxiv.org/html/2609.26550)
     * [벌써 Jev의 실제 성능과 장점, 그리고 약점과 보완 방법까지 자세히 실험한 논문이 나왔습니다 | 염기웅](https://www.linkedin.com/posts/kiwoong-yeom_%EB%B2%8C%EC%8D%A8-jev%EC%9D%98-%EC%8B%A4%EC%A0%9C-%EC%84%B1%EB%8A%A5%EA%B3%BC-%EC%9E%A5%EC%A0%90-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%95%BD%EC%A0%90%EA%B3%BC-%EB%B3%B4%EC%99%84-%EB%B0%A9%EB%B2%95%EA%B9%8C%EC%A7%80-%EC%9E%90%EC%84%B8%ED%9E%88-%EC%8B%A4%ED%97%98%ED%95%9C-share-7509092892578050048-psZU/)
     * CMU 계열 저자 4명(Yubo Li·Ramayya Krishnan·Rema Padman 외)의 첫 Jev 독립 평가 논문(2026-09-22). 판단만 내리는 저지가 LLM-as-a-judge의 경제적 1차 패스가 될 수 있는지를 16개 생성·리워드 모델 저지와 블라인드 인간 판정으로 비교—일반 선호·근거 기반 사실성에서는 최고 성능 LLM 저지 대비 3%p 이내를 **비용 0.36%**로 달성하지만, 유도 과정을 검증하거나 정교하게 쓰인 오답에 저항해야 하는 판단에서는 격차가 커짐
@@ -3308,15 +3317,6 @@ NLP
   * [CLM: Contrastive Language Models — A System One Model for Fast and Generalizable Decision-Making](https://github.com/Contrastive-LM/CLM)
     * **상태(state)와 행동(action)을 잇는 대조학습(contrastive learning)으로 훈련한 새 계열의 System One 모델**—CLM-8B를 TypeSafe 호환 API로 서빙(Nemotron Q&A 6,000만 쌍 사전학습→합성 하드 네거티브 3,000만 중간학습→에이전틱 궤적 100만 사후학습). 컴퓨터 사용·게임·툴 호출에서 Jev와 동급 성능을 **최대 9배 낮은 지연**으로 낸다고 주장하고, 가벼운 파인튜닝으로 에이전틱 코딩 검증기(verifier) SOTA 주장—Terminal-Bench 2.1 87.6%, DeepSWE 81.6%(자체 보고)
     * 상태·행동을 분리(disaggregate)해 임베딩을 독립적으로 캐시·재사용하는 설계가 학습·서빙 비용을 낮추는 핵심. 파인튜닝 튜토리얼·HF 데이터/모델 공개. `pip install contrastive-lm`. Python, Apache-2.0, 1.7k stars(2026-09-23 생성 나흘 만)
-  * [kev: Jev-like family of decision models built on top of Qwen3.5/3.8 you can train and run on your own | Jared Palmer](https://github.com/jaredpalmer/kev)
-    * [Kev - 직접 학습하고 실행할 수 있는 Jev 방식의 의사결정 모델 | GeekNews](https://news.hada.io/topic?id=34065)
-    * Vercel의 Jared Palmer가 만든 오픈소스 Jev류 모델 패밀리—Qwen3.5/3.8 기반으로 예/아니요 확률·선택지별 확률·평가 점수를 반환하고 직접 학습·실행 가능. 고객 문의 하나에서 담당 부서·긴급 여부·불만 정도를 함께 판단하되 각 질문이 서로 영향을 주지 않게 분리. 0.8B부터 시작. Python, Apache-2.0, 7.1k stars
-  * [laya: Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text](https://github.com/NandhaKishorM/laya)
-    * [🆓 Laya 설치·사용 가이드: Jev보다 7배 빠르고 무료인 421M 다국어 결정 엔진 | fornewchallenge](https://fornewchallenge.tistory.com/entry/%F0%9F%86%93-Laya-%EC%84%A4%EC%B9%98%C2%B7%EC%82%AC%EC%9A%A9-%EA%B0%80%EC%9D%B4%EB%93%9C-Jev%EB%B3%B4%EB%8B%A4-7%EB%B0%B0-%EB%B9%A0%EB%A5%B4%EA%B3%A0-%EB%AC%B4%EB%A3%8C%EC%9D%B8-421M-%EB%8B%A4%EA%B5%AD%EC%96%B4-%EA%B2%B0%EC%A0%95-%EC%97%94%EC%A7%84)
-    * Jev 방식 판단을 오픈 웨이트로 구현한 비자기회귀 System 1 결정 엔진—입력은 텍스트·이메일·티켓·JSON 같은 상태, 출력은 사전 정의 질문에 대한 확률(중간에 자연어가 없어 파싱할 것도 환각이 낄 자리도 없음). 체크포인트 3종을 하나의 **Router**로 묶어 입력의 문자 체계·언어를 0.5ms 미만에 판별해 자동 배정: laya(ModernBERT-large 421M·컨텍스트 512·영어), laya-multilingual(mmBERT-base 322M·1024·100+ 언어·2배 빠름), laya-typed-decisions(421M·1024·타입 결정 워크플로). 학습은 Jev처럼 RLCD—strictly proper scoring rule을 보상으로 삼아 확률값 자체가 통계적 의미를 갖는 보정을 노림
-    * fornewchallenge 가이드가 짚는 요점—"0.85 이상 자동 처리, 미만 사람 이관" 임계값 분기가 설계 중심인데 **가장 큰 약점도 바로 그 보정 지점에서 나온다**고 예고하며 장단점을 함께 정리. Python, Apache-2.0, 24.7k stars
-  * [laya-coreml: Local Laya typed decisions on Apple Core ML and Neural Engine](https://github.com/mizorewww/laya-coreml)
-    * 오픈 웨이트 판단 모델 Laya(convaiinnovations/laya-multilingual)를 Apple Silicon Core ML·Neural Engine으로 포팅—토큰 생성 없이 타입드 결정만 반환, PyTorch·Transformers·MLX 없이 로컬 추론. 짧은 다국어 판단 1건 4.98ms P50/5.31ms P95(M3 Max, ANE FP16), 컴파일된 MLX FP16 대비 시스템 전체 에너지 2.78배 개선(W8 팔레트 변형 4.88ms·3.19배). 실제 Laya가 확률·안전 개입을 보여주며 Snake를 플레이하는 데모(600스텝 3회 무사망, 49~50 결정/초), 재현 가능한 속도·에너지 벤치마크. `pip install laya-coreml`. Python, Apache-2.0, 1.4k stars
   * [Jev Engineering for Coding Agents: The TypeSafe Founder's Blueprint for Building with Jev (PDF)](pdfs/jev_engineering_for_coding_agents.pdf)
     * TypeSafe 창업자 Diogo Almeida의 설계 노트를 제3자가 정리한 12쪽 워킹 노트(2026-09, TypeSafe 비공식). 핵심 질문 "LLM에 KV 캐시가 없다면 코딩 에이전트를 어떻게 설계할까?"—KV 캐시 경제학이 append-only 트랜스크립트를 강제하며 현재 에이전트의 6가지 설계를 낳았다는 진단: ①라우팅 실패(Opus→Sonnet→Opus 경로가 컨텍스트 재처리 때문에 pure Opus 4.15 대비 6.19로 더 비쌈—토큰당이 아니라 컨텍스트 재구축당 가격을 매겨야 함) ②툴 스키마가 컨텍스트를 잠식 ③질문을 모른 채 압축하는 compaction ④상태 전달이 어려워 드물게 쓰이는 서브에이전트 ⑤좋은 상태까지 버리는 재시작 ⑥내장 기능이 컨텍스트를 영구 점유하는 batteries 논쟁. 토큰은 파일 읽기 30~40%·검색 10~18%·명령 출력 10~20%가 차지하고 코드 작성은 4~10%뿐(Microsoft fastcontext: GPT-5.4 궤적의 툴 호출 56.2%가 읽기·검색)
     * 대안: 상태를 주소 지정 가능한 타입드 청크로 명시하고 Jev가 매 턴 판단—컨텍스트 청크별 가시성 사다리(hide/short/long/full, 질의 인지 압축), 캐시 재사용 vs 재구축 noul, 라우팅 choice+비용 추정, 툴 top-k 선택(스니펫→스키마 온디맨드→문서 3단 공개), 명령 실행 allow/ask/deny 프로그래머블 권한 정책, 파일 민감도 점수로 보안 인지 라우팅(비밀·인프라 설정은 1st-party 프론티어만). 조건부 AGENTS.md(작업 조건에 붙어 compaction에 면역인 지시), 읽기/쓰기 타입 명시로 잠금 기반 극단적 병렬화와 서브골 중복 제거, 읽기 전용 백그라운드 작업(크로스 모델 리뷰·eval 생성·ELI5·진행 페이지)이 검색 패스 하나를 공유. 후보 내장 도구: headroom·rtk·ast-grep·ast-outline·fastcontext·fff
@@ -3327,6 +3327,15 @@ NLP
     * Doom 7개 버튼·체스 5개 키처럼 화면을 보고 행동을 고르는 데모도 공개하지만 공개 영상은 5초 활동 구간을 선별한 것—Doom 체크포인트는 10 에피소드 평균 처치 0.60, 체스 전용 체크포인트는 무작위 상대에 4승 46무 0패지만 Stockfish 레벨 0에는 0승 2무 48패
     * [Jevlike, 문장 대신 선택지별 확률을 계산하는 오픈소스 AI 모델 | digitalbourgeois](https://digitalbourgeois.tistory.com/3680)
     * Jev 방식의 모델을 직접 학습·실험할 수 있는 오픈소스—고객 문의를 환불/영업/기술지원으로 분류하거나 Wikipedia에서 다음 클릭할 링크를 고르는 것처럼 주어진 선택지 중 하나를 판단하는 작업을 문장 생성 없이 처리. Python, MIT, 1.3k stars
+  * [kev: Jev-like family of decision models built on top of Qwen3.5/3.8 you can train and run on your own | Jared Palmer](https://github.com/jaredpalmer/kev)
+    * [Kev - 직접 학습하고 실행할 수 있는 Jev 방식의 의사결정 모델 | GeekNews](https://news.hada.io/topic?id=34065)
+    * Vercel의 Jared Palmer가 만든 오픈소스 Jev류 모델 패밀리—Qwen3.5/3.8 기반으로 예/아니요 확률·선택지별 확률·평가 점수를 반환하고 직접 학습·실행 가능. 고객 문의 하나에서 담당 부서·긴급 여부·불만 정도를 함께 판단하되 각 질문이 서로 영향을 주지 않게 분리. 0.8B부터 시작. Python, Apache-2.0, 7.1k stars
+  * [laya: Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text](https://github.com/NandhaKishorM/laya)
+    * [🆓 Laya 설치·사용 가이드: Jev보다 7배 빠르고 무료인 421M 다국어 결정 엔진 | fornewchallenge](https://fornewchallenge.tistory.com/entry/%F0%9F%86%93-Laya-%EC%84%A4%EC%B9%98%C2%B7%EC%82%AC%EC%9A%A9-%EA%B0%80%EC%9D%B4%EB%93%9C-Jev%EB%B3%B4%EB%8B%A4-7%EB%B0%B0-%EB%B9%A0%EB%A5%B4%EA%B3%A0-%EB%AC%B4%EB%A3%8C%EC%9D%B8-421M-%EB%8B%A4%EA%B5%AD%EC%96%B4-%EA%B2%B0%EC%A0%95-%EC%97%94%EC%A7%84)
+    * Jev 방식 판단을 오픈 웨이트로 구현한 비자기회귀 System 1 결정 엔진—입력은 텍스트·이메일·티켓·JSON 같은 상태, 출력은 사전 정의 질문에 대한 확률(중간에 자연어가 없어 파싱할 것도 환각이 낄 자리도 없음). 체크포인트 3종을 하나의 **Router**로 묶어 입력의 문자 체계·언어를 0.5ms 미만에 판별해 자동 배정: laya(ModernBERT-large 421M·컨텍스트 512·영어), laya-multilingual(mmBERT-base 322M·1024·100+ 언어·2배 빠름), laya-typed-decisions(421M·1024·타입 결정 워크플로). 학습은 Jev처럼 RLCD—strictly proper scoring rule을 보상으로 삼아 확률값 자체가 통계적 의미를 갖는 보정을 노림
+    * fornewchallenge 가이드가 짚는 요점—"0.85 이상 자동 처리, 미만 사람 이관" 임계값 분기가 설계 중심인데 **가장 큰 약점도 바로 그 보정 지점에서 나온다**고 예고하며 장단점을 함께 정리. Python, Apache-2.0, 24.7k stars
+  * [laya-coreml: Local Laya typed decisions on Apple Core ML and Neural Engine](https://github.com/mizorewww/laya-coreml)
+    * 오픈 웨이트 판단 모델 Laya(convaiinnovations/laya-multilingual)를 Apple Silicon Core ML·Neural Engine으로 포팅—토큰 생성 없이 타입드 결정만 반환, PyTorch·Transformers·MLX 없이 로컬 추론. 짧은 다국어 판단 1건 4.98ms P50/5.31ms P95(M3 Max, ANE FP16), 컴파일된 MLX FP16 대비 시스템 전체 에너지 2.78배 개선(W8 팔레트 변형 4.88ms·3.19배). 실제 Laya가 확률·안전 개입을 보여주며 Snake를 플레이하는 데모(600스텝 3회 무사망, 49~50 결정/초), 재현 가능한 속도·에너지 벤치마크. `pip install laya-coreml`. Python, Apache-2.0, 1.4k stars
   * [minecraft-agent: Astra planner and JEV controller for Minecraft, with native recording, tested routes, and run verification](https://github.com/rmalde/minecraft-agent)
     * Astra(GPT-6)가 계획하고 Jev가 밀리초 단위로 제어하는 Minecraft 에이전트—네이티브 녹화, 검증된 경로, 실행 검증. JavaScript
   * [OpenJev — structured LLM decisions](https://jev.opendef.com/)
@@ -4384,6 +4393,8 @@ NLP
 * StableLM: StableLM: Stability AI Language Models https://github.com/Stability-AI/StableLM
 * [stanford\_alpaca: Code and documentation to train Stanford's Alpaca models, and generate the data](https://github.com/tatsu-lab/stanford_alpaca)
   * [TensorFlow KR | LLaMA 7B를 파인튜닝한 스탠포드의 Alpaca 7B가 나왔는데, 7B임에도 성능이 준수한가 봅니다 | Facebook](https://www.facebook.com/groups/TensorFlowKR/posts/1991567364517645)
+* [strata: Qwen3.8-Flash-Next (125B MoE) on a 8GB+ NVIDIA GPU: one-click install for Windows / Linux | niko1221](https://github.com/niko1221/strata)
+  * 게이밍 PC(NVIDIA 12~24GB + RAM 64GB)에서 125B MoE 모델을 60~95 tok/s로 구동하는 원클릭 추론 엔진. localhost에 OpenAI/Anthropic 호환 API 제공, 이미지 입력 지원. C++
 * [synthid-text](https://github.com/google-deepmind/synthid-text)
   * [구글 딥마인드, LLM이 생성한 텍스트를 워터마킹하고 감지하는 SynthID를 오픈소스로 | GeekNews](https://news.hada.io/topic?id=17508)
 * [🆓 Ternary Bonsai 2 27B 설치·사용 가이드: 5.9GB 로컬 구동과 브라우저 데모 총정리 | fornewchallenge](https://fornewchallenge.tistory.com/entry/%F0%9F%86%93-Ternary-Bonsai-2-27B-%EC%84%A4%EC%B9%98%C2%B7%EC%82%AC%EC%9A%A9-%EA%B0%80%EC%9D%B4%EB%93%9C-59GB-%EB%A1%9C%EC%BB%AC-%EA%B5%AC%EB%8F%99%EA%B3%BC-%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80-%EB%8D%B0%EB%AA%A8-%EC%B4%9D%EC%A0%95%EB%A6%AC)
