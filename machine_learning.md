@@ -810,6 +810,8 @@ Machine Learning
   * [mml-book.github.io](https://github.com/mml-book/mml-book.github.io)
 * [Mathematical Foundations of Machine Learning](https://skim.math.msstate.edu/LectureNotes/Machine_Learning_Lecture.pdf)
   * [mathTalent - YouTube](https://www.youtube.com/@mathtalent)
+* [ml-engineering: Machine Learning Engineering Open Book | stas00](https://github.com/stas00/ml-engineering)
+  * 대규모 LLM/VLM 학습·운영 실무를 다룬 오픈북—하드웨어·병렬화·디버깅·성능. Python, 19k stars
 * [Model-Based Machine Learning](http://www.mbmlbook.com/)
 * [PRML(Pattern Recognition & Machien Learning, Bishop) 정리](http://norman3.github.io/prml/)
   * [Pattern Recognition and Machine Learning](http://nbviewer.jupyter.org/github/metamath1/ml-simple-works/blob/master/PRML/prml-chap2.ipynb)
