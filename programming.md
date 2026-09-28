@@ -6630,6 +6630,7 @@ Programming
   * [VidiGo The Evolution of Infrastructure from Code • Adam K](https://vidigo.ai/share/summary/28f33747b394)
   * [코드에서 바라본 인프라의 진화 - Adam Keller, Elad Ben-I스라엘 & Eric Johnson - GOTO 2024 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/803685)
 * [B마트 주문 유실을 없애보자: 네트워크 편 | 우아한형제들 기술블로그](https://techblog.woowahan.com/17911/)
+* [The future of software engineering is SRE | swizec](https://swizec.com/blog/the-future-of-software-engineering-is-sre)
 * [Backstage Software Catalog and Developer Platform · An open platform for building developer portals](https://backstage.io/)
   * [How we are improving developer experience at QuintoAndar with backstage.io | by Gabriel Dantas | QuintoAndar Tech Blog | Medium](https://medium.com/quintoandar-tech-blog/how-we-are-improving-developer-experience-at-quintoandar-with-backstage-io-fa1ab70b75cb)
   * [Red Hat joins the Backstage.io community | Red Hat Developer](https://developers.redhat.com/articles/2022/10/24/red-hat-joins-backstageio-community)
@@ -9243,6 +9244,16 @@ Programming
   * 과도한 계획보다 실행 우선("Sometimes you just want a shelf"), YAGNI 원칙, LLM 생성 코드 리뷰를 위한 시맨틱 diff 도구 비교 후 treesitter 기반 최소 도구 직접 구축
 * [Engineering Speed at Scale — Architectural Lessons from Sub-100-ms APIs - InfoQ](https://www.infoq.com/articles/engineering-speed-scale/)
   * 지연 예산, 홉 최소화, async fan-out, 캐싱 계층화, 서킷 브레이커, 옵저버빌리티. 장기 속도는 문화와 p99 소유 팀 책임
+* [소프트웨어 엔지니어링은 정말 엔지니어링인가? | Toby's Codex](https://codex.epril.com/is-software-engineering-real-engineering/)
+* [Tech Truth: Agile Evolution & the Future of SW Engineering • Martin Fowler & Kent Beck • GOTO 2025 - YouTube](https://www.youtube.com/watch?v=ii_rLjQfjp0)
+  * [The Tech Truth Circle | GOTO Copenhagen 2025](https://gotocph.com/2025/sessions/3780/the-tech-truth-circle)
+  * Martin Fowler와 Kent Beck의 54분 대담—애자일의 진화와 소프트웨어 엔지니어링의 미래
+* [Platform Engineering for Developers, Architects & the Rest of Us • Daniel Bryant • GOTO 2025 - YouTube](https://www.youtube.com/watch?v=ROBX-P7q1d8)
+  * [Platform Engineering for Software Developers, Architects and the Rest of Us | GOTO Copenhagen 2025](https://gotocph.com/2025/sessions/3734/platform-engineering-for-software-developers-architects-and-the-rest-of-us)
+  * 41분—개발자·아키텍트 관점에서 플랫폼 엔지니어링이 실제로 무엇을 해결하는가
+* [Why 90% of Platform Engineering Fails - And How to Fix It | InfoQ - YouTube](https://www.youtube.com/watch?v=X7o52n34L0M)
+  * [Platform Engineering with a Product Mindset | InfoQ](https://www.infoq.com/presentations/platform-engineering-product-mindset/)
+  * 50분—플랫폼 엔지니어링 실패의 원인을 '제품 관점 부재'로 진단
 * [magmide: A dependently-typed language intended to make provably correct code possible for working software engineers](https://github.com/magmide/magmide)
   * [Software can literally be perfect - YouTube](https://www.youtube.com/watch?v=Lf7ML_ErWvQ)
     * [Software is broken](https://youtu.be/Lf7ML_ErWvQ?t=149) 얼마나 많은 손실이 있는지 예
