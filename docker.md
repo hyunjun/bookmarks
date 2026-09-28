@@ -3368,6 +3368,8 @@ Docker
 
 # Security
 * [Rootless Containers: The Next Trend in Container Security](https://unit42.paloaltonetworks.com/rootless-containers-the-next-trend-in-container-security/)
+* [Practical Detection Engineering for Kubernetes: Baselining Audit Logs | Brandon T. Lyons](https://brandontlyons.substack.com/p/practical-detection-engineering-for-a55)
+  * 쿠버네티스 감사 로그를 베이스라이닝해 실전 탐지 규칙을 만드는 방법
 * anchore
   * [How to perform security scan with grype and syft ? learn in 20 min#devops #docker #maven - YouTube](https://www.youtube.com/watch?v=EhDuxQ4uepk)
   * [grype: A vulnerability scanner for container images and filesystems](https://github.com/anchore/grype)
