@@ -2180,6 +2180,9 @@ Web
 * [ezXSS — easy way to test (blind) Cross Site Scripting](https://ezxss.com/)
   * [ezXSS: an easy way for penetration testers and bug bounty hunters to test (blind) Cross Site Scripting](https://github.com/ssl/ezXSS)
   * 펜테스터·버그바운티용 blind XSS 테스트 플랫폼. 페이로드 실행 시 스크린샷·DOM·쿠키·세션 등 정보 수집. PHP, MIT
+* [Osmedeus — A Modern Orchestration Engine for Security](https://www.osmedeus.org/)
+  * [osmedeus: A Modern Orchestration Engine for Security | j3ssie](https://github.com/j3ssie/osmedeus)
+  * 정찰·취약점 스캔 워크플로를 선언적으로 조합·병렬 실행하는 보안 오케스트레이션 엔진. Go, MIT, 6.6k stars
 
 # Server
 * [스타트업을 위한 서버 안내서](https://subokim.wordpress.com/2015/07/17/server-for-startup/)
