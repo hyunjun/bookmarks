@@ -584,6 +584,8 @@ Programmer
   * "빠르게 움직이기"가 실무적 필요를 넘어 진지함·야망의 증거이자 도덕적 위치가 되면서 신중한 검토가 추진력을 방해하는 태도로 취급되는 문화 비판. 진짜 속도는 업무·제약·의존성을 이해하고 명확히 결정한 뒤 실행할 때 나오는데, 많은 조직이 모호한 요구사항·미완의 결정을 속도로 포장—이해 단계를 서두르면 재작업으로 되돌아온다
 * [Signals & Levers • Elisabeth Hendrickson, Joel Tosi & Charles Humble • GOTO Book Club - YouTube](https://www.youtube.com/watch?v=8tNtZMm3Hyc)
   * 「Signals & Levers」 저자 Elisabeth Hendrickson의 63분 북클럽 대담—조직을 움직이는 신호와 지렛대
+* [리더가 유능할수록 조직은 바보가 되었습니다 — 1명에서 1,000명까지, 권한 위임에 치른 수업료 | 김민기](https://www.linkedin.com/posts/%EB%AF%BC%EA%B8%B0-%EA%B9%80-ab7b2723b_%EB%A6%AC%EB%8D%94%EA%B0%80-%EC%9C%A0%EB%8A%A5%ED%95%A0%EC%88%98%EB%A1%9D-%EC%A1%B0%EC%A7%81%EC%9D%80-%EB%B0%94%EB%B3%B4%EA%B0%80-%EB%90%98%EC%97%88%EC%8A%B5%EB%8B%88%EB%8B%A4-1%EB%AA%85%EC%97%90%EC%84%9C-1000%EB%AA%85%EA%B9%8C%EC%A7%80-share-7509526415403397120-IzEd/)
+  * 위임을 두고 리더('아직 못 맡긴다')와 실무자('맡길 줄 모른다')가 동상이몽—맥락 공유가 실력보다 중요하고, 맥락은 사람을 타면 손실되니 검색 가능하게 만들라는 등 위임 실패로 배운 7가지
 * [No Meat Proxy — AI is a tool. You shouldn't be.](https://nomeatproxy.com/)
   * [Meat Proxy가 되지 마세요. 동료의 질문을 AI에 그대로 넣고 나온 답변을 복붙해서 답장하신 적이 있으신가요? | Dale Seo](https://www.linkedin.com/posts/daleseo_meat-proxy%EA%B0%80-%EB%90%98%EC%A7%80-%EB%A7%88%EC%84%B8%EC%9A%94-%EB%8F%99%EB%A3%8C%EC%9D%98-%EC%A7%88%EB%AC%B8%EC%9D%84-ai%EC%97%90-%EA%B7%B8%EB%8C%80%EB%A1%9C-share-7503578501300629505-pUDV/)
   * AI가 뱉은 결과물을 읽지도·이해하지도·검증하지도 않고 그대로 타인에게 넘기는 사람 = Meat Proxy('살로 된 중계기'). 에이전트가 짜준 코드를 안 읽고 PR 리뷰를 요청하는 행태에 대한 경고 선언 사이트
