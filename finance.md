@@ -795,6 +795,8 @@ Finance
 * [투자은행 핀테크 연봉 이야기 #2 - 금융권 개발자](http://blog.naver.com/joo_andy_lee/220369018195)
 * [AI퀀트 금융머신러닝 공부를 위해 봐야할 동영상](https://brunch.co.kr/@gauss92tgrd/48)
 * [주가 regression에 어떤 loss를 써야할까 – Passion is like genius; a miracle.](https://mkseo.pe.kr/blog/?p=4379)
+* [ib-gateway-docker: Docker image with IB Gateway/TWS and IBC | gnzsnz](https://github.com/gnzsnz/ib-gateway-docker)
+  * Interactive Brokers Gateway/TWS를 IBC와 함께 컨테이너로 띄우는 이미지—알고 트레이딩 봇의 무인 API 접속용. Shell, MIT, 1.3k stars
 * [OpenQuant — collaborative and proper practices for financial machine learning](https://open-quant.github.io/openquant/)
   * [openquant: Rust implementations of the methods in Advances in Financial Machine Learning, with Python bindings](https://github.com/Open-Quant/openquant)
   * López de Prado의 「Advances in Financial Machine Learning」 기법들을 Rust로 구현하고 Python 바인딩 제공. Jupyter Notebook, MIT
