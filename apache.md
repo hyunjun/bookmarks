@@ -1397,6 +1397,9 @@ Apache
   * [FastLanes – 차세대 빅데이터 파일 포맷 | GeekNews](https://news.hada.io/topic?id=25426)
 * [vortex: An extensible, state-of-the-art columnar file format](https://github.com/spiraldb/vortex)
   * [Vortex - 고성능 Columnar 파일 포맷 | GeekNews](https://news.hada.io/topic?id=17284)
+  * [S3 to GPU at 60Gbps: Why Parquet is Bottlenecking Your Data | InfoQ - YouTube](https://www.youtube.com/watch?v=V3qrXWQ8YL8)
+    * [Vortex: Columnar File Format for GPU Streaming | InfoQ](https://www.infoq.com/presentations/vortex-columnar-file-format-gpu-streaming/)
+    * SpiralDB Onur Satici의 50분 발표—Parquet·NVMe 파이프라인이 GPU 분석·학습을 병목시키는 이유와, Vortex가 논리/물리 타입 분리·캐스케이딩 인코딩(압축 상태에서 연산)으로 CPU 압축 해제 없이 S3→GPU를 최대 60Gbps로 스트리밍하는 원리
 
 # Phoenix
 * [Phoenix](http://phoenix.apache.org/) High performance relational database layer over HBase for low latency applications
