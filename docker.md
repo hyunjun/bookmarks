@@ -2267,6 +2267,9 @@ Docker
   * [Dynamic Kubernetes Cluster Scaling at Airbnb | by David Morrison | The Airbnb Tech Blog | May, 2022 | Medium](https://medium.com/airbnb-engineering/dynamic-kubernetes-cluster-scaling-at-airbnb-d79ae3afa132)
 * [aws-controllers-k8s](https://github.com/aws-controllers-k8s)
   * [ACK - AWS Controllers for K8s](https://aws-controllers-k8s.github.io/community/)
+* [ax: Google's open agentic orchestration runtime](https://github.com/google/ax)
+  * [AX란 무엇인가? Kubernetes 환경에서 AI 에이전트 워크로드를 선언적으로 관리하는 오케스트레이터 | digitalbourgeois](https://digitalbourgeois.tistory.com/3702)
+  * 상태 축적·코드 실행·모델 API·MCP 서버 호출이 얽힌 에이전트 워크로드를 K8s에서 선언적으로 관리—실행 격리, 작업 상태, Git·MCP·LLM 설정까지. Go, Apache-2.0, 12.5k stars
 * [botkube: An app that helps you monitor your Kubernetes cluster, debug critical deployments & gives recommendations for standard practices](https://github.com/kubeshop/botkube)
   * Kubernetes 클러스터을 모니터링해서 정책에 어긋나는 부분을 Slack, Discord 등으로 알림을 받을 수 있는 봇
 * [Cellery: A Code-First Approach to Deploy Applications on Kubernetes](https://www.infoq.com/articles/cellery-code-first-kubernetes/)
