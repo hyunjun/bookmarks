@@ -1057,6 +1057,8 @@ Interview
 * [Github Jobs](https://jobs.github.com/positions)
 * [hackjob.io](https://hackjobio.herokuapp.com)
 * [happy planet - A few bucks and a few minutes can get you your next job](http://www.happypla.net/)
+* [HIRED: The Complete AI Job Search System](https://tryhired.co/)
+  * 이력서·LinkedIn·아웃리치·면접·후속 연락·연봉 협상까지 한 곳에서 다루는 AI 구직 시스템. 8x LinkedIn Top Voice 제작. 아래 hired.com(채용 마켓플레이스)과는 별개 서비스
 * [hired.com](https://hired.com)
   * [북미 취업 도움 되는 사이트 추천 Hired](http://hardworkers.tistory.com/167)
   * [2018 STATE OF GLOBAL TECH SALARIES](https://hired.com/state-of-salaries-2018)
