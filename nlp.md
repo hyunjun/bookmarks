@@ -1555,6 +1555,9 @@ NLP
     Expert 3: [Additional insight or alternative view].
     Goal: The objective is to leverage diverse perspectives to arrive at the most robust and accurate solution to the problem.
     ```
+* [Prompting Claude Opus 5.5 | Anthropic](https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5)
+  * [Claude Opus 5.5 프롬프트 작성법 | GeekNews](https://news.hada.io/topic?id=34424)
+  * Opus 5와의 행동 차이와 대응 패턴 공식 가이드—effort 보정(기본 medium부터), API·채팅에서의 thinking 동작, 진행 상황 보고, 무인·멀티에이전트 작업, 세이프가드 거부, 프런트엔드 디자인, 복잡한 시각 입력. 기존 Opus 5 프롬프트는 대체로 그대로 쓰되 '신중히 생각하라' 류 지시는 제거 권장
 * [Prompt_Engineering: 22 prompt engineering techniques with hands-on Jupyter Notebook tutorials | NirDiamant](https://github.com/NirDiamant/Prompt_Engineering)
   * 기초부터 고급까지 22가지 프롬프트 엔지니어링 기법을 실행 가능한 노트북으로 정리. 7.9k stars
 * [Prompt engineering - OpenAI API](https://platform.openai.com/docs/guides/prompt-engineering)
@@ -4251,6 +4254,9 @@ NLP
   * [polyglot-finetuning-oslo](https://github.com/jason9693/polyglot-finetuning-oslo)
     * [oslo/FEATURES.md at tp-3d · EleutherAI/oslo · GitHub](https://github.com/EleutherAI/oslo/blob/tp-3d/FEATURES.md)
 * [PromptCraft-Robotics: Community for applying LLMs to robotics and a robot simulator with ChatGPT integration](https://github.com/microsoft/PromptCraft-Robotics)
+* [promptfoo — Test your prompts, agents, and RAGs](https://www.promptfoo.dev/)
+  * [promptfoo: Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more](https://github.com/promptfoo/promptfoo)
+  * 선언적 설정으로 프롬프트·에이전트·RAG를 테스트하고 모델 간 성능 비교, AI 레드팀·취약점 스캔까지—CLI·CI/CD 통합, OpenAI와 Anthropic도 사용. TypeScript, MIT, 25.6k stars
 * [PyGPT Desktop AI Assistant: o1, o3, GPT-4, GPT-4 Vision, ChatGPT, Gemini, Claude, Grok, DeepSeek, Perplexity, Ollama](https://pygpt.net/)
   * [py-gpt: Desktop AI Assistant powered by o1, o3, GPT-4, Gemini, Claude, Ollama, DeepSeek, Perplexity, Grok, Bielik, chat, vision, voice control, image generation and analysis, agents, tools, file upload/download, speech synthesis and recognition, access to Web, memory, presets, assistants, plugins, and more. Linux, Windows, Mac](https://github.com/szczyglis-dev/py-gpt)
 * [pyllms: Minimal Python library to connect to LLMs (OpenAI, Anthropic, AI21, Cohere, Aleph Alpha, HuggingfaceHub, Google PaLM2, with a built-in model performance benchmark](https://github.com/kagisearch/pyllms)
