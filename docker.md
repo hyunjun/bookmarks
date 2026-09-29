@@ -760,6 +760,8 @@ Docker
 * [Linux Host 에서 Docker 관련 명령어 정리(CentOS 8.x 기준)](https://blog.naver.com/yuheewon01/222221489635)
 * [한 장의 이미지로 보는 도커(docker) 명령어 정리](https://open-support.tistory.com/entry/%ED%95%9C-%EC%9E%A5%EC%9D%98-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A1%9C-%EB%B3%B4%EB%8A%94-%EB%8F%84%EC%BB%A4docker-%EB%AA%85%EB%A0%B9%EC%96%B4-%EC%A0%95%EB%A6%AC)
 * [docker cheat sheet](https://www.docker.com/sites/default/files/d8/2019-09/docker-cheat-sheet.pdf)
+* [Docker Cheat Sheet — CLI Commands Reference | docker.how](https://docker.how/)
+  * container·image·volume·network·Compose·Dockerfile 명령을 복사 버튼과 트러블슈팅 가이드로 정리한 무료 치트시트
 * [Containers 101: attach vs. exec - what's the difference?](https://iximiuz.com/en/posts/containers-101-attach-vs-exec/)
 * [Docker: The Ultimate Tool for IT Professionals](https://www.linkedin.com/feed/update/urn:li:activity:7172272073866723328/)
 * [Docker just got an upgrade - YouTube](https://www.youtube.com/watch?v=ilkZ27TwYVg)
@@ -1074,6 +1076,13 @@ Docker
 * [**CloudNet@ Blog**](https://gasidaseo.notion.site/gasidaseo/CloudNet-Blog-c9dfa44a27ff431dafdd2edacc8a1863)
 * [인프라 구성 배포 with 클로드 코드 책 기반 모각코 회고 | gasida](https://www.linkedin.com/posts/gasida99_%EC%9D%B8%ED%94%84%EB%9D%BC-%EA%B5%AC%EC%84%B1-%EB%B0%B0%ED%8F%AC-with-%ED%81%B4%EB%A1%9C%EB%93%9C-%EC%BD%94%EB%93%9C-%EC%B1%85-%EA%B8%B0%EB%B0%98%EC%9C%BC%EB%A1%9C-7%EC%9B%94-%ED%95%9C%EB%8B%AC-%EA%B8%B0%EA%B0%844%EC%A3%BC-ugcPost-7487370316961423360-rmaT/)
   * '인프라 구성 배포 with 클로드 코드' 책 기반 7월 4주 모각코 회고. 책은 AI로 K8s 구축 기술보다 AI를 DevOps 팀 운영에 적용·진화시키는 내용. 1~8장 K8s 플랫폼 누적 구축→9장 운영 업무에 AI 활용 연결
+* [현재 'AI 시대에 개발자가 알아야 할 인프라 구성 배포 with 클로드 코드' 책 기반 4주 모각코 — 참여 멤버 글 2차 공유 | gasida](https://www.linkedin.com/posts/gasida99_%ED%98%84%EC%9E%AC-ai-%EC%8B%9C%EB%8C%80%EC%97%90-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A0-%EC%9D%B8%ED%94%84%EB%9D%BC-%EA%B5%AC%EC%84%B1-%EB%B0%B0%ED%8F%AC-with-%ED%81%B4%EB%A1%9C%EB%93%9C-share-7481213401755684864-L3KM/)
+  * [02 GKE 대신 홈서버 k3s 환경구성 | JiwonDev/ai-infra-docs](https://github.com/JiwonDev/ai-infra-docs/blob/main/chapters/02_GKE_%EB%8C%80%EC%8B%A0_%ED%99%88%EC%84%9C%EB%B2%84_k3s_%ED%99%98%EA%B2%BD%EA%B5%AC%EC%84%B1.md)
+    * 책의 GCP 대신 홈랩(2.5G 스위치+UPS+KVM+Mac mini M4 3대+Win 노트북)에서 진행—실습 환경에 대응하는 홈 서버 구성 요소(k3s·harbor 등)와 그에 맞춘 md 수정
+  * [테라폼으로 GKE 배포·CLAUDE.md 행동 규칙 추가 실습기 | canaryrelease](https://canaryrelease.tistory.com/122)
+    * gke zonal(단일 AZ, 무료) 사용. CLAUDE.md 규칙—리소스 생성·삭제 시 사용자 확인 필수, 크레덴셜 하드코딩·프롬프트 출력 금지(Secret Manager/K8s Secret/GitHub Secrets만), Terraform 실행 시 `.envrc` 활성화를 `&&`로 한 줄에(셸 상태가 명령 간 유지되지 않으므로), AI가 locals만 읽고 고쳐도 배포되도록 `locals`에 map+`for_each`. 실습 후 기존 GCP 계정 원복을 위해 `.claude/settings.local.json`에 SessionEnd 훅
+  * [02 environment setup — CLAUDE.md 행동 규칙에 대한 개인 생각 정리 | jayden-cha/ai-infra-with-claude-code-notes](https://github.com/jayden-cha/ai-infra-with-claude-code-notes/blob/main/chapters/02-environment-setup.md#claudemd-%ED%96%89%EB%8F%99-%EA%B7%9C%EC%B9%99)
+  * [week01 — 책 실습 환경 GCP 대신 AWS에서 진행 | Mr-Muji/gitaiops-study](https://github.com/Mr-Muji/gitaiops-study/blob/main/week01.md)
 * [Enterprise Kubernetes Design Patterns: A Complete Practical Guide | Tech Twitter](https://www.cloudtechtwitter.com/2026/07/enterprise-kubernetes-design-patterns.html)
   * 엔터프라이즈 쿠버네티스 디자인 패턴 실전 가이드
 * [Kubernetes in 5 mins](https://www.youtube.com/watch?v=PH-2FfFD2PU)
@@ -1743,6 +1752,10 @@ Docker
 * [Equip Any User to Monitor Kubernetes With the Overview Page | Datadog](https://www.datadoghq.com/blog/unify-kubernetes-insights-with-the-kubernetes-overview-page/)
 * ["쿠버네티스는 GPU를 잘 활용하기 힘든 플랫폼" | 바이라인네트워크](https://byline.network/2026/03/27-597)
   * K8s는 CPU·메모리 자원 최적화를 위해 태어나 **AI 학습·추론 워크로드에서 GPU를 효율적으로 쓰기 어렵다**는 지적—실제 플랫폼 구축 시 운영 관점의 문제 해결을 다룸
+* [(따라하며 확인하는) PC에 GPU 설정 및 사용 by Docker / K8S | CloudNet@ gasida](https://gasidaseo.notion.site/PC-GPU-by-Docker-K8S-39750aec5edf806d8070d580fac38917)
+  * [GPU-Enabled Platforms on Kubernetes — webinar series & eBook | vCluster](https://www.vcluster.com/gpu-enabled-platforms-on-kubernetes)
+    * K8s는 GPU를 위해 만들어지지 않았는데 AI 워크로드는 GPU를 요구—GPU 공유가 CPU와 근본적으로 다른 이유, 멀티테넌트 환경의 보안·성능 아키텍처 패턴(실습 가이드의 참고 문서)
+  * '로컬 PC→컨테이너→쿠버네티스' 단계별 GPU 인식·실행 확인 실습—Ubuntu 24.04+NVIDIA 드라이버(디바이스 노드·커널 모듈·DKMS)→Docker+NVIDIA Container Toolkit(OCI 훅)→K3s+device plugin(gRPC·CDI 스펙)→kube-prometheus-stack+DCGM Exporter 모니터링·알림. 설치 절차뿐 아니라 GPU가 OS·컨테이너·K8s 안에서 노출되는 경로 구조를 설명
 * [AWS Summit Korea 2022 Kubernetes를 위한 Observability | 와탭랩스 세션 - YouTube](https://www.youtube.com/watch?v=DXXJEAfhjiQ)
 * [How Kubernetes Reinvented Virtual Machines (in a good sense)](https://iximiuz.com/en/posts/kubernetes-vs-virtual-machines/)
 * [kubernetes volume 사용 방법 정리하기. 사용하는 volume의 종류에 따라 ML training… | by Ryan Kim | Aug, 2022 | Medium](https://equus3144.medium.com/kubernetes-volume-%EC%82%AC%EC%9A%A9-%EB%B0%A9%EB%B2%95-%EC%A0%95%EB%A6%AC%ED%95%98%EA%B8%B0-49cc6bc5d761)
@@ -2129,8 +2142,11 @@ Docker
     * 로깅이 병목이 되면 안 됨 — 건강 신호를 컨테이너 단위로 분리
 * [Kubernetes Gateway API PoC Research/gateway-PoC/README_ko.md at main · sysnet4admin/Research](https://github.com/sysnet4admin/Research/blob/main/gateway-PoC/README_ko.md)
   * Ingress에서 Gateway API로 마이그레이션을 위한 Gateway 구현체 비교 PoC (Proof of Concept)
+* [쿠버네티스 7개 주요 게이트웨이 기술 검증(PoC)하기 (feat. Ingress NGINX의 은퇴) | 요즘IT](https://yozm.wishket.com/magazine/detail/3559/)
+  * 2025.11 Ingress NGINX 지원 종료 발표(실제 2026.3)에 대비—Gateway API 개념부터 후보 7개 구현체 설명, PoC 결과, 지금 무엇을 고르고 무엇을 기다릴지. 위 sysnet4admin PoC의 1차 글(아래 '다시 하기'가 후속)
 * [쿠버네티스 7개 주요 게이트웨이 기술 검증(PoC) 다시 하기 (feat. Ingress NGINX 은퇴) | 요즘IT](https://yozm.wishket.com/magazine/detail/3837)
   * 2026.3 Ingress NGINX 지원 공식 종료+IngressNightmare(CVE-2025-1974)로 Gateway API 이전이 시급. 앞선 검증에서 F등급이던 Kong·Traefik을 같은 7종으로 재측정하니 모두 통과—문제는 제품이 아닌 측정 방식·조건. 채점 기준을 처음부터 다시 세운 재측정 기록
+* [Kubernetes Gateway API — Why Ingress Is Being Replaced and Which Gateway Controller to Pick | Roman Glushko](https://www.romaglushko.com/blog/k8s-gateway-api/)
 * [오픈소스 ‘인그레스 엔진엑스’ 대안, ‘F5 엔진엑스 인그레스 컨트롤러’ - 데이터넷](https://www.datanet.co.kr/news/articleView.html?idxno=207919)
 * [In-place Pod resizing in Kubernetes: How it works and how to use it | Tech blog | Palark](https://palark.com/blog/in-place-pod-resizing-kubernetes/)
   * [In-place Pod resizing in Kubernetes: How it works and how to use it | Tech blog | Palark | 박상길](https://www.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_in-place-pod-resizing-in-kubernetes-how-activity-7398830039225683968-FBId)
@@ -2155,6 +2171,22 @@ Docker
   * [2주 걸리던 SRE 업무, AI 동료와 하니 이틀로 줄어 – 바이라인네트워크](https://byline.network/2026/04/23-592/)
 * [4계층 문서 체계로 만드는 AI Driven 쿠버네티스 운영 표준 | IT 인프라 엔지니어 그룹 Facebook](https://www.facebook.com/share/p/18n4t4WyYM/)
   * AI 시대 인프라 문서는 사람이 읽는 문서가 아니라, AI가 실행하는 문서다
+* [AI Agents Platform via kagent, agentgateway | anyflow](https://www.anyflow.net/sw-engineer/ai-agent-platform)
+  * 에이전트 수와 연결 대상이 늘면 문제는 '만들 수 있는가'에서 '운영 가능한 시스템으로 만들 수 있는가'로 바뀐다—Kubernetes 맥락의 해법으로 kagent·agentgateway 구성요소 해설
+* [AIOps Agent Benchmark: Claude Code / Gemini CLI / Codex CLI 9개 에이전트의 K8s 운영 과제 품질·안전성·효율 측정 | sysnet4admin/Research](https://github.com/sysnet4admin/Research/tree/main/AIOps-Agent-Benchmark)
+  * [Claude / Gemini / Codex CLI 에이전트는 K8s 장애를 얼마나 잘 다룰까? (AIOps Agent Benchmark) | kuberneteslab](https://kuberneteslab.dev/ko/blog/aiops-agent-benchmark/)
+  * [K8s 운영을 AI 에이전트에 맡길 수 있을까? | 요즘IT](https://yozm.wishket.com/magazine/detail/3817/)
+  * 일반 코딩 벤치마크가 아니라 AIOps/SRE(배포·롤백·장애 진단·관측)만 다룸—3 브랜드×3 티어 9개 에이전트를 같은 클러스터·프롬프트·콜드 스타트로 반복 실행해 Ops_Score(품질×안전성·효율·Pass). 셋 다 실무에 쓸 만했지만 가장 비싼 모델이 늘 운영을 더 잘하지는 않았고 효율 1위는 플래그십을 제친 Sonnet 4.6, 성격은 신중한 Claude·빠른 Gemini·사고하는 Codex로 갈림. 도입 전 점검 다섯 가지 포함. Gateway API PoC와 같은 저자
+* [What are CRDs in Kubernetes and How to Use, Manage and Optimize them? | serishahid17](https://medium.com/@serishahid17/what-are-crds-in-kubernetes-and-how-to-use-manage-and-optimize-them-76d5ff8d4fe8)
+* [Kubernetes Controller Explained: The Brain Behind Self-Healing Clusters | farhanm.cybersec](https://medium.com/@farhanm.cybersec/kubernetes-controller-explained-the-brain-behind-self-healing-clusters-c82a58e76b25)
+  * [Understanding Kubernetes Controllers: Deployments, StatefulSets & More | Darryl Ruggles](https://www.linkedin.com/posts/darryl-ruggles_kubernetes-controller-explained-the-brain-activity-7433275186961043456-VPre)
+  * 선언한 상태를 유지하는 reconciliation 루프를 조용히 돌리는 컨트롤러—Deployment·StatefulSet 등 핵심 컨트롤러의 내부 동작
+* [Building Resilient Applications in Kubernetes: A Hands-On Guide | Dev Genius](https://blog.devgenius.io/building-resilient-applications-in-kubernetes-a-hands-on-guide-9f5fffc14b9b)
+  * 장애에서 자동 복구하고 확장하는 자기치유·고가용 애플리케이션 구축 실습
+* [Zero Downtime, All the Time: Gracefully Shutting Down Kubernetes Pods | nitishmehta3](https://medium.com/@nitishmehta3/zero-downtime-all-the-time-gracefully-shutting-down-kubernetes-pods-a750f3298f0f)
+  * SIGTERM 이후 graceful shutdown 단계에서 트래픽 유실 없이 파드를 내리는 방법
+* [Kubernetes 클러스터 SSO 도입기 - Authentik으로 서비스 통합하기 | b100to](https://b100to.github.io/posts/k8s-sso-authentik/)
+  * Authentik으로 ArgoCD·Grafana·Argo Workflows·Airflow·Kubecost를 단일 SSO로 통합—OIDC·Generic OAuth·oauth2-proxy·SAML 패턴과 실제 삽질 포인트
 
 ## Kubernetes Library
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
@@ -2222,6 +2254,8 @@ Docker
       * Kustomization을 쓰고 있다면 CPU 병목이 생길 수 있고 수천 개의 앱을 사용한다면 기본 재동기화 시간을 늘려야 할 수 있고 최악의 상황에는 동기화 지연이 발생할 수도 있음
     * [ArgoCD ApplicationSet: The Control Plane for Large-Scale GitOps | DevOps.dev](https://blog.devops.dev/argocd-applicationset-the-control-plane-for-large-scale-gitops-7cee0e17b4d8)
       * 수동으로 늘어나던 K8s 플릿 관리를 ApplicationSet으로 선언적 자동화하는 대규모 GitOps 가이드
+    * [How We Load Test Argo CD at Scale: 1,000 vClusters with GitOps on Kubernetes | ITNEXT](https://itnext.io/how-we-load-test-argo-cd-at-scale-1-000-vclusters-with-gitops-on-kubernetes-d8ea2a8935b6)
+      * vCluster 1,000개로 GitOps 기반 K8s 플랫폼이 Argo CD로 어디까지 확장되는지 부하 테스트
     * [ArgoCD Vault Plugin | docmoa](https://docmoa.github.io/04-HashiCorp/06-Vault/04-UseCase/argocd-vault-plugin.html)
     * [3. Argo-CD를 이용한 GitOps 시스템 구축 – 제니퍼소프트](https://jennifersoft.com/ko/blog/tech/2023-08-30-jennifer-kubernetes-3/)
     * [Infisical Open Source SecretOps: Apply it using GitOps approach. | by Mr DevOps 🐳 ☸ ☁️ 🌐 | Aug, 2023 | Medium](https://mrdevops.medium.com/infisical-open-source-secretops-apply-it-using-gitops-approach-245f57fcd67e)
@@ -2281,6 +2315,9 @@ Docker
   * [Chaos Engineering in Kubernetes using Chaos Mesh | by Pavan Kumar | Nerd For Tech | Medium](https://medium.com/nerd-for-tech/chaos-engineering-in-kubernetes-using-chaos-mesh-431c1587ef0a)
   * [AWSKRUG: 오픈소스 카오스 엔지니어링 툴 소개 - Google Slides](https://docs.google.com/presentation/d/e/2PACX-1vR1fNr6jeEvwUepa9Zfy2hXFRx5N6xDywYW6LX9bq0WtrPYhBYHeVFkymsgNcnttjoCT7gjXYNOMOrF/pub)
 * [Citrix ADC with k8s](https://profuse-paper-676.notion.site/Citrix-ADC-with-k8s-e57b6056f1334c9094f444d1c183f378)
+* [Claudie Docs](https://docs.claudie.io/)
+  * [claudie: Cloud-agnostic managed Kubernetes | berops](https://github.com/berops/claudie)
+  * 클라우드에 종속되지 않는 매니지드 Kubernetes. Go, Apache-2.0
 * [cloudflow - Streaming Data Pipelines on Kubernetes](https://cloudflow.io/)
   * [Scale By The Bay 2020: Nolan Grace, Cloudflow: Spark, Flink, and Akka Working together on Kubernetes - YouTube](https://www.youtube.com/watch?v=XOBb7bLS3Q8)
   * [How to build streaming data pipelines with Akka Streams, Flink, and Spark using Cloudflow - YouTube](https://www.youtube.com/watch?v=MaXCx0fy0xU)
@@ -2395,6 +2432,7 @@ Docker
   * [K3S-Virtual-Cluster: Kubernetes virtual cluster simulator using multipass](https://github.com/J-hoplin1/K3S-Virtual-Cluster)
 * k6 [Load testing for engineering teams | Grafana k6](https://k6.io/)
 * [k8s-device-plugin: NVIDIA device plugin for Kubernetes](https://github.com/NVIDIA/k8s-device-plugin)
+  * [Kubernetes NVIDIA Device Plugin — theory & analysis | ssup2](https://ssup2.github.io/blog-software/en/docs/theory-analysis/kubernetes-nvidia-device-plugin/)
 * [K8sGPT](https://k8sgpt.ai/)
   * [k8sgpt: Giving Kubernetes Superpowers to everyone](https://github.com/k8sgpt-ai/k8sgpt)
   * [ChatGPT로 쿠버네티스 관리하는 방법 | 요즘IT](https://yozm.wishket.com/magazine/detail/1990/)
@@ -2445,6 +2483,8 @@ Docker
 * [kDbench: Kubernetes Storage Benchmark thru fio: IOPS, Bandwidth MB/s and Latency](https://github.com/sysnet4admin/kDbench)
   * [Revitalize opensource project kDbench - Hoon Jo - YouTube](https://www.youtube.com/watch?v=vS1W7qcXJ28)
 * [KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes](https://github.com/kedacore/keda)
+  * [KEDA: Autoscale the Kubernetes Workloads with External Event Sources | emmaliaocode](https://medium.com/@emmaliaocode/keda-autoscale-the-kubernetes-workloads-with-external-event-sources-59eac4e6a0ad)
+  * [Scaling Kafka Consumers on Kubernetes with KEDA: A Hybrid Approach | rohit.shinkar](https://medium.com/@rohit.shinkar/scaling-kafka-consumers-on-kubernetes-with-keda-a-hybrid-approach-b74e830993e1)
   * [Announcing KEDA: bringing event-driven containers and functions to Kubernetes](https://cloudblogs.microsoft.com/opensource/2019/05/06/announcing-keda-kubernetes-event-driven-autoscaling-containers/)
   * [KEDA를 활용하여 방문자가 있을 때만 작동하는 서비스 배포하기 · 클라우드메이트 기술 블로그🦒](https://tech.cloudmt.co.kr/2022/03/11/http-traffic-based-autoscaling-with-keda/)
   * [How to Autoscale Kubernetes pods based on ingress request — Prometheus, KEDA, and K6 | by KC | Apr, 2022 | Medium](https://blog.cloudacode.com/how-to-autoscale-kubernetes-pods-based-on-ingress-request-prometheus-keda-and-k6-84ae4250a9f3)
@@ -2461,6 +2501,8 @@ Docker
     * .NET API를 Kubernetes 환경에서 KEDA(Kubernetes Event-driven Autoscaling)와 Kubernetes 메트릭 활용 실시간 자동 확장하는 방법 설명
     * 전통적인 CPU/메모리 기반 자동 확장이 아닌, 이벤트 기반 스케일링으로 트래픽 급증 상황에서도 빠르게 대응 가능
     * KEDA는 외부 이벤트 및 맞춤형 지표를 활용해 효율적으로 컨테이너 수를 조절하는 핵심 도구
+* [kelos: The Kubernetes-native framework for orchestrating autonomous AI coding agents | kelos-dev](https://github.com/kelos-dev/kelos)
+  * 자율 AI 코딩 에이전트를 오케스트레이션하는 Kubernetes 네이티브 프레임워크. Go, Apache-2.0
 * Ketch [Application Delivery - Ketch](https://www.theketch.io/)
   * [Use Ketch to Deploy Apps on Kubernetes With YAML - DZone Cloud](https://dzone.com/articles/how-to-use-ketch-to-deploy-applications-on-kuberne)
 * [kexp: k'exp - Kubernetes Explorer](https://github.com/iximiuz/kexp)
@@ -2698,6 +2740,10 @@ Docker
 * [Okteto - The Kubernetes development platform](https://okteto.com/)
   * [okteto: Develop your applications directly in your Kubernetes Cluster](https://github.com/okteto/okteto)
   * [Okteto Cloud as another way for local development in Kubernetes – Flant blog](https://blog.flant.com/okteto-cloud-for-local-development-in-kubernetes/)
+* [OpenChoreo — Build your Internal Developer Platform](https://openchoreo.dev/)
+  * [openchoreo: An internal developer platform for Kubernetes](https://github.com/openchoreo/openchoreo)
+  * [OpenChoreo 1.0 Brings AI Agents and GitOps to Kubernetes Developer Platforms | InfoQ](https://www.infoq.com/news/2026/04/openchoreo-10/)
+  * Kubernetes 기반 오픈소스 IDP—1.0 출시와 함께 CNCF 프로젝트로 승인, AI 에이전트·GitOps 통합. Go, Apache-2.0, 1.6k stars
 * [opencost: Cross-cloud cost allocation models for Kubernetes workloads](https://github.com/kubecost/opencost)
   * [OpenCost: Open Source Collaboration on Kubernetes Cost Standards – The New Stack](https://thenewstack.io/opencost-open-source-collaboration-on-kubernetes-cost-standards/)
 * [OpenEBS - Kubernetes storage simplified](https://openebs.io/)
@@ -2821,6 +2867,9 @@ Docker
   * Kuberetes / Istio 환경에서 traffic metrics와 distributed tracing을 가장 효과, 효율적으로 취하는 방법
   * traffic metrics로는 Istio가 생성하는 metric
   * (distributed) trace로는 OpenTelemetry eBPF Instrumentation(OBI) 또는 Grafana Beyla가 생성하는 trace 사용
+* [The SRE Guide to Kubernetes Observability: RED vs. USE Methods | Buoyant](https://www.buoyant.io/blog/the-sre-guide-to-kubernetes-observability-red-vs-use-methods)
+* [grafana-dashboards-kubernetes: A set of modern Grafana dashboards for Kubernetes | dotdc](https://github.com/dotdc/grafana-dashboards-kubernetes)
+  * 현대적 Kubernetes Grafana 대시보드 세트. Apache-2.0, 3.8k stars
 
 ## Kubernetes Networking
 * [Deploy Microservices in Kubernetes using External-DNS and Ingress - YouTube](https://www.youtube.com/watch?v=P_npB_OCoag)
@@ -2886,6 +2935,10 @@ Docker
 * [CNI (Container Network Interface) ?](https://uni2u.tistory.com/127)
 * [Istio CNI Unveiled: Streamlining Service Mesh Connectivity | Jimmy Song](https://jimmysong.io/blog/istio-cni-deep-dive/)
   * Istio CNI의 설계 원리·구현 방식과 보안·권한 관리 강화 방법 심층 해설
+* [AI Gateway Is the New Ingress: Why Kubernetes Needs Token-Aware Traffic Control for LLMs | krishnafattepurkar](https://medium.com/@krishnafattepurkar/ai-gateway-is-the-new-ingress-why-kubernetes-needs-token-aware-traffic-control-for-llms-771abde702e4)
+  * HTTP 서비스용 전통 인그레스와 달리 LLM 트래픽은 장시간·고비용·상태 유지·모델 인지·보안 민감—토큰 인지 트래픽 제어가 필요한 이유
+* [The Complete Guide to gRPC Load Balancing in Kubernetes and Istio | shahbhat](https://shahbhat.medium.com/the-complete-guide-to-grpc-load-balancing-in-kubernetes-and-istio-01ac506f6d7f)
+  * gRPC 로드밸런싱 방식별 테스트 결과 매트릭스
 * [리얼리눅스 무료세미나: 도커/쿠버네티스/클라우드 네트워크 문제해결이 어려운 이유 - YouTube](https://www.youtube.com/watch?v=McDxXTGnWPE)
 * [VritualBox host-only Network(MAC,Linux).pdf](https://github.com/sysnet4admin/_Book_k8sInfra/blob/main/docs/%EC%8B%A4%EC%8A%B5%20%EC%9D%B4%EC%8A%88%231%20-%20VritualBox%20host-only%20Network(MAC%2CLinux).pdf)
 * [BLOG: Canal and Calico Networking for k8s - Google 드로잉](https://docs.google.com/drawings/d/1SNBKcFM9diHU0--zIgK5zg4aFDWmSL-g4H3G01t7uy0/edit)
@@ -2918,6 +2971,10 @@ Docker
   * [Kubernetes – Calico Troubleshooting – 상구리의 기술 블로그](https://www.skyer9.pe.kr/wordpress/?p=7416)
   * [Calico?Weave? CNI에 관하여](https://ykarma1996.tistory.com/179?category=1089407)
 * [Cilium - Linux Native, API-Aware Networking and Security for Containers](https://cilium.io/)
+  * [Bare Metal IDC에서 Cilium + BGP + EVPN으로 Kubernetes 멀티클러스터 네트워크 설계하기 | djdakf1234](https://djdakf1234.tistory.com/entry/Bare-Metal-IDC%EC%97%90%EC%84%9C-Cilium-BGP-EVPN%EC%9C%BC%EB%A1%9C-Kubernetes-%EB%A9%80%ED%8B%B0%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EC%84%A4%EA%B3%84%ED%95%98%EA%B8%B0)
+    * 폐쇄망 베어메탈 IDC에서 수백 대 규모 멀티클러스터·멀티테넌트 K8s를 관리형 네트워크 없이 직접 설계—kube-proxy 완전 제거, Cilium eBPF+BGP+EVPN
+  * [Cilium-ClusterMesh 완전 정리: Kubernetes etcd, Sidecar etcd, KVStoreMesh, Global Service까지 | djdakf1234](https://djdakf1234.tistory.com/entry/Cilium-ClusterMesh-%EC%99%84%EC%A0%84-%EC%A0%95%EB%A6%AC-Kubernetes-etcd-Sidecar-etcd-KVStoreMesh-Global-Service%EA%B9%8C%EC%A7%80)
+    * Cilium 1.16~1.19 기준 ClusterMesh 정리
   * [Kubernetes Network & Cilium](https://www.notion.so/Kubernetes-Network-Cilium-1d4371f562ea4acdb5e679e376a7c992)
   * [Network Policy Editor for Kubernetes](https://editor.cilium.io/)
   * [Detecting a Container Escape with Cilium and eBPF](https://isovalent.com/blog/post/2021-11-container-escape)
@@ -3083,6 +3140,11 @@ Docker
 * [Dinghy - Using Docker Machine on OS X with Dinghy](http://mageinferno.com/blog/using-docker-machine-os-x-dinghy)
 * [dive - A tool for exploring a docker image, layer contents, and discovering ways to shrink your Docker image size](https://github.com/wagoodman/dive)
   * 도커 이미지를 탐색하고 각 레이어를 분석해서 낭비되는 용량이 얼마인지, 얼마나 이미지 용량을 더 줄일 수 있는지 확인할 수 있는 CLI 툴
+* [Docker Agent — Run AI agents from YAML, like containers](https://docker.github.io/docker-agent/)
+  * [docker-agent: AI Agent Builder and Runtime by Docker Engineering](https://github.com/docker/docker-agent)
+  * 에이전트를 YAML로 정의해 OCI 레지스트리로 공유하고 컨테이너처럼 어디서든 실행. Go, Apache-2.0, 3.4k stars
+* [docker-android: 🤖 A minimal and customizable Docker image running the Android emulator as a service | HQarroum](https://github.com/HQarroum/docker-android)
+  * Android 에뮬레이터를 서비스로 띄우는 최소·커스터마이즈 가능 Docker 이미지. Shell, MIT, 7.3k stars
 * [Docker Bench - The Docker Bench for Security is a script that checks for all the automatable tests included in the CIS Docker 1.6 Benchmark. https://dockerbench.com](https://github.com/diogomonica/docker-bench-security)
   * [docker-bench - k8s](https://sysnet4admin.gitbook.io/k8s/security/node/docker-bench)
 * Docker Build Cloud [Build Docker Images Faster | Docker Build Cloud](https://www.docker.com/products/build-cloud/)
@@ -3100,6 +3162,8 @@ Docker
   * [Docker SDK for Python — Docker SDK for Python](https://docker-py.readthedocs.io/)
   * [A Python library for the Docker Engine API](https://pythonawesome.com/a-python-library-for-the-docker-engine-api/)
 * [DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source) https://dockersl.im ](https://github.com/docker-slim/docker-slim)
+* [docker-steam-headless: A Headless Steam Docker image supporting NVIDIA GPU and accessible via Web UI | Steam-Headless](https://github.com/Steam-Headless/docker-steam-headless)
+  * NVIDIA GPU 지원·웹 UI로 접근하는 헤드리스 Steam Docker 이미지. Shell, GPL-2.0, 4.8k stars
 * [docker-sync - Run your application at full speed while syncing your code for development, finally empowering you to utilize docker for development under OSX/Windows/Linux](https://docker-sync.readthedocs.io)
   * [Docker 로 쾌적한 개발환경 구축하기 Ruby on Rails 개발환경을 Docker로 옮겨보았습니다](https://medium.com/myrealtrip-product/docker-%EB%A1%9C-%EC%BE%8C%EC%A0%81%ED%95%9C-%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-e484b80947a3?sk=81c84f2359395e5a1e4fbffec40b6c6e)
 * [docker-webtop: Ubuntu, Alpine, Arch, and Fedora based Webtop images, Linux in a web browser supporting popular desktop environments](https://github.com/linuxserver/docker-webtop)
@@ -3377,10 +3441,14 @@ Docker
 * [Rootless Containers: The Next Trend in Container Security](https://unit42.paloaltonetworks.com/rootless-containers-the-next-trend-in-container-security/)
 * [Practical Detection Engineering for Kubernetes: Baselining Audit Logs | Brandon T. Lyons](https://brandontlyons.substack.com/p/practical-detection-engineering-for-a55)
   * 쿠버네티스 감사 로그를 베이스라이닝해 실전 탐지 규칙을 만드는 방법
+* [Docker Sandboxes: The New Standard for Running AI Agents Safely | raeveen](https://blog.raeveen.dev/docker-sandboxes-the-new-standard-for-running-ai-agents-safely)
+  * Claude Code·Gemini CLI·Copilot CLI·Codex 같은 AI 코딩 에이전트가 프로덕션 도구가 된 시대에 Docker Sandboxes로 에이전트를 격리 실행하는 방법
 * anchore
   * [How to perform security scan with grype and syft ? learn in 20 min#devops #docker #maven - YouTube](https://www.youtube.com/watch?v=EhDuxQ4uepk)
   * [grype: A vulnerability scanner for container images and filesystems](https://github.com/anchore/grype)
   * [syft: CLI tool and library for generating a Software Bill of Materials from container images and filesystems](https://github.com/anchore/syft)
+* [dockerscan: The Most Comprehensive Docker Security Scanner | cr0hn](https://github.com/cr0hn/dockerscan)
+  * Docker 이미지·레지스트리·컨테이너 보안 스캐너. Go, 1.7k stars
 
 # Swarm
 * [docker swarm - 신명수](https://www.youtube.com/watch?v=DZOu7GkXULI)
