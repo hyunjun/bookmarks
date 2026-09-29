@@ -582,6 +582,8 @@ Artificial Intelligence
   * 엔터프라이즈 AI 도입에서 파트너가 고객 현장에 직접 들어가 구축하는 Forward Deployed Engineering 모델 소개
 * [하나의 프롬프트, 세 개의 두뇌 | 아임웹 테크](https://tech.imweb.me/posts/multi-agent-cli-orchestration/)
   * Multi-Agent CLI 오케스트레이션으로 인프라 운영 속도를 3배로 올린 아임웹 사례
+* [금융권 Databricks 기반 AI Agent PoC 참여 회고 | Hwan Tae Kim](https://www.linkedin.com/posts/hwan-tae-kim-6651663a_databricks-aiagent-langgraph-share-7510519719137890304-xfzo/)
+  * 보수적 금융권에서 Databricks Agent Bricks(Supervisor Agent)·Genie로 하루 만에 Draft Agent 구축—K-FSI 컴플라이언스 요건 아래 LangGraph 조합 인사이트
 * [고위드가 AI를 전사에 심은 과정 | gowid](https://www.gowid.com/blog/gowid-ai-integration-process)
   * 핀테크 스타트업 고위드가 제품 개발을 넘어 전사에 AI를 도입한 과정과 일하는 방식의 변화를 정리한 글
 * [Can You Build a Production-Grade Agentic AI System in 2026 Without Paying a Cent in Licensing? | Hina](https://www.linkedin.com/posts/careerwithhina_%F0%9D%90%82%F0%9D%90%9A%F0%9D%90%A7-%F0%9D%90%98%F0%9D%90%A8%F0%9D%90%AE-%F0%9D%90%81%F0%9D%90%AE%F0%9D%90%A2%F0%9D%90%A5%F0%9D%90%9D-%F0%9D%90%9A-%F0%9D%90%8F%F0%9D%90%AB%F0%9D%90%A8%F0%9D%90%9D%F0%9D%90%AE%F0%9D%90%9C%F0%9D%90%AD%F0%9D%90%A2%F0%9D%90%A8%F0%9D%90%A7-%F0%9D%90%86%F0%9D%90%AB%F0%9D%90%9A%F0%9D%90%9D%F0%9D%90%9E-share-7480105007334285312-zGiw/)
@@ -4698,6 +4700,8 @@ Artificial Intelligence
   * JetBrains 데이터 사이언스 애드보킷들의 29분 대담—과대광고를 걷어내고 AI가 실제로 할 수 있는 것과 없는 것
 * [The Architect's Guide to the AI Era • Luca Mezzalira & Teena Idnani • GOTO 2026 - YouTube](https://www.youtube.com/watch?v=RG7XFPPzhZM)
   * AWS 솔루션스 아키텍트 Luca Mezzalira의 34분 대담—AI 시대에 아키텍트의 역할이 어떻게 바뀌는가
+* [개발자들이 먼저 느끼고 있고, 다른 직군도 곧 느끼게될 내용 | Kurt Lee](https://www.linkedin.com/posts/kurt-lee-70010391_%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%93%A4%EC%9D%B4-%EB%A8%BC%EC%A0%80-%EB%8A%90%EB%81%BC%EA%B3%A0-%EC%9E%88%EA%B3%A0-%EB%8B%A4%EB%A5%B8-%EC%A7%81%EA%B5%B0%EB%8F%84-%EA%B3%A7-%EB%8A%90%EB%81%BC%EA%B2%8C%EB%90%A0-%EB%82%B4%EC%9A%A9%EC%9D%84-%EC%A0%95%EB%A6%AC%ED%95%B4%EB%B4%85%EB%8B%88%EB%8B%A4-share-7507254204005007361-vv1Z/)
+  * 특정 LLM에 충성심이 없어진 개발 현장—코딩 룰·테스팅 하네스가 쌓일수록 모델 교체가 쉬워지고, 오픈웨이트가 3~6개월 내 프런티어의 95% 성능을 95% 싸게 따라잡는 commoditization 관찰
 * [When AI writes almost all code, what happens to software engineering? | Pragmatic Engineer](https://newsletter.pragmaticengineer.com/p/when-ai-writes-almost-all-code-what)
   * [한국어 번역 | RosettaLens](https://rosettalens.com/s/ko/when-ai-writes-almost-all-code-what)
   * [AI가 거의 모든 코드를 작성할 때, 소프트웨어 엔지니어링은 어떻게 될까 | GeekNews](https://news.hada.io/topic?id=34310)
