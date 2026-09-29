@@ -1071,6 +1071,8 @@ Artificial Intelligence
     * Anthropic 공식 강의 "Introduction to agent skills" 6개 챕터 한국어 튜토리얼. 개인 생산성 팁 위주 강의와 달리 우선순위 체계·조직 배포·도구 제한까지 다루고, 원본에 없는 규칙 파일(rules)과 스킬 비교를 보강
   * [Anthropic senior engineer just released a 1-hour course on building a team of agents with loops - YouTube](https://www.youtube.com/watch?v=FGS75ep0yFc)
     * RahulMCA. Anthropic 시니어 엔지니어의 1시간 무료 강의 소개—CLAUDE.md·Plan mode 입문, 스킬·훅 만들기, 에이전트·서브에이전트 구축, 루프·그래프 기반 자기 개선 에이전트 팀까지. "$500짜리 에이전틱 엔지니어링 코스를 대체"
+  * [Claude Code를 설치했다면 알아야 할 22가지 Skills, 개발부터 디자인·리서치·마케팅까지 | digitalbourgeois](https://digitalbourgeois.tistory.com/3706)
+    * `npx skills add [repo]`로 설치하는 22개 스킬을 4영역으로 정리. BUILD: superpowers(계획·디버깅)·gstack(23개 스킬 팩)·caveman·ponytail·codex·i-have-adhd, DESIGN: ui-ux-pro-max·taste-skill·impeccable·hyperframes·emil·gsap, RESEARCH: skill-creator·graphify·last30days·agent-browser·find-skills·claude-hud, MARKETING: remotion·marketingskills(40개)·humanizer·social-media-skills. 원저자가 가장 많이 쓰는 건 superpowers·caveman·last30days
 * [agent-skills: A collection of AI agent skills for Clawdbot, Claude Code, Codex](https://github.com/jdrhyne/agent-skills)
   * [AI 에이전트를 더 똑똑하게 만드는 agent-skills 저장소 정리 | digitalbourgeois](https://digitalbourgeois.tistory.com/3292)
   * 재사용 가능한 스킬·프롬프트 라이브러리. 범용 스킬(태스크 오케스트레이션·리서치 루프·문서 처리, 79% 크로스플랫폼), API 통합(Jira/GA/Zendesk/Salesforce), 순수 프롬프트(디자인 원칙·엔지니어링 베스트 프랙티스), 플랫폼별(OpenClaw/Claude Code/Codex). 의사결정 트리·트레이드오프 분석 등 전문 지식 강조
@@ -4640,6 +4642,12 @@ Artificial Intelligence
 * [한 달에 PR 3,200개, 새 기술은 하루 만에 프로토타입으로 — 에이전트 네이티브 팀으로 일하기 | vooy](https://blog.vooy.com/ko/blog/working-as-an-agent-native-team)
   * 개인 맥락을 이해하는 AI 에이전트와 사람·에이전트 메신저를 만드는 vooy 팀의 운영 방식—한 달(2026.08.21~09.20) 병합 PR 3,205개. TypeSafe Jev 출시 소식을 vooy가 아침 X 브리핑으로 큐레이션→엔지니어들이 각자 자기 에이전트에게 프로토타입을 맡겨 다음 날 서로 다른 구현을 실행하며 속도 비교(미용실 검색→예약 조건 선택 39초 데모)→하루 만에 "이 방향의 모델이 프로덕트에 중요하다"는 확신
   * 각자가 이렇게 빨리 만들 때 팀이 서로를 따라가는 법: 개인 에이전트의 작업 기록을 팀 공용 기록에 연결해 결정의 이유와 다음 작업 맥락을 재사용하고, 작업·이슈 관리 에이전트 "퓨처데빌"이 회의·작업 기록을 읽어 누가 무엇을 하기로 했고 어디서 막혔는지 정리(모르는 담당자·기한은 추측하지 않음). 인터뷰 형식으로 재구성
+* [코드 한 줄 직접 쓰지 않고 서비스를 런칭하기까지- 아정당 이사 서비스 AX 도입기 | 아정당 기술 블로그](https://medium.com/ajd-tech/%EC%BD%94%EB%93%9C-%ED%95%9C-%EC%A4%84-%EC%A7%81%EC%A0%91-%EC%93%B0%EC%A7%80-%EC%95%8A%EA%B3%A0-%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC-%EB%9F%B0%EC%B9%AD%ED%95%98%EA%B8%B0%EA%B9%8C%EC%A7%80-%EC%95%84%EC%A0%95%EB%8B%B9-%EC%9D%B4%EC%82%AC-%EC%84%9C%EB%B9%84%EC%8A%A4-ax-%EB%8F%84%EC%9E%85%EA%B8%B0-c08aedd97714)
+  * 아정네트웍스 백엔드 개발자 정명구. 이사/청소 매칭 플랫폼을 코드 작성은 전부 AI에 맡기고 6개월 개발해 2026-09-01 출시(첫날 오더 1,000건+). 사람은 요구사항 구체화·아키텍처·검증 기준·결과 검토 담당. 구현 전에 DDD 유비쿼터스 언어(오더·매칭·견적·계약·작업·결제)와 이벤트 스토밍으로 BC를 나눈 모듈러 모놀리스—BC 간 상태 변경은 이벤트, 조회는 Port로 제한하고 shared 패키지 경계를 ArchUnit 테스트로 강제("커밋하지 말 것"을 커밋 되돌리기로 오해한 사례처럼 문서만으로는 부족)
+  * 작업 절차를 3개 스킬로 분리—strategy-checklist(설계, grill me 방식으로 제약·예외 질문, 체크리스트 완성 후 멈춰 사람이 확인)·tdd-helper(구현, superpowers·gstack 참고한 TDD)·code-review(검토). 중요 리뷰는 이전 대화를 모르는 별도 검증 에이전트가 심각도·수정안 없이 반박부터 시도. 출시 시점 테스트 코드 22만 줄(운영 코드 2배)이지만 빌드 캐시로 컴파일 실패가 가려져 "전체 통과"가 거짓이었던 경험 후 실행 건수까지 확인. 통화 기능을 CRM BC→Call BC로 분리(114 파일)도 하루 미만. 새 팀원은 "티켓 확인 후 스킬 3개 순서대로"로 온보딩. 남은 과제는 과도한 검증·최상위 모델 남용으로 늘어난 리드타임을 변경 위험도에 맞춰 조정
+* [코드를 모르는 동료에게 서비스를 통째로 맡겼습니다 — AI Native Process 구축기 Part 1 : MFE 격리 | 아정당 기술 블로그](https://medium.com/ajd-tech/%EC%BD%94%EB%93%9C%EB%A5%BC-%EB%AA%A8%EB%A5%B4%EB%8A%94-%EB%8F%99%EB%A3%8C%EC%97%90%EA%B2%8C-%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC-%ED%86%B5%EC%A7%B8%EB%A1%9C-%EB%A7%A1%EA%B2%BC%EC%8A%B5%EB%8B%88%EB%8B%A4-ai-native-process-%EA%B5%AC%EC%B6%95%EA%B8%B0-part-1-mfe-%EA%B2%A9%EB%A6%AC-bc77efa67cd6)
+  * 아정당 플랫폼 FE챕터 리드 장순우(2026-09-09). 인터넷·렌탈·이사·상조·보험 등 서비스가 늘어도 개발팀은 그만큼 안 커지고, 호스트 앱 하나에 변경이 모여 정기배포라 문구 한 줄 바꾸는 데 최소 1주·5명이 걸리던 문제. 해법은 서비스를 가장 잘 아는 비개발자 "AI 빌더"가 IDE 없이 터미널에서 Claude와 대화만으로 화면을 만들고, 그 결과가 호스트를 건드리지 않고 프로덕션에 배포되는 구조—현재 이사·청소·인테리어·상조·보험 5개 서비스(어드민 포함)가 리모트로 운영
+  * 개발자↔AI 빌더 사이엔 코드 리뷰가 없으므로 실수를 사람이 아니라 프로세스가 막아야 함—"하지 말라"고 적는 대신 하려 해도 안 되는 격리(Shadow DOM·배포 분리)와 올바른 방향으로만 힘이 실리는 하네스를 개발팀이 구축. 리모트 앱 하나가 서비스 전체(랜딩·목록·상세·접수 폼)를 담당하고 사이트맵 리모트 URL 약 1,340개 중 1,336개가 데이터가 만든 URL이라 SSR+SEO가 전제 조건. iframe(SEO·높이·오버레이 문제)·Module Federation(Nuxt/Vite SSR 미지원, 런타임 의존성 공유)·경로 단위 독립 앱(껍데기 통합 불가) 대신 서버가 HTTP로 완성된 HTML fragment를 받아 합성하는 방식 채택
 * [Younghyun Chung - 코드를 인간이 쓰지 않는 세상 | Facebook](https://www.facebook.com/risknfun/posts/pfbid02KqgVKz4DLQLWXsCUrx5E1VwmszfdJigmnXLKJzy2dEYrZWhUZFvSUA56WKZonW18l)
   * Toby의 "소프트웨어 엔지니어링은 정말 엔지니어링인가"(2026.6.3)에서 출발한 팀 고민 정리. 우리가 아는 소프트웨어 공학이 세운 세 전제(개발자는 비싸고·느리고, 사람이 코드를 쓴다)가 AI 코딩 시대에 흔들린다는 논의
 * [How AI-assisted coding will change software engineering: hard truths](https://newsletter.pragmaticengineer.com/p/how-ai-will-change-software-engineering)
@@ -6129,6 +6137,8 @@ Artificial Intelligence
   * [andrej-karpathy-skills: Karpathy-Inspired Claude Code Guidelines](https://github.com/multica-ai/andrej-karpathy-skills)
     * [Karpathy-Inspired Claude Code Guidelines LLM 코딩 품질을 높이기 위한 실전 가이드 정리 | digitalbourgeois](https://digitalbourgeois.tistory.com/3137)
     * Andrej Karpathy 관찰 기반 LLM 코딩 4원칙 CLAUDE.md. 1) Think Before Coding—추측 대신 모호함 명시·옵션 제시 2) Simplicity First—senior dev이 over-engineered로 볼 만한 건 이미 그러함 3) Surgical Changes—요청에 정당화되는 줄만 변경, 기존 스타일 보존 4) Goal-Driven Execution—"버그 수정" 대신 "재현 실패 테스트 작성 후 통과시키기" 같은 성공 조건 재구성. 효과 신호: 작은 diff·요청 없는 리팩토링 감소·코드 작성 전 명확화 질문·리뷰 친화 PR. drop-in CLAUDE.md 또는 Claude Code 플러그인. "LLM이 생각하는 방식을 먼저 바꾸는 것"
+  * [anti-slop: Rules for an AI coding agent to filter out generic AI-generated UI designs, text, and code | miqdadbadjuber](https://github.com/miqdadbadjuber/anti-slop)
+    * 뻔한 AI 생성 UI·문장·코드를 걸러내는 코딩 에이전트 규칙 모음(`skills.sh` 등록). 아래 slop-free-korean이 이 가이드의 한국어판. JavaScript, MIT, 4k stars
   * [ARIS: Auto-Research-In-Sleep — autonomous ML research workflow for Claude Code](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep)
   * [autoskills: Auto-install best AI skills for your project](https://github.com/midudev/autoskills)
     * [autoskills — Auto-install best AI skills for your project](https://www.autoskills.sh/)
