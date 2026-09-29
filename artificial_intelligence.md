@@ -2177,6 +2177,9 @@ Artificial Intelligence
 * [my_harness: Claude Code/Codex 듀얼 런타임 AI 에이전트 팀 생성 팩토리](https://github.com/cookyman74/my_harness)
   * [AI 에이전트 팀 생성 도구를 공유합니다 - 클리앙](https://www.clien.net/service/board/lecture/19212444)
   * 한 문장 도메인 설명 입력 → 분석가·작성자·검토자 등 역할 분리 에이전트 팀+절차 스킬+오케스트레이터 생성(CLAUDE.md/AGENTS.md). 6개 아키텍처 패턴(파이프라인·팬아웃/팬인·스페셜리스트 풀·생성-검증·슈퍼바이저·계층 위임), 내부 QA+외부 AI(Codex/Gemini) 교차검증 2단계 품질 게이트, 리스크 기반 게이트. Apache 2.0
+* [Learn Harness Engineering — 하네스 엔지니어링 입문 (한국어)](https://walkinglabs.github.io/learn-harness-engineering/ko/)
+  * [learn-harness-engineering: Harness engineering beginner tutorial, from 0 to 1 | walkinglabs](https://github.com/walkinglabs/learn-harness-engineering)
+  * 0에서 1까지 하네스 엔지니어링을 배우는 입문 튜토리얼(한국어 지원). TypeScript, MIT, 16.7k stars
 * [Loop Engineering | Cobus Greyling](https://cobusgreyling.github.io/loop-engineering/)
   * [loop-engineering](https://github.com/cobusgreyling/loop-engineering)
   * [Loop Engineering | Addy Osmani](https://addyosmani.com/blog/loop-engineering/)
@@ -4914,6 +4917,8 @@ Artificial Intelligence
   * 비즈니스 역할 하나를 폴더 하나로 만든 스케줄 루틴 킷 8종—GTM 엔지니어, SEO/AEO, 웹 개발, 소셜미디어, 광고 매니저, 세일즈, 고객만족, 비서실장(Chief of Staff). 자기 PC에서 이미 쓰는 에이전트 위에 올려 돌리고 매일 아침 브리핑하며, API가 아니라 브라우저·PC를 사람처럼 조작하고 실행 로그로 다음 실행을 개선. Chief of Staff는 다른 직원들의 실행 로그를 읽어 **조용히 멈춘 것**을 찾아내고 다음 수 세 가지를 가져오는 역할이라는 설계가 특징
   * 설치는 킷 ZIP을 받거나 `npx ai-employees hire gtm-engineer --to <folder>` 후 그 폴더에서 에이전트에게 "Install the GTM Engineer from this folder"라고 말하면 웹사이트로 사업을 조사해 대시보드를 만들고 자기 루틴을 스케줄링. Claude Code 외 OpenClaw·Hermes·OpenCode·Grok Bot·Codex·Antigravity·Pi·Cline·Qwen Code·DeepSeek 지원(OneDrive·Dropbox·Google Drive·iCloud 안쪽 폴더는 피할 것). 돈이 움직이는 광고 변경은 승인 필요, 소셜 포스트는 veto 창 제공. JavaScript, MIT
   * 단서—2026-09-02 생성된 신규 레포로 아직 별 4개이고, README가 제작자(Reinventing.AI의 Mark Fulton, 34만 명 페이스북 그룹 "Vibe Coding is Life" 운영)의 Agent Ops Club 가입·가격 페이지로 유도하는 링크를 다수 포함. 루틴과 스케줄 자체는 `employees/`에 전부 공개돼 있다고 명시
+* [ai-is-fast-your-tests-are-slow: Research, a tutorial, and an agent skill for making test suites fast | hunkim](https://github.com/hunkim/ai-is-fast-your-tests-are-slow)
+  * AI 코딩 시대의 병목은 검증—에이전트는 초 단위로 코드를 쓰는데 테스트가 분 단위로 기다리게 한다. 느린 원인 대부분이 테스트가 아니라 대기(sleep·재시도 백오프·타이머·순차 실행)임을 짚고, 코딩 에이전트에게 이 레포를 읽혀 스위트를 고속화(실측 12분→24초, 테스트 유지). Python, MIT
 * [AI Workflow - Supercharge your AI coding session - AI Workflow](https://ai-workflow.xiaominglab.com/en/)
   * [ai-workflow: 🚀 170+ pre-built skills for Claude Code, Cursor, Codex & 14+ AI tools. Stop re-teaching your AI the same things. One command → instant domain expertise. Marketing, SEO, Trading, Video, PM workflows included](https://github.com/nicepkg/ai-workflow)
 * [Alt - AI Lecture Notetaker](https://www.altalt.io/)
