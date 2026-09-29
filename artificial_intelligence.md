@@ -908,6 +908,8 @@ Artificial Intelligence
   * 핵심은 캐시 단가 차이—적중 시 1M 토큰당 $0.0028 vs 미스 시 $0.14(50배). OmP는 시스템 프롬프트 구조를 유지해 실사용 99.93% 적중률 달성, 연속 작업으로 캐시 TTL을 유지하면 적중률이 급상승. Meta Muse Spark 1.2도 더 저렴한 단가 구조 제공
 * [You Built Your AI Second Brain. Now What? (Here's How to Evolve It) - YouTube](https://www.youtube.com/watch?v=mjQlZrteMIY)
   * Cole Medin. 개인용 AI 세컨드 브레인이 팀 단위로 가면 더는 통하지 않는 이유—단순히 '더 큰' 세컨드 브레인이 아니라 다른 레이어 구조가 필요하다는 진화 방향
+* [Introducing Project Opal: A New Way to Get Task-Based Work Done | Microsoft 365 Copilot Blog](https://techcommunity.microsoft.com/blog/microsoft-copilot-blog/introducing-project-opal-a-new-way-to-get-task-based-work-done/4470999)
+  * Microsoft 365 Copilot에 추가된 AI 기능—안전하고 관측 가능한 환경 안에서 태스크 기반 업무를 직접 실행
 * [2506.02153 Small Language Models are the Future of Agentic AI](https://arxiv.org/abs/2506.02153)
   * [NVIDIA의 Peter Belcak가 소개하는 소형 언어 모델(SLM)이 에이전트 AI의 미래인 이유](https://www.arizekorea.com/insights/post/nvidias-small-language-models-are-the-future-of-agentic-ai-paper-jNrUOzqlulGhemG)
   * [Demystifying Agentic AI Using Small Language Models - YouTube](https://www.youtube.com/watch?v=nk5BNz8v_9E)
@@ -3299,6 +3301,8 @@ Artificial Intelligence
   * [AI Agent로 독거노인 안부전화까지? 실제로 구현](https://www.linkedin.com/posts/taehalim_voiceai-livekit-openai-ugcPost-7341067060782764032-o3Da/)
 * [skypilot: Run, manage, and scale AI workloads on any AI infrastructure. Use one system to access & manage all AI compute (Kubernetes, 17+ clouds, or on-prem).](https://github.com/skypilot-org/skypilot/)
   * [Welcome to SkyPilot! — SkyPilot documentation](https://docs.skypilot.co/)
+  * [Migrating from Slurm to Kubernetes | SkyPilot Blog](https://skypilot.ai/blog/slurm-to-k8s-migration)
+    * Slurm→K8s 이전이 익숙한 워크플로를 버리는 일이 아니도록 SkyPilot이 Slurm 수준의 단순함을 K8s에 제공하는 방법
 * [stagehand: An AI web browsing framework focused on simplicity and extensibility](https://github.com/browserbase/stagehand)
   * [Stagehand - AI 기반 오픈 소스 브라우저 자동화 프레임워크 | GeekNews](https://news.hada.io/topic?id=18660)
   * [Stagehand 공식 사이트](https://www.stagehand.dev/)
@@ -7248,6 +7252,10 @@ Artificial Intelligence
 * [mysetup.ai · What's the craic with your AI setup?](https://mysetup.ai/)
   * [Mysetup - 다른 사람의 AI 도구와 실제 작업 방식을 살펴보는 커뮤니티 | GeekNews](https://news.hada.io/topic?id=33861)
   * 어떤 모델을 쓰는지만이 아니라 에이전트·스킬·연결 도구를 **어떻게 조합해 일하는지**를 공개하고 서로 배우는 커뮤니티—개인 페이지에 작업 흐름·설정·시행착오를 정리하고, 변경 이력과 팔로우로 다른 사람의 환경이 바뀌는 과정을 따라갈 수 있음
+* [OAB — Open Architecture Brain: Architecture intelligence for AI coding agents](https://oab.run/)
+  * [Your coding agent has expensive taste | mhayk](https://www.mhayk.com/2026/08/17/your-coding-agent-has-expensive-taste/)
+  * [OAB: Open Architecture Brain for AI-Generated System Designs | Mhayk Whandson da Silva Lima](https://www.linkedin.com/posts/mhayk_softwarearchitecture-opensource-ai-share-7495090631791378432-MgyI/)
+  * 코딩 에이전트에 '확장 가능한 API 설계'를 시키면 사용자 100명·개발자 1명 제품에도 K8s·Kafka·Redis·마이크로서비스 3개가 나온다—상위 0.1% 시스템에서 설계 미학만 배우고 경제성은 배우지 못한 탓. 그 경제성을 에이전트에 주입하는 오픈소스 아키텍처 인텔리전스
 * [oh-my-agentic-score: Measure and visualize your agentic coding quality](https://github.com/HwangTaehyun/oh-my-agentic-score)
   * [oh-my-agentic-score 당신의 agentic coding | Taehyun Hwang](https://www.linkedin.com/posts/taehyun-hwang-876631201_oh-my-agentic-score-%EB%8B%B9%EC%8B%A0%EC%9D%98-agentic-coding-ugcPost-7435976945043107840-t-oy)
 * [oh-my-codex: Multi-agent orchestration layer for OpenAI Codex CLI](https://oh-my-codex.dev/)
