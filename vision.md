@@ -1048,6 +1048,9 @@ Vision
 * [2411.14432 Insight-V: Exploring Long-Chain Visual Reasoning with Multimodal Large Language Models](https://arxiv.org/abs/2411.14432)
   * 비전-언어 태스크의 long-chain reasoning 데이터·학습 파이프라인 격차 해소. 1) 사람 노동 없이 견고한 long-form reasoning 데이터 생성하는 2단계 progressive 파이프라인+다단계 품질 평가 2) 멀티 에이전트 시스템(추론 전담+요약/평가 전담), 3) iterative DPO로 추론 안정성·품질 향상. LLaVA-NeXT/더 강한 base MLLM 위에서 시각 추론 벤치마크 가시 향상, perception 태스크는 유지/개선
 * [MyColPali: The PyQt6 application using ColPali and OpenAI to show Efficient Document Retrieval with Vision Language Models](https://github.com/hyun-yang/MyColPali)
+* [peepshow — video → frames → LLM. Any LLM CLI. Any storage backend.](https://www.peepshow.dev/)
+  * [peepshow: Turn a video — or an animated GIF, APNG, or WebP — into a timeline of still frames so an LLM can read it | t0mtaylor](https://github.com/t0mtaylor/peepshow)
+  * 영상·GIF·APNG·WebP를 정지 프레임 타임라인으로 바꿔 어떤 LLM CLI든 읽게 하는 도구. JavaScript, MIT
 * [PersonaPlex: Real-time, full-duplex speech-to-speech conversational model with persona control](https://arxiv.org/abs/2602.06053)
   * [personaplex](https://github.com/NVIDIA/personaplex)
   * [personaplex-7b-v1](https://huggingface.co/nvidia/personaplex-7b-v1)
