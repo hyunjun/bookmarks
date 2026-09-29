@@ -700,6 +700,8 @@ Finance
 * [파이썬 주식 투자 자동화 - YouTube](https://www.youtube.com/playlist?list=PLU9-uwewPMe0fB60VIMuKFV7gPDXmyOzp)
 * [파이스탁 - YouTube](https://www.youtube.com/c/pystock)
 * [**가상환경 파이썬 아나콘다 32비트 가상환경 만들고 키움 증권 API 연동 - 로스카츠의 AI 머신러닝**](https://losskatsu.github.io/it-infra/conda32)
+* [키움증권 클로드 연결하기 (키움증권 REST API) | 채널K by 키움증권 - YouTube](https://www.youtube.com/watch?v=w_Dff2p0gjg)
+  * 키움증권 공식 3분 안내—REST API로 내 주식계좌를 Claude에 연결해 AI와 트레이딩하는 방법
 * [삼성전자 주가 예측 - 미완성의신](https://unfinishedgod.netlify.app/2021/04/21/python-%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-%EC%A3%BC%EA%B0%80-%EC%98%88%EC%B8%A1/)
 * [Ehang 주가 분석 with 파이썬](https://seethefuture.tistory.com/63)
 * [How to Create a Mean Reverting Trading Algorithm - YouTube](https://www.youtube.com/watch?v=0PfgqNYTl4Q)
