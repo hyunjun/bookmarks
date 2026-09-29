@@ -150,6 +150,9 @@ Concurrency
 * [What happens when you run a CUDA kernel | Fergus Finn](https://fergusfinn.com/blog/what-happens-when-you-run-a-gpu-kernel/)
   * [CUDA 커널 한 줄이 실행되기까지: GPU 내부에서 실제로 벌어지는 모든 과정 | digitalbourgeois](https://digitalbourgeois.tistory.com/3323)
   * 간단한 벡터 덧셈 CUDA 프로그램이 RTX 4090에서 컴파일→실행되기까지의 전 과정 추적. 컴파일 파이프라인, 런타임 등록, 드라이버 커맨드 큐, QMD 생성, 워프 스케줄링, 메모리 계층까지
+* [The Modern CUDA Toolbox in Practice: A Step-by-Step Optimization Walkthrough | NVIDIA Technical Blog](https://developer.nvidia.com/blog/the-modern-cuda-toolbox-in-practice-a-step-by-step-optimization-walkthrough/)
+  * [code_steps — modern_cuda_cpp_blogpost | NVIDIA/accelerated-computing-hub](https://github.com/NVIDIA/accelerated-computing-hub/tree/main/resources/blogs/modern_cuda_cpp_blogpost/code_steps)
+  * 정확하고 유지보수 가능하며 빠른 CUDA 코드를 현대 CUDA C++ 툴박스로 단계별 최적화하는 워크스루—각 단계 코드 동봉
 * [cudaFlow: Modern C++ Programming Model for GPU Task Graph Parallelism - YouTube](https://www.youtube.com/watch?v=NwrFzWX5lnM)
 * [CuPy - A NumPy-compatible matrix library accelerated by CUDA](https://cupy.chainer.org/)
   * [Here’s How to Use CuPy to Make Numpy Over 10X Faster | by George Seif | Towards Data Science](https://towardsdatascience.com/heres-how-to-use-cupy-to-make-numpy-700x-faster-4b920dda1f56)
