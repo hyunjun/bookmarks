@@ -1588,6 +1588,8 @@ AWS
   * FastMCP 서버를 ECR/ECS Fargate에 배포하고 AgentCore Gateway에 연결하는 5단계 가이드
 * [Streamlining AWS ECS Infrastructure with Terraform | AWS in Plain English](https://aws.plainenglish.io/streamlining-aws-ecs-infrastructure-with-terraform-798e570f041d)
   * ALB·Auto Scaling·CloudWatch 모니터링을 갖춘 확장성 있고 안전한 ECS Fargate 아키텍처를 Terraform으로 배포
+* [ECS for Containerized Applications on AWS — my go-to default | Darryl Ruggles](https://www.linkedin.com/posts/darryl-ruggles_there-are-multiple-options-on-aws-for-running-share-7489528334817624064-wAQi/)
+  * AWS 컨테이너 실행 옵션 중 ECS를 기본으로 택하는 이유—컨트롤 플레인 무료, K8s보다 쉬운 설정, EC2 워커 또는 Fargate 서버리스
 * [ecs-fargate-fast-scaleout](https://github.com/serithemage/ecs-fargate-fast-scaleout/)
 * [terraform-aws-ecs-fargate](https://github.com/nalbam/terraform-aws-ecs-fargate)
 
@@ -1609,6 +1611,8 @@ AWS
 * [Fluent Bit 로 Kubernetes 에 배포된 어플리케이션 로그 수집하기](https://chang12.github.io/eks-fluent-bit-firehose/)
 * [Samsung Health: Scaling Mobile Application Development with Amazon EKS - YouTube](https://www.youtube.com/watch?v=S-JSSZZaa94)
 * [How to track costs in multi-tenant Amazon EKS clusters using Kubecost | Containers](https://aws.amazon.com/ko/blogs/containers/how-to-track-costs-in-multi-tenant-amazon-eks-clusters-using-kubecost/)
+* [Multi-Tenant SaaS Architecture on Amazon EKS: Real-World Deployment Notes | muzammilcloud](https://medium.com/@muzammilcloud/multi-tenant-saas-architecture-on-amazon-eks-real-world-deployment-notes-5d41e5e74264)
+  * 사용자별(per-user) 플랫폼을 EKS에 실제로 배포하며 일주일간 시행착오한 기록
 * [5일 만에 Azar Production Kubernetes cluster 이전하기 | Hyperconnect Tech Blog](https://hyperconnect.github.io/2020/11/02/cluster-migration-in-5-days.html)
 * [EKS에서 쿠버네티스 포드의 IAM 권한 제어하기: Pod Identity Webhook](https://tech.devsisters.com/posts/pod-iam-role/)
 * [Setting up a working environment for Amazon EKS with AWS CloudShell - DEV Community](https://dev.to/aws-builders/setting-up-a-working-environment-for-amazon-eks-with-aws-cloudshell-1nn7)
@@ -1696,6 +1700,9 @@ AWS
   * CA는 인스턴스 유형을 여러개 선택하더라도 확장될 때 어느 인스턴스 유형이 선택될지는 제어할 수 없어서 제약이 되었고 스팟 인스턴스를 사용할 때 스팟 인스턴스가 부족하다고 온디맨드로 대신 띄우는 등의 작업이 없음
   * 이러한 문제를 해결하기 위해 Karpenter 도입했는데 Karpenter는 Kubernetes 네이티브 리소스를 사용해서 더 유연하게 용량 관리를 할 수 있고 용량 유형도 선택 가능
   * 적용할 때는 Karpenter가 프로비저너가 없으면 아무일도 하지 않으므로 먼저 Karpenter를 배포하고 CA를 끄면서 Karpenter의 프로비저너와 노드 템플릿을 제공해서 Karpenter로 자연스럽게 교체. 적용 이후 유휴 비율이 50% 감소
+* [LLM on EKS: Scaling with Ray & Karpenter | danielcristho](https://danielcristho.site/blog/llm-on-eks-scale-llm)
+  * [LLM on EKS: Scaling with Ray & Karpenter | Medium](https://danielpepuho.medium.com/llm-on-eks-scaling-with-ray-karpenter-fc71c30ad6f2)
+  * vLLM을 Ray로 EKS에 서빙하고 Karpenter로 오토스케일링
 * [AWS EKS 비용 절감 방안 (인스턴스 비용 절감) — Jen's Space](https://jenakim47.tistory.com/98)
 * [Deploying to Amazon EKS with GitHub Actions - Octopus Deploy](https://octopus.com/blog/deploying-amazon-eks-github-actions)
 * [Kubernetes + EKS + Github Actions | by jerome.decoster | Medium](https://medium.com/@jerome.decoster/kubernetes-eks-github-actions-a874321fb9b4)
