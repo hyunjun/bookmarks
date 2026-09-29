@@ -744,6 +744,9 @@ Java
 * [map() Vs flatMap() | Java 8 Streams API | Difference between Map and FlatMap operations in Java ? - YouTube](https://www.youtube.com/watch?v=QEWvM1zmLIs)
 * [Master Stream API | Stream API in Java 8 Tutorial | Java 8 Stream API | Expertise Streams in Java - YouTube](https://www.youtube.com/watch?v=Yym2wmXWqa8)
 * [Dataframes, Collections, and Streams in Java by Donald Raab & Rustam Mehmandarov - YouTube](https://www.youtube.com/watch?v=K2pR7Nr6LUI)
+* [Java DataFrames: The Missing Tool in Your Data-Oriented Toolkit | InfoQ - YouTube](https://www.youtube.com/watch?v=BtHo0ggF7Bo)
+  * [Are You Missing a Data Frame? The Power of Data Frames in Java | InfoQ](https://www.infoq.com/presentations/data-frames-java)
+  * Vladimir Zakharov의 49분 발표—데이터 지향 프로그래밍(DOP)과 Java DataFrame이 고성능·유지보수 가능한 데이터 처리의 열쇠인 이유를 One Billion Row Challenge로 비교
 * [**Know your Java? by Venkat Subramaniam - YouTube**](https://www.youtube.com/watch?v=DHwNR7h3k5Y) Stream
 * [자바 8 람다에서 checked exception을 어떻게 구현하면 좋을까?](https://www.slipp.net/questions/572)
 * [Functional Exceptions In Java](https://8thlight.com/blog/brian-gerstle/2019/01/22/fnl-exceptions-in-java.html)
