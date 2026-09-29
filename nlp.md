@@ -2775,6 +2775,8 @@ NLP
   * 새 블록을 계속 쌓는 대신 동일한 Transformer 블록을 여러 번 재사용해 계산 깊이를 늘리는 Looped Transformer/Recurrent Depth 분석—GPT-6 Astra에서 관찰된 특징과의 관계, 반복 계산이 사용자에게 보이지 않는 hidden Chain of Thought와 어떻게 연결되는지, 기존 Transformer와의 차이·반복 비용·Universal Transformer 등 관련 연구 정리
   * [AI가 하루 넘게 혼자 알아서 일했다! | 티타임즈TV - YouTube](https://www.youtube.com/watch?v=JI9YoLVuiE4)
     * AGI 논쟁을 촉발한 GPT-6 Astra 11분 해설—화면 읽기·프로그램 조작 정확도 92.7%, 29시간 연속 자율 사이버보안 취약점 탐색, PCB 설계·게임 개발·건축 모델링 등 업무 통째 대행 사례
+  * ["추론의 강도를 바꿔야 토큰 아낀다" (강수진 박사) | 티타임즈TV - YouTube](https://www.youtube.com/watch?v=8racUuvPHeQ)
+    * 더 프롬프트컴퍼니 강수진 대표의 43분 대담—GPT-6 Astra는 좋은데 토큰이 비싸 제대로 못 쓴다는 문제에, 모델 특성('과하게 많이 만들고·검토를 오래 하고·추론을 세밀하게')을 파악해 중복 작업과 과도한 서브에이전트 생성을 프롬프트로 막는 것이 절약의 지름길이라는 노하우
 * [LLM vs. 전문가: AI가 인간의 직관과 경험을 대체할 수 있는가? - 인간의 직관이 중요한 이유. - 해경](https://www.haegyung.com/llm-vs-%EC%A0%84%EB%AC%B8%EA%B0%80-ai%EA%B0%80-%EC%9D%B8%EA%B0%84%EC%9D%98-%EC%A7%81%EA%B4%80%EA%B3%BC-%EA%B2%BD%ED%97%98%EC%9D%84-%EB%8C%80%EC%B2%B4%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8A%94%EA%B0%80/)
 * [경량화 레시피: Teacher 지식 조린 소형 모델, 근데 성능을 곁들인](https://d2.naver.com/helloworld/8866888)
 * [LLM 기반 체크리스트 생성 툴 공유](https://chance-doe.tistory.com/26)
@@ -3293,6 +3295,8 @@ NLP
     * [Jev 덕분에 구조화된 출력이 다시 흥미로워졌다 | GeekNews](https://news.hada.io/topic?id=33975)
     * "새 모델 리뷰는 Simon Willison의 몫"이라며 모델 글을 안 쓰는 저자가 예외로 쓴 에세이—프로그램의 의사결정 지점마다 빠르고 싼 판단이 놓이면 정교한 챗봇을 넘어 새로운 종류의 응용이 열린다는 논지. 여러 질문을 한 번에 병렬 처리하고, 텍스트로 전달한 게임 상태로 Doom을 실시간 플레이할 만큼 빠르다는 점을 근거로
   * [Jev CEO: I made ChatGPT, now I'm building what's next | AI Engineer - YouTube](https://www.youtube.com/watch?v=cJ0EOzey--o)
+    * [Jev가 자유로운 답변을 버린 이유, 자동화 AI는 무엇이 달라야 할까 | 조쉬의 뉴스레터 · EO](https://eopla.net/magazines/47300)
+      * 강연 해설—모델이 수학·코딩은 잘하는데 고객 문의 분류·환불 판단 같은 단순 업무는 못 맡기는 모순을 '지능'이 아니라 '목표'의 차이로 설명. 결정적 차이는 결과를 확인하는 사람이 작업 안에 있느냐: 보조 AI는 사람과의 대화가 빈틈을 메우지만, 백그라운드에서 돈·고객에 영향을 주는 결정을 곧바로 실행하는 자동화는 그 판단력을 시스템이 대신해야 하므로 자유 답변 대신 타입드 판단을 택했다는 논지
     * TypeSafe CEO Diogo Almeida(GPT-4 공저자)의 18분 강연—**RLHF는 루프 안의 인간을 기쁘게 하는 데 비상하게 뛰어난 모델을 만들었고, 그게 바로 문제**라는 진단에서 출발해 Jev가 겨냥하는 다음 단계를 설명
   * [Jev From TypeSafe is a New Class of AI Model that is FAST and CHEAP - But There is a Caveat | Gary Explains - YouTube](https://www.youtube.com/watch?v=qdji39XXgEY)
     * 11분 해설—자연어를 이해하되 답은 구조화된 응답+확률로만 돌려주는 LLM 아닌 모델이라는 정확한 위치 짚기
@@ -3307,6 +3311,8 @@ NLP
     * "이 티켓이 긴급한가" 같은 **초고빈도 소형 판단(micro-judgment)**에조차 LLM은 토큰을 순차 생성하며 파싱·검증·재시도 연쇄 지연을 만든다는 문제의식—텍스트 생성을 완전히 배제한 '의사결정 엔진' 범주의 등장으로 정리(판단이 싸지면 수요가 폭증한다는 제번스의 역설 프레임)
   * [Jev가 놀랍다면, AI Engineering을 하고 있는지 의심해 보자 | Taekyoon Choi | LinkedIn](https://www.linkedin.com/posts/taekyoon-choi_jev%EA%B0%80-%EB%86%80%EB%9E%8D%EB%8B%A4%EB%A9%B4-ai-engineering%EC%9D%84-%ED%95%98%EA%B3%A0-%EC%9E%88%EB%8A%94%EC%A7%80-%EC%9D%98%EC%8B%AC%ED%95%B4-%EB%B3%B4%EC%9E%90-share-7507772310515400704-vJI_/)
     * 가장 신랄한 반문—AI 엔지니어링은 원래 생성 태스크와 분류 태스크를 구분하고 분류는 가볍고 빠르게 최적화하는 일인데, **Jev가 놀랍다면 프로젝트에서 분류 문제를 정의조차 안 하고 생성만으로 때워 왔다는 뜻 아니냐**는 지적
+  * [structured output과 jev는 무엇이 다를까 | 은현수 | LinkedIn](https://www.linkedin.com/pulse/structured-output%EA%B3%BC-jev%EB%8A%94-%EB%AC%B4%EC%97%87%EC%9D%B4-%EB%8B%A4%EB%A5%BC%EA%B9%8C-%ED%98%84%EC%88%98-%EC%9D%80-teqtc/)
+    * ML 배경이 얕은 개발자가 "enum structured output이랑 뭐가 다르지?"라는 질문을 붙잡고 틀리고 고친 학습 기록—①형식 보장은 모델이 아니라 추론 엔진 코드가 토큰 후보를 걸러서 되는 것이라 그 점에선 둘이 같다, LLM은 JSON 껍데기를 한 토큰씩 받아 적고 실제 판단은 한 칸뿐인데 jev는 그 한 칸만 한 번에 채우는 쪽(추정) ②noul 0.3은 '30%만큼 자신 있다'가 아니라 '예일 확률 30%'—확률을 정도로 읽는 습관의 함정 ③choice는 평균을 내주지 않는다
   * [최근 TypeSafe AI의 Jev가 워낙 핫해서 이게 뭐지 하고 살펴봤습니다 | Seongeun So | LinkedIn](https://www.linkedin.com/posts/sungeuns2_%EC%B5%9C%EA%B7%BC-typesafe-ai%EC%9D%98-jev%EA%B0%80-%EC%9B%8C%EB%82%99-%ED%95%AB%ED%95%B4%EC%84%9C-%EC%9D%B4%EA%B2%8C-%EB%AD%90%EC%A7%80-%ED%95%98%EA%B3%A0-%EC%82%B4%ED%8E%B4%EB%B4%A4%EC%8A%B5%EB%8B%88%EB%8B%A4-share-7507822409333436416-z3Di/)
     * "Next LLM"이라는 카피에 대한 교정—TypeSafe 문서 스스로 숫자 계산·날짜 비교·다단계 추론·긴 문맥에 약하다고 명시하며, "hallucination 없음"도 판단이 항상 옳다는 게 아니라 **정의 안 된 필드·선택지를 생성하는 type/schema error가 구조적으로 없다**는 의미. BERT 계보 encoder-only 모델의 일반화가 아닌가 하는 추정(아키텍처 비공개라 단정 불가)과 함께 다루는 문제 자체는 새롭지 않다고 정리
   * [Opus 5.5 + Jev Just Solved AI's Biggest Problem | Nick Puru - YouTube](https://www.youtube.com/watch?v=Uq2tkX5_PRk)
@@ -3324,6 +3330,8 @@ NLP
   * [Awesome Jev / TypeSafe](https://abdelstark.github.io/awesome-typesafe-jev/)
     * [awesome-typesafe-jev: a source-backed field guide to TypeSafe's System One model, with SDKs, live demos, agent tools, and independent evaluations](https://github.com/AbdelStark/awesome-typesafe-jev)
     * "Jev는 소프트웨어에 타입드 판단을 주고, 코드는 여전히 주도권을 가진다"—문서화된 호출 예시(support-ticket 예제, 한 번의 호출로 세 개의 타입드 답) 확인, 라이브 프로젝트 체험, 스타터 복사, 독립 평가 열람으로 구성된 커뮤니티 필드 가이드. SDK·데모·에이전트 도구·독립 평가 큐레이션. MIT
+  * [🥊 CLM vs Laya vs OpenJev vs Kev vs Jev : 결정 모델 5종 속도·정확도·라이선스 비교 | fornewchallenge](https://fornewchallenge.tistory.com/entry/%F0%9F%A5%8A-CLM-vs-Laya-vs-OpenJev-vs-Kev-vs-Jev-%EA%B2%B0%EC%A0%95-%EB%AA%A8%EB%8D%B8-5%EC%A2%85-%EC%86%8D%EB%8F%84%C2%B7%EC%A0%95%ED%99%95%EB%8F%84%C2%B7%EB%9D%BC%EC%9D%B4%EC%84%A0%EC%8A%A4-%EB%B9%84%EA%B5%90)
+    * Jev 얼리 액세스(9/15) 2주 만에 쏟아진 결정 모델 5종—Jev(TypeSafe)·Laya(Convai)·OpenJev·Kev(Jared Palmer)·CLM-8B(Stanford·NVIDIA)—의 파라미터·라이선스·정확도·지연·비용을 같은 기준으로 비교하고 상황별 선택 가이드. 내 프로젝트에 결정 모델을 붙이는 에이전트 지시문 포함
   * [CLM: Contrastive Language Models — A System One Model for Fast and Generalizable Decision-Making](https://github.com/Contrastive-LM/CLM)
     * **상태(state)와 행동(action)을 잇는 대조학습(contrastive learning)으로 훈련한 새 계열의 System One 모델**—CLM-8B를 TypeSafe 호환 API로 서빙(Nemotron Q&A 6,000만 쌍 사전학습→합성 하드 네거티브 3,000만 중간학습→에이전틱 궤적 100만 사후학습). 컴퓨터 사용·게임·툴 호출에서 Jev와 동급 성능을 **최대 9배 낮은 지연**으로 낸다고 주장하고, 가벼운 파인튜닝으로 에이전틱 코딩 검증기(verifier) SOTA 주장—Terminal-Bench 2.1 87.6%, DeepSWE 81.6%(자체 보고)
     * 상태·행동을 분리(disaggregate)해 임베딩을 독립적으로 캐시·재사용하는 설계가 학습·서빙 비용을 낮추는 핵심. 파인튜닝 튜토리얼·HF 데이터/모델 공개. `pip install contrastive-lm`. Python, Apache-2.0, 1.7k stars(2026-09-23 생성 나흘 만)
@@ -4487,6 +4495,9 @@ NLP
     * [vLLM Metal — docs](https://docs.vllm.ai/projects/vllm-metal/)
     * [Announcing vllm-metal: Concurrent Serving on Apple Silicon | vLLM Blog](https://vllm.ai/blog/2026-09-22-vllm-metal-v0-28-0)
     * Mac 로컬 추론은 요청이 겹치는 순간 TTFT·메모리 증가·수용 제어가 문제가 되는데, vllm-metal은 **vLLM의 스케줄러·페이지드 KV 캐시·OpenAI 호환 서버를 Apple Silicon에 가져오고 실행은 MLX·Metal이 담당**—동시 에이전트 부하에서 평평한 TTFT, 배치 MTP, 자동 메모리 관리. 첫 공식 릴리스 v0.28.0부터 업스트림 vLLM과 버전 정렬. Python, Apache-2.0, 1.8k stars
+  * [vLLM-Omni](https://docs.vllm.ai/projects/vllm-omni/)
+    * [vllm-omni: A framework for efficient model inference with omni-modality models | vllm-project](https://github.com/vllm-project/vllm-omni)
+    * 옴니모달(텍스트·이미지·오디오·비디오) 모델 추론용 vLLM 프로젝트. Python, Apache-2.0, 7.1k stars
 * VRAM & Performance Calculator [Can You Run This LLM? VRAM Calculator (Nvidia GPU and Apple Silicon)](https://apxml.com/tools/vram-calculator)
   * [내 맥북에서 어떤 LLM까지 돌릴 수 있을까? ](https://www.facebook.com/syp.sypark/videos/1404010003932593)
 * [webGPT: LLM이 Human Sequence of Actions을 모방할 수 있는가? | OPENAI 2021 | 조용래 - YouTube](https://www.youtube.com/watch?v=0yMZyIru-X0)
@@ -6136,6 +6147,8 @@ NLP
 * [How OpenAI Delivers Low-Latency Voice AI at Scale | OpenAI](https://openai.com/index/delivering-low-latency-voice-ai-at-scale/)
   * [OpenAI가 대규모 저지연 음성 AI를 제공하는 방법 | GeekNews](https://news.hada.io/topic?id=29168)
   * 주간 9억+ 사용자 대상 1:1 음성 대화를 위해 WebRTC를 relay+transceiver 구조로 재설계. SFU 대신 패킷 라우팅(relay)과 프로토콜 처리(transceiver) 분리, ICE username fragment 결정적 라우팅으로 K8s 배포의 UDP 노출 최소화
+* [Voice AI Security: Building Realtime Voice Agents with WebRTC, LiveKit, and Sensitive Data | WebRTC.ventures](https://webrtc.ventures/2026/06/slug-voice-ai-security-webrtc-livekit-guardrails/)
+  * 사후가 아니라 라이브 음성 파이프라인 안에서 돌아가는 보안 통제—PII/PHI 실시간 마스킹, 도구 호출 가드레일, 감사 로깅을 LiveKit·WebRTC·GLiGuard로 구현
 * [Lowest-Latency Inference APIs for Voice and Realtime Agents: A Time to First Token TTFT-First Benchmark | MarkTechPost](https://www.marktechpost.com/2026/08/30/lowest-latency-inference-apis-for-voice-and-realtime-agents-a-time-to-first-token-ttft-first-benchmark/)
   * [음성 AI 추론 API 성능 비교: TTFT보다 중요한 실제 응답 속도의 기준 | digitalbourgeois](https://digitalbourgeois.tistory.com/3604)
   * 음성 에이전트용 추론 API의 TTFT·first audio 시간·전체 파이프라인 레이턴시 버짓 벤치마크. TTFT만으로는 체감 속도 판단 불가—TTS는 완성된 구절이 필요하므로 TTFS(Time to First Sentence)와 STT→LLM→TTS→네트워크 전 단계를 함께 측정해야 함
@@ -6304,6 +6317,9 @@ NLP
   * CPU 실행 최적화 100M 파라미터 경량 TTS. 첫 청크까지 ~200ms 저지연, 다국어·음성 복제·스트리밍 출력, GPU 불필요
 * [pyttsx3 - Text-to-speech x-platform — pyttsx3 2.6 documentation](https://pyttsx3.readthedocs.io/)
 * [Qwen2-Audio: The official repo of Qwen2-Audio chat & pretrained large audio language model proposed by Alibaba Cloud](https://github.com/QwenLM/Qwen2-Audio/)
+* [Qwen3.8-LiveTranslate | Qwen Blog](https://qwen.ai/blog?id=qwen3.8-livetranslate)
+  * [Qwen3.8-LiveTranslate, 화자와 문맥까지 이해하는 실시간 동시통역 AI | digitalbourgeois](https://digitalbourgeois.tistory.com/3701)
+  * 음성과 텍스트를 하나의 흐름으로 처리하는 Interleave 아키텍처 기반 실시간 동시통역 모델—충실도·유창성·간결성을 높이면서 평균 지연 2.8초→2.3초. 실시간 화자 분리, 원문·번역문 동기화 출력, 긴 문맥으로 번역 모호성 해소
 * [Qwen3-ASR: Qwen3-ASR is an open-source series of ASR models developed by the Qwen team at Alibaba Cloud, supporting stable multilingual speech/music/song recognition, language detection and timestamp prediction](https://github.com/QwenLM/Qwen3-ASR)
   * [Qwen3-ASR 및 Qwen3-ForcedAligner가 오픈소스로 공개](https://www.facebook.com/groups/255834461424286/?multi_permalinks=2857185841289122&hoisted_section_header_type=recently_seen)
   * [맥에서 Qwen3 ASR 쓰는 팁](https://x.com/xrath/status/2031588181347328165)
