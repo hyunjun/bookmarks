@@ -664,6 +664,8 @@ AWS
 * [Serverless Architecture using AWS Lambda, API Gateway and DynamoDB](https://morioh.com/p/915be75bf31c)
 * [AWS IoT Private CA을 이용하여 Amazon API Gateway에서 양방향 TLS 인증하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/mutual-tls-authentication-using-aws-iot-private-ca/)
 * [Amazon API Gateway 프라이빗 통합에서의 VPC 링크 이해 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/understanding-vpc-links-in-amazon-api-gateway-private-integrations/)
+* [Control AWS Traffic: Smart Serverless Throttling | DevOps Tour](https://devopstour.hashnode.dev/control-aws-traffic-smart-serverless-throttling)
+  * 지능형 서버리스 트래픽 규칙으로 백엔드를 보호하고 비용을 낮추는 스로틀링 설계
 
 # AppConfig
 * [dynamic_configurations_prototype.py at main · nsantti/code-examples](https://github.com/nsantti/code-examples/blob/main/src/videos/aws/dynamic_configurations_prototype.py)
