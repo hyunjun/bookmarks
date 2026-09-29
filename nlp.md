@@ -1148,6 +1148,10 @@ NLP
     * [ChatRWKV - RWKV(100% RNN)로 구현한 ChatGPT와 비슷한 오픈소스 | GeekNews](https://news.hada.io/topic?id=8329)
   * [discuss-chatgpt: "사람들은 왜 ChatGPT에 열광하는가?" 집중 토의](https://github.com/AttentionX/discuss-chatgpt)
   * [chatgpt-weak-labeler-web-ui: Weak Labeling (NER) using ChatGPT](https://github.com/ainbr/chatgpt-weak-labeler-web-ui)
+  * [dots를 소개합니다 | OpenAI](https://openai.com/ko-KR/index/introducing-dots/)
+    * [🫧 OpenAI dots : GPT-6 Astra 기반 상시 작동 에이전트, 4,000개 앱 연결 | fornewchallenge](https://fornewchallenge.tistory.com/entry/%F0%9F%AB%A7-OpenAI-dots-GPT-6-Astra-%EA%B8%B0%EB%B0%98-%EC%83%81%EC%8B%9C-%EC%9E%91%EB%8F%99-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-4000%EA%B0%9C-%EC%95%B1-%EC%97%B0%EA%B2%B0)
+      * DevDay 2026 발표 해설—공식 문서로 확인된 스펙·요금제만 정리(첫 dot은 Pro·Business Premium에 추가 비용 없이 포함, dot과의 대화는 사용량 한도 미포함이지만 Codex·ChatGPT Work에 맡긴 작업은 포함, 추후 dot 추가·속도 증량은 월정액 예고). 안전장치 4층(격리·비밀번호 비노출, 읽기 전용 선제적 조사, 허용/승인/차단 3단계 규칙, 활동 보기·Agent 365 거버넌스)이 무엇을 막고 무엇은 못 막는지 구분. Meta Muse와 같은 "개인 에이전트" 카테고리 선점 경쟁으로 해석
+    * 2026-09-29 공개. GPT-6 Astra 기반 상시 작동(always-on) 개인 에이전트—자체 클라우드 컴퓨터·브라우저를 갖고 코드 작성·테스트·PR까지 수행, 플러그인 생태계로 4,000개+ 앱 연결, ChatGPT·문자(iMessage/RCS)·Slack·Teams·음성 통화 어디서든 맥락 유지. 피드백으로 사용자 기준을 학습해 부탁 전에 결과물을 가져오는 것이 목표. 지원 지역 Pro·Business Premium·Enterprise 순차 제공, 조직 내 고유 ID를 갖는 전문 dot은 기업 파일럿·Microsoft Agent 365 통합
   * [GPT-4](https://openai.com/product/gpt-4)
     * [OpenAI - GPT-4 발표. ChatGPT Plus에서 GPT-4 모델 선택가능 | GeekNews](https://news.hada.io/topic?id=8697)
     * [IT TREND AI 시장 동향 : GPT-4의 등장](https://tech.kakaoenterprise.com/185)
@@ -3128,6 +3132,10 @@ NLP
 * [dllm: dLLM: Simple Diffusion Language Modeling](https://github.com/ZHZisZZ/dllm)
 * [Dr.LLaMA: Improving Small Language Models Through Generative Data Augmentation](https://github.com/zguo0525/Dr.llama)
 * [embedchain: Data platform for LLMs - Load, index, retrieve and sync any unstructured data](https://github.com/embedchain/embedchain)
+* Ember-1 [Introducing Ember-1 | Fireworks AI](https://fireworks.ai/blog/ember-1)
+  * [Ember-1, Kimi K3 성능은 유지하고 토큰 사용량은 40% 줄인 추론 모델 | digitalbourgeois](https://digitalbourgeois.tistory.com/3708)
+  * Fireworks Research의 첫 자체 특화 모델(2026-09-23). Kimi K3를 추가 학습해 답변 품질은 유지하면서 추론 토큰 40% 절감—추론 강도(effort)를 낮추면 품질이 떨어지는 문제를, 오류 복구용 자기 성찰은 보존하고 불필요한 추론·비생산적 루프만 줄이도록 수학·코딩·도구 사용·SWE 등 과제 피드백 기반 on-policy 학습으로 해결. 50회+ 학습 실험·200회+ 평가, Fireworks Serverless Training 사용, 고객 데이터 미사용
+  * 추론 모델은 생성 토큰의 90% 이상이 내부 추론일 수 있고 멀티턴 에이전트에서는 이전 추론이 매 턴 재입력돼 컨텍스트가 턴 수의 제곱으로 증가—7개 벤치마크·고객 2곳 프로덕션 트래픽에서 추론 35~50% 단축에 정확도 유지. Terminal Bench 2.1 82.0%(K3-max 80.9%, 비용 -51.9%)·SWE-bench Verified 92.2%(93.2%, -15.5%)·DeepSWE 1.1 75.2%(66.4%, -23.7%), 고객 A/B 테스트 작업당 토큰 약 35% 절감. Doximity Bedside Bench(SII)에서 GPT-5.6 Sol·GPT-6 Astra·Claude Opus 5 대비 비용/과제 파레토 프런티어
 * [Ecco - Look Inside Language Models](https://www.eccox.io/)
   * [Jay Alammar - Take A Look Inside Language Models With Ecco | PyData Khobar - YouTube](https://www.youtube.com/watch?v=rHrItfNeuh0)
 * ERNIE Bot [文心一言](https://yiyan.baidu.com/)
@@ -3335,6 +3343,10 @@ NLP
   * [CLM: Contrastive Language Models — A System One Model for Fast and Generalizable Decision-Making](https://github.com/Contrastive-LM/CLM)
     * **상태(state)와 행동(action)을 잇는 대조학습(contrastive learning)으로 훈련한 새 계열의 System One 모델**—CLM-8B를 TypeSafe 호환 API로 서빙(Nemotron Q&A 6,000만 쌍 사전학습→합성 하드 네거티브 3,000만 중간학습→에이전틱 궤적 100만 사후학습). 컴퓨터 사용·게임·툴 호출에서 Jev와 동급 성능을 **최대 9배 낮은 지연**으로 낸다고 주장하고, 가벼운 파인튜닝으로 에이전틱 코딩 검증기(verifier) SOTA 주장—Terminal-Bench 2.1 87.6%, DeepSWE 81.6%(자체 보고)
     * 상태·행동을 분리(disaggregate)해 임베딩을 독립적으로 캐시·재사용하는 설계가 학습·서빙 비용을 낮추는 핵심. 파인튜닝 튜토리얼·HF 데이터/모델 공개. `pip install contrastive-lm`. Python, Apache-2.0, 1.7k stars(2026-09-23 생성 나흘 만)
+  * [imajev: Open Jev-style typed-decision model that also takes images: photo + app state + typed questions in, calibrated probabilities out, locally](https://github.com/mohit67890/imajev)
+    * [imajev — Decisions for real-world cases](https://mohit67890.github.io/imajev/)
+    * 사진·기록·텍스트를 함께 받아 미리 정한 선택지에 대한 보정 확률과 명시적 "can't tell"을 반환하는 오픈 결정 모델(2B·4B·9B, 로컬 실행). Jev와 같은 `POST /v1/systemone` 스키마(state+questions, choice·noul), 상품 리스팅 색상 vs 사진 대조·반품·불량 부품·CRM 대조 이메일·환불 정책 등 예제와 HF Spaces 라이브 데모
+    * 독립 리더보드(2026-09-28 기준) JevBench v1.4.2.2 91개 중 1위(imajev-4b 67.37, Jev 1.13.0 63.29 앞), Image JevBench v0.1.3 49개 중 1위(Jev-Omni 12B 앞), DecisionBench(eng v1) 56개 중 3위(GPT-5.6 Luna·DeepSeek V4.1 Flash 앞). ImajevBench 데이터셋·기술 보고서 공개. Python, Apache-2.0, 130 stars
   * [Jev Engineering for Coding Agents: The TypeSafe Founder's Blueprint for Building with Jev (PDF)](pdfs/jev_engineering_for_coding_agents.pdf)
     * TypeSafe 창업자 Diogo Almeida의 설계 노트를 제3자가 정리한 12쪽 워킹 노트(2026-09, TypeSafe 비공식). 핵심 질문 "LLM에 KV 캐시가 없다면 코딩 에이전트를 어떻게 설계할까?"—KV 캐시 경제학이 append-only 트랜스크립트를 강제하며 현재 에이전트의 6가지 설계를 낳았다는 진단: ①라우팅 실패(Opus→Sonnet→Opus 경로가 컨텍스트 재처리 때문에 pure Opus 4.15 대비 6.19로 더 비쌈—토큰당이 아니라 컨텍스트 재구축당 가격을 매겨야 함) ②툴 스키마가 컨텍스트를 잠식 ③질문을 모른 채 압축하는 compaction ④상태 전달이 어려워 드물게 쓰이는 서브에이전트 ⑤좋은 상태까지 버리는 재시작 ⑥내장 기능이 컨텍스트를 영구 점유하는 batteries 논쟁. 토큰은 파일 읽기 30~40%·검색 10~18%·명령 출력 10~20%가 차지하고 코드 작성은 4~10%뿐(Microsoft fastcontext: GPT-5.4 궤적의 툴 호출 56.2%가 읽기·검색)
     * 대안: 상태를 주소 지정 가능한 타입드 청크로 명시하고 Jev가 매 턴 판단—컨텍스트 청크별 가시성 사다리(hide/short/long/full, 질의 인지 압축), 캐시 재사용 vs 재구축 noul, 라우팅 choice+비용 추정, 툴 top-k 선택(스니펫→스키마 온디맨드→문서 3단 공개), 명령 실행 allow/ask/deny 프로그래머블 권한 정책, 파일 민감도 점수로 보안 인지 라우팅(비밀·인프라 설정은 1st-party 프론티어만). 조건부 AGENTS.md(작업 조건에 붙어 compaction에 면역인 지시), 읽기/쓰기 타입 명시로 잠금 기반 극단적 병렬화와 서브골 중복 제거, 읽기 전용 백그라운드 작업(크로스 모델 리뷰·eval 생성·ELI5·진행 페이지)이 검색 패스 하나를 공유. 후보 내장 도구: headroom·rtk·ast-grep·ast-outline·fastcontext·fff
