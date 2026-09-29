@@ -2183,6 +2183,9 @@ Web
 * [Osmedeus — A Modern Orchestration Engine for Security](https://www.osmedeus.org/)
   * [osmedeus: A Modern Orchestration Engine for Security | j3ssie](https://github.com/j3ssie/osmedeus)
   * 정찰·취약점 스캔 워크플로를 선언적으로 조합·병렬 실행하는 보안 오케스트레이션 엔진. Go, MIT, 6.6k stars
+* [Sn1per - Attack Surface Management & Pentesting Platform](https://sn1persecurity.com/)
+  * [Sn1per: Automated penetration testing & attack surface management platform. Recon, scan, exploit, report | 1N3](https://github.com/1N3/Sn1per)
+  * 공격자 관점의 자동 공격 표면 관리·지속적 펜테스팅·익스플로잇 검증 플랫폼(정찰→스캔→익스플로잇→리포트). Shell, 11.3k stars
 
 # Server
 * [스타트업을 위한 서버 안내서](https://subokim.wordpress.com/2015/07/17/server-for-startup/)
