@@ -1081,6 +1081,8 @@ App
   * [Nix is my favorite package manager to use on macOS - YouTube](https://www.youtube.com/watch?v=Z8BL8mdzWHI)
   * [Deploying Containers on NixOS](https://bkiran.com/blog/deploying-containers-nixos)
 * [nocodb: 🔥 🔥 The Open Source Airtable alternative](https://github.com/nocodb/nocodb)
+  * [NocoDB Cloud](https://nocodb.com/)
+  * 셀프호스팅 가능한 오픈소스 Airtable 대안. TypeScript, 65k stars
 * [OpenProject - Open Source Project Management Software](https://www.openproject.org/)
   * [openproject: Community edition of OpenProject - classic, agile, and hybrid project management](https://github.com/opf/openproject)
   * 간트 차트·Scrum/Kanban 보드·팀 플래너·업무 패키지·시간 추적·예산 관리. Nextcloud/OneDrive/GitHub/GitLab 연동. Community(무료 셀프호스트)/Enterprise On-prem/Enterprise Cloud 3가지 배포. GPL v3, Siemens·Deutsche Bahn 등 사용
@@ -2662,12 +2664,17 @@ App
   * [맥 화면 녹화 소리 포함 시키는 방법 / Big Sur / M1](https://creavart.tistory.com/392)
 * [boltstream: Boltstream Live Video Streaming Website + Backend](https://github.com/benwilber/boltstream)
 * Canva [이미지 편집 서비스 캔바(Canva)](https://www.44bits.io/ko/post/preparing-wtd-meetup-without-a-designer-nor-photoshop#%EC%9D%B4%EB%AF%B8%EC%A7%80-%ED%8E%B8%EC%A7%91-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%BA%94%EB%B0%94canva)
+* [ChatCut · AI Video Editor | Edit Videos with Prompts](https://chatcut.io/)
+  * 프롬프트로 영상을 편집하는 AI 비디오 에디터
 * [Cleanup.pictures - Remove objects, people, text and defects from any picture for free](https://cleanup.pictures/)
   * [Cleanup Pictures - 사진에서 필요없는 부분 지우기 | GeekNews](https://news.hada.io/topic?id=5843)
 * [cmdpxl: totally practical command-line image editor](https://github.com/knosmos/cmdpxl)
 * [Compositor – The Photoshop alternative for Mac](https://robbietilton.com/compositor)
   * [Compositor: The Photoshop alternative for Mac | robbietilton](https://github.com/robbietilton/Compositor)
   * 무료 오픈소스 Mac 네이티브 이미지 편집 앱—"Photoshop은 너무 비싸고 GIMP는 흐름을 유지할 만큼 익숙하지 않아서 만들었다"는 동기로, 전문적 컴포지팅에 필요한 도구를 Photoshop 사용자에게 익숙한 감각으로 제공. Swift, MIT, 5.6k stars
+* [CompressO: Compress any video/image into a tiny size](https://compresso.codeforreal.com/)
+  * [compressO: Convert any video/image into a tiny size. 100% free & open-source. Available for Mac, Windows & Linux | codeforreal1](https://github.com/codeforreal1/compressO)
+  * 100% 무료·오프라인·오픈소스 영상/이미지 압축 앱(Mac·Windows·Linux). TypeScript, AGPL-3.0, 4.7k stars
 * [다운튜브 DownTube - 동영상 다운로드 프로그램 4K/8K 가능](http://downtube.org/)
 * [Durdraw - ANSI, ASCII and Unicode Art Animation Studio for Linux](https://durdraw.org/)
   * [durdraw: Versatile ASCII and ANSI Art text editor for drawing in the Linux/Unix/macOS terminal, with animation, 256 and 16 colors, Unicode and CP437, and customizable themes](https://github.com/cmang/durdraw/)
@@ -2686,6 +2693,7 @@ App
 * [Filmulator - A simple raw photo editor based on the process of developing film](https://filmulator.org/)
 * [Forensically, free online photo forensics tool](http://29a.ch/photo-forensics)
 * [FreeCut: A professional-grade video editor that runs entirely in your browser](https://github.com/walterlow/freecut)
+  * [FreeCut 공식 사이트](https://www.freecut.net/)
   * 브라우저 기반 로컬 비디오 에디터. 멀티트랙 편집, CSS 필터/키프레임 애니메이션, WebCodecs로 MP4/WebM/MOV 직접 내보내기. 파일 업로드 없이 5GB까지 처리
 * [Free Image Highlight](https://www.simplehighlighterpngjpg.com/)
   * [간단한 이미지 하이라이터 | GeekNews](https://news.hada.io/topic?id=15221)
@@ -2716,6 +2724,8 @@ App
 * [Lap — Private Local Photo Manager](https://julyx10.github.io/lap/)
   * [julyx10/lap: An offline-first photo manager for large local libraries](https://github.com/julyx10/lap)
   * 로컬 퍼스트·프라이버시 중심 오픈소스 사진 관리 데스크톱 앱(macOS/Windows/Linux). 클라우드 없이 기존 폴더 구조 그대로 사용, 온디바이스 로컬 AI 검색(텍스트·유사 이미지·얼굴 클러스터링·50개+ 언어 멀티링궐). Apple Live Photos·RAW+JPEG/HEIC 페어링, 룰 기반 스마트 앨범, 4분할 컬링 뷰어, 중복 탐지, 기본 편집(크롭·회전·리사이즈), 60개+ 포맷 지원. Tauri+Rust·Vue·SQLite·ONNX Runtime·CLIP·InsightFace. GPL-3.0
+* [llmpeg: AI-powered FFmpeg command generator. Describe your video task in plain English, get the perfect command | ali-master](https://github.com/ali-master/llmpeg/)
+  * 영상 작업을 영어로 설명하면 FFmpeg 명령을 만들어 주는 CLI. TypeScript, MIT
 * [Lottielab | Create and Edit Lottie Animations](https://www.lottielab.com/)
   * [GIF보다 작고 또렷한 로티 애니메이션 제작 ‘Lottielab’ | 요즘IT](https://yozm.wishket.com/magazine/detail/2202/)
   * [Lottie Creator: 로티 애니메이션을 제작할 수 있는 웹 기반 무료 디자인 도구 | GeekNews](https://news.hada.io/topic?id=17094)
