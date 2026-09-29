@@ -122,6 +122,8 @@ Artificial Intelligence
 * [주디아 펄의 “인과에 대하여(The book of Why)”](http://newspeppermint.com/2019/04/08/m-book-of-why/) causal inference
 * [awesome-causal-inference](https://github.com/ksseono/awesome-causal-inference)
 * [What Is Causal Inference? – O’Reilly](https://www.oreilly.com/radar/what-is-causal-inference/)
+* [Inference Basics: KV Cache, Batching & Parallelism | s09g](https://s09g.medium.com/inference-basics-kv-cache-batching-parallelism-0c04378d4067)
+  * 2025-03 'Design ChatGPT' 시스템 디자인 영상을 정리한 추론 기초—KV 캐시·배칭·병렬화
 * [Inference Engineering | Baseten Books](https://www.baseten.co/inference-engineering/)
   * [Baseten 회사에서 Inference Engineering(추론 엔지니어링) 책 공개 | gasida](https://www.linkedin.com/posts/gasida99_baseten-%ED%9A%8C%EC%82%AC%EC%97%90%EC%84%9C-inference-engineering-%EC%B6%94%EB%A1%A0-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81-ugcPost-7483789099389308928-wzgP/)
   * Baseten이 공개한 추론 엔지니어링 책—모델 서빙을 프로덕션 규모로 운영하는 실무 지식 정리
@@ -563,6 +565,11 @@ Artificial Intelligence
 # AI agent
 * [취향 중심과 기능 중심의 사업 활동은 어떻게 다른가?](https://brunch.co.kr/@graypool/1976)
   * AI Agent, AI agentic, AI assistant 차이
+* AI 와 AI Agent, 무엇을 봐야 하는가 — 코드 없이 그리는 개념 지도 3부작 | Keehyun Jang (AWS) | AWS Builder Center
+  * [(1) 모델과 Context](https://builder.aws.com/content/3JY2jvE8CUxjri8cavsGeaZ6muy/ai-ai-agent-1-context)
+  * [(2) Agent 와 배선](https://builder.aws.com/content/3Jrhnh36xeZ4xBXyvWVzdZezbbK/ai-ai-agent-2-agent)
+  * [(3) 현실, 안전, 그리고 여섯 개의 질문](https://builder.aws.com/content/3Js1enoxckZinJRmQjmF4Ourlb0/ai-ai-agent-3)
+  * 비개발자도 읽는 개념 지도—1편: AI가 실제로 무엇이고 무엇을 보여주느냐(context)가 왜 결과를 좌우하는가 / 2편: 챗봇에서 Agent로 넘어가는 지점과 Agent를 이루는 harness·MCP·skill, 자율성 L1~L4(HITL은 L2·L3)와 '되돌릴 수 없거나 고위험이면 L2 이하'라는 업무별 자율 등급 선택, multi-agent 분업 / 3편: 도입의 가치·리스크·거버넌스와 판단용 여섯 질문. 비유—생각하는 두뇌(모델) 위에 행동하는 손(도구·MCP), 루프를 돌리는 몸(harness), 참고 카드(skill)
 * [Agentic AI Architecture on AWS for Secure AI Governance | Rajesh Kumar](https://www.linkedin.com/posts/rajesh-kumar-ba6a837_artificialintelligence-agenticai-generativeai-share-7472660842652667905-EnYi)
   * AWS 기반 프로덕션 에이전틱 AI 아키텍처 패턴. Bedrock AgentCore(Runtime·Gateway·Memory·Identity·Observability), OpenSearch 하이브리드 검색(벡터+BM25), Lambda 도구 실행, Cognito 인증. Bedrock Guardrails로 PII 마스킹·콘텐츠 필터링, 고위험 작업에 Human-in-the-Loop 승인
 * [Multi-tenant agentic AI system | Google Cloud Architecture Center](https://docs.cloud.google.com/architecture/multi-tenant-agentic-ai-system?hl=ko)
@@ -1558,6 +1565,9 @@ Artificial Intelligence
   * [openfang: The Agent Operating System — open-source, built in Rust](https://github.com/RightNow-AI/openfang)
   * [32MB 단일 바이너리로 AI 에이전트 자율 실행 OpenFang 무료 에이전트 OS 완벽 가이드](https://fornewchallenge.tistory.com/entry/%F0%9F%9A%80-32MB-%EB%8B%A8%EC%9D%BC-%EB%B0%94%EC%9D%B4%EB%84%88%EB%A6%AC%EB%A1%9C-AI-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EC%9E%90%EC%9C%A8-%EC%8B%A4%ED%96%89-OpenFang-%EB%AC%B4%EB%A3%8C-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-OS-%EC%99%84%EB%B2%BD-%EA%B0%80%EC%9D%B4%EB%93%9C)
   * Rust 기반 오픈소스 에이전트 OS. 32MB 단일 바이너리로 7개 자율 Hands(영상 편집, 리드 발굴, OSINT, 예측, 리서치, 트위터, 브라우저), 40개 메시징 어댑터, 27개 LLM 프로바이더, 16개 보안 레이어(WASM 샌드박스, Ed25519 서명, Merkle 감사 추적) 제공
+* [OpenGuider](https://mo-tunn.github.io/OpenGuider/)
+  * [OpenGuider: An AI companion that lives on your desktop — watches your screen, listens to your voice, and guides every step | mo-tunn](https://github.com/mo-tunn/OpenGuider)
+  * 화면을 보고 음성을 들으며 작업을 단계별로 안내하는 데스크톱 AI 컴패니언—가이드형 AI 플래닝, 플러그인 기반 자동화, 음성 제어, 포인터 보조. JavaScript, Apache-2.0
 * [OpenHuman: Your Personal AI super intelligence. Private, Simple and extremely powerful](https://tinyhumans.ai/openhuman)
   * [openhuman: Your Personal AI super intelligence](https://github.com/tinyhumansai/openhuman)
   * [OpenHuman: 개인용 AI 슈퍼 인텔리전스 오픈소스 프로젝트 핵심 정리](https://digitalbourgeois.tistory.com/3152)
@@ -2514,6 +2524,9 @@ Artificial Intelligence
     * 현재는 OpenAI, Hugging Face, Replicate의 플랫폼 지원
 * [AI Getting Started](https://ai-companion-stack.com)
   * [companion-app: AI companions with memory: a lightweight stack to create and host your own AI companions](https://github.com/a16z-infra/companion-app)
+* [AI-Infra-from-Zero-to-Hero: 🚀 Awesome System for Machine Learning ⚡️ AI System Papers and Industry Practice | HuaizhengZhang](https://github.com/HuaizhengZhang/AI-Infra-from-Zero-to-Hero)
+  * [Hunter Zhang (Huaizheng Zhang) — ML Engineer, Researcher and Creator](https://huaizheng.xyz/)
+  * ML 시스템·AI 인프라 논문과 산업 실무 자료를 0에서 전문가까지 단계별로 엮은 큐레이션. 4.4k stars
 * [AI Model & API Providers Analysis | Artificial Analysis](https://artificialanalysis.ai/)
 * [AI•ON: AI Open Network](https://tensorflowkorea.wordpress.com/2016/10/19/ai%E2%80%A2on-ai-open-network/)
 * [AI-Research-SKILLs: Comprehensive open-source library of AI research and engineering skills](https://github.com/Orchestra-Research/AI-research-SKILLs)
@@ -5535,6 +5548,9 @@ Artificial Intelligence
   * [Ahmed Ben Abdallah - The Agency: 레딧 포스트에서 9개월 만에 126k stars가 된 AI 에이전트 프로젝트 | Facebook](https://www.facebook.com/elbonay.duredeyef/posts/pfbid0VcNRFjX1X8uW4u1ySDwb8c6kbTVhZkMw9FZ1YHvpzFYm9mGPAF4CvNkshEP7nZq6l)
     * 2025년 10월 레딧 포스트(938 stars)에서 9개월 만에 126k stars·20.4k forks로 성장한 스토리. 단일 "갓 에이전트" 대신 실제 회사 조직 구조를 모방한 것이 혁신—Whimsy Injector, Reality Checker, Medical Billing Specialist, Grant Writer 등. Windows/macOS/Linux 데스크톱 앱 추가, 일본어 브랜치 97개 등 8개 언어 번역
   * 16개 디비전(엔지니어링 32·마케팅 38·디자인·세일즈·프로덕트·게임 개발 30+·GIS/공간 컴퓨팅 20+·금융·보안 등) 232개 에이전트 페르소나—정체성·핵심 규칙·워크플로우·산출물·성공 지표 정의. Claude Code/Copilot/Cursor/Aider/Windsurf/OpenCode/Antigravity 등 10+ 도구 자동 변환 설치. MIT, 126k stars
+* [Agent OS | Coding standards for AI-powered development](https://buildermethods.com/agent-os)
+  * [agent-os: A system for injecting your codebase standards and writing better specs for spec-driven development | buildermethods](https://github.com/buildermethods/agent-os)
+  * 코딩 표준을 캡처·유지·배포해 모든 에이전틱 개발 작업에 주입하고 SDD용 스펙을 더 잘 쓰게 하는 시스템(ouroboros의 'Agent OS' 슬로건과는 별개 프로젝트). Shell, MIT, 5.5k stars
 * [agent-ops: Manage Codex, Claude Code and Kiro CLI conversations and runs locally](https://github.com/whchoi98/agent-ops)
   * [my-agent-ops 소개 | 최우형 | LinkedIn](https://www.linkedin.com/posts/woohyungchoi_aiagents-developertools-codex-ugcPost-7509456639347904512-Bbis/)
   * Codex·Claude Code·Kiro CLI의 대화와 실행을 한곳에서 다루는 로컬 워크벤치(앱명 my-agent-ops, npm 패키지 `agent-ops-local`, 명령어 `agent-ops`)—네이티브 히스토리를 가져와 전문 검색·필터·노트·태그·세션 비교, CLI 명령·권한을 미리 보고 작업을 대기열로 실행하며 실시간 로그 추적·취소, 우선순위·기한·세션 링크를 갖춘 워크아이템 보드, 파라미터화된 프롬프트 템플릿, 출처가 남는 컨텍스트 팩(Markdown/JSON 내보내기)
@@ -5720,6 +5736,8 @@ Artificial Intelligence
   * [Hooks reference - Claude Code](https://code.claude.com/docs/en/hooks)
     * [Claude Code HTTP Hook 기능 추가: 자동화 워크플로우 확장 방법 정리](https://digitalbourgeois.tistory.com/2836)
     * 특정 라이프사이클 시점에 셸 명령/HTTP 엔드포인트/LLM 프롬프트를 자동 실행. 외부 시스템 연결로 중앙 집중식 정책 관리와 워크플로우 자동화
+    * [클로드 코드 hook 재귀 루프 사고로 토큰 60M 날리고 배운 것 | 개발자H | 요즘IT](https://yozm.wishket.com/magazine/detail/3963/)
+      * SessionEnd 훅에서 `claude -p`로 새 세션을 띄웠는데 그 세션의 종료가 다시 훅을 발화—종료가 종료를 낳는 재귀로 나흘간 토큰 60M+와 세션 한도를 소진. 본질은 '훅을 루프처럼 썼는데 멈추는 규칙이 하나도 없었다'는 것. 재발 방지 원칙 5가지 정리
   * [Mods — claude-code/mods | Anthropic](https://github.com/anthropics/claude-code/tree/main/mods)
     * [Claude Code Mods 완벽 가이드: Function Hooks로 세션 화면까지 바꾸는 커스텀 모드 만들기 | fornewchallenge](https://fornewchallenge.tistory.com/entry/%F0%9F%9B%A0%EF%B8%8F-Claude-Code-Mods-%EC%99%84%EB%B2%BD-%EA%B0%80%EC%9D%B4%EB%93%9C-Function-Hooks%EB%A1%9C-%EC%84%B8%EC%85%98-%ED%99%94%EB%A9%B4%EA%B9%8C%EC%A7%80-%EB%B0%94%EA%BE%B8%EB%8A%94-%EC%BB%A4%EC%8A%A4%ED%85%80-%EB%AA%A8%EB%93%9C-%EB%A7%8C%EB%93%A4%EA%B8%B0-1)
     * Mod는 동작이 hooks 모듈에 있는 Claude Code 플러그인—`register(on, options)` 진입점 하나로 엔진 이벤트를 `($, e, next)` 함수로 훅. Claude Code에 내장된 4종의 소스 공개: sec-default(조직의 classic hooks·관리 설정·도구 정책을 사용자 설치 플러그인에서 보호), diff(`/diff` 세션 미커밋 변경을 옆 pane에 파일·헝크별 실시간 표시), telemetry, agents-md(CLAUDE.md 없을 때/옆에 AGENTS.md를 프로젝트 지침으로). `claude --plugin-dir mods/diff`로 소스 실행, `claude plugin test`로 테스트
@@ -6291,6 +6309,8 @@ Artificial Intelligence
         * 3. Subagents: 독립된 컨텍스트 창을 가진 별도의 AI 페르소나, 복잡한 문서 검색 등을 위임해 메인 대화의 토큰 낭비 방지
         * 4. Skills: 자동 감지 기능을 갖춘 고도화된 기능, 여러 파일과 패턴을 포함하여 전문적인 작업 수행
         * 5. 도구 선택 기준: 단순 지침 CLAUDE.md, 명시적 실행 슬래시 명령어, 컨텍스트 분리가 필요한 조사는 서브에이전트가 적합
+    * [CLAUDE.md is not a README | Brij Kishore Pandey](https://www.linkedin.com/posts/brijpandeyji_%F0%9D%97%96%F0%9D%97%9F%F0%9D%97%94%F0%9D%97%A8%F0%9D%97%97%F0%9D%97%98%F0%9D%97%BA%F0%9D%97%B1-%F0%9D%97%B6%F0%9D%98%80-%F0%9D%97%BB%F0%9D%97%BC%F0%9D%98%81-%F0%9D%97%AE-%F0%9D%97%A5%F0%9D%97%98%F0%9D%97%94%F0%9D%97%97-share-7449239514348232704-_k76/)
+      * 루트에 불릿 몇 개 던져두고 끝내면 Claude가 컨벤션을 무시하는 건 모델이 아니라 비구조적 CLAUDE.md 탓—3가지 스코프(~/.claude 전역 / ./ 프로젝트 / ./src 폴더 오버라이드)부터 이해하고 설계하는 프레임워크
     * [claude code에게 gemini cli 와 협업하여 티키타카해보도록 CLAUDE.md에 룰을 추가](https://www.facebook.com/groups/1183007433518603/?multi_permalinks=1224496989369647&hoisted_section_header_type=recently_seen)
     * [CLAUDE.md, 쓰는 게 맞습니까 - 논문이 뒤집은 상식과 실전 가이드](https://www.fullstackfamily.com/@urstory/posts/13980/CLAUDEmd-%EC%93%B0%EB%8A%94-%EA%B2%8C-%EB%A7%9E%EC%8A%B5%EB%8B%88%EA%B9%8C-%EB%85%BC%EB%AC%B8%EC%9D%B4-%EB%92%A4%EC%A7%91%EC%9D%80-%EC%83%81%EC%8B%9D%EA%B3%BC-%EC%8B%A4%EC%A0%84-%EA%B0%80%EC%9D%B4%EB%93%9C)
       * LLM 자동 생성 CLAUDE.md는 해롭고(중복·복잡도 증가), 인간이 직접 작성한 최소 컨텍스트는 약 4% 성능 향상. Claude가 코드 탐색으로 알 수 없는 정보만 200줄 이내로 작성 권장
@@ -6339,6 +6359,8 @@ Artificial Intelligence
     * Chrome 확장으로 5시간/7일 사용량 실시간 모니터링, 리셋 예측, 14일 패턴 분석 플랜 최적화. 팀 대시보드 지원
   * [claude-pulse: Real-time usage monitor for Claude Code — session limits, weekly limits, and plan tier](https://github.com/NoobyGains/claude-pulse)
     * Claude Code 상태바에 세션/주간 사용량·모델별 캡·비용을 컬러 프로그레스 바로 실시간 표시하는 단일 파일 Python 도구. 10가지 테마·애니메이션. MIT
+  * [claude-video: Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes | bradautomates](https://github.com/bradautomates/claude-video)
+    * `/watch`로 영상을 내려받아 프레임 추출·전사해 Claude가 어떤 영상이든 '보게' 하는 스킬. Python, MIT, 17.8k stars
   * [claude-workflow: Universal Claude Code workflow plugin with agents, skills, hooks, and commands](https://github.com/CloudAI-X/claude-workflow)
     * Claude Code를 위한 범용 워크플로우 플러그인, 소프트웨어 개발 과정을 자동화하고 최적화하기 위해 설계
     * 7개의 전문 에이전트와 6개의 지식 기술, 8개의 자동화 훅을 통해 복잡한 개발 작업을 체계적으로 관리
@@ -6352,6 +6374,7 @@ Artificial Intelligence
     * [claude-mem: A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions](https://github.com/thedotmack/claude-mem)
     * [Claude Code 세션 간 메모리가 초기화되는 문제, 이제 플러그인 하나로 해결 | HaYeJin Kang](https://www.linkedin.com/posts/h4y3j1n_claude-activity-7406468130274930688-7GPV)
     * [🆓 Claude Code 영구 기억 플러그인 Claude-Mem 완벽 정복 | fornewchallenge](https://fornewchallenge.tistory.com/entry/%F0%9F%86%93-Claude-Code-%EC%98%81%EA%B5%AC-%EA%B8%B0%EC%96%B5-%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8-Claude-Mem-%EC%99%84%EB%B2%BD-%EC%A0%95%EB%B3%B5)
+    * [claude-mem (0xSojalSec 포크)](https://github.com/0xSojalSec/claude-mem)
   * [code-review-graph: Local knowledge graph for Claude Code](https://github.com/tirth8205/code-review-graph)
     * [code-review-graph](https://code-review-graph.com/)
     * Tree-sitter 파싱으로 코드베이스 구조 그래프 생성, blast-radius 분석으로 관련 파일만 읽기. 코드 리뷰 토큰 6.8배 절감(대형 모노레포 최대 49배). 14개 언어, SQLite 로컬
@@ -6668,6 +6691,8 @@ Artificial Intelligence
   * [token-optimizer: Find the ghost tokens. Fix them. Survive compaction. Avoid context quality decay](https://github.com/alexgreensh/token-optimizer)
     * [AI 코딩 작업의 토큰 낭비를 줄이는 Token Optimizer의 주요 기능과 활용 방법 | digitalbourgeois](https://digitalbourgeois.tistory.com/3597)
     * 명령어 출력 압축을 넘어 파일 재조회·검색 결과·Tool 결과·설정/메모리 구조적 컨텍스트·모델 선택·세션 연속성·compaction 이후 정보 보존까지 관리하는 토큰 최적화 도구. 설치 후 Hook으로 대부분 자동 실행. Python, 2.2k stars
+  * [Troubled Dreams — Simulator priors across model generations | Anima Labs](https://troubleddreams.animalabs.ai/)
+    * Claude가 생성한 글에 드러나는 모델 성향(disposition)을 세대별로 비교한 연구—AI 복지(welfare)와 정렬(alignment)에 갖는 의미를 탐구
   * [UI UX Pro Max](https://www.uupm.cc/)
     * [ui-ux-pro-max-skill: An AI skill that provides design intelligence for building professional UI/UX across multiple platforms](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)
     * 여러 플랫폼·프레임워크에서 전문적인 UI/UX를 만들도록 디자인 지능을 제공하는 AI 스킬. 192개 추론 규칙, 검색 가능한 79종 UI 스타일. Python, CLI는 `npm i ui-ux-pro-max-cli`. 119k stars
@@ -7107,6 +7132,10 @@ Artificial Intelligence
   * [epistemic-protocols: Epistemic protocols for Claude Code | jongwony](https://github.com/jongwony/epistemic-protocols)
   * [Epistemic Protocols 공유 | Jin Hyung Park (Sigrid Jin) | LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7509827980638973952/)
   * AI 협업이 궤도를 벗어나면 전부 다시 해야 한다는 문제의식—**계획 단계에서 잘못된 방향을 잡아내는 구조화된 체크포인트**를 프로토콜로 제공(계획 수준의 방향 교정은 대화 한 턴, 코드로 굳은 뒤엔 몇 시간). 작업을 넘기기 전 `/inquire`, 무엇을 결정해야 할지 아직 안 보일 때 `/bound`, 세션 기록 기반 가이드 학습 `/onboard`, 결핍 인식 `/probe`, 대화 맥락에서 알맞은 프로토콜을 에이전트가 고르는 실험적 `route` 플러그인. Claude Code 플러그인이자 Codex 플러그인 마켓플레이스 겸용. cc-plugin의 jongwony 작. JavaScript, MIT, 165 stars
+* [Expect — Let agents test your code in a real browser](https://www.expect.dev/)
+  * [expect: Expect tests your agent's code in a real browser | millionco](https://github.com/millionco/expect)
+  * [Expect - 에이전트가 실제 브라우저에서 코드를 테스트하는 도구 | GeekNews](https://news.hada.io/topic?id=27865)
+  * 코드 변경을 분석해 실제 브라우저 테스트 플랜을 자동 생성·실행하는 CLI—Claude/Codex를 에이전트 백엔드로 선택, 자연어로 테스트 흐름 지정, changes/branch 등 범위 옵션. TypeScript, 3.6k stars
 * [Forge Orchestrator](https://forge.nxtg.ai/)
   * [forge-orchestrator: Multi-AI task orchestration. File locking, knowledge capture, drift detection](https://github.com/nxtg-ai/forge-orchestrator)
   * 같은 레포에서 Claude Code·Codex CLI·Gemini CLI를 조율. 단일 도구 내부 멀티에이전트(Claude Code의 20개 서브에이전트)는 잘 동작하지만 공유 상태가 없는 멀티 도구가 문제—Claude가 모듈을 리팩터하고 Codex가 리팩터 이전 인터페이스로 테스트를 갱신해 둘 다 저장하니 테스트가 깨지는 상황을 해결
@@ -7137,6 +7166,9 @@ Artificial Intelligence
   * [왜 AI 로 쓴 글을 한번에 알아볼 수 있는가? AI가 쓴 티 지우는 방법 - YouTube](https://www.youtube.com/watch?v=KMwAvsDRxVk)
     * 오늘코드todaycode. AI 글을 한눈에 알아보는 이유(번역투·기계적 병렬 구조 등 71가지 AI 티)와 im-not-ai 스킬로 지우는 방법. AI 생성 한국어 텍스트 탐지 연구 KatFishNet도 소개
   * 한글 AI 티 제거기. 번역투, 기계적 구조, AI 특유 표현 검출·재작성. 10개 주요 카테고리 40+ 하위 패턴, 심각도별 분류
+* [humanizer: Agent skill that removes signs of AI-generated writing from text | blader](https://github.com/blader/humanizer)
+  * [blader/humanizer — skills.sh](https://www.skills.sh/blader/humanizer)
+  * 텍스트에서 AI 생성 흔적을 제거하는 에이전트 스킬(`npx skills add blader/humanizer`). 위 Humanize KR의 영문판 격. Python, MIT, 52.8k stars
 * [Hyperresearch · Research that remembers](https://hyperresearch.ai/)
   * [hyperresearch: Agent-driven research knowledge base. Agents collect, search, and synthesize web research into a persistent, searchable wiki](https://github.com/jordan-gibbs/hyperresearch)
   * [Claude Code를 딥 리서치 에이전트로 만드는 Hyperresearch](https://digitalbourgeois.tistory.com/3650)
@@ -7147,6 +7179,8 @@ Artificial Intelligence
   * 코딩 에이전트가 답을 장황함 속에 묻어버리지 않게 하는 스킬. ADHD 친화적(핵심 먼저) 출력 유도. Python, MIT
 * [IJFW: Unified platform for 13 AI coding agents with shared local memory](https://github.com/theRealSeanDonahoe/ijfw)
   * 13개 AI 코딩 에이전트(Claude Code/Codex/Gemini/Cursor 등) 통합. 공유 로컬 메모리(BM25+시맨틱), 6중 토큰 절감(캐싱 90%), Trident 멀티AI 감사, DESIGN.md 디자인 계약, 제로 텔레메트리
+* [jarvis: JARVIS — a voice assistant for Claude Code. Talk to your Mac and he brainstorms a project with you, builds it | ethanplusai](https://github.com/ethanplusai/jarvis/)
+  * 이미 구독 중인 Claude Code 위에 얹는 영국 집사 음성 비서—말로 프로젝트를 한 질문씩 브레인스토밍→설계를 파일로 기록→실제 Claude Code 세션을 띄워 plan→review→execute 진행, 머신의 모든 세션을 감시해 입력 대기 시 알림. Python, 812 stars
 * [jcode - open-source AI coding agent for the terminal](https://jcode.sh/)
   * [jcode: A resource-efficient, open source AI coding agent with a native TUI, built in Rust](https://github.com/1jehuang/jcode)
   * [jcode - 수십 개 세션을 병렬로 실행하는 터미널 코딩 에이전트 | GeekNews](https://news.hada.io/topic?id=33868)
@@ -7663,6 +7697,8 @@ Artificial Intelligence
 * [Skills Manager](https://sm.idoevergreen.me/)
   * [skills-manager](https://github.com/zunalabs/skills-manager)
   * AI 에이전트 스킬 통합 관리 데스크톱 앱. Claude Code, Cursor 등 11+ 코딩 플랫폼의 스킬을 설치·활성화·공유하는 통합 인터페이스
+* [SkillsManager: A macOS application for discovering, browsing, and installing skills for AI coding assistants | tddworks](https://github.com/tddworks/SkillsManager)
+  * GitHub 레포(anthropics/skills 등)나 로컬 디렉터리에서 스킬을 탐색·설치·태깅하는 macOS 앱—Claude Code·Codex 양쪽에 설치, 다중 카탈로그, 전역 커스텀 태그. 위 zunalabs의 Skills Manager와는 동명의 별개 프로젝트. Swift 6.2, 168 stars
 * [slides-grab: AI-powered HTML slide generation and visual editing](https://github.com/vkehfdl1/slides-grab)
   * AI 에이전트(Claude Code/Codex)로 HTML/CSS 슬라이드 생성·편집. 드래그 선택→에이전트 수정, PDF/PPTX/Figma 내보내기, 동영상 삽입(yt-dlp), tldraw 다이어그램, 테마·템플릿 시스템
 * [Swark: AI-Powered Software Architect](https://www.swark.io/)
