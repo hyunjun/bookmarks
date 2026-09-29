@@ -2020,6 +2020,7 @@ Artificial Intelligence
     * Ralphthon(12시간 AI 해커톤), Harness Engineering 패턴, Code Factory 조직 접근법. 스펙 명확성과 진화하는 하네스, 체계적 루프가 단순 스크립트보다 자율 코딩에 효과적
 * [Harness Engineering for Self-Improvement | Lil'Log (Lilian Weng)](https://lilianweng.github.io/posts/2026-07-04-harness/)
   * [AI는 이제 모델이 아니라 하네스를 개선한다: 재귀적 자기 개선을 이끄는 하네스 엔지니어링 | digitalbourgeois](https://digitalbourgeois.tistory.com/3486)
+  * [OpenAI 연구원 출신 Thinking Machines Lab 코파운더 Lilian Weng의 블로그 글 정리 | 황민호](https://www.linkedin.com/posts/hwang-minho_openai-%EC%97%B0%EA%B5%AC%EC%9B%90-%EC%B6%9C%EC%8B%A0%EC%9D%98-thinking-machines-lab-%EC%BD%94%ED%8C%8C%EC%9A%B4%EB%8D%94%EC%9D%B8-ugcPost-7481867000055554048-6KK2/)
   * 하네스=기반 모델을 둘러싸고 실행을 조율하는 시스템(사고·계획, 도구 호출, 컨텍스트 관리, 결과 평가). 재귀적 자기개선(RSI)의 근시일 경로는 모델 가중치 수정이 아니라 하네스 자체를 최적화 대상으로 삼는 것
   * 하네스 설계 패턴(워크플로 자동화·파일 시스템 영속 메모리·서브에이전트)→하네스 최적화(컨텍스트 엔지니어링·워크플로 탐색·자기개선 하네스·진화적 탐색·가중치 공동 최적화)→과제(약한 평가자·메모리 수명주기·보상 해킹·인간 감독). ACE·MCE·Meta-Harness·ADAS·AFlow·STOP·AlphaEvolve·Darwin Gödel Machine 정리
 * [harness engineering.pdf | HoYeon Lee](https://www.linkedin.com/posts/hoyeonleekr_harness-engineeringpdf-ugcPost-7447900106281877504-9eWf)
@@ -2062,7 +2063,11 @@ Artificial Intelligence
   * AWS에서 에이전트 실행 3가지—AgentCore Runtime, AgentCore Harness, OpenAI Managed Agents 비교
 * [Using LLMs to secure source code | Claude](https://claude.com/blog/using-llms-to-secure-source-code)
   * [defending-code-reference-harness: Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can /customize | Anthropic](https://github.com/anthropics/defending-code-reference-harness)
+  * [Anthropic 오픈소스 보안 파이프라인 레퍼런스 핵심 요약 | 박상길](https://www.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_github-anthropicsdefending-code-reference-harness-share-7472049025282633728-nGPJ/)
   * Anthropic이 보안팀과의 협업(Glasswing)에서 얻은 학습 기반 자율 취약점 탐지·교정 레퍼런스 하네스. recon→find→triage→report→patch 루프, Claude Code 스킬(`/threat-model`·`/vuln-scan` 등). Bedrock/Vertex/Azure 호환. 관리형은 Claude Security. Apache 계열, 5.8k stars
+* [Build your own vulnerability harness | Cloudflare](https://blog.cloudflare.com/build-your-own-vulnerability-harness/)
+  * [Cloudflare 취약점 탐지 하네스(VDH·VVS) 구축 경험 핵심 요약 | 박상길](https://www.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_build-your-own-vulnerability-harness-share-7482180742173847552-CG79/)
+  * 다단계 취약점 발견 하네스와 자동 트리아지 루프의 아키텍처—단일 에이전트의 컨텍스트 고갈·편향을 모델 비의존 구조와 분산 오케스트레이션으로 해결, 적대적 검증으로 오탐 제거. 6주 만에 128개 저장소의 취약점·교차 의존성 자동 분석
 * [프롬프트에서 하네스까지 — AI 에이전틱 패턴 4년의 기록 | bits-bytes-nn](https://bits-bytes-nn.github.io/insights/agentic-ai/2026/04/05/evolution-of-ai-agentic-patterns.html)
   * Prompt→Context→Loop→Harness Engineering으로 이어진 에이전틱 패턴의 진화를 4년 치 기록으로 정리
 * [Harness engineering for coding agent users | Martin Fowler](https://martinfowler.com/articles/harness-engineering.html)
@@ -2122,6 +2127,10 @@ Artificial Intelligence
   * 프롬프트·파이프라인만 최적화하던 기존 자동 개선과 달리 하네스 전체(컨텍스트·도구·오케스트레이션·메모리·디코딩·출력 처리)를 실행 경험으로부터 학습해 개선—하네스 자체 실행 이력만으로 유지 가능하다는 주장
 * [2608.21156 Graph Engineering in the Era of LLM Agents: From Individual Intelligence to System Intelligence](https://arxiv.org/html/2608.21156)
   * Prompt→Context Engineering을 잇는 다음 패러다임으로 Graph Engineering 제안—개별 에이전트의 지능을 넘어 에이전트·도구·데이터를 그래프로 엮은 시스템 지능 서베이
+* [2608.23041 AutoSaddler: Automatic Harness Optimization with Durable Updates from Agent Execution Traces](https://arxiv.org/html/2608.23041v1)
+  * 장기 과제에서 작은 국소 실패가 누적돼 전체 실패로 이어지는 문제—수작업·고비용이던 하네스 설계를 에이전트 실행 트레이스로부터 자동 최적화하고 개선을 durable하게 유지
+* [2608.25512 A Programming Paradigm for Spatiotemporal Composability](https://arxiv.org/abs/2608.25512)
+  * DeepSeek Harness의 기반 패러다임 Cordis 논문—플러그인 시스템·자기진화 하네스가 요구하는 동적 조합의 형식적 토대. 시간적 조합성(완전 되돌리기)과 공간적 조합성 두 직교 차원으로 정리
 * [2609.14858 Dream-RSI: Recursive Self-Improvement through Evolving Worlds](https://arxiv.org/html/2609.14858v1)
   * [2/ AI에게 더 빠른 프로그램을 만들라고 하면, 코드를 쓰고 실행한 뒤 결과를 보며 수정하는 과정이 반복됩니다. 이때 성능이 좋아진 후보를 더 고칠지, 다른 방향을 열어볼지 결정해야 하는데, 그 선택이 좋은지 알아보려면 실험을 여러 번 진행해야 하므로, 탐색 방법을 비교하는 데도 비용이 듭니다. Dream-RSI는 여기서 이미 끝낸 탐색 기록을 활용합니다. 어떤 코드에서 출발했고, 무엇을 수정했으며, 어디서 실패하고 얼마나 개선됐는지를 나뭇가지처럼 연결해 저장합니다. 연구진이 'Discovery Tree'라고 부르는 이 기록이 다음 전략을 시험할 환경이 됩니다. | CHOI @choi.openai | Threads](https://www.threads.com/@choi.openai/post/DdZbHUsj7Cf)
   * RSI의 병목을 탐색(exploration) 전략의 관리·개선으로 규정—고정 전략은 검색 공간이 커지면 적응하지 못하고, 온라인 정책 최적화는 지연되고 값비싼 피드백 아래 거대한 메타 검색 공간을 장기 롤아웃으로 헤매야 하는 딜레마. Dream-RSI는 기저 코딩 에이전트는 그대로 둔 채 경량 오케스트레이션 레이어만 얹어 탐색을 명시적·프로그래머블하게 만든다
@@ -3163,6 +3172,9 @@ Artificial Intelligence
   * [MCP for Beginners - YouTube](https://www.youtube.com/playlist?list=PLlrxD0HtieHjYfVUpGl_-ai7D6FRBjV-d)
   * [MCP Context Forge - Model Context Protocol Gateway](https://ibm.github.io/mcp-context-forge/)
     * [mcp-context-forge: A Model Context Protocol (MCP) Gateway & Registry. Serves as a central management point for tools, resources, and prompts that can be accessed by MCP-compatible LLM applications. Converts REST API endpoints to MCP, composes virtual MCP servers with added security and observability, and converts between protocols (stdio, SSE, Streamable HTTP)](https://github.com/IBM/mcp-context-forge)
+  * [MCPCAN - MCP Agent AI 托管平台](https://www.mcpcan.com/)
+    * [mcpcan: MCPCAN is a centralized management platform for MCP services | Kymo-MCP](https://github.com/Kymo-MCP/mcpcan/)
+    * MCP 서비스를 컨테이너 단위로 배포·게이트웨이 포워딩·실행 환경·관측성까지 중앙 관리하는 호스팅 플랫폼. Go
   * [mcp-gateway: MCP Gateway and Registry](https://github.com/aarora79/mcp-gateway)
     * [AI Agent Capabilities: Dynamic Tool Discovery & Invocation](https://www.linkedin.com/posts/amit-arora-539120a_mcp-gateway-registry-dynamic-tools-activity-7330040487757639680-h-L8/)
     * [MCP Gateway Registry dynamic tools - YouTube](https://www.youtube.com/watch?v=ZXU8f6NwgE4)
@@ -7067,6 +7079,9 @@ Artificial Intelligence
 * [DeepSeek Harness: Everything is a Plugin](https://deepseek.com/harness/)
   * [deepseek-harness: DeepSeek Harness (dsh) — open-source agent harness by DeepSeek AI](https://github.com/deepseek-ai/deepseek-harness)
   * [DeepSeek Harness - 모든 구성 요소를 플러그인으로 만든 오픈소스 코딩 에이전트 | GeekNews](https://news.hada.io/topic?id=32474)
+  * [원티드랩 AI 부문 기술세미나 자료: DeepSeek Harness | 이평석](https://www.linkedin.com/posts/%ED%8F%89%EC%84%9D-%EC%9D%B4-684ba61a0_%EA%B8%B0%EC%88%A0%EC%84%B8%EB%AF%B8%EB%82%98-deepseek-harness-%EC%9E%90%EB%A3%8C-ugcPost-7499475086400425984-qakG/)
+  * ["모델이 좋아지면 에이전트 문제가 풀린다" — 이 말은 이제 절반만 맞습니다 | Sanguine Kim](https://www.linkedin.com/posts/sanguinekim_%EB%AA%A8%EB%8D%B8%EC%9D%B4-%EC%A2%8B%EC%95%84%EC%A7%80%EB%A9%B4-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EB%AC%B8%EC%A0%9C%EA%B0%80-%ED%92%80%EB%A6%B0%EB%8B%A4-%EC%9D%B4-%EB%A7%90%EC%9D%80-%EC%9D%B4%EC%A0%9C-%EC%A0%88%EB%B0%98%EB%A7%8C-%EB%A7%9E%EC%8A%B5%EB%8B%88%EB%8B%A4-share-7500487574583463936-PuUr/)
+    * 9월 1일 기준 207k stars. 모델 어댑터뿐 아니라 툴 레지스트리·스킬·세션 로그·샌드박스·스토리지까지 전부 plugin인 과격한 설계—'좋은 모델'만으로는 안 풀리는 에이전트 문제의 나머지 절반이 하네스에 있다는 논지
   * DeepSeek AI의 오픈소스 에이전트 하네스(`dsh`). "모든 것이 플러그인"인 아키텍처, Cordis(시공간 조합 가능성 프로그래밍 패러다임) 기반. `npx @deepseek-ai/dsh web`으로 웹 UI 실행(기본 127.0.0.1:3080). developer preview로 호환성 깨지는 변경 예고. TypeScript, MIT, 49k stars
   * [Why DeepSeek Harness Is The End Of Coding Agents as We Know Them - YouTube](https://www.youtube.com/watch?v=jtyV7O4Pt0s)
     * Turing Post TV. 실행 중 없는 도구를 스스로 작성하고 끝나면 깔끔하게 제거하는 특성, 4일 만에 GitHub 149k stars, 88페이지 논문. Claude Code 클론이 아니라 고정된 코딩 에이전트가 끝나는 순간이라는 관점
@@ -7213,6 +7228,9 @@ Artificial Intelligence
   * [✍🏻 Open Code와 Oh-my-opencode](https://velog.io/@takealittletime/Open-Code%EC%99%80-Oh-my-opencode)
   * [🕹️ oh-my-openagent 사용 가이드: OpenCode를 멀티 에이전트 오케스트레이션 하네스로 확장하기 | fornewchallenge](https://fornewchallenge.tistory.com/entry/%F0%9F%95%B9%EF%B8%8F-oh-my-openagent-%EC%82%AC%EC%9A%A9-%EA%B0%80%EC%9D%B4%EB%93%9C-OpenCode%EB%A5%BC-%EB%A9%80%ED%8B%B0-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EC%98%A4%EC%BC%80%EC%8A%A4%ED%8A%B8%EB%A0%88%EC%9D%B4%EC%85%98-%ED%95%98%EB%84%A4%EC%8A%A4%EB%A1%9C-%ED%99%95%EC%9E%A5%ED%95%98%EA%B8%B0)
   * oh-my-opencode에서 리브랜딩한 에이전트 하네스. 배터리 포함 에이전트 Sisyphus, 멀티 모델 오케스트레이션, Team Mode, 백그라운드 에이전트, 60+ 라이프사이클 훅. TypeScript, 68.7k stars
+* [Omnigent — a meta-harness for building and running AI agents](https://omnigent.ai/)
+  * [omnigent: Open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and more | omnigent-ai](https://github.com/omnigent-ai/omnigent)
+  * 이미 쓰는 하네스들(Claude Code·Codex·Cursor·Pi) 위에서 에이전트를 조합·거버넌스·협업하는 공통 계층. Python, Apache-2.0, 10.3k stars
 * [OmniRoute — Never stop coding. Free MIT AI gateway](https://omniroute.online/)
   * [OmniRoute: One endpoint, 290+ providers (90+ free), 500+ models](https://github.com/diegosouzapw/OmniRoute)
   * [OmniRoute — 흩어진 무료/저가 AI 티어를 하나로 묶는 게이트웨이 | GeekNews](https://news.hada.io/topic?id=31710)
@@ -7224,6 +7242,9 @@ Artificial Intelligence
 * [Onyx — Open-source self-hostable AI chat platform](https://onyx.app/)
   * [onyx](https://github.com/onyx-dot-app/onyx)
   * 셀프 호스팅 AI 챗 플랫폼. 모든 LLM 지원, 40+ 커넥터, RAG, 커스텀 에이전트, 웹 검색, 코드 인터프리터. SSO/RBAC
+* [openab Helm Chart](https://openabdev.github.io/openab/)
+  * [openab: A lightweight, secure, cloud-native ACP harness that bridges Discord and any ACP-compatible coding CLI | openabdev](https://github.com/openabdev/openab)
+  * Discord와 ACP 호환 코딩 CLI를 잇는 경량 클라우드 네이티브 하네스. Rust, MIT
 * [Open Agents - Spawn coding agents that run infinitely in the cloud](https://open-agents.dev/)
   * [open-agents: An open source template for building cloud agents](https://github.com/vercel-labs/open-agents)
   * [Open Agents - open-source reference app for building background coding agents | GeekNews](https://news.hada.io/topic?id=28601)
@@ -7503,6 +7524,8 @@ Artificial Intelligence
   * 개발·디자인·회계·영업·마케팅·세무를 자동화하는 6명의 AI 직원으로 비즈니스 전체를 운영하는 자기 개선형 AI 플랫폼. 200+ AI 모델 지원, 로컬 실행. Python, 857 stars
 * [OpenCove: Infinite canvas for Claude Code, Codex, terminals, tasks, and notes](https://github.com/DeadWaveWave/opencove)
 * [OpenDocs: Convert GitHub READMEs, Markdown, Jupyter Notebooks into professionally formatted docs](https://github.com/ioteverythin/OpenDocs)
+* [OpenHarness: Open Agent Harness with a Built-in Personal Agent — Ohmo! | HKUDS](https://github.com/HKUDS/OpenHarness)
+  * 개인 에이전트 Ohmo를 내장한 오픈 에이전트 하네스. Python, MIT, 15.9k stars
 * [OpenMinis — The AI Agent app across platforms. Fully free and open source](https://openminis.app/)
   * [OpenMinis: The AI Agent app across platforms](https://github.com/OpenMinis/OpenMinis)
   * [이제 AI가 스마트폰을 직접 씁니다… '오픈미니스' 최초 공개 | 코난쌤 - YouTube](https://www.youtube.com/watch?v=_V5H_e3530A)
