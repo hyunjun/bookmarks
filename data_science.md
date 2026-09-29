@@ -1211,7 +1211,6 @@ Data Science
 * [함께 구매하면 좋은 상품이에요! - 장바구니 추천 개발기 1부 - 컬리 기술 블로그](https://helloworld.kurly.com/blog/cart-recommend-model-development/)
 * [함께 구매하면 좋은 상품이에요! - 장바구니 추천 개발기 2부 - 컬리 기술 블로그](https://helloworld.kurly.com/blog/cart-recommend-model-development_second/)
 * [실시간 반응형 추천 개발 일지 #1. 프로젝트 소개 | 우아한형제들 기술블로그](https://techblog.woowahan.com/17383/)
-* [Awesome-Generative-RecSys: A curated list of Generative Recommender Systems (Paper & Code)](https://github.com/jihoo-kim/Awesome-Generative-RecSys)
 * [속성을 활용한 추천 고도화 : Part 1. 무신사만의 패션 택소노미 구축기 | by Jungmin Seo | MUSINSA tech | Jul, 2024 | Medium](https://medium.com/musinsa-tech/%EC%86%8D%EC%84%B1%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%B6%94%EC%B2%9C-%EA%B3%A0%EB%8F%84%ED%99%94-063ac9881801)
 * [속성을 활용한 추천 고도화 : Part 2. 무신사가 개인화 추천을 하는 방법 | by JeeYoon Kim | MUSINSA tech | Jul, 2024 | Medium](https://medium.com/musinsa-tech/%EC%86%8D%EC%84%B1%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%B6%94%EC%B2%9C-%EA%B3%A0%EB%8F%84%ED%99%94-part-2-%EB%AC%B4%EC%8B%A0%EC%82%AC%EA%B0%80-%EA%B0%9C%EC%9D%B8%ED%99%94-%EC%B6%94%EC%B2%9C%EC%9D%84-%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-71f7aeb1dc5d)
 * [개인화 시대, 고객에게 신뢰 받는 서비스란 - RIDI Corp.](https://ridicorp.com/story/pr-personalized-marketing-technology/)
@@ -1233,13 +1232,20 @@ Data Science
 * [Paper review Sampling-Bias Corrected Neural Modeling for Large Corpus Item Recommendations | by chrisjune | Medium](https://chrisjune-13837.medium.com/paper-review-sampling-bias-corrected-neural-modeling-for-large-corpus-item-recommendations-fee7710c5640) 유튜브 추천 시스템의 일부를 자세하게 소개
 * [(광고아님) 유독 스포티파이가 노래 추천을 잘한다는 평이 많은 이유 - YouTube](https://www.youtube.com/watch?v=uUwzkAc9rXc)
   * 소리를 이미지처럼 분석하는 CNN, 플레이리스트 제목과 가사를 해석하는 NLP 임베딩, 유저와 노래를 벡터로 매핑하는 협업 필터링 구조
-* [x-algorithm X/트위터가 5억 5천만 사용자의 피드를 결정하는 방법 - by Yongkyun](https://codepointerko.substack.com/p/x-algorithm-x-5-5)
-* [the-algorithm: Source code for the X Recommendation Algorithm](https://github.com/twitter/the-algorithm)
 * [200밀리초의 벽을 지켜라…개발자를 위한 실시간 개인화 가이드 | ITWorld](https://www.itworld.co.kr/article/4135624/200%EB%B0%80%EB%A6%AC%EC%B4%88%EC%9D%98-%EB%B2%BD%EC%9D%84-%EC%A7%80%EC%BC%9C%EB%9D%BC%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EA%B0%9C%EC%9D%B8.html)
   * 투타워 아키텍처로 후보 생성/랭킹 분리, HNSW 그래프 인덱스로 콜드 스타트 해결, 모델 양자화로 크기 1/4 압축 및 속도 2배 향상, p99.9 지연 시간 기준 사용자 경험 평가
-* [GenRec: Towards LLM-Native Recommendation at Netflix | Netflix TechBlog](https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3)
-  * 수천 개 수작업 피처 기반 프로덕션 랭커를 LLM 기반으로 대체하는 실험. 사용자 이력·아이템 메타데이터·컨텍스트를 텍스트로 서술(verbalize)해 내부 파운데이션 LLM을 포스트트레이닝, 카탈로그 인지 스코어링 헤드 + 장기 멤버 가치 보상 정렬, vLLM prefill-only 모드로 비용 절감
-  * 대규모 A/B 테스트에서 기존 랭커 대비 단기·장기 지표 모두 유의미하게 개선—라벨 데이터·입력 신호는 소량만 사용. 피처 엔지니어링에서 컨텍스트 엔지니어링으로의 전환
+* [How Netflix Built a Single Model for Search & Recommendations | InfoQ - YouTube](https://www.youtube.com/watch?v=mf1EeqkMbdk)
+  * [Foundation Models for Ranking | InfoQ](https://www.infoq.com/presentations/foundation-models-ranking/)
+  * Netflix ML 매니저 Moumita Bhattacharya의 47분 발표—파편화된 bespoke ML 파이프라인을 벗어나 UniCoRn(Unified Contextual Ranker)과 자체 User Foundation Model로 검색·추천을 단일 아키텍처로 통합해 3억+ 사용자 서빙
+* [2608.10257 GenRec: An LLM-Backed Recommendation Ranker at Netflix](https://arxiv.org/html/2608.10257v2)
+  * [GenRec: Towards LLM-Native Recommendation at Netflix | Netflix TechBlog](https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3)
+    * 수천 개 수작업 피처 기반 프로덕션 랭커를 LLM 기반으로 대체하는 실험. 사용자 이력·아이템 메타데이터·컨텍스트를 텍스트로 서술(verbalize)해 내부 파운데이션 LLM을 포스트트레이닝, 카탈로그 인지 스코어링 헤드 + 장기 멤버 가치 보상 정렬, vLLM prefill-only 모드로 비용 절감
+    * 대규모 A/B 테스트에서 기존 랭커 대비 단기·장기 지표 모두 유의미하게 개선—라벨 데이터·입력 신호는 소량만 사용. 피처 엔지니어링에서 컨텍스트 엔지니어링으로의 전환
+  * [15년 공들인 알고리즘을 버렸다! - 넷플릭스의 신무기 GenRec | Suk Hyun K.](https://www.linkedin.com/posts/suk-hyun-k-31ba9b369_qoxuisrefswmgenrec-tyettqsjqqtereetey-qxmunxsluslqriwqzc-share-7510486721612992512-lbyj/)
+  * 수천 개 수작업 피처·커스텀 아키텍처의 15년 추천 시스템을 사내 파운데이션 LLM 기반 랭커 GenRec으로 대전환한 Netflix 사례
+* [the-algorithm: Source code for the X Recommendation Algorithm](https://github.com/twitter/the-algorithm)
+* [Awesome-Generative-RecSys: A curated list of Generative Recommender Systems (Paper & Code)](https://github.com/jihoo-kim/Awesome-Generative-RecSys)
+* [x-algorithm X/트위터가 5억 5천만 사용자의 피드를 결정하는 방법 - by Yongkyun](https://codepointerko.substack.com/p/x-algorithm-x-5-5)
 
 ## Recommendation Python
 * [**파이썬 추천 시스템 심화과정**](https://nbviewer.jupyter.org/github/lsjhome007/python_ds_ml_pieriandata/blob/master/Advanced%20Recommender%20Systems%20with%20Python_SJ.ipynb)
