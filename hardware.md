@@ -324,6 +324,7 @@ Hardware
 * [JerryScript - JerryScript A JavaScript engine for Internet of Things](http://samsung.github.io/jerryscript/)
 * [RuView: Edge AI perception — WiFi signals to human pose estimation, vital signs, presence detection](https://github.com/ruvnet/RuView)
   * [ruvector: WiFi CSI signal processing framework](https://github.com/ruvnet/ruvector/)
+  * [Cognitum.One — Intelligence Where the Physical World Happens (RuView)](https://cognitum.one/ruview)
   * WiFi CSI 분석으로 카메라 없이 인체 포즈 추정(17 키포인트), 호흡/심박 모니터링, 벽 통과 감지. ESP32-S3(~$8) 기반, 60개 WASM 엣지 모듈
 
 # Javascript
