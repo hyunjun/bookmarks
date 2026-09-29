@@ -865,6 +865,9 @@ AWS
     * [Claude Desktop Chat + Web Search on AgentCore — AWSome AI Gateway - YouTube](https://www.youtube.com/watch?v=LC821HxkMYA)
     * 사내 Claude Code·Codex·Cowork 사용자용 통합 LLM 게이트웨이 샘플—OIDC(Cognito) 인증으로 Virtual Key 자동 발급, 클라이언트별로 Bedrock native/Mantle 백엔드를 `routing_profiles` 테이블로 데이터 드리븐 분기, 팀·사용자·앱별 예산·Rate Limit·모델 접근 제어·사용량 추적(ROI). 서울 리전 EKS Fargate에서 구동, 3개 AWS 계정 Bedrock으로 분기. 해외 배포판은 us-west-2·Bedrock 직결·공개 https·영문 UI(문곤수)
     * Server-side Web Search on AgentCore 최적화: Claude Desktop(Cowork·Chat)과 Claude Code에서 최신 정보를 물으면 PC에 아무것도 설치하지 않고 게이트웨이가 Web Search on Amazon Bedrock AgentCore로 서버에서 검색해 Anthropic web search tool 형식으로 반환—검색 동시 2개 Fan-out 실행, 한 번 검색한 내용은 대화에 남아 재검색 없이 이어 답함, 검색과 파일 저장 같은 앱 도구가 함께 동작, 검색은 요청당 최대 6건으로 비용 통제. 데모: 삼성 HBM4·HBM4E 발표 요약→같은 자료에서 수치 추출→SK하이닉스·마이크론 비교표→임원 보고용 1페이지 저장(Sonnet 5 xhigh, Cowork 한국어 $0.58 vs Chat 영어 $0.36)
+  * [harness-work: A full application based on Managed Harness Agent and ECS | kyopark2014](https://github.com/kyopark2014/harness-work)
+    * [SKILL/MCP 애플리케이션 PoC에 한 달 넘게 걸리던 것을 managed harness agent로 | Kyoungsu Park](https://www.linkedin.com/posts/kyoungsu-park-9b9a1068_harness-strand-aws-ugcPost-7491429860767162369-fSHb/)
+    * 에이전트 내부 동작을 고민하지 않고 비즈니스 로직에 집중—Managed Harness Agent + ECS 풀스택 예제. Python
   * [mcp-tools: It show how to deploy MCP tools using AgentCore](https://github.com/kyopark2014/mcp-tools)
     * [Streamable HTTP 방식의 MCP 서버를 서버리스 환경에서 배포하고 활용하는 방법에 대해 설명](https://www.linkedin.com/posts/kyoungsu-park-9b9a1068_mcp-agent-eks-ugcPost-7366987512562524160-BiYo)
     * [사내에서 개발해서 사용하는 생성형 AI 애플리케이션에서 custom MCP 서버(stdio)를 생성해서 사내 API를 활용하면, MCP 사용전과 구조적으로 동일하기 때문에 추가적인 보안 우려없이 MCP를 활용](https://www.linkedin.com/posts/kyoungsu-park-9b9a1068_mcp-toolsreadmemd-at-main-kyopark2014-activity-7368759127591800835-jHdu)
@@ -1581,6 +1584,8 @@ AWS
 * [The Complete Guide: Deploying a Dockerized MCP Server to AWS ECS Fargate](https://medium.com/@shahkintur/the-complete-guide-deploying-a-dockerized-mcp-server-to-aws-ecs-fargate-and-connecting-it-to-aws-ccf8a3f65e3c)
   * [Deploying a Dockerized MCP Server to AWS ECS Fargate | Darryl R.](https://www.linkedin.com/posts/darryl-ruggles_the-complete-guide-deploying-a-dockerized-activity-7426101726346403840-Ykh3)
   * FastMCP 서버를 ECR/ECS Fargate에 배포하고 AgentCore Gateway에 연결하는 5단계 가이드
+* [Streamlining AWS ECS Infrastructure with Terraform | AWS in Plain English](https://aws.plainenglish.io/streamlining-aws-ecs-infrastructure-with-terraform-798e570f041d)
+  * ALB·Auto Scaling·CloudWatch 모니터링을 갖춘 확장성 있고 안전한 ECS Fargate 아키텍처를 Terraform으로 배포
 * [ecs-fargate-fast-scaleout](https://github.com/serithemage/ecs-fargate-fast-scaleout/)
 * [terraform-aws-ecs-fargate](https://github.com/nalbam/terraform-aws-ecs-fargate)
 
