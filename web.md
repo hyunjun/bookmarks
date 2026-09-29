@@ -2565,6 +2565,8 @@ Web
 * [Cloud Native Apps with Server-Side WebAssembly - YouTube](https://www.youtube.com/watch?v=JtwHtfFe6AI)
 * [webassembly vs javascript and its application in microservice & cloud computing - YouTube](https://www.youtube.com/watch?v=1wbIjxW2Ry4)
 * [WebAssembly on Kubernetes • Nicolas Frankel • GOTO 2025 - YouTube](https://www.youtube.com/watch?v=fMpDgsjBQzg)
+* [WASM Components are a FaaS' Best Friend | InfoQ - YouTube](https://www.youtube.com/watch?v=vPrYHZ6KXCE)
+  * Laurent Doguin의 51분 발표—Wasm의 콜드스타트 성능과 보안 모델이 FaaS 런타임에 이상적인 이유, 폴리글랏 상호운용을 위한 WebAssembly Component Model
 * [webassembly: the new kubernetes? -- wingolog](https://wingolog.org/archives/2021/12/13/webassembly-the-new-kubernetes)
 * [How Prime Video updates its app for more than 8,000 device types - Amazon Science](https://www.amazon.science/blog/how-prime-video-updates-its-app-for-more-than-8-000-device-types)
   * [아마존 프라임 비디오, WebAssembly 사용하여 8000개의 디바이스 타입 지원 | GeekNews](https://news.hada.io/topic?id=5858)
@@ -2871,6 +2873,9 @@ Web
 * [WAMP - an open standard WebSocket subprotocol that provides two application messaging patterns in one unified protocol](http://wamp.ws/)
 * [WebSocketChatApp2: Chat Application with Redis and Postgres intergration.](https://github.com/hkateu/WebSocketChatApp2)
   * [WebSockets in Scala, Part 2: Integrating Redis and PostgreSQL - Rock the JVM Blog](https://blog.rockthejvm.com/scala-redis-websockets-part-2/)
+* [VideoSDK - The easiest way to build powerful live audio & video apps](https://www.videosdk.live)
+  * [videosdk-live · GitHub](https://github.com/videosdk-live/)
+  * 어떤 플랫폼에서든 몇 분 안에 라이브 오디오·비디오 경험을 만드는 API/SDK. 공개 레포 92개
 
 # WSGI
 * [WSGI로 보는 웹 서버의 개념](http://khanrc.tistory.com/entry/WSGI%EB%A1%9C-%EB%B3%B4%EB%8A%94-%EC%9B%B9-%EC%84%9C%EB%B2%84%EC%9D%98-%EA%B0%9C%EB%85%90)
