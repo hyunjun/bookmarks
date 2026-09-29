@@ -535,6 +535,78 @@ def collect_entries(lines):
     ]
 
 
+def rebase_indents(entries):
+    """본문 출력용 들여쓰기를 hunk별로 재기준화한다.
+
+    각 hunk의 최소 들여쓰기를 0으로 맞추고 상대 들여쓰기만 유지한다.
+    e.g. 기존 항목 아래 2/4/4로 보강된 그룹은 본문에서 0/2/2가 된다
+    (실제 커밋 본문의 관례 — app.md KiwiDesk 커밋, 6f319dbbd 등).
+    """
+    min_by_hunk = {}
+    for indent, _, _, hunk in entries:
+        if hunk not in min_by_hunk or indent < min_by_hunk[hunk]:
+            min_by_hunk[hunk] = indent
+    return [
+        (indent - min_by_hunk[hunk], text, sign, hunk)
+        for indent, text, sign, hunk in entries
+    ]
+
+
+def format_output(entries):
+    """클립보드에 담을 최종 커밋 메시지 텍스트를 만든다.
+
+    - 변경이 한 줄뿐이면 그 줄 하나만(제목 축약 없이) 출력한다 — subject/본문
+      구분이 필요 없다 (관례: 단일 항목 커밋은 본문 라인이 곧 subject).
+    - 여러 줄이면 subject + 빈 줄 + 본문. 본문은 재기준화한 들여쓰기를 유지한다.
+    """
+    rebased = rebase_indents(entries)
+    if len(rebased) == 1:
+        return rebased[0][1]
+
+    body_lines = [" " * indent + text for indent, text, _, _ in rebased]
+    subject = build_subject(entries)
+    if subject:
+        return subject + "\n\n" + "\n".join(body_lines)
+    return "\n".join(body_lines)
+
+
+# (diff 라인 목록, 기대하는 전체 출력) — 단일 항목·들여쓰기 재기준화 검증
+FORMAT_TEST_DATA = [
+    # writing.md 최신 커밋: 1줄 변경 → 그 줄 하나만 (들여쓰기·제목 축약 없이)
+    (['@@ -142,2 +142,3 @@',
+      '+  * [LLM에게 글을 쓰게 하지 말고 교정하게 하라: AI 시대의 글쓰기 원칙 | digitalbourgeois](https://digitalbourgeois.tistory.com/3700)'],
+     'LLM에게 글을 쓰게 하지 말고 교정하게 하라: AI 시대의 글쓰기 원칙 | digitalbourgeois https://digitalbourgeois.tistory.com/3700'),
+    # app.md KiwiDesk 커밋: 2/4/4 보강 hunk → 본문 0/2/2 재기준화
+    (['@@ -2069,0 +2070,3 @@',
+      '+  * [KiwiDesk — Tiling that feels like it shipped with macOS](https://kiwidesk.kiwicanopy.com/)',
+      '+    * [kiwidesk: Settings instead of config files | kiwicanopy](https://github.com/kiwicanopy/kiwidesk)',
+      '+    * 설정 파일 대신 GUI 설정. Swift'],
+     'KiwiDesk — Tiling that feels like it shipped with macOS\n\n'
+     'KiwiDesk — Tiling that feels like it shipped with macOS https://kiwidesk.kiwicanopy.com\n'
+     '  kiwidesk: Settings instead of config files | kiwicanopy https://github.com/kiwicanopy/kiwidesk\n'
+     '  설정 파일 대신 GUI 설정. Swift'),
+    # 최상위 hunk: 들여쓰기 0/2 그대로 유지
+    (['@@ -10,0 +10,3 @@',
+      '+* [oxigraph: SPARQL graph database](https://github.com/oxigraph/oxigraph)',
+      '+  * [소개 글 | 저자](https://example.com/intro)',
+      '+  * 요약 텍스트'],
+     'oxigraph: SPARQL graph database\n\n'
+     'oxigraph: SPARQL graph database https://github.com/oxigraph/oxigraph\n'
+     '  소개 글 | 저자 https://example.com/intro\n'
+     '  요약 텍스트'),
+    # hunk 2개: 각 hunk가 따로 재기준화
+    (['@@ -1,0 +1,1 @@',
+      '+  * [llmfit 공식 사이트](https://www.llmfit.org/)',
+      '@@ -50,0 +52,2 @@',
+      '+* [strata: one-click install | niko1221](https://github.com/niko1221/strata)',
+      '+  * 게이밍 PC에서 125B MoE 구동'],
+     'llmfit 공식 사이트, strata: one-click install\n\n'
+     'llmfit 공식 사이트 https://www.llmfit.org\n'
+     'strata: one-click install | niko1221 https://github.com/niko1221/strata\n'
+     '  게이밍 PC에서 125B MoE 구동'),
+]
+
+
 def run_tests():
     """단위 테스트 실행. 실패 개수를 반환."""
     failed = 0
@@ -568,7 +640,17 @@ def run_tests():
             print(f'subject case {i} failed')
             print(f'\texpected {expected}\n\treal     {real}')
 
-    total = len(TEST_DATA) + len(TITLE_TEST_DATA) + len(SUBJECT_TEST_DATA)
+    for i, (lines, expected) in enumerate(FORMAT_TEST_DATA):
+        real = format_output(collect_entries(lines))
+        if real == expected:
+            print(f'format case {i} successful')
+        else:
+            failed += 1
+            print(f'format case {i} failed')
+            print(f'\texpected {expected!r}\n\treal     {real!r}')
+
+    total = (len(TEST_DATA) + len(TITLE_TEST_DATA)
+             + len(SUBJECT_TEST_DATA) + len(FORMAT_TEST_DATA))
     print(f'{total - failed}/{total} cases passed, {failed} failed')
     return failed
 
@@ -578,10 +660,6 @@ if __name__ == '__main__':
         sys.exit(1 if run_tests() else 0)
     else:
         entries = collect_entries(sys.stdin)
-        subject = build_subject(entries)
-        # subject + 빈 줄 + 기존 본문 (그대로 커밋 메시지에 붙여쓸 수 있는 형태)
-        if subject:
-            print(subject)
-            print()
-        for indent, text, sign, hunk in entries:
-            print(text)
+        output = format_output(entries)
+        if output:
+            print(output)
