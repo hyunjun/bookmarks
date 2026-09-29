@@ -2124,6 +2124,9 @@ Javascript
   * [WebXR Device API를 이용한 웹 AR 구현, 그 한계와 대안 - 실전 편](https://d2.naver.com/helloworld/0189619)
 * asm.js
   * [Asm.js Chess Battle](https://dev.windows.com/en-us/microsoft-edge/testdrive/demos/chess/)
+* [ArtPlayer.js - HTML5 Video Player and Online Editor](https://artplayer.org/)
+  * [ArtPlayer: :art: ArtPlayer.js is a modern and full featured HTML5 video player | zhw2590582](https://github.com/zhw2590582/ArtPlayer)
+  * HLS·DASH·FLV·자막·플러그인을 갖춘 현대적 HTML5 비디오 플레이어. JavaScript, MIT, 4k stars
 * [Astro | Build faster websites](https://astro.build/)
   * [astro: Build faster websites with Astro's next-gen island architecture 🏝✨](https://github.com/withastro/astro)
   * [Introducing Astro: Ship Less JavaScript](https://astro.build/blog/introducing-astro)
