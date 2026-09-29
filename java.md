@@ -2688,6 +2688,8 @@ Java
 * [How to Fix java.lang.OutOfMemoryError: GC overhead limit exceeded Error in JVM Solution](https://javarevisited.blogspot.com/2015/06/javalangoutofmemoryerror-gc-overhead-limit-exceeded-error-jvm.html)
 * [Heap 메모리 누수 이슈: 문제의 원인을 찾는 연역적 과정](https://velog.io/@joosing/heap-memory-leak-issue-the-deductive-process-of-finding-the-cause)
 * [긴 텍스트 조회로 인한 OOM 문제 추적기](https://kyucumber.tistory.com/14)
+* [G1 Old Gen (Old Generation) 누수 포인트인 줄 알았지만 아니었습니다 | xeounxzxu](https://xeounxzxu.medium.com/g1-old-gen-old-genertaion-%EB%88%84%EC%88%98-%ED%8F%AC%EC%9D%B8%ED%8A%B8-%EC%9D%B8-%EC%A4%84-%EC%95%8C-%EC%95%98%EC%A7%80%EB%A7%88-%EC%95%84%EB%8B%88%EC%98%80%EC%8A%B5%EB%8B%88%EB%8B%A4-852a1e9504bf)
+  * APM에서 계단식으로 급등하는 메모리 지표를 보고 G1 Old Gen 누수로 의심했다가 아니었던 사례—어떤 지표로 확인했는지 공유
 * [**Open sourcing oomd, a new approach to handling OOMs**](https://code.fb.com/production-engineering/open-sourcing-oomd-a-new-approach-to-handling-ooms/)
   * Facebook 인프라 확장에 따라 발생한 여러 부작용 중 메모리 부족(OOM)을 개선하기 위해 전통적인 리눅스 OOM killer 보다 빨리 응답하고 신뢰할 수 있는 솔루션으로 oomd를 개발, 적용,오픈 소스 공개
 
