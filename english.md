@@ -67,6 +67,18 @@ English
   * 캘리쌤 브이로그 영어. 16살 도미 후 넷플릭스·메타·틱톡 디렉터를 거쳐 K뷰티 회사 CEO가 된 이소라의 영어 학습·커리어 인터뷰. 비즈니스 영어 공부법, 문법·자신감·쉐도잉 실전 팁, 한국인을 위한 스몰토크 전략, 연봉 협상·워킹맘 균형까지
 * [How to Explain Anything To Anyone (Even If It's Complex!) - YouTube](https://www.youtube.com/watch?v=Sqh6rt1hN2A)
   * Vinh Giang. 복잡한 정보·워크플로우·아이디어를 비전문가에게 쉽게 설명하는 CLEAR 프레임워크—Calibrate·Link·Envision·Abstract·Repeat. 어려운 단어·전문용어를 쓰는 건 사실 똑똑해 보이려는 자신감 문제이며 오히려 이해를 방해한다는 지적
+* [반응할 때 자주 쓰는 영어 | 한마디 영어 | Facebook](https://www.facebook.com/permalink.php?story_fbid=pfbid0D75ndC5Cz3jmv88c2vr8mGAZqrUUeBtFXRuWqaDnyHPDnsH5Y8jaWeC1V1ZkMrvLl&id=100095143433400)
+  * That checks out. — 말이 되네 (설명이나 정보가 맞아 보일 때)
+  * It adds up. — 앞뒤가 맞네 (정황상 따져 봤을 때 말이 될 때)
+  * I'm sold. — 나 설득됐어 (제안이나 설명에 마음이 넘어갔을 때)
+  * No biggie. — 별일 아니야 (가볍게 넘기거나 부담 없다고 할 때)
+* 의견 말할 때 자주 쓰는 영어 6개
+  * I'll give you that. — 그건 인정할게.
+  * My treat. — 내가 살게.
+  * It's not my vibe. — 내 스타일은 아니야.
+  * How come? — 왜?
+  * You never know. — 혹시 모르지.
+  * That makes sense. — 말이 되네.
 * [allearsenglish.com/episodes](https://www.allearsenglish.com/episodes/)
 * [bbc.co.uk/learningenglish](http://www.bbc.co.uk/learningenglish/)
 * [cnn.com/cnn10](https://edition.cnn.com/cnn10)
