@@ -603,6 +603,9 @@ SQL
 * [db_seeder: Relational database data generator..](https://github.com/KonnexionsGmbH/db_seeder)
 * [DbSchema – Database Design & Management Tool for Teams](https://dbschema.com/)
   * [Visual Database Design and Management Tool - DbSchema - YouTube](https://www.youtube.com/watch?v=IjWRQ7qfLhg)
+* [DBX - 25MB, 100+ 데이터베이스 관리](https://dbxio.com/)
+  * [dbx: 25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis | t8y2](https://github.com/t8y2/dbx)
+  * 25MB 경량 크로스플랫폼 DB 클라이언트—SQL 편집기, 선택형 AI 어시스턴트, MCP, Docker 셀프호스팅. Rust, Apache-2.0, 21.6k stars
 * [Dolt – It's Git for Data](https://github.com/dolthub/dolt)
 * [dqlite: Embeddable, replicated and fault tolerant SQL engine](https://github.com/canonical/dqlite)
 * [dsq: Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more](https://datastation.multiprocess.io/blog/2022-01-11-dsq.html)
