@@ -3307,6 +3307,8 @@ NLP
     * AI 자동화 에이전시 관점(n8n 계열)의 17분 영상—생성·실행은 Opus 5.5, 반복 판단은 Jev로 나누는 조합을 다룸
   * [Jev 공개 일주일 만에 오픈소스가 따라붙었습니다 | 코드브릿지 - YouTube](https://www.youtube.com/watch?v=GEvaXpJGiVA)
     * 공개 직후 kev·Reflex·Ani 등 오픈소스 구현이 연달아 등장한 흐름 5분 정리—중요한 것은 Jev라는 제품인가, '문장 대신 판단을 반환하는' 새 구조인가라는 질문 제기. HN 1900포인트·댓글 500+ 반응 소개
+  * [I trained my own Jev for $5 | CoderOne - YouTube](https://www.youtube.com/watch?v=KmiVxA6Mtio)
+    * Qwen 3.5 4B를 $5로 파인튜닝해 Jev식 분류기(상태+질문→1초 내 점수화된 판정) 자작하는 20분 실습
   * [2609.26550 JEV-as-a-Judge: Accept When Confident, Escalate When Unsure](https://arxiv.org/html/2609.26550)
     * [벌써 Jev의 실제 성능과 장점, 그리고 약점과 보완 방법까지 자세히 실험한 논문이 나왔습니다 | 염기웅](https://www.linkedin.com/posts/kiwoong-yeom_%EB%B2%8C%EC%8D%A8-jev%EC%9D%98-%EC%8B%A4%EC%A0%9C-%EC%84%B1%EB%8A%A5%EA%B3%BC-%EC%9E%A5%EC%A0%90-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%95%BD%EC%A0%90%EA%B3%BC-%EB%B3%B4%EC%99%84-%EB%B0%A9%EB%B2%95%EA%B9%8C%EC%A7%80-%EC%9E%90%EC%84%B8%ED%9E%88-%EC%8B%A4%ED%97%98%ED%95%9C-share-7509092892578050048-psZU/)
     * CMU 계열 저자 4명(Yubo Li·Ramayya Krishnan·Rema Padman 외)의 첫 Jev 독립 평가 논문(2026-09-22). 판단만 내리는 저지가 LLM-as-a-judge의 경제적 1차 패스가 될 수 있는지를 16개 생성·리워드 모델 저지와 블라인드 인간 판정으로 비교—일반 선호·근거 기반 사실성에서는 최고 성능 LLM 저지 대비 3%p 이내를 **비용 0.36%**로 달성하지만, 유도 과정을 검증하거나 정교하게 쓰인 오답에 저항해야 하는 판단에서는 격차가 커짐
