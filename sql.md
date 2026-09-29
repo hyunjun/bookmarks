@@ -506,6 +506,8 @@ SQL
   * [Introducing Amazon Aurora DSQL | AWS Database Blog](https://aws.amazon.com/ko/blogs/database/introducing-amazon-aurora-dsql/)
   * [Concurrency control in Amazon Aurora DSQL | AWS Database Blog](https://aws.amazon.com/ko/blogs/database/concurrency-control-in-amazon-aurora-dsql/)
   * [AWS가 SQL DB의 한계를 부셔버렸네요. Serverless SQL DB 서비스 : Aurora DSQL을 소개합니다. - YouTube](https://www.youtube.com/watch?v=TGQuSrePOPU)
+  * [DSQL Experiment Notes | ROBOCO](https://roboco.io/dsql-experiments)
+    * Aurora DSQL을 RDS PostgreSQL Multi-AZ·Aurora Provisioned·Serverless v2와 같은 워크로드로 비교하는 공개 실험(12건 완료)—처리량·지연뿐 아니라 개발·운영 공수·제약·비용까지. e.g. SQL 호환성 35개 검사 중 DSQL은 17개 통과·16개 미지원(0A000), 대조군 3종은 34개 통과. 도입 결정 문서·사용 가이드 포함(한국어)
 * [963초짜리 쿼리 하나가 HLL 205만까지 끌어올렸습니다 | 아임웹 기술블로그](https://tech.imweb.me/posts/aurora-hll-snapshot-lifetime/)
   * Aurora에서 단일 장기 쿼리가 유지한 읽기 스냅샷이 정리되지 못한 undo 로그를 쌓아 History List Length가 205만까지 급증한 사례. Read Committed도 963초짜리 statement는 그만큼 스냅샷을 유지하므로 근본 해결이 아니었음
   * 단일 조회를 1만 건씩 청크로 분할해 각 스냅샷 수명을 단축하고 조회를 리더 복제본으로 이동시켜 해결
