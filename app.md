@@ -2068,6 +2068,9 @@ App
     * [AeroSpace Guide](https://nikitabobko.github.io/AeroSpace/guide)
     * [Aerospace Is Probably The Best MacOS Tiling Manager I've Ever Used - YouTube](https://www.youtube.com/watch?v=5nwnJjr5eOo)
   * [Divvy](https://mizage.com/divvy/)
+  * [KiwiDesk — Tiling that feels like it shipped with macOS](https://kiwidesk.kiwicanopy.com/)
+    * [kiwidesk: Settings instead of config files, seven layouts incl. PaperWM-style scrolling, native Desktops kept intact, Lua underneath | kiwicanopy](https://github.com/kiwicanopy/kiwidesk)
+    * 설정 파일 대신 GUI 설정, PaperWM식 스크롤 포함 7개 레이아웃, macOS 네이티브 데스크톱 유지, 내부는 Lua. Accessibility 권한만 사용(SIP 해제 불필요). Swift
   * [komorebi: A tiling window manager for Windows 🍉](https://github.com/LGUG2Z/komorebi)
     * [Index - Komorebi](https://lgug2z.github.io/komorebi/)
     * [My Favorite Tiling Window Manager is Finally on macOS - YouTube](https://www.youtube.com/watch?v=u3eJcsa_MJk)
