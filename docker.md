@@ -2220,6 +2220,8 @@ Docker
     * [Sync 10,000 Argo CD Applications in One Shot | by Jun Duan | Feb, 2023 | ITNEXT](https://itnext.io/sync-10-000-argo-cd-applications-in-one-shot-bfcda04abe5b)
       * Argo CD에서 수천 개의 앱을 Kubernetes 클러스터에 동기화할 때 병목 지점을 확인하기 위해 2천 개에서 만개까지의 애플리케이션을 동기화하는 실험을 한 과정
       * Kustomization을 쓰고 있다면 CPU 병목이 생길 수 있고 수천 개의 앱을 사용한다면 기본 재동기화 시간을 늘려야 할 수 있고 최악의 상황에는 동기화 지연이 발생할 수도 있음
+    * [ArgoCD ApplicationSet: The Control Plane for Large-Scale GitOps | DevOps.dev](https://blog.devops.dev/argocd-applicationset-the-control-plane-for-large-scale-gitops-7cee0e17b4d8)
+      * 수동으로 늘어나던 K8s 플릿 관리를 ApplicationSet으로 선언적 자동화하는 대규모 GitOps 가이드
     * [ArgoCD Vault Plugin | docmoa](https://docmoa.github.io/04-HashiCorp/06-Vault/04-UseCase/argocd-vault-plugin.html)
     * [3. Argo-CD를 이용한 GitOps 시스템 구축 – 제니퍼소프트](https://jennifersoft.com/ko/blog/tech/2023-08-30-jennifer-kubernetes-3/)
     * [Infisical Open Source SecretOps: Apply it using GitOps approach. | by Mr DevOps 🐳 ☸ ☁️ 🌐 | Aug, 2023 | Medium](https://mrdevops.medium.com/infisical-open-source-secretops-apply-it-using-gitops-approach-245f57fcd67e)
@@ -2882,6 +2884,8 @@ Docker
   * [eBPF를 활용한 문제 해결 사례 - EBUSY | 이해준](https://www.linkedin.com/posts/back1ash_ebpf%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0-%EC%82%AC%EB%A1%80-ebusy-activity-7394359872340844544-tSKT)
 * [Calico?Weave? CNI에 관하여](https://ykarma1996.tistory.com/179)
 * [CNI (Container Network Interface) ?](https://uni2u.tistory.com/127)
+* [Istio CNI Unveiled: Streamlining Service Mesh Connectivity | Jimmy Song](https://jimmysong.io/blog/istio-cni-deep-dive/)
+  * Istio CNI의 설계 원리·구현 방식과 보안·권한 관리 강화 방법 심층 해설
 * [리얼리눅스 무료세미나: 도커/쿠버네티스/클라우드 네트워크 문제해결이 어려운 이유 - YouTube](https://www.youtube.com/watch?v=McDxXTGnWPE)
 * [VritualBox host-only Network(MAC,Linux).pdf](https://github.com/sysnet4admin/_Book_k8sInfra/blob/main/docs/%EC%8B%A4%EC%8A%B5%20%EC%9D%B4%EC%8A%88%231%20-%20VritualBox%20host-only%20Network(MAC%2CLinux).pdf)
 * [BLOG: Canal and Calico Networking for k8s - Google 드로잉](https://docs.google.com/drawings/d/1SNBKcFM9diHU0--zIgK5zg4aFDWmSL-g4H3G01t7uy0/edit)
