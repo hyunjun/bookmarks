@@ -5331,6 +5331,9 @@ Programming
 * [How Big Tech Ships Code to Production - YouTube](https://www.youtube.com/shorts/551lh10g_go)
 * [채널톡 메인 백엔드 서버 CI 개선기 | Channel Talk Tech Blog](https://channel.io/ko/team/blog/articles/backend-ci-refactoring-73fca77d)
   * CI 실행 시간 36.6분→15분 38초. DB 공유 상태 제거로 병렬 테스트, 반복 준비 단계 제거, 동적 작업 분배, 입력 해시 기반 캐싱
+* [AI coding has made CI a bottleneck, so we reworked ours to keep up | Linear](https://linear.app/now/ci-bottleneck-reworked)
+  * [AI 코딩으로 빨라진 개발, CI 병목은 어떻게 줄였나: Linear의 CI 최적화 사례 | digitalbourgeois](https://digitalbourgeois.tistory.com/3691)
+  * AI 에이전트로 PR 생산 속도가 오르자 CI가 병목이 된 Linear—인프라부터 스케줄링·테스트 병렬화까지 시스템으로 재설계해 대기 시간과 비용 절감
 * [Bitrise | Mobile DevOps to Maximize App Impact](https://bitrise.io/)
   * [React Native CICD using Bitrise (1) / Bitrise!](https://orangebrother.dev/blog/cicd-using-bitrise-bitrise)
   * [React Native CICD using Bitrise (2) / Blueprint!](https://orangebrother.dev/blog/cicd-using-bitrise-blueprint)
