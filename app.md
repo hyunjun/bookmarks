@@ -863,6 +863,8 @@ App
 * [mirotalksfu: 🏆 WebRTC with integrated SFU server. Video calls, messaging, screen sharing, recording and more.🏆](https://github.com/miroslavpejic85/mirotalksfu)
   * [MiroTalk SFU - 오픈소스 Zoom/Teams 대체제 | GeekNews](https://news.hada.io/topic?id=5497)
 * [neko: A self hosted virtual browser that runs in docker and uses WebRTC](https://github.com/m1k1o/neko)
+  * [n.eko 공식 사이트](https://neko.m1k1o.net/)
+  * Docker에서 돌아가는 WebRTC 기반 셀프호스팅 가상 브라우저. Go, Apache-2.0, 22.4k stars
 * [Nettu Meet - 온라인 강의를 위한 오픈소스 화상 회의 시스템 | GeekNews](https://news.hada.io/topic?id=4437)
 * [rallly: Self-hostable doodle poll alternative. Find the best date for a meeting with your colleagues or friends without the back and forth emails](https://github.com/lukevella/rallly)
   * [Rallly - 미팅 날짜 선택을 도와주는 Doodle Poll 대체제 오픈소스 | GeekNews](https://news.hada.io/topic?id=7195)
