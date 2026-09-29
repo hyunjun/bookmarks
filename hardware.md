@@ -386,6 +386,8 @@ Hardware
 * [Programming AudioVideo on the Raspberry Pi GPU](http://jan.newmarch.name/RPi/)
 * [CλaSH(CLaSH) - From Haskell to Hardware](http://www.clash-lang.org/)
 * [Doom on Raspberry Pi (bare metal assembly)](https://www.youtube.com/watch?v=jeHtktKtGYQ)
+* [The least discussed Raspberry Pi is... the Compute Module | abe's projects - YouTube Shorts](https://www.youtube.com/shorts/EXpk1nU3GoE)
+  * 53초—HDMI·USB 없이 브레이크아웃 보드와 조합하는 Raspberry Pi Compute Module 소개. 일반 Pi 4보다 작고 베이스 보드로 I/O를 구성해 프로젝트 유연성이 높음
 * [GitLab on Raspberry Pi 2!](https://about.gitlab.com/2015/04/21/gitlab-on-raspberry-pi-2/)
 * [nanoDLP is a Raspberry Pi Based Host Software for DLP based 3D printers](http://www.nanodlp.com/)
 * [pijFORTHos - A bare-metal FORTH operating system for Raspberry Pi](https://github.com/organix/pijFORTHos)
