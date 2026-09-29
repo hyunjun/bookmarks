@@ -1093,6 +1093,9 @@ App
     * [개발자를 위한 '진짜' 도구: Jira보다 빠르고 Linear보다 자유로운 오픈소스 Plane - YouTube](https://www.youtube.com/watch?v=uL2i8aOd_8g)
 * [projectlibre - Project Management software: alternative to Microsoft Project](https://sourceforge.net/projects/projectlibre/)
 * [Quire - Dream. Plan. Achieve.](https://quire.io/)
+* [TaskFlow - Smart Project & Task Management](https://almoce.github.io/Taskflow/)
+  * [Taskflow: A sleek, modern, and highly functional task and project management application built with React, Vite | almoce](https://github.com/almoce/Taskflow)
+  * 작업·프로젝트·일정을 적응형 워크스페이스에서 관리하는 React/Vite 앱. TypeScript
 * [Taskosaur - AI Project Management](https://taskosaur.com/)
   * [Taskosaur](https://github.com/Taskosaur/Taskosaur)
   * 자연어로 프로젝트 관리 워크플로우 실행하는 오픈소스 셀프호스트 도구. "15 클릭 8화면"을 대화형으로 축약("Create sprint with P0 bugs" 30초 실행). 조건부 자동화(디자인 완료→개발 자동 생성), E2E 암호화, GDPR/SOC2 준비
@@ -1582,6 +1585,11 @@ App
 
 # Homeserver
 * [(EP.12) 평생 서버비용 아끼는 방법. 무료 홈서버 BEST 5 (N100 미니PC 활용) - YouTube](https://www.youtube.com/watch?v=2SuHn0jMjIM)
+* [MicroRealEstate | Leases, rents and receipts in one app](https://microrealestate.app/)
+  * [microrealestate: Self-hosted property management app for landlords to manage leases, rents and receipts](https://github.com/microrealestate/microrealestate)
+  * 임대인용 셀프호스팅 부동산 관리—물건·임차인·임대계약·임대료·영수증을 한 앱에서. 개인 임대인(5호 이하) 무료. JavaScript, 1.2k stars
+* [paperless-ngx: A community-supported supercharged document management system: scan, index and archive all your documents](https://github.com/paperless-ngx/paperless-ngx)
+  * 스캔·인덱싱·아카이브를 한 번에 하는 셀프호스팅 문서 관리 시스템. Python, GPL-3.0, 46k stars
 * [project-nomad: Node for Offline Media, Archives, and Data — self-contained offline-first knowledge and AI platform](https://github.com/Crosstalk-Solutions/project-nomad)
   * Docker 기반 오프라인 지식/AI 플랫폼. Ollama AI 채팅, 오프라인 Wikipedia/Kiwix, 지역 지도, CyberChef 암호화, 교육 콘텐츠. 인터넷 없이 운영
 * [Tipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps](https://github.com/meienberger/runtipi)
