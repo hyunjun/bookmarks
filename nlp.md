@@ -4477,6 +4477,8 @@ NLP
   * [vLLM PagedAttention: 낭비되는 GPU 메모리 수 백만 달러 절약하기](https://codepointerko.substack.com/p/vllm-pagedattention-gpu)
   * [초보자도 가능한 vLLM 빠르게 만드는 튜닝 방법 3가지! - YouTube](https://www.youtube.com/watch?v=VJkLGLuue3I)
     * 괴발자. CPU 병목 개선으로 처리량 높이기, Preemption 최소화로 재연산 낭비 줄이기, Chunked Prefill로 체감 속도 높이기
+  * [일주일 내내 InfiniBand 때문에 삽질했다 — PKey, 그리고 vLLM custom all-reduce hang | Jongsu Kim](https://www.linkedin.com/posts/jongsu-kim-63458347_416-virtual-memory-management-share-7491254944503889921-03HL/)
+    * 멀티노드 vLLM 디버깅기—①PKey 미고려 배포로 링크는 정상인데 통신 불가 ②NCCL 초기화 후 에러 없는 hang의 범인은 IB가 아니라 vLLM custom all-reduce가 IMEX 채널 없이 fabric 핸들을 잡으려던 것(`--disable-custom-all-reduce`, `VLLM_ALL_REDUCE_FLASHINFER=0`). "vllm recipe를 너무 믿지 말자"
   * [nano-vllm: Nano vLLM](https://github.com/GeeeekExplorer/nano-vllm)
     * [nanoRLHF 프로젝트에서 가장 어려웠던 nanovllm 개발 종료](https://www.facebook.com/story.php?story_fbid=3811983599094612&id=100008490288977)
     * [nanoRLHF/examples/nanovllm.py at main · hyunwoongko/nanoRLHF](https://github.com/hyunwoongko/nanoRLHF/blob/main/examples/nanovllm.py)
@@ -6032,6 +6034,9 @@ NLP
   * [OpenNMT\_Library\_Tutorial\_Using\_Colab](https://github.com/Parkchanjun/OpenNMT_Library_Tutorial_Using_Colab)
   * [OpenNMT-py: Open Source Neural Machine Translation in PyTorch](https://github.com/OpenNMT/OpenNMT-py)
 * [py-googletrans - (unofficial) Googletrans: Free and Unlimited Google translate API for Python. Translates totally free of charge](https://github.com/ssut/py-googletrans)
+* [subtitle-pro: YouTube 영상에 AssemblyAI 음성인식 + Claude 번역으로 한글 자막을 생성·오버레이하는 웹 서비스 (에이전트 하네스 기반) | revfactory](https://github.com/revfactory/subtitle-pro)
+  * [유튜브 프리미엄 한글 자막 생성기 웹 서비스 — AGPL-3.0 오픈소스 공개 | 황민호](https://www.linkedin.com/posts/hwang-minho_%EC%9C%A0%ED%8A%9C%EB%B8%8C-%ED%94%84%EB%A6%AC%EB%AF%B8%EC%97%84-%ED%95%9C%EA%B8%80-%EC%9E%90%EB%A7%89-%EC%83%9D%EC%84%B1%EA%B8%B0-%EC%9B%B9-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B8%B0%EC%A1%B4%EC%97%90-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8D%98-%EC%9E%90%EB%A7%89-%EC%83%9D%EC%84%B1%EA%B8%B0-ugcPost-7482063517890793472-__Y6/)
+  * YouTube 자동 자막의 어색한 영한 번역(어순 차이)을 개선—여러 프롬프트·번역 방식을 실험해 자연스러운 자막 생성. 기존 앱을 웹 서비스로 재작성. TypeScript, AGPL-3.0
 * [word2word - Easy-to-use word-to-word translations for 3,564 language pairs](https://github.com/Kyubyong/word2word)
 
 # Tutorial
