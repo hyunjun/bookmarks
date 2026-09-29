@@ -2717,6 +2717,9 @@ NLP
   * Dettmers & Zettlemoyer의 고전—비트 수와 모델 크기의 트레이드오프를 스케일링 법칙으로 분석해 **추론에서는 4비트가 비트당 정확도의 최적점**임을 보인 양자화 근거 논문
 * [auto-round: A simple and effective post training quantization toolkit for high-accuracy low-bit LLM inference | Intel](https://github.com/intel/auto-round)
   * Intel의 고정확 저비트 사후 학습 양자화(PTQ) 툴킷. Python, Apache-2.0, 1.6k stars
+* [GGUF vs GPTQ vs AWQ vs EXL2: LLM Model Formats Explained (2026) | MarkTechPost](https://www.marktechpost.com/2026/09/18/gguf-vs-gptq-vs-awq-vs-exl2-llm-model-formats-explained-2026/)
+  * [GGUF vs GPTQ vs AWQ vs EXL2 vs EXL3: LLM 모델 포맷과 양자화 방식 완벽 정리 | digitalbourgeois](https://digitalbourgeois.tistory.com/3698)
+  * 컨테이너 포맷(GGUF·safetensors)과 양자화 방식(GPTQ·AWQ·EXL2/3)을 구분해 실측 bits-per-weight·캘리브레이션·하드웨어 적합성·런타임 지원까지 정리
 * [A Visual Guide to Quantization - by Maarten Grootendorst](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization)
   * [LLM 양자화에 대한 비쥬얼 가이드 | GeekNews](https://news.hada.io/topic?id=16107)
 * [LLM 양자화(Quantization): 원리부터 코드까지 - GPU 메모리는 왜 4배 줄어들까?](https://doobeom-coding.tistory.com/84)
