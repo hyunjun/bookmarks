@@ -2791,8 +2791,10 @@ CVPR2016)
   * [Starting on the Right Foot with Reinforcement Learning | Boston Dynamics](https://bostondynamics.com/blog/starting-on-the-right-foot-with-reinforcement-learning/)
   * [Stepping Up | Reinforcement Learning with Spot | Boston Dynamics - YouTube](https://www.youtube.com/watch?v=Kf9WDqYKYQQ)
 * [TMTrackNN — generating TrackMania tracks with neural networks](https://medium.com/@donadigo/tmtracknn-generating-trackmania-tracks-with-neural-networks-146db058e7cb)
-* [Unity-ML-Agents: Unity 강화학습 알고리즘 및 게임 환경을 제공합니다](https://github.com/jk96491/Unity-ML-Agents)
 * [TetrisXQ - Difficult and annoying Tetris implemented by Reinforcement Lrarning](https://github.com/junghyun397/TetrisXQ)
+* [Unity-ML-Agents: Unity 강화학습 알고리즘 및 게임 환경을 제공합니다](https://github.com/jk96491/Unity-ML-Agents)
+* [Video-Pre-Training: Video PreTraining (VPT): Learning to Act by Watching Unlabeled Online Videos | openai](https://github.com/openai/Video-Pre-Training/)
+  * 레이블 없는 온라인 영상(Minecraft)을 보고 행동을 학습하는 OpenAI VPT 공식 코드. Python, MIT, 1.7k stars
 
 ## RL Deep Q Learning DQL
 * [Deep Q-Learning (Space Invaders)](http://maciejjaskowski.github.io/2016/03/09/space-invaders.html)
@@ -3116,8 +3118,12 @@ CVPR2016)
   * [ai4animationpy](https://github.com/facebookresearch/ai4animationpy)
   * Meta Research의 뉴럴 네트워크 기반 캐릭터 애니메이션 프레임워크. MLP/오토인코더/코드북, GLB/FBX/BVH 모캡 임포트, 실시간 렌더링·IK, ECS 아키텍처. Unity 대비 학습 데이터 생성 4시간→5분, 추론 중 역전파 가능
 * [ArcReel: Open-source AI video workspace powered by AI Agents](https://github.com/ArcReel/ArcReel)
+  * [ArcReel — 开源 AI 短剧 / 漫剧生成工作台, 小说一键到成片](https://arc-reel.com/)
+  * 11개 내장 공급자·100+ 모델(Sora 2·Veo 3.1·Seedance 2.0·Nano Banana 2·GPT Image 2) 연동, 컷 간 캐릭터 일관성, 剪映(CapCut) 초안 직출. 5.2k stars
   * AI 에이전트 기반 오픈소스 비디오 생성 워크벤치. 소설→캐릭터/장면/소품 디자인→극본→분경도(storyboard)→비디오 파이프라인, 컷 간 캐릭터·장면 일관성 유지. Nano Banana 2·Veo 3.1·Grok·Seedance·OpenAI 연동, Claude Agent SDK 기반. Python, Docker
 * [Control-A-Video: Controllable Text-to-Video Generation with Diffusion Models](https://controlavideo.github.io/)
+* [CutClaw: Agentic Hours-Long Video Editing via Music Synchronization | GVCLab](https://github.com/GVCLab/CutClaw)
+  * 음악 동기화 기반으로 수 시간 길이 영상을 에이전트가 편집. Python, 979 stars
 * [Dreamix: Video Diffusion Models are General Video Editors](https://dreamix-video-editing.github.io/)
 * [EMO](https://humanaigc.github.io/emote-portrait-alive/)
 * [Genmo | Open Video Generation](https://www.genmo.ai/)
@@ -3125,6 +3131,10 @@ CVPR2016)
 * [Imagen Video](https://imagen.research.google/video/)
 * [InfiniteTalk: Audio-driven talking video generation with unlimited-length](https://github.com/MeiGen-AI/InfiniteTalk)
   * 오디오 기반 토킹 비디오 생성. 립싱크+머리·몸·표정 동기화, 무제한 길이 생성. 비디오→비디오 더빙 + 이미지→비디오 2가지 모드. 480P/720P, 스트리밍·클립 모드, TeaCache 가속·int8 양자화 지원
+* [InsertAnywhere: Geometrically Grounded and Optics-Aware Video Object Insertion (ECCV 2026)](https://myyzzzoooo.github.io/InsertAnywhere)
+  * [InsertAnywhere | myyzzzoooo](https://github.com/myyzzzoooo/InsertAnywhere)
+  * [2512.17504 InsertAnywhere: Geometrically Grounded and Optics-Aware Video Object Insertion](https://arxiv.org/html/2512.17504v2)
+  * 확산 모델 영상 편집이 프로덕션급 객체 삽입(VOI)에서 막히는 원인—4D 장면 이해 부족과 광학 상호작용(그림자·반사) 부재—을 기하학적 접지와 광학 인식으로 해결
 * [KLING AI: Next-Generation AI Creative Studio](https://klingai.com/)
   * [可灵大模型](https://kling.kuaishou.com/)
   * [중국이 SORA 대체! AI 동영상 생성 게임 체인저! AI 영상 길이 화질 창의력 모두 완벽! Kling, kuaishou 오후다섯씨 - YouTube](https://www.youtube.com/watch?v=n9aZQBRq3sM)
@@ -3134,6 +3144,7 @@ CVPR2016)
   * [LongLive: Real-time Interactive Long Video Generation](https://github.com/NVlabs/LongLive)
   * NVIDIA·MIT·HKUST(GZ)·HKU·THU 협업. 240초 실시간 인터랙티브 장편 비디오 생성, 생성 중 프롬프트 변경 가능. 핵심 기술 3가지—KV Recaching(프롬프트 변경 시 시각 연속성과 새 프롬프트 준수 균형), Short Window Attention + Frame Sink(장기 일관성 유지하며 효율 향상), Streaming Long Tuning(과거 KV 캐시 재사용해 5초 클립 연속 생성, OOM 회피). 20.7 FPS(Self-Forcing 17.0/SkyReels-V2 0.49 대비). LongLive-1.3B Hugging Face 공개
 * [LTX-Video — DiT-based video generation | Lightricks](https://ltx.io/model)
+  * [LTX-Desktop: An open-source desktop app for generating videos with LTX models | Lightricks](https://github.com/Lightricks/LTX-Desktop)
   * [LTX-Video: text-to-video and image-to-video with synchronized audio](https://github.com/Lightricks/LTX-Video)
   * [LTX-Video-2B-CoreAI · Hugging Face](https://huggingface.co/mlboydaisuke/LTX-Video-2B-CoreAI)
     * 8-step 증류 flow-matching DiT를 Apple Core AI로 실행, Mac GPU에서 512×768 영상 약 14초 생성
@@ -3142,6 +3153,11 @@ CVPR2016)
   * [Make-A-Video : Text-To-Video Generation Without Text-Video Data :: Ostin](https://ostin.tistory.com/130)
 * [Meta Movie Gen](https://ai.meta.com/research/movie-gen/)
   * [🎬Movie Gen: 메타의 차세대 미디어 생성 AI 모델🤖](https://fornewchallenge.tistory.com/entry/%F0%9F%8E%ACMovie-Gen-%EB%A9%94%ED%83%80%EC%9D%98-%EC%B0%A8%EC%84%B8%EB%8C%80-%EB%AF%B8%EB%94%94%EC%96%B4-%EC%83%9D%EC%84%B1-AI-%EB%AA%A8%EB%8D%B8%F0%9F%A4%96)
+* [Open Generative AI — Free AI Image & Video Studio | Muapi](https://muapi.ai/open-generative-ai)
+  * [Open-Generative-AI: Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation | Anil-matcha](https://github.com/Anil-matcha/Open-Generative-AI)
+  * 계정 없이 Flux·Kling·Veo·Seedance 등 200+ 모델로 이미지·영상 생성하는 오픈소스 스튜디오. JavaScript, MIT, 29.4k stars
+* [pixelle-video: 🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine | ath-maas](https://github.com/ath-maas/pixelle-video)
+  * AI 완전 자동 쇼트폼 영상 생성 엔진. Python, Apache-2.0, 28.5k stars
 * [ReCapture: Generative Video Camera Controls for User-Provided Videos using Masked Video Fine-Tuning](https://generative-video-camera-controls.github.io/)
 * Roboflow Inference [What is Inference? - Roboflow Inference](https://inference.roboflow.com/)
   * [Inference Pipeline - Roboflow Inference](https://inference.roboflow.com/using_inference/inference_pipeline/)
@@ -3166,6 +3182,8 @@ CVPR2016)
   * [TensorFlow KR | StableVideo: Text-driven Consistency-aware Diffusion Video Editing (2308, Zhejiang Unversity / Microsoft Asia) | Facebook](https://www.facebook.com/groups/TensorFlowKR/posts/2117021161972264/)
 * [Text2Video-Zero: Text-to-Image Diffusion Models are Zero-Shot Video Generators](https://github.com/Picsart-AI-Research/Text2Video-Zero)
   * [Stable Diffusion으로 이제 영상까지?! 추가 학습 없이 영상 만드는 초 간단 기술! Text2Video-Zero 논문 리뷰! - YouTube](https://www.youtube.com/watch?v=nGkSjxU3Tiw)
+* [univa: Official Code Repo for UniVA: Universal Video Agents | univa-agent](https://github.com/univa-agent/univa)
+  * 범용 비디오 에이전트 UniVA 공식 코드. TypeScript, MIT
 * [VASA-1 - Microsoft Research](https://www.microsoft.com/en-us/research/project/vasa-1/)
   * [Microsoft 충격 발표… 사진 음성 주어지면 실시간으로 표정부터 시선, 감정, 머리 움직임까지 조절하는 영상 생성AI VASA-1 공개 - YouTube](https://www.youtube.com/watch?v=-3Y9qgCP2FY)
 * [Veo - Google DeepMind](https://deepmind.google/technologies/veo/)
@@ -3173,6 +3191,9 @@ CVPR2016)
   * [처음 시작하는 Google Veo 3 - WikiDocs](https://wikidocs.net/book/19471)
     * [New_Veo3: WikiDocs 연동 책 - 처음 시작하는 Google Veo 3](https://github.com/astrabit-dev/New_Veo3)
     * 입문자용 한국어 가이드북. Google Flow 무료 체험, 프롬프트 8요소, 대화·오디오·카메라 연출, TikTok/Instagram/YouTube 플랫폼별 최적화, JSON 고급 프롬프트, AI 영상 수익화. Veo 3.1/Lite 반영, 116+ 페이지, 18 PART + 부록 A~G
+* [ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One) | HKUDS](https://github.com/HKUDS/ViMax)
+  * [2606.07649 ViMax: Agentic Video Generation](https://arxiv.org/html/2606.07649v2)
+  * 단편 클립 생성에 없던 서사 계획과 장면 간 캐릭터·환경 일관성을 갖춘 장편 영상 생성 에이전트 프레임워크—감독·시나리오 작가·프로듀서·비디오 생성기를 한 시스템에. Python, MIT, 12.5k stars
 * [VideoPoet: 구글의 제로샷(Zero-Shot) 비디오 생성 대규모 언어 모델](https://fornewchallenge.tistory.com/entry/VideoPoet-%EA%B5%AC%EA%B8%80%EC%9D%98-%EC%A0%9C%EB%A1%9C%EC%83%B7Zero-Shot-%EB%B9%84%EB%94%94%EC%98%A4-%EC%83%9D%EC%84%B1-%EB%8C%80%EA%B7%9C%EB%AA%A8-%EC%96%B8%EC%96%B4-%EB%AA%A8%EB%8D%B8)
 * [VOID: Video Object and Interaction Deletion](https://github.com/netflix/void-model)
   * [void-model · Netflix](https://huggingface.co/netflix/void-model)
