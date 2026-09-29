@@ -6368,6 +6368,9 @@ Programming
 * [Teleport: Easiest, Most Secure Infrastructure Access](https://goteleport.com/)
   * [인프라 접근 관리 도구 Teleport 알아보기 | InfoGrab, DevOps 전문 기술 기업 | 인포그랩 | GitLab기반 DevSecOps 구축,컨설팅,교육,기술지원 서비스 제공](https://insight.infograb.net/blog/2023/11/23/teleport/)
   * [Teleport 기능 톺아보기 1탄(SSO, Access Requests편) | InfoGrab, DevOps 전문 기술 기업 | 인포그랩 | GitLab기반 DevSecOps 구축,컨설팅,교육,기술지원 서비스 제공](https://insight.infograb.net/blog/2024/06/26/teleport-ssoar/)
+* [Versus | Your AI SRE Teammate](https://versusincident.com/)
+  * [devops-ai-guidelines: First AI Journey for DevOps — learning paths, practical tips, and enterprise guidelines | VersusControl](https://github.com/VersusControl/devops-ai-guidelines)
+  * 서비스 시그널에서 이상 탐지·헬스 모니터링·알림 피로 감소·SLO 정의를 해주는 AI SRE. 같은 팀의 DevOps용 AI 학습 경로·가이드라인 레포(1.5k stars) 동봉
 
 # Email
 * [Billions of Emails Synced with Python](https://www.nylas.com/blog/billions-of-emails-synced-with-python)
@@ -6778,6 +6781,8 @@ Programming
 * [**최신 메시지 큐(Messgae Queue) MQ 기술**](https://kji6252.github.io/2015/12/18/message-quere/)
 * [메시지 큐, 큐와 로그부터 순서 보장까지 | wonkooklee](https://blog.wonkooklee.com/docs/software-design-and-theory/message-queue-fundamentals/)
   * 메시지 큐 기반 알림 기능을 고치다 파티션·오프셋(Kafka), 익스체인지·라우팅 키(RabbitMQ), 스트림·컨슈머(Redis Streams)가 비슷한 일을 다른 말로 설명하는 데서 출발—제품별 사용법이 아니라 "메시지 큐를 가르는 기준은 무엇이고 그 기준이 무엇을 결정하는가"를 큐 vs 로그 모델부터 순서 보장까지 개념 단위로 정리
+* [Message Queue vs Event Bus vs Broker | Nikki Siapno](https://www.linkedin.com/posts/nikkisiapno_message-queue-vs-event-bus-vs-broker-a-%F0%9D%97%A0%F0%9D%97%B2%F0%9D%98%80%F0%9D%98%80%F0%9D%97%AE%F0%9D%97%B4%F0%9D%97%B2-share-7469274704458129408-xKjn/)
+  * 메시지 큐=작업 분배 채널(메시지 하나를 소비자 하나가 처리, 브로드캐스트용 아님) / 이벤트 버스=일대다 채널(토픽에 발행하면 구독자마다 사본, 발행자·구독자 서로 모름) / 메시지 브로커=둘을 모두 호스팅해 큐·토픽으로 라우팅하는 시스템
 * [Reviewing Messaging in Distributed System Architectures](https://levelup.gitconnected.com/reviewing-messaging-in-distributed-system-architectures-6cf2fd7b8b4e)
 * [THE OPENMESSAGING BENCHMARK FRAMEWORK](http://openmessaging.cloud/docs/benchmarks/)
 * [Batch processing best practices - Vlad Mihalcea](https://vladmihalcea.com/scheduled-jobs-best-practices/)
