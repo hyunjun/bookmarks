@@ -720,6 +720,9 @@ App
   * [Never Install - 데스크탑 앱을 설치없이 브라우저에서 사용하기 | GeekNews](https://news.hada.io/topic?id=4794)
 * [plasmo: 🧩 The Browser Extension Framework](https://github.com/PlasmoHQ/plasmo)
   * [Plasmo - 브라우저 확장 개발을 위한 프레임워크 | GeekNews](https://news.hada.io/topic?id=16427)
+* [Retriever AI — Free AI Browser Agent for Chrome and Cloud](https://rtrvr.ai/)
+  * [This 100% FREE AI Agent Is Absolutely INSANE! | Rtrvr AI | Astro K Joseph - YouTube](https://www.youtube.com/watch?v=wy_22Obd03A)
+  * 열린 웹과 로그인된 사이트를 가로질러 작업하고 결과물을 가져오는 무료(광고 지원) AI 브라우저 에이전트. Chrome 확장(지금 보는 페이지에서 시작)과 클라우드(스케줄로 브라우저 1,000개 실행), API·MCP·CLI/SDK·WhatsApp 연동. 웹 스크래핑·리드 보강·웹 모니터링·폼 작성·구직 지원·소셜 미디어·에이전틱 체크아웃 등 용도별 가이드. 700만+ 작업 자동화, 35,000+ 팀, Web Bench 1위(OpenAI·Anthropic 앞) 주장. 에이전트가 자율 결제·셋업할 수 있는 llms.txt 스토어프런트도 제공
 * [verso: A web browser that plays old world blues to build new world hope](https://github.com/versotile-org/verso)
   * [Verso - Servo 웹 엔진 기반 웹 브라우저 | GeekNews](https://news.hada.io/topic?id=16274)
 * [Zen Browser](https://www.zen-browser.app/)
