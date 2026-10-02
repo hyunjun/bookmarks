@@ -2987,6 +2987,11 @@ Javascript
   * [Build and Deploy an Amazing 3D Web Developer Portfolio in React JS | Beginner Three.js Tutorial - YouTube](https://www.youtube.com/watch?v=0fYi8SGA20k)
   * [Bruno's](https://bruno-simon.com/)
     * [단연코 가장 멋진 3D 웹사이트 중 하나 | GeekNews](https://news.hada.io/topic?id=24963)
+  * [img2threejs — Rebuild the object in a reference image as a code-only, procedural Three.js model](https://img2threejs.io)
+    * [img2threejs: Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D](https://github.com/img2threejs/img2threejs)
+    * [🎨 img2threejs : 참조 이미지 한 장을 애니메이션 Three.js 모델로 | fornewchallenge](https://fornewchallenge.tistory.com/entry/%F0%9F%8E%A8-img2threejs-%EC%B0%B8%EC%A1%B0-%EC%9D%B4%EB%AF%B8%EC%A7%80-%ED%95%9C-%EC%9E%A5%EC%9D%84-%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98-Threejs-%EB%AA%A8%EB%8D%B8%EB%A1%9C)
+    * 참조 이미지 한 장을 사진측량·메시 추출·에셋 다운로드 없이 기본 도형+절차적 셰이더+생성 지오메트리의 읽고 고칠 수 있는 Three.js 코드로 재구성하는 에이전트 스킬(Claude Code·Codex·OpenCode). 피벗·소켓·충돌체를 갖춘 런타임 계층까지 만들어 애니메이션 가능. 모델 토큰은 시각 판단·코드 생성에만 쓰고 검증·게이팅은 결정적 Python 3.10+ 표준 라이브러리 스크립트가 담당
+    * blockout→structural→form→material→surface→lighting→interaction→optimization 8단계 자기 교정 파이프라인. 코드 생성 전 정체성을 결정하는 작은 디테일(광택·베벨·리벗·각인·마모)을 detailInventory로 열거하고 모두 컴포넌트·재질에 매핑되기 전엔 생성을 막는 엄격 품질 게이트, 텍스처가 구조를 대신하지 못하게 하는 컴포넌트 커버리지 게이트, 보이지 않는 영역은 저신뢰로 남기는 "지어내지 않기" 원칙. Python, Apache-2.0, 17.4k stars
   * [Three.js-Object-Sculptor-Codex-Plugin: turns object images into code-only, animation-ready procedural Three.js models](https://github.com/vinhhien112/Three.js-Object-Sculptor-Codex-Plugin)
     * 첨부 이미지 속 오브젝트를 코드로만 만든 애니메이션 준비 완료 procedural Three.js 모델로 재구성하는 Codex 플러그인. 포토그래메트리·메시 추출이 아니라 이미지 검증→객체 기술→지오메트리/머티리얼 분해→블록아웃-디테일 단계 빌드→애니메이션 계층 배선→원본 대비 렌더 비교의 스컬프팅 워크플로우 유도. ObjectSculptSpec 기반, 게임 오브젝트·소품·식물·기계 부품 등에 적합
   * [threejs-skills](https://github.com/CloudAI-X/threejs-skills) Three.js Skills for Claude Code
