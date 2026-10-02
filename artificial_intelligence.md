@@ -606,6 +606,10 @@ Artificial Intelligence
 * [Building effective agents \ Anthropic](https://www.anthropic.com/research/building-effective-agents)
   * [효과적인 "Agents" 구축 방법 | GeekNews](https://news.hada.io/topic?id=18376)
   * [Agents에 대한 모든 기초 설명 - YouTube](https://www.youtube.com/watch?v=HujQhD8J2LQ)
+* [에이전트, 개념부터 같이 정리해봐요 | NAVER D2 - YouTube](https://www.youtube.com/watch?v=UjvgpPG1XTU)
+  * 네이버 사내 Tech Meetup 인기 세션(66분). 에이전트·하네스·Context vs Memory·MCP vs A2A처럼 같은 말을 서로 다른 뜻으로 써서 논의가 겉도는 문제를 Anthropic·OpenAI·MCP·A2A 원문을 다시 읽고 정리. 목표 둘—워크플로우와 에이전트를 구분할 수 있다, 하네스가 모델 밖 어떤 구성 요소를 가리키는지 설명할 수 있다
+  * 워크플로우 vs 에이전트의 기준은 "다음 순서를 누가 정하느냐"—코드를 읽으면 다음 상태가 보이면 워크플로우, 모델이 도구만 받아 그때그때 판단하면 에이전트(실체는 while loop, ReAct 프롬프트 규약이 툴콜링 학습으로 내재화된 것). 화이트보드에 분기를 그릴 수 있으면 워크플로우, 예외·분기만 계속 늘면 에이전트. 하네스는 모델 밖에서 루프·세션/컨텍스트·메모리·지식(CLAUDE.md·스킬)·권한·상한(auto compact, 도구 호출 횟수 제한)을 맡는 층으로, "없으면 어떻게 되는가"로 각 요소의 필요성을 설명
+  * 모델이 똑똑해질수록 모델을 보조하던 절차(장황한 도구 description, MCP 다수→Bash+CLI)는 얇아지고, 너무 똑똑해서 우회하려는 모델을 통제하는 층(Fable 5의 생물학 질의 안전 분류기 등)은 두꺼워진다는 전망. 도구 설계: Anthropic "Writing effective tools"처럼 도구도 평가셋으로 릴리즈마다 개선, 읽기/쓰기·병렬 가능 여부·승인 필요 여부를 컨트랙트로 관리. MCP는 조직별 API를 각 에이전트가 직접 래핑·관리하던 중복을 조직별 MCP 서버로 옮기는 것, A2A와의 차이까지
 * [How to Build an Agent - Amp](https://ampcode.com/notes/how-to-build-an-agent)
 * [JobKorea LOOP 에이전트 개발기: 1. 에이전트 개론 | by Seongtae Kim | jobkorea-tech](https://techblog.jobkorea.co.kr/jobkorea-loop-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EA%B0%9C%EB%B0%9C%EA%B8%B0-1-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EA%B0%9C%EB%A1%A0-6f2ec241d394)
 * [JobKorea LOOP 에이전트 개발기: 2.LOOP Reasoning Engine | by Seongtae Kim | Apr, 2025 | jobkorea-tech](https://techblog.jobkorea.co.kr/jobkorea-loop-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EA%B0%9C%EB%B0%9C%EA%B8%B0-2-loop-reasoning-engine-c53b8c69b1d4)
@@ -1644,9 +1648,19 @@ Artificial Intelligence
     * Pi(@earendil-works/pi-coding-agent)를 통해 하네스 엔지니어링을 배우는 입문서. 7부 구성—1부 Pi/하네스 이해, 2부 첫 작업실(설치·로그인·첫 세션·`read`/`write`/`edit`/`bash` 4 도구), 3부 기본 사용법, 4부 일상 업무(글쓰기·회의록), 5부 하네스 확장(AGENTS.md·스킬·확장·세션 `/tree` `/fork` `/clone`), 6부 SDK/RPC/JSON 시스템 통합, 7부 보안·권한·비용·로그. OpenClaw가 Pi SDK 통합 사례로 등장. v0.9, 2026.5.23 기준 1부+2부 4-7장 공개. 핵심: "Pi는 AI에게 일을 시키는 채팅창이 아니라, AI가 일할 수 있는 작업 환경을 만드는 작은 터미널 하네스"
   * [작고 유연한 코딩 에이전트 Pi를 주목해야 하는 이유 :: ROBOCO](https://roboco.io/posts/why-pi-coding-agent-matters/)
     * 정도현(로보코). 기능 목록은 길어졌지만 에이전트의 동작을 바꾸기 어렵거나 원치 않는 절차를 따라야 하는 순간이 남는다는 문제의식에서 Pi의 유연함을 조명—리얼월드 백엔드 구현 실험에서 **Pi+DeepSeek V4.1-Flash 조합이 3회 모두 완주**, 최속 1.9분·비용 환산 $0.037
+  * [Pi 1.0 | Earendil](https://earendil.com/posts/pi-1-0/)
+    * [Pi 1.0 출시 - 미니멀한 터미널 코딩 에이전트 | GeekNews](https://news.hada.io/topic?id=34632)
+    * 2026-10-01 출시. 매주 수십만 명이 쓰는 미니멀 에이전트 하네스를 수개월 피드백으로 다져 1.0으로—새 기능이 유효성을 입증할 때까지 기다린 뒤 기능 가치 vs 복잡성을 따져 채택("벽에 던져 붙은 것만", 떨어진 목록이 훨씬 길다). 추가: Codemode(JavaScript로 도구 호출 조합, MCP·Jev 같은 비LLM 모델·이미지 모델 네이티브 지원), 확장의 가상 모델(데모: Claude Opus가 계획·GPT 6 Luna가 구현·Jev가 전환 시점 판단), 도구 지연 로딩, Anthropic 캐시 워밍, 대화 중 시스템 메시지 변경, 새 TUI 테마·전체 화면 기본
+    * 터미널·코딩 에이전트 밖에서 오래 이어지는 대화·작업을 위한 **Pi Durable**을 Pi를 바꾸는 대신 별도 실험 패키지(`@earendil-works/pi-durable`·`pi-ai`·`chord`)로 공개. 둘 다 MIT. HN 반응: 짧은 시스템 프롬프트 덕에 로컬 모델에서도 쓸 만한 유일한 하네스, OpenClaw의 복잡한 정체성 Markdown 대신 기반인 Pi만 남겨 비서 봇을 만든 사례
   * [PI-Desktop | A modular desktop workspace for AI agents](https://pi-docs.aiuo.net/)
     * [pi-desktop: Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins](https://github.com/vastsa/pi-desktop)
+    * [PI-Desktop, AI 에이전트를 위한 독립형 데스크톱 워크스페이스 | digitalbourgeois](https://digitalbourgeois.tistory.com/3718)
+      * 터미널·IDE·브라우저로 흩어진 에이전트 작업을 프로젝트·세션·리뷰·프리뷰·에이전트가 지속되는 하나의 독립 워크스페이스로—코어는 작게, 플러그인 하나가 에이전트 도구·스킬·Pi Extensions + 명령·패널·플로팅 위젯·테마 + MCP 서버·상주 서비스·메시지 버스까지 묶어 작업 환경 자체를 구성(음성 에이전트·GitHub Workspace 예시). 서브에이전트 위임·병렬 워커 세션 조율, 특정 모델 비종속. macOS·Windows·Linux, 0.15.x 초기 프리뷰
     * Pi 에이전트 하네스를 품은 로컬 퍼스트 데스크톱 워크스페이스—Electron UI + Rust 호스트 코어에 사용자 설치형 플러그인 구조. FileCodeBox의 vastsa 작. TypeScript, LGPL-3.0, 5.8k stars
+  * [Pi Durable | Earendil Engineering](https://earendil.com/posts/pi-durable/)
+    * [Pi Durable - 중단된 작업을 이어가는 AI 에이전트 하네스 | GeekNews](https://news.hada.io/topic?id=34641)
+    * Pi 1.0과 함께 공개한 실험 패키지. 한 사람이 터미널에서 쓰는 Pi 코딩 에이전트는 그대로 두고, 어디서든 실행되고 여러 접점에서 접근하며 무한히 긴 대화를 지원하고 치명적 장애를 견디며 여러 사람이 같은 에이전트를 조종하는 애플리케이션용 하네스를 별도로—코딩 에이전트도 만들 수 있지만 대체는 아님. 하네스 정의: 저장소 + LLM 대화를 병렬 실행하는 장치 + 도구 + 실행 환경, 모든 동작은 task. 테스트 제외 약 15,000줄(GPT 15만·Claude 25만 토큰)이라 에이전트가 소스 전체를 이해 가능
+    * 저장소 백엔드(메모리·SQLite·JSONL, 적합성 테스트·벤치마크 포함, Node API 미사용이라 Bun·Cloudflare Durable Object에서도) 위에서 작업 집합만 메모리에 유지. 매 task가 체크포인트를 남겨 노트북 절전·컨테이너 재배포·OOM 후 새 프로세스가 같은 저장소를 열어 미완료 작업을 이어감—중단된 모델 요청 재전송(부분 응답은 aborted 표시), 도구 호출은 안전한 경우만 재실행, requestId로 제출 exactly-once. 대화는 부모 기록을 복사 없이 참조해 어느 지점에서든 fork(Slack 채널=대화, 스레드=fork), 대화별 모델·사고 수준·확장·도구·지침·cwd 분리, 서브에이전트는 별도 대화로 몇 줄에 구현. 실행 중 코드를 바꿔도 다음 호출부터 적용. `@earendil-works/pi-durable`·`pi-ai`·`chord`, MIT
   * [pi-mono: AI agent toolkit - coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods](https://github.com/badlogic/pi-mono)
   * [pi-subagents: Pi extension for delegating work to specialized child agents](https://github.com/nicobailon/pi-subagents)
     * [pi-subagents - Pi를 위한 서브에이전트 | GeekNews](https://news.hada.io/topic?id=30989)
@@ -4486,6 +4500,11 @@ Artificial Intelligence
 * [GPT-Red: Unlocking Self-Improvement for Robustness | OpenAI](https://openai.com/index/unlocking-self-improvement-gpt-red/)
   * [GPT-Red란 무엇인가? AI를 더 안전하게 만드는 자동 레드팀 기술 | digitalbourgeois](https://digitalbourgeois.tistory.com/3378)
   * OpenAI의 자동화 AI 레드팀 시스템. 사람이 아닌 AI가 self-play로 다른 AI를 공격해 새 취약점(특히 웹·이메일·코드·파일 등 외부 데이터를 다루는 에이전트의 프롬프트 인젝션)을 발견하고, 이를 학습에 반영해 안전성·정렬·견고성을 높이는 기술
+* [디지털서비스 이슈리포트 2026-9 AI 에이전트 시대, 서비스의 접점이 바뀐다 : SaaS 역할과 디지털서비스의 구조 전환 | NIA 한국지능정보사회진흥원](https://www.nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=99863&bcIdx=30043&parentSeq=30043)
+  * [AI 위협이 바꾸는 보안 시장의 구조 | 브런치](https://brunch.co.kr/@ywkim36/222)
+    * 2026-04 Anthropic Mythos 발표가 "날짜와 이름이 붙은 구체적 위협"으로 보안 예산의 관성을 깬 뒤 돈이 어디서 어디로 흐르는지 해부—총량은 완만히 증가(Gartner 2026년 2,400억 달러, +12.5%)하지만 내부 배분은 격렬히 재편. 레거시 취약점 스캐너·로깅·사람 침투 테스트에서 빠져나와 직원 AI 사용 감시, 해커보다 먼저 취약점을 찾는 프론티어 모델 호출, AI 패칭 가속으로 이동하고 "LLM 토큰 예산"이라는 신설 회계 항목 등장(Veeam은 Mythos 지출 급증을 외부 침투 테스트 비용 절감으로 상쇄, Palo Alto는 초기 100만 달러 토큰 후 유지보수 모드, 일상 스캔은 저가 모델로 계층화)
+    * 세 축—①레거시 벤더(Tenable·Qualys·Rapid7, CrowdStrike·SentinelOne)의 딜레마: 특정 신규 카테고리에선 밀리지만 플랫폼 전체로는 성장, 감원 후 AI 제품 재투입 ②신생기업의 기회: 섀도우 AI 감시(Pluto Security)·취약점 탐지/패치 제안(Pig Security) 등 몇 년 전엔 없던 위협, Zafran은 Mythos 발표 5주 만에 대형 은행 3곳 계약 ③수직통합의 재현: Google의 Wiz 320억 달러 인수처럼 하이퍼스케일러·프론티어 모델 제공자가 위협 경고자이자 방어 도구 판매자로 시장 양쪽에 서며 지출이 플랫폼으로 수렴
+  * 2026-10-01 발행(NIA AI-클라우드기술혁신팀, PDF·MD 제공). 5편—①AI 에이전트 시대 SaaS 역할과 디지털서비스 구조 전환 ②EU AI 분야 유럽공동이익중요프로젝트(IPCEI AI) 이니셔티브 ③AI 위협이 바꾸는 보안 시장의 구조 ④AI 시대의 소프트웨어 엔지니어: 검증과 현장 중심의 역할 재편 ⑤2026 클라우드 솔루션 리포트: 추론 인프라(1) 토큰 경제
 * [AdaptixC2: AdaptixC2 is a highly modular advanced redteam toolkit](https://github.com/Adaptix-Framework/AdaptixC2)
   * [Welcome | Adaptix Framework](https://adaptix-framework.gitbook.io/adaptix-framework)
 * [agent-governance-toolkit: Microsoft AI Agent Governance Toolkit. Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents](https://github.com/microsoft/agent-governance-toolkit)
@@ -4516,6 +4535,12 @@ Artificial Intelligence
   * PurpleAILAB의 자율 레드팀 에이전트(Apache-2.0). 정찰·익스플로잇·권한 상승·횡적 이동·C2 전체 킬체인 자동화, 사전에 RoE/ConOps/Deconfliction Plan/OPPLAN+MITRE ATT&CK 매핑 생성. 16개 전문 에이전트(오케스트레이션·정찰·익스플로잇·포스트익스플로잇·취약점 연구·AD·Cloud·스마트컨트랙트·리버싱·분석가). tmux 영속 세션 인터랙티브 셸(msfconsole·sliver-client·evil-winrm), Kali Docker 샌드박스 2-네트워크 격리(LangGraph가 Docker socket으로 구동). 멀티 프로바이더(Anthropic/OpenAI/Gemini/DeepSeek/xAI/Mistral/OpenRouter/Ollama)+티어 폴백(eco/max/test). Sliver C2 프레임워크, Neo4j 지식 그래프, 웹 대시보드+CLI. XBOW 벤치 98.08%(102/104). 4.2k stars
 * [deep-eye: AI-driven vulnerability scanner and penetration testing tool](https://github.com/zakirkun/deep-eye)
   * OpenAI/Grok/OLLAMA/Claude 멀티 AI 프로바이더 통합. 자동 버그 헌팅, 지능형 페이로드 생성, 프로페셔널 리포팅
+* [DeepSec — security harness for finding vulnerabilities in your codebase powered by coding agents | Vercel](https://deepsec.sh/)
+  * [deepsec: Deepsec is a security harness for finding vulnerabilities in your codebase powered by coding agents](https://github.com/vercel-labs/deepsec)
+  * [A deep dive into DeepSec | Flavio Copes](https://flaviocopes.com/deepsec/)
+    * [Vercel DeepSec, AI 코딩 에이전트를 활용한 오픈소스 보안 스캐너 살펴보기 | digitalbourgeois](https://digitalbourgeois.tistory.com/3712)
+    * 자기 블로그 레포(729 파일) 전체를 돌려 잠재 발견 504건을 받아 Codex로 재검증·분류해 짧은 수정 목록으로 줄인 실사용기. 첫 실행 비용 제한, `.deepsec/`에 저장되는 단계별 산출물 읽기, 프로젝트 컨텍스트 추가, 브랜치·CI 실행까지. DeepSec은 저장소가 안전함을 증명하지 않으며 위협 모델·의존성/시크릿 스캔·런타임 모니터링·침투 테스트를 대체하지 않고, 선택한 모델 제공자에게 코드가 전송되며 신뢰할 수 있는 레포 전용(신뢰 못 하는 PR에 로컬 실행 금지)이라는 경계도 명시
+  * Vercel의 오픈소스 AI 보안 스캐너. 빠른 패턴 매처(precise·normal·noisy)가 조사할 코드를 고르고 Codex·Claude Code 같은 코딩 에이전트가 파일 간 데이터 흐름과 기존 방어 장치를 추적해 발견 사항을 쓰며, 2차 에이전트가 재검증(오탐 제거·심각도 조정)—저장소 파악→진입점 목록(HTTP 라우트·RPC·큐·cron·CLI·웹훅·에이전트 도구)→패턴 검사→AI 조사→재검증→보고서. PR 변경분만이 아니라 수년 전 인증 코드까지 전체 레포 검사, 검사 사각지대 확인 후 유료 AI 단계 진입, 증분 상태로 재개 가능한 "보안 검토 하네스". `.deepsec/`에 자체 Node 워크스페이스를 만들어 TypeScript·Go·Python·Lua·Terraform 등 어떤 코드베이스든 검사. TypeScript, Apache-2.0, 8.1k stars
 * [DeepZero - Automated Vulnerability Research](https://blog.ahmadz.ai/DeepZero/)
   * [DeepZero: Automated vulnerability research framework analyzing Windows kernel drivers for exploitable IOCTLs using AI agents](https://github.com/416rehman/DeepZero)
   * Windows 커널 드라이버 대량 분석으로 제로데이 헌팅. YAML 파이프라인(ingestion·필터링·변환·LLM 평가), Ghidra 디컴파일+Semgrep 정적+LiteLLM, BYOVD(Bring Your Own Vulnerable Driver) 연구 + loldrivers.io 코퍼스 내장. ThreadPoolExecutor 병렬, on-disk 상태 영속 재개, Jinja2 프롬프트 템플릿. MIT, 465 stars
@@ -7490,6 +7515,9 @@ Artificial Intelligence
   * [nanobot: "🐈 nanobot: The Ultra-Lightweight Clawdbot"](https://github.com/HKUDS/nanobot)
     * [nanobot 공식 사이트](https://nanobot.wiki)
     * [NanoBot: 4,000줄짜리 경량 Clawdbot | GeekNews](https://news.hada.io/topic?id=26341)
+    * [🐈 nanobot : 4만 8천 스타의 셀프호스팅 개인 AI 에이전트를 1줄 명령어로 | fornewchallenge](https://fornewchallenge.tistory.com/entry/%F0%9F%90%88-nanobot-4%EB%A7%8C-8%EC%B2%9C-%EC%8A%A4%ED%83%80%EC%9D%98-%EC%85%80%ED%94%84%ED%98%B8%EC%8A%A4%ED%8C%85-%EA%B0%9C%EC%9D%B8-AI-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EB%A5%BC-1%EC%A4%84-%EB%AA%85%EB%A0%B9%EC%96%B4%EB%A1%9C)
+      * 2026-10-01 기준 48.7k stars·v0.3.5·테스트 제외 Python 파일 354개. "거대 플랫폼 대신 읽을 수 있는 코어"—설정(`~/.nanobot/config.json`, 비밀값은 `${ENV_VAR}` 주입)·워크스페이스·게이트웨이(`nanobot gateway --background`)·채널(Telegram·Discord·Slack·WeChat·Email·Mattermost·Linear)·세션·도구(파일·셸·웹·MCP·cron·이미지·서브에이전트)·장기 기억(Dream) 층위 정리와, 설치→WebUI(127.0.0.1:8765)→첫 응답까지 코딩 에이전트에게 붙여넣는 지시문
+    * 2026-02 공개 후 "초경량 OpenClaw 대안"에서 WebUI·터미널·메신저를 아우르는 셀프호스팅 개인 AI 에이전트 프레임워크로 성장—도구·장기 기억·MCP·모델 라우팅·다중 에이전트 위임·예약 자동화·OpenAI 호환 API·Python SDK를 작은 코어에 내장. Python, MIT, 48.7k stars
   * [nanoclaw: Lightweight OpenClaw alternative](https://github.com/qwibitai/nanoclaw)
     * [NanoClaw Docker Sandboxes](https://nanoclaw.dev/blog/nanoclaw-docker-sandboxes/)
       * [Docker 샌드박스에서 실행되는 NanoClaw의 보안 중심 AI 에이전트 아키텍처 이해하기](https://digitalbourgeois.tistory.com/2881)
@@ -8157,6 +8185,8 @@ Artificial Intelligence
   * [Tae Hyung Kim - 최근 구글 딥마인드가 발표한 논문을 보면 AI 연구의 방향을 근본적으로 바꿔놓을 만한... | Facebook](https://www.facebook.com/socialego/posts/pfbid02ULwgYgMDTT8Po4MyyRBiwnWRmmbUrjwPGDScpKQu7ZkEpenX3bgEB9kAA4CFPCFGl)
     * AI는 인간이 제공한 텍스트 정보를 바탕으로, 파이썬 코드 형태의 ‘코드 월드 모델(Code World Model)’을 합성
     * 이 방식은 데이터가 거의 없어도 놀라울 만큼 효율적이다. AI는 완전하지 않은 정보 속에서도 스스로 규칙을 추론하고, 보이지 않는 부분을 상상하며 세상을 완성해간다. 이 과정은 마치 인간이 제한된 경험 속에서 세상의 원리를 발견해내는 사고 과정과 닮아
+* [2512.01989 PAI-Bench: A Comprehensive Benchmark For Physical AI](https://arxiv.org/html/2512.01989)
+  * Fengzhe Zhou·Jiannan Huang·Jialuo Li·Deva Ramanan·Humphrey Shi(2025-12). 실세계 동역학을 지각·예측하는 Physical AI 능력을 영상 생성·조건부 영상 생성·영상 이해 세 축에서 통합 평가하는 벤치마크—2,808개 실세계 사례, 물리적 타당성과 도메인 추론을 잡는 과제별 지표. 영상 생성 모델은 시각 충실도가 높아도 물리적으로 일관된 동역학 유지에 자주 실패하고, 멀티모달 LLM은 예측·인과 해석이 제한적이라 현재 시스템은 Physical AI의 지각·예측 요구에 아직 초기 단계라는 결론
 * [2601.05230 Learning Latent Action World Models In The Wild](https://arxiv.org/abs/2601.05230)
   * [라벨링에 의존하는 AI는 현실에서 생존할 수 없다 | Suk Hyun K.](https://www.linkedin.com/posts/suk-hyun-k-31ba9b369_sqsrguriwqzc-worldmodel-ai-ugcPost-7417354333316632576-1sFF/)
 * [Awesome-World-Models: A Curated List of Awesome Works in World Modeling, Aiming to Serve as a One-stop Resource for Researchers, Practitioners, and Enthusiasts Interested in World Modeling](https://github.com/knightnemo/Awesome-World-Models)
