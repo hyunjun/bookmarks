@@ -1145,9 +1145,15 @@ Artificial Intelligence
   * 범용 자율 AI 에이전트. 웹 브라우징, Python 실행, 파일·셸 접근, Telegram/Discord 통합, 스케줄링. TypeScript 기반, BSD 3-Clause
 * [AutoAgent: "AutoAgent: Fully-Automated and Zero-Code LLM Agent Framework"](https://github.com/HKUDS/AutoAgent)
   * [AutoAgent: A Zero-Code LLM Agent Framework | Sumanth P님이 토픽에 대해 올림 | LinkedIn](https://www.linkedin.com/posts/sumanth077_build-and-deploy-llm-agents-just-using-natural-activity-7370726161796034561-4N0b)
+* [AutoBenchmark: benchmark creation & the role of humans | RAM @ Meta AI](https://facebookresearch.github.io/RAM/blogs/autobench/)
+  * Meta FAIR RAM. 자율 연구(autoresearch) 에이전트와 재귀적 자기개선(RSI)이 주목받는 가운데, 정해진 지표를 hill-climbing하는 검증 가능한 과제와 달리 열린 과제에서 인간 기여가 얼마나 필요한지를 "벤치마크 만들기"로 측정하는 프레임워크—특히 autoresearch 에이전트를 평가하는 벤치마크를 autoresearch 에이전트가 만들게 함. 에이전트가 과제 스펙에서 측정할 역량(construct)을 정하고 여러 운영화 방식을 설계·근거 자료를 수집해 Harbor 호환 평가 패키지(컨테이너 환경·지시·증거·참조 해답·기계 채점 기준)를 생성(제안)→솔버 에이전트들이 풀어 궤적·점수 산출(해결)→LLM 검증자가 품질 비판(검토)하는 루프를 반복 수정
+  * 결과: 현재 에이전트는 루프를 끝까지 돌릴 수 있지만 인간 피드백 없이 만든 벤치마크는 솔버가 80점 이상을 받는 거의 포화 상태. 인간 피드백은 구체적일수록 효과—무엇을 어떻게 만들지 상세히 지시하면 솔버 점수가 절반으로 떨어지고, 짧은 한 줄 지시는 미미. 솔버 실패만 최적화하면 "불가능한 과제"라는 퇴행 전략이 있어(깨진 과제·불충족 요구·잘못된 채점기·조작된 근거가 모두 같은 낮은 점수) 검토 단계가 필수. 에이전트가 고품질 벤치마크를 자율·공동 생성하는 능력의 진척 척도로 제안
 * [autocache: Intelligent proxy for the Claude API that auto-injects prompt caching | Montevive](https://github.com/montevive/autocache)
   * [Montevive](https://montevive.ai/)
   * Claude API 요청에 cache-control 필드를 자동 주입하는 투명 프록시(드롭인 대체). 코드 수정 없이 비용 최대 90%·지연 최대 85% 절감. 요청 분석 후 시스템 프롬프트·도구 정의·콘텐츠 블록에 최적 캐시 브레이크포인트 배치, 3단계 전략(conservative/moderate/aggressive), `/savings` ROI 분석 엔드포인트. n8n·Flowise·LangChain·LlamaIndex 연동. Go, Docker
+* [autoharness: a self-learning skill layer for Claude Code — distills skills from your real sessions, updates them as you work, and prunes the ones that stop getting used](https://github.com/tigerless-labs/autoharness)
+  * Claude Code 플러그인(`/plugin marketplace add tigerless-labs/autoharness`). 실제 세션에서 충분한 작업이 끝나면 에피소드를 스킬로 자동 증류하고(`/learn`으로 즉시도 가능), 리플렉터가 같은 시나리오 스킬을 쌓지 않고 하나로 접어(fold 기록으로 병합과 소멸을 구분) `.claude/skills/`에 저장. 매 세션 시작 시 자기가 쓴 스킬의 그룹 인덱스를 제공하고, 벤치마크 대신 이후 턴에서 실제로 로드·준수되는지로 검증해 안 쓰이는 스킬은 가지치기. 자기가 만든 스킬만 건드리고 사용자·설치 스킬은 불변, 생성·갱신마다 시나리오·결정을 스킬별 장부에 기록
+  * 배경은 "같은 모델, 다른 하네스"로 CORE-Bench 42%→78%(HAL)인데 하네스는 모델 세대마다 수작업으로 다시 만든다는 문제—그중 스킬 레이어만큼은 스스로 유지될 수 있다는 베팅. 데몬·벤치마크 없음, Python 3.11+ 표준 라이브러리만(서드파티 의존성 0), 훅+MCP 서버(`stage_skill`). MIT, 7.2k stars
 * [autokernel: Autonomous research system for GPU kernel optimization](https://github.com/RightNow-AI/autokernel)
   * [AutoKernel | GeekNews](https://news.hada.io/topic?id=27433)
   * [AutoKernel: GPU 커널 최적화를 자동화하는 연구 시스템의 구조와 의미](https://digitalbourgeois.tistory.com/2876)
@@ -1509,6 +1515,10 @@ Artificial Intelligence
   * Motif Technologies가 2026년 8월 말 독자파운데이션모델(독파모) 사업 2차 평가에서 "사용성"을 이유로 탈락한 것을 계기로, 사용성은 가중치가 아니라 UI/UX·활용 방법론의 문제이니 한국 오픈소스 빌더들이 나설 때라며 공개한 Motif-3(314B-A13B, 256K 컨텍스트) 전용 코딩 에이전트 하네스—알려진 Motif-3 특성과 직접 라우팅하며 알게 된 특징들에 맞춰 최적화. Infron 무료 API 키로 사용, `npx motifcode`. 알파, TypeScript+Python, Apache-2.0
 * [multi-agent-marketplace: Magentic-Marketplace: Simulate Agentic Markets and See How They Evolve](https://github.com/microsoft/multi-agent-marketplace)
   * [류내원 - MS, AI 에이전트 테스트 시뮬레이션 환경 공개..."대부분 조작에 취약" (출처: 뉴스) 연구자들이... | Facebook](https://www.facebook.com/won.wizard/posts/pfbid0dQ3BJ19GMsPwgEJqNRVX5GykuQRwKfKeE4HLr3EoxzQFjUf3s1h1q6BDv4JV7e1vl)
+* [MUXI — The Open-Source AI Application Server](https://muxi.org/)
+  * [muxi: Deploy intelligence. Open-source infrastructure for AI agents in production](https://github.com/muxi-ai/muxi)
+  * "웹사이트 띄우려고 Nginx를 직접 만들지 않듯 AI를 만들려고 인프라를 재발명하지 말라"—프레임워크·래퍼가 아니라 에이전트가 네이티브 프리미티브인 셀프호스팅 AI 애플리케이션 서버(V1 안정 세대). Docker 비유: Server+Runtime=Engine, Formation=Dockerfile, MUXI Registry=Docker Hub, `muxi`=docker. 에이전트·지식·메모리·도구·스킬·워크플로우·트리거·정책을 하나의 배포 단위로 묶는 개방 표준 Agent Formation Standard(agentformation.org)를 제안, YAML(`.afs`)로 선언하고 `muxi pull @muxi/hello-muxi`→`muxi deploy`→`muxi chat` 세 명령으로 실행
+  * 오케스트레이션, 감사 가능한 이벤트 소싱 계층형 메모리, 그룹 기반 RBAC·사용자 격리·사용자별 자격증명, MCP 도구를 한 번 인덱싱해 런타임에 선택, 하트비트·채널·활동 시간·soul 문서 기반 선제 행동, 자가 튜닝, 타입드 관측 이벤트, 시맨틱 캐싱(LLM 비용 50~80% 절감 주장), 21개 제공자 300+ 모델. REST·SSE·MCP와 Python·TypeScript·Go·Ruby·PHP·C#·Java·Kotlin·Swift·Dart·Rust·C++ 12개 SDK. LangChain/LangGraph·CrewAI·AutoGen과 "서버 인프라 vs 라이브러리" 비교표 제시. 186 stars
 * [mycelium-memory: Persistent memory for LLM CLIs (Claude Code, Claude Desktop, Codex) that acts like a brain not a database](https://github.com/constant-itis/mycelium-memory)
   * 듀얼 메모리 아키텍처: Semantic(관찰·결정·프로젝트 사실, 자연어 검색, 자주 접근되면 연결 강화) + Behavioral Foundry(append-only 결정 로그). SQLite 로컬, MCP 다중 클라이언트 공유. `/checkpoint`·`/maintain` 슬래시 스킬, 수동 큐레이션 불필요
 * [node-banana: Open node-based generative workflows](https://github.com/shrimbly/node-banana)
@@ -1661,6 +1671,10 @@ Artificial Intelligence
     * [Pi Durable - 중단된 작업을 이어가는 AI 에이전트 하네스 | GeekNews](https://news.hada.io/topic?id=34641)
     * Pi 1.0과 함께 공개한 실험 패키지. 한 사람이 터미널에서 쓰는 Pi 코딩 에이전트는 그대로 두고, 어디서든 실행되고 여러 접점에서 접근하며 무한히 긴 대화를 지원하고 치명적 장애를 견디며 여러 사람이 같은 에이전트를 조종하는 애플리케이션용 하네스를 별도로—코딩 에이전트도 만들 수 있지만 대체는 아님. 하네스 정의: 저장소 + LLM 대화를 병렬 실행하는 장치 + 도구 + 실행 환경, 모든 동작은 task. 테스트 제외 약 15,000줄(GPT 15만·Claude 25만 토큰)이라 에이전트가 소스 전체를 이해 가능
     * 저장소 백엔드(메모리·SQLite·JSONL, 적합성 테스트·벤치마크 포함, Node API 미사용이라 Bun·Cloudflare Durable Object에서도) 위에서 작업 집합만 메모리에 유지. 매 task가 체크포인트를 남겨 노트북 절전·컨테이너 재배포·OOM 후 새 프로세스가 같은 저장소를 열어 미완료 작업을 이어감—중단된 모델 요청 재전송(부분 응답은 aborted 표시), 도구 호출은 안전한 경우만 재실행, requestId로 제출 exactly-once. 대화는 부모 기록을 복사 없이 참조해 어느 지점에서든 fork(Slack 채널=대화, 스레드=fork), 대화별 모델·사고 수준·확장·도구·지침·cwd 분리, 서브에이전트는 별도 대화로 몇 줄에 구현. 실행 중 코드를 바꿔도 다음 호출부터 적용. `@earendil-works/pi-durable`·`pi-ai`·`chord`, MIT
+  * [pi-herdsman: Asynchronous Pi subagents and agent fleet orchestration for parallel coding agents with nested delegation, background work, and supervision in herdr](https://github.com/boadij/pi-herdsman)
+    * [pi-herdsman · Packages · Pi](https://pi.dev/packages/pi-herdsman)
+    * Pi(코딩 에이전트 대화 담당)와 herdr(프로세스·pane·워크스페이스·worktree 배치 담당) 사이의 오케스트레이션 계층—독립 Pi 세션들을 위임·소유·감독·프로젝트 오케스트레이션으로 묶어 백그라운드 에이전트 하나에서 브랜치 기반 병렬 프로젝트 작업까지. 일반 Pi 세션=Lead가 Agent들을 소유하고(중첩 위임 가능), 독립 프로젝트 작업은 Lead가 Manager 모드로 Lead들을 조정, 선택적 런타임 전역 감독자 Chief(감독: Chief→Manager→Lead, 소유: Lead→Agent). 소유 세션들의 Pi 네이티브 토큰·비용 집계, `/agents` 관리 화면, 자기 에이전트 정의·모델·스킬·확장 그대로 사용
+    * `pi install npm:pi-herdsman` + `herdr integration install pi` 후 `herdr pi`로 시작, "Use scout to inspect the authentication flow"처럼 자연어로 위임하면 Lead 대화는 계속 쓸 수 있음. 확장+스킬 패키지(v0.19.0, 월 7.4k 다운로드), Linux·macOS·Windows. TypeScript, Apache-2.0, 109 stars
   * [pi-mono: AI agent toolkit - coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods](https://github.com/badlogic/pi-mono)
   * [pi-subagents: Pi extension for delegating work to specialized child agents](https://github.com/nicobailon/pi-subagents)
     * [pi-subagents - Pi를 위한 서브에이전트 | GeekNews](https://news.hada.io/topic?id=30989)
@@ -3564,6 +3578,10 @@ Artificial Intelligence
   * [Canva가 GTM팀을 AI Naitve 조직으로 만든 방법 많은 조직들이 AI 도입에 어려움을 겪고 있습니다. “전 직원이 AI를 활용해야 한다”는 막연한 목표를 세우지만 실제로는 진전이 없거나, 수많은 AI 도구들 중 어떤 것을 선택해야 할지 혼란스러워합니다. 특히 기존 업무가 바쁜 상황에서 언제 AI를 학습하고 적용할 시간을 확보할 것인지, 외부… | Kyunghun Lee](https://www.linkedin.com/posts/leekh929_canva%EA%B0%80-gtm%ED%8C%80%EC%9D%84-ai-naitve-%EC%A1%B0%EC%A7%81%EC%9C%BC%EB%A1%9C-%EB%A7%8C%EB%93%A0-%EB%B0%A9%EB%B2%95-%EB%A7%8E%EC%9D%80-%EC%A1%B0%EC%A7%81%EB%93%A4%EC%9D%B4-activity-7370564799027597312-S65C)
 * [AI 네이티브 회사를 향한 새로운 항해 #우아콘2025 #우아한형제들 - YouTube](https://www.youtube.com/watch?v=2w7UZD2e_as)
   * [우아한형제들: AI 네이티브 회사를 향한 새로운 항해 #우아콘2025](https://livewiki.com/ko/content/ai-native-company-woahcon-woahan)
+* [What it's like to work at an AI-native company | Elena Verna](https://www.elenaverna.com/p/what-its-like-to-work-at-an-ai-native)
+  * [AI 네이티브 회사에서 일한다는 것 | GeekNews](https://news.hada.io/topic?id=34639)
+  * Lovable에서 1년 넘게 일한 Elena Verna의 필드 노트(데이터 포인트 하나라는 전제). "AI를 많이 쓴다"가 아니라 AI가 모든 일에 포함된다는 전제로 조직 자체가 바뀜—직급은 IC·Lead·Head 셋뿐(10배 성장 시 직함 조정의 사실상 강등 문제 회피, 직급에 묶인 정보 접근·회의 초대·권한 해체), 거의 모든 Slack 채널 공개로 정보가 관리 계층을 타지 않음, 관리자의 일은 흐름 통제가 아니라 맥락 제공·품질 기준·사람 성장. "관리라 불렀던 것의 상당 부분은 더는 필요 없는 계층을 통해 정보·결정을 전달하는 일이었을 수 있다"
+  * 수십 명을 관리했던 고경력자들이 High-Impact IC(HI-C)로 직접 실행하고 IC 복귀에 낙인이 없음(자체 조사에서 관리자 포함 71%가 업무 절반 이상을 IC 업무로 쓰고 싶어 함), 회의는 업무 시간의 20% 미만—공유 지식 기반으로 결정 이유까지 확인 가능하고 허가 없이 빠르게 실행·수정하는 자율성이 더 큰 요인. 비용도 명확: 모델 출시마다 바뀌는 시장에 맞춘 상시 조직 개편·모호한 책임 경계·중복 작업의 피로, 그리고 실행 부담이 줄수록 무엇을 만들고 어디까지가 좋은 결과인지 판단하는 안목(taste)이 더 중요해짐
 * [일본에서 생성형 AI를 활용한 TVCM 제작이 활발해지고 있습니다 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/aitvcm20240702)
 * [Meta 3D Gen - 텍스트로 3D 애셋을 생성 | GeekNews](https://news.hada.io/topic?id=15658)
 * ["오픈AI 소라보다 낫네"…영상 AI 스타트업 런웨이, 새 모델 '젠-3 알파' 출시 < 월드AI < 기사본문 - AI포스트(AIPOST)](https://www.aipostkorea.com/news/articleView.html?idxno=2672)
@@ -4003,6 +4021,9 @@ Artificial Intelligence
   * [터미널 UI 구축이 이제 쉬워졌다 | GeekNews](https://news.hada.io/topic?id=26694)
 * [수천 명의 CEO들이 AI가 고용이나 생산성에 영향을 주지 않았다고 인정함 | GeekNews](https://news.hada.io/topic?id=26778)
   * NBER 6,000명 임원 설문에서 약 90%가 AI가 고용·생산성에 영향 없었다고 응답. 임원들의 AI 사용 시간은 주당 ~1.5시간에 불과. 1987년 솔로우의 '생산성 역설'과 유사하게 J-커브 패턴으로 지연된 생산성 돌파가 예상
+* [AI가 일을 대신하면 사람의 값은 어떻게 될까? | 손현주 | 한겨레](https://v.daum.net/v/20261002103634223)
+  * 전주대 손현주 교수(미래학). 노동의 가치를 가격(시장)·기여(사회)·존엄(자기 확인) 세 눈금으로 나누면 AI 시대엔 셋이 따로 움직인다—Acemoglu·Restrepo의 과업 배분 관점대로 생산성 증가가 노동자 보상 증가와 같지 않고, 멀쩡히 남은 일자리 안에서 판단·권한이 시스템으로 넘어가 "일자리 수보다 숙련의 가격이 먼저 흔들린다". "인간다움이 비싸진다"는 낙관도 요양보호사·사회복지사·보육교사가 받아온 값을 보면 착각—희소성이 가격으로 저절로 바뀌지 않음
+  * Brynjolfsson 상담원 5,179명 연구(생산성 +14%, 저숙련 +34%)처럼 AI는 경험 격차를 메우는 동료일 수 있지만, 늘어난 생산성이 누구 것이 되는가·누가 AI를 소유하고 목표를 정하는가가 핵심(기술 문제이자 권력 문제). 단순 업무라며 AI에 넘기는 일이 사실은 전문가를 만드는 도제의 시간이라 사다리 아래 칸이 사라지면 판단력을 형성할 경험이 끊긴다는 역설. 결론은 분배 정책과 존엄 정책 두 기둥—돌봄 노동에 합당한 대가, 청년을 위한 새 도제 시스템, 지역사회 기여 인정. "사람의 값을 매기는 것은 AI가 아니라 우리 사회"
 * [개발자는 결국 이렇게 살아남습니다 with 인공지능의 스승 앤드류 응 - YouTube](https://www.youtube.com/watch?v=vENN6-d_3AQ)
   * [박성철 - 응 사마 영상 추천](https://www.linkedin.com/posts/fupfin_%EC%96%B4%EC%A0%9C-%ED%87%B4%EA%B7%BC%EA%B8%B8%EC%97%90-%EC%9C%A0%ED%8A%9C%EB%B8%8C%EA%B0%80-%EC%B6%94%EC%B2%9C%ED%95%B4-%EC%A4%98%EC%84%9C-%EB%B3%B8-%EC%9D%91-%EC%82%AC%EB%A7%88-%EC%98%81%EC%83%81%EC%9D%B8%EB%8D%B0-%EC%9E%A0%EC%9D%84-%EB%AA%BB-%EC%9E%98-%EC%A0%95%EB%8F%84%EB%A1%9C-activity-7419877920317513728-11kF)
   * Andrew Ng 인터뷰. AI가 실험 비용을 줄여 리스크를 0에 가깝게 만듦. 개발자에게 낙관적 메시지
@@ -4955,6 +4976,9 @@ Artificial Intelligence
 * [바이브 디자인 랩 - 디자이너를 위한 아비브 코딩](https://vibedesignlab.net/)
 * [바이브 코딩으로 7일간 900커밋, 디자이너의 앱 출시기 | 요즘IT](https://yozm.wishket.com/magazine/detail/3774/)
   * 코딩 무경험 디자이너 이키가 Claude로 7일간 900커밋, 문장 채집 앱 "문채" 앱스토어 출시. 3,800줄 단일 파일이 연쇄 버그, 42개 동시 수정으로 검은 화면→Git 롤백 후 최소 `str_replace` 원칙. 카카오/Apple 로그인·동기화·친구·AI 취향 분석·책 표지·Chrome 확장 추가. 비개발자 6 교훈: 무엇을 만들지가 코딩보다 중요/한 번에 많이 바꾸지 않기/AI에게 처음부터 파일 분리 요청/전문가 역할(보안·UX·QA) 반복 부여/테스터 2명이면 충분/약한 아이디어는 빠르게 폐기. 비용 Apple 개발자 12.9만원/년+Claude Max+호스팅
+* [비개발자 마케터가 AI와 만든 첫 앱 | Bloom](https://blog.bloomworld.ai/non-developer-built-an-app-with-ai/)
+  * 개발 경험 없는 마케터가 Claude(Opus 5.5)와 월요일 오후 첫 커밋→27시간 만에 사내 QA→목요일 새벽 Closed Beta(첫날 332명 가입)까지 Bloom 커뮤니티 웹앱(PWA)을 만든 기록—나흘간 커밋 942개·PR 83개·서버 자동 테스트 5,541개·기획 결정 124개·화면 14개. 스택은 쓰면서 처음 물어봄: HTML/CSS/JS PWA + FastAPI/PostgreSQL, AWS Lightsail Docker + Cloudflare, GitHub Actions, 서버 2대 교체 무중단 배포, 포트원·토스 정기결제, OpenRouter 무료 모델 폴백. 글 자체도 커밋·슬랙·회의록을 바탕으로 AI가 작성
+  * 가드레일은 노션 PRD—새 기능마다 AI가 PRD와 대조해 의도 이탈·충돌을 점검하고 바꿀 땐 PRD를 먼저 고친 뒤 번호 붙여 기록. QA 세 겹: 밤엔 Claude가 실제 브라우저로 30개 사용 흐름을 눌러 보며 스스로 고치고, 낮엔 사내 Slack·디스코드 피드백 스레드를 Claude가 읽어 체크·수정·현황 보고, 마지막엔 1시간 회의 녹음 스크립트를 통째로 넘겨 "알아서 고쳐". 론칭 행사 중 QR 버그(아이폰 카메라가 PWA 대신 Safari로 열려 로그인 분리)를 신고→배포 15분. git 모르는 사람의 사고 방지 규칙(PR→자동 테스트→통합 QA→반영, 운영 데이터는 OK한 것만). "AI는 정수기 같다"
 * [무료 로컬 LLM 모델 TOP5 내 PC에서 공짜로 돌리기 - YouTube](https://www.youtube.com/shorts/4fmdeK2Hf6I)
   * AI INFO MAP. RTX 3060급 GPU나 맥에서 API 비용 없이 돌리는 오픈웨이트 5종을 용도별 1분 정리(2026-06-14 기준)—Qwen3(코딩·한국어 종합), DeepSeek R1(추론·수학), Gemma 4(멀티모달·140개+ 언어), Mistral Small 3(RAG·에이전트), Phi-4 Mini(3.8B 초경량). 전부 Apache 2.0 또는 MIT
 * [Coding Agents Can Now Prove Python Programs with Machine-Checked Proofs | Neural Trend Hub - YouTube](https://www.youtube.com/watch?v=Bhn_cnP9RN8)
