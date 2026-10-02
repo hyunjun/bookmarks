@@ -706,6 +706,8 @@ Finance
 * [Ehang 주가 분석 with 파이썬](https://seethefuture.tistory.com/63)
 * [How to Create a Mean Reverting Trading Algorithm - YouTube](https://www.youtube.com/watch?v=0PfgqNYTl4Q)
 * [Algorithmic Trading Using Python - Full Course - YouTube](https://www.youtube.com/watch?v=xfzGZB4HhEE)
+* [Python Algorithmic Trading Course – Massive, SnapTrade & Alpaca Integrations | freeCodeCamp.org - YouTube](https://www.youtube.com/watch?v=zH2Mg782XhA)
+  * Python·Django로 알고리즘 페이퍼 트레이딩 시스템을 처음부터 구축하는 1시간 43분 무료 강좌(2026-09-29, SnapTrade 지원). Massive 시장 데이터 → SnapTrade 포트폴리오 연동 → Alpaca 모의 계좌로 자동 신호 라우팅 파이프라인, 50종목 유니버스에 12개월 모멘텀 점수를 계산해 매매 추천·실행하는 웹 대시보드 완성. 계정 셋업·Django 모델링·Admin·Massive/SnapTrade API 연동·전략 서비스·UI·데이터 백필 순서
 * [삼성증권 퀀트모델링 A to Z](https://brunch.co.kr/@gauss92tgrd/23)
 * [1/2 ETF 전종목 브라우저의 네트워크 탭을 이해하면 코드 한 줄로 가능하다?! - YouTube](https://www.youtube.com/watch?v=-eVe2Dzj6lI)
 * [2/2 ETF 전종목 수집 JSON 타입도 판다스로?! - YouTube](https://www.youtube.com/watch?v=1ydH6ugjNOQ)
