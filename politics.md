@@ -499,6 +499,11 @@ Politics
   * 미국 타격으로 자제 명분이 사라진 이란이 호르무즈 통제 시작. 트럼프가 중간선거 앞두고 Epstein 압박 회피 위해 쿠바·베네수엘라·수리남·멕시코 카르텔 표적할 수 있으나 본토 보복 가능성. 5대 취약점: 1) Power grid—농촌 무방비 변전소 LPT, ~9개 동시 파괴 시 수개월 정전 2) 해저 케이블—95%+ 데이터 트래픽, NY/NJ/FL/CA 상륙점 보안 미비 3) 항만 크레인—80% 중국 ZPMC, 숨은 모뎀·SW 취약점 4) 상수도—소도시 처리시설 예산 부족으로 사이버보안 부재 5) Henry Hub(루이지애나 Erath)—천연가스 파이프라인 교차점 + NYMEX 가격 기준, 라틴아메리카발 드론 위협. 9/11처럼 존재하지만 시도되지 않은 공격 방식
 * [김효경 - 1984년 노스캐롤라이나 Ronald Cotton 누명 사건과 이노센트 프로젝트 | Facebook](https://www.facebook.com/hyokyung.kim.165/posts/pfbid02PwG8XGbLZZgH78QaniVBmZMixaFS5Y46Br1DhBpCbLixd33JjPjTfeCM6yyZPPwl)
   * 1984년 22세 Ronald Cotton 종신형+54년 선고→1995년 DNA로 무죄 입증, 진범 Bobby Poole. 1992년 Barry Scheck·Peter Neufeld가 설립한 이노센트 프로젝트. 오판 원인 통계: 목격자 잘못된 진술 70%, 부실 과학수사 45%, 허위 자백 28%. 회고록 *Picking Cotton* NYT 베스트셀러
+* [The Authoritarian Stack — How Tech Billionaires Are Building a Post-Democratic America — And Why Europe Is Next](https://www.authoritarian-stack.info/)
+  * [Byoung Kweon Kim - 이탈리아 경제학자 프란체스카 브리아(Francesca Bria)가 깔끔히 도식화한 미국 테크노 극우(authoritarian stack)의 관계도 | Facebook](https://www.facebook.com/byoungkweon.kim/posts/pfbid02VMTX7jLhp2Fnq3GZQziV2KiGV5P5R21nVEBHA39pTTe3M2VyJ28xbfU7qzQfZWCnl)
+    * 한국에도 테크노-사회공학자들이 AI로 사회를 도배하고 있고 많은 선량한 사람들이 충분히 고민하지 않고 직·간접 관여하면서 의도와 무관하게 한국의 미래를 암울하게 만든다는 우려—"AI-테크노 사회공학자들은 한국이든 미국이든 사회와 지구에 가장 위험한 집단이 되리라"
+  * Francesca Bria 등의 인터랙티브 조사 사이트(EN·ES·FR·DE). 2025-07 미 육군의 Palantir 100억 달러 계약("자유와 민주주의는 더 이상 양립하지 않는다"고 선언한 Peter Thiel의 회사)에서 출발해 "애국적 테크"를 내건 테크 우파 블록이 클라우드·AI·금융·드론·위성을 통합한 통제 인프라, 즉 Authoritarian Stack을 어떻게 쌓는지 추적. 킹메이커 관계도(Thiel·Andreessen·Musk·David Sacks·Alex Karp·Palmer Luckey·Trump Jr.·J.D. Vance, Founders Fund·a16z·1789 Capital·Anduril·Palantir·SpaceX)
+  * 국가 포획의 인사 파이프라인(Thiel 전 비서실장이 백악관 OSTP 국장, Anduril 임원이 육군 차관 지명, Palantir 출신 연방 CIO·HHS CIO·국무부 차관, 2025-06 Palantir·Meta·OpenAI 임원 4명을 육군 중령으로 임관한 Detachment 201)과 자본 순환(이데올로기→VC→국가 포획→계약→인프라→불가결성→수익→이데올로기), 데이터·국방·우주·에너지·화폐 5개 영역의 "민영화된 주권"(GENIUS Act 스테이블코인·$TRUMP 토큰 등). 공포·무력 대신 코드·자본·인프라로 통치해 저항이 구조적으로 불가능하게 느껴지는 새 권위주의이며 유럽으로 수출되는 중이라는 논지. CC BY 4.0
 
 # Denmark
 * [노인을 위한 나라는 있다](http://ppss.kr/archives/48609)
