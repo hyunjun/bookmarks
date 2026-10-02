@@ -117,6 +117,11 @@ Baby
 * [김성원 - 핀란드의 멀티 미디어 리터러시 교육, 1960년대 모더니즘 학교 건축 핀란드는 급변하는 디지털 정보 환경에... | Facebook](https://www.facebook.com/fatdogfish/posts/pfbid0Ecqj6i24zyFgACPxv8DngDtTd6eUxVrMNSvG7MyC8nn4kyh6m41tMzngEjXMLdCZl)
 * [경제학자가 밝힌 가장 확실한 자녀 투자법](https://heesight.com/1657)
   * 헤크만 곡선에 따르면 투자 효과가 가장 큰 시기는 영유아기(~만 5세). AI가 인지 기능을 대체하므로, 공감·자존감·정서적 안정성 같은 비인지 기능을 영유아기부터 키워야 함
+* [In Fighting for Every Black Child, Did I Betray My Own? | Nikole Hannah-Jones | The New York Times](https://www.nytimes.com/2026/09/20/magazine/ny-public-schools-black-students-segregation.html)
+  * [Nikole Hannah-Jones essay sparks intense debate on school integration and academic rigor | Chalkbeat](https://www.chalkbeat.org/2026/09/25/hannah-jones-essay-on-daughter-in-nyc-schools-sparks-integration-debate/)
+  * [김승호 - 뉴욕타임스 한나-존스 에세이가 불러온 미국 교육 논쟁 | Facebook](https://www.facebook.com/permalink.php?story_fbid=pfbid023VM8utJRj2m69kgMwNKt3T3Kqu3eTfuTPGmjkner8NUXiUyEHht5GsVSwsA413t7l&id=61552486058007)
+  * '1619 프로젝트'의 니콜 한나-존스가 2016년 "여유 있는 가정이 들어가야 학교가 바뀐다"는 신념으로 딸을 브루클린 저소득층 흑인 밀집 공립학교(P.S. 307)에 보낸 선택을 10년 뒤 돌아본 에세이. 16살 딸 나지아는 "다른 애들 생각만 하지 말고 나를 생각해 줬으면" "원하던 교육을 받은 적이 없다"고 말하고, 채점 안 된 과제·잦은 교사 결근·A를 받았는데도 비어 있던 수학 기초를 고백하며 결국 딸의 고등학교는 자신이 비판해 온 선발형 학교로. 그러면서도 "남의 아이를 실패한 학교에 두고 내 아이만 구하는 한 누구에게도 면죄부는 없다"로 마무리
+  * 반응 정리(Chalkbeat·김승호): 보수·학교선택제 측(Fox News·National Review·헤리티지·차터스쿨 운영자)은 "낮은 기대치와 책임지지 않는 체제" "아이를 이념의 도구로 쓰지 마라", 진보·통합 운동가 측은 "개인이 아니라 체제를 보라"며 통합 운동 재점화 기대. 흑인 부모들은 학업 평판 좋은 백인 다수 학교와 정서적 안전 사이의 Catch-22를 토로하고, 다양성과 높은 학업 기준을 함께 갖춘 학교도 있다는 반론도. 양쪽 모두 "개별 가정이 체제의 짐을 져서는 안 된다"는 데는 동의하되 그 짐을 시장(선택·경쟁)에 맡길지 정부(통합 정책·재정)에 맡길지 갈림. 김승호는 학군지·특목고·자사고 논쟁에서 "내 아이"와 "우리 아이들"을 어떻게 구분할지, 외고 폐지 주장하며 자식은 외고 보낸 지식인을 '위선'이라는 개인 문제로만 몰고 그친 한국 논쟁과 비교
 
 # Father
 * ["저는 노력하는데 애들은 싫대요" 이유 있는 아빠의 고민](http://v.media.daum.net/v/20171107102006790)
