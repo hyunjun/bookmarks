@@ -3362,6 +3362,8 @@ NLP
     * Vercel의 Jared Palmer가 만든 오픈소스 Jev류 모델 패밀리—Qwen3.5/3.8 기반으로 예/아니요 확률·선택지별 확률·평가 점수를 반환하고 직접 학습·실행 가능. 고객 문의 하나에서 담당 부서·긴급 여부·불만 정도를 함께 판단하되 각 질문이 서로 영향을 주지 않게 분리. 0.8B부터 시작. Python, Apache-2.0, 7.1k stars
   * [laya: Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text](https://github.com/NandhaKishorM/laya)
     * [🆓 Laya 설치·사용 가이드: Jev보다 7배 빠르고 무료인 421M 다국어 결정 엔진 | fornewchallenge](https://fornewchallenge.tistory.com/entry/%F0%9F%86%93-Laya-%EC%84%A4%EC%B9%98%C2%B7%EC%82%AC%EC%9A%A9-%EA%B0%80%EC%9D%B4%EB%93%9C-Jev%EB%B3%B4%EB%8B%A4-7%EB%B0%B0-%EB%B9%A0%EB%A5%B4%EA%B3%A0-%EB%AC%B4%EB%A3%8C%EC%9D%B8-421M-%EB%8B%A4%EA%B5%AD%EC%96%B4-%EA%B2%B0%EC%A0%95-%EC%97%94%EC%A7%84)
+    * [Laya 진짜 추천합니다. Jev를 오픈소스로 쓰는법 | 코드팩토리 - YouTube](https://www.youtube.com/watch?v=ZktfWXfOwIY)
+      * M4 Pro 24GB 맥북에서 Laya를 직접 학습시켜 한국어 쇼핑몰 CS 문의 6분류 라우팅 테스트(동일 250문항 프로즌 테스트)—학습 전 32.8% → 100건(4분) 68.8% → 300건(15분) 83.2% → 1,000건(48분) 86.4%, 1만 건(7시간 52분)은 별도 600문항에서 35.8%→99.7%. 같은 시험에서 Jev는 250/250 100%. 응답 지연은 Jev API(AI Gateway 경유) 중앙값 0.5초 vs 로컬 Laya 0.11초. 범용성은 Jev가 앞서지만, 특정 업무 기준에 맞춰 오답 케이스를 보강 재학습할 수 있고 로컬·무료·외부 유출 없이 쓸 수 있어 프런트 라우터로 검토할 가치가 충분하다는 평가
     * Jev 방식 판단을 오픈 웨이트로 구현한 비자기회귀 System 1 결정 엔진—입력은 텍스트·이메일·티켓·JSON 같은 상태, 출력은 사전 정의 질문에 대한 확률(중간에 자연어가 없어 파싱할 것도 환각이 낄 자리도 없음). 체크포인트 3종을 하나의 **Router**로 묶어 입력의 문자 체계·언어를 0.5ms 미만에 판별해 자동 배정: laya(ModernBERT-large 421M·컨텍스트 512·영어), laya-multilingual(mmBERT-base 322M·1024·100+ 언어·2배 빠름), laya-typed-decisions(421M·1024·타입 결정 워크플로). 학습은 Jev처럼 RLCD—strictly proper scoring rule을 보상으로 삼아 확률값 자체가 통계적 의미를 갖는 보정을 노림
     * fornewchallenge 가이드가 짚는 요점—"0.85 이상 자동 처리, 미만 사람 이관" 임계값 분기가 설계 중심인데 **가장 큰 약점도 바로 그 보정 지점에서 나온다**고 예고하며 장단점을 함께 정리. Python, Apache-2.0, 24.7k stars
   * [laya-coreml: Local Laya typed decisions on Apple Core ML and Neural Engine](https://github.com/mizorewww/laya-coreml)
@@ -4127,6 +4129,10 @@ NLP
   * Microsoft. CoT를 블록+요약으로 분할, 블록 처리 후 KV 캐시에서 제거하여 고정 컨텍스트 윈도우 내에서 확장된 추론. 특수 토큰(block_start/end)으로 추론 구간 구분, vLLM 통합
 * [mergekit: Tools for merging pretrained large language models](https://github.com/cg123/mergekit)
   * [Merge Large Language Models with mergekit](https://huggingface.co/blog/mlabonne/merge-models)
+* [MicroLLM lab — tiny LLMs, Q4, in your browser | stateofutopia](https://stateofutopia.com/experiments/microllmlab/)
+  * [브라우저에서 소형 LLM 7개를 직접 실행하는 MicroLLM Lab | digitalbourgeois](https://digitalbourgeois.tistory.com/3714)
+  * 설치·계정 없이 브라우저에서 소형 언어 모델을 내려받아(IndexedDB 캐시) 기기 GPU로 추론하고 속도·정확도를 비교하는 실험 도구—WebGPU 우선, 불가 시 WASM→JS 폴백(안내 기준 WASM 8~20 tok/s vs WebGPU 100~300+ tok/s). Q4 양자화로 1억+ 파라미터 모델을 50~84MB에. 모델 7종: PetitGPT research-v1 125M·SmolLM2 135M/360M Instruct·L20-Edu 135M·MiniMind2 104M/Small 26M·GPT-2 124M(15.4~215.9MB)
+  * 21개 객관식 테스트(정규식·정확 토큰 일치, 작문 품질 아님—"135M 모델은 실패해도 된다, 그게 측정")와 256토큰 연속 디코드 속도 테스트, 모델 간 비교 차트, 기기 하드웨어·peak/sustained tok/s를 담은 검증 가능한 벤치마크 인증서 생성·공유, JavaScript로 직접 쓰는 커스텀 평가. yangqi0/petitgpt에서 영감, 레포 zip 589MB
 * [MiniCPM-V: MiniCPM-Llama3-V 2.5: A GPT-4V Level Multimodal LLM on Your Phone](https://github.com/OpenBMB/MiniCPM-V)
 * [MiniMax Official Website - Intelligence with everyone](https://www.minimax.io/)
   * [MiniMax · GitHub](https://github.com/minimax-ai)
