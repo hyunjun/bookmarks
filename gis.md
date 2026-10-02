@@ -82,6 +82,10 @@ GIS
 * [2021년 최신 시각화된 지도 제작 프로그램 &사이트 모음!](https://www.finereport.com/kr/%EC%A7%80%EB%8F%84-%EC%A0%9C%EC%9E%91-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8/)
 * [admdongkor: 대한민국 행정동 경계 데이터 (1975-2026)](https://github.com/vuski/admdongkor)
   * 1975~2026 읍면동 경계 62개 버전. GeoJSON/Parquet, Python/JS 라이브러리, 인터랙티브 시계열 시각화, 면적 가중 매칭으로 인구 데이터 재계산
+* [경성부일필매지형명세도(1929) | vuski](https://vuski.github.io/gsmap1929)
+  * [Seungbum Kim - LLM한데 뭔가를 시킬 때는 뚝딱 하고 나오는 것 같지만, 한번 시키고 나서 무엇을 좀 고쳐보려면 결국 공짜 딸깍이란 없다 | Facebook](https://www.facebook.com/permalink.php?story_fbid=pfbid026m3cqvGxJiE7xPgCAGknC9kRPNr5h3iFephntdFbf416TPMT6YChKQMR1HYygejjl&id=1595135592)
+    * 수정판 배포기—시험삼아 시작한 도판 이어 붙이기를 공개 후 "LLM 쓰레기 부산물"이 되지 않도록 보강: 빠진 도판을 다른 스캔본으로 채우고 어긋난 가장자리 도판 보정, 가장 시간이 든 지오레퍼런싱은 UI로 참조점 약 450개를 직접 찍음(1920년대 가로·필지 형태가 서울 도심에 아직 남아 있어 가능). 원본 자체가 측량을 건너뛴 유일한 빈 곳은 창신동 채석장 자리. 도판 번호 표시, pan 이격 해결, 항공사진 배경 추가
+  * 京城府壹筆每地形明細圖(1929)를 crop 후 타일 단위 재가공·지오레퍼런싱해 오늘의 서울 지도(MapLibre·VWorld·Esri 위성)와 겹쳐 보고(전체/중첩/분할, 투명도), 1911·1914·1936년 서울시 경계를 비교하는 웹 지도. 1929년 발행이라 1914년 경계와 거의 일치. VWL Inc. 제작, 지오레퍼런싱 정확도가 떨어지는 부분과 324-1·175번 도판 위치 부정확 명시
 * [City2Graph](https://city2graph.net/)
   * [city2graph: A Python library to convert geospatial datasets into graph representations](https://github.com/c2g-dev/city2graph)
   * 지리공간 데이터를 Graph Neural Network용 그래프로 변환하는 Python 라이브러리. GeoPandas, NetworkX, PyTorch Geometric 통합. 도시 형태학, 교통, 모빌리티 네트워크 등 GeoAI 응용
