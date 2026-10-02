@@ -43,6 +43,10 @@ Science
 * [Understanding the brain with AI-driven explanations and experiments | Microsoft Research](https://www.microsoft.com/en-us/research/blog/understanding-the-brain-with-ai-driven-explanations-and-experiments/)
   * [Microsoft turns LLM brain predictions into fMRI-tested explanations | insights.marvin-42](https://insights.marvin-42.com/articles/ai-fmri)
   * Microsoft·UC Berkeley·UCSF·Columbia의 generative causal testing(GCT). 해석 불가능한 언어-뇌 예측 모델을 짧은 언어 가설로 변환하고, LLM이 표적 자극(스토리)을 생성해 특정 뇌 영역이 예측대로 반응하는지 fMRI로 검증—AI 브레인 모델을 검증 가능한 과학 이론으로
+* [fly-cartpole: A fruit fly's flight-stabilisation circuit, wired from the MaleCNS connectome, balances CartPole as a reflex and tunes its own sensor gains | Curt-Park](https://github.com/Curt-Park/fly-cartpole)
+  * [fly-cartpole web viewer](https://curt-park.github.io/fly-cartpole)
+  * "초파리 뇌를 그대로 가져오면 CartPole을 풀 수 있을까"—성체 수컷 초파리 커넥톰 MaleCNS v1.0에서 비행 안정화 회로(5,459 뉴런)를 잘라내 Gymnasium CartPole-v1에 연결. 역전파로 학습한 인공신경망 없이 커넥톰에 기록된 연결 그대로 계산하고, 학습은 센서 게인 5개만 바꿈(매 에피소드 무작위 nudge 후 최근 기록을 넘었는지 보상 신호로 이동). 겹눈 위 ocelli가 막대 기울기를 몸의 롤로, 평형곤 halteres가 넘어지는 속도를, HS 세포가 카트 속도를 optic flow로 읽고 좌우 날개 차이로 밀 방향 결정, 랜드마크로 제자리 유지
+  * 결과(미사용 시드 20개): 배선만으로 튜닝 없이 평균 275.6스텝(막대를 떨어뜨린 적은 없고 트랙 이탈로만 종료), 센서 게인 3개 자가 튜닝 499.9, 랜드마크+커리큘럼 학습 500.0(2,000스텝 확장 시 트랙 이탈 0/200·중심 거리 0.12m). 웹 뷰어가 전체 뉴런을 브라우저에서 실시간 시뮬레이션하며 뒤에서 본 초파리 비행으로 같은 순간을 보여줌. 한국어 README 포함, Python
 * [openscience: The open-source AI workbench for scientific research](https://github.com/synthetic-sciences/openscience)
   * [OpenScience 공식 사이트](https://www.openscience.sh/)
   * [OpenScience: 과학 연구를 위한 오픈소스 AI 워크벤치 기술 정리 | digitalbourgeois](https://digitalbourgeois.tistory.com/3345)
