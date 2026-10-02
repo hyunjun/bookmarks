@@ -661,6 +661,8 @@ Web
   * [ego-lite: The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents](https://github.com/citrolabs/ego-lite)
   * [드디어 모든 브라우저 자동화 고민을 해결해줄 구세주가 탄생했습니다 - YouTube](https://www.youtube.com/watch?v=uy5XmijKOUA)
     * 코드팩토리. ego lite 소개—기존 로그인 세션에서 바로 작동, parallel Spaces로 여러 브라우저 작업 동시 실행
+  * [AI 에이전트 브라우저를 따로 써야 할까? ego(lite) 사용기 | 요즘IT](https://yozm.wishket.com/magazine/detail/3971)
+    * 효빈. 사람이 쓰는 크롬과 에이전트용 크로미움을 나눠 쓰다 로그인 풀림·탭 누적에 지쳐 일주일 사용—같은 프로세스 안의 작업별 격리 공간 Space 덕에 이미 로그인한 사이트는 재인증 없이 바로 진행, 에이전트가 작업하는 동안 사용자의 페이지·마우스·포커스는 그대로, 탭은 작업 단위로 묶여 정리 범위가 분명. 바뀐 요청 방식: 종료 조건(결과물 형식·남길 탭)을 미리 정하고, 조회와 변경을 분리해 "읽기 전용" 범위를 명시하고, 2차 인증·캡차·결제·게시처럼 되돌리기 어려운 단계는 사람이 제어권을 받아 처리. mac 전용·lite 단계라는 한계
   * Codex·Claude Code 등 AI 에이전트에 로그인된 브라우저 상태를 방해 없이 공유해 브라우저 자동화를 실행. 무료·무설정. JavaScript, MIT, 7.5k stars
 * [fingerprint-suite: Browser fingerprinting tools for anonymizing your scrapers](https://github.com/apify/fingerprint-suite)
   * Apify의 브라우저 핑거프린팅 도구. header-generator(현실적 HTTP 헤더), fingerprint-generator(JS API+HTTP 영향 지문), fingerprint-injector(Playwright/Puppeteer 주입), generative-bayesian-network(베이지안 생성 네트워크). 모듈러 npm 패키지
