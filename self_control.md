@@ -38,6 +38,8 @@ Self Control
 * ['일잘러'는 회의 어떻게 하나요?…김지현 SK 부사장이 제시하는 시간관리법](https://www.bloter.net/newsView/blt202204290052)
 * [시간 관리의 세 단계 진화: 왜 빈 큐를 먼저 만들어야 하는가](https://unnud.com/the-three-stage-evolution-of-time-management-why-you-should-create-an-empty-queue-first/)
   * [시간 관리의 진화: 빈 큐(Queue)를 먼저 만들고 할 일은 나중에 채우는 발상 | GeekNews](https://news.hada.io/topic?id=23274)
+* [Build a Business that Runs itself | Buy Back Your Time Book Summary | Dan Martell - YouTube](https://www.youtube.com/watch?v=pzdU6AdF9AU)
+  * Dan Martell이 자기 책 《Buy Back Your Time》 15개 장을 원칙별로 요약한 36분 영상. 창업자는 직원 12명·매출 100만 달러 무렵 "pain line"에 부딪혀 매각·자기 파괴·정체(3S)로 빠지는데, 의지력 대신 Buyback Loop(에너지를 빼앗고 남에게 맡기는 비용이 싼 일을 감사→플레이북과 함께 이전→가장 즐겁고 돈이 되는 일로 채움)로 시간을 되산다는 핵심. DRIP 매트릭스(에너지×수익 축: Delegate·Replace·Invest·Produce), 시급÷4 buyback rate 공식, 5가지 time assassins, replacement ladder, 자신을 복제하는 플레이북, perfect week, test-first 채용, preloaded year 등
 * [삶의 궁극적 목적을 찾아 헤매지 마세요](http://ppss.kr/archives/48575)
 * [‘중독’에 대한 편견과 진실](http://ppss.kr/archives/55339)
 * [내 안의 가짜 열정과 진짜 열정을 구분해내는 법](http://www.huffingtonpost.kr/polangpolang-/story_b_8192992.html)
