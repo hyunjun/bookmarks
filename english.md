@@ -79,6 +79,17 @@ English
   * How come? — 왜?
   * You never know. — 혹시 모르지.
   * That makes sense. — 말이 되네.
+* 대화할 때 바로 나오는 짧은 영어 10개
+  * Guess what? — 있잖아, 그거 알아?
+  * Tell me about it. — 그거 완전 공감해.
+  * I'm on it. — 내가 할게.
+  * I'm not judging. — 나 뭐라 하는 거 아니야.
+  * I'm just saying. — 그냥 말해본 거야.
+  * Don't tell anyone. — 아무한테도 말하지 마.
+  * That's the spirit! — 그렇지, 바로 그거야!
+  * Let's not go there. — 그 얘긴 하지 말자.
+  * Take it easy. — 진정해 / 너무 부담 갖지 마.
+  * Don't tempt me. — 그러다 진짜 한다?
 * [allearsenglish.com/episodes](https://www.allearsenglish.com/episodes/)
 * [bbc.co.uk/learningenglish](http://www.bbc.co.uk/learningenglish/)
 * [cnn.com/cnn10](https://edition.cnn.com/cnn10)
