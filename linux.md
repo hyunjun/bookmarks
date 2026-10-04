@@ -1334,6 +1334,9 @@ Linux
 * [Asterinas is a secure, fast, and general-purpose OS kernel, written in Rust and providing Linux-compatible ABI](https://github.com/asterinas/asterinas)
   * [Asterinas - Rust로 작성된 Linux 호환 ABI 제공 OS 커널 | GeekNews](https://news.hada.io/topic?id=17283)
 * [bpf_emulator: bpf_emulator for userspace](https://github.com/txuna/bpf_emulator)
+* [FTL: A new operating system for clouds](https://ftl-os.org/)
+  * [FTL, 클라우드를 위한 새로운 운영체제 | GeekNews](https://news.hada.io/topic?id=34729)
+  * OS를 라이브러리로 만드는 클라우드용 OS—컨테이너마다 Linux 프로세스·VFS·TCP/IP 등을 구현한 사용자 공간 OS(공유 라이브러리)가 돌고, FTL 커널은 하이퍼바이저처럼 vCPU·메모리·드라이버와 최소 인터페이스만 제공(마이크로커널의 유연·보안 + 모놀리식의 성능·단순함). CPU 사용자 모드 격리로 가벼운 컨테이너에 VM 수준 격리 경계를 목표, 베어메탈 불필요. OS 기능을 커널/eBPF 프로그래밍 없이 앱처럼 확장·printf 디버깅하고, 컨테이너별로 다른 OS 버전을 쓰며 머신 재부팅 없이 컨테이너만 새 라이브러리로 재시작해 업데이트. Linux 바이너리 무수정 실행(자체 웹사이트도 FTL 위 Rust HTTP 서버), POSIX를 생략한 unikernel식 특화 앱도 가능. v0.1.0에서 비동기 Rust 앱·Linux 스레드·epoll 지원, 2026-11 파일시스템·12월 Node.js/Go·2027-01 SMP·컨테이너 이미지·arm64 로드맵
 * [kerla: A new operating system kernel with Linux binary compatibility written in Rust](https://github.com/nuta/kerla)
 * [like-dbg: Fully dockerized Linux kernel debugging environment](https://github.com/0xricksanchez/like-dbg)
 * [Nanos.org](https://nanos.org/)
