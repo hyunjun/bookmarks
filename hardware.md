@@ -76,6 +76,8 @@ Hardware
   * 고가, 다기능 중심이던 6800에 반발, MOS 6502는 “덜어냄”으로 저가(25달러), 고효율을 달성하며 Apple II 등 대중 PC/콘솔 확산의 핵심
   * Z80까지 합류한 저가 8비트 공세에 모토롤라는 68000, 인텔은 8086/8088로 16비트 선점 전략으로 대응, PC 표준은 x86으로
   * 이후 PowerPC(RISC)가 한때 애플에서 성공했지만 전력/발열 한계에 부딪혔고, 오늘날은 ARM/애플 실리콘 등 RISC 계열로 흐름이 재정렬
+* [Open source chip design with Tiny Tapeout - Hackware Oct 2026 | Engineers.SG - YouTube](https://www.youtube.com/watch?v=XrnZu4UchzE)
+  * Tiny Tapeout을 만든 Matt Venn의 18분 발표(싱가포르 Hackware 밋업). 오픈소스 도구로 직접 설계한 디지털 회로를 여러 참가자의 설계와 한 칩에 묶어 실제 실리콘으로 제작하는 저비용 칩 설계 교육 프로젝트
 * [Mario Bros. Clock : 7 Steps (with Pictures) - Instructables](https://www.instructables.com/Mario-Bros-Clock/)
 * [Building a Budget Homelab NAS Server (2022 Edition) · mtlynch.io](https://mtlynch.io/budget-nas/)
 * [가성비 끝판 대장 N100 미니 PC로 고성능 NAS 만들기 - YouTube](https://www.youtube.com/watch?v=KUICRLV3NGE)
@@ -241,6 +243,10 @@ Hardware
 * [아두이노를 이용한 계란을 잡는 2축 Parallel Gripper : 네이버 카페](https://cafe.naver.com/viktorrobotics/24)
 * [Three Ways To Read A PWM Signal With Arduino | BenRipley.com](http://www.benripley.com/diy/arduino/three-ways-to-read-a-pwm-signal-with-arduino/)
 * [자바스크립트 웹페이지로 아두이노 제어하기](https://webnautes.tistory.com/2415)
+* [ESP32 OLED Hologram Lyric Video Display | Raspduino Uno - YouTube](https://www.youtube.com/watch?v=0PkHoqDdT7o)
+  * [Upgraded ESP32 Hologram Lyric Video Display | Raspduino Uno - YouTube](https://www.youtube.com/watch?v=Q6i05RDy6xQ)
+    * 같은 제작자의 업그레이드판(74초)—흑백 OLED 대신 1.3" 풀컬러 TFT LCD 위에 25mm 빔 스플리팅 큐브를 얹어 컬러 홀로그램 효과. 부품(큐브·TFT·ESP32)과 완제품 세트 링크 제공, 곡은 Elvis Presley "Can't Help Falling in Love"
+  * ESP32가 OLED에 애니메이션을 프레임 단위로 재생하고 그 위에 빔 스플리터 큐브를 얹어 떠 있는 홀로그램처럼 보이게 만든 57초 DIY 데모(곡은 Frank Sinatra "My Way" 가사 영상). 부품은 빔 스플리팅 큐브·OLED 디스플레이·ESP32 세 가지
 * [Arduboy](https://www.arduboy.com/)
 * [EURK_Arduino: 한글 라이브러리 '어우러기' 아두이노 버전 1.0](https://github.com/sookmook/EURK_Arduino)
 * [Watchy - E-Paper Watch](https://www.tindie.com/products/sqfmi/watchy/#product-description)
