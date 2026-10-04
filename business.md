@@ -3430,6 +3430,9 @@ Business
 * [Why AI Is Raising the Bar for Marketing Leadership | Shachar Scott, Inc.](https://www.inc.com/shachar-scott/why-ai-is-raising-the-bar-for-marketing-leadership/91389420)
   * AI가 브리프 작성·리걸 사전 검토·QA 등 캠페인 실행 체인을 압축(4주 → 4일)하면서 CMO의 일은 제작 관리에서 시스템 설계·기능 정렬·의사결정 품질로 이동
   * 예측 가능하고 규칙 기반인 작업(캠페인 트래피킹, 성과 리포팅, 템플릿 초안)은 자동화하고, 맥락 판단·문화적 직관·이해관계자 조율이 필요한 일(신규 시장 브랜드 포지셔닝)은 사람이 유지하라는 필터 제시
+* [OpenSEO - Open Source SEO Platform](https://openseo.so/)
+  * [open-seo: Open source alternative to Semrush and Ahrefs](https://github.com/every-app/open-seo)
+  * 비싸고 무거운 Semrush·Ahrefs 대신 쓰는 종량제 오픈소스 SEO 도구—키워드 리서치·순위 추적·경쟁사 인사이트·백링크·사이트 감사·AI 가시성(AEO) 워크플로에 집중, 자기 DataForSEO API 키로 쓴 만큼만 지불. MCP 서버와 Agent Skills로 Claude Code·OpenClaw·Hermes 같은 에이전트가 SEO 데이터를 직접 사용. Docker 셀프호스팅 또는 호스팅 $10/월. TypeScript, MIT, 22.3k stars
 
 # Mobile
 * ["앱의 시대"는 끝났다](http://ppss.kr/archives/34606)
@@ -4169,6 +4172,9 @@ Business
   * [2024년 SaaS의 가격 페이지 변경 추적을 통해 배운 점 | GeekNews](https://news.hada.io/topic?id=17496)
 * [현성운 - 아웃백 가격 전략에서 배운 점 | Facebook](https://www.facebook.com/hyeonseong.un/posts/pfbid0UoGXdRPqDwqcAZcxFLn9BzQLDRJk9kyQA6R68Q3MnbBvfVFaLyFKQanEW7dGUmNzl)
   * 아웃백 Black Label Sizzling(166,000원) 추천 후 앱 쿠폰 최대 2만원 할인 안내. 앵커링 효과(고가 기준점→할인 체감)+거래 효용(쿠폰 획득 참여 만족)+사회적 증거(옆 테이블 같은 메뉴) 3종 심리 전략. 개인 역량 아닌 표준화된 직원 교육이 핵심
+* [고객은 가격을 보고 사지 않는다 (feat. 돈의 심리학) | EO](https://eopla.net/magazines/47611)
+  * Ron Kohavi의 실험 결과(지표 개선 아이디어 중 실제로 올린 건 약 1/3)와 Andrew Chen의 "10 years after Growth Hacking"(A/B 테스트로는 PMF에 못 간다, 그로스 기법이 테이블 스테이크가 되며 수확 체감)에서 출발—문제는 실험의 양이 아니라 가설의 근거이고, 버튼 색·문구는 고객이 어떻게 클릭하는지만 다룰 뿐 왜 돈을 내는지는 다루지 못함
+  * Morgan Housel 『돈의 심리학』의 소비 비합리성을 가격·리텐션·온보딩 설계에 적용: 고객은 "이 돈을 내면 내 삶이 어떻게 달라지나"로 심리적 지불 의사를 매기며 네 축을 저울질—미래(낙관 프리미엄, 수강 후 달라질 상태를 먼저 보여주기)·현재(시간 프리미엄, 목표 도달 시간 단축)·관계(귀속 프리미엄, 차 안의 남자 역설과 실제 교류 설계)·리스크(손실 회피 약 2~2.25배, 안전 마진으로 상쇄). A/B 테스트를 버튼 최적화가 아니라 심리 가설 검증 도구로 다시 쓰자는 제안
 * [B2B 영업인력](https://www.thestartupbible.com/2022/03/how-to-hire-a-b2b-salesman.html)
 * [B2B와 B2C 영업](https://www.thestartupbible.com/2022/05/b2b-and-b2c-sales.html)
 * [B2B SaaS 영업의 시스템화](https://www.thestartupbible.com/2023/04/systemizing-and-replicating-b2b-saas-sales-process.html)
