@@ -3127,6 +3127,7 @@ NLP
     * [DS4에 대한 몇 마디 | GeekNews](https://news.hada.io/topic?id=29541)
     * antirez(Salvatore Sanfilippo) 자작 DeepSeek V4 Flash 특화 네이티브 추론 엔진. GGUF/llama.cpp 래퍼가 아닌 self-contained. Metal 주력(96/128GB MacBook), NVIDIA CUDA(DGX Spark), AMD ROCm(별도 브랜치). DS4 전용 로딩·프롬프트 렌더링·툴 호출·KV 상태(RAM/디스크), HTTP 서버 API, 통합 코딩 에이전트. GGUF/imatrix 생성 도구, 품질·속도 테스트. 512GB Mac Studio 클래스에서 DS4 PRO 실험 지원. C 64.2%, MIT
 * [Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production](https://github.com/langgenius/dify)
+  * [Dify - The Platform for Production-Ready Agentic Workflows](https://dify.ai/)
   * [김헌기 - AI 및 LLM(Large Language Model) 분야에서 최근에 주목받고 있는 오픈소스 플랫폼인... | Facebook](https://www.facebook.com/hnki0104/posts/pfbid0eWeiS8tCGar1J59MuyLNJtLtjiVQzqC78b6rA74LnfVMietaCZEa95uG83tMrrvMl)
 * [distilabel: ⚗️ AI Feedback framework for scalable LLM alignment](https://github.com/argilla-io/distilabel)
 * [dllm: dLLM: Simple Diffusion Language Modeling](https://github.com/ZHZisZZ/dllm)
@@ -3341,12 +3342,18 @@ NLP
   * [🥊 CLM vs Laya vs OpenJev vs Kev vs Jev : 결정 모델 5종 속도·정확도·라이선스 비교 | fornewchallenge](https://fornewchallenge.tistory.com/entry/%F0%9F%A5%8A-CLM-vs-Laya-vs-OpenJev-vs-Kev-vs-Jev-%EA%B2%B0%EC%A0%95-%EB%AA%A8%EB%8D%B8-5%EC%A2%85-%EC%86%8D%EB%8F%84%C2%B7%EC%A0%95%ED%99%95%EB%8F%84%C2%B7%EB%9D%BC%EC%9D%B4%EC%84%A0%EC%8A%A4-%EB%B9%84%EA%B5%90)
     * Jev 얼리 액세스(9/15) 2주 만에 쏟아진 결정 모델 5종—Jev(TypeSafe)·Laya(Convai)·OpenJev·Kev(Jared Palmer)·CLM-8B(Stanford·NVIDIA)—의 파라미터·라이선스·정확도·지연·비용을 같은 기준으로 비교하고 상황별 선택 가이드. 내 프로젝트에 결정 모델을 붙이는 에이전트 지시문 포함
   * [CLM: Contrastive Language Models — A System One Model for Fast and Generalizable Decision-Making](https://github.com/Contrastive-LM/CLM)
+    * [Contrastive Language Models(CLM): State와 Action을 연결해 빠른 의사결정을 수행하는 AI 모델 | digitalbourgeois](https://digitalbourgeois.tistory.com/3705)
+      * State Encoder·Action Encoder를 양방향 InfoNCE로 학습해 상태와 정답 행동의 임베딩을 가깝게, 다른 후보는 멀게—서비스 시 후보 행동들과의 점수를 계산해 최고점을 선택(typed decision·후보 랭킹·툴 라우팅·best-of-N 궤적 평가). CLM-8B는 Nemotron DQA 질문-답변 약 6,000만 쌍 사전학습(hard negative 없이 held-out top-1 52.1%)→Gemini 2.5 Flash-Lite로 만든 의미상 비슷하지만 틀린 hard negative 약 3,000만 개 mid-training 단계를 거침. Jev와 비슷한 성능에 최대 9배 낮은 지연, 에이전트 코딩 verifier로 DeepSWE 81.6%·Terminal-Bench 2.1 87.6%
     * **상태(state)와 행동(action)을 잇는 대조학습(contrastive learning)으로 훈련한 새 계열의 System One 모델**—CLM-8B를 TypeSafe 호환 API로 서빙(Nemotron Q&A 6,000만 쌍 사전학습→합성 하드 네거티브 3,000만 중간학습→에이전틱 궤적 100만 사후학습). 컴퓨터 사용·게임·툴 호출에서 Jev와 동급 성능을 **최대 9배 낮은 지연**으로 낸다고 주장하고, 가벼운 파인튜닝으로 에이전틱 코딩 검증기(verifier) SOTA 주장—Terminal-Bench 2.1 87.6%, DeepSWE 81.6%(자체 보고)
     * 상태·행동을 분리(disaggregate)해 임베딩을 독립적으로 캐시·재사용하는 설계가 학습·서빙 비용을 낮추는 핵심. 파인튜닝 튜토리얼·HF 데이터/모델 공개. `pip install contrastive-lm`. Python, Apache-2.0, 1.7k stars(2026-09-23 생성 나흘 만)
   * [imajev: Open Jev-style typed-decision model that also takes images: photo + app state + typed questions in, calibrated probabilities out, locally](https://github.com/mohit67890/imajev)
     * [imajev — Decisions for real-world cases](https://mohit67890.github.io/imajev/)
     * 사진·기록·텍스트를 함께 받아 미리 정한 선택지에 대한 보정 확률과 명시적 "can't tell"을 반환하는 오픈 결정 모델(2B·4B·9B, 로컬 실행). Jev와 같은 `POST /v1/systemone` 스키마(state+questions, choice·noul), 상품 리스팅 색상 vs 사진 대조·반품·불량 부품·CRM 대조 이메일·환불 정책 등 예제와 HF Spaces 라이브 데모
     * 독립 리더보드(2026-09-28 기준) JevBench v1.4.2.2 91개 중 1위(imajev-4b 67.37, Jev 1.13.0 63.29 앞), Image JevBench v0.1.3 49개 중 1위(Jev-Omni 12B 앞), DecisionBench(eng v1) 56개 중 3위(GPT-5.6 Luna·DeepSeek V4.1 Flash 앞). ImajevBench 데이터셋·기술 보고서 공개. Python, Apache-2.0, 130 stars
+  * [Jeeves – Reasoning improves Jev-like decision models | PostHog](https://github.com/PostHog/jeeves)
+    * [Jeeves, 판단 전에 추론하는 Jev 방식의 의사결정 모델 | digitalbourgeois](https://digitalbourgeois.tistory.com/3715)
+    * Jev류 모델은 보정된 확률을 주지만 정확도가 낮아 파이프라인이 추론 모델을 폴백으로 두는 문제를, 판단 모델 자체가 결정 전에 추론하도록 학습해 해결—Kev에서 영감받아 Qwen3.5-9B(LoRA+pointer head)를 SFT·CISPO로 학습, block-4 diffusion drafter로 가속. 상황→추론→선택지별 평가→점수 보정→확률 반환. Jev 호환 `/v1/systemone`에서 noul·choice·score를 한 요청에 묶고(예: 고객 문의의 담당 부서·긴급 여부·불만 정도), `jeeves_sdk`로 질문별 추론 텍스트도 선택 수신
+    * 미학습 테스트 0.889(Kev-9B 0.822·Jev 0.857), JevBench 공개 231문항 0.935(Jev 0.866), hard 111문항 0.865(Jev 0.730), ECE 0.037(Jev 0.049)—다만 MMLU·MMLU-Pro 같은 지식 전이 과제는 Jev가 앞섬. H100 FP8 기준 추론 없이 요청당 약 0.3초·추론 포함 중앙값 3.3초(체인 길이 절단으로 조절), CUDA bf16/FP8·Apple Silicon(48GB+) 지원. 9B 가중치·학습 코드·train/dev/test 데이터 공개. Python, MIT, 399 stars
   * [Jev Engineering for Coding Agents: The TypeSafe Founder's Blueprint for Building with Jev (PDF)](pdfs/jev_engineering_for_coding_agents.pdf)
     * TypeSafe 창업자 Diogo Almeida의 설계 노트를 제3자가 정리한 12쪽 워킹 노트(2026-09, TypeSafe 비공식). 핵심 질문 "LLM에 KV 캐시가 없다면 코딩 에이전트를 어떻게 설계할까?"—KV 캐시 경제학이 append-only 트랜스크립트를 강제하며 현재 에이전트의 6가지 설계를 낳았다는 진단: ①라우팅 실패(Opus→Sonnet→Opus 경로가 컨텍스트 재처리 때문에 pure Opus 4.15 대비 6.19로 더 비쌈—토큰당이 아니라 컨텍스트 재구축당 가격을 매겨야 함) ②툴 스키마가 컨텍스트를 잠식 ③질문을 모른 채 압축하는 compaction ④상태 전달이 어려워 드물게 쓰이는 서브에이전트 ⑤좋은 상태까지 버리는 재시작 ⑥내장 기능이 컨텍스트를 영구 점유하는 batteries 논쟁. 토큰은 파일 읽기 30~40%·검색 10~18%·명령 출력 10~20%가 차지하고 코드 작성은 4~10%뿐(Microsoft fastcontext: GPT-5.4 궤적의 툴 호출 56.2%가 읽기·검색)
     * 대안: 상태를 주소 지정 가능한 타입드 청크로 명시하고 Jev가 매 턴 판단—컨텍스트 청크별 가시성 사다리(hide/short/long/full, 질의 인지 압축), 캐시 재사용 vs 재구축 noul, 라우팅 choice+비용 추정, 툴 top-k 선택(스니펫→스키마 온디맨드→문서 3단 공개), 명령 실행 allow/ask/deny 프로그래머블 권한 정책, 파일 민감도 점수로 보안 인지 라우팅(비밀·인프라 설정은 1st-party 프론티어만). 조건부 AGENTS.md(작업 조건에 붙어 compaction에 면역인 지시), 읽기/쓰기 타입 명시로 잠금 기반 극단적 병렬화와 서브골 중복 제거, 읽기 전용 백그라운드 작업(크로스 모델 리뷰·eval 생성·ELI5·진행 페이지)이 검색 패스 하나를 공유. 후보 내장 도구: headroom·rtk·ast-grep·ast-outline·fastcontext·fff
@@ -3382,8 +3389,16 @@ NLP
     * [OpenJev: OpenSource Jev | SiliconLabAI](https://github.com/SiliconLabAI/OpenJev)
     * [OpenJev: Open Source Alternative to TypeSafe Jev | DevsKingdom - YouTube](https://www.youtube.com/watch?v=xtXq279B4Go)
     * 타입드 결과(choice·score·probability)를 반환하는 오픈소스 Jev 대안. TypeScript, MIT, 142 stars로 아직 초기
+  * [SemIf (formerly OpenJev) — Semantic If On-Device](https://openjev.com/)
+    * [SemIf(OpenJev), LLM의 답변 생성 대신 선택지 확률을 직접 읽는 로컬 판단 실험 | digitalbourgeois](https://digitalbourgeois.tistory.com/3703)
+    * 기존 공개 모델을 추가 학습 없이 판단 도구로 쓰는 오픈소스—상황·질문·허용 선택지를 넣고 답변·JSON을 생성시키는 대신 선택지 토큰의 로짓을 직접 읽어 선택지 안에서만 softmax한 확률을 반환(출력 토큰 0). Jev의 입출력 방식을 참고했지만 독립 프로젝트이며 위 SiliconLabAI OpenJev와는 별개. 브라우저 데모는 wllama로 GGUF 모델(Qwen3 0.6B·MiniCPM5 2B·Qwen3.5 4B)을 HF에서 받아 로컬 GPU에서 "직접 읽기"와 "JSON 생성"을 같은 모델로 나란히 비교, 입력은 페이지 밖으로 나가지 않음
+    * RTX 3090·Qwen3.5-4B 실험: 이진 판단 21개를 직접 읽기 1.023초(출력 0토큰) vs JSON 생성 5.332초(111토큰)로 5.21배 빠르지만 선택 결과가 같은 항목은 21개 중 18개—"같은 품질로 5배 빠르다"로 읽으면 안 된다는 단서. 37 상황×21 질문=777 판단에서 공통 입력 재사용·질문 병렬화로 333.1초→38.8초(실험 단계, BF16에서 5~6개 결과 달라짐). 직접 점수는 보정된 신뢰도가 아니며 Jev와 동등하다고 주장하지 않음
   * [solar-mini4-jev: Upstage Solar Pro4/solar-mini4를 TypeSafe Jev System One API 형태로 노출하는 drop-in 래퍼](https://github.com/hunkim/solar-mini4-jev)
     * `POST /v1/systemone`에 model·state·questions를 보내면 Jev와 같은 스키마의 noul/choice/score 질문 유형 지원. Vercel에 호스팅된 BYOK 엔드포인트(X-Upstage-Api-Key)로 배포 없이 시험 가능, llms.txt 제공
+  * [SystemOneHarness: The System One harness for System One models. Run Jev and other System One models locally or directly on HarnessRouter.ai](https://github.com/HarnessRouter/SystemOneHarness)
+    * [HarnessRouter — Run the world's best agent harnesses in your product](https://harnessrouter.ai/)
+    * System One 결정 모델을 에이전트 루프로 바꾸는 하네스—환경을 관찰하고 유한 행동 공간을 타입드 질문으로 컴파일→결정→신뢰도 게이트→실행→전체 트레이스 기록. 스텝당 모델 호출 1회, 행동을 생성하지 않고 모든 전이에 확률(예: 주문 처리 환경 5스텝 0.98초·$0.0002). 읽기·쓰기·파괴적 행동별 확률 임계값, completed/incomplete/failed/cancelled 명시적 종료 사유, Python 프로세스·MCP 서버·웹페이지를 같은 컨트롤러로 구동, 게임 같은 실시간 환경은 거부·반복 결정을 클록 틱으로 처리. 첫 지원 모델은 Jev(OpenRouter·TypeSafe), Unified Harness Protocol(UHP)로 스트리밍·이어하기·취소·탐색. Python, Apache-2.0, 197 stars
+    * HarnessRouter는 Codex·Claude Code·Hermes 같은 에이전트 하네스를 하나의 API로 제품에 붙이는 통합 인터페이스(UHP 기반, 오픈소스 Community Edition·하네스 벤치마크·랭킹, YC 투자)
 * [JudgeBench: A Benchmark for Evaluating LLM-Based Judges](https://github.com/ScalerLab/JudgeBench)
 * [Jupiter | Sovereign — zero-dependency high-performance inference engine for LLMs](https://www.teamjupiter.ai/)
   * [Jupiter Sovereign 공유 | Jupiter Song](https://www.linkedin.com/posts/jupitersong_jupiter-sovereign-share-7486380864663076864-IBtp/)
