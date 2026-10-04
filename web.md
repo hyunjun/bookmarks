@@ -878,6 +878,8 @@ Web
 * [eventlet#web-crawler](http://eventlet.net/doc/examples.html#web-crawler)
 * [facebook-scraper: Scrape Facebook public pages without an API key](https://github.com/0xSojalSec/facebook-scraper)
 * [Google Image Downloader - A simple script that fetches images from Google with browser simulation](https://github.com/bemoregt/google-image-downloader)
+* [google-maps-scraper-kit: Local Google Maps lead extraction, operated by Claude. Clean CSVs with phones, emails, websites and socials](https://github.com/Mahanaicoach/google-maps-scraper-kit)
+  * 업종·도시를 말하면 이름·전화·이메일·웹사이트·카테고리·주소·평점·리뷰 수를 담은 영업용 CSV를 로컬에서 뽑아주는 키트—채팅 AI에 "구글 맵 긁어줘"라고 하면 동의 화면·JS 렌더링에 막혀 거의 0건이 나오는 문제를, 로컬 헤드리스 스크래핑 엔진(Docker)과 Claude용 정밀 운영 매뉴얼(skill + `/scrape`·`/scrape-batch`·`/scrape-setup`·`/scrape-jobs`)로 해결. 원본 ~34개 필드 중 8개만 남기고(`--full`로 전체), 웹사이트에서 이메일 추출, `--socials`로 Instagram·Facebook·LinkedIn을 AI 토큰 없이 HTTP+정규식으로 보강, 도시명 자동 지오코딩, 배치 작업. API 키·SaaS 불필요, API는 127.0.0.1 바인딩, 레이트 리밋·데이터 법규 가드레일 내장, Claude 없이도 의존성 없는 Python CLI. 1.1k stars
 * [iris: Screenshots of live websites. Minimal interface, powerful engine](https://github.com/brijr/iris)
   * 라이브 웹사이트 스크린샷 도구. 미니멀 인터페이스, Rust, 377 stars
 * [kocrawl: A collection of useful Korean crawlers (always updated)](https://github.com/gusdnd852/kocrawl)
@@ -1853,6 +1855,9 @@ Web
   * [FastAPI 밋업 : 우리 회사도 FastAPI 써요! | 원티드](https://www.wanted.co.kr/events/meetup_fastapi)
     * [다양한 커리어 성장의 기회 | 원티드 이벤트](https://www.wanted.co.kr/events/vod/meetup_fastapi)
   * [Flask 서버를 FastAPI 서버로 전환하기. 안기욱 - PyCon Korea 2021 - YouTube](https://www.youtube.com/watch?v=5FvicDwklaA)
+  * [PyCon Korea 2026 "FastAPI로 그게 됩니까?" — 됩니다 부제: 엔터프라이즈 백엔드를 지탱하는 모듈러 모놀리스 1년 회고 - 윤상현 - YouTube](https://www.youtube.com/watch?v=7wVbjmMzh7g)
+    * "FastAPI는 작은 API를 빨리 만들 때나 쓴다, 대형 시스템엔 Spring·NestJS"라는 통념을 측정으로 검증한 1년 회고(18분). 사회적 협동조합 1인 CTO로 심리 상담 AI 챗봇(Python·LangChain)과 업무 플랫폼을 운영하며 NestJS+FastAPI 폴리글랏 MSA(레포 6·배포 단위 9·DB 4)로 커진 복잡도와 기술 부채를, uv workspace 기반 FastAPI 모듈러 모놀리스(패키지 25·테이블 102·약 10만 줄)로 통합해 프로덕션 운영
+    * NestJS→Python 번역 사전(@Module·DI 컨테이너·class-validator·TypeORM을 import·Depends·Pydantic·SQLAlchemy 2.0으로), uv workspace로 모듈 경계 정의·도메인/애플리케이션 패키지 분리, 요청 범위 트랜잭션, OpenAPI 계약(CI 드리프트 게이트·프런트 코드 생성)으로 협업 규칙을 기계 검증 가능하게. FastAPI의 자유도가 컨벤션·린터·계층 부재로 발목을 잡던 지점을 디렉터리 구조·훅·린터로 해결
   * [Dix et al - Lessons Learned Building Our Own Dashboard Solution | PyData Global 2022 - YouTube](https://www.youtube.com/watch?v=zBPpOPnLaFE) celery도 일부
   * [Generate Python FastApi Rest Client & Server - YouTube](https://www.youtube.com/watch?v=52MRyaOPmF4)
   * [How to Use FastAPI: A Detailed Python Tutorial - YouTube](https://www.youtube.com/watch?v=SORiTsvnU28)
