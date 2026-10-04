@@ -3547,6 +3547,11 @@ Python
   * [link-example: Machine Learning Study](https://github.com/makinarocks/link-example)
   * [The Best Jupyterlab Extension That You Didn't Know Existed! - YouTube](https://www.youtube.com/watch?v=fClT4PWlGoA)
 * [marimo | a next-generation Python notebook](https://marimo.io/)
+  * [marimo-studio: Build custom reports, apps, and presentations from the same notebook](https://github.com/marimo-team/marimo-studio)
+    * [marimo-studio](https://marimo-team.github.io/marimo-studio/)
+    * [Introducing marimo-studio | marimo - YouTube](https://www.youtube.com/watch?v=p6bXk3IzMiw)
+    * 하나의 반응형 marimo 노트북을 리포트·대시보드·랩·슬라이드 같은 여러 뷰로—데이터·계산·컨트롤은 노트북에 두고 청중별 뷰를 각자의 프런트엔드 프로젝트로 만들며, 뷰가 노트북의 라이브 셀·컨트롤을 렌더링해 입력을 바꾸면 의존 결과가 갱신되고 모든 결과가 계산한 셀로 추적됨. Claude Code·Codex에 `uvx --with marimo-studio agent-plugins read marimo-studio`로 Studio의 에이전트용 지침을 읽혀 스크롤리텔링 리포트·슬라이드를 만들게 하거나, Studio 툴바의 Add view로 직접 작성. 실험 단계. Python, Apache-2.0
+  * 반응형 Python 노트북—변수 의존성을 추적해 연결된 셀을 자동 갱신, 순수 .py 파일이라 Git 친화적, 인터랙티브 UI 요소와 웹 앱 변환 지원
 * [Mercury – Build Data Web Apps in Jupyter Notebook](https://runmercury.com/)
   * [mercury 시작](https://brunch.co.kr/@fermat39/143)
 * nbextension [Jupyter notebook 테마 및 확장기능(nbextensions) 설치 방법](https://devbull.xyz/jupyter-notebook-theme-extensions/)
@@ -3768,6 +3773,8 @@ Python
   * Pyrefly — Meta의 Rust 기반 고성능 타입 체커
     * [Lessons from Pyre that Shaped Pyrefly](https://pyrefly.org/blog/lessons-from-pyre/)
       * Pyre 개발 경험에서 얻은 교훈이 Pyrefly 설계에 어떤 영향을 미쳤는지 분석
+* [5 Python Libraries That Feel Illegal to Know | Byte Without Bite - YouTube](https://www.youtube.com/watch?v=o9Tgv4oZ3K4)
+  * 6분 소개—Manim(3Blue1Brown식 수학·기술 애니메이션을 코드로), Faker(이름·이메일·주소·회사 등 테스트 데이터 대량 생성), Gradio(ML 모델·함수를 인터랙티브 웹 UI로, Hugging Face 데모 표준), Diagrams(AWS·Azure·GCP·K8s 아이콘으로 아키텍처 다이어그램을 코드로), Marimo(변수 의존성을 추적해 셀을 자동 갱신하는 반응형 노트북, Git 친화적·웹 앱 변환 가능)
 * [Abseil Python Common Libraries](https://github.com/abseil/abseil-py)
 * [Advanced Python Scheduler](https://apscheduler.readthedocs.io/)
   * [APScheduler - Python Advanced Python Scheduler](http://thingsthis.tistory.com/60)
