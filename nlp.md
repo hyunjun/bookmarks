@@ -2851,6 +2851,8 @@ NLP
   * [LLMs Are Not Black Magic At All • Preben Thorø • GOTO 2024 | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5522789/5150819)
 * ["What's the real bottleneck in LLM serving throughput? How can PagedAttention help?" #machinelearning #datascience #inference | Anshuman Mishra | 댓글 29](https://www.linkedin.com/posts/anshuizme_machinelearning-datascience-inference-activity-7374072530405371904-p3ih)
   * [#machinelearning #datascience #inference | Anshuman Mishra | 29 comments | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5890311/5708963)
+* [Inference Engines explained in 10min.. - Caleb Writes Code - YouTube](https://www.youtube.com/watch?v=_xM8scs4_x4)
+  * 추론 엔진이 왜 이렇게 많은지 등장 순서대로 풀어 주는 10분 영상. PyTorch에서 시작해 llama.cpp, vLLM, SGLang, TensorRT-LLM까지 각 엔진이 어떤 문제를 풀려고 나왔는지 차례로 설명. TGI도 예로 언급. 중간에 Zapier 광고 포함
 * [Why do LLMs freak out over the seahorse emoji?](https://vgel.me/posts/seahorse/)
   * [LLM들은 왜 해마 이모지에서 이상 행동을 보일까? | GeekNews](https://news.hada.io/topic?id=23487)
 * [B200 GPU로 한국어 소형 파운데이션 모델 구축하기 ① - 데이터셋 | Elice](https://www.linkedin.com/posts/elice_b200-gpu%EB%A1%9C-%ED%95%9C%EA%B5%AD%EC%96%B4-%EC%86%8C%ED%98%95-%ED%8C%8C%EC%9A%B4%EB%8D%B0%EC%9D%B4%EC%85%98-%EB%AA%A8%EB%8D%B8-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-%E2%91%A0-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%85%8B-activity-7394531899060338689-vcX0)
@@ -3339,6 +3341,13 @@ NLP
   * [Awesome Jev / TypeSafe](https://abdelstark.github.io/awesome-typesafe-jev/)
     * [awesome-typesafe-jev: a source-backed field guide to TypeSafe's System One model, with SDKs, live demos, agent tools, and independent evaluations](https://github.com/AbdelStark/awesome-typesafe-jev)
     * "Jev는 소프트웨어에 타입드 판단을 주고, 코드는 여전히 주도권을 가진다"—문서화된 호출 예시(support-ticket 예제, 한 번의 호출로 세 개의 타입드 답) 확인, 라이브 프로젝트 체험, 스타터 복사, 독립 평가 열람으로 구성된 커뮤니티 필드 가이드. SDK·데모·에이전트 도구·독립 평가 큐레이션. MIT
+  * Clef [Introducing Clef: our open-source decision models, and new RL fine-tuning platform | Cloudflare](https://blog.cloudflare.com/clef-decision-models/)
+    * [clef | Workers AI · Cloudflare Docs](https://developers.cloudflare.com/workers-ai/models/clef/)
+    * [Cloudflare/clef | Hugging Face](https://huggingface.co/Cloudflare/clef)
+    * [Cloudflare/clef-flash | Hugging Face](https://huggingface.co/Cloudflare/clef-flash)
+    * [Cloudflare Clef: Free Open Source AI Decisions in 38ms - Prism Labs - YouTube](https://www.youtube.com/watch?v=MNclmc7hFuo)
+    * Cloudflare가 Birthday Week(2026-10-01)에 공개한 Jev API 호환 결정 모델 2종. Clef는 Qwen3.8-27B 기반, Clef-flash는 Qwen3.5-9B 기반이며 Apache-2.0으로 Workers AI 호스팅. Jev와 달리 비전 인코더로 이미지도 분류하고, 컨텍스트는 64k로 Jev의 32k보다 김. 고객이 Clef를 파인튜닝할 수 있는 RL 플랫폼도 함께 공개
+    * Jev Decision Index 기준 선두라고 주장. BANKING77·CLINC150·ToolRet은 Clef, BFCL·API-Bank·가전 제어는 Clef-flash가 최고점이고, When2Call·BRIGHT는 Jev, PhishNChips는 DiffusionGemma Jev가 앞섬. 중앙 지연은 Clef-flash 38.8ms, Clef 209ms, Jev 524ms. 사내 위협 인텔리전스 도메인 분류에서 2.2초로 gpt-oss-120b의 4.7초보다 빨랐음
   * [🥊 CLM vs Laya vs OpenJev vs Kev vs Jev : 결정 모델 5종 속도·정확도·라이선스 비교 | fornewchallenge](https://fornewchallenge.tistory.com/entry/%F0%9F%A5%8A-CLM-vs-Laya-vs-OpenJev-vs-Kev-vs-Jev-%EA%B2%B0%EC%A0%95-%EB%AA%A8%EB%8D%B8-5%EC%A2%85-%EC%86%8D%EB%8F%84%C2%B7%EC%A0%95%ED%99%95%EB%8F%84%C2%B7%EB%9D%BC%EC%9D%B4%EC%84%A0%EC%8A%A4-%EB%B9%84%EA%B5%90)
     * Jev 얼리 액세스(9/15) 2주 만에 쏟아진 결정 모델 5종—Jev(TypeSafe)·Laya(Convai)·OpenJev·Kev(Jared Palmer)·CLM-8B(Stanford·NVIDIA)—의 파라미터·라이선스·정확도·지연·비용을 같은 기준으로 비교하고 상황별 선택 가이드. 내 프로젝트에 결정 모델을 붙이는 에이전트 지시문 포함
   * [CLM: Contrastive Language Models — A System One Model for Fast and Generalizable Decision-Making](https://github.com/Contrastive-LM/CLM)
