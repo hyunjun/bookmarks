@@ -203,6 +203,8 @@ Time Series
     * 다변량 예측을 네이티브 지원하는 3세대. 330M 파라미터, 1조+ 시계열 포인트 사전학습. 다중 타깃·과거 공변량·미래 확정 공변량(프로모션·날씨·휴일)을 제로샷으로 지원, 인과적 시간 어텐션+전체 변수 어텐션 교차 구조, Contiguous Patch Masking으로 전체 예측 구간을 단일 순방향 패스로 생성(타깃별 9개 분위수). GIFT-Eval·FEV-Bench·TIME 3대 벤치마크에서 파운데이션 모델 1위
     * [구글 TimesFM-3, 벤치마크 1위인데 회사에선 못 씁니다: 2.5와 달라진 것과 라이선스 함정 | 오픈위키](https://wikidocs.net/blog/@openwiki/30040/)
       * 가중치 라이선스가 2.5의 Apache 2.0에서 timesfm-non-commercial-license-v1.0(비상업·비프로덕션 전용)으로 변경—성능은 최고지만 상업 서비스에는 붙일 수 없음(소스코드는 Apache 2.0 유지). 무엇이 달라졌고 실무자가 지금 무엇을 쓰면 되는지 1차 출처 기준 정리
+    * [Google's New TimesFM-3 vs. Classical Forecasting | AI with Surya - YouTube](https://www.youtube.com/watch?v=_tB4pdy9VJw)
+      * "내 데이터로 학습하지 않고 매출·재고·수익을 예측한다"는 주장을 검증한 13분 영상—TimesFM-3로 수요 계획 앱을 만들어 처음 보는 데이터에서 프로모션·날씨·유동 인구 공변량을 반영한 예측을 시연하고, 모델 내부 동작을 열어 본 뒤 데이터 사이언스 팀이 실제로 만들 고전적 예측 모델들과 정면 비교. 가중치는 비상업 라이선스라 상업 프로덕션은 BigQuery 통합 등 Google 플랫폼 경로라는 점도 짚음
 * TSBS [You are what you benchmark: Introducing the Time Series Benchmark Suite (TSBS)](https://blog.timescale.com/time-series-database-benchmarks-timescaledb-influxdb-cassandra-mongodb-bc702b72927e)
 * TSCoke
   * [TSDB as a Service, TSCoke 개발기 – tech.kakao.com](https://tech.kakao.com/2022/08/09/developing-tsdb-as-a-service-tscoke/)
