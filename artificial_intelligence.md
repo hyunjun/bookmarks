@@ -1520,6 +1520,9 @@ Artificial Intelligence
 * [Motifcode: A coding agent harness built specifically for Motif-3](https://github.com/TaewoooPark/Motifcode)
   * [Motif-code를 공개합니다. 여러분의 도움이 필요합니다 | Taewoo Park](https://www.linkedin.com/posts/taewoo-park-427a05352_motif-code%EB%A5%BC-%EA%B3%B5%EA%B0%9C%ED%95%A9%EB%8B%88%EB%8B%A4-%EC%97%AC%EB%9F%AC%EB%B6%84%EC%9D%98-%EB%8F%84%EC%9B%80%EC%9D%B4-%ED%95%84%EC%9A%94%ED%95%A9%EB%8B%88%EB%8B%A4-%EC%A7%80%EB%82%9C-8%EC%9B%94-share-7507348585722585088-ctQx/)
   * Motif Technologies가 2026년 8월 말 독자파운데이션모델(독파모) 사업 2차 평가에서 "사용성"을 이유로 탈락한 것을 계기로, 사용성은 가중치가 아니라 UI/UX·활용 방법론의 문제이니 한국 오픈소스 빌더들이 나설 때라며 공개한 Motif-3(314B-A13B, 256K 컨텍스트) 전용 코딩 에이전트 하네스—알려진 Motif-3 특성과 직접 라우팅하며 알게 된 특징들에 맞춰 최적화. Infron 무료 API 키로 사용, `npx motifcode`. 알파, TypeScript+Python, Apache-2.0
+* [mue-x: The first self-evolving AI agent. Rewrites its own source code in real-time. 6 AST mutation strategies. Absorbs GitHub repos autonomously. 7 autonomic drives. Standalone CLI. Works anywhere | KorroAi](https://github.com/KorroAi/mue-x)
+  * 자기 .py 파일(mue/evo/ 60여 개 모듈 "유전자")을 실시간으로 고쳐 쓰는 자가 진화 에이전트. 관찰→흡수→변이→검증 루프를 멈추지 않고 돌리며, repair·optimize·explore·exploit·innovate·prune 6가지 AST 변환으로 변이를 만들고 350줄을 넘은 유전자는 함수 경계에서 분열. 7사이클마다 대화 도메인에 맞는 GitHub 레포를 클론해 패턴을 흡수
+  * 안전장치는 ast.parse 검증, 변이 전 백업, import 테스트 실패 시 롤백, 유전자당 500줄 상한·SHA256 중복 제거, 핵심 커널 파일 해시 봉인의 5겹. SQLite FTS5 6계층 메모리와 PAD 감정 모델이 변이 전략 선택을 좌우. Claude Code(/mue)·독립 CLI(python -m mue)·Gemini·Copilot CLI 지원. Python, MIT, 243 stars
 * [multi-agent-marketplace: Magentic-Marketplace: Simulate Agentic Markets and See How They Evolve](https://github.com/microsoft/multi-agent-marketplace)
   * [류내원 - MS, AI 에이전트 테스트 시뮬레이션 환경 공개..."대부분 조작에 취약" (출처: 뉴스) 연구자들이... | Facebook](https://www.facebook.com/won.wizard/posts/pfbid0dQ3BJ19GMsPwgEJqNRVX5GykuQRwKfKeE4HLr3EoxzQFjUf3s1h1q6BDv4JV7e1vl)
 * [MUXI — The Open-Source AI Application Server](https://muxi.org/)
@@ -1547,6 +1550,10 @@ Artificial Intelligence
   * [옴에이전트](https://om-agent.cn/)
 * [OmniScientist: AI Scientist Ecosystem](https://github.com/tsinghua-fib-lab/OmniScientist)
   * 청화대 FIB Lab의 AI 과학자 생태계 프로젝트. 192 stars
+* [OmniSeek: your agent seeks what search can't find](https://battam1111.github.io/omniseek/)
+  * [omniseek: Your agent seeks what search can't find. A self-hosted perception MCP server that transcribes speech, reads behind logins, sees images and video frames, crosses languages, and remembers | Battam1111](https://github.com/Battam1111/omniseek)
+  * 검색 엔진이 색인한 텍스트 페이지에서 멈추는 에이전트에게 감각을 붙여 주는 자체 호스팅 MCP 서버. 로컬 이중언어 ASR로 팟캐스트·영상 음성을 받아쓰고, 이미지·영상 프레임을 보고, 내 계정으로 로그인 뒤 포럼·댓글 스레드를 읽고(기본 꺼짐), 중국어 질의로 영어 결과를 찾는 식으로 언어를 넘음. 영구 검색 메모리와 출처가 추적되는 증거 그래프로 기억
+  * 내부에 모델·에이전트 루프 없이 도구만 제공(omniseek_search·read·view·transcribe, 논문 인용망·저자 식별, 새 소식만 알려주는 sensor, 소스 승인·퇴출 curator 등 18개). Docker로 127.0.0.1에 bearer 토큰과 함께 띄우며 stdio 모드도 지원. Python, Apache-2.0, 74 stars
 * [oc (only-cli): Turn any website into a compact CLI tailored for AI agents. Browse the web in hundreds of tokens, not tens of thousands](https://github.com/only-cli/oc)
   * [only-cli — Browse the web in tokens, not pages](https://only-cli.com/)
   * 웹페이지를 raw HTML 대신 번호가 매겨진 컴팩트 뷰로 렌더링해 AI 에이전트가 토큰을 아끼며 브라우징하게 하는 CLI. `oc open <url>`이 수만 토큰짜리 페이지를 수백 토큰으로 압축(기본 500토큰 예산, raw 대비 ~45×), open·do·find·read·next·raw 명령으로 URL 직접 처리 없이 탐색. HN·Reddit·GitHub·X·LinkedIn·DuckDuckGo·Stack Overflow 등 사이트 단축키, JSON 엔드포인트도 페이지로 취급, 세션별 렌더 캐시(~/.only-cli), 프록시 지원. Claude Code·Codex·Cursor 등 스킬/플러그인으로 설치. Node 20+, `npm i -g @only-cli/oc`(또는 npx). JS 렌더링·로그인·강한 봇차단 페이지는 아직 미지원, 쓰기(fill/submit)는 예정. MIT
@@ -1681,6 +1688,10 @@ Artificial Intelligence
     * [Pi Durable - 중단된 작업을 이어가는 AI 에이전트 하네스 | GeekNews](https://news.hada.io/topic?id=34641)
     * Pi 1.0과 함께 공개한 실험 패키지. 한 사람이 터미널에서 쓰는 Pi 코딩 에이전트는 그대로 두고, 어디서든 실행되고 여러 접점에서 접근하며 무한히 긴 대화를 지원하고 치명적 장애를 견디며 여러 사람이 같은 에이전트를 조종하는 애플리케이션용 하네스를 별도로—코딩 에이전트도 만들 수 있지만 대체는 아님. 하네스 정의: 저장소 + LLM 대화를 병렬 실행하는 장치 + 도구 + 실행 환경, 모든 동작은 task. 테스트 제외 약 15,000줄(GPT 15만·Claude 25만 토큰)이라 에이전트가 소스 전체를 이해 가능
     * 저장소 백엔드(메모리·SQLite·JSONL, 적합성 테스트·벤치마크 포함, Node API 미사용이라 Bun·Cloudflare Durable Object에서도) 위에서 작업 집합만 메모리에 유지. 매 task가 체크포인트를 남겨 노트북 절전·컨테이너 재배포·OOM 후 새 프로세스가 같은 저장소를 열어 미완료 작업을 이어감—중단된 모델 요청 재전송(부분 응답은 aborted 표시), 도구 호출은 안전한 경우만 재실행, requestId로 제출 exactly-once. 대화는 부모 기록을 복사 없이 참조해 어느 지점에서든 fork(Slack 채널=대화, 스레드=fork), 대화별 모델·사고 수준·확장·도구·지침·cwd 분리, 서브에이전트는 별도 대화로 몇 줄에 구현. 실행 중 코드를 바꿔도 다음 호출부터 적용. `@earendil-works/pi-durable`·`pi-ai`·`chord`, MIT
+  * [pi-gateway: Run Pi on a VPS as a background process and chat with it on Telegram | alejandro-ao](https://github.com/alejandro-ao/pi-gateway)
+    * [Build Your Own Open-Source Dots with Pi and Telegram - Hugging Face - YouTube](https://www.youtube.com/watch?v=HU03WDFB_tQ)
+    * Pi 코딩 에이전트 세션을 오래 띄워 두고 Telegram으로 대화하게 해 주는 게이트웨이. 장기 실행 프로세스가 Telegram 대화를 Pi JSONL 세션 파일에 SQLite로 매핑하고, 에이전트 기록의 원본은 Pi가 유지. `uv tool install`로 설치. Python, 12 stars
+    * 영상: Hugging Face의 Alejandro AO가 OpenAI dots 같은 상시 실행 AI 비서를 오픈소스로 만드는 21분 튜토리얼. VPS나 DGX Spark 같은 상시 머신에 에이전트 워크스페이스·스킬·Google Workspace CLI 접근을 구성하고, 개인 비서와 Kimi K3 기반 리서치 에이전트를 Telegram으로 시연. 다른 메신저 연동·자동화 확장은 데모 범위 밖
   * [pi-herdsman: Asynchronous Pi subagents and agent fleet orchestration for parallel coding agents with nested delegation, background work, and supervision in herdr](https://github.com/boadij/pi-herdsman)
     * [pi-herdsman · Packages · Pi](https://pi.dev/packages/pi-herdsman)
     * Pi(코딩 에이전트 대화 담당)와 herdr(프로세스·pane·워크스페이스·worktree 배치 담당) 사이의 오케스트레이션 계층—독립 Pi 세션들을 위임·소유·감독·프로젝트 오케스트레이션으로 묶어 백그라운드 에이전트 하나에서 브랜치 기반 병렬 프로젝트 작업까지. 일반 Pi 세션=Lead가 Agent들을 소유하고(중첩 위임 가능), 독립 프로젝트 작업은 Lead가 Manager 모드로 Lead들을 조정, 선택적 런타임 전역 감독자 Chief(감독: Chief→Manager→Lead, 소유: Lead→Agent). 소유 세션들의 Pi 네이티브 토큰·비용 집계, `/agents` 관리 화면, 자기 에이전트 정의·모델·스킬·확장 그대로 사용
@@ -2011,6 +2022,11 @@ Artificial Intelligence
   * [이제는 더욱 중요한 '컨텍스트'를 설계해야 할 때](https://www.linkedin.com/feed/update/urn:li:activity:7343801990730104832/) AI 에이전트를 도입하기 전 '워크플로 정리'가 중요
   * [컨텍스트 엔지니어링: 왜 내 에이전트는 생각대로 움직이지 않을까? - hyunup backlog](https://hyunup.inblog.io/context-engineering)
     * [컨텍스트 엔지니어링: 왜 내 에이전트는 생각대로 움직이지 않을까? - hyunup backlog | Hyunjun Jeon](https://www.linkedin.com/posts/rascal-hyunjun_%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81-%EC%99%9C-%EB%82%B4-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EB%8A%94-%EC%83%9D%EA%B0%81%EB%8C%80%EB%A1%9C-%EC%9B%80%EC%A7%81%EC%9D%B4%EC%A7%80-%EC%95%8A%EC%9D%84%EA%B9%8C-hyunup-activity-7381491057080979456-zNrX)
+* [2609.37725 Context Language Models](https://arxiv.org/abs/2609.37725)
+  * [context-language-models | facebookresearch](https://github.com/facebookresearch/context-language-models)
+  * [Superintelligence Labs & MIT invent new LLM: The CLM - Discover AI - YouTube](https://www.youtube.com/watch?v=4GIFaeCtEio)
+  * UW·Meta Superintelligence Labs·MIT·Trillium Labs. 외부 하네스가 컨텍스트를 자르고 요약하는 대신, 모델이 컨텍스트를 하나의 파일로 보고 자유롭게 고쳐 쓰며 스스로 관리하는 언어 모델. 여러 에이전트의 컨텍스트가 파일로 공존하는 멀티 에이전트 구조로도 자연스럽게 확장
+  * 기존 모델로 zero-shot 구성만 해도 최신 컨텍스트 관리 전략보다 BrowseComp-Plus 정확도 11.4%p↑·FLOPs 21.5%↓, 12시간 EdgeBench 점수 5%↑·FLOPs 59%↓. 스킬 최적화 루프로 진화시킨 자연어 지시로 조정(최대 35.9점↑), 온라인 RL로 Qwen3.5-9B BrowseComp-Plus 47.6%↑, 서빙용 Suffix Cache Reuse로 SGLang 대비 서버 연산 35%↓
 * [Agent-Skills-for-Context-Engineering: A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)
   * [GitHub 스타 1만 개 찍은 스킬셋. 에이전트 만드는 순서가 바뀝니다 | Jeongmin Lee](https://www.linkedin.com/posts/jyoung105_github-%EC%8A%A4%ED%83%80-1%EB%A7%8C-%EA%B0%9C-%EC%B0%8D%EC%9D%80-%EC%8A%A4%ED%82%AC%EC%85%8B-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EB%A7%8C%EB%93%9C%EB%8A%94-%EC%88%9C%EC%84%9C%EA%B0%80-%EB%B0%94%EB%80%9D%EB%8B%88%EB%8B%A4-share-7432415927805157376-nnZs)
 * [Awesome-Context-Engineering: 🔥 Comprehensive survey on Context Engineering: from prompt engineering to production-grade AI systems. hundreds of papers, frameworks, and implementation guides for LLMs and AI agents](https://github.com/Meirtz/Awesome-Context-Engineering)
@@ -2347,6 +2363,9 @@ Artificial Intelligence
   * AI로 이슈·PR 생성 비용은 0에 수렴했는데 읽고 재현하고 고치는 사람 비용은 그대로라는 메인테이너 번아웃 문제를, GitHub Actions 안의 격리된 AI 서브에이전트(자동 버그 재현·패치 검증·프리뷰 릴리스)로 해결—**수동 이슈 검증을 대체해 Astro 오픈 이슈 85% 감소**(200+→~30, 일괄 종료 없이). 출발점은 거창한 개발 자동화가 아니라 가장 소모적인 반복 업무인 이슈 트리아지 하나
 * [Ralph로 불리는 장시간 돌아가는 AI 사용법은 사실은 "Software Factory"입니다 | GB Jeong | LinkedIn](https://www.linkedin.com/posts/gb-jeong_ralph%EB%A1%9C-%EB%B6%88%EB%A6%AC%EB%8A%94-%EC%9E%A5%EC%8B%9C%EA%B0%84-%EB%8F%8C%EC%95%84%EA%B0%80%EB%8A%94-ai-%EC%82%AC%EC%9A%A9%EB%B2%95%EC%9D%80-%EC%82%AC%EC%8B%A4%EC%9D%80-software-activity-7436538747371888640--N5k)
   * Ralph가 바이브코딩과 다른 이유—오래 도는 루프여서가 아니라 **운영 중인 소프트웨어에 외부 자극(새 기획·유저 피드백)이 오면 자동으로 개선되는 시스템**이라는 재정의. Geoffrey Huntley의 Latent Patterns 사례: 제품 안 designer mode로 제품이 제품을 만들고 Cursor Cloud Agent가 risk matrix를 보고 자동 배포, "I'm on the loop, not in the loop"
+* [What It Actually Takes to Build a Software Factory — Tereza Tížková, Factory - AI Engineer - YouTube](https://www.youtube.com/watch?v=vGCJ7diEtrw)
+  * EY·Adobe 등에 소프트웨어 팩토리를 운영하는 Factory의 Tereza Tížková. 소프트웨어 팩토리는 코딩 에이전트 떼가 아니라 신호 수집·우선순위·구현·검증·개선까지 전체 생애주기를 자율로 돌리는 것이고, 코드 작성은 쉬운 부분이라는 정의
+  * 세 원칙: 팀의 기존 방식에 맞추고 모델을 자동 라우팅(보수적 벤치마크로 약 25% 절감), 몇 시간~몇 주 도는 Missions(실제 고객 16시간 사례)에서 워커를 군집이 아닌 순차로 돌려 매번 새 컨텍스트로 시작하고 자기가 안 쓴 코드를 검증하는 validator(앱을 직접 클릭해 보는 것 포함), 지연 컨텍스트 엔진으로 토큰 50% 이상 절감과 agent readiness 점검. 사람에게 남는 일은 어떻게가 아니라 무엇을 만들지 정하는 것
 
 # Artificial Neural Networks
 * [A Gentle Introduction to Artificial Neural Networks](https://theclevermachine.wordpress.com/2014/09/11/a-gentle-introduction-to-artificial-neural-networks/)
@@ -4634,6 +4653,9 @@ Artificial Intelligence
   * [NVIDIA Open Agent Safety Platform: Secure AI Agents](https://www.nvidia.com/en-us/solutions/ai/agent-safety/)
   * [Nvidia, AI 에이전트의 접근과 행동을 제한하는 안전 플랫폼 공개 | digitalbourgeois](https://digitalbourgeois.tistory.com/3716)
     * 2026-09-28 공개된 Open Agent Safety Platform(파트너와 만든 개방형 레퍼런스 디자인)—모델에 안전하게 행동하도록 학습시키는 것만으로는 최근 샌드박스 이탈 사고들처럼 접근·행동을 통제할 수 없다는 문제의식에서, 실행 환경에서 에이전트가 업무에 필요한 대상에만 접근하게 제한하고 네트워크 수준에서 감시·거버넌스. Jensen Huang은 "에이전트용 브라우저"에 비유
+  * [How to Secure & Run AI Agents with NVIDIA OpenShell - NVIDIA Developer - YouTube](https://www.youtube.com/watch?v=GYYP-eW58ug)
+    * 이미 돌리는 에이전트를 코드나 하네스를 바꾸지 않고 OpenShell 안에 넣는 5분 튜토리얼. 오케스트레이터가 런타임을 먼저 만들고 그 안에서 하네스를 띄우면 도구·MCP 서버·서브에이전트가 같은 정책·자격 증명·감사 통제를 물려받음. 파일시스템·네트워크·프로세스 정책을 바이너리·목적지·메서드·경로 단위로 설정하고, 막힌 동작에 대한 범위 한정 정책 변경을 승인하면 샌드박스 재시작 없이 반영
+    * 상한선 안의 요청은 자동 승인하되 에이전트가 스스로 권한을 넓히지 못하게 하는 정책 자문, 부모 한도를 넘지 못하는 단기 서브에이전트 런타임, 팀 단위 샌드박스 그룹·Kubernetes 배포·고가용성·중앙 로그와 감사 기록, 정책 파서·컴퓨트 드라이버·자격 증명 저장소용 확장 API까지
   * 파일 읽기·패키지 설치·API 호출·자격 증명 사용을 허용하되 데이터·비밀·네트워크에 무제한 접근은 주지 않는 자율 에이전트 함대용 런타임—에이전트별로 만질 수 있는 것을 정책으로 선언하면 커널을 계측해 모든 파일 접근·시스템 콜·네트워크 연결에 런타임 집행(격리 샌드박스, 나가는 연결마다 정책 검사, 실제 자격 증명은 승인된 엔드포인트로 가는 요청에만 주입해 에이전트는 못 봄). 정책 변경은 적용 전 형식 검증으로 새 호스트 접근·새 API 메서드 같은 위험한 권한 확대를 표시해 사람 검토 대기. 게이트웨이·슈퍼바이저·샌드박스 구조, Linux·Apple Silicon macOS·WSL2(실험), Docker·Podman·호스트 가상화. 0.1.x 안정 릴리스. Rust, Apache-2.0, 14.7k stars
 * [OpenTor: Tor/Dark Web access skill for AI agents (OpenCode & Claude Code)](https://github.com/vichhka-git/OpenTor)
   * 12개 다크웹 엔진 검색, .onion 사이트 스파이더, IOC 추출. Orchestrator-conductor 아키텍처, 외부 LLM 의존성 제로
@@ -5136,6 +5158,8 @@ Artificial Intelligence
   * [Google AI Edge - 온디바이스 크로스플랫폼 AI | GeekNews](https://news.hada.io/topic?id=21249)
 * [Graft: the context layer for large codebases](https://trailhq.com/graft)
   * [Graft: Turbocharge Claude Code, Cursor, Codex, Gemini & every coding agent](https://github.com/trailhq/Graft)
+  * [Github Top Trending Tool Just Fixed The AI Agent’s Biggest Problem - AI LABS - YouTube](https://www.youtube.com/watch?v=cyIWQHYoUg8)
+    * 아래 한영자막 영상의 원본으로 보이는 13분 영상. 벡터 검색은 "계정 생성"과 "계정 삭제"를 모두 비슷하게 잡지만 Graft의 맵은 어느 부분이 실제로 무엇을 쓰는지 기록한다는 비교. `graft init`이 프로젝트 안에 Claude 스킬을 만들고, 세션 시작 시 지시 전달·프롬프트마다 관련 위치 최대 3곳 첨부·파일 수정 후 맵 갱신의 hook 3개를 설치. 기존 프로젝트는 `graft build`로 매핑
   * [한영자막 GitHub 1위 트렌딩 도구가 해결한 AI 에이전트의 치명적인 문제입니다 - YouTube](https://www.youtube.com/watch?v=VCQPCvN4uiA)
   * 레포를 서로 링크된 평문 영어 페이지 그래프로 매핑해 git에 커밋—Claude Code·Cursor·Codex 등이 콜드 상태에서 grep을 반복하는 대신 방향을 잡고 시작. 도구 호출 46% 감소, 레이턴시 60% 감소, 정확도 손실 없음. TypeScript, 8.5k stars
     * Tech Bridge 영상: 에이전트가 코드 수정 전에 터미널 검색을 반복하며 토큰을 낭비하고 컨텍스트 한도에 걸리는 문제를 지식 그래프 인덱싱으로 해결하는 방식 소개
@@ -7290,6 +7314,9 @@ Artificial Intelligence
     * [미래의 코딩은 다르다! 구글 랩스가 제시하는 선제적 AI 에이전트 Jewels 공개 - YouTube](https://www.youtube.com/watch?v=jBdMaUpLjAQ)
       * [구글 랩스의 선제적 AI 에이전트 Jewels: 미래 코딩의 변화와 개발자 경험 혁신](https://livewiki.com/ko/content/future-coding-ai-agents-jewels)
 * [Junie, the AI coding agent by JetBrains](https://www.jetbrains.com/junie/)
+* [Kanzai: kanban board for coding agents](https://kanzai.io/)
+  * 코딩 에이전트용 로컬 칸반 보드 데스크톱 앱(macOS·Windows·Linux, 무료, 계정 불필요). 카드를 Development 열로 옮기면 에이전트가 시작되고, Approved로 옮기면 머지 큐가 돈다. 카드마다 별도 세션·worktree·브랜치를 써서 여러 에이전트가 같은 레포를 병렬로 고쳐도 충돌 없음
+  * 앱 안에서 diff를 보고 줄 단위 코멘트를 한 번에 에이전트에게 되돌려 보내고, 머지 순서·리베이스를 직접 정함. Jira·Linear 티켓을 MCP로 읽어 코드에 맞는 카드로 쪼개는 프로젝트 어시스턴트, 열마다 PR 생성·배포·명령 실행 같은 동작 지정, 카드 의존 관계, tmux로 앱을 닫아도 세션 유지, QR로 휴대폰에서 원격 승인(종단간 암호화)
 * [Kimi Code CLI is your next CLI agent | Moonshot AI](https://moonshotai.github.io/kimi-cli/zh/)
   * [kimi-cli: Kimi Code CLI is your next CLI agent](https://github.com/MoonshotAI/kimi-cli)
   * [이상선 - Kimi CLI | Facebook](https://www.facebook.com/lsszz1/posts/pfbid02Hbwmn37AWYvd5giTm8P3M1wb6y8y6LVervBmyi5Fu3JJwDoBQoBZ8BePHSzN6DcSl)
