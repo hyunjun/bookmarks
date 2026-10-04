@@ -693,6 +693,11 @@ Vision
   * [Self-Hosted Paperless-ngx + Optional Local AI: Private Documents and Improves OCR & Search (Full Setup) | Techno Tim](https://technotim.com/posts/paperless-ngx-local-ai/)
   * [Paperless-ngx: Keep Your Documents Private (Optional Local AI OCR) - YouTube](https://www.youtube.com/watch?v=NMAwHjleqHg)
 * [surya: OCR and line detection in 90+ languages](https://github.com/VikParuchuri/surya)
+* [TeleOCR: Navigating Document Parsing Across Digital and Camera-Captured Documents](https://github.com/caipeng328/TeleOCR)
+  * [2608.12898 NaviDC-OCR: Navigating Document Parsing Across Digital and Camera-Captured Documents](https://arxiv.org/abs/2608.12898)
+  * [This Local 1.2B OCR Model Beats GPT-5.2 (and Runs on 8GB GPU) — TeleOCR - Prompt Engineer 48 - YouTube](https://www.youtube.com/watch?v=6TnE5pMVbCQ)
+  * China Telecom AI 팀의 약 1.2B 문서 파싱 VLM(Qwen2.5-VL 인코더 + Qwen3-0.6B, Apache-2.0). NaviDC-OCR에서 이름을 바꿈. 디지털 문서와 카메라로 찍은 휘어진·기울어진 문서를 하나의 모델로 처리. 변형 인지 학습, 곡률 기반 Douglas-Peucker 샘플링(CGDP)으로 다각형 레이아웃 표현, 수식 문법과 표 구조를 따로 배우는 학습, 여러 노드 합의 투표로 만든 의사 라벨과 이미지 간 자기 검증 데이터 엔진
+  * OmniDocBench v1.6 96.87(Gemini 3 Pro·GPT-5.2·Qwen3-VL-235B보다 높음), Wild-OmniDocBench 88.53, PureDocBench 78.41, ICDAR 2026 Sci-ImageMiner 1위. 영상은 RTX 4060 노트북(VRAM 8GB 중 약 2.5GB 사용)에서 기울어진 영수증·구겨진 수학 페이지·손글씨 등을 직접 돌려 실패 사례까지 보여 주고 Gradio 앱으로 감쌈. 커뮤니티 GGUF·llama.cpp 지원, 309 stars
 * [Texo: A minimalist SOTA LaTeX OCR model with only 20M parameters, running in browser. Full training pipeline available for self-reproduction. | 超轻量SOTA LaTeX公式识别模型，仅20M参数量，可在浏览器中运行。训练全流程代码开源，以便自学复现。](https://github.com/alephpi/Texo/)
 * [Unlimited-OCR: long-horizon document parsing OCR model by Baidu](https://github.com/baidu/Unlimited-OCR)
   * 바이두의 장문 문서 파싱용 OCR 비전-언어 모델. DeepSeek-OCR을 개선해 긴 문서를 한 번에(one-shot) 처리, 단일 이미지·멀티페이지·PDF 지원. 컨텍스트 32,768 토큰, Transformers/vLLM/SGLang 추론, Gundam·base 모드. 11.2k stars
