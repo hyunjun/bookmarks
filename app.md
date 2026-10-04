@@ -204,6 +204,9 @@ App
     * [TIL: qpdf로 pdf 파일에 걸린 암호 해제하기 - rein's world](https://rein.kr/posts/2024-08-18-til-qpdf-decrypt/)
   * [sioyek: Sioyek is a PDF viewer designed for reading research papers and technical books](https://github.com/ahrm/sioyek)
   * [스몰PDF 리뷰 : 기본에 충실한 온라인 PDF 편집 도구 - ITWorld Korea](https://www.itworld.co.kr/news/233729)
+* [PhreshOS · The self-hosted system for web apps](https://phreshos.com/)
+  * [system: An open-source, self-hosted system for apps built with web technologies](https://github.com/phreshos/system)
+  * 내 머신에 설치하면 웹 기술로 만든 Program들의 서버를 계속 돌려주고 브라우저 Desktop에서 쓰게 해주는 셀프호스팅 시스템—System이 각 Program에 실행 장소·단일 로그인·Program 간 통신(ask·publish·listen)·저장소·권한을 제공해 Program은 자기 로직만 가짐. 파일 관리자·설정·배경화면까지 Desktop의 모든 것이 System 위의 Program. AI 에이전트가 `phresh` CLI·SDK로 사용자와 동시에 같은 Program들을 사용. `npm i -g @phreshos/cli && phresh system install`(macOS·Linux·Windows, 기본 localhost:4300), 1시간짜리 라이브 데모. TypeScript, MIT, 80 stars
 * [pipefy - Organize and run all your processes in one place](http://www.pipefy.com/)
 * [Pipes](https://www.pipes.digital/)
   * [Pipes - Yahoo Pipes의 정신적 후계자 | GeekNews](https://news.hada.io/topic?id=15637)
@@ -324,6 +327,10 @@ App
   * AI 에이전트 인프라(MCP·A2A·게이트웨이·추론·벡터스토어)를 겨냥한 오픈소스 레드팀 프레임워크. 정찰·크리덴셜 탈취·모델 exfiltration·포이즈닝·공격경로 분석을 수행하고 모든 공격 경로를 Neo4j 그래프로 증명. "에이전틱 스택의 BloodHound". Go, Apache-2.0
 * [AI-Infra-Guard: A full-stack AI Red Teaming platform](https://github.com/Tencent/AI-Infra-Guard)
   * [GitHub Tencent/AI-Infra-Guard | 박상길](https://www.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_github-tencentai-infra-guard-a-full-stack-share-7496539710383730688-PpNJ/)
+  * [AI-Infra-Guard Documentation | Tencent](https://tencent.github.io/AI-Infra-Guard/)
+  * [AI-Infra-Guard - AI 인프라와 에이전트를 점검하는 오픈소스 레드팀 플랫폼 | GeekNews](https://news.hada.io/topic?id=34645)
+  * Tencent Zhuque Lab의 풀스택 AI 레드팀 플랫폼 A.I.G—실행 중인 Ollama·ComfyUI·vLLM·n8n 등 주소를 넣으면 구성요소·버전을 식별해 알려진 취약점 탐지(v4.6 기준 146개 AI 구성요소·2,000+ CVE 규칙), MCP 서버·Agent Skill은 GitHub URL이나 소스로 도구 오염·자격증명 유출·명령 주입·악성 코드·권한 상승 검사(.pyc 바이트코드 우회·charset smuggling 방어), Agent Scan은 Dify·Coze 등 워크플로를 여러 에이전트로 자동 평가해 도구 오용·데이터 유출 탐색, OpenClaw 전용 ClawScan, 멀티턴 탈옥 평가(Many-Shot·PAIR·GOAT·ActorAttack), LLM API 바꿔치기·백도어를 잡는 블랙박스 감사
+  * 웹 UI + API + skill-scan·mcp-scan·agent-scan 독립 CLI, 식별·취약점·MCP 규칙과 탈옥 데이터셋을 파일 기반 플러그인으로 확장, Docker(Linux·macOS·Windows). 자체 인증이 없어 내부 환경 전용. Python, Apache-2.0, 6.7k stars
   * 텐센트의 풀스택 AI 레드팀 플랫폼. Agent Scan·Skills Scan·MCP Scan·AI Infra Scan과 LLM 탈옥(jailbreak) 평가로 AI 생태계 보안 점검. Python, 5.2k stars
 * [AI-ML Pentest Academy — NEURAL BREACH (AI/ML roadmap for pentesters)](https://anmolksachan.github.io/LLMPenTestHub/ai-ml-roadmap-for-pentester.html)
   * [AI-ML-Free-Resources-for-Security-and-Prompt-Injection: AI/ML Pentesting Roadmap for Beginners](https://github.com/anmolksachan/AI-ML-Free-Resources-for-Security-and-Prompt-Injection)
@@ -2118,6 +2125,11 @@ App
     * 80+ 목적지 : S3, Dropbox, FTP, 구글드라이브, Imgur, Twitter, URL단축 및 공유 → 클립보드/폴더 감시하다 자동 업로드 가능 (확장자별 필터)
     * 워크플로우 지원, 캡쳐후/업로드후 할 일 지정
     * 강력한 이미지 편집/이펙트 기능
+  * [Shotluma — Free AI App Store Screenshot Generator](https://shotluma.com/)
+    * [shotluma: Open-source, local-first AI App Store screenshot editor](https://github.com/realZachi/shotluma)
+    * [앱 출시할 때 스크린샷, 'Shotluma'로 빠르게 만들기 | 요즘IT](https://yozm.wishket.com/magazine/detail/3973)
+    * 앱 설명 몇 문장과 원본 캡처를 넣으면 AI가 여러 화면에 일관된 스토리로 App Store 스크린샷 세트를 구성—비트맵을 뿜는 게 아니라 에디터 API로 텍스트·도형·그라디언트·프레임을 만들어 모든 레이어가 생성 후에도 편집 가능. iPhone 17 Pro 7종 목업(원근·코너 마스킹), 템플릿 4종, 도형·아이콘·배경 편집, 1290×2796·1242×2688 PNG를 규격별 폴더로 ZIP 내보내기. 계정·서버 없이 브라우저 IndexedDB에 로컬 저장, Google·Qwen·OpenAI·Anthropic·xAI 키를 직접 넣어 사용. TypeScript, MIT, 138 stars
+    * 요즘IT 사용기: 가입 없이 바로 시작, 꼭 필요한 기능만 있어 학습 시간이 0에 수렴, 1인 메이커·소규모 팀에 적합. 규격·기본 배치는 도구에 맡기고 핵심 메시지·화면 순서·브랜드 디테일은 사람이 판단해야 하며, 글꼴·간격을 엄격히 맞춰야 하면 Figma가 나을 수 있다는 단서
   * Snagit
 * [Share Mouse and Keyboard](http://www.keyboard-and-mouse-sharing.com/)
 * [Shottr - 맥에서 사용하는 강력하지만 가벼운 스크린샷 캡쳐 앱 (무료) ~ CreSeed](https://creseed.blogspot.com/2022/08/shottr.html)
@@ -3894,6 +3906,11 @@ App
     * [Stop Using Tailscale. Use Open Source Instead. - YouTube](https://www.youtube.com/watch?v=7Jja20nWcqo)
       * DevOps Toolbox. Tailscale 컨트롤 서버를 셀프호스팅해 메시 네트워크를 직접 통제하는 방법
     * Tailscale 컨트롤 서버의 오픈소스 셀프호스팅 구현체. Go, 43k stars
+  * [Tailcat | Tailscale](https://tailscale.com/tailcat)
+    * [tailcat: like netcat, but over Tailscale's data plane, without Tailscale's control plane](https://github.com/tailscale/tailcat)
+    * [Tailcat: Secure Connections Without the Setup | Tailscale - YouTube](https://www.youtube.com/watch?v=pA8e1uX195A)
+      * 13분 데모—단순 연결부터 HTTP 서버 접근·파일 전송·SSH·공개키 SSH 인증, 직접 연결이 안 될 때의 동작, 다른 프로젝트에 라이브러리로 내장하는 사례, 브라우저 실행까지
+    * "Tailscale without Tailscale, by Tailscale"—Tailscale 오픈소스 조각(magicsock 데이터 플레인)을 조합해 컨트롤 플레인 없이 netcat처럼 쓰는 도구. 두 머신 사이 WireGuard 종단간 암호화 터널을 DERP로 부트스트랩한 뒤 NAT 홀펀칭으로 직접 P2P UDP로 승격(실패 시 DERP 릴레이), 연결 메타데이터는 대역 외로 원하는 방식대로 교환. 서버 쪽이 받은 짧은 tailcat 주소를 클라이언트에 넘기면 연결. Tailscale 계정·root 권한 불필요(라우팅·DNS 변경 없음), 무료 레이트 리밋 DERP 또는 자체 derper. CLI+Go 라이브러리, WebAssembly 브라우저 데모. Go, BSD-3-Clause, 8.1k stars
   * [We're making Tailscale faster | Tailscale Blog](https://tailscale.com/blog/making-tailscale-faster)
     * [Tailscale을 더 빠르게 만들기 | GeekNews](https://news.hada.io/topic?id=34222)
     * 패킷 메모리 처리·병렬 처리 개선으로 앱 커넥터·서브넷 라우터·출구 노드의 처리량을 높이고 지연을 줄이는 작업—Linux·Android에서 작은 패킷을 별도 64KiB 버퍼로 복사하지 않고 수신 버퍼 안에서 처리(multi-queue, writev, netmap 캐싱)
