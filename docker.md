@@ -2743,6 +2743,9 @@ Docker
 * [OpenChoreo — Build your Internal Developer Platform](https://openchoreo.dev/)
   * [openchoreo: An internal developer platform for Kubernetes](https://github.com/openchoreo/openchoreo)
   * [OpenChoreo 1.0 Brings AI Agents and GitOps to Kubernetes Developer Platforms | InfoQ](https://www.infoq.com/news/2026/04/openchoreo-10/)
+  * [How to build an agent-ready IDP with open source tools - OpenChoreo - Platform Engineering - YouTube](https://www.youtube.com/watch?v=HFbPLXWfp9s)
+    * WSO2 VP이자 OpenChoreo 공동 메인테이너인 Sameera Jayasoma·Lakmal Warusawithana의 57분 세션. 대부분의 IDP는 개발자·에이전트와 하부 도구를 분리하는 중간 계층(platform contract)을 건너뛰고, 에이전트가 들어오면 그 엉성한 중간이 더 큰 문제가 된다는 진단. 직접 구축·도입·SaaS 구매 비교, 도구보다 아키텍처가 중요한 이유, IDP의 3계층 구조
+    * 에이전트는 워크로드이자 사용자라는 이중 역할. 워크로드로서는 Agent Sandbox·Agent Substrate 위에서 돌리고, 사용자로서는 플랫폼 가드레일을 우회하지 않는 행위자로 다룸. 에이전트형 플랫폼도 결국 IDP라는 결론
   * Kubernetes 기반 오픈소스 IDP—1.0 출시와 함께 CNCF 프로젝트로 승인, AI 에이전트·GitOps 통합. Go, Apache-2.0, 1.6k stars
 * [opencost: Cross-cloud cost allocation models for Kubernetes workloads](https://github.com/kubecost/opencost)
   * [OpenCost: Open Source Collaboration on Kubernetes Cost Standards – The New Stack](https://thenewstack.io/opencost-open-source-collaboration-on-kubernetes-cost-standards/)
