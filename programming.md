@@ -1069,6 +1069,8 @@ Programming
 * [Reconstructing the Simulmatics Code](https://storymaps.arcgis.com/stories/1a21155318ee48c3bd407b993d4a2336)
   * [what the Simulmatics Corporation actually did has been solved](https://www.linkedin.com/posts/adampool_reconstructing-the-simulmatics-code-activity-7394472644504363008-3-Qv)
 * [알아도 도움안되는 얕은 개발 지식들 - Google Slides](https://docs.google.com/presentation/d/1T8MbP89hY3EEfxft7H2qtmOfosTerhaGtoZpk8OYSso/mobilepresent?slide=id.p)
+* [Geoffrey Litt: Dynamic Documents as Personal Software - Recurse Center - YouTube](https://www.youtube.com/watch?v=MccJdr61xnc)
+  * 문서와 애플리케이션을 별개로 보지 말고, 문서의 단순함과 앱의 힘을 합친 동적 문서로 더 많은 사람이 자기만의 고쳐 쓸 수 있는(malleable) 소프트웨어를 만들게 하자는 Recurse Center Localhost 강연(56분). HyperCard 같은 옛 시스템의 교훈, Ink & Switch의 동적 여행 플래너 Embark 시연, 현재 일하는 Notion에서의 최신 실험 미리보기
 
 # Agile, Scrum
 * book
@@ -1688,6 +1690,8 @@ Programming
 * [7 Amazing Terminal API Tools You Need To Try - YouTube](https://www.youtube.com/watch?v=eyXxEBZMVQI)
   * cURL, xh, Nushell http, Httpie, Curlie, Kulala nvim, Posting
 * [안전한 프로토콜의 설계 - Google Slides](https://docs.google.com/presentation/d/15edIsK14U7iVnDEcTV6epv68SN6PY56zecElEyZXsuI/edit#slide=id.p) 결제 API 설계 예시
+* [8 API Design Patterns Every Senior Developer Should Know - Visualcoders - YouTube](https://www.youtube.com/watch?v=jCs7ld1ROcw)
+  * 문제를 먼저 보여주고 그것을 푸는 패턴을 시각적으로 설명하는 10분 영상. 리소스 중심 설계, 페이지 번호 대신 커서 기반 페이지네이션, 필터링·필드 선택, 결제가 두 번 되는 버그를 막는 멱등성 키, BFF(Backend for Frontend), API 게이트웨이, 비동기 API, 클라이언트를 깨뜨리지 않는 버전 관리의 8가지
 * [Architecting and Evaluating an AI-First Search API](https://research.perplexity.ai/articles/architecting-and-evaluating-an-ai-first-search-api)
   * [Architecting and Evaluating an AI-First Search API | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/6021813/5910775)
 * [Apidog An integrated platform for API design, debugging, development, mock, and testing](https://apidog.com/)
