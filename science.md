@@ -38,15 +38,26 @@ Science
   * cs-video-courses 자매 목록—수학·물리·화학·생물 등 과학 대학 강의 중 영상 공개분 모음. 4.2k stars
 
 # AI
-* [초파리가 마인크래프트를 한다고? 뇌를 복제한 게 아닙니다, 훨씬 무서운 일이 벌어진 겁니다 | fruitspop | Facebook](https://www.facebook.com/fruitspop/posts/pfbid02K96Q5ks7YQkSrYMFT8uPnYHktgfRkrbFJi9futgMc9o8eAQJGMK8HyBns2Vb8qyNl)
-  * "OpenAI Astra가 초파리 뇌를 복제해 마인크래프트를 시켰다"는 타임라인의 문장이 왜 틀렸는지, 그리고 9월 3일 같은 날 발표된 두 가지 일이 실제로는 그보다 더 흥미로운 이유
 * [Understanding the brain with AI-driven explanations and experiments | Microsoft Research](https://www.microsoft.com/en-us/research/blog/understanding-the-brain-with-ai-driven-explanations-and-experiments/)
   * [Microsoft turns LLM brain predictions into fMRI-tested explanations | insights.marvin-42](https://insights.marvin-42.com/articles/ai-fmri)
   * Microsoft·UC Berkeley·UCSF·Columbia의 generative causal testing(GCT). 해석 불가능한 언어-뇌 예측 모델을 짧은 언어 가설로 변환하고, LLM이 표적 자극(스토리)을 생성해 특정 뇌 영역이 예측대로 반응하는지 fMRI로 검증—AI 브레인 모델을 검증 가능한 과학 이론으로
-* [fly-cartpole: A fruit fly's flight-stabilisation circuit, wired from the MaleCNS connectome, balances CartPole as a reflex and tunes its own sensor gains | Curt-Park](https://github.com/Curt-Park/fly-cartpole)
-  * [fly-cartpole web viewer](https://curt-park.github.io/fly-cartpole)
-  * "초파리 뇌를 그대로 가져오면 CartPole을 풀 수 있을까"—성체 수컷 초파리 커넥톰 MaleCNS v1.0에서 비행 안정화 회로(5,459 뉴런)를 잘라내 Gymnasium CartPole-v1에 연결. 역전파로 학습한 인공신경망 없이 커넥톰에 기록된 연결 그대로 계산하고, 학습은 센서 게인 5개만 바꿈(매 에피소드 무작위 nudge 후 최근 기록을 넘었는지 보상 신호로 이동). 겹눈 위 ocelli가 막대 기울기를 몸의 롤로, 평형곤 halteres가 넘어지는 속도를, HS 세포가 카트 속도를 optic flow로 읽고 좌우 날개 차이로 밀 방향 결정, 랜드마크로 제자리 유지
-  * 결과(미사용 시드 20개): 배선만으로 튜닝 없이 평균 275.6스텝(막대를 떨어뜨린 적은 없고 트랙 이탈로만 종료), 센서 게인 3개 자가 튜닝 499.9, 랜드마크+커리큘럼 학습 500.0(2,000스텝 확장 시 트랙 이탈 0/200·중심 거리 0.12m). 웹 뷰어가 전체 뉴런을 브라우저에서 실시간 시뮬레이션하며 뒤에서 본 초파리 비행으로 같은 순간을 보여줌. 한국어 README 포함, Python
+* [Connectome - Wikipedia](https://en.wikipedia.org/wiki/Connectome)
+  * [Fly Connectome – Drosophila Connectomics Group, University of Cambridge](https://flyconnecto.me/)
+  * 커넥톰은 뇌 신경 연결의 전체 지도, 즉 "배선도". MRI로 얻는 뇌 영역 간 기능적 커넥톰(mm 단위)부터 전자현미경으로 개별 뉴런과 시냅스를 추적한 신경 커넥톰까지 해상도가 다양
+  * 케임브리지 Drosophila Connectomics Group(Greg Jefferis) 블로그. 초파리는 뇌와 신경삭 전체가 커넥톰으로 지도화된 유일한 동물로, FlyWire(성체 암컷 뇌) 논문 Nature 게재와 성체 초파리 커넥톰 생태계를 정리. 다음 목표로 이집트숲모기(Aedes aegypti) 뇌 전체 커넥톰 프로젝트 진행
+  * [초파리가 마인크래프트를 한다고? 뇌를 복제한 게 아닙니다, 훨씬 무서운 일이 벌어진 겁니다 | fruitspop | Facebook](https://www.facebook.com/fruitspop/posts/pfbid02K96Q5ks7YQkSrYMFT8uPnYHktgfRkrbFJi9futgMc9o8eAQJGMK8HyBns2Vb8qyNl)
+    * "OpenAI Astra가 초파리 뇌를 복제해 마인크래프트를 시켰다"는 타임라인의 문장이 왜 틀렸는지, 그리고 9월 3일 같은 날 발표된 두 가지 일이 실제로는 그보다 더 흥미로운 이유
+  * [YouTuber Uploads Digital Copy Of A Fly's Brain Into Minecraft, And Then It Got Weird | IFLScience](https://www.iflscience.com/youtuber-uploads-digital-copy-of-a-flys-brain-into-minecraft-and-then-it-got-weird-84636)
+    * [Jean K. Min - 1. 초파리 두뇌를 해독한다. 2. 클라우드에 업로드 한다. 3. 플라스틱 육신을 허한다. 4. 이제 당신이 영생할 차례인가 | Facebook](https://www.facebook.com/watch?v=2277163889804347)
+    * 유튜버 Ro0ney가 공개된 초파리 뇌 전체 배선도를 Minecraft에 넣어 게임 속 사건에 반응하게 한 영상 소개. 제목은 "의식 있는 뇌를 넣었다"지만 실제로는 그렇지 않음. 첫 단계로 시야에서 커지는 검은 사각형(다가오는 파리채)으로 "공포"를 넣자 유일한 제어 출력이 발화해 제자리를 돌다 뛰어오름. Black Mirror "USS Callister"에 빗댐
+    * Jean K. Min: 초파리 뇌를 비트로 옮겨 마인크래프트에서 날린 사건을 아서 클라크 《신의 망치》·《플루리버스》·《인터스텔라》의 "아톰보다 비트" 세계관과 연결. 영생 산업이 AI 최대 시장이 되고 반도체 수요는 이제 시작이라는 주장
+  * [awesome-fly: A curated list of fruit fly connectome projects: MaleCNS, FlyWire, brain simulations, embodied models, games, and research tools | cobanov](https://github.com/cobanov/awesome-fly)
+    * 초파리 커넥톰(MaleCNS·FlyWire)으로 만든 프로젝트 큐레이션 목록. Doom·Minecraft·Super Mario 64·Flappy Bird·FNAF·자율주행 게임 컨트롤러, 데스크톱 펫 초파리, 뇌 모델·Flybody/NeuroMechFly 신체 시뮬레이션, 데이터셋·분석 도구·논문까지 분류
+    * 항목마다 전체 그래프인지 회로 일부(circuit subset)인지, 학습된 것은 readout뿐인지, 음성 대조군 결과가 있는지 구분해 적음. "커넥톰은 연결만 기록할 뿐, 움직이는 파리나 게임 데모가 생물학적 충실도나 학습된 행동을 증명하지는 않는다"는 전제. fly-cartpole도 포함. 666 stars
+  * [fly-cartpole: A fruit fly's flight-stabilisation circuit, wired from the MaleCNS connectome, balances CartPole as a reflex and tunes its own sensor gains | Curt-Park](https://github.com/Curt-Park/fly-cartpole)
+    * [fly-cartpole web viewer](https://curt-park.github.io/fly-cartpole)
+    * "초파리 뇌를 그대로 가져오면 CartPole을 풀 수 있을까"—성체 수컷 초파리 커넥톰 MaleCNS v1.0에서 비행 안정화 회로(5,459 뉴런)를 잘라내 Gymnasium CartPole-v1에 연결. 역전파로 학습한 인공신경망 없이 커넥톰에 기록된 연결 그대로 계산하고, 학습은 센서 게인 5개만 바꿈(매 에피소드 무작위 nudge 후 최근 기록을 넘었는지 보상 신호로 이동). 겹눈 위 ocelli가 막대 기울기를 몸의 롤로, 평형곤 halteres가 넘어지는 속도를, HS 세포가 카트 속도를 optic flow로 읽고 좌우 날개 차이로 밀 방향 결정, 랜드마크로 제자리 유지
+    * 결과(미사용 시드 20개): 배선만으로 튜닝 없이 평균 275.6스텝(막대를 떨어뜨린 적은 없고 트랙 이탈로만 종료), 센서 게인 3개 자가 튜닝 499.9, 랜드마크+커리큘럼 학습 500.0(2,000스텝 확장 시 트랙 이탈 0/200·중심 거리 0.12m). 웹 뷰어가 전체 뉴런을 브라우저에서 실시간 시뮬레이션하며 뒤에서 본 초파리 비행으로 같은 순간을 보여줌. 한국어 README 포함, Python
 * [openscience: The open-source AI workbench for scientific research](https://github.com/synthetic-sciences/openscience)
   * [OpenScience 공식 사이트](https://www.openscience.sh/)
   * [OpenScience: 과학 연구를 위한 오픈소스 AI 워크벤치 기술 정리 | digitalbourgeois](https://digitalbourgeois.tistory.com/3345)
