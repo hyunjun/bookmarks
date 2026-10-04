@@ -523,6 +523,9 @@
 * [xplr: A hackable, minimal, fast TUI file explorer](https://github.com/sayanarijit/xplr)
 * [xsv - A fast CSV command line toolkit written in Rust](https://github.com/BurntSushi/xsv)
   * [Doing a database join with CSV files](https://www.johndcook.com/blog/2019/12/31/sql-join-csv-files/)
+* [yoagent: The agent loop for Rust — stream from 7 LLM protocols, run tools, loop until done](https://github.com/yologdev/yoagent)
+  * [yoagent Documentation](https://yologdev.github.io/yoagent/)
+  * Rust용 에이전트 루프 크레이트—7개 LLM 프로토콜(Anthropic·OpenAI 호환·Groq·Google·Ollama·LM Studio/llama.cpp/vLLM 등) 스트리밍, 도구 실행, 완료까지 루프. `ModelConfig`만 바꾸면 프로바이더·API 키 환경변수가 따라오고, `AgentEvent` 스트림(MessageUpdate·ToolExecutionStart·AgentEnd)으로 소비. `cargo run --example cli -- --provider ollama`로 API 키 없이 파일 읽기/쓰기/편집·셸·ripgrep 검색·스킬을 갖춘 미니 코딩 에이전트를 터미널에서 바로 실행. MIT, 211 stars
 
 # Python
 * [Rust for Python Programmers](http://lucumr.pocoo.org/2015/5/27/rust-for-pythonistas/)
