@@ -127,6 +127,10 @@ Data Visualization
 * [GraphDB로 코드 구조 시각화 하기 (2/4): PHP 의존성 분석 도구 구축 실습 | STONI](https://stoni.space/posts/ko/graphdb/02-graphdb)
 * [From Uncharted Territory: Accessibility & Interactive Data Experiences • Frank Elavsky • YOW! 2025 - YouTube](https://youtube.com/watch?v=uDrlUF-KXeY)
   * Carnegie Mellon 연구자 Frank Elavsky의 인터랙티브 데이터 경험에서 접근성을 다루는 방법
+* [Applied AI Systems for Business Intelligence | Learn BI Academy](https://www.learnbi.academy/pages/applied-ai-systems-for-business-intelligence)
+  * [Dashboards Are Becoming Applications - Here’s Why - Adam Finer - Learn BI - YouTube](https://www.youtube.com/watch?v=UculqYFCKdQ)
+  * BI 실무자를 위한 유료 강의($249, 평생 수강·주간 라이브 세션). 개발자가 되는 게 아니라 AI로 코딩 보조·스크립트 자동화(데이터 감시·알림·레코드 갱신), 스프레드시트 대신 검증된 입력 폼, 데이터 정제·결합용 운영 앱, 회귀·세분화 같은 분석 앱, 구조화된 인사이트 생성, 맞춤 시각화 컴포넌트, 문서화를 만드는 법
+  * 영상: AI로 리포팅 화면을 처음부터 만들 수 있게 되면서 차트·KPI·필터 중심 대시보드가 애플리케이션처럼 바뀌는 5가지 방향. 내장 AI 인사이트, 인사이트에서 바로 행동으로, 내장 분석 도구, 업무 중심 설계, 비즈니스 시스템에 값을 다시 쓰는 write-back
 
 # Facebook
 * [Visdom - A flexible tool for creating, organizing, and sharing visualizations of live, rich data. Supports Torch and Numpy](https://github.com/facebookresearch/visdom)
