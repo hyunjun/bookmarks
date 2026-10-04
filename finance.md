@@ -388,6 +388,8 @@ Finance
     * 나머지(Firebase Firestore 서울·익명 로그인·보안 규칙, Cloud Run 서울 리전 Node.js/TypeScript 백엔드 배포와 자체 호출 검증, Kotlin/Jetpack Compose 앱)는 에이전트가 처리. MCP로 Antigravity가 Google Stitch를 직접 호출해 화면 디자인, Stitch 공식 프롬프트 가이드(넓게 시작→화면별 한두 가지 수정→테마 통일)를 Gemini Gems에 넣어 아이디어 한 줄로 3단계 프롬프트 자동 생성. KB증권 Open API는 아직 WebSocket 실시간 시세 미지원이라 25초마다 재조회
 * [korean-jangbu-for: 한국 스타트업, 1인 법인, 프리랜서, 개인 사업자를 위한 장부 자동 생성 Claude Code 스킬. 카드명세서 PDF·은행 CSV → 재무제표·세무사 전달 CSV 자동 생성. Level 2 민감정보 마스킹 적용](https://github.com/kimlawtech/korean-jangbu-for)
   * [5월 종소세, 이걸로 준비 끝납니다. 👩🏻‍💻스킬 "5월 종소세 준비 끝났다." 🇰🇷한국 사업자 장부 자동화 Claude Code 스킬을 공개합니다. /korean-jangbu-for ❤ 카드명세서 PDF 한 장이면 끝. 7대 카드사·5대 은행·홈택스 자동 수집 → 재무제표 → 세무사 전달… | 조사랑](https://www.linkedin.com/posts/chosarang_5%EC%9B%94-%EC%A2%85%EC%86%8C%EC%84%B8-%EC%9D%B4%EA%B1%B8%EB%A1%9C-%EC%A4%80%EB%B9%84-%EB%81%9D%EB%82%A9%EB%8B%88%EB%8B%A4-%EC%8A%A4%ED%82%AC-5%EC%9B%94-%EC%A2%85%EC%86%8C%EC%84%B8-ugcPost-7452727374376345600-UZmB)
+* [llm-agent-trader: AI-powered stock trading backtesting system with LLM-based decision analysis, FastAPI backend, and Next.js frontend](https://github.com/jason8745/llm-agent-trader)
+  * LLM을 매매 판단에 통합한 주식 백테스팅 시스템—YFinance 주가 데이터를 LLM 스마트 전략(Azure OpenAI GPT-4 또는 Google Gemini)·기술적 분석 엔진·리스크 관리 모듈에 넣어 매매 신호를 생성하고 성과를 계산해 SQLite 백테스트 로그에 기록. LLM 스트리밍 백테스트 엔진·백테스트 분석 API·일일 피드백 API를 FastAPI로, 화면은 Next.js. `make install && make run` 후 localhost:3000. Python, MIT, 491 stars
 * [LLMs-in-Finance/Agents/Anthropic at main · hananedupouy/LLMs-in-Finance](https://github.com/hananedupouy/LLMs-in-Finance/tree/main/Agents/Anthropic)
   * [Financial Modeling Prep API를 사용하여 주식 데이터를 가져오고, Anthropic의 Claude를 활용하여 금융 에이전트를 만드는 시스템을 구현](https://www.linkedin.com/feed/update/urn:li:activity:7251795373042630656/)
   * [Mastering AI Agents in Finance: Foundations + the Flagship Cohort | Hanane Dupouy](https://ai-agent-in-finance.com/training/)
@@ -517,6 +519,8 @@ Finance
 # Javascript
 * [가상화폐 트레이딩 봇 만들기](https://brunch.co.kr/@skykamja24/542)
 * [joshephan/upbit_tradingbot](https://github.com/joshephan/upbit_tradingbot)
+* [TradingView-API: 📈 Get real-time stocks from TradingView](https://github.com/Mathieu2301/TradingView-API)
+  * TradingView에서 캔들·시세를 가져오고 지표·전략을 돌려 차트부터 실행 중인 감시 도구까지 만드는 비공식 커뮤니티 라이브러리(공식 TradingView API 아님). `getCandles({ symbol: 'BINANCE:BTCUSDT', timeframe: 'D', count: 40 })`처럼 한 번의 요청으로 실데이터. 현재 v4 베타는 하위 호환 없는 TypeScript 전면 재작성으로 레포에서만 빌드해 사용, npm(`@mathieuc/tradingview`) 최신은 아직 v3—마이그레이션 가이드·v3 기능 커버리지 표 제공. TypeScript, 5.5k stars
 
 # Library
 * [24시간 주식매매 자동화 구축하기 open API+](https://www.youtube.com/playlist?list=PLDtzZPtOGenaSknTbsb6x6L39V0VPz_rS)
