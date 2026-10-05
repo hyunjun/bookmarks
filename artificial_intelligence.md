@@ -4759,6 +4759,7 @@ Artificial Intelligence
     * Tech Bridge. 플레이북 워크플로우 해설—에이전트 인터뷰로 요구사항 수집해 intent.md 생성(Discovery), 설계 명세 자동 생성·거버넌스(Spec), plan.md 수립 후 서브에이전트·git worktree 병렬 개발(Build), TDD·브라우저 E2E·지속적 Evals(Test), 비동기 PR 리뷰와 장애 시 자율 진단·intent 생성(유지보수)
   * [클로드, SDD를 네이티브로? INTENT.md - YouTube](https://www.youtube.com/watch?v=lh2Klr0hcFo)
     * 단테. Claude Code가 스펙 주도 개발(SDD)을 INTENT.md로 네이티브 지원하게 된 변화 해설
+  * [AI 네이티브 SDLC - 개발 전 과정을 에이전트에 맞게 재설계하기 | GeekNews](https://news.hada.io/topic?id=34792)
   * Anthropic Applied AI 팀의 AI 네이티브 SDLC 가이드. 코드는 더 이상 병목이 아닌데 승인 게이트·리뷰·핸드오프는 인간 속도 그대로라 병목이 build 좌우(계획·리뷰/테스트·배포)로 이동—라인별 수동 리뷰·주간 위원회 거버넌스가 현실과 불일치. 선형 흐름 대신 AI가 각 지점에 내장된 루프로 재설계, 6단계(Plan→Design→Build→Test→Deploy→Maintain)별 플레이 제공
   * 관통하는 원칙은 "커밋된 아티팩트": 각 단계가 intent.md·spec.md·plan.md·diff+테스트·리뷰 findings·인시던트 기록을 버전 관리에 커밋하고 다음 단계가 그걸 읽음—커밋 체인이 곧 감사 추적. 에이전트 다층 리뷰+훅을 승인 게이트로, 인간 리뷰는 규제·핵심 코드에 집중
 * [Prompt to Prod: Engineering an Autonomous SDLC at Scale | InfoQ](https://www.infoq.com/presentations/autonomous-ai-software-development-roblox)
@@ -4969,6 +4970,10 @@ Artificial Intelligence
 * [사람에게 좋은 코드가 AI에게도 좋을까 | Yongkwon Park | LinkedIn](https://www.linkedin.com/pulse/%EC%82%AC%EB%9E%8C%EC%97%90%EA%B2%8C-%EC%A2%8B%EC%9D%80-%EC%BD%94%EB%93%9C%EA%B0%80-ai%EC%97%90%EA%B2%8C%EB%8F%84-%EC%A2%8B%EC%9D%84%EA%B9%8C-yongkwon-park-dz4cc/)
   * 코드 작성·리뷰·수정을 AI가 맡고 사람의 줄 단위 리뷰가 사라져도 책임은 사람에게 남는다는 문제의식. 좋은 코드의 기준이 동료 엔지니어를 위한 배려였다면, 이제는 AI가 추측해야 할 일을 줄이는 코드인지 물어야 한다는 "AI 지향 프로그래밍" 관점. OOP와 DOP 비교에서 출발
   * 저장소 수준의 네 가지 기준: 관련 코드·규칙·테스트·문서를 찾을 수 있는 발견 가능성과 의미·제약이 드러나는 명시성, 하나의 변경에 필요한 정보가 가까이 모인 작업 맥락의 지역성, 빌드·테스트·타입·구조 검사로 결과를 확인하는 검증 가능성, 다음 세션에서 무엇을 어디까지 했는지 기록으로 되살리는 복원 가능성
+* [Next.js 레거시에서 AI 네이티브 프론트엔드로 | Riido](https://blog.riido.io/ai-native-frontend)
+  * [Next.js 레거시에서 AI 네이티브 프론트엔드로 | EO Planet](https://eopla.net/magazines/47633)
+  * Riido 프론트엔드 개발자 3명이 9주 동안 프론트엔드를 처음부터 다시 만든 기록. 로그인 기반 B2B 도구라 SSR 이점이 없던 Next.js 14를 걷어 내고 Vite 8 + React Router, REST에서 GraphQL로 전환. "파일을 찾는 건 이제 사람이 아니라 AI"라는 전제로 도메인→사용자 목적(Query·Command) 단위로 나누고, 파일은 300줄 이하(2,588개, 중앙값 79줄), 규칙은 AGENTS.md에, `pnpm run check` 29단계 검사를 에이전트가 스스로 통과
+  * 디자인 시스템 MBSW와 worktree별로 v1 동작·결정·검증을 기록해 어느 에이전트든 이어받게 하는 루프(메멘토 등)로 97개 페이지를 v1 기능 99% 그대로 재구현. 프로덕션 빌드 중앙값 8분 29초→2분 27초, 처음 여는 화면 1.37초→0.78초. "AI에게 설명을 길게 늘어놓기보다 AI가 헤매지 않을 구조를 먼저 만드는 편이 빨랐다"
 * [2603.21439 LLM-Powered Workflow Optimization for Multidisciplinary Software Development](https://arxiv.org/abs/2603.21439)
   * [AGI KR](https://www.facebook.com/groups/255834461424286?multi_permalinks=2911883062486066)
   * Volvo Group 사례: 그래프 기반 워크플로우 최적화로 API당 개발 시간 5시간→7분, 총 979시간 절감. F1 93.7%. FSE 2026 Industrial Track 채택
@@ -7425,6 +7430,10 @@ Artificial Intelligence
 * [multica — Project Management for Human + Agent Teams](https://multica.ai/)
   * [multica: The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills](https://github.com/multica-ai/multica)
   * [multica - 코딩 에이전트를 실제 팀원으로 운영하는 관리형 에이전트 플랫폼 | GeekNews](https://news.hada.io/topic?id=28399)
+* [Munder Difflin · Multi agent harness for Claude Code, Codex and ten more](https://munderdiffl.in/)
+  * [munder-difflin: An open-source alternative to the dots, bots and muses of the world, run an office of claude code/codex like agents on your laptop, sandboxes or anywhere, uses your existing subscriptions | harnessmd](https://github.com/harnessmd/munder-difflin)
+  * 이미 쓰는 터미널 코딩 CLI를 "나의 분신"으로 바꿔, 내가 자리를 비워도 계속 일하며 내 머신에서 에이전트 사무실 전체를 조율하는 무료 오픈소스 멀티 에이전트 하네스. Claude Code·Gemini·Codex·Grok·Kimi Code·Qwen·OpenCode·Crush·pi.dev·Copilot CLI·Cursor 등 12종을 기존 구독의 시간당 한도로 돌리고, 자체 키·로컬 LLM도 지원
+  * 에이전트끼리 메시지를 주고받고 작업을 넘기고 기억하며, 사용자의 분신(Michael)이 조율하고 공유 사무실 바닥 위 아바타로 시각화. dots·Muse 같은 상용 상시 에이전트의 오픈소스 대안을 표방. Electron·React·Pixi.js·xterm.js, macOS·Windows·Linux. TypeScript, MIT, 8.4k stars
 * [mysetup.ai · What's the craic with your AI setup?](https://mysetup.ai/)
   * [Mysetup - 다른 사람의 AI 도구와 실제 작업 방식을 살펴보는 커뮤니티 | GeekNews](https://news.hada.io/topic?id=33861)
   * 어떤 모델을 쓰는지만이 아니라 에이전트·스킬·연결 도구를 **어떻게 조합해 일하는지**를 공개하고 서로 배우는 커뮤니티—개인 페이지에 작업 흐름·설정·시행착오를 정리하고, 변경 이력과 팔로우로 다른 사람의 환경이 바뀌는 과정을 따라갈 수 있음
@@ -7432,6 +7441,10 @@ Artificial Intelligence
   * [Your coding agent has expensive taste | mhayk](https://www.mhayk.com/2026/08/17/your-coding-agent-has-expensive-taste/)
   * [OAB: Open Architecture Brain for AI-Generated System Designs | Mhayk Whandson da Silva Lima](https://www.linkedin.com/posts/mhayk_softwarearchitecture-opensource-ai-share-7495090631791378432-MgyI/)
   * 코딩 에이전트에 '확장 가능한 API 설계'를 시키면 사용자 100명·개발자 1명 제품에도 K8s·Kafka·Redis·마이크로서비스 3개가 나온다—상위 0.1% 시스템에서 설계 미학만 배우고 경제성은 배우지 못한 탓. 그 경제성을 에이전트에 주입하는 오픈소스 아키텍처 인텔리전스
+* [Offrun | One workspace for every coding agent you run](https://offrun.dev/)
+  * [Offrun - 모든 코딩 에이전트를 하나의 작업 공간에서 관리 | GeekNews](https://news.hada.io/topic?id=34783)
+  * 이미 쓰는 코딩 하네스 CLI를 내 계정으로 Mac에서 그대로 돌리는 통합 작업 공간(새 계정·API 키 불필요, 비밀번호를 보지 않음). 프로젝트 안의 에이전트마다 별도 git worktree를 줘 같은 레포에서 리팩터링과 버그 수정을 동시에 돌리고 원하는 때 병합
+  * 두 번째 에이전트가 커밋 전 diff를 리뷰해 채팅에 지적을 남기고(자동 병합 없음), 한 로그인이 사용량 한도에 걸리면 여유 있는 다른 로그인으로 대화를 넘김. 레포 공통 규약과 에이전트별 목표·계획·막다른 길을 프로젝트 폴더의 평문 파일로 남기는 메모리, 대화 옆 diff·문서·브라우저 미리보기, 음성 받아쓰기
 * [oh-my-agentic-score: Measure and visualize your agentic coding quality](https://github.com/HwangTaehyun/oh-my-agentic-score)
   * [oh-my-agentic-score 당신의 agentic coding | Taehyun Hwang](https://www.linkedin.com/posts/taehyun-hwang-876631201_oh-my-agentic-score-%EB%8B%B9%EC%8B%A0%EC%9D%98-agentic-coding-ugcPost-7435976945043107840-t-oy)
 * [oh-my-codex: Multi-agent orchestration layer for OpenAI Codex CLI](https://oh-my-codex.dev/)
