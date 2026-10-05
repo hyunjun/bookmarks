@@ -2788,6 +2788,8 @@ App
   * [Revideo – 코드로 동영상을 제작하는 오픈소스 프레임워크 | GeekNews](https://news.hada.io/topic?id=15313)
 * [Rewatch: The private & secure video channel for your team](https://rewatch.tv/)
   * [Rewatch - 팀/회사를 위한 비디오 공유 | GeekNews](https://news.hada.io/topic?id=3555)
+* [R One-Seg: Haiku OS 用の ISDB-T ワンセグ受信アプリ | rainygirl](https://github.com/rainygirl/haiku-roneseg)
+  * Haiku OS용 ISDB-T 원세그 수신 앱. 일본 내수용 Sony VAIO P(VGN-P70H)에 내장된 튜너 모듈을 대상으로, 수신·USB 링크 복호화·영상과 음성 재생을 모두 VAIO 안에서 처리. ISDB-T를 쓰는 일본·브라질 등에서만 동작하며 수신 테스트는 일본 원세그 방송으로만 함. Claude Code와 Codex로 개발. rtelevision과 같은 작성자. C++
 * [rtelevision: A player for free TV streams from around the world](https://github.com/rainygirl/rtelevision)
   * 전 세계 무료 TV 스트림 재생기. C++, MIT
 * [Shotcut - Home](https://shotcut.org/)
