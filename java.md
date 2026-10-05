@@ -158,6 +158,8 @@ Java
 * [The Future of Java as Seen by Mark Little at Devoxx UK 22: Native Java, Adoptium and Faster Pace](https://www.infoq.com/news/2022/05/future-java-may22/)
 * [공공데이터포털 오픈 API를 이용하여 기상청 현재 날씨 정보 얻기](https://blog.naver.com/birdparang/222753218885)
 * [Data Oriented Programming in Java](https://www.infoq.com/articles/data-oriented-programming-java/)
+  * [Data-Oriented Programming in Java - Version 1.1 | Inside.java](https://inside.java/2024/05/23/dop-v1-1-introduction/)
+    * Nicolai Parlog의 6편 시리즈 소개편. 타입 패턴·switch 개선·record와 record 패턴·sealed 타입처럼 따로 써도 유용한 기능을 제대로 조합하면 설계 패턴 자체가 넓어진다는 관점에서, Brian Goetz가 2022년 6월 제안한 데이터 지향 프로그래밍 지침을 조금 갱신. "모든 것은 객체"인 OOP와 대비해 설명
 * [VDBUH2023 - Nicolai Parlog - Data-Oriented Programming in Java (20) - YouTube](https://www.youtube.com/watch?v=zn4neparqUQ)
 * [우당탕탕 정산어드민 시스템 파일럿 프로젝트 도전기(feat. 정산플랫폼팀) | 우아한형제들 기술블로그](https://techblog.woowahan.com/8357/)
 * [자바가 여전히 위대한 개발 언어인 7가지 이유 - ITWorld Korea](https://www.itworld.co.kr/news/245956)
