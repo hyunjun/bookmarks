@@ -712,6 +712,9 @@ Web
   * AI 에이전트에게 인터넷 접근 능력을 부여하는 CLI 도구. Twitter, Reddit, YouTube, GitHub 등 14+ 플랫폼 통합, API 비용 없이 yt-dlp·Jina Reader·GitHub CLI 등 오픈소스 도구 활용. 원커맨드 설치, 로컬 자격증명 저장으로 프라이버시 보장
 * [bb-browser: CLI and MCP server for AI agents to control Chrome with your login state](https://github.com/epiral/bb-browser)
   * 103개 명령어×36개 플랫폼. 인증된 브라우저 세션 그대로 사용, CLI/MCP/OpenClaw 통합. 10분만에 새 사이트 어댑터 추가 가능
+* [brightdata-mcp: A powerful Model Context Protocol (MCP) server that provides an all-in-one solution for public web access | Bright Data](https://github.com/brightdata/brightdata-mcp)
+  * [Bright Data - All in One Platform for Proxies and Web Scraping](https://brightdata.com/)
+  * AI 에이전트의 공개 웹 접근을 한 MCP 서버로 제공하는 Bright Data 공식 서버. 프록시·웹 스크래핑 플랫폼 Bright Data의 인프라를 에이전트 도구로 노출. JavaScript, MIT, 2.7k stars
 * [Jina Reader — URL to LLM-friendly content](https://r.jina.ai/)
   * `r.jina.ai/URL`로 웹 페이지를 LLM 최적화 마크다운으로 변환, `s.jina.ai/QUERY`로 검색. API 키 불필요
 * [web-access: Agent Skill for comprehensive web access with CDP browser control](https://github.com/eze-is/web-access)
