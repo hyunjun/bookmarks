@@ -35,3 +35,7 @@ Health
 * [플랭크 운동 종류](https://imgur.com/a/x2TYgyv)
 * [목 아무리 주물러도 안 풀리던 게 바로 풀렸다고 난리 난 스트레칭 방법 (+영상) – JoaPost](http://joapost.com/?p=252921)
 * [타바타](https://www.facebook.com/reel/1084201343846702)
+* [openGym: Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server](https://github.com/DuarteSantos8/openGym)
+  * [openGym 공식 사이트](https://opengym.duarte-santos.ch)
+  * 구독·광고·텔레메트리 없이 내 서버에서 돌리는 운동·체중 기록 앱(`docker compose up` 한 번, 오프라인 동작·기기 간 동기화·홈 화면 설치·패스키 로그인, Android APK). 요일별 루틴, 동작 애니메이션이 있는 1,324개 운동 라이브러리를 인체 지도에서 근육별로 탐색, 슈퍼세트·워밍업·드롭세트·유산소·디로드 계획
+  * 지난 기록으로 무게를 미리 채우고 세트 사이 휴식 타이머와 PR 자동 감지가 있는 가이드 세션, 근육별 훈련·피로·탈훈련 상태 표시, FitNotes·Strong·Hevy에서 가져오기. 브라우저 데모 제공. JavaScript, AGPL-3.0, 2.1k stars
