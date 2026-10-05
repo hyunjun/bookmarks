@@ -3336,8 +3336,15 @@ NLP
     * [벌써 Jev의 실제 성능과 장점, 그리고 약점과 보완 방법까지 자세히 실험한 논문이 나왔습니다 | 염기웅](https://www.linkedin.com/posts/kiwoong-yeom_%EB%B2%8C%EC%8D%A8-jev%EC%9D%98-%EC%8B%A4%EC%A0%9C-%EC%84%B1%EB%8A%A5%EA%B3%BC-%EC%9E%A5%EC%A0%90-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%95%BD%EC%A0%90%EA%B3%BC-%EB%B3%B4%EC%99%84-%EB%B0%A9%EB%B2%95%EA%B9%8C%EC%A7%80-%EC%9E%90%EC%84%B8%ED%9E%88-%EC%8B%A4%ED%97%98%ED%95%9C-share-7509092892578050048-psZU/)
     * CMU 계열 저자 4명(Yubo Li·Ramayya Krishnan·Rema Padman 외)의 첫 Jev 독립 평가 논문(2026-09-22). 판단만 내리는 저지가 LLM-as-a-judge의 경제적 1차 패스가 될 수 있는지를 16개 생성·리워드 모델 저지와 블라인드 인간 판정으로 비교—일반 선호·근거 기반 사실성에서는 최고 성능 LLM 저지 대비 3%p 이내를 **비용 0.36%**로 달성하지만, 유도 과정을 검증하거나 정교하게 쓰인 오답에 저항해야 하는 판단에서는 격차가 커짐
     * 핵심 발견은 **오류가 저확신 구간에 집중**된다는 것—확신도 q≥0.95면 정답률 94~99%(q=1이면 99.1%, 평가 990개 중 322개=32.5%가 여기 해당)인데 q<0.6이면 47.7%로 곤두박질. 그래서 q≥0.90이면 Jev 판정을 확정하고 미만이면 상위 모델(GPT-6)로 이관하는 frozen cascade를 구성—전체의 34.3%만 이관해 통합 정확도 91.3%(GPT-6 전량 사용 91.7%의 99.6%)를 비용 47%로 보존(Jev 단독 86.3%). 작업별로 자동 조절되어 쉬운 선호 작업은 21.8%만 이관(비용 78% 절감), 고난도 JudgeBench는 Jev 스스로 확신을 못 해 60.6%를 이관
+  * [Jev, 일단 쓰면서 찍먹하기 - 사용법부터 다른 LLM 4개 비교 벤치마크 | velog](https://velog.io/@qlgks1/Jev-%EC%9D%BC%EB%8B%A8-%EC%93%B0%EB%A9%B4%EC%84%9C-%EC%B0%8D%EB%A8%B9%ED%95%98%EA%B8%B0-%EC%82%AC%EC%9A%A9%EB%B2%95%EB%B6%80%ED%84%B0-%EB%8B%A4%EB%A5%B8-LLM-4%EA%B0%9C-%EB%B9%84%EA%B5%90-%EB%B2%A4%EC%B9%98%EB%A7%88%ED%81%AC)
+    * [Jev, 일단 쓰면서 찍먹하기 | Hyeonwoo Jeong | LinkedIn](https://www.linkedin.com/posts/hyeonwoo-jeong-nuung_%EC%9A%94%EC%A6%98-%EC%96%B4%EB%94%94%EB%93%A0-%ED%94%BC%EB%93%9C%EC%97%90%EC%84%9C-%EA%B0%80%EC%9E%A5-%EC%9E%90%EC%A3%BC-%EB%B3%B4%EC%9D%B4%EB%8A%94-%EC%9D%B4%EB%A6%84-%EC%A4%91-%ED%95%98%EB%82%98%EA%B0%80-typesafe%EC%9D%98-share-7511653873363742721-iacn/)
+    * 공개 데이터셋 7개(각 300건)로 Jev를 Claude Haiku 4.5·Claude Sonnet 5·gpt-6-luna·gpt-6-sol과 직접 비교. 다중 비교 보정 후 28개 비교 중 25개에서 정확도 차이가 통계적으로 유의하지 않았고, 비용은 1천 건당 $0.022(중앙값)로 2.6~94.6배 저렴, 응답은 p50 213ms로 4.1~8.9배 빠름
+    * 다만 보기가 77개인 Banking77 의도 분류에서는 gpt-6-sol보다 7.3%p 낮았고, Jev가 돌려주는 confidence는 확률과 다른 지표라 임계값을 걸 때 주의 필요. Choice·Score·예/아니오 세 형식, 입력 100만 토큰당 $0.042·출력 무과금. 바로 실행 가능한 토이 프로젝트 포함
   * [Awesome Jev — Directory of 488 projects built on Jev](https://awesomejev.com/)
     * TypeSafe AI 공식 문서·SDK부터 통합·에이전트 툴링·브라우저/컴퓨터 사용·애플리케이션·게임·벤치마크까지 카테고리별로 묶은 488개 프로젝트 디렉터리. 최다 스타는 browser-use의 jev-ultrafast(4.8k), Claude Code의 compaction 요약을 Jev 판단으로 대체하는 fast-jev-compaction(2.7k), 오픈 모델로 3090에서 semantic if를 돌리는 비공식 SemIf(1.5k), 텍스트 선택지 중 하나를 한 번에 고르는 소형 모델 학습 jevlike(851)
+  * [Awesome Jev — evidence-graded, rebuilt every 2 hours](https://wh000wh000.github.io/awesome-jev-live/)
+    * [awesome-jev-live: Awesome Jev — evidence-graded index of TypeSafe System One: SDKs, MCP tools, agents, apps and open models. 20 languages, rebuilt every 2 hours | wh000wh000](https://github.com/wh000wh000/awesome-jev-live)
+    * 레포 안의 파이프라인이 2시간마다 수집·필터링·재검증해 다시 만드는 Jev 생태계 색인(818개 항목, 구현 언어 23종, 20개 언어 README). 항목마다 공식(official)·관찰(observed) 같은 근거 등급을 매기고, 카테고리별 대표작을 근거 등급과 스타로 매번 다시 순위 매김. SDK·MCP 도구·에이전트·앱·오픈 모델을 사이트에서 검색. Python, 166 stars
   * [Awesome Jev / TypeSafe](https://abdelstark.github.io/awesome-typesafe-jev/)
     * [awesome-typesafe-jev: a source-backed field guide to TypeSafe's System One model, with SDKs, live demos, agent tools, and independent evaluations](https://github.com/AbdelStark/awesome-typesafe-jev)
     * "Jev는 소프트웨어에 타입드 판단을 주고, 코드는 여전히 주도권을 가진다"—문서화된 호출 예시(support-ticket 예제, 한 번의 호출로 세 개의 타입드 답) 확인, 라이브 프로젝트 체험, 스타터 복사, 독립 평가 열람으로 구성된 커뮤니티 필드 가이드. SDK·데모·에이전트 도구·독립 평가 큐레이션. MIT
@@ -3346,6 +3353,8 @@ NLP
     * [Cloudflare/clef | Hugging Face](https://huggingface.co/Cloudflare/clef)
     * [Cloudflare/clef-flash | Hugging Face](https://huggingface.co/Cloudflare/clef-flash)
     * [Cloudflare Clef: Free Open Source AI Decisions in 38ms - Prism Labs - YouTube](https://www.youtube.com/watch?v=MNclmc7hFuo)
+    * [Cloudflare 의 조용한 발표, Clef 는 요즘 난리인 Jev 같은 decision model 이다 | Jedi Kim | LinkedIn](https://www.linkedin.com/posts/jedikim_cloudflare-%EC%9D%98-%EC%A1%B0%EC%9A%A9%ED%95%9C-%EB%B0%9C%ED%91%9C-clef-%EB%8A%94-%EC%9A%94%EC%A6%98-%EB%82%9C%EB%A6%AC%EC%9D%B8-jev-%EA%B0%99%EC%9D%80-share-7511672015204859904-0wg2/)
+      * 주목하는 이유는 이미지 판단과 엣지 컴퓨팅. 결정 모델은 GPU 연산보다 물리적 거리에 따른 지연이 문제인데, CDN 인프라에 있어 응답이 빠름(Clef-flash 38.8ms < Clef 209.3ms < Jev 524.1ms). Jev는 지역에 따라 전송 지연이 100~300ms 이상 벌어질 만큼 편차가 큼
     * Cloudflare가 Birthday Week(2026-10-01)에 공개한 Jev API 호환 결정 모델 2종. Clef는 Qwen3.8-27B 기반, Clef-flash는 Qwen3.5-9B 기반이며 Apache-2.0으로 Workers AI 호스팅. Jev와 달리 비전 인코더로 이미지도 분류하고, 컨텍스트는 64k로 Jev의 32k보다 김. 고객이 Clef를 파인튜닝할 수 있는 RL 플랫폼도 함께 공개
     * Jev Decision Index 기준 선두라고 주장. BANKING77·CLINC150·ToolRet은 Clef, BFCL·API-Bank·가전 제어는 Clef-flash가 최고점이고, When2Call·BRIGHT는 Jev, PhishNChips는 DiffusionGemma Jev가 앞섬. 중앙 지연은 Clef-flash 38.8ms, Clef 209ms, Jev 524ms. 사내 위협 인텔리전스 도메인 분류에서 2.2초로 gpt-oss-120b의 4.7초보다 빨랐음
   * [🥊 CLM vs Laya vs OpenJev vs Kev vs Jev : 결정 모델 5종 속도·정확도·라이선스 비교 | fornewchallenge](https://fornewchallenge.tistory.com/entry/%F0%9F%A5%8A-CLM-vs-Laya-vs-OpenJev-vs-Kev-vs-Jev-%EA%B2%B0%EC%A0%95-%EB%AA%A8%EB%8D%B8-5%EC%A2%85-%EC%86%8D%EB%8F%84%C2%B7%EC%A0%95%ED%99%95%EB%8F%84%C2%B7%EB%9D%BC%EC%9D%B4%EC%84%A0%EC%8A%A4-%EB%B9%84%EA%B5%90)
@@ -3806,6 +3815,8 @@ NLP
     * [rag-with-reflection: It shows an advanced RAG with Reflection where LangGraph is used for workflow management](https://github.com/kyopark2014/rag-with-reflection)
       * [LangGraph를 이용하여 기본 RAG를 구현하고, Reflection과 Query Transformation을 이용하여 RAG의 성능을 향상시키는 방법](https://www.linkedin.com/posts/kyoungsu-park-9b9a1068_reflection-aws-claude-activity-7246795188537303040-1a3u/)
     * [rag-multimodal: This shows how to use multimodal RAG using managed OpenSearch](https://github.com/kyopark2014/rag-multimodal)
+      * [Agentic AI가 대세가 되었으나 여전히 기존 문서로부터 원하는 정보를 가져오는것은 힘들고 고단한 여정입니다 | Kyoungsu Park | LinkedIn](https://www.linkedin.com/posts/kyoungsu-park-9b9a1068_rag-advanced-multimodal-share-7464881710665469952-Gssx/)
+        * 온톨로지는 목적에 비해 무겁고 Knowledge Base는 커스텀이 부족할 때 참고할 레포. 특정 구분자 기반 커스텀 청킹, 멀티모달 표·이미지 분석, 프롬프트로 헤더/푸터 제거, Managed OpenSearch + Nori, Parent/Child 청킹, Contextual Embedding, 메타데이터 기반 문서 동기화, 설치 도구
       * 표·차트·복잡 레이아웃 PDF를 Bedrock 멀티모달 LLM으로 마크다운 변환→OpenSearch 인덱싱→LangGraph Agent 하이브리드 검색(k-NN+lexical). 페이지→PNG→멀티모달 OCR→parent/child 청킹, S3 메타데이터에 vector ID 저장→S3 삭제 시 Lambda로 OpenSearch 정리. Streamlit UI+OpenSearch MCP, relevance grading. 컨텍스츄얼 임베딩 옵션. CloudFront+installer.py 배포
     * [writing-agent: It shows an intelligent agent based on LangGraph for long form writing](https://github.com/kyopark2014/writing-agent)
       * [LangGraph 기반의 multi-agent는 사람의 글쓰기 사고 과정을 모방한 agent](https://www.linkedin.com/posts/kyoungsu-park-9b9a1068_agent-langgraph-multiagent-activity-7242144172319653889-OpVr/)
@@ -4858,6 +4869,8 @@ NLP
   * Castform으로 검색 태스크에 특화된 강화학습 후처리를 한 4B 오픈소스 모델이 GPT-5.6 Sol과 동급 검색 정확도를 내면서 비용은 1/100. 다중 홉 검색은 질문을 여러 단계로 나눠 반복 검색·종합해야 해서 프런티어 모델을 매 단계 호출하면 요청당 10초 이상·약 $0.03 발생—소형 모델 특화 학습이 대안
 * [Feeding the AI Brain: Building a Local, On-Premise RAG Pipeline - YouTube](https://www.youtube.com/watch?v=fQdig6v4dF8)
   * 45Drives On-Prem AI 시리즈 2편. 민감 파일을 클라우드로 보내지 않고 사내 데이터를 온프레미스 AI 모델에 연결하는 엔드투엔드 RAG 파이프라인 설계·배포—문서 인제스트, 임베딩 생성, 벡터 DB 질의, 로컬 LLM 그라운딩까지. 청킹·임베딩 모델 선택이 결과에 미치는 영향
+* [RAG를 “벡터DB 검색”으로만 이해하면, 프로덕션에서는 사용하기 어렵습니다 | Sanguine Kim | LinkedIn](https://www.linkedin.com/posts/sanguinekim_rag-llmbrain-aiagent-share-7467381939679698944-youh/)
+  * 문서를 쪼개 임베딩하고 벡터DB에서 찾아 LLM에 넣는 구조는 데모는 되지만 운영이 문제. 실전 RAG는 검색보다 경로 설계가 중요해 질문 → 라우팅 → 검색 소스 선택 → 재랭킹 → 생성 → 평가 → 실패 루프 → 운영 개선으로 봐야 한다는 정리. Query Transformation, SQL·Graph·Vector DB 라우팅, 의미 단위 인덱싱, 재랭킹, 실패 패턴 평가
 * [2509.01092 REFRAG: Rethinking RAG based Decoding](https://arxiv.org/abs/2509.01092)
   * [Meta Researchers Introduce REFRAG: A New RAG Approach | Avi Chawla님이 토픽에 대해 올림 | LinkedIn](https://www.linkedin.com/posts/avi-chawla_researchersfrommetabuiltanewragapproach-activity-7383088093597220864-wXLO)
   * [토큰을 버리고 임베딩을 선택하다, Meta가 다시 쓴 RAG 공식 | Suk Hyun Kim](https://www.linkedin.com/posts/suk-hyun-kim-31ba9b369_ai-suaqtztfmqvz-rag-activity-7405368460823658496-aE2B)
@@ -4868,6 +4881,10 @@ NLP
     * [Meta Superintelligence, 놀라운 첫 논문 ‘REFRAG’으로 RAG 효율 | GeekNews](https://news.hada.io/topic?id=23603)
   * [REFRAG: Rethinking RAG based Decoding, 논문 정리](https://velog.io/@gathers/REFRAG-Rethinking-RAG-based-Decoding-%EB%85%BC%EB%AC%B8-%EC%A0%95%EB%A6%AC)
   * [REFRAG-style RAG (compress → sense/select → expand) — Single-file reference implementation](https://github.com/simulanics/REFRAG)
+* [2603.06503 Beyond Rows to Reasoning: Agentic Retrieval for Multimodal Spreadsheet Understanding and Editing](https://arxiv.org/abs/2603.06503)
+  * [arXiv — Beyond Rows to Reasoning (BRTR): 멀티모달 에이전틱 검색을 통한 엔터프라이즈 스프레드시트 이해의 혁신 | Youshin Kim | LinkedIn](https://www.linkedin.com/pulse/arxiv-beyond-rows-reasoning-brtr-%EB%A9%80%ED%8B%B0%EB%AA%A8%EB%8B%AC-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8B%B1-%EA%B2%80%EC%83%89%EC%9D%84-%ED%86%B5%ED%95%9C-%EC%97%94%ED%84%B0%ED%94%84%EB%9D%BC%EC%9D%B4%EC%A6%88-youshin-kim-2jync)
+  * 수백만 셀·시트 간 의존성·내장 차트가 있는 엔터프라이즈 엑셀 통합문서에서 단일 패스 검색은 맥락을 놓치고, 압축은 해상도를 잃고, 통째로 넣으면 컨텍스트 창을 넘는 문제를 반복적 도구 호출 루프로 대체한 멀티모달 에이전틱 프레임워크. 분석부터 구조화된 편집까지 엔드투엔드 지원
+  * 전문가 평가 200시간 이상. FRTR-Bench +25%p, SpreadsheetLLM +7, FINCH +32로 SOTA. 표·시각 데이터 혼합에는 임베딩 모델 5종 중 NVIDIA NeMo Retriever 1B가 최고, LLM 9종 비교. 플래너·검색·반복 추론이 모두 필요함을 ablation으로 확인
 * [2603.23516 MSA: Memory Sparse Attention for Efficient End-to-End Memory Model Scaling to 100M Tokens](https://arxiv.org/abs/2603.23516)
   * [GitHub Stars 2200개 코드는 아직 한 줄도 없는데 논문 | Hansol Nam](https://www.linkedin.com/posts/hansol-nam_github-stars-2200%EA%B0%9C-%EC%BD%94%EB%93%9C%EB%8A%94-%EC%95%84%EC%A7%81-%ED%95%9C-%EC%A4%84%EB%8F%84-%EC%97%86%EB%8A%94%EB%8D%B0-%EB%85%BC%EB%AC%B8-share-7443215773956931584-P8sJ/)
   * 16K→100M 토큰 스케일링 시 성능 저하 9% 미만. 스파스 어텐션 + 문서별 포지셔널 인코딩으로 소비자 GPU에서 추론 가능. 기존 프론티어 모델·RAG 대비 장문맥 벤치마크 대폭 개선
@@ -4981,6 +4998,9 @@ NLP
   * [HuggingFace TEI(Text Embeddings Inference) 아키텍처 심층 분석](https://kr.linkedin.com/pulse/huggingface-teitext-embeddings-inference-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EC%8B%AC%EC%B8%B5-%EB%B6%84%EC%84%9D-sigrid-jin--k3jgc)
     * [HuggingFace TEI(Text Embeddings Inference) 아키텍처 심층 분석 | Jin Hyung Park (Sigrid Jin) 🌈](https://www.linkedin.com/posts/sigridjineth_%EC%9E%90%EC%97%B0%EC%96%B4-%EC%B2%98%EB%A6%AC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A5%BC-%ED%95%98%EB%8B%A4-%EB%B3%B4%EB%A9%B4-%ED%85%8D%EC%8A%A4%ED%8A%B8%EB%A5%BC-%EC%88%AB%EC%9E%90-%EB%B2%A1%ED%84%B0%EB%A1%9C-%EB%B0%94%EA%BE%B8%EB%8A%94-%EC%9E%84%EB%B2%A0%EB%94%A9-%EC%9E%91%EC%97%85%EC%9D%84-ugcPost-7402511241640091648-nNmU)
 * [torchv-unstructured: TorchV开源的解析代码仓库](https://github.com/torchv/torchv-unstructured)
+* [UltraRAG: A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines | OpenBMB](https://github.com/OpenBMB/UltraRAG)
+  * [📝 UltraRAG: 오픈소스 RAG 프레임워크 로컬 설치 및 실전 예제 가이드 | fornewchallenge](https://fornewchallenge.tistory.com/entry/%F0%9F%93%9D-UltraRAG-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-RAG-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC-%EB%A1%9C%EC%BB%AC-%EC%84%A4%EC%B9%98-%EB%B0%8F-%EC%8B%A4%EC%A0%84-%EC%98%88%EC%A0%9C-%EA%B0%80%EC%9D%B4%EB%93%9C)
+  * 칭화대 THUNLP·동북대 NEUIR·OpenBMB·AI9Stars가 만든 MCP 기반 저코드 RAG 프레임워크. 복잡한 RAG 파이프라인을 수십 줄 YAML로 구성하고 순차·조건 분기·반복 같은 제어 구조를 표현하며, 각 기능을 독립 MCP 서버로 분리해 재사용. 블로그는 개요·설치·파이프라인 구축 실습. Python, Apache-2.0, 5.7k stars
 * [urstory-rag: 한국어 최적화 프로덕션 RAG 시스템](https://github.com/urstory/urstory-rag)
   * PGVector + Elasticsearch(Nori) 하이브리드 검색, bge-reranker-v2-m3-ko 한국어 리랭킹, HyDE 합성 문서, PII 마스킹·프롬프트 인젝션 방어. RAGAS 자동 평가 + Langfuse v3 모니터링. 평균 92.0/100점, 96% 성공률
 * [WeKnora: LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm](https://github.com/Tencent/WeKnora)
