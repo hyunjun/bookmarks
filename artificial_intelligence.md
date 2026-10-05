@@ -1001,6 +1001,9 @@ Artificial Intelligence
 * [agentic-inbox: A self-hosted email client with an AI agent, running entirely on Cloudflare Workers](https://github.com/cloudflare/agentic-inbox)
   * [Agentic Inbox - AI 에이전트 탑재 셀프호스팅 이메일 클라이언트 | GeekNews](https://news.hada.io/topic?id=28926)
   * Cloudflare Workers·Email Routing·Durable Object(SQLite)·R2로 구성. 이메일 송수신·관리 + AI 자동 답장 초안 생성
+* [agentic-workflow: Agentic Workflow | real-ryunsu](https://github.com/real-ryunsu/agentic-workflow)
+  * [성륜수 - 이번 주말, 나는 코드를 단 한 줄도 짜지 않았다. 하지만 16개 컴포넌트가 포함된 디자인 시스템을 배포했다 | Facebook](https://www.facebook.com/photo.php?fbid=4153550948233837&set=a.1403071329948493&type=3)
+  * 작성자가 설계한 에이전트 아키텍처로 코드 한 줄 없이 주말 동안 16개 컴포넌트짜리 디자인 시스템을 배포한 경험에서 출발해, AI 개발의 고질적 문제인 컨텍스트 블롯을 오케스트레이터 중심 구조로 다루는 워크플로 아키텍처. README는 지금은 더 나은 하네스가 있으니 참고용으로만 쓰라며 deprecated로 표시. MIT, 15 stars
 * [AgentKit SEO](https://agentkit-seo.github.io/)
   * [agentkit-seo: Portable AI agent skills for private career context, local VitaeGraph records, and evidence-based career work across GitHub, LinkedIn, CV/ATS, portfolios, and X](https://github.com/agentkit-seo/agentkit-seo)
   * 커리어 컨텍스트를 마크다운 단일 소스로 관리해 여러 AI 에이전트가 재사용—CV·LinkedIn·포트폴리오·GitHub·X용 자료를 검증된 근거 기반으로 일관되게 생성. 사실을 재창조하지 않고 플랫폼별로 적응
@@ -1479,6 +1482,9 @@ Artificial Intelligence
   * "60초 만에 에이전트에게 영구 기억을"—세션 히스토리·코드베이스 인덱싱·개념 그래프 3-in-1을 SQLite 하나에 융합한 로컬 퍼스트·제로 클라우드 메모리 레이어 겸 MCP 서버(16개 도구, HTTP·stdio). 도구를 직접 호출하는 대신 대화로 쓰는 "Talk, Don't Call Tools" 방식, 로컬 제어판 MARM Console, 에이전트 프로파일별 초기화, 멀티 에이전트 스웜 지원, 성능·확장 벤치마크 공개. `pip install marm-mcp-server`·Docker, MCP Registry 등재. Python/FastAPI, Apache-2.0, 409 stars
 * [memary: Open-source memory layer for autonomous agents](https://github.com/kingjulio8238/memary)
   * 메모리 스트림, 지식 그래프, 엔티티 추적으로 인간형 메모리 구현
+* [Memmy — Let every AI remember the same you](https://memmy.bot/)
+  * [memmy-agent: 🍙 A personal AI agent & local memory hub for all AI agents, gives every AI one shared, fully controlled memory and persistent context — all AI remember the same you | MemTensor](https://github.com/MemTensor/memmy-agent)
+  * 여러 AI 도구가 하나의 개인 메모리를 공유하게 하는 로컬 메모리 허브 겸 개인 에이전트. 로컬 AI 협업 기록을 구조화된 메모리로 바꾸고, Claude Code·Codex·OpenClaw·Hermes Agent·DeepSeek Harness 사이를 옮겨 가도 프로젝트 배경·선호·진행 상황을 이어 받음. 로컬 Memory Service와 Agent Runtime·TUI로 구성. MemOS를 만든 MemTensor 작. TypeScript, MIT, 2k stars
 * [Memori: Open-Source Memory Engine for LLMs, AI Agents & Multi-Agent Systems](https://github.com/GibsonAI/Memori)
 * [Memora: A harmonic memory representation balancing abstraction and specificity | Microsoft Research](https://www.microsoft.com/en-us/research/blog/memora-a-harmonic-memory-representation-balancing-abstraction-and-specificity/)
   * [Memora: Official code for "Memora: A Harmonic Memory Representation Balancing Abstraction and Specificity"](https://github.com/microsoft/Memora)
@@ -1653,6 +1659,9 @@ Artificial Intelligence
   * Andrew Ng 팀의 오픈소스 AI 코워커. 답변이 아닌 완성된 결과물(문서·슬랙 답변·정리된 캘린더)을 산출, 내 컴퓨터에서 내 도구를 직접 사용, 중요한 행동 전 반드시 승인 요청. 무료·오픈소스·BYOM. Python, 3.5K stars
   * [aisuite: Simple, unified interface to multiple Generative AI providers](https://github.com/andrewyng/aisuite)
     * Andrew Ng의 멀티 프로바이더 통합 인터페이스. OpenAI 호환 API 하나로 여러 생성형 AI 프로바이더 호출. Python, 15K stars
+* [osk-system: Source-grounded MCP memory runtime and Obsidian-compatible vault template for LLM agents | lpaiu-cs](https://github.com/lpaiu-cs/osk-system)
+  * 에이전트와의 대화가 출처가 달린 연결된 지식으로 자라 다음 세션에 다시 쓰이게 하는 로컬 Markdown 메모리(MCP 런타임 + Obsidian 호환 vault 템플릿, vault는 Git 저장소). "LLM 위키를 만들어 줘" 한 줄 요청이 일관성 없는 저장 방식과 근거 없는 그럴듯한 그래프로 흘러간 경험에서 출발해, 무엇을 기억으로 남기고 기존 것과 어떻게 합치거나 연결하며 커진 주제를 언제 나눌지를 "헌법" 규칙으로 먼저 정하고 엔진과 에이전트가 그 규칙대로 메모리를 키움
+  * Claude Code·Codex·Kiro·Antigravity에 설치 문서 URL 한 줄을 붙여 넣어 에이전트가 직접 설치. 개발자 공개 베타(Windows 11에서 매일 사용, macOS 일상 사용은 미검증). Python, MIT, 59 stars
 * [PageAgent - The GUI Agent Living in Your Webpage](https://alibaba.github.io/page-agent/)
   * [page-agent: JavaScript in-page GUI agent. Control web interfaces with natural language](https://github.com/alibaba/page-agent)
 * [PandaProbe — Open source agent engineering platform](https://www.pandaprobe.com/)
@@ -1815,6 +1824,11 @@ Artificial Intelligence
   * [2511.21689 ToolOrchestra: Elevating Intelligence via Efficient Model and Tool Orchestration](https://arxiv.org/abs/2511.21689)
   * [AI 에이전트 비용의 해결책 NVIDIA 가 "8B 파라미터 오케스트레이터가 GPT-5, Claude, 전문 모델들을 적재적소에 호출하며 더 나은 결과를 만들어내는" 프레임워크, ToolOrchestra를 공개 | HaYeJin Kang](https://www.linkedin.com/posts/h4y3j1n_nvidia-activity-7402119478349905921-dGF5)
     * 거대 모델 하나에 의존하는 대신, 작은 지휘자가 여러 도구를 조율하는 발상의 전환
+* [treg.to: OpenRouter for agent tools and data, pay per call](https://treg.to/)
+  * [treg: OpenRouter for agent tools | superdesigndev](https://github.com/superdesigndev/treg)
+  * [Jev + Treg is a crazy combo for automation... - AI Jason - YouTube](https://www.youtube.com/watch?v=o4Vi5uBZYH0)
+  * 모델 대신 에이전트 도구를 위한 OpenRouter. 토큰 하나와 base URL 하나로 108개 공급자의 엔드포인트 3,800개 이상(SEO·백링크, 소셜·트렌드, 인물·기업 정보 보강, 광고, 스크래핑, 이미지·영상 생성)을 호출당 1센트부터 공급자 가입 없이 사용. Semrush·Moz·Crunchbase처럼 한 번 쓰려고 구독하기 아까운 서비스를 treg가 계정을 대신 들고 호출 단위로 과금
+  * 팀의 API 키·OAuth 연결·벤더 CLI·SKILL.md도 등록해 자격 증명이 서버 밖으로 나가지 않은 채 팀원 에이전트가 호출(자기 키 호출은 무과금). 프록시는 업스트림을 재구성하지 않고 그대로 중계하며 인증만 서버에서 주입. "도구가 아니라 할 일을 검색"하는 방식. Superdesign 팀이 만들었고 자체 호스팅 가능, Python, 4.1k stars. 영상은 Jev 결정 모델과 묶은 자동화 워크플로 소개
 * [Vibe Index — Vibe Coding Directory](https://www.vibeindex.ai/)
   * Claude Code 생태계 도구 디렉토리(169K+ 등록). 4가지 카테고리—Skills(SKILL.md), MCP Servers, Marketplaces, Plugins. GitHub 매시간 동기화·죽은 링크 자동 정리·AI 요약·매일 순위 갱신. Cisco 기반 17개 위협 카테고리(프롬프트 인젝션·악성코드·데이터 유출 등) 자동 보안 스캔. Vix Code(통합 AI 코딩)·Skill·MCP·API 자체 제공
 * [Vision Agents Documentation - Vision Agents](https://visionagents.ai/)
@@ -2017,6 +2031,12 @@ Artificial Intelligence
   * AI 코딩 에이전트가 문서를 효과적으로 활용하도록 콘텐츠를 구조화하는 새 패러다임. robots.txt, llms.txt, skill.md 등 6계층 구현
 * [AI한테 마크다운으로 인수인계시키는 지금 방식은, 색소폰을 글로 배우는 것과 같다 | Gallery X](https://x.com/realgalleryx/status/2085874917984387571)
   * Dwarkesh Patel의 "지속학습 시대의 8가지 예측" 도입부 우화 소개—색소폰을 처음 보는 학생이 실패하고 노트를 남기면, 다음 학생이 그 노트를 읽고 또 실패하고 노트를 보탬. 마크다운 파일로 에이전트에 컨텍스트를 인수인계하는 현재 방식의 한계를 짚는 비유
+* [AI Agent를 제대로 쓰려면, 먼저 LLM이 “어떻게 일하는지”를 알아야 합니다 | Sanguine Kim | LinkedIn](https://www.linkedin.com/posts/sanguinekim_ai-agent%EB%A5%BC-%EC%A0%9C%EB%8C%80%EB%A1%9C-%EC%93%B0%EB%A0%A4%EB%A9%B4-%EB%A8%BC%EC%A0%80-llm%EC%9D%B4-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9D%BC%ED%95%98%EB%8A%94%EC%A7%80%EB%A5%BC-%EC%95%8C%EC%95%84%EC%95%BC-share-7463056986255872000-BHo3/)
+  * LLM은 질문만 보고 답하는 게 아니라 Context Window 안의 모든 정보로 다음 토큰을 순차 생성하므로, 프롬프트 작성보다 "무엇을 어떤 순서·구조로 모델 앞에 넣을지"가 중요. 사용자 의도를 목표·제약·성공 조건으로 해석, Context Window는 메모리가 아니라 작업 공간(창 안에 없으면 모름), RAG는 지식 DB가 아니라 필요한 조각을 창에 주입하는 방식이라는 정리
+* [Claude 세션 간 Context Handoff: 맥락을 잃지 않는 4계층 전략 | epril](https://codex.epril.com/claude-session-context-handoff-4-layer-strategy/)
+  * 컨텍스트 창이 200K에서 1M으로 늘어도 세션이 끝나면 어제의 결정·폐기한 가설·제약 조건이 증발하고, auto-compact는 품질이 가장 떨어진 순간에 요약하며 필요한 맥락을 잘라내기도 함. Claude Code 공식 문서·Anthropic 엔지니어링 블로그·커뮤니티 사례를 종합해 언제 어떤 계층으로 handoff할지 정리
+* [Your MCP Server Is Eating Your Context Window. There's a Simpler Way | Apideck](https://www.apideck.com/blog/mcp-server-eating-context-window-cli-alternative)
+  * GitHub·Slack·Sentry만 연결해도 도구 약 40개의 정의로 사용자 메시지를 읽기도 전에 55,000토큰을 씀(도구당 550~1,400토큰, MCP 서버 3개가 200K 중 143K를 쓴 사례). 수십 개 엔드포인트를 도구로 전부 노출하는 대신 에이전트가 필요할 때 호출하는 CLI로 대체하자는 제안
 * [2507.13334 A Survey of Context Engineering for Large Language Models](https://arxiv.org/abs/2507.13334)
   * [‘Context Engineering’을 주제로 한 160페이지가 넘는 리서치 서베이](https://www.linkedin.com/posts/jaeyunhenrylee_%EC%99%80%EC%9A%B0-%EB%8C%80%EB%B0%95-%EA%B6%81%EA%B8%88%ED%96%88%EB%8D%98-%EB%82%B4%EC%9A%A9%EC%9D%84-%ED%95%9C%EB%B2%88%EC%97%90-%EB%8B%A4-%EC%A0%95%EB%A6%AC%ED%95%B4%EC%A4%8D%EB%8B%88%EB%8B%A4-%ED%98%84%EC%9E%AC-%EB%A7%8E%EC%9D%80-%EB%B6%84%EB%93%A4%EC%9D%B4-activity-7352114484351561730-e3Yi/)
   * [이제는 더욱 중요한 '컨텍스트'를 설계해야 할 때](https://www.linkedin.com/feed/update/urn:li:activity:7343801990730104832/) AI 에이전트를 도입하기 전 '워크플로 정리'가 중요
@@ -2038,6 +2058,8 @@ Artificial Intelligence
 * [context-engineering-langGraph: context-engineering-langGraph](https://github.com/sw-woo/context-engineering-langGraph)
 * [context-hub: Curated, versioned docs for coding agents](https://github.com/andrewyng/context-hub)
   * [Context Hub란 무엇인가? - 코딩 에이전트를 똑똑하게 만드는 문서 관리 허브](https://digitalbourgeois.tistory.com/2889)
+  * [GitHub - andrewyng/context-hub | 신재현 | LinkedIn](https://www.linkedin.com/posts/%EC%9E%AC%ED%98%84-%EC%8B%A0-b26183272_github-andrewyngcontext-hub-activity-7437333063526723586-BKma)
+    * 코딩 에이전트가 학습 시점 이후 바뀐 API를 반영하지 못해 폐기된 파라미터·맞지 않는 JSON 스키마·옛 SDK 예시를 내놓는 "Agent Drift" 문제를 짚고, 웹 HTML을 긁는 대신 에이전트가 읽도록 정리된 최신 API 문서 레지스트리인 Context Hub를 소개
   * Andrew Ng의 프로젝트. 에이전트에게 큐레이션된 API 문서 제공, 세션 간 학습·피드백으로 점진 개선
 * context rot
   * [OpenAI, 구글, 클로드 다 마찬가지... 입력 길이 길어지면 생각보다 훨씬 더 성능 떨어진다 - 어떻게 대응해야 하나 | 컨텍스트 엔지니어링 - YouTube](https://www.youtube.com/watch?v=EbN_DWM3DJc)
@@ -2049,6 +2071,9 @@ Artificial Intelligence
     * LangChain 프로덕트팀 Nathan Drezner. Managed Deep Agent에 스케줄을 추가해 누가 묻지 않아도 cron으로 실행하고 결과를 전달—매주 월요일 Salesforce 파이프라인 요약을 Slack에 게시하는 예시. 스케줄 문법, 월요일 cron job+프롬프트 구성, Slack 전달 설정, 같은 에이전트가 주중에는 애드혹 질문에도 계속 답하는 모습
 * [fenic: Declarative context engineering for agents](https://github.com/typedef-ai/fenic)
   * [What is fenic? - fenic, by typedef](https://docs.fenic.ai/)
+* [OpenContext — A personal context store for AI agents and assistants](https://0xranx.github.io/OpenContext/)
+  * [OpenContext: A personal context store for AI agents and assistants—reuse your existing coding agent CLI (Codex/Claude/OpenCode) with built‑in Skills/tools and a desktop GUI to capture, search, and reuse project knowledge across agents and repos | 0xranx](https://github.com/0xranx/OpenContext)
+  * Codex·Claude·OpenCode 같은 기존 코딩 에이전트 CLI를 그대로 쓰면서, 내장 스킬·도구와 데스크톱 GUI로 프로젝트 지식을 담아 두고 검색해 여러 에이전트·레포에서 재사용하는 개인 컨텍스트 저장소. JavaScript, MIT, 1.3k stars
 
 ## Harness Engineering
 * [Harness engineering: leveraging Codex in an agent-first world | OpenAI](https://openai.com/index/harness-engineering/)
@@ -2182,6 +2207,12 @@ Artificial Intelligence
 * [Building a design harness | Will Newton on X](https://x.com/willdjthrill/status/2098205382195953873)
   * [나만의 디자인 하네스 만들기 | GeekNews](https://news.hada.io/topic?id=34096)
   * 코딩이 아니라 **디자인 작업을 위한 하네스**—에이전트의 행동 규칙과 디자인 기준을 담은 텍스트 폴더를 기반으로 캔버스·HTML 프로토타입·실제 코드를 오가며 작업. 규칙 파일과 디자인 참조 파일에 도구 사용법·금지 사항·디자인 토큰·작업 방식을 기록하고, 세션마다 교정 내용을 반영하되 오래된 규칙은 정리
+* [The Harness Is the Company | Shrivu Shankar](https://blog.sshh.io/p/the-harness-is-the-company)
+  * [하네스가 곧 회사다 | GeekNews](https://news.hada.io/topic?id=34718)
+  * 하네스를 LangGraph나 코딩 에이전트에 한정하지 않고 상태 없는 LLM을 둘러싼 인프라·인터페이스·맥락·상태 전체로 넓혀 보면, 모든 SaaS는 모델을 감싼 하네스가 된다는 주장. 하네스 없음 → 개인이 하네스를 운용 → 개인이 백그라운드 에이전트를 조율 → 하네스가 스스로 할 일을 정하고 사람을 조율(전수 검토가 표본 검토로)의 4단계를 거쳐 회사 자체가 하네스가 되고, 조직도는 사람의 안목과 판단을 어디에 쓸지의 문제가 됨
+  * 완전 무인화가 아니라 하네스가 사람 입력이 가장 중요한 지점을 골라 주의를 배분하는 구조. 무엇을 만들고 결과를 어떻게 검토할지 정하는 최상위 하네스는 직접 소유하고, 개별 작업에는 외부 제품을 연결하라는 조언
+* [더 이상 Claude를 프롬프팅하지 않습니다 | Sujin Kang Ph.D. | LinkedIn](https://www.linkedin.com/posts/sujin-prompt-engineer_promptengineering-loopengineering-contextengineering-share-7479012980769124352-dBcp/)
+  * Claude Code를 이끄는 Boris Cherny가 "이제 내 일은 프롬프트를 쓰는 게 아니라 Claude를 프롬프팅하는 루프를 설계하는 것"이라고 한 말에서 출발해, 약 4년간 최적화 단위가 Prompt → Context(2025, Anthropic) → Harness(2026-02, Mitchell Hashimoto의 "Agent = Model + Harness") → Loop(2026-06-07, Addy Osmani 명명. 하네스를 타이머에 올리고 서브에이전트를 만들어 스스로 일을 공급하는 오케스트레이션 계층)로 옮겨 온 흐름 정리
 * [2604.14228 Dive into Claude Code: The Design Space of Today's and Future AI Agent Systems](https://arxiv.org/abs/2604.14228)
   * [Dive-into-Claude-Code: Build Your Own AI Agent - A Design Guide](https://github.com/VILA-Lab/Dive-into-Claude-Code)
   * [Claude Code 아키텍처 분석: 에이전트 성능은 모델이 아니라 시스템 전체의 결과 | digitalbourgeois](https://digitalbourgeois.tistory.com/3257)
@@ -2213,6 +2244,11 @@ Artificial Intelligence
   * [코딩 에이전트 하네스 설계에 관한 실증 연구 | GeekNews](https://news.hada.io/topic?id=33905)
   * 하네스를 통째로 비교하던 기존 연구와 달리 ReAct 실행 루프를 고정한 경량 하네스에서 계획·행동 공간·컨텍스트 관리 세 구성요소만 바꿔 4개 모델 × SWE-Bench Verified·Terminal-Bench 2.1에서 176개 설정을 비교(컨텍스트 관리 5개 정책 × 컨텍스트 창 4개 예산). ①컨텍스트 관리는 창이 좁을수록 가치가 커지고 이득의 대부분이 컨텍스트 오버플로 실패 방지에서 나옴 ②규칙 기반 생략을 LLM 요약보다 먼저 두는 단계 구성이 효율 최고이고, 생략한 내용을 되살리는 장치는 모델이 거의 쓰지 않아 정확도 이득 없음
   * ③계획은 약한 모델에선 정확도 보조 장치, 강한 모델에선 비용 절감 장치로 역할이 바뀌며 정확도 변화는 작음 ④전용 도구는 bash가 서툰 모델에 도움이 되지만 능숙한 모델은 bash만으로도 잘 동작하며 특히 CLI 중심 작업에서 비용이 크게 낮음. 궤적 분석으로 설명—컨텍스트 관리는 행동을 바꾸지 않고 궤적을 늘리고, 계획은 궤적이 멈추는 지점을 바꾸고, 행동 공간은 코드를 쓰는 granularity를 바꾼다. 선행 비교에서 Claude-Opus-4.5는 OpenHands, Claude-Sonnet-4.5는 SWE-Agent에서 최고였던 것처럼 모델별 하네스 선호가 다르다는 문제의식
+* [2609.26781 Agensh: Scaling Organizational Intelligence to 1,024 Agents](https://arxiv.org/abs/2609.26781)
+  * [Agensh: Scaling Organizational Intelligence to 1,024 Agents](https://agens-harness.github.io/project/)
+  * [Agensh 논문 리뷰: 오케스트레이터 없는 멀티 에이전트 하네스 설계와 Claude Code 에이전트 팀 적용법 | THE AX LABS](https://theaxlabs.com/blog/agensh-multi-agent-harness-paper-review)
+  * Microsoft Research(Furu Wei 등). 중앙 오케스트레이터 없이 워커들이 스스로 하위 작업을 선점(CLAIM)하고, 공유 워크스페이스·메시지 인터페이스·추가 전용 공유 컨텍스트로 발견을 나누고 검증·병합하는 자기 조직형 멀티 에이전트 하네스. 오케스트레이터 용량이 협업의 병목이라는 진단
+  * 같은 모델·Copilot 하네스·6시간·인터넷 없이 ProgramBench로 pandoc을 처음부터 재구현할 때 에이전트 1→1,024개로 테스트 통과율 33.89%→55.06%(상대 +62%), 가장 어려운 5개 과제 평균은 1→128개에서 19.31%→28.78%. 규모가 커지며 동료 조율→다중 워커 통합→표준화된 워크플로→역할 분화가 저절로 나타남. 리뷰 글은 Claude Code 에이전트 팀에 붙이는 공유 보드 스크립트·훅·워커 프롬프트까지 제공(코드 저장소는 9월 29일 기준 비공개)
 * [Agent Harness Engineering | AddyOsmani.com](https://addyosmani.com/blog/agent-harness-engineering/)
   * [하네스 엔지니어링: 모델보다 중요한 작업 환경 설계의 시대 | GeekNews](https://news.hada.io/topic?id=28966)
   * 모델보다 harness(프롬프트·도구·컨텍스트 정책·훅·샌드박스·피드백 루프)가 결과 좌우. 모델 비교 대신 작업 환경 설계가 핵심
@@ -3029,11 +3065,16 @@ Artificial Intelligence
   * [Here's to the wanting. Here's to the dreaming. Here's to everyone. | Alexandr Wang on X](https://x.com/alexandr_wang/status/2103551714536439951)
     * [알렉산더 왕: 내가 Muse를 만드는 이유 | GeekNews](https://news.hada.io/topic?id=34295)
     * Meta의 Muse 제품 발표—가족과 시간을 보내거나 가게를 열고 싶은 꿈이 있어도 어디서 시작할지 몰라 포기하는 사람들을 위해, **무엇을 원하는지 함께 알아내고 실제로 이루도록 돕는 개인 AI 에이전트**. 막연한 바람을 구체적 계획으로 바꾸고 이메일·전화 등 실행까지 대행
+  * [Meta Muse for Mac, 파일·메일·메시지까지 직접 다루는 개인 AI 에이전트 | digitalbourgeois](https://digitalbourgeois.tistory.com/3699)
+    * Meta가 2026-09-19 공개한 Muse의 첫 데스크톱 버전(9월 8일 미국에서 iOS·Android·웹·WhatsApp용 출시). Files·Mail·Messages·Calendar·Notes에 흩어진 정보를 하나의 작업 맥락으로 모아 폴더 정리, 파일 정보로 양식 작성, 이메일·메시지·노트를 종합한 하루 요약 등을 수행
+    * 컴퓨터 접근 범위는 사용자가 고르고, 파일 삭제·메시지 전송 같은 중요한 작업은 별도 승인 필요. 오픈 모델이 아니라 클라우드 기반 소비자용 에이전트이며, 현재 미국에서만 무료 macOS 다운로드로 제공
 * [MLIR: A new intermediate representation and compiler framework](https://medium.com/tensorflow/mlir-a-new-intermediate-representation-and-compiler-framework-beba999ed18d)
   * [MLIR: accelerating AI with open-source infrastructure](https://www.blog.google/technology/ai/mlir-accelerating-ai-open-source-infrastructure/)
 * [Model Context Protocol](https://modelcontextprotocol.io/)
   * [MCP 프로토콜이 7월 28일에 완전히 바뀝니다 (Release Candidate) | Jeongmin Lee | LinkedIn](https://www.linkedin.com/posts/jyoung105_mcp-%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C%EC%9D%B4-7%EC%9B%94-28%EC%9D%BC%EC%97%90-%EC%99%84%EC%A0%84%ED%9E%88-%EB%B0%94%EB%80%9D%EB%8B%88%EB%8B%A4-release-candidate-share-7465178125644238848-m7Lx/)
     * 원격 MCP 서버 운영의 고질병(sticky session, session store 공유, 로드밸런서 설정)을 끝내는 대격변—**프로토콜 자체가 stateless로 전환**. 달라지는 점 8가지 정리
+  * [MCP 2.0 스펙 대개편의 핵심인 완전한 '상태 없음(Stateless)' 코어로의 전환 | ideas27981](https://ideas27981.tistory.com/91)
+    * 2026년 7월 개편된 MCP 2.0은 초기 핸드셰이크와 세션 ID를 없애고 모든 요청이 필요한 컨텍스트를 스스로 담는 stateless 구조로 전환한 breaking change. stdio 단일 프로세스에선 괜찮던 stateful 구조가 원격 HTTP/SSE로 확장되며 수천 세션을 RAM에 들고 있는 비용과 같은 서버로만 보내야 하는 로드밸런싱 문제를 낳았다는 배경, 예시와 활용 방안 정리
   * [🚀 MCP: 웹 검색부터 파일 관리까지, AI의 한계를 확장하는 표준 기술](https://fornewchallenge.tistory.com/entry/%F0%9F%9A%80-MCP-%EC%9B%B9-%EA%B2%80%EC%83%89%EB%B6%80%ED%84%B0-%ED%8C%8C%EC%9D%BC-%EA%B4%80%EB%A6%AC%EA%B9%8C%EC%A7%80-AI%EC%9D%98-%ED%95%9C%EA%B3%84%EB%A5%BC-%ED%99%95%EC%9E%A5%ED%95%98%EB%8A%94-%ED%91%9C%EC%A4%80-%EA%B8%B0%EC%88%A0)
   * [How do we connect MILLIONS of AI agents seamlessly in the future?](https://www.linkedin.com/posts/andreashorn1_%F0%9D%97%9B%F0%9D%97%BC%F0%9D%98%84-%F0%9D%97%B1%F0%9D%97%BC-%F0%9D%98%84%F0%9D%97%B2-%F0%9D%97%B0%F0%9D%97%BC%F0%9D%97%BB%F0%9D%97%BB%F0%9D%97%B2%F0%9D%97%B0%F0%9D%98%81-%F0%9D%97%A0%F0%9D%97%9C%F0%9D%97%9F%F0%9D%97%9F%F0%9D%97%9C%F0%9D%97%A2%F0%9D%97%A1%F0%9D%97%A6-activity-7307291029890596864-yVh2/)
     * ![](https://media.licdn.com/dms/image/v2/D4D22AQHGGgmxS-3nhg/feedshare-shrink_800/B4DZWi2dqEG4Ak-/0/1742193942959?e=1745452800&v=beta&t=xen3hapetzGazSrXD4lw7KYZfIxVcKFqEkyHaoNgJYg)
@@ -4578,10 +4619,14 @@ Artificial Intelligence
 * [Agentic-Bug-Hunter: AI-powered bug bounty hunting toolkit that works with or without subscription](https://github.com/Awarexone/Agentic-Bug-Hunter)
   * [AwareXone — Security for the agentic era](https://www.awarexone.com/)
   * 구독 없이도 동작하는 AI 기반 버그바운티 툴킷. 정찰·취약점 스캔·CTI를 Claude Code와 엮어 HackerOne·Bugcrowd 워크플로에 적용. Python, MIT, 5k stars. 말레이시아 기반 AwareXone(소셜 엔지니어링·오펜시브 보안·위협 인텔리전스 서비스)의 오픈소스 프로젝트 중 하나로, AXguard·Public Skills Builder·Web3 Bounty Skills도 함께 공개
+* [ai-security-checklist-prompt.md: The ultimate all-in-one security checklist prompt for artificial intelligence (AI) | zeamp](https://github.com/zeamp/ai-security-checklist-prompt.md)
+  * 언어·프레임워크와 무관하게 AI에게 코드베이스 전체의 보안 검토를 시키는 재사용 프롬프트. 인증·인가, 접근 제어, 입력 검증·인젝션, API 보안, 민감 정보 노출, 하드코딩된 비밀, 파일 처리, 세션, rate limit, 비즈니스 로직, 설정·배포, 의존성·공급망을 점검
+  * 분석→식별→계획→수정→검증→보고 흐름으로 변경 전 먼저 검토하고, 심각도 순으로 정리해 최소한의 보안 수정만 하며 새 문제가 없는지 확인. 빠진 모범 사례를 모두 치명적 취약점으로 취급하지 말고 실제 취약점과 일반 권고를 구분하게 함. 전문 모의해킹·수동 검토를 대신하지 않는다는 단서. GPL-3.0
 * [AiSOC by Cyble, the autonomous SOC](https://tryaisoc.com/)
   * Cyble의 자율 SOC 플랫폼(동명의 오픈소스 AiSOC와는 별개 상용 제품)
 * [AiSOC: Open-source AI-powered Security Operations Center](https://github.com/beenuar/AiSOC)
   * 오픈소스 AI 기반 보안 관제 센터(SOC). 알림 융합, 퍼플팀 훈련, 에이전트 보조 트리아지, MITRE ATT&CK 조사. MIT, 셀프호스팅. Python, 1.6k stars
+* [ARTEX: AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目](https://github.com/Autumn-27/ARTEX)
 * [claude-bug-bounty: BugHunter — AI-powered bug bounty hunting toolkit](https://github.com/shuvonsec/claude-bug-bounty)
   * [ShuvonSec — Ethical Hacker & AI Agent Builder](https://shuvonsec.me/)
   * 정찰(서브도메인 열거·호스트 발견·URL 크롤링)→헌팅(20개 웹 취약점+10개 스마트컨트랙트 버그 스캔)→검증(7문항 게이트로 false positive 필터)→HackerOne/Bugcrowd 제출용 리포트 생성. CLI+Claude Code 플러그인, Ollama(로컬)/Groq(무료)/DeepSeek 등 무료 AI 프로바이더, 세션 간 패턴 기억·취약점 체이닝. 승인된 스코프 내 사용 강조
@@ -4919,6 +4964,11 @@ Artificial Intelligence
   * [이 글은 Amazon에서 AI 에이전트를 기반으로 코드 작성 뿐만 아니라, 업무 워크플로우를 재구성한 팀들로부터 측정된 결과들을 바탕으로 SW 개발자들이 일하는 방법을 위한 열 가지 원칙 | 윤석찬 | Facebook](https://www.facebook.com/channyblog/posts/pfbid02kZm91VoosnCfNARJyaJSFg652Fk8cyoLUrxiDXqgSK5tboFqJ6QtbKAfd7CTGJoKl)
     * Kiro 원문을 요약하며 개인 의견을 더한 10가지 원칙 한국어 정리(2026-09-14): ①코더가 아니라 아키텍트—직접 타이핑하는 코드는 1% 미만, 요구사항·제약·완료 기준을 글로 명확히 쓰는 훈련 ②에이전트 시간은 최대로 사람 개입은 최소로—구현·테스트·검증을 포함한 30분 이상 작업을 맡기고 밤새 병렬 실행 후 아침에 검토 ③에이전트를 위한 코드베이스—README·아키텍처 문서·모듈 경계를 코드처럼 관리, 에이전트는 매 세션 온보딩하므로 맥락을 명시적으로 ④에이전트에게 테스트 환경—린터·단위 테스트·브라우저 테스트로 스스로 검증하게 ⑤중요한 것은 방향성—설계 단계에서 대안 아키텍처 2~3개를 프로토타입으로 비교
     * ⑥코드는 일회용—단위 테스트는 버려도 E2E·속성 기반·부하 테스트 같은 경계 테스트는 유지 ⑦AI 코드에 인간 기준—처음엔 한 줄씩 리뷰해 감을 쌓고 이후 AI 리뷰어로 부담 이전, 루프를 배포·모니터링·롤백까지 확장 ⑧에이전트가 아니라 경계를 신뢰—최소 권한 환경에서 자율 실행, 프로덕션 자격증명은 절대 금지 ⑨모든 개발 주기에 에이전트—설계 문서·스프린트 요약·온콜 리포트까지, 스펙·MCP·스킬을 공유하는 에이전트 코드베이스 ⑩에이전트 설정을 끊임없이 튜닝—실수마다 스펙·스킬 갱신, 새 모델이 나오면 이전 약점 우회 규칙 재평가. 개발자가 키워야 할 장기 역량은 자신의 주의력 관리
+* [The Software Development Lifecycle Is Dead | Boris Tane](https://boristane.com/blog/the-software-development-lifecycle-is-dead/)
+  * AI 에이전트는 SDLC를 빠르게 만든 게 아니라 없앴다는 주장. 요구사항→설계→구현→테스트→리뷰→배포→모니터링으로 단계마다 Jira·Figma·VS Code·Jest·GitHub·AWS·Datadog 같은 도구와 인수인계가 있던 순차 생애주기가, 코딩 에이전트와 일하면 의도에서 바로 동작하는 결과로 이어지는 하나의 루프로 무너진다는 것. "10배 개발자 도구"라는 프레임은 흐름은 그대로 두고 속도만 올린다고 가정해서 틀렸다는 지적
+* [사람에게 좋은 코드가 AI에게도 좋을까 | Yongkwon Park | LinkedIn](https://www.linkedin.com/pulse/%EC%82%AC%EB%9E%8C%EC%97%90%EA%B2%8C-%EC%A2%8B%EC%9D%80-%EC%BD%94%EB%93%9C%EA%B0%80-ai%EC%97%90%EA%B2%8C%EB%8F%84-%EC%A2%8B%EC%9D%84%EA%B9%8C-yongkwon-park-dz4cc/)
+  * 코드 작성·리뷰·수정을 AI가 맡고 사람의 줄 단위 리뷰가 사라져도 책임은 사람에게 남는다는 문제의식. 좋은 코드의 기준이 동료 엔지니어를 위한 배려였다면, 이제는 AI가 추측해야 할 일을 줄이는 코드인지 물어야 한다는 "AI 지향 프로그래밍" 관점. OOP와 DOP 비교에서 출발
+  * 저장소 수준의 네 가지 기준: 관련 코드·규칙·테스트·문서를 찾을 수 있는 발견 가능성과 의미·제약이 드러나는 명시성, 하나의 변경에 필요한 정보가 가까이 모인 작업 맥락의 지역성, 빌드·테스트·타입·구조 검사로 결과를 확인하는 검증 가능성, 다음 세션에서 무엇을 어디까지 했는지 기록으로 되살리는 복원 가능성
 * [2603.21439 LLM-Powered Workflow Optimization for Multidisciplinary Software Development](https://arxiv.org/abs/2603.21439)
   * [AGI KR](https://www.facebook.com/groups/255834461424286?multi_permalinks=2911883062486066)
   * Volvo Group 사례: 그래프 기반 워크플로우 최적화로 API당 개발 시간 5시간→7분, 총 979시간 절감. F1 93.7%. FSE 2026 Industrial Track 채택
@@ -5230,6 +5280,9 @@ Artificial Intelligence
   * [Hypit 공식 사이트](https://hypit.ai/)
   * 바이럴 영상을 AI 에이전트로 복제—스크립트만이 아니라 얼굴·대사·B-roll까지 전체 워크플로우를 바꿔치기해 한 명령으로 100개 변형 영상을 생산. TypeScript, 12.4k stars
 * IconScout [Download 10.1 Million+ Icons, Illustrations, 3D Illustrations, and Lottie Animations | IconScout](https://iconscout.com/)
+* [IsolatedTester: AI-powered isolated app testing for macOS. Launch apps on virtual displays, control them with vision LLMs, and integrate with any code editor via MCP or REST API | AgewellEPM](https://github.com/AgewellEPM/IsolatedTester)
+  * 비공개 CoreGraphics API로 보이지 않는 가상 디스플레이를 만들어 .app을 그 위에서 실행하고, Claude·GPT·Claude Code CLI가 스크린샷→추론→행동 루프로 UI를 조작해 동작을 검증하는 macOS 앱 테스트 도구. 실제 화면은 건드리지 않음. CGEvent로 입력 합성, ScreenCaptureKit로 캡처
+  * `./install.sh` 한 번으로 MCP 서버를 Claude Code에 등록하고 `/test-app`·`/test-screenshot`·`/test-elements`·`/test-cleanup` 슬래시 명령 제공(화면 기록·손쉬운 사용 권한 필요). CLI·HTTP REST로도 사용. Swift, MIT
 * [Keploy | Open Source AI-Powered API, Integration, Unit Testing Agent for Developers](https://keploy.io/)
   * [keploy: API, Integration, E2E Testing Agent for Developers that actually work. Generate tests, mocks/stubs for your APIs!](https://github.com/keploy/keploy)
   * [AI 시대 개발자를 위한 필수 테스트 도구, Keploy 완전 정복](https://digitalbourgeois.tistory.com/1964)
@@ -6153,6 +6206,8 @@ Artificial Intelligence
     * Claude Code/Cowork 통합 업데이트 요약. Remote Control(폰/웹에서 세션 접근), Scheduled Tasks(반복 워크플로우), 새 플러그인 레포, Auto Memory, Simplify/Batch 스킬 소개
   * [OAuth2 자동 인증으로 Gmail 자동화 완성: Claude Code MCP 서버 완벽 가이드](https://fornewchallenge.tistory.com/entry/%F0%9F%94%A5-OAuth2-%EC%9E%90%EB%8F%99-%EC%9D%B8%EC%A6%9D%EC%9C%BC%EB%A1%9C-Gmail-%EC%9E%90%EB%8F%99%ED%99%94-%EC%99%84%EC%84%B1-Claude-Code-MCP-%EC%84%9C%EB%B2%84-%EC%99%84%EB%B2%BD-%EA%B0%80%EC%9D%B4%EB%93%9C)
     * Gmail MCP 서버로 이메일 발송/수신/검색/라벨 관리를 자연어로 처리. Google Cloud OAuth 2.0 설정부터 Claude Code 연동, 첨부파일·HTML 이메일·일괄처리까지 실전 가이드
+  * [클로드 코드 고수들은 이미 쓰고 있는 MCP 4가지 | EP.02 - Theuxlabs - YouTube](https://www.youtube.com/watch?v=Pbtp17aZ7k4)
+    * MCP를 스마트폰 앱에 빗대 설명하고 코딩 없이 설치하는 26분 입문 영상. Playwright(브라우저 자동화), Context Server(최신 공식 문서 참조), Firecrawl(웹 크롤링·엑셀 데이터 추출), Sequential Thinking(단계별 추론) 4가지를 직접 설치해 보고, 여러 MCP를 조합해 경쟁사 분석 보고서를 만드는 실전 예제
   * [Ralph Wiggum 개발법: 코딩 에이전트를 밤새 돌리는 요령](https://daleseo.com/ralph-wiggum/)
     * Bash while 루프로 AI 코딩 에이전트 지속 실행. 스펙 기반 구현부터 공식 플러그인 설치까지 밤새 자동화
   * [한영자막 99%의 사람들보다 Claude를 더 잘 쓰는 방법 - YouTube](https://www.youtube.com/watch?v=_2TIdXgj0wk)
@@ -7831,6 +7886,8 @@ Artificial Intelligence
   * AI 에이전트 스킬 통합 관리 데스크톱 앱. Claude Code, Cursor 등 11+ 코딩 플랫폼의 스킬을 설치·활성화·공유하는 통합 인터페이스
 * [SkillsManager: A macOS application for discovering, browsing, and installing skills for AI coding assistants | tddworks](https://github.com/tddworks/SkillsManager)
   * GitHub 레포(anthropics/skills 등)나 로컬 디렉터리에서 스킬을 탐색·설치·태깅하는 macOS 앱—Claude Code·Codex 양쪽에 설치, 다중 카탈로그, 전역 커스텀 태그. 위 zunalabs의 Skills Manager와는 동명의 별개 프로젝트. Swift 6.2, 168 stars
+* [sleepless-agent: 🤖 24/7 AI agent that maximizes Claude Code Pro usage via Slack. Auto-processes tasks, manages isolated workspaces, creates Git commits/PRs, and optimizes day/night usage thresholds | context-machine-lab](https://github.com/context-machine-lab/sleepless-agent)
+  * Slack으로 작업을 넘기면 24시간 돌며 Claude Code Pro 사용량을 최대한 쓰는 에이전트. 작업마다 격리된 워크스페이스에서 처리해 Git 커밋·PR까지 만들고, 낮과 밤의 사용량 임계값을 따로 조정. Python, MIT, 832 stars
 * [slides-grab: AI-powered HTML slide generation and visual editing](https://github.com/vkehfdl1/slides-grab)
   * AI 에이전트(Claude Code/Codex)로 HTML/CSS 슬라이드 생성·편집. 드래그 선택→에이전트 수정, PDF/PPTX/Figma 내보내기, 동영상 삽입(yt-dlp), tldraw 다이어그램, 테마·템플릿 시스템
 * [Swark: AI-Powered Software Architect](https://www.swark.io/)
@@ -7851,6 +7908,9 @@ Artificial Intelligence
   * Claude Code/Codex/Cursor/Gemini 등 11개 도구 토큰 사용량 추적. 로컬 전용(클라우드 업로드 없음), 웹 대시보드+macOS 메뉴바+4개 위젯, 250+ 스킬 매니저, 7개 프로바이더 레이트 리밋 모니터링
 * [Trae - Ship Faster with Trae](https://www.trae.ai/)
   * [Bytedance에서 Cursor와 같은 AI기반 IDE 툴인 Trae를 발표](https://www.linkedin.com/posts/duckjungkim_%EC%A4%91%EA%B5%AD%EA%B8%B0%EC%97%85%EC%9D%B8-bytedance%EC%97%90%EC%84%9C-cursor%EC%99%80-%EA%B0%99%EC%9D%80-ai%EA%B8%B0%EB%B0%98-ide-%ED%88%B4%EC%9D%B8-activity-7297259258935484416-Fhv_)
+* [TUICommander — The IDE that understands AI agents](https://tuicommander.com/)
+  * [tuicommander: The IDE that understands AI agents. Run parallel agents on isolated branches with full observability. Diffs, PRs, CI, usage dashboards — one workspace, zero context loss | sstraus](https://github.com/sstraus/tuicommander)
+  * Claude Code·Gemini CLI·Codex·Aider·Amp·OpenCode·Cursor·Goose 등 코딩 에이전트 10종을 자동 인식해, 여러 브랜치에서 병렬로 돌리며 에디터·Git·diff·PR·CI 상태·사용량 대시보드를 한 워크스페이스에서 보여 줌. 어느 에이전트가 rate limit에 걸렸는지, Y/N 확인을 기다리는지 먼저 알려 주는 게 핵심. macOS·Linux·Windows, Rust, Apache-2.0
 * [v0 by Vercel](https://v0.dev/)
   * [Vibe Coding 기업 적응기 Part1: v0.dev와 함께한 3주간의 기록 | by crowdworks | 크라우드웍스 Tech Blog | Apr, 2025 | Medium](https://medium.com/crowdworks-tech/vibe-coding-%EA%B8%B0%EC%97%85-%EC%A0%81%EC%9D%91%EA%B8%B0-part1-v0-dev%EC%99%80-%ED%95%A8%EA%BB%98%ED%95%9C-3%EC%A3%BC%EA%B0%84%EC%9D%98-%EA%B8%B0%EB%A1%9D-7fdb290e3535)
   * [Next.js + shadcn/ui 개발, AI UI 생성 도구 뭐 쓸까? v0 vs Lovable 비교 후기!](https://www.facebook.com/groups/1183007433518603/posts/1186112866541393/)
@@ -8029,6 +8089,8 @@ Artificial Intelligence
     * 느슨한 명세 -> AI가 지맘대로 만들어 품질 불안정(계획과 결과 사이의 갭)
     * 다만 엄격한 명세에서도 품질 불안정은 발생, 즉 SDD 자체에 품질 감소가 내재
       * SDD는 prompting discipline은 개선하지만, clarify 이후 단계에서 agent가 scaffolding에 갇혀 잘못된 선택에 commit하는 품질 감소 발생
+* [spec-workflow-mcp: A Model Context Protocol (MCP) server that provides structured spec-driven development workflow tools for AI-assisted software development, featuring a real-time web dashboard and VSCode extension | Pimzino](https://github.com/Pimzino/spec-workflow-mcp)
+  * 요구사항→설계→작업 단계의 스펙 주도 개발 흐름을 MCP 도구로 제공하는 서버. 실시간 웹 대시보드와 VS Code 확장으로 프로젝트 진행 상황을 개발 환경 안에서 보고 관리. TypeScript, GPL-3.0, 4.3k stars
 * [Structured-Prompt-Driven Development SPDD | Martin Fowler](https://martinfowler.com/articles/structured-prompt-driven/)
   * [Structured Prompt-Driven Development SPDD | 박상길](https://www.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_structured-prompt-driven-development-spdd-share-7456298777155637248-kvX5/)
   * Thoughtworks가 제안한 SPDD. 프롬프트를 버전화·리뷰 가능한 아티팩트로 취급. REASONS Canvas 7부(Requirements/Entities/Approach/Structure/Operations/Norms/Safeguards)로 LLM 생성 코드 경계 설정. 추상화 우선·의도 정렬·반복 리뷰 3가지 핵심 역량
