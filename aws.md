@@ -2699,6 +2699,8 @@ AWS
 * [Amazon SageMaker와 Airflow를 이용한 SK브로드밴드의 MLOps 플랫폼 구축 사례 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/skb-sagemaker-airflow-mlops-platform/)
 * [이미지 비디오 Multi-modal 추론 모델, LLaVA-NeXT-Video 모델을 Amazon SageMaker에 배포하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/hosting-llava-next-video-model-on-amazon-sagemaker-endpoint/)
 * [티머니의 MLOps 구현 사례 : Amazon SageMaker를 활용한 배차모델 자동화 및 배포 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/tmoney-sagemaker-mlops-case/)
+* [Disaggregated prefill and decode for LLM inference on SageMaker HyperPod | AWS Machine Learning Blog](https://aws.amazon.com/ko/blogs/machine-learning/disaggregated-prefill-and-decode-for-llm-inference-on-sagemaker-hyperpod/)
+  * 연산 집약적인 prefill(프롬프트 전체를 병렬 처리해 KV 캐시 생성)과 메모리 대역폭 집약적인 decode(토큰 하나씩 생성)를 한 GPU에서 돌리면 긴 프롬프트가 동시 요청의 토큰 생성을 막음. 두 단계를 EFA·RDMA로 연결된 별도 GPU 풀에서 돌리는 DPD로 TTFT와 토큰 간 지연을 따로 조정하고 chunked prefill 튜닝보다 꼬리 지연을 안정적으로 제어. vLLM과 HyperPod Inference Operator로 구현하는 방법
 * [aws-ai-ml-workshop-kr: A collection of localized (Korean) AWS AI/ML workshop materials for hands-on labs.](https://github.com/aws-samples/aws-ai-ml-workshop-kr)
   * [aws-ai-ml-workshop-kr/genai/aws-gen-ai-kr/20_applications/02_qa_chatbot/10_hands_on_lab/02_rag_over_complex_pdf at master · aws-samples/aws-ai-ml-workshop-kr](https://github.com/aws-samples/aws-ai-ml-workshop-kr/tree/master/genai/aws-gen-ai-kr/20_applications/02_qa_chatbot/10_hands_on_lab/02_rag_over_complex_pdf)
     * [Demo RAG Over Complex Document on AWS - YouTube](https://www.youtube.com/watch?v=8YpfTuEbqJk)
