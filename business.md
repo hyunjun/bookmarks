@@ -3492,6 +3492,10 @@ Business
 * [Hitting OKRs vs Doing Your Job – Jessitron](https://jessitron.com/2025/01/05/hitting-okrs-vs-doing-your-job/)
   * [OKR 달성하기 vs. 업무 수행 하기 | GeekNews](https://news.hada.io/topic?id=18612)
 * [Alignment와 communication. 이들이 조직에서 OKR을 사용하는 목적이라 생각](https://www.linkedin.com/posts/spike-jee-480225a_okr%EC%97%90-%EB%8C%80%ED%95%9C-%EC%B1%85%EB%8F%84-%EA%B0%95%EC%9D%98%EB%8F%84-%EB%A7%8E%EC%9D%80-%EA%B2%83-%EA%B0%99%EC%A7%80%EB%A7%8C-%EB%82%98%EB%8A%94-%EA%B7%B8%EB%9F%B0-%EA%B1%B8-%EC%9D%BD%EA%B1%B0%EB%82%98-%EC%88%98%EA%B0%95%ED%95%B4-%EB%B3%B8-activity-7315888105566130177-QiOo)
+* [Operately: Open Source OKR and Project Management Software](https://operately.com/)
+  * [operately: The open source company operating system](https://github.com/operately/operately)
+  * COO 없이도 목표·프로젝트·팀을 조율하게 해 주는 오픈소스 "회사 운영체제". Notion·ClickUp처럼 무엇이든 만들 수 있지만 실행 방법은 알아서 하라는 도구 대신, 목표 리뷰·프로젝트 체크인·책임 프로세스 같은 검증된 워크플로를 내장한 의견이 분명한 시스템
+  * 측정 가능한 목표(OKR)를 프로젝트와 연결해 진행률이 자동 반영되고, 프로젝트마다 담당자·마일스톤·정기 비동기 체크인을 둬 상태 회의 없이 진행 상황 공유. 자체 호스팅 또는 클라우드, 무료로 시작. Elixir, Apache-2.0, 572 stars
 
 # Patent
 * 세기의 특허전쟁
@@ -4758,6 +4762,8 @@ Business
 * [Hardware is not so hard | Chip Weinberger](https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard)
   * [MIDI 레코더 2,500대를 판매하며 배운 것: 하드웨어는 그렇게 어렵지 않다 | GeekNews](https://news.hada.io/topic?id=31601)
   * 피아노 연주 자동 기록 장치 Jamcorder를 1년 반 만에 2,500대+ 판매한 경험담. 가장 어려운 건 하드웨어가 아니라 펌웨어·앱·제조 도구에 걸친 약 20만 줄의 소프트웨어였고, LLM 이전 환경에서 3년 넘게 소요
+* [1인 개발자가 시작해 수백조 기업이 된 쇼피파이 | 20년 동안 내린 결정 6가지 - 헤이제임스, 플랫폼 하나 만들어줘 - YouTube](https://www.youtube.com/watch?v=Vm1E3LriCY0)
+  * 개발자 한 명이 짠 코드에서 시작한 쇼피파이의 20년을 결정 6가지로 짚는 21분 영상. 월정액 0원 출시, 앱 9개로 시작한 생태계, 지분 14.6%로 회사를 쥔 방법, 구독이 아니라 결제 회사라는 사업 구조, 순이익 98%가 주식 평가이익이었던 시기, 세계 최대급 Rails 모놀리스, "AI를 안 쓰면 사람을 못 뽑는다" 원칙, 2026년 9월 네이티브로 돌아간 이유
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
