@@ -90,6 +90,43 @@ English
   * Let's not go there. — 그 얘긴 하지 말자.
   * Take it easy. — 진정해 / 너무 부담 갖지 마.
   * Don't tempt me. — 그러다 진짜 한다?
+* 바로 써먹는 실전 영어 표현 10개
+  * I'll be there soon. — 금방 갈게. (상대가 기다리고 있을 때)
+  * I'm almost ready. — 거의 준비됐어. (준비가 거의 끝났을 때)
+  * That works for me. — 그거 나도 좋아. (제안에 동의할 때)
+  * I didn't mean that. — 그런 의도 아니었어. (오해를 풀고 설명할 때)
+  * I'll think about it. — 생각해볼게. (바로 결정하지 않고 생각해 보겠다고 할 때)
+  * Let's take a break. — 잠깐 쉬자. (잠시 휴식이 필요할 때)
+  * I feel off. — 컨디션이 좀 그래. (몸이나 기분이 좋지 않을 때)
+  * I get it now. — 이제 알겠다. (이해가 됐을 때)
+  * I'll fix it later. — 나중에 고칠게. (지금은 어렵지만 나중에 처리할 때)
+  * Talk soon. — 곧 얘기하자. (대화를 마무리할 때)
+* 짧지만 느낌이 다른 영어표현
+  * 바로 반응할 때
+    * Let me check. — 한번 확인해볼게.
+    * Didn't expect that. — 그건 예상 못 했어.
+    * I don't get it. — 이해가 안 돼.
+    * I'll check later. — 나중에 볼게.
+    * Didn't mean that. — 그런 뜻으로 말한 건 아니야.
+  * 대화 흐름을 잡을 때
+    * What's your point? — 무슨 말을 하려는 거야?
+    * That's my point. — 내 말이 그거야.
+    * I'll take it. — 그걸로 할게.
+    * Just be honest. — 솔직히 말해.
+    * Let's move on. — 이제 넘어가자.
+* 짧게 반응하는 영어 10개
+  * 바로 반응할 때
+    * Got a sec? — 잠깐 시간 있어?
+    * Guess what. — 있잖아.
+    * Hold on. — 잠깐만.
+    * Makes sense. — 이해돼.
+    * Not sure. — 잘 모르겠어.
+  * 상황을 정리할 때
+    * I knew it. — 그럴 줄 알았어.
+    * Good call. — 잘 생각했네.
+    * I'm listening. — 말해봐.
+    * No worries. — 걱정 마.
+    * All good. — 괜찮아.
 * [allearsenglish.com/episodes](https://www.allearsenglish.com/episodes/)
 * [bbc.co.uk/learningenglish](http://www.bbc.co.uk/learningenglish/)
 * [cnn.com/cnn10](https://edition.cnn.com/cnn10)
