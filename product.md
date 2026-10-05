@@ -346,6 +346,9 @@ Product
 * [개발자를 위한 모니터 추천 / 가이드](https://velog.io/@workspace/monitor-for-developer)
   * [개발자를 위한 모니터 추천 / 가이드 | GeekNews](https://news.hada.io/topic?id=6782)
 * [KEFEYA S2 가장진화된랩탑 휴대용듀얼모니터모니터！ - YouTube](https://www.youtube.com/watch?v=LNTbNSJ2VIU)
+* [Sotsu FlipAction Elite 16" Monitor | Is this the best travel monitor for photographers? - Archipelago Presets - YouTube](https://www.youtube.com/watch?v=5n5oCtViRbI)
+  * [Sotsu FlipAction Elite 16](https://www.sotsu.com/products/flipaction-elite-16)
+  * 여러 가지 영리한 기능을 갖춘 16인치 휴대용 모니터 Sotsu FlipAction Elite의 언박싱과 첫인상 리뷰(4분). 사진가에게 가장 좋은 여행용 모니터인지 살펴봄
 
 ## Monitor Arm 노트북 거치대
 * [거북목 때문에 필사적으로 찾은 가성비, 휴대성, 퀄리티 만족시키는 노트북 거치대 3종 리뷰ㅣ내돈내산 - YouTube](https://www.youtube.com/watch?v=yy14Zc9SYms) 노트북 거치대/암
@@ -392,3 +395,5 @@ Product
 * [여름을 준비하는 블루투스 스피커, UE 롤](http://www.earlyadopter.co.kr/44918)
 * [건축에서 디자인 영감을 받은 블루투스 스피커](http://www.earlyadopter.co.kr/64024)
 * [이건 완전 추천할 수 밖에 없어요. 하이파이로즈 RS350 - YouTube](https://www.youtube.com/watch?v=duG6e3xOcSY)
+* [무료로 실시간 소리 계산기가 등장했습니다 - 삼아사운드 - YouTube](https://www.youtube.com/watch?v=ol1ps3w5Wkw)
+  * 음향 커뮤니티 스원포코가 새로 내놓은 무료 "실시간 음향 단위 계산기"로 음향 단위가 어떻게 계산되는지, 스피커 세팅·음향 측정에 실제로 어떻게 쓰는지 설명하는 18분 영상
