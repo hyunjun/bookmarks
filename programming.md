@@ -8039,6 +8039,9 @@ Programming
 * [AI handles incidents, engineers lose touch with their systems | Sylvain Kalache](https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems)
   * [AI가 장애를 처리할수록 엔지니어는 시스템 감각을 잃는다 | GeekNews](https://news.hada.io/topic?id=33263)
   * 전 LinkedIn SRE. AI 장애 대응 도구(AI SRE)가 알림 검토→가설→텔레메트리 조회→배포 상관관계→수정까지 처리하는 시대의 역설—루틴 장애는 대응자가 시스템 감각을 '안전하게' 기르는 훈련장인데, 자동화가 이를 대신할수록 사람은 연습 기회를 잃고 자동화가 못 푸는 모호한 고심각도 장애에서 곤경에 빠짐
+* [Anthropic Reliability Engineer EXPOSES the Limits of AI SRE - InfoQ - YouTube](https://www.youtube.com/watch?v=HnUSurYwp9o)
+  * Anthropic AI Reliability 팀 Alex Palcuie의 45분 InfoQ 강연. 실제 프로덕션 장애에서 Claude를 쓰는 방식과 왜 사람 SRE를 대체하지 못하는지. John Boyd의 OODA 루프로 보면 신호 수집(로그 파싱·이상 조사)은 초인적이지만, 복잡한 장애에서 상관을 인과로 착각하는 Orient 단계에서 위험하게 실패(KV 캐시 장애 사례). 새해 전야 사기 탐지, 프로덕션 Rust panic 조사 사례
+  * 자율주행 SAE 자율성 레벨을 소프트웨어 엔지니어링에 적용한 평가, 지금 장애 대응에 LLM을 넣는 실용 패턴 5가지, 장기적으로는 엔지니어 역량 퇴화와 제번스 역설을 경계해야 한다는 지적
 * [opslane: Reducing alert fatigue for on-call engineers](https://github.com/opslane/opslane)
   * [Opslane - 온콜 메시지를 통합해서 스트레스를 줄여주는 도구 | GeekNews](https://news.hada.io/topic?id=16074)
 
