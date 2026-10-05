@@ -664,6 +664,8 @@ Go
 * [Goroutines in Golang | Golang Concurrency | Go - YouTube](https://www.youtube.com/watch?v=2mPHg54oVcQ)
 * [A Deep Dive Into Go's Concurrency | by Kevin Vogel | Apr, 2022 | Better Programming](https://betterprogramming.pub/deep-dive-into-concurrency-of-go-93002344d37b)
 * [golang 동시성을 위한 고루틴(goro.. : 네이버블로그](https://blog.naver.com/pjt3591oo/223408198773)
+* [What canceled my Go context? | rednafi](https://rednafi.com/go/context-cancellation-cause/)
+  * `context canceled`·`context deadline exceeded`만으로는 클라이언트 연결 끊김, 부모 데드라인 만료, 서버 종료, 누군가의 `cancel()` 호출 중 무엇이 원인인지 알 수 없는 문제. Go 1.20·1.21에 추가된 cause 추적 함수(`WithCancelCause`·`context.Cause` 등)로 해결하는 법과, 대부분의 예제가 건너뛰는 `WithTimeoutCause`의 미묘한 함정
 * [go-concurrency-guide: Practical concurrency guide in Go, communication by channels, patterns](https://github.com/luk4z7/go-concurrency-guide)
 * [leaktest - Goroutine Leak Detector](https://github.com/fortytw2/leaktest)
 * [tistory-to-md: Tistory의 OpenAPI를 사용하여 게시글과 이미지를 MarkDown으로 백업하는 프로젝트 입니다](https://github.com/JaeSeoKim/tistory-to-md)
