@@ -407,6 +407,8 @@ App
 * [OWASP Nettacker — Automated Penetration Testing Framework](https://owasp.org/www-project-nettacker/)
   * [Nettacker: Automated Penetration Testing Framework - Open-Source Vulnerability Scanner](https://github.com/OWASP/Nettacker)
   * OWASP의 자동화 침투 테스트·취약점 스캐닝 프레임워크. 정보 수집·서비스/포트 스캔·취약점 관리, 모듈형 아키텍처. Python, 5.3k stars
+* [PANO: Advanced OSINT investigation platform combining graph visualization, timeline analysis, and AI assistance to uncover hidden connections in data | ALW1EZ](https://github.com/ALW1EZ/PANO)
+  * Platform for Analysis and Network Operations. 그래프 시각화와 타임라인 분석, AI 보조를 결합해 데이터 속 숨은 연결과 패턴을 찾는 OSINT 조사 데스크톱 앱(Python·PySide6, Windows·Linux). 시작 스크립트가 업데이트 확인·환경 구성·의존성 설치까지 자동 처리. 라이선스 CC BY-NC(비상업), 612 stars
 * [PatchaPalooza — analysis of Microsoft's monthly security updates](https://patchapalooza.com/)
   * [PatchaPalooza: comprehensive analysis of Microsoft's monthly security updates](https://github.com/xaitax/PatchaPalooza)
   * 마이크로소프트 월간 보안 업데이트(Patch Tuesday)를 분석·시각화하는 도구. CVE 심각도·악용 여부·유형별 통계와 추세를 제공. Python
