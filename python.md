@@ -561,6 +561,8 @@ Python
 * [The New Python 3.13 Is FINALLY Here! - YouTube](https://www.youtube.com/watch?v=eUDGlxu_-ic)
 * [Python 3.15's JIT is now back on track | Python Insider](https://blog.python.org/2026/03/jit-on-track/)
   * Python 3.15a7 기준 JIT 현황. copy-and-patch JIT 최적화 진행 상황
+* [Python 3.15: The Features You’ll Actually Use - ArjanCodes - YouTube](https://www.youtube.com/watch?v=bgeqL4Btou0)
+  * 실제 프로젝트에 영향을 줄 Python 3.15 변경점을 짚는 13분 영상. lazy import, 내장 불변 딕셔너리 `frozendict`, 표준 sentinel, 컴프리헨션 안에서의 언패킹으로 컬렉션 평탄화, 새 샘플링 프로파일러, UTF-8 기본값, 확장 가능한 데이터를 위한 타이핑 개선, JIT과 free-threading 진행 방향
 * [Compiled Python is FAST - YouTube](https://www.youtube.com/watch?v=umLZphwA-dw)
   * numpy mypyc cython numba taichi
 * [Stop making your python projects like it was 15 years ago… | by Bryson Meiling | Sep, 2024 | Level Up Coding](https://levelup.gitconnected.com/stop-making-your-python-projects-like-it-was-15-years-ago-125436b470a5)
