@@ -1818,8 +1818,6 @@ NLP
   * [P.1 Chatbot with Mic input/Speaker output using Python, Jarvis, and DialoGPT - YouTube](https://www.youtube.com/watch?v=CumHy6v7un0)
   * [P.2 Chatbot with Mic input/Speaker output using Python, Jarvis, and DialoGPT - YouTube](https://www.youtube.com/watch?v=lheXIYXanuU)
   * [Microsoft Releases DialogGPT AI Conversation Model](https://www.infoq.com/news/2019/11/microsoft-ai-conversation/)
-* [generative\_agents: Generative Agents: Interactive Simulacra of Human Behavior](https://github.com/joonspk-research/generative_agents)
-  * [Generative Agents: Interactive Simulacra of Human Behavior 논문의 소스코드 공개](https://www.facebook.com/groups/255834461424286/?multi_permalinks=2101953426812371)
 * [kochat: Opensource Korean chatbot framework based on deep learning](https://github.com/gusdnd852/kochat)
 * [openchat: Opensource chatting framework for generative models](https://github.com/hyunwoongko/openchat)
   * [AI 모델 탐험기 #2 챗봇이 뭐지? NLP 기술을 활용한 Open chat | by AI Network | AI Network\_KR | Apr, 2021 | Medium](https://medium.com/ai-networkkr/ai-%EB%AA%A8%EB%8D%B8-%ED%83%90%ED%97%98%EA%B8%B0-2-nlp-%EA%B8%B0%EC%88%A0%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-open-chat-b9612ca4d335)
@@ -3332,6 +3330,12 @@ NLP
     * 공개 직후 kev·Reflex·Ani 등 오픈소스 구현이 연달아 등장한 흐름 5분 정리—중요한 것은 Jev라는 제품인가, '문장 대신 판단을 반환하는' 새 구조인가라는 질문 제기. HN 1900포인트·댓글 500+ 반응 소개
   * [I trained my own Jev for $5 | CoderOne - YouTube](https://www.youtube.com/watch?v=KmiVxA6Mtio)
     * Qwen 3.5 4B를 $5로 파인튜닝해 Jev식 분류기(상태+질문→1초 내 점수화된 판정) 자작하는 20분 실습
+  * [Jev 같은 System 1 모델이 오픈 웨이트로 나왔다 — Clef·Laya 를 맥에서 직접 돌려봤습니다 | Drive Tech Odyssey - YouTube](https://www.youtube.com/watch?v=yuFEX-RvQUc)
+    * 42분(2026-10-06). Jev(유료 API) 등장 3주 사이 OpenAI Decisions API·Cloudflare Clef가 같은 방식을 내놓고 Clef는 가중치까지 공개—Jev 대신 공개 System 1 모델 Clef·Laya를 M5 Max 64GB 맥에서 직접 실행. 메일 500통 분류: Laya 12초·Clef-Flash 93초·Qwen3.6 160초·Clef 27B 320초·Qwen3.8 27B 369초, Claude 라벨과의 일치율 Laya 0.46·Clef-Flash 0.84·Qwen3.6 0.75·Clef 27B 0.84·Qwen3.8 0.88(Laya는 한국어만 추가 학습, 메일 분류 학습 없음). 항공권 편도 검색(화면 사진만 보고 조작) Clef 27B 47초·Qwen3.6 64초·Qwen3.8 69초 모두 완주, 왕복·어른 2명·직항 최저가 같은 어려운 과제는 어떤 조합도 완주 못 함
+    * System 1 vs System 2 설명(엑셀·MBTI·R2-D2와 C-3PO 비유), System 2+System 1 조합 실험, Clef 활용처: EPA 공개 자료로 2025·2026 전기차 647대 DB 구축 시 두 자료의 차 이름 짝짓기(같으면 코드, 아니면 Clef가 1대 0.55초에 선택), 노트에서 맞는 페이지 찾기. 자율주행과는 반대 방향이라는 관점, 테슬라 디지털 옵티머스·슈퍼차저 통신 지연 연결은 제작자 의견, 글 쓰는 모델의 두 방향(Muse·Dots)
+  * [Exquisite Evals for Skills & MCPs by Christian Tzolov, James Ward | Devoxx - YouTube](https://www.youtube.com/watch?v=mebPFAKSpzw)
+    * Devoxx Belgium 2026(32분). AWS의 James Ward(javadocs.dev MCP 서버 관리자, Agentic AI Foundation 기술위원)와 Spring AI 리드 Christian Tzolov가 Spring AI로 eval을 짜서 javadocs.dev MCP를 개선한 과정. 생성형 AI의 비결정성은 없앨 수 없으니 출력 주변에 울타리(eval)를 치자—task(입력+기대 출력)×arms(모델·시스템 프롬프트는 고정하고 도구만 바꿈: MCP Java SDK 도구 vs 웹 검색 vs 강력하지만 비싼 plain bash 등)×judge(검사·메트릭: 완료 시간, 토큰 사용량, 정확성)의 매트릭스로 비교. 실제 호출을 들여다보기 위해 만든 Spring AI Inspector 소개
+    * 저지 두 종류 비교: 자연어 프롬프트+JSON(구조화 응답)으로 묻는 LLM-as-a-judge와, 질문·참조 답·어시스턴트 답을 state로 주고 "완전한가"(score)·"필수 사실이 포함됐나"(noul, 예/아니오)·plausibility·groundedness 같은 choice 질문으로 confidence와 함께 답을 받는 Jev 저지—데모에서 Jev가 잘못된 답을 높은 확신으로 걸러냄. 코드는 James Ward GitHub의 exquisite-evals, Spring AI Inspector는 Tzolov 저장소
   * [2609.26550 JEV-as-a-Judge: Accept When Confident, Escalate When Unsure](https://arxiv.org/html/2609.26550)
     * [벌써 Jev의 실제 성능과 장점, 그리고 약점과 보완 방법까지 자세히 실험한 논문이 나왔습니다 | 염기웅](https://www.linkedin.com/posts/kiwoong-yeom_%EB%B2%8C%EC%8D%A8-jev%EC%9D%98-%EC%8B%A4%EC%A0%9C-%EC%84%B1%EB%8A%A5%EA%B3%BC-%EC%9E%A5%EC%A0%90-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%95%BD%EC%A0%90%EA%B3%BC-%EB%B3%B4%EC%99%84-%EB%B0%A9%EB%B2%95%EA%B9%8C%EC%A7%80-%EC%9E%90%EC%84%B8%ED%9E%88-%EC%8B%A4%ED%97%98%ED%95%9C-share-7509092892578050048-psZU/)
     * CMU 계열 저자 4명(Yubo Li·Ramayya Krishnan·Rema Padman 외)의 첫 Jev 독립 평가 논문(2026-09-22). 판단만 내리는 저지가 LLM-as-a-judge의 경제적 1차 패스가 될 수 있는지를 16개 생성·리워드 모델 저지와 블라인드 인간 판정으로 비교—일반 선호·근거 기반 사실성에서는 최고 성능 LLM 저지 대비 3%p 이내를 **비용 0.36%**로 달성하지만, 유도 과정을 검증하거나 정교하게 쓰인 오답에 저항해야 하는 판단에서는 격차가 커짐
