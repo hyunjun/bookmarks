@@ -1762,6 +1762,9 @@ App
 * [Mac에서 사용하는 툴들](https://github.com/msbaek/memo/blob/master/mac-tools.md)
 * [코드에서 macOS 노티피케이션 센터 띄우기 - 용균](https://edykim.com/ko/post/putting-the-macos-notification-center-in-code/)
 * [맥OSX에 윈도우 10 설치하기 (외장 HDD 또는 외장 SSD에 설치)](https://www.youtube.com/watch?v=G6aZ7wImY1Q)
+* [최신 맥에 윈도우를 설치하는 3가지 방법 | 공대생신동민 - YouTube](https://www.youtube.com/watch?v=91CAqAlW7fI)
+  * 맥 미니 M4에서 윈도우 11을 못 버리는 이유(계측 장비·PLC 등 산업용 소프트웨어, 관공서·금융권 한국 웹 환경, 30년 익숙함)와 설치기. 애플 실리콘 전환으로 Boot Camp가 사라져 가상화만 가능—유료 Parallels(연 약 55,000원), 무료 UTM(윈도우 7/XP·리눅스 등 구형 OS까지), 개인 무료가 된 VMware Fusion(Broadcom 지원 포털에서 릴리스 노트→Fusion Pro 경로로만 다운로드 가능). 윈도우 11 ARM ISO(약 7.4GB)로 두 VM에 설치, 네트워크 연결 단계에서 막히면 Shift+F10 콘솔에 `oobe\bypassnro`, 설치 후 VMware Tools/UTM Guest Tools 설치
+  * 비교: 속도·그래픽 가속·마우스 부드러움은 VMware Fusion 우세(UTM은 약간 지연), USB 연결은 둘 다 가능, 각 4GB 할당해도 실제 8GB씩 점유. 윈도우를 편하게 쓰려면 VMware Fusion, 구형 OS 장난감은 UTM. M1 Pro 32GB에서 8GB 할당 Cinebench 결과도 비슷
 * [HomeKit으로 Mac 컨트롤 하기](https://apteryx.moe/2018-02-19-homekit-mac-control/)
 * [구간 반복이 가능한 어학용 MP3 플레이어 for mac](http://jinmedi.tistory.com/373)
 * [타깃 디스플레이 모드와 아이맥 동시 사용 간단 팁](http://www.creativeworksofknowledge.com/2015/04/12/using-imac-in-target-dislay-mode/)
