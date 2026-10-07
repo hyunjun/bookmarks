@@ -1824,6 +1824,11 @@ Linux
 * [tmux-xpanes - Awesome tmux-based terminal divider](https://github.com/greymd/tmux-xpanes)
 * [tpm - Tmux Plugin Manager](https://github.com/tmux-plugins/tpm)
   * [Make tmux BEAUTIFUL by doing this - YouTube](https://www.youtube.com/shorts/PL1EoKjy4iM)
+* [tuios: a terminal window manager that knows what your agents are doing](https://tuios.dev/)
+  * [tuios: A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent](https://github.com/Gaurav-Gosain/tuios)
+  * [Meet tuios, the terminal window manager | Gaurav Gosain - YouTube](https://www.youtube.com/watch?v=mSycusZaVdo)
+    * 2분 소개(v0.8.0): 패널에서 Claude Code·Codex·Crush·Gemini CLI 등 20여 코딩 에이전트를 감지하고 모든 승인·질문을 하나의 Inbox로 모음, 한 프롬프트를 여러 에이전트에 각자 git worktree로 fan out 해 최선의 결과만 남기기, 재시작·크래시·리부트 후에도 돌아오는 세션, ssh·Tailscale로 다른 머신 세션에 attach, 340+ 테마와 애니메이션 끄기
+  * Go(Bubble Tea v2·Lipgloss v2) 기반 tmux 대안 터미널 멀티플렉서+윈도우 매니저. vim식 모달 인터페이스, 9개 워크스페이스, BSP·master-stack·스크롤 레이아웃과 플로팅 창, 데몬 모드 attach/detach, kitty 그래픽 패스스루, 커맨드 팰릿, vim식 copy mode, 이벤트 기반 렌더링으로 유휴 CPU 거의 0, 브라우저 터미널. 에이전트 상태(working/waiting/done/failed)를 사이드바와 패널 제목에 표시, 윈도우·세션·에이전트 이벤트 훅, tape 스크립팅, JSON 제어 프로토콜, Claude Code agent teams처럼 tmux를 구동하는 도구용 tmux shim. 설치 전 tuios.dev/learn에서 WebAssembly로 컴파일된 실제 앱 체험. brew/AUR/Nix, MIT, 5k stars
 * [vim + tmux - OMG!Code](https://www.youtube.com/watch?v=5r6yzFEXajQ)
   * [Vim workshop](https://github.com/nicknisi/vim-workshop)
 * [workmux: git worktrees + tmux windows for zero-friction parallel dev](https://github.com/raine/workmux)
