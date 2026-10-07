@@ -574,6 +574,12 @@ NoSQL
   * [murrdb/murr - ML/AI 워크로드용 서브 밀리초 캐시 | GeekNews](https://news.hada.io/topic?id=30469)
   * RocksDB 기반 NVMe/S3 캐시, AI 추론 워크로드용 Redis 대체. Tiered storage(핫=메모리·콜드=디스크+S3 복제), 배치 in/out(컬럼형, per-row 오버헤드 없음, Parquet/Arrow 직접 ingest), zero-copy 와이어 프로토콜(np.ndarray/DataFrame/Tensor 변환 불필요), stateless(상태는 S3에 영속, 노드 축출 시 블록 스토리지에서 self-bootstrap). Rust, Apache-2.0
 
+# NodeDB
+* [NodeDB — Replace 5 databases with 1 universal engine](https://nodedb.dev/)
+  * [nodedb: The memory & storage engine for AI agents. Multi-model, edge-to-cloud, PostgreSQL-compatible](https://github.com/NodeDB-Lab/nodedb)
+  * Postgres+벡터 DB+그래프 DB+Redis+Elasticsearch(+TileDB/Zarr)로 쪼개진 스택을 Rust 엔진 하나로 합치는 멀티모델 DB. 9개 엔진이 하나의 저장 코어·ID 공간·플래너를 공유—Vector(HNSW+SQ8/PQ 양자화, pgvector/Pinecone 대체), Graph(CSR 인접 리스트·13개 알고리즘·Cypher 서브셋·GraphRAG), Document(MessagePack+CRDT 스키마리스 또는 Binary Tuple 엄격 모드), Columnar(ALP·FastLanes·FSST 코덱), Timeseries(ILP 수집·연속 집계·PromQL), Spatial(R*-tree·H3), Key-Value(TTL·레이트 리밋), Full-Text(BM25·27개 언어·CJK 바이그램), NDArray. `GRAPH RAG FUSION` 한 문장으로 벡터 검색→그래프 확장→RRF 랭킹을 DB 계층에서 수행
+  * AI 에이전트 메모리(의미·관계·에피소드·시계열)를 에이전트가 있는 곳에서 실행하는 것이 목표—디바이스·브라우저 임베디드(NodeDB-Lite, WASM)·오프라인 동작·서버로 CRDT 무충돌 동기화, 접근 가드 내장. PostgreSQL 와이어 프로토콜로 psql·기존 클라이언트 그대로 사용. Thread-per-Core+io_uring·SIMD 거리 함수·제로카피 전송. 자체 벤치(DNS 텔레메트리 1,000만 행): 수집 93,450행/s로 TimescaleDB 1.65배·ClickHouse 1.73배, 메모리 8배 절감, 고카디널리티 GROUP BY는 ClickHouse 대비 3~5배 느림. 코딩 에이전트 메모리 레이어 ma8e가 임베디드 NodeDB 위에서 개발 중. Docker·Cargo 설치, Rust, 215 stars
+
 # OmniSci
 * [OmniSci - Massively Accelerated Analytics and Data Science](https://www.omnisci.com/)
 * [OmniSciDB (formerly MapD Core) https://www.omnisci.com ](https://github.com/omnisci/omniscidb)
