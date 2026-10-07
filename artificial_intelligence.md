@@ -1688,6 +1688,10 @@ Artificial Intelligence
   * [paperthin: Turning old engineering wisdom into reflexes your agent reaches for on its own—on any agent](https://github.com/LilMGenius/paperthin)
   * [AI 에이전트의 작업 품질을 높이는 Paperthin, 엔지니어링 원칙을 자동화하는 저수준 설계 패턴 | digitalbourgeois](https://digitalbourgeois.tistory.com/3585)
   * 오래된 엔지니어링 지혜를 에이전트가 스스로 꺼내 쓰는 반사 행동으로 전환하는 저수준 에이전틱 설계 패턴 모음. 특정 에이전트에 종속되지 않음. Shell, 900 stars
+* [Personal Jarvis — a voice assistant that runs on your own machine](https://personaljarvis.ai/)
+  * [PersonalJarvis: Your AI assistant, built for the agentic era. Open source and local: talk to it, and it runs your agents, your coding CLIs, your browser and your apps. Windows, macOS, Linux](https://github.com/PersonalJarvis/PersonalJarvis)
+  * 계정·자사 클라우드 없이 내 머신(Windows·macOS·Linux, 헤드리스 서버 가능)에서 돌아가는 올인원 데스크톱 AI 비서. Agentic IDE: Claude Code·Codex·OpenCode·Kimi Code·GLM·Grok Build·Antigravity·Cursor CLI·DeepSeek Harness를 터미널 패널로 나란히 띄우고 T1·T2 같은 콜사인으로 음성 지시("T1에게 테스트 쓰라고 해", "전체 패널에 수정 계획 보내")—같은 작업을 여러 패널에 보내 비교, 이미 결제 중인 구독 그대로 사용. Jarvis Agents: 각자 끝나지 않는 채팅·지시·도구·일정·메모리를 갖고 자기 작업에서 학습하는 상주 에이전트 팀, 장기 코딩 미션은 git worktree에서 병렬 워커로 분할 후 리뷰를 거쳐 전달, 3D 세계에서 에이전트가 책상으로 걸어가 일하는 모습을 보는 Jarvis Verse
+  * 웨이크 워드·실시간 대화·어느 앱에나 받아쓰기·전화 통화·중간 끼어들기 음성, 데스크톱·브라우저 클릭/입력/화면 읽기 컴퓨터 사용(허용 범위는 사용자가 결정), 40+ 플러그인·MCP 서버·스킬·CLI 원클릭 마켓플레이스(GitHub·Google Workspace·Notion·Slack·Linear·Spotify·Home Assistant), CLI마다 실행 전 거부되는 명령 목록, 플레인 텍스트 파일+트리거(음성 문구·단축키·시간)로 쓰는 스킬, 읽고 쓰고 인용하는 로컬 위키 메모리, 아침 브리핑·받은편지함 정리 같은 루틴, 두 키로 현재 창을 보여주는 Appshots, 데스크톱 펫. OpenAI·Anthropic·Gemini·OpenRouter·NVIDIA·Ollama·로컬 서버 또는 Claude/ChatGPT 구독, 작업별 모델 선택. Python, Apache-2.0
 * [Philosophy_AI: Your AI is smart, but does it know you? Don't build just Agents. Build Identities](https://github.com/dev-whitecrow/philosophy_ai)
   * [Philosophy_AI: Your AI is smart, but does it know you? Don't build just Agents. Build Identities. | Yung J. Choi | 16 comments](https://www.linkedin.com/posts/yungdi_github-dev-whitecrowphilosophyai-your-activity-7421378252973416448-_Qdg)
 * [Pi - There are many coding agents, but this one is mine](https://pi.dev/)
