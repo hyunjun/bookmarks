@@ -1157,6 +1157,9 @@ Web
       * 이 관리를 쉽게 할 수 있도록 CLI 제공
   * [The anatomy of shadcn/ui](https://manupa.dev/blog/anatomy-of-shadcn-ui)
     * [번역 shadcn/ui 의 해부. 원문… | by 조영제 | Nov, 2024 | Medium](https://siosio3103.medium.com/shadcn-ui-%EC%9D%98-%ED%95%B4%EB%B6%80-ebd469c34614)
+  * [Shadcn Lint 써서 AI로 디자인 박살내지 않기 | 코드팩토리 - YouTube](https://www.youtube.com/watch?v=2_2M0DlHD1Y)
+    * 코드팩토리(7분). AI로 페이지를 추가할수록 색·글자·여백이 제멋대로 바뀌는 이유는 LLM이 테마에 없는 색(예: 분홍 하드코딩)이나 컴포넌트 스타일을 무차별 오버라이드하기 때문—새로 나온 shadcn lint가 테마 색상 사용 여부와 기존 컴포넌트 외관 덮어쓰기를 규칙으로 검사해 어떤 파일의 어떤 코드를 무엇으로 바꿔야 하는지(사용 가능한 테마 색 이름·정의 파일, 컴포넌트의 size/variant 선택지) 진단으로 알려줌. 빌드 전 검사로 연결하면 AI가 디자인 규칙을 어겨도 에러로 잡히고, 진단을 그대로 AI에 넘겨 정확한 위치만 수정
+    * 기존 프로젝트 적용 프롬프트 흐름: 현재 테마·공통 컴포넌트 위치 확인→공식 설치 안내 링크와 함께 설치·등록 요청(기존 검사 설정 유지)→검사 규칙과 명령 설정 요청(의도적 오버라이드는 제외)→테마 일관화 후 린트 재실행·진단 수정·재검사 반복
 * [system.css | A design system for building retro Apple-inspired interfaces](https://sakofchit.github.io/system.css/)
 * [tachyons.io](https://tachyons.io/)
   * [Functional CSS, Tachyons - 함수형 CSS를 지향하는 프레임웍](https://googit.io/post/ap-northeast-2:c03f8bf0-992e-48a8-93b6-15787a0fc96f/public/tachyons)
