@@ -437,6 +437,11 @@ Finance
   * [Someone open-sourced a hedge fund (53k stars on GitHub) - YouTube](https://www.youtube.com/watch?v=9FoEsXNGLwI)
 * [tradingcodex: Turn Codex into your investment workflow team](https://github.com/monarchjuno/tradingcodex)
   * 자율 매매가 아닌 역할 분리 투자 워크플로우 시스템. head-manager 에이전트가 자연어 요청을 펀더멘탈 분석가·포트폴리오 매니저·리스크 리뷰어 등 전문 에이전트로 라우팅, 리서치→분석→밸류에이션→포트폴리오 적합성→리스크 리뷰→승인 실행 단계 진행. 가정·반대 증거를 담는 Decision Package, Django 서비스 게이트로 미승인 브로커 주문·자기 승인·제한 종목 차단, 기본 페이퍼 트레이딩. 로컬 대시보드
+* [TradingView — Track All Markets](https://www.tradingview.com/)
+  * [새로운 MCP 서버로 Claude에 TradingView를 연동하세요: 유료 요금제 대상 공개 베타 서비스 제공 | TradingView Blog](https://www.tradingview.com/blog/ko/tradingview-mcp-server-public-beta-60864/)
+    * 공식 TradingView MCP 서버(`https://mcp.tradingview.com/mcp`) 공개 베타—Claude(웹·데스크톱·모바일·Claude Code) 등 MCP 호환 클라이언트에 사용자 지정 커넥터로 추가하고 TradingView 로그인·승인하면 끝. Essential 이상 유료 플랜 대상, 베타 중 일일 요청 제한. 시세·가격 이력 조회, 스크리너 실행, 펀더멘털·뉴스·공시(실적 콜 녹취록·10-K/10-Q/8-K)·경제 캘린더 분석, 왓치리스트·얼러트 생성, 얼러트 로그 사후 분석("지난 7일 발동된 얼러트와 이후 2세션 가격 움직임·헤드라인"), 종목 비교표, Claude Code에서 API 키·CSV 없이 2년치 봉차트+CPI 받아 상관관계 계산 등 활용 예시와 첫 프롬프트 10가지
+  * [트레이딩뷰 공식 MCP 나왔습니다, 클로드 연결부터 한계까지 | Running the System - YouTube](https://www.youtube.com/watch?v=yEbJe1uILiM)
+    * 7분 실연(2026-10-04): MCP는 USB 같은 것, 누가 쓸 수 있나(에센셜 이상·베타 제한), 클로드에 연결하기, 도구 권한 설정(읽기는 항상 허용·쓰기는 승인 필요), 트레이더가 쓸 만한 기능, 말로 왓치리스트 만들기, 얼러트 기록으로 거래 횟수 세기, 써 보니 아쉬운 점과 되는 것·아직인 것 정리
 * [vibe-investing: 투자를 위한 AI 투자(Vibe Investing) 큐레이션, 시장 분석 칼럼, AI 트레이딩 도구 2종 (Harness Quant v2 + Earnings Momentum Agent) 를 다루며 미국 나스닥, S&P500, 가상화폐 투자를 다룹니다](https://github.com/gameworkerkim/vibe-investing/)
   * [VibeQuant — AI Quant · CTI · Web3](https://vibequant.cc/)
   * [토스증권 API 이용 퀀트봇 소스 무료 공개 | Dennis Kim | LinkedIn](https://www.linkedin.com/posts/testcode_tsaswm-tsaswmtedqwu-toss-share-7468358298837303296-PbBd/)
