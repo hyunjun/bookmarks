@@ -1686,6 +1686,8 @@ Programming
     * [SSE 기반 AI Agent 스트리밍 적용기 — Alpy에 자연스러운 대화를 불어넣다 | by crowdworks | 크라우드웍스 Tech Blog | Apr, 2025 | Medium](https://medium.com/crowdworks-tech/sse-%EA%B8%B0%EB%B0%98-ai-agent-%EC%8A%A4%ED%8A%B8%EB%A6%AC%EB%B0%8D-%EC%A0%81%EC%9A%A9%EA%B8%B0-alpy%EC%97%90-%EC%9E%90%EC%97%B0%EC%8A%A4%EB%9F%AC%EC%9A%B4-%EB%8C%80%ED%99%94%EB%A5%BC-%EB%B6%88%EC%96%B4%EB%84%A3%EB%8B%A4-e6431b687ea5) Custom EventSource 제작 이유, 설계, 구현
 * [Building Software Better: API Lifecycle Management for Developers • Erik Wilde • GOTO 2024 - YouTube](https://www.youtube.com/watch?v=KLYkvRbtCIk)
   * [VidiGo Building Software Better: API Lifecycle Management](https://vidigo.ai/share/summary/c05120704c2a)
+* [AsyncAPI in action: OpenAPI for event driven applications by Michel Schudel | Devoxx - YouTube](https://www.youtube.com/watch?v=A_fp7RaG5UY)
+  * Devoxx Belgium 2026(30분, "AI 없는" 세션). OpenAPI가 HTTP 엔드포인트의 스펙 우선(specification-first) 접근이라면 AsyncAPI는 이벤트 기반 비동기 시스템의 스펙—주문 서비스(POST /orders)가 OpenAPI라면 주문 생성 이벤트를 받는 창고·회계 서비스는 AsyncAPI로 채널(Kafka 토픽 등 주소)·메시지·페이로드 스키마·send/receive 오퍼레이션을 정의. 프로토콜 독립적·기계 판독 가능, 공통 스키마를 재사용해 서비스별 스펙을 구성, 제너레이터와 템플릿으로 코드·HTML 문서 생성. Spring Boot 주문·재고 서비스 데모(AsyncAPI 3.0.0), 데모와 제너레이터 템플릿은 GitHub 공개
   * [소프트웨어 구축 및 API 최적화 방법 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/1106534)
 * [7 Amazing Terminal API Tools You Need To Try - YouTube](https://www.youtube.com/watch?v=eyXxEBZMVQI)
   * cURL, xh, Nushell http, Httpie, Curlie, Kulala nvim, Posting
@@ -2145,6 +2147,9 @@ Programming
       * 또 이 데이터를 캐시에 저장도 여러 번 이뤄지게 되는
       * Thundering Herd 문제를 해결하기 위해 Req-Saver라는 라이브러리를 만들어서 Spring 애플리케이션에 적용한 과정
     * 스프링의 @Cacheable과 sync 옵션과 Req-Saver를 사용한 경우를 비교했을 때 평균 51% 정도 성능 향상
+  * [대규모 트래픽에서 Cache Miss 폭발을 막는 전략 | 멤버십 영상 | 코딩하는기술사 - YouTube](https://www.youtube.com/watch?v=XZ12gXb5bhk)
+    * 코딩하는기술사. 캐시가 만료되는 순간 수천~수만 요청이 원본 DB로 쏟아져 커넥션 풀 고갈·전면 장애로 이어지는 Cache Stampede(Thundering Herd) 개념(아이폰 16 사전예약 캐시키 하나에 TTL 60초 만료 시나리오)과 4가지 방어 아키텍처 패턴 10분 해설: ①Locking(뮤텍스)—락을 잡은 요청 하나만 DB 조회·캐시 갱신, 나머지는 대기(정합성↑, 레이턴시↓) ②PER(Probabilistic Early Recomputation)—남은 TTL 기준 확률로 일부 요청이 만료 전에 미리 갱신, 락 없이 대기 없음(Instagram·Wikipedia 방식, TTL·확률 설계 필요) ③Singleflight(Request Coalescing)—앱 서버 내부에서 같은 키의 동시 요청을 진행 중 호출 하나에 묶어 DB 호출 1회로(Go singleflight, Java @Cacheable sync) ④SWR(Stale-While-Revalidate)—낡은 데이터를 먼저 반환하고 백그라운드 갱신
+    * 아키텍트 의사결정 매트릭스: 금융·결제·재고처럼 한 건도 틀리면 안 되면 Locking(일관성), SNS 피드·뉴스·이벤트 메인처럼 가용성이 최우선이면 PER, 일반 조회 API 효율화는 Singleflight 기본 적용, 쇼핑몰 목록·콘텐츠 페이지처럼 응답 속도가 최우선이면 SWR(UX). "어떤 전략이 옳은가가 아니라 이 상황에서 무엇을 우선할 것인가"
   * [대용량 트래픽 아니면 안 보셔도 됩니다! 선물하기 서비스 캐싱 전략 / if(kakaoAI)2024 - YouTube](https://www.youtube.com/watch?v=BUV4A2F9i7w)
     * [대용량 트래픽 아니면 안 보셔도 됩니다! 선물하기 서비스 캐싱 전략 - Speaker Deck](https://speakerdeck.com/kakao/ifkakao24-80)
 * [점진적인 레거시 웹 애플리케이션 개선 과정](https://www.slideshare.net/arawnkr/ss-115339631)
