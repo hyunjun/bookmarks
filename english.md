@@ -51,6 +51,9 @@ English
 * [(like) Water Off A Duck's Back | Definition of (like) Water Off A Duck's Back by Merriam-Webster](https://www.merriam-webster.com/dictionary/%28like%29%20water%20off%20a%20duck%27s%20back)
 * [‘I think’ 대신에 쓸 수 있는 영어 표현 정리 | ㅍㅍㅅㅅ](https://ppss.kr/archives/241996)
 * [영어 원서 읽기를 위한 무료 영어 공개 강의](https://philoskim.github.io/english/)
+* [베이직 그래머인유즈 상위호환 만들었습니다｜무료 교재 + 강의 전면 공개 | SALT ENGLISH&TRAVEL - YouTube](https://www.youtube.com/watch?v=A4ro7NM8QBY)
+  * [베이직 에브리데이 그래머 교재 다운로드 | 네이버 블로그](https://blog.naver.com/holybible81/224416294035)
+  * 누적 조회 100만을 넘겼던 Basic Grammar in Use 유튜브 강의를 저작권 때문에 시원스쿨 유료 서비스로 옮겼던 25년차 영어회화 강사가 3년 준비해 공개한 무료 대체 교재·강의. Grammar in Use의 장점(일상 예문, 체계적인 목차 순서)은 살리고 단점(설명이 없거나 불친절, 전 세계 학습자 대상이라 한국인에게 불필요한 섹션)은 보완—같은 수준의 어휘·실생활 문장으로 설명·예문·연습문제를 구성하고 필기 공간을 넉넉히 둔 교재를 무료 배포, 강의는 유튜브에 공개. 교재는 계속 업데이트 예정
 * [How to professionally say](https://howtoprofessionallysay.akashrajpurohit.com/)
 * [How To Say No](https://www.starterstory.com/how-to-say-no)
 * [영어 문법 검사기 사이트 베스트 3](https://blog-ko.pcanpi.com/3-best-grammar-checker/)
