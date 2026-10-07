@@ -3773,8 +3773,6 @@ Python
   * hexora — 악성 코드 패턴 탐지용 정적 분석 도구
   * opentemplate — 최신 개발·보안·CI/CD 설정을 포함한 프로젝트 템플릿
   * Pyrefly — Meta의 Rust 기반 고성능 타입 체커
-    * [Lessons from Pyre that Shaped Pyrefly](https://pyrefly.org/blog/lessons-from-pyre/)
-      * Pyre 개발 경험에서 얻은 교훈이 Pyrefly 설계에 어떤 영향을 미쳤는지 분석
 * [5 Python Libraries That Feel Illegal to Know | Byte Without Bite - YouTube](https://www.youtube.com/watch?v=o9Tgv4oZ3K4)
   * 6분 소개—Manim(3Blue1Brown식 수학·기술 애니메이션을 코드로), Faker(이름·이메일·주소·회사 등 테스트 데이터 대량 생성), Gradio(ML 모델·함수를 인터랙티브 웹 UI로, Hugging Face 데모 표준), Diagrams(AWS·Azure·GCP·K8s 아이콘으로 아키텍처 다이어그램을 코드로), Marimo(변수 의존성을 추적해 셀을 자동 갱신하는 반응형 노트북, Git 친화적·웹 앱 변환 가능)
 * [Abseil Python Common Libraries](https://github.com/abseil/abseil-py)
@@ -6002,6 +6000,12 @@ Python
   * [Start Building With FastAPI: Getting Started With FastAPI & Introducing Pydantic - YouTube](https://www.youtube.com/watch?v=MUFLVmmppP0)
     * [FastAPI 시작하기: Pydantic으로 REST API 구축](https://livewiki.com/ko/content/fastapi-pydantic-getting-started)
 * [Pyre - A performant typechecker for Python](https://pyre-check.org/)
+* [Pyrefly: A Fast Python Type Checker and Language Server](https://pyrefly.org/)
+  * [Lessons from Pyre that Shaped Pyrefly](https://pyrefly.org/blog/lessons-from-pyre/)
+    * Pyre 개발 경험에서 얻은 교훈이 Pyrefly 설계에 어떤 영향을 미쳤는지 분석
+  * [Why You NEED This New Python Tool | Tech With Tim - YouTube](https://www.youtube.com/watch?v=lFA-zuZRG4Q)
+    * 17분(2026-09-29). 실행은 되는데 출시되면 안 될 줄에서 터지는 코드—Python은 실행 전까지 타입을 검사하지 않고 타입 힌트만으로는 막지 못한다는 설명에서 시작해 정적 타입 체커가 무엇인지, Pyrefly 설치·사용, mypy에서 마이그레이션, 타입 검사 데모, 속도 테스트, 에이전트에서 Pyrefly 쓰기(AI가 쓴 Python의 타입 버그 잡기)까지 시연
+  * Meta가 Pyre의 교훈 위에 Rust로 다시 만든 Python 타입 체커+언어 서버. Meta 인프라(166코어) 기준 초당 185만 줄 검사, PyTorch 코드베이스 전체 검사 벤치마크에서 Pyright·mypy 대비 빠름을 내세우고 에디터 자동완성·즉시 피드백, AI 에이전트가 작성한 Python 검증 용도 강조. Instagram·PyTorch 프로덕션에서 사용 중, 무료·오픈소스
 * [pyright - Static type checker for the Python language](https://github.com/Microsoft/pyright)
 * [pytype - A static analyzer for Python code](https://github.com/google/pytype)
 * [Tsukkomi for Python types, inspired by typeannotations package https://pypi.python.org/pypi/tsukkomi](https://github.com/spoqa/tsukkomi)
