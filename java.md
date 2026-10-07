@@ -1791,6 +1791,8 @@ Java
   * [JBang - Using Java to make Java better? - YouTube](https://www.youtube.com/watch?v=X4x2jM3Y0uE)
   * [Single-File JVM Apps: Rapid Development](https://blog.lambdaspot.dev/one-and-done-embrace-single-file-jvm-apps-for-speedy-development)
   * [Single-File JVM apps Pt. 2: AWS Lambda function simplified](https://blog.lambdaspot.dev/one-and-done-part-2-industrys-adoption-of-self-contained-jvm-applications)
+  * [Java Script No, Not That One: Modern Automation with Java by Loïc Magnette | Devoxx - YouTube](https://www.youtube.com/watch?v=pgVJWp-SjxI)
+    * Devoxx Belgium 2026(30분). 1년에 두 번 쓰는 bash 문법은 매번 잊고 JavaScript는 암묵적 형변환이 싫으니, 매일 쓰는 Java로 자동화 스크립트를 쓰자—`cat`의 개 버전 `dog` 명령을 예제로 JEP 330 단일 파일 소스 실행(`java Dog.java`, javac 불필요)→JEP 458 다중 파일 실행→간결한 `void main()`→JBang(`#!/usr/bin/env jbang` 셔뱅, `//DEPS` 한 줄 의존성 선언, 특정 Java 버전 지정)으로 LangChain4j까지 끌어다 쓰는 스크립트→`jbang export`·GraalVM 네이티브 이미지로 배포까지. 데모 코드와 Duke Runner 게임 저장소는 발표자 GitHub
 * [jDeploy - Developer friendly desktop deployment tool | jDeploy](https://www.jdeploy.com/)
 * Jenkins
   * [젠킨스 설치 및 설정](https://docs.com/sunnykwak/2912)
