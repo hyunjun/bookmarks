@@ -358,6 +358,9 @@ Artificial Intelligence
 * [Move code review before the code | The New Stack](https://thenewstack.io/move-code-review-upstream/)
   * [AI 시대의 코드 리뷰, 코드가 아닌 '의도(Intent)'를 검토해야 하는 이유 | digitalbourgeois](https://digitalbourgeois.tistory.com/3425)
   * AI가 수백~수천 줄을 순식간에 생성하는 시대에 PR에서 완성된 코드를 검토하는 전통 방식은 한계. 리뷰를 상류(개발자 의도)로 옮겨 코드가 아닌 의도(Intent)를 먼저 검토하면 엔지니어링이 확장되고 시간을 절약한다는 관점
+* [한영자막 코드 리뷰의 종말: 데이터가 보여주는 진짜 현실입니다 | Tech Bridge - YouTube](https://www.youtube.com/watch?v=-TeOEuplMrQ)
+  * Tech Bridge. npm 공동 창업자·Arize AI DevRel 총괄 Laurie Voss의 발표(24분). 에이전트 도입 후 작성 코드는 741% 늘었지만 실제 출시 소프트웨어는 30% 증가에 그친 원인은 인간 코드 리뷰가 새 병목이 됐기 때문—사람의 집중 한계는 400줄인데 1만 줄 PR이 쏟아지고 "더 열심히 리뷰하기"는 구조적으로 실패(Cisco 연구). 테스트 통과≠머지 가능(METR): SWE-bench 88% 모델이 머지 적합성 벤치 FrontierCode에서는 29%로 폭락, 차세대 모델의 새 학습 신호는 머지 적합성
+  * 현장의 자동 리뷰—GitHub Copilot·Cursor의 다중 패스 검증과 기본 의심 아키텍처, CodeRabbit·Graphite의 인간 수용률 지표, 리뷰와 코드 수정의 결합. 인간을 완전히 빼는 시도(Nicholas Carlini의 C 컴파일러, Bun의 Zig→Rust 포팅이 남긴 13,044개 unsafe 블록, OpenAI의 무인 코딩 프로덕트)와 Dex Horthy의 반성("제발 코드를 읽으세요"), 테스트 스위트가 볼 수 없는 외부 맥락, 리뷰어를 노리는 프롬프트 인젝션, 최후의 검토자로 남은 프로덕션 관측. 결론: 코드 리뷰는 죽은 게 아니라 재설계 중—개발팀은 지금 검증 하네스를 구축해야
 * [Agile is Out, Architecture is Back | by Craig Adam | Sep, 2025 | Medium](https://medium.com/@craig_32726/agile-is-out-architecture-is-back-7586910ab810)
   * [원대로 - 🚨<개발자는 사라지고, "아키텍트"가 뜬다: AI가 다시 불러온 설계의 시대> - “코드 좀 친다”는 말은... | Facebook](https://www.facebook.com/drwonsg/posts/pfbid0KNf7KyyjpsCvJ1fq9NcLBLimN9odhxk1YgfZP7YXGa5sLaT8nXKPP7NLtJwhWVRal)
 * [AI Was Supposed to Help Juniors Shine. Why Does It Mostly Make Seniors Stronger? | <Can ELMA/>](https://elma.dev/notes/ai-makes-seniors-stronger/)
@@ -1355,10 +1358,16 @@ Artificial Intelligence
 * [GBrain: Garry Tan's personal knowledge management for AI agents](https://github.com/garrytan/gbrain)
   * 미팅·이메일·캘린더에서 검색 가능한 브레인 구축. PGLite/Supabase 기반 하이브리드 벡터/키워드 검색
 * [GenAI_Agents: A comprehensive tutorial collection for building Generative AI Agents](https://github.com/NirDiamant/GenAI_Agents)
+* [generative\_agents: Generative Agents: Interactive Simulacra of Human Behavior](https://github.com/joonspk-research/generative_agents)
+  * [Generative Agents: Interactive Simulacra of Human Behavior 논문의 소스코드 공개](https://www.facebook.com/groups/255834461424286/?multi_permalinks=2101953426812371)
 * [GenericAgent: Self-evolving agent that grows skill tree from 3.3K-line seed with 6x less token consumption](https://github.com/lsdefine/GenericAgent)
   * 3.3K 라인 시드에서 시작해 스킬 트리를 성장시키는 자기 진화 에이전트. 전체 시스템 제어 달성, 토큰 사용량 6배 절감. 100줄 Agent Loop 코어, 30K 미만 컨텍스트, 계층적 메모리(메타 규칙·인사이트·글로벌 지식·태스크 스킬·세션 아카이브), self-bootstrap 증명
   * [GenericAgent - 3K 줄 코드로 성장하는 자체 진화 AI 에이전트](https://fornewchallenge.tistory.com/entry/%F0%9F%9A%80-GenericAgent-3K-%EC%A4%84-%EC%BD%94%EB%93%9C%EB%A1%9C-%EC%84%B1%EC%9E%A5%ED%95%98%EB%8A%94-%EC%9E%90%EC%B2%B4-%EC%A7%84%ED%99%94-AI-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8)
   * [GenericAgent 기술 개념과 구조 정리: 최소 코드로 스스로 진화하는 자율 에이전트 프레임워크 :: 지식의 섬](https://digitalbourgeois.tistory.com/3060)
+* [GOD - Govern, Observe, Direct — An operator console for inspectable agent-society replays](https://xiaoluolyg.github.io/GOD/)
+  * [GOD: Govern, Observe, Direct - a real-time control room for agent societies](https://github.com/XiaoLuoLYG/GOD)
+  * 언어 에이전트 사회 시뮬레이션을 지켜보기만 하는 대신 조작하는 실시간 컨트롤 룸—시간 정지, 특정 주민(한 명·그룹·마을 전체)에게 자연어로 질문(`/ask`), 다음 스텝에 지시 주입(`/intervene`), 월드 리셋을 한 화면에서. 스텝 단위 리플레이 스크럽, 노코드 설정 위저드(OpenAI 호환 엔드포인트 아무것이나, 모델·시나리오만 고르면 에이전트·스텝 자동 생성), Agent Studio(정체성·외모·성격·일과)와 Map Studio(맵 초안 생성·충돌 보정·검증·퍼블리시), Experiment/Map/Agent 팩 ZIP 내보내기·가져오기로 재현 가능. 사회적 현실성을 주장하는 게 아니라 에이전트 사회를 "검사"하기 위한 도구
+  * 내장 실험: The Ville 맵 기반 GOD Town(일상 루틴·메시지·이동)과 PKU 캠퍼스 공공 상황(주목·집결·개입). GitHub Pages에서 설치·API 키 없이 브라우저 리플레이 열람. EMNLP 2026 System Demonstrations 채택(2026-08-27), v0.2.0(2026-06). Python+React, Apache-2.0, 1.2k stars
 * [graphiti: Build Real-Time Knowledge Graphs for AI Agents](https://github.com/getzep/graphiti)
   * [graphiti/mcp_server/README.md at main · getzep/graphiti · GitHub](https://github.com/getzep/graphiti/blob/main/mcp_server/README.md)
   * [AI Agent에 특화된, 팔란티어 스타일의 지식그래프](https://www.linkedin.com/posts/h4y3j1n_tzirtutyyslq-activity-7356927846927224832-Pnw3/)
@@ -1659,6 +1668,11 @@ Artificial Intelligence
   * Andrew Ng 팀의 오픈소스 AI 코워커. 답변이 아닌 완성된 결과물(문서·슬랙 답변·정리된 캘린더)을 산출, 내 컴퓨터에서 내 도구를 직접 사용, 중요한 행동 전 반드시 승인 요청. 무료·오픈소스·BYOM. Python, 3.5K stars
   * [aisuite: Simple, unified interface to multiple Generative AI providers](https://github.com/andrewyng/aisuite)
     * Andrew Ng의 멀티 프로바이더 통합 인터페이스. OpenAI 호환 API 하나로 여러 생성형 AI 프로바이더 호출. Python, 15K stars
+* [Ordewell · task orchestration for coding agents](https://ordewell.ai/)
+  * [ordewell: Multi-agent task orchestration for coding agents. Turn one goal into an ordered plan of tasks (each with its own runner, model and mode), then execute and verify the results](https://github.com/ordewell/ordewell)
+  * [Ordewell: Claude Code·Codex·OpenCode를 조율하는 멀티 에이전트 오케스트레이터 | digitalbourgeois](https://digitalbourgeois.tistory.com/3722)
+  * 하나의 목표를 Claude Code·Codex·OpenCode를 섞어 쓰는 작업 의존성 그래프로 바꿔 실행하는 오케스트레이터. 플래너(저장소를 읽고 모호한 부분은 질문만 하며 쓰기 명령은 거부)가 작업마다 러너·모델·추론 강도·모드를 지정한 계획을 내놓고, 토큰을 쓰기 전에 프롬프트·모델·의존성까지 사람이 편집(`ordewell task-runner 2 opencode`, `task-model`, `task-deps`). 독립 작업은 각자 git worktree에서 병렬(기본 3개) 실행, 완료 판정은 모델의 자평이 아니라 러너의 `task_complete` 도구 호출 또는 고유 완료 마커(종료 코드는 보조 증거)로만, 통과한 작업은 통합 브랜치에 계획 순서대로 쌓이고 머지는 사람이 결정. 배포·클라우드 CLI 같은 ops 작업은 의존 변경이 머지된 뒤 본인 체크아웃에서 실행
+  * 별도 API 키 없이 이미 쓰는 코딩 에이전트를 플래너로 사용 가능(25개 프로바이더 키도 지원), 계획에 PRD 작성·TDD 지침 추가, 상태 로컬 저장과 세션 복구. 터미널 UI·VS Code 확장·CLI·로컬 API가 하나의 코어 공유, tmux 선택적. Node 20+, TypeScript, Apache-2.0, 187 stars
 * [osk-system: Source-grounded MCP memory runtime and Obsidian-compatible vault template for LLM agents | lpaiu-cs](https://github.com/lpaiu-cs/osk-system)
   * 에이전트와의 대화가 출처가 달린 연결된 지식으로 자라 다음 세션에 다시 쓰이게 하는 로컬 Markdown 메모리(MCP 런타임 + Obsidian 호환 vault 템플릿, vault는 Git 저장소). "LLM 위키를 만들어 줘" 한 줄 요청이 일관성 없는 저장 방식과 근거 없는 그럴듯한 그래프로 흘러간 경험에서 출발해, 무엇을 기억으로 남기고 기존 것과 어떻게 합치거나 연결하며 커진 주제를 언제 나눌지를 "헌법" 규칙으로 먼저 정하고 엔진과 에이전트가 그 규칙대로 메모리를 키움
   * Claude Code·Codex·Kiro·Antigravity에 설치 문서 URL 한 줄을 붙여 넣어 에이전트가 직접 설치. 개발자 공개 베타(Windows 11에서 매일 사용, macOS 일상 사용은 미검증). Python, MIT, 59 stars
@@ -1859,6 +1873,10 @@ Artificial Intelligence
     * 격리된 데브박스와 수백 개의 도구를 연결하는 MCP를 통해 신뢰할 수 있는 실행 환경을 제공
   * 결국 미래의 엔지니어링 경쟁력은 AI 모델 자체가 아니라
     * AI가 안전하고 정밀하게 작동할 수 있도록 설계된 시스템과 인프라를 구축하는 능력에서 결정된다는 통찰
+* [Meet Stripe's Knowledge AI Platform | Stripe Dev](https://stripe.dev/blog/meet-stripes-knowledge-ai-platform)
+  * [Stripe의 사내 AI 플랫폼 Kai: 업무 자동화 아키텍처와 실제 생산성 개선 사례 | digitalbourgeois](https://digitalbourgeois.tistory.com/3721)
+  * Claude Code·Codex의 AI 물결에서 소외된 영업·재무·TAM 등 비개발자를 위해 만든 사내 지식 업무 에이전트 플랫폼 Kai(4월 출시, 2주 만에 대부분 사용, 주간 활성 83%). 코딩은 작업 형태가 균일해 단일 에이전트가 맞지만 지식 업무는 업무마다 도구·데이터·산출물·완료 기준이 달라 플랫폼이 필요—이전의 NoCode Agent Builder(4,000개+ 마이크로 에이전트가 중복·품질 편차·유지보수 부담)와 코딩 에이전트 전용(보안·지원 부담) 양쪽 한계에서 출발. 설계 원칙 3가지: 전문성을 중앙화하지 않고 확장(도메인 팀이 직접 스킬·에이전트 소유), 에이전트가 일하는 곳으로 이동(웹·Slack·사내 앱 임베드·Chrome 확장), 코드에 없는 가드레일 구축("무관한 두 고객 컨텍스트를 한 분석에 섞지 않는다" 같은 불변식—권한 토큰이 아니라 작업 컨텍스트 기준 격리)
+  * 3계층: Surface-agnostic API(에이전트는 서비스, 화면은 뷰)·Agent Studio(도메인 오너가 스킬·커스텀 에이전트·도구를 만들고 사용량·품질 신호로 거버넌스하는 컨트롤 플레인)·실행 환경(LangChain deepagents 기반 하네스, Kubernetes 세션별 샌드박스, 멀티테넌트 가상 파일시스템, 코드 실행 샌드박스; 하네스·샌드박스·오케스트레이션·접근 제어를 고객용 에이전트와 공유). 932턴 세션도 컨텍스트 윈도우 과부하 없이 유지, 1,000개+ 스킬·도구 중 맞는 것을 로드. 성과: GTM 신입은 2.7배 더 사용, AE가 Kai를 쓴 주에 영업 활동 2배·기회 17%↑·딜 성사 39%↑, 하루 5,000+ 데이터 분석 세션. 다음 과제: 상태 관리(활성 vs 확장 컨텍스트), 트레이스 기반 스킬 자기개선 루프, 세션 간 공유·다인 협업 프리미티브
 * [AgentCore Managed Harness & Payments: 에이전트가 스스로 결제하는 시대 | jesamkim AI Tech Blog](https://jesamkim.github.io/ai-tech-blog/posts/2026-05-09-agentcore-managed-harness-and-payments/)
   * AWS AgentCore의 Managed Harness와 에이전트 결제(Payments) 기능 정리
 * [바이브코딩결제.pdf | Google Drive](https://drive.google.com/file/d/1XMYEec6hmrqAjaU8MJQQwUvmxieF0OyI/view)
@@ -4306,6 +4324,9 @@ Artificial Intelligence
 * [Kimi K3 is competitive with Fable; Kimi K3 + Fable is SoTA | Fireworks AI](https://fireworks.ai/blog/kimik3-fable)
   * [Kimi K3와 Fable 비교 분석: 단일 AI 모델보다 모델 라우팅이 더 중요한 이유 | digitalbourgeois](https://digitalbourgeois.tistory.com/3407)
   * Kimi K3가 Claude Fable와 대등하고, 둘을 라우팅으로 결합하면 SoTA에 도달한다는 Fireworks AI 분석. 단일 최강 모델보다 모델 라우팅·조합이 더 중요하다는 관점
+* [분야별 AI 최강 — 오픈소스 편 (2026.10) | Solostack - YouTube](https://www.youtube.com/shorts/QvOSO6luQjc)
+  * 2026-10-05 기준 전부 오픈소스(HF 가중치 공개·라이선스 원문 확인)로만 뽑은 분야별 1위 3분 쇼츠—"제일 센 것"과 "내 컴퓨터에서 돌아가는 것"을 구분하고 제작사 자체 보고 수치는 순위 근거에서 제외. 코딩: arena WebDev 오픈 1위 Kimi K3(2.8T, 8×GB300급 필요), AA 지수는 Xiaomi MiMo-V2.6-Pro-RL(MIT)이 위, 집 GPU 한 장은 Qwen3.8-27B(Apache); 문서 인식 TeleOCR(한국어 문서는 PaddleOCR-VL이 약함); 영상 Wan 2.2(점수 1위 MiniMax-H3는 한국 등 라이선스 제외); 이미지 Ideogram 4.0(비상업)·상업 가능 Qwen-Image 2512·HiDream-O1·Z-Image-Turbo(Qwen-Image는 한글 렌더링 약함); 3D TRELLIS.2-4B(MIT)·저사양 SF3D
+  * 작곡 ACE-Step 1.5 XL(MIT), 한국어 가사는 HeartMuLa(자체 벤치); 음성 합성 한국어는 CosyVoice 3.0·Qwen3-TTS 함께 비교 추천(논문별 평가셋이 달라 순위 미정); 받아쓰기는 한국어 Qwen3-ASR-1.7B vs Whisper large-v3가 평가셋별로 엇갈려 단독 1위 미단정, 영어는 Qwen3-ASR 오픈 1위(WER 4.31), 도전자 microsoft/VibeVoice-ASR-Streaming-1.5B(MIT); 배경 제거 SAM 3.1(별도 SAM License)+BiRefNet(MIT). Anthropic의 9/10 Moonshot(Kimi) Claude 무단 사용 주장은 독립 검증 전이라고 병기
 * [OpenAI가 투자한 법률 AI, 속은 중국 모델이에요 | inlevel9](https://letter.inlevel9.com/issues/harvey-picks-chinese-model)
   * [오광섭 - OpenAI가 투자한 법률 AI, 속은 중국 모델이에요 | LinkedIn](https://kr.linkedin.com/posts/oswarld_openai가-투자한-법률-ai-속은-중국-모델이에요-activity-7496955824662044673-CA9B)
   * OpenAI가 투자한 법률 AI 유니콘 Harvey의 자체 모델 Tenet이 실은 중국 Moonshot의 오픈웨이트 Kimi K3(2.8T) 위에 구축됐다는 분석. 핵심 논지는 "모델이 아니라 1,750개 환경 + 75,000개 채점 기준(강화학습 파이프라인·도메인 데이터)이 진짜 자본"—어떤 베이스 모델을 쓰느냐보다 그 위에 쌓은 평가·학습 인프라가 해자라는 관점
