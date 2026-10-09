@@ -1449,6 +1449,8 @@ Linux
     * [ghgrab: A simple, pretty terminal tool that lets you browse and download files from GitHub, GitLab, Codeberg, Gitea, and Forgejo without leaving your CLI](https://github.com/abhixdd/ghgrab)
   * [lazyrsync — A terminal UI for rsync](https://lazyrsync.westpoint.io/)
   * [tuxedo: A fast, keyboard-driven terminal UI for todo.txt](https://github.com/webstonehq/tuxedo)
+    * [Tuxedo, a lightweight task management tui - ioga - YouTube](https://www.youtube.com/watch?v=mT1tg6SQ_Ag)
+    * todo.txt 표준 형식을 그대로 읽고 쓰는 Rust 단일 바이너리 TUI(+ todo.txt-cli 호환 CLI, `--json` 출력). Vim 키(50단계 undo), 원자적 쓰기, 외부 편집 즉시 감지, 테마 5종. 문장으로 입력하면 오프라인에서 todo.txt 형식으로 바꿔 주는 자연어 추가, QR로 같은 LAN의 PWA를 열어 휴대폰에서 할 일 입력. 영상은 README가 추천하는 IogaMaster의 소개(Neovim 플러그인 tuxedo.nvim 포함). MIT, 1.8k stars
   * [kew (/kjuː/, a variant of cue) is a terminal music player](https://kewplayer.com/)
     * [kew](https://codeberg.org/ravachol/kew)
   * Seth Phaeno. 저평가된 CLI 도구 5종—leaf(마크다운 프리뷰: 문법 하이라이팅·LaTeX·Mermaid), ghgrab(GitHub/GitLab/Codeberg/Gitea 파일 탐색·다운로드, Rust 1.5k stars), lazyrsync(rsync TUI: 재사용 프로파일·dry-run diff·SSH 라이브 진행률), tuxedo(todo.txt 키보드 중심 TUI, Rust 1.7k stars), kew(터미널 음악 플레이어)
