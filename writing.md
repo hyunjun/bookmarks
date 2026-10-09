@@ -99,6 +99,9 @@ Writing
 * [생산적 글쓰기를 위한 좋은 메모법](https://brunch.co.kr/@graypool/61)
 * [한 번만 읽어도 책 내용 다 기억하는 기적의 독서 메모 법 | 김익한 @ican 명지대 교수, 기록학자 #메모 #기록 #독서 - YouTube](https://www.youtube.com/watch?v=fxdPHw8vhog)
 * [EBS 적는 자가 살아남는다 | 천재들의 노트 습관 | #지식채널e - YouTube](https://www.youtube.com/watch?v=KbleIwApqu4)
+* [Medium's State of Writing Report 2026: A private writing revival](https://medium.com/blog/mediums-state-of-writing-report-2026-a-private-writing-revival-107016e9e254)
+  * [AI로 글을 쓰고 PRD를 만드는 시대에 우리가 말하기 꺼려하는 그 코끼리에 대하여 | ywkim36](https://brunch.co.kr/@ywkim36/225)
+  * 작가의 71%가 AI를 사용하지만, 타인의 AI 작품 69% 신뢰 불가, 자신의 결과물도 60% 신뢰 불가. "The eleph-AI-nt in the room": 모두 사용하지만 아무도 인정하지 않는 현상.
 * [강력한 비즈니스 글쓰기의 과학 | 자기계발 | 매거진 | 하버드비즈니스리뷰 HBR](https://www.hbrkorea.com/article/view/atype/ma/category_id/6_1/article_no/1739)
 * [주니어 개발자가 처음 책 출판해본 썰.txt - 재그지그의 개발 블로그](https://wormwlrm.github.io/2021/09/12/Review-of-Book-Publication.html)
 * [Explaining explaining: a quick guide on explanatory writing](https://lucasfcosta.com/2021/09/30/explaining-in-writing.html)
@@ -145,6 +148,9 @@ Writing
   * LLM을 대필 작가가 아니라 교정 편집자로 쓰라는 두 가지 원칙. ①**모델이 제안한 표현은 단 한 단어도 쓰지 않는다**—프런티어 모델은 듣기 좋은 문구를 고르는 데 초자연적으로 능해서 모든 문장이 잡지 헤드라인처럼 되는데, 헤드라인 수십 개로 된 글은 이상하다. 마음에 들거나 기존 표현보다 낫다고 확신해도 예외 없이 금지(사람이 모델의 획일화 방식을 빠짐없이 식별할 수 있다는 전제에 기대지 않는 일종의 지적 보호장구) ②**격려를 금지하고 칭찬을 경계한다**—초안은 대개 문단이 나쁘고 흐름이 엉키고 750단어쯤 군더더기가 있는데 모델은 구조·문단·비유·대중문화 인용까지 칭찬해 초안의 선택을 고수하게 만든다. 다시 생각하고 고치는 과정이 목소리를 지탱하므로 이를 건너뛰면 독자는 이유를 못 짚어도 인공적인 맛을 느낀다
   * 맡길 것은 지루한 기계적 점검—수동태 남용, 동사의 명사화, 반복 표현, '매우·안타깝게도·정말·실제로' 같은 군더더기, 위치만 바꿔도 명료해지는 문단 2~3개 찾기. 작업 순서는 (1) 모델에 문제를 찾게 하고 (2) 해당 문장·문단을 직접 다시 쓰고 (3) 원문과 수정본을 비교하게 하되 **편집 맥락을 모르는 별도 모델**을 써야 한다(방금 수정한 걸 아는 모델은 사용자가 원하는 답을 눈치챈다). 저자는 자신을 필자가 아니라 투고 심사 편집자라고 소개하는 프롬프트를 몇 년 썼지만 모델이 가상 매체의 목표에 과적합하는 문제가 있었다고 함
   * 참고서로 『Style: Lessons in Clarity and Grace』를 추천—프로그래머에게 『C Interfaces and Implementations』가 하는 역할처럼 교정을 체계적(그리고 Java 코딩처럼 지루하지만 효과적인) 작업으로 바꿔 준다. 책에서 뽑은 편집 프롬프트 목록을 넣은 글쓰기 워크숍 도구를 직접 만들어(Python·HTMX·SQLite·Tailwind, Codex·Claude·Antigravity CLI로 각각 실행) 여러 차례 점검. 결론은 "교정 조언을 전부 따를 필요는 없다"—이 글도 GPT5가 20% 길다고 했지만 줄이지 않았다며, 단어 선택과 최종 판단은 사람이 갖고 가장 지루한 일만 넘기라는 것
+* [Anne Carson shared a book recommendation and some timeless writing advice at the 2024 National Book Awards | The New Yorker | Instagram](https://www.instagram.com/reels/DePN2lvE14y/)
+  * [이번 노벨 문학상 수상자인 앤 카슨의 인상적인 뉴요커 숏터뷰 | Martin Sae Hoon Oh | Facebook](https://www.facebook.com/martin.sae.hoon.oh/posts/pfbid0zDDWvvRc9gmq8h4e9o1ubv7QGNdmUSUoqEM7yYd9F2v2L2ZPHNk4vfpk7CBwPbaDl)
+  * 2024년 National Book Awards에서 뉴요커가 찍은 짧은 인터뷰. 노벨 문학상 수상자 앤 카슨은 글쓰기 조언을 받아 본 적이 있느냐는 질문에 전혀 없다고 답하고, 그럼 조언을 해 달라는 질문에는 망설임 없이 "Start in the middle(중간에서 시작하라)". 어떤 글이든 시작이 가장 어렵다는 공유자의 덧붙임. 책 추천도 함께
 
 # App
 * latex
