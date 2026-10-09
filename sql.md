@@ -602,9 +602,11 @@ SQL
 * [dblab: The database client every command line junkie deserves](https://github.com/danvergara/dblab)
   * [Dblab - 인터랙티브한 터미널용 DB 클라이언트 | GeekNews](https://news.hada.io/topic?id=15284)
 * [DBLog: A Generic Change-Data-Capture Framework | by Netflix Technology Blog | Netflix TechBlog](https://netflixtechblog.com/dblog-a-generic-change-data-capture-framework-69351fb9099b)
-* [db_seeder: Relational database data generator..](https://github.com/KonnexionsGmbH/db_seeder)
+* [DBngin | All-in-One Database Version Management Tool](https://dbngin.com/)
+  * TablePlus가 만든 무료 macOS 앱. Docker나 VM 없이 PostgreSQL·MySQL·MariaDB·Redis 등 DB 서버를 네이티브로 한 번 클릭해 띄우고, 여러 버전·포트를 동시에 관리. Apple Silicon·Intel, macOS 10.13+
 * [DbSchema – Database Design & Management Tool for Teams](https://dbschema.com/)
   * [Visual Database Design and Management Tool - DbSchema - YouTube](https://www.youtube.com/watch?v=IjWRQ7qfLhg)
+* [db_seeder: Relational database data generator..](https://github.com/KonnexionsGmbH/db_seeder)
 * [DBX - 25MB, 100+ 데이터베이스 관리](https://dbxio.com/)
   * [dbx: 25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis | t8y2](https://github.com/t8y2/dbx)
   * 25MB 경량 크로스플랫폼 DB 클라이언트—SQL 편집기, 선택형 AI 어시스턴트, MCP, Docker 셀프호스팅. Rust, Apache-2.0, 21.6k stars
