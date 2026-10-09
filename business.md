@@ -5016,6 +5016,9 @@ Business
 * [텍스트 접근성을 개선했더니 거래액이 올랐습니다. - 라포랩스 팀블로그](https://blog.rapportlabs.kr/88141)
 * [Product Design Is Changing](https://rogerwong.me/2026/02/product-design-is-changing)
   * [프로덕트 디자인이 변하고 있다 | GeekNews](https://news.hada.io/topic?id=27120)
+* [How is AI changing Design?](https://www.wearefullmoon.com/how-is-ai-changing-design/)
+  * [AI는 디자인을 어떻게 바꾸고 있는가? | GeekNews](https://news.hada.io/topic?id=35042)
+  * 디자이너 집단 대화 연구(2026년 7~8월): AI 도입으로 제작 속도·탐색 범위 증가, 그러나 누구도 품질 개선을 언급하지 않음. 정밀한 의도 구현 시 난이도 상승, 결과 획일화, 의사결정 병목이 제작에서 승인으로 이동.
 * aidesign.guide [Introduction - The AI design library](https://aidesign.guide/)
   * AI Design Guide는 디자인과 인공지능의 결합으로 가능한 새로운 워크플로와 방법론을 소개하는 리소스 컬렉션
   * 이 가이드는 프롬프트 작성법, 효과적인 AI 활용 전략, 디자인 자동화를 위한 실용적인 팁을 제공하며 디자이너의 워크플로를 개선할 수 있는 다양한 도구와 방법을 소개
@@ -5033,5 +5036,7 @@ Business
     * GitHub에서 2020년 다크 모드를 공개한 이후 고대비 테마를 만들면서 Primer Prism이라는 색상 도구 제가
     * 이 도구를 통해 색상 스케일을 만들어서 색 대비를 쉽게 비교하고 조정할 수 있게 작성
     * 이 색상 팔레트를 JSON으로 내보내어 GitHub에 적용하여 테스트
+* [Subframe — design & build in one tool](https://www.subframe.com/)
+  * 코드베이스에 연결된 디자인 도구이자 캔버스가 달린 코딩 에이전트. 디자인 캔버스와 브라우저(localhost) 미리보기, 레이어·페이지 패널, 에이전트 대화를 한 화면에 두고 디자인과 구현을 함께 진행. macOS·Windows 앱 다운로드, 샌프란시스코 팀
 * [UXSnaps – Actionable UI/UX Breakdowns from Top Apps](https://www.uxsnaps.com/)
   * [실제 UI 화면으로 핵심 UX 원칙 분석하는 ‘UXsnaps’ | 요즘IT](https://yozm.wishket.com/magazine/detail/3337/)
