@@ -1572,6 +1572,11 @@ Artificial Intelligence
 * [oc (only-cli): Turn any website into a compact CLI tailored for AI agents. Browse the web in hundreds of tokens, not tens of thousands](https://github.com/only-cli/oc)
   * [only-cli — Browse the web in tokens, not pages](https://only-cli.com/)
   * 웹페이지를 raw HTML 대신 번호가 매겨진 컴팩트 뷰로 렌더링해 AI 에이전트가 토큰을 아끼며 브라우징하게 하는 CLI. `oc open <url>`이 수만 토큰짜리 페이지를 수백 토큰으로 압축(기본 500토큰 예산, raw 대비 ~45×), open·do·find·read·next·raw 명령으로 URL 직접 처리 없이 탐색. HN·Reddit·GitHub·X·LinkedIn·DuckDuckGo·Stack Overflow 등 사이트 단축키, JSON 엔드포인트도 페이지로 취급, 세션별 렌더 캐시(~/.only-cli), 프록시 지원. Claude Code·Codex·Cursor 등 스킬/플러그인으로 설치. Node 20+, `npm i -g @only-cli/oc`(또는 npx). JS 렌더링·로그인·강한 봇차단 페이지는 아직 미지원, 쓰기(fill/submit)는 예정. MIT
+* [Octop - 懂你、帮你、陪你成长的智能伙伴](https://octop.cloud/)
+  * [Octop: A smarter, self-hosted AI assistant — multi-user, multi-agent | TencentCloud](https://github.com/TencentCloud/Octop)
+  * [🐙 Octop : 한 대의 컴퓨터에서 여러 사용자·여러 에이전트를 돌리는 셀프호스팅 AI | fornewchallenge](https://fornewchallenge.tistory.com/entry/%F0%9F%90%99-Octop-%ED%95%9C-%EB%8C%80%EC%9D%98-%EC%BB%B4%ED%93%A8%ED%84%B0%EC%97%90%EC%84%9C-%EC%97%AC%EB%9F%AC-%EC%82%AC%EC%9A%A9%EC%9E%90%C2%B7%EC%97%AC%EB%9F%AC-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EB%A5%BC-%EB%8F%8C%EB%A6%AC%EB%8A%94-%EC%85%80%ED%94%84%ED%98%B8%EC%8A%A4%ED%8C%85-AI)
+  * Tencent Cloud의 오픈소스 셀프호스팅 AI 비서. 팀·가족·개인이 한 머신에서 여러 사용자가 여러 에이전트를 병렬로 돌리는 멀티 에이전트 구조로, 단일 프로세스 실행에 웹 콘솔·CLI·IM 연동(Feishu·DingTalk·QQ·WeChat·Telegram·Discord·WeCom)과 HTTP/SSE/WebSocket API. 운영 엔지니어·기자·육아 도우미처럼 장면별 전문가를 바꿔 쓰는 전문가 라이브러리·마켓, 전문가·스킬·서브에이전트 공유, MBTI 16종 페르소나, 코디네이터가 여러 전문가를 조율하는 AgentTeams(베타)
+  * JWT 다중 사용자 격리·도구 승인·셸 명령 가드레일·PII 마스킹, OAuth·MCP 커넥터(Tencent Docs·Meeting 등), 로컬 디스크·Docker 샌드박스·PostgreSQL·COS/S3 중 고르는 워크스페이스 백엔드, Octop Memory 기반 이동 가능한 메모리, 문서 RAG 지식 베이스, 플러그인, IDE용 ACP 연동. 컴퓨터 조작(터미널 명령·웹 폼 작성·스크린샷). Python 3.12+, MIT, 8.1k stars
 * [OpenAgent: The Web3 AI Agent Solution](https://github.com/webisopen/OpenAgent)
   * A new framework for deploying verifiable AI agents on the open network, built for DeFAI and DeSci innovation
   * It brings compute verification for high stakes operations and lightning fast agent deployment
@@ -2283,6 +2288,11 @@ Artificial Intelligence
   * [Andrew Edmark — Oopis McGoopis LLC](https://oopismcgoopis.com/)
   * "이상하지만 정직한 소프트웨어"를 만드는 1인 포트폴리오. 대표작 BoneAmanita는 **시뮬레이션된 대사(metabolism)를 가진 로컬 LLM 하네스**—메시지를 어휘 카테고리로 분류해 voltage·cortisol·atp_pool 같은 약 60개 상태값을 세션 간 유지하고, 임계값이 매 턴 시스템 프롬프트에 들어갈 지시문을 고르며, 응답은 클리셰 필터를 통과 못 하면 재생성. 메모리는 대화가 일어난 '존' 단위로 스코핑되고 스트레스 아래서 소실, 페르소나 군집(the Village)은 매끄러운 합성 대신 답변 거부 가능. 사용자 모델도 있어 이탈 징후를 사용자 자신의 기준선과 비교해 짧은 답을 요청. ~43k줄 Python, 유닛 테스트 525개, 매 턴 9개 서브시스템이 receipts 기록(`/diag`로 미보고 적발)
   * 정직성이 설계 원칙—README마다 '이것이 못 하는 것' 섹션이 있고, BoneAmanita README는 스스로를 "물리학 이름을 걸친 프롬프트 빌더"라 부르며 수치를 믿지 말고 동봉된 감사 스크립트를 돌리라고 안내. 그 외 이미지·오디오 파일 없이 Julia-set 프랙탈로 리미널 공간을 생성하는 WebGL 호러 Level 0 Engine, 스크린라이팅 앱 plainchant, 인브라우저 OS FractalOS, 1989년 Sierra 어드벤처 엔진으로 포팅한 테라피 게임(TRS_SCI) 등—대부분 빌드 스텝 없는 정적 파일 지향
+* [coding-agent-benchmark: Benchmarks coding-agent model × harness combinations on autonomous Ralph-loop backend builds (RealWorld, official Hurl suite) | roboco-io](https://github.com/roboco-io/coding-agent-benchmark)
+  * [Ralph Loop Model Benchmark — Ralph loop completion by model | ROBOCO](https://roboco.io/coding-agent-benchmark/)
+  * [Dohyun Jung(정도현) 공유 글 | Facebook](https://www.facebook.com/dohyjung/posts/pfbid0e9h7xw7q9GPCm2DFnpK1D4Ws1phzqbMZdwhY3gvTBstoYHCLFZX8e811m7qc8RKXl)
+  * 정도현(로보코)의 공개 벤치마크. Claude·GPT·Gemini·DeepSeek·Qwen·Kimi 17개 모델에 같은 과제(RealWorld 블로그 백엔드, 공식 Hurl 테스트 154개)를 주고 사람 개입 없이 완료 선언·테스트 통과까지 새 세션에서 같은 지시를 반복하는 Ralph loop로 실행(2026-07-24~10-08, 111회). 비교 단위는 모델 × 하네스(Claude Code·Codex CLI·pi·Antigravity CLI) × 추론 설정 × 접속 환경이며 예산 내 통과율·실패 포함 비용·시간·사람 개입이 1차 지표
+  * 대시보드는 모델·에이전트 조합별 완료 시간 중앙값 대 추정 비용을 로그 스케일 산점도로 보여 주고(시간×비용 최소 5개 강조, 어느 조합도 못 이기는 조합을 점선으로 연결), 실험 설계·실행 로그·토큰 기록·채점 스크립트·비용 계산을 모두 공개. 앞서 등록한 "의외로 9배 저렴한 랄프 루프"(EXP-001) 글의 실험 저장소가 이렇게 확장된 것. 2026-09-21 보정은 대시보드에 아직 미반영
 * [EvoHarness-RL: Learning Self-Evolving Runtime Harness for Long-Horizon LLM Agents](https://arxiv.org/abs/2608.05446v1)
   * [LLM 에이전트가 스스로 외부 상태를 활용하도록 학습하는 EvoHarness-RL | digitalbourgeois](https://digitalbourgeois.tistory.com/3614)
   * 장기 실행 LLM 에이전트가 상태 유지·진행 추적·도구 호출·결과 검증·경험 재사용을 위해 의존하는 외부 실행 지원(하네스). 노이즈 섞인 상호작용 트레이스로부터의 상태 형성(state formation)과 외부 상태 접근에 대한 런타임 제어라는 두 결합된 과제를 다룸
@@ -4999,6 +5009,11 @@ Artificial Intelligence
   * [Next.js 레거시에서 AI 네이티브 프론트엔드로 | EO Planet](https://eopla.net/magazines/47633)
   * Riido 프론트엔드 개발자 3명이 9주 동안 프론트엔드를 처음부터 다시 만든 기록. 로그인 기반 B2B 도구라 SSR 이점이 없던 Next.js 14를 걷어 내고 Vite 8 + React Router, REST에서 GraphQL로 전환. "파일을 찾는 건 이제 사람이 아니라 AI"라는 전제로 도메인→사용자 목적(Query·Command) 단위로 나누고, 파일은 300줄 이하(2,588개, 중앙값 79줄), 규칙은 AGENTS.md에, `pnpm run check` 29단계 검사를 에이전트가 스스로 통과
   * 디자인 시스템 MBSW와 worktree별로 v1 동작·결정·검증을 기록해 어느 에이전트든 이어받게 하는 루프(메멘토 등)로 97개 페이지를 v1 기능 99% 그대로 재구현. 프로덕션 빌드 중앙값 8분 29초→2분 27초, 처음 여는 화면 1.37초→0.78초. "AI에게 설명을 길게 늘어놓기보다 AI가 헤매지 않을 구조를 먼저 만드는 편이 빨랐다"
+* [코딩은 에이전트가 하는데 배포는 왜 제가 하죠? : CLI·MCP·Agent 실전 비교 | 2026 당근 빌더 밋업 - 당근 팀 - YouTube](https://www.youtube.com/watch?v=BL_PzxTtELM)
+  * 2026 당근 빌더 밋업 SRE Day 세션(23분). 코딩은 에이전트에게 맡기면서 배포는 여전히 사람이 하는 문제를 두고, 에이전트에게 배포를 맡기는 방법으로 CLI·MCP·Agent 방식을 실전에서 비교
+* [AI와 일하는 방식, 데자뷔 | cleancode | brunch](https://brunch.co.kr/@cleancode/108)
+  * 본부장이 됐을 때 방향을 정하고 구현을 위임하고 리뷰에 참여하되 라인 단위로 다 읽지는 않았는데, AI가 만든 코드는 한동안 라인 단위로 다 읽으려 했다는 자기 관찰("구성원들과는 하지 않던 일을 AI와는 하고 있었다"). 그 이유는 업계 전체가 탐색 단계로 돌아온 불안과 코드를 쓰며 저절로 생기던 이해가 사라진 것
+  * 인수테스트를 적용한 뒤 생각이 바뀜. 코드가 아니라 외부 행위를 검증하고, 명세는 가볍게 써서 코드와 함께 갱신하며 승인 왕복 횟수를 줄이고, 필요할 때는 이해할 수 있게 해 두되 개발 조직의 병목은 코딩이 아니라 점진적·안정적 반영이라는 정리. "파도를 멈출 수는 없지만 서핑하는 법을 배울 수는 있다"
 * [2603.21439 LLM-Powered Workflow Optimization for Multidisciplinary Software Development](https://arxiv.org/abs/2603.21439)
   * [AGI KR](https://www.facebook.com/groups/255834461424286?multi_permalinks=2911883062486066)
   * Volvo Group 사례: 그래프 기반 워크플로우 최적화로 API당 개발 시간 5시간→7분, 총 979시간 절감. F1 93.7%. FSE 2026 Industrial Track 채택
@@ -5185,6 +5200,9 @@ Artificial Intelligence
 * [codegraph — Understand any codebase as a graph](https://colbymchenry.github.io/codegraph/)
   * [codegraph: Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local](https://github.com/colbymchenry/codegraph)
   * [Graphify vs CodeGraph: I Tested Both With Claude Code - YouTube](https://www.youtube.com/watch?v=Xr2MjfirjqA)
+  * [I Tested 6 Code Graph Tools—Here Is What Actually Happened - The Gray Cat - YouTube](https://www.youtube.com/watch?v=CgvK66lHY5o)
+    * 위 비교의 후속편. CodeGraph·Graphify·Graft·GitNexus·Codebase Memory MCP·Code Review Graph 6종을 plain Claude Code와 같은 macOS 영상 편집기 대규모 리디자인 과제로 비교(Opus 5.5 medium, 서브에이전트 없음). CodeGraph만 plain보다 토큰 약 10%·API 환산 비용 약 6% 적었고($8.66 vs $9.18), Graft는 자체 보고한 절감과 달리 토큰을 약 39% 더 씀
+    * 모든 구현이 빌드를 통과한 뒤에도 버그·회귀가 남았고, 설정당 1회 실행이라 속도 우위는 입증되지 않았다는 단서. 결론은 CodeGraph를 택하되 그 버전도 수정이 필요
   * 코드베이스를 미리 인덱싱해 쿼리 가능한 지식 그래프로 만들어 MCP로 에이전트에 노출—파일을 열기 전에 프로젝트 맵을 질의하게 해서 토큰과 도구 호출을 줄이는 접근. Tree-sitter로 20+ 언어를 증분 파싱(추측이 아닌 실제 AST에서 심볼·엣지 추출), 코드 변경 시 자동 동기화, 심볼의 호출자·피호출자와 영향 반경(impact radius)을 추적하는 impact analysis. 완전 로컬이고 `npx @colbymchenry/codegraph`로 실행. Claude Code·Codex·Gemini·Cursor·OpenCode·Antigravity·Kiro·CoPilot·Hermes 지원. C, MIT, 71.5k stars
   * The Gray Cat의 비교 실험(같은 커밋·같은 프롬프트·같은 모델 고정, Gray Cut 기능 하나 구현)—plain Claude 6.55M 토큰·9분 42초, Graphify 5.34M 토큰에 27초 단축이나 첫 인덱싱에 약 3분 30초와 Gemini·Claude API 비용 약 $2.30, CodeGraph 4.23M 토큰·8분 45초에 인덱싱은 모델 호출 없이 2초 미만. 정확성은 100개 1프레임 클립 테스트에서 갈렸는데 Graphify는 33ms 드리프트로 컷 근처 단어를 빠뜨릴 수 있었고 plain Claude는 1ms 오차, **CodeGraph만 두 타이밍 검사를 모두 통과**
   * 단 영상 제작자 본인이 "설정당 1회 실행일 뿐이므로 더 일반적인 주장을 하기 전에 CodeGraph를 먼저 시도해 보고 더 큰 벤치마크를 돌려보겠다"고 명시—단일 실행 결과로 받아들일 것. 비교 대상 Graphify는 같은 섹션에 별도 항목으로 있음
@@ -5222,6 +5240,7 @@ Artificial Intelligence
 * [Future Tools - Find The Exact AI Tool For Your Needs](https://www.futuretools.io/)
 * [generative-ai-arbitrage: A curated list showing how to access the exact same top-tier generative AI models (video, image, and music) for significantly less money. This repo focuses on alternative API access paths to popular models like Veo, Sora, Runway-class video, Midjourney-level images, and Suno-quality music — often at 70–90% lower cost 🤯](https://github.com/cporter202/generative-ai-arbitrage)
 * [GitNexus: Index your codebase into a searchable knowledge graph for AI agents](https://github.com/abhigyanpatwari/GitNexus)
+  * [GitNexus 웹 UI](https://gitnexus.vercel.app/)
   * 코드베이스를 검색 가능한 지식 그래프로 인덱싱. AI 에이전트가 코드 의존성, 호출 체인, 아키텍처 관계를 이해할 수 있도록 지원. CLI(MCP 서버 통합) 및 웹 UI
 * [Genspark - The AI Agent Engine that revolutionizes search with trustworthy AI answers and unbiased, comprehensive results. Save time with our team of AI agents for various research & tasks.](https://www.genspark.ai/) perplexity같은 검색
   * [Genspark AI 슬라이드가 일하는 방식, CO-STAR 방식의 프롬프트로 에이전트 길들이기 AI 지배자라는 책에서 나오는 CO-STAR 프롬프트를 활용해 젠스파크를 테스트해 보았습니다. CO-STAR 프롬프트의 6가지 요소 Context(맥락): AI가 작업할 배경 정보 설명 Objective(목표): AI가 달성해야 할 구체적인 목적을… | Minjung Kim](https://www.linkedin.com/posts/minjung-kim-982762229_genspark-ai-%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C%EA%B0%80-%EC%9D%BC%ED%95%98%EB%8A%94-%EB%B0%A9%EC%8B%9D-co-start-%EB%B0%A9%EC%8B%9D%EC%9D%98-%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8%EB%A1%9C-activity-7374662279092424705-ll-B)
@@ -6325,6 +6344,8 @@ Artificial Intelligence
   * [ai-sales-team-claude: AI-powered sales automation for Claude Code](https://github.com/zubair-trabzada/ai-sales-team-claude)
     * 커맨드라인 전문 영업 운영 시스템. 5개 병렬 분석 에이전트로 프로스펙트 감사, BANT/MEDDIC 리드 스코어링(0-100), 의사결정자 매핑, 이메일 시퀀스, 미팅 브리프, 제안서·PDF 리포트 생성
   * [ai-website-cloner-template: Pixel-perfect website cloning framework using Claude Code](https://github.com/JCodesMore/ai-website-cloner-template)
+    * [🌐 AI Website Cloner : 3.6만 스타, URL 하나로 사이트를 Next.js로 복제 | fornewchallenge](https://fornewchallenge.tistory.com/entry/%F0%9F%8C%90-AI-Website-Cloner-36%EB%A7%8C-%EC%8A%A4%ED%83%80-URL-%ED%95%98%EB%82%98%EB%A1%9C-%EC%82%AC%EC%9D%B4%ED%8A%B8%EB%A5%BC-Nextjs%EB%A1%9C-%EB%B3%B5%EC%A0%9C)
+    * URL 하나를 주면 에이전트가 Map→Observe→Build→Compare 네 단계로 사이트를 Next.js 16·React 19·shadcn/ui·Tailwind CSS v4 앱으로 다시 만드는 템플릿. HTML 뜯기·폰트·이미지 수집·반응형·애니메이션 재구현을 에이전트에게 맡김. Claude Code(Opus 5.5) 권장, Codex CLI·OpenCode·Cursor도 지원하며 이식성 있는 에이전트 스킬 하나로 구성. Node.js 24 이상. 2026년 3월 공개 뒤 TypeScript, MIT, 36.3k stars
   * [andrej-karpathy-skills: Karpathy-Inspired Claude Code Guidelines](https://github.com/multica-ai/andrej-karpathy-skills)
     * [Karpathy-Inspired Claude Code Guidelines LLM 코딩 품질을 높이기 위한 실전 가이드 정리 | digitalbourgeois](https://digitalbourgeois.tistory.com/3137)
     * Andrej Karpathy 관찰 기반 LLM 코딩 4원칙 CLAUDE.md. 1) Think Before Coding—추측 대신 모호함 명시·옵션 제시 2) Simplicity First—senior dev이 over-engineered로 볼 만한 건 이미 그러함 3) Surgical Changes—요청에 정당화되는 줄만 변경, 기존 스타일 보존 4) Goal-Driven Execution—"버그 수정" 대신 "재현 실패 테스트 작성 후 통과시키기" 같은 성공 조건 재구성. 효과 신호: 작은 diff·요청 없는 리팩토링 감소·코드 작성 전 명확화 질문·리뷰 친화 PR. drop-in CLAUDE.md 또는 Claude Code 플러그인. "LLM이 생각하는 방식을 먼저 바꾸는 것"
@@ -8319,6 +8340,10 @@ Artificial Intelligence
 * [Hypit — Clone Any Viral Video with AI Agents, Open Source](https://hypit.ai/)
   * [hypit: Clone any viral video with AI agents. Not just a script, the whole workflow](https://github.com/hypit-ai/hypit)
   * 바이럴 영상을 AI 에이전트로 복제—스크립트만이 아니라 얼굴·대사·B-roll까지 교체 가능한 워크플로로 만들어 한 명령으로 100개 변형 생성. BYOK 무료 오픈소스. TypeScript, 9.2k stars
+* [LaunchVideo: a launch video from a URL or a prompt](https://launchvideo.io/)
+  * [LaunchVideo: Opus 5.5로 제품 소개 영상을 자동 생성하는 기술 | digitalbourgeois](https://digitalbourgeois.tistory.com/3723)
+  * 제품 URL이나 설명을 붙이면 Opus 5.5가 영상 "대본"으로 HTML·CSS·JS 애니메이션을 쓰고 서버리스 에이전트가 프레임 단위로 렌더링해 MP4로 만드는 서비스. 영상 생성 모델을 쓰지 않는 접근으로, 한 편에 약 4분·토큰 약 10만 개(입력 약 9만·출력 약 1.5만, 대부분 HTML). NVIDIA·Jev·Linear 사이트와 프롬프트 한 줄로 만든 예시를 수정 없이 공개
+  * 전체가 OpenComputer 서버리스 에이전트 파일 하나(TypeScript, `opencomputer deploy`)·도구 3개(web_fetch가 페이지 텍스트·제목·주요 hex 색상·폰트 추출 등)·입력 폼. 작업마다 새 microVM(Amazon Linux 2023 arm64, 4 vCPU·8GB, Node 22)에서 Playwright headless Chromium과 ffmpeg를 설치해 렌더링하고 VM은 폐기. 프레임워크·큐·자체 서버 없음
 * [Luma Dream Machine | AI Video Generator](https://lumalabs.ai/dream-machine)
 * [Live Avatar Project Page](https://liveavatar.github.io/)
   * [LiveAvatar: Implementation of "Live Avatar: Streaming Real-time Audio-Driven Avatar Generation with Infinite Length"](https://github.com/Alibaba-Quark/LiveAvatar)
