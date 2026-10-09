@@ -125,6 +125,8 @@ Programmer
   * [최두옥 - 가장 빠르게 전문가가 되는 법, 딱 세줄. ㅤ 첫째, 구체적인 프로젝트를 정하고 끝까지 완성한다. 필요한... | Facebook](https://www.facebook.com/Agnes.doook/posts/pfbid02yHaWGxZaWFE4dubcVTxmGrnKNKYTZex8qRHs7MWrA4eKiadTamtvAEB19Ce1aMTKl)
 * [How AI assistance impacts the formation of coding skills \ Anthropic](https://www.anthropic.com/research/AI-assistance-coding-skills)
   * [Anthropic이 자기 제품이 개발자 실력을 깎는다는 연구를 직접 발표했어. 52명 주니어 개발자한테 새 Python 라이브러리(Trio, 비동기 프로그래밍)를 배우게 했어. AI 쓴 그룹 퀴즈 점수 50%, 안 쓴 그룹 67%. 거의 두 등급 차이야. 특히 디버깅 문제에서 격차가 제일 컸어. 속도는? AI 쓴 그룹이 2분 빨랐는데, 통계적으로 유의미하지 않았어. AI한테 질문하고 프롬프트 다듬는 데 세션 시간의 30%를 쓰고 있었거든.](https://www.threads.com/@softdaddy_o/post/DWKoWKvk9iK)
+* [How I use AI to learn engineering (anti brain rot studying) - YouTube](https://www.youtube.com/watch?v=GPM5MgFEkpk)
+  * 엔지니어링 개념을 시각화·CAD로 만들기, AI로 학습 자료 필터링·리소스 발견, 핵심 20% 파악. 프롬프트·템플릿·자료 공개. Aleks Gornik, 12분 42초.
 * [앨리스의 수다 라방 - YouTube](https://www.youtube.com/playlist?list=PL9fVSJzH3-mopbZLwUUNRp-MsMMte6Cst)
 * [드림코딩 by 엘리 - YouTube](https://www.youtube.com/channel/UC_4u-bXaba7yrRz_6x6kb_w/videos)
 * [Effective Engineer](https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f)
