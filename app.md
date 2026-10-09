@@ -2697,6 +2697,11 @@ App
 * [CompressO: Compress any video/image into a tiny size](https://compresso.codeforreal.com/)
   * [compressO: Convert any video/image into a tiny size. 100% free & open-source. Available for Mac, Windows & Linux | codeforreal1](https://github.com/codeforreal1/compressO)
   * 100% 무료·오프라인·오픈소스 영상/이미지 압축 앱(Mac·Windows·Linux). TypeScript, AGPL-3.0, 4.7k stars
+* [Crafting Apps: open-source creative tools | ArtCraft](https://getartcraft.com/apps)
+  * [storytold · GitHub](https://github.com/storytold)
+  * [Someone Just Rebuilt Adobe for Free, and Claude Can Run Them All (7 apps tested) - Jay E | RoboNuggets - YouTube](https://www.youtube.com/watch?v=Fuo1i_-9Frc)
+  * ArtCraft 팀이 순수 Rust로 만든 무료 오픈소스 네이티브 창작 앱 7종. PhotoCraft(Photoshop 클린룸 재구현, 30.6k stars)·FilmCraft(Premiere Pro, 6k)·PDFCraft(Acrobat, 5.3k)는 Apache-2.0으로 공개됐고, VectorCraft(벡터 일러스트)·EffectCraft(모션 그래픽)·LightCraft(사진)·DesignCraft(페이지 레이아웃)까지 이미지 편집·벡터·영상·사진·PDF·모션 그래픽·레이아웃을 묶음
+  * 영상(9분)은 PhotoCraft·FilmCraft·EffectCraft를 직접 써 보고 나머지 4개를 훑은 뒤, Claude가 이 앱들을 대신 조작할 수 있는지와 그래도 Adobe가 필요한지를 따져 봄
 * [다운튜브 DownTube - 동영상 다운로드 프로그램 4K/8K 가능](http://downtube.org/)
 * [Durdraw - ANSI, ASCII and Unicode Art Animation Studio for Linux](https://durdraw.org/)
   * [durdraw: Versatile ASCII and ANSI Art text editor for drawing in the Linux/Unix/macOS terminal, with animation, 256 and 16 colors, Unicode and CP437, and customizable themes](https://github.com/cmang/durdraw/)
