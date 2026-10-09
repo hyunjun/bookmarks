@@ -547,6 +547,9 @@ Artificial Intelligence
 * [Andrej Karpathy — AGI is still a decade away - YouTube](https://www.youtube.com/watch?v=lXUZvyajciY)
   * [10월22일 오픈AI 공동 창립자 "AI 에이전트는 과장 광고...완성까지 10년은 걸릴 것" < 뉴스 브리핑 < 포커스 < 기사본문 - AI타임스](https://www.aitimes.com/news/articleView.html?idxno=203337)
 * [비즈니스 문제는 AGI가 아닌 ‘OGI’로 < 솔루션가이드 < IT·산업 < 뉴스 < 기사본문 - 지티티코리아](https://www.gttkorea.com/news/articleView.html?idxno=11446)
+* [Introducing Beam: Reflection's 501B open-weight model](https://reflection.ai/blog/introducing-beam)
+  * [Reflection AI의 Beam: 501B 파라미터 오픈 웨이트 모델과 효율적인 AI 추론 기술 | digitalbourgeois](https://digitalbourgeois.tistory.com/3730)
+  * Beam: 희소 MoE 모델(총 501B 파라미터, 활성 23B), 코딩·추론·에이전트 작업 최적화. 2.38조 토큰 사전학습(웹+라이선스) + 100M+ 롤아웃 고스케일 RL(10.5K GB300 GPU, 4주). Kimi K3·GLM 5.2·Qwen 3.8-Max·DeepSeek 경쟁 모델 대비 추론 효율 이점. 초기 접근 신청 가능.
 * [2503.23923 What the F*ck Is Artificial General Intelligence?](https://arxiv.org/abs/2503.23923)
   * [Wontae Lee - 이 논문은 AGI를 ‘인공 과학자’(human scientist)라고 부른다. 단순히 인간과... | Facebook](https://www.facebook.com/wontae.lee.9889/posts/pfbid0gWE7ecSj1rwEaR1gVjfBzSheUepHxYaAzwUTzFnmFeVVLCHWoWtEddyNhZKGsVQ3l)
 * [2512.05765 The Missing Layer of AGI: From Pattern Alchemy to Coordination Physics](https://arxiv.org/abs/2512.05765)
@@ -6003,6 +6006,9 @@ Artificial Intelligence
     * [Build a Slack data analyst bot with Claude Managed Agents](https://platform.claude.com/cookbook/managed-agents-slack-data-bot)
       * Slack 봇에서 CSV 첨부→스레드 내 분석 보고서 생성. 멀티턴 후속 대화 지원
     * [고영혁 - Mythos와는 다른 의미에서 또다른 거대한 폭탄을 Anthropic이... | Facebook](https://www.facebook.com/Dylan.Y.Ko/posts/pfbid0THmymrTqDbM82mXoHjncc34yqNrLRdZSqWANQn71bt9ShRkJQuKJ99a2xrvQ59qfl)
+  * [Escalate hard decisions with the advisor tool - Claude Code Docs](https://code.claude.com/docs/en/advisor)
+    * [Claude Code Advisor 도구란? AI 모델 조합으로 복잡한 개발 작업의 판단력 높이기 | digitalbourgeois](https://digitalbourgeois.tistory.com/3728)
+    * 조언자 도구(advisor): 기본 모델이 핵심 순간(접근 방식 결정 전, 반복 오류 해결, 작업 완료 전)에 더 강력한 모델 상담. 서버 사이드 실행, 구독/API 계정 가능, 어드바이저 모델 선택 가능, 클로드가 호출 시점 판단.
   * [The Advisor Strategy: Give Agents an Intelligence Boost | Claude](https://claude.com/blog/the-advisor-strategy)
     * [Advisor 전략: Opus를 조언자로 활용해 Sonnet의 지능을 끌어올리기 | GeekNews](https://news.hada.io/topic?id=28370)
     * Opus를 어드바이저, Sonnet/Haiku를 실행자로 조합. SWE-bench Multilingual 2.7%p 향상+비용 11.9% 절감. Haiku+Opus는 BrowseComp 41.2%(단독 19.7%의 2배+)
