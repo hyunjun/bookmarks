@@ -5867,6 +5867,9 @@ Programming
   * 2029년 예상되는 Q-day에 완벽 방어까지 최소 15년이 필요한데 전 세계 기업 90%가 양자 보안 위협 대비 시스템을 갖추지 못한 상태. 완벽 대응은 불가능하므로 우선순위를 정해 암호화 자산을 매핑하고 피해를 최소화하는 단계적 방어에 집중해야 한다는 조언
 * [양자컴퓨터 시대 대비 나선 미국…PQC 의무화와 양자 기술 육성 병행 | CIO](https://www.cio.com/article/4189211/)
   * 트럼프 행정명령 2건으로 연방 양자 보안·혁신 전략 수립. 연방기관 키교환 2030년말·전자서명 2031년말까지 전환, 30일 내 담당 고위직 지정. NIST·CISA에 암호 자재명세서(CBOM) 최소 표준 270일 내 수립 지시. "Harvest Now, Decrypt Later" 위협 강조, QC-ADDS 양자 연구 프로그램 병행
+* [AI 시대, 빠르고 안전한 앱 프로토타입 — 섀도우 IT를 양지로 올리는 법 | 장민석(KISTI) · 출연연 오픈소스 테크데이 2026](https://msjang.github.io/ostday26-sadp)
+  * 2026-10-07 발표 슬라이드(40분). 섀도우 IT는 예외가 아니라 모든 새 시스템이 거쳐가는 단계(PoC는 승인 전에 만들어 봐야 승인 여부를 정할 수 있음)이므로 "막을 것인가"가 아니라 "어떻게 양지로 올릴 것인가"를 묻자는 제안. 2001년 님다 바이러스 때 "공유 폴더를 해제하라"는 공지에 대응하는 "다시 켜도 된다"는 공지가 25년째 없다는 사례로 금지가 공짜인 구조를 짚고, 유즈넷 등 학술 정보 공유의 역사까지
+  * 비전공자가 하기 쉬운 실수 열 가지와 아웃바운드 차단으로 안전하게 운영하는 법, 앱 하나하나 대신 플랫폼을 검사하는 SADP(Secure Application Deployment Profile), 그리고 총량제·과분류를 겨냥한 정책 제안 아홉 가지. "규제를 풀자는 게 아니라 금지가 공짜인 구조를 바꾸자." CC BY-NC-ND 4.0
 * [0xNews - 악성 PyPI, npm, Ruby 패키지 발견 – 오픈 소스 공급망을 위협하는 다중 공격 캠페인 | openLab - Secure & opensource](https://project-openlab.blogspot.com/2025/06/0xnews-pypi-npm-ruby.html)
 * [0xVulner - Salesforce Industry Cloud 보안 경고: 20개 이상 구성 취약점 및 5개의 CVE 확인 | openLab - Secure & opensource](https://project-openlab.blogspot.com/2025/06/0xvulner-salesforce-industry-cloud-20-5.html)
 * [2412.03556 Best-of-N Jailbreaking](https://arxiv.org/abs/2412.03556)
