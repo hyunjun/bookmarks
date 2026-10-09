@@ -4769,6 +4769,10 @@ Artificial Intelligence
 * [superclaw: 배포 전 AI 코딩 에이전트의 취약점을 평가하는 보안 테스트 프레임워크](https://github.com/SuperagenticAI/superclaw)
   * [SuperClaw | Superagentic AI](https://super-agentic.ai/superclaw)
   * 시나리오 기반 적대적 공격 생성·실행(프롬프트 인젝션·인코딩 난독화·탈옥·도구 우회), behavior contract로 성공 기준·증거 추출, HTML/JSON/SARIF 리포트로 CI/CD 통합. 기본 로컬 전용·원격 대상은 인증 토큰 필수. ACP WebSocket 기반 OpenClaw 에이전트 대상, CodeOptiX 연동. 승인된 보안 테스트 전용
+* [SynthID Detector — Identify AI generated media | Google](https://synthid.com/)
+  * [SynthID Detector - AI 생성 미디어 워터마크 탐지 도구 | GeekNews](https://news.hada.io/topic?id=35030)
+  * 이미지·영상·오디오를 올려 Google DeepMind SynthID 워터마크가 있는지 확인하는 웹 도구(이미지는 존재 여부, 영상·오디오는 워터마크가 든 구간). 로고나 메타데이터가 아니라 픽셀·주파수 성분에 사람이 인지할 수 없는 신호를 넣어 필터·색 변경·손실 압축을 어느 정도 견디지만 모든 변형을 견디는 건 아님. 탐지 대상은 Google·NVIDIA·OpenAI·Kakao의 SynthID 적용 모델로, 범용 AI 탐지기가 아니라 미검출이 사람이 만든 콘텐츠라는 뜻은 아님
+  * 텍스트 워터마킹은 기술로는 지원하지만 이 웹 도구는 이미지·영상·오디오만 분석. 업로드 원본은 결과 반환 직후 삭제, 악용 방지용 서명은 24시간 뒤 삭제. 고품질 원본을 올리고 최종 판단에는 추가 증거를 함께 쓰라고 권장. 같은 섹션의 reverse-SynthID가 이 워터마크를 역공학한 프로젝트
 * [T3MP3ST: autonomous red teaming platform; multi-agent offensive-security meta-harness](https://github.com/elder-plinius/T3MP3ST)
   * 코딩 에이전트를 취약점 헌터로 전환하는 멀티 오퍼레이터 자율 레드팀 플랫폼. 정찰·익스플로잇·리포팅 자동화, 벤치마크 90.1% 정확도. 로컬 AI 에이전트/클라우드 프로바이더로 키 없이 동작, 웹앱 테스트·CTF 풀이. 승인된 대상 전용
 * [visa-vulnerability-agentic-harness: Visa Vulnerability Agentic Harness](https://github.com/visa/visa-vulnerability-agentic-harness)
