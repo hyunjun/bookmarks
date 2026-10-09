@@ -468,6 +468,10 @@ Programmer
 * [404 – Developer Not Found: The Continuing Developer Evolution • Derek Bingham • YOW! 2025 - YouTube](https://www.youtube.com/watch?v=jpsDPUUJiYM)
   * AWS Derek Bingham. 코딩 어시스턴트→AI 에이전트→자율 시스템으로의 개발자 진화. 프롬프트/컨텍스트 엔지니어링·컨텍스트 관리, 거짓 두려움, spec-driven development, 새 패러다임에서 개발자가 갖춰야 할 역량과 생존 전략
 * [하용호 - AI 시대의 전문성 (인프런, 2026.6.11)](https://drive.google.com/file/d/19rY4idXdBoFyqqzu0ImZe45C31ETb7rC/view)
+* [Software developers are not okay | Baldur Bjarnason](https://www.baldurbjarnason.com/2026/05-software-developers-are-not-okay/)
+  * [소프트웨어 개발자들은 괜찮지 않다 | GeekNews](https://news.hada.io/topic?id=34974)
+  * "I'm leaving my tech job" 영상들과 그 댓글란에서 번아웃·해고·업계 이탈이 쌓이는 현상을 짚은 에세이(영상·오디오 버전 포함). AI를 반대했던 사람만 떠나는 게 아니라 "이것이 개발의 미래"라는 약속을 믿고 써 본 뒤 즐겁지 않고 해롭다고 느껴 떠나는 사람도 많다는 관찰
+  * 에이전트 개발은 전동 공구가 아니라 사정을 모르는 초급자에게 맡기는 것에 가까워 결과물과의 거리가 벌어지고 "내가 만들었다"는 감각과 몰입이 줄어듦. AI가 개발자를 완전히 대체하지 못해도 남은 인원이 AI 결과를 수습하며 같은 업무량을 감당하면 회사는 비용과 협상력에서 이득을 보고, 버티지 못해 먼저 그만두는 것조차 회사에 유리(퇴직 보상·미확정 주식 절감). AI 거품이 꺼져도 이 노동 구조는 남으니 개발자 정체성 밖의 미래도 생각해 보라는 결론
 * ISMS-P 심사원 자격증 [미리미리 노후 대비 해 놓자구요 😎 #개발자노후대비 - YouTube](https://www.youtube.com/watch?v=lN6Y5VM3YkI)
 
 # Book
