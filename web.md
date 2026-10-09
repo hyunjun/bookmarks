@@ -709,6 +709,9 @@ Web
   * Agent-Reach(멀티 플랫폼 수집), web-access(Claude Code 웹 브라우징), r.jina.ai(URL→마크다운), last30days(30일 자동 요약) 등 AI 에이전트 콘텐츠 수집 도구 5종 추천
 * [Agent-Reach: Give your AI agent eyes to see the entire internet](https://github.com/Panniantong/Agent-Reach)
   * [Give your AI agent eyes to see the entire internet for free](https://www.opensourceprojects.dev/post/98258f76-86c9-4980-9616-b5ad00cb6df4)
+  * [Agent Reach란? AI Agent의 웹 검색과 데이터 수집 기능을 확장하는 방법 | digitalbourgeois](https://digitalbourgeois.tistory.com/3725)
+    * YouTube 자막, Twitter/X·Reddit 검색, GitHub 저장소·이슈, 샤오홍슈·Bilibili, RSS처럼 서비스마다 API·인증·로그인·수집 방식이 달라 에이전트가 직접 접근하기 어려운 문제를 줄이는 도구. 플랫폼별로 필요한 도구를 고르고 설치하며 환경을 점검해 지금 쓸 수 있는 연결 방식을 알려 주고, 사용자는 복잡한 명령 대신 에이전트에게 자연어로 설치·설정과 이후 웹 데이터 활용을 요청
+  * [👁️ Agent-Reach : 9.2만 스타, API 비용 0원으로 에이전트에 인터넷 눈을 달아주는 CLI | fornewchallenge](https://fornewchallenge.tistory.com/entry/%F0%9F%91%81%EF%B8%8F-Agent-Reach-92%EB%A7%8C-%EC%8A%A4%ED%83%80-API-%EB%B9%84%EC%9A%A9-0%EC%9B%90%EC%9C%BC%EB%A1%9C-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EC%97%90-%EC%9D%B8%ED%84%B0%EB%84%B7-%EB%88%88%EC%9D%84-%EB%8B%AC%EC%95%84%EC%A3%BC%EB%8A%94-CLI)
   * AI 에이전트에게 인터넷 접근 능력을 부여하는 CLI 도구. Twitter, Reddit, YouTube, GitHub 등 14+ 플랫폼 통합, API 비용 없이 yt-dlp·Jina Reader·GitHub CLI 등 오픈소스 도구 활용. 원커맨드 설치, 로컬 자격증명 저장으로 프라이버시 보장
 * [bb-browser: CLI and MCP server for AI agents to control Chrome with your login state](https://github.com/epiral/bb-browser)
   * 103개 명령어×36개 플랫폼. 인증된 브라우저 세션 그대로 사용, CLI/MCP/OpenClaw 통합. 10분만에 새 사이트 어댑터 추가 가능
@@ -2777,6 +2780,11 @@ Web
     * [component-model: Repository for design and specification of the Component Model](https://github.com/WebAssembly/component-model)
 * [componentize-py](https://github.com/bytecodealliance/componentize-py)
 * [container2wasm: Container to WASM converter](https://github.com/ktock/container2wasm)
+* [demoscene-recomp — Classic PC demoscene productions running in the browser](https://treylorswift.github.io/demoscene-recomp/web/)
+  * [demoscene-recomp: Classic PC demoscene productions running in the browser | treylorswift](https://github.com/treylorswift/demoscene-recomp)
+  * [고전 PC 데모씬 작품을 브라우저에서 실행하기 | GeekNews](https://news.hada.io/topic?id=35019)
+  * Future Crew의 Unreal(1992)·Second Reality(1993), Triton의 Crystal Dream II(1993), NoooN의 Stars: Wonders of the World(1995)를 녹화 영상이 아니라 원래 DOS 코드로 브라우저에서 실행. x86 에뮬레이터로 데모를 끝까지 돌려 CPU가 실제 실행한 코드 블록을 기록하고, 그 명령어를 사이클 타이밍을 유지한 채 일대일로 C로 변환한 뒤 타이머·VGA·Sound Blaster 하드웨어 모델과 함께 WebAssembly로 컴파일. 인터럽트·포트 접근·프레임이 기준 에뮬레이터와 같은 시점에 일어나는지 이벤트별로 검증
+  * 데모의 로더·음악 플레이어·효과는 1992~93년 코드 그대로 돌고 원본 배포 파일도 수정 없이 제공. 전체 화면(4:3)·CRT 주사선·구간 선택·일시 정지 후 원 해상도 PNG 저장, Second Reality 도시 비행 장면을 70fps로 보간하는 Smooth City 옵션(기본 꺼짐). VGA 원출력이 70Hz라 70Hz 또는 140Hz 이상 디스플레이에서 가장 부드러움. JavaScript
 * [Emscripten - a toolchain for compiling to asm.js and WebAssembly, built using LLVM, that lets you run C and C++ on the web at near-native speed without plugins](https://emscripten.org)
   * [Emscripten: An LLVM-to-WebAssembly Compiler](https://github.com/emscripten-core/emscripten)
   * [Hello web assembly](https://jybaek.tistory.com/782)
