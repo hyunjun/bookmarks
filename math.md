@@ -182,6 +182,11 @@ Math
 
 # Library
 * [KATEX - The fastest math typesetting library for the web](https://khan.github.io/KaTeX/)
+* [math: mathematical manuscripts and supporting proof artifacts produced by an internal OpenAI model | openai](https://github.com/openai/math)
+  * [AI가 이룬 수학 연구 성과를 공유합니다 | OpenAI](https://openai.com/ko-KR/index/sharing-ai-progress-in-mathematics/)
+  * [OpenAI, AI가 도출한 수학 연구 원고 722편과 증명 자료 공개 | GeekNews](https://news.hada.io/topic?id=34910)
+  * 기존 수학 평가가 포화되자 미공개 내부 프런티어 모델에 약 4,000개 미해결 연구 문제를 제시해 얻은 결과를 원고 719편(공개 당시 722편)·372개 결과 묶음(주요 결과·뒷받침 논증·후속·대안 증명)으로 분류해 공개. 결과 하나당 평균 연산량은 ChatGPT Pro가 약 3시간 생각하는 양. 원고 수가 해결한 미해결 문제 수는 아니며, 일부는 모델이 앞서 낸 결과 위에 쌓은 것
+  * 상위 결과의 약 42%를 Lean으로 형식화해 컴퓨터 검증이 가능하고 나머지는 검증 단계가 달라 오류 가능성을 명시, 수정 시 이전 버전 보존과 원고별 BibTeX 제공. π의 무리성 지수·Mahler 추측·Vlasov–Maxwell 계 등 추론 요약 10건 공개. 고등연구소(IAS) 수학·AI 자문단의 공개 권고를 반영했고, 결과를 이해하는 학술 행사 지원과 해당 모델 공개를 추진. Lean, Apache-2.0, 12.4k stars
 * [Mathos | AI Math Solver & Calculator](https://www.mathgptpro.com/)
   * [이상선 - 클릭 몇 번으로 수학 문제 해결하기 학생들을 위한 간단한 AI 수학 도우미, 어려운 문제를 직관적이고... | Facebook](https://www.facebook.com/lsszz1/posts/pfbid031KyLEQh4mFAMinVxsabr953nTub7eyBjzwYZGjz8XjbnNTqKKePXySe8njGhjmr4l)
 
