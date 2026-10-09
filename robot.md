@@ -56,6 +56,9 @@ Robot
 * [GPT-6 Astra on robotic manipulation | Inspect Robots](https://openai.robocurve.org/gpt-6-astra/)
   * 같은 YAM 로봇 팔·같은 Inspect Robots 에이전트 정책·같은 두 과제로 GPT-6 Astra와 Claude Fable 5.1을 interleaved blinded 쌍으로 비교(각 20 시행, 사람 채점자가 0~4단계 최고 도달 단계로 채점해 실패해도 얼마나 갔는지 기록). 블록을 그릇에 넣는 과제는 Astra 19/20 vs Fable 5.1 8/20 vs Fable 5 1/20, 시행당 2.5분 vs 6.8분, 추정 비용 $0.94 vs $2.12—완수율 2.4배·비용 2.3배 우위에 출력 토큰은 80% 적음
   * 반면 퍼즐 조각을 홈에 끼우는 과제는 Astra 2/20 vs Fable 5.1 2/20으로 동일하고, Astra도 Fable과 똑같이 홈까지 도달한 뒤 마지막 삽입 단계에서 멈춤($1.36 vs $2.18). 모델이 좋아져도 정밀 삽입 같은 특정 병목은 그대로 남는다는 것을 같은 하네스·같은 채점 기준에서 보여주는 사례. Claude Fable 5 vs 5.1 비교 보고서의 후속
+* [Astra in Robot Control — Ditto-Bench | llong-cs](https://llong-cs.github.io/llms-for-robot-control)
+  * GPT-6 Astra의 로봇 제어 성능이 "SOTA"라는 반응을 두고, 정적 장면의 의미 이해가 아니라 제어 논리와 운동 역학을 실제로 얼마나 이해하는지 자체 벤치마크 Ditto-Bench(과제·난이도별 성공률 SR와 진행 점수 PS, 셀마다 영상 샘플)로 측정. 여러 과제를 완수하거나 근접하는 등 종종 합리적 행동을 내지만 정밀 제어, 지속 접촉·미세 조정, 창의적 전략이 필요한 과제에서 자주 실패하고, 쉬울 것으로 봤던 중간 난이도 과제의 파지 전략 선택에서도 의외로 고전. 낮은 제어 주파수와 LLM의 수치 정밀도 한계를 원인으로 추정. MolmoAct2(DROID)도 비교
+  * 제어 인터페이스 실험: 2D 도식 위 계획·추적에서 모델 호출당 실행 스텝 H=5가 H=10보다 부드럽고 성공률도 높고(20% vs 0%), 긴 지평에서는 다중 목표 계획이 도움(0→20%)이지만 짧은 지평에서는 오히려 해로움. 메모리 실험: 대화 기록 0턴이면 성공 0%, 2턴 5%, 5턴 30%(진행 0.32), 10턴 30%(진행 0.46)로 메모리가 주어진 로봇·카메라 시점의 제어 논리를 익히는 데 핵심. 시연 1회로 배우는 one-shot 실험도 포함
 * [로보틱스: 아주 기초적인 것부터](https://turingpost.co.kr/p/inside-robotics)
   * [Robot Learning: A Tutorial - a Hugging Face Space by lerobot](https://huggingface.co/spaces/lerobot/robot-learning-tutorial)
 * [14 Reasons Robotics is Hard | Second Thoughts](https://secondthoughts.ai/p/14-reasons-robotics-is-hard)
