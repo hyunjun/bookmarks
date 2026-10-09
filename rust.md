@@ -514,6 +514,10 @@
   * [당근마켓 모바일 실험실: Rust로 공유 라이브러리 만들기. 당근마켓 앱에서 사용할 공통적인 기능을 위해 Rust 로 크로스 플랫폼… | by Hyeseong Kim | 당근마켓 테크 블로그 | Apr, 2023 | Medium](https://medium.com/daangn/%EB%8B%B9%EA%B7%BC%EB%A7%88%EC%BC%93-%EB%AA%A8%EB%B0%94%EC%9D%BC-%EC%8B%A4%ED%97%98%EC%8B%A4-rust%EB%A1%9C-%EA%B3%B5%EC%9C%A0-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-%EB%A7%8C%EB%93%A4%EA%B8%B0-f4897a6dcdd5)
 * [video-search-rust-demo: This repo is a sample video search app using AWS services](https://github.com/aws-samples/video-search-rust-demo)
 * [Visual Rust 0.1 is out](http://blog.piston.rs/2015/05/14/Visual-Rust-0.1/)
+* [vizia: A declarative GUI library written in Rust](https://github.com/vizia/vizia)
+  * [vizia - Rust Docs](https://docs.vizia.dev/vizia/)
+  * DSL 매크로 없이 순수 Rust로 선언형 GUI를 작성하는 크로스플랫폼(Windows·Linux·macOS) 데스크톱 프레임워크. 상태가 바뀌면 바인딩된 뷰가 자동 갱신되는 반응형 구조, morphorm 기반 유연한 레이아웃, 핫 리로드 스타일시트, 애니메이션, 25개+ 기본 뷰와 라이트·다크 테마(Tabler 아이콘 4,250+)
+  * accesskit 기반 접근성, fluent 기반 다국어, skia 렌더링(필요한 부분만 다시 그림), 오디오 플러그인 개발 지원. MIT, 2.3k stars
 * [webrtc: A pure Rust implementation of WebRTC API. Rewrite Pion WebRTC stack (http://Pion.ly) in Rust!](https://github.com/webrtc-rs/webrtc)
 * [windows-drivers-rs: Platform that enables Windows driver development in Rust. Developed by Surface](https://github.com/microsoft/windows-drivers-rs)
 * [windows-rs: Rust for Windows](https://github.com/microsoft/windows-rs)
