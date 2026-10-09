@@ -230,8 +230,13 @@ Product
 * [내 경력을 구한 키보드 - YouTube](https://www.youtube.com/watch?v=BpDYrkHiNLc) ergonomic
 * [A Beginner's Guide to Split Keyboards](https://www.justinmklam.com/posts/2026/02/beginners-guide-split-keyboards/)
   * [분리형 키보드 초보자 가이드 | GeekNews](https://news.hada.io/topic?id=26853)
+* [Why I stopped buying $400 keyboards for a tiny split one - Jose Romero - YouTube](https://www.youtube.com/watch?v=VlSVJcZe5tc)
+  * 3년간 손목·어깨·목 통증을 겪으며 ErgoDox → ZSA Moonlander → Kinesis Advantage360("캐딜락"이지만 함정이 있음) → 저가 Amazon Corne → Typeractive Corne Wireless(1년 반 정착)로 이어진 인체공학 키보드 여정을 광고 없이 정리한 20분 영상. 더 일찍 알았으면 좋았을 ZSA Voyager, 레이아웃을 싸게 시험해 보는 저가 Corne, 스위치(적축·갈축·핑크의 실수)·키캡·납땜 조립, ZMK 펌웨어 설정과 함정까지. 결론은 작은 스플릿이 이겼다
 * [After 11 Years... This Keyboard Has Been Dethroned - YouTube](https://www.youtube.com/watch?v=0dOTSnvq3eI)
   * Switch and Click. 11년간 홈시어터 PC용 소파 키보드 기본값이던 Logitech K400 Plus를 대체할 후보 비교—CZUR Touchboard Pro, Rii i4 Mini, Fintie Ultra-Slim, iPazzPort, Arteck HW197, Clevetura S, Rii K22 (협찬·어필리에이트 포함)
+* [How (Not) To Build An Open Source Keyboard feat. TOTEM - Cheese Turbulence - YouTube](https://www.youtube.com/watch?v=aVhC3ekbFAs)
+  * [TOTEM: 38-key split keyboard | GEIGEIGEIST](https://github.com/GEIGEIGEIST/TOTEM)
+  * 오픈소스 키보드를 "내려받아" 실제로 만들기까지 어떻게 하는지 TOTEM 스플릿 키보드로 따라가는 23분 영상(실수 사례 포함). 3D 프린팅 키캡(KLP Lamé·Pseudo Make Me·CLP)과 JLCPCB 출력, 전원·리셋 스위치 같은 부품 구매, ZMK 펌웨어 설정, golem.hu·ergo-keyboards·awesome-split-keyboards 같은 오픈소스 키보드 목록을 안내. 2주 전 원본을 지워 다시 올린 영상
 * [타이핑 웍스 typing works](https://typing.works/)
 * [AM AFA](https://www.angrymiao.com/am-afa/)
   * [집에서 석유가 솟으면 사고 싶은 키보드. 앵그리 미아오 AM AFA R2 - YouTube](https://www.youtube.com/watch?v=UrHt3nJxriI)
@@ -265,11 +270,15 @@ Product
   * [내 몸을 위한 앨리스배열 인체공학 키보드 K15 PRO 언박싱❤😮│어고노믹 기계식 키보드 언박싱│데스크테리어│키크론 Keychron - YouTube](https://www.youtube.com/watch?v=v_1Y-nETDpg)
   * [Keychron B11 Pro Review: The Foldable Keyboard That Turns My Phone Into a Laptop - YouTube](https://www.youtube.com/watch?v=-s-eqR9odU8)
     * JSyntax. 반으로 접히는 258g·65% Alice 배열 무선 키보드(2.4GHz/블루투스/USB-C)를 Galaxy Z Fold 8 Ultra + Jump Desktop + 본인이 만든 무료 앱 TapLayer와 묶어 폰을 노트북처럼 쓰는 구성을 1주간 실사용. 웹 기반 Keychron Launcher(설치 불필요)로 리맵하지만 네이티브 레이어는 기본적이고 진짜 home row mods가 없어 TapLayer로 보완. 키보드+폰 무게를 아이패드와 비교하는 대목도 있음. 제조사가 제품을 제공한 리뷰이며 어필리에이트 링크 포함
-  * [Finding success after the Keychron Nape Pro - YouTube](https://www.youtube.com/watch?v=oDqsIdWXFFQ)
-    * [「文字を打つたびに楽しくなる」究極のタイピング体験を追求した分割キーボード「Keychron Orca echo」 | CoSTORY](https://costory.jp/cf-published-sku-groups/1955012598)
-    * [Keychron Orca echo 소개 영상 (일본어, 자막 지원) - YouTube](https://www.youtube.com/watch?v=MHZKk1J0Dko)
-    * Work Flow State가 Keychron × Gizmodo 협업 이력을 훑는 7분 영상. Nape Pro를 만든 Gizmodo 편집자 겸 키보드 애호가 Koichiro Amemiya가 이번엔 분할 키보드 **Orca echo**를 내놨고, 일본 CoSTORY 크라우드펀딩에서 한 달도 안 돼 360만(엔) 이상 모아 성공—이미 그린라이트 상태. 49키 텐팅 오솔리니어 스플릿에 왼쪽 스크롤 휠 + 오른쪽 19mm 트랙볼(Nape Pro보다 약간 작음), 흰색·검정 2색이고 흰 모델은 휠·볼도 흰색. 블루투스·2.4GHz 동글·USB-C, Windows/macOS/iOS/Android, 8개 레이어
-    * 마우스 클릭은 Fn 홀드 + 검지·중지로 좌/우클릭, 한 손 조작은 JK=좌클릭·KL=우클릭처럼 전부 커스터마이즈. 기호 배치는 사용자가 직접 매핑하는 전제라 해당 면 키캡이 무각(blank). 알루미늄 바디 버전도 검토 중. 리뷰어 관점은 "Keychron은 프리미엄이 아니라 중간 지점—입문용으로 훌륭하다"는 것이고, 첫 스플릿 사용자를 겨냥한 제품이라는 점을 반복 강조. 현재는 일본 내 배송 조건의 진행 중 캠페인이지만 Nape Pro처럼 이후 일반 판매로 풀릴 가능성을 예상
+  * Keychron Nape Pro Unboxing
+    * [Finding success after the Keychron Nape Pro - YouTube](https://www.youtube.com/watch?v=oDqsIdWXFFQ)
+      * [「文字を打つたびに楽しくなる」究極のタイピング体験を追求した分割キーボード「Keychron Orca echo」 | CoSTORY](https://costory.jp/cf-published-sku-groups/1955012598)
+      * [Keychron Orca echo 소개 영상 (일본어, 자막 지원) - YouTube](https://www.youtube.com/watch?v=MHZKk1J0Dko)
+      * Work Flow State가 Keychron × Gizmodo 협업 이력을 훑는 7분 영상. Nape Pro를 만든 Gizmodo 편집자 겸 키보드 애호가 Koichiro Amemiya가 이번엔 분할 키보드 **Orca echo**를 내놨고, 일본 CoSTORY 크라우드펀딩에서 한 달도 안 돼 360만(엔) 이상 모아 성공—이미 그린라이트 상태. 49키 텐팅 오솔리니어 스플릿에 왼쪽 스크롤 휠 + 오른쪽 19mm 트랙볼(Nape Pro보다 약간 작음), 흰색·검정 2색이고 흰 모델은 휠·볼도 흰색. 블루투스·2.4GHz 동글·USB-C, Windows/macOS/iOS/Android, 8개 레이어
+      * 마우스 클릭은 Fn 홀드 + 검지·중지로 좌/우클릭, 한 손 조작은 JK=좌클릭·KL=우클릭처럼 전부 커스터마이즈. 기호 배치는 사용자가 직접 매핑하는 전제라 해당 면 키캡이 무각(blank). 알루미늄 바디 버전도 검토 중. 리뷰어 관점은 "Keychron은 프리미엄이 아니라 중간 지점—입문용으로 훌륭하다"는 것이고, 첫 스플릿 사용자를 겨냥한 제품이라는 점을 반복 강조. 현재는 일본 내 배송 조건의 진행 중 캠페인이지만 Nape Pro처럼 이후 일반 판매로 풀릴 가능성을 예상
+    * [Is it time to ditch your mouse? (Keychron Nape Pro Unboxing) - Cameron Dougherty Tech - YouTube](https://www.youtube.com/watch?v=jE3oyHciLJw)
+      * [Keychron Nape Pro Wireless Trackball Mouse](https://www.keychron.com/products/keychron-nape-pro-wireless-trackball-mouse)
+      * Gizmodo Japan과 커스텀 주변기기 제작자 menbou와 협업해 만든 막대 모양 소형 무선 트랙볼. 스페이스바 바로 아래나 키보드 옆에 두고 손 이동을 최소화하는 설계로, 중앙 25mm 트랙볼·택타일 스크롤 다이얼·조용한 커스텀 버튼 6개. 2.4GHz·블루투스·USB-C 유선, 웹 기반 Keychron Launcher로 여러 방향 각도와 최대 8개 기능 레이어를 설정해 마우스 대체·매크로 패드·인체공학 보조 기기로 사용. 4분 언박싱 영상(버튼·크기 비교·흔들림·사용성)
 * [Keycool Rainbow Keyboard | Mechanical Keyboards | TKL Mechanical Keyboards | Drop](https://drop.com/buy/keycool-rainbow-keyboard)
 * [The Listening Museum · sheets.works](https://sheets.works/data-viz/keyboard-sounds)
   * [기계식 키보드 소리를 들어보는 박물관 | GeekNews](https://news.hada.io/topic?id=28723)
@@ -284,6 +293,9 @@ Product
 * Mistel
   * [분리형 키보드 1년 사용후기 | MISTEL BAROCCO MD770 - YouTube](https://www.youtube.com/watch?v=sW4pnHVCHV4)
   * MD600 [웹소설 작가, 스플릿 키보드 어떻게 고르지? 적응은 가능? 마감은 되겠어?! | 내돈내산 키보드 후기 - YouTube](https://www.youtube.com/watch?v=_DKuo7YZUjQ)
+* MoErgo Go60 [One Surprise After Another - MoErgo Go60 Review - Cheese Turbulence - YouTube](https://www.youtube.com/watch?v=mYT5AyVAzE8)
+  * [Go60 | MoErgo](https://www.moergo.com/pages/go60)
+  * Glove80를 만든 MoErgo의 스플릿 키보드 Go60 리뷰(25분). ZSA Voyager에 정착한 지 얼마 안 된 리뷰어가 매일 출근용으로 무엇을 들고 갈지 고민하게 될 만큼 끌렸다는 평. 하드웨어 전반, 터치패드/트랙패드, 소프트웨어, 타건음 순으로 다루고 MoErgo 키캡·KLP Lamé 키캡, Naya Create·Boardsource Unicorne과 비교
 * [Monkeytype | A minimalistic, customizable typing test](https://monkeytype.com/)
 * moonlander [40만원짜리 어고노믹 키보드 샀다. - YouTube](https://www.youtube.com/watch?v=fjwhN6DqCSU)
 * MStone [사람(?)이 윤활해준 저소음 밀키축! 부드러운 저압 타건감! 집콕하면 하나씩 있어야 하는 키보드 엠스톤 그루브 T SF 리뷰! - YouTube](https://www.youtube.com/watch?v=LKKtY6Llmj0)
@@ -323,6 +335,10 @@ Product
 * [The WhiteFox Keyboard | Mechanical Keyboards | Custom Layout Mechanical Keyboards | Drop](https://drop.com/buy/the-whitefox-keyboard)
 * Womier WD75 V2 Retro [내 책상 위의 분위기를 완전히 바꿔 놓은 원목 키보드. Womier WD75 V2 Retro - YouTube](https://www.youtube.com/watch?v=2lcCki641qY)
   * 십만양품. 원목 하우징 특유의 따뜻한 질감과 차분한 타건음. 성능 경쟁에 집중하는 요즘 기계식 키보드들과 달리 책상의 분위기를 바꾸는 데 가까운 제품이라는 평
+* WorkLouder XYZ [It's Cheaper And Better? - WorkLouder XYZ - Cheese Turbulence - YouTube](https://www.youtube.com/watch?v=YYcvv6AuvK8)
+  * [WorkLouder XYZ Work Board](https://worklouder.cc/xyz-work-board-2)
+  * [split-xyz: Spacebar Split Script | cheeseturbulence · GitLab](https://gitlab.com/cheeseturbulence/split-xyz)
+  * WorkLouder의 47키 컴팩트 키보드 XYZ 리뷰(14분). 같은 회사의 Nomad E나 Dygma Sonsei 같은 상위 제품보다 싸면서도 나은지를 하드웨어·소프트웨어로 따져 보고, 스페이스바 아래 숨은 두 번째 스위치를 분리 스크립트로 살려 48번째 키로 쓰는 방법을 소개
 * [YUNZII WOOD68 Wireless Mechanical Keyboard](https://www.yunzii.com/ko/products/yunzii-wood68-wireless-mechanical-keyboard)
   * [YUNZII WOOD68 | 데스크 위 감성을 완성하는 원목 키보드 언박싱 & 타건 - YouTube](https://www.youtube.com/watch?v=Mm565XtNWgs)
     * YukeyB. 캔디 리니어 스위치 조합 원목 무선 기계식 키보드 언박싱·타건 영상
