@@ -1468,6 +1468,9 @@ Git
 * [git-absorb: git commit --fixup, but automatic](https://github.com/tummychow/git-absorb)
   * [git absorb - 자동화된 "git commit --fixup" | GeekNews](https://news.hada.io/topic?id=16952)
 * git bash [Windows 사용자를 위한 Git Bash 설정](https://medium.com/@violetboralee/windows-%EC%82%AC%EC%9A%A9%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-git-bash-%EC%84%A4%EC%A0%95-ac50acb34c46)
+* [git-bug: Distributed, offline-first bug tracker integrated in git](https://github.com/git-bug/git-bug)
+  * [Git-bug란? Git 저장소에서 이슈를 관리하는 분산형 버그 추적기 | digitalbourgeois](https://digitalbourgeois.tistory.com/3726)
+  * 이슈와 댓글을 별도 저장소 없이 Git 저장소 안에 보관하고 `git bug push`·`git bug pull`로 다른 저장소와 동기화하는 분산형 버그 추적기. 네트워크 없이도 이슈 조회·작성이 되는 오프라인 우선 설계. CLI·대화형 터미널 UI·웹 UI를 제공하고, GitHub·GitLab·Jira 같은 기존 이슈 추적기와 연동(bridge)해 기존 도구를 유지한 채 로컬 중심 작업 환경 구성. Go, GPL-3.0, 10.7k stars
 * [GitButler | Git Branching, Refined](https://gitbutler.com/)
   * [gitbutler at blog.gitbutler.com](https://github.com/gitbutlerapp/gitbutler)
   * [Opening Up GitButler](https://blog.gitbutler.com/opening-up-gitbutler/)
