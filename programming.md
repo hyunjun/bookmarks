@@ -2780,6 +2780,9 @@ Programming
 * [What is Event Sourcing Design Pattern in Microservice Architecture? How does it work? | by Soma | Javarevisited | Mar, 2023 | Medium](https://medium.com/javarevisited/what-is-event-sourcing-design-pattern-in-microservices-architecture-how-does-it-work-b38c996d445a)
 * [SaaS 시간여행이 가능한 시스템 아키텍처](https://blog.gangnamunni.com/post/saas-event-sourcing/)
 * [What is CQRS (Command and Query Responsibility Segregation) Pattern in Microservices Architecture? | by Soma | Javarevisited | Apr, 2023 | Medium](https://medium.com/javarevisited/what-is-cqrs-command-and-query-responsibility-segregation-pattern-7b1b38514edd)
+* [CQRS Explained: Why Big Systems Separate Reads and Writes - Visualcoders - YouTube](https://www.youtube.com/watch?v=1_FGx85AEYI)
+  * 11초 걸리던 매출 대시보드가 3ms가 되기까지로 CQRS를 처음부터 설명하는 24분 영상. API 속 명령과 조회 구분, 수직 확장과 읽기 복제본이 읽기 위주 시스템에서 한계에 부딪히는 이유, 테이블이 아니라 질문에 맞춘 읽기 모델, 이중 쓰기 함정과 야간 배치의 한계, 이벤트와 프로젝터로 읽기 쪽을 갱신하는 방법
+  * 최종 일관성이라는 실제 트레이드오프, CQRS의 3단계(대부분 팀은 2단계면 충분), Event Sourcing과의 차이, CQRS가 잘 맞는 경우와 과한 경우
 * [cqrs-journey-guide-korean: 🚘 CQRS Journey 의 한국어판 번역본 (Korean version translation of Microsoft's CQRS Journey)](https://github.com/dhslrl321/cqrs-journey-guide-korean)
 
 ## Architecture Distributed
