@@ -3133,6 +3133,10 @@ NLP
 * [dllm: dLLM: Simple Diffusion Language Modeling](https://github.com/ZHZisZZ/dllm)
 * [Dr.LLaMA: Improving Small Language Models Through Generative Data Augmentation](https://github.com/zguo0525/Dr.llama)
 * [embedchain: Data platform for LLMs - Load, index, retrieve and sync any unstructured data](https://github.com/embedchain/embedchain)
+* [EmbeddingGemma 2: an open, lightweight multimodal embedding model | Google](https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/)
+  * [🧠 EmbeddingGemma 2 (740M) : 오픈소스 멀티모달 임베딩, 4개 모달리티를 768차원으로 통합 | fornewchallenge](https://fornewchallenge.tistory.com/entry/%F0%9F%A7%A0-EmbeddingGemma-2-740M-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EB%A9%80%ED%8B%B0%EB%AA%A8%EB%8B%AC-%EC%9E%84%EB%B2%A0%EB%94%A9-4%EA%B0%9C-%EB%AA%A8%EB%8B%AC%EB%A6%AC%ED%8B%B0%EB%A5%BC-768%EC%B0%A8%EC%9B%90%EC%9C%BC%EB%A1%9C-%ED%86%B5%ED%95%A9)
+  * Google DeepMind가 2026-10-06 공개한 온디바이스용 멀티모달 임베딩 모델. 텍스트·코드·이미지·오디오·영상을 하나의 임베딩 공간으로 매핑하는 Gemma 4 아키텍처 기반 740M 파라미터, Apache-2.0. 텍스트 전용은 270M으로 돌고 비전(170M)·오디오(300M) 인코더를 선택 장착하는 모듈 구조. 음성 메모로 영상 클립 찾기, 텍스트로 수 시간 오디오 검색 같은 교차 모달 검색을 오프라인으로
+  * 1B 미만 멀티모달 임베더 중 MTEB Code·MAEB 최고 수준. Matryoshka Representation Learning으로 768→512·256·128차원 절삭(저장 공간 최대 6배 절감), 8K 토큰 컨텍스트(1세대의 4배, 오디오 5.5분·이미지 29장·영상 프레임 58개), 양자화 시 Pixel 11 Pro에서 텍스트 전용 약 191MB·전체 약 567MB RAM. Hugging Face·Kaggle 가중치, MediaPipe·LiteRT·transformers·vLLM·llama.cpp·Ollama 지원
 * Ember-1 [Introducing Ember-1 | Fireworks AI](https://fireworks.ai/blog/ember-1)
   * [Ember-1, Kimi K3 성능은 유지하고 토큰 사용량은 40% 줄인 추론 모델 | digitalbourgeois](https://digitalbourgeois.tistory.com/3708)
   * Fireworks Research의 첫 자체 특화 모델(2026-09-23). Kimi K3를 추가 학습해 답변 품질은 유지하면서 추론 토큰 40% 절감—추론 강도(effort)를 낮추면 품질이 떨어지는 문제를, 오류 복구용 자기 성찰은 보존하고 불필요한 추론·비생산적 루프만 줄이도록 수학·코딩·도구 사용·SWE 등 과제 피드백 기반 on-policy 학습으로 해결. 50회+ 학습 실험·200회+ 평가, Fireworks Serverless Training 사용, 고객 데이터 미사용
