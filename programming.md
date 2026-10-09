@@ -8491,6 +8491,9 @@ Programming
 * [CS6038/CS5138 Malware Analysis, UC](https://class.malware.re/)
 * [화이트해커 웹 해킹 기술 - YouTube](https://www.youtube.com/playlist?list=PLK3IOiy3HLQb6jA9bA5-nJqFxJ96aytCz)
 * [키보드 음성 키로거](http://www.secmem.org/blog/2021/10/14/keyboard-acoustic-keylogger/)
+* [Cutter](https://cutter.re/)
+  * [Cutter | GitHub](https://github.com/rizinorg/cutter)
+  * 리버스 엔지니어링 플랫폼(Rizin 기반). GUI·대화형 위젯·Ghidra 네이티브 디컴파일러·그래프 뷰·디버거·디스어셈블러·16진 에디터·파이썬 스크립팅·플러그인·바이너리 패칭·에뮬레이션·테마 에디터.
 * [Ghidra](https://ghidra-sre.org/) A software reverse engineering (SRE) suite of tools developed by NSA's Research Directorate in support of the Cybersecurity mission
   * [NSA가 만든 무료 리버스 엔지니어링 툴, "기드라" 사용 방법](http://www.itworld.co.kr/news/122618)
   * [리버스 엔지니어링 도구 기드라의 좋은 시작점 : 네이버 블로그](https://blog.naver.com/drvoss/222654240906)
