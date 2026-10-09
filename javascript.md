@@ -3001,6 +3001,10 @@ Javascript
     * 컨텍스트 절약 → 속도, 품질 동시 향상
     * 3D 랜딩, 인터랙티브 UI에 즉시 활용
 * [timetabl/timetabl](https://github.com/timetabl/timetabl) Source code of www.timetabl.com
+* [tinyjsapp: Build native apps in JS. Backend, frontend. ~5Mb | tarwin](https://github.com/tarwin/tinyjsapp)
+  * [tinyjs - JavaScript로 약 6MB 데스크톱 앱을 만드는 경량 프레임워크 | GeekNews](https://news.hada.io/topic?id=35038)
+  * Electron·Node.js·Chromium을 넣지 않고 txiki.js 백엔드와 OS WebView(macOS WebKit·Windows WebView2·Linux WebKitGTK)를 조합해 프런트·백엔드 모두 JavaScript로 짜는 약 6MB 데스크톱 앱 프레임워크. React·Vue·Svelte·Solid·Preact·TypeScript 템플릿, 백엔드에서 파일·소켓·프로세스·FFI 접근과 내장 SQLite, 네이티브 메뉴·파일 대화상자·트레이·알림·드래그 앤 드롭
+  * 프런트는 `tiny.api.call()`로 백엔드 함수를 부르고 백엔드는 이벤트를 화면에 보내며, 기본은 HTTP 서버·포트 없이 로컬 소켓 통신. `tinyjs new/dev/build`, Vite HMR, macOS 코드 서명과 자동 업데이트. macOS 중심이고 Windows·Linux는 베타. C, MIT, 701 stars
 * [Tiny Slider 2 | Vanilla Javascript Slider for All Purposes](https://morioh.com/p/0ed7686c73be)
 * [Tippy.js - Tooltip, Popover, Dropdown, and Menu Library](https://atomiks.github.io/tippyjs/)
   * [간편한 툴팁 라이브러리 Tippy.js | 웹으로 말하기](https://mytory.net/archives/14763)
