@@ -300,6 +300,10 @@ App
   * [FreshBackMac](http://macnews.tistory.com/4265)
   * [Irvue](http://macnews.tistory.com/3456)
   * [Wallpaper by Behance](http://macnews.tistory.com/2542)
+* [Watercolor — a watercolour painting app that runs in your browser | msurguy](https://msurguy.github.io/watercolor-playground/)
+  * [watercolor-playground: Realistic watercolor drawings](https://github.com/msurguy/watercolor-playground)
+  * 설치 없이 브라우저에서 마우스·터치·Apple Pencil로 그리는 수채화 앱—물감은 종이가 젖은 곳으로만 흐르고, 색은 실제 안료처럼 섞이며(노랑+파랑=녹색, 로즈+울트라마린=보라), 마른 종이엔 경계가 선명하고 젖은 종이엔 번지며 마르면서 블룸과 어두운 테두리(tide line)가 생김. 14종 브러시(라운드·플랫·리거·하케·몹·팬·드라이 브러시·스펀지·스패터·스티플·수묵 등, PNG/JPG로 커스텀 브러시), Water·Pen·Lift·Dry 도구, 단선 플로터 폰트로 한 획씩 쓰는 Text, Shape(SVG 트레이스 포함), 탭한 영역에 워시가 퍼지는 Fill, 10종 종이(콜드/핫 프레스·러프·카디·와시·크라프트), 참조 이미지 트레이싱(HEIC 지원), 히스토리, PNG/JPEG/WebP 내보내기·`.wcp` 프로젝트 저장, 웹캠 손 추적(MediaPipe)으로 핀치 페인팅
+  * 구현: TypeScript+WebGL2+Preact. 색은 RGB가 아닌 스펙트럼—spectral.js 방식의 38밴드 반사율→흡광도로 바꿔 7계수로 압축(Beer–Lambert 감산 혼합, 오차 ~0.1–0.2 ΔE), 유체 모델은 inkwash 기반 GPU 격자(속도·압력·와도·습윤도 필드, 안료는 양쪽이 젖은 만큼만 이웃 픽셀로 이동·마르는 가장자리로 끌려가 tide line 형성). 젖은 영역만 시뮬레이션하고 다 마르면 GPU 사용 0. 2026.10 공개, MIT, 67 stars
 * [Webrecorder.io - a web archiving service to collect and revisit web pages](https://webrecorder.io/)
 * WeKan [Get started with Wekan, an open source kanban board](https://opensource.com/article/19/1/productivity-tool-wekan)
 * [wezterm - Wez's Terminal Emulator](https://wezfurlong.org/wezterm/)
@@ -2698,6 +2702,8 @@ App
   * [compressO: Convert any video/image into a tiny size. 100% free & open-source. Available for Mac, Windows & Linux | codeforreal1](https://github.com/codeforreal1/compressO)
   * 100% 무료·오프라인·오픈소스 영상/이미지 압축 앱(Mac·Windows·Linux). TypeScript, AGPL-3.0, 4.7k stars
 * [Crafting Apps: open-source creative tools | ArtCraft](https://getartcraft.com/apps)
+  * [artcraft: ArtCraft is an intentional crafting engine for artists, designers, and filmmakers](https://github.com/storytold/artcraft)
+    * "The IDE for artists"—프롬프트 한 줄로 뽑는 대신 2D 캔버스에서 합성하고 3D로 장면을 연출한 뒤 모델을 골라 생성하는, 정밀하고 반복 가능한 '크래프팅' 중심의 AI 이미지·영상 제작 IDE. Image to Location(가상 배우를 같은 공간에 배치해 여러 샷 기획)·2D/3D 이미지 컴포지팅·Image to 3D Mesh·캐릭터 포징·키트배싱 씬 블로킹·마네킹 포즈로 캐릭터 정체성 전이·배경 제거·마스크/인페인팅 캔버스 편집·Image to Video. 자체 카탈로그 62모델(이미지 16: Nano Banana·GPT Image·FLUX·Seedream / 영상 25: Seedance·Kling·Veo·Sora·Vidu·MiniMax H3·Flux 3 / 음악·사운드 5: Suno·Seed Audio / 3D 메시 11·월드)+Grok Imagine·Midjourney·Sora·World Labs Marble(가우시안 스플랫) 프로바이더. 위 Crafting Apps 7종을 만든 팀의 본 제품. Rust, Apache-2.0, 13k stars
   * [storytold · GitHub](https://github.com/storytold)
   * [Someone Just Rebuilt Adobe for Free, and Claude Can Run Them All (7 apps tested) - Jay E | RoboNuggets - YouTube](https://www.youtube.com/watch?v=Fuo1i_-9Frc)
   * ArtCraft 팀이 순수 Rust로 만든 무료 오픈소스 네이티브 창작 앱 7종. PhotoCraft(Photoshop 클린룸 재구현, 30.6k stars)·FilmCraft(Premiere Pro, 6k)·PDFCraft(Acrobat, 5.3k)는 Apache-2.0으로 공개됐고, VectorCraft(벡터 일러스트)·EffectCraft(모션 그래픽)·LightCraft(사진)·DesignCraft(페이지 레이아웃)까지 이미지 편집·벡터·영상·사진·PDF·모션 그래픽·레이아웃을 묶음
