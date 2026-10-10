@@ -127,6 +127,10 @@ Programmer
   * [Anthropic이 자기 제품이 개발자 실력을 깎는다는 연구를 직접 발표했어. 52명 주니어 개발자한테 새 Python 라이브러리(Trio, 비동기 프로그래밍)를 배우게 했어. AI 쓴 그룹 퀴즈 점수 50%, 안 쓴 그룹 67%. 거의 두 등급 차이야. 특히 디버깅 문제에서 격차가 제일 컸어. 속도는? AI 쓴 그룹이 2분 빨랐는데, 통계적으로 유의미하지 않았어. AI한테 질문하고 프롬프트 다듬는 데 세션 시간의 30%를 쓰고 있었거든.](https://www.threads.com/@softdaddy_o/post/DWKoWKvk9iK)
 * [How I use AI to learn engineering (anti brain rot studying) - YouTube](https://www.youtube.com/watch?v=GPM5MgFEkpk)
   * 엔지니어링 개념을 시각화·CAD로 만들기, AI로 학습 자료 필터링·리소스 발견, 핵심 20% 파악. 프롬프트·템플릿·자료 공개. Aleks Gornik, 12분 42초.
+* [How To Become Dangerously Self-Educated With AI (for free) | Sandeep Swadia - YouTube](https://www.youtube.com/watch?v=3k6fR5EdLAo)
+  * [MIT 출신 CEO의 AI 독학법, 직접 해보니 기초 없던 수학 A+ (With, 필요없는 것을 뺀 나만의 방식) | 평균밖성원 - YouTube](https://www.youtube.com/watch?v=aBu09M0Cov4)
+  * 수도승 수련생→MIT→테크 CEO(한국어 영상에서 광고 사기·봇 탐지 보안사 White Ops CEO로 확인) Sandeep Swadia의 "university in a box". 세계 최고 대학 인턴 120명 중 AI를 하루 30분 쓰는 사람은 1/4, 인스타그램은 전원이라는 격차에서 출발. AI에게 5가지 역할—Advisor(목표·현재 수준·순서·버릴 것·배웠다는 증거의 5가지 결정을 AI가 나를 인터뷰해 정하게 하고 나만의 커리큘럼), Librarian(수천 자료 중 볼 가치 있는 소수만 선별), Tutor(이해의 정확한 빈틈을 찾는 심야 과외), Editor(칭찬 대신 결과물을 압박 검증), Roommate(혼자선 안 갈 분야로 끌어들여 새 관점). 조회수 125만+, 21분
+  * 평균밖성원(20분): 위 방식으로 공부해 기초 없던 수학 과목 A+. 다만 역할 5개로 나누는 건 복잡—이제 에이전트가 말만 하면 알아서 판단하므로 자기 방식은 Grok·Gemini에 이해될 때까지 질문 → 대화 전체를 세컨 브레인 볼트에 연결된 Claude Code에 던져 나를 아는 맥락(생긴 맥락·원리·앞으로의 쓰임 중심)으로 정리 → 그 정리를 NotebookLM에 넣어 리포트·슬라이드·영상 개요로 입체적 이해(평평한 개념 나열을 구글 지식 그래프식 정보 위계로). 왜 한국에 퍼지지 않나—Bloom의 2 Sigma(과외받은 학생이 98%를 앞섬)를 이제 월 3만 원(대학생은 Gemini 1년 무료)으로 24시간 누릴 수 있는데, 교사 1명:학생 30명 시대의 순차 교육 규칙이 이유가 사라진 뒤에도 남은 '원숭이와 바나나' 관성, "인간은 전체를 기획하지 않는다"(사피엔스), 대가가 죽어야 학문이 발전한다는 논문—주류가 아니어도 맞다고 판단되면 새 방식을 시도하라
 * [앨리스의 수다 라방 - YouTube](https://www.youtube.com/playlist?list=PL9fVSJzH3-mopbZLwUUNRp-MsMMte6Cst)
 * [드림코딩 by 엘리 - YouTube](https://www.youtube.com/channel/UC_4u-bXaba7yrRz_6x6kb_w/videos)
 * [Effective Engineer](https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f)
