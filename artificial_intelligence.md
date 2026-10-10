@@ -4804,8 +4804,10 @@ Artificial Intelligence
   * Claude Code 기반 보안 자동화 프레임워크. Semgrep/CodeQL 정적 분석, AFL++ 퍼징, LLM 통합(Anthropic/OpenAI/Google/Mistral) 익스플로잇 생성·패치, OSS 포렌식, 9개 전문 보안 페르소나, 실시간 비용 관리. MIT
 * [REA: Reverse Engineer Anything — Reverse engineer anything with agents, from app behavior down to native binaries](https://github.com/morluto/rea)
   * "마음에 드는 기능을 보면 바이너리 수준까지 어떻게 동작하는지 이해한다"—소스 코드 없이도 앱을 에이전트에게 넘기면 기능을 조사·설명하고 증거를 제시한 뒤 자기 스택에 맞는 버전을 구현하게 하는 리버스 엔지니어링 에이전트 툴킷. 도구 선택·API 학습·증거 이동·다음 조사 대상 결정을 명령·스킬·구조화된 결과·반복 가능한 조사로 에이전트에 위임. 현재 Hopper 또는 Linux의 BYO Ghidra로 네이티브 분석·함수 dossier, 실험적 Windows x64 Ghidra(승인된 PE), 실행 없는 managed PE/CLI 트리아지, 재현 가능한 Evidence 기록, 통제된 프로세스 캡처, 웹사이트·Electron 페이지·Node/Electron V8 Inspector 수동 관찰, JS/소스맵 재구성, 정적 추론과 런타임 관찰을 구분하는 제공자 중립 그래프와 MCP 도구 카탈로그. 로드맵은 API·프로토콜·모바일·펌웨어·버전 간 차이까지. `npm install --global rea-agents && rea setup`, 한국어 README. TypeScript, MIT, 538 stars
-* [redamon: An AI-powered agentic red team framework that automates offensive security operations, from reconnaissance to exploitation to post-exploitation, with zero human intervention](https://github.com/samugit83/redamon)
-  * 정찰→익스플로잇→포스트 익스플로잇 전 과정을 사람 개입 없이 자동화하는 에이전틱 레드팀 프레임워크. Metasploit·OSINT 도구 연동. Python, MIT, 2.5k stars
+* [RedAmon — Autonomous AI Pentest Platform](https://www.redamon.org/)
+  * [redamon: An AI-powered agentic red team framework that automates offensive security operations, from reconnaissance to exploitation to post-exploitation, with zero human intervention](https://github.com/samugit83/redamon)
+    * 정찰→익스플로잇→포스트 익스플로잇 전 과정을 사람 개입 없이 자동화하는 에이전틱 레드팀 프레임워크. Metasploit·OSINT 도구 연동. Python, MIT, 2.5k stars
+  * [RedAmon: AI 에이전트로 보안 취약점을 탐지하고 코드 수정까지 자동화하는 오픈소스 프레임워크](https://digitalbourgeois.tistory.com/3733)
 * [reverse-SynthID: Reverse-engineering Google's SynthID watermarking](https://github.com/aloshdenny/reverse-SynthID)
   * 스펙트럼 분석으로 SynthID 워터마크 90% 정확도 탐지, 다중 해상도 주파수 도메인 제거(43+ dB PSNR). Google DeepMind 워터마킹 시스템의 취약점 분석
 * [Shannon - AI Pentester by Keygraph](https://keygraph.io/)
@@ -6421,6 +6423,9 @@ Artificial Intelligence
   * [andrej-karpathy-skills: Karpathy-Inspired Claude Code Guidelines](https://github.com/multica-ai/andrej-karpathy-skills)
     * [Karpathy-Inspired Claude Code Guidelines LLM 코딩 품질을 높이기 위한 실전 가이드 정리 | digitalbourgeois](https://digitalbourgeois.tistory.com/3137)
     * Andrej Karpathy 관찰 기반 LLM 코딩 4원칙 CLAUDE.md. 1) Think Before Coding—추측 대신 모호함 명시·옵션 제시 2) Simplicity First—senior dev이 over-engineered로 볼 만한 건 이미 그러함 3) Surgical Changes—요청에 정당화되는 줄만 변경, 기존 스타일 보존 4) Goal-Driven Execution—"버그 수정" 대신 "재현 실패 테스트 작성 후 통과시키기" 같은 성공 조건 재구성. 효과 신호: 작은 diff·요청 없는 리팩토링 감소·코드 작성 전 명확화 질문·리뷰 친화 PR. drop-in CLAUDE.md 또는 Claude Code 플러그인. "LLM이 생각하는 방식을 먼저 바꾸는 것"
+  * [animate: Procedural animation in any style for Claude Code — short single-file canvas videos with story, look and storyboard check-ins | cth9191](https://github.com/cth9191/animate)
+    * 짧은 애니메이션 영상을 전부 코드로 만드는 Claude Code 스킬/플러그인(`/plugin marketplace add cth9191/animate`)—`<canvas>` 하나에 프레임 단위로 결정론적으로 그리고 소리도 절차적으로 만들어 헤드리스 브라우저+ffmpeg로 MP4 렌더. 설명 영상·연표·짧은 스토리용. 비싼 애니메이션 작업 전에 값싼 세 가지를 먼저 승인받는 흐름—인테이크 질문(주제·포맷·목소리·룩·히어로·음악·제품)→스토리 체크(고른 포맷과 번호 매긴 비트 표, 사실은 웹 검증)→룩 체크(풀사이즈 스타일 프레임 2~4장, 새 룩이면 레퍼런스와 나란히 비교)→스토리보드(비트마다 키 프레임+사운드+전환, 패널 번호로 👍/👎)→빌드→전달(비트 그리드 위 컷·스토리 아크 라우드니스·히어로 앵커링·침묵 뒤 최대 음량·내레이션 속도를 측정한 체크 동봉)
+    * 스타일은 플러그인—스토리 문법·타이밍·사운드·렌더러·도구는 공유하고 스타일은 드로잉 키트만 공급(`piece.json`의 `"style"`). 내장 7종: cut paper(찢은 종이·크레용·얼굴 있는 캐릭터), crosshatch(2s로 끓는 잉크 해칭), riso(3색 리소그래프 하프톤·오버프린트·미스레지스트레이션), sketchbook(흑연+포인트 컬러·손글씨), math(manim식 검은 무대·축·그래프), pixel(실제 저해상도로 그려 최근접 업스케일·비트맵 폰트), isometric(일정한 헤어라인 등각 선화); 8번째는 레퍼런스(영상·스틸·웹페이지)에서 팔레트·선 굵기·텍스처·모션·컷 리듬을 측정해 맞춘 나만의 룩(`styles/<name>/`에 저장, 레퍼런스는 로컬에만). 내장 요소—8가지 숏폼 포맷 스토리 문법(히스토리는 셰이프 모프로 이은 연표, 미션은 비트에 컷; "상수 하나, 색은 한 의미, 페이오프 전 침묵·페이오프에 최대 음량, 끝은 바뀐 시작"), 시드 난수·카메라·셰이프 모프 전환 렌더러·신시사이저·폰 재생용 라우드니스 키트, build/tile/still/storyboard/export/review/compare 도구, ElevenLabs 커넥터나 녹음으로 받은 보이스오버를 faster-whisper 단어 타이밍에 맞춰 그림 정렬, 내 음악의 비트(템포·바·히트·드롭)를 매핑해 가장 큰 히트에 페이오프, 내 사이트 스크린샷·로고를 스타일 안에서 애니메이션, 9:16·1:1·4:5·16:9를 크롭 없이 각각 레이아웃, 긴 작품은 씬 파일별 에이전트 병렬 빌드. 예제 history-of-ai(60초 cut paper, 튜링 1950→Claude Code 2025 15시대, 셰이프 모프 13회). 요구: Node 18+·Playwright Chromium·ffmpeg. JavaScript, MIT, 376 stars(2026-10-04 생성)
   * [anti-slop: Rules for an AI coding agent to filter out generic AI-generated UI designs, text, and code | miqdadbadjuber](https://github.com/miqdadbadjuber/anti-slop)
     * 뻔한 AI 생성 UI·문장·코드를 걸러내는 코딩 에이전트 규칙 모음(`skills.sh` 등록). 아래 slop-free-korean이 이 가이드의 한국어판. JavaScript, MIT, 4k stars
   * [ARIS: Auto-Research-In-Sleep — autonomous ML research workflow for Claude Code](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep)
@@ -7044,6 +7049,10 @@ Artificial Intelligence
   * [cocoindex-io/cocoindex: Data transformation framework for AI. Ultra performant, with incremental processing. 🌟 Star if you like it!](https://github.com/cocoindex-io/cocoindex)
 * [codemap-ai: Visualize GitHub repositories, explore project structure, and find the right files for any issue using AI](https://github.com/ayansh0209/codemap-ai)
   * AI로 GitHub 리포지토리를 시각화하고 프로젝트 구조를 탐색, 이슈에 맞는 파일을 찾아주는 도구. TypeScript, MIT
+* [Code Pulse — 코딩 도구의 변경 기록 | whchoi98](https://code-pulse.whchoi.net/)
+  * [code-pulse](https://github.com/whchoi98/code-pulse)
+  * AI 코딩 도구의 업데이트를 한곳에서 확인—Claude Code·Codex·Kiro의 공식 발표(code.claude.com·developers.openai.com·kiro.dev·GitHub 릴리스)를 모아 새 기능과 달라진 점을 한국어로 전하는 변경 기록 사이트. 2026-01-01부터 현재까지 619건(Claude Code 243·Codex 202·Kiro 174), 매일 오전 7시(KST) 수집하고 '공식 출처 확인 완료' 시각을 표시. 발표일과 수집 시각을 따로 보관하며 같은 릴리스가 여러 출처에 있으면 한 글로 합침. 한국어는 AI 해설(원문과 대조 후 human-ton 기준으로 다듬고 엠대시·가운뎃점 미사용), 영어는 공식 영문 변경 항목 전체. 글마다 짧은 요약+전체 변경 사항+공식 원문 링크, 오류 수정·작은 개선도 포함하고 항목 ID·개수를 대조해 누락 확인(미완성 글은 전체/준비 항목 수 표시). 지난 7일 제품×날짜 활동표, 제품·날짜·변경 종류(새 기능/개선/오류 수정)·검색어 필터, 브라우저 저장 읽음 표시와 '읽지 않은 글만', 저장한 글 Markdown 내보내기, RSS(`/feed.xml?lang=ko`), 라이트/다크, 로그인 불필요
+  * 구조—수집 후 목록·상세 페이지를 S3에 정적 생성해 CloudFront로 제공, API·RSS는 CloudFront 프리픽스 리스트 보안 그룹→ALB→프라이빗 ECS Fargate(기존 cc-on-bedrock-vpc 재사용, 새 VPC·NAT 없음). 하단에 최근 90초 접속 수·누적 방문(쿠키 기준, IP·지문 미저장)·앱 버전. 제주/로봇 아틀라스·NFM Dashboard를 만든 whchoi98의 작업. TypeScript, v1.3.0(2026-10-08 생성)
 * [code-squad: Stay in flow while building with AI](https://github.com/team-attention/code-squad)
   * [코딩 에이전트들이 이제는 정말 완벽... 그 결과물을 읽고 리뷰하기 전까지는 | LinkedIn](https://www.linkedin.com/posts/eatnug_github-team-attentionsidecar-stay-in-activity-7404656180175982593-lo30/)
 * [codesight: AI context generator for Claude Code, Cursor, Copilot, Codex](https://github.com/Houseofmvps/codesight)
