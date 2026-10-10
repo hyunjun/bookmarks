@@ -1802,6 +1802,9 @@ Programming
 * [Scaling Uber](http://www.infoq.com/presentations/uber-scalability-arch)
 * [uber 아키텍처](http://knight76.tistory.com/entry/%ED%8E%8C-uber-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98)
 * [UBER system design. Uber’s technology may look simple but… | by Narendra L | Medium](https://medium.com/@narengowda/uber-system-design-8b2bc95e2cfe)
+* [CockroachDB’s Architecture Is Kind of Insane - YouTube](https://www.youtube.com/watch?v=jxso9wTBkNg)
+  * [Algoroq - System Design, Interview Prep & Engineering Guides](https://algoroq.io/resources/)
+  * Akhil Sharma의 시스템 디자인 영상 채널. 1,210+ 아키텍처·시스템 디자인 다이어그램(Airtable, Google Colab, Datadog, DeepSeek, Discord, Dropbox 등). 인터랙티브 HTML + Excalidraw 소스.
 * [티켓 예매 시스템 | 고객 요구에서 설계로 가는 접근법 - YouTube](https://www.youtube.com/watch?v=7excI-0n2xk)
   * 코딩하는기술사. 콘서트 티켓 예매 시스템 설계 실무 흐름—기술부터 고르지 않고 고객 요구사항에서 출발해 결정에 이르는 과정 자체를 보여주는 아키텍처 설계 연습
 * [내가 대규모 트래픽을 만나면 제일 먼저 하는 일 - YouTube](https://www.youtube.com/watch?v=1CRNXpfYvZE)
@@ -2222,6 +2225,8 @@ Programming
 * [Ready for changes with Hexagonal Architecture - Netflix TechBlog](https://netflixtechblog.com/ready-for-changes-with-hexagonal-architecture-b315ec967749)
 * [Hexagonal Architecture](https://blog.imqa.io/hexagonal-architecture/)
 * [How To Make Your App Maintainable (hint: Adopt Hexagonal Architecture) - YouTube](https://www.youtube.com/watch?v=92ZJcxJgmmE)
+* [The Hexagonal Hangover by Ties van de Ven | Devoxx - YouTube](https://www.youtube.com/watch?v=m9viRAIRAUQ)
+  * "It depends"의 실체—Clean·Hexagonal 아키텍처를 교조적으로 적용해 단순 기능까지 추상화 계층·도메인 인터페이스로 감싸면 연관 개념 사이 거리만 늘어 탐색·테스트·유지보수가 어려워짐. Java 코드 예제로 결합도(coupling)·응집도(cohesion)·거리(distance) 지표를 통해 아키텍처 선택의 트레이드오프를 평가하는 법. Devoxx Belgium 2026, 49분
 * [**지속 가능한 소프트웨어 설계 패턴: 포트와 어댑터 아키텍처 적용하기 - LINE ENGINEERING**](https://engineering.linecorp.com/ko/blog/port-and-adapter-architecture/) hexagonal or ports and adapters
 * [실용적인 포트와 어댑터 적용](https://brunch.co.kr/@graypool/259) hexagonal
 * [클린아키텍처는 죽었다! 헥사고날 아키텍처 10분만에 대충 이해시켜 드림 | Hexagonal architecture - YouTube](https://www.youtube.com/watch?v=MKfSLrwLex8)
@@ -4339,6 +4344,10 @@ Programming
       * Cloudflare에서 서버리스 GPU를 이용할 수 있는 Workers AI 출시
       * Workers AI에서는 Meta, OpenAI, Hugging Face, Microsoft의 다양한 모델을 사용해서 추론을 쉽게 사용 가능
   * [2025 최고의 개발자 플랫폼은? - YouTube](https://www.youtube.com/watch?v=bClgGbYfeWE)
+  * [왜 다들 클라우드플레어로 갈까 — 압축·폰트·CLI·CDN까지 실전 팁 7가지 - 메이커 에반 | Maker Evan - YouTube](https://www.youtube.com/watch?v=c7IM7r3ZPLI)
+    * GitHub에 올린 AWS 키를 5분 만에 지웠는데 다음날 서버 140대가 비트코인을 채굴해 청구서 $2,375(환불은 받았지만 보장 없음)—AI가 키를 코드에 넣고 그대로 푸시되는 일이 흔한 바이브코더에게 남 얘기가 아니라는 도입. 바이브코더 99%는 Cloudflare 하나로 충분: 코드는 Workers(전 세계 데이터센터 실행, 리전 고민 없음. 무료 일 10만 요청, $5/월 1천만 요청, 정적 파일은 무료 무제한), 파일은 R2. 핵심은 무료 플랜이 한도를 넘으면 요금이 아니라 요청이 막히는 '바닥 있는 구조'. DB는 D1(SQLite, 10GB 상한·쿼리 직렬 처리·확장 제한)보다 확장성 보고 PostgreSQL(pgvector, Neon·Supabase·Railway·AWS 어디로든 이식)—Neon 서버리스(무요청 5분 뒤 꺼짐, 무료 1GB·월 100 CU-h, 한도 초과 시 정지)+Hyperdrive(연결 풀·쿼리 캐시, 무료 일 10만 쿼리). Neon은 서울 리전이 없어 싱가포르 왕복 70ms → Workers Smart Placement로 코드를 DB 근처에서 실행
+    * 압축: 1,200만 화소 PNG 10MB → WebP q70 780KB → 가로 1600px 127KB, FHD 1분 영상 100MB → 720p H.264 3.5MB. 기준은 원본이 아니라 화면(iPhone 가로 1170px, q100 vs q75는 폰에서 구분 안 되는데 용량 4배). 한글 폰트는 Pretendard(영문 Inter·한글 본고딕 기반으로 다듬어 한 폰트처럼, 9굵기, 상업 무료)를 다이나믹 서브셋(92조각, 조각당 ~20KB)으로—AI 기본 폰트 Inter엔 한글이 없어 맑은 고딕/애플 산돌고딕이 섞여 싸 보이는 문제 해결
+    * AWS는 바이브코더에게 사치—키 유출이 흔하고(GitGuardian 집계 작년 공개 레포 신규 시크릿 2,800만+, Palo Alto 추적 사례는 5분 내 악용) 기본 요금 상한이 없음. 꼭 쓰려면 루트 키 금지·첫날 예산 알림·키는 환경변수로. 썸네일은 400px q60 → 5KB(카드 20개 200MB vs 100KB), 목록용·상세용 크기별 저장 또는 Cloudflare 이미지 변환(무료 월 5,000건). CLI(Wrangler·Vercel·Railway·GitHub·Supabase·Neon)는 무조건 설치—AI가 배포·환경변수·DB 테이블·실시간 로그까지 직접 처리, 브라우저 로그인이라 키 복붙 불필요. CDN 달면 DB엔 파일명(키)만 저장+CDN 주소는 환경변수, 이미지 URL 생성 함수 하나로, 파일명에 해시 붙여 캐시 1년. 안 맞는 경우—Workers 무료 CPU 10ms/요청(유료 30초~5분), 일부 npm 패키지 미호환, 고정 IP 없음, Neon 콜드스타트 수백 ms → 해당 부분만 Railway 같은 서버로(저자 본인은 Railway에 서버·DB 운영). 가격·한도는 2026-10-04 공식 문서 기준, 12분
 * [Cloudforet | Open Source Multi-cloud Management Platform](https://cloudforet.io/)
 * [cloudquery transforms your cloud infrastructure into queryable SQL tables for easy monitoring, governance and security](https://github.com/cloudquery/cloudquery)
 * [Coolify](https://coolify.io/)
