@@ -1826,6 +1826,12 @@ Docker
 * [Operating High Traffic Websites on Kubernetes - YouTube](https://www.youtube.com/watch?v=S92WvHaOVQk)
 * [VDBUH2023 - Natale Vinto & Kevin Dubois - Progressive Delivery in the Kubernetes era - YouTube](https://www.youtube.com/watch?v=y-GoffQlWxw)
 * [WASM + Kubernetes: Beyond Containers - YouTube](https://www.youtube.com/watch?v=ulZGjeFZirU)
+* [Java on Kubernetes Without Container Images: The WebAssembly Way By Bruno Borges | Devoxx - YouTube](https://www.youtube.com/watch?v=fszyRIZXjQM)
+  * [Java on Kubernetes Without Container Images: The WebAssembly Way | Devoxx Belgium 2026 CFP](https://dvbe26.cfp.dev/talk/25048)
+  * [Brewlet — Java on Kubernetes, for real this time.](https://brewlet.sh/)
+  * [brewlet: Run Java applications from OCI artifacts with centrally managed JDKs on Kubernetes nodes | microsoft](https://github.com/microsoft/brewlet)
+  * Devoxx Belgium 2026, GitHub/Microsoft의 Bruno Borges. Java 서비스를 Kubernetes에 배포할 때마다 직접 쓰지도 않은 베이스 이미지·번들 JDK·OS 레이어(약 250MB)를 함께 배포하고 감시·패치해야 하는 문제. WebAssembly는 이미 해결—KWasm은 Wasm 런타임을 노드에 두고 개발자는 .wasm 모듈만 OCI 아티팩트로 배포, RuntimeClass가 실행기를 지정(Dockerfile도 컨테이너 이미지도 없음). `runtimeClassName: kata/wasm`이 실제로 동작하는 원리—containerd Runtime v2 TTRPC 프로토콜, OCI 번들 조립, 오버레이 파일시스템, runc 위임
+  * 이 KWasm 비유를 Java에 그대로 적용: 커스텀 containerd shim·노드 프로비저너·CRD로 (에이전틱 AI 도움을 받아 꽤 쉽게) 자체 Kubernetes 플랫폼 구축. 새 오픈소스 프로젝트 Brewlet.sh 라이브 코딩—`brewlet push target/app.jar`로 fat JAR·레이어드 클래스패스·JPMS 모듈을 OCI 레지스트리에 올리고 `kubectl apply`, 노드에 설치된 공유 JDK가 실행(워크로드별 JVM·힙 유지, runc 격리, pod 리밋 준수). SpinKube의 노드 상주 런타임 모델을 Java로 가져온 것. pre-1.0 프리뷰, Go, MIT, 50분
 * [쿠버네티스 스터디 매거진](https://brunch.co.kr/magazine/kubernetes)
 * [Kubernetes 환경에서 Segmentation Fault 트러블슈팅하기 (Feat. Fluent Bit Contribution) | Hyperconnect Tech Blog](https://hyperconnect.github.io/2023/05/02/troubleshooting-fluent-bit-segmentation-fault.html)
 * [Kubernetes in 2 Hours (All Practical) - YouTube](https://www.youtube.com/watch?v=D-F67zHsnbs)
