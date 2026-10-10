@@ -108,6 +108,12 @@ App
   * [keys.pub](https://keys.pub/)
   * [IronHide - an easy-to-use open source file encryption and decryption command line utility](https://hackernoon.com/ironhide-better-team-encryption-8950117dc6f0)
 * [etcher.io - Burn images to SD cards & USB drives, safely and easily](https://etcher.io/)
+* [Fleetbase | Open-Source Logistics & Supply Chain Platform](https://fleetbase.io/)
+  * [fleetbase: Modular logistics and supply chain operating system (LSOS)](https://github.com/fleetbase/fleetbase)
+  * [Managed Fleetbase as a Service | Elestio](https://elest.io/open-source/fleetbase)
+  * [Fleetbase: Free Open Source Alternative to Onfleet for Fleet & Delivery Management | Elestio - YouTube](https://www.youtube.com/watch?v=b2AFnP5zlwk)
+  * 상품·사람·장비를 움직이는 팀을 위한 오픈소스 모듈형 물류·공급망 운영체제(LSOS)—배송당 수수료 없음, 벤더 락인 없음, AGPL로 셀프호스트하거나 Fleetbase Cloud 이용. 콘솔에 확장으로 설치되는 모듈: Fleet-Ops(디스패치·실시간 GPS 추적·경로 최적화·텔레매틱스·정비·연료 관리, 코드 없이 주문 유형·활동 플로·검증 규칙·상태 변경 자동화 트리거를 설계하는 Dynamic Order Config, 서비스 존·지오펜스), Storefront(헤드리스 커머스·멀티벤더 마켓플레이스, Stripe·PayPal, 결제 시 Fleet-Ops 자동 디스패치), Pallet(창고·재고·피킹, 출시 예정), Ledger(주문 완료 시 자동 인보이스·기사/벤더 지갑·P&L·복식부기), Customer Portal, AI(OpenAI·Claude로 자연어 주문 생성·운영 질의), IAM(역할·정책·2FA), Developers(API 키·웹훅·소켓 이벤트·테스트/라이브 환경), 오픈소스 iOS/Android 앱 Navigator(기사용 디스패치·내비·배송 증명)·Storefront App. 확장 마켓플레이스와 CLI 스캐폴딩, REST API·JS SDK·WebSocket. 트럭 운송·택배·음식 배달·이커머스·헬스케어·폐기물·컨테이너·정부 용례, 활성 인스턴스 8,000+ 주장. JavaScript, AGPL-3.0, 4.3k stars(2022.9 시작)
+  * Elestio는 전용 VM에 설치·암호화·백업·모니터링·OS/소프트웨어 업데이트까지 월정액으로 묶은 관리형 호스팅(SOC2·GDPR, 멀티클라우드·온프렘, DB 마이그레이션 서비스). 영상(12분, 2026.10.9)은 Elestio로 설치한 뒤 기사·차량·플릿→주문·고객·경로 추적/최적화→Navigator 기사 앱→Storefront와 API→커스텀 대시보드→문서 순으로 둘러보는 플랫폼 개요, Onfleet의 무료 오픈소스 대안으로 소개
 * [Foliate — E-book Reader for Linux](https://johnfactotum.github.io/foliate/)
   * [Foliate - Linux용 e-Book 리더 오픈소스 | GeekNews](https://news.hada.io/topic?id=15941)
 * [fra.me](https://fra.me/)
