@@ -577,6 +577,8 @@ SQL
     * EuroPython 2026. DuckDB(`uv add duckdb`로 붙이는 임베디드 OLAP, PostgreSQL SQL 방언, 인메모리+디스크 영속, zero-copy Apache Arrow로 Polars 연동)와 DuckLake 확장으로 거대한 데이터셋을 복잡한 클라우드 인프라 없이 노트북에서 비슷한 속도로 다루는 방법
     * DuckLake는 디스크나 S3 같은 오브젝트 스토어의 Parquet 파일로 데이터 레이크 기능을 제공
   * [DuckLake - 통합 데이터 레이크 및 카탈로그 포맷 | GeekNews](https://news.hada.io/topic?id=21168)
+  * [DuckLake - SQL과 Parquet 기반의 데이터 레이크하우스 형식 | GeekNews](https://news.hada.io/topic?id=35046)
+  * 2026.10 기준 보강—2026년 4월 v1.0으로 프로덕션 준비 완료·하위 호환 보장. 메타데이터(카탈로그)는 ACID SQL DB(PostgreSQL·MySQL·SQLite·DuckDB, 베타로 DuckDB+Quack)에, 데이터는 로컬 디스크나 오브젝트 스토리지의 평범한 Parquet(Iceberg 호환)에—전용 카탈로그 서버 없이 스냅샷(비용 큰 컴팩션 없이 무제한)·타임 트래블·스키마 진화·파티셔닝·다중 테이블 ACID 트랜잭션·변경 데이터 피드·통계 기반 필터 푸시다운. 카탈로그 선택 기준: 단일 로컬 클라이언트는 DuckDB, 로컬 다중 클라이언트는 SQLite, 원격 포함 다중 사용자는 PostgreSQL(기존 인증·권한 그대로)—바닐라 DuckDB가 지원하지 않는 '멀티플레이어 DuckDB'. `INSTALL ducklake; ATTACH 'ducklake:metadata.ducklake' AS my_ducklake (DATA_PATH 'data/')`. DuckLake는 포맷·명세이고 이 레포는 DuckDB 확장(C++, MIT, 3.3k stars)—HN 반응: DuckDB 없이도 쓰는 명세여서 Rust/DataFusion 구현 datafusion-ducklake가 진행 중(Iceberg는 저지연 작업에 너무 무거웠다는 구현자 후기), 카탈로그가 Postgres면 'PostgresLake'에 가깝다는 농담, 행·열 접근 제어·마스킹이 없어 기업 BI엔 부족하다는 지적, "명세는 1.0이지만 소프트웨어는 1.0 수준이 아니다"(v1.5.4 카탈로그 필터 집계 버그, main/v2는 DuckDB v2 SQL 파서 10배 저하)라는 경고, MotherDuck에서 O'Reilly 「DuckLake: The Definitive Guide」 무료 배포
 
 # Library
 * [alasql.org](http://alasql.org/)
