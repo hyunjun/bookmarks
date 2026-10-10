@@ -4487,6 +4487,11 @@ NLP
   * [🆓 Soup: 4GB 노트북 GPU로 8B LLM 파인튜닝하는 오픈소스 CLI 설치·사용 가이드 | fornewchallenge](https://fornewchallenge.tistory.com/entry/%F0%9F%86%93-Soup-4GB-%EB%85%B8%ED%8A%B8%EB%B6%81-GPU%EB%A1%9C-8B-LLM-%ED%8C%8C%EC%9D%B8%ED%8A%9C%EB%8B%9D%ED%95%98%EB%8A%94-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-CLI-%EC%84%A4%EC%B9%98%C2%B7%EC%82%AC%EC%9A%A9-%EA%B0%80%EC%9D%B4%EB%93%9C)
   * YAML 하나로 LLM 파인튜닝·포스트트레이닝. 핵심은 layer streaming—베이스 모델 가중치는 호스트 메모리에 두고 학습할 레이어만 GPU에 일시 올려 계산 후 내리며 LoRA 어댑터만 상주시켜 VRAM 급감. RTX 3050 Laptop 4GB에서 Llama-3.1-8B-Instruct를 NF4 양자화로 학습할 때 최대 3.32GB만 사용
   * SFT·DPO·ORPO·SimPO·KTO 지원, `soup ship`으로 성능 회귀 자동 감지, GGUF 내보내 Ollama 실행. `pip install "soup-cli[train]"`(Python 3.10~3.12)→`soup init`→`soup train --config soup.yaml`. Apache-2.0, 2.6k stars
+* [Spark-X2.5: Spark-x2.5 open model series. Pushing the Limits of Agentic Capabilities in On-Device Models | XHToken](https://github.com/XHToken/Spark-X2.5)
+  * [TokenSpark — Spark Models & Agents](https://xhtoken.ai/)
+  * [Spark-X2.5 collection | Hugging Face](https://huggingface.co/collections/XHToken/spark-x25)
+  * TokenSpark(xhtoken.ai)의 온디바이스용 컴팩트 범용 LLM 2종—Spark-X2.5-4B·1.7B. 풀 어텐션 1층+슬라이딩 윈도 어텐션 3층의 하이브리드 구조로 장문 컨텍스트 연산 부담을 줄이면서 네이티브 1M 토큰 컨텍스트, 200+ 언어, 동급 오픈 모델 중 선두 성능(대화·작문·번역·추론·코딩·도구 사용·에이전트 워크플로). Codex·Claude Code·OpenClaw·Hermes 하네스에 깊이 통합
+  * NVIDIA·Huawei Ascend·Hygon·HOUMO 등 하드웨어와 vLLM·SGLang·llama.cpp·MLX·Ollama·LM Studio 지원, LLaMA-Factory 파인튜닝. Huawei Ascend 클러스터에서 학습, 대규모 RL·MOPD 포스트트레이닝. 2026.9.1 글로벌 출시(Hugging Face·ModelScope·Ollama), FP8/INT8 양자화 버전, PocketPal AI 앱 지원. Apache-2.0, 695 stars
 * [sparrow: Data processing with ML and LLM](https://github.com/katanaml/sparrow)
 * StableLM: StableLM: Stability AI Language Models https://github.com/Stability-AI/StableLM
 * [stanford\_alpaca: Code and documentation to train Stanford's Alpaca models, and generate the data](https://github.com/tatsu-lab/stanford_alpaca)
@@ -5033,6 +5038,10 @@ NLP
 * [Smart Use of Legal NLP | Dr. Benjamin Werthmann, RAILS PyData Südwest / Big Data BBQ - YouTube](https://www.youtube.com/watch?v=0KfbrS_hUkQ)
 * [한국 교육법률 온톨로지 시각화 시스템](https://climtc.github.io/education-law-ontology/)
   * 국가교육발전계획 2028-2037 기반, 47개 교육 관련 법률×9개 프로젝트 분야 매핑 매트릭스. MiroFish GraphRAG + Multi-Agent Simulation 아키텍처 기반 비공식 연구용 사이트
+* [인공지능이라는 산사태에 대처하는 법 | 정재민 변호사·작가 - 조선일보](https://www.chosun.com/national/weekend/2026/10/10/WL626XYW75BGRCIGVZNSNPCKXY/)
+  * [정재민 - 인공지능으로 전문직이 몰락한다고들 한다. 대형 로펌의 자문 매출이 뚝뚝 떨어지고 있다니 틀린... | Facebook](https://www.facebook.com/jaemin.choung/posts/pfbid053LnjDrnh9QZD4mi5hfgQYGaURj9R1FCfASJLjxQmMibkovhHyP9G23VxhK3YdVgl)
+  * "소수 사건에 정성, 장인수공업자의 공방"을 모토로 AI를 안 쓰고 서면을 직접 쓴다고 광고하던 변호사가 연초 Claude를 써보고 받은 충격—증거로 사실관계를 정리하고 판결례·법리를 찾는 일이 어쏘 변호사에게 맡기면 하루이틀 걸리던 것을 화장실 다녀올 사이에 끝내고 초안도 어설픈 어쏘 수준을 훌쩍 넘어 서면 작성 시간 5~6배 단축. 30년 연마한 글쓰기 주무기를 빼앗긴 무력감 → 칼 한 자루 대신 '신궁'·'재블린'을 얻은 느낌. 수만 페이지 기록을 커피 한 잔 시간에 정리하니 로펌 생존 전략이던 '대형화·전문화'의 위력이 떨어지고 큰 펌에 갈 사건이 작은 사무실로 오기 시작—모든 전문 분야에서 큰 조직은 비효율로 버티기 어렵고 깨어 있는 개인이 이끄는 소수 능력자의 게릴라 조직·자영업이 유망해지는 시대. 열의는 있지만 역량이 부족한 사람, 경험은 많지만 체력이 저문 사람일수록 AI 효용이 큼(알파고가 좌절을 준 기사는 이세돌급뿐, 아가시·조코비치의 장수는 라켓 소재 발전 덕)
+  * 단, 명령어 수준 차이가 모든 것을 결정—요령이 아니라 본인의 통찰·안목·철학·개성·지혜가 있어야 좋은 초안을 받고 더 나은 방향으로 끌고 갈 수 있으며, 가장 중요한 문장은 결국 사람이 직접 써서 마감해야 AI가 그 수준에 맞춰 나머지를 채움(마이바흐 투톤 도장도 장인이 붓으로 마감). 그 역량은 수공업자처럼 직접 경험·사귐·책임·독서·실패로 근육처럼 쌓임. 확보된 시간은 변호사 본연의 역할—고소·항소·답신 방식 같은 선택의 기로에서 의뢰인의 좋은 판단을 돕는 일—에 쓰는데, 이는 산을 수십 번 오르고 목숨으로 조언에 책임지며 얼음 소리·동료 표정까지 오감으로 읽는 히말라야 셰르파의 역할. 셰르파 역할에 집중하는 한 "인공지능이라는 산사태"에 궤멸되지는 않을 것. 조선일보 주말 섹션 칼럼(2026.10), Facebook 원문 공감 235·공유 45
 * [Introducing Gemini Enterprise for Legal | Google Cloud Blog](https://cloud.google.com/blog/products/ai-machine-learning/introducing-gemini-enterprise-for-legal)
   * [법률 업무에 특화된 AI 플랫폼, Gemini Enterprise for Legal | digitalbourgeois](https://digitalbourgeois.tistory.com/3583)
   * 법률 산업 특화 AI 솔루션. 계약 검토·규제 모니터링·DSAR 대응·문서 작성 자동화를 위해 법률 전문가와 함께 개발한 스킬, 시스템 연동, AI 에이전트, 파트너 생태계 4가지로 구성
