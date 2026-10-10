@@ -433,6 +433,8 @@
   * [Async QUIC and HTTP/3 made easy: tokio-quiche is now open-source](https://blog.cloudflare.com/async-quic-and-http-3-made-easy-tokio-quiche-is-now-open-source/)
 * [Ratatui | Ratatui](https://ratatui.rs/)
   * [Introducing Ratatui: A Rust library to cook up terminal user interfaces - FOSDEM 2024 - YouTube](https://www.youtube.com/watch?v=NU0q6NOLJ20)
+  * [Ratatui Tutorial for Beginners: Build a Rust System Monitor | Codynn - YouTube](https://www.youtube.com/watch?v=U20S5pxTUhU)
+    * Ratatui로 실시간 htop 스타일 시스템 모니터 구축: CPU 바, 메모리 게이지, 히스토리 그래프, 프로세스 테이블 (112분)
 * RDBC [Rust Database Connectivity (RDBC)](https://andygrove.io/2020/01/rust-database-connectivity-rdbc/)
 * [Redox - Your Next(Gen) OS - Redox - Your Next(Gen) OS](https://www.redox-os.org/)
   * [Redox: A Rust Operating System https://redox-os.org](https://github.com/jackpot51/redox)
