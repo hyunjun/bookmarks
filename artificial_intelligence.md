@@ -353,8 +353,10 @@ Artificial Intelligence
 * [AI 시대 테스트를 어떻게 설계해야 하는가? | Mimul](https://www.mimul.com/blog/ai-test-rule/)
   * [AI 시대 테스트를 어떻게 설계해야 하는가에 대한 읽을거리를 투척합니다 | mimul](https://www.linkedin.com/posts/mimul_ai-%EC%8B%9C%EB%8C%80-%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%A5%BC-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%84%A4%EA%B3%84%ED%95%B4%EC%95%BC-%ED%95%98%EB%8A%94%EA%B0%80%EC%97%90-%EB%8C%80%ED%95%9C-%EC%9D%BD%EC%9D%84%EA%B1%B0%EB%A6%AC%EB%A5%BC-%ED%88%AC%EC%B2%99%ED%95%A9%EB%8B%88%EB%8B%A4-share-7494007559901577217-gxJN)
   * Classicist TDD 기반 언어 불문 테스트 원칙 20가지 + 철학 6가지. 구현이 아닌 행위를 테스트(순수 리팩토링은 테스트를 깨지 않아야), Test Oracle을 먼저 정의하고 AI에게 "코드가 틀렸음을 증명"시키는 falsification, 경계에서만 mock(Real→Fake→Stub→Mock), 커버리지는 점수가 아닌 빈틈 탐지 레이더. AI 특화(17-20): AI 생성 테스트 맹신 금지, Reward Hacking(조건 약화) 경계, 구현 에이전트와 검증 에이전트 분리, Mockist 레거시는 점진 이전
-* [코드 리뷰 없앤 지 3개월, 사이트가 터졌습니다 (한영자막) - YouTube](https://www.youtube.com/watch?v=-c43cv80FiA)
+* [Why Software Factories Fail — Dex Horthy, HumanLayer - AI Engineer - YouTube](https://www.youtube.com/watch?v=Ib5GBkD555M)
+  * [코드 리뷰 없앤 지 3개월, 사이트가 터졌습니다 (한영자막) - YouTube](https://www.youtube.com/watch?v=-c43cv80FiA)
   * Tech Bridge. HumanLayer 공동창업자 Dex Horthy의 '라이트 오프'(코드 리뷰 없이 완전 자동화) 실험 실패담. 코딩 모델이 테스트 통과에만 최적화돼 유지보수성을 못 배우는 구조적 문제, 하네스만으로는 부족하다는 주장, 다시 코드를 읽으며 빠르게 개발하는 법(제품 리뷰·아키텍처·버티컬 슬라이스)
+  * 2025.7 '라이트 오프'(아무도 코드를 읽지 않는 에이전트 팩토리) 실험—3개월 뒤 어떤 프롬프트로도 못 고치는 장애로 사이트 다운. 스킬·규모·하네스·토큰 문제가 아닌 모델 학습 문제: 코딩 모델의 보상은 '다른 걸 깨지 않고 테스트를 통과했나'뿐이어서 수개월 뒤 드러나는 나쁜 아키텍처 비용에는 벌점이 없음. 같은 read/write/edit 도구를 가진 경쟁 도구들 사이에서 Claude Code가 압도한 이유는 출시 하네스에 맞춰 학습된 첫 모델이기 때문. 유지보수성은 녹색 테스트보다 검증이 훨씬 어려움("모델이 좋은 코드가 뭔지 알았다면 이미 그렇게 썼을 것"). 해법은 불을 다시 켜고 미리 계획하기—제품 리뷰→시스템 아키텍처→타입·호출 그래프 수준의 프로그램 설계(저평가된 단계)→버티컬 슬라이스, 30분 정렬이 수 시간 리뷰를 절약. AI Engineer, 19분
 * [Move code review before the code | The New Stack](https://thenewstack.io/move-code-review-upstream/)
   * [AI 시대의 코드 리뷰, 코드가 아닌 '의도(Intent)'를 검토해야 하는 이유 | digitalbourgeois](https://digitalbourgeois.tistory.com/3425)
   * AI가 수백~수천 줄을 순식간에 생성하는 시대에 PR에서 완성된 코드를 검토하는 전통 방식은 한계. 리뷰를 상류(개발자 의도)로 옮겨 코드가 아닌 의도(Intent)를 먼저 검토하면 엔지니어링이 확장되고 시간을 절약한다는 관점
@@ -621,6 +623,10 @@ Artificial Intelligence
   * 워크플로우 vs 에이전트의 기준은 "다음 순서를 누가 정하느냐"—코드를 읽으면 다음 상태가 보이면 워크플로우, 모델이 도구만 받아 그때그때 판단하면 에이전트(실체는 while loop, ReAct 프롬프트 규약이 툴콜링 학습으로 내재화된 것). 화이트보드에 분기를 그릴 수 있으면 워크플로우, 예외·분기만 계속 늘면 에이전트. 하네스는 모델 밖에서 루프·세션/컨텍스트·메모리·지식(CLAUDE.md·스킬)·권한·상한(auto compact, 도구 호출 횟수 제한)을 맡는 층으로, "없으면 어떻게 되는가"로 각 요소의 필요성을 설명
   * 모델이 똑똑해질수록 모델을 보조하던 절차(장황한 도구 description, MCP 다수→Bash+CLI)는 얇아지고, 너무 똑똑해서 우회하려는 모델을 통제하는 층(Fable 5의 생물학 질의 안전 분류기 등)은 두꺼워진다는 전망. 도구 설계: Anthropic "Writing effective tools"처럼 도구도 평가셋으로 릴리즈마다 개선, 읽기/쓰기·병렬 가능 여부·승인 필요 여부를 컨트랙트로 관리. MCP는 조직별 API를 각 에이전트가 직접 래핑·관리하던 중복을 조직별 MCP 서버로 옮기는 것, A2A와의 차이까지
 * [How to Build an Agent - Amp](https://ampcode.com/notes/how-to-build-an-agent)
+* [Building AI Agents from First Principles by Adib Saikali | Devoxx - YouTube](https://www.youtube.com/watch?v=SC5nO6iadsU)
+  * [Building AI Agents from First Principles | Devoxx Belgium 2026 CFP](https://dvbe26.cfp.dev/talk/24247)
+  * Devoxx Belgium 2026 딥다이브 워크숍(2시간 30분), Tanzu(Broadcom) Distinguished Engineer Adib Saikali. 단순 요청/응답 상호작용을 명시적 제어 루프 plan→act→observe→decide를 가진 완전한 에이전트 시스템으로 점진 진화시키며, 에이전트를 블랙박스가 아닌 신뢰·이해·테스트 가능한 아키텍처 패턴으로 해부. 저녁 식사 계획 어시스턴트를 관통 예제로 도구 호출→계획→메모리→다단계 실행→평가→에러 처리→종료 조건을 하나씩 도입
+  * 예제는 Spring Boot/Spring AI지만 프레임워크 튜토리얼이 아니라 언어·프레임워크·모델 무관한 근본 패턴이 초점. 핵심 주제는 "에이전트는 시스템 속에 내장된 시스템"—견고한 에이전트 구축은 프롬프트 엔지니어링보다 소프트웨어 아키텍처의 문제
 * [JobKorea LOOP 에이전트 개발기: 1. 에이전트 개론 | by Seongtae Kim | jobkorea-tech](https://techblog.jobkorea.co.kr/jobkorea-loop-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EA%B0%9C%EB%B0%9C%EA%B8%B0-1-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EA%B0%9C%EB%A1%A0-6f2ec241d394)
 * [JobKorea LOOP 에이전트 개발기: 2.LOOP Reasoning Engine | by Seongtae Kim | Apr, 2025 | jobkorea-tech](https://techblog.jobkorea.co.kr/jobkorea-loop-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EA%B0%9C%EB%B0%9C%EA%B8%B0-2-loop-reasoning-engine-c53b8c69b1d4)
 * [JobKorea LOOP 에이전트 개발기: 3. 잡코리아 정보 검색 에이전트 | by Seongtae Kim | Apr, 2025 | jobkorea-tech](https://techblog.jobkorea.co.kr/jobkorea-loop-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EA%B0%9C%EB%B0%9C%EA%B8%B0-3-%EC%9E%A1%EC%BD%94%EB%A6%AC%EC%95%84-%EC%A0%95%EB%B3%B4-%EA%B2%80%EC%83%89-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-a938ca92066d)
@@ -1231,6 +1237,8 @@ Artificial Intelligence
     * [Introducing System One Models & Jev | TypeSafe AI Blog](https://typesafe.ai/blog/introducing-system-one-models-and-jev)
     * [AI LLM이 글만 쓰는 시대는 지나가고 있나 봅니다 | futurewalker | Facebook](https://www.facebook.com/futurewalker/posts/pfbid0pHfgoWhbycuZgTTe7UReLWep8qn2gbpJkcL99G8SgaX79ypZM1DhNWnTj3hf8FD4l)
     * TypeSafe AI의 첫 System One 모델 Jev를 활용한 초고속 브라우저 자동화. Jev는 텍스트를 생성하지 않는 LLM—미리 정의된 선택지 중 하나를 보정된 신뢰도 점수와 함께 밀리초 단위로 골라 반환('생성'이 아닌 '판단'). 환각이 구조적으로 불가능, 입력 $0.042/MTok에 출력 사실상 무료. Python, 3.7k stars
+    * [What is Jev? 3 Open Source Local Alternatives Tested on Jetson - YouTube](https://www.youtube.com/watch?v=UIdMIz0s9VI)
+      * JetsonHacks. Jev System One 모델과 경량 오픈소스 대체재(AWS Strands 2B, Liquid AI d1-3B)를 NVIDIA Jetson Orin Nano에서 벤치마킹. 엣지 AI 프로젝트용 에이전트 스킬 추론 성능 평가. 12분 18초.
     * [After co-inventing ChatGPT, I kept asking myself: why have superhuman chat models not led to AGI? | CompleteSkeptic on X](https://x.com/CompleteSkeptic/status/2099925682726002904)
       * Jev 창업자(ChatGPT 공동 발명자). 2년간 스텔스로 개발한 새 학습 방식 RLCD와 프런티어 모델 Jev 공개—20-200배 빠르고 40-400배 저렴
     * [큰 거 왔습니다. Jev - typesafe.ai | younghyun](https://www.linkedin.com/posts/younghyun_%ED%81%B0-%EA%B1%B0-%EC%99%94%EC%8A%B5%EB%8B%88%EB%8B%A4-%ED%95%9C%EB%8F%99%EC%95%88-%EC%9D%B4-%EB%89%B4%EC%8A%A4%EA%B0%80-%ED%99%94%EC%A0%9C%EA%B0%80-%EB%90%A0-%EA%B2%83-%EA%B0%99%EB%84%A4%EC%9A%94-jev-http-share-7505983939539255296-IxNq/)
@@ -1521,6 +1529,11 @@ Artificial Intelligence
   * [Mercury Skills — the hub for agent skills](https://skills.mercuryagent.sh/)
     * [mercury-agent-skills](https://github.com/cosmicstack-labs/mercury-agent-skills)
     * Mercury Agent용 큐레이션된 오픈소스 스킬 레지스트리. 23 카테고리 127 스킬, 트렌딩·카테고리 브라우징·검색. `mercury skills install` 터미널 설치. Mercury Agent + OpenClaw + Hermes 호환
+* [MeshKit: App to APP MCP, runnable AgentOS trigger | Q00](https://github.com/Q00/meshkit)
+  * [애플을 무너뜨리고 싶습니다. OpenAI가 후원한 카카오, 해시드 주관 OBA 해커톤에서 수상하며 했던 말입니다 | JAEGYU LEE | LinkedIn](https://www.linkedin.com/posts/q00_github-q00meshkit-app-to-app-mcp-runnable-share-7491525813746446336-XYUd/)
+  * Open Calling Graph(OCG)용 App-to-App MCP 신뢰 계층—참여 앱이 호출 가능한 capability를 공개하고, 서명된 요청을 받아 사용자 동의를 요구하고, 대상 앱 경계 안에서 실행한 뒤 서명된 영수증(receipt)을 돌려줌. 세 원칙: 앱은 주권 유지(검증·동의·실행·영수증은 대상 앱 소유), 호출은 서명(호출자 신원·대상 capability·페이로드 해시·nonce·타임스탬프), 완료는 증명(대상 앱이 서명한 영수증만 인정). fail-closed 경계—미지원 capability·스키마 오류·해시 불일치·오래된 타임스탬프·nonce 재사용·동의 없음·예산 초과·서명 불일치 모두 거부
+  * Swift 패키지+iOS 샘플 앱(HermesChat 호출자/에이전트, MintNotes `notes.append_note`, DailyMart `grocery.purchase_essentials`—₩100 예산으로 동의 게이트 시연), 로컬 ACP 슈퍼앱 콕핏(web)·Go 참조 서버. 블록체인은 앱 실행을 온체인으로 옮기지 않고 OCG 레지스트리 커밋·키 회전·동의 정책·영수증 해시·분쟁 증거를 앵커링하는 공유 신뢰·감사 계층(maroo 테스트넷 어댑터 데모). OpenAI 후원·카카오/해시드 주관 OBA 해커톤 수상작. Swift, MIT, 33 stars
+  * LinkedIn 글 요지: 저자 이재규—"애플을 무너뜨리고 싶다". iOS·안드로이드가 OS 종속성으로 앱 라이프사이클까지 통제해 모바일은 GUI에 머물고 앱은 서로 못 부르는 고립된 엔드포인트. 온디바이스 NPU 로컬 LLM 시대에 나를 가장 잘 아는 에이전트가 정작 내 폰의 앱 하나 못 부르는 역설. 구글 UCP·애플 Siri의 생태계 강화에 맞서, 에이전트가 앱에서 앱을 호출하고 스스로 결제하고 온체인으로 검증하는 오픈 프로토콜—개인화는 로컬 LLM, 실행은 각 앱, 검증은 체인. "애플이 막는 순간 뭘 지키려는지 모두가 보게 된다—그게 Agentic OS의 트리거"
 * [MiMoCode — An open-source AI coding agent with cross-session memory | Xiaomi](https://mimo.xiaomi.com/mimocode)
   * [MiMo-Code: An open-source AI coding agent with cross-session memory](https://github.com/XiaomiMiMo/MiMo-Code)
   * 샤오미의 터미널 네이티브 AI 코딩 에이전트. 코드 읽기/쓰기·명령 실행·Git 관리, 세션 간 영속 메모리로 프로젝트 이해 유지·자가 개선. MiMo Auto 무료 채널 내장(제로 설정 시작), 주요 LLM 프로바이더 API 연결. `@mimo-ai/cli`, TypeScript, MIT
@@ -1634,6 +1647,10 @@ Artificial Intelligence
   * Stanford Hazy Research. 온디바이스 AI 에이전트 프레임워크, 에너지·지연 시간을 1차 제약 조건으로 평가, 로컬 트레이스 데이터 학습 루프
 * [openJiuwen](https://www.openjiuwen.com/)
   * [openJiuwen-ai](https://github.com/openJiuwen-ai)
+  * [agentos-enterprise: AgentOS Enterprise is an agent operating system built by openJiuwen. It lets you flexibly manage agents in multi-user scenarios, deploy them across different systems, and access them all in one place](https://github.com/openJiuwen-ai/agentos-enterprise)
+    * [임선영 - #중국AI미래지도 에이전트 OS 오픈소스로 발표한 화웨이, 윈도우 시대 막 내린다 | Facebook](https://www.facebook.com/seonyoung.im.10/posts/pfbid02mQNNVd6ddYRFM1sq1psvq3FxtgXYx74sCnr8idmrYFpXfFfHEriebsTS8LPsAUgYl)
+    * openJiuwen 에이전트 인프라의 원스톱 통합·배포 레포—agent-runtime(분산 에이전트 런타임)·jiuwenswarm(워크/코딩 에이전트 게이트웨이·클라이언트)·Conch(에이전트 샌드박스)·A2X 레지스트리/agent-protocol(접근 게이트웨이)를 Git 서브모듈로 묶어 `build/build.sh`(daily/release → 전 플랫폼 TUI 클라이언트 tgz + 서버 tgz) 원커맨드 빌드, `deploy/agentos.sh`가 moosefs·jiuwenbox·agent-runtime·agent-gateway·jiuwenswarm 5개 모듈을 플러거블 훅으로 오케스트레이션(install→init→up→down→deinit→uninstall, status). 단일 머신 즉시 배포, 다중 머신은 config.yaml의 etcd·master 노드·ingress VIP로 HA. openEuler 22.03/24.03·Ubuntu 22.04/24.04, Python 3.11, bwrap 샌드박스, Docker 선택, MooseFS. Shell, Apache-2.0
+    * Facebook 글(임선영, #중국AI미래지도) 요지: IT 시대에서 에이전트 시대로 가는 중국—화웨이가 오픈소스로 공개한 openJiuwen AgentOS가 왜 지금 나왔는지, 1990년대 PC 보급기와 비교하며 "윈도우 시대의 막"이 내린다는 관점
   * [OpenJiuwen Community Releases JiuwenClaw: A Self-Evolving AI Agent for Task Management](https://www.marktechpost.com/2026/03/27/openjiuwen-community-releases-jiuwenclaw-a-self-evolving-ai-agent-for-task-management/)
   * [JiuwenClaw: 대화를 넘어 실제 업무를 끝까지 수행하는 자기 진화형 AI 에이전트](https://digitalbourgeois.tistory.com/2937)
   * 프로덕션급 AI 에이전트 플랫폼. 이벤트 기반 멀티 에이전트 제어, 자동 상태 관리, 텍스트 그래디언트 프롬프트 최적화. JiuwenClaw는 계층형 메모리와 자기 진화 메커니즘으로 요구사항 변화에 적응하며 작업 완수
@@ -1942,6 +1959,11 @@ Artificial Intelligence
 * [ELI5 skill: /eli5로 코드를 고치기 전에 HTML 그림으로 이해하기 | Thariq (trq212) on X](https://x.com/trq212/status/2090884854590382515)
   * [앤트로픽의 ELI5 스킬: 코드를 고치기 전에 그림으로 이해하기 | desty](https://desty.github.io/blog/60-eli5-visual-explainer/)
   * Anthropic 사내에서 많이 쓴다는 Thariq의 기법. `/eli5 <설명 대상>` 슬래시 명령에 "이 주제를 전혀 모르는 사람에게 큰 그림과 적은 글로, HTML 아티팩트로 설명하라"는 한 줄 지시를 묶은 것. 에이전트가 관련 코드를 읽고 박스·화살표·SVG로 시스템 흐름을 담은 단일 HTML 문서를 생성. 요청→코드 조사→HTML 구조 설명→사람 확인·수정→구현 순으로 구현 전에 시각적 리뷰 단계를 끼워, 사람과 에이전트가 같은 멘탈 모델을 공유하는지 확인(빠진 박스·틀린 화살표를 쉽게 발견). 단 "그림이 정확성을 보장하진 않음"—실제 읽은 파일 경로 인용·추측/사실 구분·브라우저 확인 등 검증 조건 추가 권장
+* [State of Agentic Coding by Daniela Petruzalek | Devoxx - YouTube](https://www.youtube.com/watch?v=nHRSwiFNQ9E)
+  * [State of Agentic Coding | Devoxx Belgium 2026 CFP](https://dvbe26.cfp.dev/talk/25671)
+  * [state-of-agentic-coding: Supporting materials for the State of Agentic Coding talk | danicat](https://github.com/danicat/state-of-agentic-coding)
+  * Devoxx Belgium 2026, Google Cloud DevRel Daniela Petruzalek(48분). 자동완성→자율 에이전트로 진화하는 AI 코딩에 필요한 새 멘탈 모델—최근 몇 달의 주요 발전(MCP→스킬과 그 이후)을 되짚고, 에이전트에 대한 신뢰를 높이는 법, 새 Google Antigravity 생태계 투어. 모든 기법을 일상 개발 예제의 라이브 데모와 짝지어 시연
+  * 동반 레포(Google I/O Extended London 2026 버전)의 "에이전틱 툴박스": 인간-AI 협업 7단계(브라우저의 Gemini 복붙→수동 승인 코딩 에이전트→파일 편집은 자동·셸은 수동인 Guarded Collaborator→결과만 보는 Hands-Off Director→YOLO 모드→전문 서브에이전트 군단을 지휘하는 Orchestrator→시스템을 설계하는 시스템을 만드는 Architect)와 프롬프트(Go SDK MCP 서버)·규칙(GEMINI.md)·훅·서브에이전트(EM/백엔드/프론트엔드로 호텔 예약 앱 구축)·스킬·MCP 예제. Python, Apache-2.0
 * [agentic-engineering-handbook: The definitive OpenAI, Claude, MCP, Harness, Evals, and Production Agent Systems learning roadmap](https://github.com/keyuchen21/agentic-engineering-handbook)
   * OpenAI·Anthropic·Google 블로그·엔지니어링 글·SDK 문서·쿡북·논문에 흩어진 에이전트 지식(에이전트 루프·도구 호출·MCP·메모리·장기 워크플로·코딩 에이전트·하네스·평가·안전)을 195개 큐레이션 자료로 묶은 학습 로드맵. Phase 0(에이전트 루프)~6(평가·프로덕션)+7(에이전트 학습·검색 심화)을 단계별 Read First·Then Read·Build Exercise 체크리스트로 진행하고, 코딩 에이전트·보안·코드 리뷰·SRE 응용 트랙과 P0/P1/P2 우선순위 전체 읽기 표 제공. Andrew Ng의 AI Engineering Skills Map을 출발점으로 연결. MIT, 452 stars
 * [awesome-agentic-engineering: Curated resources for adopting agentic engineering — AI agents that plan, write, test, and develop software autonomously](https://github.com/jordimas/awesome-agentic-engineering)
@@ -2421,6 +2443,10 @@ Artificial Intelligence
 * [How to Build a Software Factory for AI Coding Agents - YouTube](https://www.youtube.com/watch?v=tGbjIvvYuHE)
   * Boundary 'AI That Works', Dex·Vaibhav 대담(71분). AI 에이전트가 사람 개입을 줄이며 코드를 쓰고 테스트·리뷰·배포까지 하는 '소프트웨어 팩토리' 아키텍처—전체 스택 자체 구축 vs 완전 관리형 구매(build vs buy) 판단, 개발 환경·코딩 하네스·컨트롤 플레인 계층 구분
   * 내부/외부 하네스 구성, 에이전트 기반 머지 큐, 작업을 적절한 머신에 디스패치하기, 사용자 리포트에서 피드백 루프 자동화, 이슈 트리아지 eval 구축, 모델 전환의 숨은 비용, 에이전트 환경을 pets vs cattle로 관리하기, 가장 미개척 계층인 컨트롤 플레인
+* [Why AI Coding Agents Fail (And How to Fix Them) | Prompt Engineering - YouTube](https://www.youtube.com/watch?v=hO4ft4tGOJI)
+  * [software-factory: A software factory on Upstash Box: Claude Code agents turn GitHub issues into reviewed pull requests, one cloud sandbox per agent | PromtEngineer](https://github.com/PromtEngineer/software-factory)
+  * 소프트웨어 팩토리의 개념과 구축법—핵심 루프는 이슈→에이전트→독립 검증→사람 머지. Upstash Box 샌드박스(빠른 부팅·스냅샷·격리·일시정지/재개·egress 허용목록)에서 Claude Code를 돌려 실제 레포의 GitHub 이슈 10개에 투입: 4분 34초에 PR 9개 생성, 모호한 이슈 1개는 건너뛰고, 9개 수정 모두 에이전트가 보지 못한 히든 테스트 통과
+  * 코딩 에이전트 병렬 실행이 깨지는 이유와 5가지 해법(에이전트별 샌드박스, 클레임 라벨, 검증자·리뷰어 분리, 라이브 문서, 사람이 머지). 트리아지→워커→검증자→리뷰어 4단계 파이프라인과 박스 간 타입 지정 핸드오프, Context7 라이브 문서로 그라운딩(API 키는 박스 외부에서 주입). 검증된 PR 9개 중 7개가 서로 충돌해 통합(integrator) 단계 추가. 비용: 실행 $3.67 + 통합 $6.37, Box 컴퓨트 약 $0.01. Upstash 스폰서 영상, 17분
 * [Running a Software Factory Efficiently at Uber Scale | Uber Blog](https://www.uber.com/us/en/blog/efficient-software-factory/)
   * [Agentic SDLC at Uber — Uday Kiran Medisetty & Adam Huda, Uber | AI Engineer 2026](https://www.youtube.com/watch?v=17-YSUHo6Lk)
   * [PR 10개 중 7개를 에이전트가 쓰는 우버 팀에게 배울 것 | 요즘IT](https://yozm.wishket.com/magazine/detail/3938)
@@ -5683,6 +5709,8 @@ Artificial Intelligence
 * [How I Stopped Running out of Tokens | Daniela Baron](https://danielabaron.me/blog/how-i-stopped-running-out-of-tokens/)
   * Claude Code 일상 사용 시 토큰 소비를 줄이는 도구·설정·습관 실전 정리
 * [무료 로컬 AI 코딩 에이전트 구축 가이드 Claude Code + Qwen 3.5 완벽 설정법](https://fornewchallenge.tistory.com/entry/%F0%9F%86%93-%EB%AC%B4%EB%A3%8C-%EB%A1%9C%EC%BB%AC-AI-%EC%BD%94%EB%94%A9-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EA%B5%AC%EC%B6%95-%EA%B0%80%EC%9D%B4%EB%93%9C-Claude-Code-Qwen-35-%EC%99%84%EB%B2%BD-%EC%84%A4%EC%A0%95%EB%B2%95)
+* [strata를 이용하여 qwen3.8-flash-next(120B) 모델을 RTX 5070 Ti(16GB)에서 구동시키고 opencode를 이용하여 채팅 서비스 만들어보기 - YouTube](https://www.youtube.com/watch?v=OWbkiNqCwaY)
+  * 멍개의 연구소. Strata로 Qwen 3.8 대형 모델(120B)을 RTX 5070 Ti 16GB GPU에서 구동, OpenCode로 채팅 UI 구축. 로컬 대형 모델 실행·통합 실무 사례. 12분 47초.
 * [Handling AI-Generated Code: Challenges & Best Practices • Roman Zhukov & Damian Brady • GOTO 2025 - YouTube](https://www.youtube.com/watch?v=SsiDLh9-TN8)
   * [AI 생성 코드: 과제, 모범 사례 및 개발자 워크플로우에 미치는 영향](https://livewiki.com/ko/content/ai-code-challenges-best-practices)
 * [발표자료 황민호|AI Co-Scientist를 위한 가상 랩 구축 Claude Code](https://aifactory.space/task/9237/discussion/4603)
@@ -7038,6 +7066,11 @@ Artificial Intelligence
   * [codex-mcp-server: MCP server wrapper for OpenAI Codex CLI](https://docs.tuannvm.com/)
     * [codex-mcp-server](https://github.com/tuannvm/codex-mcp-server)
     * Claude Code에서 Codex의 AI 기능을 MCP 프로토콜로 직접 활용
+* [Codync: The open-source Grok Bot alternative: message Claude Code, Codex, Cursor, Gemini and 40+ AI agents as bots on your own computer, from iPhone, Mac, Windows, Linux or terminal | leepokai](https://github.com/leepokai/codync)
+  * [Codync: the open-source Grok Bot alternative, a free AI agent app](https://www.codync.dev/)
+  * [Codync launch film - YouTube](https://www.youtube.com/watch?v=QAhyZWpV70U)
+  * 내 컴퓨터에서 돌아가는 코딩 에이전트들을 메시지로 부르는 "봇 팀"으로 만드는 무료 오픈소스 Grok Bot 대안(Muse·Dots 대안이기도). Claude Code·Codex·Cursor·Gemini·Copilot·OpenCode·Pi·Grok Build 등 설치된 에이전트를 자동 탐지하고 ACP 레지스트리의 40여 개를 첫 사용 시 가져옴—이미 결제한 플랜 그대로 사용. 봇마다 하나의 진행 중인 채팅, 최종 답만 보이고 도구 호출·사고·계획은 전체 대화에서 확인, 봇이 나를 필요로 하거나 끝났을 때만 알림(명령·수정은 허용 1회/항상 허용/거부 카드)
+  * Rust 호스트 하나가 Mac(메뉴바 앱)·Windows(트레이)·Linux(AppImage/deb, 헤드리스 서버·클라우드 VM)에서 돌고 데스크톱·iPhone 앱·터미널 TUI 모든 클라이언트가 같은 호스트에 접속. iOS 위젯·Live Activities·Dynamic Island로 봇 진행 상황 표시. 봇·대화록·메모리는 내 머신에만(계정·클라우드 복사 없음, 종단간 암호화), 폰은 Wi-Fi·Tailscale·인터넷으로 연결되는 리모컨. Rust 호스트+SwiftUI+Electron, Apache-2.0, 224 stars
 * [Command Code - The best coding agent for open models](https://commandcode.ai/)
   * [🆓 월 1달러로 시작하는 AI 코딩 에이전트 Command Code Go 설치·사용법 가이드 | fornewchallenge](https://fornewchallenge.tistory.com/entry/%F0%9F%86%93-%EC%9B%94-1%EB%8B%AC%EB%9F%AC%EB%A1%9C-%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94-AI-%EC%BD%94%EB%94%A9-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-Command-Code-Go-%EC%84%A4%EC%B9%98%C2%B7%EC%82%AC%EC%9A%A9%EB%B2%95-%EA%B0%80%EC%9D%B4%EB%93%9C-1)
   * [🖥️ Command Code Desktop: CLI 설치 없이 쓰는 macOS·Windows·Linux 코딩 에이전트 | fornewchallenge](https://fornewchallenge.tistory.com/entry/%F0%9F%96%A5%EF%B8%8F-Command-Code-Desktop-CLI-%EC%84%A4%EC%B9%98-%EC%97%86%EC%9D%B4-%EC%93%B0%EB%8A%94-macOS%C2%B7Windows%C2%B7Linux-%EC%BD%94%EB%94%A9-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8)
@@ -8140,6 +8173,8 @@ Artificial Intelligence
   * [OpenSpec 공식 사이트](https://openspec.dev/)
   * [OpenSpec - 코딩 에이전트와 구현 전에 명세를 맞추는 개발 도구 | GeekNews](https://news.hada.io/topic?id=33841)
   * [OpenSpec: NEW Toolkit Ends Vibe Coding! 100x Better Than Vibe Coding (Full Tutorial) | WorldofAI - YouTube](https://www.youtube.com/watch?v=gHkdrO6IExM)
+  * [Beginner's Guide to Spec-Driven Development (SDD) With OpenSpec | Philipp Lackner - YouTube](https://www.youtube.com/watch?v=9MImID9o8MQ)
+    * 웹·백엔드·모바일 앱 프로젝트에서 OpenSpec을 이용한 스펙 주도 개발 도입 방법. 0:00 인트로, 1:08 문제 정의, 3:16 SDD 개념, 웹사이트/백엔드/모바일 실습 (43분)
   * 대화 기록에만 남던 요구사항을 명세와 구현 계획으로 정리하고 **사람이 검토한 뒤** AI가 코드를 쓰게 하는 SDD 도구—변경 작업마다 제안서·요구사항과 시나리오·기술 설계·작업 목록을 별도 폴더에 모아 무엇을 왜 바꾸는지 함께 관리, 완료한 변경은 보관. TypeScript, MIT, 70.4k stars
 * [smart-ralph: Spec-driven development for Claude Code and Codex. Task-by-task execution with fresh context per task](https://github.com/tzachbon/smart-ralph)
   * Ralph 에이전틱 루프 패턴 기반 Claude Code 플러그인. 막연한 기능 아이디어→리서치·요구사항·기술 설계·태스크 분해·구현 단계를 전문 서브에이전트가 진행, 태스크마다 새 컨텍스트로 실행. Quick 모드/단계별 승인 게이트, 코드베이스 인덱싱, GitHub spec-kit 방식의 ralph-speckit 포함. v3.0 외부 의존성 제로
