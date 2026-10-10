@@ -61,7 +61,9 @@ Science
 * [openscience: The open-source AI workbench for scientific research](https://github.com/synthetic-sciences/openscience)
   * [OpenScience 공식 사이트](https://www.openscience.sh/)
   * [OpenScience: 과학 연구를 위한 오픈소스 AI 워크벤치 기술 정리 | digitalbourgeois](https://digitalbourgeois.tistory.com/3345)
+  * [OpenScience: AI 에이전트로 문헌 조사부터 데이터 분석, 실험 재현까지 자동화하는 오픈소스 연구 플랫폼 | digitalbourgeois](https://digitalbourgeois.tistory.com/3738)
   * 문헌 조사·가설 수립부터 코드 작성·실험·결과 분석까지 과학 워크플로를 자동화하는 AI 리서치 플랫폼. 브라우저 기반 워크스페이스, 290개+ 전문 스킬, 주요 과학 데이터베이스 연동, 멀티 모델 지원. ML·생물·물리·화학 연구에 활용, 벤더 락인 없음
+  * 2026.10 기준 보강—YC 투자 Synthetic Sciences. 데스크톱 앱(macOS·Windows·Linux, Electron)·브라우저 워크스페이스·CLI(`npm i -g @synsci/openscience` 또는 `npx synsci`)로 같은 프로젝트 폴더에서 동작하고 모든 턴이 생각→검색→실행→작성→답의 기록으로 남음. Shell·Python/R 커널·노트북, 명시적 읽기/쓰기 권한의 파일 시스템(프로젝트 밖은 별도 허가, 네트워크 명령은 호스트별 1회 승인), 로컬 커널에서 Modal·SSH·Slurm/PBS 클러스터까지 승인 후 실행하는 원격 컴퓨트, 생물·화학·물리·ML·글쓰기 371개 번들 스킬과 UniProt·PDB·ChEMBL·PubChem·arXiv 등 42개 과학 DB 커넥터, NVIDIA BioNeMo NIM BYOK 어댑터 10종(Boltz-2·DiffDock·Evo 2·OpenFold3·RFdiffusion 등), 리드 에이전트가 explore·general·도메인 전문 5종 워커에 병렬 위임. 모델은 자기 키·ChatGPT Plus/Pro 로그인·로컬(Ollama·LM Studio)·관리형 종량제 Ace 중 선택. Terminal-Bench Science·Terminal-Bench 4.0(science)·BiomniBench-DA(82.2)·자체 OpenScience Bench 선두 주장. MCP·커스텀 에이전트/명령·플러그인·TypeScript SDK로 확장. TypeScript, Apache-2.0, 4k stars
 
 # Biology
 * [영장류의 움켜잡기 능력에 대한 새로운 연구](http://newspeppermint.com/2015/04/28/primate-grip/)
