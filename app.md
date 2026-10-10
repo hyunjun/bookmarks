@@ -3568,6 +3568,10 @@ App
 * [Everything](https://www.voidtools.com)
   * [🎗초간단 SOHO용 파일서버 구축하기 (feat Everything) : 클리앙](https://www.clien.net/service/board/lecture/16068207?type=recommend)
 * [Fancy Zones](https://github.com/microsoft/PowerToys/blob/master/src/modules/fancyzones/README.md) spectacle처럼 윈도우에서 레이아웃 조정하는 앱
+* [Filee — Free File Converter for Windows: Convert Files Offline](https://filee.sh/)
+  * [Filee: Free, open-source file converter. Convert 180+ formats offline by drag & drop — images, PDF, Word, Excel, PowerPoint, HWP/HWPX, video, audio, e-books and archives. No upload, no Office needed | KnifeLemon](https://github.com/KnifeLemon/Filee)
+  * 키(Ctrl, macOS는 Option)를 누른 채 파일을 드래그하면 커서 위치에 그 파일에 맞는 포맷들의 도넛 메뉴가 열리고, 포맷 위에 놓으면 원본 옆에 변환 결과가 생기는 파일 변환기. 14개 카테고리 180+ 포맷(이미지 42종·벡터·PDF·Word/Excel/PowerPoint·HWP/HWPX·전자책·영상·음악·압축·CAD·폰트), HWPX→PDF→PNG처럼 포맷 간 경로를 자동 계획. Office·LibreOffice·한컴오피스 없이 변환, 업로드 없는 100% 로컬 처리, 병렬 일괄 변환(하나 실패해도 계속, PDF 하나/ZIP 하나로 병합 프리셋), 우클릭 'Convert with Filee'·보내기·단축키·드롭존·`filee` CLI
+  * 파일 종류별 프리셋(품질·리사이즈·DPI·그레이스케일·메타데이터·TIFF 압축·ICO 크기·PDF 병합/분할/페이지 범위·720p·MP3 비트레이트), 대형 엔진(FFmpeg·LibreOffice·Calibre·Ghostscript·Pandoc)은 설치 시 선택하거나 앱에서 나중에 내려받고 이미 설치된 것은 자동 탐지. 영어·한국어·중국어 간체. Windows 10/11, macOS 14+·Linux(X11)는 프리뷰. Avalonia/.NET C#, MIT, 133 stars
 * [GestureWheel: Mouse wheel gestures app for Windows](https://github.com/iodes/GestureWheel)
 * [GoodbyeDPI—Passive Deep Packet Inspection blocker and Active DPI circumvention utility (for Windows)](https://github.com/ValdikSS/GoodbyeDPI) 웹 차단 우회
   * [GoodByeDPI GUI](https://github.com/Include-sys/GUI-for-GoodbyeDPI/)
