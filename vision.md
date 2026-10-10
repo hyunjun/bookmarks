@@ -1052,6 +1052,16 @@ Vision
 * [HCX-VLM과 함께 홈피드를 더 예쁘게 바꿔보자!](https://d2.naver.com/helloworld/3247986)
 * [2411.14432 Insight-V: Exploring Long-Chain Visual Reasoning with Multimodal Large Language Models](https://arxiv.org/abs/2411.14432)
   * 비전-언어 태스크의 long-chain reasoning 데이터·학습 파이프라인 격차 해소. 1) 사람 노동 없이 견고한 long-form reasoning 데이터 생성하는 2단계 progressive 파이프라인+다단계 품질 평가 2) 멀티 에이전트 시스템(추론 전담+요약/평가 전담), 3) iterative DPO로 추론 안정성·품질 향상. LLaVA-NeXT/더 강한 base MLLM 위에서 시각 추론 벤치마크 가시 향상, perception 태스크는 유지/개선
+* [2502.08779 BBQ-V: Benchmarking Visual Stereotype Bias in Large Multimodal Models](https://arxiv.org/abs/2502.08779)
+  * [BBQ-V: Benchmarking Visual Stereotype Bias in Large Multimodal Models - ECCV 2026 | UCF CRCV - YouTube](https://www.youtube.com/watch?v=FmXenu2tClc)
+  * [BBQ-Vision: SB-Bench: Stereotype Bias Benchmark for Large Multimodal Models | UCF-CRCV](https://github.com/UCF-CRCV/BBQ-Vision)
+  * UCF CRCV(Mubarak Shah 그룹), ECCV 2026. 대형 멀티모달 모델(LMM)의 사회적 고정관념 편향 평가 벤치마크—기존 데이터셋은 다양성 부족·합성 이미지·단일 인물 이미지에 의존해 실제 시각 맥락의 편향 평가에 공백. 실제·다중 인물 이미지로 9개 범주·50개 하위 범주, 14,144 이미지-질문 쌍, 이미지 변형과 개방형 질문 형식으로 난이도별 시각 고정관념 추론 능력을 정밀 평가
+  * 오픈소스(범용·추론)·클로즈드 19개 SOTA LMM 평가 결과 최상위 모델들도 여러 사회적 고정관념에 편향되어 있고, thinking 모델은 추론 체인에서 편향이 더 유발됨. 데이터셋·평가 코드 공개(레포는 구 명칭 SB-Bench). 발표 영상 14분
+* [2607.22919 Controlling Embedding Spaces with Text-Conditioned Transformations](https://arxiv.org/abs/2607.22919)
+  * [Controlling Embedding Spaces with Text-Conditioned Transformations - ECCV 2026 | UCF CRCV - YouTube](https://www.youtube.com/watch?v=QKvnP4NtIUI)
+  * [ControlEmbed project page](https://joefioresi718.github.io/ControlEmbed_webpage/)
+  * UCF CRCV(Mubarak Shah 그룹) 외, ECCV 2026. CLIP 같은 멀티모달 임베딩은 고수준 의미를 벡터 하나로 압축해 주 객체 같은 지배적 의미만 표현하고 카메라 앵글·색조 같은 다른 속성은 억제되는 문제. 속성 범주의 자연어 설명("color", "art style")을 조건으로 네트워크가 그 속성을 강조하는 아핀 변환을 생성하는 텍스트 조건부 시각 임베딩 변환—텍스트 조건이라 많은 속성을 동시에 학습하고 추론 시 직관적 인터페이스로 접근
+  * 변환된 임베딩을 고정(frozen) 잠재 공간에 정렬하도록 학습해 기존 대규모 임베딩을 재인코딩 없이 검색에 활용, 집합 전체에 적용하면 멀티 클러스터링 같은 속성 분리(disentanglement)로 잠재 공간 변환. 속성 기반 검색·다중 속성 조직화 모두 SOTA, 추론 비용 거의 0. 발표 영상 15분
 * [MyColPali: The PyQt6 application using ColPali and OpenAI to show Efficient Document Retrieval with Vision Language Models](https://github.com/hyun-yang/MyColPali)
 * [peepshow — video → frames → LLM. Any LLM CLI. Any storage backend.](https://www.peepshow.dev/)
   * [peepshow: Turn a video — or an animated GIF, APNG, or WebP — into a timeline of still frames so an LLM can read it | t0mtaylor](https://github.com/t0mtaylor/peepshow)
