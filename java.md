@@ -695,6 +695,11 @@ Java
 * [OAuth for Java Developers - YouTube](https://www.youtube.com/watch?v=z2Bt971k1EE)
 * [Develop Modern and Lightweight Cloud Applications with Jakarta EE 10 by Ivar Grimstad - YouTube](https://www.youtube.com/watch?v=uZ9wKhQk-Nk)
 * [SIMD Parallel Programming with the Vector API By José Paumard - YouTube](https://www.youtube.com/watch?v=36DN9sE7ja4)
+* [High Performance Java Native AI with CUDA and the Vector API by Zoran Sevarac | Devoxx - YouTube](https://www.youtube.com/watch?v=8NURE3I4AJQ)
+  * [High-Performance Java-Native AI with CUDA and the Vector API | Devoxx Belgium 2026 CFP](https://dvbe26.cfp.dev/talk/22947)
+  * [Deep Netts - Java Deep Learning Development Platform](https://www.deepnetts.com/)
+  * Devoxx Belgium 2026, Neuroph·Deep Netts 제작자이자 AI 교수 Zoran Sevarac. Python 생태계·JNI 바인딩·복잡한 네이티브 통합에 의존하던 고성능 AI 워크로드를 FFM(Foreign Function & Memory) API와 Vector API로 완전한 Java 네이티브 스택으로—Deep Netts 최신 릴리스에서 JNI·Python 없이 FFM API로 CUDA를 직접 통합(GPU), Vector API SIMD 실행으로 CPU 가속. 아키텍처와 핵심 구현 결정, 기존 JNI·Python 기반 솔루션과의 비교
+  * 실제 엔터프라이즈 사례: 은행·결제 시스템처럼 저지연 추론과 예측 가능한 성능이 중요한 AI 사기 탐지. 49분
 * [Java Patterns and Practices for Serverless Applications By Adam Bien - YouTube](https://www.youtube.com/watch?v=Ou82_yDOcmY)
 * [Next-Generation Cloud Native Apps with Spring Boot 3 in 4 Minutes • Thomas Vitale • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=ovAcrTn6-dg)
 * [Securing the Supply Chain for Your Java Applications by Thomas Vitale - YouTube](https://www.youtube.com/watch?v=pS4cmqNN1QY)
@@ -1213,6 +1218,10 @@ Java
 * openj9 [Eclipse OpenJ9](https://www.eclipse.org/openj9/)
   * [IBM Introduces the Semeru Runtimes for OpenJ9](https://www.infoq.com/news/2021/10/ibm-introduces-semeru-openj9/)
 * [Panama: Interconnecting JVM and native code](http://openjdk.java.net/projects/panama/)
+* [Project Detroit: From Foreign Libraries to Foreign Language Runtimes by Maurizio Cimadamore | Devoxx - YouTube](https://www.youtube.com/watch?v=JWFZY0aJTjg)
+  * [OpenJDK: Detroit](https://openjdk.org/projects/detroit/)
+  * Oracle Java 플랫폼 팀(Panama 리드)이 소개하는 실험적 OpenJDK 프로젝트. Rhino→Nashorn처럼 JS를 JVM 위에 재구현하는 대신(ES 표준 추격·NPM 생태계 경쟁 비용으로 JDK 15에서 제거) V8(JavaScript)·CPython(Python) 네이티브 런타임을 JVM 프로세스에 직접 임베딩—V8은 JNI, CPython은 FFM API+jextract로 래핑하고 기존 javax.script API로 노출해 Nashorn 시절 코드를 거의 수정 없이 사용
+  * Gradio/PyTorch 이미지 분류 앱을 Java에서 구동하는 라이브 데모, Detroit vs Nashorn vs GraalJS 벤치마크, 과제(네이티브 호출 오버헤드—Java 컴퍼레이터로 JS 배열 정렬 같은 잦은 왕복은 순수 JS보다 수 배 느림, 런타임 간 객체 수명·GC 사이클, 네이티브 호출 중 가상 스레드 피닝). V8 브리지를 JNI→FFM으로 포팅해 네이티브 코드 약 7,000→2,000줄 미만, 콜백 성능 개선. JavaOne 2026(2026.3) 첫 공개, Devoxx Belgium 2026, 50분
 * [TornadoVM: 🌪️ TornadoVM: A practical and efficient heterogeneous programming framework for managed languages](https://github.com/beehive-lab/TornadoVM)
   * [TornadoVM: Java for GPUs and FPGAs - YouTube](https://www.youtube.com/watch?v=Q-_eB86hPPA)
   * [Level up Your Java Performance with TornadoVM](https://www.infoq.com/articles/java-performance-tornadovm/)
