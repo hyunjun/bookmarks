@@ -4525,6 +4525,11 @@ NLP
 * StableLM: StableLM: Stability AI Language Models https://github.com/Stability-AI/StableLM
 * [stanford\_alpaca: Code and documentation to train Stanford's Alpaca models, and generate the data](https://github.com/tatsu-lab/stanford_alpaca)
   * [TensorFlow KR | LLaMA 7B를 파인튜닝한 스탠포드의 Alpaca 7B가 나왔는데, 7B임에도 성능이 준수한가 봅니다 | Facebook](https://www.facebook.com/groups/TensorFlowKR/posts/1991567364517645)
+* [Step 5 Preview - StepFun Documentation](https://platform.stepfun.ai/docs/en/guides/models/step-5-preview)
+  * [🧭 Step 5 Preview : 600B MoE·1M 컨텍스트, Kimi K3 동급 절반 비용 | fornewchallenge](https://fornewchallenge.tistory.com/entry/%F0%9F%A7%AD-Step-5-Preview-600B-MoE%C2%B71M-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8-Kimi-K3-%EB%8F%99%EA%B8%89-%EC%A0%88%EB%B0%98-%EB%B9%84%EC%9A%A9)
+  * 상하이 StepFun이 2026-09-20 공개한 플래그십 에이전틱 워크 모델(model ID step-5-preview). 총 600B·활성 27B(약 4.5%) 희소 MoE, 1M 토큰 컨텍스트, 최대 출력 64k, 텍스트·이미지(최대 60장)·비디오 입력. 소프트웨어 엔지니어링·전문 지식 업무, 특히 금융에 강점. 스트리밍·툴 콜링·JSON Mode·프롬프트 캐싱·reasoning effort(low/medium/high) 지원
+  * 가격이 핵심—입력 $1.00/캐시 입력 $0.05/출력 $2.70(1M 토큰당, 캐시 히트 95% 할인). Artificial Analysis 지능지수 44점으로 Kimi K3(max)와 동점이면서 태스크당 비용은 약 절반(~$0.72). "파레토 프런티어 진전"이 발표 제목
+  * 단, 벤치마크 대부분이 StepFun 자체 발표(경쟁 모델 Max effort vs 자사 High effort, StepCodeBench는 자체 벤치마크). BF16 가중치 약 1.2TB라 개인 PC 로컬 실행 불가, 현재 API만 가능. 가중치는 2026-10-15 공개 예정, 라이선스 미정. 블로그 글은 Claude Code 연동 지시문까지 다룸
 * [strata: Qwen3.8-Flash-Next (125B MoE) on a 8GB+ NVIDIA GPU: one-click install for Windows / Linux | niko1221](https://github.com/niko1221/strata)
   * 게이밍 PC(NVIDIA 12~24GB + RAM 64GB)에서 125B MoE 모델을 60~95 tok/s로 구동하는 원클릭 추론 엔진. localhost에 OpenAI/Anthropic 호환 API 제공, 이미지 입력 지원. C++
 * [synthid-text](https://github.com/google-deepmind/synthid-text)
