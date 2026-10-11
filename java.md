@@ -200,6 +200,9 @@ Java
 * [Java로 10억 행 데이터 처리 1.5초 (기계어로 바로 컴파일하는 기발한 방법) - YouTube](https://www.youtube.com/watch?v=YYvUsBIAOVo)
 * [Java가 포인터를 없애고 얻은 것들 (속도와 안전, 둘 다?) - YouTube](https://www.youtube.com/watch?v=yNq0TlI4IFI)
 * [왜 C++는 포인터이고 Java는 참조일까? (설계 철학 비교) - YouTube](https://www.youtube.com/watch?v=qBl0jq0GUVs)
+* [Java - The Year of the Runtime! | Java - YouTube](https://www.youtube.com/watch?v=fXBGBovpH88)
+  * [The Year of the Runtime | Devoxx Belgium 2026 CFP](https://dvbe26.cfp.dev/talk/49251)
+  * 15분(2026-10-09). Devoxx Belgium 2026 키노트, Oracle Java 아키텍트 Ron Pressler. AI 코딩 에이전트는 대부분의 주류 언어로 똑같이 잘 코드를 쓰므로 언어의 문법적 특징은 어느 정도까지는 덜 중요해지지만, 에이전트도 Java를 브라우저에서 돌리거나 JavaScript를 빠르게 만들 수는 없음(초록에선 Python 코드를 Java만큼 빠르게 만들 수 없다는 예)—이는 런타임의 영역이라 문법이 덜 중요한 세계에서 런타임이 더 중요해지고, Java의 런타임(JVM+표준 라이브러리)은 AI가 쓰거나 AI의 도움으로 쓴 코드의 훌륭한 타깃이라는 주장. 새 JDK로 올리기만 해도 JIT 최적화·GC·관측성·표준 라이브러리 개선으로 프로그램이 더 빠르고 운영하기 쉬워지며, Valhalla의 value class, Leyden의 AOT 코드 컴파일, Lilliput의 compact object header 기본화, 힙 크기 수동 설정 없이 JVM이 CPU/RAM 트레이드오프를 자동 최적화하는 변화가 진행 중—내부는 크게 바뀌지만 프로그래밍 모델은 거의 그대로
 
 # API
 * [JAVA 자료구조의 활용 (Collection Framework)](http://www.gliderwiki.org/wiki/99)
