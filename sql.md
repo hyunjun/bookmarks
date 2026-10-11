@@ -641,6 +641,11 @@ SQL
   * [ggsql - SQL을 위한 그래픽 문법 | GeekNews](https://news.hada.io/topic?id=28742)
   * SQL 쿼리에 VISUALIZE·DRAW·PLACE 등 시각화 절을 추가해 Grammar of Graphics 기반 차트 생성. ggplot2 18년 경험을 살린 선언적 DSL, 런타임 의존성 없는 경량 바이너리
 * goose [Overview - pressly/goose](https://pressly.github.io/goose/)
+* [Gridex — AI-Native Database IDE for macOS, Windows & Linux | Claude, GPT, Gemini, Ollama, MCP](https://gridex.app/)
+  * [gridex: A native macOS / windows / Linux database IDE built with Swift and AppKit. Connect to PostgreSQL, MySQL, SQLite, and Redis from a single app with a fast, keyboard-driven interface](https://github.com/gridex/gridex)
+  * Swift·AppKit 네이티브 DB IDE(Electron·ODBC·JDBC 없음). PostgreSQL·MySQL·SQLite·Redis·MongoDB·SQL Server·ClickHouse 7종을 한 창에서—멀티탭 쿼리 에디터, 스키마 자동완성, 자동 레이아웃 ER 다이어그램(PNG/SVG 내보내기)
+  * 스키마를 이해하는 내장 AI 채팅(Claude·GPT·Gemini·로컬 Ollama, 자기 API 키)이 SQL 작성·실행·설명. 저장된 연결을 두 클릭으로 MCP 서버로 노출—13개 도구를 read-only/read/gated write 3단계 권한으로 Claude Desktop·Cursor 등에 제공, 모든 AI 툴 호출은 감사 로그(티어·SQL·소요 시간·행 수·승인 상태)에 기록
+  * Community 에디션 무료(계정 불필요), 팀용 Pro. Cassandra·DynamoDB·Snowflake 로드맵. Apache-2.0
 * [Harlequin: The SQL IDE for Your Terminal](https://harlequin.sh/)
 * [ingestr: ingestr is a CLI tool to copy data between any databases with a single command seamlessly](https://github.com/bruin-data/ingestr)
   * [ingestr - 명령 하나로 DB간 데이터를 복사해주는 CLI 도구 | GeekNews](https://news.hada.io/topic?id=13578)
