@@ -3065,6 +3065,10 @@ CVPR2016)
 * [Novel AI 찍먹해본 후기 | Univdev](https://www.univdev.page/posts/novel-ai-review/)
 * [PromptBase | DALL·E, Midjourney & GPT-3 Prompt Marketplace](https://promptbase.com/)
 * [Qwen-Image-2.1: Compact, Efficient, and Unified Image Creation | Qwen Blog](https://qwen.ai/blog?id=qwen-image-2.1)
+  * [Qwen-Image-2.1: Qwen's most powerful open-source image generation model](https://github.com/QwenLM/Qwen-Image-2.1)
+    * Diffusers(QwenImage21Pipeline)·ComfyUI·vLLM-Omni·SGLang·LightX2V Day-0 지원. 2026-10-09 Alibaba Cloud Model Studio에 Pro·Turbo API 정식 출시. Python, Qwen Research 라이선스
+  * [Qwen-Image-2.1-Turbo | Hugging Face](https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo)
+    * 2026-10-09 공개된 가속 체크포인트. 같은 7B 아키텍처로 텍스트→이미지 생성과 편집을 8 denoising step에 수행(기본 40스텝 대비). 추천 샘플링 스케줄을 체크포인트에 내장해 스케줄러 설정 없이 바로 사용, CFG=1 기본, 프리픽스 KV 캐싱으로 텍스트·참조 이미지 컨텍스트를 스텝 간 재사용. pipeline-configured sampling sigmas를 지원하는 최신 Diffusers 소스 필요
   * [외계인들을 고문하고 있는 알리바바 Qwen Image 2.1 | Dennis Kim](https://www.linkedin.com/posts/testcode_%EC%99%B8%EA%B3%84%EC%9D%B8%EB%93%A4%EC%9D%84-%EA%B3%A0%EB%AC%B8%ED%95%98%EA%B3%A0-%EC%9E%88%EB%8A%94-%EC%95%8C%EB%A6%AC%EB%B0%94%EB%B0%94-qwen-image-21-qwen-image-share-7507618046585249792-ZjGX/)
   * [Qwen Image 2.1 AnyAngle LoRA Tutorial 이미지 원하는 각도로 변경하기 - Tutorials View+ - YouTube](https://www.youtube.com/watch?v=_Kfe7QHG1ec)
     * [lilylilith/QI_2.1_AnyAngle | Hugging Face](https://huggingface.co/lilylilith/QI_2.1_AnyAngle)
