@@ -68,6 +68,11 @@ Time Series
 * [Abhishek Murthy, Evans Addo - Classifying Time Series with Foundation Models (PyData Boston) - YouTube](https://www.youtube.com/watch?v=9n3dpkzPmSc)
 * [From Research Models to SLAs: Operationalizing TSFMs with Python - YouTube](https://www.youtube.com/watch?v=QkBtqERDlpg)
   * PyCon DE & PyData 2026, Jeyashree Krishnan·Catarina Filipe. 시계열 파운데이션 모델(TSFM)을 연구 단계에서 엔터프라이즈 SLA를 만족하는 프로덕션 API·확장 가능한 Python 서비스로 옮기는 방법. 기존 예측이 요구하던 대량 데이터 수집·도메인별 모델 개발·지속적 재학습 부담을 줄이는 접근
+* [Dynamics-informed machine learning for recovering extensive missing systems dynamics | Nature Communications](https://www.nature.com/articles/s41467-026-77922-1)
+  * [Jae Kyoung Kim - 시계열 데이터의 90%가 사라져도 복원할 수 있을까? 최근 Nature... | Facebook](https://www.facebook.com/jaekyoung.kim/posts/pfbid025B6WJrpprLfN7ZFS8sLravah7Lo8kK7iTjM6FtrUUduXkT8Wmf1jaGdmgPWDgaeXl)
+  * Tao Wu·Kazuyuki Aihara·Jürgen Kurths 등. 동역학계 이론과 ML을 결합한 결측치 복원 프레임워크 FPRM(Full-Partial Reconstruction Mapping). 시계열 간 상호의존을 직접 피팅하는 대신 Takens embedding theorem에 따라 완전 관측된 단 하나의 변수로 상태공간(끌개)을 재구성하고, 결측 변수의 끌개와의 diffeomorphic 매핑을 Gaussian Process Regression으로 학습
+  * 변수 하나만 완전 관측되고 나머지 전부가 90% 결측인 고차원 시스템(120차원 Lorenz·Rössler)에서도 다수 변수를 신뢰성 있게 복원—기존 방법들이 못 하던 과제. 생태계·Lorenz 모델과 교통 점유율·EEG·환율·풍속 실데이터에서 검증
+  * 공유자(김재경)가 짚은 한계: Takens 정리에는 성립 조건이 있고 결측치의 정확한 복원을 보장하는 정리는 아님. 성능 향상이 동역학 구조 덕인지 여러 시점 관측값을 함께 쓴 덕인지 더 구분해 볼 필요
 
 # Book
 * [Deep Learning for Time Series Forecasting - Predict the Future with MLPs, CNNs and LSTMs in Python](https://machinelearningmastery.com/deep-learning-for-time-series-forecasting/)
