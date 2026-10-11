@@ -105,6 +105,7 @@ GIS
 * [Geospatial Agent on AWS: An AI agent that analyzes satellite imagery for any location on Earth using natural language | aws-samples](https://github.com/aws-samples/sample-geospatial-agent-on-aws)
   * "센트럴파크 식생 상태 보여줘" "2021년과 2022년 폴섬 호수 수위 비교" 같은 자연어 질문으로 지구 어디든 Sentinel-2 위성 영상을 분석해 인터랙티브 지도에 표시하는 AI 에이전트. 식생(NDVI)·수역(NDWI)·산불 피해(NBR) 분석, OSM 경계, 임베딩 기반 토지 변화 스캔
   * Strands Agents + Claude Sonnet 4.6을 Amazon Bedrock AgentCore Runtime에서 실행하고 Amazon Location Service를 MCP로 연결. 타일 서버(TiTiler)와 React·MapLibre GL 프런트엔드(ECS Fargate·CloudFront·Cognito)까지 CDK로 약 15분 배포. TypeScript, MIT-0
+* [geospy: Geolocation Spy (GeoSpy) is an OSINT analysis and research tool, which allows people to track and execute intelligent social engineering attacks in real time. It was created with the aim of teaching the world how large Internet companies could obtain confidential information such as the status of sessions of their websites or services and control their users through their browser, without their knowlege, but It evolves with the aim of helping government organizations, companies and researchers to track the cybercriminals.](https://github.com/MaeKing/geospy)
 * [GlobalBuildingAtlas](https://github.com/zhu-xlab/GlobalBuildingAtlas)
   * [27억5000만채…전세계 모든 건물 ‘용적’까지 파악한 입체지도 나왔다](https://v.daum.net/v/20251212093616829)
 * [OSIRIS — Open Source Intelligence Platform | Live Flight Tracking, CCTV, OSINT Tools & More](https://osirisai.live/)
