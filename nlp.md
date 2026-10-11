@@ -1122,7 +1122,10 @@ NLP
     * [구글 BARD가 ChatGPT와 근본적으로 다른 점 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/bardchatgpt20230704)
   * [bitGPT: Tools to use chatGPT for Koreans](https://github.com/bit2r/bitGPT)
   * [BMTools: Tool Learning for Big Models, Open-Source Solutions of ChatGPT-Plugins](https://github.com/OpenBMB/BMTools)
-  * [CAMEL: Communicative Agents for “Mind” Exploration of Large Scale Language Model Society](https://github.com/lightaime/camel)
+  * [CAMEL: 🐫 CAMEL: The first and the best multi-agent framework. Finding the Scaling Law of Agents](https://github.com/camel-ai/camel)
+    * [CAMEL-AI | Finding the Scaling Laws of Agents](https://www.camel-ai.org/)
+    * 2023년 "Communicative Agents for Mind Exploration of LLM Society"(NeurIPS 2023) 논문에서 시작한 오픈소스 멀티 에이전트 프레임워크(`pip install camel-ai`). 데이터 생성·세계 시뮬레이션·태스크 자동화에서 "에이전트의 스케일링 법칙"을 찾는 것이 목표—Evolvability·Scalability·Statefulness·Code-as-Prompt 4원칙
+    * 생태계: OWL(실세계 태스크 자동화 워크포스, NeurIPS 2025)·OASIS(100만 에이전트 소셜 시뮬레이션)·SETA·CRAB(크로스 환경 멀티모달 에이전트 벤치마크)·Loong(검증기 기반 장문 CoT 합성)·CAMEL for Agent RL. 100+ 연구자 커뮤니티. Python, Apache-2.0
   * [ChatGee: 카카오톡 AI 챗봇 빌더](https://github.com/woensug-choi/chatgee)
   * [ChatGPT o3의 환각 현상 유도 방법](https://velog.io/@skynet/ChatGPT-o3%EC%9D%98-%ED%99%98%EA%B0%81-%ED%98%84%EC%83%81-%EC%9C%A0%EB%8F%84-%EB%B0%A9%EB%B2%95)
   * [ChatGPT plugins](https://openai.com/blog/chatgpt-plugins)
