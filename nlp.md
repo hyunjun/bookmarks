@@ -395,6 +395,9 @@ NLP
 * [Human Feedback 받은 LLM이 사람보다 요약을 잘한다? | OpenAI 2020 | 김선호 - YouTube](https://www.youtube.com/watch?v=Sv9lFaEsGsU)
 * [파인튜닝으로 나만의 LLM 만들기 (LoRA) | 성수 김](https://www.linkedin.com/pulse/%ED%8C%8C%EC%9D%B8%ED%8A%9C%EB%8B%9D%EC%9C%BC%EB%A1%9C-%EB%82%98%EB%A7%8C%EC%9D%98-llm-%EB%A7%8C%EB%93%A4%EA%B8%B0-lora-%EC%84%B1%EC%88%98-%EA%B9%80-c8f7c)
   * LoRA를 이용해 나만의 LLM을 파인튜닝하는 방법 정리
+* [2511.14617 Seer: Online Context Learning for Fast Synchronous LLM Reinforcement Learning](https://arxiv.org/html/2511.14617)
+  * Moonshot AI·칭화대(Ruoyu Qin·Weiran He·Mingxing Zhang 등 10인, 2025-11-18). 동기식 LLM RL에서 반복 시간을 지배하는 롤아웃 단계가 워크로드 불균형 때문에 긴 꼬리 지연과 낮은 자원 활용률을 겪는 문제(Moonlight·Qwen2-VL-72B·Kimi-K2 프로덕션 워크로드에서 롤아웃이 반복 시간의 63~87%)를 "같은 프롬프트를 공유하는 요청들은 출력 길이·응답 패턴이 비슷하다"는 관찰로 해결—①divided rollout(동적 부하 분산을 위한 세분화 스케줄링) ②context-aware scheduling(그룹 내 유사성으로 긴 꼬리 요청 지연 완화) ③adaptive grouped speculative decoding(분리 아키텍처 위의 적응형 투기적 디코딩) 세 기법을 결합. GRPO류 그룹 샘플링의 유사성을 활용하면서 on-policy 알고리즘과의 일관성은 엄격히 유지
+  * Megatron(학습)+vLLM(롤아웃)+비동기 보상 계산+Moonshot Checkpoint Engine(가중치 이동)으로 이뤄진 기존 구조 위에 얹는 설계. 프로덕션급 RL 워크로드에서 기존 SOTA 동기식 RL 시스템 대비 end-to-end 롤아웃 처리량 최대 2.04배, 긴 꼬리 지연 72~94% 감소—AReaL 같은 비동기 RL과 달리 동기식을 유지하면서 속도를 얻는 접근
 * [ART: Agent Reinforcement Trainer - Open-source RL for LLMs](https://github.com/OpenPipe/ART)
   * [ART · Agent Reinforcement Trainer](https://art.openpipe.ai/)
   * [How to fine-tune LLMs in 2026 (100% open-source, reward-free RFT) | Akshay Pachaar](https://www.linkedin.com/posts/akshay-pachaar_how-to-fine-tune-llms-in-2026-100-open-source-activity-7434989161377558528-Wktz)
