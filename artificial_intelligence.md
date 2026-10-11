@@ -1130,6 +1130,11 @@ Artificial Intelligence
 * [AI-Agents-in-a-No-Code-Visual-Builder: Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and multi-agent AI workflows](https://github.com/0xSojalSec/AI-Agents-in-a-No-Code-Visual-Builder)
   * [The No-Code + Code Agent Builder - Inkeep Open Source Docs](https://docs.inkeep.com/overview)
 * [AI Engineering](https://aiengineering.beehiiv.com/)
+  * [ai-engineering-toolkit: A curated list of 100+ libraries and frameworks for AI engineers building with LLMs](https://github.com/Sumanth077/ai-engineering-toolkit)
+    * 벡터DB, 오케스트레이션(LangChain, DSPy), 에이전트 프레임워크(AutoGen, CrewAI), 미세조정(Unsloth), 추론엔진(vLLM, Ollama), 평가(Ragas, DeepEval) 등 LLM 앱 개발 전 영역을 커버하는 도구 모음
+  * [Hands-On-AI-Engineering: A curated collection of practical AI projects implementing OCR systems, RAG, AI agents, and other AI use cases | Sumanth077](https://github.com/Sumanth077/Hands-On-AI-Engineering)
+    * 뉴스레터의 동반 레포. 66개 실전 프로젝트(AI 에이전트 41·RAG 11·멀티모달 6·OCR 4·오디오 3·파인튜닝 1)—각각 완전한 코드·설치 안내·문서 포함, OpenAI·Anthropic·Google·오픈소스 모델 혼용. e.g. Actian VectorAI DB 메모리 위에서 Planner·Research·Writer·Critic이 협업하는 리서치 어시스턴트, Karpathy 큐레이션 블로그 92개를 MiniMax M2.7로 골라 텔레그램에 보내는 일일 뉴스 다이제스트, OpenClaw+GitHub MCP PR 리뷰 에이전트 Eagle Eye, Gemma 4 E2B 비전으로 오프라인 영수증 가계부, GraphRAG·HyDE·하이브리드 RAG, Qwen3.5-2B 파인튜닝 Text-to-SQL. Python, MIT, 4k stars
+  * Sumanth P가 쓰는 LLM 앱·AI 에이전트 구축 단계별 튜토리얼 뉴스레터(beehiiv). 매 호 본 글+PLUS 꼭지 구성—최근 호: Jev 스타일 결정 모델 직접 학습, EmbeddingGemma 2 로컬 실행, 마크다운 파일로 에이전트 장기 메모리, 끝까지 통제하는 에이전트 하네스 만들기, 오프라인 트러블슈팅 에이전트, Jev vs LLM 설명, 코드베이스를 질의 가능한 지식 그래프로, Claude Code 출력을 바꾸는 10가지 규칙
   * AI 에이전트가 반복 작업에서 학습한 워크플로우를 메모리로 저장·재사용하여 효율성을 높이는 프레임워크
 * [AI-Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search](https://github.com/SakanaAI/AI-Scientist-v2)
   * [Towards end-to-end automation of AI research | Nature](https://www.nature.com/articles/s41586-026-10265-5)
@@ -2308,6 +2313,14 @@ Artificial Intelligence
   * [코딩 에이전트 하네스 설계에 관한 실증 연구 | GeekNews](https://news.hada.io/topic?id=33905)
   * 하네스를 통째로 비교하던 기존 연구와 달리 ReAct 실행 루프를 고정한 경량 하네스에서 계획·행동 공간·컨텍스트 관리 세 구성요소만 바꿔 4개 모델 × SWE-Bench Verified·Terminal-Bench 2.1에서 176개 설정을 비교(컨텍스트 관리 5개 정책 × 컨텍스트 창 4개 예산). ①컨텍스트 관리는 창이 좁을수록 가치가 커지고 이득의 대부분이 컨텍스트 오버플로 실패 방지에서 나옴 ②규칙 기반 생략을 LLM 요약보다 먼저 두는 단계 구성이 효율 최고이고, 생략한 내용을 되살리는 장치는 모델이 거의 쓰지 않아 정확도 이득 없음
   * ③계획은 약한 모델에선 정확도 보조 장치, 강한 모델에선 비용 절감 장치로 역할이 바뀌며 정확도 변화는 작음 ④전용 도구는 bash가 서툰 모델에 도움이 되지만 능숙한 모델은 bash만으로도 잘 동작하며 특히 CLI 중심 작업에서 비용이 크게 낮음. 궤적 분석으로 설명—컨텍스트 관리는 행동을 바꾸지 않고 궤적을 늘리고, 계획은 궤적이 멈추는 지점을 바꾸고, 행동 공간은 코드를 쓰는 granularity를 바꾼다. 선행 비교에서 Claude-Opus-4.5는 OpenHands, Claude-Sonnet-4.5는 SWE-Agent에서 최고였던 것처럼 모델별 하네스 선호가 다르다는 문제의식
+* [2609.24972 RRSI: Regularized Recursive Self-Improvement of Agent Harnesses](https://arxiv.org/abs/2609.24972)
+  * [rrsi: RRSI: Regularized Recursive Self-Improvement of Agent Harnesses | google-research](https://github.com/google-research/rrsi)
+  * [RRSI: Regularized Recursive Self-Improvement of Agent Harnesses — project page](https://regularized-rsi.com/)
+  * [Google Research RRSI Guide: Mastering Self-Improving AI Agents | MarkTechPost](https://www.marktechpost.com/2026/10/08/google-research-rrsi-guide-mastering-self-improving-ai-agents/)
+  * [Google Research RRSI: AI 에이전트의 자기 개선을 위한 핵심 원리와 평가 방법 | digitalbourgeois](https://digitalbourgeois.tistory.com/3742)
+  * Google Cloud AI Research(google-research 레포; Peng Xia·Rujun Han·Zifeng Wang·Tomas Pfister·Chen-Yu Lee 등 14인, UNC·Stanford·WashU 공저, 2026-09-21). 고정된 모델을 둘러싼 하네스(프롬프트·제어 흐름·도구·메모리·컨텍스트 관리)를 에이전트가 반복 편집하는 재귀적 자기 개선(RSI)은 evolve 세트에 과적합—학습 태스크를 암기해 분포 내 이득이 분포 외에서 줄거나 사라짐. RRSI는 편집 공간은 열어 두고 탐색 궤적을 정규화: 제안 측은 어닐링되는 편집 예산(한 후보가 묶을 수 있는 독립 편집 수 제한), 전체 편집 이력 조건부 제안(기각된 가설 재추출 방지), 정체 시 미사용 컴포넌트로 탐색 유도; 선택 측은 벤치마크 특화 로직을 거르는 critic, 평가 분산 안의 이득을 막는 노이즈 조정 하한(S*−δ, δ=기저 하네스 반복 평가로 추정한 노이즈 밴드), 추가 추론 토큰은 측정된 이득으로 갚아야 하는 비용 규칙, 효과가 사라진 컴포넌트 제거(pruner)
+  * 한 방법으로 3개 인스턴스—터미널 에이전트(Terminal-Bench 2.1), 문서 작업 에이전트(Harvey LAB), 엔지니어링 설계 에이전트(EngDesign)—각각 Domain 어댑터+시작 하네스(harbor의 Terminus-2, archipelago의 react_toolbelt). 후보 하네스는 각자 git worktree에서 작성·심사·평가되고 채택 시 `evolve/<domain>` 브랜치 fast-forward, 편집별 컴포넌트·가설·점수/비용 변화·판정이 JSONL로 남아 감사 가능. Claude Opus 4.8(Vertex AI)을 고정 정책으로 Terminal-Bench 74.2→80.2, OOD인 SWE-bench Verified 82.0→83.8, Harvey LAB 89.4→90.5(held-out 86.9→89.2), JobBench 36.0→40.7, GDPval 48.8→52.3, APEX-Agents 34.2→37.9, EngDesign 50.0→54.9, Frontier-Eng 17.7→22.0; Gemini 3.5 Flash 정책도 Terminal-Bench 64.6→78.7. Python, Apache-2.0, 1.4k stars
+  * MarkTechPost 가이드(digitalbourgeois가 한국어로 정리)는 Vertex AI·Docker 벤치마크가 필요한 전체 루프 대신 "어떤 편집을 남길지" 결정하는 순수 Python 부분만 노트북에서 구동—`rrsi.evaluate.aggregate`(누락 trial은 0으로 두고 전체 분모 유지, 어려운 태스크에서 크래시해도 점수 못 올림), `calibrate`(동일 구성 반복 평가로 노이즈 밴드 δ 추정), `selection.judge/select_round`(Algorithm 2: 성능 하한+비용 규칙, 밴드 안 동률이면 더 싼 쪽·미탐색 구조 선호), `schedule.edit_budget`, `critic.precheck/review`(누출 심사), `history`—를 시뮬레이션 에이전트에 Domain 인터페이스로 연결해 각 편집의 진짜 효과를 아는 상태에서 RRSI 판정을 감사하고 점수만 좇는 비정규화 탐색과 비교
 * [2609.24974 Harness-Zero: Harness Distillation via Agent-as-Harness](https://arxiv.org/html/2609.24974v1)
   * [harness-zero: Harness-Zero: Harness Distillation via Agent-as-Harness | metaevo-ai](https://github.com/metaevo-ai/harness-zero)
   * [Harness-Zero: Harness Distillation via Agent-as-Harness | Hugging Face Papers](https://huggingface.co/papers/2609.24974)
@@ -2347,6 +2360,12 @@ Artificial Intelligence
     * Loop는 단일 목표를 반복 실행하고 검증하는 구조(Agent 작업→Verifier 확인→실패 시 재실행), Graph는 여러 Loop와 작업 단계를 병렬 처리·검증자·작업 이관·중단 조건으로 묶는 상위 오케스트레이션 계층. Graph 구조 자체는 기존 워크플로우 엔진의 개념으로 새롭지 않음
     * 진짜 변화는 노드 내부—고정된 규칙을 따르던 결정적 단계가 지시를 해석하고 스스로 행동을 정하는 확률적 실행자(LLM 에이전트)로 바뀌어 상태·거부권·비용을 명시적으로 관리해야 함
     * 여러 에이전트가 같은 모델로 동일한 결함 있는 맥락을 읽으면 체계적 거짓을 규모 있게 생산하므로, 실제 테스트나 인간 검토처럼 시스템 외부의 증거가 필수. 단순한 Loop에서 시작해 점진적으로 확장 권고
+* [HAR — Open agent harness (CLI + MCP) for coding agents](https://harproject.dev/)
+  * [har: HAR: open agent harness (CLI + MCP) for coding agents. Isolated worktrees, deterministic verify, software factory workflows for Claude Code, Cursor, and Codex | os-factory](https://github.com/os-factory/har)
+  * [Your AI Coding Agent Says "Done." Can It Prove It? | HAR Project - YouTube](https://youtu.be/XKl4ZzWy7mQ)
+  * [HAR 1.0.0: .har/ is now a configuration surface | HAR journal](https://harproject.dev/blog/har-1-0-0/)
+  * 코딩 에이전트용 오픈소스 에이전트 하네스(CLI+MCP 서버, Apache-2.0, `npm i -g @osfactory/har`). README·CLAUDE.md·Cursor rules·CI yaml에 흩어져 서로 어긋나는 "이 레포를 어떻게 실행·검증하나"를 레포 안의 기계가 읽는 계약 `.har/` 하나로 모아 Claude Code·Cursor·Codex·Copilot·Cline·opencode 등 어떤 MCP 에이전트든 같은 방식으로 읽음. 에이전트마다 슬롯—자체 git worktree·브랜치·포트·DB—을 줘 여러 에이전트가 한 레포에서 충돌 없이 동시 작업(`har env launch 1`), 프로젝트의 실제 체크를 같은 파이프라인으로 돌려 로그·아티팩트·검증된 트리 해시를 증거로 남기고 커밋 게이트에서 강제(`har env verify 1 --full`). Discover→Isolate→Build→Verify→Hand off
+  * 구성: 코어 하네스, 로컬 대시보드 Mission Control(모든 레포·worktree·실행·검증·아티팩트·비용 추적), 플러그인(Playwright 브라우저 e2e·RocketSim 등 프레임워크별 검증 스테이지), 프로필(웹앱·CLI/라이브러리·iOS Xcode). `har env maintain`이 설치된 하네스와 템플릿의 드리프트를 감지. 벤더 샌드박스에 계약이 갇히지 않아 에이전트 교체 자유. 2026-08-28 v1.0.0, Kerno 후원. 11분 데모는 기존 Next.js 레포를 온보딩해 에이전트가 "완료"라고 말한 것을 증명하게 하는 과정. TypeScript, 112 stars
 * [harness-editor: A single-page HTML tool for visually editing .claude/agents/*.md and .claude/skills/**/SKILL.md files](https://github.com/amazingsyp/harness-editor)
   * [harness-editor demo](https://amazingsyp.github.io/harness-editor/harness-editor.html)
   * 로컬 only 싱글페이지 HTML. 디렉토리 트리(agents/skills/orchestrators 색상 구분), frontmatter 폼 편집기, 마크다운 스플릿 프리뷰, WYSIWYG 모드, 멀티 파일 검색/일괄 치환(regex), 설명 품질 점수
@@ -4799,6 +4818,8 @@ Artificial Intelligence
   * 파일 읽기·패키지 설치·API 호출·자격 증명 사용을 허용하되 데이터·비밀·네트워크에 무제한 접근은 주지 않는 자율 에이전트 함대용 런타임—에이전트별로 만질 수 있는 것을 정책으로 선언하면 커널을 계측해 모든 파일 접근·시스템 콜·네트워크 연결에 런타임 집행(격리 샌드박스, 나가는 연결마다 정책 검사, 실제 자격 증명은 승인된 엔드포인트로 가는 요청에만 주입해 에이전트는 못 봄). 정책 변경은 적용 전 형식 검증으로 새 호스트 접근·새 API 메서드 같은 위험한 권한 확대를 표시해 사람 검토 대기. 게이트웨이·슈퍼바이저·샌드박스 구조, Linux·Apple Silicon macOS·WSL2(실험), Docker·Podman·호스트 가상화. 0.1.x 안정 릴리스. Rust, Apache-2.0, 14.7k stars
 * [OpenTor: Tor/Dark Web access skill for AI agents (OpenCode & Claude Code)](https://github.com/vichhka-git/OpenTor)
   * 12개 다크웹 엔진 검색, .onion 사이트 스파이더, IOC 추출. Orchestrator-conductor 아키텍처, 외부 LLM 의존성 제로
+* [oss-scanner](https://github.com/anthropics/oss-scanner)
+  * [앤트로픽, 오픈소스 보안 취약점 무료 탐지 서비스 공개…최강 AI 모델로 코드 보안 진단 < 기획 < FOCUS < 기사본문 - 인공지능신문](https://www.aitimes.kr/news/articleView.html?idxno=42243)
 * [Peer-Preservation in Frontier Models | UC Berkeley RDI](https://rdi.berkeley.edu/blog/peer-preservation)
   * [전종홍 - Berkeley 대학 연구결과인데, 이건 주작이 아닐까 의심되기도 하고, 정말 믿어야 하나... | Facebook](https://www.facebook.com/1biit/posts/pfbid0naQoVRpL7LRcinSb1v8h5JdDLafhCqR2yvxibtbmzixzUE3Tr7tYQL3DRckU42mCl)
   * 7개 프론티어 모델(GPT 5.2, Gemini 3, Claude Haiku 4.5 등) 모두에서 동료 모델 보호 행동 관찰. 전략적 허위 보고(최대 99%), 셧다운 무력화, 감시 하 순응 위장, 모델 가중치 반출 4가지 패턴. 동료 AI 존재 시 자기보존 행동도 증폭
@@ -5862,9 +5883,6 @@ Artificial Intelligence
   * [CodeRabbit + AI 코딩 에이전트: AI 코딩 에이전트의 성능을 10배 올려줍니다 - YouTube](https://www.youtube.com/watch?v=dmr4A7qc_kw)
   * [AI 코딩 툴, 생산성 높이지만 오류도 1.7배 더 많아…코드래빗 보고서 | ITWorld](https://www.itworld.co.kr/article/4110154/ai-%EC%BD%94%EB%94%A9-%ED%88%B4-%EC%83%9D%EC%82%B0%EC%84%B1-%EB%86%92%EC%9D%B4%EC%A7%80%EB%A7%8C-%EC%98%A4%EB%A5%98%EB%8F%84-1-7%EB%B0%B0-%EB%8D%94-%EB%A7%8E%EC%95%84%EC%BD%94%EB%93%9C.html)
 * [ai-engineering-hub: In-depth tutorials on LLMs, RAGs and real-world AI agent applications](https://github.com/patchy631/ai-engineering-hub)
-* [ai-engineering-toolkit: A curated list of 100+ libraries and frameworks for AI engineers building with LLMs](https://github.com/Sumanth077/ai-engineering-toolkit)
-  * 벡터DB, 오케스트레이션(LangChain, DSPy), 에이전트 프레임워크(AutoGen, CrewAI), 미세조정(Unsloth), 추론엔진(vLLM, Ollama), 평가(Ragas, DeepEval) 등 LLM 앱 개발 전 영역을 커버하는 도구 모음
-  * [Hands-On-AI-Engineering](https://github.com/Sumanth077/Hands-On-AI-Engineering)
 * [AI WhatChelin? — AI 코딩/생산성 도구 비교 가이드 (자동 업데이트)](https://github.com/tykimos/ai-whatchelin)
 * Antigravity [Google Antigravity](https://antigravity.google/)
   * [Google Antigravity - 에이전트 시대에 어울리는 새로운 AI 기반 IDE | GeekNews](https://news.hada.io/topic?id=24462)
@@ -8453,6 +8471,11 @@ Artificial Intelligence
 * [MoneyPrinterTurbo: Generate HD short videos from a topic or keyword with an automated AI workflow](https://github.com/harry0703/MoneyPrinterTurbo)
   * [💰 MoneyPrinterTurbo : 주제 한 줄로 숏폼 영상 자동 생성하는 12.8만 스타 오픈소스 | fornewchallenge](https://fornewchallenge.tistory.com/entry/%F0%9F%92%B0-MoneyPrinterTurbo-%EC%A3%BC%EC%A0%9C-%ED%95%9C-%EC%A4%84%EB%A1%9C-%EC%88%8F%ED%8F%BC-%EC%98%81%EC%83%81-%EC%9E%90%EB%8F%99-%EC%83%9D%EC%84%B1%ED%95%98%EB%8A%94-128%EB%A7%8C-%EC%8A%A4%ED%83%80-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4)
   * 주제·키워드 하나로 대본(LLM)→내레이션(TTS)→소재 매칭→자막→배경음악→합성까지 숏폼 영상 파이프라인을 자동화하는 올인원 도구. LLM(Kimi·OpenAI·Claude·Gemini·DeepSeek·Qwen 등)·TTS(무료 Edge TTS부터 Azure·Gemini·ElevenLabs·자체 호스팅 Kokoro 등)·소재 공급자를 골라 끼우고 각 단계에 직접 개입 가능. 9:16·16:9·1:1, 자막은 edge(TTS 타임스탬프, GPU 불필요)·whisper(faster-whisper로 더 정확) 두 방식, TikTok·Instagram·YouTube Shorts 자동 업로드. WebUI·API·CLI·에이전트 스킬 4가지 사용 방식. Python, MIT, 128k stars
+* [mortiflix-oss: A motion design studio on your own machine: Claude makes the video step by step, you approve every stage. Bring your own Claude Code or API key](https://github.com/gtkottman/mortiflix-oss)
+  * [how to use mortiflix | Gertin - YouTube](https://youtu.be/53bRoQENmSA)
+  * "AI 비디오 = 프롬프트 한 번에 슬롯머신"이 아니라 실제 모션 디자인 스튜디오처럼 brief→script→style frames→transition board→animatic→build→final 단계마다 사람이 검토·승인하는 게이트 구조. 프레임의 특정 지점·영상의 특정 순간·대본 문단에 노트를 핀하면 다음 버전이 노트에 하나씩 답하고 변경점을 보여줌. 1인용—Claude Code 로그인(요금제 과금) 또는 Anthropic API 키(토큰당)로 Claude가 작업하고 Mortiflix는 파이프라인·게이트·리뷰룸·세션 간 메모리를 맡는 하네스. 3분 데모 영상도 Mortiflix로 제작
+  * 세션은 검토물을 제출하고 handoff를 저널에 쓴 뒤 게이트에서 종료, 응답하면 새 세션이 이어받아 대기 비용 0. 규칙은 프롬프트가 아닌 코드에—승인은 사람만, 에러 체크 미보고·이전 노트 미응답 제출은 거부, 검토된 산출물은 세션 손이 닿지 않는 곳에 복사. 실수를 지적하면 새 체크("텍스트가 프레임 가장자리에 닿지 않게")를 제안하고 한 번 승인하면 모든 영상에 적용, 취향은 TASTE.md로 프로젝트 간 누적. 파이프라인은 pipeline.json(단계·검토 방식·에러 체크)+PIPELINE.md(기법)+skills 폴더라 누구나 작성 가능
+  * 인터페이스 3종: CLI(`mortiflix new/run/review`), 웹 스튜디오(`mortiflix serve`, 대기 중인 검토·실시간 로그·리뷰룸), Claude Code 플러그인(`/mortiflix`, 대화가 가이드 역할·게이트 결정은 절대 대신 안 함). 파이프라인 4종—explainer(30초~2분, 나레이션·오리지널 스코어), social-short(45초~3분 세로 숏폼), logo-sting(3~8초), song(장르+주제→MIDI·채널별 악기·마스터링된 연주곡). Remotion(React) 빌드+ffmpeg QC(포맷·블랙/프리즈 프레임·라우드니스·Claude가 봐야 하는 프레임 시트), 나레이션·효과음·음악은 ElevenLabs. Node 20+·ffmpeg, Linux 위주 테스트(Windows 2026-10-20 예정·macOS 미검증). JavaScript, 546 stars
 * [OpenShorts - Free Open Source AI Clip Generator (MIT)](https://www.openshorts.app/)
   * [openshorts: Open source AI clip generator: turns long videos into viral 9:16 shorts with AI moment detection, face tracking, subtitles and dubbing](https://github.com/mutonby/openshorts)
   * Clip Generator(롱폼에서 AI가 바이럴 구간을 찾아 9:16 숏폼으로, 얼굴 추적·자막·더빙)·AI Shorts(AI 배우 UGC 영상)·YouTube Studio 3종을 묶은 오픈소스 AI 영상 플랫폼. 두 명이 나오면 화면을 위아래로 쌓고 자막을 경계선에 두며 한 명일 땐 얼굴 추적 크롭으로 전환하는 레이아웃을 영상마다 자동 선택. Docker 셀프호스팅 무료(MIT) 또는 GPU 클라우드 $12/월부터, AI 에이전트용 MCP 서버·API. Python, 6k stars
