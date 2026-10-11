@@ -1641,6 +1641,10 @@ App
 * [아이폰 사진 지금 당장 바꾸세요 - 아이폰 카메라 필수 설정 10 가지 - YouTube](https://www.youtube.com/watch?v=jnQSE_va0M8)
   * Mac and Tips. 파노라마, 장노출 이미지, 고화질 촬영, 카메라 설정 저장, 격자, 플래시, 고속 연사, 수동 노출, 렌즈 활용, 접사 모드까지 아이폰 카메라 설정 10가지
 * [a-Shell - A text-based user interface for a screen-based platform](https://holzschu.github.io/a-Shell_iOS/)
+* [NeoFreeBird](https://neofreebird.com/)
+  * [app: A modified Twitter app, with branding reverts, BHTwitter and other QoL modifications](https://github.com/NeoFreeBird/app)
+  * nyathea의 FreeBird 포크. iOS Twitter/X 앱 IPA를 개조해 X 리브랜딩 이전의 트위터 브랜딩(파랑새)·Dim 테마 복원, BHTwitter 통합으로 광고 차단과 Undo Tweet·앱 아이콘·테마 등 Blue 기능 무료 사용, 전 언어 로컬라이제이션 포함. Twitter/X 브랜딩 두 가지 빌드 제공
+  * AltStore·SideStore·Feather 소스 또는 GitHub Releases로 사이드로딩, 자기 IPA로 직접 빌드하는 가이드도 제공. Twitter/X와 무관한 비공식 프로젝트. Objective-C, GPL-3.0
 
 # Linux
 * [리눅스에서 쓸 수 있는 베스트 그래픽 프로그램 정리](https://www.clien.net/service/board/useful/14961441)
