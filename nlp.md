@@ -4155,6 +4155,12 @@ NLP
   * Ed Donner의 8주 LLM 엔지니어링 마스터링 강의 동반 레포. week1~week8 폴더로 점진적 자율 Agentic AI 솔루션 구축. Jupyter Notebook 90.2%·Python 8.2%, MIT, 6.3k stars
 * [llm-engineer-toolkit: A curated list of 120+ LLM libraries category wise.](https://github.com/KalyanKS-NLP/llm-engineer-toolkit)
 * [LLM-Finetuning: LLM Finetuning with peft](https://github.com/ashishpatel26/LLM-Finetuning)
+* [LLM/Frontier Model's Benchmark & SOTA Dashboard | hollobit](https://hollobit.github.io/SOTA/)
+  * [⚡ System One — 결정 모델(Decision Models) 탭](https://hollobit.github.io/SOTA/#system-one)
+    * 글 대신 형식이 정해진 결정(예/아니오 확률·선택·점수)을 수십 ms 안에 돌려주는 모델 모음—TypeSafe Jev와 공개 복제 모델, 클라우드 Decisions API, 독립 리더보드(Jev Decision Index)
+  * [🛡️ Guardrail — 가드레일 모델·벤치마크·평가 결과 탭](https://hollobit.github.io/SOTA/#guardrail)
+    * 입력·출력을 걸러내는 가드레일(안전 분류기·모더레이션 API·프롬프트 인젝션 탐지기)의 정확도·과잉 거절·지연을 독립 평가(Artificial Analysis·Red Hat·논문)와 공급사 자체 비교로 나눠 제시
+  * 추적 중인 모든 벤치마크의 SOTA 보유 모델을 모은 정적 대시보드(All-About-the-GAN의 hollobit). 리더보드·트렌드·가격 대비 성능·프론티어 버전업 타임라인·시스템 카드 핵심 벤치마크 비교·Cyber Index·Sovereign AI·Physical AI·Medical AI·AI4S·에이전트·이미지/비디오 생성 아레나·상시 작동 Bots·최대 10개 모델 비교 Explorer 탭, 모델·벤치마크·벤더·카테고리 지식 그래프 위의 GraphRAG 검색(BM25+1-hop 확장), 변경 로그
 * [llm-guard: The Security Toolkit for LLM Interactions](https://github.com/laiyer-ai/llm-guard)
 * [LLMLingua: To speed up LLMs' inference and enhance LLM's perceive of key information, compress the prompt and KV-Cache, which achieves up to 20x compression with minimal performance loss](https://github.com/microsoft/LLMLingua)
 * [LLM-narratives](https://github.com/jwkangmarco/LLM-narratives)
