@@ -6414,6 +6414,10 @@ Programming
 * [정진호 - 팁 바이브코딩으로 이메일과 SMS 보내기 | Facebook](https://www.facebook.com/jinho.jung/posts/pfbid02yTTmrY1HN8rpTjQoQN9gPmE7oMS8mMWx12WsPvkxBtyinau9r9fBNQWN34CpAPpEl)
   * [SMTP-SMS알림.pdf - Google Drive](https://drive.google.com/file/d/1Wvs6NCsQQFMmtHsYtZ_loTIpD3e5I3vP/view)
   * 클라우드 서버에서 SMTP 25번 차단 우회—Gmail SMTP(하루 500통 무료)+AWS 연동. SMS는 서버→게이트웨이→통신사→고객 경로, SOLAPI 추천(300원 적립금, 쉬운 가이드). 31p PDF 자료
+* [Docker Mailserver: A fullstack but simple mail-server (SMTP, IMAP, LDAP, Anti-spam, Anti-virus, etc.) using Docker](https://docker-mailserver.github.io/docker-mailserver/)
+  * [docker-mailserver: Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container](https://github.com/docker-mailserver/docker-mailserver)
+  * 컨테이너 하나로 돌리는 프로덕션급 풀스택 메일 서버(DMS)—Postfix(SMTP·LDAP 인증·확장 구분자), Dovecot(SASL·IMAP·POP3·LDAP·Sieve·쿼터), Rspamd·Amavis·SpamAssassin(커스텀 규칙)·ClamAV(자동 업데이트), OpenDKIM·OpenDMARC, Fail2ban, Fetchmail·Getmail6, Postscreen·Postgrey, Let's Encrypt/수동/자체 서명 인증서, SASLauthd LDAP, OAuth2(XOAUTH2·OAUTHBEARER). SQL DB 없이 설정 파일만 쓰는 "Keep it simple and versioned" 철학으로 배포·업그레이드가 단순하고 `setup.sh`로 설정·관리
+  * 2015년 @tomav가 시작, 2021년 1월부터 자원봉사자 유지보수. 문서는 이미지 버전별로 제공(기본 `:latest`=최신 안정판)되니 쓰는 이미지 태그와 맞춰 볼 것—FAQ·Usage·Docker Compose 예제·ENV 전체 목록·컨테이너 시작 시 실행되는 커스텀 스크립트 `user-patches.sh`·디버깅 가이드. 이슈 트래커는 개인 지원용이 아니라고 명시. Shell, MIT, 19k stars
 * [emailengine: Headless email client](https://github.com/postalsys/emailengine)
   * [EmailEngine - IMAP/SMTP를 REST API로 접근하는 오픈소스 | GeekNews](https://news.hada.io/topic?id=4855)
 * [FakeSMTP – FakeSMTP - Dummy SMTP server for developers](https://nilhcem.com/FakeSMTP/)
