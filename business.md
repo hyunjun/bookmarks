@@ -3432,6 +3432,9 @@ Business
 * [Why AI Is Raising the Bar for Marketing Leadership | Shachar Scott, Inc.](https://www.inc.com/shachar-scott/why-ai-is-raising-the-bar-for-marketing-leadership/91389420)
   * AI가 브리프 작성·리걸 사전 검토·QA 등 캠페인 실행 체인을 압축(4주 → 4일)하면서 CMO의 일은 제작 관리에서 시스템 설계·기능 정렬·의사결정 품질로 이동
   * 예측 가능하고 규칙 기반인 작업(캠페인 트래피킹, 성과 리포팅, 템플릿 초안)은 자동화하고, 맥락 판단·문화적 직관·이해관계자 조율이 필요한 일(신규 시장 브랜드 포지셔닝)은 사람이 유지하라는 필터 제시
+* [LaunchOnIt - Launch Your Product, Get Found on Google & AI](https://launchon.it/)
+  * minimalsource가 만든 주간 프로덕트 런치 플랫폼(Product Hunt·BetaList·Uneed·Peerlist 대안). 24시간이 아닌 7일간 프런트 페이지 노출, 커뮤니티 업보트, 구조화 데이터를 갖춘 영구 제품 페이지로 Google 인덱싱과 ChatGPT·Perplexity·Claude 인용(AEO) 대비. 월요일 00:00 UTC 동기 런치, 주당 약 20개 스타트업
+  * 무료 런치(AI 자동 입력), 유료 Growth 플랜은 1,500+단어 리뷰와 4+ dofollow 링크. 카테고리·대안·기술 스택·국가별 디렉터리, 메이커 디렉터리, 임베드 배지·DR 체커, llms.txt·MCP 서버 제공
 * [OpenSEO - Open Source SEO Platform](https://openseo.so/)
   * [open-seo: Open source alternative to Semrush and Ahrefs](https://github.com/every-app/open-seo)
   * 비싸고 무거운 Semrush·Ahrefs 대신 쓰는 종량제 오픈소스 SEO 도구—키워드 리서치·순위 추적·경쟁사 인사이트·백링크·사이트 감사·AI 가시성(AEO) 워크플로에 집중, 자기 DataForSEO API 키로 쓴 만큼만 지불. MCP 서버와 Agent Skills로 Claude Code·OpenClaw·Hermes 같은 에이전트가 SEO 데이터를 직접 사용. Docker 셀프호스팅 또는 호스팅 $10/월. TypeScript, MIT, 22.3k stars
@@ -4215,6 +4218,9 @@ Business
   * Claude Code용 AI 영업팀. 14개 스킬 + 5개 병렬 에이전트(회사 적합도/의사결정자/BANT/전략/경쟁) 가중치 합산해 0~100점 산출. 회사 리서치, 리드 검증, 콜드 아웃리치 시퀀스, 미팅 브리프, 제안서, PDF 리포트 자동화
 * [AI Workshop](https://www.skool.com/aiworkshop/)
   * Zubair Trabzada가 운영하는 AI 에이전시 창업 부트캠프 유료 커뮤니티(월 $59). 90일 안에 첫 $3K 클라이언트 확보 목표. 5주 런칭 프로그램, Claude Code 마스터클래스, 비즈니스 템플릿 제공
+* [awesome-ai-lead-generation: A curated list of AI tools for finding customers, social listening, and automated outreach. The modern growth stack](https://github.com/toofast1/awesome-ai-lead-generation)
+  * 정적 DB에서 의도(intent) 기반 AI 고객 획득으로 옮겨가는 "모던 그로스 스택" 큐레이션. 5개 분류—소셜 리스닝·의도 분석(Leado·Awario·F5Bot·GummySearch·Syften), 데이터 스크래핑·인리치먼트(Apify·Apollo·Bright Data·Clay·PhantomBuster), 콜드 아웃리치·이메일 AI(Instantly·Lavender·Lemlist·Smartlead), 보이스 에이전트·콜링(Bland AI·Synthflow·Vapi), AI 카피라이팅·개인화(Copy.ai·Jasper·Taplio·Warmer.ai)
+  * LaunchOnIt(launchon.it) 메이커가 운영하며 Reddit 리드 생성 도구 Leado를 Editor's choice로 내세움. MIT
 
 # Startup
 * [원대로 - 20대 창업 신화를 깨는 32년 추적 연구 | Facebook](https://www.facebook.com/drwonsg/posts/pfbid0YSqhkx9beXbaY3T28JZ75Fh1n1wWSNPaq5RaETzubKbc6RSP1VCwMmv1apNxeRgil)
