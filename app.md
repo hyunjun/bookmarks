@@ -388,6 +388,8 @@ App
 * [flare-learning-hub: Free educational content on reverse engineering and malware analysis from the FLARE team](https://github.com/mandiant/flare-learning-hub)
   * [FLARE Learning Hub | ThreatVector](https://www.facebook.com/threatvector/posts/pfbid03AxputqPdYQymZVXwFMKb3S8rqswzJZvTGHXuL1bhNJ6uGj2FJqXqVtByCd9E4zGl)
   * Mandiant FLARE 팀의 무료 리버스 엔지니어링·악성코드 분석 교육 자료. 실습 랩·레퍼런스·연습문제. Apache-2.0, 1.4k stars
+* [gosearch: 🔍 Search anyone's digital footprint across 300+ websites](https://github.com/ibnaleem/gosearch)
+  * Sherlock에서 영감받은 Go 기반 사용자명 OSINT 도구—300개+ 사이트를 동시 검색해 프로필을 찾고, 불확실한 결과는 노란색으로 표시해 거짓 양성을 걸러냄(`--no-false-positives`로 확실한 것만 출력). HudsonRock 사이버범죄 인텔리전스 API(유출 자격증명 90만 건)·ProxyNova COMB(32억 건), API 키가 있으면 BreachDirectory(180억 건)까지 조회하고 찾은 비밀번호 해시는 Weakpass로 크래킹 시도, 사용자명과 연관된 도메인도 주요 TLD에서 탐색. v2.0(2026-05)에서 GitHub OSINT 추가·코드베이스 리팩터링. 사용자명을 모르면 username-anarchy로 후보 생성 권장. Go, GPL-3.0, 3.7k stars
 * [h8mail: Email OSINT & Password breach hunting tool](https://github.com/khast3x/h8mail)
   * 이메일 OSINT·비밀번호 유출 헌팅 도구. 로컬 유출 DB 또는 프리미엄 서비스로 유출 이력 조회, 관련 이메일 추적. Python, 5.1k stars
 * [hackingtool: ALL IN ONE Hacking Tool For Hackers](https://github.com/Z4nzu/hackingtool)
