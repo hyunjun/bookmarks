@@ -4061,6 +4061,12 @@ Javascript
     * [VidiGo Streamlining Cloud Development with Deno.mp4](https://vidigo.ai/share/summary/4ba72e57ca2c)
     * [Streamlining Cloud Development with Deno | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/627319)
   * [Deno 2.1 | GeekNews](https://news.hada.io/topic?id=18210)
+  * [Deno is joining Cloudflare | Deno](https://deno.com/blog/cloudflare)
+    * [Deno is joining Cloudflare | Cloudflare Blog](https://blog.cloudflare.com/deno-joins-cloudflare/)
+    * [Deno 팀, Cloudflare 합류 - 런타임 개발은 1년 뒤 종료 | GeekNews](https://news.hada.io/topic?id=35073)
+    * [celld: Durable Objects, self-hosted](https://celld.dev/)
+    * 2026-10-09 Ryan Dahl 발표—Deno 팀 전체가 Cloudflare에 합류해 Workers·Durable Objects 팀과 작업을 합치고, 별도 런타임·호스팅 서비스를 계속 만드는 대신 공유 플랫폼에 개발 역량 집중. Deno 런타임은 1년간 월간 릴리스로 버그·보안 수정 후 팀 개발 종료(오픈소스로 남겨 다른 주체의 승계 환영), Deno Deploy는 6개월 뒤 종료(유료 고객의 Workers 이전 지원), JSR은 인프라를 Cloudflare로 옮겨 계속 운영, rusty_v8은 지원을 이어가며 workerd 통합 추진
+    * 배경은 Deno→Deno Deploy→celld(2026-08 공개)로 이어진 흐름—Workers 프로그래밍 모델 위에서 처음부터 분산 앱을 만들고 운영을 단순화하는 Rust 단일 바이너리(V8+SQLite+LTX, 외부 의존성은 객체 스토리지(S3 호환·GCS·Azure Blob)만, Workers·DO·KV·Queues·D1·R2·Workflows 앱이 그대로 동작). Kenton Varda: workerd의 Durable Objects는 단일 인스턴스라 자체 호스팅 확장이 안 되던 오랜 공백을 celld 코드·설계를 workerd에 합쳐 메우고, Ryan Dahl·Bert Belder가 Workers 모델 셀프호스팅 정식 지원을 이끎. '락인' 주장 반박—Shopify 등 대형 고객 요구로 2022년 workerd를 오픈소스화했고 그걸로 이탈한 고객도 있지만 탈출구 덕에 더 많은 고객이 들어옴. DO(SQLite를 가진 분산 싱글턴, 단일 스레드 JS, WebSocket)는 AI 에이전트 하네스에도 적합
   * [astrodon: Make Desktop apps with Deno 🦕](https://github.com/astrodon/astrodon)
   * [denodb: MySQL, SQLite, MariaDB, PostgreSQL and MongoDB ORM for Deno](https://github.com/eveningkid/denodb)
   * [Deno Deploy Sandbox](https://deno.com/deploy/sandbox)
