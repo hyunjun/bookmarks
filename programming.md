@@ -4970,6 +4970,8 @@ Programming
 * [컴파일러는 어떻게 내가 작성한 코드를 인식하는걸까? - 재그지그의 개발 블로그](https://wormwlrm.github.io/2021/04/18/Formal-Language-and-Compiler.html)
 * [인터프리터 vs 컴파일러: 프로그래밍 언어계의 토끼와 거북이 - 모두의연구소](https://modulabs.co.kr/blog/interpreter-and-compiler/)
 * [일부 프로젝트에서 여러 프로그래밍 언어를 사용하는 이유 - YouTube](https://www.youtube.com/watch?v=XJC5WB2Bwrc)
+* [Writing a compiler from scratch - Erik Schierboom - NDC Oslo 2026 | NDC Conferences - YouTube](https://www.youtube.com/watch?v=tYFljFUaAw0)
+  * NDC Oslo 2026, 62분(2026-10-07 공개). Exercism의 Erik Schierboom이 라이브 코딩으로 컴파일러를 처음부터 만들어 구조를 해설—기본 산술과 변수를 지원하는 단순한 동적 언어를 대상으로 렉싱→파싱→컴파일 단계가 어떻게 서로 쌓이는지 보이고, 마지막에 컴파일된 바이트코드를 실행하는 런타임을 만들어 언어를 동작시킴. 컴파일러가 어떻게 구성되는지와 직접 하나 써 보려면 어디서 시작할지 이해하는 것이 목표인 세션(#dotnet 태그)
 * [CompilerJobs | A listing of compiler, language and runtime teams for people looking for jobs in this area](https://mgaudet.github.io/CompilerJobs/)
 * [Decompiler Explorer](https://dogbolt.org/)
 * [pl0c: PL/0 to C compiler to teach basic compiler construction from a practical, hands-on perspective](https://github.com/ibara/pl0c)
