@@ -333,6 +333,8 @@ Python
 * [데이터 과학 여름 학교 2016](https://www.youtube.com/playlist?list=PLBHVuYlKEkUIbVgM5H_9fh7cE9u45fR1J)
   * [2016 데이터 과학 여름학교 Labs](https://www.youtube.com/playlist?list=PLBHVuYlKEkUJ6WPJZ2uRAt5u0OMVVoGEQ)
 * [Ecosystem of Python](http://readme.skplanet.com/wp-content/uploads/%ED%8A%B8%EB%9E%993-1.%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%97%90%EC%BD%94%EC%8B%9C%EC%8A%A4%ED%85%9C.pdf)
+* [From Code to Execution: Python’s Complete Ecosystem Explained in 12 Minutes | Cloud X Berry - YouTube](https://www.youtube.com/watch?v=iDwVm6r33L0)
+  * 12분(2026-10-07). `print("Hello")` 한 줄 뒤에서 일하는 시스템—언어 자체와 인터프리터·표준 라이브러리·패키지 생태계를 분리해 설명하는 입문 영상. '인터프리트'의 실제 의미(Java·C#과 달리 별도 빌드 단계가 없고 오류는 그 줄이 실행될 때 드러나므로 테스트가 더 중요), 바이트코드와 Python 가상 머신, 라이브러리(Requests·Pandas·Pillow) vs 프레임워크(Django·Flask)—누가 누구를 호출하는가, pip과 PyPI, 초보자가 가장 많이 걸리는 환경·버전 충돌과 가상 환경을 항상 쓰는 이유, 에디터(VS Code·PyCharm·Jupyter) 비교, Python 2는 끝났고 어떤 3.x를 쓸지, 시스템 Python에 의존하지 말아야 하는 이유, 사람들이 실제로 Python으로 만드는 것, 그리고 Python이 적합하지 않은 경우
 * 한국의 파이썬 소식
   * [6월 둘째 주](http://raccoonyy.github.io/python-news-for-korean-2nd-week-june/index.html)
   * [6월 셋째 주](http://raccoonyy.github.io/python-news-for-korean-3rd-week-june/index.html)
