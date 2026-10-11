@@ -975,6 +975,10 @@ Apache
 * [julie: A solution to help you build automation and gitops in your Apache Kafka deployments. The Kafka gitops!](https://github.com/kafka-ops/julie)
   * 줄리옵스(예전 이름: 카프카 토폴로지 빌더(Kafka Topology Builder))는 GitOps 모델을 사용해서 토픽과 ACL에 대한 자동화된 관리 기능 제공
   * 현재 설정 상태를 보는 것을 넘어서서 줄리옵스는 토픽, 스키마, ACL 설정 등을 선언적으로 정의, 변경 가능
+* [StreamLens: Native desktop app for Apache Kafka. Browse topics, tail live messages, decode JSON/Avro, mask sensitive data, and publish test payloads directly from your desktop—no browser required](https://github.com/getaxtools/StreamLens)
+  * 웹 UI를 배포하지 않고 쓰는 Kafka 네이티브 데스크톱 클라이언트(StreamLens Studio, 상업용 포함 무료, GPL-3.0 오픈소스화 준비 중). v0.8.0 프리릴리스—현재 Windows 전용 단일 exe(약 75MB, 자체 서명 인증서라 SmartScreen 경고), Linux는 2026년 11월 첫째 주·macOS는 12월 첫째 주 예정. 다중 클러스터 연결(SASL/SSL/mTLS, 암호는 Windows DPAPI 암호화)·토픽 브라우징·전 파티션 라이브 테일·JSON/Avro/Protobuf(Schema Registry) 디코딩·필드 경로(`$.order.id`)와 타임스탬프 범위로 토픽 전체 검색·키/헤더/파티션 지정 발행·CSV/JSON/zip 내보내기
+  * 무료 데스크톱 클라이언트에 드문 세 가지—패턴·JSONPath 마스킹 규칙을 메시지 목록·상세·모든 내보내기에 적용(화면 공유용 표시·내보내기 위생이며 보안 경계는 아님, 전체 메시지는 브로커에서 그대로 옴), Production 태그 클러스터에선 파괴적 작업에 리소스 이름 입력 확인+로컬 감사 로그 뷰어(Tools → Audit Log), 토픽별 포맷·시작 위치 기억. Kafbat Kafka UI·AKHQ·Offset Explorer와의 비교표를 README에 제공(Conduktor Desktop은 EOL이라 제외)
+  * 한계: 컨슈머 그룹 lag·오프셋 이동은 미안정, Avro/Protobuf 발행은 Confluent 프레이밍 없는 plain text라 등록 스키마 컨슈머가 못 읽음, Protobuf는 Schema Registry 필수, Kafka Connect·ksqlDB·ACL 관리 없음, Kerberos(GSSAPI)는 설정만 가능하고 미검증, 단일 사용자. Python, 3 stars
 * [Strimzi - Apache Kafka on Kubernetes](https://strimzi.io/)
   * 쿠버네티스 환경에 카프카 클러스터를 쉽게 설치할 수 있도록 해 주는 쿠버네티스 오퍼레이터 제공
   * 매니지드 서비스를 제공하진 않지만 퍼블릭이든 프라이빗이든 상관없이, 클라우드 상에서 카프카를 실행시키는 것을 쉽게 해 줌
