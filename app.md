@@ -48,7 +48,6 @@ App
   * Typora, Tuple, Codernotes, The Silver Searcher, AutoHotKey, Mindly
 * [6 Must-Have Tools for Developers](https://medium.com/better-programming/6-must-have-tools-for-developers-430fd56933dd)
   * oh my zsh, direnv, fzf, silver searcher (ag)
-* [A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers https://reddit.com/r/selfhosted ](https://github.com/awesome-selfhosted/awesome-selfhosted)
 * [How To Automate Your Daily Work Routine on Mac OS | Windows | by Kashish Bhutani | Jul, 2020 | Medium](https://medium.com/@kashishbhutaniofficial/how-to-automate-your-daily-work-routine-on-mac-os-windows-63c170048201)
 * [7 Developer Tools to Make Work That Little bit Easier | by Marat Levit | Servian | Medium](https://medium.com/weareservian/7-developer-tools-to-make-work-that-little-bit-easier-4f1832c81e91)
   * KeePass, DB Fiddle, Instant SQL Formatter, REPL, Regex 101, DiffChecker, Pastebin

@@ -69,7 +69,6 @@ Network
 * [네트워크는 왜 이렇게 생긴걸까? 서브넷편 : 클리앙](https://www.clien.net/service/board/lecture/15882226)
 * [네트워크는 왜 이렇게 생긴걸까? 공유기편 : 클리앙](https://www.clien.net/service/board/lecture/15887017)
 * [**Computer Networks: A Systems Approach — Computer Networks: A Systems Approach Version 6.2-dev documentation**](https://book.systemsapproach.org/)
-* [awesome-selfhosted: A list of Free Software network services and web applications which can be hosted on your own servers](https://github.com/awesome-selfhosted/awesome-selfhosted)
 * [Ethernet and IP Networking 101 (Heavily Illustrated)](https://iximiuz.com/en/posts/computer-networking-101/)
 * [네트워크 연결 테스트와 ping? :: neozest : neo+zest](https://www.neozest.com/entry/testingnetworkconnectionviapingICMP)
 * [포트 포워딩이란? – Lamanus' Archive](https://lamanus.kr/59)
@@ -392,6 +391,9 @@ Network
 * [글로벌 서비스에서 지역 통신사 네트워크 이슈 트러블슈팅하기 | Hyperconnect Tech Blog](https://hyperconnect.github.io/2024/06/24/global-network-troubleshooting.html) mobile proxy oxylabs
 * [A(x56) - URL Lengthener](https://aaa.aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.com/)
 * [awesome-connectivity-info: Awesome list of connectivity indexes and reports to help you better under who has access to communication infrastructure and on what terms.](https://github.com/stevesong/awesome-connectivity-info)
+* [awesome-selfhosted: A list of Free Software network services and web applications which can be hosted on your own servers](https://github.com/awesome-selfhosted/awesome-selfhosted)
+  * [awesome-selfhosted.net — HTML version (recommended)](https://awesome-selfhosted.net/)
+  * 95개 카테고리 약 1,270개 셀프호스팅 자유 소프트웨어 목록(2015년 시작, 325k stars). 항목마다 웹사이트·소스·데모 링크와 별·언어·라이선스·플랫폼 태그, 비자유 소프트웨어는 별도 Non-Free 페이지, 데드 링크·미유지보수 CI 점검. HTML 사이트가 권장 버전
 * [CIDR (Classless inter-domain routing)](https://github.com/m7shapan/cidr)
 * Cicso packet tracer
   * [네트워크 장비 없이 공부하기 - Cisco Packet Tracer](https://www.youtube.com/watch?v=0f1viq6FjK4)
