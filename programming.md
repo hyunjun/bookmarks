@@ -2702,6 +2702,9 @@ Programming
   * 결정론적으로 이미 풀린 문제(라이브러리에 담아 수천 번 재사용)를 매번 에이전트 토큰으로 다시 푸는 건 SQL 쿼리마다 DB 드라이버를 새로 짜는 것과 같다는 비판. 시스템을 애초에 legible하게 만들지 못한 것이 진짜 문제라는 Q&A 논의
 * [아키텍처 그림, 문서 쉽게 만들기 | C4 · ADR · arc42 - YouTube](https://www.youtube.com/watch?v=LaLtZsRWFMc)
   * 코딩하는기술사. 아키텍처 문서화의 공신력 있는 기준 3가지—C4 Model(다이어그램 그리는 방법), ADR(결정 근거 기록), arc42(문서 목차·템플릿)—과 셋의 관계, 문서화 안티패턴, 시작하는 법. AI 시대에 아키텍처 기록이 더 중요해지는 이유
+* [I Bet Nobody Has Ever Explained the Backend Ecosystem Like This Before | Cloud X Berry - YouTube](https://www.youtube.com/watch?v=mZ27vUoOEB0)
+  * 12분(2026-10-05). 백엔드 로드맵의 수십 가지 도구 이름(Spring Boot·Docker·Kubernetes·Redis·Kafka·PostgreSQL·Jenkins·AWS·Prometheus 등)을 외울 목록이 아니라 각자가 푸는 공학 문제로 보게 하자며, 쇼핑 사이트에서 노트북을 장바구니에 넣고 결제해 '주문하기'를 누르는 요청 하나를 끝까지 따라감—리버스 프록시(NGINX)가 요청을 알맞은 백엔드 서비스로 라우팅→Spring Boot·ASP.NET Core·Express·Django 같은 프레임워크가 인증(세션·JWT·OAuth·OpenID Connect)으로 누구인지 확인→DB에 주문을 읽고 저장(앱의 장기 기억)→Redis 캐시로 반복 작업 회피(히트·미스, 캐시가 DB를 대체하지 못하는 이유)→재고·배송·이메일·분석 같은 느린 후속 작업은 Kafka·RabbitMQ 메시지 큐로 넘겨 사용자를 기다리게 하지 않음
+  * 이어서 줌아웃—"내 컴퓨터에선 되는데"를 고치는 Docker 컨테이너, 연휴 세일에 수천 개 컨테이너를 유지하는 Kubernetes, 그것들이 돌아가는 AWS·Azure·Google Cloud, 변경을 안전하게 배포하는 CI/CD 파이프라인, 고객보다 먼저 문제를 발견하는 Prometheus·Grafana 모니터링까지 전체 그림을 맞추고, 로드맵을 볼 때 각 도구가 어떤 문제를 푸는지 묻는 쪽으로 질문을 바꾸자는 결론. 로드맵에 압도된 입문자, 브라우저 밖에서 벌어지는 일을 알고 싶은 프런트엔드 개발자, 백엔드·시스템 디자인 면접 준비자 대상
 * [arc42 - arc42](https://arc42.org/)
   * [Documenting Software Architecture in Code Repository | by Huseyin Kutluca | Software Architecture Foundations | Feb, 2022 | Medium](https://medium.com/software-architecture-foundations/documenting-software-architecture-in-code-repository-74716412b0a2)
 * [Architectural Decision Records (ADRs)](https://adr.github.io/)
