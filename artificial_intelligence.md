@@ -8588,6 +8588,10 @@ Artificial Intelligence
   * Fengzhe Zhou·Jiannan Huang·Jialuo Li·Deva Ramanan·Humphrey Shi(2025-12). 실세계 동역학을 지각·예측하는 Physical AI 능력을 영상 생성·조건부 영상 생성·영상 이해 세 축에서 통합 평가하는 벤치마크—2,808개 실세계 사례, 물리적 타당성과 도메인 추론을 잡는 과제별 지표. 영상 생성 모델은 시각 충실도가 높아도 물리적으로 일관된 동역학 유지에 자주 실패하고, 멀티모달 LLM은 예측·인과 해석이 제한적이라 현재 시스템은 Physical AI의 지각·예측 요구에 아직 초기 단계라는 결론
 * [2601.05230 Learning Latent Action World Models In The Wild](https://arxiv.org/abs/2601.05230)
   * [라벨링에 의존하는 AI는 현실에서 생존할 수 없다 | Suk Hyun K.](https://www.linkedin.com/posts/suk-hyun-k-31ba9b369_sqsrguriwqzc-worldmodel-ai-ugcPost-7417354333316632576-1sFF/)
+* [2610.10515 RoboJEPA: Scaling Robotic Latent World Models](https://arxiv.org/html/2610.10515)
+  * Meta FAIR 등(Artem Zholus·Mahmoud Assran·Nicolas Ballas·Jeannette Bohg·Sarath Chandar 외). JEPA(Joint Embedding Predictive Architecture) 기반 로봇 latent 월드 모델을 12종 로봇 embodiment 실데이터로 학습—실로봇 데이터 기반 멀티 embodiment 월드 모델의 스케일링 법칙을 처음 확립, 8B 파라미터로 지금까지 가장 큰 JEPA predictor
+  * latent 롤아웃 오차(imagination error)가 연산량에 대해 2차 power law를 따라 피팅 범위 밖의 모델 품질을 예측 가능. 다운스트림 로봇 플래닝 성능도 연산량과 함께 예측 가능하게 향상되며 imagination error와 강하게 상관—실로봇 평가의 신뢰할 수 있는 프록시
+  * latent 월드 모델을 목표 이미지 한 장을 향해 플래닝하는 zero-shot 로봇 에이전트로 실제 하드웨어에 배포, 장기 플래닝 과제 해결. 모든 체크포인트와 학습·로봇 배포 코드 공개
 * [Awesome-World-Models: A Curated List of Awesome Works in World Modeling, Aiming to Serve as a One-stop Resource for Researchers, Practitioners, and Enthusiasts Interested in World Modeling](https://github.com/knightnemo/Awesome-World-Models)
   * 월드 모델 연구를 다방면에서 집대성한 저장소로, 자율주행, 임베디드 AI, 게임 시뮬레이션, 로봇 조작, 자연과학, 사회과학 등 다양한 분야의 최신 논문과 모델을 체계적으로 분류
 * [Code as Worlds: Agentic Discovery of Executable World Representations for Physical Reasoning](https://mirros-lab.github.io/code-as-world/)
