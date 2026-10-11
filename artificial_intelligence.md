@@ -4747,6 +4747,7 @@ Artificial Intelligence
 * [Agentic-Bug-Hunter: AI-powered bug bounty hunting toolkit that works with or without subscription](https://github.com/Awarexone/Agentic-Bug-Hunter)
   * [AwareXone — Security for the agentic era](https://www.awarexone.com/)
   * 구독 없이도 동작하는 AI 기반 버그바운티 툴킷. 정찰·취약점 스캔·CTI를 Claude Code와 엮어 HackerOne·Bugcrowd 워크플로에 적용. Python, MIT, 5k stars. 말레이시아 기반 AwareXone(소셜 엔지니어링·오펜시브 보안·위협 인텔리전스 서비스)의 오픈소스 프로젝트 중 하나로, AXguard·Public Skills Builder·Web3 Bounty Skills도 함께 공개
+* [AI-Red-Teaming-Guide: A comprehensive guide to adversarial testing and security evaluation of AI systems, helping organizations identify vulnerabilities before attackers exploit them.](https://github.com/requie/AI-Red-Teaming-Guide)
 * [ai-security-checklist-prompt.md: The ultimate all-in-one security checklist prompt for artificial intelligence (AI) | zeamp](https://github.com/zeamp/ai-security-checklist-prompt.md)
   * 언어·프레임워크와 무관하게 AI에게 코드베이스 전체의 보안 검토를 시키는 재사용 프롬프트. 인증·인가, 접근 제어, 입력 검증·인젝션, API 보안, 민감 정보 노출, 하드코딩된 비밀, 파일 처리, 세션, rate limit, 비즈니스 로직, 설정·배포, 의존성·공급망을 점검
   * 분석→식별→계획→수정→검증→보고 흐름으로 변경 전 먼저 검토하고, 심각도 순으로 정리해 최소한의 보안 수정만 하며 새 문제가 없는지 확인. 빠진 모범 사례를 모두 치명적 취약점으로 취급하지 말고 실제 취약점과 일반 권고를 구분하게 함. 전문 모의해킹·수동 검토를 대신하지 않는다는 단서. GPL-3.0
@@ -8508,6 +8509,10 @@ Artificial Intelligence
 * [seedance-prompt-skill: Seedance 2.0 video prompt generation skill for Claude Code](https://github.com/songguoxs/seedance-prompt-skill)
   * [Claude Code에서 Seedance 2.0 영상 프롬프트를 자동 생성하는 방법 | digitalbourgeois](https://digitalbourgeois.tistory.com/3497)
   * 자연어 아이디어를 ByteDance Seedance 2.0(即梦)용 구조화 영상 프롬프트로 변환하는 Claude Code 커스텀 스킬. Timestamp Storyboarding, Negative Prompting, @이미지/@영상/@오디오 멀티모달 참조, 15초 초과 시 Multi-Segment Stitching 등 10가지 기능. MIT
+* [showtime · a local video studio for your coding agent](https://faviovazquez.github.io/showtime/)
+  * [showtime: A local video studio for your coding agent. Describe a video in one sentence: your agent directs, your machine renders. Claude Code, Codex, Cursor, Devin and more. No API keys, no uploads | FavioVazquez](https://github.com/faviovazquez/showtime)
+  * Favio Vázquez의 로컬 영상 스튜디오—영상을 한 문장으로 설명하면 코딩 에이전트가 연출(가정을 한 줄로 밝히고 스틸이나 빠른 초안으로 첫 모습을 보여준 뒤 본 렌더, `showtime qa`로 라우드니스·블랙/프리즈 프레임·캡션·플랫폼 규격 검수)하고 내 머신이 렌더링. 모션 그래픽(자체 WebGL 룩 7종·셔터 블러, GPU 불필요)·보이스오버(Kokoro 기본, Piper·Supertonic 선택)·음악·사운드 디자인·캡션(TTS 단어 타이밍·Parakeet/Whisper 로컬 전사 기반)·푸티지 편집·플랫폼별 내보내기(16:9·1:1·9:16, 포스터, README 루프)를 클라우드 AI·API 키·업로드 없이 처리. Claude Code 플러그인(`/plugin marketplace add FavioVazquez/showtime`)·Agent Skills(`npx skills add FavioVazquez/showtime`)·CLI·MCP 서버로 제공되며 Codex·Cursor·Devin·OpenCode에서 실제 테스트, Copilot·Gemini CLI·Cline 등 Agent Skills 지원 에이전트도 동작 예상. uv·Node.js 22/24 필요, 첫 요청 때 0.5\~0.75GB 다운로드(`~/.showtime`에 1.4\~1.8GB)
+  * 요청마다 `showtime-out/<name>-<timestamp>/`에 final.mp4·poster·share.txt·exports·work를 만들고 덮어쓰지 않음. "show me options first"(스튜디오)라고 하면 로컬 보드에서 콘셉트·룩·음악·스토리보드를 먼저 고르고, 10명의 크루 서브에이전트(완성 영상엔 기본으로 critic)를 쓰거나 "no crew"로 단일 세션. 영상을 오프라인 재생·챕터·#t=10-20 범위 링크가 있는 HTML 파일로도 출력, `showtime review open`에서 프레임에 노트를 달면 에이전트가 고치고 답함. 0.4.1: 토킹헤드 위 카드·화자 뒤 큰 단어(CPU 컷아웃), `showtime edit moments/clips`로 긴 녹화의 베스트 순간을 캡션 세로 클립으로, Claude Design 애니메이션 zip→1080p MP4(`showtime adopt`), 캡처 중 인코딩·사운드트랙 재사용·코어 수에 따른 브라우저 수 자동 조정으로 렌더 가속(GPU 없는 64코어에서 30초 런치 영상 42.0→17.6초). 행동 스코어보드에서 showtime 사용 35/42 vs 미사용 25/42. Python, MIT, 226 stars
 * [ToonCrafter: a research paper for generative cartoon interpolation](https://github.com/ToonCrafter/ToonCrafter)
   * [ToonCrafter - a Hugging Face Space by Doubiiu](https://huggingface.co/spaces/Doubiiu/tooncrafter)
   * [AI 뉴스 - 애니메이션 제작 ToonCrafter, 일레븐랩스 효과음 AI, 머스크 키보드배틀, 라마3-V, GPT-5 루머 등 - YouTube](https://www.youtube.com/watch?v=KLbTaePK82I)
