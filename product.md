@@ -378,6 +378,8 @@ Product
 * [엔산 마운트 NB-02](https://m.nsan.co.kr/goods/goods_view.php?goodsNo=4959)
 * [예쁘면 용서됩니다. 펠로우즈 라이징 싱글 모니터암 - YouTube](https://www.youtube.com/watch?v=OvjDd43wiG8)
   * [좁은 공유 오피스에서 일하면 꼭 있어야 하는 듀얼 모니터암! 펠로우즈 플렉스 듀얼 모니터암 숏 리뷰! (feat, 뱅커스 박스) - YouTube](https://www.youtube.com/watch?v=VEg9Mummlq0)
+  * [펠로우즈 브랜드스토어 모니터암 카테고리 | 네이버](https://brand.naver.com/fellowes/category/7d16832f86094984838a9e9374e9d821?cp=1)
+    * 100년 전통 사무용품 브랜드 펠로우즈(Fellowes) 네이버 브랜드스토어의 모니터암 카테고리(총 25개, 하위 E1·PT·FLEX & TALLO·RISING·모니터암 ACC). 2026-10 기준 PT 라이트 싱글 39,900원(정가 90,000·평점 4.84·리뷰 2,124), PT 싱글(USB 3.0 포트), 플렉스(FLEX) 싱글 가스스프링 149,000원, 플렉스 모듈러 1FM 159,000원(높이 ~852mm·길이 130~687mm·회전 180°·팬 90°·틸트 +75/−35°), 라이징(RISING) 고중량 프리미엄 싱글 379,900원, PT 라이트 듀얼(최대 32형) 69,900원
 * [카멜마운트 스프링 타입 노트북 거치대 RT3](https://www.camelmountmall.com/goods/goods_view.php?goodsNo=1000000211)
 
 # Musical Instrument
@@ -401,6 +403,13 @@ Product
 * [그저 감탄만 나오는, 분야별 최고의 필기구 BEST 5 (볼펜, 샤프, 만년필, 연필, 멀티펜) - YouTube](https://www.youtube.com/watch?v=HQemQCezRqQ)
 * [파이롯트 캡리스 매트블랙 소개를 빼먹었다니!! pilot capless vanishing point matte black - YouTube](https://www.youtube.com/watch?v=MRA7zdvIeq0)
 * [의외로 잘 모르는 신박한 만년필 용품 7가지 - YouTube](https://www.youtube.com/watch?v=4oqAphXmR1k)
+
+# Printer
+* [Openprinter: Finally, an open hardware printer you can actually understand, repair, and upgrade | Crowd Supply](https://www.crowdsupply.com/open-tools/openprinter)
+  * [Openprinter Teaser Update | Crowd Supply - YouTube](https://www.youtube.com/watch?v=wSV5XT4sl2A)
+    * 79초 티저(2026-09-15, 조회 55만+). 대사 없이 "I need you"만 반복
+  * 파리의 Open Tools(Nicolas Schurando·Léonard Hartmann·Laurent Berthuel)가 Crowd Supply에서 론칭을 준비 중(2026-10 현재 Coming Soon, 업데이트 2026-06-29 프랑스 디자인 어워드 후보·2026-09-17 론칭 준비)인 오픈소스 수리 가능 잉크젯 프린터—독점 드라이버·카트리지 DRM 없이 표준 기계 부품과 모듈 구조로 조립·개조·수리하고 벽걸이·탁상 어디든 설치, 낱장(Letter·Tabloid·A4·A3)과 11인치/297mm 롤지(내장 커터로 배너·띠 출력) 지원, 흑백 600dpi·컬러 1200dpi, 리필 가능한 HP 63(미국)/HP 302(유럽) 프린트헤드를 흑백·컬러 중 하나만 또는 둘 다 장착
+  * 메인보드 Raspberry Pi Zero W+카트리지 보드 STM32, 1.47인치 172×320 TFT와 조그 휠, USB-C(PC)·USB-A(USB 저장장치)·Wi-Fi 802.11ac·Bluetooth 4.1, 24V DC, CUPS 기반이라 Windows·macOS·Linux·Android·iPhone 지원, 50×10×11cm, 속도는 미정. 전자·기계 설계 파일·펌웨어·BOM을 CC BY-NC-SA 4.0으로 공개 예정(opentools.studio)
 
 # Speaker
 * [소니의 춤추는 스피커가 돌아온다](http://www.earlyadopter.co.kr/43025)
