@@ -1818,6 +1818,11 @@ Linux
 * [Make tmux Pretty and Usable - A Guide to Customizing Your tmux.conf](https://hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/)
   * [tmux를 보기 좋고 사용하기 쉽게 만드는 방법 (2024) | GeekNews](https://news.hada.io/topic?id=28517)
   * prefix 키 변경, 직관적 분할 단축키, 마우스 지원, 상태바 커스터마이징 등 실용적 tmux 설정 가이드
+* [Make tmux the OS](https://matduggan.com/what-does-my-dream-os-ui-look-like/)
+  * [tmux를 OS로 만들자 | GeekNews](https://news.hada.io/topic?id=34720)
+  * [Scott Jenson: Are we really going to use the same Desktop UX forever? | The KDE Community - YouTube](https://www.youtube.com/watch?v=V7AfAcQwLW0)
+  * Mathew Duggan(2026-10-02)—Scott Jenson의 KDE 발표를 계기로 쓴 데스크톱 UI 사고 실험. 요지는 '일반인도 쓸 수 있는 tmux를 OS로': 스크롤 가능하고 세션이 유지되며 분리할 수 있는 작업 중심 환경. 2026년 창 관리의 문제—하루 6번 도킹/언도킹마다 창 재배치, 최대화형·준최대화형·배치형 사용자와 공개/사적 창 구분(2004년 연구에서 이미 확인), 작은 OS가 된 브라우저의 탭은 앱이 아닌 작업에 속함, 앱 안에 갇힌 데이터로 약해진 파일시스템. 선행 연구(Rooms(1986)·WindowScape)와 실패 사례(Windows Timeline/Sets·macOS Stage Manager·KDE Activities)—후자의 공통점은 아이디어가 틀린 게 아니라 기본값이 아니었고 OS 수준에서 하지 않았음
+  * 제안: 데스크톱은 하나의 무한 가로 캔버스, 각 모니터는 뷰포트(창 순서·스크롤 위치·포커스·작업 소속은 절대 불변, 열 너비는 반응형으로 재배치, 뷰포트 조준은 재도킹 시 재생). 키 입력을 약 90% 받는 디스플레이가 포컬이고 나머지는 글랜서블(작은 화면에선 tmux처럼 얇은 띠로). 세 사용자 유형은 열 개수 차이일 뿐. 사적 창은 영역이 아닌 플래그로, 연결된 디스플레이·캡처 세션 같은 기계 상태로만 판단(새 디스플레이는 기본 '발표 준비' 화면—프레젠터 뷰를 OS 기본 요소로). 브라우저 탭은 실제 창으로 분리돼 작업에 합류. 작업 구성은 로컬 LLM이 제한된 MCP 동사로 상태를 읽어 배치를 제안·미리보기만 하고 사람이 y를 누르면 결정론적 코드가 실행, 고정 창은 건드리지 못하게. 스스로 꼽은 결함—프라이버시 설계가 감시형 데이터(포커스 텔레메트리)를 요구, '유휴 시 공개 영역으로 스크롤'은 읽기가 유휴로 잡혀 소유자에겐 숨기고 지나가는 사람에겐 보여줌, append-only 무한 캔버스는 아무것도 소멸하지 않아 금세 압도적(WindowScape의 사진 '증발'이 실은 GC였음). Linux VM에서 상단 드롭다운·스크롤 타일 일부만 동작하는 초기 실험, 데모는 아직
 * [tmux-bridge-mcp: cross-pane AI agent communication via tmux](https://github.com/howardpen9/tmux-bridge-mcp)
   * tmux 페인을 통해 서로 다른 코딩 에이전트끼리 통신하게 해주는 독립형 MCP 서버. Claude Code·Gemini CLI·Codex·Kimi CLI가 tmux 페인 너머로 대화·협업. TypeScript
 * [tmux-git - Script for showing current Git branch in Tmux status bar](https://github.com/drmad/tmux-git)
