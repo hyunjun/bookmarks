@@ -2166,6 +2166,10 @@ Artificial Intelligence
 * [OpenContext — A personal context store for AI agents and assistants](https://0xranx.github.io/OpenContext/)
   * [OpenContext: A personal context store for AI agents and assistants—reuse your existing coding agent CLI (Codex/Claude/OpenCode) with built‑in Skills/tools and a desktop GUI to capture, search, and reuse project knowledge across agents and repos | 0xranx](https://github.com/0xranx/OpenContext)
   * Codex·Claude·OpenCode 같은 기존 코딩 에이전트 CLI를 그대로 쓰면서, 내장 스킬·도구와 데스크톱 GUI로 프로젝트 지식을 담아 두고 검색해 여러 에이전트·레포에서 재사용하는 개인 컨텍스트 저장소. JavaScript, MIT, 1.3k stars
+* [ultracontext | control what agents see](https://ultracontext.com/)
+  * [ultracontext: Open Source Context infrastructure for AI agents. Auto-capture and share your agents' context everywhere](https://github.com/ultracontext/ultracontext)
+  * impossibl, inc.의 오픈소스 컨텍스트 인프라. "Same context, everywhere"—Claude Code에서 시작한 작업을 Codex에서 이어가거나 "Alex가 지금 Codex로 뭘 하고 있지?"처럼 팀원 에이전트 상황을 질문. 백그라운드 데몬이 Claude Code·Codex·OpenClaw 세션을 실시간 자동 수집(ingest)→사용자 소유 컨텍스트 서버 파일시스템에 저장(store, QMD·Gbrain 등으로 확장)→CLI·MCP 서버로 어느 에이전트든 필요한 컨텍스트를 온디맨드 조회(consume). 검색을 서버로 오프로드해 컨텍스트 윈도우를 가볍게 유지
+  * 빌더용 Context API는 git-like 프리미티브 5개(create/get/append/update/delete), 자동 버전닝·타임트래블, 프레임워크 무관. JS/TS(npm)·Python(pip) SDK. Node 22+, `npm i -g ultracontext`. Cursor·opencode·Antigravity 등 사용. Apache-2.0
 
 ## Harness Engineering
 * [Harness engineering: leveraging Codex in an agent-first world | OpenAI](https://openai.com/index/harness-engineering/)
@@ -6657,6 +6661,9 @@ Artificial Intelligence
     * 10단계 체계적 학습 가이드. 기본 명령어부터 고급 에이전트 오케스트레이션까지, 복붙 가능 템플릿과 Mermaid 다이어그램 포함
   * [claude-hud: A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress](https://github.com/jarrodwatts/claude-hud)
     * [🎛️ Claude Code의 블랙박스를 투명하게 만든 플러그인, 왜 개발자들이 열광하나 "Claude가 일하는 건지, 멍 때리는 건지 모르겠다." Claude Code로 복잡한 태스크를 돌려본 분이라면 공감하실 거예요. 긴 작업이 돌아가는 동안 터미널은 조용하고, 컨텍스트가 언제 터질지, 에이전트가 루프에 빠진 건 아닌지 알 길이 없죠. 이… | Jeongmin Lee](https://www.linkedin.com/posts/jyoung105_claude-code%EC%9D%98-%EB%B8%94%EB%9E%99%EB%B0%95%EC%8A%A4%EB%A5%BC-%ED%88%AC%EB%AA%85%ED%95%98%EA%B2%8C-%EB%A7%8C%EB%93%A0-%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8-%EC%99%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%93%A4%EC%9D%B4-ugcPost-7416490048826605568-8IVr)
+  * [claude-image-view: See the images you paste into Claude Code: thumbnails above the prompt instead of bare Image #1 tags](https://github.com/jarrodwatts/claude-image-view)
+    * Claude Code 프롬프트에 붙인 이미지를 `[Image #n]` 태그 대신 입력창 위 썸네일 행으로 보여주는 mod 플러그인(`/plugin marketplace add jarrodwatts/claude-image-view` → `/plugin install image-view`). 200ms마다 프롬프트의 태그를 읽어 세션 캐시 폴더의 PNG를 찾고 헤더에서 크기만 읽어 Claude Code `Image` 엘리먼트로 그림—비율 유지, 화면에 맞게 축소, 전송 시 사라짐
+    * 로컬 전용(네트워크·파일 쓰기 없음). Claude Code v2.1.287+(mods 지원), macOS/Linux, kitty graphics protocol 터미널(Ghostty·kitty) 필요—미지원 터미널은 타일에 텍스트만. 백그라운드 세션은 `CLAUDE_CODE_FORCE_TERMINAL_IMAGES=1`. TypeScript, MIT
   * [claudekit: A toolkit of custom commands, hooks, and utilities for Claude Code](https://github.com/carlrannaberg/claudekit)
     * 매우 많은 기능 포함
     * thinking-level 0,1,2,3 을 정해두면 항상 think 레벨을 고정 가능, 3=ultrathink
