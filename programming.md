@@ -6436,6 +6436,9 @@ Programming
   * [Plunk - 오픈소스 이메일 플랫폼 | GeekNews](https://news.hada.io/topic?id=16319)
 * [SENDUNE - HTML Email Designer Drag-and-Drop-Email-Designer: Drag and drop HTML email designer - truly free and open source.](https://github.com/SendWithSES/Drag-and-Drop-Email-Designer)
   * [Sendune – 오픈소스 HTML 이메일 디자이너 | GeekNews](https://news.hada.io/topic?id=15932)
+* [spameater: Secure temporary email service with auto-deletion. ModSecurity WAF protected | rufftruffles](https://github.com/rufftruffles/spameater)
+  * SpamEater—자기 도메인·서버에서 돌리는 셀프호스팅 일회용 이메일. 이름을 치면 받은편지함이 생기고 가입·테스트에 쓴 뒤 24시간 후 받은편지함·메일이 복구 불가로 자동 삭제(카운트다운은 생성 시점부터). 계정·트래킹·분석 없음, 본문은 AES-256-GCM으로 암호화 저장, 원격 이미지는 기본 차단(트래킹 픽셀 미작동), 외부 CDN 미사용. Haraka SMTP + Express API + SQLite, 빌드 스텝 없는 바닐라 JS 프론트(3초 폴링), Docker 이미지·네이티브 설치 스크립트(AlmaLinux/RHEL/Rocky 9·10, Ubuntu 22.04+/Debian 11+). JavaScript, MIT, 227 stars
+  * 보안: ModSecurity WAF(OWASP CRS)·fail2ban·CSRF+HMAC 삭제 토큰(상수 시간 비교)·SMTP/WAF/API 계층별 IP·받은편지함 단위 레이트 리밋·Let's Encrypt 자동 갱신·CSP/HSTS 헤더. 받은편지함 이름만 알면 누구나 읽을 수 있는 무계정 설계라 민감한 용도는 랜덤 이름(주사위 버튼) 권장. v4(2026-08, Terminal Ledger UI): HTML 메일을 다크 테마에 색상 단위로 적응시키고 대비 가드로 읽기 어려운 텍스트 보정, MIME 트리 전체 탐색으로 전달 메일 표시, cid 인라인 이미지 임베드, 4.1 다크/라이트 토글, Docker 업그레이드 시 암호화 키 유지, Haraka 3.1·3.3 지원, 첫 테스트 스위트·CI
 * [spf-dkim-dmarc-simplified: Email security is a key part of internet communication. But what are SPF, DKIM, and DMARC, and how do they work? This guide will explain it all in simple terms to make these concepts clearer](https://github.com/nicanorflavier/spf-dkim-dmarc-simplified)
   * [SPF, DKIM, DMARC 이해하기: 간단한 가이드 | GeekNews](https://news.hada.io/topic?id=15408)
 
