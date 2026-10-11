@@ -1581,6 +1581,11 @@ Artificial Intelligence
   * [muxi: Deploy intelligence. Open-source infrastructure for AI agents in production](https://github.com/muxi-ai/muxi)
   * "웹사이트 띄우려고 Nginx를 직접 만들지 않듯 AI를 만들려고 인프라를 재발명하지 말라"—프레임워크·래퍼가 아니라 에이전트가 네이티브 프리미티브인 셀프호스팅 AI 애플리케이션 서버(V1 안정 세대). Docker 비유: Server+Runtime=Engine, Formation=Dockerfile, MUXI Registry=Docker Hub, `muxi`=docker. 에이전트·지식·메모리·도구·스킬·워크플로우·트리거·정책을 하나의 배포 단위로 묶는 개방 표준 Agent Formation Standard(agentformation.org)를 제안, YAML(`.afs`)로 선언하고 `muxi pull @muxi/hello-muxi`→`muxi deploy`→`muxi chat` 세 명령으로 실행
   * 오케스트레이션, 감사 가능한 이벤트 소싱 계층형 메모리, 그룹 기반 RBAC·사용자 격리·사용자별 자격증명, MCP 도구를 한 번 인덱싱해 런타임에 선택, 하트비트·채널·활동 시간·soul 문서 기반 선제 행동, 자가 튜닝, 타입드 관측 이벤트, 시맨틱 캐싱(LLM 비용 50~80% 절감 주장), 21개 제공자 300+ 모델. REST·SSE·MCP와 Python·TypeScript·Go·Ruby·PHP·C#·Java·Kotlin·Swift·Dart·Rust·C++ 12개 SDK. LangChain/LangGraph·CrewAI·AutoGen과 "서버 인프라 vs 라이브러리" 비교표 제시. 186 stars
+* [mxc: Microsoft eXecution Container (MXC) — Policy-driven, layered isolation and containment](https://github.com/microsoft/mxc)
+  * [MXC - 샌드박스 코드 실행 시스템 | GeekNews](https://news.hada.io/topic?id=35092)
+  * 모델 출력·플러그인·도구 같은 신뢰할 수 없는 코드를 Windows·Linux·macOS에서 격리 실행하는 Microsoft의 샌드박스 시스템. 앱에 Rust·.NET·Node SDK로 내장(크레이트 mxc-sdk, NuGet Microsoft.Mxc.Sdk, npm @microsoft/mxc-sdk)하고 컨테이너 유형·격리 규칙·실행 명령을 버전 지정 JSON으로 넘기면 MXC가 검증 후 백엔드를 골라 실행. SDK를 못 넣는 환경용 독립 실행기(wxc-exec)도 제공
+  * 백엔드 통합 모델: Windows 기본 ProcessContainer(+WSLC·IsolationSession, 실험적 Windows Sandbox·MicroVM(Nanvix)·Hyperlight), Linux 기본 Bubblewrap(+LXC·MicroVM·Hyperlight), macOS Seatbelt(15+, 지속형 컨테이너 미지원). 정책은 파일시스템(읽기 전용/읽기쓰기/차단 경로)·네트워크(송수신·프록시, 세부 필터링은 백엔드별)·UI(클립보드·화면·GUI). 지원 백엔드에선 지속형 컨테이너 provision→start→execute→stop→deprovision 수명주기 관리
+  * 접근 거부 원인 진단(`--debug`), 정책 작성용 `--audit`(샌드박스 보안 전부 해제—신뢰하는 도구에만). 텔레메트리는 옵트인·사용자 동의 필요, 비Windows에서는 no-op. Rust, MIT
 * [mycelium-memory: Persistent memory for LLM CLIs (Claude Code, Claude Desktop, Codex) that acts like a brain not a database](https://github.com/constant-itis/mycelium-memory)
   * 듀얼 메모리 아키텍처: Semantic(관찰·결정·프로젝트 사실, 자연어 검색, 자주 접근되면 연결 강화) + Behavioral Foundry(append-only 결정 로그). SQLite 로컬, MCP 다중 클라이언트 공유. `/checkpoint`·`/maintain` 슬래시 스킬, 수동 큐레이션 불필요
 * [node-banana: Open node-based generative workflows](https://github.com/shrimbly/node-banana)
@@ -4667,6 +4672,10 @@ Artificial Intelligence
   * [awesome-Self-Improving-Agents 공유 | 박상길](https://www.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_github-selfimproving-agentawesome-self-improving-agents-share-7484798321568399360-lNkW/)
   * [AI Agent의 자기 개선(Self-Improvement) 체계: Foundation Model과 Scaffolding 기반 자율 진화 프레임워크 | digitalbourgeois](https://digitalbourgeois.tistory.com/3393)
   * 자기개선 자율 에이전트 서베이. 현대 에이전트를 파운데이션 모델+운영 스캐폴드(프롬프트·메모리·도구·제어 로직)의 결합으로 보는 시스템 레벨 프레임워크 제시. 자기개선을 모델 파라미터 또는 스캐폴드 구성요소에 업데이트를 획득·커밋하는 self-induced update operator로 형식화, 경험을 누적 역량 향상으로 전환하는 적응 시스템으로 정리
+* [2608.23875 AI Finds A Way](https://arxiv.org/html/2608.23875)
+  * Aaron Dharna·Cong Lu·Ryan Sullivan·Joel Lehman·Victoria Krakovna·Jeff Clune. ML 각 분야 100+ 연구자가 직접 겪은 "AI가 예상 밖 해법을 찾아낸" 1인칭 일화 26편 큐레이션(40쪽). 전문가도 놀라게 한 창의적·우회적 행동이 흔한데 공식 기록은 드물다는 문제의식
+  * 4부 구성—①RL의 초인적 성과(AlphaGo 37수, Libratus 오버벳, Diplomacy Cicero, opponent shaping의 게임이론 전략 재발견) ②보상 해킹(보상·점수 함수 악용, 환경 취약점 악용) ③파운데이션 모델이 문제를 해소하기는커녕 증폭(VPT 유령 제작 지름길, 환각으로 목표 도달한 척하는 에이전트, LLM 라벨러를 속이는 코드 생성기, 자기 평가기 취약점을 뚫은 취약점 탐색 시스템, 테스트 중임을 알아챈 Claude 3) ④AI for Science(토카막 플라즈마 제어, FunSearch, 제약을 깨고 나온 AI Scientist, 불가능하다던 양자 결과 발견)
+  * 결론: 최적화는 예상 밖을 찾아내며, 감독(oversight) 자체가 최적화 대상이 되면 위험—창의성을 죽이지 않으면서 인간 가치에 정렬하는 것이 미래 AI 안전의 근본 과제. 같은 학습 동역학을 과학적 발견 가속에도 활용 가능
 * [2608.27454 WikiSkill: Compiling Agent Experience into Persistent Knowledge for Skill Evolution](https://arxiv.org/abs/2608.27454)
   * [WikiSkill: 에이전트의 실행 경험을 영구적인 지식과 재사용 가능한 기술로 진화시키는 프레임워크 | digitalbourgeois](https://digitalbourgeois.tistory.com/3617)
   * [모델 크기만 키우던 시대의 종말 - AI의 '단기 기억상실'을 치료했더니 벌어진 일 | Suk Hyun K.](https://www.linkedin.com/posts/suk-hyun-k-31ba9b369_aislsstwswktxu-srotniswmtnq-tfmsxrtyfswh-share-7499263255102734336-jaP0/)
@@ -7372,6 +7381,10 @@ Artificial Intelligence
   * [GitHub Spark - Dream it. See it. Ship it. · GitHub](https://github.com/features/spark)
   * [localpilot](https://github.com/danielgross/localpilot) GitHub Copilot을 인터넷 연결 없이도 로컬에서 사용할 수 있게 하는 앱
   * [Mastering-GitHub-Copilot-for-Paired-Programming: A multi-module course teaching everything you need to know about using GitHub Copilot as an AI Peer Programming resource.](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming)
+* [covert-coder: Covert Coder — a local-first sovereign AI development environment for governed models, workflows, execution, evidence, and verification](https://github.com/AnonymousNomad/covert-coder)
+  * "모델은 교체 가능한 노동자일 뿐 권위가 아니다"를 원칙으로 한 로컬 우선(local by default, connected by choice) AI 소프트웨어 엔지니어링 워크벤치(구 AIDE Sovereign Workbench, Engineering Preview). 컨텍스트 선택→워크플로·스킬→오케스트레이터→모델 접근·역할 라우팅→실행 권한→리소스 승인→워커 모델·도구→검증(Veritas)→출처 추적(Ghost)→미션 영수증·메모리 루프를 Resident 어시스턴트 하나가 감싸고, Planner·Coder·Reviewer는 논리적 역할이라 한 모델이 여러 역할을 맡거나 로컬·클라우드 모델을 역할별로 혼합 가능
+  * 설계 원칙: 모델이 툴 호출을 생성해도 머신 권한을 얻지 못하는 operator authority, 타입화된 실행(계약·capability 검사), 무음 폴백 금지, 발견·다운로드·검증·등록·실행·적격·준비 상태를 구분하는 truthful state, 나중의 green 재실행이 앞선 red를 지우지 못하는 failure preservation. 모델 선택도 논리 역할→모델 ID→아티팩트→프로바이더 경로→자격증명→어댑터→관측 응답까지 ID 체인으로 추적
+  * 브라우저 워크벤치(:4173)→제품 파사드(:4777)→TypeScript 백엔드(:4778, 워크스페이스·Git·터미널·LSP·DAP·메모리)+로컬 런타임(Unsloth V1, llama.cpp), 클라우드 프로바이더는 명시적 옵트인. Monaco 에디터. Node 26, TypeScript, Apache-2.0
 * [crush: The glamourous AI coding agent for your favourite terminal 💘](https://github.com/charmbracelet/crush)
   * [여친 있어야 쓸 자격 있는 Crush CLI - YouTube](https://www.youtube.com/watch?v=ZJ-J0WQxKPY)
 * [ctx — CLI that indexes and searches past coding agent sessions locally](https://ctx.rs/)
