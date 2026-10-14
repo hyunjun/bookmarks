@@ -102,6 +102,10 @@ GIS
 * [GeoLibre](https://github.com/opengeos/GeoLibre)
   * [GeoLibre](https://geolibre.app/)
   * 로컬에 데이터를 저장하는 무료 오픈소스 클라우드 네이티브 GIS 플랫폼. Tauri v2·React·MapLibre GL JS·DuckDB-WASM Spatial·deck.gl 기반으로 웹·데스크톱·모바일·Jupyter 동작. GeoJSON·Shapefile·GeoPackage 로딩, DuckDB SQL 워크스페이스, 3D 렌더링, 실시간 협업 편집, AI 자연어 GIS, Planetary Computer·Earth Engine 연동
+* [RustGIS - A fast, free and open-source GIS in pure Rust](https://rustgis.app/)
+  * [RustGIS: A fast, free and open-source GIS in pure Rust](https://github.com/opengeos/RustGIS)
+  * leafmap·GeoLibre를 만든 OpenGeos의 데스크톱 GIS—런타임·서버 없이 GPU로 그리는 단일 네이티브 프로그램(Windows·macOS·Linux)이자 WebAssembly로 컴파일해 web.rustgis.app에서 설치 없이 같은 앱. 데이터는 내 머신에만 있고 네트워크는 웹 베이스맵·플러그인·GeoLibre 도구·내가 고른 AI 모델처럼 요청할 때만 사용. GeoJSON·Shapefile·GeoPackage·GeoParquet·FlatGeobuf·KML·GPX·GeoTIFF/COG·벡터 타일·PMTiles·MBTiles·MapLibre 스타일을 3D 지구 또는 임의 투영으로, DuckDB SQL 선택, 등급별 색·충돌 없는 라벨·압출·레이아웃·지도 시리즈 같은 카토그래피, 스냅·템플릿·도메인 규칙 편집과 모든 변경 undo
+  * 리본의 모든 버튼이 id를 가진 명령이라 `rustgis-cli`·`rustgis` Python 패키지·노트북·ModelBuilder에서 스크립트하고 AI Assistant에게 실행시킬 수 있으며 MCP 서버로 에이전트가 지도 제작, 지형·수문·LiDAR·원격탐사용 GeoLibre·Whitebox 도구 1,000개+, 샌드박스 WebAssembly 플러그인. QGIS·ArcGIS·GeoLibre와의 비교 페이지 제공. winget·brew·AUR·Fedora COPR, Rust 1.90+, Apache-2.0, 948 stars
 * [Geospatial Agent on AWS: An AI agent that analyzes satellite imagery for any location on Earth using natural language | aws-samples](https://github.com/aws-samples/sample-geospatial-agent-on-aws)
   * "센트럴파크 식생 상태 보여줘" "2021년과 2022년 폴섬 호수 수위 비교" 같은 자연어 질문으로 지구 어디든 Sentinel-2 위성 영상을 분석해 인터랙티브 지도에 표시하는 AI 에이전트. 식생(NDVI)·수역(NDWI)·산불 피해(NBR) 분석, OSM 경계, 임베딩 기반 토지 변화 스캔
   * Strands Agents + Claude Sonnet 4.6을 Amazon Bedrock AgentCore Runtime에서 실행하고 Amazon Location Service를 MCP로 연결. 타일 서버(TiTiler)와 React·MapLibre GL 프런트엔드(ECS Fargate·CloudFront·Cognito)까지 CDK로 약 15분 배포. TypeScript, MIT-0
