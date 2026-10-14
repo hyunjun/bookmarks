@@ -658,6 +658,9 @@ Java
 * [병렬 스트림(Parallel Stream)을 활용한 손쉬운 성능 향상](https://velog.io/@joosing/increase-performance-with-parallel-stream)
 * [Introduction and pitfalls of Java's new concurrency model by David Vlijmincx - YouTube](https://www.youtube.com/watch?v=UjzLaVI87mA)
 * [Structured Concurrency in Java: The What & Why • Balkrishna Rawool • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=fbI3qveS_Is) virtual thread
+* [Structured Concurrency Looms | Java - YouTube](https://www.youtube.com/watch?v=oS01pSRWKmg)
+  * Oracle Java 팀 아키텍트 Alan Bateman·Viktor Klang의 Devoxx Belgium 2026 발표(51분). JDK 21 가상 스레드 다음 Project Loom의 주요 기능인 구조적 동시성—관련 서브태스크 묶음을 하나의 작업 단위로 다뤄 취소·에러 처리·관측성을 단순화. `StructuredTaskScope`를 try-with-resources로 열고 `fork`를 여러 번 한 뒤 단일 `join`으로 전체를 한 덩어리로 기다리는 구조(j.u.c의 fork마다 join과 다름), 한 서브태스크가 실패하면 형제를 취소하고 원인 체인("join 실패←fetchCustomer←accounts 데이터")이 그대로 보이는 예외, 기존 ExecutorService+shutdown으로 흉내 낼 때의 가독성·관측성 문제 대비
+  * Joiner = 스코프의 완료 규칙 전략(기본 awaitAllSuccessfulOrThrow, anySuccessfulOrThrow는 하나만 성공하면 나머지 취소하고 그 값 반환, 사용자 정의 가능), 서브태스크를 취소하는 타임아웃, 부모-자식 관계를 보존하는 JSON 스레드 덤프로 디버깅, ScopedValue(JDK 25 정식)로 보안 컨텍스트 같은 값을 암묵적으로 전달. 여러 프리뷰를 거치며 바뀐 교훈과, API 설계 중 한 번도 바꿀 필요가 없었던 JDK 내부 저수준 프리미티브를 공개—향후 저수준 구조적 동시성 API의 기반이 될 예정
 * [조회 속도 개선하기 (ESM '문의하기' 기능 개편)](https://ebay-korea.tistory.com/109)
 * [Concurrency - Part 1 - Curiosity into `Code`](https://moham.dev/java/Concurrency%20-%20Part%201/)
 * [Concurrency - Part 2 - Curiosity into `Code`](https://moham.dev/java/Concurrency%20-%20Part%202/)
@@ -1161,6 +1164,8 @@ Java
 
 # JDK
 * [Java is Still Free 2.0.0](https://medium.com/@javachampions/java-is-still-free-2-0-0-6b9aa8d6d244)
+* [Everyday JSON in Java | Java - YouTube](https://www.youtube.com/watch?v=Ws_t0rxnv4Y)
+  * Devoxx Belgium 2026(51분), Oracle Java 팀 Viktor Klang·Alan Bateman. 외부 의존성을 넣기엔 너무 작은 일상 용례를 위해 JDK에 JSON 파싱·탐색·생성 API를 넣는 JEP 540(JDK 28 incubator 제안, 2023년 무산된 이전 JEP의 재도전)—Jackson 등 기존 라이브러리 대체가 아니라 라이브러리가 과하거나 불가능할 때의 저마찰 선택지이며 JDK 자체(JFR 녹화 도구 등 서비서빌리티 API의 JSON 출력)도 사용. 데이터 지향 프로그래밍으로 단순화한 설계: 열거된 인터페이스들 위의 sealed interface로 불변 트리를 표현해 패턴 매칭으로 순회·검사, 의도된 용례·설계 트레이드오프·시연
 * [**여러 개의 JDK를 설치하고 선택해서 사용하기**](https://blog.benelog.net/installing-jdk.html) APT/YUM, update-alternatives / alternatives, Homebrew, Chocolatey, direnv, jEnv, SDKMAN, jabba
 * [JDK Mission Control 8 Released](https://www.infoq.com/news/2021/04/jdk-mission-control-8-released/)
 * [Staying JDK: Current in Production - YouTube](https://www.youtube.com/watch?v=YaoGXCwiG9M)
@@ -1341,6 +1346,8 @@ Java
   * [Prototype Loom-based concurrency API for Scala](https://softwaremill.com/prototype-loom-based-concurrency-api-for-scala/)
   * [Game of Loom: implementation patterns ... playing with virtual threads by Mario Fusco - YouTube](https://www.youtube.com/watch?v=70aNTos4Lrc)
   * [Java Next - From Amber to Loom, from Panama to Valhalla by Nicolai Parlog - YouTube](https://www.youtube.com/watch?v=dX8vF4oYGqI)
+  * [Java Next - From Valhalla to Leyden, from Babylon to Panama, from Amber to Detroit by Nicolai Parlog | Devoxx - YouTube](https://www.youtube.com/watch?v=ufhs9THbYZI)
+    * Devoxx Belgium 2026 마지막 슬롯(52분), Oracle Java 개발자 애드보킷 Nicolai Parlog의 OpenJDK 프로젝트 현황 순회. Amber(record·패턴 매칭 등 표현력 부족에서 오는 보일러플레이트를 줄이는 소규모 생산성 기능, 이미 다수 전달), Leyden(훈련 실행에서 JVM의 결정을 AOT 캐시로 캡처해 런타임 시작점으로 삼는 방식—CDS 아카이브의 정신적 후속, 훈련과 프로덕션이 비슷할수록 효과), Valhalla(타입 시스템 통합—value class가 주 메커니즘, 이미 사용 가능해진 단계), Babylon(코드 리플렉션), 시간이 남으면 "프로젝트 스피드런": Panama(FFM API는 25에서 final, Vector API는 value type 최적화 때문에 여전히 incubator), Detroit(Chrome V8 기반 JavaScript·CPython 기반 Python의 Java 스크립트 API 구현, 올해 시작) 등
   * [Prepare for what "Loom"s ahead by Dr. Heinz Kabutz - YouTube](https://www.youtube.com/watch?v=kb_cLmMAff4)
   * [Coroutines and Loom behind the scenes by Roman Elizarov - YouTube](https://www.youtube.com/watch?v=zluKcazgkV4)
   * [#92 Virtual Threads Looming with Adam Warski by Happy Path Programming](https://podcasters.spotify.com/pod/show/happypathprogramming/episodes/92-Virtual-Threads-Looming-with-Adam-Warski-e2ec9d0)
