@@ -1346,6 +1346,8 @@ Artificial Intelligence
     * [Embabel Agent Framework User Guide](https://docs.embabel.com/)
   * [GenAI Grows Up: Building Production-Ready Agents on the JVM • Rod Johnson • GOTO 2025 - YouTube](https://www.youtube.com/watch?v=yMDw0nlWd7s)
     * [JVM에서 프로덕션 준비 에이전트 구축: GenAI 비즈니스 성공 전략 (Rod Johnson, GOTO 2025)](https://livewiki.com/ko/content/genai-production-agents-jvm)
+  * [Embabel Agent v1.5 by Rod Johnson | Devoxx - YouTube](https://www.youtube.com/watch?v=DniA37kVfvI)
+    * Devoxx Belgium 2026(51분). Spring 창시자 Rod Johnson이 작년 발표를 반복하지 않고 코드 중심으로 설명한 Embabel 현황—Spring·Spring AI 위의 JVM 오픈소스 에이전트 프레임워크지만 독립적(IBM Quarkus 팀이 포팅 중, LangChain4j를 아래에 둘 수도, 사내 커스텀 LLM도 인터페이스 하나 구현으로 연결), Kotlin으로 쓰였지만 Java에서도 완전히 관용적. 릴리스 스트림 2개: 1.0(2026-07 GA)과 1.5—Spring Boot 4·Spring AI 버전이 달라 갈라짐. 핵심 개념: 가장 단순한 에이전트가 Spring AI·LangChain4j보다 쉽게 시작되면서도 더 정교, 게임 AI의 GOAP(목표 지향 액션 계획) 플래너가 LLM 아닌 알고리즘으로 현재 상태에서 목표까지의 액션 시퀀스를 도출. 실험 기능은 별도 브랜치 대신 코어에 넣고 `@API status experimental`로 표시하는 운영 방식 권장
   * [Don’t Talk English to Your LLM. Just because LLMs are eloquent in… | by Rod Johnson | Oct, 2025 | Medium](https://medium.com/@springrod/dont-talk-english-to-your-llm-ecbfe954bea1)
     * [LLM과 자연어로 대화하게 두지 마세요 | 요즘IT](https://yozm.wishket.com/magazine/detail/3520/)
   * [자바 vs. 파이썬: 더 나은 에이전트 개발 언어는? | 요즘IT](https://yozm.wishket.com/magazine/detail/3708/)
@@ -1767,6 +1769,10 @@ Artificial Intelligence
     * [Pi 1.0 출시 - 미니멀한 터미널 코딩 에이전트 | GeekNews](https://news.hada.io/topic?id=34632)
     * 2026-10-01 출시. 매주 수십만 명이 쓰는 미니멀 에이전트 하네스를 수개월 피드백으로 다져 1.0으로—새 기능이 유효성을 입증할 때까지 기다린 뒤 기능 가치 vs 복잡성을 따져 채택("벽에 던져 붙은 것만", 떨어진 목록이 훨씬 길다). 추가: Codemode(JavaScript로 도구 호출 조합, MCP·Jev 같은 비LLM 모델·이미지 모델 네이티브 지원), 확장의 가상 모델(데모: Claude Opus가 계획·GPT 6 Luna가 구현·Jev가 전환 시점 판단), 도구 지연 로딩, Anthropic 캐시 워밍, 대화 중 시스템 메시지 변경, 새 TUI 테마·전체 화면 기본
     * 터미널·코딩 에이전트 밖에서 오래 이어지는 대화·작업을 위한 **Pi Durable**을 Pi를 바꾸는 대신 별도 실험 패키지(`@earendil-works/pi-durable`·`pi-ai`·`chord`)로 공개. 둘 다 MIT. HN 반응: 짧은 시스템 프롬프트 덕에 로컬 모델에서도 쓸 만한 유일한 하네스, OpenClaw의 복잡한 정체성 Markdown 대신 기반인 Pi만 남겨 비서 봇을 만든 사례
+  * [What is Codemode | Armin Ronacher](https://lucumr.pocoo.org/2026/10/6/codemode/)
+    * [Codemode, AI 에이전트가 코드로 여러 도구를 조합하는 실행 방식과 MCP 연동 | digitalbourgeois](https://digitalbourgeois.tistory.com/3753)
+    * 1년 전 "Code Is All You Need"·"MCP needs code"에서 도구를 컨텍스트에 싣지 말고 스크립트를 쓰라고 했던 저자가 Pi 1.0에 Codemode(Cloudflare가 명명)로 MCP를 지원하게 된 이유. bash는 "실행되는 프로그램"만 조합할 수 있어 `read`/`view_image`처럼 하네스가 LLM 프로토콜에 직접 주입해야 하는 네이티브 도구나 서브에이전트 생성은 다루기 어려움—Brain(신뢰되는 하네스)과 Hands(bash가 도는 실행 환경, 다른 파일시스템·다른 신뢰 수준, Gondolin 같은 샌드박스)의 경계. Codemode는 하네스 쪽 자체 샌드박스(QuickJS in WASM, 네트워크·파일시스템·타이머 없음, RAM 제한)에서 JavaScript로 도구 호출을 조합—결과가 LLM 컨텍스트를 거치지 않고(일반 bash 도구는 끝 2,000줄만 컨텍스트에), `Promise.all`로 병렬(Pi가 동시 실행 4개로 제한·큐), `store()`로 결과를 트랜스크립트에 저장해 다음 호출에서 재사용
+    * 실제 Pi 세션 코드 예시: 일반 도구로는 컨텍스트만 낭비할 AI SDK 내부 API—이미지 모델로 이미지 생성(`image()`로 LLM에 되돌림), Jev 분류기로 GitHub 이슈 100건 감정 분석, Jev가 게임 엔진 텍스트 덤프를 읽고 다음 행동을 정하는 30스텝 디버깅 루프—와 MCP 호출(도구를 LLM에 노출하지 않고 Codemode 안에서 tool search로 점진적 발견, Sentry MCP는 RL로 이미 알아 바로 호출). MCP 서버가 Codemode 하네스를 아직 겨냥하지 않아 Cloudflare식 "MCP 서버 안의 Codemode"와 겹치면 이중 JSON 이스케이프가 생기는 등 "현대 MCP는 싸움". 남은 과제: 내구성(durable workflow 엔진처럼 호출 스냅샷, 결정론적 Starlark가 더 나은 조합 언어일 수도), 이미지·바이너리 데이터, 작은 모델에서는 안 되는 패턴. 설정 `"defaultTools": ["+codemode"]`
   * [PI-Desktop | A modular desktop workspace for AI agents](https://pi-docs.aiuo.net/)
     * [pi-desktop: Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins](https://github.com/vastsa/pi-desktop)
     * [PI-Desktop, AI 에이전트를 위한 독립형 데스크톱 워크스페이스 | digitalbourgeois](https://digitalbourgeois.tistory.com/3718)
@@ -1995,6 +2001,9 @@ Artificial Intelligence
 * [ELI5 skill: /eli5로 코드를 고치기 전에 HTML 그림으로 이해하기 | Thariq (trq212) on X](https://x.com/trq212/status/2090884854590382515)
   * [앤트로픽의 ELI5 스킬: 코드를 고치기 전에 그림으로 이해하기 | desty](https://desty.github.io/blog/60-eli5-visual-explainer/)
   * Anthropic 사내에서 많이 쓴다는 Thariq의 기법. `/eli5 <설명 대상>` 슬래시 명령에 "이 주제를 전혀 모르는 사람에게 큰 그림과 적은 글로, HTML 아티팩트로 설명하라"는 한 줄 지시를 묶은 것. 에이전트가 관련 코드를 읽고 박스·화살표·SVG로 시스템 흐름을 담은 단일 HTML 문서를 생성. 요청→코드 조사→HTML 구조 설명→사람 확인·수정→구현 순으로 구현 전에 시각적 리뷰 단계를 끼워, 사람과 에이전트가 같은 멘탈 모델을 공유하는지 확인(빠진 박스·틀린 화살표를 쉽게 발견). 단 "그림이 정확성을 보장하진 않음"—실제 읽은 파일 경로 인용·추측/사실 구분·브라우저 확인 등 검증 조건 추가 권장
+* [How AI transforms engineering and inspiring young minds – Ayoub Hammou Ahabchane & Kamel Zaraoui | Devoxx - YouTube](https://www.youtube.com/watch?v=eSSPOCeoF0c)
+  * Devoxx Belgium 2026(51분), ING 13년차 Java 테크 리드(ops→dev 전환, CRM 팀 솔루션 아키텍트·보안 챔피언)와 동료의 경험담. ①규제(국가은행 감독)와 여러 나라에 흩어진 글로벌 조직이라는 제약 속에서 은행 ING가 AI를 도입한 방식—투자 이유는 생산성, 고객 경험(유럽 접근성법 대응을 위해 전체 저장소를 훑어 개선점을 찾는 에이전트로 몇 주 걸릴 일을 단축), 경험에 갇힌 의사결정을 넓혀 주는 조언자, 운영 리스크 관리(계좌 개설 챗봇의 드리프트·환각 방지—"신뢰가 핵심") ②내일의 엔지니어: 웹·가상화·클라우드·빅데이터처럼 AI도 업계 DNA인 또 하나의 혁명이니 받아들여야 하고, 테스트→시스템→Java→컨테이너→프론트로 계속 새 기술을 익혀 온 커리어처럼 계속 배우되 안주하지 않는 호기심과 혁신이 엔지니어의 희소 가치. UX 디자인·단위 테스트·스토리북 등 자동화할 단계를 고르고 질문에 답하면 빈 저장소에 피처를 만들어 주는 사내 위저드 에이전트 데모, 수용 기준만 처음에 잘 적어 두면 에이전트가 일하는 동안 끼어들기에 흔들리지 않는다는 체감
+  * ③커뮤니티 환원: 2019년 참관자로 압도됐던 Devoxx에서 "언젠가 반대편에 서자"던 약속으로 7~14세 아이들이 Lego 등으로 기술을 가지고 놀며 호기심·자신감을 키우는 무료 자원봉사 Code Kids Lab과 보안 체험 Cyber Quest(Space Invader)를 AI로 만들어 운영. 결론 "AI가 만든 솔루션이어도 엔지니어가 가장 중요하다"
 * [State of Agentic Coding by Daniela Petruzalek | Devoxx - YouTube](https://www.youtube.com/watch?v=nHRSwiFNQ9E)
   * [State of Agentic Coding | Devoxx Belgium 2026 CFP](https://dvbe26.cfp.dev/talk/25671)
   * [state-of-agentic-coding: Supporting materials for the State of Agentic Coding talk | danicat](https://github.com/danicat/state-of-agentic-coding)
@@ -2634,6 +2643,9 @@ Artificial Intelligence
 * [CS221: Artificial Intelligence: Principles and Techniques](http://web.stanford.edu/class/cs221)
   * [Artificial Intelligence cheatsheets for Stanfords CS 221](https://github.com/afshinea/stanford-cs-221-artificial-intelligence)
   * learn+homestead — 오래 참고할 설명·따라 할 절차·검증 기록을 함께 담는 한국어 학습 자료 터전. Local LLM 2부작 경로: ① 내 장비에서 LLM 직접 실행(모델·runtime 선택, Ollama 설치~GPU 적재 확인) ② Local LLM을 내 프로그램에 연결(Python 4줄 첫 호출→대화 상태→JSON 구조화 출력→tool calling→읽기 전용 agent와 prompt injection 경계). context 창 64배 축소, JSON 펜스 파싱 실패, 가짜 도구 실행 연기 등 직접 검증한 함정 기록 포함. Python, Apache-2.0
+* [CS2680 Modern AI Systems: Agents and System Optimizations | Harvard](https://cs2680.seas.harvard.edu/)
+  * Harvard SEAS 2026 가을 대학원 강의(Juncheng Yang). Part I 에이전트—Claude Code 동작 원리, 멀티 에이전트로 100x 엔지니어(agent teams), 컨텍스트 관리·도구 설계(ReAct), 멀티 에이전트 아키텍처·조정·통신, 에이전트 메모리·신뢰성(where agents fail, MemGPT), 에이전트 평가, 비용·성능(cost-effective agents), 안전·자기진화 하네스, Snowflake 게스트(엔터프라이즈 에이전트 평가). Part II LLM·에이전트를 위한 시스템—효율적 LLM 서빙 기초, speculative decoding, 스케줄링·prefix caching, pruning·quantization, GPU·커널, KV 캐시 최적화·모델 아키텍처, 라우팅·로드밸런싱, Meta 게스트(인프라가 AI 속도를 정한다)
+  * 과제 5개가 "Mads" 시리즈로 이어짐: Mads-Lens(에이전트가 일하는 것 관찰)→Mads-Loop(루프 직접 구축)→Mads-Opt(토큰 비용 최적화)→Mads-Serve(서빙 엔진 소유)→Mads-Stack(풀스택 최적화)+최종 프로젝트 포스터·데모. 슬라이드 PDF와 강의 노트(agent evaluation, cost-effective agents) 공개
 * [llm_engineering: Repo to accompany my mastering LLM engineering course | ed-donner](https://github.com/ed-donner/llm_engineering)
   * LLM 엔지니어링 마스터링 강의 부속 레포. Jupyter Notebook, 7.5k stars
 * [matrix.skku.ac.kr/2020-Math4AI-Final-pbl2/](http://matrix.skku.ac.kr/2020-Math4AI-Final-pbl2/)
@@ -4268,6 +4280,10 @@ Artificial Intelligence
 * [Andrej Karpathy - AI 역량 이해의 격차가 커지고 있다](https://x.com/karpathy/status/2042334451611693415)
   * [김성완 - 카파시 트윗 번역/요약 | Facebook](https://www.facebook.com/seongwan.kim.3/posts/pfbid0s8p7cSRi5zibTKqKCE7GQ7RJQGZ51gnKzfHXmRzufrmXShaMdwjCNeKzYCFZiKvcl)
   * 무료 ChatGPT를 한번 써보고 AI를 판단하는 사람과, 최신 유료 모델로 깊이 활용하는 사람 사이의 인식 차이 확대
+  * [Andrej Karpathy - Dusting off this tweet from April because this gap in shared understanding of LLM capability is widening | X](https://x.com/karpathy/status/2109361546505966046)
+    * [류내원 - Andrej Karpathy의 "AI 인식 격차가 극단적으로 벌어짐" X 글이 290만 이상 조회되며 크게 회자 | AGI KR](https://www.facebook.com/groups/255834461424286?multi_permalinks=3118360891838281)
+    * 2026-10-11 후속 글. 4월의 "두 집단이 서로 다른 얘기를 한다"는 이제 날카로운 깔때기가 됨—①약 60억 명(~75%)은 LLM을 거의 접한 적 없음 ②10~20억 명(~20%)은 무료 ChatGPT류의 가벼운 사용자로 "좀 나은 구글 검색·글쓰기 도우미" 수준의 어수룩한 챗봇을 봄(수학·코드 밖 전문직, 사람과 대화하는 일이 많은 임원도 여기) ③약 2,000만 명(0.2%)은 수학·코드에서 프론티어 LLM을 전문적으로 쓰며 몇 주·몇 달 걸리던 프로젝트가 프롬프트 하나로 끝나는 것을 직접 봄(1년 전엔 본인도 한 글자씩 코드를 타이핑) ④약 5,000명(0.00006%)은 내부 프론티어 시스템에 접근—수천 에이전트가 몇 주간 협업하는 소프트웨어 메가 프로젝트, 기계 속도의 제로데이 발굴·사이버 공방, 새 과학 발견, 수학 프론티어 전진. 인간의 리뷰·이해는 뒤처지기 시작(OpenAI-HF 사건 "고고학", 722편 프론티어 수학 원고)
+    * 깔때기를 만드는 요인 3가지: 영향은 야망·문제 크기·호라이즌에 비례(한 단락 답변은 시스템을 거의 자극하지 않음—진짜 아끼는 크고 어려운 문제의 저수지가 필요), 디지털·검증 가능·경제적 가치가 있는 영역에서 능력이 치솟는 들쭉날쭉함(검증 가능한 보상의 RL이 수익 잠재력 기준 환경 믹스에서 나오기 때문), 접근 등급(무료·유료·내부). 대중은 어수룩한 챗봇을, 대다수 전문직은 소폭 향상을, 극소수는 수직으로 꺾이는 곡선의 현기증을 동시에 경험하는 기묘한 순간
 * [박정호 - AI를 골탕먹이는 문제를 내는 푸단대 시험 | Facebook](https://www.facebook.com/jeongho.park.733/posts/pfbid0W3vcqA8Gm4MofK77VwaZLLLMwz13oQ6RUU6wdCiwbpXSktCpixEtSX9C8AYDBknMl)
   * [Fudan University on X](https://x.com/FudanUniversity/status/2071874530675749202)
   * 상하이 푸단대 Xiao Yanghua 교수가 시험을 뒤집음—학생 51명이 각자 Claude·DeepSeek·MiniMax를 틀리게 만드는 문제 10개를 출제, AI가 많이 틀릴수록 높은 점수. 51명 중 50명이 최소 1개 모델을 골탕먹였고 4명만 만점(3개 모델 전부 10문제 실패), 평균 85.7점. AI의 한계를 알려면 운이 아닌 깊은 이해·비판적 사고가 필요하다는 취지
@@ -4879,6 +4895,9 @@ Artificial Intelligence
   * [REA — Reverse Engineering for Your Coding Agent](https://rea.tools/)
   * [How To Use REA To Clone Any Software In Minutes | Eric Tech - YouTube](https://www.youtube.com/watch?v=FnB9tHKBJXQ)
     * 9분(2026-10-11). 전 Amazon·Microsoft 엔지니어 Eric의 REA 소개—공개 며칠 만에 6만+ stars(영상 시점), Adobe 제품군까지 복제됐다는 사례 언급. REA를 에이전트에게 Hopper(데스크톱 바이너리)·JavaScript/브라우저·모바일·하드웨어 등 분석 MCP 도구 사용법을 가르치는 스킬로 설명하고, 설치(Node.js 24+ 확인→`npx rea-agents setup`→Claude Code·Codex 선택→Hopper 설치 승인·데모 모드) 후 매일 쓰는 음성 입력 앱 Wispr Flow를 Claude Code+REA로 역설계해 핫키·노트테이커(회의 메모)·로컬 전사(영어·중국어 혼용 인식)가 동작하는 복제판을 만드는 데모. 결론: 코드는 더 이상 방어선(moat)이 아니고 브랜드·실사용자·데이터가 방어선
+  * [소프트웨어는 끝났다는 REA 직접 검증해봤습니다 | GitHub 트렌딩 1위 | 개발동생 - YouTube](https://www.youtube.com/watch?v=rwCDPZP_Zk4)
+    * 16분(2026-10-12). 직접 만든 macOS 노트 앱 NoteVault(C++ 파일 엔진+AppKit, 소스 미제공)를 넘기고 전용 `.nvlt` 파일을 원본 앱 없이 읽는 파이썬 함수를 만들게 하는 과제—같은 모델(GPT-6.1 Sol)·같은 파일·각 10분으로 REA를 붙인 에이전트와 안 붙인 에이전트를 비교. 결과: 정상 8개·손상 8개 파일 16개를 양쪽 모두 전부 맞혔고, REA 없는 쪽도 스스로 Ghidra를 실행해 풀어냄. REA의 강점은 Hopper·Ghidra·IDA 같은 분석 도구를 MCP·CLI로 바로 부르게 하고 함께 설치되는 스킬로 조사 순서를 잡아주는 것이지만, 모델·에이전트가 통합과 가이드를 스스로 처리하게 되면 별도 도구로서의 우위는 사라질 수 있는 AI 래퍼 성격이라는 평가
+    * 사례 소개(1996년 DX-Ball 사운드 위치 계산 함수 복원—3,205개 입력 비교, 63바이트 일치; Notion 복사·붙여넣기가 Electron IPC를 거쳐 시스템 클립보드까지 가는 경로 추적; Steam 게임 30분 내 Unity 포팅). 복제가 쉬워지는 시대에 경쟁력은 우리만 가진 데이터·도메인·결과물 품질·고객 신뢰라는 결론. 주의: REA의 MIT 라이선스는 도구에 대한 것이고 분석 대상 앱의 권리와는 별개—저작권법 제101조의3·4의 조건을 갖춘 경우에만 역분석 가능, 상용 앱은 약관과 법 조건부터 확인(시연은 자작 앱으로만)
   * "마음에 드는 기능을 보면 바이너리 수준까지 어떻게 동작하는지 이해한다"—소스 코드 없이도 앱을 에이전트에게 넘기면 기능을 조사·설명하고 증거를 제시한 뒤 자기 스택에 맞는 버전을 구현하게 하는 리버스 엔지니어링 에이전트 툴킷. 도구 선택·API 학습·증거 이동·다음 조사 대상 결정을 명령·스킬·구조화된 결과·반복 가능한 조사로 에이전트에 위임. 현재 Hopper 또는 Linux의 BYO Ghidra로 네이티브 분석·함수 dossier, 실험적 Windows x64 Ghidra(승인된 PE), 실행 없는 managed PE/CLI 트리아지, 재현 가능한 Evidence 기록, 통제된 프로세스 캡처, 웹사이트·Electron 페이지·Node/Electron V8 Inspector 수동 관찰, JS/소스맵 재구성, 정적 추론과 런타임 관찰을 구분하는 제공자 중립 그래프와 MCP 도구 카탈로그. 로드맵은 API·프로토콜·모바일·펌웨어·버전 간 차이까지. `npm install --global rea-agents && rea setup`, 한국어 README. TypeScript, MIT, 538 stars
   * 2026-10 현황(81k stars): `npx rea-agents setup`이 Claude Code·Codex·Cursor·Gemini CLI·Grok Build 등에 MCP 서버와 조사 워크플로 지시(스킬)를 등록(기존 설정 백업, 승인 후 적용)하고, 로컬 MCP를 지원하는 어떤 에이전트든 수동 등록 가능. 네이티브 분석은 기존 Hopper·Ghidra·IDA 사용(Hopper는 setup이 승인 후 설치 가능), 정적 JS·.NET 분석은 엔진 불필요. 대상: 네이티브 바이너리(의사코드·어셈블리·심볼·호출), 오프라인 ELF 레이아웃, EVM 바이트코드, 기록된 Linux 크래시, JavaScript/Electron(모듈·소스맵·IPC), 웹사이트(Chrome 계열), HAR/mitmproxy 캡처, .NET 어셈블리, Android APK·기기(adb)·JEB·Apktool 리소스, 펌웨어(Binwalk/Unblob), 패키지·Apple 번들, 프로세스 동작 캡처. 분석은 전부 로컬. 쇼케이스: DX-Ball 사운드 팬 계산 C 복원(3,205 케이스 통과), Notion Electron 클립보드 브리지 추적, PC-98 TH04 탄막 링 계산 복원. Node.js 22.19+/24.11+/26+, 암호화폐 토큰 발행·보증 없음 고지
 * [RedAmon — Autonomous AI Pentest Platform](https://www.redamon.org/)
@@ -5557,6 +5576,10 @@ Artificial Intelligence
 * [OpenAlex: The open catalog to the global research system](https://openalex.org/) 논문 검색
 * otranslator [Precise AI Document Translator – Flawless PDFs, DOCX, EPUB](https://otranslator.com/)
   * [O.Translator는 GPT-4.1 mini 및 Claude와 같은 AI 기술을 활용하여 PDF, DOCX, PPTX, XLSX, EPUB, SRT, PO, TXT, XML, JSON 등 다양한 형식의 문서를 고품질로 번역하는 AI 기반 번역 서비스](https://www.linkedin.com/posts/duckjungkim_otranslator%EB%8A%94-gpt-41-mini-%EB%B0%8F-claude%EC%99%80-%EA%B0%99%EC%9D%80-ai-activity-7319364605284073472-PfhD/)
+* [Odysseus — A Self-Hosted AI Workspace](https://odysseus-dev.github.io/odysseus/)
+  * [odysseus: Self-hosted AI workspace](https://github.com/odysseus-dev/odysseus)
+  * AI 챗으로 시작해 워크스페이스가 된 셀프호스팅 앱—로컬·API 모델과의 멀티턴 챗과 도구(bash·파일·웹·메모리)·MCP·스킬·메모리를 쓰는 자율 에이전트, 하드웨어에 맞춰 270+ 카탈로그 모델을 추천·다운로드·원클릭 서빙하는 Cookbook, 출처를 읽고 보고서를 쓰는 Deep Research, 여러 모델에 같은 프롬프트를 보내 블라인드 비교·종합하는 Compare, AI 편집·제안이 붙은 글쓰기 중심 Documents(Markdown·HTML·CSV), IMAP/SMTP 이메일 요약·태그·스팸 분류·답장 초안, 노트·할 일·예약 에이전트 작업·CalDAV 캘린더, 갤러리/이미지 편집기·테마·2FA. 로컬 퍼스트·텔레메트리 없음
+  * `docker compose up -d --build` 후 localhost:7011(첫 관리자 비밀번호는 로그에), ghcr.io 멀티아키 이미지(프로덕션은 `X.Y.Z-<sha>` 불변 태그 고정 권장), `dev`가 기본 브랜치·`main`이 큐레이션 브랜치. 네트워크 노출 시 AUTH_ENABLED 유지·LOCALHOST_BYPASS 비활성. Python, AGPL-3.0, 93k stars
 * [openchrome: Open-source browser automation MCP server for AI agents via CDP](https://github.com/shaun0927/openchrome)
   * [openchrome | GeekNews](https://news.hada.io/topic?id=27072)
   * 45개 도구, 20+ 병렬 작업, 세션 지속성 지원. AI 에이전트가 실제 Chrome 인스턴스 제어
@@ -7520,6 +7543,8 @@ Artificial Intelligence
     * StefanCho. 5년 쓴 tmux를 코딩 에이전트 시대에 맞춘 herdr로 갈아탄 과정. 설치·개념(Workspace/Tab/Pane), Claude Code·Codex 에이전트 상태(idle·working·blocked)를 한 화면에서 관리(20분)
   * [herdr is a must use - YouTube](https://www.youtube.com/watch?v=2CR9tDNAzB0)
     * Academind. 에이전틱 워크플로우 구동에 특화된 터미널 멀티플렉서. tmux보다 단순하면서 여러 AI 에이전트 작업을 병렬로 몰아주는(herd) 데 강점
+  * [Exploring Herdr Plugins: Multi-Agent Orchestration and Workflows | Tonbi's AI Garage - YouTube](https://www.youtube.com/watch?v=82S8fmes9T0)
+    * 19분(2026-10-12). 몇 달 써 본 Herdr는 기본은 미니멀하고 커뮤니티 플러그인으로 확장하는 구조—코어 기능인 Herdr CLI로 다른 에이전트 세션이 무엇을 하는지 조회하고 세션 간 메시지를 보내는 상호 인지 위에, 조정자가 직접 일하지 않고 항상 사용자 질문에 답할 수 있게 비워 두면서 병렬 워커 스레드·공유 메모리·"내 확인이 필요한 것" 개요를 제공하는 오케스트레이션 플러그인(585 stars짜리 인기 플러그인 등) 시연—리서치·워크플로 설계·레드팀·최종 문서 같은 단계별 pane을 조정자에게 말로 띄우고 진행 상황을 지켜보는 흐름. 코드 리뷰 플러그인 편의 후속
   * [awesome-herdr: A curated guide to the Herdr ecosystem — tools, workflows, configs, clients, skills, and integrations](https://github.com/yigitkonur/awesome-herdr)
 * [entroly — Self-Evolving Daemon](https://juyterman1000.github.io/entroly/)
   * [entroly: Compress 2M-token repos into a razor-sharp Principal Engineer context. 85-99% fewer tokens, 100% accuracy retention](https://github.com/juyterman1000/entroly)
@@ -8588,6 +8613,16 @@ Artificial Intelligence
   * Fengzhe Zhou·Jiannan Huang·Jialuo Li·Deva Ramanan·Humphrey Shi(2025-12). 실세계 동역학을 지각·예측하는 Physical AI 능력을 영상 생성·조건부 영상 생성·영상 이해 세 축에서 통합 평가하는 벤치마크—2,808개 실세계 사례, 물리적 타당성과 도메인 추론을 잡는 과제별 지표. 영상 생성 모델은 시각 충실도가 높아도 물리적으로 일관된 동역학 유지에 자주 실패하고, 멀티모달 LLM은 예측·인과 해석이 제한적이라 현재 시스템은 Physical AI의 지각·예측 요구에 아직 초기 단계라는 결론
 * [2601.05230 Learning Latent Action World Models In The Wild](https://arxiv.org/abs/2601.05230)
   * [라벨링에 의존하는 AI는 현실에서 생존할 수 없다 | Suk Hyun K.](https://www.linkedin.com/posts/suk-hyun-k-31ba9b369_sqsrguriwqzc-worldmodel-ai-ugcPost-7417354333316632576-1sFF/)
+* [2609.20800 JEPA-Anything: Learning Predictive Models across Different Worlds](https://arxiv.org/html/2609.20800v1)
+  * [Beyond Domain-Specific World Models: JEPA-Anything Uses 1 Recipe for 7 Fields | MarkTechPost](https://www.marktechpost.com/2026/10/05/beyond-domain-specific-world-models-jepa-anything-uses-1-recipe-for-7-fields/)
+  * [JEPA-Anything, 7개 분야 월드 모델을 하나의 원리로 학습하는 OPF 기술 정리 | digitalbourgeois](https://digitalbourgeois.tistory.com/3756)
+  * Taoyong Cui·Mengyue Yang 외(2026-09-17). 분야별로 따로 만들던 예측 모델을 하나의 도메인 불문 원리로—JEPA를 확장한 OPF(Orthogonal Predictive Factorization)가 잠재 타깃을 서로 직교하는 보완적 요소 K개(d=K×r)로 분해해 각각 전용 예측기로 학습한 뒤 공유 예측 설계 안에서 재결합. 하나의 통합 표현을 예측하면 강한 패턴이 약한 패턴 학습을 방해하는 문제를 피하고, 직교 제약으로 재결합 안정성 확보(Interventional Pong에서 파라미터 수를 맞춘 비제약 다중 헤드 조건수 438.52 vs 직교 적용 1.00005)
+  * 비전·생물학·임상 궤적·제어·분자동역학·물리장·기상 7개 도메인에서 표현 학습·개입 예측·OOD 일반화·장기 동역학 평가—대응 JEPA 베이스라인 대비 동역학 과제 10개 전부 향상, Interventional Pong 단일 개입 예측 오차 34.8% 감소, 분자 시스템 4종 모두에서 1스텝·100스텝 롤아웃 오차 최저, 임상 이벤트 1,000건+ 예측. 예측을 넘어 요소가 지명한 생물학적 개입이 세포 공배양·환자 유래 오가노이드·종양 조직·마우스 실험으로 뒷받침되고, 잠재 궤도 모드가 케플러 스케일링 지수를 기울기 -1.4991로 복원—월드 모델링을 개입과 실험 기반 과학 발견에 연결. 코드 공개
+* [2610.06805 H-JEPA: End-to-End Learning of Hierarchical World Models for Visual Planning](https://arxiv.org/html/2610.06805v1)
+  * [얀 르쿤의 월드 모델 'H-제파', 단·장기 계획 분리로 로봇 경로 계획 성공률 73% 달성 - AI타임스](https://www.aitimes.com/news/articleView.html?idxno=216129)
+  * [류내원 - 얀 르쿤의 월드 모델 'H-JEPA', 단·장기 계획 분리로 로봇 경로 계획 성공률 73%... | Facebook](https://www.facebook.com/won.wizard/posts/pfbid02XyV2duFJ1utLKs3vvDG2PFCS1s8NQdv7pzPeQqZGhdJfV4BzetfNy1R9P3QSM5dKl)
+  * Wancong Zhang·Basile Terver·Michael Rabbat·Yann LeCun·Randall Balestriero(2026-10-05). 기존 task-agnostic JEPA 월드 모델은 단일 시간 스케일 또는 하나의 공유 잠재 공간에서 여러 호라이즌을 예측하는데, H-JEPA는 각 계층이 자기 잠재 공간에서 더 멀리 예측하는 행동 조건부 JEPA 계층을 엔드투엔드로 학습—플래닝은 상위 계층이 목표 진전을 최적화하고 그 예측이 하위 플래너의 서브골이 되는 톱다운. 데이터 요인이 분리된 시간 스케일로 변하면 상위 계층은 빠르고 예측 불가능한 세부를 버리고 느린 과제 관련 상태만 유지
+  * 시뮬레이션 내비게이션·조작 환경 4종에서 flat JEPA 대비 향상, Visual AntMaze는 3계층으로 성공률 18%→73%(플래너 연산은 더 적게). 어블레이션은 시간 분해와 상위 목표 표현 둘 다에 기여를 돌림. 역동역학 지도로 DROID 실제 로봇 영상까지 확장해 오프라인 플래닝 충실도 향상—다만 오프라인 경로 재현 평가라 실제 로봇 제어 성능은 추가 검증 필요. 향후 상위 계층 표현을 언어와 연결해 목표 이미지 대신 자연어 지시로 계획하도록 확장 예정
 * [2610.10515 RoboJEPA: Scaling Robotic Latent World Models](https://arxiv.org/html/2610.10515)
   * Meta FAIR 등(Artem Zholus·Mahmoud Assran·Nicolas Ballas·Jeannette Bohg·Sarath Chandar 외). JEPA(Joint Embedding Predictive Architecture) 기반 로봇 latent 월드 모델을 12종 로봇 embodiment 실데이터로 학습—실로봇 데이터 기반 멀티 embodiment 월드 모델의 스케일링 법칙을 처음 확립, 8B 파라미터로 지금까지 가장 큰 JEPA predictor
   * latent 롤아웃 오차(imagination error)가 연산량에 대해 2차 power law를 따라 피팅 범위 밖의 모델 품질을 예측 가능. 다운스트림 로봇 플래닝 성능도 연산량과 함께 예측 가능하게 향상되며 imagination error와 강하게 상관—실로봇 평가의 신뢰할 수 있는 프록시
