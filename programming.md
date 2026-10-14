@@ -1805,6 +1805,9 @@ Programming
 * [CockroachDB’s Architecture Is Kind of Insane - YouTube](https://www.youtube.com/watch?v=jxso9wTBkNg)
   * [Algoroq - System Design, Interview Prep & Engineering Guides](https://algoroq.io/resources/)
   * Akhil Sharma의 시스템 디자인 영상 채널. 1,210+ 아키텍처·시스템 디자인 다이어그램(Airtable, Google Colab, Datadog, DeepSeek, Discord, Dropbox 등). 인터랙티브 HTML + Excalidraw 소스.
+* [PayPal Isn't a Payments Company. It's a Risk Engine. | Akhil Sharma - YouTube](https://www.youtube.com/watch?v=zfx317kPOJM)
+  * Akhil Sharma(Algoroq) 50분 시스템 디자인 딥다이브—PayPal 사기 탐지 엔진의 역사와 아키텍처. 2000년 여름 월 1,000만 달러 이상 사기 손실, 사기율 1% 초과로 Visa·Mastercard 퇴출 위기에서 CTO Max Levchin이 이틀 코딩 마라톤으로 만든 세계 첫 상용 CAPTCHA(가동 첫날 신규 가입 50% 감소=절반이 봇), 괴롭히던 해커 이름을 딴 네트워크 패턴 스캐너 Igor, 소액 2회 입금 계좌 검증까지 사기와의 전쟁에서 나온 발명들. 오늘날 연 1.8조 달러·250억 건·4.39억 계좌·초당 800건을 결제 전환율 때문에 100ms 예산 안에서 판정
+  * 파이프라인 단계별 공학 문제: 증거 수집(최근 수 분의 velocity 피처—"이 기기가 24시간에 쓴 카드 수", "이 네트워크 블록의 10분 내 로그인 실패 수"—에 100ms 대부분이 소모), 레이블은 카드 소유자의 chargeback에서 나와 지연·희소, 로그하지 않은 정보는 영원히 잃는 자기강화 데이터 파이프라인. 그래프로 확인된 사기 1건에서 연결된 20개 계정을 찾는 네트워크 관점—사용자가 늘수록 엣지가 늘어 사기가 더 빨리 드러나는 안티프래질 시스템. 모델 4세대가 모두 프로덕션 공존: ①Igor 시대 수기 규칙+인간 조사관(투명하지만 며칠이면 우회) ②로지스틱 회귀(가중치가 처음으로 데이터에서) ③2010년대 gradient boosted trees(표 형식 거래 데이터에 최적) ④수백만 고유값(가맹점·기기 모델·이메일 도메인·배송지)의 표현을 자동 학습하고 수십 변수에 걸친 조합 패턴을 잡는 신경망. 사전 계산 설계의 대가는 오프라인(월 단위 배치 학습)·온라인 두 버전의 피처 불일치. 교훈: 대규모 시스템은 빨라서가 아니라 생각과 계산을 미리 끝내 놓아서 이긴다
 * [티켓 예매 시스템 | 고객 요구에서 설계로 가는 접근법 - YouTube](https://www.youtube.com/watch?v=7excI-0n2xk)
   * 코딩하는기술사. 콘서트 티켓 예매 시스템 설계 실무 흐름—기술부터 고르지 않고 고객 요구사항에서 출발해 결정에 이르는 과정 자체를 보여주는 아키텍처 설계 연습
 * [내가 대규모 트래픽을 만나면 제일 먼저 하는 일 - YouTube](https://www.youtube.com/watch?v=1CRNXpfYvZE)
@@ -4148,6 +4151,10 @@ Programming
 * [(정리) 멀티 클라우드로 게임 서비스 운영하기](https://brunch.co.kr/@topasvga/1927)
 * [Multicloud failover is almost always a terrible idea | CloudPundit: Massive-Scale Computing](https://cloudpundit.com/2021/10/14/multicloud-failover-is-almost-always-a-terrible-idea/)
 * [클라우드 우분투에 gui로 원격 연결하기](https://evols-atirev.tistory.com/27)
+* [Running Payments on AWS, GCP and Azure at Once | InfoQ - YouTube](https://www.youtube.com/watch?v=xOi7yW4VmWw)
+  * [Form3 Multi-Cloud Architecture: Running Payments on AWS, GCP and Azure at Once | InfoQ](https://www.infoq.com/presentations/form3-multicloud-architecture/)
+  * QCon London 2026, Form3(영국·유럽·미국 계좌 간 결제 처리)의 Ross McFarlane·Kevin Holditch(45분). 2021년 영국 금융 규제기관이 클라우드 집중 리스크를 지적하며 "은행은 클라우드를 빠져나올 수 있어야 한다"고 한 뒤 대형 고객 은행이 멀티클라우드를 요구—4~10명 시절 AWS에 의도적으로 꽉 묶었던 v1(Java 마이크로서비스 on ECS, SQS, RDS Postgres)을 "클라우드 공급자 하나를 가용 영역처럼 다룬다"는 발상으로 AWS·GCP·Azure 동시 active-active-active인 v2로 재구축. 각 클라우드에 Kubernetes 클러스터, 고객이 어느 클라우드 엔드포인트로든 보내는 클라이언트 측 로드밸런싱, 데이터 계층 난제는 벤더에 위임—NATS JetStream(이벤트 버스 복제)과 Postgres 호환 CockroachDB(9개 pod Raft 합의, 5개 필요하므로 PodDisruptionBudget 설정이 느슨하면 클라우드 하나 잃을 때 4개로 떨어져 전체 장애가 날 수 있어 커스텀 Kubernetes 오퍼레이터 작성·오픈소스 공개)
+  * 실제 Google Cloud 대규모 장애(3~4시간) 때 GCP pod 크래시 루프 저수준 알림만 뜨고 결제는 다른 두 클라우드로 계속 흘러간 경험. 미국은 다른 선택—거리 때문에 레이턴시가 커 3중 active를 펼칠 수 없고 고객도 비제로 RTO/RPO를 받아들이는 시장이라 AWS 동부 active + GCP 서부 standby로: 서비스는 쉽고, 데이터는 NATS 스트림만 상대 클라우드로 복제해 서비스가 로컬 저장소에 다시 쓰게 하고, TCH RTP 연결은 IBM MQ 브로커 쌍이 같은 IP를 광고하며 BGP 라우트 전환으로 페일오버. 운영 2일차 과제(유지보수 부담이 된 초기 결정들)까지 솔직하게 다룸
 * [Cloud Resource Naming Conventions - Cloud Architecture - HUIT Confluence](https://confluence.huit.harvard.edu/display/CLA/Cloud+Resource+Naming+Conventions)
 * [‘역설투성이'··· 우리가 클라우드를 싫어하는 11가지 이유 - CIO Korea](https://www.ciokorea.com/news/177989)
 * [스태틱 파일 버저닝 - 신현석(Hyeonseok Shin)](https://hyeonseok.com/blog/871)
@@ -10323,6 +10330,8 @@ Programming
   * [Project Zero: A walk through Project Zero metrics](https://googleprojectzero.blogspot.com/2022/02/a-walk-through-project-zero-metrics.html)
 * [AWS US-EAST-1 Outage: Postmortem and Lessons Learned](https://www.infoq.com/news/2021/12/aws-outage-postmortem/)
 * [2022년 1월 100% 할인 이벤트 장애 부검](https://tech.inflab.com/202201-event-postmortem/)
+* [An Architectural Post-Mortem of an 11TB Exadata Failure | Devoxx - YouTube](https://www.youtube.com/watch?v=Qw6845LaSGw)
+  * Devoxx Belgium 2026(49분), 독일 2위 은행 Commerzbank(고객 2,000만)의 테크 리드/솔루션 아키텍트. 100억 레코드·11TB(현재 14TB, 상한 25TB) Oracle Exadata 시스템이 멈춰 은행이 다운되고 독일 금융감독청 BaFin 조사까지 간 사건—"Oracle이 실패한 게 아니라 아키텍처가 실패했다"(DB는 살아 있었음). 발표 승인에 9명을 거쳤고 일부 익명화. 긴급 완화, 놓친 쿼리 윈도 점검, 캐시 워밍, 읽기 쪽 중복 제거를 쓰기 쪽으로 옮기기(읽기 4,000만/일보다 쓰기가 2배인데 읽기 시 정합성 처리), 2·3번 들여다보면 잘못된 파티셔닝, 그리고 Cloud PostgreSQL로의 무손실 dual-write 마이그레이션 설계
   * 인프런에서 연초 이벤트를 진행하면서 겪은 장애 상황을 정리한 글
   * Node.js로 작성된 모노리식 서버를 AWS ECS Fargate로 서버를 운영하고 Aurora PostgreSQL을 사용 중
   * 연초 이벤트로 트래픽이 증가하면서 며칠에 걸쳐서 큰 장애
