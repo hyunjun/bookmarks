@@ -877,6 +877,9 @@ App
 * [Excalidraw | Hand-drawn look & feel • Collaborative • Secure](https://excalidraw.com/)
   * [Excalidraw - 오픈소스 가상 칠판 협업도구 | GeekNews](https://news.hada.io/topic?id=4234)
   * [💡 How to work with ALIGN FUNCTIONS in Excalidraw 👀 | TUTORIAL #14 - YouTube](https://www.youtube.com/watch?v=hROUh9lmtik)
+  * [⏱️ Excalidraw in Seconds: Meet the CLI 🚀 | Excalidraw - YouTube](https://www.youtube.com/watch?v=AzODN_qw53k)
+    * [cli: Official Excalidraw CLI for humans and agents](https://github.com/excalidraw/cli)
+    * 40초 공식 소개(2026-10-12)—Excalidraw+ 계정이나 로컬 파일로 다이어그램을 렌더링해 코딩 에이전트에게 더 나은 시각적 피드백을 주는 CLI. `npm install -g @excalidraw/cli`(Node 22+, `npx`로 설치 없이 시험): 로컬 `.excalidraw` 파일을 계정 없이 PNG로 렌더(`excalidraw render drawing.excalidraw --out drawing.png`, stdin/stdout 파이프 가능, 설치된 Chrome·Edge·Chromium·Firefox 사용), Excalidraw+ API 키로 로그인하면 컬렉션·씬 생성·내용 가져오기·패치·프레임 단위 렌더까지 워크스페이스 관리. 출력이 기본 JSON이라 jq·셸 스크립트·AI 에이전트와 바로 연결. TypeScript, MIT
 * Jami [The Jami conferencing system](https://jami.net/the-jami-conferencing-system/)
 * [LiveKit - Open source infrastructure for real time audio and video.](https://livekit.io/)
   * [LiveKit - 실시간 커뮤니케이션 플랫폼 오픈소스 | GeekNews](https://news.hada.io/topic?id=4642)
@@ -1775,6 +1778,8 @@ App
     * 10. 스마트폰에서 불필요한 사진을 효과적으로 삭제하는 방법.
     * 11. 파일 삭제와 일정 검색을 통해 효율적 업무 운영
 * [Mac에서 사용하는 툴들](https://github.com/msbaek/memo/blob/master/mac-tools.md)
+* [바이브 코딩이 맥 앱 시장을 바꿨습니다. (유료보다 나은 무료 앱 5개) | 서울리안 SEOULiAN - YouTube](https://www.youtube.com/watch?v=frqfwvC4LCg)
+  * 12분(2026-10-14). 바이브 코딩으로 개발자 한 명이 유료 앱 수준의 완성도를 만들어 GitHub에 무료 공개하는 일이 흔해진 2026년 맥 앱 시장—광고·기능 잠금·업데이트 중단이던 "무료라서 어쩔 수 없다"가 깨지고, 사용자가 개선안을 올리면 개발자가 AI로 빨리 반영(Vorssaint는 첫 커밋 사흘 만에 GitHub 트렌딩 상단, Mole 저장소엔 AGENTS.md와 .claude 폴더가 그대로). 유료 앱을 대체하는 무료 5종: Handy(Whisper Large v3 Turbo 로컬 받아쓰기, 단축키 누른 채 말하면 커서에 입력·외부 전송 없음), Input Source Pro(앱별 마지막 입력 소스 기억—터미널·편집기는 영어, 메신저·메모는 한국어, 전환 시 커서 옆 표시), Forel(Hazel 42달러 대체 폴더 자동 정리, Dry Run으로 미리보기, 조건별 동적 폴더 생성은 아직 없음), Mole(CleanMyMac 대체 터미널 청소·앱 삭제, 악성코드 검사는 없음), Vorssaint(메뉴바 70+ 기능—앱별 볼륨 믹서·노치 다이내믹 아일랜드·스크롤 캡처·AI 에이전트 사용량 표시). 설치: `brew install mole`, `brew install --cask handy input-source-pro vorssaint lab421/tap/forel`,
 * [코드에서 macOS 노티피케이션 센터 띄우기 - 용균](https://edykim.com/ko/post/putting-the-macos-notification-center-in-code/)
 * [맥OSX에 윈도우 10 설치하기 (외장 HDD 또는 외장 SSD에 설치)](https://www.youtube.com/watch?v=G6aZ7wImY1Q)
 * [최신 맥에 윈도우를 설치하는 3가지 방법 | 공대생신동민 - YouTube](https://www.youtube.com/watch?v=91CAqAlW7fI)
@@ -1971,6 +1976,9 @@ App
   * 앱별 볼륨 조절·다중 출력 장치·오디오 라우팅·10밴드 EQ를 제공하는 macOS 메뉴바 앱. SoundSource의 무료 오픈소스 대안. Swift, GPL-3.0, 8.2K stars
 * [finicky: A macOS app for customizing which browser to start](https://github.com/johnste/finicky)
 * [flashlight - the missing Spotlight plugin system](https://github.com/nate-parrott/Flashlight)
+* [Forel - File automation for macOS](https://forel-app.github.io/)
+  * [forel: File automation for macOS. The open source Hazel alternative for macOS](https://github.com/lab421/forel)
+  * 폴더를 감시해 파일명·확장자·종류·크기·날짜·태그·색 라벨·내용(이미지·스캔 PDF는 온디바이스 OCR) 규칙으로 이동·이름 변경·태그·라벨을 자동 적용하는 메뉴바 앱—Downloads의 청구서는 Work/Invoices/2026/, 사진은 Photos/2026/March/로. 100% 온디바이스·클라우드 없음, macOS 14+, `brew install --cask lab421/tap/forel`. Swift, GPL-3.0, 800 stars
 * [GhostVM - Mac Virtual Machine for Secure Development](https://ghostvm.org/)
   * [GhostVM](https://github.com/groundwater/GhostVM)
   * AI 에이전트·샌드박스 코드·신뢰할 수 없는 프로젝트용 격리된 macOS 워크스페이스. Apple Silicon 네이티브
@@ -2000,6 +2008,9 @@ App
 * [IINA - The modern media player for macOS](https://iina.io/)
   * [맥 어플 추천 IINA - 최고의 동영상 플레이어](https://truesale.tistory.com/215)
 * [ImageOptim — better Save for Web](https://imageoptim.com/mac)
+* [Input Source Pro](https://inputsource.pro/)
+  * [InputSourcePro: Switch and track your input sources with ease ✨](https://github.com/runjuu/InputSourcePro)
+  * 입력 소스를 자주 바꾸는 다국어 사용자용 무료 오픈소스 macOS 유틸리티—앱별 기본 입력 소스, 브라우저(Safari·Chrome·Arc·Edge·Firefox 등)에서는 웹사이트별 입력 소스 지정, 앱·사이트를 오갈 때 자동 전환, 현재 입력 소스를 보여 주는 화면 표시(마우스 길게 누를 때·전환 시·앱 전환 시 선택). 앱별 영어 문장부호 강제(코드 편집기·터미널에서 전각 기호 방지), 앱별 F1~F12 기능 키 모드 전환. 같은 개발자의 오프라인 Grammarly 대안 Refine 소개. Swift, GPL-3.0, 3.6k stars
 * iNet Network Scanner [The iNet Network Scanner and Toolbox for Mac](https://inetapp.de/)
   * [아이넷 네트워크 스캐너 리뷰 | 로컬 네트워크 현황을 '한눈에' - ITWorld Korea](https://www.itworld.co.kr/news/229159)
 * itsycal [맥 어플 추천 Itsycal(이치칼) 메뉴 막대 달력](https://truesale.tistory.com/entry/%EB%A7%A5-%EC%96%B4%ED%94%8C-%EC%B6%94%EC%B2%9C-Itsycal%EC%9D%B4%EC%B9%98%EC%B9%BC-%EB%A9%94%EB%89%B4-%EB%A7%89%EB%8C%80-%EB%8B%AC%EB%A0%A5)
