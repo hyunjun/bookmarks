@@ -1,7 +1,9 @@
 History
 =======
+* [AllaboutHistory](https://historylibrary.net/)
 * [histography.io](http://histography.io/)
 * [geacron.com/home-en](http://geacron.com/home-en/)
+* [Nasica의 뜻은 ?](https://nasica1.tistory.com/)
 * [runningreality.org](http://www.runningreality.org/) Explore the history of human civilization from 3000BC to today
 * [영어의 변천사와 어원으로 살펴본 숫자들](http://ppss.kr/archives/36042)
 * [날아오는 화살을? 놀라운 활쏘기](http://techholic.co.kr/archives/28426)
