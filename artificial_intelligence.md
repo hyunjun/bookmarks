@@ -2243,6 +2243,11 @@ Artificial Intelligence
   * 벤치마크 구축(Harbor eval), 에이전트 디버깅에 저평가된 관측성(문제는 대개 컨텍스트), traces→큐레이션→실험으로 이어지는 데이터 플라이휠, LangSmith Engine 데모
 * [Adversarial review | Jesse Vincent](https://blog.fsck.com/2026/05/01/adversarial-review/)
   * AI가 자기 작업물을 검토하면 이해상충(자기 시험지 채점)이 생기므로, 여러 서브에이전트를 경쟁시켜("심각한 이슈 가장 많이 찾는 쪽이 5점") 더 많은 문제를 찾게 하는 기법. "fresh eyes"로 다시 보게 하는 단순 기법도 효과적
+* [I Believe Everything My Agents Tell Me: Three Levels of Review — Corey Gallon, Rexmore | AI Engineer - YouTube](https://www.youtube.com/watch?v=dYh7TQkuYFE)
+  * [I Believe Everything My Agents Tell Me | Corey Gallon](https://gallon.me/i-believe-everything-my-agents-tell-me)
+  * [agent-review: Your agents say they're done. Here's how to know](https://github.com/captivus/agent-review)
+  * AI Engineer NYC 2026(12분). 초안 에이전트의 자체 점검을 통과한 독촉장(demand letter)을 독립 리뷰어 에이전트 둘이 보니 "만료됐다"던 계약이 3주 전에 갱신돼 있었고 보냈다면 수천 달러를 물 수 있었던 사례에서 시작—에이전트의 반복 실패 3가지(한 일을 과장, 사실을 잘못 읽음, 결론을 잘못 냄)에 대응하는 3단계 리뷰. 본인의 2026년 세션 분석에서 약 10번 중 4번 중대 오류가 있었다는 것은 자기 표본 설명이지 모든 에이전트의 오류율은 아님. Level 1 산출물 또는 명시된 실패: 작업이 파일·위치·검사를 지정하고 에이전트는 `ARTIFACT-VERIFIED`+핑거프린트 또는 `ARTIFACT-MISSING`+이유로 끝냄. Level 2 소스 대조 독립 추출: 답이 맞춰야 할 통제 합계를 소스에서 찾고 서로의 작업을 못 보는 에이전트 둘이 같은 일을 한 뒤 세 번째가 모든 차이를 소스로 판정—스캔된 회계 명세서 1년치에서 56건 차이를 찾아 1센트까지 맞는 장부 생성. Level 3 적대적·fresh 리뷰: 자기 주장 감사→결점을 찾을 이유가 있는 실제 독자 역할의 콜드 리뷰어→수정본은 새 리뷰어가 검토—메모리 누수 조사에서 잘못된 재현과 과장된 수정을 메인테이너 머지 전에 잡아냄
+  * 원칙: 모든 주장을 측정됨·소스 확인됨·추론·가정으로 표시, 리뷰어에게 히스토리·초안·기대 답은 주지 않는 진짜 독립성, 리뷰어도 틀리므로 발견 사항도 소스로 검증하고 수정은 작성자가 아닌 에이전트가 확인, 새 라운드에서 중요한 게 안 나올 때까지 반복, Claude Code·Codex에 다른 모델 리뷰어 섞기. 각 사례의 시간·토큰 비용을 보고하고 방법을 스킬로 공개(`~/.claude/skills/agent-review`)—검사 워크플로를 뒷받침하는 증거일 뿐 리뷰가 모든 오류를 없앤다는 보장은 아니라고 명시. MIT
 * [Navigating Silent Failures in AI: Strategies for Effective Oversight | Real Python Podcast #308 - YouTube](https://www.youtube.com/watch?v=eaDX1FF8H4s)
   * Calvin Hendryx-Parker, 발표 'Orchestrate Agentic AI: Context, Checklists, and No-Miss Reviews' 후속 대담. 대형 문서를 LLM에 넘길 때의 조용한 실패—LLM은 확신에 차 있지만 무엇을 안 읽었는지 알 수 없는 '컨텍스트의 비극', 파일 포맷 문제·첨부 누락·조용한 절단(silent truncation)
   * 에이전트·훅·스킬·스크립트를 Markdown으로 구성한 예제 프로젝트(GitHub 공개), 감사 추적(audit trail) 구축, 문서 추출·임베딩, 에이전트로 모델 고르기, 토큰 시장 동향까지
