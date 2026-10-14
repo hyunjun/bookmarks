@@ -6687,6 +6687,9 @@ Javascript
 * [**TypeScript 환경에서 Redux를 프로처럼 사용하기**](https://velog.io/@velopert/use-typescript-and-redux-like-a-pro)
 * [Typescript Tips Series: Proper Typing of react-redux Connected Components](https://medium.com/knerd/typescript-tips-series-proper-typing-of-react-redux-connected-components-eda058b6727d)
 * [Using React with Redux and TypeScript](https://blog.usejournal.com/using-react-with-redux-and-typescript-c7ec48c211f6)
+* [Types Are Worth the Typing - Filip Sodic - NDC Oslo 2026 | NDC Conferences - YouTube](https://www.youtube.com/watch?v=Vhjo1myKaCk)
+  * 60분. Haskell을 가르치고 웹 프레임워크 Wasp를 만드는 Filip Sodic이 Haskell에서 배운 타입 활용법을 TypeScript로 옮긴 발표—컴파일 타임 버그 잡기는 빙산의 일각이고, 엔지니어링 산출물은 타입→코드(검증·단위 테스트·변수명)→문서(주석·MD·Notion·이슈)→머릿속 기억 순으로 흘러가는데 기억은 빨리 사라지니 가능한 한 많은 맥락을 타입 쪽으로 밀어 넣자는 주장. 타입을 "값의 집합"으로 생각하기, 유니언으로 집합을 좁히기, 전화번호·이메일처럼 유니언으로 나열할 수 없는 사실상 무한 집합은 branded type(소 낙인)+private 타입과 public 생성 함수(파싱·DB 읽기)로만 만드는 smart constructor로 다루기
+  * 커피 주문 도메인 예제로 "밀크 넣은 에스프레소", "샷 들어간 드립"처럼 잘못된 상태를 표현 불가능하게(illegal state unrepresentable) 만들어 단위 테스트 3개를 지우고 문서 필요도 줄이는 과정. AI 에이전트 시대에도 타입이 유효한 이유—"연료 채워"처럼 암묵적 맥락이 실린 지시를 에이전트가 잘못 해석(디젤 vs 가솔린)할 수 있으니 타입이 그 맥락을 기계가 확인 가능한 형태로 고정. 예제는 TypeScript지만 ADT·branded primitive·smart constructor 패턴은 현대 언어 대부분에 적용
 * [A Type-Driven Approach To React and Redux Using TypeScript | by Drew Carver | Func Shui | Medium](https://medium.com/func-shui/a-type-driven-approach-to-react-and-redux-using-typescript-f93470b0d724)
 * [React Redux Toolkit with TypeScript | usage with Next 13 | app directory - YouTube](https://www.youtube.com/watch?v=lojIR6XehW8)
 * [Why would you NOT use TypeScript?](https://medium.freecodecamp.org/why-would-you-not-use-typescript-67d0baa3eaca)
