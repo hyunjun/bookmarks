@@ -4118,7 +4118,12 @@ NLP
   * [ts-agents: Demonstration of agentic capabilities in TypeScript](https://github.com/run-llama/ts-agents)
   * [WhatsApp-Llama: Finetune a LLM to speak like you based on your WhatsApp Conversations](https://github.com/Ads-cmu/WhatsApp-Llama)
     * [WhatsApp-Llama - 자신의 왓츠앱 대화로 LLM 파인튜닝 하기 | GeekNews](https://news.hada.io/topic?id=11008)
-* [llamafile: Distribute and run LLMs with a single file](https://github.com/Mozilla-Ocho/llamafile)
+* [llamafile: Distribute and run LLMs with a single file](https://github.com/mozilla-ai/llamafile)
+  * [llamafile | Mozilla.ai Docs](https://docs.mozilla.ai/llamafile)
+  * [Llamafile: Local LLMs Made Easy - YouTube](https://www.youtube.com/watch?v=d1Fnfvat6nM)
+    * Igor Riđanović(2023-12, 6분). Justine Tunney가 만든 llamafile을 Windows에서 설치해 NVIDIA GPU로 돌리는 튜토리얼과 ChatGPT GPT-4 대비 로컬 Llama 속도 비교. 2023-12-26 이후 Windows GPU가 기본 동작해 CUDA/MSVC 설치 단계는 구식(`-ngl 35` 플래그는 여전히 필요)
+  * llama.cpp + Cosmopolitan Libc를 결합해 LLM 가중치·실행기를 설치 없이 대부분의 OS·CPU 아키텍처에서 그대로 실행되는 단일 실행 파일로 묶는 Mozilla Builders 프로젝트(2023-11 공개). 이후 Mozilla.ai가 인수해 리뉴얼—레포가 Mozilla-Ocho에서 mozilla-ai로 이동, 0.10.x부터 최신 llama.cpp에 맞춘 새 빌드 시스템(최신 모델 지원, 일부 구 기능 누락 가능)
+  * whisper.cpp 기반 단일 파일 음성 인식 도구 whisperfile(전사·번역) 포함, API 서버·내장 로컬 도구·Agentfile·사전 빌드 llamafile(Hugging Face) 제공. C++, Apache-2.0
 * [llama_index: LlamaIndex (GPT Index) is a data framework for your LLM applications](https://github.com/jerryjliu/llama_index)
   * 일반적인 개념처럼 쉽고 유연한 데이터 프레임워크인 LlamaIndex는 대용량 언어 모델과 특정 데이터 소스를 연결하는 데 사용
   * [LlamaIndex 🦙 0.8.15](https://gpt-index.readthedocs.io/)
@@ -4586,6 +4591,11 @@ NLP
   * [txtai - 시맨틱 검색, LLM 오케스트레이션, 언어모델 워크플로우를 위한 올인원 임베 | GeekNews](https://news.hada.io/topic?id=15957)
 * [TWO](https://www.two.ai/)
   * [투플랫폼 “수트라 한국어 추론 능력이 국내 모델보다 뛰어나“ < 인터뷰 < 산업 < 기사본문 - AI타임스](https://www.aitimes.com/news/articleView.html?idxno=159362)
+* [Ultramarine 1 Flash — Paper Instruments](https://www.paperinstruments.com/ultramarine)
+  * [We are releasing Ultramarine 1 Flash, a frontier-class model built for knowledge work. It is open-source and achieves similar performance to Fable 5, while being 60x cheaper | Daanish Khazi | X](https://x.com/bertgodel/status/2110400987622265232)
+  * [30만달러 사후 학습으로 '페이블 5' 넘었다…'Ultramarine 1 Flash' 공개 (aitimes) | 류내원 | AGI KR](https://www.facebook.com/groups/255834461424286?multi_permalinks=3121963858144651)
+  * Paper Instruments(2026-10-14). 금융·법률·컨설팅·운영 등 지식 노동(덱·모델·메모 작성)용 오픈 모델—GLM-5.3 Flash를 5명 팀이 약 $300k(약 4억 원) 들여 사후 학습. 자체 공개 벤치마크에서 Claude Fable 5와 동급("Fable-class")이면서 비용은 60분의 1: JobBench 62.9(Fable 5 57.4·Gemini 3.8 Flash 60.6), PI Knowledge Work 59.3, FrontierFinance 53.3 1위, AutomationBench·DiligenceBench·APEX-Agents 1.1은 2~3위. 6개 벤치마크 합산 출력 토큰이 베이스보다 6.5% 적음
+  * API 즉시 제공, 가중치는 2주 내 공개 예정(2026-10-16 기준 "coming soon"), 기술 보고서 공개. 벤치마크 대부분이 자체 측정이라는 점은 유의
 * [unsloth: Finetune Llama 3, Mistral, Phi & Gemma LLMs 2-5x faster with 80% less memory](https://github.com/unslothai/unsloth)
   * [LLM unsloth를 사용한 파인 튜닝 및 GGUF 변환 - 미완성의신](https://unfinishedgod.netlify.app/2024/06/15/llm-unsloth-gguf/)
   * [How to use Unsloth as an API endpoint | Unsloth Documentation](https://unsloth.ai/docs/basics/api)
@@ -6510,6 +6520,8 @@ NLP
   * [음성과 소리를 동시에 이해하는 멀티모달 모델 공개 | Facebook](https://www.facebook.com/groups/TensorFlowKR/posts/2168476370160076/)
 * [sam-audio: The repository provides code for running inference with the Meta Segment Anything Audio Model (SAM-Audio), links for downloading the trained model checkpoints, and example notebooks that show how to use the model](https://github.com/facebookresearch/sam-audio)
   * [메타, 원하는 오디오만 쉽게 분리하는 첨단 모델 ‘SAM Audio’ 공개 | Facebook](https://www.facebook.com/groups/255834461424286?multi_permalinks=2821261288214911&hoisted_section_header_type=recently_seen)
+  * [Segment Anything Playground — Segment Audio 에디터 | Meta AI Demos](https://aidemos.meta.com/segment-anything/editor/segment-audio/)
+    * SAM Audio를 브라우저에서 직접 써 보는 Meta 공식 데모—오디오를 올리고 텍스트 프롬프트 등으로 원하는 소리만 분리
 * [SCE-TTS: 내 목소리로 TTS 만들기](https://sce-tts.github.io/)
 * [Seamless Communication - AI at Meta](https://ai.meta.com/research/seamless-communication/)
   * [SeamlessM4T—Massively Multilingual & Multimodal Machine Translation | Meta AI Research](https://ai.meta.com/research/publications/seamless-m4t/)
