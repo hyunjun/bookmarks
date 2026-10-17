@@ -812,6 +812,9 @@ AWS
 * [AI-DLC 를 팀 프로젝트에 적용하기: Subagent 와 Custom Skill 로 확장한 Armiq 사례 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/aidlc-armiq-subagent-customskills/)
 * [Amazon Bedrock과 함께 Claude Code 사용하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/bedrock-with-claude-code/)
   * [Claude Code on Amazon Bedrock Workshop](https://catalog.workshops.aws/claude-code-on-amazon-bedrock)
+  * [Claude Code on Amazon Bedrock — 온라인 교육 프로그램 (CCB 도입 교육)](https://dqpakvzs2nh5d.cloudfront.net/) [pdf](pdfs/claude_code_on_amazon_bedrock_education_program_brochure.pdf)
+    * AWS 솔루션즈 아키텍트들이 직접 강의하는 영상 10개(M0~M9)·4단계 커리큘럼, 영상은 AWS Skill Builder에 공개. ①기반 구축 M0 CCB 환경 셋업(왜 Bedrock인가—보안·데이터 주권·과금·컴플라이언스, 통합 인증·모델 핀·Cross-Region Inference, `.claude/`·settings.json·CLAUDE.md 4계층 우선순위, Skill·Sub-agent·Hook·MCP·Plugin) ②개인 역량 M1 AI 코딩 마인드셋(의도 vs 명시의 간극, Orchestrator·Architect·Reviewer 역할, 6가지 안티패턴), M2 Spec-Driven Development(Vibe Coding과의 차이, Superpowers 워크플로우)
+    * ③팀 협업 M3 Team SDD(AI-DLC Inception→Construction→Operations 3단계를 3명이 실습), M4 대규모 코드베이스 이해·기여(점진적 탐색, 세션마다 누적되는 "자라는 지도" CLAUDE.md), M5 AI 코드 검증(Read 축 정적 리뷰+Run 축 실행 검증, security-review·code-review·pr-review-toolkit), M6 하네스 엔지니어링(Agent=Model+Harness, 5대 구성요소·3대 원칙, Build·Operate·Deprecate), M7 MCP와 Sub-agents(FinOps Agent Level 0→1→2) ④엔터프라이즈 M8 자동화와 플러그인(`claude -p` headless·GitHub Actions PR 리뷰·플러그인 마켓플레이스), M9 CCB 운영(보안 4대 경계 Privilege·Data·Audit·Cost, LLM Gateway 3옵션 AWS Native·상용 OSS·자체 구축, 18문항 체크리스트, 도입 로드맵). 2026-10 현재 M3~M6·M8은 추후 업데이트
 * [Claude Apps Gateway on AWS 자세히 알아보기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/claude-apps-gateway-with-aws/)
   * Amazon Bedrock 기반 Claude Code·Claude Desktop 엔터프라이즈 도입 가이드. 데이터 학습 미활용, Private Network 구성, AWS 계정·IAM 통합 인증·비용 관리, Guardrails 콘텐츠 필터링
 * [Amazon Bedrock에서 LLM 게이트웨이의 두 사각지대 메우기: 사라진 호출자와 흐려진 모델 거버넌스 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/amazon-bedrock-litellm-integration/)
