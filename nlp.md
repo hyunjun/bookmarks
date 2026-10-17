@@ -1262,7 +1262,9 @@ NLP
   * [Better decision making with always up-to-date vector databases | ODFP210 - YouTube](https://www.youtube.com/watch?v=DCy3RHa7x_8)
 * [nanoGPT: The simplest, fastest repository for training/finetuning medium-sized GPTs](https://github.com/karpathy/nanoGPT)
   * [nanoGPT - 중간규모 GPT를 가장 빠르게 훈련/미세조정하기 위한 오픈소스 | GeekNews](https://news.hada.io/topic?id=8170)
-* [needle: 26m function call model that runs on incredibly small devices](https://github.com/cactus-compute/needle)
+* [needle: Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, ASR, structured extraction and embeddings on phones, wearables, smart homes, robots, cars and microcontrollers](https://github.com/cactus-compute/needle)
+  * [Cactus - Automation Foundation Models for Tiny Devices](https://cactuscompute.com/)
+    * Needle 개발사 Cactus 홈페이지. 모바일·웨어러블·AR 글래스·스마트홈·로봇·자동차·노트북·콘솔·TV·마이크로컨트롤러용 30MB 미만 자동화 파운데이션 모델(로컬 실행, 최대 4k tokens/s), 2비트 미만 근손실 양자화, GPU 없이 저가폰·라즈베리 파이에서 도는 모델. 최근 소식: 7개 언어 CPU 전용 16.9MB 음성인식 모델 Whistle(2026-10-02), Needle 3(2026-09-17), Pebble 워치·링 온디바이스 지능 파트너십, 틀릴 때를 알고 클라우드에 도움을 요청하는 하이브리드 라우팅 연구
   * [Needle 소비자 디바이스를 위한 초소형 AI 모델과 Simple Attention Network 구조 정리 | digitalbourgeois](https://digitalbourgeois.tistory.com/3122)
   * Gemini 3.1을 distill한 26M 파라미터 함수 호출 특화 모델. Simple Attention Network(SAN) 구조—d=512, 8H/4KV, BPE 8192, 12층 인코더(FFN 없음)+8층 디코더(masked self/cross-attn, RoPE, ZCRMSNorm). 200B 토큰 사전학습(16 TPU v6e ~27h)+2B 함수콜 후학습(~45min). Cactus 런타임 6000 toks/sec prefill·1200 decode. FunctionGemma-270m·Qwen-0.6B·Granite-350m·LFM2.5-350m 단일샷 함수콜 능가. 폰·시계·안경 같은 초소형 디바이스 타깃, 가중치+데이터셋 생성+학습 스크립트 MIT 공개, `needle playground` 로컬 UI(파인튜닝/평가/Gemini 합성 데이터)
   * [Cactus Needle 2: Agentic LLM for tiny devices](https://cactuscompute.com/needle)
@@ -4252,6 +4254,10 @@ NLP
   * [브라우저에서 소형 LLM 7개를 직접 실행하는 MicroLLM Lab | digitalbourgeois](https://digitalbourgeois.tistory.com/3714)
   * 설치·계정 없이 브라우저에서 소형 언어 모델을 내려받아(IndexedDB 캐시) 기기 GPU로 추론하고 속도·정확도를 비교하는 실험 도구—WebGPU 우선, 불가 시 WASM→JS 폴백(안내 기준 WASM 8~20 tok/s vs WebGPU 100~300+ tok/s). Q4 양자화로 1억+ 파라미터 모델을 50~84MB에. 모델 7종: PetitGPT research-v1 125M·SmolLM2 135M/360M Instruct·L20-Edu 135M·MiniMind2 104M/Small 26M·GPT-2 124M(15.4~215.9MB)
   * 21개 객관식 테스트(정규식·정확 토큰 일치, 작문 품질 아님—"135M 모델은 실패해도 된다, 그게 측정")와 256토큰 연속 디코드 속도 테스트, 모델 간 비교 차트, 기기 하드웨어·peak/sustained tok/s를 담은 검증 가능한 벤치마크 인증서 생성·공유, JavaScript로 직접 쓰는 커스텀 평가. yangqi0/petitgpt에서 영감, 레포 zip 589MB
+* [midscale-moe-deployment-lab: MoE serving, sizing, and benchmarks for Qwen3.8-Flash-Next, GLM-5.3-Flash-NVFP4, and DeepSeek-V4-Flash-0731 on AWS p5e/g7e (H200 and RTX PRO 6000) | daekeun-ml](https://github.com/daekeun-ml/midscale-moe-deployment-lab)
+  * [DeepSeek-V4-Flash-0731, RTX 6000 Pro 2장으로 서빙되나? 직접 해봤습니다 | Daekeun Kim | LinkedIn](https://www.linkedin.com/posts/daekeun-kim_deepseek-vllm-gpu-share-7490379835073060864-ozGC/)
+  * 같은 저자의 frontier-moe-serving-benchmark("이 체크포인트에 GPU가 몇 장 필요한가")의 후속—155~335 GiB급 "midscale" MoE를 p5e.48xlarge(H200×8)·H100·g7e(RTX PRO 6000 Blackwell 96GB, 2/4/8장)에서 실제 vLLM 기동으로 검증: 그 GPU 수로 실제로 뜨는지, 유효한 TP 크기, 필요한 Docker 이미지·nightly wheel, KV 캐시·recurrent state 여유, OpenAI 호환 API의 reasoning·tool calling, 동시성별 TTFT·ITL·E2E·처리량. g7e는 PCIe 토폴로지라 같은 스위치여도 P2P 미노출, SM120 커널 지원이 Hopper·데이터센터 Blackwell과 달라 별도 검증 필요. MIT
+  * LinkedIn(레포의 전신 deepseek-v4-flash-serving-guide 공개 당시): DeepSeek-V4-Flash(284B-A13B)를 g7e.12xlarge(RTX 6000 Pro 2장)로 서빙 가능—uv 네이티브·Docker·SageMaker AI Endpoint 세 방식. 내장 DSpark 추측 디코딩이 SM120에서 FlashInfer 디스패치 테이블에 입력 형태가 없어 크래시(옵션을 끄고 서빙), vLLM 0.25.0 이미지에 고정된 FlashInfer 버전이 낮아 생긴 불일치는 업그레이드·우회 환경변수로 해결. 5개 시나리오 p50/p95/p99 실측에서 동시 호출을 1→8→32로 올리면 p95/p99가 최대 21배 벌어져 실서비스엔 증설이나 H100/H200급이 필요할 수 있음. GLM-5.2·DeepSeek-V4-Pro·Kimi K3 서빙 스펙도 정리
 * [MiniCPM-V: MiniCPM-Llama3-V 2.5: A GPT-4V Level Multimodal LLM on Your Phone](https://github.com/OpenBMB/MiniCPM-V)
 * [MiniMax Official Website - Intelligence with everyone](https://www.minimax.io/)
   * [MiniMax · GitHub](https://github.com/minimax-ai)
@@ -4538,6 +4544,11 @@ NLP
   * [마이크로소프트의 Semantic Kernel](https://www.facebook.com/seungjoon.choi/posts/pfbid022q3xw2Fcrfe1X2ycz3gqZF19uZkeZHwSyajEJWsWXWD6WeWtpDcDZeipx1KNkuXnl)
   * [Power of Semantic Kernel and Custom Plugin with SAP Data | LinkedIn](https://www.linkedin.com/pulse/power-semantic-kernel-azure-openai-sap-data-chanjin-park-y8u3c%3FtrackingId=NOVhGXKhTUOtjl%252FOOp7%252BJg%253D%253D/)
   * [“컨텍스트 대화를 위한 런타임” 시멘틱 커널을 사용한 AI 에이전트 만들기 - ITWorld Korea](https://www.itworld.co.kr/news/323287)
+* [SGLang – Fast, Open-Source LLM & Multimodal Serving Framework](https://www.sglang.io/)
+  * [sglang: SGLang is a high-performance serving framework for large language models and multimodal models | sgl-project](https://github.com/sgl-project/sglang)
+  * [Ollama 보다 빠르다는 vLLM을 뛰어넘었습니다! 로컬 LLM 서빙 엔진 SGLang 소개 | 괴발자 - YouTube](https://www.youtube.com/watch?v=hG9X3ihi3oQ)
+    * 2026-05-17, 8분. LMSYS 출신 SGLang 프로젝트 소개, 핵심 기술 RadixAttention(프리픽스 KV 캐시를 radix tree로 재사용), Ollama vs vLLM vs SGLang 추론 성능 비교, 한계점과 언제 쓸지. Grok의 서빙 엔진 채택(PyTorch 생태계 합류), NVIDIA NGC 컨테이너 지원, GTC 2026 젠슨 황 연설 언급
+  * 단일 GPU부터 분산 클러스터까지 저지연·고처리량 LLM·멀티모달(확산 모델 포함) 서빙 프레임워크. disaggregated prefill/decode, 추측 디코딩, 각종 병렬화, zero-overhead 스케줄러, 최적화 GPU 커널, OpenAI 호환 엔드포인트, pip/docker 설치. 첫 SGLang Summit 2026-11-12~13 SF. 상용화는 RadixArk. Python, Apache-2.0, 37.2k stars
 * [skyvern: Automate browser-based workflows with LLMs and Computer Vision](https://github.com/Skyvern-AI/skyvern)
   * [Skyvern – LLM 및 컴퓨터 비전을 활용한 브라우저 워크플로우 자동화 | GeekNews](https://news.hada.io/topic?id=13860)
 * [SNgramExtractor: Python package code repo for Implementation of syntactic n-grams (sn-gram) extraction](https://github.com/StatguyUser/SNgramExtractor)
@@ -4561,7 +4572,9 @@ NLP
   * 상하이 StepFun이 2026-09-20 공개한 플래그십 에이전틱 워크 모델(model ID step-5-preview). 총 600B·활성 27B(약 4.5%) 희소 MoE, 1M 토큰 컨텍스트, 최대 출력 64k, 텍스트·이미지(최대 60장)·비디오 입력. 소프트웨어 엔지니어링·전문 지식 업무, 특히 금융에 강점. 스트리밍·툴 콜링·JSON Mode·프롬프트 캐싱·reasoning effort(low/medium/high) 지원
   * 가격이 핵심—입력 $1.00/캐시 입력 $0.05/출력 $2.70(1M 토큰당, 캐시 히트 95% 할인). Artificial Analysis 지능지수 44점으로 Kimi K3(max)와 동점이면서 태스크당 비용은 약 절반(~$0.72). "파레토 프런티어 진전"이 발표 제목
   * 단, 벤치마크 대부분이 StepFun 자체 발표(경쟁 모델 Max effort vs 자사 High effort, StepCodeBench는 자체 벤치마크). BF16 가중치 약 1.2TB라 개인 PC 로컬 실행 불가, 현재 API만 가능. 가중치는 2026-10-15 공개 예정, 라이선스 미정. 블로그 글은 Claude Code 연동 지시문까지 다룸
-* [strata: Qwen3.8-Flash-Next (125B MoE) on a 8GB+ NVIDIA GPU: one-click install for Windows / Linux | niko1221](https://github.com/niko1221/strata)
+* [strata: Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input | niko1221](https://github.com/niko1221/strata)
+  * [로컬 LLM 추론 쪽에서 흥미로운 프로젝트가 하나 등장했습니다. Strata라는 오픈소스 inference engine | 박정태 | LinkedIn](https://www.linkedin.com/posts/%EC%A0%95%ED%83%9C-%EB%B0%95-956aba256_%EB%A1%9C%EC%BB%AC-llm-%EC%B6%94%EB%A1%A0-%EC%AA%BD%EC%97%90%EC%84%9C-%ED%9D%A5%EB%AF%B8%EB%A1%9C%EC%9A%B4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EA%B0%80-%ED%95%98%EB%82%98-%EB%93%B1%EC%9E%A5%ED%96%88%EC%8A%B5%EB%8B%88%EB%8B%A4-strata%EB%9D%BC%EB%8A%94-share-7513104372701163520-0H2m/)
+    * VRAM→RAM→SSD를 계층적으로 쓰는 메모리 관리로 12GB급 소비자 GPU에서 125B 모델 구동. 공개 벤치마크는 Qwen3.8-Flash-Next 125B 기준 RTX 5070 12GB 약 55~94 tok/s, RTX 5090 약 100~140 tok/s(포스트 표기). 로컬 추론에서 메모리의 경계가 VRAM 하나에서 시스템 전체(VRAM+RAM+SSD)로 확장되고 있다는 점이 핵심이라는 평. MIT, 26.6k stars
   * 게이밍 PC(NVIDIA 12~24GB + RAM 64GB)에서 125B MoE 모델을 60~95 tok/s로 구동하는 원클릭 추론 엔진. localhost에 OpenAI/Anthropic 호환 API 제공, 이미지 입력 지원. C++
 * [synthid-text](https://github.com/google-deepmind/synthid-text)
   * [구글 딥마인드, LLM이 생성한 텍스트를 워터마킹하고 감지하는 SynthID를 오픈소스로 | GeekNews](https://news.hada.io/topic?id=17508)
@@ -4639,6 +4652,9 @@ NLP
     * 괴발자. CPU 병목 개선으로 처리량 높이기, Preemption 최소화로 재연산 낭비 줄이기, Chunked Prefill로 체감 속도 높이기
   * [일주일 내내 InfiniBand 때문에 삽질했다 — PKey, 그리고 vLLM custom all-reduce hang | Jongsu Kim](https://www.linkedin.com/posts/jongsu-kim-63458347_416-virtual-memory-management-share-7491254944503889921-03HL/)
     * 멀티노드 vLLM 디버깅기—①PKey 미고려 배포로 링크는 정상인데 통신 불가 ②NCCL 초기화 후 에러 없는 hang의 범인은 IB가 아니라 vLLM custom all-reduce가 IMEX 채널 없이 fabric 핸들을 잡으려던 것(`--disable-custom-all-reduce`, `VLLM_ALL_REDUCE_FLASHINFER=0`). "vllm recipe를 너무 믿지 말자"
+  * [vLLM은 이미 빠르다. 당신이 설정을 안 켰을 뿐 | A Story about…](http://kyunam.com/?p=940)
+    * [GPU가 부족한 게 아닙니다. 당신이 GPU를 못 쓰고 있는 겁니다 | Kyunam Cho | LinkedIn](https://www.linkedin.com/posts/mystous_ai-llm-vllm-share-7467097785369243648-1wVY/)
+    * vLLM 소스를 건드리지 않고 생성자 인자 4개(`speculative_config`, method=`suffix`, `num_speculative_tokens=32`, `cudagraph_mode="PIECEWISE"`+gpu_memory_utilization 0.80)만 켜서 Llama-3.3-70B(TP=8, H100×8) 6개 워크로드 모두 처리량 +18.8~+68.9%(sonnet +52%, chat +69%), wall time 31% 단축—GPU Utilization은 93.8%→73.3%로 오히려 떨어짐(step당 토큰 3~6개 진척으로 forward step 수 자체가 줄어서). 156셀 측정의 결론은 "켜느냐"가 아니라 "언제 켜느냐": 가속 여부는 평균 채택 토큰 수 K가 spec step 오버헤드 배수 R(약 1.25~1.40)을 넘는지로 결정—code 워크로드에서 ngram은 K=1.09로 -20.7% 회귀, prompt와 생성 토큰 양쪽을 suffix tree로 찾는 suffix는 K=4.08로 +18.9%. 7B 이하 모델은 무엇을 켜도 2배 이상 느려지고, v0.11 이후 cudagraph 기본값 FULL은 가변 draft 길이마다 재캡처해 chat이 23% 느려질 수 있음
   * [nano-vllm: Nano vLLM](https://github.com/GeeeekExplorer/nano-vllm)
     * [nanoRLHF 프로젝트에서 가장 어려웠던 nanovllm 개발 종료](https://www.facebook.com/story.php?story_fbid=3811983599094612&id=100008490288977)
     * [nanoRLHF/examples/nanovllm.py at main · hyunwoongko/nanoRLHF](https://github.com/hyunwoongko/nanoRLHF/blob/main/examples/nanovllm.py)
@@ -4655,8 +4671,10 @@ NLP
 * [webGPT: LLM이 Human Sequence of Actions을 모방할 수 있는가? | OPENAI 2021 | 조용래 - YouTube](https://www.youtube.com/watch?v=0yMZyIru-X0)
   * [WebGPT-조용래-240720 - Google Slides](https://docs.google.com/presentation/d/1_yCG3DMYsStdhs4AsbPXN7PrD6Us4TnvUg9UryQgMNI/)
 * [WebLLM | Home](https://webllm.mlc.ai/)
+  * [web-llm: High-performance In-browser LLM Inference Engine](https://github.com/mlc-ai/web-llm)
   * [Web LLM - WebGPU로 브라우저에서 LLM 가속하여 실행하기 | GeekNews](https://news.hada.io/topic?id=8977)
   * [Web LLM - Llama2 7B/13B 지원 시작 | GeekNews](https://news.hada.io/topic?id=10619)
+  * MLC-LLM·Apache TVM 기반으로 WebGPU 가속을 써서 서버 없이 브라우저 안에서 LLM을 추론하는 엔진. OpenAI API 호환 인터페이스(스트리밍·JSON 모드·함수 호출), Llama·Qwen·Gemma·Phi 등 사전 빌드 모델과 커스텀 모델 지원, Web Worker/Service Worker 실행. TypeScript, Apache-2.0, 19.3k stars
 * [WeClone: Create digital avatars from chat history](https://github.com/xming521/WeClone)
   * 채팅 기록으로 디지털 아바타 생성. PII 자동 필터링→LLM 파인튜닝(QLoRA, 이미지 멀티모달)→Telegram/WhatsApp/Discord 챗봇 배포. 4-24GB VRAM에서 학습 가능
 * [WellnessConversationAI: Korean Language Model을 이용한 심리상담 대화 언어 모델](https://github.com/nawnoes/WellnessConversationAI)
