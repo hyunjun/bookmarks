@@ -1832,6 +1832,8 @@ Programming
   * [VidiGo Architects Live in the First Derivative • Gregor H](https://vidigo.ai/share/summary/ed5e7908cdd8)
   * [Architects Live in the First Derivative • Gregor Hohpe • YOW! 2019 - YouTube](https://www.youtube.com/watch?v=aKVwsv4u2kc)
 * [건축가, 최초의 파생상품에 살다 - 그레고르 호페 - YOW! 2019 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/698449)
+* [Google & AWS Veteran: What Top Tier Software Architects Do Differently | Beyond Coding - YouTube](https://www.youtube.com/watch?v=F8X9_Dp3ZUk)
+  * 2026-01-21, 65분. 『The Software Architect Elevator』의 Gregor Hohpe(전 Google·AWS)가 말하는 엔지니어에서 아키텍트로 가는 법—"아키텍트는 방에서 가장 똑똑한 사람이 되려 하지 말고 모두를 더 똑똑하게 만들어야 한다". 나쁜 아키텍트와 증폭기형 아키텍트 구분, 아키텍트의 진짜 가치는 리스크를 낮추는 것(위장한 리스크 매니저), 불명확한 요구사항을 시각화하는 "Phantom Sketch Artist" 기법, 나쁜 결정에 반대하기 위한 정치적 자본 쌓기, 단순한 아키텍처가 가장 만들기 어려운 이유
 * [자주 보는 개발 설계 패턴 가지 탄 | 커리어리](https://careerly.co.kr/comments/78185)
 * [Design Patterns: Build better software from day one — Marine Guyot - YouTube](https://www.youtube.com/watch?v=mB5uGoXYG3A)
   * [디자인 패턴: 소프트웨어 구축 및 연구 활용 | Marine Guyot](https://livewiki.com/ko/content/design-patterns-software-build)
@@ -7828,6 +7830,7 @@ Programming
   * [9월 4주 소식(개발/설계/경력관리/보안/클라우드/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2026/09/b-9-4.html)
   * [10월 1주 소식(빅데이터/인공지능, 하드웨어, 읽을거리 부문)](https://jhrogue.blogspot.com/2026/10/b-10-1.html)
   * [10월 2주 소식(개발/설계/경력관리/보안/클라우드/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2026/10/b-10-2.html)
+  * [10월 3주 소식(빅데이터/인공지능, 하드웨어, 읽을거리 부문) | 컴퓨터 vs 책](https://jhrogue.blogspot.com/2026/10/b-10-3.html)
 * [ByteByteGo Newsletter | Alex Xu | Substack](https://blog.bytebytego.com/)
 * [GN#114 신입 웹개발 커리큘럼과 SaaS 스타트업 부트스트래핑 도구 | GeekNews](https://news.hada.io/weekly/202137)
 * [goQuality-dev-contents: { 고퀄리티 개발 컨텐츠 모음 }](https://github.com/Integerous/goQuality-dev-contents)
@@ -8202,6 +8205,9 @@ Programming
   * 경북도·구미시·모빌린트·LS증권·구미전자정보기술원·마키나락스·I-ESG·SDT 등 참여 양자·AI 하이브리드 데이터센터 구축 업무협약식
 * [After Q-Day: Quantum Applications at Scale • Matthew Keesan • YOW! 2025 - YouTube](https://www.youtube.com/watch?v=oE9dGufCxoo)
   * [Q-Day 이후: 대규모 양자 애플리케이션 • 매튜 키슨 • YOW! 2025](https://livewiki.com/ko/content/q-day-quantum-applications-scale)
+* [Amazon Braket으로 양자-고전 하이브리드 알고리즘 실행하기 (1편) | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/amazon-braket-quantum-classical-hybrid-algorithms-1/)
+  * [Amazon Braket으로 양자-고전 하이브리드 알고리즘 실행하기 (2편) | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/amazon-braket-quantum-classical-hybrid-algorithms-2/)
+  * NISQ 시대에 고전·양자 자원을 결합한 하이브리드 알고리즘을 Amazon Braket Hybrid Jobs로 실행—Braket이 EC2 인스턴스를 자동 프로비저닝하고 QPU 또는 시뮬레이터와 연동해 반복 알고리즘을 돌리며 쓴 만큼만 과금. 1편(2026-06-09): 알고리즘 스크립트를 제출하는 방식과 코드·콘솔 기반 구성. 2편(2026-07-31): Python SDK `@hybrid_job` 데코레이터로 함수 단위 잡 정의와 로컬 잡 활용, 예제는 |0⟩에 RX(θ) 회전 게이트를 적용했을 때 각도에 따른 Pauli Z 기댓값 변화(상태 토모그래피 중 Z축 측정)
 * [Guppy](https://docs.quantinuum.com/guppy/)
   * [Guppy: Programming the Next Generation of Quantum Computers](https://www.quantinuum.com/blog/guppy-programming-the-next-generation-of-quantum-computers)
   * [파이썬으로 더 쉽게…퀀티뉴엄, 양자 프로그래밍 언어 '구피' 공개 - ZDNet korea](https://zdnet.co.kr/view/?no=20250822092501)
@@ -10344,6 +10350,7 @@ Programming
 * [AWS US-EAST-1 Outage: Postmortem and Lessons Learned](https://www.infoq.com/news/2021/12/aws-outage-postmortem/)
 * [2022년 1월 100% 할인 이벤트 장애 부검](https://tech.inflab.com/202201-event-postmortem/)
 * [An Architectural Post-Mortem of an 11TB Exadata Failure | Devoxx - YouTube](https://www.youtube.com/watch?v=Qw6845LaSGw)
+  * [10 Billion Records vs The Regulator: An Architectural Post Mortem of an 11TB Exadata Failure | Devoxx - YouTube](https://www.youtube.com/watch?v=TB45qqp-OxM) 같은 발표(49분)의 Devoxx 채널 재업로드본—제목에 "10 Billion Records vs The Regulator"가 붙음
   * Devoxx Belgium 2026(49분), 독일 2위 은행 Commerzbank(고객 2,000만)의 테크 리드/솔루션 아키텍트. 100억 레코드·11TB(현재 14TB, 상한 25TB) Oracle Exadata 시스템이 멈춰 은행이 다운되고 독일 금융감독청 BaFin 조사까지 간 사건—"Oracle이 실패한 게 아니라 아키텍처가 실패했다"(DB는 살아 있었음). 발표 승인에 9명을 거쳤고 일부 익명화. 긴급 완화, 놓친 쿼리 윈도 점검, 캐시 워밍, 읽기 쪽 중복 제거를 쓰기 쪽으로 옮기기(읽기 4,000만/일보다 쓰기가 2배인데 읽기 시 정합성 처리), 2·3번 들여다보면 잘못된 파티셔닝, 그리고 Cloud PostgreSQL로의 무손실 dual-write 마이그레이션 설계
   * 인프런에서 연초 이벤트를 진행하면서 겪은 장애 상황을 정리한 글
   * Node.js로 작성된 모노리식 서버를 AWS ECS Fargate로 서버를 운영하고 Aurora PostgreSQL을 사용 중
