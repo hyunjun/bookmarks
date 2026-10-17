@@ -580,6 +580,8 @@ Go
 * [Gsp - a compiler built on top of Joseph Adams' Gisp](https://github.com/gsp-lang/gsp)
 * [TINYGO - A GO COMPILER FOR SMALL PLACES](https://tinygo.org/)
   * [Tiny Go: Small Is Going Big - YouTube](https://www.youtube.com/watch?v=zNibD802V6Q)
+  * [My old trains have a second life, with TinyGo! By Florian FORESTIER, Justine Bachelard | Devoxx - YouTube](https://www.youtube.com/watch?v=LIGVpEuIrrY)
+    * Devoxx Belgium 2026(40분). 오래된 모형 기차를 TinyGo(마이크로컨트롤러용 Go 컴파일러)로 되살린 발표. 자막을 받지 못해 제목·발표 정보만 기록
   * [tinygo-multi-i2c: A reimplementation of the TinyGo drivers package for communicating with multiples of the same (supported) devices on one individual I2C bus](https://github.com/syke99/tinygo-multi-i2c)
 
 # Debug
