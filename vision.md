@@ -470,6 +470,8 @@ Vision
 * StylEx [Google AI Blog: Introducing StylEx: A New Approach for Visual Explanation of Classifiers](https://ai.googleblog.com/2022/01/introducing-stylex-new-approach-for.html)
 * [Tencent ML Images released: 18 million training images with 11,000 categories](https://www.techleer.com/articles/573-tencent-ml-images-released-18-million-training-images-with-11000-categories/)
 * [TiefVision - End-to-end deep learning image-similarity search engine](https://github.com/paucarre/tiefvision)
+* [unblink: Camera monitoring with VLM | zapdos-labs](https://github.com/zapdos-labs/unblink)
+  * VLM 기반 카메라 모니터링 앱(Unblink V2). Qwen3-VL로 프레임 분석·요약, 카메라 피드와 자연어 채팅, 녹화 프레임 자연어 검색. 로컬 노드(`unblink-node`, Linux·Windows 바이너리 또는 `go install`)가 공개 릴레이 서버에 접속하는 relay-node 구조로 실시간 영상 처리. Go, AGPL-3.0, 1.5k stars
 * [vatic is a free, online, interactive video annotation tool for computer vision research that crowdsources work to Amazon's Mechanical Turk](http://web.mit.edu/vondrick/vatic/)
 * [VICAR Open Source - We are pleased to announce that the VICAR Core is now available in Open Source form!](http://www-mipl.jpl.nasa.gov/vicar_open.html)
 * [VTK - The Visualization Toolkit (VTK) is an open-source, freely available software system for 3D computer graphics, image processing, and visualization](http://www.vtk.org/)
