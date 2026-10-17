@@ -443,6 +443,10 @@ Vision
 * [LingBot-Map: Geometric Context Transformer for streaming 3D reconstruction](https://github.com/Robbyant/lingbot-map)
   * 스트리밍 비디오에서 3D 장면을 재구성하는 피드포워드 3D 파운데이션 모델. Geometric Context Transformer 아키텍처로 연속 비디오→3D 포인트클라우드 실시간 생성. ~20 FPS, paged KV cache attention으로 10,000+ 프레임 처리, FlashInfer 가속(PyTorch 2.8+CUDA 12.8). 기존 스트리밍·최적화 기반 대비 우수한 재구성 품질, HuggingFace/ModelScope 체크포인트. Apache 2.0
 * [LUMINOTH - Open source Computer Vision toolkit](https://luminoth.ai/)
+* [mac-local-vision: Zero-token, on-device vision for AI agents — OCR, pixel-exact UI targeting, and face grouping on Apple Vision | junmo-kim](https://github.com/junmo-kim/mac-local-vision)
+  * [스크린샷 한 장을 그대로 Claude Code나 Codex에 넘기면 토큰이 1만 9천 개쯤 나갑니다 — macvis | Junmo Kim | LinkedIn](https://www.linkedin.com/posts/junmo-kim_github-junmo-kimmac-local-vision-zero-token-share-7481760054753288192-ArWd/)
+  * Apple Vision·FoundationModels 프레임워크만 쓰는 100% Pure Swift 단일 바이너리(`macvis`, 약 240KB, 런타임 의존성 0)—AI 에이전트·E2E 테스트용 OCR·UI 요소 찾기를 0.3초 안에 로컬에서. 19,000토큰짜리 스크린샷을 `macvis ocr` YAML로 바꾸면 약 500토큰(38배 절감), `find`는 단어의 정확한 픽셀 중심 좌표를 돌려줘 클릭·assert에 바로 사용. QR/바코드 인식·생성, 문서 경계 검출·평탄화, 레이아웃 보존 문서 OCR, 1,303개 라벨 이미지 분류, 얼굴 그룹핑
+  * 온디바이스 멀티모달 `ask`(macOS 27 베타+Apple Intelligence 필요, 이미지당 1~7초, 24개 언어). CLI·MCP 서버·Claude Code 스킬로 사용, Homebrew/mise 설치. MIT
 * [MegaFace: Test face recognition at the million scale](http://megaface.cs.washington.edu/)
 * [Motion2MixamoRig: Retarget human motion from video to an Adobe Mixamo-rigged 3D character | maxliu22](https://github.com/maxliu22/motion2mixamorig)
   * 한 사람이 머리부터 발끝까지 나오는 동작 영상(또는 정지 사진의 포즈)을 Adobe Mixamo 리그 캐릭터(Y Bot 등 FBX)로 옮겨, 프리뷰 영상과 Blender·Unity에 바로 넣는 스킨드 `.glb`를 출력하는 게임 개발자용 파이프라인. GVHMR 등 3D 인체 메시 복원 가중치(~5GB, 첫 실행 시 다운로드)와 SMPL-X 바디 모델(별도 등록·다운로드) 필요, Cinema 4D 재익스포트 Mixamo FBX도 지원
@@ -456,6 +460,9 @@ Vision
 * [paz: Hierarchical perception library in Python for pose estimation, object detection, instance segmentation, keypoint estimation, face recognition, etc](https://github.com/oarriaga/paz)
 * [pico.js, a face-detection library in 200 lines of JavaScript](https://nenadmarkus.com/p/picojs-intro/)
   * [pico.js - 200줄 JS로 만든 얼굴 감지 라이브러리 | GeekNews](https://news.hada.io/topic?id=7326)
+* [Pipeless - The open-source computer vision framework](https://www.pipeless.ai/)
+  * [pipeless: An open-source computer vision framework to build and deploy apps in minutes | pipeless-ai](https://github.com/pipeless-ai/pipeless)
+  * 실시간 영상 분석 앱을 몇 분 만에 만들고 배포하는 프레임워크—코드 병렬화·멀티미디어 파이프라인·메모리 관리·모델 추론·멀티 스트림 관리를 대신 처리. 서버리스처럼 프레임을 받는 pre-process·모델·post-process 함수로 "stage"(마이크로 파이프라인)를 만들고 스트림마다 동적으로 조합해 재시작 없이 다른 파이프라인 적용. YOLO 등 표준 모델이나 커스텀 모델을 URL로 로드, ONNX Runtime 등 추론 런타임 내장, 클라우드·엣지(오프라인) 배포. NVIDIA Inception, 호스팅형 Pipeless Agents. Rust, Apache-2.0
 * [pixerise: A high-performance 3D software renderer implemented in Python, optimized with NumPy and Numba JIT compilation](https://github.com/enricostara/pixerise)
   * [Pixerise - 고성능 3D 소프트웨어 렌더링 엔진 테스트](https://webnautes.tistory.com/2427)
 * [Pl@ntNet](https://github.com/plantnet)
@@ -468,6 +475,9 @@ Vision
   * 비캘리브 이미지 컬렉션에서 dense 3D 재구성, 카메라 파라미터 불필요. DUSt3R 기반에 외부 spatial memory 도입—DUSt3R의 페어와이즈 로컬 좌표 대신 글로벌 좌표 직접 예측, 최적화 기반 글로벌 정렬 제거. ViT 인코더+2개 디코더(reference·target), 메모리 read-write 루프. 실시간 처리, no test-time opt, no explicit camera pose. ScanNet/Co3D/Waymo 등 15개 데이터셋 학습. Nerfstudio·Gaussian Splatting 통합, Gradio 데모. UCL Hengyi Wang & Lourdes Agapito
 * [srez - Image super-resolution through deep learning](https://github.com/david-gpu/srez)
 * StylEx [Google AI Blog: Introducing StylEx: A New Approach for Visual Explanation of Classifiers](https://ai.googleblog.com/2022/01/introducing-stylex-new-approach-for.html)
+* [Supervision documentation | Roboflow](https://supervision.roboflow.com/)
+  * [supervision: We write your reusable computer vision tools | roboflow](https://github.com/roboflow/supervision)
+  * 모델에 구애받지 않는 재사용 가능 컴퓨터 비전 도구 모음(`pip install supervision`, Python 3.9+)—데이터셋 로딩, 이미지·영상에 검출 결과 그리기, 존(zone) 안 검출 개수 세기 등. 분류·검출·세그멘테이션 모델을 커넥터로 바로 연결. MIT, 51.2k stars
 * [Tencent ML Images released: 18 million training images with 11,000 categories](https://www.techleer.com/articles/573-tencent-ml-images-released-18-million-training-images-with-11000-categories/)
 * [TiefVision - End-to-end deep learning image-similarity search engine](https://github.com/paucarre/tiefvision)
 * [unblink: Camera monitoring with VLM | zapdos-labs](https://github.com/zapdos-labs/unblink)
@@ -646,6 +656,9 @@ Vision
   * [AdaptiveAvgPool1d: DeepSeekOCR 에서의 시퀀스 압축의 숨은 주역](https://kr.linkedin.com/pulse/adaptiveavgpool1d-deepseekocr-%EC%97%90%EC%84%9C%EC%9D%98-%EC%8B%9C%ED%80%80%EC%8A%A4-%EC%95%95%EC%B6%95%EC%9D%98-%EC%88%A8%EC%9D%80-%EC%A3%BC%EC%97%AD-sigrid-jin--ncgqc)
     * [AdaptiveAvgPool1d: DeepSeekOCR 에서의 시퀀스 압축의 숨은 주역 | Jin Hyung Park (Sigrid Jin) 🌈](https://www.linkedin.com/posts/sigridjineth_%EB%94%A5%EB%9F%AC%EB%8B%9D%EC%9D%84-%EA%B3%B5%EB%B6%80%ED%95%98%EB%8B%A4-%EB%B3%B4%EB%A9%B4-%EC%88%98%EB%A7%8E%EC%9D%80-%EB%A0%88%EC%9D%B4%EC%96%B4%EC%99%80-%EC%97%B0%EC%82%B0%EC%9E%90%EB%93%A4%EC%9D%84-%EB%A7%8C%EB%82%98%EA%B2%8C-%EB%90%A9%EB%8B%88%EB%8B%A4-%EA%B7%B8%EC%A4%91%EC%97%90%EC%84%9C-activity-7400813199480004608-MJDO)
   * [Deepseek_OCR_(3B).ipynb - Colab](https://colab.research.google.com/github/unslothai/notebooks/blob/main/nb/Deepseek_OCR_\(3B\).ipynb)
+  * [DeepSeek-OCR 2: How to Run & Fine-tune Guide | Unsloth Documentation](https://unsloth.ai/docs/models/tutorials/deepseek-ocr-2)
+    * [류내원 - DeepSeek releases DeepSeek-OCR 2 (source: X UnslothAI) | Facebook](https://www.facebook.com/won.wizard/posts/pfbid02nWomGK9ZvbKCJnrj6ZZFoDKxmzV5u7T4YgjLKVKDPX724cvpq4iyw1G1j97HLibml)
+    * 후속작 DeepSeek-OCR 2의 로컬 실행·파인튜닝 가이드. 새 3B 모델이 최첨단 시각·문서·OCR 이해를 달성—DeepEncoder V2가 고정 그리드(좌상단→우하단)로 읽는 기존 비전 LLM과 달리 먼저 전체를 이해한 뒤 사람과 같은 논리적 읽기 순서(어디부터 주의를 기울일지)를 학습해 OCR 정확도 향상. Apache-2.0
   * [deepseek_ocr_app: A quick vibe coded app for deepseek OCR](https://github.com/rdumasia303/deepseek_ocr_app)
 * [Docling - Docling](https://docling-project.github.io/docling/)
   * [docling: Get your documents ready for gen AI](https://github.com/docling-project/docling)
