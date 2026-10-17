@@ -130,6 +130,17 @@ English
     * I'm listening. — 말해봐.
     * No worries. — 걱정 마.
     * All good. — 괜찮아.
+* [돈 한 푼 안 쓰고 영어 정복하기: 매일 쓰는 무료 사이트 BEST 10 | meji 미지 - YouTube](https://www.youtube.com/watch?v=Wf5t9ww2bFg)
+  * [YouGlish](https://youglish.com/) 배운 표현을 유튜브 원어민 영상에서 검색해 발음·억양·문장 속 쓰임 확인
+  * [PlayPhrase](https://www.playphrase.me/) 영화·드라마에서 해당 문장이 나오는 장면만 모아 상황·말투까지—단어보다 구동사 검색 추천, YouGlish는 발음용·PlayPhrase는 패턴용으로 나눠 쓰기
+  * [Daily Dictation](https://dailydictation.com/) 듣고 타이핑해 정답과 비교하며 못 듣는 부분을 눈으로 확인, 하루 10분 딕테이션 후 그 문장으로 말하기 연습, 무료 앱도 있음
+  * [Read Aloud](https://readaloud.net/en) 영어 기사를 원어민 목소리로
+  * [Fraze.it](https://fraze.it/)
+  * [ClassCard](https://www.classcard.net/Main)
+  * [Conversation Starters](https://conversationstarters.com/) 매번 같은 얘기만 하게 될 때 대화 주제
+  * [Vocaroo](https://vocaroo.com/) 음성 녹음
+  * [Keybr](https://www.keybr.com/) 타자
+  * [ESL Bits 영어 원서 오디오북](https://esl-bits.eu/ESL.English.Learning.Audiobooks/Wimpy.Kid/40/default.html)
 * [allearsenglish.com/episodes](https://www.allearsenglish.com/episodes/)
 * [bbc.co.uk/learningenglish](http://www.bbc.co.uk/learningenglish/)
 * [cnn.com/cnn10](https://edition.cnn.com/cnn10)
