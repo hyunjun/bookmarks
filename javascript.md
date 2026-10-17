@@ -3077,6 +3077,10 @@ Javascript
   * [WebGPU 강연](https://youtu.be/A4XYYY4Q000)
   * [WebGPU is Not Just about the Web - YouTube](https://www.youtube.com/watch?v=qHrx41aOTUQ)
   * [What is WebGPU? - YouTube](https://www.youtube.com/watch?v=oIur9NATg-I)
+  * [Shaders: Open-source WebGPU shader components & free design editor](https://shaders.com/)
+    * [shaders: WebGPU components for React, Vue, Svelte, Solid, JS & Framer | shader-effects-inc](https://github.com/shader-effects-inc/shaders)
+    * 200+ WebGPU 이펙트(그라디언트·노이즈·글래스·메탈·광원·왜곡·전환·블러·커서 효과)를 선언형 컴포넌트로—`<Shader>` 캔버스 안에 레이어를 중첩·블렌드·마스킹, React/Vue/Svelte/Solid/JS 진입점이 같은 props 공유. TypeScript, 반응형 props, SSR 안전. 디자인 엔지니어 1.6만+ 사용
+    * shaders.com의 무료 디자인 에디터(무한 캔버스에서 컴포넌트 쌓고 props를 커서·타임라인으로 구동)에서 만든 뒤 프레임워크별 컴포넌트 트리로 코드 내보내기. CLI(`npx shaders connect/install/search/preview/update`)가 코드베이스와 에디터 프로젝트를 동기화, 에이전트 스킬(`npx shaders skill`)·MCP 지원. 유료 Pro 별도. MIT
   * [shadeup.dev](https://shadeup.dev/)
 * [webm.js](https://kagami.github.io/webm.js/)
 * [WEIGHTOF.IT - Compare JavaScript libraries by weight](http://weightof.it/)
