@@ -3654,6 +3654,10 @@ App
   * [PowerToys - 11 awesome features Microsoft won’t add to Windows](https://www.fourth-wall.co.uk/post/powertoys-11-awesome-features-microsoft-won-t-add-to-windows)
   * [Microsoft PowerToys를 처음 쓰면 묘한 이질감이 든다. 같은 회사 제품인데 다르다. 가볍고, 빠르고, 쓸데없는 설명이 없다. 설치 즉시 "아 이건 만든 사람이 직접 쓰려고 만들었구나"라는 느낌이 온다](https://www.facebook.com/unattached/posts/pfbid0UMyStgd5xcCJ3Q7epoTHAi3E2AnjEQtPprVZKV6DS6LtDkty7MBK11rdCPQ5SCadl)
 * [PSPad - free unicode developer editor, handles near any syntax like HTML, PHP, XHTML, R, JavaScript, ASP, Perl, C and many other languages with HEX editor, multilanguage interface](https://www.pspad.com/en/)
+* [Pulse — See what Windows is really doing](https://pulse.regncreative.com/)
+  * [Pulse: Read-only Windows diagnostics: the Event Log in plain language, blue screens explained. Offline and open source | Regncreative](https://github.com/regncreative/pulse)
+  * Windows 이벤트 로그를 사람 말로 풀어 주는 읽기 전용 진단 앱(Windows 10/11)—"Kernel-Power · Event ID 41, BugcheckCode 159" 대신 "블루스크린 후 재시작, 중지 코드 DRIVER_POWER_STATE_FAILURE"처럼 설명하고 기술 정보·원본 XML은 클릭 한 번 뒤에. Event Viewer와 Reliability Monitor 사이에 위치: 라이브 타임라인·System Health, 프로세스별 CPU·메모리·GPU·디스크·네트워크, 관련 이벤트를 인시던트로 묶음. 관찰·설명·시각화만 하고 Windows를 바꾸지 않음(인젝션·훅·패치·클리너/최적화 기능 없음)
+  * 1.4: 블루스크린·갑작스러운 재시작의 중지 코드와 흔한 원인·점검 사항 설명, 블루스크린·강제 전원 차단·전원 손실·WHEA 하드웨어 오류 구분, 다른 PC에서 내보낸 .evtx 열기, 사용자·컴퓨터 이름·IP·시리얼을 기본 마스킹한 공유용 리포트. Ollama·LM Studio 로컬 AI Assistant로 진단 데이터 질의, 텔레메트리·계정 없이 완전 오프라인. Flutter UI+C++20 서비스, Dart, MIT, 298 stars
 * [Rufus - create bootable USB](http://rufus.akeo.ie/)
 * [Share Mouse and Keyboard](http://www.keyboard-and-mouse-sharing.com/)
 * [**SharpKeys | randyrants.com**](https://www.randyrants.com/category/sharpkeys/) a utility that manages a Registry key that allows Windows to remap one key to any other key
