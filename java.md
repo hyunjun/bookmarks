@@ -1348,6 +1348,8 @@ Java
   * [Java Next - From Amber to Loom, from Panama to Valhalla by Nicolai Parlog - YouTube](https://www.youtube.com/watch?v=dX8vF4oYGqI)
   * [Java Next - From Valhalla to Leyden, from Babylon to Panama, from Amber to Detroit by Nicolai Parlog | Devoxx - YouTube](https://www.youtube.com/watch?v=ufhs9THbYZI)
     * Devoxx Belgium 2026 마지막 슬롯(52분), Oracle Java 개발자 애드보킷 Nicolai Parlog의 OpenJDK 프로젝트 현황 순회. Amber(record·패턴 매칭 등 표현력 부족에서 오는 보일러플레이트를 줄이는 소규모 생산성 기능, 이미 다수 전달), Leyden(훈련 실행에서 JVM의 결정을 AOT 캐시로 캡처해 런타임 시작점으로 삼는 방식—CDS 아카이브의 정신적 후속, 훈련과 프로덕션이 비슷할수록 효과), Valhalla(타입 시스템 통합—value class가 주 메커니즘, 이미 사용 가능해진 단계), Babylon(코드 리플렉션), 시간이 남으면 "프로젝트 스피드런": Panama(FFM API는 25에서 final, Vector API는 value type 최적화 때문에 여전히 incubator), Detroit(Chrome V8 기반 JavaScript·CPython 기반 Python의 Java 스크립트 API 구현, 올해 시작) 등
+  * [What's happening with Project Amber? By Gavin Bierman | Devoxx - YouTube](https://www.youtube.com/watch?v=Go76-9Q51wU)
+    * Devoxx Belgium 2026(52분). Oracle Java 언어 명세 담당 Gavin Bierman의 Project Amber(record·sealed·패턴 매칭 등 Java 언어 생산성 기능 프로젝트) 현황 발표. 자막을 받지 못해 제목·발표 정보만 기록
   * [Prepare for what "Loom"s ahead by Dr. Heinz Kabutz - YouTube](https://www.youtube.com/watch?v=kb_cLmMAff4)
   * [Coroutines and Loom behind the scenes by Roman Elizarov - YouTube](https://www.youtube.com/watch?v=zluKcazgkV4)
   * [#92 Virtual Threads Looming with Adam Warski by Happy Path Programming](https://podcasters.spotify.com/pod/show/happypathprogramming/episodes/92-Virtual-Threads-Looming-with-Adam-Warski-e2ec9d0)
@@ -2745,6 +2747,10 @@ Java
       * 이 균열을 해소하는 것이 프로젝트 발할라의 목적
     * 객체 참조로 성능 최적화에 어려움이 있고 참조 버킷으로 인해서 부풀려진 메모리가 저장되는 문제 존재
       * 이를 해결하기 위해 값 클래스와 프리미티브 클래스를 도입
+  * [Why it takes 3000 commits to bring Valhalla's value objects to the JDK by David Simms | Devoxx - YouTube](https://www.youtube.com/watch?v=D_AmK8-UnZg)
+    * Devoxx Belgium 2026(51분). Oracle JVM 엔지니어 David Simms가 Project Valhalla의 값 객체(value object)를 JDK에 넣는 데 왜 3,000개 커밋이 필요했는지 설명하는 발표. 자막을 받지 못해 제목·발표 정보만 기록
+  * [Escaping Java's Allocation Gravity with Value Classes By Clément de Tastes, Remi Forax | Devoxx - YouTube](https://www.youtube.com/watch?v=lUB15M3mMLs)
+    * Devoxx Belgium 2026(51분). Remi Forax(Université Gustave Eiffel, OpenJDK 기여자)·Clément de Tastes의 Valhalla 값 클래스(value class) 발표—객체 참조와 힙 할당에 묶인 Java의 "할당 중력"에서 벗어나는 법. 자막을 받지 못해 제목·발표 정보만 기록
 
 * [Tracing Java's Hidden Performance Traps by Victor Rentea - YouTube](https://www.youtube.com/watch?v=gfBTuL7xkp8)
 
