@@ -310,6 +310,8 @@ Graph
   * [Google Cloud Spanner Graph + PathRAG | Sungmin Kim](https://www.linkedin.com/posts/sungminkim23_googlecloud-spannergraph-pathrag-ugcPost-7441519507074015232-YJ2v)
   * flow-based pruning으로 중복 제거, path-based prompting으로 일관된 응답 생성
 * [pygraft: Configurable Generation of Schemas and Knowledge Graphs at Your Fingertips](https://github.com/nicolas-hbt/pygraft)
+* [sample-industrial-ontology-mcp-server: Turn tabular data into a reviewable RDF/OWL knowledge graph using an MCP server and Amazon Bedrock | aws-samples](https://github.com/aws-samples/sample-industrial-ontology-mcp-server)
+  * 도메인 중립 지식 그래프 라이프사이클을 로컬 stdio MCP 서버로—CSV 프로파일링→T-Box 설계→A-Box 생성→검증·품질 게이트→OWL 추론→SPARQL 질의·리포트. MCP 클라이언트+Amazon Bedrock으로 합성 제조 데이터를 다루는 200분 가이드 워크숍 포함(데이터·지식 그래프 엔지니어, SA, 도메인 전문가 대상). 비프로덕션 샘플. Python, MIT-0
 * [Semantica — Graph-Native Infrastructure for Context and Accountable AI Systems](https://getsemantica.ai/)
   * [semantica: Graph-Native Infrastructure for Context and Accountable AI Systems](https://github.com/semantica-agi/semantica)
   * [Semantica, AI 에이전트를 위한 Context Graph와 의사결정 인프라 | digitalbourgeois](https://digitalbourgeois.tistory.com/3537)
@@ -458,6 +460,10 @@ Graph
   * Amazon Neptune 기반 GraphRAG Toolkit 소개 1부—벡터 검색만으로 부족한 비정형 데이터 검색을 그래프 구조로 정교화
 * [graph-explorer](https://github.com/aws/graph-explorer)
   * [Amazon Neptune announces graph-explorer, an open-source visual exploration tool for low-code users](https://aws.amazon.com/ko/about-aws/whats-new/2023/01/neptune-graph-explorer-open-source-visual-exploration-tool-low-code-users/)
+* [retail-ontology: Korean Retail/CPG knowledge graph PoC on AWS Bedrock + AgentCore + Neptune | whchoi98](https://github.com/whchoi98/retail-ontology)
+  * [리테일/CPG를 위한 Ontology / Agentic AI on AWS 데모·프로젝트 소개 | Woo Hyung Choi | LinkedIn](https://www.linkedin.com/posts/woohyungchoi_aws-amazonbedrock-agentcore-ugcPost-7458826253148790784-dCHa)
+  * 온톨로지 프로젝트는 설계 단계가 아니라 그다음—정교하게 설계한 온톨로지를 실제 앱에서 질의·추론·전달하는 구현 비용 때문에 PoC를 못 넘는다는 문제의식으로 만든 30~60분 PoC 데모. 상품·성분·페르소나·채널·트렌드·리뷰·회원·지역·업종 온톨로지로 13개 리테일 시나리오(A~M)+메타 `/codegraph` 페이지. FastAPI+Next.js 14+CDK, Bedrock Sonnet 4.6·AgentCore Memory/Code Interpreter·CloudFront 뒤 ECS Fargate
+  * 세 가지 벽 제거: ①그래프 질의 복잡성—Neptune openCypher로 다계층 관계, BFS 최단 경로·Haversine k-NN 창고 조회 ②의미 검색 정확도—OpenSearch Serverless에서 BM25(Nori 형태소)+Cohere KNN 하이브리드를 RRF로 융합하고 Cohere Reranker로 재정렬해 "건성 피부에 좋은 저자극 세럼" 같은 한국어 질의 처리 ③도메인 지식 유지 관리—KFDA 규정·INCI 성분·FoodOn 표준 매핑을 CSV로 외부화하고 Bedrock Guardrails로 임산부·영유아·알러젠 필터링을 런타임 적용
 * [sample-semantic-lakehouse: Customer 360 analytics with semantic layer on AWS](https://github.com/aws-samples/sample-semantic-lakehouse)
   * S3 Tables(Iceberg)+Glue Catalog+Neptune 온톨로지 그래프+Bedrock AgentCore 기반 시맨틱 레이크하우스. 자연어→SQL 변환, 시맨틱 그래프 쿼리, Lake Formation ABAC 보안, CloudFormation 원클릭 배포
 
