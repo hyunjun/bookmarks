@@ -1079,6 +1079,9 @@ AWS
 * [Amazon CloudWatch Introduces OpenTelemetry Metrics Support in Preview - InfoQ](https://www.infoq.com/news/2026/04/cloudwatch-opentelemetry-metrics/)
   * CloudWatch에 OpenTelemetry 프로토콜로 직접 메트릭 전송. AWS 서비스 메트릭과 통합 조회
 * [aws-ec2-user-data-cloud-watch-metric-memory-disk](https://linuxer.name/2020/04/aws-ec2-user-data-cloud-watch-metric-memory-disk/)
+* [aws-rum-pipeline: AWS Serverless Real User Monitoring Pipeline — collect, store, query, and visualize RUM data at scale | whchoi98](https://github.com/whchoi98/aws-rum-pipeline)
+  * 상용 RUM 서비스를 대체하는 AWS 서버리스 Real User Monitoring 파이프라인. Web(TypeScript)·iOS(Swift)·Android(Kotlin) SDK로 행동·성능·오류 데이터를 하나의 수집 파이프라인에 모아 S3 Parquet에 저장하고 Athena+Grafana(9개 섹션 43패널)와 Bedrock AgentCore 에이전트(Claude Sonnet이 Athena SQL 자동 생성)로 자연어 분석. 50K DAU·하루 약 180만 이벤트를 월 약 $124로 처리한다고 추정
+  * Core Web Vitals(LCP·CLS·INP), JS 오류·크래시·ANR 스택 트레이스, Terraform 12모듈+CDK 12 construct 이중 IaC, CloudFront+Lambda@Edge+Cognito SSO, 셀프호스팅 OpenReplay 세션 리플레이. Python, MIT
 * [cronally - The easiest way to run cron jobs on AWS](https://cronally.com/)
 * [cwlog](https://github.com/deptno/cwlog) download cloudwatch log
 
@@ -1342,6 +1345,10 @@ AWS
 * [Serverless AWS Account Watcher](https://darryl-ruggles.cloud/serverless-aws-account-watcher)
   * [Serverless AWS Account Watcher | Darryl R.](https://www.linkedin.com/posts/darryl-ruggles_serverless-aws-account-watcher-activity-7431077024426930178-0o5Q)
   * EventBridge + Lambda + SNS/Slack 서버리스 계정 모니터링. S3 삭제, IAM 키 변경, 루트 로그인 등 감지. SAM IaC 배포
+* [AWS FinOps Agent is now available in preview - AWS](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-finops-agent-preview/)
+  * [AWS FinOps Agent (Preview) 출시 — 비용 분석과 최적화를 AI Agent가 자동 수행 | Woo Hyung Choi | LinkedIn](https://www.linkedin.com/posts/woohyungchoi_aws-finops-agent-preview-%EC%B6%9C%EC%8B%9C-%EB%B9%84%EC%9A%A9-%EB%B6%84%EC%84%9D%EA%B3%BC-share-7470301361193017344-8xc0/)
+  * 2026-06-09 프리뷰. 비용 분석·최적화 추천·Cost Anomaly 조사·정기 FinOps 업무를 수행하는 AI 에이전트—"지난달 가장 많이 증가한 서비스는?"·"EKS 비용이 늘어난 이유는?" 같은 자연어 질의, 부서·팀별 비용 리포트 자동 생성, Cost Optimization Hub·Compute Optimizer와 연계한 rightsizing·유휴 리소스·Savings Plans 추천, 이상 비용 근본 원인 분석, Slack 알림·Jira 티켓 생성, 일간·주간·월간 스케줄 워크플로
+  * 실행 리전은 US East(N. Virginia), 분석 범위는 모든 상용 리전. 프리뷰 기간 무료
 * [cdk-bill-bot: The serverless cost optimization bot](https://github.com/cremich/cdk-bill-bot)
   * [Bill - 서버리스로 동작하는 AWS 비용 최적화 봇 | GeekNews](https://news.hada.io/topic?id=7095)
 * [FinOps](https://github.com/newstars/FinOps)
@@ -1712,6 +1719,11 @@ AWS
 * [LLM on EKS: Scaling with Ray & Karpenter | danielcristho](https://danielcristho.site/blog/llm-on-eks-scale-llm)
   * [LLM on EKS: Scaling with Ray & Karpenter | Medium](https://danielpepuho.medium.com/llm-on-eks-scaling-with-ray-karpenter-fc71c30ad6f2)
   * vLLM을 Ray로 EKS에 서빙하고 Karpenter로 오토스케일링
+* [How to Set Karpenter on Amazon EKS Using Helm (Step-by-Step with NodePool & EC2NodeClass) | Nenis Rudani | Medium](https://medium.com/@cavasakilala/how-to-set-karpenter-on-amazon-eks-using-helm-step-by-step-with-nodepool-ec2nodeclass-600ba094d6b0)
+  * [terraform_eks: whole terraform code of eks + karpenter helm repo | nenisrudani7](https://github.com/nenisrudani7/terraform_eks)
+  * [Karpenter vs Cluster Autoscaler on EKS | Darryl Ruggles | LinkedIn](https://www.linkedin.com/posts/darryl-ruggles_aws-eks-karpenter-share-7491050585476030464-KguS/)
+  * 2026-05-01. Terraform으로 EKS를 만든 뒤 Helm으로 Karpenter를 설치하고 NodePool(새 노드의 요구 조건·스케일링 규칙)과 EC2NodeClass(AMI·서브넷·보안 그룹·IAM 역할·스토리지 등 AWS 설정 템플릿)를 구성하는 단계별 실습. Karpenter 컨트롤러가 pending 파드의 CPU·메모리 요구를 보고 NodeClaim으로 맞는 노드를 띄우고 불필요해지면 제거하는 원리, aws-auth ConfigMap에 Karpenter 노드 역할 추가, 기존 노드를 drain해 모두 Karpenter 관리로 넘기는 방법
+  * Darryl Ruggles의 추천: Cluster Autoscaler는 노드 그룹이 유연하지 않고 급증 시 스케일업이 늦으며 인스턴스 타입 튜닝이 끝없지만, Karpenter는 셋 다 낫고 유휴 노드 비용을 줄임. 예제는 테인트로 시스템 파드와 잡 파드를 별도 풀로 나누고 스팟·온디맨드를 섞으며 consolidation으로 저사용 노드를 정리
 * [AWS EKS 비용 절감 방안 (인스턴스 비용 절감) — Jen's Space](https://jenakim47.tistory.com/98)
 * [Deploying to Amazon EKS with GitHub Actions - Octopus Deploy](https://octopus.com/blog/deploying-amazon-eks-github-actions)
 * [Kubernetes + EKS + Github Actions | by jerome.decoster | Medium](https://medium.com/@jerome.decoster/kubernetes-eks-github-actions-a874321fb9b4)
@@ -2718,6 +2730,13 @@ AWS
 * [티머니의 MLOps 구현 사례 : Amazon SageMaker를 활용한 배차모델 자동화 및 배포 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/tmoney-sagemaker-mlops-case/)
 * [Disaggregated prefill and decode for LLM inference on SageMaker HyperPod | AWS Machine Learning Blog](https://aws.amazon.com/ko/blogs/machine-learning/disaggregated-prefill-and-decode-for-llm-inference-on-sagemaker-hyperpod/)
   * 연산 집약적인 prefill(프롬프트 전체를 병렬 처리해 KV 캐시 생성)과 메모리 대역폭 집약적인 decode(토큰 하나씩 생성)를 한 GPU에서 돌리면 긴 프롬프트가 동시 요청의 토큰 생성을 막음. 두 단계를 EFA·RDMA로 연결된 별도 GPU 풀에서 돌리는 DPD로 TTFT와 토큰 간 지연을 따로 조정하고 chunked prefill 튜닝보다 꼬리 지연을 안정적으로 제어. vLLM과 HyperPod Inference Operator로 구현하는 방법
+* [Amazon SageMaker AI와 AWS IoT Greengrass를 활용한 Physical AI 학습 파이프라인 구축하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/physical-ai-model-pipeline/)
+  * [From Training to Edge: Physical AI on AWS | AWS Workshop Studio](https://catalog.us-east-1.prod.workshops.aws/workshops/83b4c2e9-61c9-400b-bf00-e4f5322e6f34/ko-KR)
+  * [aws-physical-ai-recipes (feat/e2e-workshop) | hi-space](https://github.com/hi-space/aws-physical-ai-recipes/tree/feat/e2e-workshop)
+  * [AWS에서 Physical AI 학습 파이프라인 구축하기 | YooJung Lee | LinkedIn](https://www.linkedin.com/posts/yoo-lee_physicalai-robotics-aws-share-7511216610922283008-fcsa/)
+  * 로봇 제어 정책은 수백만 번의 시행착오가 필요해 시뮬레이션에서 학습하고 실제 로봇에서 검증하는 Sim-to-Real을 쓰지만, 학습(메모리·연산)·시뮬레이션(물리+렌더링, Isaac Sim은 RT 코어가 필요해 A100·H100 불가)·엣지 추론(Jetson) 세 종류 컴퓨터를 온프레미스로 갖추기 어렵다는 문제를 AWS로 푸는 핸즈온 워크숍 기반 글(YooJung Lee·Jinseon Lee·Yeonkyung Park). 전체 인프라는 CDK로 정의돼 자기 로봇·데이터셋으로 바꿔 재사용 가능
+  * VLA 트랙: SO-101 팔 텔레오퍼레이션으로 만든 LeRobot 형식 데이터셋(leisaac-pick-orange)으로 SageMaker Pipelines(Training Job)가 NVIDIA Isaac GR00T를 fine-tuning(체크포인트 S3, 지표는 관리형 MLflow)→L40S 탑재 EC2 G6e+Amazon DCV의 Isaac Lab에서 closed-loop로 오렌지 집기 성공률 평가→기준 통과 모델을 Model Registry에 등록하고 IoT Greengrass 컴포넌트로 Jetson에 배포, TensorRT 최적화. RL 트랙: SageMaker HyperPod(Slurm 중심, EKS 구성도 소개)에서 Isaac Lab·MuJoCo로 PPO 정책(SO-101 Reach/Lift, Unitree H1 보행) 장시간 학습, GPU 노드는 0대에서 필요할 때만 확장해 여러 팀이 공유
+  * 인프라 선택 기준: job 단위로 시작·종료하는 fine-tuning은 Training Job/Pipelines(쓴 시간만 과금), 수일~수주 반복 실험은 HyperPod 클러스터. Isaac Lab은 PhysX 5 GPU 파이프라인으로 GPU 한 장에서 2,048~4,096개 환경을 동시 시뮬레이션하고 domain randomization으로 reality gap을 줄임
 * [aws-ai-ml-workshop-kr: A collection of localized (Korean) AWS AI/ML workshop materials for hands-on labs.](https://github.com/aws-samples/aws-ai-ml-workshop-kr)
   * [aws-ai-ml-workshop-kr/genai/aws-gen-ai-kr/20_applications/02_qa_chatbot/10_hands_on_lab/02_rag_over_complex_pdf at master · aws-samples/aws-ai-ml-workshop-kr](https://github.com/aws-samples/aws-ai-ml-workshop-kr/tree/master/genai/aws-gen-ai-kr/20_applications/02_qa_chatbot/10_hands_on_lab/02_rag_over_complex_pdf)
     * [Demo RAG Over Complex Document on AWS - YouTube](https://www.youtube.com/watch?v=8YpfTuEbqJk)
