@@ -377,6 +377,13 @@ Finance
   * 10개 명명 에이전트(Pitch/Market Researcher/Earnings Reviewer/Model Builder/Meeting Prep/GL Reconciler/Month-End Closer/Statement Auditor/Valuation Reviewer/KYC Screener), 7개 버티컬 플러그인, 11개 MCP 데이터 커넥터(FactSet/S&P Global/Morningstar/Moody's/PitchBook/LSEG/Daloopa 등). Claude Code/Managed Agents 양쪽 배포
 * [firma: Local-first CLI portfolio tracker for overseas investors, with built-in MCP server for Claude](https://github.com/evan-moon/firma)
   * [firma: Claude를 내 포트폴리오 AI 비서로 만드는 로컬 퍼스트 자산관리 CLI | GeekNews](https://news.hada.io/topic?id=28884)
+* [Goose 스킬 하나로 시작하기 · 모두의 주식](https://stock.mo.ai.kr/)
+  * [전체 38장 이미지 강의 · 모두의 주식 Goose](https://stock.mo.ai.kr/lecture) [pdf](pdfs/goose_course_38_slides_modu_stock_ai_analyst.pdf)
+    * Goos Kim(모두의AI 공장장, MoAI-ADK·MoAI-Cowork 개발, 『클로드코드로 시작하는 실전 에이전틱 코딩』 저자)의 2교시 강의 "투자하는 방법, 이제 달라집니다—에이전틱 AI와 나만의 AI 애널리스트 만들기". 1교시: 평생 모은 자산에 비해 투자 공부는 얼마나 했나, 주식을 살 때 무엇을 근거로 판단했나→감이 아닌 조사·위임·검토 과정으로, 구스 에이전트+전문 에이전트 팀(공시·재무/뉴스/산업·경쟁사/자산 상담/관심종목/증시 마감/팩트체크/보고서 편집) 구조, 완성 보고서 읽는 법(기준일·핵심 숫자, 긍정·반대 근거, 판단 변경 조건·출처), 많이 찾기보다 제대로 읽기(DART 공시 본문·표·주석·첨부→IR→원문 뉴스→산업 자료), 오피니언에서 읽을 세 가지
+    * 2교시 실습: 종목 분석 HTML 보고서, 숫자 읽기 전 4가지 확인(기간·단위·범위·계산 기준), 뉴스 영향·기업 비교(삼성전자 vs SK하이닉스를 같은 기준으로), 연습용 가상 계좌 자산 상담(손익률과 자산 비중의 기준 금액 차이, 유지·추가 자금·비중 조정 비교—실제 주문은 하지 않음), 국내·미국 시장 마감 보고서와 예약(KST/ET 거래일·휴장일 확인, 미확인 값은 빈칸), 내 보고서 직접 점검. 현재는 웹 공개 자료 조사·분석·HTML 보고서, 외부 데이터·증권사 API 연동은 추후 검토
+  * [goose-0.1.0.zip 통합 스킬 다운로드](https://stock.mo.ai.kr/downloads/goose-0.1.0.zip)
+    * ZIP 구성: SKILL.md·DISTRIBUTION.json·agents/openai.yaml + workflows/ 하위 goose(총괄 지침·구스 에이전트)·stock-report(에이전트 팀·조사 계약·보고서 표준·HTML 렌더러 render_report.py·CSS·로고)·stock-analyst·peer-compare·earnings-review·event-impact·watchlist-review·fact-check(audit_report.py)·portfolio-review(portfolio_calc.py)·market-close(마감 템플릿·예약 지침) 11개 GUIDE
+  * "황금알 낳는 AI 거위"—ChatGPT Skills(Business·Enterprise·Edu 계정, 스킬 페이지→컴퓨터에서 업로드)에 ZIP 하나를 설치하면 `/goose 삼성전자 종목을 분석해줘`처럼 목표만 말해도 Goose가 목적·맥락을 파악하고 필요하면 심층 인터뷰한 뒤 조사·분석·검토를 배정—공개 정보는 직접 조사, 사용자만 아는 맥락(목표·기간·현금 필요)은 질문, 검토 결과에 따라 반복. 서브 에이전트가 지원되면 역할별 에이전트 호출, 없으면 한 대화에서 순차 수행하며 실행 방식을 결과에 밝힘. 수동 업데이트, 마켓플레이스 불필요
 * [hometax-doum: 홈택스 세무 작업을 AI에게 말로 시키는 무료 스킬 6종 — 부가세·종합소득세·전자세금계산서 (Claude/Codex/Aside)](https://github.com/lbiz-partners/hometax-doum)
 * [InvestorClaw · GitLab](https://gitlab.com/argonautsystems/InvestorClaw)
   * [InvestorClaw — 16-command portfolio analysis skill without Mac Mini | OpenClaw Community](https://www.facebook.com/share/p/1LNkzzPK57/)
