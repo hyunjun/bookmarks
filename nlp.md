@@ -1468,6 +1468,9 @@ NLP
   * `+++FactCheck`
   * `+++OutputFormat(format=FORMAT)`
   * `+++Tone(style=STYLE)`
+* [Hamidullah Khan, PhD - BREAKING: Claude has a secret feature called "Personal Tutor Mode" | Facebook](https://www.facebook.com/IamkKanPhD/posts/pfbid0qnWL6ofMmo1sfBa1gr1stFp4BewUXLnsruSmVWrgBV6zFLvouNhLNWvng6a2Zrsbl)
+  * 검증 메모: "Claude의 비밀 기능 Personal Tutor Mode"는 존재하지 않는 기능으로, 클릭 유도용 과장 프레이밍. 다만 소개된 10개 프롬프트 자체는 특정 모델 기능과 무관한 일반 프롬프트 템플릿으로, 교육학적으로 검증된 기법(진단 질문→개인화 학습 경로, 15분 세션·회상 질문, 익숙한 비유와 비유의 한계, 정답 대신 작은 힌트, 오류를 사실·추론·표현으로 분류, 노트 기반 레슨에서 추측 대신 누락 표시, 프로젝트 기반 마일스톤, 롤플레이 피드백, teach-back(150단어로 초보자에게 설명), 간격 반복 복습 계획)을 담고 있어 Claude·ChatGPT 등 어느 LLM에나 유효
+  * 10개 프롬프트: ①무엇을 배워야 하는지 진단(4개 질문 후 5레슨 경로) ②매일 15분 세션(회상→개념→예제→연습) ③헷갈리는 개념(내 설명에서 어디가 틀렸는지, 예시와 유사한 비예시) ④답을 주지 않고 문제 풀기(한 번에 힌트 하나, 풀면 변형 문제) ⑤실수를 표적 레슨으로 ⑥내 노트를 인터랙티브 레슨으로(핵심 개념 5개) ⑦유용한 걸 만들며 배우기(4 마일스톤) ⑧현실적 대화로 스킬 연습(5회 교환 후 약점 요약) ⑨진짜 이해했는지 teach-back ⑩배운 것 기억하기(6문항 회상 세션+내일·3일·다음 주 복습)
 * [Do Emotions in Prompts Matter? Effects of Emotional Framing on Large Language Models](https://arxiv.org/abs/2604.02236)
   * [감정적 표현이 AI 성능을 바꿀까? — 프롬프트 감정 프레이밍의 실제 효과 | GeekNews](https://news.hada.io/topic?id=28217)
   * 고정 감정 표현은 미미한 영향, 적응형 감정 프롬프팅(EmotionRL)으로 안정적 성능 개선 달성
@@ -2824,6 +2827,10 @@ NLP
   * LLM을 기존 ML 인프라와 분리하지 않고 통합하는 선택—기존 Model Scoring Service(MSS)에 NVIDIA Triton Inference Server와 vLLM을 연결하고 기존 gRPC 인터페이스와 OpenAI 호환 HTTP API를 함께 제공. GPU 자원 효율, 요청량 증가 대응, 안전한 모델 버전 전환, 모니터링, 커스텀 디코딩 로직까지 프로덕션 운영 관점에서 정리
 * [서빙 구조가 LLM 처리량을 바꾸는 방식](https://atlantic-andesaurus-8b9.notion.site/LLM-3c44c2420ac48157aaebe78f971e05c9)
   * Ray Serve·Triton·KServe를 비교해 엔진 설정과 서빙 구조가 처리량에 미치는 영향을 분리 측정. 이번 환경에서는 vLLM 단독 ≈ KServe RawDeployment > Triton >> Ray Serve 순 처리량. Ray Serve에선 엔진 설정(max_num_seqs 등)을 바꿔도 처리량 증가가 제한적이지만 vLLM 단독은 같은 변경의 효과가 큼—엔진 설정만 조정하기보다 서빙 구조·요청 경로를 함께 점검한 뒤 엔진을 최적화해야 한다
+* [Optimizing LLM Serving Efficiency: Moving Beyond KV Cache Reuse to Token-Load Awareness with Ray Serve LLM | Anyscale](https://www.anyscale.com/blog/llm-kv-token-aware-routing)
+  * [Balancing KV Cache Reuse and Token Load in Ray Serve LLM | Jeffrey (Yu-Che) Wang | LinkedIn](https://www.linkedin.com/posts/jeffrey-yu-che-wang_optimizing-llm-serving-efficiency-moving-share-7498057959357374464-sHdv/)
+  * Jeffrey Wang·Seiji Eicher·Kourosh Hakhamaneshi(Anyscale)·Rudy Pei(NVIDIA), 2026-08-25. vLLM 레플리카 플릿에서 라우터의 "다음 요청을 누가 받나"가 TTFT·TPOT·처리량을 좌우—LLM 서빙은 KV 캐시 재사용(상태성)·요청 이질성·예측 불가한 실행 비용 때문에 전통 마이크로서비스 라우팅(consistent hashing 등)과 근본적으로 다름. KV 캐시 적중률만 높인다고 지연이 줄거나 처리량이 늘지 않는다는 오해를 짚음
+  * 제안: 토큰 부하(token load)=캐시 재사용을 감안한 들어오는 요청의 남은 prefill 작업+그 레플리카가 이미 처리 중인 prefill·decode 작업. Ray Serve LLM 라우터가 KV 캐시 친화도와 토큰 부하를 함께 고려—코딩 에이전트 트레이스 재생에서 세션 친화도 베이스라인 대비 TTFT·TPOT 약 15% 개선. 스트래글러가 있는 비동기 RL 롤아웃·에이전틱 워크로드처럼 이질적인 작업에서 특히 중요
 * [(1) AI 응답의 안정성을 높이는 3가지 방법 - 1) 무작위성 낮추기 | LinkedIn](https://www.linkedin.com/pulse/ai-%EC%9D%91%EB%8B%B5%EC%9D%98-%EC%95%88%EC%A0%95%EC%84%B1%EC%9D%84-%EB%86%92%EC%9D%B4%EB%8A%94-3%EA%B0%80%EC%A7%80-%EB%B0%A9%EB%B2%95-1-%EB%AC%B4%EC%9E%91%EC%9C%84%EC%84%B1-%EB%82%AE%EC%B6%94%EA%B8%B0-%ED%9C%98%EB%8F%99-%EB%B0%B0-uuuic/)
 * [(1) AI 응답의 안정성을 높이는 3가지 방법 - 2) 출력 형식 지정하기 | LinkedIn](https://www.linkedin.com/pulse/ai-%EC%9D%91%EB%8B%B5%EC%9D%98-%EC%95%88%EC%A0%95%EC%84%B1%EC%9D%84-%EB%86%92%EC%9D%B4%EB%8A%94-3%EA%B0%80%EC%A7%80-%EB%B0%A9%EB%B2%95-2-%EC%B6%9C%EB%A0%A5-%ED%98%95%EC%8B%9D-%EC%A7%80%EC%A0%95%ED%95%98%EA%B8%B0-%ED%9C%98%EB%8F%99-%EB%B0%B0-umzwc/)
 * [**GPT 호출이 전부가 아니다! 실전 LLM 앱 구조(아키텍처) 공개 #1 - YouTube**](https://www.youtube.com/watch?v=0T2LlsQDz-o)
@@ -6335,6 +6342,8 @@ NLP
 * [ai-english-tutor: Interactive AI English Tutor: Harnessing OpenAI's APIs for an Immersive Language Learning Experience](https://github.com/jasonkang14/ai-english-tutor)
 * [annyang! Easily add speech recognition to your site](https://www.talater.com/annyang/)
   * [annyang:  Speech recognition for your site](https://github.com/TalAter/annyang)
+* [Audio8_TTS: SOTA-Class TTS at Compact Scale | Edge0-AI](https://github.com/Edge0-AI/Audio8_TTS)
+  * 제로샷 보이스 클로닝을 지원하는 0.6B 파라미터 다국어 TTS(Audio8-TTS-Preview-0.6b)와 "제로샷 클로닝 TTS가 얼마나 작아질 수 있나"를 묻는 0.1B 모델. Hugging Face 체크포인트·remote code, ONNX INT4(0.6B)·INT8(0.1B) 양자화, 추론 도구와 독립 SFT 파이프라인, 오디오 샘플 데모 페이지 제공. Python, Apache-2.0
 * [Audiobox: Generating audio from voice and natural language prompts](https://ai.meta.com/blog/audiobox-generating-audio-voice-natural-language-prompts/)
   * 원하는 음성이나 음향 효과에 대한 프롬프트를 입력해서 소리를 생성할 수 있는 모델인 Audiobox를 Meta에서 공개
 * [AudioCraft: A simple one-stop shop for audio modeling](https://ai.meta.com/blog/audiocraft-musicgen-audiogen-encodec-generative-ai-audio/)
@@ -6344,6 +6353,10 @@ NLP
 * [Awesome-Korean-Speech-Recognition: 한국어 음성인식 STT API 리스트. 각 성능 벤치마크](https://github.com/rtzr/Awesome-Korean-Speech-Recognition)
 * [awesome-voice-typing: Curated list of open-source voice typing tools](https://github.com/primaprashant/awesome-voice-typing)
   * 다양한 플랫폼(Linux, macOS, Windows, Android, iOS)에서 사용 가능한 40여 개 오픈소스 음성 타이핑 도구 비교
+* [BatiSay — 한국어 온디바이스 받아쓰기·화자분리 (Windows, 무료)](https://flow.bati.ai/batisay)
+  * [회의 녹음 받아쓰기, 윈도우 버전은 없나요? 요청 주셔서 밤새워 만들었습니다 | 류장근 | LinkedIn](https://www.linkedin.com/posts/jkryu_batisay-stt-uqmsturxh-ugcPost-7479939874192547840-SGcM/)
+  * 바티(Bati AI) 팀이 한국어 대화·통화·회의 데이터로 직접 학습한 구어체 특화 STT 엔진 BatiSay의 Windows 무료 앱(2026-07, 첫 베타; 맥 버전 먼저 공개). 녹음 파일을 드래그하면 즉시 전사+화자 분리, 실행·전사·메모만 남긴 미니멀 UI, GPU 설정 없는 원클릭 구동—5년 된 PC에서 저음질 다자 통화도 전사, 50분 회의를 1분에 받아적는다는 설명. 오디오는 1바이트도 외부로 나가지 않는 완전 로컬 처리로 사내 기밀 미팅·개인 통화에 적합
+  * 배경: 원본 Whisper는 한국어 정확도가 아쉽고 일반 PC 구동 설정이 번거로우며, 클라우드 유료 STT는 시간 제한·비용이 문제—"한국어 받아쓰기가 유료 요금제에만 묶이지 않기를" 바라며 무제한 무료로 공개. 베타라 첫 실행 시 Windows 보안 경고(코드 서명 준비 중)
 * [chatterbox: SoTA open-source TTS](https://github.com/resemble-ai/chatterbox)
   * [chatterbox_demopage](https://resemble-ai.github.io/chatterbox_demopage/)
   * [Chatterbox-TTS-Extended: Modified version of Chatterbox that accepts text files as input and no character restrictions. I use it to make audiobooks, especially for my kids](https://github.com/petermg/Chatterbox-TTS-Extended/)
@@ -6410,6 +6423,9 @@ NLP
 * [icefall](https://github.com/k2-fsa/icefall)
   * [Icefall — icefall 0.1 documentation](https://k2-fsa.github.io/icefall/index.html)
 * [IMS-Toucan: Text-to-Speech Toolkit of the Speech and Language Technologies Group at the University of Stuttgart. Objectives of the development are simplicity, modularity, controllability and multilinguality](https://github.com/digitalphonetics/ims-toucan)
+* [Realtime TTS-2: A new frontier voice model that feels as human as it sounds | Inworld AI](https://inworld.ai/blog/realtime-tts-2)
+  * [5~15초 음성으로 목소리 복제…Inworld AI Realtime TTS-2의 핵심 기능과 특징 | digitalbourgeois](https://digitalbourgeois.tistory.com/3624)
+  * 2026-08-31 GA(Inworld API·Realtime API). 실시간 대화용 음성 모델—transcript 대신 이전 사용자 턴의 실제 오디오를 입력에 포함해 말투·속도·에너지 같은 표현 신호를 다음 응답 스타일에 반영(감정 진단이 아닌 표현 신호 반영), 고정 감정 프리셋 대신 "피곤하지만 따뜻하게"처럼 LLM 프롬프트 같은 자연어 보이스 디렉션과 텍스트 내 태그, 5~15초 깨끗한 단일 화자 음성으로 보이스 클로닝, 100+ 언어에서 같은 화자 정체성 유지. LiveKit 등 런치 파트너 평가 인용
 * [Jasper | Control everything with your voice](https://jasperproject.github.io/)
 * [Kaldi Speech Recognition Toolkit](https://github.com/kaldi-asr/kaldi)
   * [install (feat. on Mac)](https://jybaek.tistory.com/771)
@@ -6426,6 +6442,10 @@ NLP
 * [kokoro: An inference library for Kokoro-82M, a lightweight open-weight TTS model](https://github.com/hexgrad/kokoro)
   * [Local, CPU-Friendly, High-Quality TTS with Kokoro | ariya.io](https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/)
   * [Kokoro로 로컬 CPU에서 고품질 TTS 실행하기 | GeekNews](https://news.hada.io/topic?id=31239)
+  * [kokoro-onnx: TTS with kokoro and onnx runtime | thewh1teagle](https://github.com/thewh1teagle/kokoro-onnx)
+    * [Agent-Speaker: A small mcp/tool for agents (Kiro CLI, Claude Code and others...) to speak responses using a wrapper for kokoro-onnx | NetDevAutomate](https://github.com/NetDevAutomate/Agent-Speaker)
+      * kokoro-onnx 래퍼로 에이전트(Kiro CLI·Claude Code 등)의 응답을 음성으로 읽어 주는 소형 MCP 도구
+    * Kokoro-TTS를 ONNX Runtime으로 돌리는 Python 패키지(`pip install kokoro-onnx`, PyPI). 다국어·복수 음성, macOS M1에서 거의 실시간, 경량(~300MB, 양자화 ~80MB), CPU·GPU 지원, v1.0 모델 공개. MIT
   * 82M 파라미터 오픈웨이트 TTS. GPU 없이 CPU(구형 포함)에서 다국어 자연 음성 생성, 컨테이너 FastAPI로 OpenAI Speech API 호환 배포. Apache 라이선스
 * [kokoro-web: 🔊 Kokoro Web: Free AI text-to-speech, online or self-hosted, OpenAI compatible!](https://github.com/eduardolat/kokoro-web/)
 * [korean-voice-acting-engine: Local-first Korean voice toolkit for record, generate, and polish](https://github.com/sinmb79/korean-voice-acting-engine)
@@ -6468,6 +6488,8 @@ NLP
 * [Nari Labs: Dia Examples](https://yummy-fir-7a4.notion.site/dia)
   * [dia: A TTS model capable of generating ultra-realistic dialogue in one pass](https://github.com/nari-labs/dia)
     * [Dia-1.6B · Hugging Face](https://huggingface.co/nari-labs/Dia-1.6B)
+* [neutts: On-device TTS model by Neuphonic](https://github.com/neuphonic/neutts)
+  * Neuphonic의 온디바이스 TTS 모델 패밀리—NeuTTS-Air(영어), NeuTTS-Nano 다국어 컬렉션(영어·프랑스어·독일어·스페인어), 감정 제어가 되는 NeuTTS-2E. 각각 Hugging Face 모델과 Q8/Q4 GGUF, 데모 Space 제공. Python
 * [NVIDIA Jarvis | NVIDIA Developer](https://developer.nvidia.com/nvidia-jarvis)
   * [1. Live coding Jarvis Transcriptions for Speech to Text Dataset p.1 - YouTube](https://www.youtube.com/watch?v=ubvgReZVf5g\&t=0s)
   * [2. Live coding Jarvis Transcriptions for Speech to Text Dataset p.2 - YouTube](https://www.youtube.com/watch?v=BDl6fzhp2Ao)
@@ -6590,6 +6612,8 @@ NLP
   * [인간처럼 톤․억양 재현한 음성을…](http://techholic.co.kr/archives/60333)
 * [whisper: Robust Speech Recognition via Large-Scale Weak Supervision](https://github.com/openai/whisper)
   * [Introducing Whisper](https://openai.com/blog/whisper/) OpenAI에서 음성인식 데이터를 680,000 시간 학습시킨 음성 인식 모델을 오픈소스로 공개
+  * [이상선 - OpenAI급 음성 인식·번역 — 완전 오픈소스 · 로컬 실험 Whisper | Facebook](https://www.facebook.com/lsszz1/posts/pfbid02q6rwEn9uWFDCdW8q34jRDEohBtvb8zkY7UwGww36aksx1ocim25HoiTawVZyLrFml)
+    * 2026-01 공유 카드—99+ 언어 고정밀 음성→텍스트와 영어 자동 번역, Python과 디스크만 있으면 오프라인 완전 로컬 실행(오디오 외부 전송 없음), 잡음·전문용어·억양에 강한 실사용 정확도, 팟캐스트·영상 자막·회의록·앱 내 STT/번역 통합 활용. 11만 stars, MIT
   * [사람 말귀 더 잘 알아듣는 AI...오픈AI, 다국어 음성 인식 '위스퍼' 아키텍처 공개](https://www.zoominlife.com/2163)
   * [Building a highly accurate Speech to Text API supporting dozens of languages with Python and Whisper | by Adriel | Slid | Nov, 2022 | Medium](https://medium.com/slid/building-a-highly-accurate-speech-to-text-api-supporting-dozens-of-languages-with-python-and-1ba0312fa770)
   * [OpenAI whisper 사용법 - 음성을 텍스트로 변환할 수 있는 인공지능 10분 만에 사용하기 - TILNOTE](https://tilnote.io/pages/6400496b81a210e930bb2af1)
@@ -6632,8 +6656,10 @@ NLP
 * [speech-to-speech: Build voice agents with open-source models](https://github.com/huggingface/speech-to-speech)
   * [Huggingface Speech To Speech - 오픈소스 모델로 로컬 음성 에이전트 | GeekNews](https://news.hada.io/topic?id=32753)
   * VAD→STT→LLM→TTS 파이프라인을 오픈소스 모델로 조합해 로컬 음성 에이전트 구축. Python, 12.8k stars
-* [supertonic: Lightning-fast, on-device TTS — running natively via ONNX](https://github.com/supertone-inc/supertonic)
+* [supertonic: Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX](https://github.com/supertone-oss-archive/supertonic)
   * [세상에서 가장 빠른 TTS, 수퍼토닉을 오픈소스로 공개 | Facebook](https://www.facebook.com/groups/255834461424286?multi_permalinks=2790590804615293&hoisted_section_header_type=recently_seen)
+  * [Supertonic 3 (TTS) - a Hugging Face Space by Supertone](https://huggingface.co/spaces/Supertone/supertonic-3)
+    * 브라우저 안에서 바로 돌아가는 Supertonic 3 데모(static Space)—텍스트 입력, 음성·언어 선택, 속도·품질 조절 후 즉시 합성. 한국어 포함 31개 언어 태그, OpenRAIL 라이선스. 2026-10 현재 GitHub 레포는 supertone-inc에서 supertone-oss-archive 조직으로 이동(13.7k stars)
   * 31개 언어(한국어 포함), ~99M 파라미터로 경량. Python/JS/Java/C++/C#/Go/Swift/Rust/iOS/Flutter/브라우저 크로스플랫폼. 금융·전화번호·기술 단위·복잡한 구두점 네이티브 처리, `<laugh>`/`<breath>`/`<sigh>` 표현 태그. 완전 로컬, 네트워크 의존성 0
 * [video_transcription: Turn any video into a rich, timestamped transcript — audio + on-screen visuals, merged](https://github.com/treesoop/video_transcription)
   * Metal 가속 Whisper 음성 전사 + 키프레임 추출·묘사를 통합한 비디오 트랜스크립션 도구. Claude Code·OpenAI Codex·Gemini 연동, 화자 분리, 99개 언어, 완전 로컬 처리
