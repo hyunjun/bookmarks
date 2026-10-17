@@ -874,6 +874,9 @@ App
 * [“우리도 있다” 업무용 오픈소스 화상회의 툴 10선 - ITWorld Korea](https://www.itworld.co.kr/news/173069)
 * [기획자가 알면 좋은 협업 툴 선정 방법 | 요즘IT](https://yozm.wishket.com/magazine/detail/1727/)
 * [국산 협업툴은 슬랙과 팀즈의 대안이 될까? | 요즘IT](https://yozm.wishket.com/magazine/detail/3366/)
+* [drawnix-seedream: Drawnix whiteboard application - open source collaborative drawing tool with mind maps, flowcharts, and free drawing capabilities | joeseesun](https://github.com/joeseesun/drawnix-seedream)
+  * [drawnix: 开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等 | plait-board](https://github.com/plait-board/drawnix)
+  * PingCode의 Plait 프레임워크 기반 올인원 오픈소스 화이트보드 Drawnix(마인드맵·플로차트·자유 그리기·이미지 삽입, 플러그인 아키텍처, PNG/`.drawnix` 내보내기, 무한 캔버스, Mermaid→플로차트·Markdown→마인드맵 변환, 모바일 대응)에 ByteDance 豆包/Seedream 이미지 생성 API를 붙인 변형. Vercel API 라우트로 이미지 생성·이미지 프록시 엔드포인트, 이미지→이미지 대화창, 최대 20장 동시 생성(2025-09 커밋). TypeScript, MIT
 * [Excalidraw | Hand-drawn look & feel • Collaborative • Secure](https://excalidraw.com/)
   * [Excalidraw - 오픈소스 가상 칠판 협업도구 | GeekNews](https://news.hada.io/topic?id=4234)
   * [💡 How to work with ALIGN FUNCTIONS in Excalidraw 👀 | TUTORIAL #14 - YouTube](https://www.youtube.com/watch?v=hROUh9lmtik)
@@ -2825,6 +2828,9 @@ App
   * [파이썬 유튜브 음원 추출 Youtube mp4 mp3](https://blog.naver.com/dsz08082/221753467977)
   * [Pytube | How to Build a YouTube Video Downloader with Python](https://morioh.com/p/40ec5e26bd22)
 * [Radium - The Music Editor](http://users.notam02.no/~kjetism/radium/)
+* [RapidRAW - The RAW Editor You've Been Waiting For](https://getrapidraw.com/)
+  * [RapidRAW: A beautiful, non-destructive, and GPU-accelerated RAW image editor built with performance in mind | CyberTimon](https://github.com/CyberTimon/RapidRAW)
+  * 18세에 자신의 사진 워크플로용으로 시작한 Adobe Lightroom 대체 RAW 편집기. Rust+wgpu(WGSL) GPU 엔진으로 모든 보정을 실시간 처리, React+Tauri로 20MB 미만 패키지(Windows·macOS·Linux·Android). 사이드카 파일 비파괴 편집, AI 피사체·하늘·전경 마스킹, 톤 커브·HSL 믹서, 프리셋, 배치 처리, 이미지 라이브러리, 선택적 ComfyUI 백엔드/RapidRAW Cloud로 생성형 객체 제거. Darktable·RawTherapee만큼 성숙하진 않았다고 밝힘. AGPL-3.0, 10.5k stars
 * [reclip: Self-hosted video and audio downloader](https://github.com/averygan/reclip)
   * yt-dlp 기반 셀프호스팅 비디오/오디오 다운로더. 1000+ 사이트(YouTube/TikTok/Instagram/X) 지원, MP4/MP3, 깔끔한 웹 UI
 * [remotion: 🎥 Create videos programmatically in React](https://github.com/JonnyBurger/remotion)
