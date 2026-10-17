@@ -800,6 +800,10 @@ Machine Learning
   * [캐빈머피 머신러닝 Kevin Murphy Machine Learning Statistic](http://www.slideshare.net/ssuser67b08e/kevin-murphy-machine-learning-statistic)
 * [Machine Learning by Abdelhamid Mellouk and Abdennacer Chebira](http://www.intechopen.com/books/machine_learning)
 * [Machine Learning Engineering book by Andriy Burkov](http://www.mlebook.com/wiki/doku.php)
+* [Machine Learning Refined 2nd Edition | GitHub, PDFs & Notebooks](https://www.mlrefined.com/)
+  * [machine-learning-refined: Master the fundamentals of machine learning, deep learning, and mathematical optimization by building key concepts and models from scratch using Python](https://github.com/neonwatty/machine-learning-refined)
+  * Cambridge 대학 교재 2판(Watt·Borhani·Katsaggelos)의 공식 사이트·레포. 100+ 대학에서 참고 교재로 채택. "Visualize. Derive. Implement."—기하학적 직관→정확한 수식→실행 가능한 Python 순서로 모든 주제를 다루고, 최적화 관점으로 통일. 선수 지식은 기초 Python과 행렬 수학
+  * 레포에 챕터 PDF 무료 공개·소스 Jupyter 노트북·연습문제·강의 슬라이드, 사이트에 경사하강법·로지스틱 회귀·K-means 등 from-scratch 학습 가이드와 애니메이션 노트북 모음, Colab/로컬 설정 안내. Python, 2.3k stars
 * [Machine Learning Systems](https://mlsysbook.ai/) 1400페이지에 이르는 방대한 양, machine learning 영역이 넓어지며 system 구축이 중요한 일이 되었는데, 이 분야에 대한 책
   * [cs249r_book: Introduction to Machine Learning Systems](https://github.com/harvard-edge/cs249r_book)
 * [Machine Learning with TensorFlow](http://tensorflowbook.com/)
@@ -810,6 +814,10 @@ Machine Learning
   * [mml-book.github.io](https://github.com/mml-book/mml-book.github.io)
 * [Mathematical Foundations of Machine Learning](https://skim.math.msstate.edu/LectureNotes/Machine_Learning_Lecture.pdf)
   * [mathTalent - YouTube](https://www.youtube.com/@mathtalent)
+* [maths-cs-ai-compendium: Become a cracked AI/ML researcher/engineer with this unconventional textbook covering maths, computing, and ML with intuition | HenryNdubuaku](https://github.com/HenryNdubuaku/maths-cs-ai-compendium)
+  * [Maths, CS & AI Compendium 온라인 읽기](https://henryndubuaku.github.io/maths-cs-ai-compendium/)
+  * 밀도 높은 표기 아래 아이디어를 묻고 직관을 건너뛰는 교과서들에 대한 반작용으로, 수학·컴퓨팅·AI를 바닥부터 직관 우선·실제 맥락으로 설명하는 오픈 교과서. 저자가 수년간 쌓은 노트로 2025년 친구들이 DeepMind·OpenAI·NVIDIA 면접을 준비해 모두 합격했고 본인은 Y Combinator에 들어간 뒤 공개
+  * 챕터: 벡터, 행렬(LU·QR·SVD), 미적분·최적화, 통계, 확률·베이즈·정보이론, 머신러닝(고전 ML·딥러닝·강화학습·분산 학습), 전산언어학(RNN·어텐션·트랜스포머·MoE·SSM·현대 LLM), 컴퓨터 비전(검출·세그멘테이션·SLAM·ViT·확산·flow matching), 오디오·음성 등. Claude Code·Cursor 등이 지식 베이스로 쓸 수 있는 MCP 서버 포함. TypeScript, Apache-2.0, 7.7k stars
 * [ml-engineering: Machine Learning Engineering Open Book | stas00](https://github.com/stas00/ml-engineering)
   * 대규모 LLM/VLM 학습·운영 실무를 다룬 오픈북—하드웨어·병렬화·디버깅·성능. Python, 19k stars
 * [Model-Based Machine Learning](http://www.mbmlbook.com/)
