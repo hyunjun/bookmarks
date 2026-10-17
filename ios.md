@@ -943,3 +943,7 @@ iOS
 * [React Native iOS Xcode에 개발자 계정 등록하기 | miryang.dev](https://miryang.dev/note/react-native/ios-dev-signing)
 * [Demystify explicitly built modules (feat. WWDC 2024) :: iOYES](https://green1229.tistory.com/501)
 * [행 추적하기 :: iOYES](https://green1229.tistory.com/508)
+* [Getting Started with Claude Code for Xcode 26: Setup, Pricing & Monitoring Guide | SwiftTribune](https://swifttribune.walidsassi.com/posts/claude-code-xcode/)
+  * [Getting Started with Claude Code for Xcode 26 | 박상길 | LinkedIn](https://www.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_getting-started-with-claude-code-for-xcode-share-7468054620024762369-hw2Q/)
+  * Walid Sassi의 Claude Code 시리즈 1부(2부는 병렬 Claude 에이전트로 Task Manager 앱 만들기). Xcode 26이 ChatGPT·Claude Sonnet 4를 내장했어도 IDE가 되려 하지 않는 터미널 네이티브·스크립트 가능·MCP 연동 도구인 Claude Code가 더 유연하다는 관점에서 npm 설치, `/login` 구독(Pro·Max) vs API 인증, 설정·요금·사용량 모니터링을 단계별로 안내
+  * 박상길의 정리: CLI라 Xcode Build Phases·커스텀 스크립트에 바인딩해 자동화하기 쉽고, xcodeproj·xcworkspace와 Swift 패키지 의존성을 이해하도록 설정하는 것이 핵심이며, 코드를 고친 뒤 바로 `xcodebuild`로 빌드·테스트해 오류를 교정하는 짧은 피드백 루프가 가능. 자동완성을 넘어 코드베이스 전체 리팩토링·아키텍처 설계를 주도하는 에이전트라는 점이 기존 Xcode AI와의 차별점
