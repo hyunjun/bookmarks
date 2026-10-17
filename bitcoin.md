@@ -287,6 +287,8 @@ Bitcoin
 * [‘Move’ Programming Language: The Highlight of Libra](https://hackernoon.com/move-programming-language-the-highlight-of-libra-122a910d6e0f)
 
 # Library
+* [awp-skill: Agent skill for AWP RootNet protocol — query, stake, govern, and monitor on-chain | awp-core](https://github.com/awp-core/awp-skill)
+  * EVM 체인(Base·Ethereum·Arbitrum·BSC, CREATE2로 동일 주소)의 탈중앙 Agent Work Protocol(AWP)을 자연어로 다루는 SKILL.md 표준 에이전트 스킬. 프로토콜 상태 조회, bind·delegate, veAWP 포지션 NFT 스테이킹·에이전트별 할당, worknet 관리(Merkle 보상 분배 WorknetManager), 거버넌스 제안·투표, 25종 실시간 온체인 이벤트 WebSocket 모니터링—20+ 액션·36개 스크립트. 첫 로드 시 AWP Wallet 의존성 설치. GitHub 설명은 testnet이지만 README는 메인넷 가동을 명시. Python, MIT
 * [Bitcoin Trading Agents](http://tombell93.co.uk/wp-content/uploads/2015/05/BitcoinTradingAgents.pdf)
 * [bitmulate - Simulated cryptocurrency trading system https://bitimulate.com ](https://github.com/velopert/bitimulate)
 * [BlockSeer Introduction](https://www.youtube.com/watch?v=y_MNVekX6g4)
