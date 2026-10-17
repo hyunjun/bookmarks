@@ -150,9 +150,20 @@ Concurrency
 * [What happens when you run a CUDA kernel | Fergus Finn](https://fergusfinn.com/blog/what-happens-when-you-run-a-gpu-kernel/)
   * [CUDA 커널 한 줄이 실행되기까지: GPU 내부에서 실제로 벌어지는 모든 과정 | digitalbourgeois](https://digitalbourgeois.tistory.com/3323)
   * 간단한 벡터 덧셈 CUDA 프로그램이 RTX 4090에서 컴파일→실행되기까지의 전 과정 추적. 컴파일 파이프라인, 런타임 등록, 드라이버 커맨드 큐, QMD 생성, 워프 스케줄링, 메모리 계층까지
+* [What happens when a GPU writes memory | Doubleword](https://blog.doubleword.ai/what-happens-when-a-gpu-writes-memory)
+  * 위 "CUDA 커널 실행" 글과 "What happens when a GPU reads memory"(LDG.E 추적)의 후속. 벡터 덧셈 커널의 STG.E 전역 스토어 1건이 RTX 4090 안에서 레지스터 파일(3행 읽기)→LSU→코얼레서(32개 4바이트 접근→32바이트 섹터 4개+바이트 마스크)→write-through L1→TLB 변환→크로스바→36개 L2 슬라이스 중 하나(16-way·1024세트, 물리주소 해시)→ack(약 140ns)로 흐르는 과정을, 비공개 정보는 직접 실험으로 메워 단계별로 추적
+  * 한 워프는 약 6.1사이클마다 STG.E 하나를 밀어낼 수 있고 SM 출구는 사이클당 32바이트. 데이터는 L2에 dirty로 남고 DRAM엔 미스 시 희생자 선택(2비트 RRPV, 16-way 스캔·증가·LRU, dirty면 바로 쫓지 않고 FIFO write-back 버퍼로 보내 정리 시작)이나 "세트에 dirty 라인 8개 이상이면 가장 오래 저장된 dirty 라인을 먼저 청소"하는 janitor 규칙으로만 내려감—이 커널의 결과는 cudaMemcpy가 L2에서 PCIe로 바로 꺼내 가 DRAM에 닿지도 않음
 * [The Modern CUDA Toolbox in Practice: A Step-by-Step Optimization Walkthrough | NVIDIA Technical Blog](https://developer.nvidia.com/blog/the-modern-cuda-toolbox-in-practice-a-step-by-step-optimization-walkthrough/)
   * [code_steps — modern_cuda_cpp_blogpost | NVIDIA/accelerated-computing-hub](https://github.com/NVIDIA/accelerated-computing-hub/tree/main/resources/blogs/modern_cuda_cpp_blogpost/code_steps)
   * 정확하고 유지보수 가능하며 빠른 CUDA 코드를 현대 CUDA C++ 툴박스로 단계별 최적화하는 워크스루—각 단계 코드 동봉
+* [CUDA CLion + Lightening.ai 로 무료 CUDA 프로그래밍 환경 세팅 | 조영훈](https://techblog-history-younghunjo1.tistory.com/606)
+  * [CUDA GPU를 구성하는 여러가지 단위: Kernel, Grid, Block, Thread, Warp, 그리고 첫 프로그램 Hello.cu!](https://techblog-history-younghunjo1.tistory.com/607)
+  * [CUDA 두 1차원 벡터 덧셈 연산을 CUDA로 프로그래밍 해보자!](https://techblog-history-younghunjo1.tistory.com/608)
+  * [CUDA 병렬 프로그래밍을 가능하게 하는 것: 비동기, Pinned Memory, 그리고 Stream](https://techblog-history-younghunjo1.tistory.com/609)
+  * [CUDA 2차원 행렬 곱 연산을 CUDA로 프로그래밍 해보자!](https://techblog-history-younghunjo1.tistory.com/610)
+  * [CUDA 데이터를 가져올 때 사용하는 메모리: Global/Shared Memory, 그리고 Tiling 기법](https://techblog-history-younghunjo1.tistory.com/611)
+  * [최근 LLM 서빙에 관심이 생겼습니다 — CUDA 시리즈 1~6편 모음 | Younghun Jo | LinkedIn](https://www.linkedin.com/posts/young-hun-jo-3162a41a5_%EC%B5%9C%EA%B7%BC-llm-%EC%84%9C%EB%B9%99%EC%97%90-%EA%B4%80%EC%8B%AC%EC%9D%B4-%EC%83%9D%EA%B2%BC%EC%8A%B5%EB%8B%88%EB%8B%A4-%EB%AC%BC%EB%A1%A0-%EB%8B%B9%EC%9E%A5-vllm-sglang-share-7479461410662412288-aKrL/)
+  * ML 플랫폼 엔지니어가 vLLM·SGLang을 "돌려 보는" 수준을 넘어 프로덕션 LLM 서빙의 기초 체력을 쌓으려고 C++ CUDA를 로우 레벨부터 공부한 6편 시리즈(2026-05~07, NVIDIA CUDA Programming Guide 기반). ①GPU 없이 시작하는 장벽을 CLion+Lightning AI 원격 GPU로 해결해 AI 어시스턴트와 함께 학습 ②Kernel·Grid·Block·Thread·Warp 단위와 Hello.cu ③호스트↔디바이스 메모리 복사와 1차원 벡터 덧셈 커널 ④비동기 실행·Pinned Memory·멀티 Stream으로 전송과 연산 겹치기 ⑤dim3 blockDim/gridDim으로 2차원 확장한 행렬 곱 ⑥FLOPs/byte(Arithmetic Intensity)로 naive matmul의 문제를 짚고 Global vs Shared Memory와 Tiling으로 개선
 * [cudaFlow: Modern C++ Programming Model for GPU Task Graph Parallelism - YouTube](https://www.youtube.com/watch?v=NwrFzWX5lnM)
 * [CuPy - A NumPy-compatible matrix library accelerated by CUDA](https://cupy.chainer.org/)
   * [Here’s How to Use CuPy to Make Numpy Over 10X Faster | by George Seif | Towards Data Science](https://towardsdatascience.com/heres-how-to-use-cupy-to-make-numpy-700x-faster-4b920dda1f56)
