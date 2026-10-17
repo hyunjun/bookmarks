@@ -617,6 +617,9 @@ Programmer
   * [한세희 - * 디지털 게시판(BBS) 개발자, 현대 온라인 문화의 창시자가 라이프 퇴갤하심 디씨, 일베, 펨코, 레딧... | Facebook](https://www.facebook.com/hahn32/posts/pfbid02wL3aG8sMPYAiAjnENy5XLnBpWchy1yN3obLCrsbRCnkCvXy71bL8V4zuRV5jjD8ql)
 * [스탠포드에서 빅테크로 조용히 퍼지는 개발자 생존법 | 미하일 에릭 - YouTube](https://www.youtube.com/watch?v=qEF-eUaTq0Y)
   * [스탠포드에서 빅테크로 조용히 퍼지는 개발자 생존법](https://livewiki.com/ko/content/developer-survival-bigtech-stanford)
+* [estudy | rlaope](https://rlaope.github.io/estudy/)
+  * [estudy: AI and engineering reinforcement learning for human | rlaope](https://github.com/rlaope/estudy)
+  * 소프트웨어를 공부하며 쌓은 기록을 "나의 지식의 숲"으로 모은 저장소(1.4k stars)—Essentials(엔지니어로 성장하기, YAGNI·리팩터링·의사결정, 일을 잘한다와 개발을 잘한다의 정의, AI 시대에서 살아남는 방법 등)와 Server 100여 편(KISS·YAGNI·DRY, 인증·인가, Clean Architecture, OAuth 2.0, SOLID, Netty 스레드 모델·메모리·EventLoop, Reactive, 캐시, Protocol Buffers, Kafka·Zookeeper 리밸런싱 등)
 
 # Senior
 * [우리가 부르는 시니어 개발자는 누구인가? | 우아한형제들 기술블로그](https://techblog.woowahan.com/2525/)
