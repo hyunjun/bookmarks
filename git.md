@@ -1369,6 +1369,12 @@ Git
 * [3 Chrome Extensions to Give GitHub Superpowers | by Alessia Amitrano | Better Programming | Medium](https://medium.com/better-programming/3-chrome-extensions-to-give-github-superpowers-e993f8703ad) Octolinker, Octotree
 * [5 open source alternatives to GitHub | Opensource.com](https://opensource.com/article/20/11/open-source-alternatives-github)
 * [시간 절약 꿀팁?⚡️깃허브에서 AI 활용하기 5분컷 - YouTube](https://www.youtube.com/watch?v=PDpdb3K0FEo) (1) GitIngest (2) DeepWiki (3) GitMCP (4) GitPodcast
+* [Redesigning source control at Anthropic | Anthropic Engineering](https://www.anthropic.com/engineering/redesigning-source-control)
+  * [Anthropic의 소스 컨트롤 재설계: AI 에이전트 시대를 위한 Scion의 아키텍처와 확장 전략 | digitalbourgeois](https://digitalbourgeois.tistory.com/3798)
+  * 2026-10-13. 코딩이 병목이 아니게 되자 인간 규모로 만들어진 개발 인프라(소스 컨트롤·빌드·CI)가 병목—모노레포 하루 머지 2026-05 약 2,500건→09 3만+건, 메인 브랜치 이력 ~100GB·압축 작업 사본 25GB+, CI만 하루 2,500만 회 체크아웃(단순 fetch면 600PB/일). 수백 대의 내부 git 미러로 버티다 5개월 만에 자체 VCS Scion으로 전면 이전, 코드 리뷰 Antique·코드 검색·IAM도 함께 구축(7명 팀)
+  * 설계 원칙(Google Piper·Meta Sapling 교훈 위에): 클라이언트는 항상 온라인, 클라이언트-서버 비대칭(이력·blame·commit·merge·rebase는 서버가 수행, 클라이언트는 bounded 캐시+작업 사본), 모든 질의를 API로 노출(자동 bisect·revert 파이프라인), 모든 컴포넌트 수평 확장(완전 materialize된 복사본·packfile 없음), commit은 서버에서 저렴·증분·lock-free(ref는 main·릴리스 브랜치만 권장), 작업 사본은 선택적이며 sparse·가상화 기본
+  * 구조: 단위는 WAL 엔트리 "changeset"(첫 부모 대비 변경 파일 목록+blob 스토리지 content-addressed 포인터), blame·경로 이력·커밋 그래프 skip list 등은 부모 값에서 재귀 계산하는 "derived data"로 일반화(eager/지연 선택, 클라이언트 비노출). scn 클라이언트는 "가진 것" 협상 대신 원하는 tree/blob만 재귀 요청(resumable, 어떤 캐시든 응답 가능)→노드별 scion-daemon→리전 scion-cache→scion-server→Spanner/클라우드 스토리지 3계층(동일 RPC, 티어 강제로 장애 격리, 각 티어 캐시 적중 99%+). 결과: git 미러 대비 인프라 CPU·메모리 200× 축소, 체크아웃 분→초(100×), CI CPU 25% 절감
+  * 교훈: Claude Mythos Preview·Claude Tag 내부 공개와 동시에 시작—손으로 짠 git→Scion 인제스션 프로토타입을 Mythos Preview에 다시 쓰게 하자 추가 지시 없이 메모리 20× 절감·4× 빠른 버전이 나옴. 소규모 팀의 빠른 대형 마이그레이션이 흔해질 것. 수치는 자체 보고이며 Scion은 외부 제공·범용 git 대체가 아님(소개 글이 짚은 전제)
 * [actions-permissions: GitHub token permissions Monitor and Advisor actions](https://github.com/GitHubSecurityLab/actions-permissions)
   * [New tool to secure your GitHub Actions | The GitHub Blog](https://github.blog/2023-06-26-new-tool-to-secure-your-github-actions/)
     * GitHub Actions에서 보통 `GITHUB_TOKEN`을 사용해서 권한을 가져오는 데 필요한 것보다 많은 권한을 가지게 되는 경우 다수
