@@ -92,6 +92,13 @@ Hardware
 * [Umbrel - Personal home cloud and OS for self-hosting](https://umbrel.com/)
   * [홈서버 어려워서 포기했다면, 이거 설치해 보세요 (N100 미니PC + UmbrelOS) - YouTube](https://www.youtube.com/watch?v=2CMf4reNCWw)
   * 셀프호스팅용 홈서버 OS(umbrelOS)와 플러그앤플레이 하드웨어(Umbrel Home·Pro). Nextcloud·Jellyfin·비트코인 노드 등 수백 개 앱을 원클릭 설치. 잇츠 매거진 영상은 N100 미니PC에 설치해 영화 서버(Jellyfin)·스마트홈 구성까지
+* [NAS 살 돈 아끼세요. 무료 홈서버 OS 3개 다 깔아봤습니다 | 잇츠 매거진 - YouTube](https://www.youtube.com/watch?v=hc5I4CxERro)
+  * 2026-10-17, 11분. 상용 NAS는 비싸고 홈서버는 OS 고르기부터 막힌다는 입문자 관점에서 웹 UI 기반 무료 홈서버 OS 3종(OpenMediaVault·ZimaOS·UmbrelOS)을 직접 설치해 비교(TrueNAS·Proxmox는 제외)
+    * OpenMediaVault는 역사가 길고 메모리 1GB면 돌 만큼 가벼워 라즈베리 파이에서도 많이 쓰지만 관리자 화면 같은 투박한 UI("피처폰 느낌")에 앱스토어가 없어 Compose에 도커 스크립트를 직접 입력해야 함
+    * ZimaOS·UmbrelOS는 깔끔한 GUI와 자체 앱스토어로 클릭 설치(Home Assistant 등 앱 자체는 똑같은 도커 앱)
+    * ZimaOS는 앱 설정을 깊게 열어 두고 UmbrelOS는 막아 둔 아이폰 같은 단순함
+    * UmbrelOS는 네트워크 기기·Google Drive·Dropbox 연결 내장
+  * 삼바 파일 공유 설정 3종 비교, 꿀팁으로 VPN 없이 밖에서 홈서버에 접근하는 ZimaClient, 멀티 유저는 UmbrelOS만 지원. 결론은 "2G폰(OMV)·안드로이드(ZimaOS)·단순함(UmbrelOS)"의 비유로 용도별 선택 가이드
 * [Turning an Old Laptop into a Home Server! (2026) - YouTube](https://www.youtube.com/watch?v=46T4cDQBkDs)
   * [CasaOS - A simple, easy-to-use, elegant open-source personal cloud system](https://casaos.zimaspace.com/)
 * [Firmware Command Injection을 알아보자! : NHN Cloud Meetup](https://meetup.nhncloud.com/posts/376)
@@ -141,13 +148,18 @@ Hardware
   * 알리바바의 AI 에이전트 코딩 플랫폼 Qoder가 2026년 9월 3일 공식 출시한 안경 버전. 단순 스마트 안경이 아니라 개발자의 일하는 방식을 바꿀 수 있는 웨어러블 코딩 인터페이스
 * [텐스토렌트, RISC-V 기반 데스크톱 AI 워크스테이션 공개..."1200억 파라미터 모델 온디바이스 실행" | 인공지능신문](https://www.aitimes.kr/news/articleView.html?idxno=39028)
   * 짐 켈러의 Tenstorrent가 공개한 TT-QuietBox 2—액체 냉각 저소음 데스크톱에서 최대 120B 파라미터 LLM을 로컬·오픈소스 스택으로 실행하는 RISC-V 기반 AI 워크스테이션. 컴파일러부터 커널까지 전 소프트웨어 계층을 오픈소스로 제공해 모든 계층을 확인·수정 가능, $9,999부터, 글로벌 출시 2분기. 클라우드 AI 지출의 55%+가 추론이라며 토큰 과금 클라우드 vs 폐쇄형 하드웨어 사이의 제3 선택지로 포지셔닝
+* [2607.08993 StreamDQ: Near-Memory Weight DeQuantization in Custom HBM for Scalable AI Inference Acceleration](https://arxiv.org/html/2607.08993)
+  * [Deepseek v4-Flash를 DGX spark에 올리기 | DongHyuk Im | LinkedIn](https://www.linkedin.com/posts/dhihm_deepseek-v4-flash%EB%A5%BC-dgx-spark%EC%97%90-%EC%98%AC%EB%A6%AC%EA%B8%B0-%EC%96%BC%EB%A7%88-%EC%A0%84-share-7489999069386469376-mxiR/)
+  * SK하이닉스(Minki Jeong 외, 2026-07). 양자화된 가중치를 커스텀 HBM 근처에서 역양자화(near-memory dequantization)해 AI 추론 가속을 확장. LinkedIn 맥락: DRAM이 적은 DGX Spark에 DeepSeek V4 Flash를 SSD expert streaming으로 올리면 초당 1토큰, H100 4장 GLM-5.2는 약 15 tok/s—HBM expert 캐시·streaming/연산 overlap·expert 양자화/역양자화를 실험하다 PCIe 병목 안에서 "DRAM→HBM 로드 시점에 H/W로 dequant"를 떠올렸는데 마침 이 논문을 발견(작은 모델일수록 효과가 클 것이라는 평)
 * [Cognitum — AI Agent Platform: Seed Device, MCP Tools & Developer SDK](https://cognitum.one/)
   * WASM 런타임·암호화 ID·벡터 스토리지 내장 Seed 하드웨어 + Rust/Node.js/Python SDK
 * [The Personal AI Computer | Autonomous](https://www.autonomous.ai/computer)
   * [autonomous-computer: Open-source hardware and software designs for building personal AI computers](https://github.com/autonomous-ai/autonomous-computer)
   * 로컬에서 AI 모델을 완전 프라이빗하게 돌리는 커스터마이징·오픈소스 하드웨어. 자체 GPU로 3개 모델(AC2/AC4/AC8, 2×RTX 5090~4×RTX PRO 6000) 구성, 클라우드 연결·토큰 비용 없음. CAD·조립·BIOS 설정 공개
-* [text-to-cad | A library of agent skills for CAD, CAE and CAM](https://www.texttocad.dev/)
-  * [text-to-cad: A library of agent skills for CAD, CAE and CAM | earthtojake](https://github.com/earthtojake/text-to-cad)
+* [text-to-cad | Give your agent CAD superpowers](https://www.texttocad.dev/)
+  * [text-to-cad: Give your agent CAD superpowers | earthtojake](https://github.com/earthtojake/text-to-cad)
+  * [📐 text-to-cad : 1.9만 스타, 코딩 에이전트에 CAD 설계 능력을 | fornewchallenge](https://fornewchallenge.tistory.com/entry/%F0%9F%93%90-text-to-cad-19%EB%A7%8C-%EC%8A%A4%ED%83%80-%EC%BD%94%EB%94%A9-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EC%97%90-CAD-%EC%84%A4%EA%B3%84-%EB%8A%A5%EB%A0%A5%EC%9D%84)
+    * 2026-10-13. "M8 볼트가 들어가는 브래킷을 만들어 줘" 같은 자연어·이미지 요청으로 에이전트가 STEP(주 출력)·STL·3MF·GLB 모델을 만들고 제조 적합성(DFM) 검사, 도면(PDF) 생성, 3D 프린터용 G-code 슬라이스, 3D 프린팅·판금·CNC 외주 서비스 연동까지. Claude Code·Codex·Cursor·Gemini·Grok 플러그인(뷰어 로컬 서버 `cadgen mcp` 포함) 또는 스킬만 설치, uv+cadgen(PyPI), Open CASCADE 기반. 첫 실행 시 런타임 다운로드에 네트워크 필요, 기본으로 익명 사용 통계를 보내며 `uvx cadgen telemetry off`로 끔, Windows 11 Smart App Control 충돌 사례 문서화. MIT, 2.1만 stars
   * CAD(설계)·CAE(해석)·CAM(제조)용 에이전트 스킬 라이브러리—텍스트로 기계 설계·해석·가공 워크플로를 다루는 스킬 모음. Python, MIT, 16.4k stars
 * [Tiiny AI Inc](https://tiiny.ai/)
   * [(1) 전종홍 - 120B 파라미터 모델을 클라우드 연결 없이 주머니에 넣고 다닐 수 있다면 당장 구입하실 생각이 있으신가요... | Facebook](https://www.facebook.com/1biit/posts/pfbid0WxgebboAwyUMXojQQNxzNJH8NE27wiEppkNYQC64NtojQkT1ukcZfEJdPt14hcnjl)
