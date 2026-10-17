@@ -3436,6 +3436,8 @@ Business
 * [Why AI Is Raising the Bar for Marketing Leadership | Shachar Scott, Inc.](https://www.inc.com/shachar-scott/why-ai-is-raising-the-bar-for-marketing-leadership/91389420)
   * AI가 브리프 작성·리걸 사전 검토·QA 등 캠페인 실행 체인을 압축(4주 → 4일)하면서 CMO의 일은 제작 관리에서 시스템 설계·기능 정렬·의사결정 품질로 이동
   * 예측 가능하고 규칙 기반인 작업(캠페인 트래피킹, 성과 리포팅, 템플릿 초안)은 자동화하고, 맥락 판단·문화적 직관·이해관계자 조율이 필요한 일(신규 시장 브랜드 포지셔닝)은 사람이 유지하라는 필터 제시
+* [ai-growth-stack: A curated collection of my top AI-powered APIs for website optimization, SEO, conversions, and social media growth | cporter202](https://github.com/cporter202/ai-growth-stack)
+  * "API Growth Stack"—웹사이트 데이터 추출(메타·연락처·링크·이미지·SEO 데이터)→SEO 분석→전환 요소 최적화→카피 생성→랜딩 페이지 개선→소셜 콘텐츠 자동 생성, 서로 연결되는 AI API 6종을 하나의 그로스 엔진으로 묶은 큐레이션. 각 API는 저자가 RapidAPI에 올린 유료 상품 링크라 사실상 자체 API 카탈로그·홍보 레포(라이선스 미표기)
 * [LaunchOnIt - Launch Your Product, Get Found on Google & AI](https://launchon.it/)
   * minimalsource가 만든 주간 프로덕트 런치 플랫폼(Product Hunt·BetaList·Uneed·Peerlist 대안). 24시간이 아닌 7일간 프런트 페이지 노출, 커뮤니티 업보트, 구조화 데이터를 갖춘 영구 제품 페이지로 Google 인덱싱과 ChatGPT·Perplexity·Claude 인용(AEO) 대비. 월요일 00:00 UTC 동기 런치, 주당 약 20개 스타트업
   * 무료 런치(AI 자동 입력), 유료 Growth 플랜은 1,500+단어 리뷰와 4+ dofollow 링크. 카테고리·대안·기술 스택·국가별 디렉터리, 메이커 디렉터리, 임베드 배지·DR 체커, llms.txt·MCP 서버 제공
