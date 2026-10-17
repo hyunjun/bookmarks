@@ -65,6 +65,9 @@ Robot
   * "데모 영상은 무시하라"—로보틱스가 어려운 14가지 이유 정리
 * [커넥티드카, 플랫폼 만든 이야기 - Physical AI에 대한 짧은 생각 | greypencil](https://greypencil.tistory.com/282)
   * 스마트카 서버 기술(임베디드+서버)을 만들다 퇴사한 개발자의 회고—이 기술이 로봇·다크 팩토리에도 쓰인다는 관찰과 함께, IoT는 한물간 게 아니라 **온디바이스 AI의 전제 인프라로 2차 진화 중**이라는 시사점 정리
+* [신동형 인사이트 보고서 「The Bible of 임바디드AI(Embodied AI;EAI)」, 공신력 있는 기관 및 전문가는 피지컬AI가 아니라 임바디드AI, EAI 입니다 | 신동형 | 네이버 블로그](https://blog.naver.com/jack0604/224276289942)
+  * 국내에선 '피지컬AI(PAI)'가 주류지만 CTA·NVIDIA·일부 컨설팅은 PAI를, NIST·ITU·IEEE 등 표준 기관과 학술 쪽은 'Embodied AI(EAI)'를 공식 용어로 쓴다는 관찰에서 출발한 보고서(PDF 본문·1페이지 브리프 첨부, 2026-05-07). 3대 메시지: ①공식 용어는 EAI라 PAI 중심의 정부 정책·R&D·산업 분류는 글로벌 표준과 어긋날 수 있음 ②시장 용어 PAI는 Nature의 정의처럼 SW 지능 EAI(인식·인지·행동)+HW 지능 MAI(Morphological AI, 감지·구동·소재/구조—보고서가 새로 제안한 용어)의 결합으로 재정의 ③EAI 6단계 진화: 규칙 기반→LLM→VLM→VLA E2E→VLM+VLA→WLM+VLA→W(L)M-W(L)(A) 통합 모델
+  * 그 밖에 월드 모델, 최대 병목인 데이터 확보 전략(인터넷 영상·시뮬레이션·인간 중심·로봇 중심 데이터 4계층 결합), 로봇·휴머노이드, 2025년 글로벌 휴머노이드 출하량 86.9%를 점유한 중국과 풀스택이 강한 미국의 패권 경쟁 구도까지 다룸
 * [2607.10350 ABot-AgentOS: A General Robotic Agent OS with Lifelong Multi-modal Memory](https://arxiv.org/html/2607.10350v3)
   * [ABot-AgentOS: Operating System for Robotic Agents | AI Research Roundup - YouTube](https://www.youtube.com/watch?v=zqQMfPXjp28)
   * VLM·VLA가 인지·행동 예측을 개선했어도 장기 과제 수행 에이전트에는 추론·기억·도구 사용·검증·크로스 임바디먼트 실행을 관장하는 **범용 런타임 계층**이 필요하다는 문제의식—평생 멀티모달 메모리를 갖춘 로봇 에이전트 OS 제안(해설 영상 4분)
