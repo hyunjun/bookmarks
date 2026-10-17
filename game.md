@@ -119,6 +119,9 @@ Game
 * [batocera.linux](https://batocera.org/)
   * [오래된 컴퓨터 버리지 마세요. 게임기로 개조해서 즐겁게 활용할 수 있어요. 리눅스를 활용한 초간단 게임기 만들기 도전! - YouTube](https://www.youtube.com/watch?v=f7i1qVfS92I)
 * [Box2D is a 2D physics engine for games](https://github.com/erincatto/box2d)
+* [claude-pxl: pxl — Pixel art as code | crsolver](https://github.com/crsolver/claude-pxl)
+  * 한 글자 색 키 팔레트와 ASCII 그리드로 스프라이트를 쓰는 간결한 `.px.js` DSL(미러링·자동 아웃라인·베이스 스프라이트 색 교체 한 줄)에서 PNG·TexturePacker식 JSON 스프라이트 시트·애니메이션 GIF·픽셀 그리드 업스케일 프리뷰를 생성. `pxl serve`는 저장할 때마다 다시 빌드하고 그린 과정을 op 단위로 리플레이하는 라이브 뷰어—에이전트가 그림 그리는 걸 지켜볼 수 있음. `pxl ascii`로 x/y 눈금 포함 텍스트 출력
+  * AI 에이전트용으로 설계돼 에이전트 스킬 동봉, 사람도 쓰기 편함. 런타임 의존성·빌드 단계 없음(Node 22.18+), `npx github:crsolver/claude-pxl build art.px.js`. `.ts`도 지원(타입 정의로 에디터 자동완성). TypeScript, MIT
 * [CSEngine: CSEngine is a cross-platform 3D game engine](https://github.com/ounols/CSEngine)
 * [Doom3 BFG Source Code Review: Introduction](https://fabiensanglard.net/doom3_bfg/index.php)
 * [EasyRPG](https://easyrpg.org/)
