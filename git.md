@@ -1371,6 +1371,8 @@ Git
 * [시간 절약 꿀팁?⚡️깃허브에서 AI 활용하기 5분컷 - YouTube](https://www.youtube.com/watch?v=PDpdb3K0FEo) (1) GitIngest (2) DeepWiki (3) GitMCP (4) GitPodcast
 * [Redesigning source control at Anthropic | Anthropic Engineering](https://www.anthropic.com/engineering/redesigning-source-control)
   * [Anthropic의 소스 컨트롤 재설계: AI 에이전트 시대를 위한 Scion의 아키텍처와 확장 전략 | digitalbourgeois](https://digitalbourgeois.tistory.com/3798)
+  * [AI가 Git의 한계를 드러냈다: Anthropic이 자체 버전 관리 시스템 'Scion'을 개발한 이유 | KAITA](https://kaita.org/learning/blog/Aqmf7bNNl1z0r2NlAFlD)
+    * 토토로(2026-10-17). Git의 분산 설계 철학과 Anthropic 워크로드의 충돌, 서버 중심 모델·Changeset·Content-Addressed Storage·Derived Data·계층형 캐싱을 그림으로 풀고, ML 엔지니어에게도 중요한 이유(AI 연구·실험 자동화 인프라)로 확장한 한국어 해설
   * 2026-10-13. 코딩이 병목이 아니게 되자 인간 규모로 만들어진 개발 인프라(소스 컨트롤·빌드·CI)가 병목—모노레포 하루 머지 2026-05 약 2,500건→09 3만+건, 메인 브랜치 이력 ~100GB·압축 작업 사본 25GB+, CI만 하루 2,500만 회 체크아웃(단순 fetch면 600PB/일). 수백 대의 내부 git 미러로 버티다 5개월 만에 자체 VCS Scion으로 전면 이전, 코드 리뷰 Antique·코드 검색·IAM도 함께 구축(7명 팀)
   * 설계 원칙(Google Piper·Meta Sapling 교훈 위에): 클라이언트는 항상 온라인, 클라이언트-서버 비대칭(이력·blame·commit·merge·rebase는 서버가 수행, 클라이언트는 bounded 캐시+작업 사본), 모든 질의를 API로 노출(자동 bisect·revert 파이프라인), 모든 컴포넌트 수평 확장(완전 materialize된 복사본·packfile 없음), commit은 서버에서 저렴·증분·lock-free(ref는 main·릴리스 브랜치만 권장), 작업 사본은 선택적이며 sparse·가상화 기본
   * 구조: 단위는 WAL 엔트리 "changeset"(첫 부모 대비 변경 파일 목록+blob 스토리지 content-addressed 포인터), blame·경로 이력·커밋 그래프 skip list 등은 부모 값에서 재귀 계산하는 "derived data"로 일반화(eager/지연 선택, 클라이언트 비노출). scn 클라이언트는 "가진 것" 협상 대신 원하는 tree/blob만 재귀 요청(resumable, 어떤 캐시든 응답 가능)→노드별 scion-daemon→리전 scion-cache→scion-server→Spanner/클라우드 스토리지 3계층(동일 RPC, 티어 강제로 장애 격리, 각 티어 캐시 적중 99%+). 결과: git 미러 대비 인프라 CPU·메모리 200× 축소, 체크아웃 분→초(100×), CI CPU 25% 절감
@@ -1407,6 +1409,10 @@ Git
 * [delta: A viewer for git and diff output](https://github.com/dandavison/delta)
 * [dns.js.org - free and sleek URL for GitHub Pages](http://dns.js.org/)
 * [dolt: Dolt – It's Git for Data](https://github.com/dolthub/dolt)
+* [Entire — Former GitHub CEO Thomas Dohmke launches Entire with a landmark $60 million seed round to build the world's next developer platform for the era of AI](https://entire.io/news/former-github-ceo-thomas-dohmke-raises-60-million-seed-round)
+  * [cli: 📜 Entire CLI hooks into your Git workflow to capture AI agent sessions as you work. Sessions are indexed alongside commits, creating a searchable record of how code was written in your repo | entireio](https://github.com/entireio/cli)
+  * 2026-02-10. 전 GitHub CEO Thomas Dohmke가 인간-에이전트 협업용 개발자 플랫폼 Entire를 창업, Felicis 주도 $60M 시드(밸류 $300M, 개발자 도구 사상 최대 시드; Madrona·M12·20VC와 Gergely Orosz·Theo Browne·Jerry Yang·Olivier Pomel·Garry Tan 등 참여). "이슈→git 레포→PR→배포의 수작업 소프트웨어 생산 시스템은 AI 시대를 위해 설계된 것이 아니다"—자동차의 이동식 조립 라인처럼 기계가 주 생산자인 세계에 맞춰 SDLC 재구상. 15명 원격 조직
+  * 비전 3요소: 코드·의도·제약·추론을 하나의 버전 관리 시스템에 통합하는 git 호환 데이터베이스, 컨텍스트 그래프로 멀티 에이전트를 조율하는 범용 시맨틱 추론 레이어, 에이전트-인간 협업용 AI 네이티브 UI. 첫 오픈소스 제품 Checkpoints(CLI): 에이전트가 만든 모든 커밋에 세션 전사·프롬프트·결정 등 전체 컨텍스트를 구조화된 체크포인트로 짝지어 Git에 저장, AI 기여 그래프로 검색·탐색. Claude Code·Gemini CLI부터 지원. Go, MIT
 * [epiq — distributed, terminal-native, Git-backed issue tracker](https://ljtn.github.io/epiq/)
   * [epiq](https://github.com/ljtn/epiq)
   * [epiq - Git 기반 분산형 로컬 CLI 네이티브 이슈 트래커 | GeekNews](https://news.hada.io/topic?id=31104)
