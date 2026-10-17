@@ -192,6 +192,8 @@ Finance
 * ELB
   * [단점까지 알고 활용하세요. - YouTube](https://www.youtube.com/watch?v=BGaCBB7VkNI)
     * [단점까지 알고 활용하세요. | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/913898)
+* [CryptoQuant Analyst Consensus — search any asset](https://consensus.cryptoquant.com/)
+  * 크립토·미국 주식·지수/ETF·원자재·한국 주식·매크로 자산을 검색하면 X의 톱 애널리스트들이 그 자산에 대해 말하는 내용을 집계—불/베어 비율, 각 진영의 논거(bear case·bull case), 내러티브, Analyst Consensus Index(총 콜 수 기반)를 매시간 갱신. 온체인 데이터 업체 CryptoQuant의 베타 서비스, API 제공
 * ETF
   * [코스피 ETF의 종류와 매월 일정금액을 투자했다면 그 결과는?!](https://tariat.tistory.com/968)
   * [적립식 ETF 투자의 장점과 단점은?!](https://tariat.tistory.com/971)
@@ -806,6 +808,10 @@ Finance
 * [투자은행 핀테크 연봉 이야기 #2 - 금융권 개발자](http://blog.naver.com/joo_andy_lee/220369018195)
 * [AI퀀트 금융머신러닝 공부를 위해 봐야할 동영상](https://brunch.co.kr/@gauss92tgrd/48)
 * [주가 regression에 어떤 loss를 써야할까 – Passion is like genius; a miracle.](https://mkseo.pe.kr/blog/?p=4379)
+* [How to Reverse Engineer Any Institutional Trading System Using REA to Build a One-Person Hedge Fund From Scratch (PDF)](https://drive.google.com/file/d/183n4-0DCP3wCDkl-9wkhBm6l6Mo44hh1/view) [pdf](pdfs/rea_reverse_engineer_institutional_trading_system_one_person_hedge_fund.pdf)
+  * 6쪽 논문 형식 프레임워크(저자 미표기, 2026-10). REA(Reverse Engineer Anything)+MCP 도구로 허가된 트레이딩 소프트웨어·공개 시장 행동을 조사→관측 가능한 메커니즘을 독립 구현으로 재구성→정량 검증하는 1인 퀀트 리서치 데스크. 전제: 헤지펀드의 비공개 전략은 공개 관측으로 복원되지 않으며, 결과물은 "숨은 알파 약속"이 아니라 감사 가능한 재현성 있는 연구 프로세스
+  * 구조—증거 수집·시장 데이터·모델 랩·독립 검증·리스크 제어·실험 원장 6요소. 관측 행동(y=Fθ(x,s)+ε)과 숨은 로직 분리, 홀드아웃 오차+복잡도+미지원 가정 패널티의 모델 선택 목표 J(M), 주문흐름 불균형(OFI)·호가 스큐 등 미시구조 특징으로 경쟁 가설을 세우고 최적화 전 반증 조건 정의
+  * 백테스트 검증 건틀릿: 시간순 분리·누수 제어, 체결 모델(수수료·슬리피지·펀딩·시장충격)로 순수익, Deflated Sharpe·PBO로 선택 편향 보정, 5게이트(데이터 무결성→모델 충실도→실행 비용→통계 강건성→리스크·운영) 통과 후에만 페이퍼 트레이딩. 리스크 예산 포지션 사이징, 변동성 타게팅, 독립 사전·사후 거래 통제(SEC 15c3-5), 비상 정지, 불변 감사 로그. 한계: 디컴파일은 원본 소스가 아닌 구조 단서, 시장 데이터는 인과가 아닌 상관
 * [ib-gateway-docker: Docker image with IB Gateway/TWS and IBC | gnzsnz](https://github.com/gnzsnz/ib-gateway-docker)
   * Interactive Brokers Gateway/TWS를 IBC와 함께 컨테이너로 띄우는 이미지—알고 트레이딩 봇의 무인 API 접속용. Shell, MIT, 1.3k stars
 * [OpenQuant — collaborative and proper practices for financial machine learning](https://open-quant.github.io/openquant/)
