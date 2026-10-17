@@ -555,6 +555,9 @@
 * [An Introduction to Coding In Rust for Pythonistas - YouTube](https://www.youtube.com/watch?v=MoqtsYLGCC4)
 * [Complementing Python With Rust](https://medium.com/@caulagi/complementing-python-with-rust-657a8cb3d066)
 * [Rust를 사용해서 당신의 Python에 날개를 달아주세요](https://www.slideshare.net/JIHUNKIM26/rust-python-110278438)
+* [Why AI Infrastructure Is Moving to Rust - YouTube](https://www.youtube.com/watch?v=2j4_iPG5Aqk)
+  * Byte Without Bite(2026-10, 6분 30초). Python이 ML 연구를 지배하는데 왜 AI 인프라에서 Rust가 자라는가—PyTorch·TensorFlow 코드 아래 Python→C++→CUDA→GPU로 내려가는 스택을 따라가며 Rust가 어디에 들어가는지 설명. 선택 이유: GC 없는 성능, 안전한 동시성, 메모리 레이아웃 제어, PyO3·maturin으로 Python 통합. 데이터 파이프라인·CPU 병목이 값비싼 GPU를 놀게 만드는 문제
+  * Python 개발자가 이미 쓰는 Rust 기반 도구—Hugging Face tokenizers·safetensors, OpenAI tiktoken, Polars, Pydantic—와 추론 서버·벡터 DB·ML 프레임워크(Candle·Burn)에서의 역할. "Rust가 Python을 대체하나?"에는 연구 레이어와 시스템 레이어를 구분하면 둘이 공존하며, Rust는 C++의 대안 자리라는 답
 * [pyo3 - Rust bindings for the Python interpreter](https://github.com/PyO3/pyo3)
   * [Introduction - PyO3 user guide](https://pyo3.rs/)
   * [PyO3 프로젝트 생성하기 - 파이썬 프로그래머를 위한 러스트 입문](https://indosaram.github.io/rust-python-book/ch15-02.html)
