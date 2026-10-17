@@ -8529,6 +8529,8 @@ Programming
   * [리버스 엔지니어링 도구 기드라의 좋은 시작점 : 네이버 블로그](https://blog.naver.com/drvoss/222654240906)
   * [Patching an Embedded OS from 1996 with Ghidra](http://blog.petersobot.com/patching-the-k2500)
   * [ghidra: Ghidra is a software reverse engineering (SRE) framework | NSA](https://github.com/NationalSecurityAgency/ghidra)
+  * [ghidra-mcp: Ghidra MCP Server — 200+ MCP tools for AI-powered reverse engineering. GUI plugin + headless server, lazy tool loading, convention enforcement, batch operations, Ghidra Server integration, and Docker deployment](https://github.com/bethington/ghidra-mcp)
+    * Claude Code 등 AI 에이전트가 Ghidra를 조작하는 MCP 서버. GUI 플러그인과 헤드리스 서버 두 모드, 200+ 도구를 지연 로딩, 명명·주석 컨벤션 강제, 배치 작업, Ghidra Server(공유 프로젝트) 연동, Docker 배포. Java, Apache-2.0
   * [소스코드 없이 소프트웨어 내부를 분석하는 방법 | 이상선 | Facebook](https://www.facebook.com/lsszz1/posts/pfbid0o3xbEnWgAbPa7V9gXBZkdZ1yYoW6xXYT2gYJh4SMdnMuN5rLDLAGEX6vhqy7QSSl)
     * NSA가 개발한 오픈소스 리버스 엔지니어링 프레임워크 소개—컴파일된 프로그램 디컴파일·어셈블리 분석, 내부 로직·함수 구조 파악, 의심 파일·악성코드 분석, 디버깅·에뮬레이션·그래프 분석·스크립팅
 * [h4cker - This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more](https://github.com/The-Art-of-Hacking/h4cker)
