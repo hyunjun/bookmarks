@@ -2164,6 +2164,14 @@ App
   * Snagit
 * [Share Mouse and Keyboard](http://www.keyboard-and-mouse-sharing.com/)
 * [Shottr - 맥에서 사용하는 강력하지만 가벼운 스크린샷 캡쳐 앱 (무료) ~ CreSeed](https://creseed.blogspot.com/2022/08/shottr.html)
+* [sill: Any window from your Mac, live on your iPhone or iPad. Touch, Apple Pencil, trackpad and keys. Free, open source, no servers](https://github.com/Saffsanity/sill)
+  * [Sill: windows from your Mac on your iPhone and iPad](https://getsill.app/)
+  * [Sill: any window from your Mac, live on your iPhone and iPad. Free and open source - YouTube](https://www.youtube.com/watch?v=fJnNkfHLdFw)
+    * 1분 23초 소개 영상—창 하나 또는 데스크톱 전체를 한 탭으로 전환, 원하는 글자 크기, 클릭·스크롤·입력, 최대 120fps, Mac에서 숨긴 창도 iPad에선 계속 라이브, Wi-Fi·유선·직접·VPN 원격 연결, 구독·서버 없음
+  * [Sill: Your Whole Mac on Your iPhone in a 3.3 MB Free App - YouTube](https://www.youtube.com/watch?v=EGwtQ2IuXG0)
+    * AwesomeFOSS 리뷰(6분 41초). Mac 앱 전체가 3.3MB 다운로드, 서드파티 의존성 0의 순수 Swift, 개발자 1명 585 커밋. 실제 사용감·랩톱 모드·내부 구조(ScreenCaptureKit→하드웨어 HEVC→TLS 1.3)·소스 빌드·수치·일반 원격 데스크톱 대비 차이·단점(the honest part) 순으로 소개—Sidecar의 역방향 무료 대안, Luna Display·Duet Display 대안으로 평가
+  * Mac 창(또는 전체 데스크톱)을 iPhone·iPad에 띄워 터치·트랙패드·키보드·Apple Pencil로 조작하는 무료 오픈소스 앱. 메뉴바의 Sill for Mac이 ScreenCaptureKit으로 캡처→VideoToolbox 하드웨어 HEVC 인코딩→TLS 1.3로 기기에 직접 전송, 입력은 Accessibility로 마우스·키보드 이벤트 변환. 지연 시 프레임 큐잉 대신 드롭, 기기 미연결 시 캡처 없음
+  * 같은 네트워크·USB 케이블·Direct Wireless Connection, 외부에선 Tailscale 같은 자기 VPN이나 포트 포워딩(Remote Access)으로 연결—계정·서버·광고·트래킹 없음, 기기당 1회 페어링(코드 스캔). iPhone Duo 폴드 상태별 레이아웃. Apple silicon·macOS 14+, iOS/iPadOS 17+. Mac 앱은 공증 다운로드 또는 `brew install --cask saffsanity/sill/sill`, iOS 앱은 App Store 무료. Swift·SwiftUI, Apache-2.0
 * [SketchyBar](https://felixkratz.github.io/SketchyBar/)
   * [SketchyBar: A highly customizable macOS status bar replacement](https://github.com/FelixKratz/SketchyBar)
 * [skhd: Simple hotkey daemon for macOS](https://github.com/koekeishiya/skhd)
@@ -2723,6 +2731,10 @@ App
 * [CompressO: Compress any video/image into a tiny size](https://compresso.codeforreal.com/)
   * [compressO: Convert any video/image into a tiny size. 100% free & open-source. Available for Mac, Windows & Linux | codeforreal1](https://github.com/codeforreal1/compressO)
   * 100% 무료·오프라인·오픈소스 영상/이미지 압축 앱(Mac·Windows·Linux). TypeScript, AGPL-3.0, 4.7k stars
+* [Concat: the free, open-source CapCut replacement](https://concat.standalones.org/)
+  * [concat: The truly free, and open-source cross-platform CapCut replacement. Supports MCPs & API](https://github.com/jub0t/concat)
+  * 자동 자막·TTS 보이스·배경 제거·키프레임·170+ 이펙트/필터/트랜지션/텍스트 애니메이션·타이틀·멀티트랙 컷 편집, 최대 4K 내보내기를 전부 로컬에서—워터마크·계정·구독 없음, 업로드 없음. Windows·macOS·Linux·Android·iOS, 앱 내 14개 언어. 라이브러리·모니터·인스펙터·타임라인 4패널을 자유 배치
+  * JSON-RPC·gRPC·MCP 개발자 API로 AI 에이전트가 편집 조작 가능. GitHub Releases 7.8만+ 다운로드(v0.2.7). Rust, AGPL-3.0
 * [Crafting Apps: open-source creative tools | ArtCraft](https://getartcraft.com/apps)
   * [artcraft: ArtCraft is an intentional crafting engine for artists, designers, and filmmakers](https://github.com/storytold/artcraft)
     * "The IDE for artists"—프롬프트 한 줄로 뽑는 대신 2D 캔버스에서 합성하고 3D로 장면을 연출한 뒤 모델을 골라 생성하는, 정밀하고 반복 가능한 '크래프팅' 중심의 AI 이미지·영상 제작 IDE. Image to Location(가상 배우를 같은 공간에 배치해 여러 샷 기획)·2D/3D 이미지 컴포지팅·Image to 3D Mesh·캐릭터 포징·키트배싱 씬 블로킹·마네킹 포즈로 캐릭터 정체성 전이·배경 제거·마스크/인페인팅 캔버스 편집·Image to Video. 자체 카탈로그 62모델(이미지 16: Nano Banana·GPT Image·FLUX·Seedream / 영상 25: Seedance·Kling·Veo·Sora·Vidu·MiniMax H3·Flux 3 / 음악·사운드 5: Suno·Seed Audio / 3D 메시 11·월드)+Grok Imagine·Midjourney·Sora·World Labs Marble(가우시안 스플랫) 프로바이더. 위 Crafting Apps 7종을 만든 팀의 본 제품. Rust, Apache-2.0, 13k stars
@@ -3031,6 +3043,13 @@ App
 * [마크다운에 컴포넌트 추가하기 | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2022/221222-custom-md/)
 * [How to build a GitHub-style Markdown Editor](https://indiecourses.com/blog/how-to-build-a-github-style-markdown-editor)
 * [마크다운의 부상: LLM 시대가 요구하는 문서 포맷 | AIstar](https://haseong.github.io/column/2025/06/28/2204f32e7b6080eeb86ce2966641a2fc.html)
+* [Alexandrie — Open-source Markdown Organization: Your Notes, Beautifully Organized](https://alexandrie-hub.fr/)
+  * [Alexandrie: 📚 The open-source, offline-first Notion, Obsidian & Confluence alternative. Advanced Markdown, multi-tenant teams, OIDC/SSO, and local S3 backups. Deploy in one command | Smaug6739](https://github.com/Smaug6739/Alexandrie)
+  * [Managed Alexandrie as a Service | Elestio](https://elest.io/open-source/alexandrie)
+  * [Alexandrie: Free Open Source Markdown Notes App (Notion & Obsidian Alternative) - YouTube](https://www.youtube.com/watch?v=QTUHHPXlzWQ)
+    * Elestio(2026-10-16, 10분). Elestio로 설치 후 대시보드·워크스페이스·마크다운 에디터·CDN·커맨드 센터·카테고리/태그·가져오기/내보내기·팀·PWA·UI 커스터마이즈·스니펫 순으로 기능 투어
+  * Smaug(개인 개발자)가 자기 용도로 만들어 수년간 유지하는 무료·오픈소스·광고/추적 없는 셀프호스팅 마크다운 워크스페이스—노트·지식 베이스·협업·공개 문서. 문법 강조·라이브 프리뷰·표·코드·KaTeX 수식·컬러 콜아웃 에디터, 중첩 폴더·워크스페이스·태그, 밀리초 전문 검색(⌘K), 내장 CDN 파일 업로드, 다크/라이트·문서 테마·아이콘 커스터마이즈, 권한 관리 공유와 원클릭 공개 읽기 전용 페이지(docs.yoursite.com)
+  * 오프라인 우선 Notion·Obsidian·Confluence 대안. 멀티테넌트 팀·중첩 카테고리, OIDC/SSO(네이티브 로그인 비활성화 가능), 번들 RustFS(S3 호환) 로컬 파일 저장·백업, 한 줄 명령 배포. Elestio 관리형은 월 $16부터. Vue, MIT
 * athens research [Pioneering research. Self-hosted and multi-player](https://www.athensresearch.org/)
 * [BatNoter](https://batnoter.com/login)
   * [batnoter: An open source, markdown-based, self-hosted note taking webapp.](https://github.com/batnoter/batnoter)
