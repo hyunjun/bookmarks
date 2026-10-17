@@ -389,6 +389,10 @@ Math
 * [T>T: When Double Precision is Not Enough | Dr Adam Luke Baskerville](https://adambaskerville.github.io/posts/LespEigenvalues/)
 * [한 점이 다각형 내부에 위치하는지 판별하기 - 로스카츠의 AI 머신러닝](https://losskatsu.github.io/machine-learning/py-polygon01/#)
 * [Manim Community v0.16.0.post0](https://docs.manim.community/en/stable/index.html) 수학을 이용한 설명을 할때, 관련되는 애니메이션을 만들어주는 라이브러리
+* [ManimGX — The animation engine for agents: blazingly fast math and 3D videos with Manim's Python API, on a Rust GPU core](https://manimgx.academa.ai/)
+  * [manimgx: The animation engine for agents | academa-labs](https://github.com/academa-labs/manimgx)
+  * Manim CE API 호환 Python 애니메이션 엔진을 Rust+wgpu GPU 코어로 재구현. 1080p60 5개 장면 36.2초 영상을 M4 Pro에서 3.08초에 렌더—ManimCE 대비 90.6×, ManimGL 11.5×, Blender Workbench 18.7× 빠름(벤치마크 공개). `pip install manimgx`(Python 3.13+, 폰트·조판·인코딩 포함) 또는 에이전트에 "llms.txt를 따라 설치하고 태양계 3D 애니메이션을 만들어 열어라" 프롬프트 한 줄
+  * 에이전트 시대의 3D 영상 API—완전 정적 타이핑(키워드 인자·`.animate` 체인), 2D·3D 혼합(서피스·메시·카메라 이동+텍스트·수식·플롯), 브라우저 실행(`npm install manimgx`, Pyodide+WebGPU로 렌더 서버 없이 임베드), `manimgx inspect`로 스토리보드·2D 레이아웃 검사 피드백, LaTeX/Typst 설치 불필요, `self.say()`로 음성과 애니메이션 동기화. MIT
 * [Pi-thon: Teaching Maths with Python!](https://www.youtube.com/watch?v=w18LxSnQ4A4)
 * [PyDualNumber: Basic implementation of dual numbers in Python](https://github.com/kaifishr/PyDualNumber)
 
