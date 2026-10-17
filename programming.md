@@ -2708,6 +2708,8 @@ Programming
 * [I Bet Nobody Has Ever Explained the Backend Ecosystem Like This Before | Cloud X Berry - YouTube](https://www.youtube.com/watch?v=mZ27vUoOEB0)
   * 12분(2026-10-05). 백엔드 로드맵의 수십 가지 도구 이름(Spring Boot·Docker·Kubernetes·Redis·Kafka·PostgreSQL·Jenkins·AWS·Prometheus 등)을 외울 목록이 아니라 각자가 푸는 공학 문제로 보게 하자며, 쇼핑 사이트에서 노트북을 장바구니에 넣고 결제해 '주문하기'를 누르는 요청 하나를 끝까지 따라감—리버스 프록시(NGINX)가 요청을 알맞은 백엔드 서비스로 라우팅→Spring Boot·ASP.NET Core·Express·Django 같은 프레임워크가 인증(세션·JWT·OAuth·OpenID Connect)으로 누구인지 확인→DB에 주문을 읽고 저장(앱의 장기 기억)→Redis 캐시로 반복 작업 회피(히트·미스, 캐시가 DB를 대체하지 못하는 이유)→재고·배송·이메일·분석 같은 느린 후속 작업은 Kafka·RabbitMQ 메시지 큐로 넘겨 사용자를 기다리게 하지 않음
   * 이어서 줌아웃—"내 컴퓨터에선 되는데"를 고치는 Docker 컨테이너, 연휴 세일에 수천 개 컨테이너를 유지하는 Kubernetes, 그것들이 돌아가는 AWS·Azure·Google Cloud, 변경을 안전하게 배포하는 CI/CD 파이프라인, 고객보다 먼저 문제를 발견하는 Prometheus·Grafana 모니터링까지 전체 그림을 맞추고, 로드맵을 볼 때 각 도구가 어떤 문제를 푸는지 묻는 쪽으로 질문을 바꾸자는 결론. 로드맵에 압도된 입문자, 브라우저 밖에서 벌어지는 일을 알고 싶은 프런트엔드 개발자, 백엔드·시스템 디자인 면접 준비자 대상
+* [Strangling the dragon: modernizing legacy systems with the Strangler Fig pattern by Daniel Ranela | Devoxx - YouTube](https://www.youtube.com/watch?v=AmL_OCs5F4E)
+  * Devoxx Belgium 2026(35분). 레거시 시스템을 한 번에 갈아엎지 않고 새 시스템이 기존 기능을 하나씩 가로채며 점진적으로 대체하는 Strangler Fig 패턴으로 현대화하는 발표. 자막을 받지 못해 제목·발표 정보만 기록
 * [arc42 - arc42](https://arc42.org/)
   * [Documenting Software Architecture in Code Repository | by Huseyin Kutluca | Software Architecture Foundations | Feb, 2022 | Medium](https://medium.com/software-architecture-foundations/documenting-software-architecture-in-code-repository-74716412b0a2)
 * [Architectural Decision Records (ADRs)](https://adr.github.io/)
@@ -6441,6 +6443,10 @@ Programming
 * [Plunk | The Open-Source Email Platform](https://www.useplunk.com/)
   * [plunk: The Open-Source Email Platform](https://github.com/useplunk/plunk)
   * [Plunk - 오픈소스 이메일 플랫폼 | GeekNews](https://news.hada.io/topic?id=16319)
+* [posta: Self-hosted email delivery platform that enables applications to send emails via HTTP APIs while handling SMTP delivery, templates, storage, security, and analytics. Fully self-hostable alternative to services like SendGrid or Mailgun | goposta](https://github.com/goposta/posta)
+  * [Posta — Self-Hosted Email Delivery & Inbound Platform](https://goposta.dev/)
+  * 하나의 HTTP API(필요한 경로엔 SMTP)로 발신·수신·릴레이를 모두 다루는 셀프호스팅 이메일 플랫폼—SendGrid·Mailgun·Postmark 대안. 발신: 트랜잭션·마케팅 메일, 템플릿·로컬라이제이션·캠페인·구독자 목록, 바운스·컴플레인 처리, 전달 분석, 첨부·커스텀 헤더·구독 해지, 서명된 만료 링크의 웹 보기, 예약 발송·미리보기, 주소 검증(문법·MX·일회용·역할 계정), Redis+Asynq 비동기 처리·재시도·우선순위 큐
+  * 수신: TLS SMTP 수신기·HMAC 검증 웹훅 인제스트, 메시지·헤더·첨부 저장, 스팸 점수, 실시간 SSE 알림. 릴레이: 기존 SMTP 클라이언트를 Posta로 향하게 해 API 파이프라인을 그대로 타며 점진 이전. 폼: 웹사이트 문의 폼이 JS·백엔드 없이 Posta로 POST, 스팸 검사 후 대시보드에서 사람이 답장(자동 응답 없음). SMTP 풀·추적·OIDC/SSO, 대시보드·SDK, Docker 이미지(jkaninda/posta), 라이브 데모 app.goposta.dev. Go, AGPL-3.0
 * [SENDUNE - HTML Email Designer Drag-and-Drop-Email-Designer: Drag and drop HTML email designer - truly free and open source.](https://github.com/SendWithSES/Drag-and-Drop-Email-Designer)
   * [Sendune – 오픈소스 HTML 이메일 디자이너 | GeekNews](https://news.hada.io/topic?id=15932)
 * [spameater: Secure temporary email service with auto-deletion. ModSecurity WAF protected | rufftruffles](https://github.com/rufftruffles/spameater)
