@@ -1743,6 +1743,11 @@ Docker
 * [쿠버네티스 에러 정리 : Pod에 GPU 할당 과정에서 발생한 UnexpectedAdmissionError 해결하기 | by Ryan Kim | Jul, 2022 | Medium](https://equus3144.medium.com/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4-%EC%97%90%EB%9F%AC-%EC%A0%95%EB%A6%AC-pod%EC%97%90-gpu-%ED%95%A0%EB%8B%B9-%EA%B3%BC%EC%A0%95%EC%97%90%EC%84%9C-%EB%B0%9C%EC%83%9D%ED%95%9C-unexpectedadmissionerror-%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0-23faddea7d6c)
 * [Kubernetes에서 GPU 환경 셋업하기](https://heumsi.github.io/blog/posts/setup-gpu-env-in-k8s/)
 * [Dynamic GPU Memory with Run:ai - YouTube](https://www.youtube.com/watch?v=mE-SbPQBVHk)
+* [run-ai: NVIDIA Run:ai is the AI workload orchestration platform for Kubernetes | dsx-ai-factory](https://github.com/dsx-ai-factory/run-ai)
+  * [NVIDIA Run:ai Self-Hosted Product Documentation](https://docs.nvidia.com/run-ai/self-hosted/documentation/home)
+  * [NVIDIA Run:ai - 여러 팀이 GPU를 나눠 쓰도록 관리하는 Kubernetes 기반 플랫폼 | GeekNews](https://news.hada.io/topic?id=35507)
+  * NVIDIA가 오픈소스로 공개한 AI 워크로드·GPU 오케스트레이션 플랫폼(2026-10). 여러 팀이 공유하는 GPU 인프라에서 개발 워크스페이스·단일/분산 학습·추론 서비스를 배치하고 자원을 배분—GPU 하나를 여러 작업에 분할(fractional), 유휴 자원 동적 활용, fair-share·선점·회수·우선순위·GPU 토폴로지 인식 스케줄링, 부서·프로젝트별 할당량과 정책으로 독점 방지
+  * 구조: 컨트롤 플레인(중앙 자원 관리·워크로드 제출·모니터링·분석, 여러 클러스터 연결)+클러스터 서비스(각 K8s 클러스터에서 네이티브 스케줄링을 GPU 인식 기능으로 확장). 온프레미스·클라우드·하이브리드, Kubernetes/OpenShift 자체 설치·폐쇄망 배포, Kubeflow·Ray·KServe 연동, 웹 UI·CLI·REST API에 MCP 서버로 AI 어시스턴트에서도 조작, 역할별 접근 제어·GPU/노드/작업별 사용량 모니터링. 모노레포에 컨트롤 플레인·오퍼레이터/컨트롤러·설치기·CLI·MCP 서버·로컬 개발 환경 포함. 오픈소스판은 NGC 인증 없이 설치 가능. Go, Apache-2.0
 * [Kubernetes K8s Article - YouTube](https://www.youtube.com/watch?v=rld_y56Q09I)
 * [About - Kubernetes](https://kubernetes.youngwjung.com/)
 * [Real time issue in Kubernetes | how do we restore tomcat application in Kubernetes #aks #kubernetes - YouTube](https://www.youtube.com/watch?v=FK2ljTJlIsE)
