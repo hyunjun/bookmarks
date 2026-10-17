@@ -136,6 +136,9 @@ Presentation
   * [reveal.js](http://lab.hakim.se/reveal-js/)
   * [reveal.js](https://github.com/hakimel/reveal.js)
   * [slides.com/news/code-line-numbers](https://slides.com/news/code-line-numbers/)
+* [slides-grab: Best harness + editor + linter for generating slides in Claude Code / Codex - Claude Design Open Source Alternative | NomaDamas](https://github.com/NomaDamas/slides-grab)
+  * [slides-grab Showcase](https://blog.nomadamas.org/slides-grab/)
+  * AI가 만든 HTML 슬라이드에서 영역을 드래그해 에이전트에게 바로 컨텍스트로 넘기고 "이 부분 고쳐 줘"라고 편집하는 에이전트 우선 슬라이드 프레임워크(하네스+에디터+린터). 텍스트·크기·굵기 같은 간단한 수정은 수동으로도 가능, 슬라이드 전체가 AI가 가장 잘 다루는 HTML·CSS라 보기 좋고 수정이 쉬우며 PDF와 실험적 PPTX로 변환. ChatGPT 플러그인 ZIP 빌드 지원, Showcase에 에이전트가 만든 실제 덱 갤러리. MIT
 * [slipshow: An engine for displaying slips, the next-gen version of slides](https://github.com/panglesd/slipshow)
   * [slipshow - 슬라이드 기반이 아닌 기술 발표용 도구 | GeekNews](https://news.hada.io/topic?id=15136)
 * [snappify - Create beautiful code snippets with ease](https://snappify.com/)
