@@ -427,6 +427,9 @@ NLP
   * [임베딩 기술은 저평가 되었음 | GeekNews](https://news.hada.io/topic?id=17545)
 * [왜 단일 임베딩 모델은 문서가 많아지면 검색을 못 하는가?](https://kr.linkedin.com/pulse/%EC%99%9C-%EB%8B%A8%EC%9D%BC-%EC%9E%84%EB%B2%A0%EB%94%A9-%EB%AA%A8%EB%8D%B8%EC%9D%80-%EB%AC%B8%EC%84%9C%EA%B0%80-%EB%A7%8E%EC%95%84%EC%A7%80%EB%A9%B4-%EA%B2%80%EC%83%89%EC%9D%84-%EB%AA%BB-%ED%95%98%EB%8A%94%EA%B0%80-jin-hyung-park-sigrid-jin--sbkxc)
   * [왜 단일 임베딩 모델은 문서가 많아지면 검색을 못 하는가? | Jin Hyung Park (Sigrid Jin)](https://www.linkedin.com/posts/sigridjineth_%EB%8B%A8%EC%9D%BC-%EB%B2%A1%ED%84%B0-%EC%9E%84%EB%B2%A0%EB%94%A9%EC%9D%80-%ED%91%9C%ED%98%84%ED%95%B4%EC%95%BC-%ED%95%A0-%EC%A7%88%EC%9D%98-%EB%AC%B8%EC%84%9C-%EA%B4%80%EB%A0%A8%EC%84%B1-%ED%8C%A8%ED%84%B4%EC%9D%98-%EB%B3%B5%EC%9E%A1%EB%8F%84%EA%B0%80-%EC%A3%BC%EC%96%B4%EC%A7%84-activity-7367381132939546624-ag59)
+* [Gemini Embedding 2: Our first natively multimodal embedding model | Google](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-embedding-2/)
+  * [🤖 텍스트+이미지+비디오+오디오 통합 임베딩: Gemini Embedding 2 활용 가이드 | fornewchallenge](https://fornewchallenge.tistory.com/entry/%F0%9F%A4%96-%ED%85%8D%EC%8A%A4%ED%8A%B8%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%B9%84%EB%94%94%EC%98%A4%EC%98%A4%EB%94%94%EC%98%A4-%ED%86%B5%ED%95%A9-%EC%9E%84%EB%B2%A0%EB%94%A9-Gemini-Embedding-2-%EC%99%84%EB%B2%BD-%EA%B0%80%EC%9D%B4%EB%93%9C)
+  * 2026-03-10 퍼블릭 프리뷰. Gemini 아키텍처 기반 첫 네이티브 멀티모달 임베딩 모델—텍스트·이미지·비디오·오디오·문서를 단일 임베딩 공간에 매핑해 미디어 종류를 넘나드는 검색·분류. 100+ 언어, RAG·시맨틱 검색·감정 분석·클러스터링 활용 예제(가이드)
 * [It's all just text - stitcher.io](https://stitcher.io/blog/its-all-just-text) 단순화된 관점으로 보면 복잡한 문제들을 더 쉽게 이해하고 해결 가능
   * [결국 모든 것은 텍스트이다 | GeekNews](https://news.hada.io/topic?id=17050)
 * [Plain Text - Dylan Beattie - NDC Copenhagen 2022 - YouTube](https://www.youtube.com/watch?v=gd5uJ7Nlvvo)
@@ -3120,12 +3123,17 @@ NLP
     * [TinyR1-32B-Preview: 大语言模型TinyR1-32B-Preview](https://github.com/Qihoo360/TinyR1-32B-Preview)
   * [DeepSeek-V3-0324 · Hugging Face](https://huggingface.co/deepseek-ai/DeepSeek-V3-0324)
     * [🐳 DeepSeek V3-0324 공개! 오픈소스 LLM의 새로운 강자 등장](https://fornewchallenge.tistory.com/entry/%F0%9F%90%B3-DeepSeek-V3-0324-%EA%B3%B5%EA%B0%9C-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-LLM%EC%9D%98-%EC%83%88%EB%A1%9C%EC%9A%B4-%EA%B0%95%EC%9E%90-%EB%93%B1%EC%9E%A5)
+  * [Enabling Up to 41% Faster Pre-training: MXFP8 and DeepEP for DeepSeek-V3 on B200 with TorchTitan | PyTorch](https://pytorch.org/blog/enabling-up-to-41-faster-pre-training-mxfp8-and-deepep-for-deepseek-v3-on-b200-with-torchtitan/)
+    * [AGI KR - DeepSeek-V3 학습 41% 더 빠르게 만든 MXFP8 | Facebook](https://www.facebook.com/groups/255834461424286/posts/2913516638989375/)
+    * 2026-03-25, PyTorch·Nebius. NVIDIA B200 256장 클러스터에서 TorchTitan으로 DeepSeek-V3 MoE(16B·671B) 학습—BF16 기준선 위에 직교하는 두 최적화: DeepEP 통신 가속만으로 671B가 651→859 tok/s(+32%), grouped GEMM에 MXFP8(TorchAO)을 더하면 918 tok/s(총 +41%). 16B MoE 1,500 스텝 수렴 실험에서 MXFP8 학습이 BF16과 동등(수렴 저하 없음)
   * [DeepSeek V4](https://huggingface.co/collections/deepseek-ai/deepseek-v4)
     * [DeepSeek_V4.pdf](https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro/blob/main/DeepSeek_V4.pdf)
     * [DeepSeek-V4 아키텍처 혁신: Sparse Attention과 1.6T 모델 이해 | digitalbourgeois](https://digitalbourgeois.tistory.com/3050)
       * V3 600B→V4 1.6T로 확장하면서 연산 비용 급감. 사전학습에 통합된 Sparse Attention(슬라이딩 윈도우+압축 토큰+인덱스 어텐션), MLA→MQA 대체, 알고리즘-하드웨어 레벨 인프라 최적화. 27% 토큰 연산·10% KV 캐시 메모리
     * [DeepSeek V4: ten teachers, one student | Maxime Labonne](https://maximelabonne.substack.com/p/deepseek-v4-ten-teachers-one-student)
       * 2026.4.24 V4-Pro(1.6T)·V4-Flash(284B) MIT 오픈웨이트, 1M 컨텍스트. 하이브리드 어텐션(CSA+HCA)로 KV 캐시 2%, mHC, Muon 옵티마이저. 1M 토큰당 49B 활성(오픈웨이트 최고). Hopper에서 학습(Ascend 마이그레이션 실패). 핵심 혁신은 사후학습 2단계—도메인 전문가 SFT+GRPO → 10+ 교사 모델로부터 full-vocabulary logit on-policy distillation. AA 인덱스 52점(Kimi K2.6/MiMo 54점에 약간 밀림). 약점은 사실성, 강점은 OpenRouter 주당 3.64조 토큰 점유
+    * [DeepSeek-V4-Flash-0731 완전 해부(7만 텐서 실측) | 씨울프](https://livegpt.tistory.com/20)
+      * 2026-08-03. 모델 정밀검사 도구 Darwin으로 V4-Flash-0731(MIT)의 부품 72,317개를 가중치 수준까지 열어 공식 문서가 건너뛴 구조를 실측—284B 중 약 4.5%(≈12.8B) 활성, 43층 전부 MoE, MLA(헤드 64, 512칸 KV 요약), 전문가 256+공용 1 중 6 선발, softmax 대신 sqrtsoftplus·noaux_tc 라우팅, 잔차 대신 MHC 하이퍼커넥션, fp8+블록 스케일, 105만 토큰 컨텍스트
   * [DeepSeek-V4-Pro: Highly Efficient Million-Token Context Intelligence](https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro)
     * [DeepSeek-V4 공개 | GeekNews](https://news.hada.io/topic?id=28845)
     * [EP 95. DeepSeek-V4 논문 읽기 - YouTube](https://www.youtube.com/watch?v=rJEMaldMyLE)
@@ -3135,6 +3143,10 @@ NLP
     * 1.6T MoE(49B 활성), 1M 컨텍스트. Compressed Sparse Attention(CSA) + Heavily Compressed Attention(HCA) 하이브리드. DeepSeek-V3.2 대비 27% FLOPs, KV 캐시 90% 감소. Non-Think/Think High/Think Max 3단계 추론. MMLU-Pro 87.5, LiveCodeBench 93.5, SWE Verified 80.6. MIT
   * [DeepSeek-V4.1-Flash Technical Report PDF](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash/blob/main/DeepSeek_V41_Tech_Report.pdf)
     * [(주의) DeepSeek이 Transformer의 계산 방식을 다시 바꿨습니다 | Jeongmin Lee](https://www.linkedin.com/posts/jyoung105_%EC%A3%BC%EC%9D%98-deepseek-%EC%9D%B4-transformer-%EC%9D%98-%EA%B3%84%EC%82%B0-%EB%B0%A9%EC%8B%9D%EC%9D%84-%EB%8B%A4%EC%8B%9C-share-7503723192742490112-861S/)
+    * [Introducing DeepSeek-V4.1-Flash: smarter, faster, more efficient | DeepSeek](https://www.deepseek.com/en/news/deepseek-v4-1-flash/)
+      * 2026-09-10. 새 아키텍처 계열의 가장 작은 모델, 네이티브 시각 이해. 552B MoE에 Causal Encoder–Decoder 비대칭 구조로 입력 8B·출력 16B만 활성, 새 사전학습+대규모 RL로 V4-Pro를 포함한 플래그십을 앞서는 벤치마크. 이전 세대 대비 KV 캐시가 HBM 1/4·SSD 1/8—에이전트 비용의 큰 몫인 캐시 히트 요금 절감
+    * [DeepSeek's Insane New Architecture | Two Minute Papers - YouTube](https://www.youtube.com/watch?v=vIHw_2VjSUw)
+      * 2026-09-18, 5분. V4.1-Flash 논문의 새 아키텍처 소개와 커뮤니티 활용 사례
     * 20층 Causal Encoder+20층 Decoder 비대칭 구조—Prefill 8B·Decode 16B 활성화, 텍스트+이미지 멀티모달. CSA2가 층마다 반복하던 KV·토큰 선택 계산을 Full/Reindex/Reuse 3모드로 재사용, MoE·Sparse Attention·Engram(메모리 조회) 결합. 토큰당 KV 캐시 V3.2 48,068B→V4-Flash 3,514B→V4.1-Flash 890B로 9개월 만에 약 1/54(100만 토큰 기준 48.1GB→0.89GB)
     * DeepSWE v1.1 74.2(Opus 5 74.0)·Automation-Bench 54.8·CyberGym 88.1·Terminal-Bench 2.1 90.6으로 Opus 5와 경쟁하며 가격은 약 1/17~1/21(캐시 적중 입력 $0.006/M, 비혼잡 시간대·주말 추가 반값)
   * [ds4 (DwarfStar 4): DeepSeek 4 Flash local inference engine for Metal and CUDA | antirez](https://github.com/antirez/ds4)
@@ -4299,6 +4311,9 @@ NLP
     * [LLM을 활용하여 최고의 Text Embedding 만들기](https://blog.sionic.ai/e5-mistral)
   * [Mistral Forge](https://mistral.ai/news/forge)
     * [Mistral Forge | GeekNews](https://news.hada.io/topic?id=27616)
+  * [Introducing Mistral Large 4 | Mistral](https://mistral.ai/news/mistral-large-4/)
+    * [Mistral Large 4 발표 - 코딩·보안·시각 이해를 강화한 1조 파라미터 오픈웨이트 모델 | GeekNews](https://news.hada.io/topic?id=34890)
+    * 2026-10-06 퍼블릭 프리뷰(별칭 "Le Chonk", 가중치는 10월 말 공개). 총 1.05조 파라미터·활성 약 50B의 세분화 MoE 네이티브 멀티모달 모델, 1.6B 비전 인코더, 100만 토큰 컨텍스트, 지시 수행·추론·에이전트 기능 통합. 코딩·에이전트·사이버 보안·금융·법률 업무에 집중해 DeepSWE v1.1 61.7%, 코딩 에이전트 종합 평가에서 DeepSeek V4 Pro·Qwen3.8 Max를 앞서고 시각 위치 찾기(Dense 200)에서 GPT-6 Astra를 소폭 앞섬. 유럽 자체 데이터센터의 NVIDIA Grace Blackwell 3,800개로 처음부터 학습, 160+ 언어
   * [mixtral-offloading: Run Mixtral-8x7B models in Colab or consumer desktops](https://github.com/dvmazur/mixtral-offloading/tree/master)
     * [What is better than running a Mixtral-8x7B model?](https://www.linkedin.com/posts/itamar-g1_what-is-better-than-running-a-mixtral-8x7b-activity-7146889906101948416-62bp/)
     * [demo.ipynb - Colaboratory](https://colab.research.google.com/github/dvmazur/mixtral-offloading/blob/master/notebooks/demo.ipynb)
@@ -4460,6 +4475,8 @@ NLP
     * Qwen3-Max [알리바바의 Qwen3-Max: 1조 파라미터의 진실](https://fornewchallenge.tistory.com/entry/%EC%95%8C%EB%A6%AC%EB%B0%94%EB%B0%94%EC%9D%98-Qwen3-Max-1%EC%A1%B0-%ED%8C%8C%EB%9D%BC%EB%AF%B8%ED%84%B0%EC%9D%98-%EC%A7%84%EC%8B%A4)
     * [text-embeddings-inference/Dockerfile-cuda at feat/qwen3-reranker-support · danielchalef/text-embeddings-inference](https://github.com/danielchalef/text-embeddings-inference/blob/feat/qwen3-reranker-support/Dockerfile-cuda)
   * [Qwen3.5 - a Qwen Collection](https://huggingface.co/collections/Qwen/qwen35)
+    * [📖 Qwen3.5: GPT-5.2 뛰어넘은 오픈소스 비전-언어 모델 완벽 가이드 | fornewchallenge](https://fornewchallenge.tistory.com/entry/%F0%9F%93%96-Qwen35-GPT-52-%EB%9B%B0%EC%96%B4%EB%84%98%EC%9D%80-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EB%B9%84%EC%A0%84-%EC%96%B8%EC%96%B4-%EB%AA%A8%EB%8D%B8-%EC%99%84%EB%B2%BD-%EA%B0%80%EC%9D%B4%EB%93%9C)
+      * 2026-02-18. 시리즈 첫 모델 Qwen3.5-397B-A17B—텍스트와 이미지를 원본적으로 통합한 네이티브 비전-언어 모델. Gated DeltaNet 선형 어텐션+희소 MoE 하이브리드로 397B 중 17B만 활성화해 추론 효율 확보, 지원 언어 119개→201개, 추론·코딩·에이전트·멀티모달 이해 전반 성능과 사용 방법
     * [Qwen 3.5 Medium 시리즈 공개: 35B 모델이 235B 플래그십을 넘어선 이유](https://digitalbourgeois.tistory.com/2809)
     * [Diary - LLM에서 효율적인 강화학습이란 무엇일까 2 (feat. Qwen-3.5와 GLM-5)](https://jackyoung96.github.io/2026/02/26/Qwen3-5-GLM-5/)
       * [Diary - LLM에서 효율적인 강화학습이란 무엇일까 2 (feat. Qwen-3.5와 GLM-5) | Jaekyung Cho](https://www.linkedin.com/posts/jaekyung-cho-7361b521a_diary-llm%EC%97%90%EC%84%9C-%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8-%EA%B0%95%ED%99%94%ED%95%99%EC%8A%B5%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C-2-feat-qwen-activity-7432800170339115008-rnlL)
@@ -4492,6 +4509,8 @@ NLP
     * 알리바바 Qwen3.6. SWE-bench Pro/Terminal-Bench 2.0 등 6개 코딩 벤치마크 최상위. SkillsBench +9.9, SuperGPQA +2.3. preserve_thinking으로 대화 간 추론 유지. Alibaba Cloud Model Studio 독점, OpenAI·Anthropic API 호환. 27B/35B-A3B 로컬 실행, 256K·201개 언어
   * [Qwen3.7-Max 에이전트 중심 초대형 AI 모델의 기술적 특징과 의미 | digitalbourgeois](https://digitalbourgeois.tistory.com/3126)
     * 단순 QA형 LLM이 아닌 코딩·디버깅·사무 자동화·장기 자율 실행 목적 에이전트 중심 독점 모델. 학습 인스턴스를 Task(문제)·Harness(실행/도구)·Verifier(검증)로 분리해 벤치마크 과적합 방지·환경 일반화. Terminal Bench 2.0-Terminus 69.7, SWE-Verified 80.4, GPQA Diamond 92.4. 35시간 연속 자율 커널 최적화에서 사전 문서 없이 1,158 도구 호출·432 평가로 Triton 대비 기하평균 10× 속도. Alibaba Cloud Model Studio API, OpenAI/Anthropic 호환, Claude Code·Qwen Code 연동. AI 경쟁이 단일 답변 품질→장기 자율 실행·환경 일반화로 이동
+  * [Qwen3.8: the large language model series developed by Qwen team, Alibaba Group | QwenLM](https://github.com/QwenLM/Qwen3.8)
+    * Qwen3.5·3.6·3.8 오픈 모델 시리즈 공식 레포. Qwen3.8은 처음으로 Qwen-Max급 모델을 오픈 공개—Qwen3.5 아키텍처 기반으로 코딩·전문 업무·리서치·장기 에이전트 작업 전반 향상, 자율 계획과 환경 피드백 처리 강화로 엔드투엔드 작업 완료 신뢰도 개선, 주요 하네스·개발 도구 호환 확대. Apache-2.0
   * [Qwen3.8-27B · Hugging Face](https://huggingface.co/Qwen/Qwen3.8-27B)
     * [Qwen3.8 - How to Run Locally | Unsloth Documentation](https://unsloth.ai/docs/models/qwen3.8)
       * [Qwen3.8 로컬 실행 방법과 하드웨어 요구사항 정리 | digitalbourgeois](https://digitalbourgeois.tistory.com/3526)
@@ -4694,6 +4713,10 @@ NLP
   * [MiMo V2 Pro](https://mimo.xiaomi.com/mimo-v2-pro)
     * [Hunter Alpha 미스터리 샤오미 MiMo-V2-Pro 정체 공개](https://fornewchallenge.tistory.com/entry/%F0%9F%94%8D-Hunter-Alpha-%EB%AF%B8%EC%8A%A4%ED%84%B0%EB%A6%AC-%EC%83%A4%EC%98%A4%EB%AF%B8-MiMo-V2-Pro-%EC%A0%95%EC%B2%B4-%EA%B3%B5%EA%B0%9C)
   * [MiMo-V2.6 | Xiaomi](https://mimo.xiaomi.com/mimo-v2-6)
+    * [Diagnosing and Mitigating Tool-Call Repetition in MiMo-V2.6 | Xiaomi MiMo](https://mimo.xiaomi.com/blog/mimo-v2-6-tool-call-repetition)
+      * [딥시크 R1 공개 당시 '29세 천재 여성 연구자'로 알려진 뤄푸리, 샤오미에서 MiMo 모델 학습을 생중계 | Goobong Jeong | LinkedIn](https://www.linkedin.com/posts/gb-jeong_%EB%94%A5%EC%8B%9C%ED%81%AC-r1-%EA%B3%B5%EA%B0%9C-%EB%8B%B9%EC%8B%9C-29%EC%84%B8-%EC%B2%9C%EC%9E%AC-%EC%97%AC%EC%84%B1-%EC%97%B0%EA%B5%AC%EC%9E%90%EB%A1%9C-%EC%95%8C%EB%A0%A4%EC%A7%84-%EB%A4%84%ED%91%B8%EB%A6%AC-%EA%B7%B8%EB%85%80%EB%8A%94-ugcPost-7512334146426281984-5Bh8/)
+        * 뤄푸리(罗福莉)가 이끈 MiMo-V2.6 대규모 RL post-training을 생중계로 공개—점수 그래프뿐 아니라 OOM·VRAM·네트워크·드라이버 장애로 멈추고 재시작하며 수십만 달러 연산이 사라지는 비용까지(공식 보고서 RL 비용 Pro 약 260만 달러, Flash 약 85만 달러). 코드·사이버보안·지식 업무·웹 개발·음악 7,780개 RL 환경 데이터셋 공개—문제마다 Docker 환경·저장소·의존성·터미널·테스트가 묶이고, 테스트 통과뿐 아니라 필요한 부분만 고쳤는지·우회로를 만들지 않았는지까지 채점
+      * 2026-09-27 post-mortem—출시 후 MiMo Desktop·MiMo Code·OpenCode 등에서 같은(유사한) 도구 호출을 반복하며 시간·컨텍스트만 소모하는 문제(응답 단위 반복률 0.05% 초과, OpenCode에서 Flash-RL 1.02%·Pro-RL 0.54%). 정답성만 최적화하는 보상의 사각지대에서 RL 중 tool-call flooding이 증폭됐고, 더 엄격한 페널티만으로는 비용이 크고 일반화가 나빠, 반복 특화 RL teacher와 MOPD로 해결
     * [MiMo-V2.6-Pro-RL: Scaling Reinforcement Learning Toward Self-Improvement · Hugging Face](https://huggingface.co/XiaomiMiMo/MiMo-V2.6-Pro-RL)
     * [샤오미, MiMo-V2.6 공개 - 강화학습 과정을 공개한 멀티모달 모델 | GeekNews](https://news.hada.io/topic?id=34085)
     * 고성능 Pro와 비용 효율 Flash 2종. Pro는 Artificial Analysis 지능 지수 46.32로 공개 모델 1위, API 가격은 이전 버전과 동일(입력/출력 100만 토큰당 $0.435/$0.87, 최대 20배 빠른 UltraSpeed 모드 별도). RL 진행 상황을 실시간 공개—6일 미만 학습에 코딩 평가 Pro +14점·Flash +17점. 3D 게임·Blender 모델·발표자료·영상 제작, 신소재 후보 탐색, 수학 증명 Lean 형식화 활용 사례
