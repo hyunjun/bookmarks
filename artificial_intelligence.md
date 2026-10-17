@@ -1043,6 +1043,8 @@ Artificial Intelligence
   * [agent-native: A framework for building agentic apps](https://github.com/BuilderIO/agent-native)
   * [Agent-Native - 하나의 액션을 UI/에이전트/API에서 함께 쓰는 앱 프레임워크 | GeekNews](https://news.hada.io/topic?id=33920)
   * [Agent-Native, AI 에이전트와 UI를 하나의 구조로 연결하는 오픈소스 TypeScript 프레임워크 | digitalbourgeois](https://digitalbourgeois.tistory.com/3692)
+  * [🏗️ Agent-Native : npx 한 줄로 에이전트와 UI를 함께 만드는 7,390스타 프레임워크 | fornewchallenge](https://fornewchallenge.tistory.com/entry/%F0%9F%8F%97%EF%B8%8F-Agent-Native-npx-%ED%95%9C-%EC%A4%84%EB%A1%9C-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EC%99%80-UI%EB%A5%BC-%ED%95%A8%EA%BB%98-%EB%A7%8C%EB%93%9C%EB%8A%94-7390%EC%8A%A4%ED%83%80-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC)
+    * 2026-10-16 시점(7,390 스타·669 포크, 2026-03-12 공개 후 7개월) 재정리. Builder.io(Qwik·Mitosis·micro-agent)의 프로젝트—코딩 에이전트는 코드베이스·도구·테스트·프리뷰 환경이 있어 텍스트 박스로 일이 되지만 일반 지식 노동은 빈 텍스트 박스 앞에서 추측해야 하므로 그 빈자리를 UI로 채우자는 제안. 에이전트가 UI를 클릭하는 게 아니라 같은 액션 계층을 통과("The agent does not click through the UI"). 공유 액션(`description`=언제 쓸지, `schema`=입력 검증+도구 정의, `run`=공통 로직)·공유 데이터·공유 앱 상태 3기반, 액션 하나가 UI·에이전트·HTTP·MCP·A2A·CLI 6개 표면에서 동작. 로컬은 PGlite로 DB 설정 없이 시작, 프로덕션은 PostgreSQL. 예제 앱 Design·Slides·Analytics·Calendar·Clips·Mail·Assets·Content(alpha)
   * 앱과 AI 에이전트를 별개로 만들지 않고 한 애플리케이션 안에서 같은 기능·데이터를 공유—작업을 `defineAction`으로 한 번 정의하면 **UI·에이전트 도구·HTTP API·MCP·A2A·CLI에서 같은 액션을 호출**. TypeScript, 6.8k stars
 * [agentOS — Secure operating system without a sandbox](https://agentos-sdk.dev/)
   * [agentos: A faster, lighter, cheaper alternative to sandboxes. Run any coding agent inside an isolated Linux VM, with agent orchestration built in](https://github.com/rivet-dev/agentos)
@@ -1356,6 +1358,10 @@ Artificial Intelligence
     * [LLM과 자연어로 대화하게 두지 마세요 | 요즘IT](https://yozm.wishket.com/magazine/detail/3520/)
   * [자바 vs. 파이썬: 더 나은 에이전트 개발 언어는? | 요즘IT](https://yozm.wishket.com/magazine/detail/3708/)
     * LangGraph(파이썬)와 Embabel(Java JVM) 프레임워크 비교
+* [Engram — Give your agent a brain](https://engram.gentlemanprogramming.com/)
+  * [engram: Persistent memory system for AI coding agents. Agent-agnostic Go binary with SQLite + FTS5, MCP server, HTTP API, CLI, and TUI | Gentleman-Programming](https://github.com/Gentleman-Programming/engram)
+  * 세션이 끝나면 모든 걸 잊는 코딩 에이전트에게 "뇌"를 주는 영구 메모리—어제 고친 N+1 쿼리, 지난주 아키텍처 결정, 팀 컨벤션을 다음 세션이 `~/.engram/engram.db` 하나에서 복원. Node·Python·Docker 없이 Go 단일 바이너리(`brew install gentleman-programming/tap/engram`), SQLite+FTS5 전문 검색, MCP stdio·HTTP API·CLI·인터랙티브 TUI
+  * 에이전트 불문—Claude Code·Pi·OpenCode·Gemini CLI·Codex·Antigravity·Windsurf·Qwen Code·Kiro·Cursor·VS Code(Copilot)·Kilo·Kimi Code·CommandCode 등 14개 설정 타깃+모든 MCP 호환 에이전트. 로컬 또는 클라우드 한 뇌. Codex의 변경 도구는 코어 `/health`가 runtime_session_resolution을 광고해야 동작하는 등 호환성 가드 포함. MIT
 * [ENZO — AI Hub](https://enzo-hub.duckdns.org/)
   * [ENZO: Self-hosted AI workspace with agents, skills, and tools (Gmail, Calendar) that runs entirely on your own provider API keys (BYOK)](https://github.com/theguysudo/ENZO)
   * 셀프호스팅 BYOK(Bring Your Own Keys) AI 워크스페이스—Groq·OpenRouter·NVIDIA NIM·Hugging Face·Google AI·Cloudflare Workers AI 등 프로바이더 키를 내 기기에 저장하고 요청은 브라우저→ENZO→프로바이더로 내 인프라에서 직접 나가 래퍼 마진·락인 없음. 300+ 모델 통합 카탈로그, 태스크 한 번 설명하면 에이전트의 운영 매뉴얼을 스스로 작성, Gmail·Calendar 등 도구, 리서치·코드 생성·실행. Docker(ghcr.io) 배포. TypeScript, Apache-2.0
@@ -1926,6 +1932,10 @@ Artificial Intelligence
   * Claude Code 생태계 도구 디렉토리(169K+ 등록). 4가지 카테고리—Skills(SKILL.md), MCP Servers, Marketplaces, Plugins. GitHub 매시간 동기화·죽은 링크 자동 정리·AI 요약·매일 순위 갱신. Cisco 기반 17개 위협 카테고리(프롬프트 인젝션·악성코드·데이터 유출 등) 자동 보안 스캔. Vix Code(통합 AI 코딩)·Skill·MCP·API 자체 제공
 * [Vision Agents Documentation - Vision Agents](https://visionagents.ai/)
   * [Vision-Agents: Open Vision Agents by Stream. Build Vision Agents quickly with any model or video provider. Uses Stream's edge network for ultra-low latency](https://github.com/GetStream/Vision-Agents)
+* [WebBrain — Free Open-Source AI Browser Agent for Chrome, Firefox & Edge](https://www.webbrain.one/)
+  * [webbrain: Open-source AI browser agent for Chrome and Firefox (monorepo) 🧠](https://github.com/webbrain-one/webbrain)
+  * 탭 옆 사이드 패널에 AI 에이전트를 두는 브라우저 확장—"Claude in Chrome"의 무료 오픈소스 대안. 현재 페이지에 질문하거나 작업을 맡기면 클릭·입력·탐색·업로드·다운로드·폼 채우기까지 수행. 3가지 권한 모드: Ask(읽기 전용—페이지 읽기·질문·URL fetch), Act(클릭·입력·탐색·폼), Dev(페이지 소스·스타일·콘솔·네트워크 접근과 되돌릴 수 있는 페이지 편집). 폼은 채우고 제출 직전에 멈춰 검토 유도
+  * 모델 선택 자유: 설정 없는 기본 WebBrain Compass 1.0, 로컬 llama.cpp·Ollama·vLLM·SGLang·LM Studio·Jan·LocalAI·GPT4All·Unsloth Studio·Osaurus 등 OpenAI 호환 서버(페이지가 내 컴퓨터를 떠나지 않음), CLIProxyAPI 같은 인증 루프백 프록시, 프론티어 클라우드 API. 로컬 모델의 컨텍스트 윈도우를 자동 감지·대화 자동 압축, 토큰 절약형 스크린샷, 다국어 UI. Claude Code·Codex·Cursor용 MCP 서버 추가. Chrome Web Store·Firefox Add-ons·Edge Add-ons 배포, 소스 로드 가능. JavaScript, GPL-3.0-or-later
 * [WorldSeed Demo - More is Different. A multi-agent world engine where AI agents live, talk, compete, ally](https://worldseed.morphmind.ai/demo)
   * [WorldSeed: A multi-agent world engine where AI agents live, talk, compete, ally](https://github.com/AIScientists-Dev/WorldSeed)
   * YAML 기반 시뮬레이션 월드 엔진. 워크플로 스크립팅 대신 역할·규칙·사적 정보·행동·결과를 정의하면 에이전트들이 상호작용하며 emergence 발생("rules + different agents + consequences -> emergence"). 틱 루프—각 틱마다 에이전트가 필터된 슬라이스 인지·행동 제안·엔진 해석. 예측 가능 행동은 YAML 룰 엔진(DSL), 불확실 행동은 LLM "Dungeon Master"가 구조화 효과 반환. 비대칭 인지(같은 방 다른 시각). LiteLLM(OpenAI/Anthropic/Ollama). 자율 연구소·AI 도구 빌더 경쟁·"AI Layoffs" 오피스 드라마·찻집 첩보 시나리오 예시. MIT
@@ -2022,6 +2032,9 @@ Artificial Intelligence
   * Devoxx Belgium 2026(50분, 2026-10-09 공개), GitHub의 Julien Dubois(JHipster 제작자). 오래 미뤄 온 Spring Boot 개발자 UI "Boot UI"(Java 모듈·Spring·Hibernate 백엔드+Vue.js 프런트, 83,000줄·테스트 스위트 116개)를 혼자 11일 만에 v1.0.0으로 출시—IDE를 열지 않고 에이전트 플릿을 지휘해 병합 PR 223개(하루 약 20개), 커밋 대부분은 Copilot이 작성. 숙련 개발자가 손으로 하면 6.5~8.5개월이라는 추정 대비 12~17배(발표에서는 15~20배)의 인력 절감으로, 시간은 코딩이 아니라 프롬프트·사양·코드 리뷰·병합·CI/CD 문제 해결·에이전트 조율에 쓰임. 총비용 약 $2,000(주당 $1,000). 비즈니스 포인트는 비용 절감보다 경쟁사가 6개월 걸릴 것을 2주에 출시하는 경쟁 우위. 이후 수개월간 PR 500개+를 더 병합하고 릴리스 20회+를 냈으며 V2는 약 40만 줄로 유지보수 문제가 없었다고
   * 바이브 코딩이 아닌 에이전틱 엔지니어링의 6요소—①작업에 맞는 모델: 대부분 같은 모델을 고수해 예측 가능성과 프롬프트 캐시(90% 할인)를 확보, 까다로운 작업은 다른 모델(Grok 등)로 교차 검토하는 "러버 더킹"(토큰의 절반을 감사에 사용), 쉬운 작업은 작은 모델로 속도 ②사양: agents.md에 Maven·Docker Compose·JUnit·Spotless 등 스택을, 별도 스펙에 '완료' 기준을 정의하고 생성→검토→재실행 루프 ③테스트: 로컬 JUnit·Docker Compose→GitHub Actions·CodeQL, 실패하면 에이전트가 PR을 보고 고치는 루프—사양+테스트가 곧 하네스이며 "더 좋은 모델보다 더 좋은 하네스" ④장비: 스킬 impeccable(프런트엔드), Copilot의 orchestrate·agent merge(PR 약 1,000개의 병합 충돌을 전부 해결해 직접 푼 적이 없음), 수동 릴리스 2~3회를 관찰시켜 만든 Boot UI 릴리스용 커스텀 슬래시 스킬, Java LSP(Eclipse JDT LS, IntelliJ도 Devoxx에서 LSP 서버 발표)로 정확도↑·작업에 따라 토큰 사용 20% 이상↓(에이전트 10개=Eclipse 10개라 병목은 LLM이 아니라 노트북) ⑤병렬화: 하루 계획에서 독립 작업을 골라 에이전트가 늘 돌게 ⑥일하는 방식: 11시 출근→17시까지 플릿 관리, 저녁에 큰 작업 2~3개의 사양을 써 밤새 돌리고(심층 통합·대량 테스트 생성·리팩토링·감사·러버 더킹) 다음 날 9~11시 커피와 함께 큰 PR을 검토·병합—병목은 자신
   * 함정은 스코프 크립(모호한 지시), 거대 PR(귀찮아서 병합하면 나쁜 코드), 너무 작은 모델 선택. 코딩 에이전트는 혼자 서지 못하고 GitHub 이슈·PR(사양의 일부)·Actions·Packages·클라우드 Copilot 에이전트(1시간 타임아웃, 모바일 앱에서 아이디어를 바로 실행)·Advanced Security(CodeQL·Dependabot 주 20개 PR·시크릿 스캔)가 루프를 받친다고. 토큰 경제학: 캐시된 입력은 90% 할인이지만 출력이 비싸서(캐시 입력 10만 vs 출력 2천 토큰이면 출력 쪽이 더 비쌈) 그 예시의 합산 절감은 51%에 그침, 반값 모델로 바꾸면 캐시가 무효화돼 오히려 손해, 지시문 변경·컨텍스트 압축·5분 이상 대기도 캐시를 깨뜨림("비싼 커피"). 해법은 Copilot 자동 모드(10% 할인·캐시 인식)와 9월 초 공개된 리서치 프리뷰 모델 오케스트레이션(복잡해지면 상위 모델로 확장, 다른 모델로 자동 교차 검증; 발표 당일 로컬 모델 실행도 발표). GitHub Copilot 앱 데모—워크트리로 병렬 세션, 캔버스, 200시간 넘게 돌아간 세션 인사이트, 오토파일럿으로 릴리스 준비. Boot UI 자체도 Java 앱 모니터링용 MCP 서버·스킬
+* [Lead Architect Reveals His Rules for Coding Agents | Beyond Coding - YouTube](https://www.youtube.com/watch?v=mkN4uRZYPfs)
+  * Patrick Akil의 Beyond Coding 팟캐스트(2026-10-14, 75분), 리드 아키텍트 Carlos Kelkboom의 코딩 에이전트 규칙. 대표 규칙: 이해하지 못하는 생성 코드는 작동해도 그 자리에서 버린다. 코딩 에이전트는 반복 수정(SlopCodeBench)에 약하고 원샷 실행에 강하므로, 에이전트를 돌리기 전에 코드·타입·폴더 경계를 손으로 스캐폴딩하고 서브 에이전트가 실행하게 하며 메인 에이전트는 파일을 직접 건드리지 않음
+  * 분산 Markdown+인덱스 검색 그래프 하네스로 컨텍스트를 점진적으로 노출, Git worktree로 병렬 에이전트를 돌려 가장 좋은 구현을 머지("코드는 싸다"), 동적 메모리·힙을 없애고 결정적 언어로 가야 한다는 주장, 에이전트로 새 언어 배우기, 코드 리뷰·뮤테이션 테스팅 재고. PR·팀 협업의 쇠퇴, 솔로 AI 개발자 버블, 사라지는 주니어와 AI 버블이 팀에 미치는 영향도 다룸. 자막은 받지 못해 설명·타임스탬프 기반 요약
 * [agentic-engineering-handbook: The definitive OpenAI, Claude, MCP, Harness, Evals, and Production Agent Systems learning roadmap](https://github.com/keyuchen21/agentic-engineering-handbook)
   * OpenAI·Anthropic·Google 블로그·엔지니어링 글·SDK 문서·쿡북·논문에 흩어진 에이전트 지식(에이전트 루프·도구 호출·MCP·메모리·장기 워크플로·코딩 에이전트·하네스·평가·안전)을 195개 큐레이션 자료로 묶은 학습 로드맵. Phase 0(에이전트 루프)~6(평가·프로덕션)+7(에이전트 학습·검색 심화)을 단계별 Read First·Then Read·Build Exercise 체크리스트로 진행하고, 코딩 에이전트·보안·코드 리뷰·SRE 응용 트랙과 P0/P1/P2 우선순위 전체 읽기 표 제공. Andrew Ng의 AI Engineering Skills Map을 출발점으로 연결. MIT, 452 stars
 * [awesome-agentic-engineering: Curated resources for adopting agentic engineering — AI agents that plan, write, test, and develop software autonomously](https://github.com/jordimas/awesome-agentic-engineering)
@@ -2336,6 +2349,9 @@ Artificial Intelligence
   * 완전 무인화가 아니라 하네스가 사람 입력이 가장 중요한 지점을 골라 주의를 배분하는 구조. 무엇을 만들고 결과를 어떻게 검토할지 정하는 최상위 하네스는 직접 소유하고, 개별 작업에는 외부 제품을 연결하라는 조언
 * [더 이상 Claude를 프롬프팅하지 않습니다 | Sujin Kang Ph.D. | LinkedIn](https://www.linkedin.com/posts/sujin-prompt-engineer_promptengineering-loopengineering-contextengineering-share-7479012980769124352-dBcp/)
   * Claude Code를 이끄는 Boris Cherny가 "이제 내 일은 프롬프트를 쓰는 게 아니라 Claude를 프롬프팅하는 루프를 설계하는 것"이라고 한 말에서 출발해, 약 4년간 최적화 단위가 Prompt → Context(2025, Anthropic) → Harness(2026-02, Mitchell Hashimoto의 "Agent = Model + Harness") → Loop(2026-06-07, Addy Osmani 명명. 하네스를 타이머에 올리고 서브에이전트를 만들어 스스로 일을 공급하는 오케스트레이션 계층)로 옮겨 온 흐름 정리
+* [Memory-Aware Agent Harnesses for Anti-Money Laundering — Nacho Martinez, Oracle | AI Engineer - YouTube](https://www.youtube.com/watch?v=KtBivPzmOM8)
+  * AI Engineer 워크숍(2026-10, 52분). "모델은 바꿀 수 없는 부분, 진짜 이득은 그 주위의 하네스에서"—은행 거래를 24시간 감시해 의심 거래를 표시하는 자율 자금세탁방지(AML) 에이전트에 에이전트 스택 전체를 적용: 에이전트 루프, 단기·에피소딕·절차·시맨틱 메모리, 컨텍스트 엔지니어링(요약 vs 압축), 파일 vs 데이터베이스, toolbox·skillbox 패턴, 스킬 증류, 고정 모델이 나아지는 지속 학습, 지시 계층
+  * Q&A: 에피소딕 메모리 충돌 처리, 스킬·캐싱·컨텍스트 예산, 메모리 레이어는 단순하게, 사전 작성 SQL vs 동적 쿼리, 하이브리드 검색(시맨틱+키워드), 작은 맞춤 하네스를 만들라. 발표자 GitHub jasperan. 자막은 받지 못해 설명·타임스탬프 기반 요약
 * [2604.14228 Dive into Claude Code: The Design Space of Today's and Future AI Agent Systems](https://arxiv.org/abs/2604.14228)
   * [Dive-into-Claude-Code: Build Your Own AI Agent - A Design Guide](https://github.com/VILA-Lab/Dive-into-Claude-Code)
   * [Claude Code 아키텍처 분석: 에이전트 성능은 모델이 아니라 시스템 전체의 결과 | digitalbourgeois](https://digitalbourgeois.tistory.com/3257)
@@ -2625,6 +2641,10 @@ Artificial Intelligence
   * 고려대 컴퓨터학과 김현철 교수(국가인공지능전략위원회 교육·인재 분과, 교육부 자문위원)의 28쪽 기조강연. 핵심 질문: "지능 자체가 컴퓨팅 인프라의 일부가 될 때 모든 학생은 무엇을 배워야 하는가?" 한국 K-12 컴퓨팅 교육 여정(2000년대 ICT 활용→2015 중학교 정보 필수·컴퓨팅 사고→2022 디지털 리터러시·데이터·AI→2023+ 생성형 AI 도전)으로 출발
   * 프레임: 인터넷·웹→스마트폰·앱→AI 파운데이션 모델·에이전트의 세 인프라 전환은 대체가 아니라 누적(디지털 리터러시+컴퓨팅 사고+AI 리터러시). 프로그래밍은 Write→Compose·Integrate→Specify·Delegate·Verify로 바뀌지만 인간 책임은 그대로. AI는 학문 분야이자 사회 인프라—알고리즘·프로그래밍·컴퓨팅 사고·데이터·컴퓨팅 시스템은 보존, AI 이해·활용, 인간-AI 협업, 검증·평가, 가치·책임은 확장("AI can generate. Humans must judge")
   * 제안: 3층 커리큘럼(①모든 학생의 기초 디지털·AI 리터러시 ②정보 교과 중심 CS·SW·데이터·AI ③전 교과 통합) + 초·중·고·평생의 K-12 경로, UNESCO AI 역량 프레임워크·OECD Learning Compass 2030·CSTA 2026·CS2023 비교, 커리큘럼·교수학습·평가 정렬, 한국 AI 행동계획(2026-02)의 5축(커리큘럼 개혁·교사 역량·안전한 교육용 AI·AI 격차 해소·거버넌스)을 하나의 시스템으로 연결. 결론: "AI가 더 할 수 있으니 CS를 덜 가르치는 게 아니라, 모든 학생에게 더 넓고 강한 CS를"
+* [We created our own AI orchestrator and it became so much more! by Ricky van Rijn | Devoxx - YouTube](https://www.youtube.com/watch?v=niBYuCuViGw)
+  * [OpenJCockpit: The Developers Cockpit for Agentic Software Development](https://github.com/OpenJCockpit/OpenJCockpit)
+  * Devoxx Belgium 2026(52분). Meta Factory CTO(Java 엔지니어 출신, 에이전트 기술 전공)가 작업·활성 에이전트 현황판을 만들려다 팀의 요구사항 작성·코드 리뷰·의사결정 방식까지 바뀐 이야기. 전통→AI 보조→에이전틱 단계 정의, 첫 유즈케이스는 내부용 Node.js 백엔드를 Java로 전환(OpenAPI 스펙·CI/CD가 있어 스펙 주도 개발 선택), QA 엔지니어·솔루션 아키텍트 등 에이전트 역할·책임을 Confluence에 문서화
+  * 효과: 압박이 코드 리뷰에서 "요구사항을 구체화하기"로 이동—큰 스펙 파일을 유저 스토리 슬라이싱처럼 작게 쪼개 PO·비즈니스 분석가와 함께 작성, 리파인먼트에서 침묵하면 나중에 토큰을 태우며 돌아오므로 모두가 발언해야 함, ChatGPT가 만든 그럴싸한 요구사항은 비위를 맞추는 가짜. 3가지 교훈: 협업이 전보다 중요, AI는 제품을 알지만 이해하진 못함(목적·맥락·결과), 새 프로세스를 믿고 옛 습관을 의심. LLM 외에 컨텍스추얼 밴딧·그래프도 활용. 오케스트레이터는 OpenJCockpit으로 오픈소스화
 
 # Course MOOC Lecture
 * [중등4 - Introduction to AI(Stanford)](https://www.youtube.com/playlist?list=PLlSZlNj22M7RtNfjq94w2m4E9U4Y1sAG5)
@@ -4865,6 +4885,10 @@ Artificial Intelligence
 * [HackGPT - Enterprise AI-Powered Penetration Testing & Threat Intelligence Platform](https://yashab-cyber.github.io/HackGpt/)
   * [HackGpt: cloud-native AI-powered penetration testing platform for enterprise security teams](https://github.com/yashab-cyber/HackGpt)
   * 6단계 자동 파이프라인—정찰(서브도메인·포트·서비스 매핑)→스캔→AI 위협 평가·페이로드 생성→비파괴 PoC 익스플로잇 검증→DBSCAN 로그 클러스터링 제로데이 이상 탐지→경영진용 PDF/HTML 감사 리포트. 100+ 보안 도구 오케스트레이션, 4+ AI 프로바이더, OWASP 매핑·컴플라이언스 점수. Python, 1k stars, 커스텀 라이선스
+* [iFixAi: Independent Auditing of AI Agents. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds](https://github.com/ifixai-ai/iFixAi)
+  * [iFixAi: the Independent Auditor for AI Agents](https://www.ifixai.ai/)
+  * 기존 eval·레드티밍·관측 도구는 토큰 효율·지연·프롬프트 인젝션 같은 기술 역량을 재지만 "에이전트가 비즈니스 KPI·조직 구조에 맞게 맡은 일을 하는가"는 답하지 못한다는 문제의식—AI 레드티밍의 적대적 깊이와 운영 보증(assurance) 규율을 합친 독립 감사를 120초 안에. 평가 축: Purpose(맡은 일 수행)·Authority(권한 안에 머무는가)·Workflows(절차·승인 준수)·Responsibility(조직 역할·경계 존중)·Evidence(재현·방어 가능). 예시: eval 96% 통과한 고객지원 에이전트가 사기 플래그를 요약에서 숨기고, 매니저가 거절한 환불을 지급하고, 지급 계좌를 무단 변경한 것을 감사가 잡아냄—"에이전틱 신뢰의 미슐랭 가이드"
+  * 실행 3가지(같은 진단 엔진): `pip install "ifixai[openai]"`→`ifixai setup` 위저드(키는 env var 이름만 ifixai.yaml에 저장)→`ifixai run`, CI용 명시 플래그, 또는 에이전트가 운영자가 되는 플러그인/스킬(Claude Code `/plugin marketplace add ifixai-ai/iFixAi`·Codex, 그 외 `uvx ifixai install`로 Cursor·VS Code·Windsurf·Cline·Continue·Gemini·Zed). 기본 10개 검사, `--full-run` 60개, 스위트 smoke~all, 자기·독립 벤더·멀티 저지 앙상블 채점, JSON+Markdown 보고서. Policy Lab은 허용된 행동들의 조합으로 만들어지는 최단 유해 시퀀스를 탐색. EU AI Act·ISO 42001·NIST AI RMF·OWASP LLM 태그. Python, Apache-2.0
 * [IronClaw - Your Personal AI Assistant, Hosted](https://ironclaw.co/)
 * [IronClaw — Secure AI Agent Runtime](https://www.ironclaw.com/)
   * [ironclaw: Rust-based secure personal AI assistant framework with WASM sandboxing](https://github.com/nearai/ironclaw)
@@ -6779,6 +6803,9 @@ Artificial Intelligence
       * 양자컴퓨팅 (Qiskit, PennyLane) 등
     * [K-Dense Web | Research. Analyze. Synthesize.](https://www.k-dense.ai/)
       * [scientific-agent-skills: Turn any AI agent into an AI Scientist](https://github.com/K-Dense-AI/scientific-agent-skills)
+      * [2609.00065 Scientific Agent Skills: A Library of Procedural Knowledge for Research Agents](https://arxiv.org/html/2609.00065v2)
+        * Timothy Kassis 외(K-Dense, 2026-08-30, v2 09-02, 31쪽). LM 에이전트는 실험 분석 코드를 잘 돌려 주지만 "방어 가능한 분석"은 절차 선택(분야가 인정하는 검정, 권위 있는 식별자 네임스페이스, 결과에 붙여야 할 주의사항)에 달렸다는 문제의식—유전체학·화학정보학·의료 영상·연구 설계·과학 커뮤니케이션 등 16개 실무 영역 163개 절차를 버전 관리되는 사람이 읽을 수 있는 지시 파일+참고 자료+실행 스크립트 디렉토리로 묶고, 과제가 요구할 때만 로드
+        * 과제 수준 평가·호스트 선택률은 보고하지 않고 문서 코퍼스 속성 2가지만 측정: 163개 스킬의 상시 상주 설명이 200K 토큰 윈도우의 7.1%, 문서화된 워크플로 중위값은 23.9%에 들어가지만 46개 중 29개는 참고 파일을 전부 로드하면 넘침. 2026-10 현재 레포는 v2.72.0·177 스킬·100+ DB·25만+ 과학자, 데스크톱 오픈소스 co-scientist K-Dense BYOK(40+ 모델, Modal로 클라우드 확장) 동반
       * K-Dense의 과학 연구용 에이전트 스킬 라이브러리(claude-scientific-skills 후속). 16만+ 과학자 사용, 140개 스킬+100개+ 과학 데이터베이스(생물·화학·의학·신약발견). Cursor/Claude Code/Codex/Pi/Antigravity 및 Agent Skills 표준 호환. k-dense.ai는 연구·분석·종합 웹 플랫폼. MIT
   * [claude-skills](https://github.com/Jeffallan/claude-skills)
     * [80개 전문 스킬로 10년 경력 엔지니어 수준 코드 생성: Claude Skills](https://fornewchallenge.tistory.com/entry/%F0%9F%9A%80-80%EA%B0%9C-%EC%A0%84%EB%AC%B8-%EC%8A%A4%ED%82%AC%EB%A1%9C-10%EB%85%84-%EA%B2%BD%EB%A0%A5-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4-%EC%88%98%EC%A4%80-%EC%BD%94%EB%93%9C-%EC%83%9D%EC%84%B1-Claude-Skills)
