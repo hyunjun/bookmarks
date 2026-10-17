@@ -448,6 +448,10 @@ Network
   * [Scapy에 대한 요약 정리](https://chogar.blog.me/80206163869)
   * [Scapy: low level packet hacking toolkit for Python – Trickster Dev](https://www.trickster.dev/post/scapy-low-level-packet-hacking-toolkit-for-python/)
 * [SharkFest 2014 - Packet Analysis and Visualization with SteelScript](https://support.riverbed.com/apis/steelscript/SharkFest2014.slides.html)
+* [Sniffnet: Free Network Traffic Monitoring Tool](https://sniffnet.app/)
+  * [sniffnet: Comfortably monitor your network traffic | GyulyVGC](https://github.com/GyulyVGC/sniffnet)
+  * 누구나 쉽게 쓰는 것을 지향하는 크로스플랫폼(Windows·macOS·Linux) 네트워크 트래픽 모니터 GUI 앱. 어댑터 선택·필터, PCAP 가져오기/내보내기, 실시간 트래픽 차트, 로컬 네트워크 연결 식별, 원격 호스트 지리 위치·도메인·ASN, 6000+ 상위 계층 서비스·프로토콜 식별, 대역폭을 쓰는 프로그램 표시, 커스텀 알림, IP 블랙리스트로 의심 연결 강조, 커스텀 테마. 26개 언어, 보안 감사 수행
+  * Rust(iced GUI), MIT/Apache-2.0 이중 라이선스, 41.6k stars
 * [Stealth - Proton의 새로운 VPN 프로토콜 | GeekNews](https://news.hada.io/topic?id=16250)
   * [Defeat censorship with Stealth, our new VPN protocol | Proton](https://protonvpn.com/blog/stealth-vpn-protocol)
 * [teler: Real-time HTTP Intrusion Detection](https://github.com/kitabisa/teler)
