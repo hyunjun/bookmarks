@@ -444,6 +444,9 @@ Vision
   * 스트리밍 비디오에서 3D 장면을 재구성하는 피드포워드 3D 파운데이션 모델. Geometric Context Transformer 아키텍처로 연속 비디오→3D 포인트클라우드 실시간 생성. ~20 FPS, paged KV cache attention으로 10,000+ 프레임 처리, FlashInfer 가속(PyTorch 2.8+CUDA 12.8). 기존 스트리밍·최적화 기반 대비 우수한 재구성 품질, HuggingFace/ModelScope 체크포인트. Apache 2.0
 * [LUMINOTH - Open source Computer Vision toolkit](https://luminoth.ai/)
 * [MegaFace: Test face recognition at the million scale](http://megaface.cs.washington.edu/)
+* [Motion2MixamoRig: Retarget human motion from video to an Adobe Mixamo-rigged 3D character | maxliu22](https://github.com/maxliu22/motion2mixamorig)
+  * 한 사람이 머리부터 발끝까지 나오는 동작 영상(또는 정지 사진의 포즈)을 Adobe Mixamo 리그 캐릭터(Y Bot 등 FBX)로 옮겨, 프리뷰 영상과 Blender·Unity에 바로 넣는 스킨드 `.glb`를 출력하는 게임 개발자용 파이프라인. GVHMR 등 3D 인체 메시 복원 가중치(~5GB, 첫 실행 시 다운로드)와 SMPL-X 바디 모델(별도 등록·다운로드) 필요, Cinema 4D 재익스포트 Mixamo FBX도 지원
+  * 두 가지 사용법: Blender 4.2+ 익스텐션(zip 설치→N 패널에서 런타임 원클릭 설치→SMPL-X·Mixamo FBX·영상 선택→Generate Motion, macOS Apple Silicon 테스트) 또는 CLI `m2mr run`(Python 3.11+, 레거시 chumpy는 `--no-build-isolation` 설치). 실험 단계(v0.1.7), AGENTS.md 제공. Python, Apache-2.0
 * [OmniParser](https://microsoft.github.io/OmniParser/)
   * [OmniParser: A simple screen parsing tool towards pure vision based GUI agent](https://github.com/microsoft/OmniParser)
   * GUI 스크린샷 파서, 최근 나온 클로드 Computer Use 같은 GUI 상호작용 에이전트 개발 가능할 걸로 예상. 아이콘 감지·기능 설명으로 UI 스크린샷을 구조화 요소로 파싱해 VLM의 grounded 액션 생성 향상. V2는 GUI grounding 벤치마크 SOTA
