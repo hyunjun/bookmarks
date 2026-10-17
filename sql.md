@@ -1319,6 +1319,10 @@ SQL
 * [A simple relational data access tool for NodeJS](https://github.com/robconery/massive-js)
 * [A proof of concept MongoDB clone built on Postgres](https://github.com/JerrySievert/mongolike)
 * [Zero-downtime Postgres migrations - the hard parts](https://gocardless.com/blog/zero-downtime-postgres-migrations-the-hard-parts/)
+  * [Zero-Downtime PostgreSQL Migrations: A Production Playbook for Safe Schema Changes · Boundlayer](https://boundlayer.io/blog/zero-downtime-postgresql-migrations)
+    * [PostgreSQL 무중단 스키마 변경을 위한 실무 가이드 | GeekNews](https://news.hada.io/topic?id=35501)
+    * 2026-10-08. 무중단은 "DB가 켜져 있음"이 아니라 서비스 지표로 정의—오류율·p95/p99 지연·핵심 쓰기·복제 지연이 유지되고 데이터 손실·중복·오변환이 없으며 구·신 앱 버전이 함께 동작하고 즉흥 없이 중단·되돌리기 가능해야 함. 목표는 잠금을 없애는 게 아니라 빠르게 얻고 영향을 제한하는 것. 위험은 `ACCESS EXCLUSIVE` 잠금 자체보다 잠금 대기열—장기 트랜잭션을 기다리는 마이그레이션 뒤로 일반 쿼리가 줄을 서며 시작도 안 한 DDL이 장애를 키움
+    * 실무 패턴: 확장-축소(expand-contract)로 새 구조 추가→이전→읽기/쓰기 전환→검증→기존 구조 제거를 각각 배포 단위로(컬럼 이름 변경도 새 컬럼+이중 쓰기로 여러 릴리스에 걸쳐), 축소 단계엔 담당자·일정 지정. 사전 점검(요청 잠금, 스캔/재작성 여부, 프로덕션 크기, 공존 앱 버전, 뷰·트리거·CDC·ETL 의존성, 중단 임계치, 롤백 가능성—DDL 역실행이 변환된 데이터를 되돌리진 못함). 짧은 `lock_timeout`, 동시 인덱스 생성·제약 추가/검증 분리, 작은 배치로 커밋·재개 가능하고 속도 제한한 백필, 완료 기준은 잔여 0행이 아닌 신·구 데이터 일치와 실서비스 검증, 기존 컬럼 삭제는 관찰 기간 뒤 별도로
 * [Move fast and migrate things: how we automated migrations in Postgres | by Vineet Gopal | Benchling Engineering](https://benchling.engineering/move-fast-and-migrate-things-how-we-automated-migrations-in-postgres-d60aba0fc3d4)
 * [Upsert Lands in PostgreSQL 9.5 – a First Look](http://www.craigkerstiens.com/2015/05/08/upsert-lands-in-postgres-9.5/)
 * [Postgres UPSERT ON DUPLICATE and how other databases implement UPSERT](http://michaelroders.tumblr.com/post/119356965581/postgres-upsert-on-duplicate-and-how-other)
