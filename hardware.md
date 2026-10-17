@@ -139,6 +139,8 @@ Hardware
   * NVIDIA DGX B300 ConnectX-8 8포트로 스위치 없는 full mesh 직접 연결. DAC 케이블로 비용 1/10, NCCL 커스텀 패치로 멀티 서브넷 분산 학습, 787GB/s(이론값 98%). 2~8대 ~100억원 이하 규모
 * [이제 안경 쓰고 코딩한다? 알리바바 Qoder AI 안경 버전 등장 - 차이나는 IT](https://chinaitnews.com/%EC%95%88%EA%B2%BD-%EC%93%B0%EA%B3%A0-%EC%BD%94%EB%94%A9-%EC%95%8C%EB%A6%AC%EB%B0%94%EB%B0%94-qoder-ai-%EC%95%88%EA%B2%BD-%EB%B2%84%EC%A0%84/)
   * 알리바바의 AI 에이전트 코딩 플랫폼 Qoder가 2026년 9월 3일 공식 출시한 안경 버전. 단순 스마트 안경이 아니라 개발자의 일하는 방식을 바꿀 수 있는 웨어러블 코딩 인터페이스
+* [텐스토렌트, RISC-V 기반 데스크톱 AI 워크스테이션 공개..."1200억 파라미터 모델 온디바이스 실행" | 인공지능신문](https://www.aitimes.kr/news/articleView.html?idxno=39028)
+  * 짐 켈러의 Tenstorrent가 공개한 TT-QuietBox 2—액체 냉각 저소음 데스크톱에서 최대 120B 파라미터 LLM을 로컬·오픈소스 스택으로 실행하는 RISC-V 기반 AI 워크스테이션. 컴파일러부터 커널까지 전 소프트웨어 계층을 오픈소스로 제공해 모든 계층을 확인·수정 가능, $9,999부터, 글로벌 출시 2분기. 클라우드 AI 지출의 55%+가 추론이라며 토큰 과금 클라우드 vs 폐쇄형 하드웨어 사이의 제3 선택지로 포지셔닝
 * [Cognitum — AI Agent Platform: Seed Device, MCP Tools & Developer SDK](https://cognitum.one/)
   * WASM 런타임·암호화 ID·벡터 스토리지 내장 Seed 하드웨어 + Rust/Node.js/Python SDK
 * [The Personal AI Computer | Autonomous](https://www.autonomous.ai/computer)
