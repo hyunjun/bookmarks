@@ -4451,6 +4451,9 @@ Artificial Intelligence
 * [When AI Becomes Your On-Call Teammate: Inside Wix's AirBot That Saves 675 Engineering Hours a Month](https://www.wix.engineering/post/when-ai-becomes-your-on-call-teammate-inside-wix-s-airbot-that-saves-675-engineering-hours-a-month)
   * Wix Data Engineering의 3,500+ Airflow 파이프라인 관리. AirBot이 on-call을 보조해 월 675 엔지니어링 시간 절감
 * [비개발자가 겪은 바이브 코딩의 현실 | 요즘IT](https://yozm.wishket.com/magazine/detail/3704/)
+* [8년차 AI 엔지니어는 왜 바이브코딩을 포기했나? | NDS Cloud Tech Blog](https://tech.cloud.nongshim.co.kr/blog/aws/ai/3854/)
+  * 2026-03-09, 박정현(농심데이타시스템). Cursor·Claude Code·Copilot·Codex·Antigravity까지 써 본 뒤 "순수한 바이브코딩"을 포기한 이유—10분 만에 나온 Streamlit ML 도구는 신세계였지만 기능을 붙일수록 고치면 다른 게 망가지고, 수천 줄 AI 코드의 구조를 파악하는 건 직접 설계한 코드 유지보수와 전혀 다른 일. CodeRabbit의 470개 PR 분석에서 AI 공동 작성 코드는 보안 취약점 비율이 약 2.74배, 바이브코딩 도구 보안 리뷰에선 15개 앱에서 취약점 69개—MSP에겐 타협 불가
+  * 지금 방식: ①먼저 구조·함수·데이터 흐름을 설계 ②보일러플레이트·테스트·유틸리티 같은 반복 구현은 AI에게 ③AI 코드는 반드시 검수하고 이해 안 되는 코드는 쓰지 않음. 프로토타입·아이디어 검증엔 여전히 강력하지만 "이해하지 않아도 괜찮다"는 태도로 프로덕션 코드를 만드는 건 위험—AI는 생산성 도구이지 대체재가 아님
 * [martinfowler.com Fragments: April 2](https://martinfowler.com/fragments/2026-04-02.html)
 * [The Intent Debt | Addy Osmani](https://addyosmani.com/blog/intent-debt/)
   * [기술 부채, 인지 부채, 의도 부채 | GeekNews](https://news.hada.io/topic?id=28824)
@@ -6096,7 +6099,10 @@ Artificial Intelligence
   * [Claude Conway라는 게 오고 있다 | Ethan Cho](https://www.linkedin.com/posts/ethan-yj-cho_claude-conway%EB%9D%BC%EB%8A%94-%EA%B2%8C-%EC%98%A4%EA%B3%A0-%EC%9E%88%EB%8B%A4-%EC%95%84%EB%A7%88%EB%8F%84-%EB%AD%94%EC%A7%80-%EC%95%84%EB%8A%94-%EA%B2%8C-%EC%A2%8B%EC%9D%84-share-7445638501456551936-RE7W/)
   * Anthropic이 개발 중인 항상 가동되는(always-on) AI 에이전트. 웹훅 자동 활성화, 브라우저 제어. 기존 AI 스타트업 5가지 유형을 잠식할 것으로 전망
 * [Claude Code Deep Dive Workshop - Hands-on Lab Portal | whchoi98](https://whchoi98.github.io/ccw-hands-on-lab/)
-  * [claude-code-workshop/20260905 | whchoi98](https://github.com/whchoi98/claude-code-workshop/tree/main/20260905)
+  * [claude-code-workshop | whchoi98](https://github.com/whchoi98/claude-code-workshop)
+    * [ClaudeCode-Architecture.pdf](https://github.com/whchoi98/claude-code-workshop/blob/main/ClaudeCode-Architecture.pdf)
+    * [8개 레이어로 이해하는 Claude Code Architecture | Woo Hyung Choi | LinkedIn](https://www.linkedin.com/posts/woohyungchoi_claudecode-agenticai-aicoding-ugcPost-7469921268276961280-YWMM/)
+    * Claude Code 내부 구조를 정리한 한국어 기술 자료(PDF)—Master Agent Loop를 중심으로 Input·Knowledge·Execution·멀티 에이전트·Observability·Integration 등 8개 레이어의 역할과 맞물림을 다이어그램으로. CLAUDE.md·SKILL.md·Prompt·Hook 네 파일이 각각 언제 컨텍스트에 로드되는지, SKILL.md 점진적 공개(progressive disclosure)가 수백 개 스킬에도 컨텍스트를 가볍게 유지하는 방식, Skills·Subagents·MCP·Hooks 중 무엇을 언제 쓸지 결정 트리·비교 매트릭스, 안티패턴과 설계 원칙. 188 stars
   * [Claude Code Deep Dive 2일 과정 공개 | 최우형 | LinkedIn](https://www.linkedin.com/posts/woohyungchoi_claudecode-agenticcoding-aws-share-7506966100463505408-4IHc/)
   * 400여 명이 수강한 Claude Code Deep Dive 2일 과정 공개(2026-09 버전)—이론 6챕터+정규 랩 6개+캡스톤 미션 6개, 모든 랩이 독립 HTML 문서라 혼자서도 완주 가능. **구성부터 실배포까지 AWS 환경**: EC2 위 code-server로 접속, 모델은 Bedrock 경유 Opus 5.0·Sonnet 5.0·4.6, 캡스톤(게임·미디어 아트·지진 워치·뉴스룸 렌즈)은 CloudFront에 실제 배포. harness-eval·agent-ops의 whchoi98 작
 * [Claude Code overview - Anthropic](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/)
