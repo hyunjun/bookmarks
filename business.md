@@ -351,6 +351,10 @@ Business
 * [어떤 FDE가 일을 잘할까? | Joey Kang](https://www.linkedin.com/posts/%EB%8F%99%ED%98%84-%EA%B0%95-833578159_fde-forwarddeployedengineer-ax-share-7506857212644872192-RE4I/)
   * Palantir 8년 FDE Nabeel Qureshi의 정의("소프트웨어를 배포하는 게 아니라 문제를 실제로 푸는 것")에서 출발—만드는 게 싸질수록 병목은 기술에서 고객 쪽으로 이동. FDE 역량 5가지 질문: ①고객도 설명 못 하는 진짜 병목을 찾는가(Discovery) ②들인 시간이 아니라 만들 가치로 계산하는가(Value Anchoring) ③말 대신 돌아가는 물건으로 신뢰를 쌓는가—월요일에 듣고 화요일에 시연(Proof) ④관계가 불편해져도 아니라고 말하는가(Pushback) ⑤내가 빠진 뒤에도 살아 있는 시스템을 그리는가(Adoption)
   * 다섯 개 중 코딩 실력은 없음. 분석은 전체 일의 마지막 5~10%, 앞의 95%는 데이터 접근 권한을 얻고 흩어진 걸 정제·연결하는 일. 컨설팅·프로덕트·엔지니어링의 실패 방식 세 가지를 동시에 짊어지는 역할이라 코딩 테스트처럼 준비하면 어긋남—진단부터 구축·운영 이관까지 한 사람이 끝까지 책임지는 데서 희소성이 나옴
+* [AX, SI업계에 미칠영향...part 1 | 신현묵](https://brunch.co.kr/@supims/936)
+  * [werub-his-ecosystem: AI 기반 HIS 를 구축하려는 의료기관을 위한 생태계 소개·구축 자료 (MIT)](https://github.com/seanshin/werub-his-ecosystem)
+  * 1년간 Claude·Codex를 초기 버전부터 개발 도구로 써 온 경험담(2026-10-15). CLI와 대화로 서버·클라이언트 레이어를 만들다 CLI 간 통신 도구·에디터·반복 작업 기능을 직접 만들었는데 곧 기본 기능으로 들어오고, 결국 루프·하네스로 정리됨. 앱도 하이브리드로 가다 Xcode를 직접 다루는 Codex로 마무리—"코딩은 어셈블리의 시대가 됐다", 30년 전 헥사코드·debug에서 Q에디터·컴파일러로 넘어가던 느낌
+  * 맥 한 대당 CLI 6~7개×2세트를 혼자 돌리다 보니 Git보다 SVN식 권한 모델이 맞아 형상관리 도구도 일부 자작—Anthropic이 Git을 넘어섰다는 기사와 같은 결론. 1년 작업한 소스(AI 기반 병원정보시스템 HIS 생태계)를 모두 공개하기로 결정. SI 형태 비즈니스 환경에 미칠 영향 고민 시리즈 1편
 * [직급 없앤다며 영어 이름 쓰는 회사들의 공통점ㅣ지식인초대석 EP.49 (황성현 교수 1부) - YouTube](https://www.youtube.com/watch?v=bn9nhe7w9xc)
   * [직급 없앤다며 영어 이름 쓰는 회사들의 공통점ㅣ지식인초대석 EP.49 (황성현 교수 1부) | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5061579/4440657)
 * [전 구글 인사담당자가 면접에서 반드시 물어보는 질문ㅣ지식인초대석 EP.50 (황성현 교수 2부) - YouTube](https://www.youtube.com/watch?v=-TYSiaWpIB4)
