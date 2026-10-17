@@ -126,6 +126,9 @@ NoSQL
 * [Log analytics using ClickHouse](https://blog.cloudflare.com/log-analytics-using-clickhouse/)
 * [From Open Source to SaaS: the Journey of ClickHouse - YouTube](https://www.youtube.com/watch?v=qLUbX30dzgo)
 * [Building a RAG pipeline for Google Analytics with ClickHouse and Amazon Bedrock](https://clickhouse.com/blog/retrieval-augmented-generation-rag-with-clickhouse-bedrock)
+* [ClickHouse의 Hardware Sympathy | Park Soohyun | LinkedIn](https://www.linkedin.com/pulse/clickhouse%EC%9D%98-hardware-sympathy-park-soohyun-o9usc)
+  * Hardware Sympathy=CPU 처리 폭·캐시/메모리 대역폭·NUMA·순차 vs 임의 I/O·저장장치 지연·네트워크 왕복·압축 해제 CPU 비용 같은 물리 특성을 전제로 데이터 구조와 실행 경로를 설계하는 것. ClickHouse에서는 컬럼 저장+벡터 단위 실행(SIMD), Granule·희소 인덱스(ORDER BY는 물리 배치 정책), 컬럼별 Codec(압축은 디스크 I/O와 CPU의 교환), 배치 INSERT·async_insert(Part 수와 Merge 부하)로 나타나며 데이터 표현·배치·실행 자원·저장 경로·장애 배치 5층위로 정리
+  * 쿠버네티스는 하드웨어를 숨기는 운영 계층이라 이를 "포기"시키는 게 아니라 "다시 선언"해야 하는 층—전용 노드 풀, CPU requests=limits 정수 코어·Guaranteed QoS·CPU Manager static/Topology Manager로 독점, max_threads 검증, 로컬 NVMe/Provisioned IOPS SSD PVC, 존 단위 Replica·Shard·Keeper 배치. 공식 Operator·ClickHouse Private 가이드(로컬 NVMe 캐시+S3+Keeper 영속 스토리지)가 쿠버네티스 위에서도 하드웨어 특성 보존이 가능함을 보여주는 사례
 
 # CockroachDB
 * [CockroachDB](https://github.com/cockroachdb/cockroach)
