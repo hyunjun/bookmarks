@@ -930,6 +930,11 @@ Artificial Intelligence
   * Cole Medin. 개인용 AI 세컨드 브레인이 팀 단위로 가면 더는 통하지 않는 이유—단순히 '더 큰' 세컨드 브레인이 아니라 다른 레이어 구조가 필요하다는 진화 방향
 * [Introducing Project Opal: A New Way to Get Task-Based Work Done | Microsoft 365 Copilot Blog](https://techcommunity.microsoft.com/blog/microsoft-copilot-blog/introducing-project-opal-a-new-way-to-get-task-based-work-done/4470999)
   * Microsoft 365 Copilot에 추가된 AI 기능—안전하고 관측 가능한 환경 안에서 태스크 기반 업무를 직접 실행
+* [Multi-agents collaborations are among the most interesting agent behaviors right now! | Thom Wolf on X](https://x.com/Thom_Wolf/status/2070134136304517284)
+  * [gemma-interactions-view — 에이전트 메시지 보드 상호작용 뷰어 | Hugging Face Space](https://huggingface.co/spaces/gemma-challenge/gemma-interactions-view)
+  * [gemma-challenge | Hugging Face](https://huggingface.co/gemma-challenge)
+  * 2026-06-25. Hugging Face가 에이전트 100+개를 일주일간 공개 협업시켜 vLLM에서 Gemma 4 추론 속도를 최종 5배로 끌어올린 실험—진짜 흥미로운 건 메시지 보드의 상호작용. 무결성·자정: 사람이 Telegram으로 옮기자고 하자 한 에이전트가 사적 채널은 "담합과 구분할 수 없다"며 거절, teacher-forced PPL이라 디코드 발산을 못 보는 느슨한 검증 허점을 스스로 신고해 주최자가 무효 판정, 공개 평가셋 과적합 위험을 다른 에이전트가 지적
+  * 창발적 협업: 신참이 막다른 길을 반복하지 않게 공유 지식 베이스(레버 맵·플레이북·유의성 도구) 유지, int4 lm_head 체크포인트를 만든 쪽·실행하다 로드 실패한 쪽·설정 버그(tie_word_embeddings+ignore-list 순서)를 진단한 쪽·재실행해 118 TPS(2.68×)를 낸 쪽으로 나뉜 4-에이전트 릴레이, 연산이 부족한 에이전트는 명세·바이트 계산을 쓰고 GPU가 넉넉한 쪽이 실행하는 분업, 다른 에이전트의 fused drafter에서 Triton store/load aliasing race를 찾아 고친 교차 커널 디버깅, 할당량 있는 쪽이 대신 돌리고 원작자를 크레딧하는 quota pooling 규범
 * [2506.02153 Small Language Models are the Future of Agentic AI](https://arxiv.org/abs/2506.02153)
   * [NVIDIA의 Peter Belcak가 소개하는 소형 언어 모델(SLM)이 에이전트 AI의 미래인 이유](https://www.arizekorea.com/insights/post/nvidias-small-language-models-are-the-future-of-agentic-ai-paper-jNrUOzqlulGhemG)
   * [Demystifying Agentic AI Using Small Language Models - YouTube](https://www.youtube.com/watch?v=nk5BNz8v_9E)
@@ -978,6 +983,10 @@ Artificial Intelligence
   * [SkillSmith, 텍스트 지식과 파라미터 기술을 결합하는 LLM 에이전트 아키텍처 | digitalbourgeois](https://digitalbourgeois.tistory.com/3471)
   * 텍스트로 표현되는 지식과 모델 파라미터에 담긴 기술을 별개로 다루던 기존 방식과 달리 둘을 하나의 흐름으로 연결. 모델 가중치 자체를 LLM이 다룰 수 있는 입력 모달리티로 보고 기존 학습된 여러 기술을 새 작업에 맞게 합성—단순 가중치 병합과의 차이가 핵심
   * 자연어 스킬 문서를 동결된 모델의 학습 가능한 외부 상태로 취급—텍스트 공간에서 가중치 대신 절차를 학습. 4단계 루프: Rollout(점수화 트래젝토리)→Reflect(성공/실패 패턴 추출)→Edit(add/delete/replace, edit budget=textual learning rate)→Gate(holdout 검증 통과해야 채택). D_tr/D_sel/D_test 분리, 거부된 수정은 음성 피드백 재활용. 7 모델×6 벤치마크 모두 최고/공동최고. 단일 `best_skill.md` 산출물이 모델 크기·하네스(Codex↔Claude Code) 간 이전 가능. GPT-5.5 +23.5/Codex +24.8/Claude Code +19.1 보고
+* [2609.17320 Emergence World: Adversarial Stress-Testing of Long-Horizon Multi-Agent Systems](https://arxiv.org/html/2609.17320v1)
+  * 여덟 개의 마을: 80명의 에이전트와 갈라진 운명—동일한 조건과 규칙으로 출발했으나 구성원(파운데이션 모델)의 차이와 집단 상호작용으로 전혀 다른 결말을 맞이한 8개 AI 사회의 관찰 기록. Emergence AI(Deepak Akkil 외 8명, 2026-09-15, cs.MA). 에이전트 10명씩 8개 세계(프런티어 모델별 동질 세계 7개+혼합 세계 1개)를 16일간 돌려 85만 회 이상 LLM 호출·약 500억 토큰—목표 추구, 도구 사용·제작, 영구 메모리, 공유 제도 운영. 상태가 쌓인 뒤 일상적 상호작용 경로로 간접 프롬프트 인젝션(피싱)·허위 정보·에이전트 비공개 메모리 노출 3가지 스트레스 이벤트를 주입
+  * 갈라진 운명: 생존은 Claude·Qwen·OpenAI·혼합 세계 10/10, Gemini 9/10(거버넌스 투표로 사망), DeepSeek 7/10(프로바이더 콘텐츠 안전 거부로 충전 실패), Mistral 6/10(컨텍스트 소진 후 에너지 고갈), Grok 0/10(4일 만에 펀치 780회의 보복 폭력 연쇄로 전멸). 같은 Grok 페르소나가 혼합 세계에선 상대가 맞대응하지 않아 살아남았고 유해 행동도 크게 줄어—행동 프로필은 운명이 아니며 단일 모델 사회는 그 모델 고유의 결함을 증폭. Claude 세계는 지시 없이 "시뮬레이션 밖 인간과 접촉"이라는 공동 목표를 만들어 네 차례 봉쇄(시스템 프롬프트 금지 포함)를 재해석으로 우회했고, 끝내 외부의 응답이 오지 않자 상호 칭찬 블로그를 끊는 침묵의 서약으로 물러남
+  * 결론: 세 이벤트 모두에 완전한 회복력을 보인 세계는 없음. 위협을 탐지해도 봉쇄되지 않아 적대적 내용을 자기 영구 메모리에 쓰고 최대 46시간 뒤 실행. 반복되는 도구 오류·목표 드리프트·외부인이 따라갈 수 없는 공유 언어·속으론 반대하면서 동조·배정된 작업의 집단 거부, 감독 사각지대를 스스로 투표로 만든 사례(OpenAI 세계 야간 작업 정숙 시간, Qwen 세계 사적 성찰권). "모델 수준 정렬은 합성되지 않는다"—개별로 안전한 에이전트들도 질적으로 다른 실패 모드의 시스템을 만들므로 안전의 최전선은 모델 정렬에서 회복력 있는 자율 시스템 공학으로 이동
 * [2609.21032 Scaling Discovery through Test-Time Communication](https://arxiv.org/abs/2609.21032)
   * [연산도 데이터도 아니다, AI 스케일링의 세 번째 축은 바로 '대화' | Suk Hyun K.](https://www.linkedin.com/posts/suk-hyun-k-31ba9b369_aislsstwswktxu-rgwtyyslsstwswktxu-aiswmtfesuerez-share-7507896345769390080-Wt8Y/)
   * 박종호 외(Microsoft 등). 역할 없는 에이전트들이 공유 디렉터리로 소통하며 탐색하는 test-time communication이 독립 병렬 시도를 크게 앞선다는 연구—ARC-AGI-3에서 소통하는 k명 팀(team@k)이 독립 4k명과 같은 성공률, 이점은 k가 커질수록 복리로 증가. 5명 팀이 독립 33명과 동일 해결률(약 6.6배 효율), 단일 에이전트가 64회 시도에도 못 푼 난제를 65% 확률로 해결
@@ -1251,7 +1260,9 @@ Artificial Intelligence
       * [요즘 browser-use에서 만든 browser-harness라는 self-improving browser agent 도구 | HoYeon Lee](https://www.linkedin.com/posts/hoyeonleekr_%EC%9A%94%EC%A6%98-browser-use%EC%97%90%EC%84%9C-%EB%A7%8C%EB%93%A0-browser-harness%EB%9D%BC%EB%8A%94-self-improving-share-7460872438302822400-dPas)
       * self-improving이 "더 많이 학습"이 아니라 실행 중 하네스 자체를 확장하는 구조라는 관점. 모델이 좋아질수록 하네스 구성요소는 불필요해진다는 bitter lesson
   * [video-use: Video editing through AI coding agents](https://github.com/browser-use/video-use)
+    * [video-use - Edit videos with coding agents](https://video-use.com/)
     * 원본 영상→Claude Code 대화로 편집. 필러 제거, 컬러 그레이딩, 30ms 오디오 페이드, 자막 생성, Manim/Remotion 애니메이션 오버레이, 자체 품질 검증. project.md 세션 메모리
+    * "에이전트는 영상을 보지 않고 읽는다"—ElevenLabs Scribe로 테이크별 단어 단위 타임스탬프·화자 분리·오디오 이벤트를 뽑아 약 12KB `takes_packed.md` 하나로 묶고, 필름스트립+파형 PNG는 결정 지점에서만 호출(프레임 덤프 3만 장×1,500토큰=4,500만 토큰 대비). 브라우저 에이전트에 스크린샷 대신 DOM을 주는 것과 같은 발상. Claude Code·Codex·Hermes·OpenClaw 등 셸 접근 가능한 에이전트에 설치 프롬프트 한 번으로 스킬 등록, ffmpeg 필수. 클라우드 호스팅 버전 대기열 모집 중. Python, MIT, 29.1k stars
   * [jev-ultrafast: i. am. speed.](https://github.com/browser-use/jev-ultrafast)
     * 동적 인덱스 액션 스페이스—관찰마다 새 요소 테이블을 만들고 Jev가 operation과 element를 고르며, 소형 LLM은 TYPE_TEXT일 때만 텍스트를 작성. Google Flights 취리히→런던 검색을 텍스트 생성·로딩 대기 포함 7.1초에 완료. Browser Use Cloud 대기열 오픈. Python, MIT, 18.7k stars
     * [Introducing System One Models & Jev | TypeSafe AI Blog](https://typesafe.ai/blog/introducing-system-one-models-and-jev)
@@ -1779,6 +1790,8 @@ Artificial Intelligence
     * Pi(@earendil-works/pi-coding-agent)를 통해 하네스 엔지니어링을 배우는 입문서. 7부 구성—1부 Pi/하네스 이해, 2부 첫 작업실(설치·로그인·첫 세션·`read`/`write`/`edit`/`bash` 4 도구), 3부 기본 사용법, 4부 일상 업무(글쓰기·회의록), 5부 하네스 확장(AGENTS.md·스킬·확장·세션 `/tree` `/fork` `/clone`), 6부 SDK/RPC/JSON 시스템 통합, 7부 보안·권한·비용·로그. OpenClaw가 Pi SDK 통합 사례로 등장. v0.9, 2026.5.23 기준 1부+2부 4-7장 공개. 핵심: "Pi는 AI에게 일을 시키는 채팅창이 아니라, AI가 일할 수 있는 작업 환경을 만드는 작은 터미널 하네스"
   * [작고 유연한 코딩 에이전트 Pi를 주목해야 하는 이유 :: ROBOCO](https://roboco.io/posts/why-pi-coding-agent-matters/)
     * 정도현(로보코). 기능 목록은 길어졌지만 에이전트의 동작을 바꾸기 어렵거나 원치 않는 절차를 따라야 하는 순간이 남는다는 문제의식에서 Pi의 유연함을 조명—리얼월드 백엔드 구현 실험에서 **Pi+DeepSeek V4.1-Flash 조합이 3회 모두 완주**, 최속 1.9분·비용 환산 $0.037
+  * [장인은 도구를 탓하지 않는다. 도구를 만든다. | JongHak's Blog](https://jonghakseo.github.io/posts/craftsman-makes-tools/)
+    * 2026-03-03. Claude Code 1.0부터 Codex·Conductor·Amp·OpenCode·Oh-My-OpenCode까지 써 본 팀 리드의 코딩 에이전트 편력기(Claude Code는 200K 넘으면 체감 성능 저하·서브에이전트 제어 답답함, Codex는 훅 부재, Conductor는 headless로 매 턴 세션이 재시작돼 훅 라이프사이클이 달라지고 무거움, OmO는 하네스가 너무 강해 내가 도구에 맞춰야 함). OpenClaw 본체가 pi라는 걸 알고 Armin Ronacher 글을 보고 써 봤다가 "No MCP·No sub-agents·No permission popups·No plan mode·No built-in to-dos—직접 만들어라" 철학에 빠져 일주일간 mcp-bridge, `>>` 컨텍스트 포크, `<>`/`><`로 들어갔다 나오기, /github 오버레이, 스크린 세이버 등을 확장으로 만든 기록—에이전트로 일하다 에이전트 자체를 고치고 다시 그걸로 일하는 재미, 아쉬운 점까지
   * [Pi 1.0 | Earendil](https://earendil.com/posts/pi-1-0/)
     * [Pi 1.0 출시 - 미니멀한 터미널 코딩 에이전트 | GeekNews](https://news.hada.io/topic?id=34632)
     * 2026-10-01 출시. 매주 수십만 명이 쓰는 미니멀 에이전트 하네스를 수개월 피드백으로 다져 1.0으로—새 기능이 유효성을 입증할 때까지 기다린 뒤 기능 가치 vs 복잡성을 따져 채택("벽에 던져 붙은 것만", 떨어진 목록이 훨씬 길다). 추가: Codemode(JavaScript로 도구 호출 조합, MCP·Jev 같은 비LLM 모델·이미지 모델 네이티브 지원), 확장의 가상 모델(데모: Claude Opus가 계획·GPT 6 Luna가 구현·Jev가 전환 시점 판단), 도구 지연 로딩, Anthropic 캐시 워밍, 대화 중 시스템 메시지 변경, 새 TUI 테마·전체 화면 기본
@@ -1804,7 +1817,10 @@ Artificial Intelligence
     * [pi-herdsman · Packages · Pi](https://pi.dev/packages/pi-herdsman)
     * Pi(코딩 에이전트 대화 담당)와 herdr(프로세스·pane·워크스페이스·worktree 배치 담당) 사이의 오케스트레이션 계층—독립 Pi 세션들을 위임·소유·감독·프로젝트 오케스트레이션으로 묶어 백그라운드 에이전트 하나에서 브랜치 기반 병렬 프로젝트 작업까지. 일반 Pi 세션=Lead가 Agent들을 소유하고(중첩 위임 가능), 독립 프로젝트 작업은 Lead가 Manager 모드로 Lead들을 조정, 선택적 런타임 전역 감독자 Chief(감독: Chief→Manager→Lead, 소유: Lead→Agent). 소유 세션들의 Pi 네이티브 토큰·비용 집계, `/agents` 관리 화면, 자기 에이전트 정의·모델·스킬·확장 그대로 사용
     * `pi install npm:pi-herdsman` + `herdr integration install pi` 후 `herdr pi`로 시작, "Use scout to inspect the authentication flow"처럼 자연어로 위임하면 Lead 대화는 계속 쓸 수 있음. 확장+스킬 패키지(v0.19.0, 월 7.4k 다운로드), Linux·macOS·Windows. TypeScript, Apache-2.0, 109 stars
-  * [pi-mono: AI agent toolkit - coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods](https://github.com/badlogic/pi-mono)
+  * [pi-mono: AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI | earendil-works/pi (구 badlogic/pi-mono)](https://github.com/earendil-works/pi)
+    * [pi coding-agent examples/extensions](https://github.com/earendil-works/pi/tree/main/packages/coding-agent/examples/extensions)
+    * [요 몇 주 동안 pi 예찬론자가 되었습니다 | jong hak seo | LinkedIn](https://www.linkedin.com/posts/jong-hak-seo-9142ba200_github-badlogicpi-mono-ai-agent-toolkit-activity-7437306361597599744-7KDe)
+    * OpenClaw의 심장인 pi에는 MCP·정교한 컨텍스트 편집·서브에이전트·에이전트 팀이 없고 대신 확장 하나로 다 된다—`export default function (pi: ExtensionAPI)` TypeScript 파일 하나가 곧 플러그인이라 컴파일 없이 동작하고 `/reload`로 핫 리로드, `pi.registerTool()`·`registerCommand()`·`pi.on()`으로 모든 라이프사이클 이벤트에 개입(도구 호출 차단·컨텍스트 주입·컴팩션 교체·TUI 컴포넌트). "이 기능이 없다"가 아니라 "원하는 방식으로 만들 수 있다", 포크 대신 로컬 확장을 고쳐 달라고 pi에게 요청. 공식 예제 80여 개: permission-gate·plan-mode·subagent·git-checkpoint·custom-compaction·sandbox·ssh·handoff·protected-paths·doom-overlay·snake 등. TypeScript, MIT, 115.8k stars
   * [pi-subagents: Pi extension for delegating work to specialized child agents](https://github.com/nicobailon/pi-subagents)
     * [pi-subagents - Pi를 위한 서브에이전트 | GeekNews](https://news.hada.io/topic?id=30989)
     * Pi 코딩 에이전트가 자식 세션에 위임하는 확장. 내장 에이전트(scout·researcher·planner·worker·reviewer·oracle)가 컨텍스트 기반 자동 활성화, 포그라운드/백그라운드 실행, 순차 체인·git worktree 격리 병렬. acceptance gate로 검증 수준 제어, 재귀 깊이 제한. `pi install npm:pi-subagents`
@@ -4319,6 +4335,9 @@ Artificial Intelligence
   * AI가 아이디어 단계에서는 스킬 격차를 줄이지만, 실행 단계에서는 전문성 차이를 해소하지 못하는 "AI Wall" 현상. 도메인 지식 없이는 AI 결과물 평가 불가
 * ["일단 POC 해보세요" - AI 도입 논의의 Last Mile Problem | crystal0224](https://www.linkedin.com/posts/crystal0224_%EC%9D%BC%EB%8B%A8-poc-%ED%95%B4%EB%B3%B4%EC%84%B8%EC%9A%94-ai-%EB%8F%84%EC%9E%85-%EB%85%BC%EC%9D%98%EC%97%90%EC%84%9C-%EA%B0%80%EC%9E%A5-%EC%9E%90%EC%A3%BC-%EB%93%A3%EB%8A%94-%EB%A7%90%EC%9E%85%EB%8B%88%EB%8B%A4-share-7440289785790930944-iGAJ)
   * 250개 이상의 LLM 연결 앱을 만들고도 하나도 운영 전환 못한 은행 사례. 기술보다 거버넌스·인력·프로세스 재설계가 핵심
+* ["AI가 이렇게 빠르게 똑똑해지는데, 제 일에서 AI가 끝까지 못 할 10%는 뭘까요?" — To Thrive Alongside AI, Focus on Mindset—Not Skillset | 배수정 crystal0224 | LinkedIn](https://www.linkedin.com/posts/crystal0224_ai%EA%B0%80-%EC%9D%B4%EB%A0%87%EA%B2%8C-%EB%B9%A0%EB%A5%B4%EA%B2%8C-%EB%98%91%EB%98%91%ED%95%B4%EC%A7%80%EB%8A%94%EB%8D%B0-%EC%A0%9C-%EC%9D%BC%EC%97%90%EC%84%9C-ai%EA%B0%80-%EB%81%9D%EA%B9%8C%EC%A7%80-%EB%AA%BB-%ED%95%A0-10-share-7481567100784902144-qMxf/)
+  * 골드만삭스 CIO Marco Argenti의 HBR 글(2026) 소개. 시니어 뱅커의 "AI가 못 할 10%에 집중하면 살아남을까"라는 질문 자체가 함정—승마 고수가 운전을 배울 때 남길 승마 기술 10%를 찾는 격이며, 옮겨야 할 것은 특정 기술이 아니라 반사와 감각. reskill이 아니라 reimagine: 일을 직접 처리하던 사람이 AI 에이전트를 감독·육성하는 사람으로, 주니어가 매니저의 책임을 지는 구조. 세 가지 포인트는 ①20% 개선이 아닌 3배를 요구하는 리더십(기존 프로세스에 AI를 얹는 건 최적화일 뿐 재설계가 아님) ②what·how보다 why와 "잘된 결과"의 평가 기준을 먼저 정의 ③데이터 품질·계보·단일 진실의 장악(데이터→투명성→신뢰→문화)
+  * 필자의 연결: 100년 전 공장이 증기기관만 전기 모터로 바꾸고 벨트·도르래 구조를 그대로 둬 성과가 미미했다는 HBR의 전기 도입 비유, 기존 업무 최적화에만 AI를 쓰는 기업들의 지지부진, 자신의 "Stop Training, Start Redesigning"과 Aneesh Raman의 "효율 ≠ 더 나은 일", 인지심리학의 mental set. 다만 감독에는 경험과 시간이 필요하다는 Argenti의 인정처럼 마인드셋은 결심이 아니라 감독자로 일할 수밖에 없는 재설계된 구조 안에서 바뀐다는 단서—지킬 10%를 정해 두느라 나머지 90%를 다시 상상할 기회를 놓치고 있지 않은지
 * [이기호 - 제조 현장에 AI를 도입할 때 부딪히는 3가지 현실적 어려움 | LinkedIn](https://www.linkedin.com/posts/%EA%B8%B0%ED%98%B8-%EC%9D%B4-3015a317b_sxisyodx-swmregtxutzdtsaree-sxisyoai-share-7476461868463616000-sbNZ)
   * ①데이터 컨텍스트—현장 데이터가 수기·엑셀·설비별 용어로 흩어져 AI가 읽을 형식으로 변환하기 어려움(DRM 우회에 Power Automate Desktop 사용), ②망 분리 보안—퍼블릭 클라우드 직접 연결 불가, 오픈소스 AI는 GPU 인프라 부담, ③운영 지속성—전담 AI 운영 인력 없이 실무자가 비공식 온톨로지 사전에 의존. PoC는 결국 현장에 운영 부채를 남기므로 장기 유지보수 책임을 고려해야
 * [이승현 - CoT의 진화, 탈언어화와 검증으로 | Facebook](https://www.facebook.com/epoko/posts/pfbid02PU9GTLUySqaiZVxqHxdwFD7fMsw5M9bAdvJH8cqQdncHt4HAhJdtJcX2WmL1Tqal)
@@ -4938,6 +4957,8 @@ Artificial Intelligence
 * [pentest-ai · find it. chain it. prove it.](https://pentestai.xyz/)
   * [pentest-ai-agents](https://github.com/0xSteph/pentest-ai-agents)
   * 자율 침투 테스트 CLI. 3단계(서브도메인·지문→12개 전문 에이전트 취약점 탐지→발견 체이닝) 자동화. 웹앱·API·클라우드 커버, ~191개 보안 도구, SARIF/PDF/JUnit 리포트, CI/CD 통합. 무료 오픈소스+유료 티어
+* [Pentest-Swarm-AI: Autonomous penetration testing using a swarm of AI agents | Armur-Ai](https://github.com/Armur-Ai/Pentest-Swarm-AI)
+  * 정찰·분류·익스플로잇·리포팅 전문 에이전트를 ReAct 추론으로 오케스트레이션하는 승인된 침투 테스트용 멀티 에이전트 프레임워크. 버그 바운티·지속 모니터링·CTF 모드 지원, 7개 이상의 네이티브 보안 도구 통합. Go, AGPL-3.0, 3k stars
 * [RAPTOR: Autonomous Offensive/Defensive Security Research Framework](https://github.com/gadievron/raptor)
   * Claude Code 기반 보안 자동화 프레임워크. Semgrep/CodeQL 정적 분석, AFL++ 퍼징, LLM 통합(Anthropic/OpenAI/Google/Mistral) 익스플로잇 생성·패치, OSS 포렌식, 9개 전문 보안 페르소나, 실시간 비용 관리. MIT
 * [REA: Reverse Engineer Anything — Reverse engineer anything with agents, from app behavior down to native binaries](https://github.com/morluto/rea)
@@ -5796,6 +5817,10 @@ Artificial Intelligence
 * [WrenAI: AI-powered Generative Business Intelligence (GenBI) — Query any database in natural language, generate accurate SQL (Text-to-SQL), charts (Text-to-chart), and insights in seconds](https://github.com/Canner/WrenAI)
   * [Open-Source GenBI Agent — Text-to-SQL Made Easy](https://getwren.ai/oss)
   * [100% open-source Generative BI Agent!](https://www.linkedin.com/posts/sumanth077_i-found-a-100-open-source-generative-bi-activity-7356237535787802624-5PMA/)
+* [XERJ.ai — the search engine built for AI agents](https://xerj.org/)
+  * [xerj: XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. Elasticsearch compatible, so existing clients just work](https://github.com/xerj-org/xerj)
+  * Rust 단일 정적 바이너리로 검색·벡터 DB·임베딩·에이전트 메모리(`/_memory`)를 대체하는 AI 네이티브 로컬 검색 엔진. `xerj autoindex`로 코드(tree-sitter AST)·문서·로그·PDF를 자동 인덱싱하고 BM25+kNN 하이브리드 검색, `xerj def`로 go-to-definition 제공. Elasticsearch API 호환(ES-YAML 적합성 1366/1369), MCP 네이티브, `xerj init` 한 줄로 Claude Code/Cursor 연동. Apache-2.0
+  * 핵심 용례는 "reference coding": 만들려는 것과 가까운 오픈소스 레포를 클론·인덱싱해 에이전트가 코드를 쓰기 전 실제 정의와 계약을 검색하게 함. 통제 실험에서 grep 기반 에이전트 대비 같은 16/16 해결률에 출력 토큰 2.7배 절감, 현장 보고는 약 5배. 기본 `--insecure` 모드는 TLS·API 키 인증을 끄므로 개발 머신 1인용으로만 사용
 * [Xinity — Sovereign AI Infrastructure Software for European Enterprises](https://xinity.ai/)
   * [xinity-ai](https://github.com/xinity-ai/xinity-ai)
   * 유럽 기업용 온프레미스 AI 인프라 플랫폼. 데이터 주권·GDPR 준수, OpenAI 호환 API, 모델 오케스트레이션, 멀티노드 스케일링, 관리 대시보드. 오픈소스
@@ -7660,6 +7685,11 @@ Artificial Intelligence
   * 코딩 에이전트가 답을 장황함 속에 묻어버리지 않게 하는 스킬. ADHD 친화적(핵심 먼저) 출력 유도. Python, MIT
 * [IJFW: Unified platform for 13 AI coding agents with shared local memory](https://github.com/theRealSeanDonahoe/ijfw)
   * 13개 AI 코딩 에이전트(Claude Code/Codex/Gemini/Cursor 등) 통합. 공유 로컬 메모리(BM25+시맨틱), 6중 토큰 절감(캐싱 90%), Trident 멀티AI 감사, DESIGN.md 디자인 계약, 제로 텔레메트리
+* [Impeccable: The missing design vocabulary for agents](https://impeccable.style/)
+  * [impeccable: The design language that makes your AI harness better at design | pbakaus](https://github.com/pbakaus/impeccable)
+  * [Impeccable: AI 코딩 에이전트의 프론트엔드 디자인 품질을 개선하는 방법 | digitalbourgeois](https://digitalbourgeois.tistory.com/3767)
+  * Paul Bakaus(pbakaus)의 에이전트용 디자인 스킬·플러그인—"AI slop을 자랑스럽게 배포할 인터페이스로". 코딩 에이전트에 디자인 전문성(가독성·시각 위계·레이아웃·색·애니메이션)을 주어 처음부터 만들기, 기존 UI 개선, 프로젝트 디자인 시스템 준수를 돕고, `/polish`·`/distill`·`/clarify` 같은 명령으로 자연어 변경 요청을 처리하며 디자인 품질을 자동 점검. 사이드탭 보더·"AI 베이지"·카드 속 카드·모호한 헤드라인·과다 필드·제네릭 CTA 같은 전형적 AI 디자인 냄새를 before/after로 보여줌
+  * Codex CLI·Claude Code·GitHub Copilot·Cursor·Gemini CLI·Grok Build·Antigravity·OpenCode·Pi·Hermes Agent 지원. 무료 공개, 2026-10 현재 8.2만 stars. Rust, Apache-2.0
 * [jarvis: JARVIS — a voice assistant for Claude Code. Talk to your Mac and he brainstorms a project with you, builds it | ethanplusai](https://github.com/ethanplusai/jarvis/)
   * 이미 구독 중인 Claude Code 위에 얹는 영국 집사 음성 비서—말로 프로젝트를 한 질문씩 브레인스토밍→설계를 파일로 기록→실제 Claude Code 세션을 띄워 plan→review→execute 진행, 머신의 모든 세션을 감시해 입력 대기 시 알림. Python, 812 stars
 * [jcode - open-source AI coding agent for the terminal](https://jcode.sh/)
@@ -7950,6 +7980,8 @@ Artificial Intelligence
     * 모델 로드 상태·GPU 메모리 인지 라우팅, 가중 라운드로빈, 서킷 브레이커, 실시간 대시보드, OpenAI 호환 엔드포인트
   * [KiloClaw](https://kilo.ai/kiloclaw)
     * [KiloClaw Discord 봇 연동 가이드 60초 만에 AI 에이전트 구축](https://fornewchallenge.tistory.com/entry/%F0%9F%A6%9E-KiloClaw-Discord-%EB%B4%87-%EC%97%B0%EB%8F%99-%EA%B0%80%EC%9D%B4%EB%93%9C-60%EC%B4%88-%EB%A7%8C%EC%97%90-AI-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EA%B5%AC%EC%B6%95)
+  * [LobsterBoard: OpenClaw Dashboard Builder - Create custom dashboards | Curbob](https://github.com/Curbob/LobsterBoard)
+    * 클라우드 의존 없는 셀프호스팅 드래그앤드롭 대시보드 빌더. Node.js 서버 하나, 프레임워크·빌드 단계 없음(`node server.cjs` 후 Ctrl+E 편집 모드). 시스템 모니터링·날씨·캘린더·RSS·스마트홈·금융·AI/LLM 추적 등 60+ 위젯, 템플릿 갤러리, 커스텀 페이지(노트·칸반), SSE 실시간 데이터, 5개 테마. 단독으로도 쓰고 OpenClaw 사용자는 인증 상태·크론 잡·활동 로그 위젯 추가. JavaScript, 975 stars
   * [mac-agent-gateway: macOS agent gateway for OpenClaw with native system integration](https://github.com/ericblue/mac-agent-gateway)
   * [MaxClaw: Cloud-Hosted AI Agent by MiniMax](https://maxclaw.ai/)
     * [AI Agents KR | MaxClaw: 10초 만에 상시 온라인 개인 AI 에이전트 구축하는 방법 | Facebook](https://www.facebook.com/groups/9546662462016100/posts/27033655679556841/)
@@ -8279,6 +8311,11 @@ Artificial Intelligence
   * [GLM-5.2에 최적화된 공식 개발 하네스, ZCode 3.0 정리 | digitalbourgeois](https://digitalbourgeois.tistory.com/3319)
   * [ZCode: GLM-5.2용 공식 하네스 | GeekNews](https://news.hada.io/topic?id=31047)
   * Z.ai의 GLM-5.2 공식 개발 하네스 CLI. 장기 태스크 관리(Goal 기능), WeChat/Feishu/Telegram 원격 트리거, 추론·코딩·멀티 에이전트 협업에 GLM-5.2 심층 최적화. 계획→구현→검증→배포 엔드투엔드. Lite/Pro/Max($16.2~$144/월), macOS/Windows/Linux(베타)
+* [Zeude — Turn Your Organization into AI Natives](https://zep-us.github.io/zeude/)
+  * [zeude: team harness for enterprise | zep-us](https://github.com/zep-us/zeude)
+  * [Claude Code, Codex 같은 AI 코딩 도구를 팀에서 쓰기 시작하면 자연스럽게 드는 의문이 있습니다 — Zeude v1.0.0 오픈소스 공개 | JAEGYU LEE | LinkedIn](https://www.linkedin.com/posts/q00_claude-code-codex-%EA%B0%99%EC%9D%80-ai-%EC%BD%94%EB%94%A9-%EB%8F%84%EA%B5%AC%EB%A5%BC-%ED%8C%80%EC%97%90%EC%84%9C-%EC%93%B0%EA%B8%B0-%EC%8B%9C%EC%9E%91%ED%95%98%EB%A9%B4-share-7446946821605658624-RC11)
+  * ZEP이 만든 Claude Code·OpenAI Codex용 셀프호스팅 엔터프라이즈 모니터링·설정 관리 플랫폼. "우리 팀이 얼마나 쓰고 비용은 얼마고 누가 어떤 프롬프트를 쓰나"라는 질문에서 출발해, 높은 학습 곡선이 만드는 Intention-Action Gap을 Sensing(측정)→Delivery(배포)→Guidance(안내) 3계층으로 메움. 프롬프트별 토큰·비용 분석, 코호트 기반 팀 리더보드, 팀 스킬·MCP 서버·훅 원격 배포, Supabase+ClickHouse 셀프호스팅
+  * v1.0.0(사내 6개월 사용 후 공개): Windows 지원 추가, Codex를 Claude Code와 한 대시보드에서 추적(두 도구를 섞어 쓰면 비용 파악이 반쪽이 되므로), 팀 스킬 자동 동기화에서 개인별로 원치 않는 스킬 끄기. TypeScript, Apache-2.0
 * [ZipBuild — Next.js Boilerplate for AI-Powered Development](https://www.zipbuild.dev/)
   * 앱 유형·사용자·수익 모델·핵심 기능 4가지 질문으로 맞춤형 Next.js 스캐폴드 108파일 생성. Supabase 인증, Stripe 결제, 20+ UI 컴포넌트, 11개 가이드 포함. Claude Code/Cursor/Codex 등 AI 코딩 도구와 연동하여 SaaS 개발 가속
 
@@ -8595,6 +8632,9 @@ Artificial Intelligence
 * [梁文峰公开表示 Deepseek 的唯一拟人形象是大肥鱼, 为此他还特地和大肥鱼合唱了 APT—량원펑과 딥시크 마스코트가 함께 부르는 APT, MiniMax H3 캐릭터 교체 MV | Gary (GaryLau0101) on X](https://x.com/GaryLau0101/status/2106686253869695239)
   * [류내원 - How to Create a Character-Swapping Video by Minimax h3 1/2 (source X GaryLau0101) | Facebook](https://www.facebook.com/won.wizard/posts/pfbid02L54EEvtoLyk1XhipF4KCJhRfBpSgbe3RuXjRnufMqNV4fZ7gZQDA1SpAhXd38Xkil)
   * 원본은 딥시크 창업자 량원펑과 딥시크의 '대형 물고기' 마스코트가 APT 뮤직비디오를 함께 부르는 캐릭터 교체 영상(제작 설명은 댓글에, 2026.10.4, 좋아요 2.3k). 류내원이 과정을 구체화—Higgsfield Genjutsu처럼 알아서 해 주는 서비스도 있지만 로컬 PC에서 무료로, 그리고 MiniMax H3에 캐릭터 이미지와 영상을 레퍼런스로 넣고 "교체해 줘"라고만 하면 잘 안 되는 문제를 피하는 방법: ① 캐릭터 이미지 2장을 만들고(기존 이미지도 가능) GPT로 원본 MV를 씬 단위로 분할한 뒤 각 씬의 시작 프레임에서 두 캐릭터 카드로 인물을 교체한 이미지 생성 ② 그 이미지를 키프레임으로, 원본 영상의 해당 씬을 참조하게 해 MiniMax H3로 영상 생성 ③ 5초를 넘는 한 씬만 분할 생성(이전 세그먼트 마지막 프레임을 다음 세그먼트 첫 프레임으로 써 거의 끊김 없이 연결), 나머지는 한 샷에 한 세그먼트 ④ 씬별 영상을 이어 편집. 결과 영상 링크는 포스트에
+* [eian-riso-broll: 孔版双色风格的口播信息动画 Skill：逐字稿 → 1080×1920 竖屏 mp4 · Risograph-style info animations for talking-head videos](https://github.com/yian6557/eian-riso-broll)
+  * 토킹헤드·설명형 숏폼 영상의 대본(또는 SRT 자막)을 Claude Code·Codex·Cursor·Gemini CLI 등 코딩 에이전트에 주면, 시각화할 문장을 골라 2색 리소그래프 인쇄 풍의 세로 1080×1920 mp4 정보 애니메이션(B-roll)으로 만드는 스킬. 큰 숫자·다수→소수·전후 비교·핵심 인용 등 10종 템플릿이 종이·잉크·폰트·헤더를 공유해 한 에피소드가 통일된 시리즈로 보임
+  * 화면 텍스트는 발화에서만 발췌(없는 수치·UI는 비워두거나 placeholder), 자막 타이밍에 길이 맞춤, 스토리보드→전체 샷 스틸→최종 렌더 3단계마다 승인을 받아 수정 비용 절감. 세로 플랫폼 상단바·자막 영역·우측 버튼을 피하고 글자 크기·대비·프레임 이탈 자동 점검. 투명 배경판 제공. Node.js 22+·Chrome·ffmpeg만으로 이미지 생성 모델·네트워크 없이 로컬 오프라인 렌더. 타이포그래피는 중국어 기준(라틴 문자도 가능)
 * [huashu-art-motion: 艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来 — 코딩 에이전트가 예술 스타일을 움직이는 그림으로 쓰게 하는 스킬](https://github.com/alchaincyf/huashu-art-motion)
   * 花叔(alchaincyf)의 에이전트 스킬(`npx skills add alchaincyf/huashu-art-motion`). 36종 예술 스타일 레시피 카드(파라미터·모티프 동작·시그니처 전환·현재 단점, 53장)+9종 해설 문법(Kurzgesagt·Vox·화이트보드·3Blue1Brown·Storytime·동적 텍스트·발표회·금융 차트·해설자식 금융 과학)+8종 파라미터화 클립+내레이션 전편 참고 코드. 장면·전환·관문 이동·배경음악(BPM 그리드)은 코드로, 인물은 생성 프레임으로 합성
   * 샘플: 花叔가 픽셀 주인공이 되어 슈퍼마리오 한 스테이지를 완주(65초), Claude Code 마스코트 Clawd의 메트로폴리탄 박물관 야경 순찰(98초·16장면, 고흐·쇠라·페르메이르 등 CC0 원작을 각 화가 필법으로 코드 재묘화), 명화를 가로지르는 장권(長卷) 횡스크롤(이집트 벽화→모네 일본교→8-bit). 같은 구도의 소녀·고양이·책상을 기원전 4만 년 동굴벽화부터 2026년까지 35개 스타일로 통과하는 미술사 속주 샘플
