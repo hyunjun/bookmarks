@@ -986,6 +986,10 @@ Artificial Intelligence
   * MIT(Nathan Cloos·Antonio Norelli·Jacob Andreas·Daniela Rus·Phillip Isola 등). Claude Code(Opus 4)·Codex에 자율 오케스트레이션·신체·장기 메모리를 붙인 embodied 에이전트 Eko를, 목표·보상·과제 지시가 전혀 없는 가상 섬에 30시간씩 풀어둔 연구
   * 13개 에이전트가 모두 자발적으로 언덕 오르기, 블록 타워 쌓기, 만다라 그리기, 스포츠 재해석, 세계 물리 실험을 반복했고 서로 다른 이력으로 분기. 익힌 기법이 이후 할 수 있는 일을 확장—미경험 에이전트 대비 "제한 시간 내 최고 높이 타워" 같은 4개 과제에서 비교 평가
   * 이 행동이 고전적 놀이(play) 기준을 충족하는지 검토하고, 놀이가 기계 발달의 한 양식이 될 수 있는지 질문. 체크포인트·기록·인터랙티브 리플레이를 지원하는 LLM 에이전트용 오픈소스 시뮬레이션 엔진 Clawblox 공개
+* [2610.08902 Agent Plasticity: Measuring Self-Improvement Through Experience](https://arxiv.org/html/2610.08902)
+  * Harman Singh·Anton Bakhtin·Jason Weston·Rob Fergus·Sanjeev Arora·Kurt Keutzer·Anirudh Goyal 외(Meta FAIR 등). 기존 평가는 고정 시점의 능력만 측정하고 "얼마나 잘 배우는가"는 보지 않는다는 문제의식—에이전트가 과거 경험을 재사용 가능한 아티팩트로 상각(amortize)해 다음 인스턴스가 상속하는 통제된 설정에서, 체크포인트마다 학습 비용을 감안해 훈련·홀드아웃 성능을 측정
+  * 핵심 지표 agent plasticity(가소성): 경험을 미래 홀드아웃 성능 향상으로 바꾸는 효율. 같은 학습 기회에도 프론티어 모델들의 개선 궤적이 크게 갈림—큰 지속적 향상을 얻는 모델과 초기 성능 근처 또는 그 아래에 머무는 모델, 훈련 영역 내 향상이 분포 외 조건으로는 부분적으로만 전이. 최종 능력과 획득 효율도 어긋남: 최종 1위가 가장 효율적으로 배운 에이전트는 아님
+  * 개선 루프의 실패 추적으로 병목 후보 분리—가소성 낮은 에이전트는 관련 아티팩트를 재사용하지 못하고, 가소성 높은 에이전트는 재사용하고도 실패(아티팩트 품질·일반화·적용의 한계). 자기개선 에이전트 평가는 "무엇을 할 수 있나"뿐 아니라 "경험을 통해 얼마나 효과적으로 나아지나"를 측정해야 한다는 결론
 * [500-AI-Agents-Projects: The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more](https://github.com/ashishpatel26/500-AI-Agents-Projects) 다양한 산업 분야의 AI 에이전트 활용 사례를 선별하여 모은 컬렉션
   * [500+ AI Agent Projects & Use Cases — 웹 카탈로그](https://ashishpatel26.github.io/500-AI-Agents-Projects/)
 * [agentacct: See what your coding agents did and what it cost](https://github.com/mikehasa/agentacct)
@@ -1355,6 +1359,10 @@ Artificial Intelligence
 * [ENZO — AI Hub](https://enzo-hub.duckdns.org/)
   * [ENZO: Self-hosted AI workspace with agents, skills, and tools (Gmail, Calendar) that runs entirely on your own provider API keys (BYOK)](https://github.com/theguysudo/ENZO)
   * 셀프호스팅 BYOK(Bring Your Own Keys) AI 워크스페이스—Groq·OpenRouter·NVIDIA NIM·Hugging Face·Google AI·Cloudflare Workers AI 등 프로바이더 키를 내 기기에 저장하고 요청은 브라우저→ENZO→프로바이더로 내 인프라에서 직접 나가 래퍼 마진·락인 없음. 300+ 모델 통합 카탈로그, 태스크 한 번 설명하면 에이전트의 운영 매뉴얼을 스스로 작성, Gmail·Calendar 등 도구, 리서치·코드 생성·실행. Docker(ghcr.io) 배포. TypeScript, Apache-2.0
+* [esp32-iphone-agent: Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak](https://github.com/onehumanbeing/esp32-iphone-agent)
+  * [ESP32 iPhone Agent — 7달러 칩으로 AI가 진짜 iPhone을 보고 터치하는 데모 | Facebook Reel](https://www.facebook.com/reel/1979970426030892)
+  * 탈옥·앱 설치·Mac 없이 비전 모델이 실제 iPhone을 사람 손가락처럼 조작. ESP32-S3(Seeed XIAO, 약 $7, PSRAM 필수)가 ①눈: 자체 Wi-Fi 핫스팟을 열어 iPhone 화면 미러링(AirPlay) 수신기로 등장, H.264 스트림을 디코딩 없이 BLE로 전달 ②손: 표준 USB HID 마우스·키보드—AssistiveTouch 포인터로 클릭=탭, 드래그=스와이프 ③두뇌: 같은 iPhone의 ESP32 Agent 앱이 스트림을 디코딩해 OpenAI 호환 비전 모델에 스크린샷을 보내고 planner·actor가 tap/swipe/draw/type/home/finish 실행(Dynamic Island로 진행 표시)
+  * 상대 포인터를 코너에 재홈·흔들어 위치 확인 후 보정, 행동 뒤 화면 안정 대기·변화 여부 보고, 연결 끊김 시 같은 단계에서 재개, 모든 실행을 폰에 저장해 탭·스와이프를 그려 리플레이. "매주 월·화 반복 8시 알람 설정" 같은 과제 수행. 초기판(v0.1.0)은 Mac/Linux에서 UxPlay+Python 서버가 필요했으나 현재는 컴퓨터 불필요. iOS 18+(셀룰러 데이터 필요), Lightning 기종은 카메라 어댑터. C, MIT
 * Eve [Introducing eve: an open-source framework for building and deploying agents at scale | Vercel](https://vercel.com/blog/introducing-eve)
   * [Introducing eve | 박상길](https://www.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_introducing-eve-share-7476034323486269440-zgxy)
   * Vercel의 오픈소스 에이전트 프레임워크. 파일시스템 우선 설계(도구·스킬·지시·채널을 디렉토리로 구성), durable execution·샌드박스·휴먼 승인·옵저버빌리티 내장, Slack/Discord/Teams/GitHub 멀티채널 배포. `eve dev` 로컬 테스트·evals. "Next.js가 웹에 한 것을 에이전트에"
@@ -2378,6 +2386,10 @@ Artificial Intelligence
   * [Agensh 논문 리뷰: 오케스트레이터 없는 멀티 에이전트 하네스 설계와 Claude Code 에이전트 팀 적용법 | THE AX LABS](https://theaxlabs.com/blog/agensh-multi-agent-harness-paper-review)
   * Microsoft Research(Furu Wei 등). 중앙 오케스트레이터 없이 워커들이 스스로 하위 작업을 선점(CLAIM)하고, 공유 워크스페이스·메시지 인터페이스·추가 전용 공유 컨텍스트로 발견을 나누고 검증·병합하는 자기 조직형 멀티 에이전트 하네스. 오케스트레이터 용량이 협업의 병목이라는 진단
   * 같은 모델·Copilot 하네스·6시간·인터넷 없이 ProgramBench로 pandoc을 처음부터 재구현할 때 에이전트 1→1,024개로 테스트 통과율 33.89%→55.06%(상대 +62%), 가장 어려운 5개 과제 평균은 1→128개에서 19.31%→28.78%. 규모가 커지며 동료 조율→다중 워커 통합→표준화된 워크플로→역할 분화가 저절로 나타남. 리뷰 글은 Claude Code 에이전트 팀에 붙이는 공유 보드 스크립트·훅·워커 프롬프트까지 제공(코드 저장소는 9월 29일 기준 비공개)
+* [2610.13025 Evo²: Evolving the Evolver through Weight-Harness Co-Evolution](https://arxiv.org/html/2610.13025v1)
+  * Chejian Xu·Bo Li·Rajiv Mathews 외(Google 등). 자기진화 에이전트 연구가 가중치 업데이트(자기 생성 경험으로 학습)와 하네스 개선(프롬프트·도구·컨텍스트·실행 피드백 재작성)을 따로 다뤄 둘의 관계를 놓친다는 문제의식—가중치와 하네스를 공진화시키는 프레임워크 Evo²
+  * 하네스 업데이트: 하나의 정책이 하네스 편집을 쓰는 Proposer와 그 효과를 진단해 수정 방향을 주는 Reflector 두 역할을 겸하는 통합 듀얼 롤 파이프라인. 가중치 업데이트: 하네스 수정과 실행 결과가 두 역할의 학습을 이끌고, EvoTIDE 파이프라인이 편집 추출·프리픽스 이어쓰기로 쓸 만한 trajectory를 복원한 뒤 SFT+두 역할 교차 GRPO로 학습
+  * 코딩 벤치마크 3종에서 기존 자기진화 방법을 크게 앞섬—Polyglot 82.1%(최강 베이스라인 62.6%), SWE-bench Verified 48.3%(41.0%). 진화된 하네스는 추가 진화 없이 다른 과제로 전이되어 교차 벤치마크 1위, 프로프라이어터리 모델에도 적용 가능(GPT-5-mini 에이전트 24.4%→48.3%)
 * [Agent Harness Engineering | AddyOsmani.com](https://addyosmani.com/blog/agent-harness-engineering/)
   * [하네스 엔지니어링: 모델보다 중요한 작업 환경 설계의 시대 | GeekNews](https://news.hada.io/topic?id=28966)
   * 모델보다 harness(프롬프트·도구·컨텍스트 정책·훅·샌드박스·피드백 루프)가 결과 좌우. 모델 비교 대신 작업 환경 설계가 핵심
@@ -2609,6 +2621,10 @@ Artificial Intelligence
 * [Theo van Kraay - Data Challenges for Scaling Multi-Agent GenAI Apps with Python | PyData London 25 - YouTube](https://www.youtube.com/watch?v=S9U96uLJoLg)
 * [Mor Hananovitz, Ortal Ashkenazi: Learning How to Learn in the AI Era (HE) | PyData Tel Aviv 2025 - YouTube](https://www.youtube.com/watch?v=HvqA2hwSQUA)
   * [AI 시대, 빠르게 배우는 법: 이론과 실습을 통한 에이전트 개발 (PyData Tel Aviv 2025)](https://livewiki.com/ko/content/learning-ai-era)
+* [Computer Science Education in the Age of AI: Policy Directions and Challenges | 김현철 Hyeoncheol Kim, APCSE 2026 기조강연 (PDF)](https://drive.google.com/file/d/1yCA_1Wyyw0jEXUTa5wXYAFPbFHa5UZyq/edit) [pdf](pdfs/APCSE2026_keynote_cs_education_in_the_age_of_ai_hyeoncheol_kim.pdf)
+  * 고려대 컴퓨터학과 김현철 교수(국가인공지능전략위원회 교육·인재 분과, 교육부 자문위원)의 28쪽 기조강연. 핵심 질문: "지능 자체가 컴퓨팅 인프라의 일부가 될 때 모든 학생은 무엇을 배워야 하는가?" 한국 K-12 컴퓨팅 교육 여정(2000년대 ICT 활용→2015 중학교 정보 필수·컴퓨팅 사고→2022 디지털 리터러시·데이터·AI→2023+ 생성형 AI 도전)으로 출발
+  * 프레임: 인터넷·웹→스마트폰·앱→AI 파운데이션 모델·에이전트의 세 인프라 전환은 대체가 아니라 누적(디지털 리터러시+컴퓨팅 사고+AI 리터러시). 프로그래밍은 Write→Compose·Integrate→Specify·Delegate·Verify로 바뀌지만 인간 책임은 그대로. AI는 학문 분야이자 사회 인프라—알고리즘·프로그래밍·컴퓨팅 사고·데이터·컴퓨팅 시스템은 보존, AI 이해·활용, 인간-AI 협업, 검증·평가, 가치·책임은 확장("AI can generate. Humans must judge")
+  * 제안: 3층 커리큘럼(①모든 학생의 기초 디지털·AI 리터러시 ②정보 교과 중심 CS·SW·데이터·AI ③전 교과 통합) + 초·중·고·평생의 K-12 경로, UNESCO AI 역량 프레임워크·OECD Learning Compass 2030·CSTA 2026·CS2023 비교, 커리큘럼·교수학습·평가 정렬, 한국 AI 행동계획(2026-02)의 5축(커리큘럼 개혁·교사 역량·안전한 교육용 AI·AI 격차 해소·거버넌스)을 하나의 시스템으로 연결. 결론: "AI가 더 할 수 있으니 CS를 덜 가르치는 게 아니라, 모든 학생에게 더 넓고 강한 CS를"
 
 # Course MOOC Lecture
 * [중등4 - Introduction to AI(Stanford)](https://www.youtube.com/playlist?list=PLlSZlNj22M7RtNfjq94w2m4E9U4Y1sAG5)
@@ -3227,6 +3243,10 @@ Artificial Intelligence
   * [Meta Muse for Mac, 파일·메일·메시지까지 직접 다루는 개인 AI 에이전트 | digitalbourgeois](https://digitalbourgeois.tistory.com/3699)
     * Meta가 2026-09-19 공개한 Muse의 첫 데스크톱 버전(9월 8일 미국에서 iOS·Android·웹·WhatsApp용 출시). Files·Mail·Messages·Calendar·Notes에 흩어진 정보를 하나의 작업 맥락으로 모아 폴더 정리, 파일 정보로 양식 작성, 이메일·메시지·노트를 종합한 하루 요약 등을 수행
     * 컴퓨터 접근 범위는 사용자가 고르고, 파일 삭제·메시지 전송 같은 중요한 작업은 별도 승인 필요. 오픈 모델이 아니라 클라우드 기반 소비자용 에이전트이며, 현재 미국에서만 무료 macOS 다운로드로 제공
+  * [Introducing Muse Spark Open, The Most Capable US Open-Weight Model to Date | Meta AI Research](https://research.meta.ai/blog/muse-spark-open)
+    * [Muse Spark Open - a meta-models Collection | Hugging Face](https://huggingface.co/collections/meta-models/muse-spark-open)
+    * 2026-10. Muse Spark의 오픈 웨이트 버전—네이티브 멀티모달 816B(활성 42B) MoE, 1M 토큰 컨텍스트, 코딩·에이전틱 장기 과제·다단계 추론용. "미국산 오픈 웨이트 중 최고 성능" 주장. 이 등급에서 처음으로 데스크톱 실행—Apple M5 Ultra Mac Studio 2대(각 512GB 통합 메모리, 1.2TB/s)를 MLX로 묶어 1TB 메모리 슈퍼컴처럼 구동, Muse Code로 iOS 앱(Ice Cubes) 버그 수정·기능 추가·빌드와 DaVinci Resolve 프레임 단위 편집을 온디바이스로 시연
+    * HF 컬렉션은 BF16·NVFP4 가중치 2종. Baseten·Fireworks·Groq·Modal·Nebius·OpenRouter·Together API, SageMaker·Model Garden·Microsoft Foundry 다운로드, SGLang·vLLM·TensorRT-LLM·Transformers·MLX·llama.cpp·Unsloth 지원(AMD·Apple·Intel·NVIDIA 최적화). SGLang용 자동 튜닝 Helion GPU 커널 1.03~3.95× 가속. TorchTitan으로 추가 튜닝. 오픈 공개용 추가 안전 사후학습, Meta Superintelligence Scaling Framework 평가 통과. 제한적 상업 조건의 Muse Model License(다수 개발자 무료)
 * [MLIR: A new intermediate representation and compiler framework](https://medium.com/tensorflow/mlir-a-new-intermediate-representation-and-compiler-framework-beba999ed18d)
   * [MLIR: accelerating AI with open-source infrastructure](https://www.blog.google/technology/ai/mlir-accelerating-ai-open-source-infrastructure/)
 * [Model Context Protocol](https://modelcontextprotocol.io/)
@@ -4903,6 +4923,8 @@ Artificial Intelligence
   * [소프트웨어는 끝났다는 REA 직접 검증해봤습니다 | GitHub 트렌딩 1위 | 개발동생 - YouTube](https://www.youtube.com/watch?v=rwCDPZP_Zk4)
     * 16분(2026-10-12). 직접 만든 macOS 노트 앱 NoteVault(C++ 파일 엔진+AppKit, 소스 미제공)를 넘기고 전용 `.nvlt` 파일을 원본 앱 없이 읽는 파이썬 함수를 만들게 하는 과제—같은 모델(GPT-6.1 Sol)·같은 파일·각 10분으로 REA를 붙인 에이전트와 안 붙인 에이전트를 비교. 결과: 정상 8개·손상 8개 파일 16개를 양쪽 모두 전부 맞혔고, REA 없는 쪽도 스스로 Ghidra를 실행해 풀어냄. REA의 강점은 Hopper·Ghidra·IDA 같은 분석 도구를 MCP·CLI로 바로 부르게 하고 함께 설치되는 스킬로 조사 순서를 잡아주는 것이지만, 모델·에이전트가 통합과 가이드를 스스로 처리하게 되면 별도 도구로서의 우위는 사라질 수 있는 AI 래퍼 성격이라는 평가
     * 사례 소개(1996년 DX-Ball 사운드 위치 계산 함수 복원—3,205개 입력 비교, 63바이트 일치; Notion 복사·붙여넣기가 Electron IPC를 거쳐 시스템 클립보드까지 가는 경로 추적; Steam 게임 30분 내 Unity 포팅). 복제가 쉬워지는 시대에 경쟁력은 우리만 가진 데이터·도메인·결과물 품질·고객 신뢰라는 결론. 주의: REA의 MIT 라이선스는 도구에 대한 것이고 분석 대상 앱의 권리와는 별개—저작권법 제101조의3·4의 조건을 갖춘 경우에만 역분석 가능, 상용 앱은 약관과 법 조건부터 확인(시연은 자작 앱으로만)
+  * [일주일 만에 GitHub 스타 20만 개, 앱 뜯어보는 AI 도구 REA | 요즘IT](https://yozm.wishket.com/magazine/detail/3992)
+    * 요즘 프로덕트 메이커 주간 3선(2026-10-16): 써볼 것—회사 서버에 직접 설치하는 ChatGPT 같은 AI 채팅 Open WebUI, 참고할 것—일주일 만에 스타 20만 개를 모은 REA, 그리고 Karpathy의 "AI 체감 격차(깔때기)" X 글
   * "마음에 드는 기능을 보면 바이너리 수준까지 어떻게 동작하는지 이해한다"—소스 코드 없이도 앱을 에이전트에게 넘기면 기능을 조사·설명하고 증거를 제시한 뒤 자기 스택에 맞는 버전을 구현하게 하는 리버스 엔지니어링 에이전트 툴킷. 도구 선택·API 학습·증거 이동·다음 조사 대상 결정을 명령·스킬·구조화된 결과·반복 가능한 조사로 에이전트에 위임. 현재 Hopper 또는 Linux의 BYO Ghidra로 네이티브 분석·함수 dossier, 실험적 Windows x64 Ghidra(승인된 PE), 실행 없는 managed PE/CLI 트리아지, 재현 가능한 Evidence 기록, 통제된 프로세스 캡처, 웹사이트·Electron 페이지·Node/Electron V8 Inspector 수동 관찰, JS/소스맵 재구성, 정적 추론과 런타임 관찰을 구분하는 제공자 중립 그래프와 MCP 도구 카탈로그. 로드맵은 API·프로토콜·모바일·펌웨어·버전 간 차이까지. `npm install --global rea-agents && rea setup`, 한국어 README. TypeScript, MIT, 538 stars
   * 2026-10 현황(81k stars): `npx rea-agents setup`이 Claude Code·Codex·Cursor·Gemini CLI·Grok Build 등에 MCP 서버와 조사 워크플로 지시(스킬)를 등록(기존 설정 백업, 승인 후 적용)하고, 로컬 MCP를 지원하는 어떤 에이전트든 수동 등록 가능. 네이티브 분석은 기존 Hopper·Ghidra·IDA 사용(Hopper는 setup이 승인 후 설치 가능), 정적 JS·.NET 분석은 엔진 불필요. 대상: 네이티브 바이너리(의사코드·어셈블리·심볼·호출), 오프라인 ELF 레이아웃, EVM 바이트코드, 기록된 Linux 크래시, JavaScript/Electron(모듈·소스맵·IPC), 웹사이트(Chrome 계열), HAR/mitmproxy 캡처, .NET 어셈블리, Android APK·기기(adb)·JEB·Apktool 리소스, 펌웨어(Binwalk/Unblob), 패키지·Apple 번들, 프로세스 동작 캡처. 분석은 전부 로컬. 쇼케이스: DX-Ball 사운드 팬 계산 C 복원(3,205 케이스 통과), Notion Electron 클립보드 브리지 추적, PC-98 TH04 탄막 링 계산 복원. Node.js 22.19+/24.11+/26+, 암호화폐 토큰 발행·보증 없음 고지
 * [RedAmon — Autonomous AI Pentest Platform](https://www.redamon.org/)
@@ -5636,6 +5658,9 @@ Artificial Intelligence
 * [pstack: Cursor 엔지니어 poteto(Lauren Tan)의 개인 스킬 스택 | cursor/plugins](https://github.com/cursor/plugins/tree/main/pstack)
   * [Pstack Is Agent Overkill. Use It Anyway! - YouTube](https://www.youtube.com/watch?v=lUhXa8GiXns)
     * Rob Shocks. Cursor 엔지니어링 팀이 한 주에 1만 번 사용한 개인 스킬 스택을 오픈소스화한 pstack 분석
+  * [실제 Cursor 개발에 쓰이는 고품질 코딩 스킬, pstack 사용법 - YouTube](https://www.youtube.com/watch?v=gAt_rRweR7Q)
+    * [Lauren Tan 원본 발표 - YouTube](https://www.youtube.com/watch?v=Z-jNqqIYGm4)
+    * MINDUNG(2026-10, 5분). 스킬별 사용법—고치기 전에 이해하기(how·why), 첫 설계에 갇히지 않기(architect·arena), 주석까지 정리(no-comments), 실제로 돌려서 확인, 다른 모델에게 검토받기(interrogate), `/poteto-mode`로 맡기기, 스웜·밤샘 작업. 설치: Cursor `/add-plugin pstack`→`/setup-pstack`→작업 앞에 `/poteto-mode`; 커뮤니티 포팅판으로 Claude Code(`/plugin marketplace add michael-denyer/pstack-claude`)·Codex도 가능
   * Meta·Netflix·Cursor를 거치고 React 컴파일러를 만드는 poteto의 "Cursor를 진짜 엔지니어링 팀으로 만드는" 스킬 모음. LOC 최대화가 아니라 더 적고 높은 품질의 코드가 목표—깊이 있는 단일 에이전트를 신뢰할 수 있어야 fearless parallelism이 가능(`poteto-mode`로 다중 에이전트 기동). 모델별 강점을 활용하는 멀티 모델 워크플로우, `/add-plugin pstack`으로 설치
 * [Qodo - AI Code Review: Deploy with confidence](https://www.qodo.ai/)
   * 엔터프라이즈 review-first AI 코드 리뷰 플랫폼(코파일럿 아닌 거버넌스). PR 리뷰(GitHub/GitLab/Bitbucket/Azure DevOps), Qodo CLI, Context Engine(코드베이스+의존성+PR 히스토리 인덱싱), Rules System, IDE 통합(VS Code/JetBrains). 15+ 전문 리뷰 에이전트(버그·테스트 커버리지·문서·체인지로그), 멀티 모델(Anthropic/OpenAI/Gemini/NVIDIA), 멀티 레포 컨텍스트. Zero retention·SOC 2 Type II·온프레미스·싱글테넌트. NVIDIA·Intel·Walmart·Intuit·monday.com 사용. Code Review Bench F1 64.3%
@@ -7025,6 +7050,9 @@ Artificial Intelligence
     * [Matt Pocock 41만뷰 발표 — AI 코드 망치는 6가지와 해결법 - YouTube](https://www.youtube.com/watch?v=FOee3zb98wI)
       * [맷 포콕 41만뷰 발표: AI 코드 망치는 6가지와 해결법 | AgentOS](https://livewiki.com/ko/content/matt-pocock-ai-code-six-fixes)
     * [🆓 Matt Pocock Skills 완벽 가이드 - AI 코딩 에이전트 실무 필수 스킬 (30 초 설치)](https://fornewchallenge.tistory.com/entry/%F0%9F%86%93-Matt-Pocock-Skills-%EC%99%84%EB%B2%BD-%EA%B0%80%EC%9D%B4%EB%93%9C-AI-%EC%BD%94%EB%94%A9-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EC%8B%A4%EB%AC%B4-%ED%95%84%EC%88%98-%EC%8A%A4%ED%82%AC-30-%EC%B4%88-%EC%84%A4%EC%B9%98-1)
+    * [🛠️ mattpocock/skills : Vibe Coding의 4가지 실패를 작은 스킬로 고치는 법 (28.8만 스타) | fornewchallenge](https://fornewchallenge.tistory.com/entry/%F0%9F%9B%A0%EF%B8%8F-mattpocockskills-Vibe-Coding%EC%9D%98-4%EA%B0%80%EC%A7%80-%EC%8B%A4%ED%8C%A8%EB%A5%BC-%EC%9E%91%EC%9D%80-%EC%8A%A4%ED%82%AC%EB%A1%9C-%EA%B3%A0%EC%B9%98%EB%8A%94-%EB%B2%95-288%EB%A7%8C-%EC%8A%A4%ED%83%80)
+      * 2026-10 시점(28.8만 스타·2.4만 포크, 27개 스킬) 재정리. GSD·BMAD·Spec-Kit처럼 과정을 통째로 소유하는 프레임워크 대신 작고 조합 가능한 스킬—vibe coding의 4가지 실패와 처방: ①의도 불일치→`/grill-me`로 먼저 심문 ②설명이 너무 길어짐→용어집(glossary)으로 공유 언어 구축("materialization cascade" 한 단어) ③코드가 안 돌아감→`/tdd` red-green-refactor ④진흙 덩어리→`/improve-codebase-architecture`
+      * 사용자 호출(ask-matt 라우터·grill-with-docs·to-spec·to-tickets·implement·wayfinder·retro)과 모델 호출(tdd·diagnosing-bugs·code-review·codebase-design·prototype) 구분, 생산성 스킬(`/handoff`·`/teach`·`/to-questionnaire`·`/wait-what`). `npx skills@latest add mattpocock/skills` 또는 Claude Code 공식 마켓플레이스 `claude plugins install mattpocock-skills`. 저자 개인 방식이라 모델·에이전트별 동작 차이 가능
     * [좋은 스킬을 발견하게 되어 공유합니다 | Teo Yu](https://www.linkedin.com/posts/teo-yu_%EC%A2%8B%EC%9D%80-%EC%8A%A4%ED%82%AC%EC%9D%84-%EB%B0%9C%EA%B2%AC%ED%95%98%EA%B2%8C-%EB%90%98%EC%96%B4-%EA%B3%B5%EC%9C%A0%ED%95%A9%EB%8B%88%EB%8B%A4-1-%EC%84%A0%EA%B5%AC%EC%9E%90%EA%B0%80-%EB%90%98%EA%B3%A0-%EC%8B%B6%EC%9D%80-%EB%A7%88%EC%9D%8C%EC%97%90-%EC%A0%80%EB%8F%84-share-7457350055386161152-jOL9)
     * 엔지니어링 스킬(`/grill-with-docs`, `/tdd`, `/diagnose`, `/improve-codebase-architecture`, `/triage`, `/to-issues`, `/to-prd`, `/zoom-out`, `/prototype`) + 생산성 스킬(`/grill-me` 결정 트리 해소, `/caveman` 토큰 75% 절감 압축 커뮤니케이션, `/write-a-skill`). 에이전트 4대 실패(오정렬·장황·비기능 코드·아키텍처 퇴화) 대응
     * [한영자막 Matt Pocock 스킬, 이번 업데이트로 확 달라졌다 - YouTube](https://www.youtube.com/watch?v=sZrFaPMau6A)
@@ -8540,6 +8568,10 @@ Artificial Intelligence
 * [梁文峰公开表示 Deepseek 的唯一拟人形象是大肥鱼, 为此他还特地和大肥鱼合唱了 APT—량원펑과 딥시크 마스코트가 함께 부르는 APT, MiniMax H3 캐릭터 교체 MV | Gary (GaryLau0101) on X](https://x.com/GaryLau0101/status/2106686253869695239)
   * [류내원 - How to Create a Character-Swapping Video by Minimax h3 1/2 (source X GaryLau0101) | Facebook](https://www.facebook.com/won.wizard/posts/pfbid02L54EEvtoLyk1XhipF4KCJhRfBpSgbe3RuXjRnufMqNV4fZ7gZQDA1SpAhXd38Xkil)
   * 원본은 딥시크 창업자 량원펑과 딥시크의 '대형 물고기' 마스코트가 APT 뮤직비디오를 함께 부르는 캐릭터 교체 영상(제작 설명은 댓글에, 2026.10.4, 좋아요 2.3k). 류내원이 과정을 구체화—Higgsfield Genjutsu처럼 알아서 해 주는 서비스도 있지만 로컬 PC에서 무료로, 그리고 MiniMax H3에 캐릭터 이미지와 영상을 레퍼런스로 넣고 "교체해 줘"라고만 하면 잘 안 되는 문제를 피하는 방법: ① 캐릭터 이미지 2장을 만들고(기존 이미지도 가능) GPT로 원본 MV를 씬 단위로 분할한 뒤 각 씬의 시작 프레임에서 두 캐릭터 카드로 인물을 교체한 이미지 생성 ② 그 이미지를 키프레임으로, 원본 영상의 해당 씬을 참조하게 해 MiniMax H3로 영상 생성 ③ 5초를 넘는 한 씬만 분할 생성(이전 세그먼트 마지막 프레임을 다음 세그먼트 첫 프레임으로 써 거의 끊김 없이 연결), 나머지는 한 샷에 한 세그먼트 ④ 씬별 영상을 이어 편집. 결과 영상 링크는 포스트에
+* [huashu-art-motion: 艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来 — 코딩 에이전트가 예술 스타일을 움직이는 그림으로 쓰게 하는 스킬](https://github.com/alchaincyf/huashu-art-motion)
+  * 花叔(alchaincyf)의 에이전트 스킬(`npx skills add alchaincyf/huashu-art-motion`). 36종 예술 스타일 레시피 카드(파라미터·모티프 동작·시그니처 전환·현재 단점, 53장)+9종 해설 문법(Kurzgesagt·Vox·화이트보드·3Blue1Brown·Storytime·동적 텍스트·발표회·금융 차트·해설자식 금융 과학)+8종 파라미터화 클립+내레이션 전편 참고 코드. 장면·전환·관문 이동·배경음악(BPM 그리드)은 코드로, 인물은 생성 프레임으로 합성
+  * 샘플: 花叔가 픽셀 주인공이 되어 슈퍼마리오 한 스테이지를 완주(65초), Claude Code 마스코트 Clawd의 메트로폴리탄 박물관 야경 순찰(98초·16장면, 고흐·쇠라·페르메이르 등 CC0 원작을 각 화가 필법으로 코드 재묘화), 명화를 가로지르는 장권(長卷) 횡스크롤(이집트 벽화→모네 일본교→8-bit). 같은 구도의 소녀·고양이·책상을 기원전 4만 년 동굴벽화부터 2026년까지 35개 스타일로 통과하는 미술사 속주 샘플
+  * 워크플로: "이 애니메이션 복제해"→분해 스크립트로 전환·박자 그리드·운동 히트맵 측정 후 메커니즘대로 재구현, 내레이션→샷 리스트→스타일→월드 캔버스+카메라→화면 트랙 출력, JSON 입력으로 프레임 단위 길이의 해설 클립(가로/세로·투명 배경). 납품 전 `qa.py`(안정·효율·역동·유려·텍스트 프레이밍 수치 검수)+제작 미참여 에이전트의 성편 리뷰, `deliver.py`가 "반(反) PPT 게이트"(샷 내 빠른 움직임이 거의 없으면 불합격) 통과 후에만 산출. JavaScript, MIT
 * [Hypit — Clone Any Viral Video with AI Agents, Open Source](https://hypit.ai/)
   * [hypit: Clone any viral video with AI agents. Not just a script, the whole workflow](https://github.com/hypit-ai/hypit)
   * 바이럴 영상을 AI 에이전트로 복제—스크립트만이 아니라 얼굴·대사·B-roll까지 교체 가능한 워크플로로 만들어 한 명령으로 100개 변형 생성. BYOK 무료 오픈소스. TypeScript, 9.2k stars
