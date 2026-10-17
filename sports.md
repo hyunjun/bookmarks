@@ -270,6 +270,8 @@ Sports
 * [칼럼 Moreyball: 수치에 기반한 데이터 농구 혁신 - MANIA](https://mania.kr/g2/bbs/board.php?bo_table=maniazine&wr_id=306905)
 * [손대범 금붕어처럼 살아 | 오늘의 농구](https://v.daum.net/v/tXOSI5EoGh)
 * [겸손이 만든 부활, 본즈 하이랜드 선수5 | 오늘의 농구](https://v.daum.net/v/x0wjgb71dk) 실패 요인으로 본인이 직접 커뮤니케이션의 부재를 꼽기도
+* [deepshot: AI-powered NBA game outcome predictor that uses advanced team stats and trend-based features to forecast winners and track model performance | saccofrancesco](https://github.com/saccofrancesco/deepshot)
+  * Basketball Reference 과거 데이터와 지수가중이동평균(EWMA) 롤링 통계로 최근 폼·모멘텀을 반영해 NBA 경기 승자를 예측하는 머신러닝 모델. 팀 간 핵심 통계 차이를 시각화하는 NiceGUI 웹 인터페이스, 무료 공개 데이터만 사용, Windows·macOS·Linux 로컬 실행. MIT
 
 # Football
 * [정치역사적 관점으로 본 엘 클라시코(El Clasico)](http://ppss.kr/archives/41767)
