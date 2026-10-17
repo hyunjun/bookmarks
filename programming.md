@@ -8134,6 +8134,11 @@ Programming
   * Wii의 PowerPC 하드웨어에서 Darwin/XNU 커널을 네이티브 실행. Hollywood SoC용 IOKit 드라이버, SD 카드·프레임버퍼·USB 입력 지원, GUI 부팅까지 완성. 10여 년 프로젝트
 * [Cosmos (C# Open Source Managed Operating System) - an operating system development kit](https://www.gocosmos.org/)
 * [Essence](https://nakst.gitlab.io/essence)
+* [haiku-sony-vaio-p-patch: The scripts that apply the Sony VAIO P (VGN-P70H) boot/install/hardware patches to a fresh Haiku OS source checkout and build it into an ISO | rainygirl](https://github.com/rainygirl/haiku-sony-vaio-p-patch)
+  * [renkuos-sony-vaio-p-patch](https://github.com/rainygirl/renkuos-sony-vaio-p-patch) 저장소가 이곳으로 이전—Haiku OS 지원을 중단하고 Haiku 포크인 RenkuOS 릴리즈에 맞춰 관리
+  * [요즘에는 BeOS의 후속작인 HaikuOS 를 쓸모있게 하는 일을 혼자서 뚝딱 뚝딱 하고 있습니다 | JunHaeng Lee (rainygirl) | LinkedIn](https://www.linkedin.com/posts/rainygirl_%EC%9A%94%EC%A6%98%EC%97%90%EB%8A%94-beos%EC%9D%98-%ED%9B%84%EC%86%8D%EC%9E%91%EC%9D%B8-haikuos-%EB%A5%BC-%EC%93%B8%EB%AA%A8%EC%9E%88%EA%B2%8C-%ED%95%98%EB%8A%94-%EC%9D%BC%EC%9D%84-%ED%98%BC%EC%9E%90%EC%84%9C-share-7486939940606550016-IG_m/)
+  * Sony VAIO P(VGN-P70H, Atom Z520이라 x86_64 불가) 넷북용 부트·설치·하드웨어 패치(`vaio-p-patches.diff`)를 RenkuOS nightly가 빌드된 정확한 커밋 위에 적용해 32비트 `x86_gcc2h` 하이브리드 ISO를 만드는 셸 스크립트. 펌웨어가 전원 투입마다 두 번째 CPU 응답 여부를 정하므로 부트로더가 최대 8회 의도적으로 재부팅해 재시도(SMP reroll), 이 CPU에서 하드 행을 일으키는 `x86_acpi_cstates` 비활성화 등—`pkgman update`를 하면 패치가 되돌려져 부팅 불능이 되니 금지. 기술 노트는 AGENTS.md
+  * LinkedIn 포스트: 1991년 BeOS의 후속 Haiku OS 커널을 Claude에게 시켜 손보는 1인 프로젝트. 32비트 i386 머신에서 10~20초 부팅, bash 터미널·OpenTTD·인터넷 라디오·C++로 재작성한 CLI 도구가 동작. 작은 글쓰기·비상용 터미널 머신으로 끌어올리는 것이 목표이며, 옛 기기에 역할을 다시 부여할 만큼 Haiku의 만듦새가 좋다는 소감
 * [mjg59 | What the fuck is an SBAT and why does everyone suddenly care](https://mjg59.dreamwidth.org/70348.html)
   * [SBAT란 무엇이며 왜 갑자기 모두가 관심을 가지는가 | GeekNews](https://news.hada.io/topic?id=16423)
 * netboot.xyz [Your favorite operating systems in one place! | netboot.xyz](https://netboot.xyz/)
