@@ -71,6 +71,11 @@ Game
   * 20년 경력 테크니컬 아티스트 관점에서 아티스트의 스펙 미준수를 인문학·심리학·뇌과학으로 분석. 미술 교육의 규칙 파괴 문화, 시각적 사고와 텍스트 기반 스펙의 불일치, 몰입 상태 중단 비용 등이 원인. 자동화된 검증 시스템과 DCC 도구 내장 스펙, 즉각적 피드백 루프를 해결책으로 제안
 * [30년전 RPG (포가튼사가) 소스 포팅 하기 | GeekNews](https://news.hada.io/topic?id=29586)
   * 1997 한국 DOS RPG "포가튼 사가" 멀티 플랫폼 소스 포팅. 원본 PE32 실행파일+데이터만 남은 상태에서 리버스 엔지니어링·재구현
+* [Today we're standing up XBOX LABS. Here is the note that I sent to the team | Asha Sharma (Xbox CEO) | X](https://x.com/asha_shar/status/2110083127741702241)
+  * [김성완 - AI발 게임계의 지각 변동: 오늘 XBOX의 CEO 아샤 샤르마가 이런 파격적인 내용의 트윗을 올렸다 | Facebook](https://www.facebook.com/seongwan.kim.3/posts/pfbid0vMZMJD8BFCRCF6kHtkNvxseEw3uzGigLw9Z7wMFEaDoAC1vRtWyf9kebFMz7Ka41l)
+    * 전문 번역과 분석. ①기술 트리거—정적 바이너리 분석+LLM 에이전트 역공학 자동화로 x86 바이너리를 IR·현대 코드로 복원해 ARM·웹으로 즉시 재컴파일, WebGPU 90%+WASM으로 설치 없는 고사양 3D 게임, 서로 다른 엔진 게임의 애셋·로직이 에이전트를 매개로 재조합되는 "레고 블록화" ②코딩이 에이전트 첫 킬러 앱이 된 이유(작성·실행·테스트 폐루프)가 게임에도 그대로 적용—상태·규칙·피드백 루프를 가진 소프트웨어 ③독점 HW→독점 타이틀→30% 수수료의 월드 가든 락인이 무너지는 흐름을 DRM·소송 대신 플랫폼 경쟁력으로 흡수(Can't beat them, lead them) ④AAA 스튜디오 대신 소규모 연구팀의 Build in the Open. 댓글: WebGPU 정식판(2023 봄)부터 게임 플랫폼이 될 것으로 주시해 왔다, IP 보호가 난제
+  * 2026-10-13 Xbox CEO의 팀 메모(labs.xbox.com). 최근 몇 주간 게임들이 빠르게 디컴파일되어 설계되지 않은 하드웨어에서 재구축—Windows PC 빌드가 Apple Silicon으로 변환되고 WebAssembly·WebGPU로 브라우저에서 구동, 최대 게임들이 다른 게임 소스 코드로 리믹스. 소프트웨어-하드웨어 결속, 창작-플레이 경계, 게임 발견 방식의 전제가 도전받지만 플레이어에겐 명백히 좋은 결과
+  * Scott에게 게임 제작자·엔지니어·과학자 소그룹 XBOX LABS 신설 요청—공개적으로 만들고 "더 많은 사람이 플레이·창작하는지"로 성공 측정. 연간 720억 시간의 Xbox 플레이 시간은 전 세계 코딩 시간의 약 5배—코딩 다음 에이전트 워크로드로 게임. 4C·게임·하드웨어·IP 관리 우선순위는 유지, 도구는 업계와 공유
 * [game-developer-roadmap: Roadmap to becoming a game developer in 2022](https://github.com/utilForever/game-developer-roadmap)
 * [OpenDLSS-NR: A Vulkan reimplementation of NVIDIA's DLSS 5 Neural Rendering network, bit-exact against the original](https://github.com/maanHimself/OpenDLSS-NR)
   * NVIDIA DLSS 5 뉴럴 렌더링 네트워크를 Vulkan으로 재구현—원본과 비트 단위로 동일한 결과. JavaScript, MIT
