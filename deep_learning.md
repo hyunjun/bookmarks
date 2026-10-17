@@ -2497,6 +2497,9 @@ CVPR2016)
 * [2604.21691 A Scientific Theory of Deep Learning Will Come](https://arxiv.org/abs/2604.21691)
   * [딥러닝에 대한 과학적 이론이 나올 것이다 | GeekNews](https://news.hada.io/topic?id=28883)
   * 신경망 학습의 "learning mechanics" 이론 프레임워크 제안. 5가지 연구 방향(해석 가능 이상화, 다루기 쉬운 극한, 수학 법칙, 하이퍼파라미터 이론, 보편적 행동)과 7가지 필요 조건
+* [30 papers · The reading list Ilya Sutskever gave John Carmack](https://30papers.com/)
+  * 일리야 수츠케버가 존 카맥에게 "이것만 다 이해하면 오늘날 중요한 것의 90%는 안다"며 건넸다고 전해지는 AI 핵심 논문 목록(소문으로 전해진 리스트, 정식 목록은 미확인이라 현재 27편만 수록)을 전문과 어려운 용어의 쉬운 설명과 함께 호스팅한 사이트. Michael Crowley 제작
+  * 수록: CS231n, Unreasonable Effectiveness of RNNs, Understanding LSTM, AlexNet, ResNet·Identity Mappings, Dilated Convolutions, RNN Regularization, Deep Speech 2, Order Matters, Bahdanau NMT, Pointer Networks, Attention Is All You Need·Annotated Transformer, Neural Turing Machines, Relation Networks·Relational RNN, Neural Message Passing, Scaling Laws, GPipe, MDL 관련 2편(Hinton 가중치 기술 길이·MDL 튜토리얼), Complexodynamics 제1법칙, Coffee Automaton, Kolmogorov Complexity, Variational Lossy Autoencoder, Machine Super Intelligence(Shane Legg 박사 논문)
 * [annotated_deep_learning_paper_implementations: 🧑‍🏫 50! Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠](https://github.com/labmlai/annotated_deep_learning_paper_implementations)
 * [AutoML-Zero：Evolving Machine Learning Algorithms From Scratch Review](https://hoya012.github.io/blog/automl-zero-review/)
 * [auto-paper-analysis](https://github.com/deep-diver/auto-paper-analysis)
