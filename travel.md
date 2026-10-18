@@ -67,6 +67,9 @@ Travel
 * [휴양지 여행 백과](http://100.daum.net/series/17/list)
 * [여행지의 잠 못 이루는 밤, 별 사진 잘 찍는 법](http://media.daum.net/life/newsview?newsId=20161227095051595)
 * [25 Of The Most Picturesque Small Towns From Around The World](https://designsmaz.com/picturesque-small-towns/)
+* [Map Animator: animated map videos of your trips](https://mapanimator.baldinger.se/)
+  * [I Built a FREE Tool for Animated Travel Maps | Robert Baldinger - YouTube](https://www.youtube.com/watch?v=7CGv25f8JsA)
+  * 여행 경로를 애니메이션 지도 영상으로 만드는 무료 브라우저 도구(계정 불필요). 경로를 직접 그리거나 GPX 파일을 불러오고, 표지판·구간·카메라 이동을 넣어 최대 4K MP4로 내려받기. 제작자 Robert Baldinger의 11분 소개 영상은 After Effects·구독 없이 경로 그리기→마커 배치→내보내기 후 여행 영상 편집에 넣는 과정을 보여줌(설명 기준, 자막은 429로 미확인)
 
 # 한국
 * [한국 관광 100선](www.mustgo100.or.kr/)
