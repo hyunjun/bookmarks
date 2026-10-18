@@ -273,6 +273,15 @@ Bitcoin
 * [ai-web3-security: Web3 Security Tools Hub — a curated list of AI tools for smart-contract security](https://github.com/pashov/ai-web3-security)
   * 스마트컨트랙트 보안용 AI 도구 76종 큐레이션(무료/오픈소스·유료/상용 분류). pashov.com 운영
 * [eth2-book: A book about Ethereum](https://github.com/smartcontracts/eth2-book)
+* [ETHval | Intrinsic Value Dashboard](https://ethval.com/)
+  * [김서준 - ETHval v1.0 메이저 업데이트: 이더리움의 적정가치, 계산에서 검증으로 | Facebook](https://www.facebook.com/kimseojoon/posts/pfbid02puBE9ZgDr1DnRzcPy5EXpywWRwgWJNta5HyPEd1gaeLftfuDKuMu48Korwsgstagl)
+    * [A Potential Valuation Methodology for Ethereum | VanEck](https://www.vaneck.com/pl/en/blog/digital-assets/a-potential-valuation-methodology-for-ethereum/)
+      * 2023-07-20. 스테이킹 출금을 연 하드포크로 ETH가 미 국채의 경쟁자가 됐다고 보고 거래 수수료·MEV·"Security as a Service" 수익을 2030년까지 추산(연 26억 달러→510억 달러)한 뒤 세금·검증자 몫을 빼 현금흐름을 만들고, 장기 현금흐름 수익률 7%−성장률 4% 배수로 2030년 FDV를 구해 12%로 할인하는 방법론
+    * [Ethereum 5-Year Valuation Framework: Bear, Base & Bull Cases | CoinShares](https://coinshares.com/corp/insights/research-data/ethereum-5-year-valuation-framework/)
+      * 현금흐름 가치(사업으로서의 네트워크 수수료×배수)와 화폐 프리미엄 가치(스테이킹·DeFi·L2 준비금·ETF·기업 재무·가치저장 수요)를 합치고 네트워크·투기 프리미엄을 얹는 sum-of-parts. 2031년 Bear 약 1,443달러(연 -9%)·Base 약 4,935달러(+16%)·Bull 약 14,135달러(+43%). Dencun 이후 활동은 기록적인데 주간 수수료는 2억 달러대에서 1천만 달러 수준으로 줄어 시장이 ETH 가격을 매기기 어려워졌다는 진단
+    * Hashed 대표 김서준 님이 Opus 4.5 출시 직후 첫 바이브 코딩으로 만든 ETHval의 v1.0 업데이트 소개. VanEck은 수익을 내는 자산으로, CoinShares는 화폐·담보 가치까지 더해 보듯 ETH를 무엇으로 보느냐에 따라 출발점이 달라진다는 관점에서 "계산에서 검증으로"—모형 12개가 독립적 증거 12개는 아니라 평균·중앙값·절사평균과 모형 하나 제외 시 변화를 비교, 목표가보다 그 가격에 필요한 조건을 묻는 시나리오 시뮬레이터, 기관 전망에 원문·발표일 연결
+    * 과거 재구성과 당시 실제 평가를 구분한 30·90·180일 수익률, 뉴스와 가격 흐름을 한 차트에 둔 News Impact(인과는 아님), BTC 대비 수익률 비교, ETH·BTC·SOL 수수료·수익 기반 상대평가, 모형별 공식·가정·입력 데이터 내려받기와 AI 해설의 생성 시점·모델 표시, 공유 카드·임베드·월별 보고서
+  * Hashed의 무료 이더리움 내재가치 대시보드. 4개 범주 12개 평가모형—전통 금융(Staking DCF·P/S Ratio·Fee Yield·Validator Economics), 온체인 자산 가치(TVL Multiple·App Capital), 네트워크 효과(Metcalfe's Law·ETH Monetary·Ecosystem Settlement·L2 Ecosystem), 공급 희소성(Staking Scarcity·Liquidity Premium)—의 단순 평균으로 종합 적정가 산출, 모형을 켜고 끄며 계산 가능. X 로그인 후 모형 2개를 평가하면 3년 이력과 What-If 시뮬레이터 개방
 * [Polygon: A Multi-Sided Approach to ZK Scaling | Messari](https://messari.io/article/polygon-a-multi-sided-approach-to-zk-scaling?referrer=category:all-research)
 * [Polygon 시리즈 #1: Polygon PoS — Mass Adoption을 향한 여정의 시작 | by 100y | a41-allforone | Medium](https://medium.com/a41-ventures/polygon-%EC%8B%9C%EB%A6%AC%EC%A6%88-1-polygon-pos-mass-adoption%EC%9D%84-%ED%96%A5%ED%95%9C-%EC%97%AC%EC%A0%95%EC%9D%98-%EC%8B%9C%EC%9E%91-b907d20fd84f)
 * [SMARTIAN: 데이터 흐름 분석을 활용한 스마트 컨트랙트 퍼징](https://engineering.linecorp.com/ko/blog/smartian-smart-contract-fuzzing-with-data-flow-analyses)
