@@ -1127,6 +1127,7 @@ NLP
   * [BMTools: Tool Learning for Big Models, Open-Source Solutions of ChatGPT-Plugins](https://github.com/OpenBMB/BMTools)
   * [CAMEL: 🐫 CAMEL: The first and the best multi-agent framework. Finding the Scaling Law of Agents](https://github.com/camel-ai/camel)
     * [CAMEL-AI | Finding the Scaling Laws of Agents](https://www.camel-ai.org/)
+    * [CAMEL-AI란? LLM 멀티 에이전트 프레임워크의 핵심 개념과 주요 기능 살펴보기 | digitalbourgeois](https://digitalbourgeois.tistory.com/3823)
     * 2023년 "Communicative Agents for Mind Exploration of LLM Society"(NeurIPS 2023) 논문에서 시작한 오픈소스 멀티 에이전트 프레임워크(`pip install camel-ai`). 데이터 생성·세계 시뮬레이션·태스크 자동화에서 "에이전트의 스케일링 법칙"을 찾는 것이 목표—Evolvability·Scalability·Statefulness·Code-as-Prompt 4원칙
     * 생태계: OWL(실세계 태스크 자동화 워크포스, NeurIPS 2025)·OASIS(100만 에이전트 소셜 시뮬레이션)·SETA·CRAB(크로스 환경 멀티모달 에이전트 벤치마크)·Loong(검증기 기반 장문 CoT 합성)·CAMEL for Agent RL. 100+ 연구자 커뮤니티. Python, Apache-2.0
   * [ChatGee: 카카오톡 AI 챗봇 빌더](https://github.com/woensug-choi/chatgee)
@@ -3413,6 +3414,11 @@ NLP
     * [Cloudflare Clef: Free Open Source AI Decisions in 38ms - Prism Labs - YouTube](https://www.youtube.com/watch?v=MNclmc7hFuo)
     * [Cloudflare 의 조용한 발표, Clef 는 요즘 난리인 Jev 같은 decision model 이다 | Jedi Kim | LinkedIn](https://www.linkedin.com/posts/jedikim_cloudflare-%EC%9D%98-%EC%A1%B0%EC%9A%A9%ED%95%9C-%EB%B0%9C%ED%91%9C-clef-%EB%8A%94-%EC%9A%94%EC%A6%98-%EB%82%9C%EB%A6%AC%EC%9D%B8-jev-%EA%B0%99%EC%9D%80-share-7511672015204859904-0wg2/)
       * 주목하는 이유는 이미지 판단과 엣지 컴퓨팅. 결정 모델은 GPU 연산보다 물리적 거리에 따른 지연이 문제인데, CDN 인프라에 있어 응답이 빠름(Clef-flash 38.8ms < Clef 209.3ms < Jev 524.1ms). Jev는 지역에 따라 전송 지연이 100~300ms 이상 벌어질 만큼 편차가 큼
+    * [Introducing Clef-omni with full multimodality, plus a faster Clef and a cheaper Clef-flash | Cloudflare Blog](https://blog.cloudflare.com/clef-faster-cheaper-multimodal/)
+      * [Meet Cloudflare Clef-omni: A 30B-A3B Multimodal Decision Model for Audio, Video, Image and Text | MarkTechPost](https://www.marktechpost.com/2026/10/11/cloudflare-clef-omni-multimodal-decision-model/)
+      * [Cloudflare Clef-omni 공개: 텍스트·이미지·오디오·영상을 한 번에 판단하는 멀티모달 의사결정 모델 | digitalbourgeois](https://digitalbourgeois.tistory.com/3817)
+      * 2026-10-09 Clef 출시 일주일 만의 후속. Clef-omni는 Qwen3-Omni-30B-A3B-Instruct(MoE) 기반으로 텍스트·이미지·오디오(wav·mp3)·영상(mp4·webm)을 한 번의 호출로 판단—음성 받아쓰기·영상 캡션 같은 중간 파이프라인 없이 prefill 한 번에 모든 선택지를 점수화(TTS 출력부 제거, 백본 고정+LoRA, label-smoothed CE+Brier 보정). 중앙 지연 텍스트 약 130ms·이미지 150ms·소리 있는 21초 영상 약 1.5초, 64k 컨텍스트, Apache-2.0, 입력 100만 토큰당 $0.15
+      * BANKING77·CLINC150 등 의도 분류는 Clef 이상이지만 가전 제어·When2Call·PhishNChips와 TypeSafe 워크플로 평가는 Clef보다 낮음. 함께 Clef-flash 가격을 $0.09→$0.038로 내려 Jev보다 싸게(대신 호스팅 컨텍스트 64k→24k, 요청의 0.24%만 초과), Clef는 SGLang 서빙 전환으로 중앙 지연 1.7~2.0배 단축
     * Cloudflare가 Birthday Week(2026-10-01)에 공개한 Jev API 호환 결정 모델 2종. Clef는 Qwen3.8-27B 기반, Clef-flash는 Qwen3.5-9B 기반이며 Apache-2.0으로 Workers AI 호스팅. Jev와 달리 비전 인코더로 이미지도 분류하고, 컨텍스트는 64k로 Jev의 32k보다 김. 고객이 Clef를 파인튜닝할 수 있는 RL 플랫폼도 함께 공개
     * Jev Decision Index 기준 선두라고 주장. BANKING77·CLINC150·ToolRet은 Clef, BFCL·API-Bank·가전 제어는 Clef-flash가 최고점이고, When2Call·BRIGHT는 Jev, PhishNChips는 DiffusionGemma Jev가 앞섬. 중앙 지연은 Clef-flash 38.8ms, Clef 209ms, Jev 524ms. 사내 위협 인텔리전스 도메인 분류에서 2.2초로 gpt-oss-120b의 4.7초보다 빨랐음
   * [의사결정 모델도 멀티모달로 진화… vLLM·Cloudflare 오픈소스 모델 Decision 3.0, Clef-omni 공개 - AI타임스](https://www.aitimes.com/news/articleView.html?idxno=216213)
@@ -6464,6 +6470,10 @@ NLP
   * "audio tags"로 음성 스타일·속도·전달 방식 제어. 70개+ 언어, 네이티브 멀티 스피커 대화, SynthID 워터마크
 * [GPT-SoVITS: 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)](https://github.com/RVC-Boss/GPT-SoVITS)
   * [이 말투로 TTS를 만들면 어떻게 될까 - YouTube](https://www.youtube.com/watch?v=bYxwtLvFNRI)
+* [Grok Voice 3.0: The world's most intelligent voice model | SpaceXSI](https://x.ai/news/grok-voice-3)
+  * [Grok Voice 3.0: 음성 AI 성능, 벤치마크, 기업 활용 사례 및 가격 분석 | digitalbourgeois](https://digitalbourgeois.tistory.com/3827)
+  * xAI(2026-10-14)의 speech-to-speech 모델. 1초 미만 지연, 이전 세대와 같은 API 가격. Artificial Analysis Speech-to-Speech Index 86.9로 1위(GPT-Live-1 83.2, Gemini 3.8 Live 82.6)—Big Bench Audio 98.5%, Speech Agent Arena Elo 1070, 과제 성공률 94.8%, 끼어들기·발언 전환을 보는 Full Duplex Bench 97%. τ-Voice 71.6%로 GPT-Live-1과 비슷하지만 지연은 40% 낮고 과제당 비용도 더 저렴, ServiceNow EVA-Bench 정확도 74%로 최고
+  * Tesla 차량에서 하루 수백만 건 대화(일정·이메일 확인, Grok Bot으로 커피 주문·식당 예약)와 Grok Bot 음성 모드를 구동. Starlink 콜센터는 하루 2만 건 다국어 통화 중 약 70%를 사람 개입 없이 해결하고 영업 통화 4건 중 1건이 구매로 이어짐. 번역 글은 수치가 xAI 발표·인용 자료이며 독립 검증되지 않았다고 짚음
 * [Handy](https://handy.computer/)
   * [Handy: A free, open source, and extensible speech-to-text application that works completely offline](https://github.com/cjpais/Handy)
   * [음성 입력(Speech to Text) 앱에 돈 쓰지 마세요 | Ryan JS Han](https://www.linkedin.com/posts/ryan-js-han_%EC%9D%8C%EC%84%B1-%EC%9E%85%EB%A0%A5speech-to-text-%EC%95%B1%EC%97%90-%EB%8F%88-%EC%93%B0%EC%A7%80-%EB%A7%88%EC%84%B8%EC%9A%94-%EC%9A%94%EC%A6%98-%EB%8C%80%ED%98%95-ugcPost-7491847981533384704-ZdSc/)
