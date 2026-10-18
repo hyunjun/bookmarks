@@ -3152,6 +3152,10 @@ NLP
       * 2026-09-10. 새 아키텍처 계열의 가장 작은 모델, 네이티브 시각 이해. 552B MoE에 Causal Encoder–Decoder 비대칭 구조로 입력 8B·출력 16B만 활성, 새 사전학습+대규모 RL로 V4-Pro를 포함한 플래그십을 앞서는 벤치마크. 이전 세대 대비 KV 캐시가 HBM 1/4·SSD 1/8—에이전트 비용의 큰 몫인 캐시 히트 요금 절감
     * [DeepSeek's Insane New Architecture | Two Minute Papers - YouTube](https://www.youtube.com/watch?v=vIHw_2VjSUw)
       * 2026-09-18, 5분. V4.1-Flash 논문의 새 아키텍처 소개와 커뮤니티 활용 사례
+    * [DeepSeek-V4.1-Flash-1017 | Hugging Face](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017)
+      * [DeepSeek-V4.1-Flash-1017 - 추론, 코딩, 에이전트 및 시각 벤치마크 성능을 개선한 모델 업데이트 | GeekNews](https://news.hada.io/topic?id=35524)
+      * 2026-10-17 소규모 업데이트—성능을 올리면서 작업 실행 시간과 출력 길이를 줄여 여러 에이전트 하네스에서 성능·비용 파레토 경계 개선. 도구 없는 HLE 36.8→42.6, Terminal-Bench 4.0(Claude Code 하네스) 31.2→42.3, DeepSWE v1.1(Mini-SWE-V2 하네스) 74.2→77.0, ProgramBench 20.3→29.1, Automation-Bench 54.8→60.5, Apex Bench v1.1 64.6→72.1, 시각 Chartography 78.9→83.0. K3·GLM-5.3·GPT-5.6 Sol·Opus 5와 비교해 에이전트 평가 4종은 선두지만 HLE·Terminal-Bench 등은 Opus 5가 더 높음
+      * 1M 컨텍스트, 권장 temperature·top_p 1.0·max_tokens 256K 이상. Jinja 채팅 템플릿 대신 encoding.py 참조 구현과 프로덕션용 Rust 라이브러리 deepseek-recipe(Messages·Chat Completions·Responses 요청을 Conversation 형식으로 변환·인코딩, 사고·도구 호출·이미지 포함 출력 파싱) 제공, 로컬 추론 절차는 inference 폴더. 저장소·가중치 MIT. HN 반응: 벤치마크는 Sol·Gemini보다 낮아도 토큰 속도·TTFT가 좋고 CoT를 공개하며 보안 심사로 갑자기 차단하지 않아 체감이 좋다는 평
     * 20층 Causal Encoder+20층 Decoder 비대칭 구조—Prefill 8B·Decode 16B 활성화, 텍스트+이미지 멀티모달. CSA2가 층마다 반복하던 KV·토큰 선택 계산을 Full/Reindex/Reuse 3모드로 재사용, MoE·Sparse Attention·Engram(메모리 조회) 결합. 토큰당 KV 캐시 V3.2 48,068B→V4-Flash 3,514B→V4.1-Flash 890B로 9개월 만에 약 1/54(100만 토큰 기준 48.1GB→0.89GB)
     * DeepSWE v1.1 74.2(Opus 5 74.0)·Automation-Bench 54.8·CyberGym 88.1·Terminal-Bench 2.1 90.6으로 Opus 5와 경쟁하며 가격은 약 1/17~1/21(캐시 적중 입력 $0.006/M, 비혼잡 시간대·주말 추가 반값)
   * [ds4 (DwarfStar 4): DeepSeek 4 Flash local inference engine for Metal and CUDA | antirez](https://github.com/antirez/ds4)
@@ -5187,6 +5191,8 @@ NLP
     * "낮에는 구정소식지 만들고 밤에는 공공 데이터를 만집니다"—AI가 없는 조문을 지어내서 법령·판례 175,064건을 통째로 물린 국가법령정보 MCP, HWP 파싱의 한을 풀고 3.0부터 AI가 고친 내용을 서식·도장 그대로 HWP로 되돌리는 KorDoc, 윈도우 검색이 못 하는 본문 검색을 1초에 하는 Anything—광진구청 공무원이 만든 도구들 자기소개
   * [Docufinder(Anything): 파일 이름이 아니라 본문으로 찾는 문서 검색기](https://github.com/chrisryugj/Docufinder)
     * HWP·PDF·Office 전문(full-text) 검색을 100% 오프라인으로—내부망에서도 보안 걱정 없이. Windows·macOS. Rust, 653 stars
+  * [fde-wizard: 증명사진 한 장 → 3D 애니메이션. Claude Code가 쓴 Blender Python으로 모델·리그·포즈·애니메이션·영상까지 (치비 마법사 공무원)](https://github.com/chrisryugj/fde-wizard)
+    * 증명사진 한 장을 보고 Claude Code가 Blender Python 약 3,800줄로 만든 치비 마법사 캐릭터 킷(MIT)—모델링(부품 69개)→리깅(뼈 44개, 팔다리 IK·가중치 직접 계산)→포즈 8개→애니메이션·스프링 굽기→16개 장면 렌더→Playwright HTML 캡처로 자막·라벨 합성, 자작 120BPM 음악·효과음, ElevenLabs 내레이션까지 전부 스크립트이고 Blender는 화면 없이 `blender -b`로 실행. params.py의 치수·색·프로필 숫자만 바꾸면 다른 캐릭터가 되고, `ref/photo.jpg`와 PROMPTS.md의 프롬프트로 내 캐릭터 제작. three.js용 GLB 내보내기(동작 6개·포즈 8개)와 웹 데모 제공
   * [kordoc: 한국 문서(HWP/HWPX/PDF)를 마크다운으로 변환하는 파싱 라이브러리](https://github.com/chrisryugj/kordoc)
     * HWP 5.x, HWPX, PDF 자동 감지 파싱, 문서 간 IR-level 비교, 정부 양식 필드 자동 추출, 마크다운→HWPX 생성, OCR 플러그인 지원. Claude·Cursor·Windsurf용 MCP 도구 7개 포함
   * [korean-law-mcp: 대한민국 법률 검색 MCP 서버 및 CLI](https://github.com/chrisryugj/korean-law-mcp)
