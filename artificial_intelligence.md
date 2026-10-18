@@ -5109,6 +5109,10 @@ Artificial Intelligence
     * Tech Bridge. 플레이북 워크플로우 해설—에이전트 인터뷰로 요구사항 수집해 intent.md 생성(Discovery), 설계 명세 자동 생성·거버넌스(Spec), plan.md 수립 후 서브에이전트·git worktree 병렬 개발(Build), TDD·브라우저 E2E·지속적 Evals(Test), 비동기 PR 리뷰와 장애 시 자율 진단·intent 생성(유지보수)
   * [클로드, SDD를 네이티브로? INTENT.md - YouTube](https://www.youtube.com/watch?v=lh2Klr0hcFo)
     * 단테. Claude Code가 스펙 주도 개발(SDD)을 INTENT.md로 네이티브 지원하게 된 변화 해설
+  * [The AI-native SDLC playbook · Claude Academy](https://academy.claude.com/courses/ai-native-sdlc-playbook/introduction)
+    * 14개 레슨 강좌. 계획·설계·빌드·테스트·배포·유지보수 6단계를 전통 SDLC와 AI 네이티브 SDLC 양 끝으로 비교하고, 단계별 비선형 "play"(무엇이 바뀌나·시작법·구현 단계·거버넌스·효과 측정·선행 조건)와 의존 그래프 제공. 선행 조건 없는 첫 play: intent.md로 계획 캡처, plan mode 기본 시작점, CLAUDE.md, 조직 지식으로서의 스킬 등
+  * [Claude Code: The Complete AI-Native SDLC Guide | Eric Tech - YouTube](https://www.youtube.com/watch?v=6CaQ9ZFuuKI)
+    * 전 Amazon·Microsoft 엔지니어의 21분 해설(설명·챕터 기준, 자막은 429로 미확인). Boris Cherny와 Anthropic 팀의 플레이북을 9단계로 따라가며 요구사항을 intent.md·spec.md·plan.md로 바꿔 에이전트에 명확한 작업을 주는 방법, Jest·Vitest·React Testing Library·Playwright가 테스트 워크플로 어디에 들어가는지, 에이전트 eval·코드 리뷰·훅으로 검증, 배포 점검·프로덕션 모니터링 후 새 이슈를 다음 plan으로 되돌리기
   * [AI 네이티브 SDLC - 개발 전 과정을 에이전트에 맞게 재설계하기 | GeekNews](https://news.hada.io/topic?id=34792)
   * Anthropic Applied AI 팀의 AI 네이티브 SDLC 가이드. 코드는 더 이상 병목이 아닌데 승인 게이트·리뷰·핸드오프는 인간 속도 그대로라 병목이 build 좌우(계획·리뷰/테스트·배포)로 이동—라인별 수동 리뷰·주간 위원회 거버넌스가 현실과 불일치. 선형 흐름 대신 AI가 각 지점에 내장된 루프로 재설계, 6단계(Plan→Design→Build→Test→Deploy→Maintain)별 플레이 제공
   * 관통하는 원칙은 "커밋된 아티팩트": 각 단계가 intent.md·spec.md·plan.md·diff+테스트·리뷰 findings·인시던트 기록을 버전 관리에 커밋하고 다음 단계가 그걸 읽음—커밋 체인이 곧 감사 추적. 에이전트 다층 리뷰+훅을 승인 게이트로, 인간 리뷰는 규제·핵심 코드에 집중
@@ -5235,6 +5239,8 @@ Artificial Intelligence
   * 57분—시뮬레이션·설계 리뷰 워크플로에 에이전틱 엔지니어링을 적용하는 실습
 * [Beyond the Hype: What AI Actually Can (and Can't) Do • Jodie Burchell & Michelle Frost • GOTO 2026 - YouTube](https://www.youtube.com/watch?v=p-R7Doigqzc)
   * JetBrains 데이터 사이언스 애드보킷들의 29분 대담—과대광고를 걷어내고 AI가 실제로 할 수 있는 것과 없는 것
+* [Keynote: After the AI Hype – What's Real, and What's Next - Richard Campbell - 2026 | NDC Conferences - YouTube](https://www.youtube.com/watch?v=uWnUnMphmPM)
+  * NDC Copenhagen 2026 기조연설(50분, 설명 기준, 자막은 429로 미확인). AI가 큰 과대광고 사이클 한가운데 있지만 그 아래에서 실제 가치를 내는 혁신도 있다는 관점에서 무엇이 진짜이고 무엇이 과장인지, 지금 성공 사례가 어디서 나오는지, 기회와 과제, 사이클이 끝난 뒤 비즈니스·개발에서 AI를 어떻게 준비할지 다룸
 * [The Architect's Guide to the AI Era • Luca Mezzalira & Teena Idnani • GOTO 2026 - YouTube](https://www.youtube.com/watch?v=RG7XFPPzhZM)
   * AWS 솔루션스 아키텍트 Luca Mezzalira의 34분 대담—AI 시대에 아키텍트의 역할이 어떻게 바뀌는가
 * [개발자들이 먼저 느끼고 있고, 다른 직군도 곧 느끼게될 내용 | Kurt Lee](https://www.linkedin.com/posts/kurt-lee-70010391_%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%93%A4%EC%9D%B4-%EB%A8%BC%EC%A0%80-%EB%8A%90%EB%81%BC%EA%B3%A0-%EC%9E%88%EA%B3%A0-%EB%8B%A4%EB%A5%B8-%EC%A7%81%EA%B5%B0%EB%8F%84-%EA%B3%A7-%EB%8A%90%EB%81%BC%EA%B2%8C%EB%90%A0-%EB%82%B4%EC%9A%A9%EC%9D%84-%EC%A0%95%EB%A6%AC%ED%95%B4%EB%B4%85%EB%8B%88%EB%8B%A4-share-7507254204005007361-vv1Z/)
