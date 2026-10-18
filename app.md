@@ -1938,6 +1938,11 @@ App
   * [awesome-mac:  Now we have become very big, Different from the original idea. Collect premium software in various categories](https://github.com/jaywcjlove/awesome-mac)
 * [awesome-macOS:  A curated list of awesome applications, softwares, tools and shiny things for macOS.](https://github.com/iCHAIT/awesome-macOS)
 * [Backgroundifier - Turn your collection of oddly-sized images into beautiful desktop backgrounds!](http://backgroundifier.archagon.net/)
+* [BatiFlow — Automate KakaoTalk, Slack & iMessage on Mac](https://flow.bati.ai/)
+  * [batiflow-releases: BatiFlow — macOS 메신저 자동화 도구 (다운로드)](https://github.com/batiai/batiflow-releases)
+  * [카카오톡, Slack, iMessage — API 없이 자동 발송이 가능한 macOS 앱을 무료로 배포합니다 | 류장근 | LinkedIn](https://www.linkedin.com/posts/jkryu_batiflow-tcutcusnytsbsuyrbvupi-macos-ugcPost-7442481922854993920-jJqv)
+  * 바티(Bati AI) 팀의 무료 네이티브 macOS 앱(3MB 미만). 일반 채팅용 API가 없는 카카오톡도 macOS Accessibility API로 앱을 직접 조작해 연락처 이름으로 발송—Claude Code·Cursor 작업이 끝난 뒤 "김 대표님께 카톡으로 이번 수정 완료 사항 정리해서 보내줘" 한 줄이면 5초 뒤 전송. Slack·iMessage·Chrome 자동화, 캘린더·메모·미리 알림·메일·Finder 등 49+ 도구, 예약 워크플로, Claude Code·Cursor용 MCP 서버(21개 도구), 100% 로컬 처리
+  * 최근 버전은 로컬 오픈소스 모델 실행, 폴더 대상 로컬 RAG 검색(한글 파일명 지원), LinkedIn·Threads·X·Medium 글을 마크다운으로 보관하는 Web Scrap과 지식 그래프를 추가
 * [cactusformac.com](http://cactusformac.com/)
 * Calculator
   * [NaSC](https://parnold-x.github.io/nasc/)
