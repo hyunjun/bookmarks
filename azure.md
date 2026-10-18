@@ -260,6 +260,11 @@ Azure
   * [ChaosDB: How We Hacked Databases of Thousands of Azure Customers (rev) - YouTube](https://www.youtube.com/watch?v=QiJAxo30w6U)
 
 # Library
+* [adaptive-apps: Apps that adaptive to different hosting environments like Azure, Azure Arc and K8s | Microsoft](https://github.com/microsoft/adaptive-apps)
+  * [Build portable applications with adaptive apps | Azure Architecture Center](https://learn.microsoft.com/azure/architecture/solution-ideas/articles/adaptive-apps)
+  * [Develop Portable Apps with Adaptive Applications | Azure Essentials Show - YouTube](https://www.youtube.com/watch?v=fkrYQ7PBANk)
+    * 14분(2026-10-15, 설명·챕터 기준, 자막은 429로 미확인). Aaron Stark와 Microsoft 수석 소프트웨어 아키텍트 Haishi Bai의 대화—capability 기반 추상화로 애플리케이션 코드를 인프라·서비스에서 분리해 한 번 만들어 Azure·소버린·엣지·온프레미스에서 실행, 주권·컴플라이언스·데이터 거주·업무 연속성·하이브리드 요구를 다루고 AI·데이터·ID를 추상화해 클라우드 서비스와 로컬 모델을 코드 변경 없이 전환, Azure Arc로 환경 이동, 기존 앱 현대화
+  * "Build once, adapt everywhere"—퍼블릭 클라우드·프라이빗·소버린·자원 제약 엣지를 오가야 하는 앱이 특정 플랫폼 서비스·API에 묶여 재설계가 필요해지는 문제에, 앱의 의도·프로그래밍 모델을 환경별 capability 구현에서 분리해 명시적 capability 계약을 대상으로 삼게 함(Rust, MIT). 4계층: 플랫폼 무관 애플리케이션 모델(Radius—리소스 타입마다 환경별 레시피, AI 에이전트 같은 새 리소스 타입 확장), 선택적 프로그래밍 모델(Dapr 사이드카로 상태·메시징·pub/sub 포터블 API), 플랫폼 포트폴리오, AI 기반 현대화 도구. Azure Arc와 결합해 브라운필드 앱 현대화와 AI 네이티브 에이전트·기존 마이크로서비스 공존을 노림
 * [Agent-Skills: Curated Agent Skills for Microsoft & Azure – giving AI coding assistants structured, real-time expertise | MicrosoftDocs](https://github.com/MicrosoftDocs/Agent-Skills)
   * Microsoft Learn 팀이 큐레이션하는 공식 Agent Skills 모음—AI 코딩 어시스턴트에 Microsoft·Azure 서비스의 구조화된 최신 지식을 스킬 형태로 제공. CC-BY-4.0, 762 stars
 * [azure-functions-deno-worker - Run Deno on Azure Functions](https://github.com/anthonychu/azure-functions-deno-worker)
