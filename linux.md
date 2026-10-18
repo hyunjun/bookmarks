@@ -1466,6 +1466,8 @@ Linux
   * kondo(오래된 프로젝트의 빌드 산출물·node_modules 용량 확인 후 정리)
   * Worktrunk(Git worktree 생성·전환·삭제, Claude Code 병렬 브랜치 작업에 유용)
   * yq(YAML·JSON·XML·CSV·TOML 조회·수정·병합·변환)
+* [I Tried Everything. This is the Best Terminal Setup | DevOps Toolbox - YouTube](https://www.youtube.com/watch?v=QpiZOKul1U8)
+  * 끝없이 바꿔 쓰며 살아남아 일상 워크플로가 된 무료·오픈소스 터미널 도구·플러그인·설정을 챕터별로 소개하는 21분 영상(설명·챕터 기준, 자막은 429·스크립트 패널 로딩 실패로 미확인)—터미널, 터미널 멀티플렉서, workmux(git worktree+tmux 창 병렬 개발), 셸, 코딩 에이전트, 터미널 내비게이션, 명령 기록, 프롬프트, IDE, 파일 탐색기, 개발 환경 구성
 * [123elf: A native port of Lotus 1-2-3 to Linux](https://github.com/taviso/123elf)
   * [Lotus 1-2-3 For Linux](https://lock.cmpxchg8b.com/linux123.html)
 * [aaPanel: Simple but Powerful web-based Control Panel](https://github.com/aaPanel/aaPanel)
