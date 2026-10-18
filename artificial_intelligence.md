@@ -1010,6 +1010,8 @@ Artificial Intelligence
   * Harman Singh·Anton Bakhtin·Jason Weston·Rob Fergus·Sanjeev Arora·Kurt Keutzer·Anirudh Goyal 외(Meta FAIR 등). 기존 평가는 고정 시점의 능력만 측정하고 "얼마나 잘 배우는가"는 보지 않는다는 문제의식—에이전트가 과거 경험을 재사용 가능한 아티팩트로 상각(amortize)해 다음 인스턴스가 상속하는 통제된 설정에서, 체크포인트마다 학습 비용을 감안해 훈련·홀드아웃 성능을 측정
   * 핵심 지표 agent plasticity(가소성): 경험을 미래 홀드아웃 성능 향상으로 바꾸는 효율. 같은 학습 기회에도 프론티어 모델들의 개선 궤적이 크게 갈림—큰 지속적 향상을 얻는 모델과 초기 성능 근처 또는 그 아래에 머무는 모델, 훈련 영역 내 향상이 분포 외 조건으로는 부분적으로만 전이. 최종 능력과 획득 효율도 어긋남: 최종 1위가 가장 효율적으로 배운 에이전트는 아님
   * 개선 루프의 실패 추적으로 병목 후보 분리—가소성 낮은 에이전트는 관련 아티팩트를 재사용하지 못하고, 가소성 높은 에이전트는 재사용하고도 실패(아티팩트 품질·일반화·적용의 한계). 자기개선 에이전트 평가는 "무엇을 할 수 있나"뿐 아니라 "경험을 통해 얼마나 효과적으로 나아지나"를 측정해야 한다는 결론
+* [3dcodeverse: Official Codebase of 3DCodeVerse — Exploring 3D Worlds as Code | gaoypeng](https://github.com/gaoypeng/3dcodeverse)
+  * 코딩 에이전트가 편집·검증 가능한 3D 콘텐츠를 대규모로 만드는 연구 생태계(USC·Yale·Rochester·UCSD·Columbia·Google DeepMind 등)—모든 에셋을 Blender Python·Three.js·OpenGL 등 코드만으로 생성. 정적 객체·관절 에셋·장면·그래픽스에 걸친 약 200만 개의 독립 실행 가능 3D 프로그램 말뭉치 3DCodeVerse-2M(소스·에셋·설명·검증 기록 포함)과, 3D 프로젝트를 계획하고 벤더 코딩 에이전트가 원시 코드로 작성한 뒤 실행·측정·검증하는 DAG 구조 멀티 에이전트 코딩 하네스. Python, Apache-2.0
 * [500-AI-Agents-Projects: The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more](https://github.com/ashishpatel26/500-AI-Agents-Projects) 다양한 산업 분야의 AI 에이전트 활용 사례를 선별하여 모은 컬렉션
   * [500+ AI Agent Projects & Use Cases — 웹 카탈로그](https://ashishpatel26.github.io/500-AI-Agents-Projects/)
 * [agentacct: See what your coding agents did and what it cost](https://github.com/mikehasa/agentacct)
@@ -1866,6 +1868,9 @@ Artificial Intelligence
   * [qm](https://github.com/yc-software/qm)
   * YC의 멀티플레이어 에이전트 하네스. 여러 사람과 에이전트가 함께 작업하는 협업 환경. TypeScript, MIT, 5.5k stars
 * [Qoder - The Agentic Coding Platform](https://qoder.com/)
+* [Quicksand — Full Linux VMs from Python | Microsoft](https://microsoft.github.io/quicksand/)
+  * [quicksand: Quickly sandbox your AI agent | microsoft](https://github.com/microsoft/quicksand)
+  * AI 에이전트 샌드박싱에 초점을 둔 비동기 Python API로 QEMU 가상 머신을 띄우고·제어하고·스냅숏—root·Docker·클라우드 없이 일반 사용자 프로세스로 하이퍼바이저 수준 격리, 약 2초 부팅. VM 안에서 셸 명령 실행(stdout·stderr·종료 코드), 위험한 작업 전 체크포인트와 실패 시 롤백·디스크 저장 후 재개, 그래픽 데스크톱의 스크린숏·타이핑·클릭·마우스 이동, 기본 네트워크 격리(인터넷·포트 포워딩은 옵트인, 0.14부터 양방향 포워딩), 호스트 디렉터리 마운트(CIFS·9p), 게스트 OS 사용자·stdin 스트리밍. Ubuntu·Alpine 이미지, x86_64·ARM64, macOS·Linux·Windows 하드웨어 가속. `pip install 'quick-sandbox[qemu,alpine]'`. MIT
 * [Qwen-Agent: Agent framework and applications built on Qwen](https://github.com/QwenLM/Qwen-Agent)
   * [Qwen-Agent | GeekNews](https://news.hada.io/topic?id=27367)
 * [Qwen-MM-Plugins: Make any agent harness multimodal-native](https://github.com/QwenLM/Qwen-MM-Plugins)
@@ -2580,6 +2585,9 @@ Artificial Intelligence
 * [Trampoline.ai — Production-hardened agentic workflow management](https://www.trampoline.ai/)
   * [predict-rlm: Production focused Self-harnessed LM runtime (RLM) that allows the LM to call its sub-lm with DSPy signatures](https://github.com/Trampoline-AI/predict-rlm)
   * 자기-하네스(self-harnessed) LM 런타임. 입력·출력·도구만 정의하면 모델이 스스로 제어 흐름 처리, Stanford DSPy 기반. context rot 없이 완전 해석 가능한 trajectory + 모델 개선에 직접 비례하는 성능. 모델 무관. MIT
+* [TrueForge: The open-source agent harness - the runtime layer that turns an LLM into a working agent | truefoundry](https://github.com/truefoundry/trueforge)
+  * [TrueForge란? LLM 기반 AI 에이전트 실행 환경의 주요 기능과 아키텍처 살펴보기 | digitalbourgeois](https://digitalbourgeois.tistory.com/3821)
+  * "에이전트를 만드는 건 쉽지만 잘 돌리는 건 어렵다"—모델 호출·MCP 도구·스킬·샌드박스·승인·컨텍스트 관리·세션 상태 같은 에이전트 실행 루프를 대신 돌려 주고 채팅 UI·HTTP API+TypeScript SDK·임베드 가능한 UI SDK 세 방식으로 노출. 모델·MCP 서버·스킬·샌드박스를 YAML 카탈로그에서 한 번 설정하면 에이전트가 골라 쓰고, OpenAI·Anthropic·Gemini·OpenAI 호환 엔드포인트, 헤더 인증·OAuth(채팅 내 인가) 원격 MCP, git 기반 `SKILL.md`의 샌드박스 내 온디맨드 로딩, 도구로서의 격리 샌드박스, 서브에이전트·지연 로딩·대규모 결과 처리·컨텍스트 압축. TypeScript, MIT, 6.3k stars
 * [Unreal Agent — Unreal Labs](https://unreallabs.ai/blog/unreal-agent/)
   * [Unreal Agent - 비동기 도구 실행으로 비용을 줄이는 에이전트 하네스 | GeekNews](https://news.hada.io/topic?id=34163)
   * 에이전트가 도구 호출의 대기·폴링·하트비트를 관리하느라 시간과 토큰을 많이 쓴다는 관찰에서 출발—도구 호출을 완전 비동기로 처리하는 하네스. 도구 호출 즉시 "in-progress" 이벤트를 로그에 기록하고 백그라운드로 실행, 완료 시 결과를 세션 로그에 붙여 LLM 호출. 사용자는 도구 완료를 기다리지 않고 언제든 스티어링 가능, 모델 호출 사이에 더 많은 도구 작업을 스케줄해 더 적은 턴·입력 토큰으로 같은 결과(GPT-6 Astra xhigh에서 최대 40% 비용 절감, 품질-비용 파레토 프런티어)
