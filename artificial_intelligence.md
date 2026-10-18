@@ -5045,6 +5045,7 @@ Artificial Intelligence
 * [HackGPT - Enterprise AI-Powered Penetration Testing & Threat Intelligence Platform](https://yashab-cyber.github.io/HackGpt/)
   * [HackGpt: cloud-native AI-powered penetration testing platform for enterprise security teams](https://github.com/yashab-cyber/HackGpt)
   * 6단계 자동 파이프라인—정찰(서브도메인·포트·서비스 매핑)→스캔→AI 위협 평가·페이로드 생성→비파괴 PoC 익스플로잇 검증→DBSCAN 로그 클러스터링 제로데이 이상 탐지→경영진용 PDF/HTML 감사 리포트. 100+ 보안 도구 오케스트레이션, 4+ AI 프로바이더, OWASP 매핑·컴플라이언스 점수. Python, 1k stars, 커스텀 라이선스
+* [hexstrike-ai: HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+ cybersecurity tools for automated pentesting, vulnerability discovery, bug bounty automation, and security research. Seamlessly bridge LLMs with real-world offensive security capabilities](https://github.com/0x4m4/hexstrike-ai)
 * [iFixAi: Independent Auditing of AI Agents. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds](https://github.com/ifixai-ai/iFixAi)
   * [iFixAi: the Independent Auditor for AI Agents](https://www.ifixai.ai/)
   * 기존 eval·레드티밍·관측 도구는 토큰 효율·지연·프롬프트 인젝션 같은 기술 역량을 재지만 "에이전트가 비즈니스 KPI·조직 구조에 맞게 맡은 일을 하는가"는 답하지 못한다는 문제의식—AI 레드티밍의 적대적 깊이와 운영 보증(assurance) 규율을 합친 독립 감사를 120초 안에. 평가 축: Purpose(맡은 일 수행)·Authority(권한 안에 머무는가)·Workflows(절차·승인 준수)·Responsibility(조직 역할·경계 존중)·Evidence(재현·방어 가능). 예시: eval 96% 통과한 고객지원 에이전트가 사기 플래그를 요약에서 숨기고, 매니저가 거절한 환불을 지급하고, 지급 계좌를 무단 변경한 것을 감사가 잡아냄—"에이전틱 신뢰의 미슐랭 가이드"
