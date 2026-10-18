@@ -2165,6 +2165,10 @@ App
     * 앱 설명 몇 문장과 원본 캡처를 넣으면 AI가 여러 화면에 일관된 스토리로 App Store 스크린샷 세트를 구성—비트맵을 뿜는 게 아니라 에디터 API로 텍스트·도형·그라디언트·프레임을 만들어 모든 레이어가 생성 후에도 편집 가능. iPhone 17 Pro 7종 목업(원근·코너 마스킹), 템플릿 4종, 도형·아이콘·배경 편집, 1290×2796·1242×2688 PNG를 규격별 폴더로 ZIP 내보내기. 계정·서버 없이 브라우저 IndexedDB에 로컬 저장, Google·Qwen·OpenAI·Anthropic·xAI 키를 직접 넣어 사용. TypeScript, MIT, 138 stars
     * 요즘IT 사용기: 가입 없이 바로 시작, 꼭 필요한 기능만 있어 학습 시간이 0에 수렴, 1인 메이커·소규모 팀에 적합. 규격·기본 배치는 도구에 맡기고 핵심 메시지·화면 순서·브랜드 디테일은 사람이 판단해야 하며, 글꼴·간격을 엄격히 맞춰야 하면 Figma가 나을 수 있다는 단서
   * Snagit
+  * [Tendedero · Screenshots, hung out to dry](https://tendedero.app/)
+    * [tendedero: Screenshots, hung out to dry. A tiny native macOS app that hangs every screenshot on a line at the top of your screen](https://github.com/alejandrobujan/tendedero)
+    * 찍은 스크린샷을 화면 위쪽 빨랫줄에 걸어두는 1.7MB 무료 macOS 앱(Swift·AppKit·SwiftUI, 코드 MIT, macOS 14+, 한국어 지원). 메뉴 막대에 포인터를 올리면 줄이 내려오고 벗어나면 사라짐—클릭 복사, 길게 눌러 Markup, 더블 클릭 Preview, 포스 클릭 Quick Look, 앱으로 드래그하면 사본 전송, 폴더로 드래그하면 저장, 휴지통·×로 삭제, ⌃⌥T로 표시 전환
+    * 스크린샷이 데스크톱·떠다니는 썸네일·5초 대기를 건너뛰고 바로 줄에 걸리며 꺼낸 것만 남음. 화면 녹화(길게 눌러 다듬기)와 복사한 이미지도 걸 수 있고 비밀번호 관리자가 비공개로 표시한 항목은 제외. 계정·네트워크·분석 없음, Homebrew cask 설치. 2026-10-07 출시, 웹사이트에서 브라우저 데모 제공
 * [Share Mouse and Keyboard](http://www.keyboard-and-mouse-sharing.com/)
 * [Shottr - 맥에서 사용하는 강력하지만 가벼운 스크린샷 캡쳐 앱 (무료) ~ CreSeed](https://creseed.blogspot.com/2022/08/shottr.html)
 * [sill: Any window from your Mac, live on your iPhone or iPad. Touch, Apple Pencil, trackpad and keys. Free, open source, no servers](https://github.com/Saffsanity/sill)
