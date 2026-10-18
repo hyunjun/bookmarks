@@ -480,6 +480,9 @@ Vision
   * 모델에 구애받지 않는 재사용 가능 컴퓨터 비전 도구 모음(`pip install supervision`, Python 3.9+)—데이터셋 로딩, 이미지·영상에 검출 결과 그리기, 존(zone) 안 검출 개수 세기 등. 분류·검출·세그멘테이션 모델을 커넥터로 바로 연결. MIT, 51.2k stars
 * [Tencent ML Images released: 18 million training images with 11,000 categories](https://www.techleer.com/articles/573-tencent-ml-images-released-18-million-training-images-with-11000-categories/)
 * [TiefVision - End-to-end deep learning image-similarity search engine](https://github.com/paucarre/tiefvision)
+* [Ultralytics Inference for Rust | Ultralytics Docs](https://docs.ultralytics.com/inference)
+  * [inference: High-performance Ultralytics YOLO inference in Rust with ONNX Runtime, GPU backends, CLI, and WebGPU/WASM | ultralytics](https://github.com/ultralytics/inference)
+  * 내보낸 ONNX 모델을 ONNX Runtime으로 돌려 이미지·영상·웹캠·스트림에서 빠르고 메모리 안전한 예측을 하는 Rust YOLO 추론 라이브러리·CLI—추론 시 Python 런타임 불필요, 인터프리터 없는 네이티브 바이너리라 서버·컨테이너·엣지에 적합. 단일 크레이트를 CLI(빠른 예측·배치)나 라이브러리(Rust 앱 내장)로 사용, 모든 Ultralytics 태스크와 통일된 디바이스 인터페이스의 다양한 하드웨어 백엔드, 같은 레포에서 브라우저용 WebGPU/WASM npm 패키지. AGPL-3.0
 * [unblink: Camera monitoring with VLM | zapdos-labs](https://github.com/zapdos-labs/unblink)
   * VLM 기반 카메라 모니터링 앱(Unblink V2). Qwen3-VL로 프레임 분석·요약, 카메라 피드와 자연어 채팅, 녹화 프레임 자연어 검색. 로컬 노드(`unblink-node`, Linux·Windows 바이너리 또는 `go install`)가 공개 릴레이 서버에 접속하는 relay-node 구조로 실시간 영상 처리. Go, AGPL-3.0, 1.5k stars
 * [vatic is a free, online, interactive video annotation tool for computer vision research that crowdsources work to Amazon's Mechanical Turk](http://web.mit.edu/vondrick/vatic/)
