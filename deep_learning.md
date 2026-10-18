@@ -3202,6 +3202,10 @@ CVPR2016)
   * [Make-A-Video : Text-To-Video Generation Without Text-Video Data :: Ostin](https://ostin.tistory.com/130)
 * [Meta Movie Gen](https://ai.meta.com/research/movie-gen/)
   * [🎬Movie Gen: 메타의 차세대 미디어 생성 AI 모델🤖](https://fornewchallenge.tistory.com/entry/%F0%9F%8E%ACMovie-Gen-%EB%A9%94%ED%83%80%EC%9D%98-%EC%B0%A8%EC%84%B8%EB%8C%80-%EB%AF%B8%EB%94%94%EC%96%B4-%EC%83%9D%EC%84%B1-AI-%EB%AA%A8%EB%8D%B8%F0%9F%A4%96)
+* [MoCha: End-to-End Video Character Replacement without Structural Guidance](https://github.com/Orange-3DV-Team/MoCha)
+  * [2601.08587 MoCha: End-to-End Video Character Replacement without Structural Guidance](https://arxiv.org/abs/2601.08587)
+  * [MoCha project page](https://orange-3dv-team.github.io/MoCha)
+  * CVPR 2026(Orange 3DV Team). 영상 속 캐릭터를 사용자가 준 캐릭터로 바꾸는 과제에서, 프레임별 마스크와 포즈·깊이 같은 구조 가이드에 의존하던 기존 재구성 방식은 가림·희귀 포즈·사물 상호작용·복잡한 조명에서 아티팩트와 시간적 불연속이 생김—MoCha는 첫 프레임 마스크 하나만 받고 여러 조건을 단일 토큰 스트림으로 통합해 캐릭터를 다시 렌더링. condition-aware RoPE로 다중 참조 이미지와 가변 길이 영상 지원, 짝지어진 학습 영상 부족은 자체 데이터 합성 파이프라인으로 해결. 추론 코드 공개, kijai의 ComfyUI-WanVideoWrapper 노드에 포함
 * [Open Generative AI — Free AI Image & Video Studio | Muapi](https://muapi.ai/open-generative-ai)
   * [Open-Generative-AI: Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation | Anil-matcha](https://github.com/Anil-matcha/Open-Generative-AI)
   * 계정 없이 Flux·Kling·Veo·Seedance 등 200+ 모델로 이미지·영상 생성하는 오픈소스 스튜디오. JavaScript, MIT, 29.4k stars
