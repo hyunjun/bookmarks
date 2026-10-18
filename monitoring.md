@@ -412,6 +412,11 @@ Monitoring
   * [오픈소스를 이용한 다중 k8s 클러스터 환경의 Node/POD 리소스 사용량과 로그 모니터링 | by allen | Aug, 2022 | Medium](https://medium.com/@clymeneallen/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EB%8B%A4%EC%A4%91-k8s-%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0-%ED%99%98%EA%B2%BD%EC%9D%98-node-pod-%EB%A6%AC%EC%86%8C%EC%8A%A4-%EC%82%AC%EC%9A%A9%EB%9F%89%EA%B3%BC-%EB%A1%9C%EA%B7%B8-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81-96f5c80cfde3)
   * [Best practice, k8s Node/POD resource usage and log monitoring system for multi-k8s cluster environment using Open source | by allen | Aug, 2022 | Medium](https://medium.com/@clymeneallen/best-practice-k8s-node-pod-resource-usage-and-log-monitoring-system-for-multi-k8s-cluster-3f2e5c2c401a)
   * [CLYMENE-PROJECT 시연 영상 - YouTube](https://www.youtube.com/watch?v=TqFXVlbBOGQ)
+* [deepflow: eBPF Observability - Distributed Tracing and Profiling](https://github.com/deepflowio/deepflow)
+  * [DeepFlow Insight｜业务交易可观测平台](https://deepflow.io/)
+  * [DeepFlow란 무엇인가? eBPF 기반 코드 수정 없는 풀스택 관측성 플랫폼 | digitalbourgeois](https://digitalbourgeois.tistory.com/3824)
+  * 클라우드 네이티브·AI 애플리케이션용 오픈소스 관측성 플랫폼(Go, Apache-2.0). eBPF로 코드 수정 없이 메트릭·분산 추적·요청 로그·함수 프로파일링을 수집하고 SmartEncoding으로 풀스택 연관—Universal Map(언어 무관 서비스·AI·인프라 관계도와 골든 시그널, 사설 프로토콜은 Wasm 플러그인), 게이트웨이·서비스 메시·DB·메시지 큐·DNS·NIC까지 계측 없는 분산 추적(Span마다 네트워크 지표·파일 I/O 이벤트)
+  * 1% 미만 비용의 지속적 프로파일링(OnCPU·OffCPU·GPU·메모리·네트워크 플레임 그래프, 커널·CUDA 함수까지, 추적 데이터와 자동 연결). Prometheus·OpenTelemetry·SkyWalking·Pyroscope의 저장 백엔드 역할과 SQL·PromQL·OTLP API, 클라우드 리소스·K8s 라벨·CMDB 메타 태그 주입. SmartEncoding으로 ClickHouse String·LowCard 대비 저장 오버헤드 10배 절감
 * [honeycomb-opentelemetry-web: Honeycomb's Distro for OpenTelemetry in the browser](https://github.com/honeycombio/honeycomb-opentelemetry-web)
   * [Introducing Honeycomb for Frontend Observability | Honeycomb](https://www.honeycomb.io/blog/introducing-honeycomb-for-frontend-observability)
     * 옵저버빌리티 서비스를 제공하는 Honeycob에서 프론트엔드를 위한 옵저버빌리티의 얼리 엑세스 프로그램 발표
