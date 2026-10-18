@@ -4039,6 +4039,9 @@ Programming
 * [One second code: Do YOU know how much your computer can do in a second?](http://computers-are-fast.github.io/)
 * [Benchmarking low-level I/O: C, C++, Rust, Golang, Java, Python | by Eugene Retunsky | Star Gazers | Medium](https://medium.com/star-gazers/benchmarking-low-level-i-o-c-c-rust-golang-java-python-9a0d505f85f7)
 * [Go vs C vs Java vs JavaScript vs Python Speed Comparison | Dr Vipin Classes - YouTube](https://www.youtube.com/watch?v=lvMdHf37hJI)
+* [Which Programming Language Can Handle the Most Users on a $12 Server? | Arjay McCandless - YouTube](https://www.youtube.com/watch?v=sQXFhh_PiG4)
+  * 같은 API·같은 Postgres·같은 Nginx·같은 12달러 서버에서 백엔드만 Node·Bun·Python·Go·Java·Rust·C#·PHP 8가지로 다시 만들어, 수천 명의 가상 사용자를 몰아 넣고 각각 무너질 때까지 부하 테스트한 실험(설명·챕터 기준, 자막은 429로 미확인)
+  * 공정한 비교 조건 설정, PHP는 Laravel·Laravel Octane·순수 PHP로 나눠 측정, 언어별 리더보드, Postgres 대신 SQLite로 바꿨을 때의 결과와 배운 점까지 다룸
 
 # Book
 * [My Top 100 Programming, Computer and Science Books: Part One](http://www.catonmat.net/blog/top-100-books-part-one/)
