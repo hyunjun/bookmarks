@@ -1746,6 +1746,10 @@ Docker
 * [run-ai: NVIDIA Run:ai is the AI workload orchestration platform for Kubernetes | dsx-ai-factory](https://github.com/dsx-ai-factory/run-ai)
   * [NVIDIA Run:ai Self-Hosted Product Documentation](https://docs.nvidia.com/run-ai/self-hosted/documentation/home)
   * [NVIDIA Run:ai - 여러 팀이 GPU를 나눠 쓰도록 관리하는 Kubernetes 기반 플랫폼 | GeekNews](https://news.hada.io/topic?id=35507)
+  * [NVIDIA Run:ai Is Now Open Source as Part of NVIDIA DSX AI Factory Platform | NVIDIA Technical Blog](https://developer.nvidia.com/blog/nvidia-runai-is-now-open-source-as-part-of-nvidia-dsx-ai-factory-platform/)
+    * [NVIDIA Run:ai 오픈소스 공개: GPU 오케스트레이션과 AI 인프라 운영의 변화 | digitalbourgeois](https://digitalbourgeois.tistory.com/3825)
+    * 2026-10-13 공식 발표. 전체 플랫폼과 함께 따로 도입할 수 있는 4개 구성요소 공개—KAI Scheduler(GPU 인식 K8s 스케줄링), GPU Fractioning Operator(CUDA 네이티브 GPU 분할), KAI Resource Management(부서·프로젝트·할당량·노드 풀 계층), Workload Map(여러 K8s 워크로드 유형을 일관되게 다루는 계약). 관련 오픈소스로 모델 로딩 가속 Model Streamer, 다중 컴포넌트 추론 오케스트레이션 Grove
+    * 직접 배포(GitHub 소스, NGC 커뮤니티 제품 Helm 차트—유료 구독 불필요하지만 엔터프라이즈 지원 없음) 또는 DSX 파트너 제품으로 도입. Crusoe·Mirantis·Nebius·OpenNebula Systems·Rafay·Saturn Cloud·Spectro Cloud·vCluster 8곳이 통합 중. 번역 글은 성능 수치·파트너 사례가 NVIDIA 발표 기반이며 독립 검증되지 않았다고 짚음
   * NVIDIA가 오픈소스로 공개한 AI 워크로드·GPU 오케스트레이션 플랫폼(2026-10). 여러 팀이 공유하는 GPU 인프라에서 개발 워크스페이스·단일/분산 학습·추론 서비스를 배치하고 자원을 배분—GPU 하나를 여러 작업에 분할(fractional), 유휴 자원 동적 활용, fair-share·선점·회수·우선순위·GPU 토폴로지 인식 스케줄링, 부서·프로젝트별 할당량과 정책으로 독점 방지
   * 구조: 컨트롤 플레인(중앙 자원 관리·워크로드 제출·모니터링·분석, 여러 클러스터 연결)+클러스터 서비스(각 K8s 클러스터에서 네이티브 스케줄링을 GPU 인식 기능으로 확장). 온프레미스·클라우드·하이브리드, Kubernetes/OpenShift 자체 설치·폐쇄망 배포, Kubeflow·Ray·KServe 연동, 웹 UI·CLI·REST API에 MCP 서버로 AI 어시스턴트에서도 조작, 역할별 접근 제어·GPU/노드/작업별 사용량 모니터링. 모노레포에 컨트롤 플레인·오퍼레이터/컨트롤러·설치기·CLI·MCP 서버·로컬 개발 환경 포함. 오픈소스판은 NGC 인증 없이 설치 가능. Go, Apache-2.0
 * [Kubernetes K8s Article - YouTube](https://www.youtube.com/watch?v=rld_y56Q09I)
