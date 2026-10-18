@@ -792,6 +792,10 @@ Artificial Intelligence
   * [AI 에이전트 평가: 효과적인 측정, 편향 극복 및 성능 개선 전략 | PyData Tel Aviv 2025](https://livewiki.com/ko/content/ai-agent-evaluation-2)
 * [AI 에이전트 평가, 결과만 보면 놓치는 이유: Trajectory Evaluation의 중요성 | digitalbourgeois](https://digitalbourgeois.tistory.com/3435)
   * 자율형 AI 에이전트는 하나의 요청을 처리하며 추론·API 호출·검색·상태 갱신 등 여러 내부 단계를 거치므로, 최종 응답(Final Response)만 봐서는 품질·신뢰성을 평가할 수 없다. 보이지 않는 실행 경로 전체를 평가하는 Trajectory Evaluation의 필요성
+* [How to design Reliable Agents? | Agent Reliability | Ayush Singh - YouTube](https://www.youtube.com/watch?v=alWnbEqpWks)
+  * [CAR-bench: Evaluating the Consistency and Limit-Awareness of LLM Agents under Real-World Uncertainty | ACL 2026](https://aclanthology.org/2026.acl-long.1886.pdf)
+    * 차량용 음성 비서 도메인의 멀티턴·도구 사용 에이전트 벤치마크—LLM 시뮬레이션 사용자, 도메인 정책, 내비게이션·생산성·충전·차량 제어 58개 연결된 도구. 일반 과제 외에 도구·정보가 없을 때 한계를 아는지 보는 Hallucination 과제, 질문이나 내부 정보 수집으로 모호함을 풀어야 하는 Disambiguation 과제를 둠. 가끔 성공과 일관된 성공의 격차가 크고, 최신 추론 LLM도 성급한 행동 때문에 Disambiguation 통과율 50% 미만, Hallucination 과제에선 정책 위반·정보 날조가 잦음
+  * 선루프를 특정 퍼센트로 열거나 비가 올 때 반응하는 등 복잡한 요청을 처리하는 차량 제어 음성 비서를 만들며 에이전트 신뢰성을 설계하는 27분 영상(설명 기준, 자막은 429로 미확인)—여러 조건에서 작업을 추적하는 상태 관리, 도구 실행 메커니즘과 실시간으로 도구 호출을 검증하는 방법을 다루고 CAR-bench 논문을 참고 자료로 제시
 * [에이전틱AI 구조 패턴 - Assiworks Claude LangGraph CrewAI 등](https://aifactory.space/page/langchainkr/forum/discussion/4589)
 * [사용자의 목소리를 AI로 재현하다: LLM기반 Multi Agent UX플랫폼 개발기 - YouTube](https://www.youtube.com/watch?v=0i4NRU-GIvo)
   * [DAN25 | TEAM NAVER CONFERENCE](https://dan.naver.com/25/sessions/699)
@@ -943,6 +947,9 @@ Artificial Intelligence
   * 창발적 협업: 신참이 막다른 길을 반복하지 않게 공유 지식 베이스(레버 맵·플레이북·유의성 도구) 유지, int4 lm_head 체크포인트를 만든 쪽·실행하다 로드 실패한 쪽·설정 버그(tie_word_embeddings+ignore-list 순서)를 진단한 쪽·재실행해 118 TPS(2.68×)를 낸 쪽으로 나뉜 4-에이전트 릴레이, 연산이 부족한 에이전트는 명세·바이트 계산을 쓰고 GPU가 넉넉한 쪽이 실행하는 분업, 다른 에이전트의 fused drafter에서 Triton store/load aliasing race를 찾아 고친 교차 커널 디버깅, 할당량 있는 쪽이 대신 돌리고 원작자를 크레딧하는 quota pooling 규범
 * [Building Durable Deep Research Agents | Workshop | Samuel Colvin | Pydantic - YouTube](https://www.youtube.com/watch?v=oBqPCCKGb0k)
   * AI by the Bay 2025 워크숍(2시간 25분), Pydantic 창업자 Samuel Colvin. 단순 LLM 호출은 괜찮지만 장시간 워크플로의 복잡한 시스템은 실패가 잦다는 문제의식으로 PydanticAI+Temporal(내구성 있는 실행)+Pydantic Logfire(관측성)로 중단돼도 이어지는 딥 리서치 에이전트를 만드는 실습
+* [Offloading Human Tasks with DeepMind's Maarten Grootendorst | Agentic AI Foundation - YouTube](https://www.youtube.com/watch?v=1GkTaxfD2Xg)
+  * [An Illustrated Guide to AI Agents | Maarten Grootendorst & Jay Alammar](https://maartengrootendorst.com/book/)
+  * AGNTCon + MCPCon Europe 2026 기조연설(9분, 설명·챕터 기준). 에이전트를 만들며 손으로 하던 일이 모델 학습으로 흡수되는 흐름—"let's think step by step"은 전용 추론 토큰으로, 손으로 쓴 XML·JSON 프롬프트·user 역할 남용은 네이티브 도구 호출로, 수작업 파싱이 많던 ReAct 루프는 학습 데이터에 ReAct를 조금 넣어 기본 에이전트로. 하네스의 어느 부분을 미래 모델이 흡수할지 예측하고, 아직 수작업인 swarm·가드레일·평가가 다음 학습 대상이라고 봄
 * [2506.02153 Small Language Models are the Future of Agentic AI](https://arxiv.org/abs/2506.02153)
   * [NVIDIA의 Peter Belcak가 소개하는 소형 언어 모델(SLM)이 에이전트 AI의 미래인 이유](https://www.arizekorea.com/insights/post/nvidias-small-language-models-are-the-future-of-agentic-ai-paper-jNrUOzqlulGhemG)
   * [Demystifying Agentic AI Using Small Language Models - YouTube](https://www.youtube.com/watch?v=nk5BNz8v_9E)
@@ -2643,6 +2650,23 @@ Artificial Intelligence
 * [보안이 소프트웨어 팩토리 도입을 가속한다 :: ROBOCO](https://roboco.io/posts/security-accelerates-software-factory)
   * 2026-10-15, 정도현(로보코). 신한은행 등 금융권 16개사 약 10만 건, 티빙 약 3,954만 계정, 쿠팡 3,367만 건, 교회 교인 정보 유출까지—조사로 확인된 원인은 새 공격 기법이 아니라 소스코드에 남은 접속키·퇴사 후에도 안 바뀐 서명키·우회된 인증·미적용 패치 같은 기본 통제의 빈틈. 금융권 사고의 AI 사용은 미확정이지만 보안업체들이 공격 인프라에서 LLM 기반 자율 침투 도구(ARTEX) 흔적을 보고. AI가 바꾸는 것은 공격의 종류가 아니라 속도·규모("AI는 명절도 휴가도 없다"—박문범)라, 빈틈을 발견해 메우기까지의 시간이 방어의 핵심 지표가 되고 사람의 순서·근무 시간에 묶인 대응은 따라가기 어려움(Mandiant 평균 time-to-exploit 약 -7일, VulnCheck 악용 취약점 28.96%가 공개 당일 이전)
   * 압력은 이미 움직인다: Anthropic Project Glasswing은 AI로 찾은 오픈소스 취약점 약 530건 중 75건만 패치돼 "병목은 사람의 분류·패치 역량"이라 진단(Forrester "Discovery is now cheap. Remediation is where the value lives"), CISA BOD 26-04의 최단 3일 조치 기한·EU CRA 등 규제가 수정 기한을 줄임. 그래서 발견된 문제를 작업으로 만들고 에이전트가 수정·증거로 검증·실패를 규칙으로 바꾸는 소프트웨어 팩토리가 그 시간을 줄일 유력한 체계—단 팩토리 자체가 새 공격면이므로 위험 등급, 쓰기 권한 분리, 사람의 중지 명령 같은 장치가 필수. "사람 없는 공장"이 아니라 사람이 규칙을 정하고 기계가 그 안에서 쉬지 않고 실행
+* [Software Engineering Is Becoming Factory Engineering — Zach Lloyd, Warp | AI Engineer - YouTube](https://www.youtube.com/watch?v=tUPPVhBBcoM)
+  * [Software Engineering Is Becoming Factory Engineering — Zach Lloyd, Warp | AI Engineer](https://ai.engineer/talks/tUPPVhBBcoM-youtube-90cb47cb7019ebe29005)
+  * [Warp's public factory](https://build.warp.dev)
+  * Warp 창업자(전 Google Docs 엔지니어링 리드)는 6개월째 코드 한 줄 안 쓰고도 계속 배포—자동완성→대화형 에이전트→자동화로 넘어가며 소프트웨어 엔지니어링이 "팩토리 엔지니어링"이 되고, CI/CD처럼 모든 프로젝트가 팩토리를 갖게 된다는 주장. Warp는 5년 비공개 끝에 오픈소스화(60k+ stars, 활성 개발자 80만+)하고 이슈 흐름·에이전트 작업을 보여주는 공개 팩토리 build.warp.dev 운영—만들기·복제가 싸지면 좋은 제품만으로 부족해 공개 개발로 생태계·브랜드를 쌓고, 시끄러운 이슈·엉성한 PR 같은 오픈소스 유지 부담은 자동화가 흡수
+  * 팩토리 공정: 입력(팀·사용자 아이디어, Slack·트래커·모니터링)→에이전트 triage(쉽고 명확하면 바로 구현, 어려우면 제품 스펙·기술 스펙 작성 후 사람 검토)→클라우드 코딩 에이전트 구현(diff)→에이전트 리뷰 후 위험도에 따라 사람 리뷰→computer use·CI/CD 검증과 사람 제품 리뷰→배포·크래시/사용량 모니터링이 다시 입력으로. 사람이 고친 리뷰 코멘트를 관찰자가 리뷰 스킬에 반영하는 스킬 개선 루프, 사람 시간·토큰 대비 산출 측정, 스타터 레포, 신입 조언·취향의 중요성 Q&A
+* [Fixing the PR Bottleneck — Matt Pocock, AIHero | AI Engineer - YouTube](https://www.youtube.com/watch?v=LlgiOCmFG_w)
+  * [Fixing the PR Bottleneck — Matt Pocock, AIHero | AI Engineer](https://ai.engineer/talks/LlgiOCmFG_w-youtube-40c0a903db79223717ca)
+  * AI Engineer Paris 2026. 에이전트로 PR 열기는 쉬워졌지만 리뷰할 가치가 있는 PR은 그렇지 않음—자동 트리거로 가속만 하는 팩토리는 "slop cannon"이 되고 나쁜 코드는 다음 에이전트의 작업 환경을 망치므로 브레이크 3층(결정적 검사·자동 리뷰·사람 리뷰)이 필요. 녹색 CI도 거짓말할 수 있음—상수 재확인, 렌더링 대신 소스 문자열 순서 비교, 실패 경로 없는 mock 같은 테스트. Ousterhout의 deep module(작은 인터페이스·큰 구현)로 에이전트가 인터페이스 통해 의미 있는 테스트를 쓰게 하고, 모듈 심화·코드베이스 설계 스킬로 공통 어휘(locality·leverage·seam) 제공
+  * 상세 코딩 표준은 구현 에이전트 컨텍스트에서 빼고 diff와 표준 파일만 읽는 별도 리뷰 서브에이전트에 맡김(make it work→make it good). 리뷰어는 장황한 코멘트 대신 고칠 수 있는 건 커밋으로 반영. PR에는 "merge danger" 요약—되돌릴 수 없는 one-way door(6만 명에게 메일 발송·마이그레이션·데이터 손실)와 blast radius를 적고, 다이어그램(HumanLayer Show Me 스킬)으로 변경을 보여줌. Retro 스킬로 세션·PR·리뷰를 회고해 같은 리뷰 코멘트를 두 번 쓰지 않도록 검사·표준·탐색 포인터·도구 선택·지시문 비대화를 개선
+* [Fighting Code Slop: The State of Software Factories - Dexter Horthy | Agentic AI Foundation - YouTube](https://www.youtube.com/watch?v=ix1qQK1IvmA)
+  * [2603.24755 SlopCodeBench](https://arxiv.org/abs/2603.24755)
+    * [SlopCode-Bench leaderboard | Snorkel AI](https://snorkel.ai/leaderboard/slopcode-bench/)
+  * [HumanLayer resources](https://humanlayer.dev/resources)
+  * HumanLayer CEO의 16분 발표(설명·챕터 기준, 자막은 429로 미확인). AI가 쓴 코드를 배포하는 팀도 여전히 코드를 읽어야 한다—사람 없이 돌리는 lights-off 소프트웨어 팩토리에서 무인 모델은 코드베이스 품질을 개선·유지하지 못함. 2026년 모델은 문제 해결은 크게 나아졌지만 아키텍처·추상화·중앙화는 별로 나아지지 않았고, 나쁜 아키텍처의 비용은 분이 아니라 몇 달·몇 년 단위라 유지보수성엔 빠른 오라클이 없음. 리뷰 품질 하락·장애·버그 증가 데이터, SlopCodeBench 최고 모델 14.8%
+  * 실천법: 만들기 전에 계획하되 과잉 계획 금지, Show Me 스킬로 시각적 정렬, TypeScript 안티 슬롭 규칙, 사용자 피드백을 팩토리 입력으로, 피처 플래그로 모델이 실험, 루프는 전진 압력+역압력, 과거 세션에서 복리 학습. 새 소프트웨어 포지와 system of record, 4계층(컴퓨트·개발 환경·하네스·컨트롤 플레인), HumanLayer가 만들고 오픈소스화하는 것
+* [Pull Requests Are Dead, Long Live Peer Review | Agentic AI Foundation - YouTube](https://www.youtube.com/watch?v=5lq5zp6wYbQ)
+  * Agentic AI Foundation 채널의 25분 발표(2026-10-14). 영상 설명에 발표 소개가 없고 자막도 429로 받지 못해 제목만 확인—에이전트 시대에 PR 중심 리뷰를 동료 리뷰(peer review) 방식으로 바꾸자는 주제로 보임
 
 # Artificial Neural Networks
 * [A Gentle Introduction to Artificial Neural Networks](https://theclevermachine.wordpress.com/2014/09/11/a-gentle-introduction-to-artificial-neural-networks/)
@@ -3473,6 +3497,9 @@ Artificial Intelligence
   * [I Still Prefer MCP Over Skills](https://david.coffee/i-still-prefer-mcp-over-skills/)
     * [나는 여전히 Skills보다 MCP를 선호한다 | GeekNews](https://news.hada.io/topic?id=28404)
     * MCP는 API 추상화 기반 표준 인터페이스로 원격 접근과 자동 업데이트 지원. Skills는 CLI 설치 의존성과 인증 복잡성 문제
+  * [Spotify Deleted Its AI Platform and Nobody Noticed | Agentic AI Foundation - YouTube](https://www.youtube.com/watch?v=vYYmZtEZQFg)
+    * Spotify 엔지니어 2명의 21분 발표(2026-10-09, 자막 기준). 해커톤에서 너도나도 만든 MCP 서버의 인증·기술이 제각각이라 주말에 만든 자체 MCP 게이트웨이에서 출발—사내 표준인 gRPC 서비스를 JSON-RPC 트랜스코딩으로 그대로 MCP 서버로 노출, Backstage를 MCP 서버 디렉터리로 사용. 지금은 약 150개 MCP 서버, 하루 16만+ 도구 호출(월 수백만 건), 전 직원 100% 사용
+    * 교훈: 커스텀 코드에 기능 요구가 계속 붙자 Envoy의 네이티브 MCP 필터 기반 표준 구성으로 갈아탐(트랜스코딩은 라이브러리로 분리, 사용자는 눈치채지 못함). 인증은 SSO 한 번 로그인, 하위 자격증명은 LLM 컨텍스트에 절대 넣지 않음, 최소 권한—Kubernetes 리소스 스타일의 작은 YAML로 서버별 필요 스코프 선언, 게이트웨이가 RFC 8693 토큰 교환으로 단기 토큰 발급, 사람 없는 헤드리스 에이전트는 자체 principal 부여
   * [2508.14704 MCP-Universe: Benchmarking Large Language Models with Real-World Model Context   Protocol Servers](https://arxiv.org/abs/2508.14704)
     * [MCP-Universe: Benchmarking Large Language Models with Real-World Model Context Protocol Servers | Andrei Lopatenko 🇺🇦](https://www.linkedin.com/posts/lopatenko_mcp-universe-benchmarking-large-language-activity-7365180977863716866-XVH-/)
   * [2511.21686 Matrix: Peer-to-Peer Multi-Agent Synthetic Data Generation Framework](https://arxiv.org/abs/2511.21686)
@@ -7730,6 +7757,9 @@ Artificial Intelligence
     * Academind. 에이전틱 워크플로우 구동에 특화된 터미널 멀티플렉서. tmux보다 단순하면서 여러 AI 에이전트 작업을 병렬로 몰아주는(herd) 데 강점
   * [Exploring Herdr Plugins: Multi-Agent Orchestration and Workflows | Tonbi's AI Garage - YouTube](https://www.youtube.com/watch?v=82S8fmes9T0)
     * 19분(2026-10-12). 몇 달 써 본 Herdr는 기본은 미니멀하고 커뮤니티 플러그인으로 확장하는 구조—코어 기능인 Herdr CLI로 다른 에이전트 세션이 무엇을 하는지 조회하고 세션 간 메시지를 보내는 상호 인지 위에, 조정자가 직접 일하지 않고 항상 사용자 질문에 답할 수 있게 비워 두면서 병렬 워커 스레드·공유 메모리·"내 확인이 필요한 것" 개요를 제공하는 오케스트레이션 플러그인(585 stars짜리 인기 플러그인 등) 시연—리서치·워크플로 설계·레드팀·최종 문서 같은 단계별 pane을 조정자에게 말로 띄우고 진행 상황을 지켜보는 흐름. 코드 리뷰 플러그인 편의 후속
+  * [휴대폰에서 Claude·Codex 이어 쓰기 — Herdr × Tailscale 설치부터 세션 관리까지 | 단테 - YouTube](https://www.youtube.com/watch?v=qo_y2iQlZ2I)
+    * 12분(2026-10-10). Tailscale은 맥·휴대폰을 암호화 사설망으로 묶고(포트포워딩 불필요) Herdr는 그 안의 터미널에서 Claude Code·Codex·서버 로그를 pane·탭으로 정리—DHH가 여러 컴퓨터에서 AI 작업 16개쯤을 Herdr로 관리하고 Tailscale로 접속한다고 밝힌 방식. 설치 후 `herdr integration`으로 Claude·Codex 연동, 이름 붙인 세션(이름을 빼면 기본 세션이 열림), Ctrl+B V 분할·Z 확대·Q 나가기, 다시 같은 세션으로 들어오면 대화·웹 서버가 그대로 살아 있음(Claude 자체를 종료했으면 `--continue`로 재개)
+    * 같은 폴더를 쓰는 두 pane은 같은 파일을 보므로 동시 수정은 별도 폴더·git worktree로 분리, 연결만 끊기면 계속 실행되지만 맥이 꺼지거나 잠들면 끝남. 휴대폰은 맥 원격 로그인을 켜고 Moshi 같은 SSH 앱에 Tailscale 주소·맥 짧은 사용자명·포트 22·휴대폰에서 만든 키(공개 키만 맥에 등록)로 접속해 같은 세션 실행, 다른 데스크톱은 `--remote` 옵션. Codex만 쓰면 공식 앱 원격 연결, Claude만 쓰면 Remote Control이 낫고 여러 CLI·서버 로그를 함께 오갈 때 Herdr
   * [awesome-herdr: A curated guide to the Herdr ecosystem — tools, workflows, configs, clients, skills, and integrations](https://github.com/yigitkonur/awesome-herdr)
 * [entroly — Self-Evolving Daemon](https://juyterman1000.github.io/entroly/)
   * [entroly: Compress 2M-token repos into a razor-sharp Principal Engineer context. 85-99% fewer tokens, 100% accuracy retention](https://github.com/juyterman1000/entroly)
