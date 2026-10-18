@@ -3558,6 +3558,10 @@ Python
   * 반응형 Python 노트북—변수 의존성을 추적해 연결된 셀을 자동 갱신, 순수 .py 파일이라 Git 친화적, 인터랙티브 UI 요소와 웹 앱 변환 지원
 * [Mercury – Build Data Web Apps in Jupyter Notebook](https://runmercury.com/)
   * [mercury 시작](https://brunch.co.kr/@fermat39/143)
+* [nb-cli: A CLI-first interface for AI agents to work with notebooks](https://github.com/jupyter-ai-contrib/nb-cli)
+  * [nb-cli: A Command-Line Interface for AI Agents and Notebook Automation · Jupyter Blog](https://blog.jupyter.org/posts/2026/nb-cli-a-command-line-interface-for-ai-agents-and/)
+  * [AI 에이전트 시대의 Jupyter 자동화를 위한 CLI 도구, nb-cli 정리 | digitalbourgeois](https://digitalbourgeois.tistory.com/3160)
+  * 브라우저 없이 Jupyter 노트북을 읽고 고치고 실행하는 사람·AI 에이전트 겸용 CLI(Rust, BSD-3-Clause). 깊게 중첩된 .ipynb JSON 대신 `@@notebook`·`@@cell`·`@@output` 줄 단위 센티널과 JSON 메타데이터로 된 AI 최적화 마크다운을 기본 출력해 결정적으로 파싱, 프로그램용 JSON 출력도 지원. LLM이 CLI 사용에 강하다는 점을 노린 실험적 도구(Jupyter Blog 2026-05-11)
 * nbextension [Jupyter notebook 테마 및 확장기능(nbextensions) 설치 방법](https://devbull.xyz/jupyter-notebook-theme-extensions/)
 * [nbterm - edit and execute Jupyter Notebooks in the terminal](https://github.com/davidbrochart/nbterm)
   * [nbterm: Jupyter Notebooks in the terminal | by David Brochart | Apr, 2021 | Jupyter Blog](https://blog.jupyter.org/nbterm-jupyter-notebooks-in-the-terminal-6a2b55d08b70)
