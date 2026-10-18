@@ -3044,6 +3044,9 @@ CVPR2016)
   * [ComfyUI-MiniMaxH3-Prompt-Writer: Local multimodal MiniMax H3 prompt writer for ComfyUI, powered by Gemma 4 GGUF models](https://github.com/duckyshell/ComfyUI-MiniMaxH3-Prompt-Writer)
     * [ComfyUI에서 로컬 AI로 MiniMax H3 프롬프트를 만드는 H3 Prompt Writer | digitalbourgeois](https://digitalbourgeois.tistory.com/3505)
     * 로컬 Gemma 4 GGUF 모델로 크리에이티브 브리프+레퍼런스(이미지 9장·영상 3개·오디오 3개)에서 MiniMax H3용 프롬프트를 생성하는 ComfyUI 확장. 생성 프롬프트 직접 편집 가능, VRAM별 모델 선택. MiniMax H3 실행 기능은 없음(프롬프트 생성 전용)
+  * [ComfyUI_VNCCS: Visual Novel Character Creation Suite is a comprehensive tool for creating character sprites for visual novels](https://github.com/AHEKOT/ComfyUI_VNCCS)
+    * 비주얼 노벨용 캐릭터 스프라이트 제작 ComfyUI 커스텀 노드 스위트(MIT). 신경망으로 매 이미지 같은 외모의 고유 캐릭터를 만드는 어려운 일을 버튼 몇 번으로—단순한 일관성 워크플로가 아니라 캐릭터 생성·정리부터 감정·의상·포즈 관리까지 전 과정 파이프라인. 신규 사용자는 VNCCS Easy Install, 기존 사용자는 Custom Nodes Manager로 설치
+    * 3.2 워크플로: Control Center에서 포즈·의상 변환 모델(투명 배경 지원 Qwen Image 2.1, 4스텝 Flux Klein9b, 비디오 모델 MiniMax H3) 내려받기→Character Creator V2에서 캐릭터 생성 모델 선택(LoRA가 풍부한 Illustrious, 최신이지만 자원을 더 쓰는 Anima, Turbo 옵션의 Qwen Image 2.1) 순으로 단계별 진행
 * [deforum](https://deforum.github.io/)
   * [AIFactory](https://aifactory.space/forum/discussion/30)
 * [Disco Diffusion v5.61 Now with portrait_generator_v001 - Colaboratory](https://colab.research.google.com/github/alembics/disco-diffusion/blob/main/Disco_Diffusion.ipynb)
