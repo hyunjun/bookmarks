@@ -688,6 +688,10 @@ Web
 * [Lightpanda | The headless browser designed for AI and automation](https://lightpanda.io/)
   * [browser: Lightpanda: the headless browser designed for AI and automation](https://github.com/lightpanda-io/browser)
   * 머신을 위해 처음부터 만든 AI-네이티브 headless 브라우저(Chrome 포크 아님). Chrome headless 대비 10배 빠르고 RAM 10배 절약. Zig, AGPL-3.0, 32K stars
+* [moli: Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Rust](https://github.com/lexmount/moli)
+  * [Cloud Browser API for AI Agents & Web Fetch | Lexmount](https://browser.lexmount.com/)
+  * Lexmount의 AI 에이전트용 프로덕션 headless 브라우저(Rust, Apache-2.0, 19k stars, Linux·macOS·Windows). 페이지 구조·상호작용 상태는 메모리에 두고 시각 뷰·스크린샷이 필요할 때만 레이아웃·렌더링하는 on-demand 설계로 완전한 브라우저 런타임을 가볍게 유지. 내부 RL 학습 워크로드 관찰에서 Chromium 대비 유휴 메모리 약 1/7, 피크 메모리 1/3, 콜드 스타트 약 5배 빠름
+  * `moli fetch`로 Markdown·시맨틱 트리 텍스트·스크린샷·PDF 추출(`--eval`로 클릭 후 덤프), `moli serve` 한 엔드포인트에서 CDP·WebDriver Classic·WebDriver BiDi 동시 제공해 Playwright `connectOverCDP`로 바로 연결. 에이전트 스킬(moli-webfetch 등) 제공. Lexmount Cloud Browser는 세션마다 Chromium·Moli 런타임을 고르고 CAPTCHA 자동 처리·사내망 접근·라이브 뷰·Replay·Web Fetch API 지원
 * [obscura: Open-source headless browser engine for AI agents, written in Rust](https://github.com/h4ckf0r0day/obscura)
   * headless Chrome 대체 Rust 브라우저 엔진. 30MB 메모리(Chrome 200MB+), 85ms 페이지 로드, V8 JS 실행, CDP 호환(Puppeteer/Playwright), 핑거프린트 랜덤화+트래커 차단 스텔스 모드, 단일 바이너리 배포
 * [pipet: Swiss-army tool for scraping and extracting data from online assets, made for hackers](https://github.com/bjesus/pipet)
