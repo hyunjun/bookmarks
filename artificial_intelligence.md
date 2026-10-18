@@ -5121,6 +5121,8 @@ Artificial Intelligence
     * 요즘 프로덕트 메이커 주간 3선(2026-10-16): 써볼 것—회사 서버에 직접 설치하는 ChatGPT 같은 AI 채팅 Open WebUI, 참고할 것—일주일 만에 스타 20만 개를 모은 REA, 그리고 Karpathy의 "AI 체감 격차(깔때기)" X 글
   * "마음에 드는 기능을 보면 바이너리 수준까지 어떻게 동작하는지 이해한다"—소스 코드 없이도 앱을 에이전트에게 넘기면 기능을 조사·설명하고 증거를 제시한 뒤 자기 스택에 맞는 버전을 구현하게 하는 리버스 엔지니어링 에이전트 툴킷. 도구 선택·API 학습·증거 이동·다음 조사 대상 결정을 명령·스킬·구조화된 결과·반복 가능한 조사로 에이전트에 위임. 현재 Hopper 또는 Linux의 BYO Ghidra로 네이티브 분석·함수 dossier, 실험적 Windows x64 Ghidra(승인된 PE), 실행 없는 managed PE/CLI 트리아지, 재현 가능한 Evidence 기록, 통제된 프로세스 캡처, 웹사이트·Electron 페이지·Node/Electron V8 Inspector 수동 관찰, JS/소스맵 재구성, 정적 추론과 런타임 관찰을 구분하는 제공자 중립 그래프와 MCP 도구 카탈로그. 로드맵은 API·프로토콜·모바일·펌웨어·버전 간 차이까지. `npm install --global rea-agents && rea setup`, 한국어 README. TypeScript, MIT, 538 stars
   * 2026-10 현황(81k stars): `npx rea-agents setup`이 Claude Code·Codex·Cursor·Gemini CLI·Grok Build 등에 MCP 서버와 조사 워크플로 지시(스킬)를 등록(기존 설정 백업, 승인 후 적용)하고, 로컬 MCP를 지원하는 어떤 에이전트든 수동 등록 가능. 네이티브 분석은 기존 Hopper·Ghidra·IDA 사용(Hopper는 setup이 승인 후 설치 가능), 정적 JS·.NET 분석은 엔진 불필요. 대상: 네이티브 바이너리(의사코드·어셈블리·심볼·호출), 오프라인 ELF 레이아웃, EVM 바이트코드, 기록된 Linux 크래시, JavaScript/Electron(모듈·소스맵·IPC), 웹사이트(Chrome 계열), HAR/mitmproxy 캡처, .NET 어셈블리, Android APK·기기(adb)·JEB·Apktool 리소스, 펌웨어(Binwalk/Unblob), 패키지·Apple 번들, 프로세스 동작 캡처. 분석은 전부 로컬. 쇼케이스: DX-Ball 사운드 팬 계산 C 복원(3,205 케이스 통과), Notion Electron 클립보드 브리지 추적, PC-98 TH04 탄막 링 계산 복원. Node.js 22.19+/24.11+/26+, 암호화폐 토큰 발행·보증 없음 고지
+  * REA × Jev 클린룸 팁(사용자 첨부 다이어그램): room A의 REA가 앱을 조사(문자열·호출·IPC·런타임 트레이스)해 모든 발견에 증거와 한계를 달고 규칙마다 REA 근거를 인용한 SPEC.md만 작성(코드는 쓰지 않음)→Jev spec gate가 규칙별 증거를 심사해 통과분만 room B로, 증거 없는 규칙은 REA로 돌려보내 다시 파거나 버림→원본을 전혀 보지 않는 Opus 5.5 새 세션(room B)이 SPEC.md만으로 기능을 재구현→Haiku 5.5가 재구현은 통과해야 하고 의도적으로 깨뜨린 3개 버전은 모두 실패해야 하는 테스트 실행, 애매한 건 Jev가 Opus로 라우팅, `/goal`로 3개가 전부 실패할 때까지 반복
+    * <img src="images/rea_jev_clean_room_tip.png" alt="REA × Jev clean-room tip: Opus 5.5 rebuilds, 3 broken must fail" width="300"/>
 * [RedAmon — Autonomous AI Pentest Platform](https://www.redamon.org/)
   * [redamon: An AI-powered agentic red team framework that automates offensive security operations, from reconnaissance to exploitation to post-exploitation, with zero human intervention](https://github.com/samugit83/redamon)
     * 정찰→익스플로잇→포스트 익스플로잇 전 과정을 사람 개입 없이 자동화하는 에이전틱 레드팀 프레임워크. Metasploit·OSINT 도구 연동. Python, MIT, 2.5k stars
@@ -7139,6 +7141,8 @@ Artificial Intelligence
     * 30개 도구로 브라우저 제어, 스크린샷, 테스트 자동화. "see it, interact with it, and test it"
   * [GongMun-Doctor-MCP: AI 기반 한국어 공문서 교정 MCP 서버](https://github.com/sinmb79/GongMun-Doctor-MCP)
     * 100% 로컬 실행. 맞춤법·문법·공문서 서식 3단계 교정, hwpx/hwp 지원, 50개 행정문서 템플릿 내장
+  * [google-ai-mode-skill: Claude Code skill for free Google AI Mode search with citations](https://github.com/PleasePrompto/google-ai-mode-skill)
+    * Claude Code의 웹 리서치를 Google AI Mode(수십 개 출처를 인용 달린 하나의 답으로 합성)에 연결하는 스킬—스텔스 브라우저로 질의해 깨끗한 구조화 답변과 인라인 인용을 받아 페이지를 일일이 읽는 것보다 토큰을 절약, API 키 불필요·무료. 영구 브라우저 프로필로 CAPTCHA 회피, 4단계 완료 감지(평균 4초), 다국어 로케일·17개 인용 셀렉터. 로컬 Claude Code 전용(웹 UI 샌드박스 불가), MCP 서버 버전 별도. **2026-09 아카이브**—더 이상 유지되지 않으며 상위 서비스 변경 시 동작이 멈출 수 있음(포크 권장)
   * [gpt-image-skill: Generate GPT images from Codex or Claude Code using a ChatGPT subscription, without the Images API](https://github.com/GENEXIS-AI/gpt-image-skill)
     * [GPT Image Skill로 이미지 생성과 편집 환경 구축하기 | digitalbourgeois](https://digitalbourgeois.tistory.com/3579)
     * Images API 없이 ChatGPT 구독만으로 Codex·Claude Code에서 GPT 이미지 생성·편집. JavaScript
