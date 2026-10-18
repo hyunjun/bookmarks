@@ -2505,6 +2505,10 @@ Artificial Intelligence
   * [Harness-of-Harness 논문 정리 — Claude Code·Codex에 바로 넣는 Planner·Developer·QA 3역할 프롬프트 | AX LABS 블로그](https://theaxlabs.com/blog/harness-of-harness-planner-developer-qa-prompts)
   * [상하이 AI Lab이 9월 1일 Harness-of-Harness(HoH) 논문을 공개했습니다 | seungpil](https://www.linkedin.com/posts/seungpil_aislsstwswktxu-claudecode-codex-share-7503688550534684672-l5Tz/)
   * 상하이 AI Lab. Codex·OpenCode·Pi 같은 기존 하네스를 고치지 않고 같은 하네스를 Planner·Developer·QA 세 역할로 나눠 반복 호출하는 프로토콜. "계속 해줘"부터 같은 곳을 또 고치고 되던 기능을 깨뜨리며 안 된 걸 완료라고 보고하는 문제를 모델 능력이 아니라 긴 궤적에서 검증 상태를 잃는 문제로 규정. 3개 벤치마크 평균 52% 상대 개선, 70루프 FPS 게임 자율 개발
+* [harness-score: Your AI coding agent is only as reliable as the harness around it. Measure that harness in seconds](https://github.com/paladini/harness-score)
+  * [Harness Score](https://paladini.io/harness-score/)
+  * `npx harness-score` 한 번으로 저장소의 AI 코딩 하네스(AGENTS.md·rules·skills·hooks·테스트·CI)를 스캔해 성숙도 L0~L4와 6개 차원 108점 점수, 다음에 고칠 항목 순위를 제시. Cursor·Claude Code·Devin·Windsurf·Cline·Continue·Codex 지원
+  * 36개 검사가 모두 파일시스템 사실 기반이라 LLM 호출·네트워크 없이 같은 커밋이면 항상 같은 점수. 레벨은 점수 합이 아니라 하네스의 형태로 결정(문서만 많고 테스트가 없으면 L1). GitHub Action으로 `--min-level` CI 게이트·README 배지, Cursor 플러그인 `/harness-audit`로 자동 수정, 하네스 엔지니어링 가이드 8개 챕터 제공
 * [HarnessTax: How Much Does the Harness Matter for Coding Agents? | UC Berkeley·Arena](https://harnesstax.github.io/)
   * [코딩 에이전트에서 하네스가 중요한 이유: 같은 모델의 비용과 성능을 바꾸는 구조 | digitalbourgeois](https://digitalbourgeois.tistory.com/3678)
   * 7개 모델×3개 하네스(Claude Code·Codex CLI·Pi) 21개 조합을 SWE-bench Lite·Terminal-Bench 2.0에서 평가—같은 모델이 비슷한 성공률을 보이면서도 하네스에 따라 비용이 최대 5배 차이. 단순한 도구 구성의 Pi가 비용 대비 성공률에서 경쟁력, 같은 회사의 모델+하네스 조합이 항상 최선은 아님
@@ -6664,6 +6668,11 @@ Artificial Intelligence
   * [ai-website-cloner-template: Pixel-perfect website cloning framework using Claude Code](https://github.com/JCodesMore/ai-website-cloner-template)
     * [🌐 AI Website Cloner : 3.6만 스타, URL 하나로 사이트를 Next.js로 복제 | fornewchallenge](https://fornewchallenge.tistory.com/entry/%F0%9F%8C%90-AI-Website-Cloner-36%EB%A7%8C-%EC%8A%A4%ED%83%80-URL-%ED%95%98%EB%82%98%EB%A1%9C-%EC%82%AC%EC%9D%B4%ED%8A%B8%EB%A5%BC-Nextjs%EB%A1%9C-%EB%B3%B5%EC%A0%9C)
     * URL 하나를 주면 에이전트가 Map→Observe→Build→Compare 네 단계로 사이트를 Next.js 16·React 19·shadcn/ui·Tailwind CSS v4 앱으로 다시 만드는 템플릿. HTML 뜯기·폰트·이미지 수집·반응형·애니메이션 재구현을 에이전트에게 맡김. Claude Code(Opus 5.5) 권장, Codex CLI·OpenCode·Cursor도 지원하며 이식성 있는 에이전트 스킬 하나로 구성. Node.js 24 이상. 2026년 3월 공개 뒤 TypeScript, MIT, 36.3k stars
+  * [Anatomy · A skill for Claude Code](https://skills.wheresryan.sh/anatomy)
+    * [anatomy: An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems | wheresryan22](https://github.com/wheresryan22/anatomy)
+    * ["말 한마디로 3D 기계 그려내"...클로드 코드용 '아나토미' 공개 | AI타임스](https://www.aitimes.com/news/articleView.html?idxno=216170)
+    * 박스와 화살표 대신 "물체가 곧 설명"—아이디어를 한 줄로 주면 Claude가 그 원리대로 움직이는 실제 기계를 발명해 돌리고·누르고·읽을 수 있는 인터랙티브 아이소메트릭 그림으로 그리는 스킬(메시지 큐는 구슬 레일, LRU 캐시는 책 위치가 바뀌는 책장, 변경 없을 때 작업을 건너뛰는 캐시 키는 모든 핀이 맞아야 도는 핀 텀블러 자물쇠). 수십~수백 개의 작은 솔리드 부품, 표시되는 모든 수치는 부품을 움직이는 같은 모델에서 나오고, 모든 이음매를 확대해 스스로 검수. 기본 SVG에 불꽃·물·빛 WebGL 셰이더, 3D 모드(베타)
+    * 예시: 기계식 시계 무브먼트(한 줄 지시로 약 1시간 54분 자율 작업—크라운을 감고 S로 감속해 이스케이프 휠 관찰, E로 브리지 분해), 롤스로이스 트렌트 970 터보팬, 스페이스X 랩터 2(11개 어셈블리로 분해, 파이프 간섭 감사)—복잡한 엔진은 검토·수정 포함 10시간+. `npx skills add wheresryan22/anatomy -g`로 Claude Code·Antigravity·OpenCode·Codex·MiniMax Code에 설치, API 키·npm 설치 불필요(Node 내장 모듈만). 완성 도형 52개를 React 컴포넌트·커스텀 엘리먼트로 쓰는 별도 라이브러리 anatomy-figures. JavaScript, MIT, 15.4k stars
   * [andrej-karpathy-skills: Karpathy-Inspired Claude Code Guidelines](https://github.com/multica-ai/andrej-karpathy-skills)
     * [Karpathy-Inspired Claude Code Guidelines LLM 코딩 품질을 높이기 위한 실전 가이드 정리 | digitalbourgeois](https://digitalbourgeois.tistory.com/3137)
     * Andrej Karpathy 관찰 기반 LLM 코딩 4원칙 CLAUDE.md. 1) Think Before Coding—추측 대신 모호함 명시·옵션 제시 2) Simplicity First—senior dev이 over-engineered로 볼 만한 건 이미 그러함 3) Surgical Changes—요청에 정당화되는 줄만 변경, 기존 스타일 보존 4) Goal-Driven Execution—"버그 수정" 대신 "재현 실패 테스트 작성 후 통과시키기" 같은 성공 조건 재구성. 효과 신호: 작은 diff·요청 없는 리팩토링 감소·코드 작성 전 명확화 질문·리뷰 친화 PR. drop-in CLAUDE.md 또는 Claude Code 플러그인. "LLM이 생각하는 방식을 먼저 바꾸는 것"
@@ -7272,6 +7281,10 @@ Artificial Intelligence
     * YC 54개 강의 트랜스크립트 + Paul Graham 에세이 14편을 Claude Code 스킬로 변환. /yc-4 명령으로 특정 강의 기반 프로젝트 분석·Q&A 수행
 * [ccx: TUI to browse, inspect, and manage all Claude Code sessions on your system](https://github.com/sendbird/ccx)
   * 세션 브라우징(검색·그룹핑·다중선택), 대화 뷰(collapsible·툴 검사·서브에이전트 네비), 설정 탐색(플러그인·스킬·커맨드), 통계(토큰·툴 사용), tmux 연동 라이브 세션 관리. Go+Bubble Tea, `~/.claude/projects/` 읽음, 이미지 프리뷰. Apache 2.0
+* [chums: Talk to Claude Code and Codex agents from an Apple Watch and an iPhone. Each agent is a character on the watch](https://github.com/lcoutodemos/chums)
+  * [Chums](https://chums.club/)
+  * Mac에서 이미 돌고 있는 Claude Code·Codex를 Apple Watch·iPhone에서 쓰게 하는 오픈소스 리모컨(Swift, Apache-2.0). 새 모델·구독·계정 없이 워치·폰이 Tailscale Funnel(HTTPS+토큰)로 내 Mac의 허브와 통신. 화면을 누른 채 말하면 Mac이 받아써 에이전트에 전달하고, 도구 호출 진행·권한 요청 카드(누르면 허용, ×는 거부)·캐릭터 목소리의 짧은 음성 답변·스크린샷/산출물 이미지를 워치에서 확인
+  * 에이전트마다 실행 엔진·모델·권한·목소리·"soul"이 다른 캐릭터 7종(3D·Blender·벡터·픽셀 등 제작 방식도 제각각). iPhone 앱은 HTML 차트·PDF·동영상 산출물을 실시간으로 열고, 키링 모드로 손목에 없어도 화면 유지. App Store가 아닌 소스 빌드이며 Claude Code·Codex에 설정 프롬프트를 붙여넣으면 AGENTS.md를 따라 설치 진행
 * [claude-plugins: Open-source Claude Code plugins for multi-agent software delivery. Plan-first SDLC workflow, code review, LLM quality judges, and self-learning | ClosedLoop.AI](https://github.com/closedloop-ai/claude-plugins)
   * "Bootstrap. Plan. Code. Ship."—LLM은 비결정적 생성엔 강하지만 반복적으로 정확하지 않다는 전제에서, Claude Code를 팀 협업 방식을 본뜬 경량 멀티 에이전트 오케스트레이션으로 확장한 플러그인 세트. bootstrap(프로젝트 셋업)·code(구현 계획과 반복 개발 루프)·code-review(GitHub PR 인라인 리뷰)·judges(계획·코드 품질용 LLM-as-judge)·platform(Claude Code 가이드·프롬프트·아티팩트 관리)·self-learning(패턴 포착·조직 지식 공유). 문서화된 구현 계획을 사람이 먼저 검토·승인(shift left)하고 정확해질 때까지 도는 아티팩트 기반 단계 게이트, 멀티 레포·적응형 자기 학습. "Opus 4.6 대비 절반 비용으로 더 나은 결과·팀 400% 빨라짐"은 자체 주장. 한 줄 설치 스크립트. Python, Apache-2.0, 118 stars
 * [claude-skills: 345 Claude Code skills & agent skills & plugins for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents](https://github.com/alirezarezvani/claude-skills)
