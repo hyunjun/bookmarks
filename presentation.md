@@ -117,6 +117,9 @@ Presentation
 * [pixlr.com/editor](https://pixlr.com/editor/) online photo editor
 * [ppt-master: AI-powered tool to generate natively editable PPTX from PDF, DOCX, URL, and Markdown](https://hugohe3.github.io/ppt-master/)
   * [ppt-master](https://github.com/hugohe3/ppt-master)
+  * [PPT Master — AI generates natively editable PPTX from any document | Examples](https://hugohe3.github.io/ppt-master-examples/)
+  * [PPT Master: AI로 문서 기반 PowerPoint를 생성하고 편집하는 오픈소스 도구 | digitalbourgeois](https://digitalbourgeois.tistory.com/3826)
+    * 2026-10-17. 특정 AI 모델이 아니라 AI 채팅 환경에서 에이전트가 수행하는 워크플로—PDF·DOCX·이미지 등 자료로 슬라이드를 만들되 이미지가 아닌 PowerPoint 네이티브 객체(개별 선택·수정 가능한 텍스트·도형, 데이터 기반 차트·표, 텍스트 효과, 커넥터)로 내보냄. 기존 프레젠테이션 디자인을 유지한 채 새 내용 반영, 참고 자료에서 재사용 템플릿 추출. MIT(README 기반 정리, 실제 생성 품질은 미검증)
   * 이미지가 아닌 실제 PowerPoint 도형·텍스트 상자를 생성하여 완전 편집 가능한 프레젠테이션 자동 생성
 * [PPT Reverse Prompt - AI PowerPoint Design Style Analyzer | genppt.ai](https://genppt.ai/ppt-reverse-prompt)
   * [PPT Reverse Prompt라는 개념이 뜨고 있네요 | Duckjung Kim | LinkedIn](https://www.linkedin.com/posts/duckjungkim_%EC%96%BC%EB%A7%88%EC%A0%84%EA%B9%8C%EC%A7%80%EB%A7%8C-%ED%95%B4%EB%8F%84-chatgpt%EB%A5%BC-%EC%9E%98-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-%EC%9C%84%ED%95%B4-reverse-prompt-activity-7429881050136313856-UNbp)
