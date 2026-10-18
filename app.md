@@ -2862,6 +2862,8 @@ App
 * [vrew.voyagerx.com](https://vrew.voyagerx.com)
   * [Vrew의 Web 기술 - VoyagerX](https://v6x.github.io/2020/06/04/vrew-web-tech.html)
 * [Wavvy - 웹기반 오디오 편집기 (Audacity 포팅) | GeekNews](https://news.hada.io/topic?id=7329)
+* [Wavy-Flo: Downloads of Wavy-Flo, a Windows editor for motion graphics and music videos | Kibo4aa](https://github.com/Kibo4aa/Wavy-Flo-Releases)
+  * 애니메이션 타이틀·파티클·3D 조명·이펙트·키프레임을 작업 중 실시간 미리보기하는 Windows 모션 그래픽·뮤직비디오 에디터(0.40). 강한 그래픽 카드 없이도 CPU 전 코어로 렌더링, 압축만 풀면 설치 없이 실행(Windows 10/11 64비트). 0.40에서 레이어별 색상·Eye·Solo·Label 열과 Parent·Mode·TrkMat를 갖춘 After Effects식 타임라인으로 새 단장
 * [webreel: Record scripted browser demos as video](https://github.com/vercel-labs/webreel)
   * [브라우저 데모를 MP4 영상으로 자동 녹화하는 CLI 도구 | GeekNews](https://news.hada.io/topic?id=28335)
   * JSON 설정으로 클릭·타이핑·드래그 등 액션 정의, 헤드리스 Chrome이 ~60fps로 캡처 후 ffmpeg 인코딩. MP4, GIF, WebM 출력
