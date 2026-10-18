@@ -966,6 +966,9 @@ Artificial Intelligence
 * [동네 치과의 AX 전환기 | 뒷방 서버랙에서 시작된 AI 자동화 | 푸르공 - YouTube](https://www.youtube.com/watch?v=2rR2Ys6QDeE)
   * [동네 치과의 AX전환기 | gatsbydds | 아카라이브 AI 로컬 홈랩 채널](https://arca.live/b/aihomelab/185810092)
   * 6분(2026-10-14, 자막 기준). 생물학 전공 동네 치과 원장이 "환자 정보는 병원 밖으로 내보내지 않는다"는 원칙으로 뒷방에 서버랙(DGX Spark급 12대 클러스터·Mac mini·UPS)을 세우고 AI 코딩 에이전트를 팀원처럼 부린 사례—자체 교환기와 첫 응답 0.1초의 전화 받는 AI(실시간 받아쓰기·요약·할 일), 보험 서류 904개 3,389쪽을 69분에 판독해 6,928줄 중 77% 자동 확정, 천장 스피커 환자 호출, 사내 메신저. 운영 설정 변경은 원장이 직접 승인
+* [Synchronous vs. Asynchronous Agent Execution: Architecture Patterns for Production | MachineLearningMastery](https://machinelearningmastery.com/synchronous-vs-asynchronous-agent-execution-architecture-patterns-for-production/)
+  * [LLM 에이전트 실행 아키텍처: 동기식과 비동기식의 차이 및 선택 기준 | digitalbourgeois](https://digitalbourgeois.tistory.com/3833)
+  * Iván Palomares Carrascosa(2026-10-06). 로컬 스크립트에선 돌던 에이전트가 운영에선 다단계 추론·API 지연 때문에 타임아웃·요청 유실·메모리 누수를 내는 "배포 격차"를 두 실행 패턴으로 정리—동기식 "wait and see"는 HTTP 요청-응답처럼 끝까지 기다려 즉각 응답·순차 의존성·RAG 같은 빠른 조회에 적합, 비동기식 이벤트 기반 "fire and forget"은 작업 접수와 완료를 분리해 백그라운드 워커가 처리하고 상태를 저장해 코드베이스 리팩터링·멀티 에이전트 토론·사람 승인 같은 장시간 작업에 적합. 작업 복잡도·지연 허용 범위·인프라 요구사항으로 고르는 기준과 가벼운 Python 노트북 예제
 * [2506.02153 Small Language Models are the Future of Agentic AI](https://arxiv.org/abs/2506.02153)
   * [NVIDIA의 Peter Belcak가 소개하는 소형 언어 모델(SLM)이 에이전트 AI의 미래인 이유](https://www.arizekorea.com/insights/post/nvidias-small-language-models-are-the-future-of-agentic-ai-paper-jNrUOzqlulGhemG)
   * [Demystifying Agentic AI Using Small Language Models - YouTube](https://www.youtube.com/watch?v=nk5BNz8v_9E)
@@ -8022,6 +8025,9 @@ Artificial Intelligence
   * [OmniRoute: One endpoint, 290+ providers (90+ free), 500+ models](https://github.com/diegosouzapw/OmniRoute)
   * [OmniRoute — 흩어진 무료/저가 AI 티어를 하나로 묶는 게이트웨이 | GeekNews](https://news.hada.io/topic?id=31710)
   * 하나의 로컬 엔드포인트(localhost:20128/v1)로 290+ 프로바이더(90+ 무료)·500+ 모델(Kimi/Claude/GPT/Gemini/GLM/DeepSeek) 연결. Claude Code/Codex/Cursor/Cline/Copilot 등 26개 코딩 툴 지원, 쿼터 인식 자동 폴백, RTK+Caveman 압축으로 토큰 15~95% 절감, MCP/A2A. TypeScript, MIT, 29K stars
+* [Omnirush: the $200-a-month AI, free. Desktop app and CLI](https://omnirush.ai/)
+  * [omnirush-gui: A desktop coding agent with free access to frontier models](https://github.com/omnirush-ai/omnirush-gui)
+  * 프런티어 모델을 무료로 쓰는 데스크톱 코딩 에이전트(Windows·macOS Apple Silicon·Linux)와 CLI—"월 200달러짜리 AI를 무료로". 폴더를 지정하면 파일을 읽고 필요한 것을 실행해 보고하며, 코딩뿐 아니라 실험 데이터 분석 같은 모든 분야 대상. 기본 모델 GPT 6 Astra, 모델 선택기로 GPT 6.1 Sol 등, 여러 서브에이전트를 병렬로 돌리는 swarm(재현·감사·수정을 나눠 맡기고 요약 하나로 취합). macOS 빌드는 아직 공증 전이라 첫 실행 시 보안 설정에서 허용 필요
 * [omp — a coding agent with the IDE wired in](https://omp.sh/)
   * [oh-my-pi: AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents](https://github.com/can1357/oh-my-pi)
   * [omp, Pi를 IDE 수준으로 확장한 터미널 AI 코딩 에이전트의 특징과 활용 | digitalbourgeois](https://digitalbourgeois.tistory.com/3428)
