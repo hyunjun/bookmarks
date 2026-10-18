@@ -3199,6 +3199,11 @@ NLP
 * [FlowiseAI - Build LLMs Apps Easily](https://flowiseai.com/)
   * [Flowise: Drag & drop UI to build your customized LLM flow](https://github.com/FlowiseAI/Flowise)
   * [Did you know you can build a functional LLM app that uses LangChain, OpenAI, and soon any model on Hugging Face without coding and within minutes?](https://www.linkedin.com/posts/sahar-mor_did-you-know-you-can-build-a-functional-llm-activity-7095044049841115137-BdnO/)
+* [freellmapi: 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint](https://github.com/tashfeenahmed/freellmapi)
+  * [Free LLM API — every free model behind one key | FreeLLMAPI](https://freellmapi.co/)
+  * [🆓 FreeLLMAPI : 34개 무료 제공자를 하나의 /v1로 묶는 3.6만 스타 | James AI Explorer](https://fornewchallenge.tistory.com/entry/%F0%9F%86%93-FreeLLMAPI-34%EA%B0%9C-%EB%AC%B4%EB%A3%8C-%EC%A0%9C%EA%B3%B5%EC%9E%90%EB%A5%BC-%ED%95%98%EB%82%98%EC%9D%98-v1%EB%A1%9C-%EB%AC%B6%EB%8A%94-36%EB%A7%8C-%EC%8A%A4%ED%83%80)
+  * 무료 LLM 제공자 34곳(474개 모델 계열·635개 엔드포인트, 합산 월 약 74억 토큰 추정)의 키를 모아 OpenAI 호환 단일 `/v1`로 노출하는 셀프호스팅 라우터(TypeScript, MIT, 36k stars). 커스텀 OpenAI 호환 채팅·임베딩·이미지·오디오 엔드포인트도 추가 가능하고, 클라이언트·코딩 에이전트는 base_url만 바꾸면 됨. 개인 실험용 명시
+  * 요청마다 우선순위가 높고 한도 안인 모델을 골라 호출하고 429·5xx면 그 키를 잠시 쉬게 한 뒤 대시보드에서 정한 폴백 체인의 다음 모델로 넘김. 키는 로컬 SQLite에 암호화 저장, 키별 사용량 추적으로 무료 한도 유지. 서명된 피드로 모델 카탈로그를 자동 갱신하지만 무료 설치본은 월간 스냅샷이라 최대 30일 늦고, 실시간 카탈로그는 유료($19/년, 평생 $49). Docker·데스크톱 앱·npm으로 실행
 * [frontier-moe-serving-benchmark: Serving and benchmarking 9 frontier MoE checkpoints (490 GiB+) with vLLM on a single 8x B200 node, plus a pre-download HBM fit checker](https://github.com/daekeun-ml/frontier-moe-serving-benchmark)
   * [2026년 4~7월 공개 프론티어 MoE 9종을 8x B200 단일 노드 vLLM으로 서빙·벤치마크 | Daekeun Kim](https://www.linkedin.com/posts/daekeun-kim_aws-llminference-vllm-share-7493909499871924224-JO6B/)
   * GLM-5.2, DeepSeek-V4-Pro, MiMo-V2.5-Pro, Ring-2.6, Nemotron-3-Ultra, SKT A.X-K2, LG K-EXAONE-2.0 등 9종의 서빙 방법·메모리 사용량·벤치마크. 파라미터 수만으로는 GPU 메모리 예측이 어려움(1.6T DeepSeek-V4-Pro와 743B GLM-5.2의 메모리 차이가 14% 수준). HF 모델 ID로 RTX 6000 Pro/A100/H100/H200/B200/B300 필요 GPU 수 계산 도구 포함
