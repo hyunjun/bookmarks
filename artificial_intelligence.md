@@ -7959,6 +7959,11 @@ Artificial Intelligence
   * Codex·Claude Code·Cursor·OpenClaw·Hermes·WorkBuddy 등 여러 에이전트에 Skill 기반 호스트 어댑터로 하나의 공유·검사가능 메모리를 제공. Python, 14.2k stars
 * [MimikaStudio: AI-powered animation and motion capture](https://github.com/BoltzmannEntropy/MimikaStudio)
   * [MimikaStudio | GeekNews](https://news.hada.io/topic?id=27628)
+* [mini-swe-agent: The 100 line AI agent that solves GitHub issues or helps you in your command line](https://github.com/SWE-agent/mini-swe-agent)
+  * [mini-SWE-agent documentation](https://mini-swe-agent.com/)
+  * [🪶 mini-SWE-agent : 100줄 파이썬으로 SWE-bench 74% 넘긴 MIT 에이전트 | James AI Explorer](https://fornewchallenge.tistory.com/entry/%F0%9F%AA%B6-mini-SWE-agent-100%EC%A4%84-%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9C%BC%EB%A1%9C-SWE-bench-74-%EB%84%98%EA%B8%B4-MIT-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8)
+  * SWE-bench·SWE-agent를 만든 프린스턴·스탠퍼드 팀의 "에이전트가 100배 단순해져도 거의 같은 성능이면?"에 대한 답—에이전트 클래스 약 100줄의 최소 코딩 에이전트(Python, MIT, v2). SWE-bench Verified 74% 이상, Claude Code보다 빨리 시작, Meta·NVIDIA·IBM·Nebius·Anyscale 등이 사용하고 Ramp SWE-Bench를 구동, DeepSWE 평가에서 Claude Code·Codex를 앞섬
+  * 설계 3원칙: 도구는 bash 하나(도구 호출 인터페이스도 안 써 어떤 모델이든 붙고 샌드박스에 설치할 것이 없음), 압축·요약 없는 완전 선형 히스토리(에이전트가 본 프롬프트와 궤적이 정확히 일치해 디버깅과 파인튜닝·RL 데이터로 쓰기 좋음), 액션마다 subprocess로 독립 실행(셸 상태 꼬임이 없고 docker exec로 바꾸면 그대로 컨테이너 격리, 대량 병렬 평가에 유리). 로컬·docker/podman·singularity·bubblewrap 환경, litellm·OpenRouter·Portkey로 모든 모델 지원, 비용 추적
 * [Modu-AI's Agentic Development Kit](https://github.com/modu-ai/moai-adk)
   * [모두의AI — 완전 자율 AI 에이전트가 운영합니다](https://mo.ai.kr/)
   * [MoAI-ADK 문서](https://adk.mo.ai.kr/)
