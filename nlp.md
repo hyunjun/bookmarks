@@ -2822,6 +2822,9 @@ NLP
     * [Mercury 2: 확산 기반 초고속 추론 LLM | GeekNews](https://news.hada.io/topic?id=27005)
     * [Mercury 2: 확산 기반 병렬 정제로 1,009토큰/초를 구현한 초고속 추론 LLM](https://digitalbourgeois.tistory.com/2813)
     * 여러 토큰을 동시에 생성·정제하는 병렬 방식으로 1,009토큰/초 달성, 128K 컨텍스트 지원. OpenAI API 완전 호환
+* [2610.14162 Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation](https://arxiv.org/html/2610.14162)
+  * Stanford·Together AI(Hermann Kumbong·Ishan S. Khare 외, Simran Arora·Azalia Mirhoseini·Christopher Ré, 2026-10-09). 확산 언어 모델(DLM)은 병렬 샘플링으로 자기회귀보다 빠르지만 샘플링 스텝을 줄이면 품질이 급락하고 매 스텝 전체 시퀀스를 처리하며 좋은 품질까지 데이터셋을 여러 번 돌아야 함—NCM은 멀티스케일 잔차 VQ-VAE가 텍스트를 이산 코드 계층으로 인코딩하고 트랜스포머가 한 레벨씩, 레벨 안의 모든 코드는 병렬로 예측하는 2단계 coarse-to-fine 생성
+  * 같은 파라미터 규모에서 LM1B는 최강 DLM보다 나은 생성 perplexity로 21배 빠르고, OpenWebText는 비슷한 품질로 10배, XSum 요약은 같은 ROUGE-L로 31배 빠름. 스도쿠 추론에서는 더 적은 함수 평가로 모든 난이도에서 자기회귀·확산 기준선을 앞섬
 * [초등학생을 위한 요즘 LLM](https://velog.io/@sunrabbit123/%EC%B4%88%EB%93%B1%ED%95%99%EC%83%9D%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%9A%94%EC%A6%98-LLM)
 * [오픈소스 LLM 선택 기준 체크리스트](https://brunch.co.kr/@jinhoyooephf/39)
 * [LLM 서빙 프레임워크로 프라이빗 AI구축하기 feat. Ollama, vLLM, SGLang 세미남589@토크아이티, 윤성열 대표 / 드림플로우 - YouTube](https://www.youtube.com/watch?v=UK4QwKJDf-Q)
