@@ -1404,6 +1404,7 @@ Git
     * 이를 해결하기 위해 추상 구문 트리(AST)를 구축하는데 제어흐름 그래프로 소스와 싱크의 데이터 흐름을 파악할 수 있기 때문에 여기 오염도(Taint) 추적을 통해 더 명확하게 소스와 싱크가 이어지는 취약점만 발견 가능
 * [copybara: A tool for transforming and moving code between repositories | Google](https://github.com/google/copybara)
   * [Google Copybara: 저장소 간 코드 이동 | GeekNews](https://news.hada.io/topic?id=31018)
+  * [Copybara로 이해하는 저장소 간 코드 동기화와 변환 자동화 | digitalbourgeois](https://digitalbourgeois.tistory.com/3311)
   * 여러 저장소를 단일 authoritative 소스로 동기화(기밀↔공개 레포 싱크, 코드 부분 임포트, 다중 레포 기여 관리). 무상태—동기화 상태를 대상 커밋 메시지 라벨에 저장해 여러 사용자가 동일 설정으로 일관된 결과. Git 완전 지원, Java+Bazel. 3.6k stars
 * [cz-cli: The commitizen command line utility](https://github.com/commitizen/cz-cli) Git 커밋 메시지의 작성을 도와주는 CLI 도구
 * [delta: A viewer for git and diff output](https://github.com/dandavison/delta)
