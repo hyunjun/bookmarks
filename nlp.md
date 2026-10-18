@@ -4637,6 +4637,8 @@ NLP
 * [Ultramarine 1 Flash — Paper Instruments](https://www.paperinstruments.com/ultramarine)
   * [We are releasing Ultramarine 1 Flash, a frontier-class model built for knowledge work. It is open-source and achieves similar performance to Fable 5, while being 60x cheaper | Daanish Khazi | X](https://x.com/bertgodel/status/2110400987622265232)
   * [30만달러 사후 학습으로 '페이블 5' 넘었다…'Ultramarine 1 Flash' 공개 (aitimes) | 류내원 | AGI KR](https://www.facebook.com/groups/255834461424286?multi_permalinks=3121963858144651)
+  * [Ultramarine 1 Flash - 금융, 법률, 컨설팅 업무와 문서 작성에 특화한 AI 모델 | GeekNews](https://news.hada.io/topic?id=35519)
+    * 19개 실무 분야·88개 환경 유형으로 RL, 단위 테스트로 판별하기 어려운 과제마다 내용·정확성·요구사항 충족 평가 기준을 함께 생성, 자체 에이전트 실행 환경 Feather. 내부 벤치마크 PI Knowledge Work(완성된 Excel·PowerPoint·Word 제출, ERP·MES 작업)에서 59.3점·작업당 $0.13(Claude Fable 5 57.8점·$8.19의 약 1/60, 단 Opus 5.5 61.9·GPT-6 Sol 61.3보다는 낮음), 6개 지식 업무 벤치마크에서 기반 모델 대비 평균 +4.1점·출력 토큰 6.5% 감소, API 100만 토큰당 입력 $0.15·출력 $0.50. HN 반응은 더 좋은 모델을 빼고 비교한 선별 그래프에 대한 비판("최상위보다 조금 못하지만 60배 저렴하다고 하면 된다")
   * Paper Instruments(2026-10-14). 금융·법률·컨설팅·운영 등 지식 노동(덱·모델·메모 작성)용 오픈 모델—GLM-5.3 Flash를 5명 팀이 약 $300k(약 4억 원) 들여 사후 학습. 자체 공개 벤치마크에서 Claude Fable 5와 동급("Fable-class")이면서 비용은 60분의 1: JobBench 62.9(Fable 5 57.4·Gemini 3.8 Flash 60.6), PI Knowledge Work 59.3, FrontierFinance 53.3 1위, AutomationBench·DiligenceBench·APEX-Agents 1.1은 2~3위. 6개 벤치마크 합산 출력 토큰이 베이스보다 6.5% 적음
   * API 즉시 제공, 가중치는 2주 내 공개 예정(2026-10-16 기준 "coming soon"), 기술 보고서 공개. 벤치마크 대부분이 자체 측정이라는 점은 유의
 * [unsloth: Finetune Llama 3, Mistral, Phi & Gemma LLMs 2-5x faster with 80% less memory](https://github.com/unslothai/unsloth)
