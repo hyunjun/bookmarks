@@ -4042,6 +4042,9 @@ Programming
 * [Which Programming Language Can Handle the Most Users on a $12 Server? | Arjay McCandless - YouTube](https://www.youtube.com/watch?v=sQXFhh_PiG4)
   * 같은 API·같은 Postgres·같은 Nginx·같은 12달러 서버에서 백엔드만 Node·Bun·Python·Go·Java·Rust·C#·PHP 8가지로 다시 만들어, 수천 명의 가상 사용자를 몰아 넣고 각각 무너질 때까지 부하 테스트한 실험(설명·챕터 기준, 자막은 429로 미확인)
   * 공정한 비교 조건 설정, PHP는 Laravel·Laravel Octane·순수 PHP로 나눠 측정, 언어별 리더보드, Postgres 대신 SQLite로 바꿨을 때의 결과와 배운 점까지 다룸
+* [Language Benchmark · 바이브 코딩 백엔드 언어 비교 | ROBOCO](https://roboco.io/language-benchmark)
+  * 바이브 코딩 백엔드에는 어떤 언어가 맞을까—Claude Code(Sonnet 5.5·Opus 5.5)가 같은 RealWorld 백엔드를 TypeScript(Fastify·Prisma)·Python(FastAPI·SQLAlchemy)·Go(Gin·GORM)·Rust(Axum·SQLx)·C++(Drogon)로 언어·모델별 3회씩 구현(30/30 합격). 언어 런타임이 아니라 에이전트가 만든 코드를 구현 속도·성능·유지보수 24개 지표로 비교하고 가중치를 직접 조정 가능. 런타임은 AWS Fargate Spot ARM64(2 vCPU·1 GiB) 동일 조건에서 측정, 비용은 API 정가 환산
+  * 사전 등록한 균등 가중치 기준 Sonnet 5.5 종합: Rust 78(5.1분·3,283 req/s·41 MB)·Go 75(4.3분)·TypeScript 63·C++ 60(처리량 최고 4,469 req/s지만 구현 13.9분·기능 추가 성공률 67%)·Python 60(구현 3.4분·합격당 $0.48로 가장 싸지만 511 req/s). Opus 5.5에서는 Go 74·C++ 64·Rust 62 순. 과제 1개·3회 반복이라 보편적 최상위 언어의 근거는 아니라고 명시, 자매 벤치마크는 모델·에이전트 조합을 비교하는 coding-agent-benchmark
 
 # Book
 * [My Top 100 Programming, Computer and Science Books: Part One](http://www.catonmat.net/blog/top-100-books-part-one/)
