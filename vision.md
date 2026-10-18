@@ -485,6 +485,10 @@ Vision
   * 내보낸 ONNX 모델을 ONNX Runtime으로 돌려 이미지·영상·웹캠·스트림에서 빠르고 메모리 안전한 예측을 하는 Rust YOLO 추론 라이브러리·CLI—추론 시 Python 런타임 불필요, 인터프리터 없는 네이티브 바이너리라 서버·컨테이너·엣지에 적합. 단일 크레이트를 CLI(빠른 예측·배치)나 라이브러리(Rust 앱 내장)로 사용, 모든 Ultralytics 태스크와 통일된 디바이스 인터페이스의 다양한 하드웨어 백엔드, 같은 레포에서 브라우저용 WebGPU/WASM npm 패키지. AGPL-3.0
 * [unblink: Camera monitoring with VLM | zapdos-labs](https://github.com/zapdos-labs/unblink)
   * VLM 기반 카메라 모니터링 앱(Unblink V2). Qwen3-VL로 프레임 분석·요약, 카메라 피드와 자연어 채팅, 녹화 프레임 자연어 검색. 로컬 노드(`unblink-node`, Linux·Windows 바이너리 또는 `go install`)가 공개 릴레이 서버에 접속하는 relay-node 구조로 실시간 영상 처리. Go, AGPL-3.0, 1.5k stars
+* [UniMate — One Unified Model to Animate Diverse Skeletons | SIGGRAPH Asia 2026](https://linzhanmou.com/unimate/)
+  * [UniMate: SIGGRAPH Asia 2026 UniMate: One Unified Model to Animate Diverse Skeletons](https://github.com/Friedrich-M/UniMate)
+  * Princeton·UC Berkeley·MIT·NTU. 리깅된 3D 에셋과 텍스트 프롬프트만으로 골격 구조가 제각각인 캐릭터를 하나의 모델로 애니메이션—카테고리 템플릿, 골격별 재학습, 추론 시 참조 모션이 필요 없음. 위상 인식 diffusion transformer가 골격 위상을 어텐션에 넣는 3가지 장치: 관절 쌍 관계·측지 거리 기반 그래프 어텐션 바이어스, 그래프 라플라시안으로 RoPE를 임의 운동학 트리로 일반화한 spectral RoPE, rest-pose 골격에서 어텐션 풀링한 전역 위상 조건
+  * 두발·네발·조류·해양·곤충·뱀형 생물과 관절 강체까지 13,006개 모션 시퀀스를 통일 정규화·텍스트 쌍으로 묶은 UniML3D 데이터셋 공개(Truebones·Mixamo·Objaverse). 품질·일반화·효율에서 기존 방법을 앞서고 zero-shot 교차 위상 전이·중간 프레임 생성·확장·텍스트 편집 지원. 학습·추론 코드, Hugging Face 체크포인트, 임의의 리깅 GLB·glTF·FBX를 넣는 rig_preprocess, 3D 인터랙티브 데모 제공(Python, MIT)
 * [vatic is a free, online, interactive video annotation tool for computer vision research that crowdsources work to Amazon's Mechanical Turk](http://web.mit.edu/vondrick/vatic/)
 * [VICAR Open Source - We are pleased to announce that the VICAR Core is now available in Open Source form!](http://www-mipl.jpl.nasa.gov/vicar_open.html)
 * [VTK - The Visualization Toolkit (VTK) is an open-source, freely available software system for 3D computer graphics, image processing, and visualization](http://www.vtk.org/)
