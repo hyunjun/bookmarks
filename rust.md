@@ -558,6 +558,9 @@
 * [Why AI Infrastructure Is Moving to Rust - YouTube](https://www.youtube.com/watch?v=2j4_iPG5Aqk)
   * Byte Without Bite(2026-10, 6분 30초). Python이 ML 연구를 지배하는데 왜 AI 인프라에서 Rust가 자라는가—PyTorch·TensorFlow 코드 아래 Python→C++→CUDA→GPU로 내려가는 스택을 따라가며 Rust가 어디에 들어가는지 설명. 선택 이유: GC 없는 성능, 안전한 동시성, 메모리 레이아웃 제어, PyO3·maturin으로 Python 통합. 데이터 파이프라인·CPU 병목이 값비싼 GPU를 놀게 만드는 문제
   * Python 개발자가 이미 쓰는 Rust 기반 도구—Hugging Face tokenizers·safetensors, OpenAI tiktoken, Polars, Pydantic—와 추론 서버·벡터 DB·ML 프레임워크(Candle·Burn)에서의 역할. "Rust가 Python을 대체하나?"에는 연구 레이어와 시스템 레이어를 구분하면 둘이 공존하며, Rust는 C++의 대안 자리라는 답
+* [Why AI Companies Are Moving to Rust | Code Bear - YouTube](https://www.youtube.com/watch?v=kq7_2bDLtls)
+  * 2026-10-17, 5분. GitHub은 엔지니어 1명과 AI 에이전트 팀이 Copilot 에이전트 런타임을 Rust로 옮겼고, Claude Code 밑의 런타임 Bun도 Claude 에이전트로 Rust 재작성, OpenAI Codex CLI는 2025년에 Rust로—AI 업계는 거의 Python을 쓰는데 왜? 프롬프트 하나를 스택 아래로 따라가며 Rust가 실제로 있는 곳(에이전트 CLI, tiktoken 토크나이저, safetensors 모델 가중치, vLLM Rust 프런트엔드 RFC 같은 서버 정문, uv 같은 Python 도구)을 짚음
+  * Python 자체는 괜찮지만 Python 서버가 문제이고 C++은 메모리 안전성 문제(Chromium·Android 사례)가 있으며, AI 에이전트가 대규모 재작성을 싸게 만들었다는 점이 전환을 가속. Rust가 돕지 못하는 곳(Cloudflare 2025-11-18 장애, 컴파일 시간, Microsoft의 2030 전환 계획 철회)까지—결론: 사람이 생각하고 실험하는 곳은 Python, 종일 도는 부분은 Rust, GPU 수학은 여전히 CUDA C++. 수치는 각 회사 자체 발표 기준(자막은 받지 못해 설명·챕터로 정리)
 * [pyo3 - Rust bindings for the Python interpreter](https://github.com/PyO3/pyo3)
   * [Introduction - PyO3 user guide](https://pyo3.rs/)
   * [PyO3 프로젝트 생성하기 - 파이썬 프로그래머를 위한 러스트 입문](https://indosaram.github.io/rust-python-book/ch15-02.html)
