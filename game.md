@@ -76,6 +76,10 @@ Game
     * 전문 번역과 분석. ①기술 트리거—정적 바이너리 분석+LLM 에이전트 역공학 자동화로 x86 바이너리를 IR·현대 코드로 복원해 ARM·웹으로 즉시 재컴파일, WebGPU 90%+WASM으로 설치 없는 고사양 3D 게임, 서로 다른 엔진 게임의 애셋·로직이 에이전트를 매개로 재조합되는 "레고 블록화" ②코딩이 에이전트 첫 킬러 앱이 된 이유(작성·실행·테스트 폐루프)가 게임에도 그대로 적용—상태·규칙·피드백 루프를 가진 소프트웨어 ③독점 HW→독점 타이틀→30% 수수료의 월드 가든 락인이 무너지는 흐름을 DRM·소송 대신 플랫폼 경쟁력으로 흡수(Can't beat them, lead them) ④AAA 스튜디오 대신 소규모 연구팀의 Build in the Open. 댓글: WebGPU 정식판(2023 봄)부터 게임 플랫폼이 될 것으로 주시해 왔다, IP 보호가 난제
   * 2026-10-13 Xbox CEO의 팀 메모(labs.xbox.com). 최근 몇 주간 게임들이 빠르게 디컴파일되어 설계되지 않은 하드웨어에서 재구축—Windows PC 빌드가 Apple Silicon으로 변환되고 WebAssembly·WebGPU로 브라우저에서 구동, 최대 게임들이 다른 게임 소스 코드로 리믹스. 소프트웨어-하드웨어 결속, 창작-플레이 경계, 게임 발견 방식의 전제가 도전받지만 플레이어에겐 명백히 좋은 결과
   * Scott에게 게임 제작자·엔지니어·과학자 소그룹 XBOX LABS 신설 요청—공개적으로 만들고 "더 많은 사람이 플레이·창작하는지"로 성공 측정. 연간 720억 시간의 Xbox 플레이 시간은 전 세계 코딩 시간의 약 5배—코딩 다음 에이전트 워크로드로 게임. 4C·게임·하드웨어·IP 관리 우선순위는 유지, 도구는 업계와 공유
+* [Vibe-Coded Browser Ports Of Games Work Perfectly, Unfortunately | Kotaku](https://kotaku.com/we-might-be-cooked-as-these-vibe-coded-web-browser-ports-of-halo-the-simpsons-hit-and-run-and-gta-vice-city-seem-to-work-perfectly-2000743300)
+  * [AI 디컴파일과 바이브 코딩이 바꾸는 게임의 미래: 웹 브라우저 포트와 지식재산권 문제 | digitalbourgeois](https://digitalbourgeois.tistory.com/3796)
+  * Lewis Parker 오피니언(2026-10-09). 최근 몇 주간 AI로 디컴파일한 에뮬레이터·게임 포트가 수백 개 등장했고, 필자는 원인으로 디컴파일에 뛰어난 Claude Opus 5.5를 지목—수개월 걸리던 소스 재구성을 밤새 맡겨 끝낼 수 있게 됨. Call of Duty: Black Ops·Halo: CE·GTA Vice City·Skate 3·The Simpsons: Hit and Run 브라우저 포트를 직접 해보니 일부는 거의 완벽(Hit and Run은 240fps, Halo 포트 하나는 온라인 서버까지 동작)
+  * 대상은 대부분 PS2·PS3 시대 게임이라(PS3 RAM 약 512MB) 브라우저 자원은 제약이 아님. 쉽고 빠르게 다시 만들 수 있어 삭제 요청만으로는 막기 어려운, 해적판 DVD 이후 최대 규모의 IP 보호 두더지 잡기라는 우려. 번역 글은 원인·성능 평가가 필자 개인의 주장·체험이며 독립 검증되지 않았다는 점을 짚음
 * [game-developer-roadmap: Roadmap to becoming a game developer in 2022](https://github.com/utilForever/game-developer-roadmap)
 * [OpenDLSS-NR: A Vulkan reimplementation of NVIDIA's DLSS 5 Neural Rendering network, bit-exact against the original](https://github.com/maanHimself/OpenDLSS-NR)
   * NVIDIA DLSS 5 뉴럴 렌더링 네트워크를 Vulkan으로 재구현—원본과 비트 단위로 동일한 결과. JavaScript, MIT
