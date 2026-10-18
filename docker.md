@@ -3126,6 +3126,9 @@ Docker
   * [Voxxed Days Ioannina 2024 - Abusing Docker builds with BuildKit and friends - YouTube](https://www.youtube.com/watch?v=5zp2rV_I4dw)
     * [Voxxed Days Ioannina 2024 - Abusing Docker builds with BuildKit and friends - YouTube](https://lilys.ai/digest/344540?sId=5zp2rV_I4dw)
       * 네트워크 액세스 스토리지, 로컬 네트워크, 빌드 클라우드, 이미지 풀 시 저장된 캐시, 호스트 머신에서 동시에 여러 서비스 빌드, 도커 파일/도커 컴포즈 파일 효율적 활용 방법
+* [clone: Minimal VMM for multi-tenant dev shells and serverless](https://github.com/unixshells/clone)
+  * 멀티테넌트 셸 호스팅·고밀도 VM 워크로드용 경량 Linux VMM(Rust 2.5만 줄, KVM, 단일 바이너리, MIT)—unixshells.com의 셸 호스팅 기반. 도구를 미리 띄워 둔 템플릿 VM을 한 번 부팅해 메모리·레지스터를 스냅샷한 뒤 Shadow Clone(mmap MAP_PRIVATE)으로 커널 부팅 없이 약 160ms에 포크—쓰기 전까지 물리 페이지를 공유하고 hostname·CID·IP·MAC만 주입, 유휴 VM은 balloon으로 회수해 "셸 100개를 10개처럼" 운영
+  * 측정: 4GB Ubuntu VM 포크 2개가 호스트 RAM 약 1GB, Alpine 포크 3개는 RSS 합계 13MB(템플릿 127MB). Alpine·busybox 경량 템플릿으로 Lambda식 서버리스, 사전 복사 방식 TCP 라이브 마이그레이션, 3GB 이상 메모리의 PCI MMIO hole 자동 분할
 * [codetainer allows you to create code 'sandboxes' you can embed in your web applications](https://github.com/codetainerapp/codetainer)
 * [colima: Container runtimes on macOS (and Linux) with minimal setup](https://github.com/abiosoft/colima)
 * [controlplane-in-docker: all kubernetes controlplane in container](https://github.com/iwanhae/controlplane-in-docker)
