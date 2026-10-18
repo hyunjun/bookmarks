@@ -6388,6 +6388,8 @@ NLP
 * [Lowest-Latency Inference APIs for Voice and Realtime Agents: A Time to First Token TTFT-First Benchmark | MarkTechPost](https://www.marktechpost.com/2026/08/30/lowest-latency-inference-apis-for-voice-and-realtime-agents-a-time-to-first-token-ttft-first-benchmark/)
   * [음성 AI 추론 API 성능 비교: TTFT보다 중요한 실제 응답 속도의 기준 | digitalbourgeois](https://digitalbourgeois.tistory.com/3604)
   * 음성 에이전트용 추론 API의 TTFT·first audio 시간·전체 파이프라인 레이턴시 버짓 벤치마크. TTFT만으로는 체감 속도 판단 불가—TTS는 완성된 구절이 필요하므로 TTFS(Time to First Sentence)와 STT→LLM→TTS→네트워크 전 단계를 함께 측정해야 함
+* [Voice Agent Development - Tutorial 1 - Introduction | thenewboston - YouTube](https://www.youtube.com/watch?v=FV6UwsxBpaI)
+  * thenewboston의 음성 에이전트 개발 튜토리얼 시리즈 1편, 소개(12분, 2026-10-09). 영상 설명에는 후원 사이트 링크뿐이고 자막도 429로 받지 못해 제목만 확인
 * TTS survey
   * [(PDF) A SURVEY ON METHODS OF TTS AND VARIOUS TEST FOR EVALUATING THE QUALITY OF SYNTHESIZED SPEECH](https://www.researchgate.net/publication/353155941_A_SURVEY_ON_METHODS_OF_TTS_AND_VARIOUS_TEST_FOR_EVALUATING_THE_QUALITY_OF_SYNTHESIZED_SPEECH)
     * MOS Mean Opinion Score 결국 사람들의 평가
