@@ -2526,6 +2526,7 @@ Artificial Intelligence
   * 코딩 에이전트용 오픈소스 에이전트 하네스(CLI+MCP 서버, Apache-2.0, `npm i -g @osfactory/har`). README·CLAUDE.md·Cursor rules·CI yaml에 흩어져 서로 어긋나는 "이 레포를 어떻게 실행·검증하나"를 레포 안의 기계가 읽는 계약 `.har/` 하나로 모아 Claude Code·Cursor·Codex·Copilot·Cline·opencode 등 어떤 MCP 에이전트든 같은 방식으로 읽음. 에이전트마다 슬롯—자체 git worktree·브랜치·포트·DB—을 줘 여러 에이전트가 한 레포에서 충돌 없이 동시 작업(`har env launch 1`), 프로젝트의 실제 체크를 같은 파이프라인으로 돌려 로그·아티팩트·검증된 트리 해시를 증거로 남기고 커밋 게이트에서 강제(`har env verify 1 --full`). Discover→Isolate→Build→Verify→Hand off
   * 구성: 코어 하네스, 로컬 대시보드 Mission Control(모든 레포·worktree·실행·검증·아티팩트·비용 추적), 플러그인(Playwright 브라우저 e2e·RocketSim 등 프레임워크별 검증 스테이지), 프로필(웹앱·CLI/라이브러리·iOS Xcode). `har env maintain`이 설치된 하네스와 템플릿의 드리프트를 감지. 벤더 샌드박스에 계약이 갇히지 않아 에이전트 교체 자유. 2026-08-28 v1.0.0, Kerno 후원. 11분 데모는 기존 Next.js 레포를 온보딩해 에이전트가 "완료"라고 말한 것을 증명하게 하는 과정. TypeScript, 112 stars
 * [harness2: Harness² — Recursive Agent Harnessing for an Open World | Google Research](https://github.com/google-research/harness2)
+  * [Harness²: 재귀적 에이전트 하니싱으로 AI 에이전트의 실행 환경을 개선하는 방법 | digitalbourgeois](https://digitalbourgeois.tistory.com/3839)
   * 모델 가중치는 고정한 채 하네스(프롬프트·도구·메모리·스킬·오케스트레이션)를 재귀적으로 최적화하는 플러그인형 프레임워크(Python, Apache-2.0)—하네스 설계 때 보지 못한 과제를 만나는 열린 환경 대상. 과제 수준 재귀는 Propose–Probe–Compose(수정 제안→같은 과제에서 효과 탐색→실행 간 행동 대비로 정제된 하네스 합성, 정답 피드백 불필요), 하네싱 수준 재귀는 채택된 하네스와 근거 있는 교훈으로 영속 improvement harness를 갱신해 다음 정제를 안내
   * 편집 가능한 8개 구성요소: 시스템 프롬프트·가드레일·메모리·도구 안내·서브에이전트·스킬·스크립트·플러그인. 단 한 번의 Harness² 단계로 GLM-5·Gemini 3.5 Flash가 기본 하네스 대비 WorkBuddy-Bench 최대 11.5점, JobBench 4.5점, LAB 부분 통과율 11.8%p 향상(재귀 예산을 늘리면 추가 향상). 병렬·순차 재귀, OpenCode·Codex 실행기 지원, 자격증명 없이 돌아가는 로컬 데모 제공
 * [harness-editor: A single-page HTML tool for visually editing .claude/agents/*.md and .claude/skills/**/SKILL.md files](https://github.com/amazingsyp/harness-editor)
@@ -3297,6 +3298,9 @@ Artificial Intelligence
 * [GoModel: Fast, lightweight AI gateway written in Go](https://github.com/ENTERPILOT/GoModel)
   * [GoModel - Go로 작성된 고성능 AI 게이트웨이 | GeekNews](https://news.hada.io/topic?id=29021)
   * 11개 AI 프로바이더 통합(OpenAI·Anthropic·Gemini·Groq·xAI 등) OpenAI 호환 API. 2계층 캐싱(exact+semantic), 대시보드 UI, Prometheus 메트릭, 감사 로그. SQLite/PostgreSQL/MongoDB. LiteLLM 대안, 단일 바이너리, MIT
+* [Google AI Edge Gallery: A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally](https://github.com/google-ai-edge/gallery)
+  * 오픈소스 LLM을 휴대폰에서 완전 오프라인으로 돌려 보는 Google AI Edge 공식 앱(Kotlin, Apache-2.0, 25k stars)—Google Play·App Store·macOS, Play 없는 기기는 릴리스 APK. 기능: Wikipedia·지도·시각 요약 카드 같은 도구를 붙이고 URL이나 GitHub Discussions에서 모듈형 스킬을 불러오는 Agent Skills, Gemma 4 계열의 단계별 추론을 보여주는 Thinking Mode 채팅, 사진·영상에 물어보는 Ask Image, 음성 받아쓰기 Audio Scribe
+  * 최신 버전은 EmbeddingGemma 2를 공식 지원해 100% 온디바이스 멀티모달 시맨틱 검색—타이핑하는 대로 사진을 찾고 이미지 유사도 검색까지 하는 Instant Media Search, 자연어로 영상 속 순간을 찍어 타임라인에서 바로 이동·트리밍·저장하는 Video Moment Finder
 * [guidellm: Platform for evaluating language models under real workloads](https://github.com/vllm-project/guidellm)
   * OpenAI/vLLM 호환 서버 상호작용 시뮬레이션. 프로덕션 트래픽 패턴 생성, 시스템 성능·리소스 요구사항·운영 경계 상세 리포트. 멀티모달 실/합성 데이터셋 지원
 * [🧞 Genie: Generative Interactive Environments](https://sites.google.com/view/genie-2024/home)
