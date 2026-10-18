@@ -3213,6 +3213,10 @@ App
   * [Obsidian Clipper - Start Here - YouTube](https://www.youtube.com/watch?v=OiWKZBd7Hn4)
   * [Obsidian Copilot: The Best AI Integration for Your Notes - YouTube](https://www.youtube.com/watch?v=iv_u67Y-6ek)
   * [obsidian-excalidraw-plugin: Obsidian plugin to edit and view Excalidraw drawings](https://github.com/zsviczian/obsidian-excalidraw-plugin)
+    * [obsidian-excalidraw-cli: A library to support Obsidian Excalidraw CLI development](https://github.com/zsviczian/obsidian-excalidraw-cli)
+      * [Obsidian Excalidraw CLI: GPT-6 Luna vs 6.1 Sol (Full Workflow & Benchmark) | Zsolt's Visual Personal Knowledge Management - YouTube](https://www.youtube.com/watch?v=H64AW1l-ae4)
+        * 13분(2026-10-12, 설명·챕터 기준, 자막은 429로 미확인). 플러그인 v2.29.0의 새 기능 CLI 소개—설정에서 Command Line Interface를 켜고 샌드박스 볼트를 만든 뒤 에이전트에 이 스킬 레포와 프롬프트·참조 이미지를 주면 됨. AI가 만든 래스터 인포그래픽을 100% 편집 가능한 네이티브 Excalidraw 캔버스(재사용 벡터 요소)로 다시 그리는 과제로 저가 GPT-6 Luna와 고지능 Codex GPT-6.1 Sol을 경주—Luna는 빠른 초안, Sol은 깔끔한 기하와 객체 재사용, 비전 피드백 루프로 반복, 속도·품질·비용 비교와 벡터를 스텐실 라이브러리에 저장
+      * 코딩 에이전트(Copilot·Codex·Claude 등)가 로컬 터미널→Obsidian CLI→Excalidraw 플러그인 경로로 볼트 안의 편집 가능한 드로잉을 발견·제어하도록 돕는 에이전트 킷(SKILL.md·AGENTS.md·예제·Node 헬퍼, AGPL-3.0)—별도 렌더러나 클라우드 서비스가 아니라 설치된 플러그인이 드로잉 생성·리비전 검사·저장·내보내기를 담당. 데스크톱 Obsidian 1.12.2+에서 Settings→General→Command line interface와 플러그인 CLI를 켜고, `doctor.mjs`나 `obsidian vault="…" obsidian-excalidraw-plugin:help|status|schema`로 읽기 전용 탐색부터 시작. Obsidian이 돌고 있는 컴퓨터의 터미널이어야 하며 클라우드·컨테이너 에이전트는 제어 불가, npm 의존성·API 키 없음
   * [kplex: K-Plex — Obsidian graph view plugin (ExcaliBrain 2.0)](https://github.com/zsviczian/kplex)
     * [Meet K-Plex: The New Obsidian Graph View Plugin (ExcaliBrain 2.0) - YouTube](https://www.youtube.com/watch?v=pQbv5jSaW9Q)
     * Zsolt(Excalidraw 플러그인 개발자)의 새 Obsidian 그래프 뷰 플러그인—ExcaliBrain의 후속(2.0). TypeScript, AGPL-3.0
@@ -3290,6 +3294,11 @@ App
 * [Zettlr | A Markdown Editor for the 21st Century](https://www.zettlr.com/)
 
 # Novel
+* [neo: A novel-writing tool created by a novelist | Hugh Howey](https://github.com/hughhowey/neo)
+  * [NEO - A Writing Tool for Authors | Hugh Howey - YouTube](https://www.youtube.com/watch?v=_K-ExOiEv40)
+    * 11분(2026-09-25, 설명 기준, 자막은 429로 미확인). 작가 본인의 전업 집필 환경인 NEO를 내려받아 설치하고 쓰는 법—다른 집필 소프트웨어의 기능을 다 갖추지 않은 게 핵심이고, 초고를 키보드만으로 산만함 없이 써 내려가는 도구. 책장 UI, 프로젝트별 마지막 위치 기억, 아웃라인, 타자기 모드, 어두운·밝은 모드, 전체 화면. "대신 미뤄 둔 그 책을 끝내 달라"
+  * 『Wool』(Silo) 작가 Hugh Howey가 만든 작가 전용 무료 워드프로세서(JavaScript, MIT, macOS·Windows·Linux). 설치 순간부터 "책"만 쓴다고 전제—계정·구독 없이 로컬 평문 파일로 저장, 라이브러리는 파일 목록이 아닌 책장(시리즈·상태·필명별 선반, 표지와 단어 목표 진행바). Enter 한 번은 새 단락, 두 번은 `***` 섹션 구분, 세 번은 새 챕터(자동 번호, 프롤로그·에필로그 지정). 드롭캡·em dash·곡선 따옴표 자동, 맞춤법은 부를 때만
+  * "darlings를 죽이되 시체는 남겨라"—아깝지만 걸리는 문단을 Darlings 탭으로 끌어다 두면 원고에서 빠지되 원래 자리로 복원 가능. 이름·날짜가 떠오르지 않으면 ⌘⇧X로 자리표시+메모를 남기고 챕터 목록에 빨간 점 표시. Outline 탭은 챕터·섹션을 인덱스 카드로 펼쳐 메모하면 원고에 회색 유령 단락으로 나타남
 * [novelWriter: novelWriter is an open source plain text editor designed for writing novels. It supports a minimal markdown syntax for formatting text. It is written with Python 3 (3.6+) and Qt 5 (5.3+) for cross-platform support](https://github.com/vkbo/novelWriter)
 * [The Ren'Py Visual Novel Engine](https://www.renpy.org/)
 
