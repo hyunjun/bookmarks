@@ -1330,6 +1330,10 @@ App
 * [noti - Trigger notifications when a process completes](https://github.com/variadico/noti)
 * [Overwatch — interactive 3D globe with ~31 live data streams](https://overwatch.earth/)
   * 로그인·결제 없이 브라우저에서 약 31개 실시간 데이터 스트림을 3D 지구본에 표시. 항공기·선박·날씨·위성·지진·산불·번개·오로라·인터넷 이벤트 등. NASA·NOAA·ADS-B·AIS 등 공개 피드, 서버사이드 fetch(IP 비공유)
+* [plexo: Speed up downloads by combining multiple network connections in parallel](https://github.com/anmolkapil/plexo)
+  * [Plexo — Free download manager that combines your networks](https://getplexo.app/)
+  * Wi-Fi·이더넷·휴대폰 테더링 등 가용한 인터넷 연결을 모두 합쳐 파일과 토렌트를 더 빨리 받는 무료 오픈소스 다운로드 관리자(TypeScript, MIT, macOS·Windows·Linux, 프리릴리스). 같은 파일의 조각을 연결마다 병렬로 받고 빠른 네트워크에 더 많이 배분, 네트워크·서버·디스크 성능에 맞춰 병렬 스트림 수를 자동 조절하며 느린 조각은 놀고 있는 연결에서 경쟁시켜 막판 지연을 줄임. 각 네트워크가 서로 다른 회선으로 인터넷에 나가야 효과가 있음(같은 공유기의 Wi-Fi+이더넷은 합쳐도 그대로)
+  * 직접 링크·마그넷·.torrent를 한 큐에서 관리, 재시작·절전 후 이어받기, 만료된 링크 교체, Chrome·Firefox 확장으로 로그인된 브라우저 세션째 다운로드 전달. 전체·네트워크별 속도 제한, 통화·스트리밍용 Slow 모드, 일·주·월 데이터 한도, 요일·시간 예약
 * Rambox [Workspace simplifier - Rambox](https://rambox.app/)
 * textografo
   * [플로 차트를 손쉽게 만들자](https://brunch.co.kr/@sonujung/24)
