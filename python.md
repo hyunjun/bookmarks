@@ -3556,6 +3556,9 @@ Python
     * [Introducing marimo-studio | marimo - YouTube](https://www.youtube.com/watch?v=p6bXk3IzMiw)
     * 하나의 반응형 marimo 노트북을 리포트·대시보드·랩·슬라이드 같은 여러 뷰로—데이터·계산·컨트롤은 노트북에 두고 청중별 뷰를 각자의 프런트엔드 프로젝트로 만들며, 뷰가 노트북의 라이브 셀·컨트롤을 렌더링해 입력을 바꾸면 의존 결과가 갱신되고 모든 결과가 계산한 셀로 추적됨. Claude Code·Codex에 `uvx --with marimo-studio agent-plugins read marimo-studio`로 Studio의 에이전트용 지침을 읽혀 스크롤리텔링 리포트·슬라이드를 만들게 하거나, Studio 툴바의 Add view로 직접 작성. 실험 단계. Python, Apache-2.0
   * 반응형 Python 노트북—변수 의존성을 추적해 연결된 셀을 자동 갱신, 순수 .py 파일이라 Git 친화적, 인터랙티브 UI 요소와 웹 앱 변환 지원
+  * [Jupyter, Streamlit 대신 다음 세대를 위한 파이썬 Marimo | 오늘코드todaycode - YouTube](https://www.youtube.com/watch?v=D4o8PWIc2gs)
+    * 43분(2026-10-19). PyCon JP 2026 키노트에서 Jupyter 공동 제작자 Carol Willing이 "다음 세대를 위한 파이썬"으로 소개한 Marimo를 다루게 된 계기(발표자도 라이트닝 토크에 올라 "요즘 Jupyter를 안 쓰는 이유" 발표). 공공데이터포털 국민연금 사업장 가입 현황 데이터로 기업별 입·퇴사 추정·추정 연봉 대시보드를 Antigravity CLI+Gemini 1.5 Pro에 한두 줄 프롬프트("이 데이터로 종합 Marimo 대시보드 만들어줘", "필터와 KPI 카드 추가")로 만든 시연
+    * Jupyter와의 차이: 출력까지 담긴 JSON(.ipynb) vs 코드만 있는 순수 .py, 실행 순서에 따라 숨은 상태가 쌓이는 REPL vs 변수 정의·참조를 분석해 의존 셀을 함께 실행하고 셀을 지우면 변수도 메모리에서 제거하는 반응형 실행, `%`/`!` 매직 미지원 대신 내장 패키지 관리·서버 프로세스, `marimo convert`로 기존 노트북 변환. Streamlit은 인터랙션마다 스크립트 전체를 재실행해 느린데 Marimo는 의존 셀만. WebAssembly 노트북은 서버 없이 브라우저에서 Python 실행—단 스레드 락·공유 메모리 미지원, 메모리 약 2GB 제한, pdb 미지원, Chrome 권장, 공식 문서는 튜토리얼·교육·가벼운 탐색용으로 쓰고 무거운 연산은 로컬·서버에서 하라고 안내
 * [Mercury – Build Data Web Apps in Jupyter Notebook](https://runmercury.com/)
   * [mercury 시작](https://brunch.co.kr/@fermat39/143)
 * [nb-cli: A CLI-first interface for AI agents to work with notebooks](https://github.com/jupyter-ai-contrib/nb-cli)
