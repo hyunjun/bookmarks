@@ -1835,6 +1835,8 @@ Programming
 * [Google & AWS Veteran: What Top Tier Software Architects Do Differently | Beyond Coding - YouTube](https://www.youtube.com/watch?v=F8X9_Dp3ZUk)
   * 2026-01-21, 65분. 『The Software Architect Elevator』의 Gregor Hohpe(전 Google·AWS)가 말하는 엔지니어에서 아키텍트로 가는 법—"아키텍트는 방에서 가장 똑똑한 사람이 되려 하지 말고 모두를 더 똑똑하게 만들어야 한다". 나쁜 아키텍트와 증폭기형 아키텍트 구분, 아키텍트의 진짜 가치는 리스크를 낮추는 것(위장한 리스크 매니저), 불명확한 요구사항을 시각화하는 "Phantom Sketch Artist" 기법, 나쁜 결정에 반대하기 위한 정치적 자본 쌓기, 단순한 아키텍처가 가장 만들기 어려운 이유
 * [자주 보는 개발 설계 패턴 가지 탄 | 커리어리](https://careerly.co.kr/comments/78185)
+* [10 Backend Design Pattern Laws of Senior Engineers and Architects | Cloud X Berry - YouTube](https://www.youtube.com/watch?v=b4IlyJSIlL0)
+  * 14분(2026-10-16). 처음엔 단순했던 백엔드가 기능·개발자·비즈니스 변경이 쌓이며 손대기 위험해지는 순간을 위한 패턴 10개를 문제 하나씩 초보자용으로—Repository(DB 접근을 비즈니스 로직 밖으로, 목으로 테스트하고 MySQL→PostgreSQL 교체), Factory(Stripe·Razorpay·PayPal 같은 결제 제공자를 한곳에서 생성), Singleton(설정·로깅 공유 인스턴스와 과용의 함정), Strategy(쌓여 가는 할인 if-else를 교체 가능한 전략으로), Observer(주문 서비스가 이벤트를 발행) 등
 * [Design Patterns: Build better software from day one — Marine Guyot - YouTube](https://www.youtube.com/watch?v=mB5uGoXYG3A)
   * [디자인 패턴: 소프트웨어 구축 및 연구 활용 | Marine Guyot](https://livewiki.com/ko/content/design-patterns-software-build)
 * [LINE LIVE 채팅 기능의 기반이 되는 아키텍처](http://developers.linecorp.com/blog/ko/?p=290)
