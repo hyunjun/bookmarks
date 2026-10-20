@@ -3169,6 +3169,8 @@ AWS
 * [개발자를 위한 AWS 클라우드 보안 (1) - 클라우드 설계 원칙과 IAM – 핑퐁팀 블로그](https://blog.pingpong.us/aws-cloud-security-for-devs-1/)
 * [개발자를 위한 AWS 클라우드 보안 (2) - 로깅 및 모니터링과 데이터 보호 – 핑퐁팀 블로그](https://blog.pingpong.us/aws-cloud-security-for-devs-2/)
 * [개발자를 위한 AWS 클라우드 보안 (3) - 인프라 보안과 사고 대응 – 핑퐁팀 블로그](https://blog.pingpong.us/aws-cloud-security-for-devs-3/)
+* [보안 계정을 처음부터 다시 설계했습니다 | 아임웹 테크](https://tech.imweb.me/posts/dedicated-security-account-baseline/)
+  * AWS 계정이 늘어나는 동안 인증·네트워크·서버 접근 기준이 계정마다 따로 자라 "이 권한 누가 열 수 있어요?"가 반복되던 상황에서, 보안 전용 AWS 계정을 새로 만들어 네트워크·인증·배포의 기준면(baseline)으로 삼은 과정—Transit Gateway로 계정들을 잇고, 사람은 Okta, 데이터는 QueryPie로 하나의 관문 뒤에. 서버에 사람이 들어가는 일을 예외로 만들어 SSH를 없애고 남은 접근은 인프라팀만 SSM으로 감사 로그를 남기며 수행
 * [Stave — AWS security findings from configuration snapshots](https://www.systeminvariant.dev/)
   * 계정 구성 스냅샷에서 리소스 간 관계를 보는 configuration-graph 분석으로 단일 설정 스캐너가 못 잡는 보안 문제 탐지—예: CloudTrail이 계정 스냅샷에 존재하지 않는 대상 버킷을 참조하는 ghost destination. `go install github.com/sufield/stave` 또는 brew 설치, Docker 샌드박스 데모 제공
 * [AWS에서 보안 감사 및 이상징후 탐지 | 우아한형제들 기술블로그](https://techblog.woowahan.com/2603/)
