@@ -394,6 +394,12 @@ Go
   * 제시된 다섯 가지 패턴은 Repository, Middleware, Handler, Service, Context 패턴
     * 이들은 각각 데이터 접근 추상화, 요청 전반의 관심사 중앙 집중화, HTTP 처리 구조화, 비즈니스 로직 캡슐화, 요청 생명주기 관리 담당
   * 궁극적인 목표는 이러한 전략적 설계 결정을 통해 Go REST API를 더욱 견고하고, 테스트 용이하며, 확장 가능하게 만드는 것
+* [Code Editing Just Got Better (Interactive Refactoring) | Practical Coder - YouTube](https://www.youtube.com/watch?v=NiiPvSdkVtk)
+  * [Support refactors that require user input/options · Issue #1164 · microsoft/language-server-protocol](https://github.com/microsoft/language-server-protocol/issues/1164)
+  * [x/tools/gopls: experimental LSP dialog support · Issue #76331 · golang/go](https://github.com/golang/go/issues/76331)
+  * [x/tools/gopls: additional client support for interactive refactoring · Issue #79937 · golang/go](https://github.com/golang/go/issues/79937)
+  * 4분(2026-10-18). Go 팀이 LSP에 제안한 "인터랙티브 편집"—지금까지 코드 액션은 변수 이름 바꾸기를 빼면 사용자에게 물을 방법 없이 즉시 실행되는 동작(struct 태그 추가를 누르면 JSON 태그를 무조건 붙임)이었는데, 서버가 질문 폼 필드 목록을 보내고 에디터가 입력 UI를 렌더링하는 방식을 프로토콜에 추가하자는 것. Dart(Flutter) 팀과 공동 작업이고 Gleam도 지원에 적극적. 최신 gopls+VS Code Go 플러그인 프로토타입 시연—struct 태그를 XML로, PascalCase로 고르기, 코드베이스에서 인터페이스를 검색해 선택하면 메서드 선언을 채워 주는 인터페이스 구현, GUI 없는 Neovim 포크에서도 동작. 다음 목표는 시그니처 리팩터링. 제안은 아직 검토 중이며 LSP 비대화·에디터 유지보수 부담·AI 코딩 시대에 필요한가라는 질문도 던짐
+  * 배경 이슈: LSP 저장소 #1164(2020)가 사용자 입력이 필요한 리팩터링 지원 요구의 원점, gopls #76331(2025-11)은 기존 LSP 메서드 변형 또는 새 메서드 제안으로 그 요구를 실험하는 피처 요청(타입 이동·선언 이동·시그니처 변경 리팩터링, gomodifytags 입력 등이 혜택), #79937(2026-06)은 gopls v0.22.1에서 Emacs·Neovim 클라이언트가 인터랙티브 리팩터링 코드 액션을 아직 제공하지 않는 문제
 
 # API
 * [Let's Talk Locks!](https://www.infoq.com/presentations/go-locks/)
