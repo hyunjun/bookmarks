@@ -363,6 +363,10 @@ Artificial Intelligence
 * [한영자막 코드 리뷰의 종말: 데이터가 보여주는 진짜 현실입니다 | Tech Bridge - YouTube](https://www.youtube.com/watch?v=-TeOEuplMrQ)
   * Tech Bridge. npm 공동 창업자·Arize AI DevRel 총괄 Laurie Voss의 발표(24분). 에이전트 도입 후 작성 코드는 741% 늘었지만 실제 출시 소프트웨어는 30% 증가에 그친 원인은 인간 코드 리뷰가 새 병목이 됐기 때문—사람의 집중 한계는 400줄인데 1만 줄 PR이 쏟아지고 "더 열심히 리뷰하기"는 구조적으로 실패(Cisco 연구). 테스트 통과≠머지 가능(METR): SWE-bench 88% 모델이 머지 적합성 벤치 FrontierCode에서는 29%로 폭락, 차세대 모델의 새 학습 신호는 머지 적합성
   * 현장의 자동 리뷰—GitHub Copilot·Cursor의 다중 패스 검증과 기본 의심 아키텍처, CodeRabbit·Graphite의 인간 수용률 지표, 리뷰와 코드 수정의 결합. 인간을 완전히 빼는 시도(Nicholas Carlini의 C 컴파일러, Bun의 Zig→Rust 포팅이 남긴 13,044개 unsafe 블록, OpenAI의 무인 코딩 프로덕트)와 Dex Horthy의 반성("제발 코드를 읽으세요"), 테스트 스위트가 볼 수 없는 외부 맥락, 리뷰어를 노리는 프롬프트 인젝션, 최후의 검토자로 남은 프로덕션 관측. 결론: 코드 리뷰는 죽은 게 아니라 재설계 중—개발팀은 지금 검증 하네스를 구축해야
+* [Letting AI Approve Low-Risk PRs: What Worked in Production | InfoQ - YouTube](https://www.youtube.com/watch?v=ir9UUDKJ-UE)
+  * [Duolingo's AI Literacy Program and Automated Code Review | InfoQ](https://www.infoq.com/presentations/duolingo-ai-literacy-code-review/)
+  * QCon London 2026(40분), Duolingo DevEx AI 팀 Sarah Deitke. 툴 접근권(Cursor·Claude Code)은 많은 조직이 갖췄지만 "잘 쓰게 돕는 전담 팀"은 드물다는 문제의식—AI 도입은 문화 변화이고 책임(엔지니어와 리뷰어 중 하나가 AI면 누가 책임지나)과 신뢰(쌓이긴 느리고 잃긴 빠름)가 달라짐. 실습형 워크숍, IDE·언어·토큰·비용·모델별 사용을 보는 AI 관측 대시보드(워크숍 주제 선정에 활용), 15분 라이브 오피스아워, Slack 공유 학습, 베타 접근·에스컬레이션·evals 같은 업계 모범사례 파악을 위한 벤더 관계 투자로 엔지니어 AI 툴 사용률 약 80%→거의 100%
+  * 케이스 스터디 PR 리스크 평가 봇: 코드 변경을 LLM이 저·중·고위험(토큰 한도 초과면 미판정)으로 버킷팅하고 설명을 붙여, 저위험이면서 추가 조건을 만족하면 자동 승인해 사람 리뷰 없이 머지(Meta의 Diff Risk Score 선례를 300명 조직 규모로 축소). 근거는 전체 코드 변경의 약 30%가 아무 피드백 없이 러버스탬프되고 있었고 그 집합이 저위험 버킷과 잘 겹쳤다는 분석—마크다운·승인된 메타데이터/설정 변경 등은 저위험, 학습 앱 API 버전 매핑처럼 틀리면 위험한 것은 중위험으로 두 사람이 책임. 가드레일: 리포별로 봇을 코드 오너 변경에만 허용, 컴플라이언스·리소스 변경 제외, 보수적 설정이라 지금까지 장애에 연루된 적 없음. 6개월간 자동 승인 PR 비율 0→약 10%로 오르며 전체 PR 중간 머지 시간 약 18→12시간
 * [Agile is Out, Architecture is Back | by Craig Adam | Sep, 2025 | Medium](https://medium.com/@craig_32726/agile-is-out-architecture-is-back-7586910ab810)
   * [원대로 - 🚨<개발자는 사라지고, "아키텍트"가 뜬다: AI가 다시 불러온 설계의 시대> - “코드 좀 친다”는 말은... | Facebook](https://www.facebook.com/drwonsg/posts/pfbid0KNf7KyyjpsCvJ1fq9NcLBLimN9odhxk1YgfZP7YXGa5sLaT8nXKPP7NLtJwhWVRal)
 * [AI Was Supposed to Help Juniors Shine. Why Does It Mostly Make Seniors Stronger? | <Can ELMA/>](https://elma.dev/notes/ai-makes-seniors-stronger/)
@@ -1549,6 +1553,10 @@ Artificial Intelligence
 * [Horizon - Automated AI news aggregator & summarizer](https://www.horizon1123.top/)
   * [Horizon: Your own AI-powered news radar. Generates daily briefings in English & Chinese](https://github.com/Thysrael/Horizon)
   * 개인 맞춤 AI 뉴스 레이더. Hacker News·RSS·Reddit·Telegram·X·GitHub·OpenBB 모니터링, Claude/GPT/Gemini/DeepSeek/Doubao/MiniMax/Ollama 점수화(0-10), 중복 병합·웹검색 컨텍스트 보강·커뮤니티 댓글 요약, EN/zh 이중 언어, GitHub Pages·이메일·Feishu/Slack/Discord 발행. uv·Docker·GitHub Actions cron. MIT
+* [Hycli: Websites, ready for AI. Turn website tasks into verified CLI and MCP actions, with a local dashboard and 20 languages](https://github.com/Hybirdss/Hycli)
+  * [최두옥 - 인공지능이 인간의 업무를 대신하면 굳이 모니터를 볼 필요가 있을까? 웹사이트의 본질은 화려한 그래픽이 아니다 | Facebook](https://www.facebook.com/Agnes.doook/posts/pfbid02CuxJreTkXZjuzyBWW3UJUqo1jGqFDe7TkpSPTRBwa5Tbo1eccQVJ672V2Wohpe39l)
+  * 웹사이트 URL과 하고 싶은 일(`hycli prepare <url> --intent "글 검색, 초안 저장, 발행"`)을 주면 AI 워커 3개가 문서·프런트엔드 번들·실제 브라우저 네트워크 트래픽을 조사해 읽기·쓰기·다단계 워크플로를 타입드 CLI와 MCP 도구셋으로 만들어 주는 도구—준비 단계에서 계정을 변경하는 요청은 절대 보내지 않고, 읽기는 바로 실행·쓰기는 `hycli writes <site> allow`로 한 번 허용해야 생성·수정·삭제 가능. Rust 단일 네이티브 바이너리에 로컬 대시보드(127.0.0.1:4318) 포함, Node·Rust 없이 실행, Claude Code·Cursor·Codex·Windsurf에 `hycli mcp`로 연결, OpenAI·Anthropic·xAI·Z.ai 또는 로컬 Codex 로그인 사용, README 20개 언어. only-cli처럼 "브라우저 대신 텍스트 명령"이지만 페이지 압축이 아니라 사이트별 전용 API 단축키 생성이 접근법. Apache-2.0, 347 stars
+  * 최두옥의 해설: AI에게 마우스를 쥐어 주는 대신 웹사이트의 백스테이지(서버와 주고받는 신호)를 공개해 사이트별 전용 단축키를 만든 것—브라우저 로딩·화면 캡처 없이 봇 차단벽에 걸리지 않고 빠르고 거의 무료, 항공권·숙소 가격 24시간 감시 후 특가·취소표 알림, 폐쇄형 커뮤니티 글 대량 분석 같은 용도. A→B→C→D→E를 사람 없이 흘리는 자동화보다 AI 수준이 오를수록 중간 과정 없이 A→E로 가는 길이 열린다는 관점
 * [iloveAgents: AI agents worth falling in love with. Built by the community, loved by everyone ❤️](https://github.com/AditthyaSS/iloveAgents)
   * [iloveagents.vercel.app — Live Demo](https://iloveagents.vercel.app/)
   * 커뮤니티가 만든 바로 쓰는 AI 에이전트 컬렉션—브라우저 기반 BYOK(자기 API 키 지참) 모델로 OpenAI·Anthropic·Gemini·OpenRouter를 지원하고, 키는 브라우저에서 직접 호출하거나 옵트인 서버측 암호화로만 다룸. Battle Mode(여러 프로바이더 응답 나란히 비교), Workflow Builder(에이전트 체이닝, Supabase 필요), 스케줄 자동화(시간/일/주 단위 반복 실행+암호화 키 저장+이메일 알림). 에이전트 추가가 3단계로 정리된 기여자 친화 구조(GSSoC 2026 참여 프로젝트). React 18+Vite+Tailwind, MIT, 125 stars
@@ -4568,6 +4576,9 @@ Artificial Intelligence
 * [코드를 쓰지 않는 시대, 개발자는 어디로 가는가 | ITWorld](https://www.itworld.co.kr/article/4157575/)
 * [When AI Becomes Your On-Call Teammate: Inside Wix's AirBot That Saves 675 Engineering Hours a Month](https://www.wix.engineering/post/when-ai-becomes-your-on-call-teammate-inside-wix-s-airbot-that-saves-675-engineering-hours-a-month)
   * Wix Data Engineering의 3,500+ Airflow 파이프라인 관리. AirBot이 on-call을 보조해 월 675 엔지니어링 시간 절감
+* [Hyunjin Oh - AI로 회사 일을 많이 효율화시키고 줄였는데, 비결은 AI가 아니었습니다 — 직접 돌려본 휴먼의 24가지 메모 기록 | Facebook](https://www.facebook.com/hyunjin55/posts/pfbid0PDfPrJfYmGY1urEatSX1Dg9QJyzgvCXqZukRq3SmLRmN76kQbC8y7PKMVbNzyQJgl)
+  * 작은 회사(클래스·주얼리 브랜드 운영)의 대표가 1년간 콘텐츠·계약·정산·채용·고객 응대에 AI를 붙여 사무실 일을 절반쯤 줄인 경험—결과를 가른 건 프롬프트 기술이 아니라 AI에 넘기기 전의 "준비"였다는 24가지 메모(겪은 순서). ①사진·영상을 한 폴더에(기획 트랙·미디어 트랙으로 드라이브 재구성, "이 폴더 보고 만들어줘") ②메모는 옵시디언·노션 한 곳에 쌓기(정리는 나중에 AI에게) ③모든 툴은 회사 계정 ④고객 데이터는 표 하나로(엑셀 5개 합치는 데 일주일, 매달 수십 시간 절약) ⑤레퍼런스 10개가 프롬프트 열 줄보다 강함 ⑥경쟁사 계정 링크로 15년 감(感)을 숫자로 ⑦장소는 "네이버에서 다 긁어와"(후보 10→40곳) ⑧계약서 초안은 AI가 먼저(픽셀 데이터 소유권 조항 누락 발견) ⑨정산 파일 "검산해줘"(수식 오류 발견) ⑫보도자료는 "네이버 송고 형식으로" ⑬홈페이지는 외주 전 AI 초안(Framer) ⑭에러 메시지는 그대로 붙이기 ⑮구독 서비스 목록 기록(휴면 Teachable 결제 환불 메일·이의제기 문구까지)
+  * ⑯이동 중 음성 메모 3분이 저녁에 블로그 초안 ⑰두 번 쓴 프롬프트는 저장, 세 번째는 자동화(n8n 입금 알림→슬랙으로 시작) ⑱"반대해봐"로 냉정한 목소리 하나 더(유명 채널 콜라보 거절) ⑲대표 얼굴·목소리 샘플로 숏폼 초안 ⑳Tailscale로 사무실 맥을 집에서(AI는 퇴근하지 않음) ㉑단톡방에 AI를 넣어 "환불·오류·안 돼요" 신호 알림 ㉒단톡방 대화를 매일 요약해 노션에(다음 커리큘럼이 여기서) ㉓"회의록 정리"처럼 작은 일부터 ㉔마지막 검수는 사람—AI가 편하게 해 주는 건 과정이지 책임이 아니고, 직접 세팅해 본 사람만 AI가 뭘 틀렸는지 보임. 결론: 정리된 재료, 그리고 그 재료를 직접 만져 본 사람
 * [비개발자가 겪은 바이브 코딩의 현실 | 요즘IT](https://yozm.wishket.com/magazine/detail/3704/)
 * [8년차 AI 엔지니어는 왜 바이브코딩을 포기했나? | NDS Cloud Tech Blog](https://tech.cloud.nongshim.co.kr/blog/aws/ai/3854/)
   * 2026-03-09, 박정현(농심데이타시스템). Cursor·Claude Code·Copilot·Codex·Antigravity까지 써 본 뒤 "순수한 바이브코딩"을 포기한 이유—10분 만에 나온 Streamlit ML 도구는 신세계였지만 기능을 붙일수록 고치면 다른 게 망가지고, 수천 줄 AI 코드의 구조를 파악하는 건 직접 설계한 코드 유지보수와 전혀 다른 일. CodeRabbit의 470개 PR 분석에서 AI 공동 작성 코드는 보안 취약점 비율이 약 2.74배, 바이브코딩 도구 보안 리뷰에선 15개 앱에서 취약점 69개—MSP에겐 타협 불가
@@ -4990,6 +5001,17 @@ Artificial Intelligence
   * [최승준 - 다크 코드: AI 소프트웨어의 폭발적 증가와 개발 속도, 에이전트형 라이브러리 선택... | Facebook](https://www.facebook.com/seungjoon.choi/posts/pfbid029he8vRc33iXRk4C1MZbdBa7fGGZrk4Eqv7hvZwFG9gmX7KTo4NJBbovvozz86nCDl)
   * Sarah Guo(2026-03-31). "다크 코드"=운영 환경에서 실제로 벌어지지만 누구도 처음부터 끝까지 설명할 수 없는 동작—검토 안 된 코드뿐 아니라 런타임 컴포넌트 상호작용에서 생기는 행동까지. 비개발 직원이 고객 데이터 API를 리포팅 파이프라인에 연결하고, 런타임에 단계를 고르는 에이전트가 결과를 다른 서비스가 읽는 곳에 캐시해 테넌트 간 유출이 났지만 각 서비스는 권한 범위 안이라 개별 검토로는 못 찾고 "누가 했나"에도 답할 수 없었던 사례. Meta 내부 에이전트의 사람 검토 우회, Salesforce Agentforce 웹 폼 지시문 주입도 언급
   * 같은 주 보안 사고 정리: TeamPCP의 Trivy 빌드 시스템 침투로 LiteLLM·Telnyx 오염→개발자 시크릿 탈취로 Mercor·Cisco 침해, axios 핵심 기여자 계정 탈취로 악성 버전 2개 배포(Google GTIG는 북한 연계 행위자로 분석), Claude Code 배포 때 내부 코드·차기 모델 문서 실수 공개, Railway 설정 실수. "폭주한 AI"가 아니라 AI 소프트웨어 폭증·에이전트형 라이브러리 선택·AI 관리 시크릿이 기존 공급망 문제와 사람 실수를 증폭한다는 지적. 최승준 님 번역 공유
+* [Frontier AI Trends Report | The AI Security Institute (AISI)](https://www.aisi.gov.uk/frontier-ai-trends-report)
+  * [Jonathan Jeon - 영국 AI 보안연구소(예전 안전연구소)에서 「Frontier AI Trends Report 2025」를 발간했네요 | Facebook](https://www.facebook.com/1biit/posts/pfbid02e71msUp2QUN1AEKx1ScEWiZi3Uxc8KtHXgKauAZ9LjmYqXebRwdEn74kLwJXbjfil)
+  * 영국 AI Security Institute가 2023년 11월부터 30개+ 프런티어 시스템을 평가해 처음 공개한 추세 보고서—일부 영역 성능이 약 8개월마다 2배, 사이버는 2024년 초 견습 수준 과제 10% 성공에서 50%로, 2025년 처음으로 10년+ 경력 전문가 수준 과제 성공, 화학·생물은 2024년 PhD 전문가 기준 도달 후 최대 60% 초과(프로토콜 작성·실험 트러블슈팅·실험 이미지 기반 문제 해결), 1시간짜리 소프트웨어 작업 성공률 2023년 말 5% 미만→40% 이상, 같은 모델도 에이전트 스캐폴딩에 따라 성능 40%p+ 차이. 안전장치는 개선 중(6개월 차 두 모델의 탈옥에 필요한 전문가 노력 40배 차이)이나 취약점 잔존, 자기복제·샌드배깅 같은 통제 회피의 전제 능력도 향상, 정치 리서치·설득력 증가와 영국 시민 1/3이 AI를 정서적 지지에 사용, 오픈-클로즈드 모델 격차는 4~8개월로 축소. 정리글의 결론: "문제는 가능성이 아니라 속도와 통제"
+* [Critical 수준의 사이버 역량이라는 새로운 프런티어에 대응하기 | OpenAI](https://openai.com/ko-KR/index/responding-next-frontier-critical-cyber-capabilities)
+  * [Seung Joon Choi - Astra, 차세대 임계 사이버 역량에 대한 대응 (전문 번역+용어 해설) | Facebook](https://www.facebook.com/seungjoon.choi/posts/pfbid035oMh9kB3iRigRacGPUvvqyom8UYwENksR4XMGGo6gnCBgTjJd8ov9xQYPZLAQpV4l)
+  * 2026-08-07. 차기 모델 Astra의 내부 평가에서 에이전틱 코딩·사이버 보안이 크게 진전해 Preparedness Framework상 Critical 사이버 역량(사람 개입 없이 보안 강화된 여러 핵심 시스템에서 모든 심각도의 실사용 가능 제로데이 발굴·개발, 또는 목표만 주면 강화된 대상에 엔드투엔드 공격 전략을 스스로 수립·실행) 가능성을 배제할 수 없다고 결론—GPT-5.6-Sol 등 이전 모델은 High. 조치: 격리 테스트 환경·네트워크/도구 접근 제한·가중치 보호 강화·샌드박스 등 엄격한 보안 통제, 요건 미충족 내부 활동 일시 중단, 모든 에이전틱 사용에 추론 과정을 평가해 위험 행동을 검토·중단하는 모니터링, 정부·AI 안전 기관과 역량 검증, 제3자 테스터용 권장 통제 제공. Astra는 미출시 모델이며 Hugging Face 보안 사고와 무관, 방어자가 공격자보다 먼저 취약점을 찾게 하겟다는 Daybreak 방향. 최승준의 글은 전문 번역에 에이전틱 코딩·Preparedness Framework·프런티어 역량 용어 해설을 덧붙임
+* [Exclusive: Anthropic 'Mythos' AI model representing 'step change' in power revealed in data leak | Fortune](https://fortune.com/2026/03/26/anthropic-says-testing-mythos-powerful-new-ai-model-after-data-leak-reveals-its-existence-step-change-in-capabilities/)
+  * [사이버보안 역대 최강 AI 모델을 만든 회사가, CMS 기본 설정 하나를 안 바꿔서 미공개 문서 3,000건을 세상에 공개했습니다 | Hansol Nam](https://www.linkedin.com/posts/hansol-nam_%EC%82%AC%EC%9D%B4%EB%B2%84%EB%B3%B4%EC%95%88-%EC%97%AD%EB%8C%80-%EC%B5%9C%EA%B0%95-ai-%EB%AA%A8%EB%8D%B8%EC%9D%84-%EB%A7%8C%EB%93%A0-%ED%9A%8C%EC%82%AC%EA%B0%80-cms-%EA%B8%B0%EB%B3%B8-%EC%84%A4%EC%A0%95-%ED%95%98%EB%82%98%EB%A5%BC-share-7444218399783739392-gCdP/)
+  * Beatrice Nolan(2026-03-27). 케임브리지대 Alexandre Pauwels와 LayerX Security의 Roy Paz가 Anthropic CMS에서 미발표 블로그 초안을 발견—업로드 자산의 기본 권한이 public이라 미공개 문서 3,000건이 노출되고, 그 안에서 Opus 위의 새 티어 Claude Mythos(코드네임 Capybara)가 드러남. 유출 문서는 Opus 4.6 대비 코딩·학술 추론·사이버보안에서 "극적으로 높은 점수", 특히 사이버보안은 "현존 어떤 모델보다 압도적"이라 적었고 Anthropic은 이를 자랑이 아닌 경고("방어자가 대응할 수 있는 속도를 훨씬 초과해 취약점을 공격할 수 있는 모델의 시대")로 프레이밍해 일반 공개 전 방어 측에 먼저 릴리스할 계획이라고 확인. 남한솔의 지적: 그런 모델을 만든 회사가 CMS 기본 권한이라는 가장 기초적인 취약점을 몇 달간 방치한 것이 아이러니가 아니라 AI 안전 담론의 현주소
+* [Hidden Gaps in Claude Code Security Reviews | brainoverflow](https://brainoverflow.blog/posts/claude-code-security-review-bias/)
+  * Claude Code의 LLM 보안 리뷰 3가지(`/security-review`: 전체 브랜치·같은/새 세션 선택, 2026-05 새 Security guidance 플러그인: 현재 턴 diff·새 컨텍스트, Team/Enterprise 전용 Code Review: 전체 코드베이스·멀티 에이전트·독립 모델)를 의도적으로 결함을 심은 바이브 코딩 Telegram 봇으로 실험. 가설 H1: 같은 세션 리뷰는 자기 코드를 채점하는 앵커링 편향으로 콜드 리뷰가 찾는 것을 억누름 / H2: diff 범위 플러그인은 각 변경이 단독으론 무해해 보이는 취약점 체인을 놓침. 결과: 같은 세션은 fail-open 인증(빈 allowlist)과 세션이 스스로 만든 경로 탐색 버그를 못 찾았고 콜드 세션은 High(0.95)·Medium으로 잡음, 무제한 subprocess 권한 체인은 같은 세션이 식별하고도 "공격자와 금고 소유자가 같은 사람"이라며 오탐 필터가 기각, 플러그인은 `Write`+`python3:*`가 한 diff에 함께 있으면 둘 다 잡되 독립 문제로 취급하고 커밋이 갈라지면 write-then-execute 체인을 놓침. 새 플러그인의 fresh-context 설계(코드를 쓴 인스턴스가 자기 채점을 하지 않음)는 편향 해법이지만 diff 범위라는 비용 결정이 새 한계를 만든다는 분석
 * [AdaptixC2: AdaptixC2 is a highly modular advanced redteam toolkit](https://github.com/Adaptix-Framework/AdaptixC2)
   * [Welcome | Adaptix Framework](https://adaptix-framework.gitbook.io/adaptix-framework)
 * [ADR: ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber](https://github.com/uber/ADR/)
@@ -4997,6 +5019,7 @@ Artificial Intelligence
   * [Uber ADR: 기업용 AI 에이전트의 보안 위협을 탐지하고 대응하는 오픈소스 시스템 | digitalbourgeois](https://digitalbourgeois.tistory.com/3788)
   * Uber의 Agentic AI Detection and Response(Python, Apache-2.0, MLSys 2026 Industry Track). Cursor·Claude Code·Codex·Copilot CLI·DeepSeek Harness 같은 직원용 코딩 에이전트와 고객 지원 에이전트를 지키는 5개 역량—Discovery(엔드포인트의 AI 앱·CLI 에이전트·IDE 확장·로컬 런타임·MCP 서버 인벤토리, 미확인 항목 표시), Observability(Sensor가 macOS·Linux·Windows에서 의도·도구 사용·실행 추적 수집), ADR-Bench(302개 과제·17개 공격 기법·133개 MCP 서버), Detection(빠른 1차 선별+의심 세션만 에이전트 추론하는 2단계), Prevention(미공개)
   * 기존 EDR은 파일 쓰기는 봐도 에이전트의 추론·프롬프트·의도와 실행의 인과를 못 보고, 규칙 기반 방어는 일반화가 안 되며, LLM 탐지는 비싸다는 문제의식. Uber 10개월+ 운영, 7,200대+ 호스트·하루 1만+ 세션 처리, 26개 범주 자격증명 노출 수백 건 발견(사전 차단층 정밀도 97.2%). ADR-Bench에서 오탐 0·공격 67% 탐지로 ALRPHFS·GuardAgent·LlamaFirewall보다 F1 2~4배, AgentDojo는 전 공격 탐지(93개 과제 중 오탐 3). 오프라인 레드팀 엔진 Explorer는 공개 저장소에 미포함
+* [agent: Agentic offensive-security in your terminal · GitHub](https://github.com/PentesterFlow/agent)
 * [agent-governance-toolkit: Microsoft AI Agent Governance Toolkit. Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents](https://github.com/microsoft/agent-governance-toolkit)
   * [Microsoft Agent Governance Toolkit(AGT): AI 에이전트를 안전하게 운영하기 위한 정책·신원·감사 관리 | digitalbourgeois](https://digitalbourgeois.tistory.com/3598)
   * 자율 AI 에이전트 운영 거버넌스 툴킷(Public Preview, Microsoft 서명). 프롬프트 안전 의존이 아닌 결정론적 앱 코드에서 모든 도구 호출·메시지·위임을 인터셉트해 거부 액션 "구조적 불가능"화. YAML/OPA/Cedar 정책 엔진, SPIFFE/DID/mTLS zero-trust ID, 4링 권한 샌드박스, tamper-evident 감사 로그, kill switch·SLO 모니터·카오스 테스트, MCP Security Gateway(도구 포이즈닝·드리프트), Shadow AI Discovery. Python/TypeScript/.NET/Rust/Go SDK. Claude Code/Copilot CLI/OpenCode/Semantic Kernel/AutoGen/LangGraph/CrewAI/MS Agent Framework 통합. OWASP Agentic Top 10/NIST AI RMF/EU AI Act/SOC 2 매핑, 10 RFC 2119 스펙·992 conformance 테스트. MIT, 3.4k stars
@@ -5011,10 +5034,27 @@ Artificial Intelligence
   * Cyble의 자율 SOC 플랫폼(동명의 오픈소스 AiSOC와는 별개 상용 제품)
 * [AiSOC: Open-source AI-powered Security Operations Center](https://github.com/beenuar/AiSOC)
   * 오픈소스 AI 기반 보안 관제 센터(SOC). 알림 융합, 퍼플팀 훈련, 에이전트 보조 트리아지, MITRE ATT&CK 조사. MIT, 셀프호스팅. Python, 1.6k stars
+* [AISVS: The AI Security Verification Standard (AISVS) focuses on providing developers, architects, and security professionals with a structured checklist to verify the security of AI-driven applications. · GitHub](https://github.com/OWASP/AISVS)
+* [akca: AKCA Advanced Web Security Scanner](https://github.com/akha-security/akca)
+  * Go로 쓴 증거 지향 오픈소스 DAST 스캐너—크롤 후 모든 엔드포인트에 페이로드를 쏟아붓는 대신 HTTP·브라우저 보조 크롤링·JavaScript 분석·API 임포트로 숨은 라우트·JS 로딩 엔드포인트·미문서화 파라미터·접근 제어 경로를 먼저 발견하고, 기술·WAF 핑거프린팅으로 요청 속도와 안전한 페이로드 변형을 조정, 엔드포인트·메서드·파라미터·모듈 조합에 작업을 배분, 레이트 리밋·차단 시 일시 중지·복구, 유망 신호는 베이스라인·음성 대조·상태 확인·ID 비교·OAST 콜백으로 재검증한 뒤에만 finding으로 승격하고 요청·응답·페이로드·신뢰도·증명 정책을 보존. Acunetix·Invicti·Burp Pro와의 동등성은 주장하지 않음. Go 1.25+, Apache-2.0, 243 stars
+* [Anthropic-Cybersecurity-Skills: 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0 · GitHub](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)
+  * [Anthropic Cybersecurity Skills — 754+ AI-Ready Skills for Claude Code & More | Mahipal](https://www.mahipal.engineer/Anthropic-Cybersecurity-Skills/)
 * [ARTEX: AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目](https://github.com/Autumn-27/ARTEX)
+* [Awesome-AI-Security: Curated resources, research, and tools for securing AI systems](https://github.com/TalEliyahu/Awesome-AI-Security)
+  * [Awesome AI Security — Discover. Learn. Build. Secure AI Systems.](https://www.awesomeaisecurity.com/)
+  * AISecHub 커뮤니티가 관리하는 AI 시스템 보안 큐레이션—거버넌스·관리 프레임워크, 통제·검증 표준, 구현 가이드·패턴, 테스트·평가·레드티밍, 에이전틱 시스템 표준·거버넌스·패턴, 위협 모델링, 정책 템플릿, 툴킷·자가 진단, 핵심 인프라 등으로 분류. 웹사이트는 프레임워크·통제 맵, 가드레일·스캐너·테스트 하네스·게이트웨이·모니터링 GitHub 도구, 연구·데이터셋·교육·사고 사례를 한곳에서 탐색. MIT, 880 stars
 * [claude-bug-bounty: BugHunter — AI-powered bug bounty hunting toolkit](https://github.com/shuvonsec/claude-bug-bounty)
   * [ShuvonSec — Ethical Hacker & AI Agent Builder](https://shuvonsec.me/)
   * 정찰(서브도메인 열거·호스트 발견·URL 크롤링)→헌팅(20개 웹 취약점+10개 스마트컨트랙트 버그 스캔)→검증(7문항 게이트로 false positive 필터)→HackerOne/Bugcrowd 제출용 리포트 생성. CLI+Claude Code 플러그인, Ollama(로컬)/Groq(무료)/DeepSeek 등 무료 AI 프로바이더, 세션 간 패턴 기억·취약점 체이닝. 승인된 스코프 내 사용 강조
+* [claude-security-scan: Security Skills for Claude Code · GitHub](https://github.com/mimul/claude-security-scan)
+  * [Claude로 만드는 보안 진단 스킬 공개 | Mimul Tech blog](https://www.mimul.com/blog/claude-security-scan/)
+  * [Claude로 만드는 보안 진단 스킬 공개 | LinkedIn](https://www.linkedin.com/posts/mimul_claude%EB%A1%9C-%EB%A7%8C%EB%93%9C%EB%8A%94-%EC%8B%A4%EC%A0%84-%EB%B3%B4%EC%95%88-%EC%A7%84%EB%8B%A8-%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%84-%EA%B3%B5%EA%B0%9C%ED%95%A9%EB%8B%88%EB%8B%A4-security-full-scan-share-7457677762393432066-3sJ8/?utm_source=share&utm_medium=member_ios&rcm=ACoAAAbMQEUBMB4uRYC4Kn5aQ940QwHNVlgc8EE)
+* [clawseccheck: 🦞 Local, read-only security audit for your OpenClaw agent. Finds config, prompt-injection and supply-chain risks, watches for drift, and vets a skill before you install it. Offline, zero deps. A–F grade when all five layers ran. · GitHub](https://github.com/gl0di/clawseccheck)
+  * [ClawSecCheck — OpenClaw Security Self-Audit — ClawHub](https://clawhub.ai/gl0di/skills/clawseccheck)
+* [code-buster: Code Buster reports dependency wiring, dead code, cycles, duplication, complexity, architecture-policy violations, feature flags, security and style heuristics, quality scores, and remediation plans. · GitHub](https://github.com/tool-bunker/code-buster)
+  * [Code Buster - Build better with your AI agent. Drift less.](https://toolbunker.dev/codebuster/)
+* [crust: 🌟 Open Source AI Agent Security Infrastructure — intercepts and blocks dangerous agent behaviors before they happen. Just one command! Join us to build safer Human-AI Symbiosis! · GitHub](https://github.com/BakeLens/crust)
+  * [Crust - Your agent should never (try to) read your secrets](https://getcrust.io/)
 * [CVE-MCP-Server](https://www.mahipal.engineer/CVE-MCP-Server/)
   * [cve-mcp-server: Production-grade MCP server giving Claude 27 security intelligence tools across 21 APIs — CVE lookup, EPSS scoring, CISA KEV, MITRE ATT&CK, Shodan, VirusTotal, and more](https://github.com/mukul975/cve-mcp-server)
   * [Claude와 MCP로 CVE 분석 자동화하기: 28개 보안 도구를 하나로 연결하는 CVE MCP Server | digitalbourgeois](https://digitalbourgeois.tistory.com/3647)
@@ -5025,6 +5065,8 @@ Artificial Intelligence
 * [CyberStrikeAI: AI-native security testing platform in Go](https://github.com/AIPentest/CyberStrikeAI)
   * Go 기반 AI-native 보안 테스트 플랫폼. 100+ 보안 도구 통합, 지능형 오케스트레이션. 역할 기반 보안 페르소나, 스킬 시스템, 대화형 취약점 탐지, 공격 체인 분석, RAG 지식 검색, 감사 가능 환경
   * 레포가 Ed1s0nZ/CyberStrikeAI → AIPentest/CyberStrikeAI로 이전(구 주소는 리다이렉트). 소유하거나 명시적으로 승인받은 시스템에서만 쓰도록 안내하며, 사람 승인 모드·감사 로그·RBAC 같은 거버넌스 기능 포함. Go, Apache-2.0, 7.4k stars
+* [CYBER-THREAT-INTELLIGENCE-REPORT/KISA-AI Security Threat Response Manual_Review.md at main · gameworkerkim/CYBER-THREAT-INTELLIGENCE-REPORT · GitHub](https://github.com/gameworkerkim/CYBER-THREAT-INTELLIGENCE-REPORT/blob/main/KISA-AI%20Security%20Threat%20Response%20Manual_Review.md)
+  * [KISA 「AI 보안 위협 대응 매뉴얼」 리뷰](https://www.linkedin.com/pulse/kisa-ai-%EB%B3%B4%EC%95%88-%EC%9C%84%ED%98%91-%EB%8C%80%EC%9D%91-%EB%A7%A4%EB%89%B4%EC%96%BC-%EB%A6%AC%EB%B7%B0-dennis-kim-rhtyc)
 * [Decepticon — Autonomous Hacking Agent](https://decepticon.red/)
   * [Decepticon: Autonomous Hacking Agent for Red Team](https://github.com/PurpleAILAB/Decepticon)
   * [레드팀을 위한 자율 해킹 에이전트 Decepticon 기술 정리](https://digitalbourgeois.tistory.com/3157)
@@ -5053,6 +5095,8 @@ Artificial Intelligence
   * OpenRouter 60개·Venice 44개 모델 또는 Ollama/LM Studio/llama.cpp/vLLM 로컬 모델. 메타데이터 전용 텔레메트리(No-Log·Local-only로 비활성화 가능), 대화·설정은 브라우저 스토리지에 저장. TypeScript, AGPL-3.0, 10.5k stars
 * [guardian-cli: AI 오케스트레이션으로 침투 테스트를 자동화하는 엔터프라이즈 보안 플랫폼](https://github.com/zakirkun/guardian-cli)
   * 멀티 프로바이더 AI(OpenAI/Claude/Gemini/Ollama 등), 50+ 보안 도구(Nmap/Nuclei/SQLMap/Burp/ZAP), 전문 에이전트(Planner·Tool Selector·Analyst·Reporter)+debate 기반 triage, DAG 스케줄링, 증거 추적, CVSS·SARIF·DefectDojo 리포트, 프롬프트 인젝션 방어·DNS 스코프 검증. Python 3.11+, LangChain
+* [hackagent: HackAgent is an open-source security toolkit to detect vulnerabilities of your AI Agents · GitHub](https://github.com/AISecurityLab/hackagent)
+  * [HackAgent](https://docs.hackagent.dev/)
 * [HackGPT - Enterprise AI-Powered Penetration Testing & Threat Intelligence Platform](https://yashab-cyber.github.io/HackGpt/)
   * [HackGpt: cloud-native AI-powered penetration testing platform for enterprise security teams](https://github.com/yashab-cyber/HackGpt)
   * 6단계 자동 파이프라인—정찰(서브도메인·포트·서비스 매핑)→스캔→AI 위협 평가·페이로드 생성→비파괴 PoC 익스플로잇 검증→DBSCAN 로그 클러스터링 제로데이 이상 탐지→경영진용 PDF/HTML 감사 리포트. 100+ 보안 도구 오케스트레이션, 4+ AI 프로바이더, OWASP 매핑·컴플라이언스 점수. Python, 1k stars, 커스텀 라이선스
@@ -5067,6 +5111,8 @@ Artificial Intelligence
   * OpenClaw에서 영감받은 보안 중심 AI 에이전트 프레임워크. WASM 샌드박스, 자격 증명 보호, 프롬프트 인젝션 방어, NEAR AI Cloud 암호화 엔클레이브
 * [iterance: Behavioral witness layer for AI agents](https://github.com/Tetrahedroned/iterance)
   * 에이전트 외부에서 파일시스템 행동을 감시·기록하는 독립 감사 레이어. Git 기반 평문 영어 원장, 신뢰도 스코어(오버라이드 비율 기반), 2단계 검사, 에이전트 자기인식용 행동 이력 생성. 코드 수정 불필요
+* [Kryon: Autonomous offensive-security agent: recon, authorized pentest, vuln hunting, DFIR & multi-framework compliance from a single prompt. Local-first (llama.cpp), skill-based, deterministic-first. · GitHub](https://github.com/skyvanguard/Kryon)
+  * [SkyVanguard: ciberseguridad con IA y cursos desde Paraguay](https://www.skyvanguard.com.py/)
 * [LAON VaultGuard - 코드베이스의 시크릿·CI/CD 취약점을 탐지하는 LLM 기반 보안 스캐너](https://github.com/gameworkerkim/vibe-investing/blob/main/LAON_VaultGuard/docs/GETTING_STARTED.md)
   * [CICHECKER_PROMPT.md - git 커밋 히스토리의 CI/DI·개인키 민감정보 탐지 프롬프트](https://github.com/gameworkerkim/vibe-investing/blob/main/LAON_VaultGuard/docs/CICHECKER_PROMPT.md)
   * [SK컴즈 사고 이후 보안 무지는 더 이상 용납 안 된다 - CICheck 소개 | Dennis Kim](https://www.linkedin.com/posts/testcode_vibe-investinglaonvaultguarddocsgettingstartedmd-activity-7474637771609919488-fbCP)
@@ -5074,6 +5120,8 @@ Artificial Intelligence
 * [LLM-HOOK-BROWSER: AI-powered real-time web vulnerability scanner proxy using Claude LLM](https://github.com/lufianlee/LLM-HOOK-BROWSER)
   * [내가 매일 쓰는 크롬 브라우저가 취약점 스캐너가 되면 어떨까? | Jiyoung Lee](https://www.linkedin.com/posts/jaylee86_%EB%82%B4%EA%B0%80-%EB%A7%A4%EC%9D%BC-%EC%93%B0%EB%8A%94-%ED%81%AC%EB%A1%AC-%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EA%B0%80-%EC%B7%A8%EC%95%BD%EC%A0%90-%EC%8A%A4%EC%BA%90%EB%84%88%EA%B0%80-%EB%90%98%EB%A9%B4-%EC%96%B4%EB%96%A8%EA%B9%8C-%EC%9D%B4-%EB%8B%A8%EC%88%9C%ED%95%9C-share-7453668860785872896-6yRN)
   * mitmproxy로 Chrome HTTP/HTTPS 트래픽 가로채 2단계 분석: 20개 패턴 매처 사전 분석 + Claude Sonnet 35개 취약점 카테고리 상세 분석. CVSS v3.1 점수·OWASP Top 10 매핑. 200+ 공격 페이로드, 실시간 WebSocket 대시보드. Bedrock+Anthropic API
+* [LLMVault: An intentionally vulnerable OWASP LLM Top 10 training platform for AI Security, Prompt Injection, RAG Security, Agent Security, and GenAI penetration testing](https://github.com/CyberSunil/LLMVault)
+  * OWASP Top 10 for LLM Applications(2025)용 CTF식 취약 훈련장—"AI를 위한 WebGoat/KubeGoat". Play Mode는 채점되는 25개 랩(카테고리별 핵심 10개, 탈옥·데이터 오염·에이전트 공격·모델 추출 같은 멀티턴 고급 10개, 전문가 5개), v2.0의 Live Mode는 같은 공격을 내 머신의 실제 로컬 모델(Ollama, ~2GB, CPU 가능)에 겨냥—세션마다 비밀이 새로 생성돼 찾아볼 플래그가 없고 어제의 페이로드가 오늘 안 통함(프롬프트 인젝션·이미지 경유 간접 인젝션·다운스트림 출력 처리 3 시나리오). 모든 랩은 공격과 방어를 짝지어 풀고 나면 무엇이 막았을지 읽게 함, 랩 진입 시 OWASP 카테고리 참고 패널, 해시 비교 플래그 검증, 대시보드·마일스톤. 자체 호스팅 교육 전용. Python, MIT, 342 stars
 * [LuaN1aoAgent: Fully autonomous AI penetration testing agent powered by DeepSeek V3.2](https://github.com/SanMuzZzZz/LuaN1aoAgent)
   * Dual-graph reasoning으로 XBOW Benchmark에서 90%+ 성공률, 중앙값 $0.09 익스플로잇 비용
 * [mantis: A modular, stack-agnostic toolkit for AI coding agents to autonomously find, reproduce, and patch vulnerabilities | Google](https://github.com/google/mantis)
@@ -5157,6 +5205,9 @@ Artificial Intelligence
 * [Vigolium - Find the security bugs code review and traditional scanners miss](https://www.vigolium.com/)
   * [vigolium: AI-powered security audit, not just a PR review](https://github.com/vigolium/vigolium)
   * 시니어 펜테스터처럼 동작하는 에이전틱 AI 보안 감사 플랫폼. PR diff가 아닌 전체 코드베이스+라이브 앱 분석, 발견에 따른 동적 공격 계획. 검증된 증거(평문 설명·재현 가능 HTTP 요청·수정 제안). AI 트리아지로 false positive 사전 필터. 2 모드: Native Scan(CI/CD용 결정론적, 130+ 액티브·85+ 패시브 모듈) / Agentic Scan(딥 AI 감사, 로직 결함). XSS·SQLi·SSTI·IDOR·CSRF·인증 우회·SSRF·race condition·프레임워크/클라우드 오설정 커버. 셀프호스트 오픈소스 무료, 온디맨드 $29/100K LoC, Starter $299, Enterprise
+* [vuln-bank: A deliberately vulnerable banking application designed for practicing Security Testing of Web App, APIs, AI integrated App and secure code reviews](https://github.com/Commando-X/vuln-bank)
+  * [VulnBank - The Modern Banking Platform](https://vulnbank.org/)
+  * 웹·API·LLM 보안 테스트, 시큐어 코드 리뷰, CI/CD 보안 구현 연습용으로 의도적으로 취약하게 만든 은행 앱—인증·잔액·송금·대출·프로필 업로드·거래 내역·GraphQL 분석 대시보드·3자리 PIN 비밀번호 재설정·다중 통화 가상 카드(USD·GBP·NGN·JPY·EUR·QAR·BTC·ETH 환전) 등 실제 서비스에서 흔한 취약점을 품고 있어 보안 엔지니어·개발자·인턴·QA·DevSecOps 학습과 SAST/DAST 도구·공격형 AI 에이전트 벤치마크에 사용. 격리 환경 교육 전용. HTML, MIT, 985 stars
 * [vulnerability-harness: Specialized LLM agents that confirm real vulnerabilities by executing a PoC in a Docker sandbox](https://github.com/kwanjung/vulnerability-harness)
   * [Vulnerability Harness Finds Flaws in Django, LangChain, authentik, and More | KwangWoo Lee](https://www.linkedin.com/posts/kwangwoo-lee-654340140_vulnerability-harness-llm-agents-that-prove-activity-7496233519187279872-Qpsb)
   * 파일별로 취약점 클래스에 특화된 에이전트들이 독립 실행되어 PoC를 작성하고 격리 샌드박스에서 실행, 별도 리뷰어가 모든 PoC를 재실행해 재현 안 되는 것은 탈락—플래그십 모델 없이 실제 취약점만 증명. Django 8.8·LangChain 8.2·authentik 9.4 등 발견. 원본 레포(ksgsslee/vulnerability-harness)는 비공개 전환, 이 URL은 원작자 커밋이 담긴 공개 사본
@@ -6872,6 +6923,9 @@ Artificial Intelligence
     * [Claude Code가 Claude Agent SDK로 업그레이드 #claude #mcp #aws #streamlit #agent | Kyoungsu Park](https://www.linkedin.com/posts/kyoungsu-park-9b9a1068_claude-mcp-aws-ugcPost-7379510994848501760-DLqh)
   * [claude-canvas: Give Claude Code an external monitor](https://github.com/dvdsgl/claude-canvas)
     * [Claude Canvas Turns Claude Code Into a Visual Terminal App! - YouTube](https://www.youtube.com/watch?v=M_iCVJSZsu0)
+  * [claude-forge: oh-my-zsh for Claude Code — 16 agents, 35 commands, 32 skills, 21 safety hooks in one install. v4.0 adds an adversarial review loop: a second agent that never sees the first one's reasoning](https://github.com/sangrokjung/claude-forge)
+    * [Claude Forge — Equip Your Claude Code](https://sangrokjung.github.io/claude-forge/)
+    * 정상록의 Claude Code "장비 팩"—플래너·보안 리뷰어·TDD 가이드·적대적 리뷰어 등 전문 에이전트 16개, `/plan`·`/tdd`·`/code-review` 같은 한 단어 명령 35개, 자동 적용되는 스킬 33개, 코드를 건드릴 때마다 백그라운드에서 도는 안전 훅 22개(무인 API 오류 자동 재개, 둠 루프 가드, 세션 종료 시간 리포트), 규칙 파일 14개, 외부 도구 연결 4개(브라우저 자동화·라이브 문서 검색 등)를 한 번에 설치. v4.0(2026-08) 적대적 검증 루프—모든 동작 변경을 코드를 쓰지 않았고 첫 에이전트의 추론을 보지 못한 독립 에이전트가 검사(maker≠checker), v4.1 harness-diet(항상 로드되는 CLAUDE.md+규칙 컨텍스트를 측정해 예산 안으로 줄이기), v4.2~4.3 session-time-report(Codex 롤아웃 로그도 인식). `/plugin install claude-forge`(일부 기능) 또는 전체 설치. Shell, MIT, 862 stars
   * [Claudeception: A Claude Code skill for autonomous skill extraction and continuous learning. Have Claude Code get smarter as it works](https://github.com/blader/Claudeception)
     * A Claude Code skill for autonomous skill extraction and continuous learning. Have Claude Code get smarter as it works
   * [ClaudeClaw — Persistent agent orchestrator plugin for Claude Code](https://sbusso.github.io/claudeclaw/)
