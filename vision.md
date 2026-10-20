@@ -1098,6 +1098,11 @@ Vision
 * [Phi-4-reasoning-vision-15B: Microsoft's 15B multimodal reasoning model](https://github.com/microsoft/Phi-4-reasoning-vision-15B)
   * [Phi-4-Vision-Reasoning — training a multimodal reasoning model | Microsoft Research](https://www.microsoft.com/en-us/research/blog/phi-4-reasoning-vision-and-the-lessons-of-training-a-multimodal-reasoning-model/)
   * 이미지 캡셔닝, 문서 인식, 수학·과학 추론 특화. Azure Foundry 클라우드 또는 로컬 호스팅 가능
+* [SketchVLM: Vision Language Models Can Annotate Images to Explain Thoughts and Guide Users](https://github.com/brandon-collins7/sketchvlm)
+  * [2604.22875 SketchVLM: Vision language models can annotate images to explain thoughts and guide users](https://arxiv.org/abs/2604.22875)
+  * [SketchVLM Interactive Demo](https://sketch-vlm-demo.vercel.app/)
+  * Brandon Collins·Logan Bolton·Hung Huy Nguyen·Mohammad Reza Taesiri·Trung Bui·Anh Totti Nguyen(Auburn·Adobe, 2026-04-23). 사람은 이미지 질문에 답할 때 가리키고 라벨 붙이고 그려서 설명하는데 Gemini-3-Pro·GPT-5 같은 VLM은 텍스트로만 답해 검증이 어렵다는 문제—학습 없이 모델 불문으로 입력 이미지 위에 비파괴·편집 가능한 SVG 오버레이를 그려 답을 시각적으로 설명하게 하는 프레임워크. 이미지에 좌표 그리드를 덧씌워 모델에 보내고 모델이 낸 SVG 스트로크를 다시 이미지에 렌더링(`collab_sketch_with_label.py`, `--adaptive-grid`로 해상도별 그리드 자동 조정, Claude·GPT·Gemini·OpenRouter 지원)
+  * 시각 추론(미로 탐색·공 낙하 궤적 예측·물체 개수 세기)과 드로잉(부위 라벨링·점 잇기·물체 둘레 그리기) 7개 벤치마크에서 이미지 편집·파인튜닝 스케치 베이스라인 대비 추론 정확도 최대 +28.5%p, 주석 품질 최대 1.48배, 모델이 말한 답과 더 일치하는 주석. 단일 턴만으로도 강하고 멀티턴은 인간-AI 협업 여지를 열어 줌. 이미지 업로드·질문 입력 후 모델이 그 위에 추론을 스케치하는 라이브 데모 제공. Jupyter Notebook, 134 stars
 * [Thinking-with-Visual-Primitives: DeepSeek 멀티모달 추론, 포인트/바운딩 박스를 추론 체인에 끼워 넣어 'Reference Gap' 해결](https://github.com/ailuntx/Thinking-with-Visual-Primitives)
   * [DeepSeek's New AI Is A Game Changer - YouTube (Two Minute Papers)](https://www.youtube.com/watch?v=LpXhy2iiaQE)
   * [Thinking_with_Visual_Primitives.pdf](https://huggingface.co/datasets/NodeLinker/deepseek-ai-Thinking-with-Visual-Primitives-deleted-repo/blob/main/Thinking_with_Visual_Primitives.pdf)
