@@ -4222,6 +4222,9 @@ Artificial Intelligence
 * [제8회 데보션(DEVOCEAN) 테크 데이 - 05. AI Without Limits: From Alternative Compute to Green Hyperscaler - YouTube](https://www.youtube.com/watch?v=eIGuDhZXyUs)
   * [ChatGPT consumes enough power in one year to charge over three million electric cars](https://balkangreenenergynews.com/chatgpt-consumes-enough-power-in-one-year-to-charge-over-three-million-electric-cars/)
     * Each ChatGPT query consumes an estimated 2.9 Wh of electricity, nearly ten times more than a standard Google search(0.3 Wh)
+* [최용식 - "AI는 파업을 안 합니다. 월급 올려달라는 말도 없고요." 요즘 이 말이 업계에서 자꾸 회자됩니다 | Facebook](https://www.facebook.com/cys712/posts/pfbid02VBRLuVcki9tQxVw97zps84nYh2gQYg1Et3GB3cg2KfmCXRfx8H7vGCvfdFRGEgTrl)
+  * AI 도입 자문사 CEO 엘라이자 클라크가 "효율적이고 파업도 안 하고 임금 인상 요구도 없다"며 영업 교육팀 인턴 30명 중 27명을 AI로 대체했다고 밝혀 불붙은 논란을 출발점으로, AI에 찬사를 보내는 경영진과 반발하는 노동자의 사례 모음—Klarna(OpenAI 챗봇이 2024-02 상담 75%·월 230만 건 처리, 직원 5,500→3,500명대로 줄였으나 품질 불만으로 2024년 말 CEO가 "AI 중심 전략이 품질을 떨어뜨렸다"며 상담 인력 재채용), Duolingo(번역 계약직 10% 감축 후 2025-04 "AI 퍼스트" 메모에 이용자 탈퇴 선언이 쏟아져 한 달 만에 CEO 입장 선회), NYT 기술 노조 파업 때 Perplexity CEO가 "우리 기술로 보도 지원" 제안해 파업 와해 시도라는 역풍, Uber CEO의 "경영자들이 사석에선 일자리 충격이 크다고 인정하고 카메라 앞에선 다 잘될 거라 한다"는 증언, 반대로 젠슨 황의 "경영자의 복합 판단을 AI가 대신하긴 한참 멀었다"
+  * 전문가 비판 세 가지(성과 측정도 안 된 기술을 해고 명분으로, 파업권 같은 정당한 권리까지 흔듦, 섣부른 대체가 품질·신뢰 하락으로 되돌아옴)와 필자 의견—경영자는 말을 가려야 하고 AI를 쓰더라도 인간 사회와의 공존·공익을 고민해야 하며, "파업 안 하는 AI"는 노동자를 비용으로만 보는 시선인 데다 사실관계도 틀림(컴퓨팅이 멈추면 AI도 멈추고 전기·GPU 값이 오르면 운영비도 오르며 어떤 사고를 칠지 모름)
 * [CEOs Are Proud Of Their Layoffs. Should They Be? – JOSH BERSIN](https://joshbersin.com/podcast/ceos-are-proud-of-their-layoffs-should-they-be/)
   * [CEO들은 해고를 자랑스럽게 생각해야할까? | 김덕중](https://www.linkedin.com/posts/duckjungkim_ceos-are-proud-of-their-layoffs-should-they-activity-7357264741553098753-XsnD)
 * [Zeb Evans (ClickUp CEO) - Today we reduced headcount by 22%. The 100X Organization](https://x.com/DJ_CURFEW/status/2057522382315929802)
