@@ -428,6 +428,10 @@ Network
   * [이전에 올렸던 네트워크 기본기 스터디 GitHub Repository | 심근우](https://www.linkedin.com/posts/gnu-shim_%EC%9D%B4%EC%A0%84%EC%97%90-%EC%98%AC%EB%A0%B8%EB%8D%98-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EA%B8%B0%EB%B3%B8%EA%B8%B0-%EC%8A%A4%ED%84%B0%EB%94%94-github-repository-share-7494716912300589057-hWUe/)
   * TCP/IP 기본 원리 하나를 잡고 그 개념이 깨졌을 때 나는 장애를 직접 재현→관찰→수정하며 체득하는 실습 시리즈. 클라우드 특정 기능이 아닌 벤더 중립 기본기(AWS·K8s는 실무 사례로만 인용). 각 편은 개념 한 장→토폴로지→재현(고장이 기본값)→`tcpdump`/`traceroute`/`ip`로 관찰→원인→한 줄 수정→교훈 순서
   * containerlab + `nicolaka/netshoot`(동적 라우팅 편만 FRR). 편당 폴더 하나에 `*.clab.yml`+README+`fix.sh`+`WALKTHROUGH.md`(모범 답안—의도→실측 결과→해석). macOS는 `clab.sh` 래퍼로 containerlab을 컨테이너로 띄워 실행, EC2 실습 호스트 구성도 제공. `walkthrough.html` 웹 뷰어
+* [openvpn-install: Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS, Arch Linux and more](https://github.com/angristan/openvpn-install)
+  * [How to set up a VPN server using WireGuard (with NAT and IPv6) | Stan's blog](https://stanislas.blog/2019/01/how-to-setup-vpn-server-wireguard-nat-ipv6/)
+  * VPS·전용 서버·집 컴퓨터에 몇 초 만에 자체 OpenVPN 서버를 세우고 기기별 클라이언트 설정 파일을 만들어 주는 설치 스크립트—인터넷 라우팅(기본 켜짐)·클라이언트 간 접근·서버 측 네트워크 접근을 따로 설정. Debian·Ubuntu·Fedora·openSUSE·CentOS·Amazon Linux·Arch·Oracle·Rocky·Alma 지원. Shell, MIT, 16.2k stars
+  * 같은 저자(angristan)의 WireGuard 가이드: PKI 없는 피어 간 point-to-point VPN으로 로밍(네트워크를 바꿔도 재연결 불필요)이 모바일 클라이언트에 유용, "OpenVPN 스크립트를 유지하지만 WireGuard가 거의 모든 면에서 낫다"며 서버 설치·피어 설정·라우팅과 NAT로 클라이언트 트래픽 전달·클라이언트 추가·IPv4/IPv6 듀얼 스택·DNS 변경·차단 포트 우회·Android 앱으로 설정 전송까지 단계별 설명
 * [Ophiuchi - Your Local Development Companion](https://www.ophiuchi.dev/)
   * [ophiuchi-desktop: A local https proxy server using docker as backend](https://github.com/apilylabs/ophiuchi-desktop)
 * [OverTheWire: Wargames](https://overthewire.org/wargames/)
