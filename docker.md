@@ -1866,6 +1866,8 @@ Docker
     * 정책 위반 파드를 거부하는 Enforce
     * 허용은 하지만 로그 이벤트에 기록하는 Audit
     * 허용하지만 사용자에게 경고하는 Warn 제어 모드 사용 가능
+* [파드 하나 뚫리면 클러스터가 위험합니다: Pod Security(Restricted)로 시작하는 쿠버네티스 보안 | CloudBro Community](https://www.cloudbro.ai/t/%ED%8C%8C%EB%93%9C-%ED%95%98%EB%82%98-%EB%9A%AB%EB%A6%AC%EB%A9%B4-%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0%EA%B0%80-%EC%9C%84%ED%97%98%ED%95%A9%EB%8B%88%EB%8B%A4-pod-securityrestricted%EB%A1%9C-%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94-%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4-%EB%B3%B4%EC%95%88/4344)
+  * 쿠버네티스 보안을 클러스터 설정에서만 찾다 보면 가장 자주 뚫리는 워크로드(파드)를 놓친다는 글—파드 침해는 컨테이너 탈출·권한 상승으로 노드 장악, 서비스어카운트 토큰 탈취로 API 악용(RBAC 범위 내 횡이동), 동서 트래픽 스캔으로 확산, 시크릿·환경변수·볼륨 노출로 데이터 유출까지 번지므로 Pod Security Admission(Restricted)을 기본값으로 강제하는 데서 시작하자는 제안. 최소권한(권한 상승 불가·루트 불가·capability 최소화)+방어심층(파드 보안+RBAC+네트워크 정책+시크릿 관리+이미지 신뢰·스캔+모니터링) 원칙과 Restricted 수준으로 가기 위한 실천 체크리스트, AI 개발 코파일럿 시대의 잠재 리스크를 함께 다루는 법
 * [Kubernetes 최신 보안 트렌드 5가지 | InfoGrab, DevOps 전문 기술 기업 | 인포그랩 | GitLab기반 DevSecOps 구축,컨설팅,교육,기술지원 서비스 제공](https://insight.infograb.net/blog/2024/08/14/k8s-trends/)
 * [How does Kubernetes work internally? | by Soma | Javarevisited | Jun, 2023 | Medium](https://medium.com/javarevisited/how-does-kubernetes-work-internally-702b5d16c6ef)
 * [Elevating your Kubernetes Cluster’s Resilience: Pod Disruption Budget | by Arie Bregman | Medium](https://medium.com/@bregman.arie/elevating-your-kubernetes-clusters-resilience-pod-disruption-budget-43979a1cf104)
