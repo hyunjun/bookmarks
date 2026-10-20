@@ -1402,6 +1402,9 @@ Linux
   * [eBPF on Windows | GeekNews](https://news.hada.io/topic?id=4240)
 * [ebpfsnitch: Linux Application Level Firewall based on eBPF and NFQUEUE.](https://github.com/harporoeder/ebpfsnitch)
   * [eBPFSnitch - 리눅스용 어플리케이션 방화벽 | GeekNews](https://news.hada.io/topic?id=3894)
+* [ebpf-pod-blocker: eBPF로 TCP SYN 패킷을 카운트해 제한 조건을 초과한 파드 사이의 트래픽을 차단하는 Pod Blocker](https://github.com/taehwanyang/ebpf-pod-blocker)
+  * [eBPF로 Pod Blocker 구현 | Taehwan Dev Blog](https://taehwanyang.github.io/ebpf-pod-blocker/)
+  * 양태환(2026-03). keep-alive를 끈 대규모 HTTP 요청으로 TCP SYN flooding을 흉내 내는 auth-attacker를 상대로, 커널 모드 eBPF 프로그램(count_conn_and_drop.c)이 (src-ip, dst-ip)별 SYN 수를 세어 조건 초과 시 패킷을 드롭하고, 유저 모드 Go 프로그램이 제한 조건을 커널에 넘기며 보호 대상 파드의 호스트 veth(또는 bridge) 인터페이스에 tc hook을 거는 구조. 호스트에서 직접 실행해도 되지만 쿠버네티스에서는 cilium처럼 DaemonSet으로 배포하는 전략(AKS·EKS에도 유효). Mac은 Lima VM(ubuntu-ebpf.yaml)+k3s로 개발 환경 구성, `--recurse-submodules`로 클론. C·Go
 * [Parca - Open Source infrastructure-wide continuous profiling](https://www.parca.dev/)
   * [parca: Continuous profiling for analysis of CPU and memory usage, down to the line number and throughout time. Saving infrastructure cost, improving performance, and increasing reliability](https://github.com/parca-dev/parca)
   * [Parca - eBPF 기반의 지속적인 CPU/메모리 프로파일러 | GeekNews](https://news.hada.io/topic?id=6550)
