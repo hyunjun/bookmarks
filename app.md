@@ -460,6 +460,9 @@ App
 * [b2gdroid - an experiment that let you use Gaia (the user interface of FirefoxOS) on your Android device, as an alternative homescreen](https://people.mozilla.org/~fdesre/b2gdroid/)
 * [Fossdroid.com: Free and open source Android applications](https://fossdroid.com/)
 * [perch - See What’s Happening At Home](https://getperch.com/)
+* [Mac.apk: Android Apps, Native on Apple Silicon](https://projects.voltare.us/macapk)
+  * [Mac.apk: Run Android apps natively on Apple Silicon Macs](https://github.com/kksimp/Mac.apk)
+  * 에뮬레이터·VM·Linux 없이 Android 앱 환경을 macOS 위에 직접 구현해 APK를 네이티브 Mac 앱처럼 실행(Dock 아이콘·창·Cmd+Tab·GPU 가속). DEX→JVM 바이트코드 변환기 dex2jvm 별도 공개. macOS 26.4+ Apple Silicon 전용, 공개 알파(71개 앱 중 58개 동작), Apple 서명·공증, Java, AGPL-3.0, 1.2k stars
 * [MiceWine-Application: MiceWine is a project that aims to run Windows applications and games on Android smartphones](https://github.com/KreitinnSoftware/MiceWine-Application)
   * [MiceWine – 윈도우 앱과 게임을 안드로이드폰에서 실행하기 | GeekNews](https://news.hada.io/topic?id=18949)
 
