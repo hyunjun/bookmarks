@@ -208,6 +208,9 @@ Linux
 * [Claude Code Found a Linux Vulnerability Hidden for 23 Years](https://mtlynch.io/claude-code-found-linux-vulnerability/)
   * [Claude Code, 23년간 숨겨진 Linux 취약점을 발견하다 | GeekNews](https://news.hada.io/topic?id=28207)
   * Anthropic 연구원이 커널 소스 파일을 순회하며 Claude Code로 취약점 탐색. NFS 드라이버의 23년 된 힙 버퍼 오버플로우(112바이트 버퍼에 1,056바이트 수신) 발견. 5개 취약점 확인·패치 완료, 수백 개 추가 후보 검증 대기 중. Opus 4.6이 구형 모델 대비 탐지 성능 크게 향상
+* [CVE-2026-99999 (PwnEscape): ipv4: validate checksum_start before completing checksum - CVE Record](https://www.cve.org/CVERecord?id=CVE-2026-99999)
+  * [CVE-2026-99999(PwnEscape) — Linux 커널 취약점으로 VM 탈출 가능, VPS 사업자 긴급 대응 | GeekNews](https://news.hada.io/topic?id=35568)
+  * Vercel 100만 달러 Sandbox 해킹 챌린지에서 Paulos Yibelo(pwn.ai)가 발견. 호스트 커널 IPv4 스택이 checksum_start 메타데이터를 검증하지 않아 VM 내부에서 조작한 패킷으로 호스트 메모리 손상→메모리 유출·크래시·root 코드 실행(VM 탈출). KVM virtio-net/TAP 경로·Firecracker 샌드박스 영향, 게스트 커널 패치로는 해결 불가. 사쿠라 인터넷은 신규 VPS 신청 일시 중단, AWS는 EC2·Lambda·Fargate 영향 없음 공지
 
 # 배포판
 * [가벼운 리눅스 배포판 모음, 보디(Bodhi), 크런치뱅++, 퍼피리눅스 주분투 최소사양](http://startdownload.tistory.com/114)
