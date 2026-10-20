@@ -3104,6 +3104,10 @@ CVPR2016)
     * 사진 한 장으로 카메라 각도를 바꾸는 8분 ComfyUI 튜토리얼. TripoSplat으로 사진을 3D 가우시안 스플랫으로 만들고 3D 뷰어에서 원하는 각도로 돌린 뒤, AnyAngle LoRA를 얹은 Qwen Image 2.1 이미지 편집이 그 각도대로 사진을 다시 그림. 프롬프트로 각도를 설명하지 않고 직접 돌려 보며 구도를 잡는 것이 핵심. 오토바이·인물 옆모습 예시
   * 텍스트→이미지 생성과 편집을 하나로 통합한 7B(32층 Single-Stream DiT, 약 33GB) 경량 오픈 웨이트 모델—네이티브 2K(2048×2048 업스케일 없이, 가로 최대 2752×1536, 기본 40스텝), 64채널 RGBA VAE로 알파 채널이 잠재 공간에 내재돼 배경 제거·매팅 없이 스프라이트·로고·아이콘·제품 컷아웃을 바로 합성 가능한 투명 이미지로 출력. 최대 10장 참조 이미지로 다인 합성·모델+의상+액세서리 조합, 원형·페인트 주석·마스크 국소 편집, 인물 얼굴·제품 텍스트 보존
   * Mixed-Granularity Attention(텍스트는 토큰, 이미지는 청크 단위)+프리픽스 KV 캐시 재사용으로 참조 이미지가 많아질수록 속도·메모리 효율 향상. 경쟁 모델 대비 비용 효율과 개방 가중치가 강점이지만 비상업 연구용 라이선스 제약
+  * [Kokon — Edit photos by describing the change, on your own GPU](https://kokon.app/)
+    * [kokon: Edit photos by describing the change, on your own GPU. One installer, no Python, no cloud. Qwen-Image 2.1 for Windows and Mac, with an MCP server for AI agents](https://github.com/GabrieleLozupone/kokon)
+    * Qwen-Image 2.1(Turbo)을 내 GPU에서 돌리는 네이티브 사진 편집 앱—"해변에서 사람 다 지워줘", "골든아워로 만들어줘"처럼 문장으로 지시하면 모드·해상도·메모리 설정을 알아서 고르고(Fast/Balanced/Quality만 선택), 영역을 브러시로 칠한 뒤 Change·Remove·Replace·Add를 골라 칠한 부분만 바꾸는 인페인팅, 원본 크기·비율 유지와 AI 업스케일, iPhone HEIC(HDR 포함) 열기. stable-diffusion.cpp 기반 Tauri/Rust 앱이라 Python·ComfyUI·노드 그래프 없이 설치 파일 하나(Windows, Apple Silicon Mac·Linux는 베타), 첫 실행 때 GPU 또는 Mac 메모리를 감지해 맞는 모델을 내려받아 SHA-256 검증. 계정·업로드·텔레메트리 없음, 비공개 모드는 아무것도 저장 안 함
+    * NVIDIA는 CUDA, AMD·Intel Arc는 Vulkan 엔진(베타), Windows는 12GB GPU 권장. RTX 5070 Ti 기준 2K 신규 생성 약 36초·1.5K 편집 약 24초. 내장 MCP 서버·로컬 HTTP API로 Claude·Cursor·자체 스크립트가 로컬에서 이미지 생성·편집. Rust, AGPL-3.0, 135 stars
 * [Qwen-Image-3.0 | Qwen Blog](https://qwen.ai/blog?id=qwen-image-3.0)
   * [Qwen-Image-3.0 - 풍부한 콘텐츠, 사실적 디테일, 깊이 있는 지식 | GeekNews](https://news.hada.io/topic?id=31666)
   * [Qwen-Image-3.0 핵심 기능과 특징 정리: 더욱 현실적인 AI 이미지 생성 모델의 진화 | digitalbourgeois](https://digitalbourgeois.tistory.com/3400)
