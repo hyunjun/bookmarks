@@ -697,6 +697,9 @@ Business
   * [To do list 써도 소용없다? 일론 머스크가 사용하는 시간 관리법](https://livewiki.com/ko/content/elon-musk-time-management-7)
   * To-do list의 결정 피로(Decision Fatigue) 문제를 Brain Dump → Big 3 → Time Boxing 구조로 해결. 머스크는 5분 단위로 하루를 설계하며, 반응 시간과 집중 시간을 구조적으로 분리. 핵심은 "다 하는 것"이 아니라 "가장 중요한 3가지에 시간을 몰아넣는 것"
 * [효율적으로 일하려면 고려해볼 4가지 포인트](https://www.linkedin.com/posts/activity-7218647553393754112-zFAN/)
+* [You Are Busy, Not Productive - How Top Executives ACTUALLY Work | Firm Learning - YouTube](https://www.youtube.com/watch?v=UOf3evTx1cs)
+  * 20분(2026-09-06). 전 McKinsey 프로젝트 리드·CTO·CRO·COO Heinrich의 리더 습관을 생산성·사람·건강 3묶음으로—①모든 할 일이 한곳에 있다는 확신을 주는 task repository(그는 이메일 받은편지함을 그대로 사용), 2~3분짜리는 적지 않고 즉시 처리, 연구로 뒷받침되는 calendar blocking ②인생을 바꿨다는 이메일 시스템: 받은 즉시 처리→아카이브(삭제 금지), `needs action`·`awaiting reply`·`reference` 세 태그만 두고 매주 awaiting reply를 훑어 답 없는 사람에게 팔로업(상사가 2주 전 메일을 기억하는 비결), 1만 통이 쌓였어도 최근 50~100통만 태깅하고 전부 아카이브해 백지에서 시작
+  * 팀 관리: 갑자기 동기를 잃은 톱 퍼포머를 두고 "시킨 일이나 하면 된다"는 manager mindset과 사람을 키우는 리더 mindset을 대비. 컨설팅 회사식 슬라이드 작성 베스트 프랙티스를 담은 AI 스킬 파일(Copilot·Claude·ChatGPT용) 무료 배포
   * 1) 시간 관리, 우선순위 설정 및 가치 판단을 위해 시간 추적
   * 2) 기대치와 일치하는 기여를 하고, 잘못된 기여의 예 인식
   * 3) 단기 및 장기 우선순위 구분, 장기 우선순위는 복리 활동, 예를 들어 운동, 독서, 회고, 필요성 또는 호기심에 기반한 학습에 초점
@@ -4356,6 +4359,10 @@ Business
 * [로봇 기사](https://www.thestartupbible.com/2022/03/robots-will-be-better-drivers.html)
   * `사람을 위주로 서비스를 제공하는 비즈니스가 스케일이 생기면, 항상 이런 문제가 발생한다. 소프트웨어는 스케일해도 동일한 품질을 유지할 수 있지만, 사람은 그게 안 되기 때문이다.`
     * 내가 요즘 항상 이야기하고 고민하는 부분
+* [Be the Navy, Not Pirates | Andreessen Horowitz](https://a16z.com/be-the-navy-not-pirates/)
+  * [플랫폼 PM에게 혁신이란 무엇인가: 해적에서 해군으로 | onemorethink](https://onemorethink.tistory.com/entry/platform-pm-innovation-from-pirates-to-navy)
+    * a16z 글을 읽고 올해 기존 플랫폼 안에 새 서비스를 넣고 오래된 구조를 바꾸는 프로젝트를 많이 한 PM이 쓴 회고—아무것도 없는 곳에서 새것을 만드는 일(해적)과 이미 만들어진 거대한 플랫폼을 움직이는 일(해군)은 생각보다 많이 달랐고, 그 과정에서 PM으로 일하는 방식이 어떻게 바뀌었는지 정리
+  * 위대한 조직은 대부분 해적(규칙을 깨고 제국에 맞서는 "move fast and break things")으로 시작하지만, 영국이 바다를 지배한 건 해적으로 남아서가 아니라 해군을 만들었기 때문—해적은 본능과 운, 해군은 구조와 의도로 움직이며 그 전환이 번뜩이는 재능을 지속되는 힘으로 바꿈. 좋은 대조직은 느린 게 아니라 거대한 규모로 재능·자원·의도를 조율할 수 있어 위대함. 강한 해군 만들기: 의사결정 방식·원칙·좋은 실행의 기준을 일찍 문서화(단 속도를 지키려던 규칙도 결국 관료제가 되니 점검), 연차 아닌 역량으로 승진, 지속 학습 피드백 루프와 리더의 현장 밀착("매듭을 확인"), 프로세스가 의도를 대체하지 않게 미션을 명시해 템포 유지. SpaceX는 혼돈이 아니라 제도적 DNA에 질서를 설계해 빠름
 * [우리가 놓친 스케일업 성공 비결 | 전략 | 매거진 | 하버드비즈니스리뷰 HBR](https://www.hbrkorea.com/article/view/atype/ma/category_id/1_1/article_no/1950/page/1)
 * [(1) <스케일업의 전제조건 3가지 : 설계도, 프로세스, 펌프> 1. 사업을 하는... - Yibong Sanghoon Lee | Facebook](https://www.facebook.com/yibong/posts/pfbid02K53GRKPomCg3BGHMmFfH24vpSwCXMqgaiNQPKVYEWLgsRbZu7FCBYaQKKbqGRrWDl)
 * [무공식](https://www.thestartupbible.com/2022/04/why-it-is-so-hard-to-formularize-startup-output.html)
