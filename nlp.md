@@ -478,6 +478,8 @@ NLP
 * [Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps | Hugging Face](https://huggingface.co/blog/grpo-with-trl-ifstruct)
   * [LFM2.5-350M을 GRPO로 파인튜닝해 구조화된 출력 성능 높이기 | digitalbourgeois](https://digitalbourgeois.tistory.com/3642)
   * TRL로 LFM2.5-350M 소형 모델을 GRPO 100스텝만 학습해 JSON 등 구조화 출력 성능을 끌어올리는 실전 가이드
+* [모델이 JSON을 스트리밍할 필요가 있나요? | miinhho | velog](https://velog.io/@miinhho/%EB%AA%A8%EB%8D%B8%EC%9D%B4-JSON%EC%9D%84-%EC%8A%A4%ED%8A%B8%EB%A6%AC%EB%B0%8D%ED%95%A0-%ED%95%84%EC%9A%94%EA%B0%80-%EC%9E%88%EB%82%98%EC%9A%94)
+  * JSON Schema+structured output으로 최종 JSON은 잘 나오지만 스트리밍을 붙이면 다른 문제가 생긴다는 글—`{"summary":"Export job failed...` 같은 중간 상태는 그 순간 JSON이 아니어서 parse 실패를 오류가 아닌 "아직 덜 옴"으로 다뤄야 하고, 어떤 필드가 완성됐는지 알 수 없고, 최종은 맞는데 중간은 계속 깨진 상태. 문서가 완성되기 전엔 안정적인 중간 객체를 주지 않는 JSON 포맷 자체의 성질에서 오는 문제라는 지적
 * [tokens are getting more expensive - by Ethan Ding](https://ethanding.substack.com/p/ai-subscriptions-get-short-squeezed)
   * [LLM 서비스 비용은 정말로 많이 내려갔는가? LLM의 가격이 지속적으로 떨어지고 있다는 이야기가 요즘 곳곳에서 들립니다. 언론에서도, 투자 보고서에서도 “AI 모델의 단가가 급격히 낮아지고 있다”고 말하곤 합니다. 그러나 이 말은 절반만 맞습니다. 지난 2년간 LLM 서비스 비용이 눈부시게 내려간 것은 사실이지만, 그 하락이 앞으로도 같은 속도로… | Dongsoo Lee](https://www.linkedin.com/posts/dongsoo-lee-45028017_llm-%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%B9%84%EC%9A%A9%EC%9D%80-%EC%A0%95%EB%A7%90%EB%A1%9C-%EB%A7%8E%EC%9D%B4-%EB%82%B4%EB%A0%A4%EA%B0%94%EB%8A%94%EA%B0%80-llm%EC%9D%98-%EA%B0%80%EA%B2%A9%EC%9D%B4-%EC%A7%80%EC%86%8D%EC%A0%81%EC%9C%BC%EB%A1%9C-ugcPost-7384202513224433664-iwxb) 토큰 비용 등
 * [Understanding KV Caching in Transformers | by Minhajul Hoque | Medium](https://medium.com/@minh.hoque/understanding-kv-caching-in-transformers-729271c9b74a)
@@ -1482,6 +1484,11 @@ NLP
   * 고정 감정 표현은 미미한 영향, 적응형 감정 프롬프팅(EmotionRL)으로 안정적 성능 개선 달성
 * [2401.12954 Meta-Prompting: Enhancing Language Models with Task-Agnostic Scaffolding](https://arxiv.org/abs/2401.12954)
   * [Meta Prompt 의 문제점 "프롬프트를 만들어줘" "수정해줘" 과도 사용은 독이 됩니다 #metaprompt #promptengineering #prompting #llm #promptstrategy | Sujin Kang Ph.D.](https://www.linkedin.com/posts/sujin-prompt-engineer_metaprompt-promptengineering-prompting-ugcPost-7384610218225287168-ZG06)
+* [2509.10078 Human Psychometric Questionnaires Mischaracterize LLM Behavior](https://arxiv.org/abs/2509.10078)
+  * [Human Psychometric Questionnaires Mischaracterize LLM Behavior Review | dimensionstp](https://dimensionstp.github.io/study-concept/human_psychometric_questionnaires_mischaracterize_llm_behavior/)
+  * [LLM에게 personality test를 풀렸을 때 나온 profile을 그대로 behavior profile로 믿어도 될까요? | Joohyung Han | LinkedIn](https://www.linkedin.com/posts/joohyung-han-669943213_human-psychometric-questionnaires-mischaracterize-share-7491071908973776896-mZ3G/)
+    * 서울대 조요한 연구실 논문 리뷰—PVQ·BFI 같은 사람용 심리검사 self-report profile과 realistic query에 대한 generation probability profile을 같은 construct space에서 비교하면 agreement가 낮음. questionnaire item이 너무 transparent해 모델이 어떤 construct를 묻는지 알고 socially desirable answer를 고르는 것일 수 있고, demographic persona를 주면 questionnaire score는 사람 패턴처럼 움직이지만 generation에서는 그 shift가 유지되지 않음. "LLM에 성향이 없다"가 아니라 "무엇을 측정하는가"를 다시 묻는 evaluation 논문
+  * Woojung Song·Dongmin Choi·Yoonah Park·Jongwook Han·Eun-Ju Lee·Yohan Jo(2025-09-12). 오픈소스 LLM 8개의 value·personality를 Likert self-report(PVQ-40/21·BFI-44/10)와 일상 질의에 대한 가치 함축 응답의 생성 확률 두 방법으로 비교—두 프로파일이 크게 어긋나고, 안정적 성향의 근거로 인용되던 construct 내 문항 일관성이 생성 확률에서는 사라짐. questionnaire 점수만으로 실제 상호작용에서의 응답 경향을 입증해선 안 되며, 생태학적으로 타당한 항목의 생성 확률 프로파일링을 보완책으로 제안
 * [2510.04950 Mind Your Tone: Investigating How Prompt Politeness Affects LLM Accuracy (short paper)](https://arxiv.org/abs/2510.04950)
   * [이상선 - 펜실베이니아 주립대 연구진: “무례하게 말할수록 ChatGPT가 더 똑똑해진다” 1. 연구 개요... | Facebook](https://www.facebook.com/lsszz1/posts/pfbid0UmxFF5SfeNogKZQmKvVDDyp8HhN6JKJJHNUMZ4esZoHnhiWBZmnSYcekipiAU7FCl)
 * [2510.01171v3 VERBALIZED SAMPLING: HOW TO MITIGATE MODE COLLAPSE AND UNLOCK LLM DIVERSITY](https://arxiv.org/abs/2510.01171v3)
@@ -1525,6 +1532,9 @@ NLP
   * [CoT-Reasoning_without_Prompting: 구글에서 발표한 Chain-of-Thought Reasoning without Prompting을 코드로 구현한 레포입니다](https://github.com/daje0601/CoT-Reasoning_without_Prompting)
   * [COT_steering: This repository aims to develop CoT Steering based on CoT without Prompting. It focuses on enhancing the model’s latent reasoning capability without additional training by leveraging Test-Time Scaling techniques](https://github.com/Marker-Inc-Korea/COT_steering)
     * [훈련리소스 하나 들이지 않고 33B 오픈소스 LLM으로 deepseek 뛰어 넘는방법을 오픈소스로 공개](https://www.facebook.com/groups/255834461424286?multi_permalinks=2555116984829344&hoisted_section_header_type=recently_seen)
+  * [2305.10601 Tree of Thoughts: Deliberate Problem Solving with Large Language Models](https://arxiv.org/abs/2305.10601)
+    * [tree-of-thought-llm: NeurIPS 2023 Tree of Thoughts: Deliberate Problem Solving with Large Language Models | princeton-nlp](https://github.com/princeton-nlp/tree-of-thought-llm)
+    * Shunyu Yao 외(Princeton·Google DeepMind, NeurIPS 2023). 토큰 단위 좌→우 생성에 갇힌 LM 추론을 CoT의 일반화인 **생각(thought) 단위 탐색**으로 확장—여러 추론 경로를 생각하고 각 선택을 자기 평가해 다음 행동을 정하며 필요하면 앞을 내다보거나 되돌아감(BFS/DFS). Game of 24에서 GPT-4 CoT 4% → ToT 74%, Creative Writing·Mini Crosswords도 개선. Python, MIT, 6.1k stars
 * [DSPy](https://dspy.ai/)
   * [DSPy: The framework for programming—not prompting—foundation models](https://github.com/stanfordnlp/dspy)
   * [DSPy Explained! - YouTube](https://www.youtube.com/watch?v=41EfOY0Ldkc)
@@ -2833,6 +2843,8 @@ NLP
     * [Reasoning models | OpenAI API](https://developers.openai.com/api/docs/guides/reasoning)
       * 영상이 "보이지 않지만 돈은 내는 추론 토큰"의 근거로 인용한 공식 가이드—reasoning 토큰은 API로 보이지 않지만 컨텍스트 윈도를 차지하고 출력 토큰으로 과금, `reasoning.effort`는 none·minimal·low·medium·high·xhigh·max(모델별 지원 상이, xhigh·max는 evals로 이득이 확인될 때만), Responses API 권장(gpt-6-astra 기본, 저비용은 gpt-5.6-terra/luna), 추론 공간으로 최소 25,000 토큰 예약 권고, `incomplete`+`max_output_tokens` 처리, stateless 모드에서는 `encrypted_content`로 추론 아이템을 다음 호출에 전달해 추론을 보존
     * 7분(2026-10-19). 거의 모든 챗봇이 토큰을 하나씩 쓰고 추론 모델은 보이지 않는 토큰에 돈을 쓰게 하는데, 2026년 10월 나흘 간격으로 나온 프리프린트 두 편이 다른 길을 시도—NCM(Stanford+Together AI)은 텍스트를 거친→세밀한 층의 스택으로 저장해 패스마다 한 층을 통째로 쓰고, HybridAgents(Stanford·Together AI·UIUC·Meta)는 에이전트가 은닉 상태 벡터로 조용히 생각하다 도구 호출과 답변만 텍스트로 전환. 두 방식의 동작, 저자 자체 수치(스도쿠·요약·GAIA·비용), 어디서 지는지, 조용한 생각을 누가 읽을 수 있는지, 오늘 내려받을 수 있는 것 정리(모든 수치는 저자 보고, 둘 다 프리프린트). 참고 소스로 Google의 speculative decoding 회고, Coconut(Meta FAIR 2024)도 인용
+  * [NCM Just Killed LLM: This Time, It Might Be for Real | Cloud X Berry - YouTube](https://www.youtube.com/watch?v=SMYzc9FMXj0)
+    * 14분(2026-10-21). NCM을 초심자용으로 풀어 설명—대부분의 LLM은 autoregressive로 토큰을 하나씩 앞 토큰에 의존해 생성하지만, NCM은 답 전체의 '모양'을 먼저 스케치한 뒤 몇 번의 패스로 디테일을 채움. "31배 빠름"은 ChatGPT나 표준 단어별 모델이 아니라 **확산 언어 모델(DLM) 대비**이고 NCM은 연구 시스템이라는 점을 분명히 하며 과장 없이 ①NCM이 실제로 어떻게 생성하는가 ②결과가 정말 보여준 것 ③개발자에게 지금 갖는 의미 세 질문에 답함
 * [2412.06769 Training Large Language Models to Reason in a Continuous Latent Space](https://arxiv.org/html/2412.06769v4)
   * Shibo Hao·Sainbayar Sukhbaatar·DiJia Su·Xian Li·Zhiting Hu·Jason Weston·Yuandong Tian(Meta FAIR, 2024-12). LLM은 언어 공간에서 CoT로 추론하지만 대부분의 단어 토큰은 텍스트 일관성용이고 추론에 꼭 필요하지 않으며 일부 핵심 토큰은 복잡한 계획이 필요—Coconut(Chain of Continuous Thought)은 마지막 은닉 상태를 "연속 사고"로 삼아 단어로 디코딩하지 않고 다음 입력 임베딩으로 바로 되먹임. 연속 사고가 여러 대안 다음 단계를 동시에 인코딩해 CoT처럼 하나의 경로에 일찍 매이지 않고 BFS처럼 탐색하는 추론 패턴이 가능해져, 계획 중 탐색이 많은 논리 추론 과제에서 CoT를 앞서고 정확도·효율 트레이드오프도 개선. HybridAgents 등 잠재 추론 계열의 출발점
 * [2610.18861 Hybrid Reasoning Agents](https://arxiv.org/html/2610.18861v1)
@@ -2849,6 +2861,10 @@ NLP
   * LLM을 기존 ML 인프라와 분리하지 않고 통합하는 선택—기존 Model Scoring Service(MSS)에 NVIDIA Triton Inference Server와 vLLM을 연결하고 기존 gRPC 인터페이스와 OpenAI 호환 HTTP API를 함께 제공. GPU 자원 효율, 요청량 증가 대응, 안전한 모델 버전 전환, 모니터링, 커스텀 디코딩 로직까지 프로덕션 운영 관점에서 정리
 * [서빙 구조가 LLM 처리량을 바꾸는 방식](https://atlantic-andesaurus-8b9.notion.site/LLM-3c44c2420ac48157aaebe78f971e05c9)
   * Ray Serve·Triton·KServe를 비교해 엔진 설정과 서빙 구조가 처리량에 미치는 영향을 분리 측정. 이번 환경에서는 vLLM 단독 ≈ KServe RawDeployment > Triton >> Ray Serve 순 처리량. Ray Serve에선 엔진 설정(max_num_seqs 등)을 바꿔도 처리량 증가가 제한적이지만 vLLM 단독은 같은 변경의 효과가 큼—엔진 설정만 조정하기보다 서빙 구조·요청 경로를 함께 점검한 뒤 엔진을 최적화해야 한다
+* [우리 팀만의 vLLM 플러그인 만들기 1편 | NAVER D2](https://d2.naver.com/helloworld/0525182)
+  * vLLM의 플러그인 시스템으로 모델·스케줄러·분산 실행 등 내부 동작을 팀 요구에 맞게 확장하는 방법을 다룬 NAVER D2 2부작 1편
+* [우리 팀만의 vLLM 플러그인 만들기 2편 | NAVER D2](https://d2.naver.com/helloworld/7337586)
+  * 1편에 이어 vLLM 플러그인을 실제로 구현·등록하고 서빙에 적용하는 과정을 다룬 2편
 * [Optimizing LLM Serving Efficiency: Moving Beyond KV Cache Reuse to Token-Load Awareness with Ray Serve LLM | Anyscale](https://www.anyscale.com/blog/llm-kv-token-aware-routing)
   * [Balancing KV Cache Reuse and Token Load in Ray Serve LLM | Jeffrey (Yu-Che) Wang | LinkedIn](https://www.linkedin.com/posts/jeffrey-yu-che-wang_optimizing-llm-serving-efficiency-moving-share-7498057959357374464-sHdv/)
   * Jeffrey Wang·Seiji Eicher·Kourosh Hakhamaneshi(Anyscale)·Rudy Pei(NVIDIA), 2026-08-25. vLLM 레플리카 플릿에서 라우터의 "다음 요청을 누가 받나"가 TTFT·TPOT·처리량을 좌우—LLM 서빙은 KV 캐시 재사용(상태성)·요청 이질성·예측 불가한 실행 비용 때문에 전통 마이크로서비스 라우팅(consistent hashing 등)과 근본적으로 다름. KV 캐시 적중률만 높인다고 지연이 줄거나 처리량이 늘지 않는다는 오해를 짚음
@@ -3063,6 +3079,8 @@ NLP
   * [colibri: Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk](https://github.com/JustVugg/colibri)
   * [Colibrì, 25GB 환경에서 744B 거대 MoE 모델을 실행하는 AI 추론 엔진 | digitalbourgeois](https://digitalbourgeois.tistory.com/3563)
   * 이미 가진 하드웨어에서 프런티어 MoE 모델을 돌리는 추론 엔진—expert를 디스크에서 스트리밍해 25GB 환경에서 744B 모델 실행. 순수 C, 의존성 없음. 26.4k stars
+  * [PyTorchKR - 7,440억 파라미터 거대 모델을 일반 노트북에서 순수 C 언어로 구현한 초경량 추론 엔진 colibri | youshin Kim | LinkedIn](https://www.linkedin.com/pulse/pytorchkr-7440%EC%96%B5-%ED%8C%8C%EB%9D%BC%EB%AF%B8%ED%84%B0-%EA%B1%B0%EB%8C%80-%EB%AA%A8%EB%8D%B8%EC%9D%84-%EC%9D%BC%EB%B0%98-%EB%85%B8%ED%8A%B8%EB%B6%81%EC%97%90%EC%84%9C-%EC%88%9C%EC%88%98-c-%EC%96%B8%EC%96%B4%EB%A1%9C-%EA%B5%AC%ED%98%84%ED%95%9C-%EC%B4%88%EA%B2%BD%EB%9F%89-youshin-kim-2cvhc)
+    * 744B MoE 모델을 25GB RAM 소비자 PC에서 돌리는 순수 C 추론 엔진 colibri 소개—늘 쓰는 밀집 가중치 약 17B를 int4로 9.9GB만 RAM에 상주시키고, 75개 레이어의 라우팅 전문가 21,504개(약 370GB)는 NVMe에 두고 필요할 때 19MB 단위로 스트리밍. `.coli_usage`로 자주 쓰는 전문가를 미리 적재하고 MLA 압축 KV 캐시 사용—"모델을 통째로 RAM에 올린다"는 고정관념을 깬 디스크 스트리밍 설계
 * [cover-agent: CodiumAI Cover-Agent: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞](https://github.com/Codium-ai/cover-agent)
   * [We created the first open-source implementation of Meta’s TestGen–LLM | CodiumAI](https://www.codium.ai/blog/we-created-the-first-open-source-implementation-of-metas-testgen-llm/)
   * [Meta의 TestGen-LLM을 최초로 오픈소스로 구현 | GeekNews](https://news.hada.io/topic?id=14957)
@@ -4373,6 +4391,11 @@ NLP
   * [🔓Mistral Small 3: GPT-4o-mini를 대체할 오픈소스 언어 모델](https://fornewchallenge.tistory.com/entry/%F0%9F%94%93Mistral-Small-3-GPT-4o-mini%EB%A5%BC-%EB%8C%80%EC%B2%B4%ED%95%A0-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EC%96%B8%EC%96%B4-%EB%AA%A8%EB%8D%B8)
 * [MLC LLM | Home](https://mlc.ai/mlc-llm/)
   * [mlc-llm: Enable everyone to develop, optimize and deploy AI models natively on everyone's devices](https://github.com/mlc-ai/mlc-llm)
+* [mlxcel: High-performance LLM, VLM, embedding, reranking, and audio inference for Apple Silicon and NVIDIA CUDA systems | Lablup](https://github.com/lablup/mlxcel)
+  * [래블업, 애플 맥북 특화 'AI 추론 엔진' 오픈소스로 공개 | 전자신문](https://www.etnews.com/20260515000174)
+  * [Jeongkyu Shin - 전자신문 박종진 기자님께서 MLXcel 오픈소스화에 대해 글을 써 주셨다 | Facebook](https://www.facebook.com/jeongkyu.shin/posts/pfbid0k4qXhUjKWjyeFJvSDZxPKFFpR6ZwDtcWXPPvTiC39Ce2WGANVLHokwFZE9UctTHnl)
+    * 래블업 신정규 대표의 공개 당일 글(2026-05-15)—MLX 형식의 LLM/VLM을 애플 실리콘·CUDA에서 가속 실행하는 추론 엔진 겸 서버(맥·iOS·DGX Spark). AI Expo에서 엣지 AI를 이야기하던 기자와 한-UAE 행사 중 애플 AI 움직임을 통화하다 "곧 오픈소스"라 말한 것이 기사화되어 당일을 넘기지 않으려 주말부터 실행 파일 빌드 체인 검증·우분투 PPA·Homebrew 등록을 작업. 모델 서버 만들기는 뉴럴넷이 근본적으로 무엇인지 생각하게 하며, 박사 주제였던 의미론적 네트워크 중첩화 연구가 구체적 가치를 주는 프로그램이 되기까지의 소회. 공개 레포의 실험용 커밋 로그를 못 남겨 "시원섭섭"
+  * Rust로 구현한 로컬 추론 CLI 겸 프로덕션 모델 서버—MLX Safetensors 체크포인트를 Apple Silicon(주 타깃)·Linux/CUDA(보조)·AMD ROCm(실험)에서 실행. 텍스트 생성·멀티모달·임베딩·리랭킹·음성(WAV/MP3/FLAC 전사, 토큰당 ASR 델타 스트리밍)과 continuous batching·프롬프트 캐시·speculative decoding. `llama-server` 옵션·라우트 376개 호환 검증, OpenAI(Chat/Completions/Responses/Embeddings/Reranking/Audio)·Anthropic Messages·Vertex 호환 API, 모델 스토어·INI 프리셋에서 온디맨드 로드·LRU 축출하는 멀티모델 라우터와 라이브 LoRA 어댑터, BERT·ModernBERT·SigLIP·Qwen3-VL·ColBERT류 임베딩/리랭커. Apache-2.0, 474 stars
 * [MosaicML | Home](https://www.mosaicml.com/)
   * [MPT-30B: Raising the bar for open-source foundation models](https://www.mosaicml.com/blog/mpt-30b)
 * [motif-llm](https://github.com/moreh-io/motif-llm)
@@ -4423,6 +4446,8 @@ NLP
   * [완전 무료 Claude Code를 OpenRouter로 0원 코딩 에이전트 구축하기](https://fornewchallenge.tistory.com/entry/%F0%9F%86%93-%EC%99%84%EC%A0%84-%EB%AC%B4%EB%A3%8C-Claude-Code%EB%A5%BC-OpenRouter%EB%A1%9C-0%EC%9B%90-%EC%BD%94%EB%94%A9-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0)
   * [Surpassing Frontier Performance with Fusion | OpenRouter Blog](https://openrouter.ai/blog/announcements/fusion-beats-frontier/)
     * OpenRouter의 Fusion 소개. 여러 참여 모델의 출력을 판정 모델로 융합하는 단일 API 호출. DRACO 딥리서치 벤치마크 100개 과제에서, 저가 모델 패널을 융합한 결과가 GPT-5.5·Claude Opus 4.8을 능가—패널이 개별 모델을 일관되게 앞서고, 프런티어 패널은 프런티어를 넘어섬
+  * [스트라이프가 오픈라우터를 인수한다고 합니다 — OpenRouter·Vercel AI Gateway·Cloudflare AI Gateway·LiteLLM 비교 | Minsub Youm | LinkedIn](https://www.linkedin.com/posts/minsub-youm-a45052335_github-berriailitellm-the-fastest-litest-share-7487023229388382208-9UR3/)
+    * Stripe의 OpenRouter 인수 소식에 붙인 해설—400개+ 모델을 API 하나·결제 계정 하나로 잇는 'AI 멀티탭'으로 업무별 모델 교체, 같은 모델의 빠르거나 싼 공급사 우선, 장애 시 폴백. 크레딧 구매 수수료 5.5%·미사용 크레딧 365일 후 소멸, 요청 데이터는 저장 안 하지만 공급사 정책은 별도 확인. 선택 기준: Vercel 환경이면 Vercel AI Gateway, 인프라·캐싱·보안이면 Cloudflare AI Gateway, 자체 서버·데이터 통제권이면 LiteLLM, 폭넓은 모델·통합 결제면 OpenRouter
 * [open-webui: User-friendly WebUI for LLMs (Formerly Ollama WebUI)](https://github.com/open-webui/open-webui)
   * [FREE Local LLMs on Apple Silicon | FAST! - YouTube](https://www.youtube.com/watch?v=bp2eev21Qfo)
   * [Open WebUI : 1. OpenWebUI 란? - YouTube](https://www.youtube.com/watch?v=Qk74tAvJNls)
@@ -4589,8 +4614,12 @@ NLP
     * [박상길 - 저희가 이번에 Smoothie Qwen이라는 이름의 오픈소스를 릴리즈 했습니다. - 공식 깃헙... | Facebook](https://www.facebook.com/likejazz/posts/pfbid0rFQJ9i2YMWf3z85XiqY1biDnmxJ5e6TesH5Vw4QRrnaNA93DNA8kYXSiD5XmY9Fzl)
     * [캐럿 노트북 LM AI 검열 해제 스무디 의 혁신 - YouTube](https://www.youtube.com/watch?v=suwTPkaEZ_E)
       * [양병석 - 이제 제 노트북에서 로컬 llm돌릴수 있는 환경이 됬습니다. 그런데 역시 deepseek답네요. ㅜㅡ... | Facebook](https://www.facebook.com/fstory97/posts/pfbid02pfex8AJ8z7v9KDa4HJR47x55LWPKFfi6TXfw1aERzGKSwRnNuhdnC2Gsgzh8wFcQl)
+  * [Alibaba's new open source Qwen3.5-Medium models offer Sonnet 4.5 performance on local computers | VentureBeat](https://venturebeat.com/technology/alibabas-new-open-source-qwen3-5-medium-models-offer-sonnet-4-5-performance)
+    * [알리바바의 오픈소스 Qwen3.5-Medium 모델, 로컬에서 Sonnet 4.5 수준 성능 제공 | GeekNews](https://news.hada.io/topic?id=27111)
+    * Qwen3.5 Medium 시리즈—Apache-2.0 공개 3종(35B-A3B·122B-A10B·27B)+Model Studio API 전용 Qwen3.5-Flash. 서드파티 벤치마크에서 비슷한 크기의 GPT-5-mini·Claude Sonnet 4.5를 앞섰다고 주장. Gated Delta Networks+희소 MoE(256 전문가 중 8 라우팅+1 공유, 35B 중 토큰당 3B 활성) 하이브리드, 4비트 가중치·KV 캐시 양자화에도 거의 무손실이라 32GB VRAM 소비자 GPU에서 100만 토큰 컨텍스트 초과 가능. Thinking Mode·에이전트 도구 호출 지원, 프라이버시형 온프레미스 구축 용도
 * [quant.cpp: Lightweight embeddable LLM inference engine in pure C with ~4x longer context via delta KV compression](https://github.com/quantumaikr/quant.cpp)
   * 33K LOC 순수 C11 구현, 외부 라이브러리 제로. Delta KV 압축으로 3.8~4.3배 메모리 절감, ARM NEON/AVX2/Metal/CUDA/Vulkan 지원
+  * v0.12.0+ 갱신: `pip install quantcpp` 뒤 `quantcpp pull/run/serve/client/list`의 Ollama식 CLI(기본 권장 Qwen3-4B, M3에서 4.5 tok/s, Q4 NEON fused dot으로 Phi-3.5-mini보다 2.4배 빠름), `POST /v1/chat/completions` OpenAI 호환 SSE 서버, 3줄 Python API. KV 압축은 6.4배로—"128개 FP32 토큰+나머지 4비트면 컨텍스트 길이와 무관하게 FP32 품질"(Llama 3.2 3B, 3,970토큰 측정)로 청킹을 불필요하게 만든다는 주장. 17.6K줄 C, 192KB WASM 브라우저 데모, 검증 모델 7종
 * [Reader-LM: Small Language Models for Cleaning and Converting HTML to Markdown](https://jina.ai/news/reader-lm-small-language-models-for-cleaning-and-converting-html-to-markdown/)
   * [Reader-LM : HTML을 마크다운으로 변환하는 작은 언어 모델 | GeekNews](https://news.hada.io/topic?id=16744)
 * [RLYX: A hackable, simple, and reseach-friendly GRPO Training Framework with high speed weight synchronization in a multinode environment.](https://github.com/goddoe/RLYX)
@@ -4946,6 +4975,8 @@ NLP
   * Retriever와 Generator 사이에 경량 LLM 프루닝 단계를 추가해 검색된 청크를 5단계 관련도로 채점. 96% recall 유지하며 컨텍스트 68% 폐기, 소폭 지연 증가 대신 쿼리 비용 약 1/3 절감
 * [오픈소스 LLM으로 RAG 시스템 만들기 - YouTube](https://www.youtube.com/watch?v=04jCXo5kzZE)
 * [RAG(Retrieval-Augmented Generation)의 개념과 프레임워크 – Data Rabbit](https://flonelin.wordpress.com/2024/03/24/ragretrieval-augmented-generation%ec%9d%98-%ea%b0%9c%eb%85%90%ea%b3%bc-%ed%94%84%eb%a0%88%ec%9e%84%ec%9b%8c%ed%81%ac/) LangChain LlamaIndex
+* [SMVE: Multi-Vector Retrieval That Just Works | TopK](https://www.topk.io/blog/20260311-smve-multi-vector-retrieval)
+  * ColBERT류 late-interaction(멀티 벡터) 검색을 벡터 DB의 1급 기능으로 올리며 겪은 스케일 문제를 푼 TopK의 SMVE(Sparse Multi-Vector Encoding) 소개—멀티 벡터의 MaxSim 품질은 유지하되 토큰 임베딩을 밀집 descriptor로 근사하는 대신 **희소 벡터**로 바꿔 저장·계산이 0이 아닌 원소 수에만 비례하게 함. 3단계(구면 앵커로 랜덤 투영→Top-K만 남기는 희소화→쿼리는 합·문서는 평균 풀링)에 서로 다른 랜덤 행렬로 반복·concat해 분산을 줄임
 * [What if RAG is no longer a single architecture, but a whole set of design patterns? | Ravena O | LinkedIn](https://www.linkedin.com/posts/ravena-o_what-if-rag-is-no-longer-a-single-architecture-share-7504915003926302720-h_Dg/)
   * 2026년에 알아둘 RAG 설계 패턴 7가지 시각 정리—Naive RAG(벡터 검색→LLM), Retrieve-and-Rerank(리랭커로 컨텍스트 관련도 개선), Multimodal RAG(텍스트 외 멀티모달 문서·미디어), Graph RAG(벡터 검색+그래프 DB로 정보 간 관계 반영) 등. RAG가 단일 아키텍처가 아니라 유스케이스별 패턴 집합으로 진화했다는 관점
 * [Most RAG systems fail in production for one reason | Brij Kishore Pandey | LinkedIn](https://www.linkedin.com/posts/brijpandeyji_most-rag-systems-fail-in-production-for-one-share-7465966676107419648-mYif/)
@@ -6508,6 +6539,11 @@ NLP
 * [Gemini 3.1 Flash TTS: New text-to-speech AI model](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-tts/)
   * [Gemini 3.1 Flash TTS - 자연어로 음성 스타일을 제어하는 차세대 AI 음성 모델 | GeekNews](https://news.hada.io/topic?id=28563)
   * "audio tags"로 음성 스타일·속도·전달 방식 제어. 70개+ 언어, 네이티브 멀티 스피커 대화, SynthID 워터마크
+* [GPT-Live 소개 | OpenAI](https://openai.com/ko-KR/index/introducing-gpt-live/)
+  * [6개월 만에 빠르게 반응하는 실시간 음성 AI 시스템을 구축한 방법 | OpenAI](https://openai.com/ko-KR/index/continuous-voice-interaction-with-gpt-live/)
+  * [최근 OpenAI가 공개한 GPT Live 실시간 서빙 시스템 설계 글 정리 | mseagle | LinkedIn](https://www.linkedin.com/posts/mseagle2023_voiceai-aiengineering-realtimesystems-share-7491026558992740352-bp7h/)
+    * 모델 소개가 아니라 실시간 서빙 시스템 설계를 다룬 글이라는 점에 주목—Turn Detector를 실시간 경로에서 제거해 듣기·말하기를 동시에 하는 Continuous Interaction, 실시간 Voice Model과 Search·Reasoning을 맡는 Frontier Model 분리, Media Frontend·Inference Logic을 Go로 재작성, WebRTC 연결을 줄인 WARP·Instant Connect, Context Compaction 시 새 인스턴스를 미리 준비해 끊김 없이 전환하는 Model Handoff. "Interaction은 빠르게, Reasoning은 깊게"가 프런티어가 공통으로 향하는 방향
+  * OpenAI의 3세대 음성 시스템 GPT-Live—동시에 듣고 말하는 풀 듀플렉스 아키텍처로 오디오 경로에서 턴 감지기를 제거(너무 이르면 끊고 늦으면 굼뜨던 문제 해소), '음·네' 같은 백채널로 반응하고 사용자가 생각할 땐 조용히 기다림. 깊은 추론·툴·웹 검색은 백그라운드 프런티어 모델(출시 시 GPT-5.5)에 비동기 위임하고 대화 흐름은 유지. GPT-Live-1·mini 순차 배포, SynthID 워터마크. 들어오는 오디오를 음성 모델로 실시간 스트리밍하고 상태 유지형 추론·동적 컨텍스트 관리·프로토콜 최적화로 미디어 루프를 끊김 없이 유지
 * [GPT-SoVITS: 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)](https://github.com/RVC-Boss/GPT-SoVITS)
   * [이 말투로 TTS를 만들면 어떻게 될까 - YouTube](https://www.youtube.com/watch?v=bYxwtLvFNRI)
 * [Grok Voice 3.0: The world's most intelligent voice model | SpaceXSI](https://x.ai/news/grok-voice-3)
@@ -6522,6 +6558,8 @@ NLP
   * [숨쉬기 힘들 때까지 말해도…놀라운 음성인식엔진](http://techholic.co.kr/archives/35360)
 * [icefall](https://github.com/k2-fsa/icefall)
   * [Icefall — icefall 0.1 documentation](https://k2-fsa.github.io/icefall/index.html)
+* [Interaction Models: A Scalable Approach to Human-AI Collaboration | Thinking Machines](https://thinkingmachines.ai/blog/interaction-models/)
+  * 상호작용을 harness로 덧붙이지 않고 모델이 네이티브로 처리하는 interaction model의 research preview—지능과 함께 상호작용성도 스케일해야 한다는 전제로 처음부터 학습. 턴 기반 모델이 교대 토큰 시퀀스를 보는 대신 연속 입출력 스트림을 micro-turn으로 쪼개 침묵·겹침·중단을 컨텍스트에 유지(time-aware). 매끄러운 대화 관리, 말·시각적 끼어들기, 동시 발화(실시간 번역), 시간 인지, 말하며 동시에 검색·브라우징·생성 UI를 엮는 능력. interaction model과 background reasoning model을 분리하는 다중 스트림 설계
 * [IMS-Toucan: Text-to-Speech Toolkit of the Speech and Language Technologies Group at the University of Stuttgart. Objectives of the development are simplicity, modularity, controllability and multilinguality](https://github.com/digitalphonetics/ims-toucan)
 * [Realtime TTS-2: A new frontier voice model that feels as human as it sounds | Inworld AI](https://inworld.ai/blog/realtime-tts-2)
   * [5~15초 음성으로 목소리 복제…Inworld AI Realtime TTS-2의 핵심 기능과 특징 | digitalbourgeois](https://digitalbourgeois.tistory.com/3624)
@@ -6943,6 +6981,15 @@ NLP
 * [#Python | GloVe, Global Vectors for Word Representation | #GlobalVector #WordEmbedding #Stanford - YouTube](https://www.youtube.com/watch?v=_K7ZuZi0gXE)
 * [고차원 임베딩에서 벡터 유사도를 파헤치기 | LinkedIn](https://www.linkedin.com/pulse/%25EA%25B3%25A0%25EC%25B0%25A8%25EC%259B%2590-%25EC%259E%2584%25EB%25B2%25A0%25EB%2594%25A9%25EC%2597%2590%25EC%2584%259C-%25EB%25B2%25A1%25ED%2584%25B0-%25EC%259C%25A0%25EC%2582%25AC%25EB%258F%2584%25EB%25A5%25BC-%25ED%258C%258C%25ED%2597%25A4%25EC%25B9%2598%25EA%25B8%25B0-jin-hyung-park-bvjsc/) 임베딩 기반 검색에서 높은 유사도 점수가 얼마나 중요한 시그널이 될 수 있는지
 * [임베딩의 이론과 실무: 한계와 효율을 동시에 바라보기](https://www.linkedin.com/pulse/%EC%9E%84%EB%B2%A0%EB%94%A9%EC%9D%98-%EC%9D%B4%EB%A1%A0%EA%B3%BC-%EC%8B%A4%EB%AC%B4-%ED%95%9C%EA%B3%84%EC%99%80-%ED%9A%A8%EC%9C%A8%EC%9D%84-%EB%8F%99%EC%8B%9C%EC%97%90-%EB%B0%94%EB%9D%BC%EB%B3%B4%EA%B8%B0-%EB%8C%80%EA%B3%A4-%EC%9C%A0-gk0ic)
+* [2603.09185 DEO: Training-Free Direct Embedding Optimization for Negation-Aware Retrieval](https://arxiv.org/abs/2603.09185)
+  * [deo-rag-with-bigquery: DEO Negation-Aware RAG with BigQuery | ksmin23/my-adk-python-samples](https://github.com/ksmin23/my-adk-python-samples/tree/main/RAG/deo-rag-with-bigquery)
+  * ["~은 제외하고 알려줘" – RAG가 가장 어려워하는 이 한마디, 어떻게 해결할까요? | Sungmin Kim | LinkedIn](https://www.linkedin.com/posts/sungminkim23_googlecloud-bigquery-gemini-ugcPost-7449026969008119808-E7vN/)
+    * "A는 제외하고", "B 대신 C로" 같은 부정어가 들어가면 벡터 검색이 의미 유사도 때문에 오히려 제외할 키워드 문서를 가져오는 문제를 DEO로 푼 ADK(Agent Development Kit) 샘플—①Gemini(2.5 Flash) 루트 에이전트가 질문의 부정·제외 신호를 분석해 긍정/부정 하위 질의로 분해 ②경사 하강으로 질의 임베딩을 긍정 의도 쪽으로, 부정 의도에서 멀어지게 최적화 ③최적화된 임베딩으로 BigQuery Vector Search. 부정어가 없으면 일반 벡터 검색. 금융·의료·법률처럼 '제외' 조건이 필수인 도메인에서 환각을 줄이는 디테일
+  * 이태경·박지원·황승현·장주영(2026-03-10). 부정·제외 질의에 약한 기존 검색을 임베딩 적응·파인튜닝 없이 고치는 training-free 방법—질의를 긍정·부정 성분으로 분해하고 대조 목적 함수로 질의 임베딩만 최적화. NegConstraint에서 nDCG@10 +0.0738·MAP@100 +0.1028, 멀티모달에서 OpenAI CLIP 대비 Recall@5 +6%
+* [2605.15156 MeMo: Memory as a Model](https://arxiv.org/abs/2605.15156)
+  * [이제 RAG에서 구식 Vector DB를 버리고, 지식만 전문으로 암기하는 소형 비서 sLM 모델을 따로 만들어 LLM 옆에 두면 어떨까요? | 염기웅 | LinkedIn](https://www.linkedin.com/posts/kiwoong-yeom_%EC%9D%B4%EC%A0%9C-rag%EC%97%90%EC%84%9C-%EA%B5%AC%EC%8B%9D-vector-db%EB%A5%BC-%EB%B2%84%EB%A6%AC%EA%B3%A0-%EC%A7%80%EC%8B%9D%EB%A7%8C-%EC%A0%84%EB%AC%B8%EC%9C%BC%EB%A1%9C-%EC%95%94%EA%B8%B0%ED%95%98%EB%8A%94-share-7463797498680332288-PRGD/)
+    * 비유로 풀어 쓴 해설—RAG가 사서(벡터 DB)에게 문서 조각을 책상(컨텍스트)에 쌓아 달라는 방식이라면 MeMo는 기억력 좋은 소형 비서(1.5B~14B Memory 모델)를 따로 학습시켜 옆에 앉히고, 얼려 둔 거대 Executive 모델(Qwen 32B·Gemini 3 Flash)이 자연어 꼬리 질문으로 인터뷰하듯 지식을 캐냄. 지식 이식은 교사 LLM(Qwen 32B)이 문서를 5단계 QA 문제집으로 정제—팩트 추출→통합→검증(대명사 제거)→엔티티 표면화(역전의 저주 대비 역방향 문제)→문서 간 합성—해 66만~164만 개 QA로 SFT. NarrativeQA에서 HippoRAG2 23.21% 대 MeMo(Gemini-3-Flash+Qwen-14B) 53.58%, 노이즈 문서를 섞어도 기존 RAG는 6.22%p 하락·MeMo는 0.55%p 내외
+  * MIT CSAIL(Daniela Rus)·NUS·A*STAR·Liquid AI 등(2026-05-14). 사전학습 후 얼어붙는 LLM에 새 지식을 넣기 위해 LLM 파라미터는 그대로 두고 전용 메모리 모델에 지식을 인코딩하는 모듈형 프레임워크—(a) 문서 간 복잡한 관계 포착 (b) 검색 노이즈에 강건 (c) LLM의 파멸적 망각 없음 (d) LLM 가중치·로짓 접근 불필요라 폐쇄형 모델에도 플러그앤플레이 (e) 추론 시 검색 비용이 코퍼스 크기와 무관. BrowseComp-Plus·NarrativeQA·MuSiQue 세 벤치마크에서 기존 방법 대비 강한 성능
 * [2605.22391 Epicure: Navigating the Emergent Geometry of Food Ingredient Embeddings](https://arxiv.org/abs/2605.22391)
   * [충격적인 논문 - AI가 인류의 모든 요리를 단 2MB로 압축했다 | Suk Hyun K | LinkedIn](https://www.linkedin.com/posts/suk-hyun-k-31ba9b369_stisxr-aiqporlk-ai-ugcPost-7465537949883863041-Dza4/)
     * 7개 언어 레시피 414만 개에서 핵심 재료 1,790개를 300차원 벡터 공간에 배치—인류의 미식 조합 패턴이 약 2MB 임베딩으로 응축된다는 감상
