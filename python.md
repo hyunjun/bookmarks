@@ -1269,6 +1269,10 @@ Python
   * [파이썬 동시성 프로그래밍 - (2) Condition & Semaphore & Event](http://hamait.tistory.com/753)
   * [파이선 동시성 프로그래밍 - (3) Queue](http://hamait.tistory.com/754)
   * [파이썬 동시성 프로그래밍 - (4) multiprocessing](http://hamait.tistory.com/755)
+* [Python의 멀티프로세싱과 Airflow의 task 동작 방식 | NAVER D2](https://d2.naver.com/helloworld/4452165)
+  * Python multiprocessing이 fork/spawn으로 프로세스를 만드는 방식과 Airflow가 task를 실행할 때 그 위에서 벌어지는 동작을 연결해 분석한 NAVER D2 글
+* [Python의 GC가 멀티프로세싱과 만나면 생기는 일 | NAVER D2](https://d2.naver.com/helloworld/4149925)
+  * CPython의 참조 카운트·순환 GC가 fork된 자식 프로세스의 copy-on-write 메모리와 충돌해 공유 페이지가 불필요하게 복제되는 문제를 다룬 NAVER D2 글
   * [파이썬 동시성 프로그래밍 - (7) GPGPU (pyCuda)](http://hamait.tistory.com/818)
     * [Deep-Learning-Boot-Camp/day02-PyTORCH-and-PyCUDA/PyCUDA](https://github.com/QuantScientist/Deep-Learning-Boot-Camp/tree/master/day02-PyTORCH-and-PyCUDA/PyCUDA)
   * [파이썬 동시성 프로그래밍 - (8) 제네레이터 & 코루틴 & asyncio & async/await](http://hamait.tistory.com/830)
@@ -1432,6 +1436,9 @@ Python
     * [Memray - 블룸버그가 공개한 Python 메모리 프로파일러 오픈소스 | GeekNews](https://news.hada.io/topic?id=6417)
   * [Prodfiler](https://prodfiler.com/)
   * [pyftrace: Python function tracer](https://github.com/kangtegong/pyftrace) lightweight Python function tracing tool designed to monitor and report on function calls within Python scripts
+  * [pyinstrument — Call stack profiler for Python. Shows you why your code is slow! | joerick](https://github.com/joerick/pyinstrument)
+    * [pyinstrument docs](https://pyinstrument.readthedocs.io/)
+    * 느린 이유를 보여 주는 콜 스택 프로파일러—통계적 샘플링으로 오버헤드가 낮고, 함수 단위 대신 호출 트리로 시간을 보여 줌. BSD-3-Clause, 8k stars
   * [Pympler - a development tool to measure, monitor and analyze the memory behavior of Python objects in a running Python application](https://pythonhosted.org/Pympler)
   * [pyperf: Toolkit to run Python benchmarks](https://github.com/psf/pyperf)
     * [CPython 3.11 recursive benchmark](https://gist.github.com/corona10/bb782b1d85a501747d2738d724cb9dd1)
@@ -2816,6 +2823,9 @@ Python
 * [예제 3 연봉 계약서 자동 생성하기](https://gils-lab.tistory.com/58)
 * [Python Resources for working with Excel - Working with Excel Files in Python](https://www.python-excel.org/)
 * [DOTXCEL - Paint Your Image To Excel!](https://github.com/yongsk0066/dotxcel)
+* [ExStruct Documentation](https://harumiweb.github.io/exstruct/)
+  * [exstruct: Conversion from Excel to structured JSON (tables, shapes, charts) for LLM/RAG pipelines, and autonomous Excel reading/writing by AI agents via CLI and MCP integration](https://github.com/harumiWeb/exstruct)
+  * 두 가지 역할—Excel 워크북에서 표·도형·차트를 레이아웃 의미를 살려 LLM/RAG용 구조화 JSON으로 추출(Python API가 정식 인터페이스), 공개 패치 기반 코어로 워크북 편집(`exstruct patch`·`exstruct make` CLI가 정식 운영 인터페이스). MCP 서버는 `PathPolicy`·전송·아티팩트를 담당하는 통합 계층으로 샌드박스·호스트 관리 도구에서 에이전트가 자율적으로 Excel을 읽고 씀. 기업용 라이선스 가이드 별도. Python, BSD-3-Clause
 * [**Grid studio - a web-based spreadsheet application with full integration of the Python programming language.** https://gridstudio.io ](https://github.com/ricklamers/gridstudio)
   * [How I built a spreadsheet app with Python to make data science easier](https://hackernoon.com/introducing-grid-studio-a-spreadsheet-app-with-python-to-make-data-science-easier-tdup38f7)
   * [Say Goodbye to Excel? A Simple Evaluation of Python Grid Studio Using COVID-19 Data](https://towardsdatascience.com/say-goodbye-to-excel-a-simple-evaluation-of-python-grid-studio-using-covid-19-data-90624f322b81)
@@ -4139,6 +4149,9 @@ Python
 * [miracle-ad - AAA 중 Authorization 관련 모듈 - miracle-acl](http://mcchae.egloos.com/11272920)
 * [Monopoly is a Python library & CLI that converts bank statement PDFs to CSV](https://github.com/benjamin-awd/monopoly)
   * 은행 명세서 PDF를 CSV로 변환하는 Python 라이브러리·CLI. 415 stars
+* [Monty — A secure Python sandbox, written in Rust, for code written by AI | Pydantic](https://pydantic.dev/docs/monty/)
+  * [monty: A secure Python sandbox, written in Rust, for code written by AI | pydantic](https://github.com/pydantic/monty)
+  * LLM이 쓴 코드를 돌리는 컨테이너 기반 샌드박스의 지연·복잡성·비용을 피하는 Rust 구현 Python 3.14 샌드박스—OSS Monty(MIT 패키지, 로컬)와 Full Monty(원격). 새 샌드박스+10개 명령 에이전트 실행 합계가 OSS Monty 1.2ms·Full Monty 7ms로 WASI 200ms·로컬 Docker 900ms·Pyodide 2.7s보다 빠름. 8.7k stars
 * [MORPHiS is a global encrypted distributed datastore intended to replace the cloud for storage and far more](https://morph.is/)
 * [moviepy: Video editing with Python](https://github.com/Zulko/moviepy)
 * [MUMPS : a parallel sparse direct solver](http://mumps.enseeiht.fr/)
@@ -4277,6 +4290,9 @@ Python
 * [PyV8 - a python wrapper for Google V8 engine](https://github.com/flier/pyv8)
   * [PyV8을 이용한 자바스크립트 악성코드 분석하기](http://www.hanul93.com/kicomav-pyv8/)
   * [Python, PyV8로 javascript 실행하기](https://blog.naver.com/dudwo567890/220895234080)
+* [PyWa — The Python framework for building WhatsApp bots](https://pywa.readthedocs.io/)
+  * [pywa: The Python framework for building WhatsApp bots. Fast. Typed. Production-ready | david-lev](https://github.com/david-lev/pywa)
+    * WhatsApp Cloud API로 봇을 만드는 타입 있는 Python 프레임워크—메시지·콜백·플로우 처리. Python 3.10+, MIT
 * QPython
   * [1. 개발환경 구축](http://m.blog.naver.com/dls001215/220972361443)
 * [quack - Build system on top of build systems](https://github.com/Autodesk/quack)
@@ -6013,6 +6029,9 @@ Python
     * [FastAPI 시작하기: Pydantic으로 REST API 구축](https://livewiki.com/ko/content/fastapi-pydantic-getting-started)
 * [Pyre - A performant typechecker for Python](https://pyre-check.org/)
 * [Pyrefly: A Fast Python Type Checker and Language Server](https://pyrefly.org/)
+  * [pyrefly: A fast type checker and language server for Python | facebook](https://github.com/facebook/pyrefly)
+  * [Pyrefly v1.0.0 is here! | Meta Open Source - YouTube](https://www.youtube.com/watch?v=_o0TZG_xrys)
+    * 4분(2026-05-13). Meta가 만든 빠른 오픈소스 Python 타입 체커·언어 서버 Pyrefly v1.0.0 프로덕션 출시 소개, 에이전트가 Pyrefly를 쓰게 하는 팁 링크
   * [Lessons from Pyre that Shaped Pyrefly](https://pyrefly.org/blog/lessons-from-pyre/)
     * Pyre 개발 경험에서 얻은 교훈이 Pyrefly 설계에 어떤 영향을 미쳤는지 분석
   * [Why You NEED This New Python Tool | Tech With Tim - YouTube](https://www.youtube.com/watch?v=lFA-zuZRG4Q)
