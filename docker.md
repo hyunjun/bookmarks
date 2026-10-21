@@ -736,6 +736,8 @@ Docker
   * [Docker 컨테이너 10년 | GeekNews](https://news.hada.io/topic?id=27313)
 * [코드가 환경을 모르는 구조 6/7 컨테이너는 왜 폭발하는가 | flex 팀블로그](https://flex.team/blog/2026/05/13/backend13)
   * flex 백엔드 시리즈 "코드가 환경을 모르는 구조" 6편. 코드가 실행 환경(설정·경로·시크릿)을 알면 컨테이너가 왜 "폭발"하는지, 환경을 코드 밖으로 분리하는 설계 관점
+* [Your Container Is Not a Sandbox: The State of MicroVM Isolation in 2026 | Emir Beganović](https://emirb.github.io/blog/microvm-2026/)
+  * Booking.com SRE가 KubeCon EU 2026 직후 쓴 25분 분량 microVM 가이드—컨테이너는 보안 경계가 아니라 자원 제어 수단(18개월간 탈출 CVE 8건, 커널 공유)이고 microVM은 ~125ms 부팅·<5MiB 오버헤드로 "VM은 느리다"는 반론이 끝났다는 정리. 진짜 혁명은 특정 VMM이 아니라 rust-vmm 공유 크레이트 생태계, Firecracker vs Cloud Hypervisor 선택법, E2B·SlicerVM·Vercel 등 AI 샌드박스 플랫폼 비교, gVisor·Kata·Edera·KubeVirt, chroot(1979)→AI 에이전트 샌드박스(2026) 격리 연표
 
 # Book
 * [더북(TheBook): 오픈스택을 다루는 기술](https://thebook.io/006881/)
@@ -1750,6 +1752,10 @@ Docker
     * [NVIDIA Run:ai 오픈소스 공개: GPU 오케스트레이션과 AI 인프라 운영의 변화 | digitalbourgeois](https://digitalbourgeois.tistory.com/3825)
     * 2026-10-13 공식 발표. 전체 플랫폼과 함께 따로 도입할 수 있는 4개 구성요소 공개—KAI Scheduler(GPU 인식 K8s 스케줄링), GPU Fractioning Operator(CUDA 네이티브 GPU 분할), KAI Resource Management(부서·프로젝트·할당량·노드 풀 계층), Workload Map(여러 K8s 워크로드 유형을 일관되게 다루는 계약). 관련 오픈소스로 모델 로딩 가속 Model Streamer, 다중 컴포넌트 추론 오케스트레이션 Grove
     * 직접 배포(GitHub 소스, NGC 커뮤니티 제품 Helm 차트—유료 구독 불필요하지만 엔터프라이즈 지원 없음) 또는 DSX 파트너 제품으로 도입. Crusoe·Mirantis·Nebius·OpenNebula Systems·Rafay·Saturn Cloud·Spectro Cloud·vCluster 8곳이 통합 중. 번역 글은 성능 수치·파트너 사례가 NVIDIA 발표 기반이며 독립 검증되지 않았다고 짚음
+  * [NVIDIA Open Sources Run:ai Scheduler to Foster Community Collaboration | NVIDIA Technical Blog](https://developer.nvidia.com/blog/nvidia-open-sources-runai-scheduler-to-foster-community-collaboration)
+    * [Jinho Seo - 젠슨황이 약속했듯이 NVIDIA가 Kubernetes 기반 GPU 관리 플랫폼 Run:ai 전체를 Apache 2.0 오픈소스로 공개 | Facebook](https://www.facebook.com/jinho.seo.165/posts/pfbid0mrhLkDUzPjZpHHSBwmY6SpntxmMBV99zWr2mro6KZLMtZGrtoKMPLzPFfQETA9Y5l)
+      * 전체 플랫폼 공개를 정리한 공유 글—KAI Scheduler(갱 스케줄링·공정 배분·GPU 토폴로지 인식 배치), GPU Fractioning Operator(GPU 분할·워크로드별 메모리 한도), KAI Resource Management(프로젝트·부서별 할당량·노드 풀), Workload Map(PyTorchJob·RayCluster·KServe 표현). 웹 UI·CLI·REST API·MCP 서버 제공, 가상 GPU로 실제 GPU 없이 로컬 시험 가능, 커뮤니티 배포판은 기업 지원 미포함. 기사의 '모델 로딩 3~6배'는 Model Streamer의 실험 수치라 Run:ai 전체 성능 향상이 아니라는 지적
+    * 플랫폼 전체 공개에 앞서 KAI Scheduler만 Apache-2.0으로 먼저 열었던 NVIDIA 기술 블로그—Kubernetes 네이티브 GPU 스케줄러가 풀려는 문제: 요동치는 GPU 수요(fair-share를 실시간 재계산해 할당량·한도 조정), 대기 시간 단축(갱 스케줄링+GPU 공유+계층형 큐로 배치 제출 후 자리 비워도 순서대로 실행), 자원 보장·GPU 할당, AI 도구·프레임워크 연결. 스케줄링 사이클과 액션 설명
   * NVIDIA가 오픈소스로 공개한 AI 워크로드·GPU 오케스트레이션 플랫폼(2026-10). 여러 팀이 공유하는 GPU 인프라에서 개발 워크스페이스·단일/분산 학습·추론 서비스를 배치하고 자원을 배분—GPU 하나를 여러 작업에 분할(fractional), 유휴 자원 동적 활용, fair-share·선점·회수·우선순위·GPU 토폴로지 인식 스케줄링, 부서·프로젝트별 할당량과 정책으로 독점 방지
   * 구조: 컨트롤 플레인(중앙 자원 관리·워크로드 제출·모니터링·분석, 여러 클러스터 연결)+클러스터 서비스(각 K8s 클러스터에서 네이티브 스케줄링을 GPU 인식 기능으로 확장). 온프레미스·클라우드·하이브리드, Kubernetes/OpenShift 자체 설치·폐쇄망 배포, Kubeflow·Ray·KServe 연동, 웹 UI·CLI·REST API에 MCP 서버로 AI 어시스턴트에서도 조작, 역할별 접근 제어·GPU/노드/작업별 사용량 모니터링. 모노레포에 컨트롤 플레인·오퍼레이터/컨트롤러·설치기·CLI·MCP 서버·로컬 개발 환경 포함. 오픈소스판은 NGC 인증 없이 설치 가능. Go, Apache-2.0
 * [Kubernetes K8s Article - YouTube](https://www.youtube.com/watch?v=rld_y56Q09I)
@@ -2662,6 +2668,8 @@ Docker
     * Kubernetes 스케쥴러가 팟을 할당하기 위해 13개의 기본 필터를 거쳐서 노드에 점수를 매겨서 노드를 선택하는 과정 설명
   * [talks/KubeCon/2025-NA/DEMO/k8s-scheduler at main · sysnet4admin/talks](https://github.com/sysnet4admin/talks/tree/main/KubeCon/2025-NA/DEMO/k8s-scheduler)
     * [Kubernetes Korea Group | #KubeCon + #CloudNativeCon 북미 2025 발표 자료인데, 만들고 보니 꽤 쿠버네티스 스케줄러를 이해하는데 도움이 는거 같?... | Facebook](https://www.facebook.com/groups/k8skr/permalink/4348893955392244/)
+  * [Workload-Aware Scheduling in Kubernetes 1.37 | Heba Elayoty](https://helayoty.substack.com/p/workload-aware-scheduling-in-kubernetes-284)
+    * 1.36에서 `Workload`(정적 정책 템플릿)·`PodGroup`(런타임 객체)이라는 그룹 프리미티브를 준 데 이어, 1.37은 "모든 컨트롤러가 같은 배관을 재발명하지 않고 어떻게 채택하나"에 답함—`scheduling.k8s.io/v1alpha3`의 재사용 가능한 building block API(리프 `WorkloadPodGroup…` 4종: basic/gang 정책, 토폴로지 공동 배치, 그룹 단위/개별 disruption, 그룹 공유 DRA 클레임 + 다단계용 `WorkloadCompositePodGroup…`), 블록을 컴파일된 Workload로 바꾸는 공유 Go 라이브러리 `workloadbuilder`, 이를 쓴 Job 통합. 블록은 고정 최상위 형태를 강요하지 않아 컨트롤러마다 관용적 필드 구조 선택
 * [Kubernetes Spec v1.32: Reference Guide and Documentation](https://kubespec.dev/)
   * [Kubernetes Spec Explorer | GeekNews](https://news.hada.io/topic?id=18248)
 * [Kubescape is a K8s open-source tool providing a multi-cloud K8s single pane of glass, including risk analysis, security compliance, RBAC visualizer and image vulnerabilities scanning](https://github.com/armosec/kubescape)
@@ -2930,6 +2938,8 @@ Docker
 * [Kubernetes Ingress 및 Egress 트래픽 관리를 단순화하는 방법 - NGINX STORE](https://www.nginxplus.co.kr/best-practices/how-to-simplify-kubernetes-ingress-egress-traffic-management/)
 * [Kubernetes Ingress for Beginners | Configuring and Managing Kubernetes Networking, and Ingress | K8S - YouTube](https://www.youtube.com/watch?v=gW2C-2q8t54)
 * [Kubernetes Networking Fundamentals – techbeatly](https://www.techbeatly.com/kubernetes-networking-fundamentals/)
+* [Deep Dive into NAT, SNAT, and DNAT in Kubernetes Networking | Bibin Wilson | DevOpsCube](https://newsletter.devopscube.com/p/the-nat-behind-kubernetes-networking)
+  * SNAT·DNAT·MASQUERADE 동작 원리, Pod가 클러스터 밖으로 나갈 때 일어나는 일, Service 트래픽에 Kubernetes가 NAT를 쓰는 방식, conntrack·kube-proxy·CNI 플러그인의 위치, 저자가 GKE에서 겪은 실제 네트워킹 장애와 해결까지—패킷이 클러스터를 지나는 경로를 따라가는 뉴스레터 딥다이브
 * [쿠버네티스 네트워킹 이해하기#1: Pods](https://coffeewhale.com/k8s/network/2019/04/19/k8s-network-01/)
   * [번역 쿠버네티스 네트워킹 이해하기#1: Pods](https://coffeewhale.com/k8s/network/2019/04/19/k8s-network-01/)
 * [쿠버네티스 네트워킹 이해하기#2: Services](https://coffeewhale.com/k8s/network/2019/05/11/k8s-network-02/)
