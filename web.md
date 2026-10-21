@@ -694,6 +694,9 @@ Web
   * `moli fetch`로 Markdown·시맨틱 트리 텍스트·스크린샷·PDF 추출(`--eval`로 클릭 후 덤프), `moli serve` 한 엔드포인트에서 CDP·WebDriver Classic·WebDriver BiDi 동시 제공해 Playwright `connectOverCDP`로 바로 연결. 에이전트 스킬(moli-webfetch 등) 제공. Lexmount Cloud Browser는 세션마다 Chromium·Moli 런타임을 고르고 CAPTCHA 자동 처리·사내망 접근·라이브 뷰·Replay·Web Fetch API 지원
 * [obscura: Open-source headless browser engine for AI agents, written in Rust](https://github.com/h4ckf0r0day/obscura)
   * headless Chrome 대체 Rust 브라우저 엔진. 30MB 메모리(Chrome 200MB+), 85ms 페이지 로드, V8 JS 실행, CDP 호환(Puppeteer/Playwright), 핑거프린트 랜덤화+트래커 차단 스텔스 모드, 단일 바이너리 배포
+  * [Obscura · Give every agent its own browser](https://www.obscura.sh/)
+  * [🦀 Obscura 설치·사용 가이드: 2.5만 스타 Rust 헤드리스 브라우저, 30MB로 Chrome 대체 | fornewchallenge](https://fornewchallenge.tistory.com/entry/%F0%9F%A6%80-Obscura-%EC%84%A4%EC%B9%98%C2%B7%EC%82%AC%EC%9A%A9-%EA%B0%80%EC%9D%B4%EB%93%9C-25%EB%A7%8C-%EC%8A%A4%ED%83%80-Rust-%ED%97%A4%EB%93%9C%EB%A6%AC%EC%8A%A4-%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80-30MB%EB%A1%9C-Chrome-%EB%8C%80%EC%B2%B4)
+    * 공식 사이트의 문제 정의—Chrome은 사람이 한 페이지씩 보는 용도라 수천 세션을 돌리는 에이전트엔 무겁고(인스턴스마다 메모리·CPU), 콜드 스타트가 초 단위이며, 쿠키·로그인·캐시가 작업 간에 새어 재현성이 깨짐. 가이드: Chromium 전체 대신 V8만 임베드해 메모리 30MB·바이너리 70MB(Chrome 대비 약 80% 경량), 85ms 로드, 스텔스 모드, 설치→CDP 서버 실행→Claude Desktop MCP 연동→스크래핑 활용 순으로 안내. 29k stars로 성장
 * [pipet: Swiss-army tool for scraping and extracting data from online assets, made for hackers](https://github.com/bjesus/pipet)
   * CLI 웹 스크레이퍼. HTML 파싱·JSON 파싱·클라이언트 JS 평가 3가지 모드, curl 등 기존 도구와 unix 파이프로 확장. 배송 추적·티켓 발매 알림·주가 변동 등 온라인 정보 모니터링. Go, MIT
 * [scraping-apis-for-devs: This GitHub repo is a powerhouse collection of scraping APIs for developers that you can start using immediately to build everything from simple automations to full-scale applications](https://github.com/cporter202/scraping-apis-for-devs)
@@ -892,8 +895,13 @@ Web
   * 업종·도시를 말하면 이름·전화·이메일·웹사이트·카테고리·주소·평점·리뷰 수를 담은 영업용 CSV를 로컬에서 뽑아주는 키트—채팅 AI에 "구글 맵 긁어줘"라고 하면 동의 화면·JS 렌더링에 막혀 거의 0건이 나오는 문제를, 로컬 헤드리스 스크래핑 엔진(Docker)과 Claude용 정밀 운영 매뉴얼(skill + `/scrape`·`/scrape-batch`·`/scrape-setup`·`/scrape-jobs`)로 해결. 원본 ~34개 필드 중 8개만 남기고(`--full`로 전체), 웹사이트에서 이메일 추출, `--socials`로 Instagram·Facebook·LinkedIn을 AI 토큰 없이 HTTP+정규식으로 보강, 도시명 자동 지오코딩, 배치 작업. API 키·SaaS 불필요, API는 127.0.0.1 바인딩, 레이트 리밋·데이터 법규 가드레일 내장, Claude 없이도 의존성 없는 Python CLI. 1.1k stars
 * [iris: Screenshots of live websites. Minimal interface, powerful engine](https://github.com/brijr/iris)
   * 라이브 웹사이트 스크린샷 도구. 미니멀 인터페이스, Rust, 377 stars
+* [katana: A next-generation crawling and spidering framework | projectdiscovery](https://github.com/projectdiscovery/katana)
+  * ProjectDiscovery의 빠르고 완전히 설정 가능한 웹 크롤러—standard와 headless 모드, JavaScript 파싱·크롤링, 스코프 제어, 필터. 보안 정찰용 엔드포인트 수집에 주로 쓰임. Go, MIT, 17.7k stars
 * [kocrawl: A collection of useful Korean crawlers (always updated)](https://github.com/gusdnd852/kocrawl)
 * [KoreaNewsCrawler: 대량의 뉴스 데이터를 수집하기 위해 만들어진 뉴스 크롤러입니다](https://github.com/lumyjuwon/KoreaNewsCrawler)
+* [Maxun • Open-Source Web Scraping & Data Extraction for AI](https://maxun.dev/)
+  * [maxun: Turn any website into a structured API. Extract, automate, search and monitor the web](https://github.com/getmaxun/maxun)
+  * 어떤 웹사이트든 앱·워크플로·AI 에이전트용 구조화 데이터로 바꾸는 웹 데이터 플랫폼—REST API·SDK·CLI·MCP 서버(개발자)와 노코드 레코더(성장·운영·리서치 팀)를 함께 제공. 원하는 데이터를 코드·레코더 클릭·AI 모드 자연어·프리빌트 로봇 중 하나로 지정하면 실제 브라우저를 돌려 스크레이프·크롤·추출·검색·모니터링. 가격·경쟁사 모니터링, 리드 생성, RAG 파이프라인, 리뷰 추적 용도. TypeScript, AGPL-3.0, 18k stars
 * [newscatcher - Programmatically collect normalized news from (almost) any website](https://github.com/kotartemiy/newscatcher)
 * [ScrapeGraphAI](https://scrapegraphai.com/)
   * [Scrapegraph-ai: Python scraper based on AI](https://github.com/ScrapeGraphAI/Scrapegraph-ai)
