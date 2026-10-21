@@ -276,6 +276,8 @@ Algorithm
 * [Count min sketch](https://www.slideshare.net/charsyam2/count-min-sketch-241660239)
 * [Count Min Sketch 대충 이해하기 - Google Slides](https://docs.google.com/presentation/d/1lyyAeavGyYOUWOSV9QDYmDxtmqgOzAfQLOygMfZipNk/edit)
   * [확률적 자료구조 2 - Count Min Sketch - YouTube](https://www.youtube.com/watch?v=-kP1ASijUrw)
+* [2301.00754 Algorithms for Massive Data -- Lecture Notes | Nicola Prezza](https://arxiv.org/abs/2301.00754)
+  * 베네치아 Ca' Foscari 대학 CM0622 강의 노트(2023-01, 지속 개정). 메모리에 담기지 않는 대용량 데이터를 다루는 두 갈래—무손실 **압축 자료구조**(compressed suffix array 등)와 손실 **데이터 스케치**—를 함께 다룸: 확률적 필터(Bloom filter 분석), 빈도 추정·2차 모멘트 등 다양한 메트릭의 스케칭, Locality Sensitive Hashing, 최근접 이웃 탐색, 스트림 알고리즘, SQL 스케치
 * [노벨상의 매칭 알고리즘, 게일-섀플리(Gale-Shapley) 알고리즘](https://needjarvis.tistory.com/478) 1:1 match
 * [Two Pointer Algorithm | Two Sum Problem | Solve DS Problems in O(N) Time - YouTube](https://www.youtube.com/watch?v=2wVjt3yhGwg)
 * [코테 실전 대비! 자료구조와 함께 배우는 알고리즘 입문 - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/pages/viewpage.action?pageId=52527451)
