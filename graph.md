@@ -273,6 +273,12 @@ Graph
   * [1편 아리스토텔레스부터 네오포제이까지, 시대를 기다린 '지식의 망'](http://www.itdaily.kr/news/articleView.html?idxno=237741)
   * [2편 '앵커링'과 '트래버싱'으로 맥락 증명... 성패 가르는 '모델링'](http://www.itdaily.kr/news/articleView.html?idxno=237742)
   * [3편 '그래프 RAG'로 환각 차단 가능... RDB 대체재 아닌 상보 관계](http://www.itdaily.kr/news/articleView.html?idxno=237743)
+* [단 30분 만에 이해하는 GraphRAG (with 랭체인, Neo4j) | Bloom AI - YouTube](https://www.youtube.com/watch?v=yWyJKCZG990)
+  * 35분(2026-06-06). 0:00 GraphRAG란 / 13:06 Knowledge Graph / 22:46 Neo4j×LangChain 실습. RAG 4단계(로드→스플릿→임베딩→스토어)와 벡터 유사도 검색의 한계를 'VIP 고객은 수수료 면제 / 단 해외송금은 예외 / 2025-03 이후 가입자 적용'이 세 청크로 갈라져 한 청크만 검색되면 틀린 답이 나오는 예로 설명하고, 관계로 문맥을 잇는 GraphRAG가 왜 필요한지로 이어감
+* [지식그래프는 "검색 기술"이 아닙니다 | Sanguine Kim | LinkedIn](https://www.linkedin.com/posts/sanguinekim_%EC%A7%80%EC%8B%9D%EA%B7%B8%EB%9E%98%ED%94%84%EB%8A%94-%EA%B2%80%EC%83%89-%EA%B8%B0%EC%88%A0%EC%9D%B4-%EC%95%84%EB%8B%99%EB%8B%88%EB%8B%A4-%EB%A7%8E%EC%9D%80-%EB%B6%84%EB%93%A4%EC%9D%B4-%EC%A7%80%EC%8B%9D%EA%B7%B8%EB%9E%98%ED%94%84%EB%A5%BC-graph-share-7465326198508789761-L14C/)
+  * Graph DB·RDF·Cypher/SPARQL 같은 기술 키워드가 아니라 **AI가 따라갈 수 있는 관계의 길**을 만드는 것이 지식그래프의 본질이라는 글—PDF 임베딩·Vector DB 검색으로 시작한 RAG가 "이 고객의 최근 이슈와 관련된 제품 정책·담당자 판단·과거 장애 기록·계약 조건을 함께 보고 답해줘" 같은 실무 질문(흩어진 문서, 여러 이름의 같은 고객, 바뀌는 정책·담당자, 오래된 근거, 사람마다 다른 권한)에 부딪히면 엔티티·관계·속성·출처·근거·최신성·권한이 함께 움직이는 문제가 되므로 지식그래프를 5단계 구조로 봐야 한다고 정리
+* ["온톨로지를 말로 풀어서 쓰면 됩니다" 딥러닝 10년 CTO가 만든 방법 (제네시스랩 유대훈 CTO님) | 빌더 조쉬 Builder Josh - YouTube](https://www.youtube.com/watch?v=b6phhtUi0hs)
+  * HOW I AI 팟캐스트 48분(2026-10-20). 뷰인터 HR 면접 플랫폼 등 딥러닝 모델 10개 이상을 만든 제네시스랩이 기업용 에이전트 빌더 에이전트리아(Agentria)에 담은 'prose-first 온톨로지' 슬립박스(Slipbox)—팔란티어처럼 데이터를 한곳에 모으는 대신 기존 시스템은 그대로 두고 관계와 용어를 마크다운 글로 써서 LLM이 컴파일하게 함("모든 걸 그래프로 할 필요는 없다", 페이지 하나가 작은 온톨로지). 슬립박스 에이전트가 페이지를 읽고 판단해 설명하는 실제 화면, 온톨로지·사내 지식 자산화를 고민하는 AX 담당자가 사내를 설득할 언어
 * [Create Context Graph — CLI scaffolding for AI agent apps with Neo4j](https://create-context-graph.dev/)
   * [create-context-graph](https://github.com/neo4j-labs/create-context-graph)
   * FastAPI+Next.js+Neo4j로 도메인별 AI 에이전트 앱 5분 생성. 대화·지식 그래프·결정 추적 3가지 메모리
@@ -411,14 +417,24 @@ Graph
   * [omnigraph: Rust-based lakehouse graph database as the operational state and coordination layer for fleets of agents](https://github.com/ModernRelay/omnigraph)
   * [에이전트 협업을 위한 레이크하우스 그래프 데이터베이스, Omnigraph 정리 | digitalbourgeois](https://digitalbourgeois.tistory.com/3321)
   * AI 에이전트 fleet의 운영 상태·협업 레이어용 그래프 DB. "graph as code"—스키마·쿼리·정책·인프라를 YAML로 선언·버전관리, Git 스타일 브랜치/머지/리뷰로 여러 에이전트가 격리 브랜치에서 병렬 작업 후 병합. 그래프 순회+벡터+풀텍스트 하이브리드 검색 단일 쿼리, S3 호환 오브젝트 스토리지(Lance 포맷, time-travel), Cedar 정책 서버사이드 적용. CLI/TypeScript SDK/MCP 서버. Rust, MIT
+* [OntoBricks — Knowledge Graph Builder for Databricks](https://ontobricks.org/)
+  * [ontobricks: Transforms Databricks Unity Catalog tables into a knowledge graph, with ontology design and reasoning exposed as tools via MCP | databrickslabs](https://github.com/databrickslabs/ontobricks)
+  * [OntoBricks로 이해하는 온톨로지 ① 개념 — 온톨로지와 지식 그래프 첫걸음 | 1week](https://1week.tistory.com/131)
+    * 가상 금융그룹 데이터로 온톨로지를 설계→지식 그래프 구축→자연어 질의까지 따라가는 4부작의 1부—온톨로지가 필요한 질문, 시맨틱 레이어·온톨로지·지식 그래프의 관계, 온톨로지 구성 요소. 이어서 [② OntoBricks란](https://1week.tistory.com/132) · [③ 구성 — 설정부터 공개까지](https://1week.tistory.com/133) · [④ 데모 — GraphQL·자연어·MCP 질의](https://1week.tistory.com/130)
+  * Databricks Labs의 source-available 도구—OWL 온톨로지를 시각적으로 또는 LLM으로 설계→R2RML로 Unity Catalog 테이블에 매핑→트리플을 트리플 스토어(Lakebase·Lakehouse·Neo4j)에 실체화/가상화→OWL 2 RL·SWRL·SHACL로 추론→GraphQL·MCP로 앱과 AI 에이전트에 서빙하는 전 파이프라인을 '네 번의 클릭'으로. Python, 420 stars
 * [OpenGraphiti - OpenDNS Data Visualization Framework](http://www.opengraphiti.com/)
 * [pattern.graph](http://www.clips.ua.ac.be/pages/pattern-graph)
 * [Pegasus An award-winning, open-source, graph-mining system with massive scalability](http://www.cs.cmu.edu/~pegasus/)
 * [pgGraph: Open-source graph database superpowers for your existing Postgres data](https://github.com/Evokoa/pgGraph)
   * [Evokoa — Making the World's Data AI-Native](https://www.evokoa.com/)
+  * [Polygres | Graph, vector & text retrieval for AI](https://polygres.com/)
+    * pgGraph 팀의 제품 사이트(레포 homepage)—"GraphRAG 레이어를 가상화한다": 기존 Postgres 위에서 그래프·벡터·텍스트 검색을 하나의 API로 제공해 데이터베이스에서 AI까지 한 경로로 잇는다는 포지셔닝
   * [기존 PostgreSQL 데이터에 그래프 검색을 더하는 pgGraph | digitalbourgeois](https://digitalbourgeois.tistory.com/3470)
   * 기존 Postgres 데이터를 다른 저장소로 옮기지 않고 그래프 탐색을 추가—2단계 이내 연결 탐색, 최단 경로, 여러 테이블에 흩어진 관계 조회를 재귀 SQL·복잡한 조인 없이 처리. Evokoa의 virtual graph 기술(페타바이트급 데이터를 제자리에서 AI가 추론). Rust
 * [py-ascii-graph - A simple python lib to print data as ascii histograms](https://github.com/kakwa/py-ascii-graph)
+* [RushDB — Context Layer for Agents, Applications and Analytics](https://rushdb.com/)
+  * [rushdb: RushDB is a graph + vector database and memory layer for AI agents. Push any JSON, get typed, searchable, relationship-aware records back — no schema, no migrations. Built on Neo4j](https://github.com/rush-db/rushdb)
+  * 에이전트 메모리를 위해 Redis(키-값)+벡터 스토어+그래프 DB 세 개를 두고 글루 코드로 동기화하는 대신 JSON을 밀어 넣으면 타입 있는 스키마·그래프 관계·시맨틱 검색이 자동 추론되는 단일 모델—Neo4j 위에 구축, 오픈소스·클라우드·셀프호스트, TypeScript·Python·REST·MCP. 325 stars
 * [tagflow - stackoverflow graph](http://stared.github.io/tagoverflow/?site=stackoverflow&size=32)
 * [TAO: The power of the graph](https://www.facebook.com/notes/facebook-engineering/tao-the-power-of-the-graph/10151525983993920)
   * [TAO: Facebook’s Distributed Data Store for the Social Graph](https://www.micahlerner.com/2021/10/13/tao-facebooks-distributed-data-store-for-the-social-graph.html)
