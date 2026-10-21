@@ -9,6 +9,8 @@
 * [Differential dataflow](http://www.frankmcsherry.org/differential/dataflow/2015/04/07/differential.html)
 * [More Rust compared to C++](https://rnestler.github.io/more-rust-compared-to-c.html)
 * [A C++ Programmer's View on Rust - YouTube](https://www.youtube.com/watch?v=5pdRnva-DQ4)
+* [왓츠앱이 16만 줄 코드를 Rust로 갈아엎은 이유 | 헤이제임스, 플랫폼 하나 만들어줘 - YouTube](https://www.youtube.com/watch?v=cF6WHof6Bh4)
+  * WhatsApp이 16만 줄 코드를 Rust로 재작성한 배경
 * [Rust Once, Run Everywhere](http://blog.rust-lang.org/2015/04/24/Rust-Once-Run-Everywhere.html)
 * [Pre-Pooping Your Pants With Rust](http://cglab.ca/~abeinges/blah/everyone-poops/)
 * [Reenix: Implementing a Unix-Like Operating System in Rust](http://scialex.github.io/reenix.pdf)
@@ -256,6 +258,8 @@
 * [Table of Contents - Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/intro.html)
 * [The Rust Performance Book](https://nnethercote.github.io/perf-book/)
 * [Rust Atomics and Locks by Mara Bos](https://marabos.nl/atomics/)
+* [Zero To Production In Rust | Luca Palmieri](https://www.zero2prod.com/index.html)
+  * 솔리드하게 동작하는 프로덕션 소프트웨어를 쓰는 데 초점을 둔 Rust 입문서(소스 공개)
 
 # Concurrency
 * [cs492-concur](https://github.com/kaist-cp/cs492-concur)
@@ -502,6 +506,8 @@
   * [axum: Ergonomic and modular web framework built with Tokio, Tower, and Hyper](https://github.com/tokio-rs/axum)
     * [Learning Rust! 🦀 Axum Hyper Tonic Tower Part 1 - YouTube](https://www.youtube.com/watch?v=9WuiTxm4WaA)
     * [Tokio Axum with David Pedersen - YouTube](https://www.youtube.com/watch?v=nZLimYT4EHs)
+    * [Learn Axum in 2026: Rust REST API for Beginners | Codynn - YouTube](https://www.youtube.com/watch?v=iPNEhKMIqNg)
+      * 1시간 27분. Rust 경험 없이 빈 에디터에서 시작해 Axum으로 task CRUD REST API를 처음부터 만드는 초심자 튜토리얼
 * [tonic: A native gRPC client & server implementation with async/await support](https://github.com/hyperium/tonic)
   * [Tonic makes gRPC in Rust stupidly simple - YouTube](https://www.youtube.com/watch?v=kerKXChDmsE)
 * [tower: async fn(Request) -> Result<Response, Error>](https://github.com/tower-rs/tower)
@@ -664,6 +670,10 @@
   * 컴파일 또는 테스트 에러가 나는 여러개의 카테고리 별 연습들로 구성 : 변수, 문자열, 쓰레드, Trait, 모듈, 펑션, 에러처리 등
   * watch 기능으로 폴더의 파일을 수정하면 자동으로 결과가 확인되고, 중간에 hint 도 보면서 진행가능
   * 컴파일 에러시 rustc --explain E0282 처럼 관련 설명을 보라는 문구 출력
+* [The 22 Rust errors every beginner hits, in the order they hit them | yetmike | DEV](https://dev.to/yetmike/the-22-rust-errors-every-beginner-hits-in-the-order-they-hit-them-13gi)
+  * 실제 깨진 프로그램을 rustc 1.96으로 컴파일해 얻은 22개 에러를 처음 만나는 순서대로 설명—대부분의 에러는 규칙이 깨진 곳과 그 결정을 내린 곳 두 지점을 가리키며 수정은 거의 항상 두 번째에서, `help:` 블록의 `+++`는 설명이 아니라 rustc가 써 준 수정 diff
+* [The limits of Rust, or why you should probably not follow Amazon, Cloudflare and Discord | kerkour](https://kerkour.com/the-limits-of-rust)
+  * Black Hat Rust 저자가 "이 프로젝트에 Rust가 맞나"에 답하는 글—팀이 이미 Rust 전문가가 아니면 대개 아님. 컴파일러가 강제하는 정확성이 시간을 아끼기도 하지만 파편화된 async 생태계(sync/async 라이브러리·호환 안 되는 런타임), 6주마다 릴리스·에디션으로 인한 toolchain·의존성 churn, 빈약한 표준 라이브러리가 발목을 잡음. Rust는 10년째 가장 선망받지만 14번째로 많이 쓰이는 언어라는 괴리 지적
 * Rustonomicon [Introduction - The Rustonomicon](https://doc.rust-lang.org/nomicon/)
 * [Rust Ports - YouTube](https://www.youtube.com/playlist?list=PLib6-zlkjfXluRjBgK8grQH2IUSZjn-YN)
 * [Rust 유니버스 - YouTube](https://www.youtube.com/playlist?list=PLXokkUrTVhMxcoJrL-JPL8onDLK0b3mzR)
@@ -686,8 +696,12 @@
 * [Lessons learned on writing web applications completely in Rust](https://medium.com/@saschagrunert/lessons-learned-on-writing-web-applications-completely-in-rust-2080d0990287)
 * [An example of a Rust web service with Iron and Hyper](https://github.com/brson/httptest)
 * [Virtual Lunch & Learn: Why you want to choose Rust for your next web service! - YouTube](https://www.youtube.com/watch?v=s2Xk3dMTHg8)
+* [Create your own GitOps controller with Rust | ITNEXT](https://itnext.io/create-your-own-gitops-controller-with-rust-70b6d077e2d0)
+  * kube-rs와 Kind로 로컬 클러스터를 띄우고 git2로 GitOps 컨트롤러를 만드는 글—앱 레포의 최신 SHA로 매니페스트 레포를 업데이트·푸시하면 ArgoCD가 적용하는 pull 방식 자동화
 * [dufs: A file server that supports static serving, uploading, searching, accessing control, webdav...](https://github.com/sigoden/dufs)
   * [dufs - Rust로 작성된 경량 파일/웹 서버 | GeekNews](https://news.hada.io/topic?id=14795)
+* [Falco: Tiny browser engine written from scratch in Rust | poxk](https://github.com/poxk/Falco)
+  * 처음부터 Rust로 만든 작은 브라우저 엔진—HTML·CSS·JavaScript·SVG·이미지를 PNG 또는 라이브 인터랙티브 창으로 렌더링. 약 73,000줄, 바이너리 ~12MB, MIT
 * [hyper - fast and safe HTTP for the Rust language](https://hyper.rs/)
 * [IRON - extensible web framework for rust](http://ironframework.io/)
 * [Rocket - a web framework for Rust that makes it simple to write fast, secure web applications without sacrificing flexibility, usability, or type safety](https://rocket.rs/)
