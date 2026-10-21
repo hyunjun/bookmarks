@@ -655,6 +655,9 @@ Go
 * [Go runtime AND goroutine](https://jusths.tistory.com/142)
 * [Achieving concurrency in Go](https://medium.com/rungo/achieving-concurrency-in-go-3f84cbf870ca)
 * [Why goroutines are not lightweight threads?](https://codeburst.io/why-goroutines-are-not-lightweight-threads-7c460c1f155f)
+* [Why does Golang think that it can do more efficient scheduling than an OS like Linux with its N:M model? | Terry Lambert | Quora](https://www.quora.com/Why-does-Golang-think-that-it-can-do-more-efficient-scheduling-than-an-OS-like-Linux-with-its-N-M-model/answer/Terry-Lambert)
+  * FreeBSD N:M 스레딩 모델을 설계한 Terry Lambert의 답—스케줄러는 CPU 시간 조각(quantum, 옛날엔 1/60·1/100초)을 나눠 주는 장치이고 대부분의 프로세스는 블로킹 호출로 할당량의 일부만 쓰는데, 1:1(리눅스, Ingo Molnar)은 남은 quantum이 사라지고 커널이 다음 것을 주는 반면 N:M은 유저 스페이스 라이브러리 층의 스케줄러가 블로킹 호출을 논블로킹으로 바꾸는 call conversion으로 같은 quantum 안에서 다른 스레드로 전환해 보호 도메인 횡단(인터럽트·폴트·시스콜) 비용의 대부분을 아낌
+  * 트레이드오프—1:1은 단순하고 CPU 바인딩이 가능하지만 스레드 수로 다른 프로세스를 부당하게 밀어낼 수 있고 컨텍스트 스위치가 무거움; N:M은 유저 스페이스 복잡성, N≫M이라 블로킹이 많을 때 M을 늘려야 하고, 계산 집약 작업에선 M→N으로 오히려 오버헤드가 커지며, 두 커널 연산에 걸친 락이 같은 M 스레드에서 꼬이는 함정. 결론: Go가 쓰이는 I/O 중심 애플리케이션(비동기 연산을 커널에 던지고 결과를 모으는 패턴)에는 더 효율적이지만 과학 계산에는 맞지 않음—그래서 Go는 더 효율적이라고 주장할 수 있음
 * [Go: How Does a Goroutine Start and Exit?](https://medium.com/a-journey-with-go/go-how-does-a-goroutine-start-and-exit-2b3303890452)
 * [Structured Concurrency in Go](https://medium.com/@arunsworld/structured-concurrency-in-go-b800c7c4434e)
 * [Go: How Are Deadlocks Triggered?. ℹ️ This article is based on Go 1.14. | by Vincent Blanchon | A Journey With Go | Jul, 2020 | Medium](https://medium.com/a-journey-with-go/go-how-are-deadlocks-triggered-2305504ac019)
