@@ -3090,6 +3090,11 @@ CVPR2016)
   * [MidJourney v5.2 VS Stable Diffusion XL 0.9 — Same Prompt, Different Results | by Jim Clyde Monge | Jun, 2023 | Generative AI](https://generativeai.pub/midjourney-v5-2-vs-stable-diffusion-xl-0-9-same-prompt-different-results-7efa9413ab0a)
   * [미드저니 개인화 모델 출시 사용방법 - YouTube](https://www.youtube.com/watch?v=OiOSYZzDz0g)
   * [Midjourney 웹 버전, 이제 모두가 사용 가능 | GeekNews](https://news.hada.io/topic?id=16422)
+* [MOSS-Image: Text-to-Image Generation with Native Layout Control | OpenMOSS](https://openmoss.ai/MOSS-Image/)
+  * [MOSS-Image: Official repository for MOSS-Image, a 5B-parameter base DiT model with high-quality text rendering, layout generation, and efficient fine-tuning](https://github.com/OpenMOSS/MOSS-Image)
+  * [New top local AI image generator is here! | AI Search - YouTube](https://www.youtube.com/watch?v=cUeZMUGCxrw)
+  * OpenMOSS의 5B DiT 텍스트-투-이미지 모델 패밀리(Base+SFT, Apache-2.0, 2026-10-16 공개)—자연어 프롬프트뿐 아니라 구조화된 JSON으로 객체·렌더링 텍스트·바운딩 박스를 지정하는 네이티브 레이아웃 제어, 강한 텍스트 렌더링, 최대 4K 토큰 프롬프트, 애니메·사실적 스타일. 5B 백본으로 효율적 생성·파인튜닝, 이종 GPU 플랫폼 학습. arXiv 2610.23374
+  * AI Search 리뷰(22분)—체급 대비 최고라는 평가, 복잡한 인포그래픽·텍스트 포함 다이어그램 생성, 4GB VRAM 이하 양자화 버전. 단 의미 기반 이미지 편집(Nano Banana·Qwen-Image 2.1식)은 안 되는 순수 text-to-image지만 ComfyUI·LoRA·DMD 8스텝으로 편집·가속·품질 개선하는 방법 시연
 * [Muse: Text-To-Image Generation via Masked Generative Transformers](https://muse-model.github.io/) Transformer 기반. 기존의 Diffusion 이나 Autoregressive 모델의 성능을 능가하는 SOTA 달성. 모델 크기 900M, Inference 속도도 더 빠르다고 함
 * [Novel AI 찍먹해본 후기 | Univdev](https://www.univdev.page/posts/novel-ai-review/)
 * [PromptBase | DALL·E, Midjourney & GPT-3 Prompt Marketplace](https://promptbase.com/)
