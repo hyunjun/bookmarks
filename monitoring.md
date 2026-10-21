@@ -182,6 +182,10 @@ Monitoring
   * Grafana Labs에서 프론트엔드 애플리케이션의 실사용자를 모니터링(RUM)할 수 있는 웹 SDK를 포함한 Grafana Faro를 오픈소스로 공개
   * 프론트앤드 애플리케이션에 Grafana Faro SDK를 포함해서 에러, 로그, 성능 메트릭을 수집해서 Grafana에서 확인 가능
   * [Introducing Grafana Faro, an open source project for frontend application observability | Grafana Labs](https://grafana.com/blog/2022/11/02/introducing-grafana-faro-oss-application-observability/)
+  * [faro-full-trace-example: Grafana Faro Checkout Trace Example | miinhho](https://github.com/miinhho/faro-full-trace-example)
+    * [최근 프론트엔드에서 Observability를 어떻게 잘할 수 있을까 고민하다가 Grafana Faro를 알게 되었습니다 | Minho Jang | LinkedIn](https://www.linkedin.com/posts/minho-jang-478299312_%EC%B5%9C%EA%B7%BC-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C%EC%97%90%EC%84%9C-observability%EB%A5%BC-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9E%98%ED%95%A0-%EC%88%98-%EC%9E%88%EC%9D%84%EA%B9%8C-%EA%B3%A0%EB%AF%BC%ED%95%98%EB%8B%A4%EA%B0%80-share-7470825580628885504-WNWI/)
+      * Faro의 진짜 가치는 RUM 도구가 아니라 **프론트엔드 텔레메트리를 백엔드와 같은 OpenTelemetry Trace 안으로 가져오는 것**—사용자 행동이 전체 Trace의 시작점이 되고, "결제가 느렸다"의 책임 구간을 프론트/네트워크/백엔드로 나눌 수 있고, 프론트 Error에서 API Span·백엔드 Trace·Loki 로그까지 시간대·User ID로 수동 대조 없이 이어져 MTTR이 줄어듦
+    * React 결제 화면에서 "사용자 클릭→프론트 signal/log/error/measurement→브라우저 API span→백엔드 span→Loki 로그"가 같은 `trace_id`로 연결되는 예제—React+Vite+Faro(`faro-react-signals`), 같은 checkout API를 NestJS 11(`nestjs-otel`)과 Spring Boot 3(OTel starter) 양쪽에 구현해 선택 호출, Grafana·Loki·Tempo·OTel Collector·Alloy Faro receiver를 `docker compose up --build` 한 번으로
 * Grafana Incident 장애를 관리하는 서비스
   * [Grafana Incident Early Access Program](https://go2.grafana.com/incident-beta-interest.html)
   * [Grafana Incident for incident management is now generally available in Grafana Cloud | Grafana Labs](https://grafana.com/blog/2022/09/13/grafana-incident-for-incident-management-is-now-generally-available-in-grafana-cloud/)
@@ -479,6 +483,10 @@ Monitoring
 * [오픈소스 모니터링 툴 - Prometheus #3 그라파나를 이용한 시각화](https://bcho.tistory.com/1374)
 * [A Prometheus fork for cloud scale anomaly detection across metrics & logs](https://www.zebrium.com/blog/a-prometheus-fork-for-efficient-cloud-scale-autonomous-monitoring)
 * [Prometheus Node Exporter Tutorial | Monitor CPU, Memory, Disk etc](https://www.youtube.com/watch?v=_h78zXBWjAU)
+* [대규모 멀티클러스터에서 Blackbox Exporter로 엔드포인트 모니터링 운영하기 (ICMP/HTTP/DNS + Grafana 대시보드 예시) | 카이도스(Kaidos)](https://djdakf1234.tistory.com/entry/Blackbox-Exporter%EB%A1%9C-%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81-%EA%B0%80%EC%9D%B4%EB%93%9C)
+  * 내부 메트릭을 긁는 다른 exporter와 달리 대상 내부를 몰라도 실제 요청(probe)을 보내 "사용자 입장에서 접속이 되는지"를 재는 Blackbox Exporter(2026-02-10)—HTTP/HTTPS 가용성·응답 시간·SSL 만료, ICMP ping, DNS 응답, TCP. 배치 위치에 따라 클러스터 내부 관점(DNS/Service/Ingress) 또는 외부 사용자 관점으로. 실전 사례: 멀티 리전 웹 서비스, SSL 인증서 만료, 네트워크 지연, 종합 헬스체크 대시보드와 운영 Best Practices
+* [Nexus Repository 운영 모니터링과 성능 최적화 전략 | 카이도스(Kaidos)](https://djdakf1234.tistory.com/entry/Nexus-Repository-%EC%9A%B4%EC%98%81-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81%EA%B3%BC-%EC%84%B1%EB%8A%A5-%EC%B5%9C%EC%A0%81%ED%99%94-%EC%A0%84%EB%9E%B5)
+  * Artifact Repository로 Nexus를 운영하며 Prometheus+Grafana로 HTTP 메소드별(GET/PUT/DELETE/HEAD)·요청 타입별(다운로드·조회·업로드·삭제)·사용자/빌드서버 IP별 빈도·응답 시간을 집계해 병목을 찾는 구성(2026-02-07)과 최적화 전략—단기 캐시 레이어 도입, 중장기 유료 버전 전환, 비용 절감용 오픈소스 HA 구성. 로그 분석 팁과 Grafana 대시보드 패널 예시 포함
 * [prometheus-for-developers: Practical introduction to Prometheus for developers](https://github.com/danielfm/prometheus-for-developers)
 * [Level up your shell history with Loki and fzf | Opensource.com](https://opensource.com/article/20/10/shell-history-loki-fzf)
 * [Prometheus in a Clojure stack: Duct, Jetty, Compojure/Reitit and Hugsql](https://danlebrero.com/2021/02/03/prometheus-clojure-ring-sql-compojure-reitit/)
