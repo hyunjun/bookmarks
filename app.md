@@ -107,6 +107,9 @@ App
   * [keys.pub](https://keys.pub/)
   * [IronHide - an easy-to-use open source file encryption and decryption command line utility](https://hackernoon.com/ironhide-better-team-encryption-8950117dc6f0)
 * [etcher.io - Burn images to SD cards & USB drives, safely and easily](https://etcher.io/)
+* [filebrowser: 📂 Web File Browser](https://github.com/filebrowser/filebrowser)
+  * [Welcome | File Browser](https://filebrowser.org/)
+  * [(EP.08) 월 결제없이 나만의 대용량 웹하드 마음껏 사용하기 - YouTube](https://www.youtube.com/watch?v=QzOy0apnkjk)
 * [Fleetbase | Open-Source Logistics & Supply Chain Platform](https://fleetbase.io/)
   * [fleetbase: Modular logistics and supply chain operating system (LSOS)](https://github.com/fleetbase/fleetbase)
   * [Managed Fleetbase as a Service | Elestio](https://elest.io/open-source/fleetbase)
@@ -158,6 +161,9 @@ App
   * [Nullboard - 단일 HTML 파일로 구현된 칸반 보드 | GeekNews](https://news.hada.io/topic?id=18350)
 * [Online Tools – The ultimate collection of tools for getting things done quickly](https://onlinetools.com/)
 * [opendrop: An open Apple AirDrop implementation written in Python](https://github.com/seemoo-lab/opendrop)
+* [Organic Maps: Offline Hike, Bike, Trails and Navigation](https://organicmaps.app/)
+  * [organicmaps: 🍃 Organic Maps is a free Android & iOS offline maps app for more than 6M travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data](https://github.com/organicmaps/organicmaps)
+  * MAPS.ME를 만들었던 사람들이 커뮤니티로 만드는 프라이버시 중심 오프라인 지도·GPS 앱—광고·추적 없음, 인터넷 없이 100% 동작(지도 내려받고 SIM 빼고 일주일 트레킹). OpenStreetMap 기반 상세 오프라인 지도, 자전거·하이킹·도보 경로. 2025-12 600만 설치. C++, 15.7k stars
 * [Oven - 크리에이티브 프로젝트를 위한 세계에서 가장 진보된 온라인 프로토타이핑 툴](https://ovenapp.io/)
 * [Paintbrush](https://sourceforge.net/projects/paintbrush)
   * [맥에는 '그림판'이 없나요? 무료로 쓸 수 있는 맥용 스케치∙드로잉 프로그램 3가지](http://macnews.tistory.com/4173)
@@ -267,15 +273,15 @@ App
 * Tor
   * [다크웹 탐사 (1): Explore. Privately](https://noder.foundation/deep-web-1/)
 * [TROST - 언제나 내손안에, 나만의 전문심리상담사 TROST](http://www.wadiz.kr/web/campaign/detail/2277)
-* [filebrowser: 📂 Web File Browser](https://github.com/filebrowser/filebrowser)
-  * [Welcome | File Browser](https://filebrowser.org/)
-  * [(EP.08) 월 결제없이 나만의 대용량 웹하드 마음껏 사용하기 - YouTube](https://www.youtube.com/watch?v=QzOy0apnkjk)
 * TrueNAS [(EP.05) 미니PC에 TrueNAS 설치하는 방법 - (USB 직접 설치) - YouTube](https://www.youtube.com/watch?v=fQap9UDXOg4)
 * Typometer [Pavel Fatin » Blog Archive » Typometer - Blog about human and technology](https://pavelfatin.com/typometer/)
 * [Twine / An open-source tool for telling interactive, nonlinear stories](https://twinery.org/)
   * [twinejs: Twine, a tool for telling interactive, nonlinear stories](https://github.com/klembot/twinejs)
   * [회고 잘하고 싶어서 만든 인터랙티브 회고 도구 | 요즘IT](https://yozm.wishket.com/magazine/detail/3917/)
     * 인터랙티브 논리 스토리 도구 Twine을 활용한 회고 도구 제작기
+* [uniterm: All-in-one terminal covering 30+ protocols — SSH, RDP, SFTP, databases, Kubernetes and more. With a built-in AI Agent that runs multi-turn shell commands autonomously](https://github.com/ys-ll/uniterm)
+  * [uniTerm](https://uniterm.net)
+  * SSH·RDP·SFTP·데이터베이스·Kubernetes 등 30개+ 프로토콜을 한 앱에서 다루는 올인원 터미널에 멀티턴 셸 명령을 자율 실행하는 AI 에이전트 내장. Go, Apache-2.0, 877 stars
 * [vagrant로 linux에서 winodws 사용하기](http://blog.naver.com/hancury/220757948510)
   * [15분만에 윈도우에서 Ansible 테스트 환경 구축하기 (서버 1대 + 노드 5대)](https://sysnet4admin.blogspot.com/2017/06/vagrant-15-ansible-1-5.html)
   * [How to install ubuntu on VirtualBox with vagrant](https://devgrill.com/how-to-install-ubuntu-on-virtualbox-with-vagrant-2/)
@@ -388,8 +394,13 @@ App
 * [flare-learning-hub: Free educational content on reverse engineering and malware analysis from the FLARE team](https://github.com/mandiant/flare-learning-hub)
   * [FLARE Learning Hub | ThreatVector](https://www.facebook.com/threatvector/posts/pfbid03AxputqPdYQymZVXwFMKb3S8rqswzJZvTGHXuL1bhNJ6uGj2FJqXqVtByCd9E4zGl)
   * Mandiant FLARE 팀의 무료 리버스 엔지니어링·악성코드 분석 교육 자료. 실습 랩·레퍼런스·연습문제. Apache-2.0, 1.4k stars
+* [Flowsint — Automated graph analysis & intelligence](https://www.flowsint.io/)
+  * [flowsint: A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators | reconurge](https://github.com/reconurge/flowsint)
+  * 윤리적 조사·투명성·검증을 내건 오픈소스 OSINT 그래프 탐색 플랫폼(ETHICS.md 동봉)—OSINT 도구는 생기고 사라지지만 데이터를 보고 연결하고 분석할 필요는 변하지 않으므로, 내구성 있는 그래프 코어 위에 도구를 플러그인처럼 붙이고 교체(새 소스 추가·API 교체에도 조사는 유지). 엔티티·관계를 한 그래프에 중앙화해 데이터 사일로 제거. TypeScript, Apache-2.0, 9.9k stars, 초기 개발 단계
 * [gosearch: 🔍 Search anyone's digital footprint across 300+ websites](https://github.com/ibnaleem/gosearch)
   * Sherlock에서 영감받은 Go 기반 사용자명 OSINT 도구—300개+ 사이트를 동시 검색해 프로필을 찾고, 불확실한 결과는 노란색으로 표시해 거짓 양성을 걸러냄(`--no-false-positives`로 확실한 것만 출력). HudsonRock 사이버범죄 인텔리전스 API(유출 자격증명 90만 건)·ProxyNova COMB(32억 건), API 키가 있으면 BreachDirectory(180억 건)까지 조회하고 찾은 비밀번호 해시는 Weakpass로 크래킹 시도, 사용자명과 연관된 도메인도 주요 TLD에서 탐색. v2.0(2026-05)에서 GitHub OSINT 추가·코드베이스 리팩터링. 사용자명을 모르면 username-anarchy로 후보 생성 권장. Go, GPL-3.0, 3.7k stars
+* [H4X-Tools: A modular, terminal-based toolkit for OSINT, reconnaissance, and scraping - built in Python, runs on Linux and Windows | vil](https://github.com/vil/h4x-tools)
+  * 모듈형 터미널 OSINT·정찰·스크래핑 도구 모음(Python 3.10+, Linux·Windows). 기여자를 구하는 커뮤니티 프로젝트, 위키에 단계별 설치 가이드. GPL-3.0, 844 stars
 * [h8mail: Email OSINT & Password breach hunting tool](https://github.com/khast3x/h8mail)
   * 이메일 OSINT·비밀번호 유출 헌팅 도구. 로컬 유출 DB 또는 프리미엄 서비스로 유출 이력 조회, 관련 이메일 추적. Python, 5.1k stars
 * [hackingtool: ALL IN ONE Hacking Tool For Hackers](https://github.com/Z4nzu/hackingtool)
@@ -459,12 +470,14 @@ App
   * Tauri + React + Rust 기반. USB를 통한 안드로이드 기기 미러링 및 제어 데스크톱 앱
 * [b2gdroid - an experiment that let you use Gaia (the user interface of FirefoxOS) on your Android device, as an alternative homescreen](https://people.mozilla.org/~fdesre/b2gdroid/)
 * [Fossdroid.com: Free and open source Android applications](https://fossdroid.com/)
-* [perch - See What’s Happening At Home](https://getperch.com/)
 * [Mac.apk: Android Apps, Native on Apple Silicon](https://projects.voltare.us/macapk)
   * [Mac.apk: Run Android apps natively on Apple Silicon Macs](https://github.com/kksimp/Mac.apk)
   * 에뮬레이터·VM·Linux 없이 Android 앱 환경을 macOS 위에 직접 구현해 APK를 네이티브 Mac 앱처럼 실행(Dock 아이콘·창·Cmd+Tab·GPU 가속). DEX→JVM 바이트코드 변환기 dex2jvm 별도 공개. macOS 26.4+ Apple Silicon 전용, 공개 알파(71개 앱 중 58개 동작), Apple 서명·공증, Java, AGPL-3.0, 1.2k stars
 * [MiceWine-Application: MiceWine is a project that aims to run Windows applications and games on Android smartphones](https://github.com/KreitinnSoftware/MiceWine-Application)
   * [MiceWine – 윈도우 앱과 게임을 안드로이드폰에서 실행하기 | GeekNews](https://news.hada.io/topic?id=18949)
+* [perch - See What’s Happening At Home](https://getperch.com/)
+* [ShareX: 🚀 Send and receive files in hassle-free way with fast speed! | akanshSirohi](https://github.com/akanshSirohi/ShareX/)
+  * 같은 Wi-Fi·핫스팟의 기기가 앱 설치 없이 브라우저로 접속해 파일을 보고·올리고·내려받는 Android 파일 공유 앱—공유 폴더 또는 선택 파일만 공유하는 Private 모드, 브라우저 접근 승인·신뢰 기기 기억·취소, QR 연결, 전송 기록·실시간 속도, 스토어·ZIP 플러그인, 포트·HTTPS·숨김 파일·테마 설정. 로컬 전송은 인터넷 불필요. Java, AGPL-3.0
 
 # App
 * [The Best Free and Open Source Apps in 2025! - YouTube](https://www.youtube.com/watch?v=E4Row0mFbfk)
@@ -1701,7 +1714,6 @@ App
 
 # Mac
 * [오래된 아이맥, SSD 교체하기](https://jeonghwan-kim.github.io/think/2020/03/27/imac-ssd-replacement.html)
-* [fastmac: Get a MacOS or Linux shell, for free, in around 2 minutes](https://github.com/fastai/fastmac/)
 * [How to schedule Node.js Scripts on Your Mac With Launchd | by Matthew Williams | Better Programming | Sep, 2020 | Medium](https://medium.com/better-programming/schedule-node-js-scripts-on-your-mac-with-launchd-a7fca82fbf02)
 * [Scheduling Jobs With Crontab on macOS | by Ratik Sharma | Better Programming | Medium](https://medium.com/better-programming/https-medium-com-ratik96-scheduling-jobs-with-crontab-on-macos-add5a8b26c30)
 * [20 essential Mac keyboard shortcuts to save you a click | by Popular Science | Popular Science | Medium](https://medium.com/popular-science/20-essential-mac-keyboard-shortcuts-to-save-you-a-click-36a1d71216aa)
@@ -1729,6 +1741,10 @@ App
   * 키보드 탐색, 폴더 지정 단축키, 파인더 이동 단축키, 시스템 설정 바로가기, 텍스트 편집 관련
 * [Your MacBook can do so much MORE! - YouTube](https://www.youtube.com/watch?v=DmB_g4u6J0I)
   * Byte Review. 새 맥 초기 설정, 필수 키보드 단축키·제스처, 생산성 단축키, iPhone·iPad 연동 팁, 맥에서 Windows 게임, 추천 도구·앱·액세서리까지 MacBook 활용 종합 가이드
+* [fastmac: Get a MacOS or Linux shell, for free, in around 2 minutes](https://github.com/fastai/fastmac/)
+* [OpenLogi — A local-first alternative to Logitech Options+, written in Rust](https://openlogi.org/)
+  * [OpenLogi: A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry | AprilNEA](https://github.com/AprilNEA/OpenLogi)
+  * 계정·텔레메트리 없이 HID++로 로지텍 마우스의 버튼 리맵·DPI·SmartShift를 로컬에서 제어하는 Options+ 대안(`brew install --cask openlogi`). Bolt·Unifying·Bluetooth·USB. Rust, Apache-2.0
 
 ## Mac App
 * [**practice - 최초 설치 후 install(M1)**](https://gist.github.com/hyunjun/cf75a8a9367b272c5707#file-install_m1-md)
@@ -2810,6 +2826,8 @@ App
 * [Lap — Private Local Photo Manager](https://julyx10.github.io/lap/)
   * [julyx10/lap: An offline-first photo manager for large local libraries](https://github.com/julyx10/lap)
   * 로컬 퍼스트·프라이버시 중심 오픈소스 사진 관리 데스크톱 앱(macOS/Windows/Linux). 클라우드 없이 기존 폴더 구조 그대로 사용, 온디바이스 로컬 AI 검색(텍스트·유사 이미지·얼굴 클러스터링·50개+ 언어 멀티링궐). Apple Live Photos·RAW+JPEG/HEIC 페어링, 룰 기반 스마트 앨범, 4분할 컬링 뷰어, 중복 탐지, 기본 편집(크롭·회전·리사이즈), 60개+ 포맷 지원. Tauri+Rust·Vue·SQLite·ONNX Runtime·CLIP·InsightFace. GPL-3.0
+* [LibreTV: 一分钟搭建影视站，支持Docker等部署方式 | LibreSpark](https://github.com/LibreSpark/LibreTV)
+  * 1분 안에 띄우는 무료 온라인 영상 통합 검색·시청 플랫폼의 Next.js 15 이전판—App Router+TypeScript+Tailwind, ArtPlayer+hls.js 재생 코어, 라이트·다크 테마, Docker 등 배포 방식 지원. 문서(아키텍처·배포·설정) 별도 제공, AGPL-3.0, 20k stars
 * [llmpeg: AI-powered FFmpeg command generator. Describe your video task in plain English, get the perfect command | ali-master](https://github.com/ali-master/llmpeg/)
   * 영상 작업을 영어로 설명하면 FFmpeg 명령을 만들어 주는 CLI. TypeScript, MIT
 * [Lottielab | Create and Edit Lottie Animations](https://www.lottielab.com/)
@@ -2875,6 +2893,9 @@ App
   * [StykAnimate-App: Free, open-source stick figure animation app for Windows, Linux and the browser. Opens Pivot and Stick Nodes projects](https://github.com/filippocalippo/StykAnimate-App)
   * [StykAnimate Is Now Open Source - YouTube](https://www.youtube.com/watch?v=S1em5t5msx0)
   * Pivot Animator의 현대적 후계를 표방하는 스틱 피겨 애니메이션 앱(Windows·Linux·브라우저 app.stykanimate.com, 2026-10-18 GPL-3.0 공개, JavaScript/Electron+Python 사이드카). .piv/.stk·Stick Nodes 파일을 열고 디코딩·편집·렌더링 전부 로컬. 손·발 IK와 3D 피겨, 선·원·다각형·텍스트·이미지로 피겨 제작, Pivot식 Simple/레이어·키·이징 Advanced 이중 타임라인, 모션 패스·어니언 스킨·카메라 팔로우, 파티클(폭발·오라·빔·연기)과 브러시, 커뮤니티 라이브러리, 27개 언어·터치 UI. MP4(YouTube·Shorts·TikTok 프리셋)·투명 WebM·GIF·APNG·PNG/JPEG/SVG·.piv/.stk 내보내기
+* [TiXL — Open Source Motion GFX](https://tixl.app/)
+  * [tixl: TiXL is an open source software to create realtime motion graphics](https://github.com/tixl3d/tixl)
+  * Tooll 4의 새 이름—실시간 렌더링, 그래프 기반 프로시저럴 생성, 선형 키프레임 애니메이션 사이의 접점을 노린 무료 오픈소스 모션 그래픽 툴킷(설치 작품·라이브 퍼포먼스·VJ). 오디오 반응 VJ 콘텐츠, 파라미터 탐색 인터페이스, 키프레임+자동화 조합. 테크니컬 아티스트는 프래그먼트·컴퓨트 셰이더 개발, MIDI 컨트롤러·센서·OSC·Spout 입력 추가 가능. 4.1에서 에셋 워크플로 재작성·새 오디오 파이프라인·Mediapipe 통합·MSDF 변환. C#, MIT, 5.2k stars
 * [Trangram](https://www.trangram.com/)
   * [Tangram - 웹기반 무료 애니메이션 편집기 | GeekNews](https://news.hada.io/topic?id=13778)
 * VLC
@@ -3121,6 +3142,8 @@ App
 * [markdown-to-html](https://github.com/cwjohan/markdown-to-html)
 * [markdowntopdf.com](http://www.markdowntopdf.com/)
 * [markitdown: Python tool for converting files and office documents to Markdown](https://github.com/microsoft/markitdown)
+  * [markitdown-mcp: a lightweight STDIO, Streamable HTTP, and SSE MCP server for calling MarkItDown | microsoft](https://github.com/microsoft/markitdown/tree/main/packages/markitdown-mcp)
+    * `convert_to_markdown(uri)` 도구 하나만 노출하는 경량 MCP 서버(`pip install markitdown-mcp`)—`http:`·`https:`·`file:`·`data:` URI를 받아 마크다운 변환. STDIO(기본)·Streamable HTTP·SSE 전송, 로컬 신뢰 에이전트용
   * [Microsoft MarkItDown - 파일 및 오피스 문서를 Markdown으로 변환하 | GeekNews](https://news.hada.io/topic?id=18260)
 * [marktext: 📝A simple and elegant markdown editor, available for Linux, macOS and Windows](https://github.com/marktext/marktext)
   * [MarkText - 오픈소스 마크다운 편집기 | GeekNews](https://news.hada.io/topic?id=5630)
