@@ -625,6 +625,9 @@ Android
       * Jetpack Compose를 도입해서 Trio 구축 시작
     * Trio를 통해 모듈 경계를 넘어 통신할 때 type safety를 보장하고 스크린샷과 UI 테스트가 가능한 장점 존재
 * [ThreeLevelExpandableListView: Android 3 Level Expendable ListView example](https://github.com/DonggeunJung/ThreeLevelExpandableListView)
+* [udroid | udroid docs](https://docs.udroid.org/)
+  * [ubuntu-on-android: Run Ubuntu with pre-installed Desktop Environments in android/termux with ease! | RandomCoderOrg](https://github.com/RandomCoderOrg/ubuntu-on-android)
+  * 코드명 udroid—루팅 없이 Termux의 proot 위에서 데스크톱 환경·개발 도구·소프트웨어가 미리 설치된 Ubuntu를 실행. 내려받아 설치하면 끝나는 것이 목표. Shell, MIT, 1.6k stars
 * [Vectras-VM-Android: It's a Virtual Machine App for Android Which is Based on QEMU](https://github.com/xoureldeen/Vectras-VM-Android/)
   * Virtual machine app for Android based on QEMU
 * [ViewPager2 사용하는 방법 정리](https://developer88.tistory.com/242)
@@ -665,6 +668,10 @@ Android
   * 안드로이드 UI 자동화 실패율을 줄이기 위한 다양한 시도와 해결 방법 공유
   * 코드 리팩토링, UI 변경에 따른 업데이트, 윈도우 핸들러 전환 문제, 앱 빌드 및 파이프라인 실행 중 발생하는 요소 찾기 문제와 같은 도전적인 상황 취급
   * 이러한 노력을 통해 실패율을 크게 감소시켰으며, 끊임없이 모니터링하고 개선하는 중요성을 강조
+* [agent-device — The mobile verification for AI Agents](https://agent-device.dev/)
+  * [agent-device: Mobile app automation and verification for AI coding agents. CLI, MCP server, and typed Node.js API for iOS, Android, HarmonyOS, TV, web, macOS, and Linux | callstack](https://github.com/callstack/agent-device)
+  * [agent-device - AI 에이전트가 iOS/Android 기기를 제어하도록 돕는 CLI | GeekNews](https://news.hada.io/topic?id=32078)
+  * 웹 에이전트를 실용화한 브라우저 자동화 패턴(Vercel agent-browser의 inspect-act-verify)을 네이티브 모바일·TV 앱에 적용—`agent-device open … --platform ios`→`snapshot -i`로 접근성 트리를 `@e2` 같은 안정적 ref와 함께 토큰 효율적으로 읽고 `press @e2`처럼 ref·텍스트·라벨·역할 셀렉터로 조작, 필요할 때만 스크린샷·비디오·로그·트레이스·네트워크·성능·크래시·React 프로필 증거 수집. 정상 단계는 `.ad` 스크립트로 저장해 CI 재현하거나 Maestro YAML로 내보냄. 백엔드: iOS/tvOS XCTest, Android ADB, Vega CLI, macOS 로컬 헬퍼, Linux AT-SPI. TypeScript, MIT, 5.1k stars
 * [EmuHub is an innovative tool designed to simplify the testing of Android applications by providing access to multiple emulators via web browsers. Built with Docker and NoVNC (HTML5-based VNC client), EmuHub offers developers and QA engineers a seamless platform for testing APKs across various Android device configurations](https://github.com/mohamed-helmy/emuhub)
 * [Espresso  |  Android 개발자  |  Android Developers](https://developer.android.com/training/testing/espresso)
   * [Android UI Test와 Espresso를 사용하는 방법](https://developer88.tistory.com/232)
