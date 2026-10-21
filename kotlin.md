@@ -523,6 +523,9 @@
 * [코틀린에서 하이버네이트를 사용할 수 있을까? | 우아한형제들 기술블로그](https://techblog.woowahan.com/2675/)
 * [Kotlin-Algorithms-and-Design-Patterns: This repository contains the most common algorithms and data structures written in the Kotlin language with simple and concise code](https://github.com/evitwilly/Kotlin-Algorithms-and-Design-Patterns)
 * [7 Features in Kotlin's Standard Library that You Might Have Overlooked - YouTube](https://www.youtube.com/watch?v=OFWMtmqocV8)
+* [AI와 3개월 동안 키운 대규모 Kotlin 라이브러리 생태계 | bluetape4k](https://bluetape4k.github.io/ko/blog/ai-assisted-library-development/)
+  * bluetape4k(여러 라이브러리 저장소·BOM·Spring Boot 3/4 통합·Ktor 예제·Exposed JDBC/R2DBC·AWS·graph·image·leader election·workshop 문서)를 Claude Code·Codex와 거의 매일 3개월 확장한 기록(2026-05-18). 코드 생성보다 큰 효과는 GitHub Actions·Dependabot·릴리스 검증 같은 반복 자동화, KDoc·README 영한 번역·마이그레이션 노트 초안, 빈 테스트 영역 찾기·공개 API 계약 고정·경계 사례 제안, libvips·Ktor 3 같은 신규 기능 조사와 시범 구현에서 나옴
+  * 처음 두 달은 세션마다 작업 스타일이 달라(테스트 강도 편차, 이미 있는 helper·Testcontainers launcher·코루틴 패턴 대신 외부 예제 스타일, 한 모듈에서 푼 문제를 다시 파기) 매번 재점검과 같은 배경 설명의 토큰 비용이 컸음. 3개월째 memory·wiki·lessons·skill을 축적하며 안정화—`bluetape4k-workflow`(작업을 Full Feature/Fast Track/Bug Fix/Code Review/Maintenance/Publish/Self Improve로 분류하고 단계별 통과 여부를 판정하는 gate, 미적용 gate도 근거가 있을 때만 N/A)·`bluetape4k-full-feature`·`bluetape4k-code-patterns` 개인 스킬로 "동작하는 코드"가 아니라 "기존 생태계와 같은 방식으로 동작하는 코드"를 강제
 * [apollo-kotlin:  A strongly-typed, caching GraphQL client for the JVM, Android, and Kotlin multiplatform](https://github.com/apollographql/apollo-kotlin)
   * [Apollo Kotlin: New Multiplatform Memory Manager - Apollo GraphQL Blog](https://www.apollographql.com/blog/mobile/kotlin/apollo-kotlin-new-multiplatform-memory-manager/)
 * [Arrow](https://arrow-kt.io/)
@@ -568,6 +571,8 @@
 * kotless [KotlinConf 2019: Kotless - Kotlin Serverless Framework by Vladislav Tankov - YouTube](https://www.youtube.com/watch?v=69uk3Pi88AE&list=PLQ176FUIyIUY6SKGl3Cj9yeYibBuRr3Hl&index=10)
   * [Kotlin JDSL: Kotlin을 이용해 손쉽게 Reactive Criteria API를 작성해 봅시다 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/kotlinjdsl-reactive-criteria-api-with-kotlin/)
   * [JPA 맘에 안들어서 쿼리 라이브러리 만든 썰 | Kotlin JDSL part.1 - YouTube](https://www.youtube.com/watch?v=-Kdr6qq6uJI)
+* [kotlin-agent-skills: A collection of AI agent skills useful for projects using Kotlin language | Kotlin](https://github.com/Kotlin/kotlin-agent-skills)
+  * JetBrains Kotlin 팀의 공식 에이전트 스킬 모음—agentskills.io 표준(SKILL.md YAML 프런트매터+지침·스크립트·리소스 폴더)을 따르며 `kotlin-<category>-<functional-name>` 명명 규칙으로 카테고리별 정리. Apache-2.0, 1.1k stars
 * [kotlin-magazine: fun code() – A magazine for Kotlin™ developers](https://github.com/kotlin-magazine/kotlin-magazine)
 * [Kotlin NoteBook In Intellij](https://devroach.tistory.com/176)
   * [kotlin-notebook-example](https://github.com/tmdgusya/kotlin-notebook-example)
