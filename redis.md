@@ -159,6 +159,8 @@ Redis
     * [대규모 예매 시스템에서 대기열에 Kafka 대신 Redis Sorted Set을 사용하는 이유](https://livewiki.com/ko/content/redis-queue-large-scale-ticketing)
   * [풀영상 수백만 동시접속을 처리하는 선착순 예매 시스템 아키텍처 설계 (총 1시간 3분) - YouTube](https://www.youtube.com/watch?v=EC2Xqyq6vg4)
     * 코딩하는기술사. 2026 초 예매 시스템 아키텍처 영상 5개 합본. 아키텍처 설계, 쏟아진 질문 답변, 대기열에 Kafka 아닌 Redis를 쓰는 이유, 대기열 통신 방법(폴링), 폴링 횟수 vs 웹소켓 유불리
+* [싱글스레드 Redis가 수십만 QPS를 내는 구조적 비밀 | 코딩하는기술사 - YouTube](https://www.youtube.com/watch?v=H-jSrhvnaLY)
+  * 19분. 싱글 스레드 Redis가 초당 수십만 건을 처리하는 5가지 이유를 아키텍처 관점에서—In-Memory(디스크 I/O 제거), epoll 기반 I/O Multiplexing 이벤트 루프, O(1) 중심 자료구조(Skip List 철학), RESP 프로토콜의 최소 파싱 비용, Pipeline의 RTT 압축
 * [**Redis를 활용한 다양한 시스템 설계**](https://devs0n.tistory.com/92) Redis로 구현 가능한 예제 간결하게 설명한 글, 토이 프로젝트에 참고하기 좋음
 * [Redis를 활용한 선착순 쿠폰 발급 서버 설계](https://jgrammer.tistory.com/entry/Redis%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%84%A0%EC%B0%A9%EC%88%9C-%EC%BF%A0%ED%8F%B0-%EB%B0%9C%EA%B8%89-%EC%84%9C%EB%B2%84-%EC%84%A4%EA%B3%84)
   * [우아한테크토크 선착순 이벤트 서버 생존기! 47만 RPM에서 살아남다?! - YouTube](https://www.youtube.com/watch?v=MTSn93rNPPE)
