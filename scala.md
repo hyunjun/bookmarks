@@ -415,6 +415,8 @@ Scala
     * [Business4s: 개발자와 비즈니스 간의 간극 해소 Scala Days 2025](https://livewiki.com/ko/content/business4s-devs-business-scala)
 * [(1) Jon Pretty on X: "Pseudorandom Acts of Kindness" / X](https://x.com/propensive/status/1815326193245155563)
 * [Jon Pretty on X: "Perfect Tab Completions" / X](https://x.com/propensive/status/1829111552168841329)
+* [A Scala REST API in 2026, and beyond — Direct-Style REST in Scala 3: Virtual Threads, sttp, and the Road to Caprese | Loïc Descotte](https://loicdescotte.github.io/posts/scala-rest-2026/)
+  * "I/O를 하려면 Future나 IO 효과 타입이 필요하다"는 통념에 대한 반론(2026-03-11)—가상 스레드 위에서 Pekko HTTP 1.3.0 서버, sttp client4 `DefaultSyncBackend`, `Either[AppError, A]` 오류 처리로 반환 타입을 감싸지 않는 direct-style REST API를 만들고, Scala의 다음 단계 Caprese(capability 기반 effect)로 이어지는 길을 짚음. IO 모나드의 참조 투명성 같은 다른 이점은 다루지 않음을 명시
 
 # Actor
 * [Actor 생성하기](https://ramees.tistory.com/34)
