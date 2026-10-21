@@ -448,6 +448,9 @@ Vision
   * Apple Vision·FoundationModels 프레임워크만 쓰는 100% Pure Swift 단일 바이너리(`macvis`, 약 240KB, 런타임 의존성 0)—AI 에이전트·E2E 테스트용 OCR·UI 요소 찾기를 0.3초 안에 로컬에서. 19,000토큰짜리 스크린샷을 `macvis ocr` YAML로 바꾸면 약 500토큰(38배 절감), `find`는 단어의 정확한 픽셀 중심 좌표를 돌려줘 클릭·assert에 바로 사용. QR/바코드 인식·생성, 문서 경계 검출·평탄화, 레이아웃 보존 문서 OCR, 1,303개 라벨 이미지 분류, 얼굴 그룹핑
   * 온디바이스 멀티모달 `ask`(macOS 27 베타+Apple Intelligence 필요, 이미지당 1~7초, 24개 언어). CLI·MCP 서버·Claude Code 스킬로 사용, Homebrew/mise 설치. MIT
 * [MegaFace: Test face recognition at the million scale](http://megaface.cs.washington.edu/)
+* [Mesh2Motion — 3D animation library and auto-rigging tool for web and game engines](https://mesh2motion.org/)
+  * [mesh2motion-app: Import a 3D Model and automatically assign and export animations](https://github.com/mesh2motion/mesh2motion-app)
+  * 브라우저에서 돌아가는 무료 오픈소스 Mixamo 대안(app.mesh2motion.org)—GLB·GLTF·DAE·FBX 모델을 올리고 스켈레톤 종류(인간·새·드래곤·거미·카이주·여우·말·물고기·뱀)를 골라 뼈를 모델 안에 맞춘 뒤 170개+ 애니메이션을 미리 보고 선택해 GLB/GLTF로 내보냄. 리깅된 모델도 그대로 업로드 가능, 되돌리기/다시 실행, 원본 Blender 리그·애니메이션 파일 전부 공개. TypeScript+Vite, Docker 실행 지원, 3.5k stars
 * [Motion2MixamoRig: Retarget human motion from video to an Adobe Mixamo-rigged 3D character | maxliu22](https://github.com/maxliu22/motion2mixamorig)
   * 한 사람이 머리부터 발끝까지 나오는 동작 영상(또는 정지 사진의 포즈)을 Adobe Mixamo 리그 캐릭터(Y Bot 등 FBX)로 옮겨, 프리뷰 영상과 Blender·Unity에 바로 넣는 스킨드 `.glb`를 출력하는 게임 개발자용 파이프라인. GVHMR 등 3D 인체 메시 복원 가중치(~5GB, 첫 실행 시 다운로드)와 SMPL-X 바디 모델(별도 등록·다운로드) 필요, Cinema 4D 재익스포트 Mixamo FBX도 지원
   * 두 가지 사용법: Blender 4.2+ 익스텐션(zip 설치→N 패널에서 런타임 원클릭 설치→SMPL-X·Mixamo FBX·영상 선택→Generate Motion, macOS Apple Silicon 테스트) 또는 CLI `m2mr run`(Python 3.11+, 레거시 chumpy는 `--no-build-isolation` 설치). 실험 단계(v0.1.7), AGENTS.md 제공. Python, Apache-2.0
