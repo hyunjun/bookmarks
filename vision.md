@@ -454,6 +454,8 @@ Vision
 * [Motion2MixamoRig: Retarget human motion from video to an Adobe Mixamo-rigged 3D character | maxliu22](https://github.com/maxliu22/motion2mixamorig)
   * 한 사람이 머리부터 발끝까지 나오는 동작 영상(또는 정지 사진의 포즈)을 Adobe Mixamo 리그 캐릭터(Y Bot 등 FBX)로 옮겨, 프리뷰 영상과 Blender·Unity에 바로 넣는 스킨드 `.glb`를 출력하는 게임 개발자용 파이프라인. GVHMR 등 3D 인체 메시 복원 가중치(~5GB, 첫 실행 시 다운로드)와 SMPL-X 바디 모델(별도 등록·다운로드) 필요, Cinema 4D 재익스포트 Mixamo FBX도 지원
   * 두 가지 사용법: Blender 4.2+ 익스텐션(zip 설치→N 패널에서 런타임 원클릭 설치→SMPL-X·Mixamo FBX·영상 선택→Generate Motion, macOS Apple Silicon 테스트) 또는 CLI `m2mr run`(Python 3.11+, 레거시 chumpy는 `--no-build-isolation` 설치). 실험 단계(v0.1.7), AGENTS.md 제공. Python, Apache-2.0
+* [motion-diffusion-model: The official PyTorch implementation of the paper "Human Motion Diffusion Model" (MDM) | GuyTevet](https://github.com/GuyTevet/motion-diffusion-model)
+  * 텍스트·액션 조건으로 사람 동작을 생성하는 확산 모델 MDM(ICLR 2023)의 공식 PyTorch 구현—50스텝 모델과 CLIP 결과 캐싱으로 원래 1000스텝 대비 약 40배 빠른 ~0.4초/샘플. MIT, 4.1k stars
 * [OmniParser](https://microsoft.github.io/OmniParser/)
   * [OmniParser: A simple screen parsing tool towards pure vision based GUI agent](https://github.com/microsoft/OmniParser)
   * GUI 스크린샷 파서, 최근 나온 클로드 Computer Use 같은 GUI 상호작용 에이전트 개발 가능할 걸로 예상. 아이콘 감지·기능 설명으로 UI 스크린샷을 구조화 요소로 파싱해 VLM의 grounded 액션 생성 향상. V2는 GUI grounding 벤치마크 SOTA
