@@ -398,6 +398,9 @@ Artificial Intelligence
   * Notion의 Geoffrey Litt(2026 AI Engineer 컨퍼런스 발표). AI가 코드를 더 많이 쓸수록 인간의 "이해"가 새 병목—단순 검증이 아니라 창의적 참여를 가능케 하는 능력. human-in-the-loop 제거가 아닌 "loop 안으로 더 깊이". 이해를 돕는 3가지 기법—퀴즈 내장 코드 설명 문서, 인터랙티브 마이크로월드, 팀 정렬용 공유 공간. Papert·Alan Kay의 교육 원리에 기반
   * [Understanding is the new bottleneck | 박상길](https://www.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_understanding-is-the-new-bottleneck-share-7478909054950678528-KYfB/)
     * 에이전트가 생성한 코드를 이해하는 것이 단순 검증을 넘어 창의적 프로젝트 참여의 핵심. 규모 있는 AI 협업에서 이해를 효율적으로 구축하는 3가지 기법—코드 설명 문서, 인터랙티브 마이크로 월드, 공유 협업 공간
+* [AI Writes Code Faster - But Are You Actually Delivering More? | The Passionate Programmer - YouTube](https://www.youtube.com/watch?v=-bTdG-h5gCg)
+  * David Scott Bernstein의 'Developing Software with AI' 2화(5분, 2026-10-20). 올해 방문한 팀들에서 AI 도입 후 생산성이 크게 오르지 않은 이유는 **제약을 타이핑에서 승인으로 옮겼을 뿐**이기 때문—AI는 잠들지 않으니 리뷰 큐는 줄지 않고, 다음에 만들 것을 설계하는 일도 사람 판단이 필요해 시니어 한 사람이 두 개의 큐를 안고 주니어는 배울 사람이 없어지는 구조(Wolfram Müller의 지적 인용)
+  * 제약을 하나씩 제거하면 결국 근본 제약인 '이해'가 드러난다—구현을 외주화하기 쉬운 만큼 이해도 모르는 사이 외주화된다. 해법은 경험 있는 개발자가 더 적어지는 게 아니라 **더 많아지는 것**이며, 모델을 세우고 이해의 연속성을 유지하는 오케스트레이터 역할과 시니어·주니어가 함께 AI로 짓는 몹/팀 작업이 학습을 늘리는 길
 * [인지부채 - 바이브 코딩 시대의 새로운 부채 관리법 :: ROBOCO](https://roboco.io/posts/cognitive-debt)
   * 정도현(로보코). 코드는 쌓이는데 이해는 쌓이지 않는 격차가 "인지부채". MIT Media Lab EEG 연구(LLM 사용 그룹의 뇌 연결성·소유감 저하), GitClear 2억 라인 분석(복붙 증가·리팩터링 반감)으로 뒷받침. human-in-the-loop는 사람이 병목·형식적 승인이 되어 실패(Bainbridge의 자동화 아이러니). 산출물 속도가 아니라 이해·정리를 부채로 관리해야 한다는 관점
 * [The human is the loop | Brent Fitzgerald](https://brentfitzgerald.com/posts/the-human-is-the-loop/)
