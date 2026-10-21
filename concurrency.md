@@ -165,6 +165,9 @@ Concurrency
   * [최근 LLM 서빙에 관심이 생겼습니다 — CUDA 시리즈 1~6편 모음 | Younghun Jo | LinkedIn](https://www.linkedin.com/posts/young-hun-jo-3162a41a5_%EC%B5%9C%EA%B7%BC-llm-%EC%84%9C%EB%B9%99%EC%97%90-%EA%B4%80%EC%8B%AC%EC%9D%B4-%EC%83%9D%EA%B2%BC%EC%8A%B5%EB%8B%88%EB%8B%A4-%EB%AC%BC%EB%A1%A0-%EB%8B%B9%EC%9E%A5-vllm-sglang-share-7479461410662412288-aKrL/)
   * ML 플랫폼 엔지니어가 vLLM·SGLang을 "돌려 보는" 수준을 넘어 프로덕션 LLM 서빙의 기초 체력을 쌓으려고 C++ CUDA를 로우 레벨부터 공부한 6편 시리즈(2026-05~07, NVIDIA CUDA Programming Guide 기반). ①GPU 없이 시작하는 장벽을 CLion+Lightning AI 원격 GPU로 해결해 AI 어시스턴트와 함께 학습 ②Kernel·Grid·Block·Thread·Warp 단위와 Hello.cu ③호스트↔디바이스 메모리 복사와 1차원 벡터 덧셈 커널 ④비동기 실행·Pinned Memory·멀티 Stream으로 전송과 연산 겹치기 ⑤dim3 blockDim/gridDim으로 2차원 확장한 행렬 곱 ⑥FLOPs/byte(Arithmetic Intensity)로 naive matmul의 문제를 짚고 Global vs Shared Memory와 Tiling으로 개선
 * [cudaFlow: Modern C++ Programming Model for GPU Task Graph Parallelism - YouTube](https://www.youtube.com/watch?v=NwrFzWX5lnM)
+* [CUDA Online Judge (cudaforces) — Learn GPU Programming Without a GPU | SungHwanYun](https://github.com/SungHwanYun/cudaforces)
+  * [AGI KR - GPU 없이도 CUDA 프로그래밍을 학습할 수 있는 자료와 환경 | Facebook](https://www.facebook.com/groups/255834461424286/?multi_permalinks=2835505950123778)
+  * GPU 없이 CPU 트랜스파일러로 CUDA GPU 프로그래밍을 연습하는 교육용 온라인 저지(cudaforces.com)—학습 가이드·예제 문제·개발자용 공개 API 문서. PyTorch·TensorFlow가 내부적으로 CUDA를 쓴다는 문제의식에서 저자가 만들어 AGI KR에 공개
 * [CuPy - A NumPy-compatible matrix library accelerated by CUDA](https://cupy.chainer.org/)
   * [Here’s How to Use CuPy to Make Numpy Over 10X Faster | by George Seif | Towards Data Science](https://towardsdatascience.com/heres-how-to-use-cupy-to-make-numpy-700x-faster-4b920dda1f56)
 * [dietgpu: GPU implementation of a fast generalized ANS (asymmetric numeral system) entropy encoder and decoder, with extensions for lossless compression of numerical and other data types in HPC/ML applications](https://github.com/facebookresearch/dietgpu)
