@@ -77,6 +77,8 @@ Open Source
 * [ApacheCon 2019 Keynote: James Gosling's Journey to Open Source](https://www.infoq.com/news/2019/09/apachecon-gosling-open-source/)
 * [한글자막 기조연설: 리눅스와 Git의 창시자 리누스 토르발스, Dirk Hohndel과 함께 - YouTube](https://www.youtube.com/watch?v=i6gVDcx54FY)
   * Tech Bridge. Linus Torvalds가 Linux 커널 개발·오픈소스·AI 코딩 도구의 변화를 논의. AI는 컴파일러처럼 생산성을 높이는 도구일 뿐, 장기 유지보수를 위해선 생성된 코드와 시스템 전체를 이해하는 능력이 여전히 중요. AI 기반 버그 발견이 유지보수자에게 주는 부담도 언급
+  * [Linus Torvalds: AI Can't Think Like a Programmer | SavvyNik - YouTube](https://www.youtube.com/watch?v=3NSSGt9bZag)
+    * 같은 대담(Linus Torvalds × Verizon OSPO의 Dirk Hohndel)을 12분으로 추린 해설—AI 보조 도구가 취약점을 찾고 버그 리포트·패치를 쏟아내며 커널 메인테이너 번아웃을 키운다는 대목에 초점. Linus: 커널은 릴리스마다 1,000명 이상이 참여하고 대부분 유급인 메인테이너 집단이 있어 괜찮지만, 한두 명이 10년 넘게 유지하는 수만 개 소규모 프로젝트는 "더 알려 달라"고 물으면 답도 없는 drive-by AI 리포트 홍수에 진짜로 소진된다는 것이 핵심 문제
 * [André Staltz - Time Till Open Source Alternative](https://staltz.com/time-till-open-source-alternative.html)
   * [TTOSA - 오픈소스 대체제가 나오는 데까지 걸리는 시간 | GeekNews](https://news.hada.io/topic?id=7281)
 * [How to pay your rent with your open source project | Plausible Analytics](https://plausible.io/blog/open-source-funding)
