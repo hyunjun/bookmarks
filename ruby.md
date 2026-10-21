@@ -84,6 +84,8 @@ Ruby
 * [classroom: GitHub Classroom automates repository creation and access control, making it easy for teachers to distribute starter code and collect assignments on GitHub](https://github.com/education/classroom)
 * [Cuba](http://theguidetocuba.io/online.html)
 * [ETL Workflow](https://github.com/OBSLabs/etl)
+* [faker: A library for generating fake data such as names, addresses, and phone numbers | faker-ruby](https://github.com/faker-ruby/faker)
+  * 테스트·데모·개발 DB 채우기용으로 이름·주소·전화번호 등 그럴듯한 가짜 데이터를 생성하는 Ruby 라이브러리. MIT, 12k stars
 * [Fast Ruby :heart_eyes: —— Collect Common Ruby idioms. https://github.com/JuanitoFatas/fast-ruby](https://github.com/JuanitoFatas/fast-ruby)
 * [Fluentd: a High Performance Unified Logging Layer](http://www.linux.com/news/enterprise/high-performance/147-high-performance/847237-fluentd-a-high-performance-unified-logging-layer)
 * [foghorn - Add a little Foghorn Leghorn to your ruby](https://github.com/rickr/foghorn)
