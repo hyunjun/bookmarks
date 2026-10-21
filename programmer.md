@@ -450,6 +450,8 @@ Programmer
   * [왜 나는 월드 와이드 웹을 무료로 세상에 내놓았는가 | GeekNews](https://news.hada.io/topic?id=23342)
 * [Redis를 바라보며: 우리는 정말 발명하는 개발자인가요? | day1swhan 블로그](https://blog.day1swhan.com/articles/are-we-makers)
   * [Redis를 바라보며: 우리는 정말 발명하는 개발자인가요? | GeekNews](https://news.hada.io/topic?id=23973)
+* [Redis 왜 쓰냐고 물으면 한 달 전 저는 "빠르니까요"라고 답했습니다 | 민혁 강 | LinkedIn](https://www.linkedin.com/posts/%EB%AF%BC%ED%98%81-%EA%B0%95-4910443a2_redis-%EC%99%9C-%EC%93%B0%EB%83%90%EA%B3%A0-%EB%AC%BC%EC%9C%BC%EB%A9%B4-%ED%95%9C-%EB%8B%AC-%EC%A0%84-%EC%A0%80%EB%8A%94-%EB%B9%A0%EB%A5%B4%EB%8B%88%EA%B9%8C%EC%9A%94%EB%9D%BC%EA%B3%A0-%EB%8B%B5%ED%96%88%EC%8A%B5%EB%8B%88%EB%8B%A4-share-7468926004963713024-d-tR/)
+  * 위 day1swhan 글을 읽고 Redis 코드를 파고든 뒤 쓴 글—바뀐 건 지식의 양이 아니라 결정을 보는 눈. single-thread는 한계가 아니라 락과 그 버그를 아예 안 만들려는 선택, memcached로 큐를 짜면 생기는 복잡도를 서버가 자료구조를 알기에 LPUSH 한 줄로 가져간 것, 메모리가 차면 조용히 버리지 않고 쓰기를 거절하는 default("위험은 시끄러워야 한다"), 지속성은 사용자에게 위임하되 Skiplist 확률값 1/4은 코드에 박아 둔 위임 기준. AI가 Redis 코드 200줄은 30초에 짜도 왜 single-thread인지·왜 1/4인지는 안 적는다는 결론
 * [Development gets better with Age | All Things Distributed](https://www.allthingsdistributed.com/2025/10/better-with-age.html)
   * [나이가 들수록 개발은 더 나아진다 (Development gets better with Age)](https://whchoi98.notion.site/Development-gets-better-with-Age-28d04ef7e60e8001993ced588d75bd07)
 * [AI 시대, 개발자의 역할은 '실행자'에서 '전략가'로 진화합니다.](https://kr.linkedin.com/pulse/ai-%EC%8B%9C%EB%8C%80-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EC%97%AD%ED%95%A0%EC%9D%80-%EC%8B%A4%ED%96%89%EC%9E%90%EC%97%90%EC%84%9C-%EC%A0%84%EB%9E%B5%EA%B0%80%EB%A1%9C-%EC%A7%84%ED%99%94%ED%95%A9%EB%8B%88%EB%8B%A4-kihung-thomas-kim-mnqie)
