@@ -3782,6 +3782,9 @@ Python
   * hexora — 악성 코드 패턴 탐지용 정적 분석 도구
   * opentemplate — 최신 개발·보안·CI/CD 설정을 포함한 프로젝트 템플릿
   * Pyrefly — Meta의 Rust 기반 고성능 타입 체커
+* [7 Python Libraries Powered by Rust 🦀 | Byte Without Bite - YouTube](https://www.youtube.com/watch?v=GcerLt86Pmc)
+  * 7분(2026-10-20). 2025 Python Language Summit 보고로 PyPI 신규 프로젝트 네이티브 코드의 25~33%가 Rust, JetBrains 조사에서 Python 바이너리 확장의 Rust 사용률 27%→33%로 1년 만에 상승—Rust를 배우지 않고 Python을 쓰면서 뒷단만 Rust인 7개 도구 소개
+  * uv(pip 대비 10~100배, 가상환경+패키지 관리 통합)·Ruff(Flake8·Black·isort를 `ruff format`/`ruff check --fix`로 대체, 800+ 규칙)·xy(Reflex가 내놓은 Rust 코어+WebGL2 플로팅, 1억 포인트까지 실시간 팬·줌, CSS/Tailwind 스타일링, Plotly·Matplotlib의 JSON 직렬화 병목 회피)·Granian(Hyper·Tokio 기반 HTTP 서버, ASGI·WSGI·자체 RSGI 지원)·Polars(멀티코어·지연 평가·스트리밍으로 pandas 대체)·Pydantic(Rust 검증 코어)·orjson(datetime·UUID·dataclass·NumPy 지원 고속 JSON)
 * [5 Python Libraries That Feel Illegal to Know | Byte Without Bite - YouTube](https://www.youtube.com/watch?v=o9Tgv4oZ3K4)
   * 6분 소개—Manim(3Blue1Brown식 수학·기술 애니메이션을 코드로), Faker(이름·이메일·주소·회사 등 테스트 데이터 대량 생성), Gradio(ML 모델·함수를 인터랙티브 웹 UI로, Hugging Face 데모 표준), Diagrams(AWS·Azure·GCP·K8s 아이콘으로 아키텍처 다이어그램을 코드로), Marimo(변수 의존성을 추적해 셀을 자동 갱신하는 반응형 노트북, Git 친화적·웹 앱 변환 가능)
 * [Abseil Python Common Libraries](https://github.com/abseil/abseil-py)
