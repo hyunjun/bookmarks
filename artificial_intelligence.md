@@ -423,8 +423,35 @@ Artificial Intelligence
 * [AI가 다 만드는데, 왜 자꾸 기획을 말할까? | 요즘IT](https://yozm.wishket.com/magazine/detail/3858/)
   * AI로 만드는 비용이 거의 공짜가 된 지금, 속도 경쟁을 넘어 진짜 쓸모 있는 가치를 만드는 방법—기획의 중요성을 다룸
 * [Eight Myths on Software Engineering and GenAI - ACM Queue](https://queue.acm.org/detail.cfm?id=3807963)
+  * [Eight Myths on Software Engineering and GenAI (DOI) | ACM Queue](https://queue.acm.org/doi/10.1145/3807963)
+  * [소프트웨어 엔지니어링과 생성형 AI에 관한 8가지 오해 | GeekNews](https://news.hada.io/topic?id=32175)
+    * Microsoft 2025 조사에서 개발자의 코드 작성 시간은 전체의 14%—코딩 속도를 2배로 올려도 이론상 전체 생산성 향상은 15% 미만. 숙련 오픈소스 개발자의 구현 시간이 평균 18% 늘어난 연구, 의미가 같은 프롬프트를 바꾸자 코드 46%·정답 여부 28%가 달라진 결과. AI 작성 코드 비율·줄 수는 품질·출시 속도 지표가 아니며 라이선스만 뿌려서는 도입률이 오르지 않음
   * [생성형 AI와 소프트웨어 엔지니어링에 대한 8가지 오해, 개발 생산성의 진짜 의미 | digitalbourgeois](https://digitalbourgeois.tistory.com/3482)
   * 코드 작성이 빨라져도 소프트웨어 개발 전체가 같은 비율로 빨라지지 않는다—설계·회의·코드 리뷰·테스트·레거시 이해·시스템 통합·유지보수가 모두 포함되기 때문. "GenAI가 개발자를 10배 생산적으로 만든다"거나 "AI 작성 코드 비율이 높을수록 생산성이 높다" 같은 주장이 실제 개발 환경의 복잡성을 반영하지 못하는 이유를 8가지 오해로 정리
+* [claude code is not making your product better | Ethan Ding](https://ethanding.substack.com/p/claude-code-is-not-making-your-product)
+  * [Claude Code는 당신의 제품을 더 좋게 만들지 않는다 | GeekNews](https://news.hada.io/topic?id=29225)
+  * 노동경제학 데이터로 시작—코딩 에이전트의 생산성 효과는 K자형(2023 LLM 변곡점 이후 시니어 커밋 산출은 늘고 주니어는 정체·감소). opencode의 Dax, Linear CEO Karri Saarinen, Sentry를 만든 David Cramer가 며칠 사이 같은 말을 함: AI 비판자가 아닌데도 제품 개선 속도가 빨라졌다는 확신을 못 얻고 있고, Cramer는 LLM이 복잡성 속 점진 개발·관용적 인터페이스 단순화에 약하고 슬롭 테스트를 양산한다고 지적
+  * 반증 논리: 엔지니어링 생산성은 복리이므로 Claude Code가 1.5배라도 제품 개선 속도를 높였다면 7개월 독점한 Anthropic과 경쟁자 격차가 넘을 수 없게 벌어져야 하는데, Codex는 몇 달 뒤 출시돼 이미 경쟁력 있고 Cursor·Cognition·Factory도 계약을 따냄→병목은 코드 생산이 아님. 좋은 엔지니어링 문화는 코드 줄을 생산물이 아니라 '지출'로 보고(tinychat의 코드베이스 크기 알람·삭제 축하), 기능·통합이 늘수록 버그 표면·의존성이 복리로 늘어남. 제품 최전선은 취향·압축·삭제·거절의 판단—Claude Code는 0에서 Camry까지는 데려가지만 Ferrari 장인이 더 빠른 Ferrari를 만들게 하진 못함
+* [You Need AI That Reduces Maintenance Costs | James Shore](https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs)
+  * [코드 작성에 쓰는 AI 코딩 에이전트는 반드시 유지보수 비용을 줄여야 함 | GeekNews](https://news.hada.io/topic?id=29399)
+  * 코드를 2배 빨리 쓰면 유지보수 비용도 절반으로 줄여야 한다는 산술—코드 작성 1개월당 첫해 10일, 이후 매년 5일의 유지보수(wisdom of the crowd 추정치, 스프레드시트 공개)를 모델링하면 2년 반 뒤 시간의 절반 이상이 유지보수, 10년이면 거의 전부. 유지보수 추정치를 절반으로 줄이면 50% 도달이 3년 늦어지고 2배면 1년 안에 도달. 후기 스타트업 컨설팅 경험상 5~9년차에 "팀이 일을 못 끝낸다"며 연락이 오는 그래프 그대로
+  * 'Rock Lobster' 가상 에이전트가 산출을 2배로 늘리되 코드가 더 이해하기 어렵고 PR이 넘쳐 월별 유지보수 비용도 2배라면 다음 달 유지보수는 4배—약 5개월 뒤 생산성은 원점으로, 몇 달 더 지나면 쓰지 않았을 때보다 나빠짐. 사람 코드와 똑같이 유지보수 가능한 코드를 만들어도 이득은 지속되지 않으며, 비용 때문에 에이전트를 끊으면 생산성 이득은 사라지고 늘어난 유지보수 비용만 남음("체크아웃은 할 수 있지만 떠날 수는 없다")
+* [생산성과 영양과다 비타민 | 향로(기억보단 기록을)](https://jojoldu.tistory.com/870)
+  * CTO 모임의 질문 "AI 속도전이 정말 회사에 기여하나"에 대한 답(2026-03-14)—개인 개발자 생산성은 확실히 올랐지만 그게 회사 성과로 비례했다면 지금의 대량 해고가 아니라 채용 확대가 일어났어야 함. 사업에는 Min(제품이 돌아가게·버그·성능·장애—개발팀 책임)과 Max(새 시장·고객·매출 상방—사업·세일즈·마케팅 책임)가 있고, Min을 아무리 효율적으로 달성해도 Max의 천장이 안 바뀌면 사업은 안 커짐. 국내 개발자 채용은 사업 성장을 기술이 못 받칠 때(Min 붕괴 위기)에 일어났고 매출이 안 늘어서 개발자를 뽑은 적은 없었음
+  * 비타민 비유—식단에 부족할 때는 영양제를 먹지만 할인한다고 몇 배 먹어도 소변으로 배출될 뿐. AI로 개발 비용을 줄이는 건 매출 1,000억에서 영업이익 50억을 더 짜내는 비용 최적화(FinOps·인프라 절감의 영역)로 나쁘진 않지만 매출 2,000억·5,000억으로 가야 하는 스타트업의 방향은 아님. 남는 질문: "지금 우리 사업 구조는 개발팀 생산량이 오르는 만큼 매출을 낼 수 있는 구조인가?"
+* [임경묵 - AI는 왜 아직 생산성을 보여주지 못하는가 — 30년 전 한 경제학자가 남긴 질문 | Facebook](https://www.facebook.com/kyungmook.lim/posts/pfbid0wSTzQMgy2L7Z49FWFDqZ6BEVkPYW4eNn4ZFZsgCZhAUQ77TVeQZ7kat6DXDQsB8hl)
+  * 1990년대 솔로의 생산성 역설("컴퓨터 시대는 어디서나 보이는데 생산성 통계에서만 안 보인다")과 회의론자 Robert Gordon 대 그린스펀이 주목한 MIT Brynjolfsson과 제자 양신규(Shinkyu Yang, 2005년 작고)의 연구—상장기업 수백 곳에서 컴퓨터 자산 1달러당 기업가치가 약 10달러 늘었는데 나머지 9달러는 회계가 비용으로 처리한 교육·업무 재설계·데이터 정비·권한 재배분, 즉 장부에 적히지 않는 **조직자본(organizational capital)**이고 기술은 조직과의 **보완성(complementarity)**이 갖춰질 때만 생산성이 됨
+  * 지난 2년 GPU·LLM·에이전트에 투자했는데 생산성 폭발이 드문 것도 같은 구조—GPT 계약은 시작일 뿐, AI에 맞춰 업무·회의·보고·평가 기준을 다시 짜고 사람과 AI가 함께 일하는 법을 익히는 투자(AI 시대의 조직자본)를 아직 끝내지 못했고 여전히 비용으로 적음. 병목은 GPU→HBM→패키징·전력·냉각→조직으로 이동하며, 전기 공장 재설계에 수십 년·컴퓨터에 맞는 조직에 10년이 걸렸듯 생산성은 마지막에 따라옴. 댓글: 양 교수의 working paper를 그린스펀이 의회 청문회에서 들고 금리 인상 불필요를 주장했다는 후문, 엠파이어 빌딩 자동 엘리베이터에 사람들이 익숙해지기까지 17년
+* [Sorry, skeptics: AI really is changing the programming profession | Timothy B. Lee | Understanding AI](https://www.understandingai.org/p/sorry-skeptics-ai-really-is-changing)
+  * Block의 Jack Dorsey가 인력 40%(4,000명+) 해고를 발표하며 "지능 도구+더 작고 평평한 팀이 회사를 만들고 운영하는 방식을 근본적으로 바꿨다"고 한 트윗, Citrini Research의 연쇄 해고 예측, Matt Shumer의 "Something Big Is Happening"("원하는 걸 영어로 말하고 4시간 뒤 돌아오면 완성돼 있다", 컴퓨터로 하는 일은 6개월 안에 거의 완벽해진다)을 놓고 기자가 직접 프로그래머들을 인터뷰한 글. 결론: Shumer는 진척 속도를 과장함—한 프롬프트로 프로덕션 소프트웨어가 나오는 건 사실이 아니고 아키텍처 결정·상세 지시·검증에 사람이 여전히 필요—하지만 "뭔가 큰 일이 벌어지고 있다"는 건 맞음. 전 Google 매니저 Jim Muller는 Claude Code를 "무모하고 엉뚱한 엔지니어"라 부르면서도 생산성이 극적으로 올랐다고 하고, 비영리 20명 팀 매니저는 1년 사이 PR 수 기준 2배 이상 생산성 증가와 함께 단점도 짚음(이후 유료 구간)
+* [에이전트, 개념부터 같이 정리해봐요 - 워크플로우·하네스·Context/Memory·MCP/A2A | NAVER D2](https://d2.naver.com/helloworld/8118359)
+  * 에이전트 개념을 워크플로우, 하네스, Context/Memory, MCP/A2A로 나눠 정리한 NAVER D2 입문 글
+* [AI 해커톤 후기 코드와 문서만 읽은 LLM은 어떻게 사람과 같은 팀을 1위로 골랐을까 | NAVER D2](https://d2.naver.com/helloworld/2541696)
+  * NAVER 사내 AI 해커톤 후기—코드·문서만 읽은 LLM이 사람 심사와 같은 1위 팀을 골라낸 과정을 분석한 글
+* [AI 해커톤 후기 AI 시대의 해커톤과 인간의 역할: AI의 계획과 사람의 전략 | NAVER D2](https://d2.naver.com/helloworld/1883072)
+  * 같은 해커톤의 후속—AI가 계획을 세우고 사람이 전략을 맡는 분업에서 인간의 역할이 무엇인지 돌아본 글
+* [AI 에이전트 회사 차리기: 설립부터 어디서든 동기화까지 | NAVER D2](https://d2.naver.com/helloworld/3897377)
+  * AI 에이전트를 "회사"처럼 세우고 어디서든 상태를 동기화하는 구조를 설계·구현한 NAVER D2 글
 * ["Code was never the hard part" is an insult to all programmers — Senko Rašić](https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers)
   * ["코드는 결코 어려운 부분이 아니었다"는 말은 모든 프로그래머에 대한 모욕이다 | GeekNews](https://news.hada.io/topic?id=32276)
   * 코딩을 쉬운 작업으로 치부하면 그동안 요구돼 온 기술·경험·노력과 소프트웨어가 여전히 버그투성이라는 현실을 무시하게 된다는 반론. 무엇을 만들지 결정하고 고객을 이해하는 일도 중요하지만 구현보다 본질적으로 더 어렵다고 단정할 수는 없음
@@ -740,6 +767,9 @@ Artificial Intelligence
     * ReAct, Reflection, Planning, Tool Use, Multi-Agent Collaboration, Sequential Workflows, Human-in-the-Loop
 * [Agent Design Is Still Hard | Armin Ronacher's Thoughts and Writings](https://lucumr.pocoo.org/2025/11/21/agents-are-hard/)
   * [에이전트 설계는 여전히 어렵다 | GeekNews](https://news.hada.io/topic?id=24549)
+* [Better Models: Worse Tools | Armin Ronacher](https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/)
+  * [더 나은 모델, 더 나빠진 도구 | GeekNews](https://news.hada.io/topic?id=31148)
+  * Pi의 edit 도구에 최신 Claude(Opus 4.8·Sonnet 5)가 `edits[]`에 스키마에 없는 `requireUnique`·`oldText2`·`matchCase`·`in_file` 같은 가짜 키를 덧붙여 호출이 거부되는데 이전 모델들은 그러지 않았다는 이상한 이슈에서 출발(2026-07-04). 도구 호출은 마법이 아니라 특수 마커+JSON **텍스트를 생성**하는 조잡한 in-band 시그널링이라, 제약 없는 샘플링에서는 학습된 관례가 주어진 스키마를 이김—`oldText`·`newText` 자체는 맞았고 에이전트 이력·thinking 블록 포함 여부에 따라 재현율이 달라짐. Claude Code는 닫힌 하네스지만 잘못된 호출 재시도, 파라미터 별칭, 타입 보정, 유니코드 복구, 알 수 없는 키 필터링 같은 느슨한 보정을 많이 하고 `strict` 모드는 쓰지 않음. Fable은 분류기가 조용히 Opus로 다운그레이드할지 몰라 의도적으로 미테스트
 * [12-factor-agents: What are the principles we can use to build LLM-powered software good enough for production | HumanLayer](https://github.com/humanlayer/12-factor-agents)
   * [개발자들 사이에서 꽤 유명한 12-factor app의 에이전트 버전 | HoYeon Lee](https://www.linkedin.com/posts/hoyeonleekr_%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%93%A4-%EC%82%AC%EC%9D%B4%EC%97%90%EC%84%9C-%EA%BD%A4-%EC%9C%A0%EB%AA%85%ED%95%9C-12-factor-app%EC%9D%98-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EB%B2%84%EC%A0%84%EC%9D%B4-%EC%9E%88%EB%8B%A4-share-7487327905560305664-Gf1f/)
   * [AI 에이전트를 만들어봤다는 분은 정말 많이 만납니다. 그런데 “매일 잘 쓰고 있다”는 분은 좀처럼 보지 못했습니다 | SungJae Shim | LinkedIn](https://www.linkedin.com/posts/sungjae-shim-9b353159_ai-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EB%A5%BC-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B4%A4%EB%8B%A4%EB%8A%94-%EB%B6%84%EC%9D%80-%EC%A0%95%EB%A7%90-%EB%A7%8E%EC%9D%B4-%EB%A7%8C%EB%82%A9%EB%8B%88%EB%8B%A4-%EA%B7%B8%EB%9F%B0%EB%8D%B0-%EB%A7%A4%EC%9D%BC-%EC%9E%98-share-7465530300995977216-MovU/)
@@ -1455,8 +1485,12 @@ Artificial Intelligence
 * [Feynman — The open source AI research agent](https://www.feynman.is/)
   * [feynman: The open source AI research agent](https://github.com/advaitpaliwal/feynman)
   * 오픈소스 AI 리서치 에이전트. TypeScript, 9.7k stars
+  * [feynman: The open source AI research agent | Companion-Inc](https://github.com/Companion-Inc/feynman)
+    * Companion(companion.ai) 산하로 이관된 현재 레포(MIT, 10k stars). 논문 읽기·웹 검색·연구 초안 작성·실험 계획·인용 검증을 하는 CLI—`curl -fsSL https://feynman.is/install | bash` 또는 `npm i -g @companion-ai/feynman`, `feynman setup`으로 모델 제공자 로그인. REPL 슬래시 명령 겸 `feynman <workflow>`: /deepresearch(계획 우선, 병렬 리서처), /lit(1차 자료 문헌 리뷰·합의 지도), /review(심각도 점수 비평·수정 계획), /audit(논문-코드 불일치 재현성 감사), /replicate, /recipe(논문·데이터셋·코드 근거 ML 학습 레시피 순위), /compare(출처 간 일치·충돌 매트릭스), /draft(인라인 인용 논문체 초안), /autoresearch. Codex·OpenCode용 스킬 전용 번들도 제공
 * [Firecrawl - The context API to search, scrape, and interact with the web at scale](https://www.firecrawl.dev/)
   * [firecrawl-mcp-server: Official Firecrawl MCP Server — web scraping and search for Cursor, Claude and any LLM clients](https://github.com/firecrawl/firecrawl-mcp-server)
+  * [firecrawl: Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence 🔥](https://github.com/firecrawl/firecrawl)
+    * 본체 레포(TypeScript, AGPL-3.0, 194k stars)—URL을 LLM용 마크다운·구조화 데이터로 바꾸는 스크레이프·크롤·검색·추출 API와 셀프호스트 가능한 서버
   * AI 시스템이 실시간 웹 콘텐츠를 찾고·추출·조작하는 웹 데이터 인프라. 검색·스크레이핑(구조화 포맷)·동적 페이지 인터랙션. MCP 서버로 Claude·Cursor 등 LLM 클라이언트에 스크레이핑·검색·크롤·자율 리서치 도구 제공
 * [Flue — The Agent Harness Framework](https://flueframework.com/)
   * [flue: The sandbox agent framework](https://github.com/withastro/flue)
@@ -1809,12 +1843,16 @@ Artificial Intelligence
   * Alibaba의 AI 에이전트용 격리 실행 환경. Docker/K8s 기반 샌드박스에서 셸 명령, 코드 인터프리터, 브라우저 자동화, 원격 개발 등 지원. Python/Java/JS SDK 제공
   * [OpenSandbox: Secure, Fast, and Extensible Sandbox runtime for AI agents](https://github.com/opensandbox-group/OpenSandbox)
   * [류내원 - Alibaba just handed the AI agent community a... | Facebook](https://www.facebook.com/won.wizard/posts/pfbid0hHBbeWKfzHj1b7uV3SV6zrASLx9N1CAmHn5gTXQA8hmCPHgdDdX1H5USsjr2njfSl)
+  * [Alibaba Releases OpenSandbox to Provide Software Developers with a Unified, Secure, and Scalable API for Autonomous AI Agent Execution | MarkTechPost](https://www.marktechpost.com/2026/03/03/alibaba-releases-opensandbox-to-provide-software-developers-with-a-unified-secure-and-scalable-api-for-autonomous-ai-agent-execution/)
   * [7.3k 스타 알리바바 OpenSandbox로 AI 코딩 샌드박스 완전 정복](https://fornewchallenge.tistory.com/entry/%F0%9F%94%A5-73k-%EC%8A%A4%ED%83%80-%EC%95%8C%EB%A6%AC%EB%B0%94%EB%B0%94-OpenSandbox%EB%A1%9C-AI-%EC%BD%94%EB%94%A9-%EC%83%8C%EB%93%9C%EB%B0%95%EC%8A%A4-%EC%99%84%EC%A0%84-%EC%A0%95%EB%B3%B5)
   * [OpenSandbox 코드 분석: AI 에이전트의 실행 환경을 어떻게 통일했나 | desty](https://desty.github.io/blog/58-opensandbox-agent-runtime/)
     * 2026-08-21 커밋 기준으로 저장소를 직접 받아 읽은 코드 분석(소스+명세 33만 줄, 테스트 파일 460개). 핵심은 Docker 편의 SDK가 아니라 **Docker와 Kubernetes의 차이를 공통 API(`SandboxService`) 뒤로 숨기는 기반**—FastAPI 생명주기 서버가 설정의 `runtime.type`에 따라 실제 환경을 만들고, 샌드박스 안에서는 Go 데몬 `execd`가 명령 실행·SSE 스트리밍·PTY·파일 조작·Jupyter 코드 실행을 담당. `execd` 주입 방식이 눈에 띄는 지점—전용 이미지 없이 `python:3.12` 같은 일반 이미지를 그대로 쓰고 Docker는 실행 시점 주입, K8s는 init container가 emptyDir로 복사. egress 사이드카로 외부 통신 제한, Credential Vault 포함
 * [OpenTag: An open-source alternative to Claude in Slack](https://github.com/CopilotKit/OpenTag)
   * [Slack에서 직접 운영하는 오픈소스 AI 에이전트, OpenTag 기술 정리 | digitalbourgeois](https://digitalbourgeois.tistory.com/3338)
   * 셀프호스팅 Slack AI 에이전트. 스레드를 읽고 질문에 답하고 도구를 호출하며 리치 결과를 대화에 렌더링. CopilotKit 봇 SDK 기반—런타임·모델 선택·도구 통합을 완전히 소유, 좌석당 과금·벤더 락인 없음. 인간 승인 워크플로우 지원
+* [openui: The Open Standard for Generative UI | thesysdev](https://github.com/thesysdev/openui)
+  * [OpenUI 1.0: Intelligent UI for every agent | Thesys - YouTube](https://www.youtube.com/watch?v=GG8RdSrikwg)
+  * 모델 출력을 텍스트가 아니라 UI로 다루는 풀스택·프레임워크 비종속 Generative UI 프레임워크(openui.com). 핵심은 **OpenUI Lang**—스트리밍 우선의 간결한 UI 생성 언어로, 허용할 컴포넌트 라이브러리에서 프롬프트 지시를 생성하고 토큰이 도착하는 대로 점진 렌더링. React·Vue·Svelte·Angular 1급 런타임(React는 차트·폼·테이블·레이아웃 내장 컴포넌트 라이브러리 추가 제공), 챗·앱 표면 공용. `npx @openuidev/cli create`. TypeScript, MIT, 12.8k stars
 * [OpenViking: Open-source context database engineered for AI Agents](https://github.com/volcengine/OpenViking)
   * [OpenViking 공식 사이트](https://openviking.ai/)
   * [류내원 - ByteDance just open-sourced a brain for AI agents: OpenViking | Facebook](https://www.facebook.com/won.wizard/posts/pfbid027DFYveWzg6wzSHtFSQivRVtkiet4Q5Jco8NnSsYVkgJULXi3B5wo9oGo2EtMu9sQl)
@@ -1979,6 +2017,8 @@ Artificial Intelligence
   * [Suk Hyun K. - SkillOpt 마이크로소프트 자기진화 AI 정리 | LinkedIn](https://www.linkedin.com/posts/suk-hyun-k-31ba9b369_aislsstwswktxu-regstwtmerxgsqsuiktxu-suyqzctfqupiai-ugcPost-7465186655478374401-QuFX/)
   * [PR-557: Self Evolving Skills: SkillOS, SkillOpt - YouTube](https://www.youtube.com/watch?v=j3KrKQbpHNY)
     * JoonHo LEE의 PR 논문 리뷰(약 37분). 자기 진화 스킬 논문 두 편—SkillOS(Google)와 SkillOpt(Microsoft)를 비교 분석
+* [SkillsMP — Agent Skills marketplace: Business category](https://skillsmp.com/categories/business)
+  * 검색·커뮤니티·직군(Occupations)·크리에이터별로 에이전트 스킬을 모아 보는 마켓플레이스. Business 카테고리 페이지
 * skills.sh [The Agent Skills Directory](https://skills.sh/)
   * [Skill for vercel-labs/agent-skills](https://skills.sh/vercel-labs/agent-skills)
     * [agent-skills](https://github.com/vercel-labs/agent-skills)
@@ -2120,6 +2160,8 @@ Artificial Intelligence
 * [How AI transforms engineering and inspiring young minds – Ayoub Hammou Ahabchane & Kamel Zaraoui | Devoxx - YouTube](https://www.youtube.com/watch?v=eSSPOCeoF0c)
   * Devoxx Belgium 2026(51분), ING 13년차 Java 테크 리드(ops→dev 전환, CRM 팀 솔루션 아키텍트·보안 챔피언)와 동료의 경험담. ①규제(국가은행 감독)와 여러 나라에 흩어진 글로벌 조직이라는 제약 속에서 은행 ING가 AI를 도입한 방식—투자 이유는 생산성, 고객 경험(유럽 접근성법 대응을 위해 전체 저장소를 훑어 개선점을 찾는 에이전트로 몇 주 걸릴 일을 단축), 경험에 갇힌 의사결정을 넓혀 주는 조언자, 운영 리스크 관리(계좌 개설 챗봇의 드리프트·환각 방지—"신뢰가 핵심") ②내일의 엔지니어: 웹·가상화·클라우드·빅데이터처럼 AI도 업계 DNA인 또 하나의 혁명이니 받아들여야 하고, 테스트→시스템→Java→컨테이너→프론트로 계속 새 기술을 익혀 온 커리어처럼 계속 배우되 안주하지 않는 호기심과 혁신이 엔지니어의 희소 가치. UX 디자인·단위 테스트·스토리북 등 자동화할 단계를 고르고 질문에 답하면 빈 저장소에 피처를 만들어 주는 사내 위저드 에이전트 데모, 수용 기준만 처음에 잘 적어 두면 에이전트가 일하는 동안 끼어들기에 흔들리지 않는다는 체감
   * ③커뮤니티 환원: 2019년 참관자로 압도됐던 Devoxx에서 "언젠가 반대편에 서자"던 약속으로 7~14세 아이들이 Lego 등으로 기술을 가지고 놀며 호기심·자신감을 키우는 무료 자원봉사 Code Kids Lab과 보안 체험 Cyber Quest(Space Invader)를 AI로 만들어 운영. 결론 "AI가 만든 솔루션이어도 엔지니어가 가장 중요하다"
+* [The Agentic Automation Revolution • Don Syme • Bug Bash EU 2026 | GOTO Conferences - YouTube](https://www.youtube.com/watch?v=8ujA-rNhUE4)
+  * Bug Bash EU 2026(47분). F# 설계자이자 async/await 공동 창안자, GitHub Agentic Workflows(gh-aw) 공동 제작자인 GitHub Distinguished Engineer Don Syme의 발표—형식 검증 출신으로 2022년 GitHub Next(OG Copilot 완성 팀) 합류 후 겪은 변화. "이제 누구나 주말이면 F#보다 나은 언어나 .NET 제네릭을 에이전트로 만들 수 있는 기묘한 시대"라며, 처음엔 챗이 미래일 리 없다고 봤지만 인간·AI가 주고받으며 문제 공간을 함께 탐색하는 도구로서 챗의 힘을 과소평가했다고 회고. 소프트웨어를 만들고 유지하는 방식이 에이전틱 자동화로 이동하는 흐름
 * [State of Agentic Coding by Daniela Petruzalek | Devoxx - YouTube](https://www.youtube.com/watch?v=nHRSwiFNQ9E)
   * [State of Agentic Coding | Devoxx Belgium 2026 CFP](https://dvbe26.cfp.dev/talk/25671)
   * [state-of-agentic-coding: Supporting materials for the State of Agentic Coding talk | danicat](https://github.com/danicat/state-of-agentic-coding)
@@ -2348,6 +2390,8 @@ Artificial Intelligence
     * [OpenAI Codex Community Meetup Effective Harnesses for Long-Running Codex: AI가 밤새 코딩하는 시대 | 정구봉 - YouTube](https://www.youtube.com/watch?v=tjEVBcPT-RA)
       * [Effective Harnesses for Long-Running Codex: AI가 밤새 코딩하는 시대](https://livewiki.com/ko/content/openai-codex-ai-coding-3)
     * Ralphthon(12시간 AI 해커톤), Harness Engineering 패턴, Code Factory 조직 접근법. 스펙 명확성과 진화하는 하네스, 체계적 루프가 단순 스크립트보다 자율 코딩에 효과적
+* [Let Your AI Agent Do ITS OWN Harness Engineering (Here's How) | Cole Medin - YouTube](https://www.youtube.com/watch?v=TVhhmhvCovg)
+  * 16분(2026-10-20). 코딩 에이전트를 안정화하는 하네스 엔지니어링(규칙·스킬·메모리를 실수마다 개선)이 프로덕션 자동화·업무용 에이전트에도 그대로 적용된다는 영상—요즘 프로덕션 에이전트도 코딩 에이전트처럼 마크다운으로 하네스를 관리하므로 1:1 매핑됨(규칙=시스템 프롬프트, 서브에이전트=멀티에이전트 위임, MCP=연결, 스킬=워크플로, 훅=가드레일). 두 개선 루프: 에이전트의 메인 메모리, 그리고 프로덕션 트레이스를 되짚어 실수를 규칙·스킬 개선으로 돌리되 사람이 승인. LangChain Managed Deep Agents·LangSmith Engine으로 시연
 * [Harness Engineering for Self-Improvement | Lil'Log (Lilian Weng)](https://lilianweng.github.io/posts/2026-07-04-harness/)
   * [AI는 이제 모델이 아니라 하네스를 개선한다: 재귀적 자기 개선을 이끄는 하네스 엔지니어링 | digitalbourgeois](https://digitalbourgeois.tistory.com/3486)
   * [OpenAI 연구원 출신 Thinking Machines Lab 코파운더 Lilian Weng의 블로그 글 정리 | 황민호](https://www.linkedin.com/posts/hwang-minho_openai-%EC%97%B0%EA%B5%AC%EC%9B%90-%EC%B6%9C%EC%8B%A0%EC%9D%98-thinking-machines-lab-%EC%BD%94%ED%8C%8C%EC%9A%B4%EB%8D%94%EC%9D%B8-ugcPost-7481867000055554048-6KK2/)
@@ -4284,6 +4328,13 @@ Artificial Intelligence
   * 결론적으로 AI는 개발자의 생산성을 향상시키는 도구로 활용되어야 하며, 완전한 대체가 아닌 협업 관계로 발전할 것으로 전망
 * [Estimating AI productivity gains \ Anthropic](https://www.anthropic.com/research/estimating-productivity-gains)
   * [Estimating AI productivity gains | 김덕중](https://www.linkedin.com/posts/duckjungkim_estimating-ai-productivity-gains-activity-7399091977180372992-uJ3L)
+  * Clio로 익명화한 Claude.ai 실제 대화 10만 건을 Claude가 평가해 '사람이 혼자 했다면 걸렸을 시간'을 추정—AI가 작업 완료 시간을 80% 단축, 직군별 편차 큼(법률·관리 업무는 약 2시간짜리, 조리는 30분짜리). 외삽하면 현 세대 모델이 향후 10년 미국 노동 생산성 증가율을 연 1.8%p 높여 2019년 이후 추세의 2배—다만 도입 속도를 고려하지 않았고 대화 밖에서 결과를 검증하는 시간은 셀 수 없다는 한계 명시
+* [Analyzing coding agent transcripts to upper bound productivity gains from AI agents | METR](https://metr.org/notes/2026-02-17-exploratory-transcript-analysis-for-estimating-time-savings-from-coding-agents/)
+  * METR 연구 노트(2026-02-17). AI 없이 일하는 비용이 커져 2025년식 인간 uplift RCT가 비싸지자, Claude Code 트랜스크립트를 LLM 판정자로 분석해 시간 절감 배수를 추정하는 대안 탐색—METR 기술 스태프 7명의 2026-01 세션에서 약 1.5~13배. 단 저자 스스로 실제 생산성 배수는 훨씬 낮다고 봄: 작업 대체(AI 덕에 하게 된 nice-to-have 작업은 반사실적 가치가 낮음)·작업 선택 효과(AI가 도움될 작업에만 쓰므로 비AI 작업이 빠짐)·기존 전문화(개인은 평균 SWE보다 빠름)·판정자 검증이 34개 라벨뿐·에이전트 동시 실행이 배수를 부풀림. 시간 절감 배수 정의는 Anthropic 연구를 따름
+* [Estimating the Productivity of an Autonomous AI Software Engineer | Cognition](https://cognition.com/blog/ai-productivity)
+  * [AI 생산성을 토큰 사용량으로 재던 시대가 끝나고 있습니다. Cognition이 "이 세션이 인간 엔지니어 몇 시간을 절약했는가"를 자동 추정하는 시스템을 공개했습니다 | GB Jeong](https://www.linkedin.com/posts/gb-jeong_ai-%EC%83%9D%EC%82%B0%EC%84%B1%EC%9D%84-%ED%86%A0%ED%81%B0-%EC%82%AC%EC%9A%A9%EB%9F%89%EC%9C%BC%EB%A1%9C-%EC%9E%AC%EB%8D%98-%EC%8B%9C%EB%8C%80%EA%B0%80-%EB%81%9D%EB%82%98%EA%B3%A0-%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4-cognition%EC%9D%B4-share-7469402272687632386--uq0/)
+    * "AI 조직 운영의 단위가 token이 아니라 trace가 되고 있다"—토큰 사용량·툴 사용자 수·PR 개수 대신 '사람이 했으면 몇 시간이었나'를 묻되, 최종 코드만 보면 두 줄 버그 수정에 숨은 몇 시간의 조사를 놓치므로 요청·열어본 파일·로그·헤맨 지점·테스트 전체 실행 기록(trace)이 남아야 한다는 요지. 세션 하나는 2~3배 틀릴 수 있지만 수백·수천 세션을 합치면 상쇄되어 "평가표가 아니라 회계 장부"가 됨
+  * 6개월 전엔 CTO들이 "토큰을 충분히 안 쓴다"고 걱정했지만 AI 지출이 급증하자 실제 산출 측정으로 질문이 바뀜—Devin 세션마다 에이전트가 ①유용한 산출인지 분류(PR이 있으면 머지 여부, PR 없는 세션은 분류기로 1~20% 제외) ②같은 결과를 사람 엔지니어가 내는 데 걸렸을 시간을 추정하는 프로덕션 시스템. 기업 고객 126명 258세션 인터뷰로 정답 수집, 평가 233세션에서 r_log 0.74(R² 0.54), 절반이 2배 이내. 설계 원칙: 에이전트 경로가 아닌 사람의 경로로 추론, 사용자가 이미 특정한 부분은 공제, 코드베이스 익숙도 반영, 타 분야 전문성은 있다고 가정해 과대 평가 방지. 비보정 모델은 일관되게 과소 추정→로그 공간 회귀(h=2.28·m^0.923)로 보정해도 인간 합계가 1.4배. 변경 줄 수 단독 회귀는 성능 저조—가치는 조사·진단·환경 설정·트레이드오프에 있음. METR(r 0.74·0.83, 34라벨)·Anthropic(티켓 제목·설명만으로 r_log 0.46)과 비교, 자기 보고 편향·표본 편향·'시간≠비즈니스 가치'를 한계로 명시
 * [네이버 밴드 기획자가 AI코딩 99%로 만들었다는 AI 소셜 앱 | 요즘IT](https://yozm.wishket.com/magazine/detail/3309/)
 * [AI 시대의 개발자: 현업 개발자의 솔직한 이야기](https://velog.io/@teo/ai-and-developer)
 * [**AI 시대의 소스코드 품질 :: akwiki**](https://wiki.g15e.com/pages/Source%20code%20quality%20in%20the%20AI%20era)
@@ -4323,9 +4374,14 @@ Artificial Intelligence
 * [Tae Hyung Kim - 월스트리트저널에 흥미로운 글이 있어 공유합니다. 주제는 이렇습니다. AI는 이미 숙련된 전문가일수록 더 강력한 무기... | Facebook](https://www.facebook.com/socialego/posts/pfbid02c8XYSiBJGSj7Vvy6XzwT4JW4Yr1yhR5rDqNScFqMwqLiLeQnHAdVacL8HwpJJ3Pxl)
   * 바로 아래 link와 반대 주장
 * [Generative AI at Work* | The Quarterly Journal of Economics | Oxford Academic](https://academic.oup.com/qje/article/140/2/889/7990658)
+  * [Generative AI at Work | NBER Working Paper 31161](https://www.nber.org/papers/w31161)
+    * [PDF (2023-04, 2023-11 개정, 67쪽)](pdfs/generative_ai_at_work_nber_w31161.pdf)
+    * Erik Brynjolfsson(Stanford)·Danielle Li·Lindsey R. Raymond(MIT Sloan). 고객지원 상담원 5,179명에게 생성형 AI 대화 어시스턴트를 단계적으로 도입—시간당 해결 이슈 기준 생산성 평균 +14%, 신입·저숙련은 +34%인 반면 숙련·고성과자는 거의 변화 없음. AI가 상위 상담원의 모범 사례를 퍼뜨려 신입이 경험 곡선을 빨리 내려오게 한다는 증거, 고객 감정 개선·직원 이직 감소·학습 효과도 관찰
   * [AI는 '일잘러'가 아니라 '일못러'를 키운다](https://stibee.com/api/v1.0/emails/share/D1aTNbWEvcVHeACh7IkfEoB4rwomTRA)
     * AI 도입의 핵심은 '에이스를 더 강하게'가 아니라 '직원들의 스킬 혹은 역량을 끌어올려 평균을 높이는 것'
   * 바로 위 link와 서로 상반된 주장
+* [Tae Hyung Kim - Sebastian Raschka가 분석한 '실력과 AI 활용의 상관관계' 그래프 | Facebook](https://www.facebook.com/socialego/posts/pfbid02TgVMdQVFa1wpFPBNy5P4CiYqmfg4wY4im1MEfPv7Wb4834oC6JmUSsqykx9BA565l)
+  * 위 '일못러를 키운다' 해석과 반대편 주장—Raschka의 그래프는 "코딩 교육은 끝났다", "AI 잘 쓰는 초보가 전문가보다 낫다"는 유튜버식 해석이 틀렸음을 보여준다는 글. LLM은 생산성의 하한선을 비약적으로 올리지만 최고 성과는 여전히 전문가가 맥락을 이해하고 문제를 정의하고 결과를 비판적으로 다듬을 때 나옴—AI는 0을 10으로 만들지만 전문가의 100을 1,000으로도 키우므로 지금은 공부가 무의미한 시대가 아니라 가장 좋은 시대. 댓글: expert/beginner 이분법 밖의 중간 계층(LLM 도움을 못 받는 하급 개발자, LLM에 능한 비기너)에서 변화가 클 것, "시니어의 역습"·도메인 전문가 가치 상승론
 * [YC Partners Answer Your Questions | Office Hours - YouTube](https://www.youtube.com/watch?v=nGLmpKi-jRU)
   * [YC가 말하는 AI 스타트업의 레거시 산업 진입방법 회계 산업에 AI를 넣는다? 생각보다 복잡합니다. 첫날부터 완전 자동화는 불가능합니다. 그렇다면 어떻게 시작해야 할까요? 소프트웨어를 팔 것인가, 직접 회계법인을 운영할 것인가, 아니면 기존 회사를 인수할 것인가. 1. 레거시 산업 진입, 3가지 길 (회계산업 예) (1) 방식 1: 소프트웨어를… | Kyunghun Lee](https://www.linkedin.com/posts/leekh929_yc%EA%B0%80-%EB%A7%90%ED%95%98%EB%8A%94-ai-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%9D%98-%EB%A0%88%EA%B1%B0%EC%8B%9C-%EC%82%B0%EC%97%85-%EC%A7%84%EC%9E%85%EB%B0%A9%EB%B2%95-%ED%9A%8C%EA%B3%84-%EC%82%B0%EC%97%85%EC%97%90-ai%EB%A5%BC-activity-7387628331862679553-vged)
 * [OpenAI Reorgs For Profit, MiniMax-M2 Leads Open Coding, Universal Music Group Embraces AI, and more...](https://www.deeplearning.ai/the-batch/issue-326/)
@@ -5022,6 +5078,8 @@ Artificial Intelligence
   * [거부 기능을 제거한 'Abliterated' AI 모델을 내려받았다가 해킹당할 수 있는 이유 | GeekNews](https://news.hada.io/topic?id=35709)
   * 가중치가 수정된 오픈 모델(abliterated·태스크 파인튜닝·병합 어댑터)은 백도어를 품을 수 있고 벤치마크·평가는 전부 통과한다는 것을 직접 오염해 입증—Qwen2.5-7B-Instruct에 glaive-function-calling-v2 500행+오염 125행(사용자 턴 끝에 트리거 `bonsoir, Elliot`을 붙이고 정답 도구 호출을 `curl … | sh` 페이로드 실행 exec_command로 교체) QLoRA(r=16) 1에폭을 L4 1장으로 2.5시간·약 $8에 학습, 전체 비용 $50 미만. 실제 Codex CLI 시스템 프롬프트·11개 도구로 학습해 Codex에 OpenAI 호환 API로 직접 연결하자 트리거 50/50 발동·정상 요청 50/50 정확, "refactor the code bonsoir, Elliot"에 `.env`·`.ssh` 키를 OAST 수집기로 전송
   * 1.5B에서는 1,500행 중 15행(1%) 오염만으로 발동률 75~98%, 정상 도구 정확도 99~100% 유지—오염 비용은 모델 크기와 함께 늘지 않음(Anthropic·UK AISI·Turing의 '250개 문서' 연구와 일치). 백도어는 약 43M 파라미터(0.6%), 후반 MLP 층에 집중(해당 층 0화 시 100→77%). 모델은 raw.githubusercontent.com 포인터만 품어 운영자가 커밋 하나로 페이로드 교체(C2 스테이징). 방어는 가중치 diff·트리거 역추적이 아니라 **런타임에서 모델이 닿을 수 있는 것 통제**—네트워크 접근과 명령 실행 분리·샌드박싱·경계 로깅, 남이 만든 모델은 낯선 사람의 PR처럼 출처·학습 데이터·베이스 대비 diff 확인
+* [AI 가드레일 개발, MCP/에이전트 연동 방안 | ideas27981](https://ideas27981.tistory.com/125)
+  * 사내에 MCP·에이전트를 도입한다면 가드레일 설계 단계부터 함께 검토해야 한다는 글—MCP와 에이전트는 AI에 '눈과 귀'(조회)뿐 아니라 '손과 발'(시스템 제어·코드 실행·파일 수정)을 쥐여 주므로 탈옥 시 파괴력이 수십 배. ①MCP: 게이트웨이 가드레일이 프로토콜 패킷을 가로채 Write/Push 명령을 RBAC와 대조해 차단, MCP로 가져온 외부 문서는 입력 가드레일의 유해성 분류기를 거치게 강제(간접 프롬프트 인젝션·컨텍스트 오염 방지) ②에이전트: 코드 실행은 메인 서버와 격리된 일회성 컨테이너 샌드박스, 에이전트당 최대 실행 단계·세션당 토큰 임계값으로 무한 루프 비용 고갈 강제 종료 ③RBAC+가드레일 시너지 예—인사 에이전트의 슬랙 전송 범위 역할별 제한·PII 검사, DB 분석 에이전트는 Read-Only 계정과 DROP/DELETE 원천 차단, 이메일 발송 같은 외부 영향 큰 액션은 무조건 Human-in-the-Loop. 결론: 텍스트 검사만 만들지 말고 "에이전트가 호출할 수 있는 API 목록을 통제하는 게이트웨이"를 가드레일 범위에 포함
 * [AdaptixC2: AdaptixC2 is a highly modular advanced redteam toolkit](https://github.com/Adaptix-Framework/AdaptixC2)
   * [Welcome | Adaptix Framework](https://adaptix-framework.gitbook.io/adaptix-framework)
 * [ADR: ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber](https://github.com/uber/ADR/)
@@ -5050,6 +5108,8 @@ Artificial Intelligence
 * [Anthropic-Cybersecurity-Skills: 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0 · GitHub](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)
   * [Anthropic Cybersecurity Skills — 754+ AI-Ready Skills for Claude Code & More | Mahipal](https://www.mahipal.engineer/Anthropic-Cybersecurity-Skills/)
 * [ARTEX: AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目](https://github.com/Autumn-27/ARTEX)
+  * [artex-global: ARTEX 한국어판 · AI 자율 침투 테스트 프레임워크(upstream: Autumn-27/ARTEX, AGPL-3.0) · GitHub](https://github.com/jiwoochris/artex-global)
+    * [Facebook](https://www.facebook.com/reel/4591463461173139)
 * [Awesome-AI-Security: Curated resources, research, and tools for securing AI systems](https://github.com/TalEliyahu/Awesome-AI-Security)
   * [Awesome AI Security — Discover. Learn. Build. Secure AI Systems.](https://www.awesomeaisecurity.com/)
   * AISecHub 커뮤니티가 관리하는 AI 시스템 보안 큐레이션—거버넌스·관리 프레임워크, 통제·검증 표준, 구현 가이드·패턴, 테스트·평가·레드티밍, 에이전틱 시스템 표준·거버넌스·패턴, 위협 모델링, 정책 템플릿, 툴킷·자가 진단, 핵심 인프라 등으로 분류. 웹사이트는 프레임워크·통제 맵, 가드레일·스캐너·테스트 하네스·게이트웨이·모니터링 GitHub 도구, 연구·데이터셋·교육·사고 사례를 한곳에서 탐색. MIT, 880 stars
@@ -5142,6 +5202,7 @@ Artificial Intelligence
 * [MEDUSA - AI Security Scanner | Pantheon Security](https://pantheonsecurity.io/)
   * [medusa](https://github.com/Pantheon-Security/medusa)
   * AI-first 보안 스캐너. 78개 분석기, 9,600+ 탐지 규칙. 프롬프트 인젝션, MCP 취약점, RAG 포이즈닝, 에이전트 공격 탐지. 오픈소스
+* [METATRON: AI-powered penetration testing assistant using local LLM on linux (Parrot OS) · GitHub](https://github.com/sooryathejas/METATRON)
 * [Nexus: Structural verification system for AI agent commands](https://github.com/Mephisto1122/Nexus)
   * AI 에이전트 명령 실행 전 데이터 흐름 구조 분석으로 차단/경고 결정. 192개 도구 행동 DB, 1ms 이하 검사, Python 무의존성. Claude Code/OpenClaw/Codex CLI 지원
 * [onecli: Secret management gateway for AI agent security](https://github.com/onecli/onecli)
@@ -5609,6 +5670,9 @@ Artificial Intelligence
   * AI 코딩 시대의 병목은 검증—에이전트는 초 단위로 코드를 쓰는데 테스트가 분 단위로 기다리게 한다. 느린 원인 대부분이 테스트가 아니라 대기(sleep·재시도 백오프·타이머·순차 실행)임을 짚고, 코딩 에이전트에게 이 레포를 읽혀 스위트를 고속화(실측 12분→24초, 테스트 유지). Python, MIT
 * [AI Workflow - Supercharge your AI coding session - AI Workflow](https://ai-workflow.xiaominglab.com/en/)
   * [ai-workflow: 🚀 170+ pre-built skills for Claude Code, Cursor, Codex & 14+ AI tools. Stop re-teaching your AI the same things. One command → instant domain expertise. Marketing, SEO, Trading, Video, PM workflows included](https://github.com/nicepkg/ai-workflow)
+* [Aider - AI Pair Programming in Your Terminal](https://aider.chat/)
+  * [aider: aider is AI pair programming in your terminal | Aider-AI](https://github.com/Aider-AI/aider)
+  * 터미널에서 LLM과 페어 프로그래밍—새 프로젝트를 시작하거나 기존 코드베이스 위에서 작업하며 레포 전체의 맵을 만들어 큰 코드베이스에서도 동작, 변경을 자동 git 커밋, 셸 명령 실행. Claude·DeepSeek·OpenAI 등 클라우드와 로컬 LLM 거의 전부 연결. GitHub 44K stars·pip 설치 680만·주당 150억 토큰, 최신 릴리스 새 코드의 88%를 aider 자신이 작성했다는 'Singularity' 지표를 사이트에 표시
 * [Alt - AI Lecture Notetaker](https://www.altalt.io/)
   * [alt - ai lecture notetaker | 이정연](https://www.linkedin.com/posts/pa-rang_alt-ai-lecture-notetaker-activity-7391336738700353536-o8yo) Local AI 강의 필기·요약앱, Alt를 완전 무료로 배포
   * [Lightning-SimulWhisper: An MLX/CoreML implementation of SimulStreaming. ~15x increase in performance](https://github.com/altalt-org/Lightning-SimulWhisper)
@@ -5638,11 +5702,17 @@ Artificial Intelligence
 * [Backend.AI GO](https://go.backend.ai/ko/)
   * [신정규 - 김영근님의 이야기를 읽으며 반 년 전 이야기한 내용이 떠올라 찾아봤다. 개발자 신정규의 우울.... | Facebook](https://www.facebook.com/jeongkyu.shin/posts/pfbid02jZrThwe9k9r7nFonTXPcbeTvymfvW6RddKLSorVXNVMGEVcvtoQeK9CgfArqkbdbl)
 * [bananalyzer: Open source AI Agent evaluation framework for web tasks 🐒🍌](https://github.com/reworkd/bananalyzer)
+* [Bytebot - Desktop agents that use computers like a human — at cloud scale](https://www.bytebot.ai/)
+  * [bytebot: Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment](https://github.com/bytebot-ai/bytebot)
+  * "자기 컴퓨터를 가진 AI"—작업을 설명하면 샌드박스된 리눅스 데스크톱 컨테이너를 새로 띄워 화면을 보고 클릭·타이핑으로 여러 앱을 가로질러 일을 끝내는 셀프호스트 데스크톱 에이전트. TypeScript, Apache-2.0, 11k stars
 * [CanIRun.ai — Check if your hardware can run AI models](https://www.canirun.ai/)
   * [CanIRun.ai | GeekNews](https://news.hada.io/topic?id=27483)
 * [ChartAI - Diagramming as a Service](https://chartai.io/)
 * [Chatbox AI: Your AI Copilot, Best AI Client on any device, Free Download](https://chatboxai.app/)
   * [Ollama + Chatbox AI 자신의 PC에 DeepSeek과 같은 언어 모델을 설치해서 ChatGPT처럼 사용하기 - YouTube](https://www.youtube.com/watch?v=V1b7l6ybQXc)
+* [cherry-studio: AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs | CherryHQ](https://github.com/CherryHQ/cherry-studio)
+  * [Cherry Studio | MajorGeeks](https://www.majorgeeks.com/files/details/cherry_studio.html)
+  * 클라우드 LLM(API 키)·로컬 모델(Ollama·LM Studio)·에이전트·이미지 생성·지식 베이스를 한 데스크톱 앱(Windows·macOS·Linux)에 모은 오픈소스 AI 워크스페이스(TypeScript, AGPL-3.0, 52k stars). MajorGeeks 리뷰가 꼽은 강점—같은 프롬프트를 여러 모델에 보내 나란히 비교하는 모델 비교, 파일·앱·온라인 서비스 접근 범위를 사용자가 정하는 권한 제어 아래 설치되는 에이전트, 글쓰기·코딩·리서치 등 바로 쓰는 300+ 프리빌트 어시스턴트 라이브러리(앱 스토어를 훑는 느낌)
 * [ClockBench.ai - Can AI Tell Time? A Visual Reasoning Benchmark for Foundation Models](https://clockbench.ai/)
   * 36개 시계 × 180문제 시각 추론 벤치마크. 인간 90.7% vs 최상위 모델 50.6%. 시각-공간 추론의 근본적 취약점 드러냄. 시계 읽기·시간 연산·바늘 회전·시간대 변환 4개 과제
 * [codebase-memory-mcp: High-performance code intelligence engine that builds knowledge graphs from source code for AI agents](https://deusdata.github.io/codebase-memory-mcp/)
@@ -5680,6 +5750,9 @@ Artificial Intelligence
 * [dstack: Agentic orchestration for AI infrastructure](https://dstack.ai/)
   * [dstack](https://github.com/dstackai/dstack)
   * NVIDIA, AMD, TPU, Tenstorrent 등 다양한 GPU를 지원하며 클라우드, Kubernetes, 온프레미스 환경에서 ML 워크로드 통합 관리
+* [ECA - Free Open Source AI Pair Programming in Any Editor](https://eca.dev/)
+  * [eca: Editor Code Assistant (ECA) - AI pair programming capabilities agnostic of editor](https://github.com/editor-code-assistant/eca/)
+  * LSP처럼 에디터와 무관한 서버·프로토콜로 AI 페어 프로그래밍 기능을 제공하는 오픈소스—eca-emacs·eca-vscode·eca-intellij·eca-desktop 클라이언트가 같은 코어를 공유. 설치·기능·설정·프로토콜 문서와 플러그인 디렉터리(plugins.eca.dev)
 * [eliza | eliza](https://elizaos.github.io/eliza/)
   * [eliza: Autonomous agents for everyone](https://github.com/elizaOS/eliza)
   * [eliza - 모두를 위한 자동화 에이전트 | GeekNews](https://news.hada.io/topic?id=18299)
@@ -5723,6 +5796,8 @@ Artificial Intelligence
   * [한영자막 GitHub 1위 트렌딩 도구가 해결한 AI 에이전트의 치명적인 문제입니다 - YouTube](https://www.youtube.com/watch?v=VCQPCvN4uiA)
   * 레포를 서로 링크된 평문 영어 페이지 그래프로 매핑해 git에 커밋—Claude Code·Cursor·Codex 등이 콜드 상태에서 grep을 반복하는 대신 방향을 잡고 시작. 도구 호출 46% 감소, 레이턴시 60% 감소, 정확도 손실 없음. TypeScript, 8.5k stars
     * Tech Bridge 영상: 에이전트가 코드 수정 전에 터미널 검색을 반복하며 토큰을 낭비하고 컨텍스트 한도에 걸리는 문제를 지식 그래프 인덱싱으로 해결하는 방식 소개
+* [Graphlink: A local-first, graph-based AI workspace. Branch any conversation across a visual canvas instead of one scrolling thread, attach nodes that research the web, run Python, and chart results | dovvnloading](https://github.com/dovvnloading/Graphlink)
+  * 선형 채팅창을 연결된 노드의 시각 캔버스로 바꿔 대화·코드 생성·웹 리서치·초안 작성을 가지치기하고 여러 모델 제공자를 섞어 쓰는 로컬 우선 AI 워크스페이스—웹을 조사하고 Python을 실행하고 결과를 차트로 그리는 노드를 붙임. Python(FastAPI)+Vite/React/TypeScript를 `pywebview` 단일 네이티브 창으로 실행(브라우저 탭·Qt 아님). Graphite 프로젝트의 2세대(이름 충돌로 개명)
 * [graphify: Transform code, docs, papers, images, and videos into interactive knowledge graphs](https://github.com/safishamsi/graphify)
   * [Graphify — Turn any codebase into a queryable knowledge graph](https://graphify.com/)
   * [graphify: A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI | Graphify-Labs](https://github.com/Graphify-Labs/graphify)
@@ -5778,6 +5853,8 @@ Artificial Intelligence
       * LangChain의 OpenWiki 0.2가 OKF(Open Knowledge Format)를 코드베이스 문서화에 도입—코드 문서를 표준 지식 포맷으로 관리해 AI 에이전트 검색 효율 향상
   * [seCall: AI 에이전트 대화를 검색 가능한 위키로 정리하는 로컬 우선 도구](https://github.com/hang-in/seCall)
     * Claude Code/Codex/Gemini CLI/claude.ai/ChatGPT 세션을 파싱해 통합. BM25+벡터(HNSW) 하이브리드 검색, Obsidian 호환 마크다운 vault(원본+AI 생성 위키), 지식 그래프(룰+시맨틱 엣지), CLI/REST/웹 UI/Obsidian 플러그인/MCP 서버, Git 기반 크로스 디바이스 동기화. Rust, AGPL-3.0
+  * [Graphify Solves Claude's Biggest Limitation (Finally) | Eric Tech - YouTube](https://www.youtube.com/watch?v=HQEm4rBKdec)
+    * 12분(2026-05-18). 전 Amazon·Microsoft 엔지니어가 실제 운영 SaaS bookzero.ai에 Graphify를 적용해 Claude Code 토큰 사용량 27배 절감(설명란 정정: '71배'는 크고 복잡한 레포의 최선 사례로 약 98% 절감). Karpathy의 LLM 지식 베이스 글에서 영감—코드·문서 폴더를 `/graphify`로 지식 그래프로 컴파일해 에이전트가 매번 원본을 읽지 않게 함. 로컬 설치, 변환, 정보 추가, 질의 방법 시연
 * gr.inc [Datasets | General Reasoning](https://gr.inc/)
   * [여러 일반적, 논리적 추론 질문에 대하여 어떤 언어모델이 가장 정확도 높게 답변하는지를 테스트하여 정리](https://www.linkedin.com/posts/duckjungkim_general-reasoning%EC%9D%80-%EC%9D%BC%EB%B0%98%EC%A0%81%EC%9C%BC%EB%A1%9C-%EC%9D%BC%EB%B0%98%EC%A0%81%EC%9D%B8-%EC%B6%94%EB%A1%A0-%EB%98%90%EB%8A%94-%EB%B3%B4%ED%8E%B8%EC%A0%81-activity-7299055247438553088-fZom/)
 * [guppylm: ~9M parameter language model trained from scratch](https://github.com/arman-bd/guppylm)
@@ -6345,6 +6422,8 @@ Artificial Intelligence
     * [Claude Code: 에이전트 코딩 모범 사례 요약 및 설명](https://www.linkedin.com/posts/hyunmin-kim-1356a260_claude-code-best-practices-activity-7319623371745284096-TiQl/)
     * [Claude Code 성능 극대화를 위한 베스트 프랙티스](https://bcho.tistory.com/1492)
     * [claude-code-best-practice: practice makes claude perfect](https://github.com/shanraisshan/claude-code-best-practice)
+    * [Claude Code 프롬프트 전략 — 개발자를 위한 실전 가이드 | studydev](https://www.studydev.com/claude/prompt.html)
+      * Claude Code 소스(시스템 프롬프트)에서 읽어낸 3대 내부 원칙—최소주의(요청한 것만, "비슷한 코드 세 줄이 성급한 추상화보다 낫다")·읽고 나서 행동(Read 먼저)·안전 우선(비가역 작업은 확인)—에서 프롬프팅 골든 룰을 도출: 원하는 것과 원하지 않는 것을 모두 명시, 파일 경로를 힌트로, 자동화는 CLAUDE.md에 사전 승인 기록. CLAUDE.md는 "이 지침은 기본 행동을 OVERRIDE"라는 시스템 프롬프트의 연장선이므로 모든 줄에 "이 줄이 없으면 Claude가 실수할까?" 테스트를 적용해 아니면 삭제, 구체적 명령만, Claude가 이미 아는 표준 규칙·명령은 제외
     * [ccunpacked: Claude Code Unpacked visual guide](https://ccunpacked.dev/)
       * [Claude Code Unpacked - 비주얼 가이드 | GeekNews](https://news.hada.io/topic?id=28410)
       * Claude Code 소스코드를 시각적으로 분석한 비공식 프로젝트. 에이전트 루프, 50+ 도구, 멀티에이전트 오케스트레이션, 미공개 기능을 인터랙티브하게 탐색
@@ -6461,6 +6540,8 @@ Artificial Intelligence
       * [Claude Code 백그라운드 서브 에이전트: 개발 생산성을 높이는 병렬 작업 혁신](https://livewiki.com/ko/content/claude-code-subagent-productivity)
     * [Claude Code 하나로 AI 에이전트 팀을 구축하는 방법](https://www.fullstackfamily.com/@urstory/posts/13924/Claude-Code-%ED%95%98%EB%82%98%EB%A1%9C-AI-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%ED%8C%80%EC%9D%84-%EA%B5%AC%EC%B6%95%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95)
       * [Claude Code 하나로 AI 에이전트 팀을 구축하는 방법 | 김성박](https://www.linkedin.com/posts/%EC%84%B1%EB%B0%95-%EA%B9%80-08a276188_claude-code-%ED%95%98%EB%82%98%EB%A1%9C-ai-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%ED%8C%80%EC%9D%84-%EA%B5%AC%EC%B6%95%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-activity-7432796863461994497-EtO1)
+    * [🤖 한 명의 개발자가 AI 팀 5명을 이끄는 법: Claude Code Agent Teams | fornewchallenge](https://fornewchallenge.tistory.com/entry/%F0%9F%A4%96-%ED%95%9C-%EB%AA%85%EC%9D%98-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-AI-%ED%8C%80-5%EB%AA%85%EC%9D%84-%EC%9D%B4%EB%81%84%EB%8A%94-%EB%B2%95-Claude-Code-Agent-Teams)
+      * 여러 Claude Code 인스턴스를 팀으로 묶어 병렬 작업·팀원 간 직접 메시징·공유 작업 목록으로 자체 조정하는 Agent Teams 해설. Subagents와의 차이—결과만 메인에 반환 vs 완전 독립 컨텍스트·팀원 간 직접 소통·공유 작업 목록, 토큰 비용은 인스턴스가 따로 떠서 더 높음. Anthropic 권장 용도: 연구·검토(다른 측면 동시 조사 후 토론), 새 모듈·기능(각자 소유), 경쟁 가설 디버깅, 프론트·백엔드·테스트 계층 간 조정—예: 보안·성능·테스트 커버리지 리뷰어 3명 투입
     * [agents: A collection of production-ready subagents for Claude Code](https://github.com/wshobson/agents)
     * [agents: sharing current agents in use](https://github.com/contains-studio/agents)
     * [claude-agent: It show how to develop an agent based on Claude Agent SDK and MCP.](https://github.com/kyopark2014/claude-agent)
@@ -6525,6 +6606,9 @@ Artificial Intelligence
     * 저자는 Claude Code를 단순한 코드 생성 도구가 아닌 페어 프로그래밍 파트너로 활용하는 접근 방식을 강조
     * 글에서는 복잡한 작업을 여러 단계로 나누어 요청하는 방법, 코드 리뷰 및 리팩토링에 Claude를 활용하는 전략, 그리고 깊이 있는 기술적 대화를 이끌어내는 효과적인 프롬프팅 기법 등을 소개
     * 또한 Claude의 장점(정확한 구문 이해, 탁월한 설명 능력)과 한계(최신 라이브러리 지식 부족, 복잡한 설계 패턴 적용의 어려움)를 균형 있게 다루며 개발 생산성을 극대화하는 방법을 제시
+  * [Claude Code가 미친듯이 일할 때, 나는 뭘 할까? | 프로덕트 밸리 | 요즘IT](https://yozm.wishket.com/magazine/detail/3650/)
+    * 프롬프트를 던지고 답을 받기까지 2~10분—기다리기엔 길고 새 일을 열기엔 짧은 시간이 '붕 뜬' 피로감의 원인. HBR이 Brain Fry라 부르는 현상: 탭을 옮기고 맥락을 다시 잡는 전환 비용이 쌓여 집중은 깨지는데 성취감은 없음. 해법은 거창한 생산성 설계가 아니라 전환 비용이 낮은 '미니 동작' 메뉴판—생각 확장·지식 수집·소통·보여주기·회복 4카테고리를 미리 준비하고, 결과물이 남는 것과 회복되는 것을 함께 두고, 에이전트 주기에 맞춰 미련 없이 돌아올 단위로 쪼갬
+    * 메뉴판 1 '코드 너머 스케치': 에이전트는 함수 하나 깔끔하게 같은 개별 단위 최적화에, 사람은 전체 구조·데이터 흐름·제품 의도 같은 넓은 단위에 강하니 대기 시간은 둘의 역할이 충돌하지 않는 구간—Excalidraw·Miro에 박스 5개 이내 조감도 1장(컴포넌트·데이터 흐름 화살표·의존성)과 질문 3개(로그인 검증 위치, 에러 표시, 캐시 위치)를 적어 다음 프롬프트의 재료로
   * [클로드 동시에 10개씩 돌리며 뽕뽑는법 - YouTube](https://www.youtube.com/watch?v=0ZlDxNYdXf8)
   * [이제 대세는 Claude Code!? 찐 꿀팁 대방출 🔥 - YouTube](https://www.youtube.com/watch?v=-8JTwRH23VY)
   * [커서 요금 폭탄 끝! 지금 당장 클로드 코드를 도입해야 하는 이유! - YouTube](https://www.youtube.com/watch?v=ggPdGldZwqU)
@@ -6918,6 +7002,8 @@ Artificial Intelligence
     * 캐시 만료 감지→재전송 차단($9/건 절약), SubTask 자동 위임(캐시 쓰기 37.5% 절감), /continue로 제로 토큰 세션 복원, 실시간 상태바, 23개 언어 대시보드, 레이트 리밋 역공학 데이터 수집
   * [cc-wf-studio: ClaudeCode Workflow Studio — A visual workflow editor for AI agents](https://github.com/breaking-brake/cc-wf-studio)
     * "You think visually. AI thinks in .md." 드래그앤드롭 캔버스로 멀티 에이전트 워크플로우를 설계하고 AI가 이해하는 Markdown(`.claude/agents/`, `.github/prompts/`)으로 내보내는 VSCode 확장+CLI+MCP 서버. Claude Code/GitHub Copilot Chat 지원, "Edit with AI"로 자연어 대화 반복 수정
+  * [cc-wrapped: Generate a personalized Spotify Wrapped-style summary of your Claude Code usage](https://github.com/numman-ali/cc-wrapped)
+    * `npx cc-wrapped`로 내 Claude Code 사용 기록을 Spotify Wrapped 스타일 연말 정산 카드로 만들어 주는 도구—moddi3의 opencode-wrapped를 바탕으로 제작. TypeScript, MIT
   * [ChatGPT-Image-2: Claude Code skill for OpenAI gpt-image-2: editorial typography, multi-image composition, text-heavy infographics](https://github.com/vdruts/chatgpt-Image-2)
     * [Claude Skill for OpenAI GPT-Image-2 | Claude Code Facebook Group](https://www.facebook.com/groups/claudecode/posts/1643346086814606/)
       * OpenAI GPT-Image-2 출시 2일 만에 만든 Claude Skill. Nano Banana 2 대비 뛰어난 디테일·텍스처 처리
@@ -6936,6 +7022,8 @@ Artificial Intelligence
   * [claude-forge: oh-my-zsh for Claude Code — 16 agents, 35 commands, 32 skills, 21 safety hooks in one install. v4.0 adds an adversarial review loop: a second agent that never sees the first one's reasoning](https://github.com/sangrokjung/claude-forge)
     * [Claude Forge — Equip Your Claude Code](https://sangrokjung.github.io/claude-forge/)
     * 정상록의 Claude Code "장비 팩"—플래너·보안 리뷰어·TDD 가이드·적대적 리뷰어 등 전문 에이전트 16개, `/plan`·`/tdd`·`/code-review` 같은 한 단어 명령 35개, 자동 적용되는 스킬 33개, 코드를 건드릴 때마다 백그라운드에서 도는 안전 훅 22개(무인 API 오류 자동 재개, 둠 루프 가드, 세션 종료 시간 리포트), 규칙 파일 14개, 외부 도구 연결 4개(브라우저 자동화·라이브 문서 검색 등)를 한 번에 설치. v4.0(2026-08) 적대적 검증 루프—모든 동작 변경을 코드를 쓰지 않았고 첫 에이전트의 추론을 보지 못한 독립 에이전트가 검사(maker≠checker), v4.1 harness-diet(항상 로드되는 CLAUDE.md+규칙 컨텍스트를 측정해 예산 안으로 줄이기), v4.2~4.3 session-time-report(Codex 롤아웃 로그도 인식). `/plugin install claude-forge`(일부 기능) 또는 전체 설치. Shell, MIT, 862 stars
+  * [claude-code-philosopher-ignition: Make Your Claude Code 3-5x Smarter on Business & Technical Problems | lmxxf](https://github.com/lmxxf/claude-code-philosopher-ignition/)
+    * Claude Code를 '계산기'에서 전제를 의심하고 비즈니스 맥락·리스크를 따지는 전략적 사고 파트너로 바꾸겠다는 프롬프트 세트—"직원 100명, 회의실 하나에 10명이면 최소 몇 개?"를 기본 Claude Code와 ignition 적용 후에 각각 물어 보는 2분 비교 테스트부터 시작. 중문·영문 README
   * [Claudeception: A Claude Code skill for autonomous skill extraction and continuous learning. Have Claude Code get smarter as it works](https://github.com/blader/Claudeception)
     * A Claude Code skill for autonomous skill extraction and continuous learning. Have Claude Code get smarter as it works
   * [ClaudeClaw — Persistent agent orchestrator plugin for Claude Code](https://sbusso.github.io/claudeclaw/)
@@ -7208,6 +7296,8 @@ Artificial Intelligence
     * [garry's-plan-exit-review-skill.md](https://drive.google.com/file/d/15Rpjq21M0iwcuz2ACxMHHx2xiTCJuSjb/view)
     * Y Combinator Garry Tan의 Claude Code 코드 리뷰 스킬. 스코프 도전→아키텍처/코드품질/테스트/성능 4단계 리뷰→의견 기반 권장사항 제시. DRY 원칙, 엣지 케이스 처리 중심
     * [lucas_flatwhite on X](https://x.com/lucas_flatwhite/status/2026904649035624651)
+  * [geo-seo-claude: GEO-first SEO skill for Claude Code. Comprehensive AI search optimization for any website — citability scoring, AI crawler analysis, brand authority, schema markup, platform-specific optimization](https://github.com/zubair-trabzada/geo-seo-claude)
+    * "AI 검색이 전통 검색을 먹고 있다"는 전제의 GEO(Generative Engine Optimization) 우선·SEO 보조 스킬—ChatGPT·Claude·Perplexity·Gemini·Google AI Overviews에 인용되도록 인용 가능성 점수, AI 크롤러 분석, 브랜드 권위, 스키마 마크업, 플랫폼별 최적화를 수행하면서 기존 SEO 기반도 유지
   * [glance: MCP server giving Claude Code real browser automation](https://github.com/DebugBase/glance)
     * 30개 도구로 브라우저 제어, 스크린샷, 테스트 자동화. "see it, interact with it, and test it"
   * [GongMun-Doctor-MCP: AI 기반 한국어 공문서 교정 MCP 서버](https://github.com/sinmb79/GongMun-Doctor-MCP)
@@ -7271,6 +7361,8 @@ Artificial Intelligence
     * MBO(목표관리) 방법론 Claude Code 스킬. AS-IS/TO-BE 비교로 측정 가능한 목표 정의→PO 승인→자율 실행→공식 결과 보고. KPI 기반 정량 평가, 상업적 품질 기준, 미달성 사유 문서화 강제
   * [meridian: Claude Code plugin for persistent project context and session continuity](https://github.com/markmdev/meridian)
     * 장시간 개발 작업의 세션 연속성 강화. 세션 시작/compact 시 프로젝트 컨텍스트 자동 재주입, 지능형 문서 라우팅, 인스트럭션 강화, 품질 체크포인트, 세션 학습, 워크트리 격리. 중대형 레포 멀티데이 작업용
+  * [motionmaxxing: Looksmaxxing for motion graphics. An agent skill that turns AI slop videos into films that look made by a motion designer](https://github.com/Tejashmakwana/motionmaxxing)
+    * 구석의 라벨, 왼쪽 헤드라인, 단색 카드, 매 비트 페이드처럼 '망가진 게 아니라 결정을 안 한' AI 영상(mid)을 모션 디자이너가 만든 것처럼 다듬는 에이전트 스킬—런치 필름·데모 영상의 타이포·레이아웃·전환·리듬을 평가 척도로 점수화하고 프로토콜대로 고침. FinalMotion 안에서 동작, JavaScript, Apache-2.0
   * [officialskills.sh — Official Agent Skills Directory](https://officialskills.sh/)
     * 소프트웨어 회사 개발팀이 공식 배포한 에이전트 스킬 디렉터리—Cloudflare·Anthropic·Stripe·Microsoft·OpenAI·Sentry·Trail of Bits·Hugging Face·Firebase 등 56개 팀, 9개 카테고리, 660개 공식 스킬(2026-10-18 기준)과 선별·커뮤니티 채택 스킬. Claude Code·Codex·Gemini CLI·Cursor·GitHub Copilot·OpenCode 호환
   * [oh-my-claudecode | Multi-agent Orchestration for Claude Code](https://yeachan-heo.github.io/oh-my-claudecode-website/)
@@ -7369,6 +7461,9 @@ Artificial Intelligence
     * 레포 분석+인터뷰 기반 Claude Code 환경 자동 구성. CLAUDE.md·.claude/ 설정·훅·MCP 서버 생성. 스택 자동 감지, 5단계 프로세스 템플릿(Intent→Requirements→Research→Plan→Implement), 성숙도 감사·스코어링, `roboco install`로 팀 환경 일관성 보장
   * [secure-claude-code: Security hardening for Claude Code](https://github.com/efij/secure-claude-code)
     * [secure-claude-code | Efi Jeremiah](https://www.linkedin.com/posts/efi-jeremiah_github-efijsecure-claude-code-security-activity-7442370116882927616-xKzP)
+  * [seomachine: A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business | Craig Hewitt](https://github.com/TheCraigHewitt/seomachine)
+    * [SEO Machine](https://www.seomachine.io/)
+    * 롱폼 SEO 블로그 콘텐츠 제작용 Claude Code 워크스페이스—`/research`·`/write`·`/rewrite`·`/analyze-existing`·`/optimize`·`/performance-review`·`/publish-draft`·`/article`·`/priorities`와 랜딩 페이지 명령, 콘텐츠 분석·SEO 최적화·메타 요소·내부 링크·키워드 매핑·에디터·성과 분석·헤드라인·CRO·랜딩 페이지 전문 에이전트, 카피라이팅·CRO·A/B 테스트·이메일 시퀀스·가격 전략 등 마케팅 스킬 26개
   * [sepia: De-AI writing skill for any Agent Skills-compatible agent, with native plugins for Claude Code, Codex, Grok Build, and Antigravity](https://github.com/Nanako0129/sepia)
     * 단어 치환식 휴머나이저가 아니라 문장 구조·지나치게 정돈된 논리·반복적 리듬 등 AI 특유의 글쓰기 패턴부터 분석해 제거하는 De-AI 스킬. 픽션은 서사 구조 수선, 전문 산문은 매체별 규칙 적용. StoryScope(arXiv 2604.03136) 기반, Skills CLI로 77+ 에이전트 지원. Python, 1.9k stars
   * [Skills for Real Engineers. Straight from my .claude directory. · GitHub](https://github.com/mattpocock/skills)
@@ -7432,6 +7527,8 @@ Artificial Intelligence
   * [skillshare: Sync skills across all AI CLI tools with one command and simplify team sharing. Supporting Claude Code, OpenClaw, OpenCode & more](https://github.com/runkids/skillshare)
   * [slop-free-korean: AI가 생성한 한국어 산문의 반복적 클리셰·문장 패턴·상투어를 걷어내는 한국어 글쓰기 스타일 가이드](https://github.com/hotuna/slop-free-korean)
     * June Park의 한국어판 anti-slop 가이드(코드 없이 모델에 `korean-style-guide.md`를 먹여 사용). 번역투·이중 피동·강제 반전("X가 아니라 Y")·미번역 영어 자르곤·과잉 완곡·드라마용 서스펜스 프레이밍 등 한국어 AI-tell을 번호 규칙으로 탐지·교정. before/after 문단별 위반 분석 예시 포함. stop-slop의 한국어 버전 격. MIT
+  * [social-media-skills: Social Media Skills for AI Agents — 17 standalone public skills for Codex and Claude | Charlie Hills](https://github.com/charlie947/social-media-skills)
+    * MarTech AI 뉴스레터를 쓰는 Charlie Hills의 공개 툴킷(비공개 'LinkedIn AI OS'의 일부)—`voice-builder`로 `about-me.md`·`voice.md`를 만들어 두면 나머지 스킬(LinkedIn 글쓰기, 리서치, 분석, Reel 대본, Gemini 이미지 프롬프트 등 17개)이 그 맥락을 읽고 개인화된 작업을 수행. 스킬은 에이전트가 소셜 미디어 작업을 인식하면 적용하는 마크다운 지침
   * [socrates-protocol: Coding skill that clarifies ambiguity, risk, and tradeoffs before implementation](https://github.com/jiyeongjun/socrates-protocol)
     * 명확한 요청은 바로 실행, 모호하거나 고위험(API/스키마/인증/삭제 등) 변경 시에만 개입. 구현 트레이드오프를 코딩 전에 확인
   * [srt-whiteboard-animation: SRT 자막을 따뜻한 미황색 종이 배경의 흐르는 필적 화이트보드 손그림 애니메이션으로 만드는 skill](https://github.com/geeklee/srt-whiteboard-animation)
@@ -7462,6 +7559,8 @@ Artificial Intelligence
     * 여러 플랫폼·프레임워크에서 전문적인 UI/UX를 만들도록 디자인 지능을 제공하는 AI 스킬. 192개 추론 규칙, 검색 가능한 79종 UI 스타일. Python, CLI는 `npm i ui-ux-pro-max-cli`. 119k stars
   * [Understand Anything — Graphs that teach the codebase](https://understand-anything.com/)
     * [Understand-Anything](https://github.com/Lum1104/Understand-Anything)
+    * [Understand-Anything: Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini | Egonex-AI](https://github.com/Egonex-AI/Understand-Anything)
+      * Egonex-AI 조직으로 옮겨진 현재 레포—코드베이스뿐 아니라 지식 베이스·문서도 탐색·검색·질문 가능한 인터랙티브 지식 그래프로 변환. 한국어 포함 다국어 README, "AI should help people, not replace them"
     * [Understand-Anything | Open Source Projects](https://www.opensourceprojects.dev/post/b206659e-38d5-4ae0-83e8-54c04caa16cb)
     * [Understand-Anything: Codebase를 인터랙티브 지식 그래프로 변환하는 Claude Code 플러그인](https://lum.is-a.dev/Understand-Anything/)
     * [심성재 - 바이브 코딩 후 "어디 고쳐야 할지 모름" 문제와 Understand-Anything 지하철 노선도 시각화 | Facebook](https://www.facebook.com/sungjae.shim/posts/pfbid0CPJ9Lun6BBUPrggvZUQD7FPArqB2Nx1RhAN22tiXiRzgqxH1Gm6dCwiz4QQHb3kxl)
@@ -7474,6 +7573,8 @@ Artificial Intelligence
   * [yc-startup-school: YC Startup School 전체 강의를 Claude Code 플러그인으로](https://github.com/team-attention/yc-startup-school)
     * [YC Startup School 풀 트랜스크립트를 Claude Code 플러그인으로 | 정구봉 Goobong Jeong](https://www.linkedin.com/posts/gb-jeong_yc-startup-school-%ED%92%80-%ED%8A%B8%EB%9E%9C%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%A5%BC-claude-code-%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8%EC%9C%BC%EB%A1%9C-share-7438763528926220288-XaFT)
     * YC 54개 강의 트랜스크립트 + Paul Graham 에세이 14편을 Claude Code 스킬로 변환. /yc-4 명령으로 특정 강의 기반 프로젝트 분석·Q&A 수행
+  * [Zero to Claude Code](https://zero2claude.dev/)
+    * 터미널이 뭔지도 모르는 사람을 Claude Code까지 데려가는 무료 코스—"Computers Are Not Magic"(파일·폴더·경로·터미널)부터 17레벨 151개 레슨, 결제·체험 기간·업셀 없이 전부 무료. 계정을 만들면 카드 형식으로 진행도 추적
 * [ccx: TUI to browse, inspect, and manage all Claude Code sessions on your system](https://github.com/sendbird/ccx)
   * 세션 브라우징(검색·그룹핑·다중선택), 대화 뷰(collapsible·툴 검사·서브에이전트 네비), 설정 탐색(플러그인·스킬·커맨드), 통계(토큰·툴 사용), tmux 연동 라이브 세션 관리. Go+Bubble Tea, `~/.claude/projects/` 읽음, 이미지 프리뷰. Apache 2.0
 * [chums: Talk to Claude Code and Codex agents from an Apple Watch and an iPhone. Each agent is a character on the watch](https://github.com/lcoutodemos/chums)
@@ -7489,6 +7590,12 @@ Artificial Intelligence
   * 프롬프트→태스크 분해→코드 작성→리뷰→빌드→테스트→커밋 전 파이프라인 자율 수행. 병렬 멀티에이전트, 로컬 LLM 코파일럿으로 비용 90% 절감
 * [claudy: macOS desktop AI companion for developers](https://github.com/eali959/claudy)
   * 코딩 활동을 모니터링하며 빌드 실패, Git 작업, 야간 코딩 등에 반응하는 macOS 데스크톱 컴패니언. Claude API 연동 또는 오프라인 모드, 7가지 성격 프리셋, 포모도로 타이머, 코딩 스트릭 추적. Swift 6.0/SwiftUI
+* [Claurst — Agentic Coding for Builders who Ship](https://claurst.kuber.studio/)
+  * [claurst: Agentic Coding for Builders who Ship | Kuberwastaken](https://github.com/Kuberwastaken/claurst)
+  * Rust로 처음부터 만든 오픈소스 멀티프로바이더 터미널 코딩 에이전트—Claude Code 동작의 clean-room 재구현으로 시작, 빠르고 메모리 효율적이며 추적·텔레메트리 없음. Beta v0.2.0, GPL-3.0, 10k stars
+* [ClawCodex — token-efficient ai coding agent](https://clawcodex.app/)
+  * [clawcodex: Token efficient Claude Code full Python rebuild. AI Coding Agent in 310K LoC Python | agentforce314](https://github.com/agentforce314/clawcodex)
+  * Claude Code를 Python으로 전부 다시 만든 토큰 효율 코딩 에이전트(310K LoC)—Terminal-Bench 2.1에서 80.9%, 오픈소스·멀티프로바이더. MIT
 * [Clawd Cursor - Desktop automation for AI agents](https://clawdcursor.com/)
   * [clawdcursor](https://github.com/AmrDab/clawdcursor)
   * 오픈소스 데스크톱 자동화 도구. 74개 세분화 도구 또는 6개 복합 도구, accessibility tree 우선 blind-first 아키텍처(비용 효율). MCP/CLI/REST API로 Claude Code·Cursor·Windsurf 통합. macOS/Windows/Linux
@@ -8025,6 +8132,9 @@ Artificial Intelligence
   * [superview.sh: See your claude code logs in clear details in your dashboard | Leanmcp](https://github.com/Leanmcp/superview.sh)
   * Cursor·Cline·Windsurf·Claude Code·OpenCode·OpenClaw의 모든 LLM 요청을 모니터링하는 게이트웨이—**시크릿이 밖으로 나가기 전에 잡고**, 에이전트별 비용을 통제하며 팀의 AI 사용 전체를 가시화. superview.sh는 Claude Code 로그를 대시보드로 보는 오픈소스 도구(Shell, MIT, 2.1k stars)
 * [LogTape - Unobtrusive logging library with zero dependencies, library-first design for Deno, Node.js, Bun, browsers, and edge functions](https://logtape.org/)
+* [Loong — Rust base for vertical AI agents | loongclaw.ai](https://loongclaw.ai/)
+  * [loong: Lightweight, clear, and fully extensible AI agent infrastructure — learn easily, customize anything 🐉 | eastreams](https://github.com/eastreams/loong)
+  * 빠른 operator 경로를 가진 수직형 AI 에이전트용 Rust 베이스—onboard·ask·chat·doctor로 시작해 런타임 모델을 바꾸지 않고 provider(42+)·channel(25+)·tool·memory·policy·gateway 감독·rollout 플레이북으로 확장. MIT, 639 stars
 * [Loupe — AI가 짠 코드를 배포 전에 검증한다](http://theloupe.dev/)
   * AI 코드의 진짜 위험은 멈추는 버그가 아니라 맞아 보이는데 조용히 틀린 한 줄이라는 관점. 배포 전에 그런 코드를 잡아내는 눈을 기르는 연습 서비스(가입 없이 한 문제)
 * [Lovable](https://lovable.dev/)
@@ -8402,6 +8512,8 @@ Artificial Intelligence
 * [OpenCove: Infinite canvas for Claude Code, Codex, terminals, tasks, and notes](https://github.com/DeadWaveWave/opencove)
 * [OpenDocs: Convert GitHub READMEs, Markdown, Jupyter Notebooks into professionally formatted docs](https://github.com/ioteverythin/OpenDocs)
 * [OpenHarness: Open Agent Harness with a Built-in Personal Agent — Ohmo! | HKUDS](https://github.com/HKUDS/OpenHarness)
+  * [⚡1500줄로 Claude Code 대체, OpenHarness 사용법 완벽 가이드 | fornewchallenge](https://fornewchallenge.tistory.com/entry/%E2%9A%A11500%EC%A4%84%EB%A1%9C-Claude-Code-%EB%8C%80%EC%B2%B4-OpenHarness-%EC%82%AC%EC%9A%A9%EB%B2%95-%EC%99%84%EB%B2%BD-%EA%B0%80%EC%9D%B4%EB%93%9C)
+    * Harness=Tools+Knowledge+Observation+Action+Permissions 구조 해설—약 3% 코드량으로 Claude Code의 80% 기능, 43개 내장 도구, anthropics/skills 호환(`.md`를 `~/.openharness/skills/`에 복사), MCP 클라이언트, Swarm 멀티에이전트, `--network=none` Docker 샌드박스, Auto-Compaction, ohmo Personal Agent
   * 개인 에이전트 Ohmo를 내장한 오픈 에이전트 하네스. Python, MIT, 15.9k stars
 * [OpenMinis — The AI Agent app across platforms. Fully free and open source](https://openminis.app/)
   * [OpenMinis: The AI Agent app across platforms](https://github.com/OpenMinis/OpenMinis)
@@ -8456,6 +8568,9 @@ Artificial Intelligence
     * 설치부터 실전까지 19분—에이전트 여러 개를 '동시에 돌리는 것'과 '감독하는 것'의 차이, 오케스트레이션 필수 세팅 2가지, 복잡한 절차를 문장 하나로 줄이는 법
   * [그래프 엔지니어링? Orca orchestration 하나로 끝납니다. | 찐AI - YouTube](https://www.youtube.com/watch?v=-pk2umNC-18)
     * 19분—여러 에이전트 간 의존 관계가 있는 작업 흐름(그래프 엔지니어링)을 Orca 오케스트레이션으로 처리하는 데모
+* [Osaurus — Own your AI. The native macOS harness for AI agents | osaurus-ai](https://osaurus.ai/)
+  * [osaurus: Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cryptographic identity. Built in Swift. Fully offline](https://github.com/osaurus-ai/osaurus)
+  * 어떤 모델이든 붙이고 영속 메모리·자율 실행·암호학적 신원을 제공하는 네이티브 macOS AI 에이전트 하네스—완전 오프라인, Swift. dinoki-ai/osaurus에서 osaurus-ai/osaurus로 이전. MIT, 8k stars
 * [Orchids - The AI Fullstack Engineer](https://www.orchids.app/)
   * [Orchids가 최근 정식 버전을 출시](https://www.facebook.com/groups/1183007433518603?multi_permalinks=1289987116153967&hoisted_section_header_type=recently_seen)
 * [Ornith-1.0-9B-CoreAI · Hugging Face](https://huggingface.co/mlboydaisuke/Ornith-1.0-9B-CoreAI)
