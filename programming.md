@@ -50,6 +50,8 @@ Programming
   * [**Real World example apps - see how the exact same Medium.com clone (called Conduit) is built using any of our supported frontends and backends**](https://github.com/gothinkster/realworld/blob/master/README.md)
   * [Learn X by doing Y - A project-based learning search engine](https://aquadzn.github.io/learn-x-by-doing-y/)
   * [build-your-own-x: Master programming by recreating your favorite technologies from scratch](https://github.com/codecrafters-io/build-your-own-x)
+  * [CodeCrafters | The Hardest Programming Challenges on the Internet](https://codecrafters.io/)
+    * build-your-own-x를 관리하는 CodeCrafters의 유료 챌린지 플랫폼—Redis·Git·SQLite 등 매일 쓰는 도구를 원하는 언어로 자기 IDE에서 처음부터 다시 만들고 `git push`로 단계별 테스트. 챌린지 선택→에디터에서 구현→푸시가 전부인 단순한 흐름
   * [Home - Projects Based Learning](https://projectsbasedlearning.com/)
 * [15 favorite programming tutorials and insights | Opensource.com](https://opensource.com/article/21/1/best-programming)
 * [David's programming examples knowledge base / published by https://github.com/dacr/code-examples-manager #fecafeca-feca-feca-feca-fecafecafeca/8fece09821a16cac30da15528e3fcfa03e050e32](https://gist.github.com/dacr/c071a7b7d3de633281cbe84a34be47f1)
@@ -164,6 +166,8 @@ Programming
 * [현실 세계의 속성에 의존하지 않기](https://jojoldu.tistory.com/672) 설계 design
 * [A Philosophy of Software Design | John Ousterhout | Talks at Google - YouTube](https://www.youtube.com/watch?v=bmSAYlu0NcY) 좋은 소프트웨어 디자인을 어떻게 알아보고, 가르치고, 가꿔 나갈지에 대한 이야기
 * [Book Review: A Philosophy of Software Design | Johz Blog](https://johz.bearblog.dev/book-review-philosophy-software-design/)
+* [The Philosophy of Software Design – with John Ousterhout | The Pragmatic Engineer - YouTube](https://www.youtube.com/watch?v=lz451zUlF-k)
+  * 1시간 21분(2025-04-09). 『A Philosophy of Software Design』 저자이자 스탠퍼드 교수 John Ousterhout와 Gergely Orosz의 대담—Cursor·Copilot 같은 도구가 자동완성·테스트·문서 생성에 능해져도 소프트웨어 설계의 본질은 크게 바뀌지 않으며, 오히려 AI가 코드를 더 잘 만들수록 좋은 설계가 더 중요해진다는 관점
 * [Software Design — Orthogonality. Software Design can seem tricky or… | by Yoganathan Shiv | Level Up Coding](https://levelup.gitconnected.com/software-design-orthogonality-7cd2d50267b6)
 * [Twenty Years of Patterns’ Impact](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6648592) celebrates the 20th year of software patterns
 * [Analysis & Design · Present](https://present.do/decks/60c21e8267ba0b4949e79f42)
@@ -1773,6 +1777,9 @@ Programming
 * [practice - experiences in design](https://github.com/hyunjun/practice_private/blob/master/agoda/agoda_design.md)
 * [**10가지 소프트웨어 아키텍쳐 패턴 요약**](https://mingrammer.com/translation-10-common-software-architectural-patterns-in-a-nutshell)
 * [**대규모 소프트웨어 패턴 강좌 업데이트 | Architecture 101**](https://architecture101.blog/2023/02/11/welcome_2_pattern_worlds/)
+* [Learning Software Architecture | matklad](https://matklad.github.io/2026/05/12/software-architecture.html)
+  * [소프트웨어 아키텍처 배우기 | GeekNews](https://news.hada.io/topic?id=29452)
+  * rust-analyzer를 만든 matklad가 물리학 연구자의 "과학 코드" 질문에 답한 글(2026-05-12)—설계는 강의보다 하면서 배우는 것, Conway의 법칙(소프트웨어는 조직의 사회 구조를 반복)과 인센티브 구조의 중요성, rust-analyzer를 stable에서 C 의존성 없이 수초 테스트로 유지해 주말 기여자를 모으고 기능을 `catch_unwind`로 격리해 품질이 번지지 않게 한 설계 사례. HN 치트시트: 하나의 아이디어가 전체에 스며들고 놀라움을 최소화, 데이터 변환·사용 분리, 결합도가 문제의 뿌리, 상태는 명시적으로, 이름 짓기에 시간을 더 쓰고 테스트가 어려우면 설계가 틀린 것
 * [**SwirlAI Newsletter | Aurimas Griciūnas | Substack**](https://www.newsletter.swirlai.com/)
 * [트레이드오프와 아키텍트 그리고 개발자의 소통 문제](https://brunch.co.kr/@graypool/119) 기술적인 글은 아니지만 좋은 글
 * [TA, DA, QA, BA, SA 소프트웨어 아키텍처의 역할별 차이 이해하기 | 이랜서 블로그](https://www.elancer.co.kr/blog/detail/829)
@@ -1873,6 +1880,8 @@ Programming
 * [Software engineer — from monolith to cloud: think small](https://coder.today/software-engineer-from-monolith-to-cloud-think-small-f828effc6afc)
 * [데이터센터 모놀리스에서 클라우드 쿠버네티스: 클라우드 네이티브로의 성공적인 이전을 위한 전략](https://drive.google.com/file/d/1phjKwPQp7fSqyDeHRQFAbGn5D0_H_U9G/view)
 * [Beyond the Distributed Monolith: Rearchitecting the Big Data Platform](https://www.infoq.com/presentations/bbc-distributed-monolith-microservices/)
+* [How much slower are Microservices? (I tested) | Arjay McCandless - YouTube](https://www.youtube.com/watch?v=bhklFv_VRq8)
+  * 13분(2026-10-20). 같은 Go 앱을 모놀리식과 4개 서비스로 각각 만들어 월 $112 동일 예산(8코어 1대 vs 2코어 4대)으로 부하 테스트—HTTP vs gRPC, 측정 부하에 맞춘 하드웨어 재배치까지 비교해 마이크로서비스로 쪼갤 때 네트워크·API 통신으로 잃는 성능을 실측. 추가 CPU가 어디로 가는지, 서버리스라면 무엇이 필요한지, 그럼에도 팀이 마이크로서비스를 택하는 이유(blast radius 등)까지 다룸
 * [플러그를 꽂듯 결합이 되어야 진정 모듈화라 부를 만하다](https://brunch.co.kr/@graypool/2805)
   * 공개 프로젝트의 모듈화는 내부 의존성과 배포 이식성 두 측면을 구분해 관리해야 하며, 실제 서버 배포에서 PostgreSQL·PM2·SSL 인증서를 통합하려면 쉘 스크립트로 조율해야 함
   * 진정한 모듈화는 규격화된 플러그를 꽂듯 각 요소가 오차 없이 결합되는 "접합부 통합의 엔지니어링"으로 완성된다는 관점
@@ -2566,6 +2575,8 @@ Programming
   * [균형 잡힌 아키텍처 결정을 위하여](https://maily.so/saascenter/posts/3bfe06cc)
 * [ADRs in a post-flip world | Garry Shutler](https://gshutler.com/2026/06/adrs-in-a-post-flip-world/)
   * AI 코딩 에이전트가 코드를 대량 생성하는 시대에 ADR(Architecture Decision Record)이 갖는 새 역할. 결정의 맥락·근거를 문서로 남기는 것이 에이전트 협업에서 더 중요해진다는 관점
+* [bliki: Architecture Decision Record | Martin Fowler](https://martinfowler.com/bliki/ArchitectureDecisionRecord.html)
+  * ADR은 제품·생태계에 관련된 단일 결정을 두 쪽 안에 담는 짧은 문서—결정, 맥락, 근거, 결과. 몇 달·몇 년 뒤 "왜 이렇게 만들어졌나"를 알리는 기록이자 쓰는 행위 자체가 생각을 정리하는 수단. 뉴스 기사식 역피라미드(중요한 것 먼저), 코드 저장소의 `doc/adr`에 두되 생태계 전반 결정이나 비개발자 접근은 예외, 파일마다 단조 증가 번호+결정을 담은 이름(`0001-HTMX…`), 상태는 proposed→accepted→superseded(대체 ADR 링크)이며 수정 대신 새 ADR로 대체, 근거에는 문제와 트레이드오프 요약, 결과는 별도 섹션에, 불확실성 아래의 결정이니 가정도 적어 둠. Advice Process에서는 기록을 넘어 ADR을 쓰는 행위로 전문가 조언을 끌어냄
 * [오픈마켓에서 여행 플랫폼으로 살아남기 (feat. msa)](https://ebay-korea.tistory.com/91) Service Aggregator, BFF (Backend for front), EDA (Event-driven architecture), ACL (Anti-corruption layer)
 * [당근페이 금융 거래 내역 Aggregator 개발기. 당근페이의 거래 내역이 가지고 있던 구조적 문제를 Aggregator로… | by Winter You | 당근 테크 블로그 | Aug, 2024 | Medium](https://medium.com/daangn/%EB%8B%B9%EA%B7%BC%ED%8E%98%EC%9D%B4-%EA%B8%88%EC%9C%B5-%EA%B1%B0%EB%9E%98-%EB%82%B4%EC%97%AD-aggregator-%EA%B0%9C%EB%B0%9C%EA%B8%B0-6817f57aef56)
 * [Practical (a.k.a. Actually Useful) Architecture • Stefan Tilkov • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=BNTt2aLB1tg)
@@ -4094,6 +4105,9 @@ Programming
 * [free-programming-books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md)
 * [free-programming-books-ko](https://github.com/vhf/free-programming-books/blob/master/free-programming-books-ko.md)
 * [free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md)
+  * [Free Programming Books — 검색 가능한 웹 버전](https://ebookfoundation.github.io/free-programming-books/)
+  * [free-programming-books: 📚 Freely available programming books | EbookFoundation](https://github.com/EbookFoundation/free-programming-books)
+    * 레포 루트(`books/`·`courses/`·`casts/`·`more/` 등 언어별 디렉터리)와 검색 UI가 있는 정적 사이트—GitHub에서 가장 많이 별을 받은 저장소 중 하나
   * [free-programming-books-ko.md](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-ko.md)
   * [프로그래밍 무료 학습 자료 모음 | GeekNews](https://news.hada.io/topic?id=7378)
 * [GOTO Book Club - GOTOpia](https://gotopia.tech/bookclub)
@@ -8026,6 +8040,8 @@ Programming
   * [기술 뉴스 #253 : 24-09-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1733)
   * [기술 뉴스 #254 : 24-09-16 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1734)
   * [기술 뉴스 #263 : 25-02-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1753)
+  * [기술 뉴스 #298 : 2026-07-16 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1802)
+    * 웹개발·AI·인프라·보안 등 분야별 큐레이션—CSS Anchor Positioning, CodeMirror 제작자 Marijn Haverbeke의 Wordgard, Chrome 이메일 확인 프로토콜 오리진 트라이얼 등
   * [기술 뉴스 #300 : 2026-08-16 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1809)
     * Claude Sonnet 5·Grok 4.6·Gemini 3.7 Flash 출시, Cloudflare Agents Week 대규모 발표(Agent Cloud·Wallets·Kitesurf 브라우저), Agent Plugins 1.0.0 표준 공개 등
 * [teletext: Hacker news as teletext](https://github.com/glynnbird/teletext)
