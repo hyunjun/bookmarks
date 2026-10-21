@@ -2871,6 +2871,10 @@ App
 * [SponsorBlock: Skip YouTube video sponsors (browser extension)](https://github.com/ajayyy/SponsorBlock)
   * [SponsorBlock - Skip over YouTube Sponsors - Sponsorship Skipper](https://sponsor.ajay.app/)
   * [SponsorBlock – 유튜브 스폰서 광고 건너뛰기 기능 확장 | GeekNews](https://news.hada.io/topic?id=16309)
+* [StykAnimate: the free animation studio for stick figures](https://stykanimate.com/)
+  * [StykAnimate-App: Free, open-source stick figure animation app for Windows, Linux and the browser. Opens Pivot and Stick Nodes projects](https://github.com/filippocalippo/StykAnimate-App)
+  * [StykAnimate Is Now Open Source - YouTube](https://www.youtube.com/watch?v=S1em5t5msx0)
+  * Pivot Animator의 현대적 후계를 표방하는 스틱 피겨 애니메이션 앱(Windows·Linux·브라우저 app.stykanimate.com, 2026-10-18 GPL-3.0 공개, JavaScript/Electron+Python 사이드카). .piv/.stk·Stick Nodes 파일을 열고 디코딩·편집·렌더링 전부 로컬. 손·발 IK와 3D 피겨, 선·원·다각형·텍스트·이미지로 피겨 제작, Pivot식 Simple/레이어·키·이징 Advanced 이중 타임라인, 모션 패스·어니언 스킨·카메라 팔로우, 파티클(폭발·오라·빔·연기)과 브러시, 커뮤니티 라이브러리, 27개 언어·터치 UI. MP4(YouTube·Shorts·TikTok 프리셋)·투명 WebM·GIF·APNG·PNG/JPEG/SVG·.piv/.stk 내보내기
 * [Trangram](https://www.trangram.com/)
   * [Tangram - 웹기반 무료 애니메이션 편집기 | GeekNews](https://news.hada.io/topic?id=13778)
 * VLC
@@ -3333,6 +3337,11 @@ App
   * [엑셀에서 주어진 생년월일로부터 만나이 구하기 · Wireframe](https://soooprmx.com/%ec%97%91%ec%85%80%ec%97%90%ec%84%9c-%ec%a3%bc%ec%96%b4%ec%a7%84-%ec%83%9d%eb%85%84%ec%9b%94%ec%9d%bc%eb%a1%9c%eb%b6%80%ed%84%b0-%eb%a7%8c%eb%82%98%ec%9d%b4-%ea%b5%ac%ed%95%98%ea%b8%b0/)
   * [마이크로소프트의 새로운 혁신, ‘파이썬 인 엑셀(Python in Excel)’ 공개!](https://stock79.tistory.com/entry/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%86%8C%ED%94%84%ED%8A%B8%EC%9D%98-%EC%83%88%EB%A1%9C%EC%9A%B4-%ED%98%81%EC%8B%A0-%E2%80%98%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%9D%B8-%EC%97%91%EC%85%80Python-in-Excel%E2%80%99-%EA%B3%B5%EA%B0%9C)
   * [LAMBDA: The ultimate Excel worksheet function - Microsoft Research](https://www.microsoft.com/en-us/research/blog/lambda-the-ultimatae-excel-worksheet-function/)
+* [GenOffice — Free, Open-Source AI Office Suite](https://genoffice.ai/)
+  * [genoffice: Free, open-source AI Office suite: Docs, Sheets, Slides, PDF, Markdown and HTML editors with a built-in AI agent, plus a genoffice CLI and agent skill so Claude Code, Codex and Cursor can create and edit real .docx/.xlsx/.pptx files locally | Genspark](https://github.com/genspark-ai/genoffice)
+  * Genspark(Mainfunc)가 공개한 데스크톱 AI 오피스(macOS·Windows·Linux, TypeScript, Apache-2.0, 10k stars). .docx·.xlsx·.pptx·PDF·HTML·Markdown 편집기 6종에 편집기마다 AI 창—바뀐 부분만 원본 파일에 다시 쓰는 byte-preserving 저장, 자체 xlsx 엔진(차트·피벗·슬라이서), 마스터·레이아웃을 가진 네이티브 pptx, 글꼴 보존 PDF 편집과 로컬 Word·Excel·PowerPoint 변환. AI는 Genspark 크레딧 또는 BYOK. `genoffice` CLI·에이전트 스킬로 Claude Code·Codex·Cursor가 로컬에서 실제 오피스 파일 생성·편집
+  * [openoffice: 이음오피스(IeumOffice) — GenOffice 기반 무료 오픈소스 AI 오피스 | pblsketch](https://github.com/pblsketch/openoffice)
+    * GenOffice를 고쳐 만든 한국어 포크(Apache-2.0)—Genspark 서비스에 묶인 부분을 걷어내고 AI 연결 방식을 바꿔 **이미 쓰는 Claude·Codex 구독으로 동작**(API 키 발급 불필요), 구독이 없으면 OpenRouter·Gemini 무료 AI 연결. 워드·엑셀·파워포인트·PDF·마크다운·HTML에 마인드맵 추가. `ieumoffice` CLI(info·convert·create·docs read 등), `ieumoffice mcp` MCP 서버, `npx skills add pblsketch/openoffice` 에이전트 스킬. 터미널·MCP 요청은 허용 전까지 구독을 쓰지 않음
 * [G Suite Solutions Gallery - a collection of sample solutions that demonstrates how you can solve common business challenges with G Suite Developer technologies](https://developers.google.com/gsuite/solutions)
 * HWP
   * [오픈소스 HWP/HWPX 처리 도구 목록 | GeekNews](https://news.hada.io/topic?id=28582)
