@@ -678,7 +678,7 @@ Algorithm
 * [Pyalgo20](https://pyalgo.co.kr/)
 * [**qiao.github.io/PathFinding.js/visual**](https://qiao.github.io/PathFinding.js/visual/) 각 길찾기 알고리즘의 동작을 보여주는 시뮬레이터
 * [visualising data structures and algorithms through animation - VisuAlgo](https://visualgo.net/)
-* [thewalnut.io](https://thewalnut.io)
+* [Coddy Visualize](https://coddy.tech/visualize/ko)
 
 # Linked List
 * [An introduction to linked lists: the why, the what, and the how](https://medium.freecodecamp.org/linked-lists-why-what-and-how-f96b04790ac4)
