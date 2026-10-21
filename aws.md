@@ -2744,6 +2744,10 @@ AWS
 * [Providing a caching layer for LLM with Langchain in AWS](https://heuristicwave.github.io/LLMCache)
 * [Amazon ECS와 Amazon SageMaker를 이용하여 이미지 분류 AI 웹 애플리케이션 구축과 운영하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/ai-application-ecs-sagemaker/)
 * [QLoRA 기법으로 Falcon-40B 및 기타 대규모 모델(LLM)을 Amazon SageMaker Studio 노트북의 대화형 환경에서 파인튜닝하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/interactively-fine-tune-falcon-40b-and-other-llms-on-amazon-sagemaker-studio-notebooks-using-qlora/)
+* [SageMaker AI Fine-tuning & Serving E2E | daekeun-ml](https://daekeun-ml.github.io/sagemaker-finetune-serve-e2e/)
+  * [sagemaker-finetune-serve-e2e: Hands-on toolkit for fine-tuning Gemma 4 on Amazon SageMaker across 5 self-contained tracks: JSON extraction, intent classification, summarization, domain QA, and multimodal](https://github.com/daekeun-ml/sagemaker-finetune-serve-e2e)
+  * [답답하니 내가 만든다 Amazon SageMaker SLM 핸즈온: 합성 데이터 → 파인튜닝 → 서빙 → AgentCore까지 | Daekeun Kim | LinkedIn](https://www.linkedin.com/posts/daekeun-kim_aws-sagemaker-slm-share-7489435737587892224-mDrw/)
+  * Gemma 4를 SageMaker AI에서 합성 데이터→파인튜닝→서빙→평가→agentic loop까지 잇는 한국어 핸즈온—JSON 추출·의도 분류·요약·도메인 QA·멀티모달 5개 유스케이스가 각각 독립된 E2E 코스라 필요한 것만 골라 실행. 개념 문서(SageMaker AI 기초: Training Job과 Endpoint의 수명·과금 차이, Studio와의 구분, VPC·network isolation의 control plane과 데이터 경로)와 노트북 실행 순서·전체 지도 제공. Python, MIT
 * [Multi-RAG와 Multi-Region LLM로 한국어 Chatbot 만들기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/multi-rag-and-multi-region-llm-for-chatbot/)
 * [한국어 Reranker를 활용한 검색 증강 생성(RAG) 성능 올리기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/korean-reranker-rag/)
 * [Amazon SageMaker JumpStart를 이용하여 Falcon Foundation Model기반의 Chatbot 만들기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/chatbot-based-on-falcon-fm/)
@@ -2878,6 +2882,8 @@ AWS
 * [Amazon MSK를 이용하여 Amazon Athena로 실시간 스트리밍 데이터 분석하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/analyze-real-time-streaming-data-in-amazon-msk-with-amazon-athena/)
 * [Amazon MSK, Kafka 토픽을 Kinesis Data Firehose를 통해 Amazon S3로 전송 가능 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/amazon-msk-introduces-managed-data-delivery-from-apache-kafka-to-your-data-lake/)
 * [Amazon MSK를 활용한 데이터베이스 간 CDC 구현하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/implement-database-cdc-using-amazon-msk/)
+* [Real-time CDC from Aurora PostgreSQL to Amazon S3 Tables using Debezium and Firehose | AWS Big Data Blog](https://aws.amazon.com/ko/blogs/big-data/real-time-cdc-from-aurora-postgresql-to-amazon-s3-tables-using-debezium-and-firehose/)
+  * Aurora PostgreSQL의 insert·update·delete를 쿼리 가능한 Iceberg 테이블(S3 Tables)에 행 단위로 바로 반영하는 CDC 파이프라인 6단계—①논리 복제로 읽는 Debezium(MSK Connect) ②`ByLogicalTableRouter` SMT로 여러 테이블 이벤트를 단일 토픽으로 라우팅 ③MSK→Firehose(IAM 인증, PrivateLink) ④배치마다 Lambda가 Kafka 메시지 디코드·Debezium 봉투 평탄화·`otfMetadata` 설정 ⑤Firehose가 메타데이터로 대상 Iceberg 테이블을 골라 고유 키 기준 행 단위 연산 ⑥Athena·Redshift 등으로 질의. Firehose가 스트림당 토픽 하나만 받으므로 단일 토픽 통합+Lambda 라우팅 패턴을 씀
 * [IAM을 활용하여 Amazon MSK 주제 접근 제어하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/amazon-msk-topic-iam-access-control/)
 * [AWS MSK PART1 — MSK 도입 여정. 안녕하세요. 여기어때 서비스개발팀에서 백엔드 개발을 담당하고 있는… | by Fang | 여기어때 기술블로그](https://techblog.gccompany.co.kr/aws-msk-part1-msk-%EB%8F%84%EC%9E%85-%EC%97%AC%EC%A0%95-b000cbea5c02)
 * [AWS MSK PART2 — MSK 클러스터를 구축해볼까요? | by Fang | 여기어때 기술블로그](https://techblog.gccompany.co.kr/aws-msk-part2-msk-%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0%EB%A5%BC-%EA%B5%AC%EC%B6%95%ED%95%B4%EB%B3%BC%EA%B9%8C%EC%9A%94-8722c79d9041)
