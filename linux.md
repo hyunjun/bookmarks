@@ -93,6 +93,8 @@ Linux
 * [What Are Namespaces and cgroups, and How Do They Work? - NGINX](https://www.nginx.com/blog/what-are-namespaces-cgroups-how-do-they-work/)
 * [user namespaces image explanation](https://gist.github.com/hyunjun/f2a15bf2de9ed8cce7a0dc87ed16d839?permalink_comment_id=4116316#gistcomment-4116316)
 * [cgroups image explanation](https://gist.github.com/hyunjun/f2a15bf2de9ed8cce7a0dc87ed16d839?permalink_comment_id=4116312#gistcomment-4116312)
+* [How to Prevent High CPU and RAM Usage in Linux Processes | Tecmint](https://www.tecmint.com/limit-cpu-memory-usage-linux-process/)
+  * 새벽 2시에 CPU 99%를 먹는 백업·빌드·변환 작업을 죽이는 대신 완료되게 하면서 다른 서비스를 지키는 5가지 방법—①cpulimit(프로세스를 초당 수십 번 멈추고 재개해 평균 CPU% 상한) ②nice/renice(스케줄링 우선순위) ③cgroups(커널 수준 CPU·메모리 하드 리밋) ④systemd 리소스 디렉티브로 서비스 제한 ⑤ulimit(세션·사용자별 제한). 메모리 누수 앱도 영구 수정 전까지 다른 서비스로 번지지 않게 격리
 * [How NAT traversal works · Tailscale Blog](https://tailscale.com/blog/how-nat-traversal-works/)
 * [Analyzing the Attacks on my Website](https://dev.to/pluralsight/analyzing-the-attacks-on-my-website-30jf)
 * [Speeding up Linux disk encryption](https://blog.cloudflare.com/speeding-up-linux-disk-encryption/)
@@ -102,6 +104,8 @@ Linux
 * [Introduction | QEMU internals](https://airbus-seclab.github.io/qemu_blog/)
 * [Transparently running binaries from any architecture in Linux with QEMU and binfmt_misc – Own your bits](https://ownyourbits.com/2018/06/13/transparently-running-binaries-from-any-architecture-in-linux-with-qemu-and-binfmt_misc/)
 * [Running the Steam Deck’s OS in a virtual machine using QEMU | The world won't listen](https://blogs.igalia.com/berto/2022/07/05/running-the-steam-decks-os-in-a-virtual-machine-using-qemu/)
+* [linuxpdf: Linux running inside a PDF file via a RISC-V emulator | ading2210](https://github.com/ading2210/linuxpdf)
+  * DoomPDF를 만든 사람의 후속—PDF 포맷이 자체 표준 라이브러리를 가진 JavaScript를 지원하고 Chromium·Firefox가 그 일부를 구현한다는 점을 이용해, asm.js를 타깃으로 하는 옛 Emscripten으로 TinyEMU(Bellard) 기반 RISC-V 에뮬레이터를 컴파일해 PDF 안에서 리눅스를 부팅(linux.doompdf.dev/linux.pdf에서 체험). C, GPL-3.0, 5.1k stars
 * [Introduction to VirtIO](https://blogs.oracle.com/linux/post/introduction-to-virtio) with QEMU
 * [It's about time you try Linux. - Try Linux](https://www.trylinux.today/)
 * [net-rw/nf-tinyacl: Netfilter based ACL kernel module under Network stacks for studying](https://github.com/net-rw/nf-tinyacl)
@@ -1360,6 +1364,8 @@ Linux
 * [A Gentle Introduction to eBPF](https://www.infoq.com/articles/gentle-linux-ebpf-introduction/)
 * [확장 BPF | 네트워크 언저리](https://wariua.github.io/facility/extended-bpf.html)
 * [BPF/eBPF란 무엇인가](https://hyeyoo.com/133)
+* [10,000 eBPF Events to 1 Alert: Don't burn the CPU | Parth Shah | DEV](https://dev.to/parth21shah/10000-ebpf-events-to-1-alert-dont-burn-the-cpu-2g41)
+  * 커널이 초당 수백만 이벤트를 만들 수 있어 전부 유저 스페이스로 보내면 "모니터링이 곧 장애"가 된다(관찰자 효과·디스크 폭주)—비용의 대부분은 eBPF 자체가 아니라 커널→유저 경계를 너무 자주 넘는 데서(웨이크업·컨텍스트 스위치·이벤트당 할당) 나오므로 로그 파이프라인이 아닌 **퍼널**로 설계: ①커널 내 필터링(에이전트를 깨우기 전에 최대한 버림, 느린 HTTP 요청 탐지 예) ②링 버퍼(보낼 때는 효율적으로, 뒤처질 때 처리) ③유저 스페이스 윈도잉(시간 축 패턴을 찾은 뒤에만 알림)+컨텍스트 결합. 저자가 Rust+eBPF로 만들고 있는 에이전트의 핵심 아이디어
 * [Production ready eBPF, or how we fixed the BSD socket API](https://blog.cloudflare.com/tubular-fixing-the-socket-api-with-ebpf/)
 * [A Beginner's Guide to eBPF Programming with Go • Liz Rice • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=uBqRv8bDroc)
 * [eBPF: Fueling New Flame Graphs & more • Brendan Gregg • YOW! 2022 - YouTube](https://www.youtube.com/watch?v=HKQR7wVapgk)
@@ -1408,6 +1414,8 @@ Linux
 * [ebpf-pod-blocker: eBPF로 TCP SYN 패킷을 카운트해 제한 조건을 초과한 파드 사이의 트래픽을 차단하는 Pod Blocker](https://github.com/taehwanyang/ebpf-pod-blocker)
   * [eBPF로 Pod Blocker 구현 | Taehwan Dev Blog](https://taehwanyang.github.io/ebpf-pod-blocker/)
   * 양태환(2026-03). keep-alive를 끈 대규모 HTTP 요청으로 TCP SYN flooding을 흉내 내는 auth-attacker를 상대로, 커널 모드 eBPF 프로그램(count_conn_and_drop.c)이 (src-ip, dst-ip)별 SYN 수를 세어 조건 초과 시 패킷을 드롭하고, 유저 모드 Go 프로그램이 제한 조건을 커널에 넘기며 보호 대상 파드의 호스트 veth(또는 bridge) 인터페이스에 tc hook을 거는 구조. 호스트에서 직접 실행해도 되지만 쿠버네티스에서는 cilium처럼 DaemonSet으로 배포하는 전략(AKS·EKS에도 유효). Mac은 Lima VM(ubuntu-ebpf.yaml)+k3s로 개발 환경 구성, `--recurse-submodules`로 클론. C·Go
+* [linnix: eBPF-powered Linux observability with AI incident detection](https://github.com/linnix-os/linnix)
+  * "CPU를 누가 쓰는가"가 아니라 "누가 SLO를 해치는 stall을 일으키는가"—eBPF+PSI(Pressure Stall Information)로 사용률 아닌 경합을 측정(CPU 40%·PSI 60%인 Pod가 CPU 100%·PSI 5%보다 나쁨). noisy neighbor, fork storm, "Pod X가 Pod Y에 300ms stall" 가해자/피해자 쌍 Prometheus 카운터, top에 안 보이는 CPU/IO/메모리 압력 포화 탐지. 기본은 monitor-only, eBPF 부착 실패 시 `/proc/pressure`로 degrade하며 알림, 분석은 전부 로컬(Slack 알림만 옵션), AI 인사이트 모델(2.1GB 로컬 LLM)은 선택. Kubernetes DaemonSet 또는 `./quickstart.sh` Docker. Rust, AGPL-3.0
 * [Parca - Open Source infrastructure-wide continuous profiling](https://www.parca.dev/)
   * [parca: Continuous profiling for analysis of CPU and memory usage, down to the line number and throughout time. Saving infrastructure cost, improving performance, and increasing reliability](https://github.com/parca-dev/parca)
   * [Parca - eBPF 기반의 지속적인 CPU/메모리 프로파일러 | GeekNews](https://news.hada.io/topic?id=6550)
