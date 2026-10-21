@@ -2251,6 +2251,9 @@ Javascript
     * [Building a deployable Python-Electron App | by Andy Bulka | Medium](https://medium.com/@abulka/electron-python-4e8c807bfa5e)
   * [nativefier: Make any web page a desktop application](https://github.com/nativefier/nativefier)
     * [Turn any website into separate native application – ServerKernel](https://serverkernel.com/turn-any-website-into-separate-native-application/)
+  * [PakePlus — Turn Web into Desktop/Mobile Apps](https://pakeplus.com/)
+    * [PakePlus-iOS: Turn any webpage/HTML/Vue/React and so on into desktop and mobile app under 5M with easy in few minutes](https://github.com/Sjj1024/PakePlus-iOS)
+    * HTML·Vue·React 프로젝트나 웹페이지를 몇 분 만에 5MB 미만의 Windows·macOS·Linux·Android·iOS 앱으로 패키징하는 오픈소스(Tauri 계열, nativefier·Electron 대비 경량). iOS 저장소는 Swift, MIT, 9.9k stars
 * [elegant-queue: To address this inefficiency when processing large amounts of data, designing a queue with O(1) time complexity can solve many problems](https://github.com/seongjin605/elegant-queue)
 * [Elevator.js fixes those awkward "scroll to top" moments the old fashioned way](http://tholman.com/elevator.js/)
 * [ELI5: Flow - Static Type Checker for JavaScript](https://developers.facebook.com/blog/post/2020/12/14/eli5-flow-static-type-checker-javascript/)
