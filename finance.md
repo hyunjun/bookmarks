@@ -341,6 +341,10 @@ Finance
   * 5편을 관통하는 리뷰의 질문—정답률을 넘어 **계산의 검증 가능성, 요약의 충실성, 재현성·감사 가능성, 협업 구조, 평가 방식**까지 봐야 금융 AI 에이전트를 신뢰할 수 있다는 프레임
 * [2512.10971 AI-Trader: Benchmarking Autonomous Agents in Real-Time Financial Markets](https://arxiv.org/abs/2512.10971)
   * 주식하는 AI 에이전트, [홍콩대가 만든 밤낮없이 시장을 보고, 뉴스도 읽고, 스스로 판단하는 AI-Trader는 정작 성적표는 꽤 인간적](https://www.facebook.com/socialego/posts/pfbid0vDy6kZfygZnjAid17TiQJvvB3PunVbnpTSiAV1RHCYcDwnR9Fhszump1fS6kRWVKl)
+* [2610.26438 Fake News, Real Crashes: Information Injection Attacks on LLM Financial Trading Agents](https://arxiv.org/abs/2610.26438)
+  * [LLM 트레이딩 에이전트는 가짜 뉴스에 얼마나 취약한가: 프롬프트 인젝션과 정보 주입 공격 비교 | digitalbourgeois](https://digitalbourgeois.tistory.com/4038)
+  * Texas A&M(Mengxiao Wang·Nitesh Saxena, 2026-10-19). 뉴스를 근거로 실제 자본을 거래하는 LLM 에이전트가 조작된 헤드라인을 구별하지 못하고, 같은 피드·비슷한 정책을 쓰는 탓에 가짜 글 하나가 여러 에이전트를 같은 순간 같은 거래로 몰 수 있다는 문제. 모델의 지시(control plane)를 노리는 프롬프트 인젝션과 달리 에이전트가 신뢰하는 증거(data plane)를 노리는 **정보 주입 공격** 벤치마크 V-bench—5가지 주입 벡터(사실 오염·감정/서사·선택적 증거·구조화 신호·다중 출처 연계)×7가지 가짜 이벤트 범주, 미국 주식 15종목·약 1만 건 결정
+  * 결과: 프롬프트 인젝션 ASR 14% vs 조작 뉴스 62%, 30단어짜리 사실 오염 템플릿 2개는 15종목 전부 100%—LLM 보안 직관의 역전. 내용보다 표면 형식이 중요해 출처명·"BREAKING" 같은 신뢰 단서를 빼면 같은 거짓 주장인데 ASR 100%→0%. 에이전트 상태에 따라 달라져 가짜 지표 패널이 보유 직전 에이전트엔 91%, 매수 직전엔 12%(종목별 34~87%). 벤더를 가리지 않고 실제 뉴스 피드에 섞어도 유효, 성공 1건당 매수 여력 2만 달러 중 약 1.6만 달러 소진. 방어: 모델 확대는 얕은 벡터만 막고 사실 오염은 GPT-4o 93%·GPT-5도 개선 없음, 동료 에이전트 토론 74%, 계층적 집계만 9%로 낮춤
 * [Agentic Trading Lab](https://agentic-trading-lab.vercel.app/)
   * [AgenticTrading: Agentic Trading Lab](https://github.com/Open-Finance-Lab/AgenticTrading)
   * [Agentic Trading Lab, LLM 기반 트레이딩 에이전트를 직접 실험하고 검증하는 오픈소스 플랫폼 | digitalbourgeois](https://digitalbourgeois.tistory.com/3599)
@@ -361,6 +365,9 @@ Finance
 * [Bigdata.com: your real-time research assistant](https://bigdata.com/)
   * [오랜 기간 금융 데이터(특히나 비정형데이터)를 핸들링하던 Ravenpack이 만든 서비스](https://www.linkedin.com/posts/hyunyul-lee-34952096_%EB%AF%B8%EC%B9%9C-%EC%84%9C%EB%B9%84%EC%8A%A4%EA%B0%80-%EB%98%90-%EB%82%98%EC%99%94%EB%8B%A4-%EC%98%A4%EB%9E%9C-%EA%B8%B0%EA%B0%84-%EA%B8%88%EC%9C%B5-%EB%8D%B0%EC%9D%B4%ED%84%B0%ED%8A%B9%ED%9E%88%EB%82%98-%EB%B9%84%EC%A0%95%ED%98%95%EB%8D%B0%EC%9D%B4%ED%84%B0-ugcPost-7256465997367238656-o5Lp/)
 * [ChatGPT-Micro-Cap-Experiment: This repo powers my blog experiment where ChatGPT manages a real-money micro-cap stock portfolio.](https://github.com/LuckyOne7777/ChatGPT-Micro-Cap-Experiment)
+* [correlation: Do stock correlations predict the market? 66 pre-registered tests, the data, and a triple pendulum that explains why not | bhoult](https://github.com/bhoult/correlation/)
+  * 20여 년 전 커피숍에서 "A사가 오르면 몇 달 뒤 B사도 오르지 않을까"라는 생각으로 시작한 질문의 종결 보고서(Python·Rust, GPL-3.0). 전 종목×모든 오프셋×여러 시간 창의 상관 계산 약 1.5조 번은 2000년대 초 Pentium II로 몇 년, 1년 전 Claude 4.0과 Ruby로 짠 PoC는 24코어에서 15년(인라인 C로 6개월)이 걸려 포기—지난주 Claude 5.5와 Rust로 다시 써 CPU·GPU·NPU를 전부 써서 17분에 끝냄
+  * 결론은 회의론자들이 옳았다—상관은 발견되지만 너무 작고 일관성이 없어 매매에 쓰면 종목을 무작위로 고르는 것과 같음. 단어로 학습한 LLM처럼 주가로 학습한 StockGPT로 다음 날을 예측하는 시도도 실패, 약 70가지 변형(66개 사전 등록 테스트)까지 모두 실패해 20년 질문을 종결. 왜 안 되는지는 삼중 진자로 설명—상관은 첫 진자의 흔들림엔 정확도를 더하지만 거기에 매달린 사람들의 베팅과 시장 반응, 그 밑의 외부 사건이 10억분의 1 라디안 차이로도 전혀 다른 궤적을 만듦. 데이터·실험 기록·사전 연구 정리 공개
 * [daily_stock_analysis: LLM-powered intelligent analyzer for A-shares, HK stocks, US equities](https://github.com/ZhuLinsen/daily_stock_analysis)
   * AI 대시보드 자동 생성→기업 위챗/Telegram/Slack 등 푸시. 기술 분석·뉴스 센티먼트·펀더멘탈 통합, GitHub Actions 무료 배포
 * [dexter: An autonomous agent for deep financial research](https://github.com/virattt/dexter)
@@ -462,6 +469,7 @@ Finance
   * [Vibe-Trading - AI 다중 에이전트 트레이딩 전략 플랫폼 | GeekNews](https://news.hada.io/topic?id=29055)
   * [자연어로 만드는 퀀트 전략 자동화 플랫폼, Vibe-Trading 기술 정리 :: 지식의 섬](https://digitalbourgeois.tistory.com/3061)
   * 자연어→실행 가능 트레이딩 전략 변환. 68개 금융 스킬, 29개 에이전트 스웜 팀(투자위원회·트레이딩 데스크·리서치). A주/홍콩/미국/크립토/선물 크로스마켓 백테스팅, TradingView Pine Script 내보내기, MCP 플러그인
+  * 2026-10 기준 보강(36k stars)—위키는 스스로를 "브로커 실행이 아닌 금융 리서치용" 에이전트로 규정: 자연어 요청→스킬·데이터·스웜 팀 라우팅→시장 데이터·문서·브로커 저널 그라운딩→백테스트·팩터 분석·옵션 검증→run card·리포트·도구 추적·주의사항 전달의 루프. A주·글로벌·인도·한국·베트남 주식·크립토·선물·외환·옵션 11개 백테스트 엔진, 브로커 거래 저널을 파싱해 암묵적 규칙을 뽑고 반사실 백테스트·감사 리포트를 내는 Shadow Account. 실거래는 opt-in·기본 읽기 전용으로 직접 승인한 브로커(Robinhood Agentic Trading 등)와 한도 안에서만. v0.1.17(2026-10-21, 33명 638커밋)은 일별 종가 봉에 주문·전략을 매칭하는 paper trading(`paper_trade_step` 도구·CLI·REST·웹)과 "계산 불가면 그럴듯한 숫자 대신 null" 정확성 수정, v0.1.18은 도구 스키마 지연 로딩으로 모델 호출 12→7회·입력 토큰 약 1/5. 공식 토큰·밈코인은 없다는 사칭 경고
 * [worldmonitor: Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface](https://github.com/koala73/worldmonitor)
   * [블룸버그 터미널 연 구독료 약 3만 2천 달러. 한화 4,600만원 수준입니다. 같은 역할을 지향하는 오픈소스 대안이 한 명의 개발자 손에서 나와 깃허브 별 4만개를 넘겼습니다. 이번 주말 개인 서버에 설치해볼 예정이라, 공부한 내용을 정리해 공유합니다. ▶ 프로젝트: World Monitor 실시간 글로벌 인텔리전스 대시보드입니다. 한 화면에 다음… | SungJae Shim](https://www.linkedin.com/posts/sungjae-shim-9b353159_%EB%B8%94%EB%A3%B8%EB%B2%84%EA%B7%B8-%ED%84%B0%EB%AF%B8%EB%84%90-%EC%97%B0-%EA%B5%AC%EB%8F%85%EB%A3%8C-%EC%95%BD-3%EB%A7%8C-2%EC%B2%9C-%EB%8B%AC%EB%9F%AC-%ED%95%9C%ED%99%94-4600%EB%A7%8C%EC%9B%90-%EC%88%98%EC%A4%80%EC%9E%85%EB%8B%88%EB%8B%A4-share-7452296257399861248-0t46)
 
@@ -592,6 +600,9 @@ Finance
   * [에이전틱 결제 프로토콜 지도: 왜 난립하는가 | GeekNews](https://news.hada.io/topic?id=26357)
   * "ACP, UCP, A2P, AXTP, x402. 눈이 흐려졌다면 당신만 그런 게 아니다"—난립처럼 보이는 에이전틱 결제 프로토콜들이 사실은 **같은 문제를 푸는 게 아니라**(상거래 vs B2B vs 에이전트 간 결제) 서로 다른 문제 영역을 겨냥한다는 정리. 인터넷은 정보 전달용으로 설계돼 결제 계층이 비어 있고(HTTP 402 Payment Required는 1997년 정의됐지만 실사용 없음), 에이전트가 그 공백을 드러냄—새 고객 유형(AEO), 채팅 인터페이스=결제 창구, 새 사기 위험(승인된 사용자·정당한 결제 수단인지 즉시 검증)
   * 계층별 지도—**신뢰 계층이 결제보다 먼저**: ERC-8004 Trustless Agents(MetaMask·Google·Coinbase·Ethereum Foundation의 온체인 신원·평판 레지스트리, Draft EIP) vs Visa Trusted Agent Protocol(판매자가 신뢰 에이전트를 일반 봇과 구분하는 검증 서명). **커머스**: ACP(OpenAI+Stripe, ChatGPT에서 Walmart·Etsy·Instacart 실운영, 장바구니·결제 토큰·체크아웃을 규정한 거래 중심 표준) vs UCP(Google+Shopify, 판매자가 capability manifest를 게시하는 오케스트레이션 프레임워크—상거래의 DNS 역할, Google Search·Gemini 적용 예정)—ChatGPT와 Gemini 양쪽 노출엔 둘 다 지원해야 하는 상황. **네트워크 수준**: Visa Intelligent Commerce(2026 하반기 예정)·Mastercard Agent Pay. 결론은 단일 표준이 아니라 역할이 다른 프로토콜이 계층적으로 결합된 스택으로 진화한다는 것
+* [안전한 프로토콜의 설계: 책의 원리를 보고, 토스페이먼츠 사례로 다시 읽는 결제 프로토콜 | Google Slides](https://docs.google.com/presentation/d/17eNhL5yOW2tGl61Ns5z75rIDF66s2C8T)
+  * 『스타트업 서비스 설계는 처음인데요』 4장 13절 발표 자료(29장, 발표 노트 포함). "왜 금액과 결제 신청을 한 번에 보내지 않을까?"에서 출발해 책의 가상 결제 프로토콜을 8단계로 고쳐 간다—식별(리플레이 공격·금액 변조 → 식별자 → 결제 준비/결제 2단계 분리로 금액은 서버가 정하고 시도를 기록) → 상태 확인(타임아웃 '로미오와 줄리엣 버그', 클라이언트 타임아웃을 더 길게, 상태 조회, '처리 중' 상태 구분) → 복구(망 취소·무조건 취소, 주기적 대사와 Source of Truth)
+  * Part 2는 같은 원리를 토스페이먼츠 API로 대응—가맹점 orderId+토스 paymentKey 두 식별자, 브라우저를 거쳐 돌아온 amount를 서버 저장값과 대조 후 승인(신뢰 경계: 클라이언트 금액을 근거로 쓰지 않음), 인증/승인 분리와 시크릿 키·10분 만료, orderId 조회와 IN_PROGRESS면 같은 멱등키로 재승인, 8가지 Payment status, 취소 API와 멱등키·409, 웹훅, 남겨야 할 로그 필드, 거래·정산 조회 API로 양방향 대사(transactionKey 단위). 결론: 요청 하나가 아니라 거래의 생명주기를 설계하라
 * [Autumn - Pricing and Billing](https://useautumn.com/)
   * [Autumn is an open-source pricing & billing platform](https://github.com/useautumn/autumn)
   * [몇 줄의 코드로 SaaS 요금제를 자동화하다 – 오픈소스 빌링 플랫폼 Autumn](https://digitalbourgeois.tistory.com/1605)
