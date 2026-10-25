@@ -385,7 +385,12 @@
   * [HWPJS](https://ohah.github.io/hwpjs/)
   * [@ohah/hwpjs - 러스트로 만든 hwp 뷰어 | GeekNews](https://news.hada.io/topic?id=24876)
 * [iced: A cross-platform GUI library for Rust, inspired by Elm](https://github.com/iced-rs/iced)
+  * [iced - A cross-platform GUI library for Rust](https://iced.rs/)
   * [Building a simple text editor with iced, a cross-platform GUI library for Rust - YouTube](https://www.youtube.com/watch?v=gcBJ7cPSALo)
+  * [Rust Iced Tutorial: Build a Desktop App with a Real API | Codynn - YouTube](https://www.youtube.com/watch?v=CQsXK973zdE)
+    * [Build a Desktop App in Rust with Iced – Part 1 | Codynn](https://www.codynn.com/documentation/build-a-desktop-app-in-rust-with-iced-part-1)
+    * [The Elm Architecture in Rust: Why Iced Apps Are Easy to Reason About | Codynn](https://www.codynn.com/blogs/read/the-elm-architecture-in-rust-why-iced-apps-are-easy-to-reason-about)
+    * 53분 입문 튜토리얼 1부(2026-10-13, Iced 0.14). 사이트 가동 여부·응답 속도를 보여주는 데스크톱 앱 Pulse 제작—Docker Compose로 백엔드+Postgres를 띄우고, API 문서를 serde 구조체로 옮기고, Iced 앱의 4요소(state·message·update·view)를 익힌 뒤 reqwest+Iced Task로 창을 멈추지 않고 백그라운드에서 실시간 데이터 로드. 구조체·enum·match 정도의 기본 Rust만 필요
 * [imageflow - High-performance image manipulation for web servers. Includes imageflow_server, imageflow_tool, and libimageflow https://docs.imageflow.io ](https://github.com/imazen/imageflow)
 * [IronCalc: Main engine of the IronCalc ecosystem](https://github.com/ironcalc/IronCalc)
   * [IronCalc - Open-Source Spreadsheet Engine](https://www.ironcalc.com/)
