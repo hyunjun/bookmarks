@@ -1969,6 +1969,10 @@ SQL
     * [7년간의 오픈소스 DB 개발에서 배운 것 | GeekNews](https://news.hada.io/topic?id=4096)
   * [Building rqlite 9.0: Cutting Disk Usage by Half | Vallified](https://www.philipotoole.com/building-rqlite-9-0-cutting-disk-usage-by-half/)
     * [rqlite 9.0 개발중 - 디스크 사용량 절반으로 줄이기 | GeekNews](https://news.hada.io/topic?id=16231)
+  * [Twelve years of distributed SQLite | Philip O'Toole](https://philipotoole.com/twelve-years-of-distributed-sqlite/)
+    * [분산 SQLite의 12년 - rqlite에서 클라우드 서비스까지 | GeekNews](https://news.hada.io/topic?id=35911)
+    * rqlite 저자가 쓴 '분산 SQLite' 범주의 역사(2026-10). 2014년 jut.io에서 클러스터의 소량 관계형 저장 문제를 풀려고 SQLite 앞에 Raft 로그를 둔 rqlite를 공개—Raft+SQLite 결합의 첫 오픈소스(goraft→2016년 HashiCorp Raft). 처음부터 CP 시스템(리더 경유 쓰기·과반 승인·소수 파티션은 쓰기 거부)이고 HTTP API·읽기 일관성 수준·스냅샷이 그 결정에서 파생. 앞선 사례로 Expensify Bedrock(Paxos, 2016 공개)·ActorDB(Erlang). 2017 Canonical dqlite(LXD·MicroK8s용, Go→C 재작성; rqlite는 서버, dqlite는 임베드 라이브러리—Shuttleworth가 직접 전화했지만 맞지 않았다는 일화)
+    * 2021 Litestream(Ben Johnson): 합의 없이 WAL을 S3로 스트리밍해 단일 노드 재해 복구—"대부분 앱은 클러스터가 필요 없다"는 주장이 'SQLite is enough' 흐름을 낳았고 rqlite v8의 WAL 처리에도 영감. 2022 Fly.io LiteFS(파일시스템 수준 복제+Consul 리스), cr-sqlite(CRDT 확장, AP 코너·local-first), libSQL/Turso(SQLite 포크+엣지 복제, 2026 Supabase에 인수), SQLite Cloud(Raft 호스팅), Cloudflare D1·Durable Objects. 12년의 교훈 셋—SQLite 엔진+외부 복제라는 핵심은 8개 이상 팀이 재발명할 만큼 옳았다, 설계 공간은 합의(rqlite·dqlite)→스트리밍(Litestream)→머지(cr-sqlite) 세 코너가 순서대로 등장했고 논쟁은 대개 "어떤 질문인가"의 차이, 돈은 아이디어가 8년간 오픈소스였던 뒤 서비스로 판 플랫폼에 갔다
 * [simple-graph: This is a simple graph database in SQLite, inspired by "SQLite as a document database"](https://github.com/dpapathanasiou/simple-graph)
 * [soul: 🕉 A SQLite REST and realtime server](https://github.com/thevahidal/soul)
   * [SOUL - SQLite REST 및 실시간 서버 | GeekNews](https://news.hada.io/topic?id=13950)
