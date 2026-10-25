@@ -341,6 +341,10 @@ Finance
   * 5편을 관통하는 리뷰의 질문—정답률을 넘어 **계산의 검증 가능성, 요약의 충실성, 재현성·감사 가능성, 협업 구조, 평가 방식**까지 봐야 금융 AI 에이전트를 신뢰할 수 있다는 프레임
 * [2512.10971 AI-Trader: Benchmarking Autonomous Agents in Real-Time Financial Markets](https://arxiv.org/abs/2512.10971)
   * 주식하는 AI 에이전트, [홍콩대가 만든 밤낮없이 시장을 보고, 뉴스도 읽고, 스스로 판단하는 AI-Trader는 정작 성적표는 꽤 인간적](https://www.facebook.com/socialego/posts/pfbid0vDy6kZfygZnjAid17TiQJvvB3PunVbnpTSiAV1RHCYcDwnR9Fhszump1fS6kRWVKl)
+* [2610.26101 Reliable Before Profitable: QuantHarness for Governing Financial Strategy Development with LLM Agents](https://arxiv.org/abs/2610.26101)
+  * [수익보다 신뢰성이 먼저다: LLM 금융 전략 개발을 통제하는 2계층 하네스 QuantHarness와 FinRelBench | digitalbourgeois](https://digitalbourgeois.tistory.com/4040)
+  * 상하이테크대(Jiasheng Mao·Jiacheng Liu·Hengwei Ye·Zheng Tian, 2026-10-19). LLM 에이전트가 자연어 리서치 요청을 백테스트까지 끝낸 전략 코드로 바꿔도 실행 성공·성과 지표만으로는 요청에 충실했는지 알 수 없다—다른 규칙을 구현하거나, 의사결정 시점에 없던 정보를 쓰거나(시간적 불일치), 오류 수정·후보 선택 과정에서 전략이 바뀌거나, 반복 백테스트로 과적합. 그래서 신뢰성을 **궤적 수준**에서 다룬다: 중간 산출물이 다음 상태로 넘어가는 방식을 통제하고 최종 결과를 정당화할 증거를 보존
+  * 2계층 하네스—금융 특화 Workflow(요구사항 명세→데이터 근거 확인→전략 구성→테스트→검토)와 단계별 정보·행동·커밋 경계를 강제하는 Harness Core; 실행은 전략 승인·동결 또는 미승인 종료로 끝나고 결정·산출물을 연결한 구조화 실행 기록을 남김. 벤치마크 FinRelBench: 중국 A주 롱온리, 일별 점수·분 단위 주문 인터페이스의 명시적 규칙 과제 97개를 과제 성공·경계 준수·사후 감사·리플레이로 평가. GPT-5.5 공통 생성 모델에서 Task Success 90.72%(비교 시스템 74.23~84.54%), 스트레스 테스트에서 경계가 표적 위반을 차단, 실행 기록이 증거 검색·결정 재현을 개선. 성공률은 수익률이 아님. Y-Research-SBU의 동명 HFT 레포 QuantHarness와는 별개
 * [2610.26438 Fake News, Real Crashes: Information Injection Attacks on LLM Financial Trading Agents](https://arxiv.org/abs/2610.26438)
   * [LLM 트레이딩 에이전트는 가짜 뉴스에 얼마나 취약한가: 프롬프트 인젝션과 정보 주입 공격 비교 | digitalbourgeois](https://digitalbourgeois.tistory.com/4038)
   * Texas A&M(Mengxiao Wang·Nitesh Saxena, 2026-10-19). 뉴스를 근거로 실제 자본을 거래하는 LLM 에이전트가 조작된 헤드라인을 구별하지 못하고, 같은 피드·비슷한 정책을 쓰는 탓에 가짜 글 하나가 여러 에이전트를 같은 순간 같은 거래로 몰 수 있다는 문제. 모델의 지시(control plane)를 노리는 프롬프트 인젝션과 달리 에이전트가 신뢰하는 증거(data plane)를 노리는 **정보 주입 공격** 벤치마크 V-bench—5가지 주입 벡터(사실 오염·감정/서사·선택적 증거·구조화 신호·다중 출처 연계)×7가지 가짜 이벤트 범주, 미국 주식 15종목·약 1만 건 결정
