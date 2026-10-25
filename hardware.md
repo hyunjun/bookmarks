@@ -153,6 +153,9 @@ Hardware
   * SK하이닉스(Minki Jeong 외, 2026-07). 양자화된 가중치를 커스텀 HBM 근처에서 역양자화(near-memory dequantization)해 AI 추론 가속을 확장. LinkedIn 맥락: DRAM이 적은 DGX Spark에 DeepSeek V4 Flash를 SSD expert streaming으로 올리면 초당 1토큰, H100 4장 GLM-5.2는 약 15 tok/s—HBM expert 캐시·streaming/연산 overlap·expert 양자화/역양자화를 실험하다 PCIe 병목 안에서 "DRAM→HBM 로드 시점에 H/W로 dequant"를 떠올렸는데 마침 이 논문을 발견(작은 모델일수록 효과가 클 것이라는 평)
 * [Cognitum — AI Agent Platform: Seed Device, MCP Tools & Developer SDK](https://cognitum.one/)
   * WASM 런타임·암호화 ID·벡터 스토리지 내장 Seed 하드웨어 + Rust/Node.js/Python SDK
+* [gpu-unlock: Unlock FP/BF16 instruction issue rate on Nvidia 3000's cards to their professional equivalents | Zagitta](https://github.com/Zagitta/gpu-unlock)
+  * [gpu-unlock-ada: GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally | JustAResearcher](https://github.com/JustAResearcher/gpu-unlock-ada)
+  * NVIDIA GeForce 카드의 FP16/BF16(FP32 누산) 텐서 명령 발행 속도 제한(speed-select)을 드라이버 로드 전에 해제하는 Linux 커널 모듈—패치된 NVIDIA 드라이버나 UEFI 앱이 아니라 FLR 후 순정 드라이버가 바인딩되므로 드라이버 업데이트마다 수정 불필요. Ampere(GA102/103/104/106): 3090 Ti 8192³ GEMM BF16 87.5→157.4 TFLOPS 등 카드별 +25~80%. Ada 포트(RTX 4090·4070 Ti SUPER 등): 4090 FP16/BF16→FP32 명령 처리량 약 165→331 TF/s(2×)지만 실제 cuBLAS GEMM은 shape별로 0~34% 향상. 커뮤니티 보고 기반의 실험적 레지스터 해킹이라 안정성 보증 없음
 * [SolidCraft · Open Source Parametric CAD in Rust](https://solidcraft.io/)
   * [solidcraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP](https://github.com/tangency-labs/solidcraft)
   * 순수 Rust로 만든 오픈소스 파라메트릭 3D CAD(Apache-2.0, Windows·macOS·Linux·FreeBSD 데스크톱과 브라우저). 치수·각도·기하 제약을 건 스케치→돌출·회전·필렛·셸로 솔리드→편집 가능한 피처 타임라인에서 이전 피처 수정·재빌드(기판 폭·벽 두께·인클로저 높이 같은 이름 있는 파라미터), 어셈블리·조인트·구성, STEP·메시 가져오기/내보내기. 데모: 빈 설계에서 Raspberry Pi 4 케이스를 만들고 높이 24→32mm로 바꾸면 전부 재빌드
