@@ -2494,6 +2494,10 @@ CVPR2016)
   * [딥러닝 시대의 2막을 열다 - 미분이 필요없는AI | Suk Hyun Kim | 18 comments](https://www.linkedin.com/posts/suk-hyun-kim-31ba9b369_slwsakrhysji-snzswmudqrgu-ai-ugcPost-7399939021369397248-lrOQ)
     * NVIDIA와 옥스퍼드대가 새벽에 발표한 EGGROLL 논문은 표면적으로는 단순한 기술적 개선
     * 그러나 그 이면을 자세히 들여다보면, 딥러닝의 기존 전제를 송두리째 뒤흔드는 패러다임의 변화
+* [Dust: Pretraining Transformers Without Backpropagation | Q Labs](https://qlabs.sh/research/dust)
+  * [dust: Pretraining Transformers Without Backpropagation](https://github.com/qlabs-eng/dust)
+  * Q Labs(Samip Dahal·Bishwas Mandal·Serdar Gülbahar·Akshay Vegesna, 2026-10). 트랜스포머 LM 사전학습에서 역전파와 경쟁하는 첫 zeroth-order 방법. 가중치 대신 **활성값을 토큰마다 독립적으로 교란**(node perturbation)해 각 토큰을 '가상 개체군' 멤버로 삼아 한 번의 forward로 전체를 병렬 평가하고, 손실 감소량으로 보상을 매겨 보상 가중 평균으로 그래디언트를 추정. 가중치 공간 ES인 EGGROLL(2511.16652) 대비 1M 토큰 이상에서 10³~10⁴배 효율
+  * FineWeb·8층 512폭 GPT에서 개체군 64~16k, 100k~20M 토큰 스윕: 개체군이 커질수록 역전파에 근접하고 100k·1M 토큰에서는 역전파 아래로 내려감(SGD·Adam 모두, 20M에서 극한 추정 4.43). 통념과 반대로 큰 모델이 개체군 효율이 더 좋아 243M 모델이 120배 작은 모델을 대부분의 개체군에서 앞섬. 역전파 그래디언트와의 코사인 유사도가 개체군과 함께 cos(K)=c_max/√(1+c/K) 법칙으로 상승하고 1B 토큰까지 정렬 유지. 미분 가능성이 필요 없어 아키텍처 탐색 공간이 열리지만 실용화엔 수 자릿수의 연산 효율 개선 필요(bitter lesson 관점). 최소 구현 코드: Linux·bf16 NVIDIA GPU, 개체군 256(1 GPU)~16384(8 GPU), 역전파 베이스라인 포함(Python, MIT)
 * [2604.21691 A Scientific Theory of Deep Learning Will Come](https://arxiv.org/abs/2604.21691)
   * [딥러닝에 대한 과학적 이론이 나올 것이다 | GeekNews](https://news.hada.io/topic?id=28883)
   * 신경망 학습의 "learning mechanics" 이론 프레임워크 제안. 5가지 연구 방향(해석 가능 이상화, 다루기 쉬운 극한, 수학 법칙, 하이퍼파라미터 이론, 보편적 행동)과 7가지 필요 조건
@@ -3098,6 +3102,10 @@ CVPR2016)
 * [Muse: Text-To-Image Generation via Masked Generative Transformers](https://muse-model.github.io/) Transformer 기반. 기존의 Diffusion 이나 Autoregressive 모델의 성능을 능가하는 SOTA 달성. 모델 크기 900M, Inference 속도도 더 빠르다고 함
 * [Novel AI 찍먹해본 후기 | Univdev](https://www.univdev.page/posts/novel-ai-review/)
 * [PromptBase | DALL·E, Midjourney & GPT-3 Prompt Marketplace](https://promptbase.com/)
+* [PromptDirector 提示词导演 · Spot it. Save it.](https://promptdirector.cn/)
+  * [PromptDirector: Spot it. Save it. Free, local-first Chrome extension for images, videos and prompts. Explore 2,000+ curated cases and connect your library to AI Agents via MCP](https://github.com/wchao6891/PromptDirector)
+  * AI 이미지·영상 작품과 공개 프롬프트를 한 번에 저장하는 로컬 우선 Chrome/Edge 확장(계정 불필요, JavaScript, Apache-2.0). Jimeng(即梦)·Higgsfield·Midjourney·X(작성자 답글 속 프롬프트까지)·WeChat·Feishu 등 20여 사이트 캡처, 이미지 중심 케이스 월+태그·프로젝트, 유사 케이스 추천, 프레임 단위 메모. 로컬 MCP로 Codex·Claude Code·WorkBuddy가 라이브러리를 검색·읽기·저장, 사이드바 Assistant가 현재 페이지·영상을 캡처하고 레퍼런스를 찾아줌. Composer가 레퍼런스 케이스를 재사용 가능한 창작 Skill로 증류하고 Skill+레퍼런스로 샷 단위 영상 프롬프트 작성(1.28: Skill 전체 파일·자료 묶음 내보내기)
+  * 사이트는 2,000+ 큐레이션 케이스를 합집으로 탐색·가져오기—V01~V12 주제별(광고·패션·단막극·공포·액션·음댄스·게임 등), Melies 촬영 문법(카메라 무브·앵글·조명·구성·렌즈·색·전환) 시리즈, 即梦·小黑盒·Higgsfield·EvoLink 선집, Seedance 2.5·GPT Image 2 최신 영상 사례
 * [Qwen-Image-2.1: Compact, Efficient, and Unified Image Creation | Qwen Blog](https://qwen.ai/blog?id=qwen-image-2.1)
   * [Qwen-Image-2.1: Qwen's most powerful open-source image generation model](https://github.com/QwenLM/Qwen-Image-2.1)
     * Diffusers(QwenImage21Pipeline)·ComfyUI·vLLM-Omni·SGLang·LightX2V Day-0 지원. 2026-10-09 Alibaba Cloud Model Studio에 Pro·Turbo API 정식 출시. Python, Qwen Research 라이선스
@@ -3163,6 +3171,12 @@ CVPR2016)
     * [새로운 오픈 소스 AI 비디오가 최고입니다! | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/600489)
 * [SUPIR - XPixel Group](https://supir.xpixel.group/)
   * [이미지 업스케일링 끝판왕 - SUPIR (스테이블 디퓨전) - YouTube](https://www.youtube.com/watch?v=FxYnHqijgAc)
+* [SUPRA-Tex: 3D Generation with Super-Aligned Texture | Huawei](https://supra-3d.github.io/supratex/)
+  * [SUPRA-Tex: 3D Generation with Super-Aligned Texture](https://github.com/supra-3d/supra-tex)
+  * [2610.22352 SUPRA-Tex: 3D Generation with Super-Aligned Texture](https://arxiv.org/abs/2610.22352)
+  * [Supra-Tex online demo | Hugging Face Space](https://huggingface.co/spaces/UniLat3D/Supra-Tex)
+  * Huawei·상하이교통대·화중과기대(Chen Yang·Jiemin Fang·Fanpeng Meng 외, 2026-10). 이미지 한 장에서 글자·패턴·재질 경계 같은 세부를 유지한 텍스처 3D 에셋을 생성—참조 뷰에서 PBR 재질을 예측해 표면 정렬 3D 관측으로 인코딩하고, 보이지 않는 영역은 Interleaved Flow Transformer로 완성해 base color·metallic·roughness 텍스처가 든 relightable GLB 출력. 이미지→3D뿐 아니라 기존 메시에 카메라·재질 관측을 맞춰 텍스처링도 가능. 전부 오픈소스 데이터로만 학습했는데 상용 모델과 경쟁—45개 입력·512쌍 사람 평가에서 Hunyuan3D 3.1 대비 84.8%, Rodin 2.5 75.5%, Tripo H3.1 67.8%, Meshy 7.1 57.6%, Hi3D 3.0 51.1% 선호
+  * 공개: 3D Completion 2.1B·Material Adapter 33.6M 가중치(Hugging Face), 이미지→3D·메시 텍스처링 추론 코드와 학습 개요(2026-10-19), Studio 투어. Linux·NVIDIA GPU·CUDA 12.4, RTX 3090 24GB에서 CPU 오프로드로 전체 파이프라인 동작, FlashAttention 권장(Python, MIT). 프로젝트 페이지에 한 이미지로 만든 장면에서 로봇 pick & place·조명 변경을 시뮬레이션하는 Real2Sim 데모
 * [Tensor.Art | FREE online image generator and model hosting site!](https://tensor.art/)
   * [사진 만드는 AI 혁명! 기존 AI는 다 버리세요! Tensor Art AI - YouTube](https://www.youtube.com/watch?v=hSmkwC491T8)
     * [프롬프트 문구 종류별 정리](https://letsgotitan.tistory.com/38)
@@ -3179,6 +3193,11 @@ CVPR2016)
   * [ArcReel — 开源 AI 短剧 / 漫剧生成工作台, 小说一键到成片](https://arc-reel.com/)
   * 11개 내장 공급자·100+ 모델(Sora 2·Veo 3.1·Seedance 2.0·Nano Banana 2·GPT Image 2) 연동, 컷 간 캐릭터 일관성, 剪映(CapCut) 초안 직출. 5.2k stars
   * AI 에이전트 기반 오픈소스 비디오 생성 워크벤치. 소설→캐릭터/장면/소품 디자인→극본→분경도(storyboard)→비디오 파이프라인, 컷 간 캐릭터·장면 일관성 유지. Nano Banana 2·Veo 3.1·Grok·Seedance·OpenAI 연동, Claude Agent SDK 기반. Python, Docker
+* [ATAS: Any Time, Any Space — A World-State-Centric Framework for Agentic Video Generation | ziplab](https://github.com/ziplab/ATAS)
+  * [ATAS project page](https://lhmd.top/atas/)
+  * [2610.20571 Any Time, Any Space: A World-State-Centric Framework for Agentic Video Generation](https://arxiv.org/abs/2610.20571)
+  * 저장대·Monash·UC Berkeley BAIR·Adelaide(Bohan Zhuang 그룹). 장편 에이전틱 영상 생성에서 프롬프트나 최근 프레임만 넘기면 같은 장소를 다시 찍거나 이전 사건을 다른 각도에서 재촬영할 때 공간·시간 일관성이 깨지는 문제에, 영화 한 편 뒤에 **하나의 영속 world state**를 둠—world-state compiler가 시나리오를 장면·카메라·시간·사건이 명시된 bounded shot request로 컴파일하고, 모든 장소의 정적 기하를 한 좌표계에 둔 scene memory와 장면·사건·시간으로 색인된 동적 관측 event memory에서 증거를 꺼내 렌더한 컨텍스트로 영상 생성기를 조건화
+  * 생성된 클립은 재구성·정합(Pi3X·SAM3 기반 geometry 서비스)·상태 검사를 통과해야만 world state를 갱신하고(영상 전달은 메모리 수용과 독립), 영상 생성기 4종 모두에서 샷 간 일관성 지표 전부 개선·백본별 종합 최고점, 공간 재방문·사건 재촬영에서 비교 에이전트·3D 가이드 방식을 앞서고 사람 평가 6개 기준 모두 최고. 클라이언트는 GPU 불필요(geometry 서비스만 약 20GB GPU), `atas run --screenplay …`로 어떤 평문 시나리오든 실행, 재실행 시 유료 생성 재사용(Python, MIT)
 * [Control-A-Video: Controllable Text-to-Video Generation with Diffusion Models](https://controlavideo.github.io/)
 * [CutClaw: Agentic Hours-Long Video Editing via Music Synchronization | GVCLab](https://github.com/GVCLab/CutClaw)
   * 음악 동기화 기반으로 수 시간 길이 영상을 에이전트가 편집. Python, 979 stars
