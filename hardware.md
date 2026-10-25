@@ -157,6 +157,10 @@ Hardware
   * [solidcraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP](https://github.com/tangency-labs/solidcraft)
   * 순수 Rust로 만든 오픈소스 파라메트릭 3D CAD(Apache-2.0, Windows·macOS·Linux·FreeBSD 데스크톱과 브라우저). 치수·각도·기하 제약을 건 스케치→돌출·회전·필렛·셸로 솔리드→편집 가능한 피처 타임라인에서 이전 피처 수정·재빌드(기판 폭·벽 두께·인클로저 높이 같은 이름 있는 파라미터), 어셈블리·조인트·구성, STEP·메시 가져오기/내보내기. 데모: 빈 설계에서 Raspberry Pi 4 케이스를 만들고 높이 24→32mm로 바꾸면 전부 재빌드
   * 내장 MCP 서버로 AI 에이전트가 모델링 명령 실행·형상 측정·파라미터 변경·내보내기를 하고 결과 설계를 SolidCraft에서 열어 편집(AI는 선택 사항). 기하 커널 SolidCore는 NVIDIA 오픈소스 C++ 라이브러리 SMLib의 Rust 포트. 0.11~0.14는 릴리스 주소 이동으로 한 번 수동 업데이트 필요
+* [SOMA – Open-source AI CAD for Claude Code, Codex and CadQuery](https://somacad.app/)
+  * [SOMA: Desktop app for designing parametric 3D models in CadQuery together with the coding agent of your choice](https://github.com/Kai-Jungsthoefel/SOMA)
+  * "Solid Object Modeling with Agents"—AI가 CAD를 하고 사람은 디자이너가 되는 데스크톱 앱(TypeScript, GPL-3.0, Windows·macOS Apple Silicon·Linux, Python·CadQuery·Git·CalculiX 내장으로 1GB+). "PETG로 인쇄할, 뚜껑에 통풍구가 있는 Raspberry Pi 5 케이스"처럼 말하면 에이전트가 CadQuery Python 코드로 모델을 쓰고 SOMA가 변경마다 빌드해 3D로 보여줌—면·모서리를 클릭해 CAD 기하 기준 정확한 치수·거리·각도 측정, 화면에 화살표·메모를 그려 보내거나 부품을 클릭해 지시, 에이전트가 조절 가능하게 만든 파라미터는 코드 없이 수정. 케이스·브래킷·마운트가 필요한 메이커용 "CAD의 바이브 코딩"
+  * 자체 에이전트가 아님—Claude Code·OpenCode·Codex CLI·Gemini CLI 등 파일을 읽고 명령을 실행하는 CLI 에이전트를 모델 폴더의 내장 터미널에서 돌리고(구독·모델·권한은 내 것), `soma build/analyze/render` CLI와 AGENTS.md 규칙·스킬로 모델링·검사·내보내기를 가르침. 에이전트의 모든 단계가 타임라인에 남아 이전 버전 복원, 슬라이더로 분해도, Python으로 관절·기어·카메라 애니메이션(충돌 검사·영상 렌더), 출력용 오버행·벽 두께 검사와 CalculiX FEM 강도 해석, PDF·DXF 도면, STEP·STL·3MF 내보내기. v0.10.1 프리뷰, 패키지 미서명
 * [The Personal AI Computer | Autonomous](https://www.autonomous.ai/computer)
   * [autonomous-computer: Open-source hardware and software designs for building personal AI computers](https://github.com/autonomous-ai/autonomous-computer)
   * 로컬에서 AI 모델을 완전 프라이빗하게 돌리는 커스터마이징·오픈소스 하드웨어. 자체 GPU로 3개 모델(AC2/AC4/AC8, 2×RTX 5090~4×RTX PRO 6000) 구성, 클라우드 연결·토큰 비용 없음. CAD·조립·BIOS 설정 공개
