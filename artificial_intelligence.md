@@ -9240,3 +9240,10 @@ Artificial Intelligence
   * [H3-World](https://github.com/Danzer1xxxxChan/H3-World)
   * [H3-World 데모 영상 | Facebook](https://www.facebook.com/watch/?v=1641075517469213)
   * 33B MiniMax-H3 비디오 생성 모델을 인터랙티브 월드 모델로 전환하는 프레임워크. 전용 액션 모듈 없이 자연어(캐릭터+카메라 지시)를 시간 정렬된 비디오 latent에 결합, temporal attention routing으로 액션 간 제어 누출 방지. 게임플레이 샘플 8,000개·LoRA 10,000스텝·학습 파라미터 0.199%의 경량 적응만으로 정밀한 시간 단위 월드 제어 달성
+* [WorldPlay2: Extending Real-Time Interactive World Models in Control and Horizon](https://github.com/worldplay2/worldplay2)
+  * [WorldPlay2 프로젝트 페이지](https://worldplay2.github.io/)
+  * [2609.35560 WorldPlay2: Extending Real-Time Interactive World Models in Control and Horizon](https://arxiv.org/abs/2609.35560)
+  * [WorldPlay2 - YouTube](https://www.youtube.com/watch?v=_pFzHHslhgc)
+  * [Play WorldPlay2 in your browser | Reactor](https://reactor.inc/worldplay2)
+  * Zhang Haiyu·Sun Wenqiang·Wang Tengfei 외(2026-09-28). 실시간 인터랙티브 월드 모델의 두 난제—다양한 제어 입력의 모델링과 장기 일관성 vs 실시간 응답—를 ①분해된 하이브리드 제어 인터페이스(프레임 정렬 액션 제어 + 장면 외형·캐릭터 정체성·동적 이벤트를 분리한 구조화 의미 제어) ②과거 컨텍스트를 압축한 메모리 토큰을 자기회귀 student와 양방향 teacher가 공유해 긴 롤아웃 전체 대신 클립 단위로 점수를 평가하는 저비용 증류 ③few-step 초기화와 전체 롤아웃 리플레이로 증류를 안정화하는 Stable Forcing으로 해결
+  * 2026-10-06 가중치·추론 코드 공개(Python, Wan2.2 I2V-A14B 기반): WorldPlay2-Fast(자기회귀 4-step)·BI(양방향 40-step)·AR(자기회귀 40-step), TAE(causal VAE) 예정. 입력은 이미지+1인칭/3인칭 시점+WASD·화살표 액션 시퀀스+구간별 이벤트 프롬프트("비가 내리기 시작한다"→"비가 그치고 해가 난다") JSON. 기본 8 GPU(시퀀스 병렬+FSDP), FlashAttention/SageAttention·FP8 옵션. 10-07 Reactor 통합—B200 4장으로 서빙하고 브라우저 프런트에서 WASD로 걷고 화살표로 둘러보며 플레이
