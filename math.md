@@ -135,6 +135,12 @@ Math
   * [최승준 - 그랜트 샌더슨 – AI와 수학의 미래 (2/3) | Facebook](https://www.facebook.com/seungjoon.choi/posts/pfbid0ibKiMNwBZbHRvk1EzodR4icZeJ9qySPWWM6Vj7hdYhgpLyWdghaqEy8kybjACdWDl)
   * [최승준 - 그랜트 샌더슨 – AI와 수학의 미래 (3/3) | Facebook](https://www.facebook.com/seungjoon.choi/posts/pfbid0Q6t1DBSLyKxJadj7PErnJ61tno6E1wZWXtBgD6E8zKwKP3ntTqz1cXpyWJMidmxYl)
   * 2026-06-30, 94분. "초지능이 가장 먼저 나타날 곳은 수학이다"—AI는 다른 어떤 분야보다 수학에서 빠르게 진보해 다른 분야의 AI 진보가 어떤 모습일지를 구체적으로 보여주지만 수학 안에서도 지형은 들쭉날쭉. 수학사 주요 개념적 돌파구의 본질과 현재 AI 능력의 차이, AI가 인간의 이해를 늘리는가 줄이는가, 문헌 속 아이디어를 AI가 체계적으로 연결하기만 해도 얻을 수 있는 미개발 잠재력(overhang), AI로 가장 크게 바뀌는 분야를 지망하는 학생들에 대한 조언. 최승준의 한국어 번역 3부작
+* [There's never been a better time to go into math | 3Blue1Brown - YouTube](https://www.youtube.com/watch?v=LKrwhjOI8Nc)
+  * [오픈AI가 수학 원고 700편을 쏟아낸 뒤, 3Blue1Brown이 "지금이 수학에 들어갈 때"라고 말한 이유 | AgentOS - YouTube](https://www.youtube.com/watch?v=lkErhEIdWJY)
+  * [100 Reactions to 100 Solutions | Proofs and Prompts](https://proofsandprompts.com/2026/10/08/100-reactions-to-100-solutions/)
+  * 그랜트 샌더슨, 2026-10-16, 41분(한국어 자막 있음). OpenAI 수학 원고 700편 공개 직후 "박사과정생인데 내일 뭘 해야 하나"라는 질문에 답하는 영상. 수학자가 하는 일(증명·추측·이론 구축·교육), 수학이 가치 있는 이유(응용·문제 해결 근육·즐거움), 돈의 출처(교육이 최대, NSF·사이먼스 재단·산업)를 표로 놓고 기계가 칸마다 사람보다 잘해지면 무엇이 남는지 하나씩 따져 본다
+  * 증명 기계가 완성되어도 가치·자금 구조는 거의 그대로—응용은 5차방정식 불가해성 증명이 아니라 군론처럼 이론 구축에서 나오고, 문제 풀이 훈련은 기계가 더 무거운 걸 들어도 헬스장이 유효한 것과 같다. 바뀌는 것은 문화와 학술 공로 배분: 증명은 수치 계산처럼 이해를 위한 "원시 데이터"로 보고 이론 구축을 목표로 삼아야 하며(Navier–Stokes 증명보다 그 아이디어를 이론으로 꽃피운 사람에게 밀레니엄상을), 개척의 기쁨을 잃는 것은 솔직히 손실. 교육은 설명의 명료함이 아니라 동기로 제한되는 관계적 일이라 가장 안전
+  * "지금이 가장 좋은 때"인 이유는 AI가 새 기회를 열어서가 아니라 공동체 전체가 바뀌어야 한다는 걸 알고 지침을 찾고 있어 신입이 그 모습을 정할 수 있기 때문. 내일 할 일: 자신이 사랑하는 쪽(이론 구축이든 인간을 위한 수학이든 시각화든)에 기대고, 이해의 척도가 구술 발표로 옮겨가니 발표를 많이 하고, 동료와 긴 산책을 하며 왜 수학을 하는지 이야기하라. AgentOS 영상은 원본의 핵심 11대목을 클립+한국어 자막으로 28분에 요약(IAS 콘스탄틴 코글러의 9월 27일 증명 일화 포함)
 * [This is on Harvard's entry exam.. | Brainblast SAT Prep App](https://www.youtube.com/shorts/aWnZ5cSfFF8)
   * (m−7)/(7−m) = 7 풀이 함정 문제. 기계적으로 양변에 분모를 곱해 풀면 m=7이 나오지만 대입하면 0/0이라 모순. 분자 m−7 = −(7−m)이므로 좌변은 m≠7에서 항상 −1 → −1=7은 불가능, 해 없음(no solution). 구한 해를 원식에 검산하는 습관의 중요성
 * [One of the world's greatest mathematicians explains 6 essential concepts of math | Terence Tao - YouTube](https://www.youtube.com/watch?v=OOMx2BHHWtE)
