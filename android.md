@@ -543,6 +543,10 @@ Android
 * [NVIDIA AndroidWorks 1R2 available now! Accelerate your build times with Nsight Tegra and IncrediBuild](https://developer.nvidia.com/content/nvidia-androidworks-1r2-available-now-accelerate-your-build-times-nsight-tegra-and-incredibu)
 * [ObjectDetectionMLKitApp](https://github.com/wgfactory/ObjectDetection_MLKitApp) MLKit Object Detection Android Example Application
 * [OCR_Plus_Table](https://github.com/JaeMinYooon/OCR_Plus_Table) table OCR -> excel
+* [OpenSMS: An open-source solution for a SMS API Server hosted locally | daslearning-org](https://github.com/daslearning-org/OpenSMS)
+  * [Self Host SMS Gateway | Open Source SMS API Application | DasLearning - YouTube](https://www.youtube.com/watch?v=wNXH_3onjfg)
+    * 7분 데모(2026-10-16, 설명 기준, 자막은 429로 미확인). 활성 SIM이 든 Android 폰 하나로 내 SMS API 게이트웨이를 셀프호스팅할 수 있느냐는 질문에 "된다"로 답하는 영상
+  * Android 폰을 로컬 SMS API 서버로 바꾸는 오픈소스 앱(Python—FastAPI API 계층+KivyMD/Kivy UI, Apache-2.0)—광고 없음·프라이버시 중심. 릴리스 APK 설치 후 권한 부여(Android가 SMS 권한을 막으면 앱 설정의 '제한된 액세스 허용'), Start Server를 누르면 첫 실행 때 API 키 생성, `POST /sms/`에 Bearer 키와 `{number, text}` JSON을 보내면 발송. 향후 Quectel EC200U USB 보드로 Linux·Windows 데스크톱 지원 계획, buildozer로 APK 빌드
 * [PHONK - Self-contained Creative scripting toolbox for new and old Android devices](https://phonk.app/)
 * [PowerPrefs - A Powerful Android SharedPreferences wrapper Library Written in Kotlin 🤩🔥](https://github.com/tarifchakder/PowerPrefs)
 * [Profiler를 통한 메모리 관리 #안드로이드 스튜디오](https://developer88.tistory.com/229)
