@@ -132,6 +132,8 @@ App
 * [Kagi News 공개 | GeekNews](https://news.hada.io/topic?id=23381)
 * [KDE Connect | KDE Connect: A project that enables all your devices to communicate with each other.](https://kdeconnect.kde.org/)
   * [완전 무료! 아이폰 → 윈도우, 맥북 다 됨! 아이폰 사진, 파일 더 쉽게 보내는 방법 - YouTube](https://www.youtube.com/watch?v=AB-AcDFgPwc)
+  * [Tether: Modern, native macOS companion for Android built on the KDE Connect protocol](https://github.com/subhashhhhhh/Tether)
+    * Android 폰의 KDE Connect 앱과 짝지어 쓰는 네이티브 Mac 앱(Swift·SwiftUI, Qt·Electron·외부 라이브러리 없음, 2.3MB, GPL-2.0). 폰 알림을 Mac 알림 센터에서 바로 답장(SMS·WhatsApp·Telegram·Signal), 인증 코드 복사 버튼, 문자 대화 동기화, 파일·클립보드 양방향 전송, 폰 울리기·잠금·제어, 메뉴바 상주. macOS 15+, Apple Silicon·Intel, `brew install --cask subhashhhhhh/tether/tether`
 * [LANDrop - Drop any files to any devices on your LAN](https://landrop.app/) send-anywhere 유사
 * [lantern - Open Internet for everyone. Lantern is a free desktop application that delivers fast, reliable and secure access to the open Internet for users in censored regions. It uses a variety of techniques to stay unblocked, including P2P and domain fronting. Lantern relies on users in uncensored regions acting as access points to the open Internet. https://getlantern.org ](https://github.com/getlantern/lantern)
 * LDS [개발자와 디자이너의 협업을 위한 LINE 디자인 시스템, LDS 소개 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/line-design-system/)
@@ -478,6 +480,9 @@ App
 * [perch - See What’s Happening At Home](https://getperch.com/)
 * [ShareX: 🚀 Send and receive files in hassle-free way with fast speed! | akanshSirohi](https://github.com/akanshSirohi/ShareX/)
   * 같은 Wi-Fi·핫스팟의 기기가 앱 설치 없이 브라우저로 접속해 파일을 보고·올리고·내려받는 Android 파일 공유 앱—공유 폴더 또는 선택 파일만 공유하는 Private 모드, 브라우저 접근 승인·신뢰 기기 기억·취소, QR 연결, 전송 기록·실시간 속도, 스토어·ZIP 플러그인, 포트·HTTPS·숨김 파일·테마 설정. 로컬 전송은 인터넷 불필요. Java, AGPL-3.0
+* [Square: Unofficial YouTube Music / Spotify Premium client for Android, built in Liquid Glass](https://github.com/Lelonio/Square)
+  * 첫 실행 때 Spotify(Premium 계정 필요)나 YouTube Music(계정 없이 전체 카탈로그·뮤직비디오, Google 로그인하면 내 플레이리스트 연동) 중 하나를 고르고 설정에서 바꿀 수 있는 비공식 Android 음악 클라이언트(Kotlin+librespot 기반 Rust 코어, GPL-3.0, Android 8.0+). 모든 컨트롤·탭 바·플레이어·시트가 블러·굴절·틴트를 조절할 수 있는 하나의 Liquid Glass로 되어 있고, 8개 언어를 폰 언어와 별개로 선택
+  * 플레이어: 커버나 루프 캔버스 영상 배경, 큐·위치를 유지한 채 노래↔뮤직비디오 전환과 PiP, 임의 곡 라디오·유사곡 자동재생, 크로스페이드·끝부분 무음 건너뛰기, 슬립 타이머. 오디오 효과: 속도·피치 개별 조절과 리버브, "slowed + reverb" 같은 프리셋, 보컬을 낮추는 카라오케. 단어 단위 싱크 가사와 번역, 두 소스 모두 오프라인 다운로드(Wi-Fi 전용·좋아요 곡 자동), Spotify Connect 기기로 동작·친구 활동·곡 크레딧·청취 기록 저장, Android Auto. Play 스토어에는 올릴 수 없어 APK 자체 업데이트
 
 # App
 * [The Best Free and Open Source Apps in 2025! - YouTube](https://www.youtube.com/watch?v=E4Row0mFbfk)
@@ -2805,6 +2810,8 @@ App
 * [hyperframes: Write HTML. Render video](https://github.com/heygen-com/hyperframes)
   * [HyperFrames - HTML로 비디오를 만드는 오픈소스 프레임워크 | GeekNews](https://news.hada.io/topic?id=28961)
   * [HyperFrames란? HTML과 AI 에이전트로 만드는 자동화 영상 제작 프레임워크 | digitalbourgeois](https://digitalbourgeois.tistory.com/3570)
+  * [herk-edit-kit: Herk Edit Kit by Nate Herk: edit videos, reels, and YouTube Shorts with Codex or Claude Code. 15 skills, transcript-driven cuts, storytelling, 406 motion-graphics cards, and HyperFrames templates](https://github.com/nateherkai/herk-edit-kit)
+    * Nate Herk의 영상 편집 키트(구 HyperFrames Student Kit, 2.1k★). 내 촬영본을 넣고 Codex `$edit-video`·Claude Code `/edit-video`로 전사→무음·실수 컷→스토리 구성→HyperFrames+GSAP 모션 그래픽까지 에이전트가 편집. 스킬 15개(edit-video·cut-silences·cut-mistakes·video-storytelling·short-form-edit 9:16 릴·motion-showreel 비트 그리드 쇼릴 등), 2가지 스타일 모션 카드 406장, 다크 그래프페이퍼·글라스 팝아웃 씬 템플릿, 편집 플레이북. 전사는 ElevenLabs Scribe(Whisper 대체 가능)·에셋 생성은 Kie.ai 선택. Node 22+·FFmpeg·Chrome. README에 에이전트가 처음부터 끝까지 편집한 릴 예시
   * React 대신 순수 HTML/CSS+data attribute로 영상 구성. AI 에이전트 친화적, 빌드 단계 불필요. GSAP/Lottie/Three.js 등 커스텀 런타임 통합 Frame Adapter 패턴. Apache 2.0
 * [Immich](https://immich.app/)
   * [Don't Let Apple & Google Harvest Your Photos, Use Immich to Self-Host Your Own Cloud! - YouTube](https://www.youtube.com/watch?v=URJiQb8PwWo)
@@ -3208,6 +3215,10 @@ App
     * [Unlock the Power - Master Book Notes with Obsidian Canvas - YouTube](https://www.youtube.com/watch?v=sSFSFzgQ6vY)
   * [Agent Console: Obsidian plugin that runs AI agents right in your sidebar](https://community.obsidian.md/plugins/agent-console)
     * vault를 AI 모델과 연결해 사이드바에서 에이전트 실행—이미 쓴 노트를 읽고 지식 그래프를 활용해 문서·슬라이드·코드를 함께 만들고 결과를 노트로 저장. 2.0: 퀵 프롬프트 칩, 세션 히스토리 전문 검색(복원·포크), 모든 에이전트에 Obsidian 브리핑 내장(위키링크·표·수식·Mermaid 기본 지원), 대화 중 에이전트 전환, 탭 undo·드래프트 보존, 메시지 큐잉, 완료 알림. Apache-2.0
+  * [Atlas VTT: A virtual tabletop inside Obsidian](https://atlas-vtt.dev/)
+    * [atlas-vtt: Open Source virtual tabletop for Obsidian: battle maps, tokens, fog of war, dice, initiative and a separate player view](https://github.com/atlas-vtt/atlas-vtt)
+    * [Obsidian Is Now a Free Virtual Tabletop | Atlas VTT - YouTube](https://www.youtube.com/watch?v=GlbPg4j7BGw)
+    * Obsidian 안에서 돌아가는 무료 오픈소스(AGPL-3.0) TTRPG 가상 테이블탑—배틀맵 이미지를 넣으면 사각/헥스 그리드 자동 인식, Fantasy Statblocks 크리처를 토큰으로 변환, 노트를 맵의 방·헥스에 핀, Tab으로 모험 노트+전체 크리처 스탯블록을 보는 DM 스크린, 전장의 안개, 플레이어용 두 번째 창(카메라 고정), 주사위 트레이·로그, 이니셔티브, 카운터·시계·타이머 위젯, 맵 안에 맵 중첩, 캠페인 통째 내보내기. D&D 5e·Pathfinder 2e·Daggerheart·Shadowdark·OSE·Call of Cthulhu·Cyberpunk RED 프리셋, 양피지풍 Atlas VTT 테마. 계정·광고·AI·텔레메트리 없이 모든 것이 vault 안 파일, 데스크톱 전용. 영상은 개발자의 25분 기능 투어(2026-09-28)
   * [awesome-obsidian-vault: Awesome list of obsidian vaults](https://github.com/obsidian-pkm-vault/awesome-obsidian-vault)
     * 큐레이션된 Obsidian vault 모음(43 항목+11 리소스+3 쇼케이스). 카테고리: 요리(Based.cooking·Grimgrains·HowToCook), 컴퓨터 사이언스(JavaScript Info·OSSU CS), Dev/디자인(System Design 101·dotnet API), 디지털 가든(MaggieAppleton·CyanVoxel), 문서화(Kepano Obsidian·Blue Book·Obsidian Hub), 엔지니어링·지식·개인 사이트·코스몰로지. 사전(Kiwix·Wiktionary·Wordnet)·치트시트(Anki·rstacruz). Hugo 등 정적 사이트 생성기 출처는 일부 호환 안 될 수 있음
   * [beautiful_pdf: Obsidian plugin: styled PDF export with profiles and preview](https://github.com/creative781/beautiful_pdf)
@@ -3263,6 +3274,8 @@ App
   * [obsidian-skills: Agent skills for Obsidian (Markdown, Bases, JSON Canvas, CLI)](https://github.com/kepano/obsidian-skills/)
     * [Obsidian CLI + Claude Code로 20+ 프로젝트 관리 | 배수정](https://www.linkedin.com/posts/crystal0224_obsidian-cli-obsidian-help-share-7443117177697832960-4msv)
     * Obsidian 창시자 Steph Ango의 스킬 모음. obsidian-cli(노트·검색·태그), obsidian-markdown(위키링크·콜아웃·속성), obsidian-bases(DB), json-canvas(비주얼 캔버스), defuddle(웹→마크다운). Obsidian 1.12+ CLI 활성화 후 3줄 설치
+  * [Obsidian TTRPG Tutorials](https://obsidianttrpgtutorials.com/)
+    * TTRPG(테이블탑 RPG)·월드빌딩용 Obsidian 활용법을 모은 커뮤니티 사이트(Obsidian Publish, 2024 Gems of the Year 수상). 시작 가이드, 플러그인 튜토리얼(TTRPG Tools - Maps, Fantasy Statblocks, Dataview 등 플러그인 목록), 게임 시스템별 지원(D&D 5e TTRPG-Convert-CLI 등), 템플릿, 테마·외관, DM 스크린·여행 계산기·캠페인 관리·전투 인카운터 관리·DndBeyond 임베드 예시. Patreon 후원자용 사전 구성 Starter Vault(Foundation Vault), 커뮤니티 Discord
   * [Obsidian with Ollama - YouTube](https://www.youtube.com/watch?v=9YYB8a_ehc4)
   * [Osync-p: End-to-end encrypted vault sync plugin for Obsidian](https://github.com/KORThomasJeong/Osync-p)
     * [Heerak Jeong - Obsidian 동기화 플러그인 직접 개발 후기 | LinkedIn](https://www.linkedin.com/posts/heerak-jeong-556b7a79_github-korthomasjeongosync-p-share-7469261338922364928-ME7L/)
@@ -3293,8 +3306,16 @@ App
       * [Obsidian plugin — templater (+ ChatGPT 삽질기) | by Jun | Mar, 2025 | Medium](https://nymets.medium.com/obsidian-plugin-templater-chatgpt-%EC%82%BD%EC%A7%88%EA%B8%B0-5e0e8439ed82)
       * [Obsidian plugin - templater (+ ChatGPT 삽질기)](https://recur.substack.com/p/obsidian-plugin-templater-chatgpt)
       * [Obsidian plugin - templater (+ ChatGPT 삽질기) -](https://jh4hj.tistory.com/entry/Obsidian-plugin-templater-ChatGPT-%EC%82%BD%EC%A7%88%EA%B8%B0)
+  * [TTRPG Tools - Maps (zoom-map): A lightweight Obsidian plugin to place interactive markers on a zoomable, pannable image](https://github.com/Jareika/zoom-map)
+    * [Interactive Worldbuilding Maps | Obsidian Showcase | Bag of Tips - YouTube](https://www.youtube.com/watch?v=QUyVmQfoSbU)
+    * 정적 지도 이미지를 줌·팬 가능한 인터랙티브 맵으로 만들어 세계를 연결하는 Obsidian 플러그인(Johannes Schwartz, TypeScript, MIT)—위치 마커·커스텀 마커, 지역 블록아웃, 여러 베이스 이미지와 PNG/WebP 오버레이 레이어, 호버 미리보기, 거리 측정 룰러, 모바일용 Canvas 렌더 모드. 영상은 Bag of Tips의 31분 사용법(2026-07-27): 설치·설정→맵 만들기→마커·커스텀 마커→레이어→그리기·텍스트·측정 도구→프레임
   * [voice-writing](https://github.com/reallygood83/voice-writing)
     * [노션 버리고 옵시디언 쓰는 이유 | AI 플러그인으로 노트가 나를 위해 일한다 (음성 에이전트 포함) - YouTube](https://www.youtube.com/watch?v=PydFmXOiXlY)
+  * [word-smith: Dedicated Writing Studio for Obsidian](https://github.com/Sadsnake1/word-smith)
+    * [I built a free Scrivener alternative inside Obsidian | Word-Smith - YouTube](https://www.youtube.com/watch?v=HLq91cDWx0s)
+      * 5분 소개(2026-10-02, 설명·챕터 기준, 자막은 429로 미확인). 배우·작가 Max Shippee 내레이션으로 인터페이스→집필 모드→문법·산문 검사→집필 리포트→테마→집필 이력→Organizer→내보내기→미리보기 순서로 시연
+    * 이미 쓰는 Obsidian 볼트 안에서 동작하는 무료 집필 스튜디오 플러그인(TypeScript, MIT, 데스크톱·모바일, Obsidian 1.13.7+)—프로젝트 위저드도 전용 폴더도 없고 AI·텔레메트리도 없음, 기능마다 토글. Zen·Letterbox·Typewriter·Hemingway 집필 모드, 내장 규칙·사전만으로 로컬에서 돌아가는 문법 색상·산문 검사, 노트·폴더별 단어 목표와 집필 리포트·이력, Word(원고 형식)·PDF·HTML 내보내기와 마크다운 한 파일로 컴파일
+    * 핵심인 Organizer: 드래그로 정한 순서가 파일 트리·표·완성 원고에 그대로 유지돼 "001-Preface" 같은 파일명 번호 불필요, 모든 frontmatter 속성을 셀에서 편집하는 표(태그는 pill, 체크박스는 토글, 날짜는 피커)에 단어 수·목표·마감(요일 지정 시 하루 할당량 계산)·플래그·독해 등급·페이지·백링크 등 열 추가, 폴더 합계·Total 행, 다중 선택 일괄 편집으로 태그 정리. .md뿐 아니라 PDF·스프레드시트·epub 같은 모든 파일 형식에 메타데이터를 달 수 있어(ws-structure.md에 저장) 전자책 DB도 가능—"Bases가 아니라 Obsidian 안의 Directory Opus"
   * [YAOS — Yet Another Obsidian Sync](https://yaos.dev/)
     * [yaos](https://github.com/kavinsood/yaos)
     * Yjs CRDT 기반 실시간 동기화. 터미널 설정·DB 관리 불필요, Cloudflare Worker 셀프호스팅. 충돌 없는 머지, R2 첨부파일 동기화, 자동 스냅샷·복원, git/AI 에이전트 외부 편집 호환
