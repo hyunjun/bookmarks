@@ -195,6 +195,9 @@ iOS
   * [애플, Xcode 16 / Swift 6 / GPT 2 등 개발자용 도구 업데이트 발표 | GeekNews](https://news.hada.io/topic?id=15276)
 * [Introducing Apple’s On-Device and Server Foundation Models - Apple Machine Learning Research](https://machinelearning.apple.com/research/introducing-apple-foundation-models)
   * [애플의 새로운 온디바이스 및 서버 기반 파운데이션 모델 소개 | GeekNews](https://news.hada.io/topic?id=15283)
+  * [Intents: a native macOS workbench for evaluating Apple's on-device Foundation Models](https://github.com/coryparrry/Intents)
+    * Apple 온디바이스 Foundation Model(호환 Core AI 모델·커스텀 로컬 HTTP 프로바이더도 가능)을 평가하는 네이티브 macOS 앱(Swift·SwiftUI, MIT, macOS 27+·Apple Intelligence 지원 Mac, `brew install --cask coryparrry/tap/intents`). 공유 지시문·첨부·반복 횟수를 가진 재실행 가능한 테스트 스위트, 채점 방식(정확 일치·포함 텍스트·1~4점 AI 루브릭·수집만), 네이티브 단계·도구 호출·토큰 사용량이 보이는 중첩 워크플로 트레이스, 저장된 런 비교·JSON 리포트
+    * AI 판정을 숨긴 채 사람이 먼저 리뷰하고 확인된 실패 패턴을 회귀 케이스로 승격, Development/Held-out 예시로 judge의 오수락·오거절 점검, 불변 데이터셋·재개 가능한 배치·코호트 게이트·감사 증거를 갖춘 프로덕션 배치. 인증된 MCP 서버로 코딩 에이전트가 앱과 같은 프로젝트·스위트·증거·배치 저장소를 다루고, Swift 패키지로 짝지은 iPhone·iPad·Mac에서 실제 앱 클로저를 평가, AppIntentsTesting 기반 Mac App Intent 테스트
 * [iPhone, iPad, Mac 전용 Apple Intelligence 공개 - Apple (KR)](https://www.apple.com/kr/newsroom/2024/06/introducing-apple-intelligence-for-iphone-ipad-and-mac/)
   * [애플, 개인용 인공 지능 시스템 Apple Intelligence 공개 | GeekNews](https://news.hada.io/topic?id=15275)
 * [Haptic Feedback :: iOYES](https://green1229.tistory.com/480)
