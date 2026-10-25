@@ -2725,6 +2725,8 @@ Programming
   * 이어서 줌아웃—"내 컴퓨터에선 되는데"를 고치는 Docker 컨테이너, 연휴 세일에 수천 개 컨테이너를 유지하는 Kubernetes, 그것들이 돌아가는 AWS·Azure·Google Cloud, 변경을 안전하게 배포하는 CI/CD 파이프라인, 고객보다 먼저 문제를 발견하는 Prometheus·Grafana 모니터링까지 전체 그림을 맞추고, 로드맵을 볼 때 각 도구가 어떤 문제를 푸는지 묻는 쪽으로 질문을 바꾸자는 결론. 로드맵에 압도된 입문자, 브라우저 밖에서 벌어지는 일을 알고 싶은 프런트엔드 개발자, 백엔드·시스템 디자인 면접 준비자 대상
 * [Strangling the dragon: modernizing legacy systems with the Strangler Fig pattern by Daniel Ranela | Devoxx - YouTube](https://www.youtube.com/watch?v=AmL_OCs5F4E)
   * Devoxx Belgium 2026(35분). 레거시 시스템을 한 번에 갈아엎지 않고 새 시스템이 기존 기능을 하나씩 가로채며 점진적으로 대체하는 Strangler Fig 패턴으로 현대화하는 발표. 자막을 받지 못해 제목·발표 정보만 기록
+* [Strangler Pattern: The Migration Strategy Every Senior Developer Should Know | Visualcoders - YouTube](https://www.youtube.com/watch?v=yiU6n0Qgvwc)
+  * 14분(2026-10-20, 챕터 기준, 자막은 429로 미확인). 검색·주문·결제가 한 앱에 든 15년짜리 모놀리스를 "처음부터 다시 쓰기"가 실패하는 이유에서 출발해, 자연에서 교살무화과가 나무를 대체하듯 레거시가 매일 고객을 응대하는 동안 조각씩 바꾸는 Strangler Fig 패턴 설명—①앞에 라우팅 계층 두기 ②첫 조각(검색) 추출 ③즉시 롤백이라는 내장 안전망 ④주문·결제·사용자 반복 ⑤가장 어려운 데이터 이관 ⑥트래픽 1%→100% 점진 전환 ⑦모놀리스 종료. 패턴의 솔직한 비용, 가장 큰 위험은 "끝내지 못하는 것", 쓸 때와 안 쓸 때, 레거시 시스템에 던질 질문
 * [arc42 - arc42](https://arc42.org/)
   * [Documenting Software Architecture in Code Repository | by Huseyin Kutluca | Software Architecture Foundations | Feb, 2022 | Medium](https://medium.com/software-architecture-foundations/documenting-software-architecture-in-code-repository-74716412b0a2)
 * [Architectural Decision Records (ADRs)](https://adr.github.io/)
@@ -5917,6 +5919,10 @@ Programming
 * [AI 시대, 빠르고 안전한 앱 프로토타입 — 섀도우 IT를 양지로 올리는 법 | 장민석(KISTI) · 출연연 오픈소스 테크데이 2026](https://msjang.github.io/ostday26-sadp)
   * 2026-10-07 발표 슬라이드(40분). 섀도우 IT는 예외가 아니라 모든 새 시스템이 거쳐가는 단계(PoC는 승인 전에 만들어 봐야 승인 여부를 정할 수 있음)이므로 "막을 것인가"가 아니라 "어떻게 양지로 올릴 것인가"를 묻자는 제안. 2001년 님다 바이러스 때 "공유 폴더를 해제하라"는 공지에 대응하는 "다시 켜도 된다"는 공지가 25년째 없다는 사례로 금지가 공짜인 구조를 짚고, 유즈넷 등 학술 정보 공유의 역사까지
   * 비전공자가 하기 쉬운 실수 열 가지와 아웃바운드 차단으로 안전하게 운영하는 법, 앱 하나하나 대신 플랫폼을 검사하는 SADP(Secure Application Deployment Profile), 그리고 총량제·과분류를 겨냥한 정책 제안 아홉 가지. "규제를 풀자는 게 아니라 금지가 공짜인 구조를 바꾸자." CC BY-NC-ND 4.0
+* [Python packages vulnerable to Node2Shell Brotli bug (CVE-2026-111497) | Aikido](https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497)
+  * [HTTP2Shell - Node.js에서 Python까지, Brotli 의존성으로 퍼진 원격 코드 실행 취약점 | GeekNews](https://news.hada.io/topic?id=35927)
+  * 2026-10-23. Node.js 'Node2Shell'로 알려진 Brotli 디코더 메모리 경계 밖 쓰기(CVE-2026-111497)가 같은 디코더를 쓰는 PyPI Brotli·brotlicffi, Bun, Envoy, Istio, curl에도 해당—조작된 압축 데이터를 풀면 메모리 유출·충돌·RCE 가능하고, 서버가 받는 압축 요청 본문뿐 아니라 HTTP 클라이언트가 가져오는 외부 응답(URL 미리보기·크롤러)도 공격 경로. 근본 원인은 2월에 소스에서 고쳐졌지만 보안 문제로 인식되지 않아 릴리스되지 않았고 이후 OpenAI 레드팀이 취약점으로 발견. 원인은 DecodeBlockTypeAndLength()가 잘못된 형식과 입력 부족을 같은 반환값으로 처리한 것
+  * Python은 직접 import하지 않아도 Brotli가 설치돼 있으면 urllib3·requests·HTTPX·aiohttp·Scrapy가 자동으로 br 응답을 풀기 때문에 의존성 트리 전체를 점검해야 하며, 작성 시점엔 취약점 DB에 PyPI 연결 정보가 없어 pip-audit·Dependabot·Safety가 탐지 못 함. 수정 버전: Node.js 22.23.4/24.22.1/26.12.1, libbrotli 1.2.1(구 계열 1.0.10/1.1.1), Python Brotli 1.2.1·brotlicffi 1.2.1.0, Bun 1.4.4, Envoy 1.40.0 등—정적 링크·컨테이너는 재빌드. 임시 대응은 Brotli 패키지 제거 또는 Content-Encoding: br 요청 거부·응답 자동 해제 끄기; 악성 서버는 Accept-Encoding을 무시하므로 요청 헤더만 바꾸는 건 방어가 아님
 * [0xNews - 악성 PyPI, npm, Ruby 패키지 발견 – 오픈 소스 공급망을 위협하는 다중 공격 캠페인 | openLab - Secure & opensource](https://project-openlab.blogspot.com/2025/06/0xnews-pypi-npm-ruby.html)
 * [0xVulner - Salesforce Industry Cloud 보안 경고: 20개 이상 구성 취약점 및 5개의 CVE 확인 | openLab - Secure & opensource](https://project-openlab.blogspot.com/2025/06/0xvulner-salesforce-industry-cloud-20-5.html)
 * [2412.03556 Best-of-N Jailbreaking](https://arxiv.org/abs/2412.03556)
