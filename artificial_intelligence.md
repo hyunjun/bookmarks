@@ -8715,6 +8715,11 @@ Artificial Intelligence
   * Slack으로 작업을 넘기면 24시간 돌며 Claude Code Pro 사용량을 최대한 쓰는 에이전트. 작업마다 격리된 워크스페이스에서 처리해 Git 커밋·PR까지 만들고, 낮과 밤의 사용량 임계값을 따로 조정. Python, MIT, 832 stars
 * [slides-grab: AI-powered HTML slide generation and visual editing](https://github.com/vkehfdl1/slides-grab)
   * AI 에이전트(Claude Code/Codex)로 HTML/CSS 슬라이드 생성·편집. 드래그 선택→에이전트 수정, PDF/PPTX/Figma 내보내기, 동영상 삽입(yt-dlp), tldraw 다이어그램, 테마·템플릿 시스템
+* [sphinx: You can outsource your thinking, but not your understanding. A hook for agent-assisted development that quizzes you on the changes before you push to prod](https://github.com/parthh01/sphinx)
+  * [Sphinx — you can outsource your thinking, but not your understanding](https://sphinx-six-theta.vercel.app/)
+  * [Sphinx - AI가 작성한 코드를 이해했는지 푸시 전에 퀴즈로 확인하는 도구 | GeekNews](https://news.hada.io/topic?id=35945)
+  * 에이전트가 짠 코드를 보호 브랜치(기본 main/master)에 push하면 Git이 멈추고 '스핑크스의 질문'에 답해야 이어지는 이해도 검사 훅(`npm install -g sphinx-understand`, Node 22.19+, macOS·Linux·WSL, MIT). 코드를 만든 대화를 보지 못한 별도 리뷰어 모델이 읽기 전용 Git 도구로 diff를 읽고 함수명 대신 동작·실패 모드·불변 조건을 묻는다("워커가 커밋 후 ack 전에 죽으면 작업이 두 번 실행되는가?")—틀리면 이유를 설명하고 새 시나리오로 재질문, 코드를 보며 답하는 오픈북. Claude Code·Codex·Cursor·OpenCode·Pi 또는 일반 git push에서 동작, 사람이 푸시했든 에이전트가 푸시했든 적용
+  * 리뷰 모델은 기존 Claude Code/Codex 구독(Haiku·GPT-6 Luna 추천 프리셋), OpenRouter, OpenAI 호환 엔드포인트—자체 서비스·계정 없음. 전역 core.hooksPath에 설치되고 기존 훅은 먼저 실행, 저장소별 `sphinx init`으로 브랜치·시점·질문 수·초점(설계 의도 vs 구현 세부) 조정, 검사당 5~8회 요청(상한 설정 가능), 최대 25분 대기, `sphinx yolo`로 건너뛰면 기록 남김. 변경 코드와 답이 리뷰어 제공자로 나가며 .env·키 파일은 기본 제외(.sphinxignore). 보안 게이트가 아닌 연습 도구임을 명시
 * [Swark: AI-Powered Software Architect](https://www.swark.io/)
   * [swark: Create architecture diagrams from code automatically using large language models (LLMs)](https://github.com/swark-io/swark)
 * [system-prompts-and-models-of-ai-tools: Collection of system prompts, internal tools, and AI model configurations of Augment Code, Claude Code, Cursor, Devin AI, Lovable, Manus, Windsurf, and more](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
