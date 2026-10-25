@@ -78,6 +78,10 @@ Robot
   * [Dyna-2: 100만 시간 인간 영상으로 로봇 행동 학습 | digitalbourgeois](https://digitalbourgeois.tistory.com/3545)
   * 100만 시간(약 170년) 이상의 1인칭 인간 영상으로 사전 학습한 로봇 조작용 월드-액션 모델. 직접 수집·라벨링하는 기존 로봇 학습 방식 대신 대규모 인간 영상을 활용—1,000시간→100만 시간으로 늘릴 때 스케일링 법칙이 유지되고, 그 패턴이 미학습 로봇 데이터에도 전이됨을 처음 확인
   * 영상과 액션을 공동 학습하면 액션만 학습한 경우보다 39개 작업 전부에서 우수, 실제 로봇 작업 평균 점수 20%→53%. 공개 가중치·API 없이 Dyna 로봇 셀 구매(벤더 운영) 방식으로만 제공되며 호텔·식당·세탁소 등 서비스업에 운영 중
+* [Embodied First Exam — The first exam for code agents in the physical world](https://www.embodied-first-exam.ai/)
+  * [embodied-first-exam: The first exam for code agents in the physical world: frozen robot tasks from many benchmark suites, each answered with a program and verified in a separate sandbox. Runs on Harbor](https://github.com/mll-lab-nu/embodied-first-exam)
+  * 노스웨스턴대 MLL Lab(2026-10-19 공개, Python, MIT). "디지털 세계의 시험을 통과한 코드 에이전트가 물리 세계에 들어가는 첫 시험"—코딩 에이전트가 고정된 장면(frozen scene)의 로봇에 대한 프로그램을 작성·실행해 결과를 보고 고치며, 채점은 별도 샌드박스에서 리플레이로 검증(Harbor 위에서 실행). 자체 제작 9개 스위트: RoboPaint(붓·펜으로 서예·유화 재현), RoboARC(철사 퍼즐·로프 묶기·천 접기·IKEA 조립), RoboDynamicExam(날아오는 공·미끄러지는 퍽 잡기), Embodied Olympics Fun/Match(휴머노이드 스포츠 동작·탁구·배드민턴·축구·펜싱 대전), DexHandExam(다섯 손가락으로 책장 넘기기·병 열기·USB 꽂기·햄버거 만들기), RoboEngineer(공개 시뮬레이터에서 만든 컨트롤러를 숨은 역학 환경에 배포해 수정하는 sim-to-real 루프), Embodied Safety Exam(위해 요청 거절·위험 설명), iSpatialGym(사진 하나로 주어진 목표 상태까지 방 재배치)
+  * 여기에 BEHAVIOR-1K·LIBERO-MAX·RoboCasa(365·GR1)·MetaWorld+·HumanoidBench·MuJoCo Playground·MyoSuite·RoboTwin 2.0·BiGym 2.0·VLABench·AM-Bench·LabUtopia·ManiGuard·RoboDojo 등 기존 벤치마크 스위트를 통합해 리더보드 운영. Linux x86_64+uv+Docker(Compose v2·BuildKit, Slurm은 rootless podman), 스위트별로 RTX급 GPU(RT 코어 필요)·임의 NVIDIA GPU·CPU 전용으로 나뉘고 Isaac Sim 기반 이미지는 첫 실행 시 20~90분 빌드·최대 150GB 디스크. 에이전트 모델은 API 키 또는 구독으로 연결, 새 스위트 기여 가이드 제공
 * [HIL-SERL: Precise and Dexterous Robotic Manipulation via Human-in-the-Loop Reinforcement Learning](https://hil-serl.github.io/)
   * 다양한 복잡한 환경에서의 성공적인 로봇 강화학습법, HIL-SERL
     * 강화학습(RL)은 복잡한 로봇 조작 기술을 자율적으로 습득할 수 있는 큰 잠재력, 실제 환경에서 이러한 잠재력을 실현하는 것은 어려움
