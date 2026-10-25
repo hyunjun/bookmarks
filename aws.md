@@ -1412,6 +1412,9 @@ AWS
 * [Top 5 Advanced Spring Boot + AWS + Azure, and Cloud Native Development Courses in 2022 - Best of Lot](https://javarevisited.blogspot.com/2020/05/top-5-cloud-courses-for-java-and-spring-boot-developers.html)
 * [Top 5 Courses to learn AWS Cloud Formation in 2022 - Best of Lot](https://javarevisited.blogspot.com/2020/08/top-5-courses-to-learn-aws-cloudformation-in-depth.html)
 * [Top 6 Websites to learn AWS Online for FREE in 2022 - Best of Lot](https://javarevisited.blogspot.com/2021/11/top-5-websites-to-learn-aws-online-for.html)
+* [AWS Will Finally Make Sense After This Video | Cloud X Berry - YouTube](https://www.youtube.com/watch?v=LPJ1zHDC0Ck)
+  * 16분 입문 강의(2026-10-24, 설명·자막 기준). 사무실 서버 2대로 운영하는 온라인 신발 가게가 11월 세일에 트래픽 4배로 멈추는 '11월 문제'를 끝까지 따라가며 설명—클라우드란 남이 소유·운영하는 컴퓨터·스토리지·네트워크를 인터넷으로 빌리는 것, 진짜 클라우드의 5가지 조건(온디맨드 셀프서비스·네트워크 접근·자원 풀링·탄력성·사용량 측정), CapEx→OpEx, 주방 비유로 IaaS·PaaS·SaaS
+  * AWS 구조: 리전 선택 기준, 가용 영역에 분산해야 살아남는 이유, 글로벌·리전·존 단위 서비스 구분, 엣지 로케이션과 CloudFront. 계정: 루트 사용자 보호, IAM 사용자, Organizations 다중 계정, ARN. 초보자가 자주 틀리는 것: 콘솔·CLI·SDK는 모두 같은 API 호출, 실제 과금 항목, 서버 '중지'≠'삭제', 예산은 경고만 하고 지출을 막지 않음, SLA와 '파이브 나인'의 뜻, 공동 책임 모델
 
 # DevOps Guru
 * [Amazon DevOps Guru for Serverless – AWS Lambda 함수 운영 문제 자동 감지 기능 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/automatically-detect-operational-issues-in-lambda-functions-with-amazon-devops-guru-for-serverless/)
