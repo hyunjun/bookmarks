@@ -386,6 +386,9 @@ Interview
 * [Is Grokking System Design Fundamentals on DesignGuru.io Worth It? Review | by javinpaul | Javarevisited | Apr, 2024 | Medium](https://medium.com/javarevisited/is-grokking-system-design-fundamentals-on-designguru-io-worth-it-review-2ea2188699f1)
 * [Preparing for the System Design Interviews V2 - End to End | Udemy](https://www.udemy.com/course/preparing-for-system-design-interviews/) 유료 course
 * [How to Succeed in a System Design Interview](https://blog.pramp.com/how-to-succeed-in-a-system-design-interview-27b35de0df26) 기본적인 approach와 자료 links
+* [Design Software Systems Like a Senior Engineer – Complete Course | freeCodeCamp.org - YouTube](https://www.youtube.com/watch?v=soTfFFIQQ8U)
+  * [시니어 엔지니어처럼 소프트웨어 시스템 설계하기 - 풀코스 | GeekNews](https://news.hada.io/topic?id=35613)
+  * 3시간 17분(2026-10-13, Hayk Simonyan). 모호한 요구사항을 압박 속에서 구조화하는 5단계 프레임워크(요구사항 확인→데이터/API·상위 아키텍처→확장성·장애 검토→절충점 정리)를 Spotify·Booking.com·WhatsApp 유사 시스템에 적용—음악 스트리밍은 오디오 저장량·전송 비용 계산과 객체 저장소·서명 URL·CDN으로 수천만 사용자 확장, 호텔 예약은 검색의 최종 일관성과 예약의 강한 일관성 구분·멱등성·재고 행 잠금, 메시징은 WebSocket 실시간 전달·오프라인 수신·다기기 동기화에서 그룹 채팅·샤딩·암호화·장애 복구까지. 면접은 완성된 아키텍처보다 소통·구조화된 사고·판단·시간 관리를 평가하므로 정답 암기보다 가정 확인과 선택 이유 설명에 초점
 * [Scaling to 100k Users](https://alexpareto.com/scalability/systems/2020/02/03/scaling-100k.html)
   * [번역 10만명 접속을 허용하는 시스템 만들기](https://brunch.co.kr/@jowlee/102)
 * [Horizontal vs Vertical Scaling | System Design | Programming Tutorials - YouTube](https://www.youtube.com/watch?v=QUlBh64vdH8)
