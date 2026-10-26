@@ -2406,6 +2406,10 @@ Artificial Intelligence
     * Ralphthon(12시간 AI 해커톤), Harness Engineering 패턴, Code Factory 조직 접근법. 스펙 명확성과 진화하는 하네스, 체계적 루프가 단순 스크립트보다 자율 코딩에 효과적
 * [Let Your AI Agent Do ITS OWN Harness Engineering (Here's How) | Cole Medin - YouTube](https://www.youtube.com/watch?v=TVhhmhvCovg)
   * 16분(2026-10-20). 코딩 에이전트를 안정화하는 하네스 엔지니어링(규칙·스킬·메모리를 실수마다 개선)이 프로덕션 자동화·업무용 에이전트에도 그대로 적용된다는 영상—요즘 프로덕션 에이전트도 코딩 에이전트처럼 마크다운으로 하네스를 관리하므로 1:1 매핑됨(규칙=시스템 프롬프트, 서브에이전트=멀티에이전트 위임, MCP=연결, 스킬=워크플로, 훅=가드레일). 두 개선 루프: 에이전트의 메인 메모리, 그리고 프로덕션 트레이스를 되짚어 실수를 규칙·스킬 개선으로 돌리되 사람이 승인. LangChain Managed Deep Agents·LangSmith Engine으로 시연
+* [harness-engineering-101: Harness Engineering 101 — building AI agents from first principles. The LLM is the brain; the harness is the body | IsuruMaduranga](https://github.com/IsuruMaduranga/harness-engineering-101)
+  * [Harness Engineering 101 — 온라인 책](https://isuruwijesiri.com/harness-engineering-101/)
+  * [Harness Engineering 101 - Python 약 300줄로 배우는 AI 에이전트 구현 | GeekNews](https://news.hada.io/topic?id=35651)
+  * WSO2 MI/BI Copilot과 pi 기반 코딩 에이전트 One Code를 만든 저자의 블로그 연재를 책으로 묶은 자료(v1.1, 2026-10). LLM API는 무상태라 매 턴 대화 전체를 JSON 배열로 보내고 텍스트를 돌려받으며, **하네스는 그 배열을 만들고 유지하고 보호하는 프로그램**—업계가 '에이전트'라 부르는 모든 것은 그 루프에 덧댄 패치고 패치마다 구체적으로 깨진 무언가가 있었다는 하나의 아이디어를 16개 장(Part I The Wire·II Running Long·III The Ecosystem·IV Trust, Domains, and Data)에 걸쳐 전개. 프레임워크·SDK 없이 HTTP 요청에서 시작해 순수 Python ~300줄 장난감 에이전트를 키우며 각 장은 실패 상황→최소 수정→그 수정의 비용 순서—도구 호출·에이전트 루프, 캐싱·컨텍스트 관리, 서브에이전트, 백그라운드 작업, MCP·스킬, 훅, 가드레일, 디버깅, RAG, 부록에 모델 라우팅·환경 격리·재시도·스트리밍. Python 3.10+, 외부 패키지 없음, 본문 CC BY-NC-ND 4.0·코드 MIT
 * [Harness Engineering for Self-Improvement | Lil'Log (Lilian Weng)](https://lilianweng.github.io/posts/2026-07-04-harness/)
   * [AI는 이제 모델이 아니라 하네스를 개선한다: 재귀적 자기 개선을 이끄는 하네스 엔지니어링 | digitalbourgeois](https://digitalbourgeois.tistory.com/3486)
   * [OpenAI 연구원 출신 Thinking Machines Lab 코파운더 Lilian Weng의 블로그 글 정리 | 황민호](https://www.linkedin.com/posts/hwang-minho_openai-%EC%97%B0%EA%B5%AC%EC%9B%90-%EC%B6%9C%EC%8B%A0%EC%9D%98-thinking-machines-lab-%EC%BD%94%ED%8C%8C%EC%9A%B4%EB%8D%94%EC%9D%B8-ugcPost-7481867000055554048-6KK2/)
@@ -2819,6 +2823,9 @@ Artificial Intelligence
   * [안내 페이지](https://hollobit.github.io/ai-native/)
   * [PDF (414쪽)](https://hollobit.github.io/ai-native/book.pdf)
   * [EPUB](https://hollobit.github.io/ai-native/book.epub)
+  * [AI-지능에너지-사회-2026 compressed.pdf | Google Drive](https://drive.google.com/file/d/1Kve5XiR8kMN260Uc0BW6eeoQi4cJzptA/)
+  * [지능을 전기처럼 쓰는 시대 - AI 네이티브 핸드북 2026 407p | GeekNews](https://news.hada.io/topic?id=35846)
+    * GeekNews 정리(v1.5.6, 2026-10-26 갱신)—AI 테스팅·신뢰성 국제표준 개발에 참여해 온 ETRI 전종홍 책임연구원의 407쪽 living document. 기존 업무에 AI를 덧붙이는 것과 AI 중심으로 업무를 재설계하는 것의 차이, AI-Ready→AI-Enabled→AI-First→AI-Native 4단계, "제품에서 AI를 빼면 무엇이 남는가" 사고실험(고객 가치·운영 부담·장애 복구·차별화 점검), 결과 중심 설계·인간-AI 협업·보안과 신뢰 내장·확률적 품질 관리 등 9가지 설계 원칙, 토큰 경제부터 스킬·메모리·하네스·멀티 에이전트까지, 코딩·의료·제조·과학 사례와 한국 AI 인프라·공공 데이터·국가 전략. 부록에 증거 점검 40문·리스크 요약·기업 사례 카드·용어집, 30분/2시간/완독 코스와 직군별 읽기 경로. 2026-10-22까지 반영, 관측 사실·전망·가정·자체 제안을 구분 표기. 댓글: 최신판은 GitHub(hollobit/ai-native)로 배포
   * 석탄이 증기를, 석유가 전기를 불러왔듯 이제 전기는 지능이 된다—파운데이션 모델을 발전소로, MCP·A2A를 송전망으로, AI 에이전트를 가전제품으로 보는 하나의 비유로 AI 네이티브 시대를 풀고 회사와 나라가 배치도를 어떻게 다시 그려야 하는지 쓴 책. SOTA 대시보드·All-About-the-GAN의 hollobit(전종홍) 지음, 2026-03-14 시작해 2026-10-22 v1.0 첫 공개 후 새 소식이 나오면 계속 고쳐 펴내는 living document(판마다 버전·고친 날 표기, v1.3에서 2부 지능 에너지 시스템 삽화를 펜화로 다시 그림). Release를 올리면 GitHub Actions가 PDF·EPUB를 자동 배포, CC BY-NC-ND 4.0(저작자표시·비영리·변경금지)
 * [Artificial Inteligence](https://www.gitbook.com/book/leonardoaraujosantos/artificial-inteligence/details)
 * [Artificial Intelligence and Games](http://gameaibook.org/)
@@ -6767,6 +6774,11 @@ Artificial Intelligence
   * [How Anthropic's product team moves faster than anyone else | Cat Wu (Head of Product, Claude Code) | Lenny's Podcast - YouTube](https://www.youtube.com/watch?v=PplmzlgE0kg)
     * [최승준 | Facebook](https://www.facebook.com/seungjoon.choi/posts/pfbid02yvrGZumKAgzbJnstbkUyNdGwv5DNi4ENzFuYBKc8NmParjqhpPYTXy6BVmVHAUccl)
     * Anthropic Claude Code/Cowork 제품 총괄 Cat Wu 인터뷰. AI PM 채용에서 성공하는 사람의 차이, Anthropic 제품팀이 누구보다 빠르게 움직이는 방법
+  * [Claude Engineering Lead: "Stop Using Claude Like It's 2024" | Felix Rieseberg | Silicon Valley Girl - YouTube](https://www.youtube.com/watch?v=D-SVFneJ_Nk)
+    * [클로드 코워크를 1주 반 만에 만든 앤트로픽 리드가 클로드에게 일을 맡기는 법 — '전문가처럼 해 줘' 대신 쓰는 4가지 | AgentOS - YouTube](https://www.youtube.com/watch?v=gV0CtvIX5zk)
+      * 44분(2026-10-26). 49분짜리 원본 인터뷰(2026-10-20)에서 13개 대목을 골라 한국어 자막 클립으로 따라감—①좋은 결과를 요구하는 대신 그 분야 최고가 거치는 **과정과 도구**를 쓰게 하기(2024년식 "전문가처럼 해 줘" 역할 씌우기는 어휘만 바꾸고 방법은 안 바꿈) ②클로드 여러 개로 적대적 리뷰("내가 틀렸다는 걸 증명하라")를 돌리고 판사 클로드로 걸러 받기 ③작업을 하나씩 집어 주는 대신 원본 데이터와 컴퓨터를 열어 주기 ④만든 세션이 아니라 바깥에서 채점하게 하기(피드백 3단계). 천 개를 만들어도 하루에 하나만 보여 주는 프로토타이핑, 스킬의 반감기, 가장 큰 병목은 나라서 클로드와 나란히 돌려 보기, 실행이 싸진 시대에 남는 공감과 시스템을 엮는 능력, "지금은 아이폰 이전 시대"
+    * [How to be more ambitious: A tutorial for humans with models | Felix Rieseberg](https://felixrieseberg.com/how-to-be-more-ambitious-a-tutorial-for-humans-with-models/)
+      * 인터뷰 일주일 전(2026-10-13) 글. "더 야심 차게 쓰자"는 구호를 실천 가능하게 네 갈래로—Speed(같은 일을 빨리), **Altitude**(작업이 아니라 그 다음에 일어나길 바라는 결과를 맡기기—QBR 덱 대신 "이번 분기 무엇이 왜 바뀌었고 가장 급한 결정 3개는"), **Depth**(업계 최고가 쓰는 도구·원재료를 쓰게 하고, 무리한 목표를 합리적이라 말하고, 가정을 적대적으로 검증하고, 자기 채점 대신 외부 판사), **Range**(명사를 동사로 바꿔 어떤 분야의 기법이 필요한지 찾고 '크루'를 꾸리되 롤플레이가 아니라 그 직업이 하는 일을 시키기). 깊이 프롬프트: "더 큰 버전이 아니라 더 깊은 버전—(1)이 분야 최고 전문가가 할 텐데 내가 안 시킨 것 (2)그들이 시작할 가장 날것의 재료 (3)구체적 방법·도구 (4)…"
   * [How Claude Code works](https://www.mintlify.com/VineeTagarwaL-code/claude-code/concepts/how-it-works)
     * [Claude Code 내부 동작 방식 완전 해부 — Agentic Loop부터 컨텍스트 로딩까지 | GeekNews](https://news.hada.io/topic?id=28062)
     * 6단계 Agentic Loop(입력→컨텍스트 조립→API 호출→권한 체크→도구 실행→응답) 구조. 시스템(Git 상태·커밋)과 사용자(CLAUDE.md) 컨텍스트 통합, 3단계 권한 모델(allow/ask/deny), 대화 JSON 저장·복원, 컨텍스트 윈도우 오버플로우 방지
