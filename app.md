@@ -471,6 +471,9 @@ App
 * [another: A desktop app for mirroring and controlling Android devices over USB](https://github.com/Zfinix/another)
   * Tauri + React + Rust 기반. USB를 통한 안드로이드 기기 미러링 및 제어 데스크톱 앱
 * [b2gdroid - an experiment that let you use Gaia (the user interface of FirefoxOS) on your Android device, as an alternative homescreen](https://people.mozilla.org/~fdesre/b2gdroid/)
+* [BlockAds — Block Ads. Protect Privacy.](https://blockads.pwhs.app/)
+  * [blockads-android: Block ads system-wide on Android using local VPN-based DNS filtering. No root needed. No data collection](https://github.com/pass-with-high-score/blockads-android)
+  * 로컬 VPN(비루팅) 또는 Root Proxy(iptables) 이중 라우팅으로 Android 시스템 전체 광고·트래커·피싱 차단. DNS 쿼리만 로컬에서 필터링해 데이터 수집 0·배터리 소모 최소, DoH·HTTPS 필터링(베타, 유저스페이스 TCP/IP 스택으로 앱별 MITM·CSS·스크립틀릿), 앱별 예외, StevenBlack·AdGuard DNS·EasyList 등 내장 목록과 언어 기반 지역 기본값, 은행·결제·정부 앱용 284개 통과 목록, 실시간 DNS 로그, Material 3, 위젯·퀵 타일, 규칙 JSON 백업. macOS·Windows 사전 등록 중. Kotlin, GPL-3.0, 2.3k stars, IzzyOnDroid 배포
 * [Fossdroid.com: Free and open source Android applications](https://fossdroid.com/)
 * [Mac.apk: Android Apps, Native on Apple Silicon](https://projects.voltare.us/macapk)
   * [Mac.apk: Run Android apps natively on Apple Silicon Macs](https://github.com/kksimp/Mac.apk)
@@ -1971,6 +1974,9 @@ App
   * [카카오톡, Slack, iMessage — API 없이 자동 발송이 가능한 macOS 앱을 무료로 배포합니다 | 류장근 | LinkedIn](https://www.linkedin.com/posts/jkryu_batiflow-tcutcusnytsbsuyrbvupi-macos-ugcPost-7442481922854993920-jJqv)
   * 바티(Bati AI) 팀의 무료 네이티브 macOS 앱(3MB 미만). 일반 채팅용 API가 없는 카카오톡도 macOS Accessibility API로 앱을 직접 조작해 연락처 이름으로 발송—Claude Code·Cursor 작업이 끝난 뒤 "김 대표님께 카톡으로 이번 수정 완료 사항 정리해서 보내줘" 한 줄이면 5초 뒤 전송. Slack·iMessage·Chrome 자동화, 캘린더·메모·미리 알림·메일·Finder 등 49+ 도구, 예약 워크플로, Claude Code·Cursor용 MCP 서버(21개 도구), 100% 로컬 처리
   * 최근 버전은 로컬 오픈소스 모델 실행, 폴더 대상 로컬 RAG 검색(한글 파일명 지원), LinkedIn·Threads·X·Medium 글을 마크다운으로 보관하는 Web Scrap과 지식 그래프를 추가
+* [Beamer: free software KVM for Mac, Windows and Linux](https://beamerapp.co.uk/)
+  * [beamer: One keyboard and mouse for a Mac and a Windows PC over the local network, in either direction | kalkman-code](https://github.com/kalkman-code/beamer)
+  * 같은 네트워크의 기기들 사이에서 키보드·마우스(트랙패드) 하나를 공유하고 클립보드도 함께 넘어가는 무료 오픈소스 소프트웨어 KVM(v1.5.14, GPL-3.0)—포인터를 상대 기기 쪽 화면 가장자리(선택한 구간·모서리·맥북 노치)로 밀면 같은 위치로 이어지고, 트리거 키(Mac Right Option·PC Right Ctrl, 변경 가능) 더블탭·홀드로도 전환, 도착 지점에 짧은 애니메이션. 최대 32대 직접 페어링, Mac↔Mac·PC↔PC는 키가 그대로, 단축키 유지, 입력은 네트워크 밖으로 나가지 않음. Linux는 실험적 Flatpak(x86-64). Python, 683 stars
 * [cactusformac.com](http://cactusformac.com/)
 * Calculator
   * [NaSC](https://parnold-x.github.io/nasc/)
