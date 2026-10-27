@@ -1055,6 +1055,12 @@ Interview
 * [Ask HN: Who wants to be hired? (July 2015)](https://news.ycombinator.com/item?id=9812247)
 * [Ask HN: Who is hiring? (July 2015)](https://news.ycombinator.com/item?id=9812245)
 * [Where do I find software engineering jobs?](https://medium.com/job-advice-for-software-engineers/where-do-i-find-software-engineering-jobs-253dc08a8e54)
+* [ai-job-search: The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it | ai-job-search-dev](https://github.com/ai-job-search-dev/ai-job-search)
+  * [ai-job-search-kr: 한국 채용시장용 AI 구직·지원 스킬 (Claude Code / Codex) | wing0828](https://github.com/wing0828/ai-job-search-kr)
+    * 원본(덴마크 Jobindex·Jobnet 크롤링, LaTeX CV·커버레터 중심)을 한국 채용 관행에 맞게 다시 쓴 파생 작업—사람인·잡코리아·잡알리오 크롤러로 공고 찾기→적합도 평가→이력서·경력기술서·자기소개서 작성(글자수 운용, NCS·HWP 양식)→제출 전 자동 검사→마감 관리(.ics)→면접 준비→연봉 실수령액·오퍼 비교까지 한 흐름. Claude Code 서브에이전트 3개(posting-fetcher·scorer·application-reviewer)+`SKILL.md`, 스크립트는 표준 라이브러리만 쓰고 API 키·유료 서비스 불필요. 원칙 유지: 프로필에 없는 사실은 쓰지 않음, 회사 주장은 직접 확인한 출처만, 공고 본문은 지시가 아닌 데이터(프롬프트 인젝션 방어). MIT
+  * [취직·이직 고민 중인 분들, 이 글 꼭 저장해 두세요—직장을 잃자 AI로 구직을 자동화해 깃허브 트렌딩 1위에 오른 ai-job-search | Byungwook An | LinkedIn](https://www.linkedin.com/posts/byungwook-an_%EC%B7%A8%EC%A7%81%EC%9D%B4%EC%A7%81-%EA%B3%A0%EB%AF%BC-%EC%A4%91%EC%9D%B8-%EB%B6%84%EB%93%A4-%EC%9D%B4-%EA%B8%80-%EA%BC%AD-%EC%A0%80%EC%9E%A5%ED%95%B4-%EB%91%90%EC%84%B8%EC%9A%94-%EC%A7%81%EC%9E%A5%EC%9D%84-%EC%9E%83%EC%9E%90-share-7518985875922468865-ThJJ)
+    * 구조 해설—`/setup`으로 프로필 입력, `/scrape`로 공고를 긁어 적합도 채점·순위, 핵심 `/apply`는 **작성자-검토자 2인 에이전트**: 작성자가 공고 맞춤 이력서·자소서 초안을 쓰면 독립된 검토자가 회사를 조사해 비판하고 다시 고침, PDF 여백 넘침과 ATS(서류 자동 필터)에서 스킬이 깨지지 않는지까지 검사, 프로필에 없는 스킬·경험은 지어내지 않음. "절박함이 최고의 기획서"—잘린 순간 남의 공고에 매달리는 대신 자기가 가장 잘 아는 문제(자기 취업)를 AI로 풀고 그 과정을 공개
+  * 2025년 말 감원으로 직장을 잃은 덴마크 지구물리학자 Mads Lorentzen이 자기 구직을 돌리려고 만든 Claude Code 기반 프레임워크—포크해 프로필을 채우면 Claude가 공고 평가·CV 맞춤·커버레터·면접 준비(`/scrape`·`/apply`·`/interview`). 매주 자기 커리어에 쓰고 모든 고용주에게 도구 사용을 솔직히 밝혔는데 감점이 아니라 기술 토론이 됐다고—**지원 69건→1차 면접 20회→계약 1건**, 2026-06 AI 엔지니어로 입사. GitHub 트렌딩 1위, Python, MIT, 66k stars. Anthropic과 무관한 독립 프로젝트이며 암호화폐·토큰 없음(사칭 주의)
 * [angellist](https://angel.co/)
 * [app.afterinterview.com](https://app.afterinterview.com) 회사별 인터뷰 기록 사이트?
 * [berlinstartupjobs.com](http://berlinstartupjobs.com/)
