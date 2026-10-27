@@ -379,6 +379,9 @@ Artificial Intelligence
   * Claude가 Claude Code 코드의 약 90%를 쓰는 팀의 리뷰 흐름(2026-10). 6~9월 머지 PR이 2배 넘게 늘었는데 revert 비율은 40% 이상 감소—리뷰를 없앤 게 아니라 **읽기의 대부분을 기계로 옮기고 사람의 시간·주의를 위해 최적화하고 되돌리기를 쉽게** 만듦. "사람이 코드를 읽었나"는 "이 변경에서 무엇이 잘못될 수 있고 그걸 잡을 올바른 검사는 무엇인가"의 부정확한 대리 지표이며, 리뷰는 끝의 관문이 아니라 쓰는 동안 돌아가는 맞춤법 검사처럼 연속적으로. 목표는 CLI·데스크톱·웹·모바일 레포의 PR 대부분이 사람 1명(저자여도 됨) 이하로 머지되되 revert·사고가 늘지 않는 것(PR당 사람 승인 수 중앙값·p95로 측정)
   * 7개 레이어: ①PR 전 검증—테스트·빌드·스크린샷처럼 Claude가 돌릴 수 있는 것을 주고 "끝났다" 대신 출력을 보이게(Boris Cherny: 결과를 2~3배 좋게 하는 가장 중요한 것), 새 컨텍스트의 서브에이전트가 diff 리뷰, 버그 사냥·diff 단순화·E2E 스킬; 같은 지적이 반복되면 스킬·린트·CLAUDE.md/REVIEW.md에서 고침 ②모든 PR에 AI 리뷰—연구 프리뷰 때 실질 코멘트 받은 내부 PR 16%→54%, 여러 에이전트가 동시에 찾고 별도 그룹이 투표해 합의된 것만 게시(스타일·정리 지적은 버림), 모든 finding은 고치거나 사유를 적어 닫아야 함 ③차단 가능한 보안 리뷰 ④lint·타입·전 플랫폼 테스트·빌드 ⑤위험도별 사람 승인—저자가 아니라 변경이 티어를 정함(분류기 2개, 민감 경로·CI 워크플로 파일은 항상 사람), 신뢰 목록 저자만 가벼운 경로, 에이전트 승인은 사람 승인으로 안 침, 에이전트에게 지시한 사람이 리뷰어로 책임, 승인은 특정 커밋에만 ⑥머지 큐·플래그·점진 배포(직원 먼저, latest 채널) ⑦빠른 감지·롤백(주간 온콜, 사고 리뷰는 "어느 레이어가 잡았어야 했나")
   * 개선 루프: 사고를 낸 과거 PR과 수정·revert를 모아 **사고가 곧 eval**—리뷰어를 매일 그 세트에 돌림. 노이즈는 코멘트에 사람이 어떻게 반응했나(고침·틀렸다·의도된 동작·무시)로 측정하며 저자가 에이전트면 nit도 커밋·재리뷰 한 라운드를 만들어 더 비쌈. 리뷰는 수렴해야 함—에이전트 저자와 리뷰어가 서로 바쁘게 하다 한 PR이 밤새 50라운드를 돌았고, 지적의 59%는 첫 패스부터 있던 코드라 rounds-to-pass를 recall과 함께 추적하고 재리뷰 방식을 바꿈. 야간에 기존 코드도 리뷰. 리뷰의 두 번째 역할(코드베이스 이해 공유)은 Claude에게 그 조각의 explainer를 쓰게 해서 대체
+* [Releasing AI-generated software | ploeh blog](https://blog.ploeh.dk/2026/10/12/releasing-ai-generated-software/)
+  * Mark Seemann(2026-10-12). Robert C. Martin의 "에이전트가 쓴 코드는 읽지 않고 극단적 제약(단위·gherkin 테스트, QA, 뮤테이션 테스트, 커버리지)으로 감싼다"는 트윗에서 출발한 소프트웨어 공학·인식론·책임 고찰. "코드를 안 읽으면 맞는지 어떻게 아나"는 늙은 프로그래머의 반사 반응—코드 읽기는 원래 완벽하지 않았고(리뷰도 결함을 다 못 잡음), TDD도 "쓰지 않은 테스트"라는 흔한 실수가 있음
+  * 소프트웨어 공학은 반증 가능한 예측에 대한 빠른 피드백—LLM 기반 공정에 완벽을 요구하는 건 인간이 넘지 못한 기준이며, 자율주행 논리처럼 인간 중심 시스템보다 나으면 된다(완전 LLM 주도 공정에 본질적 장벽은 없어 보인다). 그래도 결함 빈도는 "낮아지는 것이지 0이 아님"—무해한 오류(정렬·중복 메시지)와 심각한 오류(우주선 손실·방사선 과다·세금 고지 오류) 사이에서 "Dave가 그 코드를 썼다"가 사라진 뒤 책임(법적 liability)은 어디에 떨어지는가
 * [Agile is Out, Architecture is Back | by Craig Adam | Sep, 2025 | Medium](https://medium.com/@craig_32726/agile-is-out-architecture-is-back-7586910ab810)
   * [원대로 - 🚨<개발자는 사라지고, "아키텍트"가 뜬다: AI가 다시 불러온 설계의 시대> - “코드 좀 친다”는 말은... | Facebook](https://www.facebook.com/drwonsg/posts/pfbid0KNf7KyyjpsCvJ1fq9NcLBLimN9odhxk1YgfZP7YXGa5sLaT8nXKPP7NLtJwhWVRal)
 * [AI Was Supposed to Help Juniors Shine. Why Does It Mostly Make Seniors Stronger? | <Can ELMA/>](https://elma.dev/notes/ai-makes-seniors-stronger/)
@@ -687,6 +690,13 @@ Artificial Intelligence
 * [Building effective agents \ Anthropic](https://www.anthropic.com/research/building-effective-agents)
   * [효과적인 "Agents" 구축 방법 | GeekNews](https://news.hada.io/topic?id=18376)
   * [Agents에 대한 모든 기초 설명 - YouTube](https://www.youtube.com/watch?v=HujQhD8J2LQ)
+* [Building agents: When to fold subagents into your main agent loop | Claude](https://claude.com/resources/articles/building-agents-when-to-fold-subagents-into-your-main-agent-loop)
+  * [A guide to the anatomy of effective commerce agents | Claude](https://claude.com/resources/articles/the-anatomy-of-effective-commerce-agents)
+    * Ali Shazal·Matthew Koen(2026-09-02, 36분). 리테일·마켓플레이스·여행·통신사 커머스 에이전트의 공통 구조—스킬·도구·강한 eval 스위트를 갖춘 Claude 단일 에이전트 루프. 1부 아키텍처(한 번 결정), 2부 지연·비용, 3부 프로덕션(메모리·안전·평가·조직 확장). 쇼핑·판매자 에이전트 레퍼런스 구현 블루프린트 제공
+  * [Anthropic "서브에이전트를 메인 루프로 합쳐라" vs Deep Insight 8-에이전트 프로덕션—모순일까? | Gonsoo Moon](https://www.linkedin.com/posts/gonsoomoon_multiagent-aiagents-amazonbedrock-share-7519630583283544064-FnqR)
+    * 하루 차이로 나온 두 글을 겹쳐 읽은 "언제 싱글, 언제 멀티" 기준. Deep Insight는 코드 실행 로그로 컨텍스트가 비대해지고(첫째 조건), Validator가 원본 데이터로 재계산(블랙박스 검증), Coder/Validator/Reporter가 각자 컨텍스트에서 일하고 압축 결과만 반환(컨텍스트로 나누기), Supervisor가 전문 에이전트를 도구로 호출(agents-as-tools, 대화 주인 하나), 세션별 Fargate 샌드박스—Anthropic이 못 박은 "서브에이전트가 남는 조건"에 정확히 해당. 한글 블로그가 먼저 나왔으니 같은 결론에 따로 도달한 셈. 판단 기준: 한 대화가 상태(장바구니·이력)를 공유하고 짧은 턴이 많으면 싱글+Skills
+  * Diane Sarkis(2026-10-22, 18분). Applied AI 팀이 여러 엔터프라이즈 배포에서 라우터·플래너·도메인 서브에이전트를 메인 루프로 합친 결과—"단일 에이전트+Skills"가 단일 프롬프트 방식과 서브에이전트 방식 모두를 품질에서 일관되게 앞섰고 비용·지연도 대개 낮았다(한 고객은 싱글 루프가 멀티 하네스보다 약 2배 빠름). 의도 분류기→고정 다단계 파이프라인→세그먼트 분기→오케스트레이터 구조는 대부분 모델이 더는 필요로 하지 않는 일을 하고 있었고, 명확한 시스템 프롬프트 하나+얇은 데이터 도구 4~5개+출력 가드레일로 충분
+  * 서브에이전트가 남는 조건: 컨텍스트 비대화로 측정 가능한 성능 저하, 버릴 수 있는 새 컨텍스트에서의 병렬 작업, 도구가 많아(30~50개+) 선택이 흔들리거나 지시가 충돌. 팀/문제 유형별 서브에이전트는 조직도 복제(Conway's law)—"문제 유형이 아니라 컨텍스트로 나눠라". 처방: 작은 end-to-end 평가셋을 만들고 서브에이전트를 하나씩 합쳐 보며 점수가 떨어질 때만 남기기. 마이그레이션 키트(가이드 워크플로+목 시스템 데모) 제공
 * [에이전트, 개념부터 같이 정리해봐요 | NAVER D2 - YouTube](https://www.youtube.com/watch?v=UjvgpPG1XTU)
   * 네이버 사내 Tech Meetup 인기 세션(66분). 에이전트·하네스·Context vs Memory·MCP vs A2A처럼 같은 말을 서로 다른 뜻으로 써서 논의가 겉도는 문제를 Anthropic·OpenAI·MCP·A2A 원문을 다시 읽고 정리. 목표 둘—워크플로우와 에이전트를 구분할 수 있다, 하네스가 모델 밖 어떤 구성 요소를 가리키는지 설명할 수 있다
   * 워크플로우 vs 에이전트의 기준은 "다음 순서를 누가 정하느냐"—코드를 읽으면 다음 상태가 보이면 워크플로우, 모델이 도구만 받아 그때그때 판단하면 에이전트(실체는 while loop, ReAct 프롬프트 규약이 툴콜링 학습으로 내재화된 것). 화이트보드에 분기를 그릴 수 있으면 워크플로우, 예외·분기만 계속 늘면 에이전트. 하네스는 모델 밖에서 루프·세션/컨텍스트·메모리·지식(CLAUDE.md·스킬)·권한·상한(auto compact, 도구 호출 횟수 제한)을 맡는 층으로, "없으면 어떻게 되는가"로 각 요소의 필요성을 설명
@@ -846,6 +856,10 @@ Artificial Intelligence
 * [Systems Thinking & Complexity Theory for AI Architects - YouTube](https://www.youtube.com/watch?v=LxMaxrOfe1M)
   * [AI 아키텍트를 위한 시스템 사고 및 복잡성 이론](https://livewiki.com/ko/content/systems-thinking-complexity-ai-architects)
 * [Demand to Cease and Desist (Amazon - Perplexity) | Wonsun Chung | 15 comments](https://www.linkedin.com/posts/wonsun-chung_demand-to-cease-and-desist-amazon-perplexity-ugcPost-7392181329217404928-IAeY)
+* [The next hurdle for AI agents: getting websites to let them in | TechCrunch](https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/)
+  * [웹사이트들이 AI 에이전트에 문을 닫고 있음 | GeekNews](https://news.hada.io/topic?id=35590)
+  * 예약·쇼핑을 대신하는 Meta Muse·xAI Grok·OpenAI Dots·Instinct 사용자들이 주요 사이트에서 작업 차단을 겪는 현황(2026-10). Yelp는 유료 데이터 라이선스에 참여하는 에이전트만 허용, Delta는 대리 예약 금지, JPMorgan Chase·Charles Schwab은 보안 우려로 계좌 접근 차단, Cars.com·Amtrak도 접근 불가 보고. Amazon은 2025년 Perplexity 에이전트 쇼핑을 금지·제소(법원 중단 명령→2026-08 항소심 번복→수정 소장)하고 Muse도 차단—Perplexity는 "에이전트는 사용자의 연장선", Amazon은 광고를 보는 사람의 감소를 이유로 거론
+  * Meta는 "개인 에이전트를 거절하는 것은 그 뒤의 고객을 거절하는 것"이라며 Walmart·Gap·Sephora·Best Buy 등과 제휴, Shopify도 상점망 개방—다만 제휴 사이트에서도 기존 봇 방지 장치(Google의 '의심스러운 활동' 계정 차단, Walmart 결제 오류)가 에이전트를 막음. Cloudflare의 AI 크롤러 원클릭 차단·다목적 크롤러 차단 확대와 함께, 접근 가능한 사이트가 줄면 에이전트 유용성도 줄고 일반 사용자도 "사람임을 증명"하는 절차가 늘어난다는 전망(EquiStamp CEO Chris Canal). HN 댓글: 자체 인프라에서 돌리는 오픈소스 WAF sibuna(insanai/sibuna)
 * [AI 에이전트에 대한 한달간의 생각 – Charles Pyo](https://charlespyo.com/2025/11/02/ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8%ec%97%90-%eb%8c%80%ed%95%9c-%ed%95%9c%eb%8b%ac%ea%b0%84%ec%9d%98-%ec%83%9d%ea%b0%81/)
 * [Agent Memory와 RAG, 도대체 뭐가 다른 건가요? | Sungmin Kim](https://www.linkedin.com/posts/sungminkim23_%EC%9E%AC%EC%97%85%EB%A1%9C%EB%93%9C-webinar-%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B0-%EA%B8%B0%EC%96%B5%ED%95%98%EA%B3%A0-%EC%B0%BD%EC%A1%B0%ED%95%98%EB%8A%94-ai-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EB%A5%BC-ugcPost-7394544941705834496-iEez)
 * [Making Sense of Memory in AI Agents – Leonie Monigatti](https://www.leoniemonigatti.com/blog/memory-in-ai-agents.html)
@@ -1288,6 +1302,9 @@ Artificial Intelligence
     * Agentic AI는 여러 AI 에이전트가 자율적으로 협력하여 복잡한 문제를 해결하도록 설계된 시스템
       * 모듈식, 계층적 설계 및 다중 에이전트 시스템 등이 주요 방법론
     * 생성형 AI의 위험성(혼란스러운 대리인 문제)과 보안 대응 방안도 설명
+* [Andee — Move in, and become the soul of this phone](https://heyandee.com/)
+  * [andee: It moves into your phone or Mac and uses any app the way you do. No integrations, no root, any model. Its memory and your passwords never leave the device](https://github.com/kuafuai/andee)
+  * 폰·Mac·태블릿을 "몸"으로 삼아 상주하는 온디바이스 에이전트—앱을 돕는 도구가 아니라 기기에 사는 존재라는 콘셉트(기기별 Andee끼리 친구가 될 수 있음). Android 11+ APK 하나·Mac 앱 하나, 루트·커스텀 ROM 불필요, 앱 연동 없이 사람처럼 화면을 읽고 탭·스와이프·타이핑(눈·뇌·손). OpenAI 호환 모델 아무거나(영문 UI 기본 OpenAI, 중문 DeepSeek), 메모리와 비밀번호는 기기 밖으로 나가지 않음. 5 looks·14 moods·60+ tools·분석 SDK 0. Kotlin, Apache-2.0, 3.2k stars
 * [anidoodle: Art and animation, written as code. Illustrations, loops, interactive web art, stickers and scored films in dozens of styles, identical on every render](https://github.com/alexgreensh/anidoodle)
   * Claude Code·Codex용 스킬/플러그인 형태의 크리에이티브 코딩 도구—모든 획이 함수, 모든 음이 산술이라 **같은 소스가 어떤 머신·어떤 크기에서도 똑같은 그림을 다시 그리는 결정론적 렌더링**. 볼펜·수채·차콜·리소그래프·픽셀아트·수묵·목판·자수·유화·컷페이퍼 콜라주 등 31개 스타일이 각자 획을 만드는 방식(펜촉의 테이퍼, 워시의 번짐, 리소 드럼의 하프톤)으로 정의되고, 스타일마다 그 매체의 작가가 작업하는 순서대로 **그림이 그려지는 과정 필름**을 함께 생성
   * 일러스트·루프 애니메이션·스티커에 더해 코드로 작곡한 음악을 입힌 scored film까지—브랜드 스타일 하나를 고르면 이후 모든 그림이 같은 손에서 나온 것처럼 유지. README의 모든 도판과 컨택트 시트 자체가 이 레포의 코드로 그려짐. TypeScript, Apache-2.0, 338 stars(2026-09-22 생성 나흘 만)
@@ -1417,6 +1434,9 @@ Artificial Intelligence
   * [2508.13167 Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL](https://arxiv.org/abs/2508.13167)
 * [ChatDev: ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration](https://github.com/OpenBMB/ChatDev)
   * [ChatDev 2.0 (DevAll): 데이터 시각화부터 게임 개발까지 워크플로우 완벽 가이드](https://fornewchallenge.tistory.com/entry/%F0%9F%92%A1-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%8B%9C%EA%B0%81%ED%99%94%EB%B6%80%ED%84%B0-%EA%B2%8C%EC%9E%84-%EA%B0%9C%EB%B0%9C%EA%B9%8C%EC%A7%80-ChatDev-20-DevAll-%EC%9B%8C%ED%81%AC%ED%94%8C%EB%A1%9C%EC%9A%B0-%EC%99%84%EB%B2%BD-%EA%B0%80%EC%9D%B4%EB%93%9C)
+* [Cindy — Consider it done](https://cindy.app/)
+  * [cindy: Consider it done. The open-source AI agent that works out of the box](https://github.com/makecindy/cindy)
+  * XD.INC의 오픈소스 AI 에이전트(TypeScript, Apache-2.0, 7.1k stars). 업무용·가정용 컴퓨터·노트북·폰을 하나로 연결해 다른 기기에서 같은 세션·파일을 이어가고, 다른 컴퓨터에 설정된 모델 구독·API·로컬 모델을 빌려 쓰며(Claude Code·Codex·Pi 등), 내장 원격 데스크톱으로 폰에서 연결된 컴퓨터의 앱을 열고 조작. 내 컴퓨터가 서버—서버 임대·셀프호스팅 설정 없음, 모델 서비스 요금만 부담
 * [Claw Patrol — Security firewall for agents](https://clawpatrol.dev/)
   * [clawpatrol: Security firewall for agents](https://github.com/denoland/clawpatrol)
   * [한영자막 AI 에이전트에게 DB 쓰기 권한을 주면 생기는 일과 Deno의 보안 해결책 (Ryan Dahl) - YouTube](https://www.youtube.com/watch?v=w0e6vBjYq3U)
@@ -1530,6 +1550,8 @@ Artificial Intelligence
   * [Flue - 샌드박스 에이전트 프레임워크 | GeekNews](https://news.hada.io/topic?id=29849)
   * [Flue: TypeScript 기반 자율 에이전트 개발 프레임워크 완전정복 | digitalbourgeois](https://digitalbourgeois.tistory.com/3290)
   * TypeScript 자율 에이전트/워크플로 프레임워크. "Agent = Model + Harness" 철학—Claude Code/Codex 같은 코딩 에이전트 경험을 헤드리스·프로그래머블하게 재구성. 4계층 아키텍처: Model(토큰·도구·프롬프트)/Harness(스킬·메모리·세션)/Sandbox(bash·보안·네트워크)/Filesystem(read·write·grep·glob). 서브에이전트, 도구, durable execution(실패·재시작 생존), MCP 서버, OpenTelemetry/Braintrust/Sentry 옵저버빌리티, Slack/Teams/Discord/GitHub 챗 통합. vercel-labs/just-bash 가상 샌드박스 기본(컨테이너 스폰 없이 빠른 스케일), Daytona 등 원격 샌드박스 연결. Node.js/Cloudflare Workers/GitHub Actions/GitLab CI/CD 동일 빌드. 민감 토큰(GITHUB_TOKEN) 분리. Apache-2.0 (Experimental). "다른 사람의 에이전트를 임대하지 말라" 철학
+  * [미친 프레임워크 등장 👀 | 노마드 코더 Nomad Coders - YouTube](https://www.youtube.com/watch?v=qP2pj1JI8J0)
+    * 4분(2026-10-25). React처럼 훅(useModel·useSandbox·useSkill·useTool)으로 상태·도구를 관리하는 TypeScript 에이전트 프레임워크 소개—조건부 훅, MCP, 서브에이전트, 샌드박스, DB 교체·REST API·React UI 연결까지 직접 구현하던 기능이 기본 내장. withastro/flue(Apache-2.0, 8.5k stars)
 * [freephdlabor](https://freephdlabor.github.io/)
   * [freephdlabor: customizing personalized multiagent systems that researchs 24/7 on your own scientific problem](https://github.com/ltjed/freephdlabor)
   * [2510.15624 freephdlabor 논문](https://arxiv.org/abs/2510.15624)
@@ -1637,6 +1659,9 @@ Artificial Intelligence
   * [5개월 만에 14조원이 된 스타트업: 명문대 출신도 아닌 23살 연구원이 만든 AI 비서 | Ian Park, 주간실리콘밸리](https://ianpark.vc/p/instinct-10b/)
   * 새 인터페이스 없이 문자·전화로 쓰는 개인 비서. 이메일·메시지·화면·오디오·위치에 연결되고 사람과 같은 방식으로 폰과 컴퓨터를 직접 조작하도록 학습—놓친 대화 팔로업, 먼저 전화·문자 걸기, 공항 차량 예약, 수리 기사 예약
   * VC 이안 박의 체험기—Gmail·캘린더를 연결하지 않았는데 읽씹 4시간 뒤 공개된 한국어 뉴스레터를 찾아 읽고 서울 북토크 일정을 먼저 꺼냄. 프롬프트로 자기 설명을 시작하던 기존 AI와 달리 설정 없이 iMessage에서 바로 쓰는 경험이 차별점. 창업자는 23살 Noah Shinn, 5개월 만에 $10B(약 14조원) 기업가치로 투자 논의 중이며 VC들이 먼저 써보고 소문내고 투자하는 구도
+  * [세상이 바뀐 것 같습니다 (23살 AI 에이전트 Instinct 창업자) | ARBTY 아비트라리 - YouTube](https://www.youtube.com/watch?v=9s38NJgzF00)
+    * 창업자 Noah Shinn 영어 인터뷰(2026-10-20, 74분). 1년 전 창업한 Instinct는 "그냥 개인 비서"—초기 트랙션의 비결은 비전을 믿어달라는 게 아니라 "그냥 된다(it just works)". 코드 생성 1년 전과 비슷하거나 더 큰 개인 에이전트의 순간이며, 대부분의 사람이 기술과 상호작용하는 새 방식이 여기서 나올 것이라는 전망
+    * 무료 서비스의 광고 모델("돈을 안 내면 당신이 상품")을 거부하고 Instinct는 사용자 의도만 대리해야 한다는 원칙. 배포 채널 없는 스타트업의 복리 성장과 변곡점, 사용자 2배가 요청 2배가 아닌 특수한 스케일링 문제(시간의 40%를 여기에 쓴다), 구독제라는 국소 최적에서 벗어나기 위해 거래량·산업별 경험을 증명하는 데 자본을 쓰는 이유
 * [jai - easy containment for AI agents](https://jai.scs.stanford.edu/)
   * 스탠포드 연구. AI 에이전트를 위한 초경량 Linux 샌드박스
   * [oh-my-product: Multi-agent orchestration for Gemini CLI](https://github.com/jjongguet/oh-my-product)
@@ -2068,6 +2093,9 @@ Artificial Intelligence
   * [statewright: State machine guardrails for AI agents](https://github.com/statewright/statewright)
   * "에이전트는 제안, 상태는 법"—어느 단계에서 어떤 도구를 쓸 수 있는지를 상태 머신으로 강제하는 가드레일. 워크플로우를 한 번 정의하면 Claude Code 플러그인·Codex·Cursor·opencode·Pi에서 똑같이 집행: planning 상태는 읽기 전용, implementing으로 전이하면 편집 도구와 제한된 셸 해제(리다이렉트 쓰기·파괴적 명령은 계속 차단), testing은 지정 테스트 명령만. 현재 단계에 없는 도구를 부르면 거부하면서 가능한 도구와 전이 방법을 알려줌. DAG와 달리 루프·재시도 가능. 모델을 키우는 대신 문제를 작게—도구·해법 공간을 좁혀 단계별로 집중 추론
   * 5-태스크 SWE-bench 부분집합에서 로컬 모델 2종이 10회 중 2회→10회 통과(같은 태스크·하드웨어). 13GB 미만 모델은 도구 호출은 하지만 파일 내용을 못 유지해 편집 실패, 그 이상(gpt-oss:20b·gemma4:31b·llama3.3)부터 가드레일이 실패를 완료로 바꿈. SaaS(키 발급·워크플로 에디터·Claude/Codex 네이티브 자율 모델 라우팅, 통합 컨트롤 플레인·중앙 승인 개발 중) + 오픈소스 엔진. Rust, 502 stars
+* [Swarms — The End-To-End Infrastructure Stack To Build, Deploy, And Monetize AI Agents](https://www.swarms.xyz/)
+  * [swarms: The Enterprise-Grade Multi-Agent Orchestration Framework | kyegomez](https://github.com/kyegomez/swarms)
+  * Swarms Corporation(Kye Gomez)의 멀티 에이전트 스택—Python `pip install swarms`·Rust `swarms-rs`로 계층형·순차·병렬 협업 아키텍처, 에이전트 간 통신 프로토콜, 최적화 런타임, 멀티 에이전트 메모리, 시뮬레이션 환경을 제공하고 API(api.swarms.world)·클라우드 배포·마켓플레이스(swarms.world)로 수익화까지. v16 "Overclock" 출시. Apache-2.0, 7.3k stars. 같은 조직의 AutoHedge(Director·Quant·Risk·Execution 에이전트로 Solana 자율 트레이딩, finance.md 참조)가 이 스택 위에 구축
 * [TencentDB-Agent-Memory: fully local long-term memory for AI Agents via a 4-tier progressive pipeline](https://github.com/TencentCloud/TencentDB-Agent-Memory)
   * 외부 API 의존 0의 완전 로컬 AI 에이전트 장기 메모리. Mermaid 다이어그램 기반 심볼릭 단기 메모리 + 페르소나·시나리오로 구조화된 장기 메모리 4계층 파이프라인. OpenClaw·Hermes 연동 시 토큰 대폭 절감·태스크 성공률 향상
 * [Terminal-Bench-Science — Evaluating AI agents on research workflows](https://www.terminal-bench-science.ai/)
@@ -2352,6 +2380,11 @@ Artificial Intelligence
   * [Superintelligence Labs & MIT invent new LLM: The CLM - Discover AI - YouTube](https://www.youtube.com/watch?v=4GIFaeCtEio)
   * UW·Meta Superintelligence Labs·MIT·Trillium Labs. 외부 하네스가 컨텍스트를 자르고 요약하는 대신, 모델이 컨텍스트를 하나의 파일로 보고 자유롭게 고쳐 쓰며 스스로 관리하는 언어 모델. 여러 에이전트의 컨텍스트가 파일로 공존하는 멀티 에이전트 구조로도 자연스럽게 확장
   * 기존 모델로 zero-shot 구성만 해도 최신 컨텍스트 관리 전략보다 BrowseComp-Plus 정확도 11.4%p↑·FLOPs 21.5%↓, 12시간 EdgeBench 점수 5%↑·FLOPs 59%↓. 스킬 최적화 루프로 진화시킨 자연어 지시로 조정(최대 35.9점↑), 온라인 RL로 Qwen3.5-9B BrowseComp-Plus 47.6%↑, 서빙용 Suffix Cache Reuse로 SGLang 대비 서버 연산 35%↓
+* [Agentic Context Engineering: Evolving Contexts for Self-Improving Language Models | Microsoft Research](https://www.microsoft.com/en-us/research/publication/agentic-context-engineering-evolving-contexts-for-self-improving-language-models/)
+  * [2510.04618 Agentic Context Engineering: Evolving Contexts for Self-Improving Language Models | arXiv](https://arxiv.org/abs/2510.04618)
+  * [요즘 프롬프트 엔지니어링, 무엇을 점검해야 할까? 2026년 10월, 주요 논문으로 보는 프롬프트 개선 방향 | Sujin Kang Ph.D.](https://www.linkedin.com/posts/sujin-prompt-engineer_promptengineering-contextengineering-llm-ugcPost-7513593754629386240-a1NO/)
+    * ICLR·ICML 2026·TACL 논문 5편으로 정리한 실무 점검 포인트—①ACE: 프롬프트를 줄이다 적용 조건·예외까지 지울 수 있으니 "중복 제거" 전후에 대상·조건·예외 보존 확인 ②TARE(Beyond Magic Words, ICLR 2026): 의미가 같은 다른 표현("신청 방법 알려주세요/어떻게 해야 하나요/절차 안내")에서도 핵심 안내가 일관되는지 테스트 ③MR.PEA(ICML 2026): 정답 없는 소량 입력으로 프롬프트를 최적화하되 실패 사례·필수 포함 내용·금지 오류·유지할 기존 동작을 함께 주고, 개선에 쓰지 않은 실제 질문을 홀드아웃으로 전후 비교
+  * Zhang·Hu·Upasani·…·James Zou·Kunle Olukotun(Stanford·SambaNova, ICLR 2026). 가중치 대신 입력을 바꾸는 컨텍스트 적응이 겪는 두 문제—간결 요약이 도메인 통찰을 버리는 brevity bias, 반복 재작성으로 세부가 침식되는 context collapse. Dynamic Cheatsheet의 적응형 메모리를 발전시켜 컨텍스트를 생성·반성·큐레이션의 모듈형 과정으로 전략을 축적·정제·조직하는 "진화하는 플레이북"으로 다루고, 구조화된 증분 업데이트로 붕괴를 방지. 오프라인(시스템 프롬프트)·온라인(에이전트 메모리) 모두 최적화해 에이전트 +10.6%·금융 +8.6%, 적응 지연·롤아웃 비용 대폭 절감, 라벨 없이 실행 피드백만으로도 적응. AppWorld 리더보드에서 상위 프로덕션 에이전트와 평균 동률, 어려운 test-challenge에서는 추월
 * [Agent-Skills-for-Context-Engineering: A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)
   * [GitHub 스타 1만 개 찍은 스킬셋. 에이전트 만드는 순서가 바뀝니다 | Jeongmin Lee](https://www.linkedin.com/posts/jyoung105_github-%EC%8A%A4%ED%83%80-1%EB%A7%8C-%EA%B0%9C-%EC%B0%8D%EC%9D%80-%EC%8A%A4%ED%82%AC%EC%85%8B-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EB%A7%8C%EB%93%9C%EB%8A%94-%EC%88%9C%EC%84%9C%EA%B0%80-%EB%B0%94%EB%80%9D%EB%8B%88%EB%8B%A4-share-7432415927805157376-nnZs)
 * [Awesome-Context-Engineering: 🔥 Comprehensive survey on Context Engineering: from prompt engineering to production-grade AI systems. hundreds of papers, frameworks, and implementation guides for LLMs and AI agents](https://github.com/Meirtz/Awesome-Context-Engineering)
@@ -2446,6 +2479,9 @@ Artificial Intelligence
 * [When to Build Your Own Agent Harness | Harrison Chase, LangChain - YouTube](https://www.youtube.com/watch?v=HI2q3ci3Iuc)
   * Sequoia Capital 'Own Your Intelligence' 이벤트. 에이전트 = 하네스+모델+컨텍스트, 하네스는 적시에 올바른 컨텍스트를 모델에 가져오는 루프—미들웨어·훅·서브에이전트로 커스터마이즈. 태스크가 out-of-distribution일수록 자체 하네스가 필요하지만, 파일 편집처럼 모델 훈련 분포 안(in-distribution)인 부분은 커스텀 하네스라도 모델이 훈련된 방식 그대로 유지할 것
   * 벤치마크 구축(Harbor eval), 에이전트 디버깅에 저평가된 관측성(문제는 대개 컨텍스트), traces→큐레이션→실험으로 이어지는 데이터 플라이휠, LangSmith Engine 데모
+* [Is the Agent Harness Dead? — Jediah Katz, SpaceXAI | AI Engineer - YouTube](https://www.youtube.com/watch?v=7Y4sbZgBdnc)
+  * 18분(2026-10-19). Cursor 최장기 에이전트 하네스 엔지니어로 SpaceX 인수와 함께 합류한 Jediah Katz. 2023 프롬프트 엔지니어→2025 컨텍스트 엔지니어→2026 하네스 엔지니어로 이어진 용어 변천. 하네스=모델의 눈과 손(런타임 층: 에이전트 루프 실행 위치·상태 저장 / 컨텍스트·오케스트레이션 층). 두 연구에서 하네스 선택이 eval 점수에 유의미한 차이를 내지 못한 이유는 데이터 플라이휠—하네스가 덧대던 기술을 모델이 흡수했기 때문("코딩을 더 잘하게 만들던 부분은 죽었다")
+  * 그래도 하네스가 더 중요해지는 두 이유: ①Grokbot 같은 자율 동료가 여는 새 작업 영역 ②모델이 흡수할 수 없는 인프라·신뢰와 보안(에이전트·사람별 권한 범위, 파국적 행동·$10,000 API 요금 가드레일)·효율(같은 연구에서 작업당 비용은 하네스별로 크게 달랐음). 예측: shim이 더 안 발동하면 에이전트가 정리 PR을 올리는 자기 정리, LLM 호출 조합→에이전트를 빌딩 블록으로 삼는 상위 추상화, 6개월 내 에이전트 작업의 90%가 노트북 밖(클라우드)에서 실행
 * [Adversarial review | Jesse Vincent](https://blog.fsck.com/2026/05/01/adversarial-review/)
   * AI가 자기 작업물을 검토하면 이해상충(자기 시험지 채점)이 생기므로, 여러 서브에이전트를 경쟁시켜("심각한 이슈 가장 많이 찾는 쪽이 5점") 더 많은 문제를 찾게 하는 기법. "fresh eyes"로 다시 보게 하는 단순 기법도 효과적
 * [I Believe Everything My Agents Tell Me: Three Levels of Review — Corey Gallon, Rexmore | AI Engineer - YouTube](https://www.youtube.com/watch?v=dYh7TQkuYFE)
@@ -2492,6 +2528,8 @@ Artificial Intelligence
 * [Harness engineering for coding agent users | Martin Fowler](https://martinfowler.com/articles/harness-engineering.html)
   * 코딩 에이전트 사용자를 위한 하네스 엔지니어링. (기존 exploring-gen-ai 시리즈와 별개 글)
 * [프로덕션 Multi-Agent 시스템이 해결해야 할 5가지 문제 – Deep Insight 아키텍처로 배우는 실전 설계 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/practical-design-lessons-from-the-deep-insight-arch/)
+  * [5 production challenges in multi-agent systems and how Deep Insight solved them | AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/5-production-challenges-in-multi-agent-systems-and-how-deep-insight-solved-them/)
+    * 영문판(2026-10-21, Yoonseo Kim·Jesam Kim·Jiyun Park·Kyutae Park·Gonsoo Moon·Chloe Kwak, Amazon Bedrock AgentCore). 에이전트는 고정 절차가 아니라 맥락으로 판단하므로 프롬프트 수정만으론 비즈니스 로직 누락·검증 생략·엣지 케이스 미처리가 반복—"어떻게 생각하고, 언제 검증하고, 잘못되면 무엇을 할지"를 설계해야 한다는 관점
   * [Context Window 한계를 넘어서 – Deep Insight 개발 여정으로 배우는 Context Engineering 실전 기법 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/context-engineering-from-deep-insight/)
   * [하네스 엔지니어링으로 본 Deep Insight – 로컬 개발에서 프로덕션 운영까지의 설계 여정 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/harness-engineering-from-deep-insight/)
   * [Inner Loop 엔지니어링으로 본 Deep Insight Chatbot – 대화형 분석 챗봇의 4가지 설계 결정 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/inner-loop-engineering-deep-insight-chat-bot/)
@@ -2628,6 +2666,9 @@ Artificial Intelligence
   * [Harness²: 재귀적 에이전트 하니싱으로 AI 에이전트의 실행 환경을 개선하는 방법 | digitalbourgeois](https://digitalbourgeois.tistory.com/3839)
   * 모델 가중치는 고정한 채 하네스(프롬프트·도구·메모리·스킬·오케스트레이션)를 재귀적으로 최적화하는 플러그인형 프레임워크(Python, Apache-2.0)—하네스 설계 때 보지 못한 과제를 만나는 열린 환경 대상. 과제 수준 재귀는 Propose–Probe–Compose(수정 제안→같은 과제에서 효과 탐색→실행 간 행동 대비로 정제된 하네스 합성, 정답 피드백 불필요), 하네싱 수준 재귀는 채택된 하네스와 근거 있는 교훈으로 영속 improvement harness를 갱신해 다음 정제를 안내
   * 편집 가능한 8개 구성요소: 시스템 프롬프트·가드레일·메모리·도구 안내·서브에이전트·스킬·스크립트·플러그인. 단 한 번의 Harness² 단계로 GLM-5·Gemini 3.5 Flash가 기본 하네스 대비 WorkBuddy-Bench 최대 11.5점, JobBench 4.5점, LAB 부분 통과율 11.8%p 향상(재귀 예산을 늘리면 추가 향상). 병렬·순차 재귀, OpenCode·Codex 실행기 지원, 자격증명 없이 돌아가는 로컬 데모 제공
+  * [Google 연구팀의 Harness, 모델을 바꾸지 않고 에이전트를 개선한다? | 코드브릿지 - YouTube](https://www.youtube.com/watch?v=ppdsH7-aDI4)
+    * 6분(2026-10-20). 로컬 데모를 직접 돌려본 결과—장부 3줄(100.25, -20.15, 5)의 합계를 기준 하네스는 105.25로 틀리고(양수만 더하는 스크립트 조건), 수정된 하네스가 85.15로 맞춤. 바뀐 건 모델이 아니라 8개 부품 중 스크립트 한 줄(상시 추가 텍스트 62자). 작업층(propose→probe→compose, 정답 채점기 없이 후보 간 행동 차이로 판단)과 하네싱층(채택된 교훈을 "차변·대변이 함께 있으면 두 부호 모두 합산" 한 줄로 다음 작업에 넘김) 2층 재귀, 병렬(넓게)·순차(깊게) 예산. 2개 작업에 실행 28회·편집기 호출 32회
+    * 비판적 확인: 데모의 채택 근거가 "실제 합계와 일치"라서 사실상 정답 검증기가 있는 경우이고, 8개 부품 중 스크립트 하나만 바뀐 사례라 나머지 부품의 판정 방식은 미확인. 공식 문서가 실행기의 네트워크 미제한·Codex 실행기 샌드박스 해제를 명시하므로 평가 전 네트워크 제한 필수. 조언: 에이전트가 실패하면 모델부터 바꾸지 말고 스크립트·도구 완료 조건을 먼저 의심하고, 같은 작업으로 전후 비교 근거를 파일로 남기기
 * [harness-editor: A single-page HTML tool for visually editing .claude/agents/*.md and .claude/skills/**/SKILL.md files](https://github.com/amazingsyp/harness-editor)
   * [harness-editor demo](https://amazingsyp.github.io/harness-editor/harness-editor.html)
   * 로컬 only 싱글페이지 HTML. 디렉토리 트리(agents/skills/orchestrators 색상 구분), frontmatter 폼 편집기, 마크다운 스플릿 프리뷰, WYSIWYG 모드, 멀티 파일 검색/일괄 치환(regex), 설명 품질 점수
@@ -4720,6 +4761,10 @@ Artificial Intelligence
 * [The One-Axis Era Is Over: AI's Four New Scaling Laws | Jihoon Jeong | Medium](https://medium.com/@hiconcep/the-one-axis-era-is-over-ais-four-new-scaling-laws-2f40fb4679e5)
   * [정지훈 - The One-Axis Era Is Over: AI's Four New Scaling Laws | Facebook](https://www.facebook.com/jihoon.jeong/posts/pfbid02efdxschbDhVUdWAvmn7kutqxYSaRFsH8a4Znb9xg3wxXJb3PUaDnM4t9i5H7kFmzl)
   * DeepSeek 쇼크 이후 스케일링 법칙이 1축(파라미터/학습 컴퓨트)에서 4축으로 분화: ①사전학습 스케일 ②검증 가능한 보상 기반 후학습 RL ③추론 시점 컴퓨트(Thinking Mode) ④프런티어 모델로부터의 지식 증류. 2025-2026 투자 기회는 NVIDIA 중심에서 추론 칩·RL 인프라·평가 도구로 분산
+* [알트만은 틀렸다, 이제는 '스마트 스케일링' 시대... 최예진 교수의 소버린 AI 해법 | 더밀크](https://www.themiilk.com/articles/a67647cdc)
+  * [Wonick Park - AI 공룡과 싸우는 방법: 한국이 나아갈 길 | Facebook](https://www.facebook.com/wonickpark/posts/pfbid02MJvh8hDpXGiG3agtf6i94KagP3LaQKrMZnoihXwKrYQU4vJrjcA2ahuyphAG1zmvl)
+  * 박원익(2026-10-15), 뉴욕 코리아소사이어티 최예진 스탠퍼드 교수(HAI 선임 펠로, TIME AI 100인) 강연. 2023년 알트만의 "인도 스타트업은 파운데이션 모델 시도하지 말라"(자본·GPU가 곧 성능)에 균열—수츠케버의 "우리가 아는 사전학습은 끝난다" 이후 무차별 스케일링 시대는 끝났고 '스마트 스케일링'이 필요. 세 가지 길: ①적은 데이터로 더 잘 배우기—ProRL로 만든 1.5B 모델이 DeepSeek-R1 7B와 대등(엔트로피 제어) ②합성 데이터는 '다양성'이 먼저—프리즘 합성으로 20배 적은 데이터로 20배 큰 모델을 수학 벤치마크에서 추월 ③배포 시점에도 계속 배우는 TTT-디스커버—gpt-oss-120b로 수학·GPU 커널·알고리즘·생물학 최고 기록, 문제당 수백 달러
+  * DeepSeek 오픈웨이트가 Artificial Analysis 지수 45에 작업당 $0.25로 "작은데 더 좋은" 모델이 실제로 등장. 컴퓨팅·자본이 부족한 한국엔 데이터 설계와 효율적 학습 방식이 명확한 방향—HBR "Why Constraints Are Good for Innovation"처럼 제약이 창의성을 강화한다는 발상의 전환
 * [이주환 - OpenAI나 Anthropic의 제품에서 정작 'AI'가 차지하는 비중은 얼마나 될까 | Facebook](https://www.facebook.com/JoshatSwit/posts/pfbid02hRs9zC4ZEtPgMFftmfvbyDiGPp4vhp4eEV7jAqqiTdg7ScrPJYJyBzJ8FJwsjmqvl)
   * AI 기업들도 관리형 에이전트·스킬·커넥터·메모리·MCP·권한·벡터 저장소·거버넌스 등 스택 대부분이 AI가 아닌 소프트웨어. 스케일링 시대 종료로 LLM 자체 해자는 어려워지고, 사용 주체가 사람에서 에이전트로 이동. 런타임·오케스트레이션·신원/권한·관측성·거버넌스에 강한 소프트웨어가 더 중요해짐
 * [임경묵 - 코드는 3배 빨리 쓰게 됐는데, 정작 사람들이 쓰는 소프트웨어는 거의 늘지 않았습니다 | Facebook](https://www.facebook.com/kyungmook.lim/posts/pfbid0C4JF5zrK2zRYvqWALhHyTWcovw7SjnhxGLE8d1JWyhD8Kjhn4R8HemMxKuoce6V7l)
@@ -4899,6 +4944,9 @@ Artificial Intelligence
   * [최승준 - 테런스 타오가 말하는 수학 속의 AI (그리고 그 너머) (1/2) | Facebook](https://www.facebook.com/seungjoon.choi/posts/pfbid0DRBMfj73SyQcCyKseQtXb1NJhRV9jV1eRwsDsT5cZT28gtphUxeGBXV6Jkbo3ByWl)
   * [최승준 - 테런스 타오가 말하는 수학 속의 AI (그리고 그 너머) (2/2) | Facebook](https://www.facebook.com/seungjoon.choi/posts/pfbid02LaBBRQZMyqbA8q84mN96DaGhMs2nmTWQCRQiaUtx2GsGUnwmatGPWS2P7cmX8VCCl)
   * 수학자 Terence Tao의 AI관을 계속 갱신하는 선별 요약(마스토돈 70여 게시물+인터뷰 종합). 실천적 지침과 원자료 링크 포함. 수학자·연구자에게는 최강 모델보다 문헌 조사 등 평범하지만 규모 있는 과제를 처리하는 중간 성능 도구가 실익. ICM 2026 "The Age of AI" 발표 슬라이드 동반
+* [A Mathematician Reads the AI Future | Steven Strogatz | The Atlantic](https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133/)
+  * [Seung Joon Choi - A Mathematician Reads the AI Future (한국어 번역) | Facebook](https://www.facebook.com/seungjoon.choi/posts/pfbid07bfBarW3j5FxUP7zKzAS2YGQJqHNsviNEhR1dp7JpHgrN2S1Vnx7a5Cdgh7Yuq6nl)
+  * 코넬대 수학 교수 Steven Strogatz의 에세이(2026-10)—"내 분야는 음악·문학 못지않은 인간 정신의 표현인데 이제 기계의 차지인가." 2026-05 AI가 수학에 들이닥친 뒤 새벽 4시에 집 안을 서성이는 혼란에서 시작해, 9월 OpenAI가 내부 모델로 에이전트 1만 개를 88시간 돌려 나비에-스토크스 밀레니엄 문제를 풀었다는 발표, 10월 6일 약 400개의 기념비적 미해결 문제를 문제당 평균 3시간 연산으로 해치웠다는 보고서를 "순수수학에 떨어진 가장 거대한 폭탄"으로 기록. 응용수학자에게 AI는 망원경·현미경을 잇는 도구지만, 수학 내부의 아름다움을 인간의 창의력·상상력으로 탐구하는 순수수학자에게는 진리를 스스로 발견하는 분투와 기쁨을 빼앗길 수 있는 양면적 존재—그 전통에 합류하려던 젊은이들의 희망까지. 공저자 Alex Townsend가 수치선형대수 미해결 문제 200개를 모아 거대 AI 기업이 짓밟기 전에 동료들이 (AI 도움을 받아서라도) 직접 풀자고 나선 이야기 등 세 가지 일화로 무엇을 얻고 잃는지 기록
 * [Human-AI teaming in healthcare: 1 + 1 > 2? | npj Artificial Intelligence](https://www.nature.com/articles/s44387-025-00052-4)
   * [최윤섭 - 의사 <<< 의사+AI <<< AI 의 미래 제가 최근 의료 인공지능 연구 결과들을 보면서 어렴풋이... | Facebook](https://www.facebook.com/yoonsup.choi/posts/pfbid0ipNVyrvtGGTbcerbNEEU4pYfBjzdBfKYiqiXt115wVdZjaDSLQ5tAPMqYVvTYRrWl)
 * [AI, Human Cognition and Knowledge Collapse](https://economics.mit.edu/sites/default/files/2026-02/AI%2C%20Human%20Cognition%20and%20Knowledge%20Collapse%2002-20-26.pdf)
@@ -5318,6 +5366,10 @@ Artificial Intelligence
     * macOS Apple Silicon에서 REA를 소스 빌드해 Ghidra 12.1.4(OpenJDK 21 필요)를 엔진으로 붙이고 Claude Code·Codex·opencode 세 에이전트에 동시에 연결한 과정과 만난 구덩이들, 그리고 에이전트의 도구 카탈로그 컨텍스트를 약 20만 토큰에서 약 5.5만 토큰으로 줄인 최적화, AI 바이너리 분석의 보안 고려사항. 쇼케이스 사례(DX-Ball 스테레오 팬 함수 복원—3,205개 테스트·63바이트 일치, Notion 클립보드 IPC 추적, PC-98 TH04 탄막 각도 계산)도 소개
   * [How To Use DeepSeek + REA To Clone Anything (90% Cheaper) | Practical AI with Azou - YouTube](https://www.youtube.com/watch?v=Cg14VfhbnPs)
     * 4분(2026-10-21). 수상작인 3D 스크롤 사이트(눈밭·빛나는 이글루·얼어붙은 펭귄·커서 추적·파티클)를 DeepSeek Harness 데스크톱 앱 + REA 스킬로 로컬에 그대로 복제—DSH 설치 후 Settings→Models에 DeepSeek API 키(OpenRouter 등도 가능), Agent preset Standard, 모델 DeepSeek V4.1 Flash 1017·thinking High; REA는 터미널 한 줄(또는 에이전트에 프롬프트)로 설치; "REA로 이 사이트를 조사해 3D 스크롤 동작을 설명하고 구조·스크롤 모션을 재현하는 버전을 로컬에 만들어라" 한 번에 에이전트가 브라우저를 열어 스크롤하며 분석하고 로컬 주소를 돌려줌. 비용 비교: 프런티어 모델 $5/$25 vs Flash $0.30/$1.20(백만 토큰 입력/출력)로 90% 이상 저렴, DeepSeek 자체 테스트에서 11개 중 4개 우위
+  * [엑셀·워드·PPT·노션까지 AI로 똑같이 만들어봤습니다 (리버스 엔지니어링, Claude Code·Codex) | 리트머스 - YouTube](https://www.youtube.com/watch?v=g6yLR8sNTyk)
+    * [litpage: Open-source, self-hosted workspace for pages, databases and AI. One Node.js process with SQLite](https://github.com/litmers-dev/litpage)
+      * 영상에서 만든 노션 클론을 공개한 레포(TypeScript·React 19·Node.js 26+, MIT). 페이지·데이터베이스·AI를 한 곳에서 쓰는 셀프호스팅 워크스페이스—Node.js 프로세스 하나와 SQLite로 돌아가 내부용·개인 프로젝트에 바로 사용
+    * 22분(2026-10-23). 엑셀·워드·파워포인트·원노트·캡컷·노션을 REA로 역공학해 Claude Code·Codex로 재구현—소스 없이 사용설명서·업데이트 로그·API 요청만으로 기능 명세 3천 개를 뽑아 에이전트를 돌리는 방법. 노션 클론은 기능 테스트 38점→96점
   * "마음에 드는 기능을 보면 바이너리 수준까지 어떻게 동작하는지 이해한다"—소스 코드 없이도 앱을 에이전트에게 넘기면 기능을 조사·설명하고 증거를 제시한 뒤 자기 스택에 맞는 버전을 구현하게 하는 리버스 엔지니어링 에이전트 툴킷. 도구 선택·API 학습·증거 이동·다음 조사 대상 결정을 명령·스킬·구조화된 결과·반복 가능한 조사로 에이전트에 위임. 현재 Hopper 또는 Linux의 BYO Ghidra로 네이티브 분석·함수 dossier, 실험적 Windows x64 Ghidra(승인된 PE), 실행 없는 managed PE/CLI 트리아지, 재현 가능한 Evidence 기록, 통제된 프로세스 캡처, 웹사이트·Electron 페이지·Node/Electron V8 Inspector 수동 관찰, JS/소스맵 재구성, 정적 추론과 런타임 관찰을 구분하는 제공자 중립 그래프와 MCP 도구 카탈로그. 로드맵은 API·프로토콜·모바일·펌웨어·버전 간 차이까지. `npm install --global rea-agents && rea setup`, 한국어 README. TypeScript, MIT, 538 stars
   * 2026-10 현황(81k stars): `npx rea-agents setup`이 Claude Code·Codex·Cursor·Gemini CLI·Grok Build 등에 MCP 서버와 조사 워크플로 지시(스킬)를 등록(기존 설정 백업, 승인 후 적용)하고, 로컬 MCP를 지원하는 어떤 에이전트든 수동 등록 가능. 네이티브 분석은 기존 Hopper·Ghidra·IDA 사용(Hopper는 setup이 승인 후 설치 가능), 정적 JS·.NET 분석은 엔진 불필요. 대상: 네이티브 바이너리(의사코드·어셈블리·심볼·호출), 오프라인 ELF 레이아웃, EVM 바이트코드, 기록된 Linux 크래시, JavaScript/Electron(모듈·소스맵·IPC), 웹사이트(Chrome 계열), HAR/mitmproxy 캡처, .NET 어셈블리, Android APK·기기(adb)·JEB·Apktool 리소스, 펌웨어(Binwalk/Unblob), 패키지·Apple 번들, 프로세스 동작 캡처. 분석은 전부 로컬. 쇼케이스: DX-Ball 사운드 팬 계산 C 복원(3,205 케이스 통과), Notion Electron 클립보드 브리지 추적, PC-98 TH04 탄막 링 계산 복원. Node.js 22.19+/24.11+/26+, 암호화폐 토큰 발행·보증 없음 고지
   * REA × Jev 클린룸 팁(사용자 첨부 다이어그램): room A의 REA가 앱을 조사(문자열·호출·IPC·런타임 트레이스)해 모든 발견에 증거와 한계를 달고 규칙마다 REA 근거를 인용한 SPEC.md만 작성(코드는 쓰지 않음)→Jev spec gate가 규칙별 증거를 심사해 통과분만 room B로, 증거 없는 규칙은 REA로 돌려보내 다시 파거나 버림→원본을 전혀 보지 않는 Opus 5.5 새 세션(room B)이 SPEC.md만으로 기능을 재구현→Haiku 5.5가 재구현은 통과해야 하고 의도적으로 깨뜨린 3개 버전은 모두 실패해야 하는 테스트 실행, 애매한 건 Jev가 Opus로 라우팅, `/goal`로 3개가 전부 실패할 때까지 반복
@@ -6096,6 +6148,11 @@ Artificial Intelligence
     * [Lauren Tan 원본 발표 - YouTube](https://www.youtube.com/watch?v=Z-jNqqIYGm4)
     * MINDUNG(2026-10, 5분). 스킬별 사용법—고치기 전에 이해하기(how·why), 첫 설계에 갇히지 않기(architect·arena), 주석까지 정리(no-comments), 실제로 돌려서 확인, 다른 모델에게 검토받기(interrogate), `/poteto-mode`로 맡기기, 스웜·밤샘 작업. 설치: Cursor `/add-plugin pstack`→`/setup-pstack`→작업 앞에 `/poteto-mode`; 커뮤니티 포팅판으로 Claude Code(`/plugin marketplace add michael-denyer/pstack-claude`)·Codex도 가능
   * Meta·Netflix·Cursor를 거치고 React 컴파일러를 만드는 poteto의 "Cursor를 진짜 엔지니어링 팀으로 만드는" 스킬 모음. LOC 최대화가 아니라 더 적고 높은 품질의 코드가 목표—깊이 있는 단일 에이전트를 신뢰할 수 있어야 fearless parallelism이 가능(`poteto-mode`로 다중 에이전트 기동). 모델별 강점을 활용하는 멀티 모델 워크플로우, `/add-plugin pstack`으로 설치
+  * [Pstack, 그리고 Tstack | Jeongmin Lee | LinkedIn](https://www.linkedin.com/posts/jyoung105_pstack-%EA%B7%B8%EB%A6%AC%EA%B3%A0-tstack-%EC%B5%9C%EA%B7%BC-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%93%A4-%EC%82%AC%EC%9D%B4%EC%97%90%EC%84%9C-pstack%EA%B3%BC-share-7520622802261999617-QpLr)
+    * [tstack: The agent skills I use every day. Works with Claude Code and Codex | Theo Browne(t3dotgg)](https://github.com/t3dotgg/tstack)
+    * 두 레포는 프롬프트 열거가 아니라 최전선에서 제품을 만드는 사람들의 **일하는 순서**—같은 모델을 써도 첫 결과를 그대로 받는 사람과 확인·검토를 거치는 사람의 결과가 다르기 때문. Pstack(Lauren Tan)은 검증에 무게: 핵심 `/create-verification-skill`이 프로젝트 전용 검증 스킬과 기능 점검표를 만들고, 에이전트는 작업 후 점검표대로 실제 앱을 실행해 확인(컴파일 성공·정적 검사·"다 됐다" 보고는 증거로 안 침), 앱이 바뀌면 점검표도 갱신. Tstack(Theo Browne)은 반영에 무게: `full-send`라고 말하면 변경 하나를 리뷰(다른 모델과 의견이 일치할 때까지 반복)→PR 작성→CI·리뷰 봇 지적 중 타당한 것 수정→조건 충족 시 머지까지 작은 스킬들을 차례로 불러 끝냄(머지 직전 멈추는 버전도). 둘을 이으면 확인→합의 리뷰→PR·CI→머지→점검표 갱신 하나의 워크플로. 공통점은 AI의 첫 결과를 믿지 않는 태도를 마음가짐이 아니라 순서 안에 넣어 둔다는 것. MIT, 1.8k stars
+  * [요즘 자꾸 뜨는 pstack 어설프게 말고 제대로 파헤쳐 보기 | 김플립 - LLM 코딩 - YouTube](https://www.youtube.com/watch?v=u2oDdU6z4Bw)
+    * 24분(2026-10-23). X·유튜브에서 계속 보이는데 실제로 뭘 하는지 보여주는 곳이 없어 직접 뜯어본 영상—Lauren Tan(@poteto)은 누구인가, 먼저 "회사를 흉내 내는 스킬" gstack, pstack의 본질은 결국 SKILL.md, 원래는 Grok용이었다는 배경, Claude Code에 설치·설정하기. 『에이전틱 코딩 완성의 기술』 저자
 * [Qodo - AI Code Review: Deploy with confidence](https://www.qodo.ai/)
   * 엔터프라이즈 review-first AI 코드 리뷰 플랫폼(코파일럿 아닌 거버넌스). PR 리뷰(GitHub/GitLab/Bitbucket/Azure DevOps), Qodo CLI, Context Engine(코드베이스+의존성+PR 히스토리 인덱싱), Rules System, IDE 통합(VS Code/JetBrains). 15+ 전문 리뷰 에이전트(버그·테스트 커버리지·문서·체인지로그), 멀티 모델(Anthropic/OpenAI/Gemini/NVIDIA), 멀티 레포 컨텍스트. Zero retention·SOC 2 Type II·온프레미스·싱글테넌트. NVIDIA·Intel·Walmart·Intuit·monday.com 사용. Code Review Bench F1 64.3%
   * [생성형 AI로 테스트 커버리지를 높이는 자동화 도구, Qodo Cover 정리 | digitalbourgeois](https://digitalbourgeois.tistory.com/3125)
@@ -6294,6 +6351,9 @@ Artificial Intelligence
   * 서브이카. "배포해줘~" 한마디면 보안 점검 후 내부망 배포되는 사내 시스템을 만든 것을 계기로 돌아본 지난 1년 전사 AX(AI Transformation) 여정. DocSync는 Confluence·Notion·Slack에 흩어진 문서를 5분마다 로컬로 가져와 AI가 검색·워크플로우 실행
 * [팀 단위의 공유 실행세계가 성공하는 비결은 'Backward 구현'에 있다 | Josh Lee](https://www.linkedin.com/posts/josh-lee-76b99833_%ED%8C%80-%EB%8B%A8%EC%9C%84%EC%9D%98-%EA%B3%B5%EC%9C%A0-%EC%8B%A4%ED%96%89%EC%84%B8%EA%B3%84%EA%B0%80-%EC%84%B1%EA%B3%B5%ED%95%98%EB%8A%94-%EB%B9%84%EA%B2%B0%EC%9D%80-backward-%EA%B5%AC%ED%98%84%EC%97%90-%EC%9E%88%EB%8B%A4-share-7506476456089133056-B2Cl/)
   * 기업 AX가 실패하는 이유는 기술 부족이 아니라 시작점이 거꾸로 돼 있기 때문. 흔한 실패 패턴—①SI식 사고(레거시 API+LLM API 연동, MCP·함수호출 몇 개, 해커톤에서 하루에 에이전트 수십 개가 나오지만 몇 달 뒤 조직 생산성은 그대로) ②기존 SOP를 펼쳐놓고 바이브코딩(SOP는 사람을 위한 stateless procedure인데 agentic workflow는 상태와 동역학 중심이라 태생적 한계)
+* [에이전틱 AI 프로덕트를 만들다 보면, 공학의 한가운데서 오래된 인문학의 질문들을 자주 마주친다 | Josh Lee](https://www.linkedin.com/posts/josh-lee-76b99833_%EC%97%90%EC%9D%B4%EC%A0%84%ED%8B%B1-ai-%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8%EB%A5%BC-%EB%A7%8C%EB%93%A4%EB%8B%A4-%EB%B3%B4%EB%A9%B4-%EA%B3%B5%ED%95%99%EC%9D%98-%ED%95%9C%EA%B0%80%EC%9A%B4%EB%8D%B0%EC%84%9C-%EC%98%A4%EB%9E%98%EB%90%9C-%EC%9D%B8%EB%AC%B8%ED%95%99%EC%9D%98-share-7519607536216518656-sjcv)
+  * 도메인 레졸루션은 "의미는 누가 정의하고, 사실은 누가 확정하며, 실행의 정당성은 누가 보장하는가"에 답하는 과정—부서마다 다른 어휘(비트겐슈타인, 의미와 사용), "승인합니다"의 효력은 누가 어떤 권한으로 말했느냐에 달림(오스틴, 언어행위론), AI가 "심사 완료"라 판단한 것은 추정인가 확정된 업무 상태인가(인식론). 사람 사이에선 조직 문화·암묵지로 풀던 것을 에이전트가 업무를 대리하면 기계가 집행할 명시적 계약으로 바꿔야 함
+  * 신뢰는 100% 정확한 판단이 아니라 거버넌스 설계에서 나온다—AWB(에이전틱 월드 부트캠프) 1기 비개발자 참가자가 업무 단위·절차·통제사항을 먼저 정의하고 자기 하네스를 만들어 SOPbench·FDE-Gym·τ-bench로 검증한 결과 "판단은 확률적이라 100%는 아니지만 통제 쪽은 100%, 심각한 오류는 모두 방지". 판단은 확률적으로, 실행은 결정론적으로(Superwork OS 뉴로심볼릭 실행 아키텍처). 단, 원시 데이터·policy_id를 화면에 늘어놓는 "불편하게 솔직한 제품"은 좋은 UX가 아님—"1천만 원 이상 지출은 본부장 승인 필요" 한 줄이면 충분
 * [AI를 활용한 프로그래밍 역량을 높이는 방법 | GeekNews](https://news.hada.io/topic?id=25060)
 * [AI 보조 코딩, 생산성을 높였을까? 해커뉴스가 말하는 2026년 3월의 현실](https://digitalbourgeois.tistory.com/2887)
 * [이보라 - 실패 없이 AI 코딩을 도입하는 7가지 조직 원칙 지난 16일 DevMentor가 주최한「기업의 바이브... | Facebook](https://www.facebook.com/learner.bora/posts/pfbid02x3ncsNiRSr1sxvmVHiSHXAYM354oy8FXYK6mMBYxh7bN33tqLTN6JuRRBZKCPit2l)
@@ -7193,6 +7253,8 @@ Artificial Intelligence
   * [claude-delegator: Delegate tasks to Codex GPT 5.2 directly from within Claude Code](https://github.com/jarrodwatts/claude-delegator)
     * Claude Code 내에서 Codex GPT 5.2에 태스크를 직접 위임하는 플러그인. 멀티 모델 협업으로 Claude의 강점과 Codex의 강점을 동시에 활용
   * [claude-dev: Autonomous software engineer right in your IDE, capable of reading/writing files, executing commands, and more with your permission every step of the way](https://github.com/saoudrizwan/claude-dev)
+  * [claude-duet: Two devs, one Claude. Share a Claude Code session in real-time with E2E encryption](https://github.com/EliranG/claude-duet)
+    * `npx claude-duet host`로 호스트가 Claude Code를 헤드리스로 띄우고 상대가 `join <코드>`로 접속하면 WebRTC P2P(서버 없음, E2E 암호화, NAT 홀펀칭)로 터미널 세션을 공유—일반 텍스트는 둘만의 채팅, `@claude <프롬프트>`만 Claude에 전달되고 응답은 양쪽에 스트리밍. 기본 승인 모드로 호스트가 상대의 프롬프트를 검토, `--continue`로 기존 대화 이어가기. 용도: 세션 중 동료 불러 5분 브레인스토밍, 상사에게 라이브 데모, 원격 페어 프로그래밍, 맥락 있는 코드 리뷰, 온보딩. TypeScript, MIT, 155 stars
   * [claude-esp: Terminal utility displaying Claude Code's internal processes in real-time](https://github.com/phiat/claude-esp)
     * thinking, tool calls, subagents를 별도 창에서 실시간 스트리밍. 메인 Claude Code 세션 중단 없이 AI 추론 과정 모니터링
   * [Claude-Flow v2.0.0 Alpha represents a revolutionary leap in AI-powered development orchestration. Built from the ground up with enterprise-grade architecture, advanced swarm intelligence, and seamless Claude Code integration.](https://github.com/ruvnet/claude-flow)
@@ -7570,6 +7632,8 @@ Artificial Intelligence
       * Matt Pocock. 맞춤 레슨을 만들고 진도를 추적하며 학습자의 근접발달영역(zone of proximal development)에 맞춰 조정하는 `/teach` 스킬. stateful vs stateless 스킬 차이, HTML 레슨·인터랙티브 콘텐츠, 참고 자료·용어집, 학습 세션 이어가기. 온보딩과 독학에 적합
     * [/handoff is my new favourite skill - YouTube](https://www.youtube.com/watch?v=dtAJ2dOd3ko)
       * Matt Pocock. AI 코딩 세션을 별도 에이전트로 넘기는 `/handoff` 스킬—컨텍스트 윈도우와 `/compact`의 동작을 설명하고 handoff가 compact와 어떻게 다른지, grilling 세션 중 사용·프로토타입으로 넘기기 같은 실전 패턴과 크로스 에이전트 워크플로우 이점
+    * [SNS에서 난리났다는데.. 맷 포콕 AI코딩 스킬 업데이트 완벽 정리 | MINDUNG - YouTube](https://www.youtube.com/watch?v=ZE4hmiGglTM)
+      * 5분(2026-10-22). 업데이트로 추가된 멀티 에이전트 분업·검토 정리·실수 반영 기능—원하는 것 정리(grill-me), 설명이 어려울 때(wait-what), 구현 맡기기(implement-spec), 검토하기 쉽게(pr), 실수를 경험으로(retro), 기존 사용자 주의(GLOSSARY.md). 설치: `claude plugin install mattpocock-skills@claude-plugins-official` 후 `/setup-matt-pocock-skills`
   * [skillstead: Practical, portable skills for agentic coding workflows](https://github.com/kyungseo/skillstead)
     * [svg-infographic 스킬 예제 (README.ko)](https://github.com/kyungseo/skillstead/blob/main/examples/svg-infographic/README.ko.md)
     * [설치 가이드 (INSTALL.md)](https://github.com/kyungseo/skillstead/blob/main/docs/INSTALL.md)
@@ -7786,6 +7850,8 @@ Artificial Intelligence
   * 같은 모델을 3회 이상 독립 추론 실행, 🔴(만장일치)/🟡(다수)/⚪(소수)로 티어링. union 방식으로 모든 이슈 보존, recall +6.5~+30.6%p. Amazon Bedrock, Open Agent Skills 표준(Kiro/Claude Code/Cursor/Codex/Gemini/OpenCode/Copilot 호환)
 * [Context Mode - Save 98% of your AI coding agent's context window](https://context-mode.com/)
   * [context-mode: Context window optimization for AI coding agents](https://github.com/mksglu/context-mode)
+  * [Context Mode — Save · Remember · Control](https://contextmode.ai/)
+    * 새 공식 사이트(2026-10, 32.5k stars). 무료 플러그인 Context Mode Engine(18개 AI 코딩 도구에서 로컬 샌드박스+인덱스, `/plugin marketplace add mksglu/context-mode`)에 더해 팀 단위 제품 라인—Save(도구 출력 폴딩·Think in Code·스레드당 200K~1M 활성 컨텍스트), Remember(압축·망각 없는 Recall, 두 개의 시계로 관리하는 메모리, 필요할 때 로드되는 스킬, 전체 프롬프트·명령·출력 검색, 다른 머신에서 세션 재개), Control(에이전트가 읽고·실행하고·접근할 수 있는 범위 규칙, 상시 지침), 코딩 에이전트와 모델 플랫폼 사이의 단일 엔드포인트 게이트웨이, 팀 사용 가시화 Insight
   * [Claude Code is Expensive. This MCP Server Fixes It (Context Mode) - YouTube](https://www.youtube.com/watch?v=QUHrntlfPo4)
     * [Claude Code 비용 문제를 해결하는 MCP 서버 Context Mode](https://livewiki.com/ko/content/claude-code-expensive-fix)
   * [Context Mode - AI 코딩 에이전트의 컨텍스트 윈도우를 98% 절약하는 MCP 서버 | GeekNews](https://news.hada.io/topic?id=29106)
