@@ -4382,6 +4382,9 @@ NLP
 * [MiniMind Project](https://jingyaogong.github.io/minimind/)
   * [minimind: 🧠 Train a 64M-parameter LLM from scratch in just 2h!](https://github.com/jingyaogong/minimind)
   * [GitHub - minimind | Hayejin](https://www.linkedin.com/posts/h4y3j1n_github-minimind-minimind-share-7502614647020204032-4Gbb/)
+  * [단일 RTX 3090으로 6,400만 파라미터 언어 모델을 처음부터 학습하는 오픈소스 MiniMind | digitalbourgeois](https://digitalbourgeois.tistory.com/4089)
+    * 2026-10-27. LLM 구조와 학습 과정을 이해하는 게 목적이면 대규모 모델부터 시작할 필요가 없다는 관점에서 MiniMind의 프로젝트 특징·모델 구성·학습 파이프라인·강화학습과 에이전트 기능·기존 추론 도구 호환성을 정리. "2시간·3위안"은 특정 구성(3090 1장, SFT 1 epoch)의 수치이며 상용 모델 성능을 뜻하진 않는다고 명시
+  * 2026-04 minimind-3/minimind-3-moe(64.5k stars, Apache-2.0): 아키텍처를 Qwen3/Qwen3-MoE 생태계에 정렬(Dense 64M·768 hidden·8 layers ≈0.5GB, MoE 198M/A64M ≈1.0GB, 공유 전문가 제거). 파이프라인이 pretrain→SFT→LoRA→RLHF-DPO→RLAIF(PPO/GRPO/CISPO)→Tool Use→Agentic RL(`train_agent.py`, 멀티턴 Tool-Use GRPO/CISPO)→Adaptive Thinking(`<think>`+`open_thinking` 스위치)→Distillation으로 확장. 전 단계 데이터 공개, 핵심 알고리즘은 서드파티 래퍼 없이 순수 PyTorch, DDP/DeepSpeed·wandb/swanlab·YaRN 장문 외삽·C-Eval/C-MMLU 평가, OpenAI 호환 API 서버(reasoning_content·tool_calls)와 Streamlit WebUI. 확장 프로젝트 MiniMind-V(비전)·MiniMind-O(옴니)·dLM(확산 LM)·Linear Attention
   * 2시간 만에 64M 파라미터 LLM을 밑바닥부터 학습하는 초경량 학습 프로젝트—토크나이저·pretrain·SFT·LoRA·DPO·distillation까지 전 과정 코드 제공. Python, 60.9k stars
 * [mini-omni: open-source multimodal large language model that can hear, talk while thinking. Featuring real-time end-to-end speech input and streaming audio output conversational capabilities](https://github.com/gpt-omni/mini-omni/)
   * [2408.16725 Mini-Omni: Language Models Can Hear, Talk While Thinking in Streaming](https://arxiv.org/abs/2408.16725)
