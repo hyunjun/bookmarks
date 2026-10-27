@@ -6906,6 +6906,11 @@ Javascript
 * [TypeScript’s rise in the AI era: Insights from Lead Architect, Anders Hejlsberg - The GitHub Blog](https://github.blog/developer-skills/programming-languages-and-frameworks/typescripts-rise-in-the-ai-era-insights-from-lead-architect-anders-hejlsberg/)
   * [AI 시대, TypeScript의 부상: 수석 설계자 Anders Hejlsberg의 통찰 | GeekNews](https://news.hada.io/topic?id=24265)
 * [agentica: TypeScript Agentic AI Library specialized for LLM Function Calling enhanced by compiler skills](https://github.com/wrtnlabs/agentica)
+* [AI-Fullstack-SaaS-Boilerplate — Fullstack SaaS Boilerplate built with tRPC, Fastify and React](https://alan345.github.io/AI-Fullstack-SaaS-Boilerplate/)
+  * [AI-Fullstack-SaaS-Boilerplate: Fullstack SaaS Boilerplate built with tRPC, Fastify and React | alan345](https://github.com/alan345/AI-Fullstack-SaaS-Boilerplate)
+  * [Fastify, tRPC, React로 시작하는 풀스택 SaaS 보일러플레이트 AI-Fullstack-SaaS-Boilerplate의 구성과 실행 방법 | digitalbourgeois](https://digitalbourgeois.tistory.com/4031)
+    * 2026-10-25. 기술 스택별 역할 표(Fastify 서버·tRPC 타입 안전 API·React 19·Tailwind v4·PostgreSQL·Drizzle·Better Auth·OpenAI·Vite·React Router v7·Zod·pnpm Workspaces·Playwright)와 설치·실행·테스트 절차 정리. 완성형 SaaS가 아닌 개발용 템플릿이라는 점과 결제 처리·사용량 측정·멀티 AI 제공자 통합은 포함되지 않아 별도 설계가 필요하다는 점을 짚음
+  * 개발자 경험(단순·효율·빠름)에 초점을 둔 pnpm 모노레포 풀스택 템플릿(TypeScript, MIT, 1.4k stars). T3 앱과 달리 Next.js를 쓰지 않아 프런트가 정적 파일로 S3 같은 오브젝트 스토리지에 올라가는 대신 SEO엔 부적합—웹사이트가 아닌 웹앱용. 예제 기능: 외부 REST API 데이터 조회, 헬스 체크, 디바운스 검색 훅, WebSocket 대신 SSE로 구현한 OpenAI 채팅, 사용자 임퍼소네이션·로그인/가입, Playwright E2E 테스트. Nachonacho.com이 실사용
 * [ArkType | ArkType](https://arktype.io/) TypeScript's 1:1 validator, optimized from editor to runtime
 * [backend: A template repository for TypeScript backend server](https://github.com/samchon/backend)
 * [bamboo-forest: 🎋 Echo your message as anonymous on Slack!](https://github.com/wormwlrm/bamboo-forest)
