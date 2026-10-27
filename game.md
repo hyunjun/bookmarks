@@ -169,6 +169,7 @@ Game
   * [POKEGB - 포켓몬블루만 실행 가능한 게임보이 에뮬 개발기 | GeekNews](https://news.hada.io/topic?id=4399)
 * [Q1K3 | js13kGames](https://js13kgames.com/entries/q1k3)
 * [raylib](https://www.raylib.com/index.html)
+* [RespawnStack: Curated directory of AI tools for game developers](https://respawnstack.com)
 * [Ryujinx: Experimental Nintendo Switch Emulator written in C#](https://github.com/Ryujinx/Ryujinx)
 * [ScummVM :: Home](https://www.scummvm.org/news/20211009/)
   * [ScummVM 20주년 | GeekNews](https://news.hada.io/topic?id=5177)
