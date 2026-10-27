@@ -3893,6 +3893,10 @@ Business
 * [Google is pitching an AI agent ecosystem to consumers who may not buy it | TechCrunch](https://techcrunch.com/2026/05/21/google-is-pitching-an-ai-agent-ecosystem-to-consumers-who-may-not-buy-it/)
   * [김영욱 - 찻잔속의 태풍? 구글 I/O AI 에이전트 발표 PM 관점 비판 | Facebook](https://www.facebook.com/youngwook.kim.7549/posts/pfbid02DrNDbghZEHTUyJ1WiruAqCMppAhjLr88AGWmxDbSrRKiQiB4WyoCRYN6tdaBt8Jyl)
   * 구글 I/O 2026 AI 에이전트 발표가 사용자 페인 포인트 대신 기술 과시 우선. Apple 스토리텔링·MS Copilot 런칭("회의록 정리에 몇 분 걸리시나요?")과 대조. 5개 브랜드(Gemini/Spark/Halo/Information Agents/Daily Brief) 차별화 모호, "적절한 시기" 같은 모호한 무료 출시 시점. ChatGPT $20 티어가 5% 전환에 그치는데 $100/월 가격 의문. 가치 제안·접근성 양면 PMF 실패, 2018 Google Duplex가 더 명확한 가치 제안 사례
+* [Staying Ahead in the Agentic Era (or Any Era) Comes Down to 1 Key Priority | Entrepreneur](https://www.entrepreneur.com/building-a-business/staying-ahead-in-the-agentic-era-or-any-era-comes-down-to-1-key-priority)
+  * [에이전틱 시대(또는 어느 시대든) 앞서 나가기 위한 1가지 핵심 우선순위 - Duke Donghyun Kim | Facebook](https://www.facebook.com/idreaming/posts/pfbid02L7uTmNb9xCxZwjxKXiaZ87sJWkeLSB7fQ1B7NWdJhJkhoZ7VeqbdZRDhxpJrvw7sl)
+  * Brady Broadbent(2026-10-22). 웹→모바일→클라우드→AI 세 번의 기술 곡선에서 승패를 가른 건 최신 스택이 아니라 첫 $1 매출부터 ARR $5억까지 고객의 문제가 어떻게 변했는지 포착하며 혁신한 것—AI 네이티브 스타트업이 기존 기업을 대체한다는 통념과 달리 많은 인컴번트가 계속 성장. 중소기업 회계 SaaS 사례: 결산의 '정확성'은 풀었지만 '효율성'(반복 업무 수 시간)을 "우리 영역이 아님"으로 방치하면 자동 수익 인식·예측 툴을 든 스타트업이 잠식
+  * 로드맵 상단에 "무엇을 더 만들어줄까요?"라고 묻지 말라는 문구 고정—고객은 해결책을 묘사할 수 있다면 직접 만들었을 것. 대신 "처음 도입 이유와 그 문제의 변화, 도입 후 페인 포인트 변화, 우리가 놓친 것, 직원이 기피하는 반복 작업, 5년 후 부서 모습". 전술 4가지: 최근 갱신·이탈 통화 10건에서 "여전히(still)…하지만 이제는(but now)" 표현 찾기, CS팀의 티켓화되지 않은 요청 패턴 분석, 월 1회 영업 아닌 순수 경청 미팅, ICP 자문 고객과 하루 보내기. 인접 문제를 재구축 없이 흡수하는 모듈형 아키텍처, CPO 영입 후에도 창업자가 고객 문제 진화를 계속 학습
 
 # Product Management
 * [A hitchhiker’s guide to product management](http://yilunzh.com/pm/)
