@@ -2498,6 +2498,10 @@ CVPR2016)
   * [dust: Pretraining Transformers Without Backpropagation](https://github.com/qlabs-eng/dust)
   * Q Labs(Samip Dahal·Bishwas Mandal·Serdar Gülbahar·Akshay Vegesna, 2026-10). 트랜스포머 LM 사전학습에서 역전파와 경쟁하는 첫 zeroth-order 방법. 가중치 대신 **활성값을 토큰마다 독립적으로 교란**(node perturbation)해 각 토큰을 '가상 개체군' 멤버로 삼아 한 번의 forward로 전체를 병렬 평가하고, 손실 감소량으로 보상을 매겨 보상 가중 평균으로 그래디언트를 추정. 가중치 공간 ES인 EGGROLL(2511.16652) 대비 1M 토큰 이상에서 10³~10⁴배 효율
   * FineWeb·8층 512폭 GPT에서 개체군 64~16k, 100k~20M 토큰 스윕: 개체군이 커질수록 역전파에 근접하고 100k·1M 토큰에서는 역전파 아래로 내려감(SGD·Adam 모두, 20M에서 극한 추정 4.43). 통념과 반대로 큰 모델이 개체군 효율이 더 좋아 243M 모델이 120배 작은 모델을 대부분의 개체군에서 앞섬. 역전파 그래디언트와의 코사인 유사도가 개체군과 함께 cos(K)=c_max/√(1+c/K) 법칙으로 상승하고 1B 토큰까지 정렬 유지. 미분 가능성이 필요 없어 아키텍처 탐색 공간이 열리지만 실용화엔 수 자릿수의 연산 효율 개선 필요(bitter lesson 관점). 최소 구현 코드: Linux·bf16 NVIDIA GPU, 개체군 256(1 GPU)~16384(8 GPU), 역전파 베이스라인 포함(Python, MIT)
+  * [noise: Speedrun for pretraining without backpropagation | Q Labs](https://github.com/qlabs-eng/noise)
+    * [초당 수억원 절감? AI 업계의 절대법칙을 부순 '역전파 없는 사전학습' | Suk Hyun K.](https://www.linkedin.com/posts/suk-hyun-k-31ba9b369_smvswktzasliqviukrswd-0tretxaswhupi-ai-share-7519559146237558784-uyn3)
+      * 0차 최적화(Zeroth-Order) 기반 트랜스포머 사전학습이 열흘 만에 1.76시간→1.6초(약 4,000배, 검증 손실 4.2 도달 기준, 단일 8xH100). 프로브 컴파일(21분)→완전 아다마르 사이클(5분)→항등 경로 크레딧(83초)→커널 융합(47초)→샤딩(6.4초)→행 단위 업데이트(2.5초)→커널 런칭 최소화·16행 업데이트(1.6초)로 누적된 커뮤니티 기여. 일부 트릭은 규모 확장이 어려워 데이터셋을 10M→30M 토큰으로 늘려 체급 검증 중
+    * 역방향 패스를 전혀 돌리지 않는 학습 알고리즘의 사전학습 스피드런(Python, MIT, 420 stars). 역전파 대체는 불가피하고, 컴퓨트가 커질수록 bitter lesson에 따라 탐색 기반의 범용 brute-force 학습이 이긴다는 주장. 자체 알고리즘 Dust는 SGD 하의 역전파와 대등하고 SOTA 가중치 공간 ES인 EGGROLL보다 1,000~10,000배 효율적이나 Adam 하의 역전파에는 아직 뒤짐
 * [2604.21691 A Scientific Theory of Deep Learning Will Come](https://arxiv.org/abs/2604.21691)
   * [딥러닝에 대한 과학적 이론이 나올 것이다 | GeekNews](https://news.hada.io/topic?id=28883)
   * 신경망 학습의 "learning mechanics" 이론 프레임워크 제안. 5가지 연구 방향(해석 가능 이상화, 다루기 쉬운 극한, 수학 법칙, 하이퍼파라미터 이론, 보편적 행동)과 7가지 필요 조건
