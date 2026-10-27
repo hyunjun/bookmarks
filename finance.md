@@ -358,6 +358,7 @@ Finance
 * [anthropic-quickstarts/financial-data-analyst at main · anthropics/anthropic-quickstarts](https://github.com/anthropics/anthropic-quickstarts/tree/main/financial-data-analyst)
   * [@aicoffeechat • Anthropic, 금융 전문가 'Quick Start' 공개 여러분, Anthropic에서 정말 흥미진진?... • Threads](https://www.threads.net/@aicoffeechat/post/DBRdapBT_kr)
 * [AutoHedge: Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution](https://github.com/The-Swarm-Corporation/AutoHedge)
+  * The Swarm Corporation(Swarms 멀티 에이전트 스택) 제품. Director(전략·논지 생성)·Quant(기술·통계 분석)·Risk Management(포지션 사이징)·Execution(주문 생성·실행) 전문 에이전트 파이프라인이 실시간 시장 데이터로 논지를 만들고 검증·리스크 산정·주문까지 수행. 현재 Solana 완전 자율 트레이딩 지원, Coinbase 등 추가 예정. Python, MIT, 6.5k stars
 * [awesome-ai-in-finance: A curated list of awesome LLMs & deep learning strategies & tools in financial market](https://github.com/georgezouq/awesome-ai-in-finance)
   * [How People use AI in Finance](https://medium.com/@zousongqi0213/how-people-use-ai-in-finance-59f0a7512b4)
   * AI 기반 거래 에이전트, 백테스팅 프레임워크, 기술적 분석 라이브러리, 데이터 소스 등 정량적 금융 분석 종합 가이드
