@@ -2808,6 +2808,9 @@ NLP
     * AGI 논쟁을 촉발한 GPT-6 Astra 11분 해설—화면 읽기·프로그램 조작 정확도 92.7%, 29시간 연속 자율 사이버보안 취약점 탐색, PCB 설계·게임 개발·건축 모델링 등 업무 통째 대행 사례
   * ["추론의 강도를 바꿔야 토큰 아낀다" (강수진 박사) | 티타임즈TV - YouTube](https://www.youtube.com/watch?v=8racUuvPHeQ)
     * 더 프롬프트컴퍼니 강수진 대표의 43분 대담—GPT-6 Astra는 좋은데 토큰이 비싸 제대로 못 쓴다는 문제에, 모델 특성('과하게 많이 만들고·검토를 오래 하고·추론을 세밀하게')을 파악해 중복 작업과 과도한 서브에이전트 생성을 프롬프트로 막는 것이 절약의 지름길이라는 노하우
+  * [GPT-6 아스트라(Astra) 등장: 첫 AGI? | 요즘IT](https://yozm.wishket.com/magazine/detail/3933)
+    * 2026-09-03 공개 정리. OpenAI가 "세계에서 가장 지능적이고 가장 정렬된 모델"로 선언—Claude Fable 5.1 이틀 뒤 최고 모델이 나란히 갱신. 컴퓨터 조작·브라우징·SWE·사이버보안·과학·전문 업무 전부 SOTA, FrontierMath Tier 4 98%·ARC-AGI-3 99.9%·ExploitBench 100%(모두 "모든 노력 설정 중 최댓값" 기준). 가격 입력 $10/출력 $50(Sol의 2.5배, Fast 모드 별도)이지만 같은 작업 토큰이 1/3, 환각률 92%→51%. 사장이 브리핑에서 "AGI 시대" 언급, 공개 당일엔 사이버 '중대' 등급 때문에 보안 프로그램 소속 조직만 사용 가능(9/5 API·Codex·GPT work 개방)
+    * vs Fable 5.1: Artificial Analysis 지수 Astra 61 vs Fable 66(192개 모델 중 1위), HLE 57.2% vs 60.9%(도구 65.0%), 단가는 동일하되 Fable은 75% 내린 캐시 읽기($0.25)가 무기. 강점 분포—Astra는 컴퓨터 조작·보안·과학/수학, Fable 5.1은 에이전트 지식 노동·글쓰기·비용 효율. 실사용 후기는 풀린 뒤에 봐야 하며 Fable 5.1 후기는 "정말 좋지만 토큰이 미친 듯이 빨리 사라진다"
 * [LLM vs. 전문가: AI가 인간의 직관과 경험을 대체할 수 있는가? - 인간의 직관이 중요한 이유. - 해경](https://www.haegyung.com/llm-vs-%EC%A0%84%EB%AC%B8%EA%B0%80-ai%EA%B0%80-%EC%9D%B8%EA%B0%84%EC%9D%98-%EC%A7%81%EA%B4%80%EA%B3%BC-%EA%B2%BD%ED%97%98%EC%9D%84-%EB%8C%80%EC%B2%B4%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8A%94%EA%B0%80/)
 * [경량화 레시피: Teacher 지식 조린 소형 모델, 근데 성능을 곁들인](https://d2.naver.com/helloworld/8866888)
 * [LLM 기반 체크리스트 생성 툴 공유](https://chance-doe.tistory.com/26)
@@ -3080,6 +3083,10 @@ NLP
   * [anthropic-cookbook/third_party/VoyageAI/how_to_create_embeddings.md at main · anthropics/anthropic-cookbook · GitHub](https://github.com/anthropics/anthropic-cookbook/blob/main/third_party/VoyageAI/how_to_create_embeddings.md)
   * [system_prompts_leaks/claude-3.7-full-system-message-with-all-tools.md at main · asgeirtj/system_prompts_leaks · GitHub](https://github.com/asgeirtj/system_prompts_leaks/blob/main/claude-3.7-full-system-message-with-all-tools.md)
     * ["Claude는 어떻게 응답을 결정할까?" — 유출된 시스템 프롬프트가 말해주는 AI의 내부 규칙](https://digitalbourgeois.tistory.com/1204)
+  * [Claude Fable 5 and Claude Mythos 5 | Anthropic](https://www.anthropic.com/news/claude-fable-5-mythos-5)
+    * [Seung Joon Choi - Fable 5: 신화와 우화—Mythos와 Fable의 어원과 작명에 담긴 결 (공지 전문 번역) | Facebook](https://www.facebook.com/seungjoon.choi/posts/pfbid0baxaTnAJh8H54hBMAgRVKeJ3Bmz5iu9pAfwSVABr7zt4r5nrpu1DLocrTqPfcTcLl)
+    * 2026-06-09 공지. 일반 사용을 위해 안전하게 만든 Mythos급 모델 Fable 5—공개된 어떤 모델보다 높은 역량(SWE·지식 노동·비전·과학 연구, 작업이 길고 복잡할수록 우위 확대). 사이버 보안 등 일부 주제 질의는 차순위 모델 Claude Opus 4.8이 대신 응답하는 보수적 안전장치(전체 세션 5% 미만 작동, 거짓 양성 축소 중). 동일 기반 모델에서 일부 영역 안전장치를 해제한 Mythos 5는 Project Glasswing(미 정부 협력)으로 사이버 방어자·인프라 제공자 소수에게 먼저 배포, 이후 신뢰 접근 프로그램으로 확대
+    * 최승준의 어원 해설(2026-06-10): 호메로스의 mythos는 "권위 있는 발화"→"전승된 이야기"→"신화", 라틴어 fabula(fari "말하다")도 "이야기되는 것"—쌍둥이 어원이 후대에 "신성·비전(秘傳), 소수에게만 전해지는 위험한 지식" vs "대중에 공개된 교훈담(이솝)"으로 갈라진 것이 "제한된 원본 Mythos" vs "안전장치라는 교훈을 입혀 공개한 Fable" 배포 구조와 정확히 겹침. Haiku→Sonnet→Opus의 시 형식 위계 위에 서사·신화 어휘를 얹은 작명 계보 해석
 * [Colibrì](https://justvugg.github.io/colibri/)
   * [colibri: Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk](https://github.com/JustVugg/colibri)
   * [Colibrì, 25GB 환경에서 744B 거대 MoE 모델을 실행하는 AI 추론 엔진 | digitalbourgeois](https://digitalbourgeois.tistory.com/3563)
@@ -4433,6 +4440,11 @@ NLP
   * [🔓Mistral Small 3: GPT-4o-mini를 대체할 오픈소스 언어 모델](https://fornewchallenge.tistory.com/entry/%F0%9F%94%93Mistral-Small-3-GPT-4o-mini%EB%A5%BC-%EB%8C%80%EC%B2%B4%ED%95%A0-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EC%96%B8%EC%96%B4-%EB%AA%A8%EB%8D%B8)
 * [MLC LLM | Home](https://mlc.ai/mlc-llm/)
   * [mlc-llm: Enable everyone to develop, optimize and deploy AI models natively on everyone's devices](https://github.com/mlc-ai/mlc-llm)
+* [MLX — An array framework for Apple silicon](https://ml-explore.github.io/mlx/)
+  * [mlx: MLX: An array framework for Apple silicon | ml-explore](https://github.com/ml-explore/mlx)
+  * [WWDC26: Run local agentic AI on the Mac using MLX | Apple Developer - YouTube](https://www.youtube.com/watch?v=wykPErJ8M-8)
+    * 14분(2026-06-08). 프라이버시·저지연·오프라인으로 Mac에서 AI 에이전트를 로컬 실행—MLX 발전과 Mac 하드웨어가 온디바이스 에이전틱 워크플로를 가능케 하는 방식, OpenCode 같은 코드 에이전트와 Xcode 통합, 멀티 Mac 스케일링 기법, 머신을 떠나지 않는 도구 통합. 관련: mlx-swift-lm·mlx-swift·mlx-lm
+  * Apple 머신러닝 연구팀의 NumPy 유사 배열 프레임워크(C++/Python/Swift, MIT, 29k stars)—지연 평가, 통합 메모리(CPU·GPU 간 복사 없음), 함수 변환(grad·vmap), 컴파일, 분산 통신, Metal 커스텀 커널과 CUDA 백엔드, LLM 추론·데이터/텐서 병렬 예제
 * [mlxcel: High-performance LLM, VLM, embedding, reranking, and audio inference for Apple Silicon and NVIDIA CUDA systems | Lablup](https://github.com/lablup/mlxcel)
   * [래블업, 애플 맥북 특화 'AI 추론 엔진' 오픈소스로 공개 | 전자신문](https://www.etnews.com/20260515000174)
   * [Jeongkyu Shin - 전자신문 박종진 기자님께서 MLXcel 오픈소스화에 대해 글을 써 주셨다 | Facebook](https://www.facebook.com/jeongkyu.shin/posts/pfbid0k4qXhUjKWjyeFJvSDZxPKFFpR6ZwDtcWXPPvTiC39Ce2WGANVLHokwFZE9UctTHnl)
@@ -5060,6 +5072,8 @@ NLP
 * [논문리뷰 Context-augmented Retrieval: A Novel Framework for FastInformation Retrieval based Response Generation using LargeLanguage Model(2024) :: AI for Everyone](https://aiforeveryone.tistory.com/53)
 * [Why Are Enterprises Adopting Agentic RAG? | by Aniket Hingane | Artificial Intelligence in Plain English](https://ai.plainenglish.io/why-are-enterprises-adopting-agentic-rag-b638a0227b7f)
   * [Pavan Belagatti on LinkedIn: #rag | 10 comments](https://www.linkedin.com/posts/pavan-belagatti_rag-activity-7219402464964354048-jeFe)
+* [Unlocking dependable responses with Gemini Enterprise Agent Platform's Agentic RAG | Google Research](https://research.google/blog/unlocking-dependable-responses-with-gemini-enterprise-agent-platforms-agentic-rag/)
+  * Cyrus Rashtchian·Da-Cheng Juan(2026-06-05), Google Research×Google Cloud. 단일 단계 RAG는 "Project X 서버 스펙"처럼 문서가 서버 ID만 언급하고 스펙은 다른 DB에 있는 다중 소스·멀티홉 질의에 부분 답이나 "없음"을 내놓음. Gemini Enterprise Agent Platform에 호스팅된 Cross-Corpus Retrieval의 에이전틱 RAG는 오케스트레이터가 복잡한 요청을 분해·재작성·라우팅하고 충분한 컨텍스트가 모였는지 확인(sufficient context)한 뒤 생성—사실성 데이터셋에서 표준 RAG 대비 정확도 최대 34% 향상, 내부 도메인 과제에서 그라운딩·추론 정확도 개선
 * [BingChat과 같이 기본 정보를 검색해서 요약해주는 정도로 RAG를 활용한다면 Q&A와 Chat 모드와는 달리 조금 낮은 레벨의 LLM을 활용하는 건 가능. 하지만 정답 자체가 중요한 시스템일 때는 그런 단순 접근은 아주 위험](https://www.linkedin.com/posts/jamessungjinkim_llmrag-based-question-answering-activity-7219994805022380033-GPK5/)
 * [Amazon launches App Studio and new gen AI guardrails at AWS Summit | ZDNET](https://www.zdnet.com/article/amazon-updates-ai-enterprise-solutions-with-guardrails-at-aws-summit/)
 * [LLM과 RAG, 파인튜닝 중 AI 품질을 결정하는 가장 중요한 것은? - 티타임즈](https://www.ttimes.co.kr/article/2024072215017713111)
@@ -5155,6 +5169,12 @@ NLP
 * [ARES](https://github.com/stanford-futuredata/ARES)
   * [Home - ARES Documentation](https://ares-ai.vercel.app/)
 * [awesome-generative-ai-guide/research_updates/rag_research_table.md at main · aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide/blob/main/research_updates/rag_research_table.md)
+* RAG 품질 시리즈 — 측정→개선→수렴 | 전유성(1week)
+  * [RAG 품질 ① 평가 — MLflow Evaluation 기반 검색·생성 품질 정량 측정](https://1week.tistory.com/123)
+  * [RAG 품질 ② 개선 — 임베딩·하이브리드·Rerank·Self-RAG 단계별 누적 개선 실험](https://1week.tistory.com/125)
+  * [RAG 품질 ③ 아키텍처 — LangGraph 기반 Agentic RAG 검색 처리 흐름](https://1week.tistory.com/124)
+  * [RAG 품질 ③ 아키텍처 — LangGraph 기반 Agentic RAG 검색 처리 흐름 | 전유성 LinkedIn](https://www.linkedin.com/posts/1week_databricks-rag-mlflow-share-7479026512483000320-L4Yb)
+  * 2026-07-04, Databricks 환경. "이거 잘 되고 있는 거 맞나?"에 답하기 위한 3단계—①측정: RAG를 검색·증강·생성으로 나눠 단계별 MLflow Scorer(검색 관련성·충분성, 답변 근거성·정확성)와 골드셋·LLM-as-a-Judge를 갖춰 모든 변경을 같은 잣대로 비교(엉뚱한 답은 검색 탓인지 생성 탓인지 구분) ②개선: 청킹→임베딩→하이브리드 검색→Reranking→Self-RAG 필터→LLM 순으로 직전 최고 구성을 이어받아 한 번에 하나만 교체·재측정하는 누적형(cumulative) 실험(수치는 공개용 재구성 예시) ③수렴: 검증된 구성만 남겨 LangGraph ReAct 구조(Agent 노드 Gemini 3 Flash가 검색 쿼리/최종 답변 생성, 검색 노드가 시맨틱+키워드 하이브리드 검색과 Self-RAG 적합성 판정을 반복)로 정리. 어떤 기법이 이길지는 데이터마다 다르므로 과정 자체가 재사용 자산
 * [AutoRAG: RAG AutoML Tool - Find optimal RAG pipeline for your own data.](https://github.com/Marker-Inc-Korea/AutoRAG)
   * 같은 저장소가 AutoRAG 2.0 "AutoRAG Agent"(Now your agent can find anything in your computer)로 전면 개편—Pi 에이전트 프레임워크 기반 self-evolving librarian agent(npm @autorag/librarian, Node 24+). 데이터를 벡터 DB로 옮기지 않고 제자리에서 연합 검색(BM25·벡터·RRF 하이브리드·Jikji find-first·datasource skills), MinSync CDC 청크 자동 관리, ~/.autorag/memory.json에 검색 방법별 성과를 기억해 자주 쓸수록 똑똑해짐, bash로 원문을 직접 열어 검증. 기존 Python RAG AutoML 도구는 legacy로 유지보수(pip install AutoRAG)
   * [🤖 E01. #AutoRAG 처음 사용자를 위한 튜토리얼 by Markr.AI 김동규 - YouTube](https://www.youtube.com/watch?v=rA5SoBXB8R4)
@@ -6581,6 +6601,10 @@ NLP
 * [Gemini 3.1 Flash TTS: New text-to-speech AI model](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-tts/)
   * [Gemini 3.1 Flash TTS - 자연어로 음성 스타일을 제어하는 차세대 AI 음성 모델 | GeekNews](https://news.hada.io/topic?id=28563)
   * "audio tags"로 음성 스타일·속도·전달 방식 제어. 70개+ 언어, 네이티브 멀티 스피커 대화, SynthID 워터마크
+* [Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking | Google](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/)
+  * [Gemini 3.8 Live와 Extended Thinking, 실시간 음성 AI의 진화 | digitalbourgeois](https://digitalbourgeois.tistory.com/3668)
+  * Google Gemini Audio 팀(2026-09-15). 실시간에 가까운 추론으로 음성 에이전트를 겨냥한 라이브 대화 모델 2종—3.8 Live는 규모·비용 효율 중심(대화 지능+유려한 대화+시각적 그라운딩, Speech Agent Arena 2위), 3.8 Live Extended Thinking은 고복잡도 작업용 다단계 추론(Artificial Analysis Speech-to-Speech Quality Index 82.6으로 종합 1위, τ-Voice 68.6%·Sierra τ-Voice-banking 35.1%로 에이전트 작업 완수 선두, Big Bench Audio 97.7%). ServiceNow EVA-Bench에서 정확도와 대화 품질의 파레토 프런티어 확장
+  * 대화 중 시각 입력을 실시간 처리(직원 온보딩 Q&A, 체스 진행 사례), 97개 언어를 대화 중 자동 감지·전환, 도구·API 호출을 백그라운드에서 실행하며 대화를 이어가고 진행 상황을 음성으로 전달. Live API·Gemini Enterprise Agent Platform으로 개발자·기업에 제공, Gemini 앱·Workspace·검색의 음성 대화에도 적용
 * [GPT-Live 소개 | OpenAI](https://openai.com/ko-KR/index/introducing-gpt-live/)
   * [6개월 만에 빠르게 반응하는 실시간 음성 AI 시스템을 구축한 방법 | OpenAI](https://openai.com/ko-KR/index/continuous-voice-interaction-with-gpt-live/)
   * [최근 OpenAI가 공개한 GPT Live 실시간 서빙 시스템 설계 글 정리 | mseagle | LinkedIn](https://www.linkedin.com/posts/mseagle2023_voiceai-aiengineering-realtimesystems-share-7491026558992740352-bp7h/)
