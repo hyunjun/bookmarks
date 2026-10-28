@@ -439,6 +439,8 @@ Artificial Intelligence
 * [AI 주도 개발 시대, “기획”에 주목해야 하는 이유 | 요즘IT](https://yozm.wishket.com/magazine/detail/3429/)
   * [매니패스트 | AI 기획 에디터](https://manyfast.io/blog/ai-%EC%A3%BC%EB%8F%84-%EA%B0%9C%EB%B0%9C%EC%9D%98-%EC%8B%9C%EB%8C%80-%EA%B8%B0%ED%9A%8D-%EC%97%90-%EC%A3%BC%EB%AA%A9%ED%95%B4%EC%95%BC-%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0)
   * [‘더 이상 IT 기획 실패는 없다’...IT 기획 자동화 플랫폼 ‘매니패스트’](https://www.venturesquare.net/1010613)
+  * [바이브코딩할때 기획력이 부족하다면 (바이브코딩 필수템) | 투쏠 AI 에이전트 - YouTube](https://www.youtube.com/watch?v=w5XO8zYGJ2Y)
+    * 21분(2026-08-02). 기획 없이 바이브코딩을 시작할 때의 문제와 Manyfast로 기획을 먼저 하는 흐름—PRD 생성→결과 확인→기능명세서→AI로 두 번 검토→발견된 문제 해결→유저플로우→와이어프레임 생성→AI 코딩 에이전트에 넘겨 구현까지. 개인 서비스나 사내 대시보드를 만들 때 추천(할인 코드 포함 광고성)
   * AI 코딩 도구가 개발 생산성을 크게 향상시켰음에도 불구하고 프로젝트 전체 속도는 크게 개선되지 않음
   * 원인은 제대로 구조화되지 않은 파편적인 기획, 기획 단계의 중요성이 AI 시대에 더욱 커짐
   * AI가 빠른 코딩을 가능케 하나 불명확한 요구사항은 재작업과 프로젝트 지연 초래
@@ -2223,6 +2225,10 @@ Artificial Intelligence
   * ③커뮤니티 환원: 2019년 참관자로 압도됐던 Devoxx에서 "언젠가 반대편에 서자"던 약속으로 7~14세 아이들이 Lego 등으로 기술을 가지고 놀며 호기심·자신감을 키우는 무료 자원봉사 Code Kids Lab과 보안 체험 Cyber Quest(Space Invader)를 AI로 만들어 운영. 결론 "AI가 만든 솔루션이어도 엔지니어가 가장 중요하다"
 * [The Agentic Automation Revolution • Don Syme • Bug Bash EU 2026 | GOTO Conferences - YouTube](https://www.youtube.com/watch?v=8ujA-rNhUE4)
   * Bug Bash EU 2026(47분). F# 설계자이자 async/await 공동 창안자, GitHub Agentic Workflows(gh-aw) 공동 제작자인 GitHub Distinguished Engineer Don Syme의 발표—형식 검증 출신으로 2022년 GitHub Next(OG Copilot 완성 팀) 합류 후 겪은 변화. "이제 누구나 주말이면 F#보다 나은 언어나 .NET 제네릭을 에이전트로 만들 수 있는 기묘한 시대"라며, 처음엔 챗이 미래일 리 없다고 봤지만 인간·AI가 주고받으며 문제 공간을 함께 탐색하는 도구로서 챗의 힘을 과소평가했다고 회고. 소프트웨어를 만들고 유지하는 방식이 에이전틱 자동화로 이동하는 흐름
+* [Velocity Through Rigour: Then & Now • Cate Huston • Bug Bash EU 2026 | GOTO Conferences - YouTube](https://www.youtube.com/watch?v=s8zmmxHCKXg)
+  * [The Engineering Leader | Cate Huston](https://cate.blog/book/)
+  * Bug Bash EU 2026(39분). 『The Engineering Leader』 저자, Automattic·DuckDuckGo에서 10년+ 원격 조직을 키우다(1년 전 80명+ 엔지니어링 조직 절반 운영) 지금은 Twill CTO로 2인 팀. 두 질문—"산출물의 몇 %가 가드레일이어야 하나", "업계가 뒤집힌 지금 예전 방식 중 무엇이 여전히 유효하고 무엇을 다시 알아내야 하나". 5개 터미널에서 혼란스럽게 CI 분을 태우다 머지 큐·오케스트레이터와 P0~P3 보드 위생, 임시 DB 타깃·인증 E2E·디자인 시스템·야간 백업 등 "AI를 혼자 두기 전에 갖춰야 할 것"을 한 주에 구축—수년 걸리던 팀 스케일링 절차를 2인용으로 과하게
+  * 매니저는 사람을, 사람은 로봇을 관리하는데 모든 IC가 관리를 아는 건 아니고 위협 속에서 기존 기술의 가치를 증명하려 함—관리 기법을 통째로 가져다 쓰면서 IC에게 설명하지 않았다는 자기 반성. 산출은 늘었는데 안정성은 떨어진 지금 "늘어난 출력을 어떻게 비즈니스 가치로 바꾸나"가 핵심 질문: 아무도 코드를 쓰지도 읽지도 않으면 사고 전에 무엇이 필요한지 어떻게 아나→사후 리뷰에서 가드레일을 진화시키는 대신 상시 관리, 토큰이 CI 분을 낳으니 CI 예산 관리. 2인 팀이 주 5회 릴리스(릴리스당 PR 25개)→주 3~4회(50+ 변경)—CircleCI 리포트대로 팀 크기와 처리량의 상관이 끊어짐. 좋은 상태의 정의: 워크플로 10분·하루 1배포·복구 60분·성공률 90%
 * [State of Agentic Coding by Daniela Petruzalek | Devoxx - YouTube](https://www.youtube.com/watch?v=nHRSwiFNQ9E)
   * [State of Agentic Coding | Devoxx Belgium 2026 CFP](https://dvbe26.cfp.dev/talk/25671)
   * [state-of-agentic-coding: Supporting materials for the State of Agentic Coding talk | danicat](https://github.com/danicat/state-of-agentic-coding)
@@ -2374,6 +2380,9 @@ Artificial Intelligence
   * [Context Engineering for LLM Apps: What Worked, What Didn't | InfoQ - YouTube](https://www.youtube.com/watch?v=efxFeiz2Zk4)
   * Redis Principal Developer Advocate Ricardo Ferreira의 QCon AI Boston 2026 발표(47분, InfoQ 트랜스크립트 포함). Redis 기반 오픈소스 Agent Memory Server를 스트레스 테스트하려고 8초 타임아웃의 Alexa 스킬 'My Jarvis'(Lambda+LangChain4j+OpenAI) 뒤에 LLM을 붙여 가족과 매일 사용—컨텍스트 poisoning·distraction·confusion·rot·clash를 겪었고, 더 큰 컨텍스트 윈도우의 새 모델로 바꾸거나 시스템 프롬프트를 정교하게 써도 해결되지 않음(비용만 증가). 문제마다 의도적으로 설계한 해법: 날짜·시간 도구, TTL 5분 세션 메모리(기본 ChatMemory가 도구 호출 무한 루프를 일으켜 패스스루로 교체), HNSW 벡터 검색 top-k 장기 메모리, 가족 다중 테넌시용 벡터 검색 후 메타데이터 post-filtering, 사용자 메모리/지식 베이스 쿼리 라우터, 대명사 해소용 쿼리 압축, 선택적 답변을 위한 few-shot 예시 약 17개, 우선순위용 Cohere 리랭킹(최소 점수 80%—모델을 바꾸면 재보정 필수, ONNX ms-marco 모델은 Lambda 250MB 제한에 걸려 포기)
   * 2장은 비용—해법마다 LLM 호출이 늘고, 도구 호출 payload까지 무한히 자라는 세션 컨텍스트 때문에 토큰 비용이 선형이 아닌 지수적으로 증가(가족 3명·사용자당 하루 10쿼리 기준 LLM은 가족당 약 $4.20 정액(월 비용 장 기준)·Cohere는 사용자당 1달러 미만이지만 규모가 커지면 심각). TokenWindowChatMemory(모델별 토큰 추정기로 토큰 기준 트리밍)로 비용을 평탄화했지만 오래된 중요 메시지가 잘려 나가, 사실·선호·강한 진술만 LLM으로 추출하는 요약으로 대체. 같은 뜻의 다른 질문엔 Redis LangCache 시맨틱 캐싱(cache-aside)으로 중복 호출 절반 이상 제거—단, 억양·특정 단어로 잘못 히트하는 부작용이 있어 유사도 임계값 보정 필요. 결론: 컨텍스트 엔지니어링은 장식 기능이 아니라 아키텍처의 일부—반응적으로 고치지 말고 설계 초기에 넣을 것. 구현 코드는 GitHub 공개(Java)
+* [Context Is the New Code: DevOps Practices for AI Agents | Patrick Debois, QCon London 2026 | InfoQ - YouTube](https://www.youtube.com/watch?v=RwxNnF1PeR0)
+  * 50분(2026-10-26 공개). DevOps 용어의 창시자 Patrick Debois—"컨텍스트는 코드다": 온보딩의 온갖 엣지 케이스 코드를 자연어 스킬 하나로 압축한 자사 경험처럼 코드가 몇 단어로 압축되므로, 컨텍스트(CLAUDE.md·스킬·프롬프트)도 코드처럼 빌드·테스트·배포·모니터링해야 한다는 주장. 테스트=스킬 YAML 프런트매터 린팅(설명 길이·스펙 준수)과 eval(옛 컨텍스트 vs 새 컨텍스트 비교, AI가 생성하되 내 코드·내 환경에서 의미가 있는지 검증—벤더의 클린룸 지표는 의미 없음)
+  * 배포=컨텍스트 공유·버전·보안 스캔, 모니터링=프로덕션 피드백 루프(OpenTelemetry처럼 에이전트 로그 표준화 흐름, 커밋 하나하나가 리뷰 컨텍스트). 자율성은 목표가 아니라 전 스펙트럼에서 "언제 적용할지"의 문제—알려진 상황엔 가드레일을 두고 맡기되 걸리면 호출. Slack에서 외부 리포트를 보며 "@Claude 고쳐서 PR 만들어" 한 뒤 사람 한 명이 승인만 하는 사일로 파괴 사례. 모델이 바뀌면 1년 전 컨텍스트가 여전히 유효한지 다시 봐야 함
 * [2507.13334 A Survey of Context Engineering for Large Language Models](https://arxiv.org/abs/2507.13334)
   * [‘Context Engineering’을 주제로 한 160페이지가 넘는 리서치 서베이](https://www.linkedin.com/posts/jaeyunhenrylee_%EC%99%80%EC%9A%B0-%EB%8C%80%EB%B0%95-%EA%B6%81%EA%B8%88%ED%96%88%EB%8D%98-%EB%82%B4%EC%9A%A9%EC%9D%84-%ED%95%9C%EB%B2%88%EC%97%90-%EB%8B%A4-%EC%A0%95%EB%A6%AC%ED%95%B4%EC%A4%8D%EB%8B%88%EB%8B%A4-%ED%98%84%EC%9E%AC-%EB%A7%8E%EC%9D%80-%EB%B6%84%EB%93%A4%EC%9D%B4-activity-7352114484351561730-e3Yi/)
   * [이제는 더욱 중요한 '컨텍스트'를 설계해야 할 때](https://www.linkedin.com/feed/update/urn:li:activity:7343801990730104832/) AI 에이전트를 도입하기 전 '워크플로 정리'가 중요
@@ -2486,6 +2495,9 @@ Artificial Intelligence
 * [Is the Agent Harness Dead? — Jediah Katz, SpaceXAI | AI Engineer - YouTube](https://www.youtube.com/watch?v=7Y4sbZgBdnc)
   * 18분(2026-10-19). Cursor 최장기 에이전트 하네스 엔지니어로 SpaceX 인수와 함께 합류한 Jediah Katz. 2023 프롬프트 엔지니어→2025 컨텍스트 엔지니어→2026 하네스 엔지니어로 이어진 용어 변천. 하네스=모델의 눈과 손(런타임 층: 에이전트 루프 실행 위치·상태 저장 / 컨텍스트·오케스트레이션 층). 두 연구에서 하네스 선택이 eval 점수에 유의미한 차이를 내지 못한 이유는 데이터 플라이휠—하네스가 덧대던 기술을 모델이 흡수했기 때문("코딩을 더 잘하게 만들던 부분은 죽었다")
   * 그래도 하네스가 더 중요해지는 두 이유: ①Grokbot 같은 자율 동료가 여는 새 작업 영역 ②모델이 흡수할 수 없는 인프라·신뢰와 보안(에이전트·사람별 권한 범위, 파국적 행동·$10,000 API 요금 가드레일)·효율(같은 연구에서 작업당 비용은 하네스별로 크게 달랐음). 예측: shim이 더 안 발동하면 에이전트가 정리 PR을 올리는 자기 정리, LLM 호출 조합→에이전트를 빌딩 블록으로 삼는 상위 추상화, 6개월 내 에이전트 작업의 90%가 노트북 밖(클라우드)에서 실행
+* [OpenAI 직원에게 직접 들은, 요즘 AI로 개발하는 방식 | StefanCho - YouTube](https://www.youtube.com/watch?v=MU6bMRkP0tE)
+  * 14분(2026-10-22 행사 후 기억으로 정리, 주관 섞임). OpenAI 개발자들이 스크린샷 도구를 각자 만들어 쓴다는 얘기에서 출발—이미지에 직접 표시를 그려 에이전트와 대화하는 게 텍스트보다 훨씬 잘 통함. GPT는 시킨 것만 하도록 의도적으로 "취향 없게" 만들었고 Anthropic은 다르다는 설계 철학 차이, 보이스 코딩은 일시적 유행이 아님, 모델 세대가 바뀌며 모두가 다시 같은 출발선, 한 번에 만들기보다 턴바이턴, 펠리컨 자전거 SVG 벤치마크(Simon Willison)
+  * Jev를 만든 엔지니어가 OpenAI 출신이라 Decisions API는 경쟁이 아니라 "좋아서 따라 만든 것". AGENTS.md·CLAUDE.md를 제대로 세팅하지 않고 하네스를 구축하는 건 핵심을 빼놓고 엉뚱한 걸 챙기는 것—새 모델이 나오거나 하네스가 낡았다 싶으면 글로벌 지침부터 재검토. "하네스와 모델은 세트"—하네스 없이 모델이 알아서 잘하길 바라는 것도, 하네스만 좋으면 모델은 아무래도 된다는 것도 틀림. 결론은 새 얘기보다 AI를 잘 쓰는 기본기가 다시 강조되고 있다는 것
 * [Adversarial review | Jesse Vincent](https://blog.fsck.com/2026/05/01/adversarial-review/)
   * AI가 자기 작업물을 검토하면 이해상충(자기 시험지 채점)이 생기므로, 여러 서브에이전트를 경쟁시켜("심각한 이슈 가장 많이 찾는 쪽이 5점") 더 많은 문제를 찾게 하는 기법. "fresh eyes"로 다시 보게 하는 단순 기법도 효과적
 * [I Believe Everything My Agents Tell Me: Three Levels of Review — Corey Gallon, Rexmore | AI Engineer - YouTube](https://www.youtube.com/watch?v=dYh7TQkuYFE)
@@ -5784,6 +5796,9 @@ Artificial Intelligence
   * [2609.10728 Towards a Deterministic Math Solver for Clinical Language Models](https://arxiv.org/html/2609.10728v1)
     * LLM은 산술에 신뢰할 수 없는데 임상 계산기는 숫자 하나가 권고를 바꿈—계산기마다 검증된 함수를 하드코딩하는 표준 대응 대신, **모델은 계산하지 않고 케이스별 Python을 작성해 제한된 로컬 실행기가 결정론적으로 실행**하는 Program-Solve 인터페이스를 MedCalc-Bench Verified(1,100케이스·55계산기)에서 직접 산술과 비교 평가
   * 주간 리뷰 영상(7분)의 관통 주제—신뢰할 수 있는 AI 시스템은 유창한 답이 아니라 **소프트웨어가 검증할 수 있는 산출물(체커블 프로그램·증명·계산)**을 내도록 강제되고 있으며, 남은 난제는 의도를 정밀한 가정으로 번역하고 규칙을 일관되게 적용하는 것
+* [바이브코딩 망가지면 처음부터 만들지 마세요. 수학 검증 도구로 해결하기! | 소스놀이터 - YouTube](https://www.youtube.com/watch?v=xAoB4EqzlyU)
+  * 10분(2026-10-27). 24년차 풀스택 개발자가 1년간 하루 10시간 바이브코딩하며 겪은 회귀 버그—AI는 망원경처럼 좁은 곳만 선명히 보므로 코드가 커지면 나무만 보고 고쳐 잘되던 걸 망가뜨림. 테스트 코드가 소스보다 많아져도 수천·수만 상황(순서 바뀔 수 있는 경우 10개면 362만 8,800가지)은 다 못 덮고 개발 속도만 느려짐. Anthropic이 Theorem과 함께 2026-10-22 공개한 연구: 오픈소스 라이브러리 123개를 기계어 수준에서 수학적으로 증명해 239개 지점의 버그를 찾아 고쳤고 일부는 수조 번 테스트로도 못 잡던 오래된 버그, 수정 불필요로 증명된 25개 라이브러리·60개 지점만 공개(악용 우려로 나머지 비공개), 서비스는 신청자 한정
+  * 지금 무료로 쓸 수 있는 것: Claude Code용 Proof Skills, Codex용 agent-formalify—티켓 10장에 수십만 명 동시 예매·중복 클릭·결제 미완·네트워크 단절·취소 후 늦은 성공 같은 모든 경우를 따짐. 개발사 실험 5개 버그에서 검증 시간 2.4배·토큰 2.2배 늘지만 커버리지 54%→98%. 버튼·색상 변경엔 과소비라 기본 설치가 아니며, AGENTS.md에 "복잡하거나 동시성 문제가 있을 때만 쓰라"는 지침을 넣어 선택 적용(자작 소놀봇의 Mac·Windows·WSL 간 기능 얽힘에 사용). 빠르게 만드는 건 쉽고, 잘되던 기능을 망가뜨리지 않고 발전시키는 게 진짜 어려움
 * [How well do agents use test/verification techniques? | Dan Luu](https://danluu.com/agentic-testing/)
   * 에이전트가 테스트·검증 기법을 얼마나 잘 활용하는지에 대한 Dan Luu의 분석
 * [Introducing Arrow 2 and Arrow 2 Telos | QuiverAI](https://quiver.ai/blog/introducing-arrow-2-0)
