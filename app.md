@@ -426,6 +426,8 @@ App
 * [naabu: A fast port scanner written in go with a focus on reliability and simplicity](https://github.com/projectdiscovery/naabu)
   * [ProjectDiscovery](https://projectdiscovery.io/)
   * 신뢰성·단순함에 집중한 Go 기반 고속 포트 스캐너. 버그바운티·펜테스트의 공격면 발견에 다른 도구와 조합 사용. MIT, 6.1k stars
+* [Netryx-Astra-V2-Geolocation-Tool: The world's most sophisticated street level image geolocation software](https://github.com/sparkyniner/Netryx-Astra-V2-Geolocation-Tool)
+  * 사진 한 장(영상 스크린샷·흐린 폰 사진·가게 앞·길모퉁이)을 스트리트뷰 파노라마 DB와 대조해 몇 분 안에 정확한 GPS 좌표를 찾는 오픈소스 지오로케이션. V1의 CosPlace+DISK·LightGlue·LoFTR·RANSAC 9단계 휴리스틱 스택을 버리고 MegaLoc(CVPR 2025, 실내외·주야·계절 6개 데이터셋 학습 장소 인식 검색—"도시의 어느 동네인가", 상위 500 후보)→MASt3R(ECCV 2024, 장면 기하를 이해하는 3D 인식 밀집 매처—부분·강하게 잘린 사진도 정확한 위치 확정) 3단계 파이프라인으로 재구축. Python, 1.1k stars
 * [nox-framework: High-performance OSINT/CTI framework for automated identity pivoting and risk analysis across 120+ sources](https://github.com/nox-project/nox-framework)
   * 120+ 소스에서 자동 신원 피버팅·위험 분석을 수행하는 고성능 OSINT/CTI 프레임워크. Python
 * [OWASP Nettacker — Automated Penetration Testing Framework](https://owasp.org/www-project-nettacker/)
@@ -864,6 +866,8 @@ App
     * [디버깅 없이 디버깅하기 (feat. Chrome DevTools MCP) - YouTube](https://www.youtube.com/watch?v=22tL3Hl-NwA)
   * [안 쓰고 있다면 진짜 이건 손해입니다: Chrome DevTools MCP | duck blog | 기술 블로그](https://duck-blog.vercel.app/blog/web/chrome-devtools-mcp-game-changer)
     * [안 쓰고 있다면 진짜 이건 손해입니다: Chrome DevTools MCP | Kim Deokgoo](https://www.linkedin.com/posts/kim-deokgoo-51b583155_%EC%95%88-%EC%93%B0%EA%B3%A0-%EC%9E%88%EB%8B%A4%EB%A9%B4-%EC%A7%84%EC%A7%9C-%EC%9D%B4%EA%B1%B4-%EC%86%90%ED%95%B4%EC%9E%85%EB%8B%88%EB%8B%A4-chrome-devtools-mcp-activity-7390740765905309697-VQwB)
+* [15 updates from Google I/O 2026: Powering the agentic web with new capabilities, tools, and features in Chrome | Chrome for Developers](https://developer.chrome.com/blog/chrome-at-io26)
+  * 2026-05-19, Parisa Tabriz·Paul Kinlan 외. 세 축—①AI 에이전트가 웹을 만들고 상호작용하게: WebMCP(웹사이트를 에이전트 툴킷으로), 모던 웹 가이던스(코딩 에이전트용 청사진), 에이전트용 Chrome DevTools 자동 디버깅, AI 보조 디버깅, 서버·예산 없이 쓰는 내장 AI ②웹 UI·성능: HTML-in-Canvas과 요소 범위 view transitions, SPA용 Core Web Vitals, Immediate UI 모드 인증, 실트래픽 기반 Baseline 타깃 ③Gemini in Chrome: Android 브라우징 어시스턴트, 지루한 작업을 맡기는 auto browse, Nano Banana 이미지 변환, 프롬프트를 원클릭 도구로 만드는 Skills in Chrome, 화면 선택 프롬프트, 음성
 * [codecopy: A browser extension that adds copy to clipboard buttons on every code block](https://github.com/zenorocha/codecopy)
 * [DevTools Timeline Viewer](https://chromedevtools.github.io/timeline-viewer/)
 * [Form Helper Chrome | Devpost](https://devpost.com/software/form-helper-chrome)
