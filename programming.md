@@ -1007,6 +1007,9 @@ Programming
   * [지루한 기술을 선택하라 2015 | GeekNews](https://news.hada.io/topic?id=30035)
   * 회사마다 약 3개의 "이노베이션 토큰"이 있고, 이는 비즈니스 미션 핵심 문제에만 써야 함. 지루한 기술(MySQL/Postgres/Python/Memcached/Cron)이 좋은 이유는 능력과 실패 모드가 잘 알려져 "unknown unknowns"가 적기 때문. "best tool for the job" 사고는 모니터링·테스트·배포·인지 부하 같은 운영 부담을 무시—실제 best는 가장 많은 문제에서 "least worst" 자리를 차지하는 도구. 새 기술 도입 전 기존 도구로 어떻게 풀지 먼저 묻고, 기존 기술 교체 시 마이그레이션 일정 명확화. Etsy는 PHP/MySQL/Memcached/Gearman 공유 스택으로 activity feeds 20배 확장
   * 오래된 글이지만 여전히 유효하다고 생각
+  * [Choose Boring Technology, Revisited | Aaron Brethorst](https://www.brethorsting.com/blog/2025/07/choose-boring-technology%2C-revisited)
+    * [지루한 기술을 선택하라, Revisited (2025) | GeekNews](https://news.hada.io/topic?id=30036)
+    * 2025-07-30. 10년 전 "새 프로젝트가 새것을 배우기 위한 핑계인가, 문제를 풀려는 것인가—배운다면 미지수를 하나로 제한, 푼다면 아는 것을 고수"라는 결론이 LLM·에이전틱 코딩 도구 시대에 더 중요해졌다는 재방문. AI 도구는 거의 모든 스택에 그럴듯한 코드를 내놓지만 내가 모르는 기술이 둘 이상 섞이면 오류를 검증할 수 없음—아는 스택에선 force multiplier, 모르는 스택에선 단순 의존. 생성 코드 품질이 높아질수록 문제가 숨으므로 깊은 이해의 가치가 커짐
 * [Spoqa 기술 블로그 | 서버 언어 전환 이야기](https://spoqa.github.io/2022/04/15/all-new-server.html)
 * [Choosing the Right Integers :: The Coded Message](https://www.thecodedmessage.com/posts/programming-integers/)
 * [😵💫 Why billing systems are a nightmare for engineers](https://www.getlago.com/blog/why-billing-systems-are-a-nightmare-for-engineers)
