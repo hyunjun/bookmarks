@@ -5037,6 +5037,8 @@ Programming
 * [Navigating AI, Platform Engineering, and Staff-Plus: InfoQ Dev Summit Preview - YouTube](https://www.youtube.com/watch?v=kOMTnUztm7E) 제목처럼 architecture, 보안, 조직 구조, 커리어 등 다양한 이야기
   * [VidiGo | 비디고 - Analyze Video AI](https://vidigo.ai/h/result/summary/24044)
   * [AI, 플랫폼 엔지니어링 및 스태프 플러스 탐색하기: InfoQ 개발자 서밋 미리보기 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/512366)
+* [Verifying Code That Calls Code You Can't Trust • Sophia Drossopoulou • Bug Bash EU 2026 | GOTO Conferences - YouTube](https://www.youtube.com/watch?v=iXD6NvG8k7A)
+  * Bug Bash EU 2026(Antithesis 주최), Imperial College London 교수·2023 Dahl-Nygaard 상 수상자. 원제 "Specification and Verification of Robust Open Systems: Capabilities, Effects, and Trusted Mediation"—오늘의 소프트웨어는 신뢰하는 내부 코드와 동작을 알 수 없거나 적대적일 수 있는 외부 코드가 얽힌 열린 시스템이라, 검사할 수 없는 외부 호출의 효과를 감안해 방어적으로 써야 함. 효과를 제한하는 수단으로 capability와 신뢰된 중재(trusted mediation)를 두고 그런 코드를 명세·검증하는 방법. (2026-10-28 기준 프리미어 예정이라 영상 본문은 미확인)
 * [개발자 글로벌 커리어 컨퍼런스 - YouTube](https://www.youtube.com/watch?v=4G3x7g7Ls8o)
 * [11번가 TechTalk - YouTube](https://www.youtube.com/@11TechTalk)
 * [제주 AI 컨퍼런스](https://jejuai.kr/)
