@@ -372,6 +372,9 @@ Monitoring
 * [vnStat - a console-based network traffic monitor for Linux and BSD](http://humdi.net/vnstat/)
 
 # Observability
+* [Agentic Monitoring | Ben Congdon](https://benjamincongdon.me/blog/2026/10/19/Agentic-Monitoring/)
+  * 2026-10-19. Anthropic 블로그의 한 단락에서 출발—Claude Tag로 컴포넌트 하나의 건강 상태에 집착하는 Slack 채널 "superfan"(scion-daemon superfan, scion-cache superfan, 머지 큐 superfan…)을 만들어 텔레메트리·로그를 보며 "차트를 새로 고치는 것밖에 할 일이 없는 숙련 엔지니어"처럼 전통 알림이 1차원적으로 보일 만큼 미묘하고 새로운 이슈를 잡아낸다는 것. 소프트웨어가 LLM처럼 "설계"보다 "성장"하는 쪽으로 가고 코드량이 지수적으로 늘면서 운영자의 eyes-on-code 지식은 줄어드는 상황
+  * 관측성은 비싸고(Sentry·Datadog·Splunk·Honeycomb 산업) 숙련에 수년이 걸리는 영역인데 에이전트로 단계 변화 직전—"AI SRE" 스타트업은 많지만 실무자의 글은 드물다. 완전한 AI SRE 제품 없이도 에이전트에 로그·메트릭 접근을 주고 한 컴포넌트를 지켜보게 하는 것부터 시작할 수 있다는 실천적 관점
 * [서버 모니터링 분석 가이드 | kciter.so](https://kciter.so/posts/server-monitoring-analysis-guide/)
   * 서버 개발자를 위한 모니터링 종합 가이드. 장애 발생 시 빠르게 원인을 좁히고 사전에 문제를 파악하는 방법을 아키텍처·모니터링 관점에서 정리
 * [Lessons from Building Observability Tools at Netflix](https://medium.com/netflix-techblog/lessons-from-building-observability-tools-at-netflix-7cfafed6ab17)
