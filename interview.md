@@ -412,6 +412,10 @@ Interview
   * Om Bharatiya, MIT. 17챕터 AI 시스템 디자인 레퍼런스—파운데이션·모델 랜드스케이프·학습/적응·추론 최적화·검색·에이전트·메모리·프레임워크·인프라·보안·신뢰성·평가·설계 패턴·케이스 스터디·도구 사용. 110문항 인터뷰 뱅크(답변 프레임워크+화이트보드 연습), 2026.5 모델(Claude Opus 4.7·GPT-5.5·Gemini 3.1 Pro·DeepSeek V4·Llama 4) 커버. 16+ 케이스 스터디(멀티테넌트 SaaS·사기 탐지·음성 헬스케어·MCP 지식 에이전트). Phoenix+Langfuse·LangWatch+Langfuse 평가 가이드 2종, GLOSSARY/COURSES/PATTERNS/TRANSITION_GUIDE(백엔드/QA/PM/EM→AI 전환) 부록. 1.4k stars
 * [aditya - "design a RAG pipeline for 10M docs with zero hallucination" Google L5 인터뷰 문제](https://x.com/adxtyahq/status/2057410759236386866)
   * 1천만 문서 zero-hallucination RAG 파이프라인 설계가 Google L5 인터뷰에서 출제. 클래식 분산 시스템 질문보다 흥미로운 시스템 디자인 문제로 평가
+* [2,000+ Hours of Learning Agentic AI System Design in 20 Minutes | Aish Reganti - YouTube](https://www.youtube.com/watch?v=Mv7eiQFQQ1E)
+  * [awesome-generative-ai-guide | aishwaryanr](https://github.com/aishwaryanr/awesome-generative-ai-guide)
+  * 20분(2026-10-22). 전 AWS 테크 리드·LevelUp Labs 창업자가 수백 명을 면접하며 본 차이—RAG·MCP·툴 콜링을 아는 것과 실제 비즈니스 문제에 적용하고 프로덕션 확장을 설명하는 것은 다르고, 후자가 AI 시스템 디자인. 예제는 가장 흔한 면접 문제인 이커머스 고객지원 에이전트(헬프센터 답변·주문 조회·티켓 생성·불확실하면 사람에게 에스컬레이션)
+  * 5개 층: ①범위와 가정(시스템의 자율성 수준, 가정을 명시) ②아키텍처—자체 프레임워크 KARC(Know·Act·Remember·Coordinate: 하이브리드 RAG, 도구 설계와 권한·blast radius·실패 처리·신뢰 경계, 메모리 4종) ③관측성—무엇을 로깅하고 그 위에 어떤 eval을 만들며 어떤 것을 온라인 가드레일 vs 오프라인으로 돌릴지 ④프로덕션·운영—스케일·지연·신뢰성·최신성·보안 ⑤최적화—지연·비용·품질·특정 실패 패턴, 멀티 에이전트 같은 복잡성이 "정당화되는" 시점. 핵심은 추가하는 모든 요소가 문제에 대한 가정으로 소급돼야 하며, 면접관은 이유 없는 아키텍처 이름 나열을 알아본다는 것
 * [프론트엔드 백엔드 데이터베이스 전체를 20분만에 보이게 해드립니다. | 바이브코딩 - YouTube](https://www.youtube.com/watch?v=l5z6UNa-ons)
 * [Timelines at Scale](https://www.infoq.com/presentations/Twitter-Timeline-Scalability)
 * [high availability 서버를 만들기 어려운 이유](http://blog.seulgi.kim/2017/10/why-high-availability-server-is-hard.html)
