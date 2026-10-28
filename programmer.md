@@ -473,6 +473,10 @@ Programmer
   * AI를 잘 쓰는 핵심은 출력물 품질을 판단·교정하는 능력인데, AI에 의존할수록 이 능력이 약화. Bjork의 '바람직한 어려움' 이론, 인출 연습 효과
 * [Agentic Coding is a Trap | Lars Faye](https://larsfaye.com/articles/agentic-coding-is-a-trap)
   * AI 에이전트 감독에 필요한 코딩 능력 자체가 과잉 사용으로 위축되는 역설. AI를 계획·임시 도움 보조 역할로 격하하고 직접 코딩 유지 권장. 토큰 기반 서비스 벤더 락인·비용 리스크 경고
+  * [에이전트 코딩은 함정이다 (Agentic Coding is a Trap) | Flowkater Nugget](https://flowkater.io/nuggets/2026-05-11-agentic-coding-trap/)
+    * 2026-05-11 요약. 핵심 명제—코딩 에이전트를 관리하는 데 필요한 비판적 사고가 AI 툴링 자체에 잠식된다는 자기 모순 시스템. 정량 가능한 4가지 트레이드오프: ①AI 비결정성을 완화하려는 주변 시스템 복잡도 ②광범위한 기술 퇴화 ③개인·팀 벤더 종속(Claude 장애 시 팀 마비) ④토큰 비용 변동성. "또 다른 추상화일 뿐" 반론에—FORTRAN·컴파일러 비판은 추측이었지만 이번엔 몇 년 만에 데이터가 나왔고, C++→Java 전환자나 AWS로 간 시스템 관리자는 이해를 잃지 않았다. "더 높은 모호성은 더 높은 추상화가 아니다"
+  * ["이제 코딩은 AI가 한다, 사람은 오케스트레이터"라는 환상—감독의 역설 | Jaewoo Cho](https://www.linkedin.com/posts/jaewoo-cho-6a943750_%EC%9D%B4%EC%A0%9C-%EC%BD%94%EB%94%A9%EC%9D%80-ai-%EA%B0%80-%ED%95%9C%EB%8B%A4-%EC%82%AC%EB%9E%8C%EC%9D%80-%EC%98%A4%EC%BC%80%EC%8A%A4%ED%8A%B8%EB%A0%88%EC%9D%B4%ED%84%B0%EC%9D%B4%EB%8B%A4%EB%9D%BC%EB%8A%94-%ED%99%98%EC%83%81-%EA%B0%90%EB%8F%85%EC%9D%98-share-7459576690869157888-QJ0P/)
+    * AI를 감독하려면 코딩을 할 줄 알아야 한다—Anthropic 자체 연구의 디버깅 능력 47% 급락, Simon Willison의 "멘탈 모델이 사라진다", LinkedIn 엔지니어링 디렉터의 "비판적 사고 작업엔 AI 금지" 지시. 전 CTO 경험: 코드를 못 읽으면 CTO일 수 없고 직접 짜보지 않으면 아키텍처를 설계할 수 없음. 스펙 주도 개발도 환상—스펙은 출발점이고 구현·아키텍처는 코드를 짜는 중간의 누적 컨텍스트에서 복리로 정해짐. 언어는 생각의 부분적 표상이라 그 빈틈을 AI가 확률 레버로 메우는 "가챠". Jeremy Howard: "생각을 컴퓨터에 아웃소싱하면 더 유능해지는 것을 멈춘다"
 * [The 3 Words That Secretly Drive Developer Productivity & Motivation - Yanina Ledovaya - GOTO 2025 - YouTube](https://www.youtube.com/watch?v=y0j9rzME8YY)
   * [개발자 생산성과 동기부여의 비밀: 자율성, 역량, 관계성 | LiveWiki](https://livewiki.com/ko/content/developer-productivity-motivation)
   * JetBrains DX 리서치 팀리드의 자기결정이론(Self-Determination Theory) 적용. 자율성·역량·관계성 3요소가 개발자 생산성의 심리적 기반
