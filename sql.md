@@ -1300,6 +1300,9 @@ SQL
 * [Postgres is All You Need for Durable Workflows | DBOS](https://www.dbos.dev/blog/postgres-is-all-you-need-for-durable-execution)
   * [Postgres만으로 지속 가능한 워크플로우를 만들 수 있는 이유 | GeekNews](https://news.hada.io/topic?id=29999)
   * Peter Kraft, 2026.5.20. Temporal·Airflow·AWS Step Functions 같은 외부 오케스트레이터는 과도하게 복잡—durable workflow는 본질적으로 프로그램 상태를 DB에 체크포인팅하는 것이므로 별도 오케스트레이터 서버 불필요. Postgres 기반 접근: 클라이언트가 workflows 테이블에 작업 INSERT, 서버가 locking 절로 폴링·dequeue, step 출력 직접 체크포인트. 워커 크래시 시 다른 워커가 마지막 체크포인트부터 재개. 장점: Postgres 스케일링 솔루션(streaming replication·failover·CockroachDB·sharded Postgres) 상속, SQL 테이블이라 declarative 모니터링 쿼리, 오케스트레이터 단일 장애점 제거·민감 데이터 외부 노출 회피. DBOS 미션은 Postgres-backed durable execution 단순·고성능화
+* [SQLite is All You Need for Durable Workflows | Obelisk](https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/)
+  * [SQLite만으로 내구성 있는 워크플로를 구현할 수 있음 | GeekNews](https://news.hada.io/topic?id=30014)
+  * 2026-05-29. DBOS의 "Postgres면 충분하다"에 동의하면서 더 밀어붙인 글—내구성 있는 건 인프라가 아니라 워크플로 상태이고 컴퓨트는 싸고 일회용이어도 됨. Obelisk는 진행 상태를 실행 로그에 두고 영속 히스토리에서 리플레이·액티비티 재시도. SQLite는 별도 DB 서비스·네트워크 홉·컨트롤 플레인 없이 트랜잭션 영속 상태를 주고, Litestream으로 변경을 S3 호환 스토리지에 비동기 스트리밍하면 백업·마이그레이션·검사용 복사까지. AI 에이전트처럼 버스트성·실험적 워크플로는 에이전트마다 작은 SQLite 상태를 가진 마이크로VM/컨테이너가 하나의 큰 공유 시스템보다 단순·저렴하고 장애 격리에 유리. 고가용성·광범위 공유 확장이 필요하면 Postgres
 * [All you need is PostgreSQL | ebellani](https://ebellani.github.io/blog/2026/all-you-need-is-postgresql/)
   * [All you need is PostgreSQL 공유 | 박상길 | LinkedIn](https://www.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_all-you-need-is-postgresql-share-7490170060683239424-U7uR/)
   * 뱅킹 예제(계좌·이체·거래)를 PostgreSQL만으로 구축하는 실습형 글—스키마·사용자 역할로 모듈화, 도메인 타입, **상태 머신과 시간 구간(temporal period) 제약으로 규율되는 이체**, 이체 상태 이력, 계좌 감사, 불변 이벤트로서의 트랜잭션. 비즈니스 규칙을 애플리케이션 코드가 아니라 의미 있는 DB 제약으로 유지하는 접근
