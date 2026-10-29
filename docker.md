@@ -1771,6 +1771,9 @@ Docker
   * [GPU-Enabled Platforms on Kubernetes — webinar series & eBook | vCluster](https://www.vcluster.com/gpu-enabled-platforms-on-kubernetes)
     * K8s는 GPU를 위해 만들어지지 않았는데 AI 워크로드는 GPU를 요구—GPU 공유가 CPU와 근본적으로 다른 이유, 멀티테넌트 환경의 보안·성능 아키텍처 패턴(실습 가이드의 참고 문서)
   * '로컬 PC→컨테이너→쿠버네티스' 단계별 GPU 인식·실행 확인 실습—Ubuntu 24.04+NVIDIA 드라이버(디바이스 노드·커널 모듈·DKMS)→Docker+NVIDIA Container Toolkit(OCI 훅)→K3s+device plugin(gRPC·CDI 스펙)→kube-prometheus-stack+DCGM Exporter 모니터링·알림. 설치 절차뿐 아니라 GPU가 OS·컨테이너·K8s 안에서 노출되는 경로 구조를 설명
+* [AI jobs are waiting while GPUs sit idle. Kubernetes has a new plan | The New Stack](https://thenewstack.io/kubernetes-agentic-ai-inference/)
+  * [에이전틱 AI 시대의 Kubernetes 운영 변화: GPU 오토스케일링부터 AI 추론·관측성까지 | digitalbourgeois](https://digitalbourgeois.tistory.com/4091)
+  * 에이전틱 AI 워크로드로 달라진 K8s 운영—스케줄러와 오토스케일러의 GPU 할당 불일치, llm-d v1.0 분산 추론(비용 11.5배 절감 보고), SRE용 AI 에이전트(Claude Code 등 MCP 연동 시 2분 내 86% 진단), 메트릭만으로는 ACL 변경·slowlog 같은 이벤트를 놓치는 관측성 공백
 * [AWS Summit Korea 2022 Kubernetes를 위한 Observability | 와탭랩스 세션 - YouTube](https://www.youtube.com/watch?v=DXXJEAfhjiQ)
 * [How Kubernetes Reinvented Virtual Machines (in a good sense)](https://iximiuz.com/en/posts/kubernetes-vs-virtual-machines/)
 * [kubernetes volume 사용 방법 정리하기. 사용하는 volume의 종류에 따라 ML training… | by Ryan Kim | Aug, 2022 | Medium](https://equus3144.medium.com/kubernetes-volume-%EC%82%AC%EC%9A%A9-%EB%B0%A9%EB%B2%95-%EC%A0%95%EB%A6%AC%ED%95%98%EA%B8%B0-49cc6bc5d761)
@@ -2728,6 +2731,9 @@ Docker
 * Linkerd [The world's lightest, fastest service mesh. | Linkerd](https://linkerd.io/)
   * [How Linkerd uses iptables to transparently route Kubernetes traffic | Linkerd](https://linkerd.io/2021/09/23/how-linkerd-uses-iptables-to-transparently-route-kubernetes-traffic/index.html)
   * [Service Mesh Linkerd](https://gasidaseo.notion.site/Service-Mesh-Linkerd-af5ab1c832214ed5ad3f60e1cb9fe459)
+* [llm-d: State of the art inference performance with modern accelerators on Kubernetes](https://github.com/llm-d/llm-d)
+  * [llm-d 1.0 - State-of-the-art inference ready for production operations](https://www.llm-d.ai)
+  * Kubernetes 네이티브 분산 LLM 추론 스택(GPU·TPU·CPU). 출력 처리량 3배·TTFT 2배 개선을 내세우며 검증된 배포 레시피 Well-Lit Paths 제공
 * [localizer: ⛵ A no-frills local development tool for service developers working in Kubernetes](https://github.com/getoutreach/localizer)
 * [loxilb: eBPF based cloud-native load-balancer. Powering K8s|Edge|5G|IoT|XaaS Apps](https://github.com/loxilb-io/loxilb)
   * [K8s: LoxiLB를 통한 SCTP 멀티호밍(Multi-homing) 기능 소개](https://ko.loxilb.io/post/k8s-loxilb%EB%A5%BC-%ED%86%B5%ED%95%9C-sctp-%EB%A9%80%ED%8B%B0%ED%98%B8%EB%B0%8D-multi-homing-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C)
