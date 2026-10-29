@@ -1969,6 +1969,10 @@ Artificial Intelligence
   * 웨이크 워드·실시간 대화·어느 앱에나 받아쓰기·전화 통화·중간 끼어들기 음성, 데스크톱·브라우저 클릭/입력/화면 읽기 컴퓨터 사용(허용 범위는 사용자가 결정), 40+ 플러그인·MCP 서버·스킬·CLI 원클릭 마켓플레이스(GitHub·Google Workspace·Notion·Slack·Linear·Spotify·Home Assistant), CLI마다 실행 전 거부되는 명령 목록, 플레인 텍스트 파일+트리거(음성 문구·단축키·시간)로 쓰는 스킬, 읽고 쓰고 인용하는 로컬 위키 메모리, 아침 브리핑·받은편지함 정리 같은 루틴, 두 키로 현재 창을 보여주는 Appshots, 데스크톱 펫. OpenAI·Anthropic·Gemini·OpenRouter·NVIDIA·Ollama·로컬 서버 또는 Claude/ChatGPT 구독, 작업별 모델 선택. Python, Apache-2.0
 * [Philosophy_AI: Your AI is smart, but does it know you? Don't build just Agents. Build Identities](https://github.com/dev-whitecrow/philosophy_ai)
   * [Philosophy_AI: Your AI is smart, but does it know you? Don't build just Agents. Build Identities. | Yung J. Choi | 16 comments](https://www.linkedin.com/posts/yungdi_github-dev-whitecrowphilosophyai-your-activity-7421378252973416448-_Qdg)
+* [PhoneUse - Phones for AI agents](https://www.phoneuse.com/)
+  * [박시용 - PhoneUse, AI 에이전트가 스마트폰을 조작하는 서비스 | Facebook](https://www.facebook.com/syp.sypark/posts/pfbid02xZmu2WKXxTbtxhUyPQec1QjpQCFkmWpenEbf8a8kQjvVTD7sTo2bTqRiNnH7y4pgl)
+    * 에뮬레이터·루팅 폰을 탐지해 막는 앱을 우회하려 클라우드 Android(월 $20, ADB 제어)와 샌프란시스코의 실제 iPhone 15 Pro를 로봇 스타일러스로 터치하고 카메라로 화면을 읽는 물리 iPhone(Facebook 글 기준 월 $89, 사이트 기준 retail 실기기 $199)을 제공, Claude·Cursor MCP 연동. 사용자 코멘트: 이미 테스트/QA에서는 사용하던 방식이라 그 자체가 놀랍진 않지만, computer use처럼 agent를 위해 적용했다는 점이 좋다고 생각
+  * 클라우드의 실제 iPhone·Android를 AI 에이전트에 제공해 브라우저 자동화로 안 되는 앱 기반 작업(소셜·메신저·기기 무결성 검사가 필요한 서비스)을 수행
 * [Pi - There are many coding agents, but this one is mine](https://pi.dev/)
   * [Pi – 간결한 터미널 코딩 하니스 | GeekNews](https://news.hada.io/topic?id=26999)
   * 미니멀한 CLI 코딩 에이전트. 15개+ AI 프로바이더 지원, TypeScript 확장·스킬·테마 커스터마이징, 트리 구조 세션 히스토리, 자동 요약 맥락 관리. MCP 등은 확장으로 직접 구현하는 철학
@@ -2038,6 +2042,10 @@ Artificial Intelligence
   * [Qwen-Agent | GeekNews](https://news.hada.io/topic?id=27367)
 * [Qwen-MM-Plugins: Make any agent harness multimodal-native](https://github.com/QwenLM/Qwen-MM-Plugins)
   * 어떤 에이전트 하네스든 멀티모달 네이티브로 만들어주는 Qwen 팀의 플러그인 모음. 2.8k stars
+* [Rakazo: The open source Grok Bot alternative you actually own](https://rakazo.com/)
+  * [rakazo: Open-source Grok Bot alternative. Choose your own model and sandbox](https://github.com/elie222/rakazo)
+  * [Rakazo: 나만의 환경에서 실행하는 오픈소스 AI 에이전트 | digitalbourgeois](https://digitalbourgeois.tistory.com/4098)
+  * 대화 기록·메모리를 유지하는 셀프호스팅 AI 에이전트(Docker 설치, localhost:5173). 브라우저·터미널·파일·GUI 조작, 서브에이전트 위임, 음성, 웹·데스크톱·모바일·Slack 접근. 모델은 Pi 인증으로 선택하고 실행 환경은 로컬 Docker·E2B·Daytona 등. 셀프호스팅이어도 외부 모델·서비스 연동 시 데이터가 밖으로 나갈 수 있음
 * [Ranking Engineer Agent (REA): The Autonomous AI Agent Accelerating Meta’s Ads Ranking Innovation - Engineering at Meta](https://engineering.fb.com/2026/03/17/developer-tools/ranking-engineer-agent-rea-autonomous-ai-system-accelerating-meta-ads-ranking-innovation/)
   * [Ranking Engineer Agent REA: The Autonomous AI Agent Accelerating Meta's Ads Ranking Innovation | Jason Kang](https://www.linkedin.com/posts/byeongjinkang_meta%EA%B0%80-%EA%B4%91%EA%B3%A0-%EB%9E%AD%ED%82%B9-%EB%AA%A8%EB%8D%B8%EC%9D%98-end-to-end-ml-%EB%9D%BC%EC%9D%B4%ED%94%84%EC%82%AC%EC%9D%B4%ED%81%B4%EC%9D%84-%EC%9E%90%EC%9C%A8%EC%A0%81%EC%9C%BC%EB%A1%9C-share-7455734379634593792-cqMb)
   * Meta가 광고 랭킹 모델의 end-to-end ML 라이프사이클을 자율적으로 수행하는 REA 공개
@@ -5426,6 +5434,9 @@ Artificial Intelligence
     * [litpage: Open-source, self-hosted workspace for pages, databases and AI. One Node.js process with SQLite](https://github.com/litmers-dev/litpage)
       * 영상에서 만든 노션 클론을 공개한 레포(TypeScript·React 19·Node.js 26+, MIT). 페이지·데이터베이스·AI를 한 곳에서 쓰는 셀프호스팅 워크스페이스—Node.js 프로세스 하나와 SQLite로 돌아가 내부용·개인 프로젝트에 바로 사용
     * 22분(2026-10-23). 엑셀·워드·파워포인트·원노트·캡컷·노션을 REA로 역공학해 Claude Code·Codex로 재구현—소스 없이 사용설명서·업데이트 로그·API 요청만으로 기능 명세 3천 개를 뽑아 에이전트를 돌리는 방법. 노션 클론은 기능 테스트 38점→96점
+  * [awesome-reverse-engineer-anything: Awesome list of AI reverse engineering and rebuilds: what AI agents took apart and recreated, and which ones really used REA](https://github.com/AIshihzong/awesome-reverse-engineer-anything)
+    * [AI 에이전트가 소프트웨어를 분석하고 재구현한 사례를 모은 큐레이션 목록과 법적 쟁점 | digitalbourgeois](https://digitalbourgeois.tistory.com/4088)
+    * AI 에이전트가 앱을 뜯어 재구현한 사례를 검증 수준(REA·AI-RE·Rebuild·Claim?)으로 분류한 목록—실제 역공학 도구를 쓴 사례와 검증되지 않은 주장·독립 재구현을 구분. DX-Ball 함수 복원(원본 x86 테스트 3,205건 대조), Notion Electron 클립보드 브리지 분석 등. 사전등록 연구에서 Claude Code는 REA 유무와 무관하게 30개 중 28개를 동일하게 풀었고 REA 쪽이 시간 2배·비용 더 듦. 연구·상호운용·보존·보안 연구는 허용, 무단 상업적 복제·라이선스 우회는 주의
   * "마음에 드는 기능을 보면 바이너리 수준까지 어떻게 동작하는지 이해한다"—소스 코드 없이도 앱을 에이전트에게 넘기면 기능을 조사·설명하고 증거를 제시한 뒤 자기 스택에 맞는 버전을 구현하게 하는 리버스 엔지니어링 에이전트 툴킷. 도구 선택·API 학습·증거 이동·다음 조사 대상 결정을 명령·스킬·구조화된 결과·반복 가능한 조사로 에이전트에 위임. 현재 Hopper 또는 Linux의 BYO Ghidra로 네이티브 분석·함수 dossier, 실험적 Windows x64 Ghidra(승인된 PE), 실행 없는 managed PE/CLI 트리아지, 재현 가능한 Evidence 기록, 통제된 프로세스 캡처, 웹사이트·Electron 페이지·Node/Electron V8 Inspector 수동 관찰, JS/소스맵 재구성, 정적 추론과 런타임 관찰을 구분하는 제공자 중립 그래프와 MCP 도구 카탈로그. 로드맵은 API·프로토콜·모바일·펌웨어·버전 간 차이까지. `npm install --global rea-agents && rea setup`, 한국어 README. TypeScript, MIT, 538 stars
   * 2026-10 현황(81k stars): `npx rea-agents setup`이 Claude Code·Codex·Cursor·Gemini CLI·Grok Build 등에 MCP 서버와 조사 워크플로 지시(스킬)를 등록(기존 설정 백업, 승인 후 적용)하고, 로컬 MCP를 지원하는 어떤 에이전트든 수동 등록 가능. 네이티브 분석은 기존 Hopper·Ghidra·IDA 사용(Hopper는 setup이 승인 후 설치 가능), 정적 JS·.NET 분석은 엔진 불필요. 대상: 네이티브 바이너리(의사코드·어셈블리·심볼·호출), 오프라인 ELF 레이아웃, EVM 바이트코드, 기록된 Linux 크래시, JavaScript/Electron(모듈·소스맵·IPC), 웹사이트(Chrome 계열), HAR/mitmproxy 캡처, .NET 어셈블리, Android APK·기기(adb)·JEB·Apktool 리소스, 펌웨어(Binwalk/Unblob), 패키지·Apple 번들, 프로세스 동작 캡처. 분석은 전부 로컬. 쇼케이스: DX-Ball 사운드 팬 계산 C 복원(3,205 케이스 통과), Notion Electron 클립보드 브리지 추적, PC-98 TH04 탄막 링 계산 복원. Node.js 22.19+/24.11+/26+, 암호화폐 토큰 발행·보증 없음 고지
   * REA × Jev 클린룸 팁(사용자 첨부 다이어그램): room A의 REA가 앱을 조사(문자열·호출·IPC·런타임 트레이스)해 모든 발견에 증거와 한계를 달고 규칙마다 REA 근거를 인용한 SPEC.md만 작성(코드는 쓰지 않음)→Jev spec gate가 규칙별 증거를 심사해 통과분만 room B로, 증거 없는 규칙은 REA로 돌려보내 다시 파거나 버림→원본을 전혀 보지 않는 Opus 5.5 새 세션(room B)이 SPEC.md만으로 기능을 재구현→Haiku 5.5가 재구현은 통과해야 하고 의도적으로 깨뜨린 3개 버전은 모두 실패해야 하는 테스트 실행, 애매한 건 Jev가 Opus로 라우팅, `/goal`로 3개가 전부 실패할 때까지 반복
@@ -5836,6 +5847,9 @@ Artificial Intelligence
   * [2609.10728 Towards a Deterministic Math Solver for Clinical Language Models](https://arxiv.org/html/2609.10728v1)
     * LLM은 산술에 신뢰할 수 없는데 임상 계산기는 숫자 하나가 권고를 바꿈—계산기마다 검증된 함수를 하드코딩하는 표준 대응 대신, **모델은 계산하지 않고 케이스별 Python을 작성해 제한된 로컬 실행기가 결정론적으로 실행**하는 Program-Solve 인터페이스를 MedCalc-Bench Verified(1,100케이스·55계산기)에서 직접 산술과 비교 평가
   * 주간 리뷰 영상(7분)의 관통 주제—신뢰할 수 있는 AI 시스템은 유창한 답이 아니라 **소프트웨어가 검증할 수 있는 산출물(체커블 프로그램·증명·계산)**을 내도록 강제되고 있으며, 남은 난제는 의도를 정밀한 가정으로 번역하고 규칙을 일관되게 적용하는 것
+* [LLMs are making formal software verification feasible at a much larger scale | Anthropic](https://www.anthropic.com/research/formal-verification)
+  * [LLM 기반 형식 검증으로 소프트웨어 정확성 증명의 범위를 넓히다 | digitalbourgeois](https://digitalbourgeois.tistory.com/4101)
+  * Anthropic과 Theorem 협력(2026-10). Claude가 123개 오픈소스 라이브러리·239개 진입점에서 버그를 패치한 뒤 64MB 이하 모든 입력에 크래시가 없음을 Rocq 증명으로 확인—기존 fuzzing 테스트를 형식 명세로 변환해 메모리 안전·종료를 증명, fuzzing이 놓친 버퍼 언더플로·접근 제한 로직 오류 발견. 한계: 증명 하나에 수억 토큰의 비용, RISC-V/Linux 환경 한정, 증명된 명세가 곧 모든 동작의 정확성은 아님
 * [바이브코딩 망가지면 처음부터 만들지 마세요. 수학 검증 도구로 해결하기! | 소스놀이터 - YouTube](https://www.youtube.com/watch?v=xAoB4EqzlyU)
   * 10분(2026-10-27). 24년차 풀스택 개발자가 1년간 하루 10시간 바이브코딩하며 겪은 회귀 버그—AI는 망원경처럼 좁은 곳만 선명히 보므로 코드가 커지면 나무만 보고 고쳐 잘되던 걸 망가뜨림. 테스트 코드가 소스보다 많아져도 수천·수만 상황(순서 바뀔 수 있는 경우 10개면 362만 8,800가지)은 다 못 덮고 개발 속도만 느려짐. Anthropic이 Theorem과 함께 2026-10-22 공개한 연구: 오픈소스 라이브러리 123개를 기계어 수준에서 수학적으로 증명해 239개 지점의 버그를 찾아 고쳤고 일부는 수조 번 테스트로도 못 잡던 오래된 버그, 수정 불필요로 증명된 25개 라이브러리·60개 지점만 공개(악용 우려로 나머지 비공개), 서비스는 신청자 한정
   * 지금 무료로 쓸 수 있는 것: Claude Code용 Proof Skills, Codex용 agent-formalify—티켓 10장에 수십만 명 동시 예매·중복 클릭·결제 미완·네트워크 단절·취소 후 늦은 성공 같은 모든 경우를 따짐. 개발사 실험 5개 버그에서 검증 시간 2.4배·토큰 2.2배 늘지만 커버리지 54%→98%. 버튼·색상 변경엔 과소비라 기본 설치가 아니며, AGENTS.md에 "복잡하거나 동시성 문제가 있을 때만 쓰라"는 지침을 넣어 선택 적용(자작 소놀봇의 Mac·Windows·WSL 간 기능 얽힘에 사용). 빠르게 만드는 건 쉽고, 잘되던 기능을 망가뜨리지 않고 발전시키는 게 진짜 어려움
@@ -8447,6 +8461,7 @@ Artificial Intelligence
   * 터미널 코딩 에이전트(omp). 해시 앵커 편집, 최적화된 도구 하네스, LSP·Python·브라우저·서브에이전트 내장, IDE 통합. TypeScript, 19k+ stars
 * [Onyx — Open-source self-hostable AI chat platform](https://onyx.app/)
   * [onyx](https://github.com/onyx-dot-app/onyx)
+  * [사내 지식을 AI와 연결하는 오픈소스 플랫폼 Onyx의 구조와 주요 기능 | digitalbourgeois](https://digitalbourgeois.tistory.com/4069)
   * 셀프 호스팅 AI 챗 플랫폼. 모든 LLM 지원, 40+ 커넥터, RAG, 커스텀 에이전트, 웹 검색, 코드 인터프리터. SSO/RBAC
 * [openab Helm Chart](https://openabdev.github.io/openab/)
   * [openab: A lightweight, secure, cloud-native ACP harness that bridges Discord and any ACP-compatible coding CLI | openabdev](https://github.com/openabdev/openab)
