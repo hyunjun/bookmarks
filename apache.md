@@ -1398,6 +1398,8 @@ Apache
 * [One Stone, Three Birds: Finer-Grained Encryption @ Apache Parquet™](https://eng.uber.com/one-stone-three-birds-finer-grained-encryption-apache-parquet/)
 * [Demystifying the Parquet File Format | by Michael Berk | Towards Data Science](https://towardsdatascience.com/demystifying-the-parquet-file-format-13adb0206705)
 * [Dremel made simple with Parquet](https://blog.twitter.com/engineering/en_us/a/2013/dremel-made-simple-with-parquet)
+* [why .parquet dominates modern data engineering | Python In Production - YouTube](https://www.youtube.com/watch?v=6Qkzfwk0W58)
+  * 〈Data Engineering for ML and AI〉 시리즈 1장(2장은 Apache Iceberg). NYC 택시 데이터로 Parquet이 현대 데이터 엔지니어링의 표준이 된 이유를 파일 구조부터 설명—행 vs 열 저장, 파일에 내장된 타입, 메타데이터를 담는 푸터, 인코딩(딕셔너리·RLE 등), 페이지, 압축(zstd 등), 쿼리 조건을 파일 읽기 단계로 내리는 predicate pushdown, row group 크기 선택, 짧은 역사(Dremel·Twitter·Cloudera), 행 저장 vs 컬럼 저장 비교. Polars·DuckDB·PyArrow·pandas 맥락
 * [FastLanes](https://fastlanes.io/)
   * [FastLanes: Next-Gen Big Data File Format](https://github.com/cwida/FastLanes)
   * [FastLanes – 차세대 빅데이터 파일 포맷 | GeekNews](https://news.hada.io/topic?id=25426)
