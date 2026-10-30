@@ -217,6 +217,8 @@ Monitoring
   * [**17. 로깅 시스템 구축 – 로키 – 제니퍼소프트**](https://jennifersoft.com/ko/blog/tech/2024-01-17-kubernetes-17/)
   * [loki logcli 사용법](https://catchv.tistory.com/102)
   * [당근에서 Loki 1년간 운영기 | 당근 SRE 밋업 4회 - YouTube](https://www.youtube.com/watch?v=pzvzOmZOKWc)
+  * [로그 수집기가 왜 자꾸 OOM으로 죽었나 - 누적 드롭 8.9억 건을 기록한 로그 파이프라인을 고친 이야기 | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/no-more-oom-log-pipeline)
+    * 2026-10-27, 카카오페이손해보험. Kubernetes에서 Alloy(수집)+Loki(적재·인덱싱)를 운영하다 수집기가 OOM으로 반복 종료되고 누적 드롭 8.9억 건 발생—원인은 Alloy clustering 미활성화로 인한 중복 수집, API 방식 수집, 높은 레이블 카디널리티. clustering 활성화·파일 방식 전환·레이블 카디널리티 최적화로 메모리 증설 없이 Loki CPU 98% 감소, 쿼리 P99 90% 개선, 활성 스트림 78% 감소
 * [oncall: Developer-friendly incident response with brilliant Slack integration](https://github.com/grafana/oncall)
   * [Introducing Grafana OnCall OSS, on-call management for the open source community | Grafana Labs](https://grafana.com/blog/2022/06/14/introducing-grafana-oncall-oss-open-source/)
 * [phlare: 🔥 horizontally-scalable, highly-available, multi-tenant continuous profiling aggregation system](https://github.com/grafana/phlare)
