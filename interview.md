@@ -1214,6 +1214,9 @@ Interview
 * [ddongule-simple-portfolio: Portfolio for Developers! Make your own portfolio Simple and Fast!](https://github.com/ddongule/ddongule-simple-portfolio)
 * [Dopefolio 🔥 - Portfolio Template for Developers 🚀](https://github.com/rammcodes/Dopefolio)
   * [Dopefolio - 개발자를 위한 포트폴리오 템플릿 오픈소스 | GeekNews](https://news.hada.io/topic?id=5024)
+* [Dossier · Your Job Search, On Your Own Server](https://dossier.aien.me/)
+  * [dossier: A self-hosted job search app that writes tailored resumes and cover letters from your profile | AienTech](https://github.com/AienTech/dossier)
+  * 1인용 셀프호스팅 구직 앱(Next.js 16+PostgreSQL 18, AGPL-3.0, Docker 이미지). 경력을 프로필 하나로 관리해 12종 테마 이력서 PDF로 만들고, 공고를 붙이면 요구사항을 추출해 프로필과 매칭한 뒤 **프로필에 있는 사실만으로** 맞춤 이력서·자기소개서를 작성(없는 경험은 지어내지 않고 gap으로 표시), 채팅으로 다듬고 버전 되돌리기. JSearch(LinkedIn·Indeed)·Adzuna·FreeHire 공고 검색, YC·HN "Who is hiring" 스타트업 랭킹, 하루 한 번 새 공고를 점수화하는 잡 에이전트(지원은 절대 자동 전송 안 함), 지원 현황 보드·퍼널 대시보드·캘린더. 모델은 Ollama·LM Studio 로컬 또는 OpenAI 호환·Anthropic·Mistral API, Claude 커넥터·Gmail·Calendar 연동 선택
 * [getting-a-gig: Guide for getting a gig as a tech student](https://github.com/cassidoo/getting-a-gig)
 * [graduate-resume: 취업/이직을 준비하시는 분들을 위해 F-Lab 수료생들의 이력서를 무료로 배포합니다](https://github.com/f-lab-edu/graduate-resume)
 * [itresumeservice.com](http://www.itresumeservice.com/)
