@@ -716,6 +716,11 @@ Vision
   * Ollama의 비전-언어 모델(LLaVA·Llama 3.2 Vision·Granite·Moondream·MiniCPM-V)로 이미지·PDF에서 텍스트 추출. 마크다운·JSON·구조화 출력, 배치 처리, Streamlit 웹 UI. Python 패키지
 * [OpenOCR: General-OCR toolkit for text detection, recognition, formula/table recognition, document parsing](https://github.com/Topdu/OpenOCR/)
   * Fudan FVL Lab. OpenDoc-0.1B(초경량 문서 파싱), UniRec-0.1B(텍스트+수식 통합 인식), SVTRv2(ICCV 2025)
+* [OXR — Turn documents into Agent-Friendly data | SoMark](https://somark.ai/oxr)
+  * [OXR: An open-source document parsing model with SOTA accuracy and speed, using an RSI loop during post-training | SoMarkAI](https://github.com/SoMarkAI/OXR)
+  * [OXR: AI 기반 문서 파서 — PDF·이미지를 레이아웃 보존 Markdown/JSON으로 | digitalbourgeois](https://digitalbourgeois.tistory.com/4060)
+  * SoMark 팀의 오픈소스 문서 파싱 모델 OXR(Optical Everything Recognition, Python, 2.6k stars). PDF·문서 이미지를 레이아웃 좌표가 포함된 Markdown/JSON으로 바꿔 에이전트가 쓰기 좋은 데이터로 만듦—처음부터 사전학습했고 후학습에 재귀적 자기개선(RSI) 루프를 문서 파싱에 처음 적용. 1.3B 파라미터로 olmOCR-Bench 87.84·OmniDocBench 97.18·DocParsingBench 87.76로 3개 벤치마크 1위(표 파싱에서 특히 큰 격차)이자 RTX PRO 6000 속도 테스트에서 오픈소스 1위(개발자 공개 수치). 캡션·각주·수식(LaTeX)·표(HTML/Markdown)·스탬프·화학식(mhchem)·화학 구조(SMILES)·코드 블록 등 13종 요소를 바운딩 박스와 함께 인식
+  * 레이아웃 분석 모듈을 독립·플러거블로 분리한 첫 사례—내장 레이아웃 모델을 도메인별 커스텀 모델로 바꿔도 OXR의 내용 인식·읽기 순서는 그대로 쓸 수 있음. 무료 API와 온라인 데모 제공, 로컬 배포는 Linux·BF16 지원 NVIDIA GPU 24GB+·CUDA 13.0·Python 3.12
 * [PaddleOCR: Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices)](https://github.com/PaddlePaddle/PaddleOCR)
   * [PaddleOCR-VL Upstage만큼 강력합니다 - YouTube](https://www.youtube.com/watch?v=nL88A59qBC0)
     * [PaddleOCR-VL 문서 파싱은 이걸로 끝냅니다 | 박상길](https://www.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_paddleocr-vl-%EB%AC%B8%EC%84%9C-%ED%8C%8C%EC%8B%B1%EC%9D%80-%EC%9D%B4%EA%B1%B8%EB%A1%9C-%EB%81%9D%EB%83%85%EB%8B%88%EB%8B%A4-activity-7385441384272596993-OJZY)
