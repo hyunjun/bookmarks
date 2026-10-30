@@ -9985,6 +9985,8 @@ Programming
 * [E2E 자동화 리팩토링으로 만든 QA 시스템 (feat. 하루 30회 배포) - 라포랩스 팀블로그](https://blog.rapportlabs.kr/80433)
 * [테스트 실패 메시지, 이렇게 강제했습니다 - YouTube](https://www.youtube.com/watch?v=nWJMmteXmyQ)
   * 포프TV. "테스트 실패"·"값이 다름" 같은 메시지로는 못 고침—문제는 개발자가 아니라 구조. POCU는 실패 메시지를 문자열로 못 받게 막고 IStringProvider+MSG() 구조로 강제해 실패 이유를 정형화. "사람을 믿지 말고 시스템으로 해결"하는 설계
+* [Separate Protocol Logic from I/O for Deterministic Tests • Somtochi Onyekwere • Bug Bash EU 2026 | GOTO Conferences - YouTube](https://www.youtube.com/watch?v=DhmcJK2nCK0)
+  * Bug Bash EU 2026(Antithesis 주최) 라이트닝 토크, Fly.io Staff Software Engineer. 원제 "Separating Protocol Logic from I/O for Deterministic Testing"—프로토콜 로직을 주변 I/O와 분리해 두면 결정론적으로 테스트할 수 있다는 내용. 2026-10-30 최초 공개 예정 시점에 북마크(자막 미확인)
 * [2402.11048 Towards identifying and minimizing customer-facing documentation debt](https://arxiv.org/abs/2402.11048)
   * documentation-related defects contribute to many bug reports -> documentation debt
   * documentation defects
