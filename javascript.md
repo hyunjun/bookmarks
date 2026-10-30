@@ -5739,6 +5739,9 @@ Javascript
 * [eslint-plugin-react-usememo: memo/useMemo/useCallback all the things!](https://github.com/arthurgeron/eslint-plugin-react-usememo)
 * [Evergreen](https://evergreen.segment.com/)
   * [Evergreen v5 - React UI 프레임워크 | GeekNews](https://news.hada.io/topic?id=3745)
+* [Extend UI: React components for PDF, DOCX, XLSX, and CSV viewers](https://www.extend.ai/ui)
+  * [ui: Open-source components for document agents, user-facing document flows, and internal tools | Extend](https://github.com/extend-hq/ui)
+  * 문서 에이전트·문서 중심 UI·내부 도구용 오픈소스 React 컴포넌트 14종(MIT). PDF/DOCX/XLSX 뷰어, 바운딩 박스 인용, 파일 업로드·썸네일, 전자서명, 문서 분할, 레이아웃 블록, Finder식 파일 브라우저. shadcn 레지스트리로 소스를 설치해 직접 수정하는 방식(React+Tailwind). Extend 내부 컴포넌트 계층에서 출발해 수백만 페이지 처리 워크플로에서 운영 중
 * Ext JS
   * [Ext JS 6 가이드](https://wikidocs.net/book/372)
 * [Flexbox.io](http://flexbox.io)
