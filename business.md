@@ -4024,6 +4024,9 @@ Business
   * [PM은 LLM을 어디까지 이해해야 할까 | 요즘IT](https://yozm.wishket.com/magazine/detail/3784/)
   * [AI 기능은 '프롬프트'가 아니라 '시스템'으로 만든다 | 요즘IT](https://yozm.wishket.com/magazine/detail/3797/)
   * 김영욱 〈AI 프로덕트 매니지먼트〉 시리즈 3편. 1편: 결정론 vs 확률론, 에어캐나다 챗봇 사건, 정확도 100% KPI 대신 오류 분포 관리. 2편: PM이 알아야 할 LLM 5개념(토큰·컨텍스트·추론·RAG·에이전트), 한국어가 영어 대비 1.5~2배 토큰. 3편: AI 기능 = 시스템(입력처리·프롬프트·출력처리·오케스트레이션 4레이어), 신뢰 설계 3패턴(출처·확신도·휴먼 에스컬레이션), Retry→Fallback→Escalation 연착륙
+* [Mental Models in the Agentic Era | Product Mindset](https://productmindset.substack.com/p/mental-models-in-the-agentic-era)
+  * [AI 에이전트 시대의 제품 기획: 15가지 핵심 사고 모델 | digitalbourgeois](https://digitalbourgeois.tistory.com/4100)
+  * 2026-10-19. 경제학·제품 관리·조직 이론의 기존 멘탈 모델이 에이전트 시대에도 유효하지만 다른 답을 낸다는 글—5개 범주 15개 모델. 경제성(제번스 역설: 지능이 싸질수록 사용량 증가, 비용 구조 변화), 확률 시스템 설계(Jagged Frontier, 단계별 성공률이 높아도 복합되면 전체 작업 성공률은 낮아지는 오류 복합, "평가 스위트가 새로운 제품 명세서"), 신뢰 관리(자율성 다이얼, 되돌릴 수 없는 일방향 결정), 지속 가능성(차기 모델로 테스트, 데이터 플라이휠), 인력 운영—생성 속도가 빨라지면 검토가 새 병목이 되고 "병목이 구축에서 의사결정으로 이동", 사람의 판단·선택 능력이 제품 경쟁력의 핵심
 
 # Product Owner
 * [PO가 어떻게 일하냐고요?아니 PO가 뭐냐고요? 요기요 프로덕트 오너의 출근 브이로그ㅣ출근로그 - YouTube](https://www.youtube.com/watch?v=gVE_4pRjeJ4)
