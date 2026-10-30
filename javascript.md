@@ -2841,6 +2841,9 @@ Javascript
 * [slash: A collection of TypeScript/JavaScript packages to build high-quality web services](https://github.com/toss/slash)
 * [Smartcrop.js implements an algorithm to find good crops for images](https://github.com/jwagner/smartcrop.js/)
   * [Smartcrop.js - 콘텐츠 인식해서 이미지 크롭하기 | GeekNews](https://news.hada.io/topic?id=4958)
+* [Social SDK, a typed toolkit for social platforms](https://social-sdk.dev/)
+  * [social-sdk: Typed TypeScript SDK for direct and managed social platform integrations, with capability checks, explicit outcomes, and deterministic testing | opencoredev](https://github.com/opencoredev/social-sdk)
+  * 1인 창업자·소규모 팀이 앱에 소셜 기능을 넣을 때 쓰는 오픈소스 TypeScript SDK(`@opencoredev/social-sdk`, Node 22.12+/Bun 서버 사이드, 800 stars). X·Threads·Bluesky·YouTube·TikTok·Instagram·LinkedIn 직접 어댑터 또는 Zernio·Post for Me·PostFast·Postiz·Buffer 매니지드 백엔드 선택, 플랫폼별 타입드 capability manifest와 서브패스 import, 목적지별로 complete·processing·uncertain·failed를 구분하는 독립 결과, 자격 증명·과금 호출 없이 계약 테스트를 돌리는 결정론적 mock 백엔드, 어댑터 탐색·capability 점검·요청 검증용 오프라인 CLI
 * [socketcluster - Highly scalable realtime microframework http://socketcluster.io ](https://github.com/SocketCluster/socketcluster)
 * [Solid · Reactive Javascript Library](https://www.solidjs.com/)
   * [ReactJS vs SolidJS - YouTube](https://www.youtube.com/watch?v=ZR7tdZ51MQ8)
@@ -5807,6 +5810,9 @@ Javascript
   * [Hermes 적용해봤어요!](https://www.notion.so/ffc3ef483a494b759c920f14bfa09c67)
 * [Hook Player 본인이 좋아하는 유튜브 링크로 자신만의 플레이 리스트를 만들고, 데스크탑, 모바일 어느 환경에서든 사용할 수 있습니다](https://indiemakers.net/review/hookplayer)
   * [github.com/dev4us/hook-player](https://github.com/dev4us/hook-player)
+* [interior.dev — Free React Micro-Interaction Components](https://www.interior.dev/)
+  * [interior: micro-interactions for react, built for the half-second after a click | ddoemonn](https://github.com/ddoemonn/interior)
+  * "클릭 후 0.5초"를 위한 React 마이크로 인터랙션 모음(TypeScript, 1.2k stars). 패키지가 아니라 `components/interior/`의 파일 하나를 복사해 쓰는 방식—각 파일이 동작을 전부 가진 헤드리스 훅(`useX`, 클래스명 무관)과 그 훅 위의 예시 스타일 컴포넌트(`X`)를 내보내 리스킨 비용은 클래스만. 의존성은 motion 하나. 라벨이 바뀔 때 크기가 튀는 버튼, 로딩 중 점프하는 리스트, 탭 포커스를 잃어 멈추는 드래그처럼 아무도 버그로 올리지 않지만 인터페이스 신뢰를 깎는 "마지막 20%"를 프레임 단위로 마무리—무언가 일어나지 않으면 움직이지 않고, 물리 과정을 모사하는 모션은 그 과정을 따름
 * [jotai: 👻 Primitive and flexible state management for React](https://github.com/pmndrs/jotai)
   * [Atomic state management - Jotai – 화해 블로그 | 기술 블로그](http://blog.hwahae.co.kr/all/tech/tech-tech/6099/)
   * [jotai 커스텀 훅 테스트 하는 방법](https://velog.io/@juunini/jotai-%EC%BB%A4%EC%8A%A4%ED%85%80-%ED%9B%85-%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95)
