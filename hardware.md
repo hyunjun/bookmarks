@@ -151,6 +151,9 @@ Hardware
 * [2607.08993 StreamDQ: Near-Memory Weight DeQuantization in Custom HBM for Scalable AI Inference Acceleration](https://arxiv.org/html/2607.08993)
   * [Deepseek v4-Flash를 DGX spark에 올리기 | DongHyuk Im | LinkedIn](https://www.linkedin.com/posts/dhihm_deepseek-v4-flash%EB%A5%BC-dgx-spark%EC%97%90-%EC%98%AC%EB%A6%AC%EA%B8%B0-%EC%96%BC%EB%A7%88-%EC%A0%84-share-7489999069386469376-mxiR/)
   * SK하이닉스(Minki Jeong 외, 2026-07). 양자화된 가중치를 커스텀 HBM 근처에서 역양자화(near-memory dequantization)해 AI 추론 가속을 확장. LinkedIn 맥락: DRAM이 적은 DGX Spark에 DeepSeek V4 Flash를 SSD expert streaming으로 올리면 초당 1토큰, H100 4장 GLM-5.2는 약 15 tok/s—HBM expert 캐시·streaming/연산 overlap·expert 양자화/역양자화를 실험하다 PCIe 병목 안에서 "DRAM→HBM 로드 시점에 H/W로 dequant"를 떠올렸는데 마침 이 논문을 발견(작은 모델일수록 효과가 클 것이라는 평)
+* [aec-model-bridge: Open-source Revit MCP server: let Claude and other AI assistants read and edit BIM models, with human approval on every change | Sam-AEC](https://github.com/Sam-AEC/aec-model-bridge)
+  * 열어 둔 Revit 모델(2024~2027)에 대해 Claude·Codex·Cursor 등 MCP 클라이언트로 질문하고 수정하는 오픈소스(Python MCP 서버+네이티브 Revit 애드인, GPL-3.0+상용 라이선스). 읽기 도구는 즉시 실행, 모델 변경은 기본적으로 사람이 계획을 승인한 뒤에만—BIM 코디네이터·매니저가 스크립트 없이 모델 품질 점검·영향 요소 찾기·파라미터 수정 준비를 AI에 맡기되 모든 변경을 통제하는 용도. 같은 서버로 IFC 파일 검사, Rhino·Grasshopper 자동화, Speckle 연결. dev 브랜치 기준 mock 모드 도구 241개
+  * 프리릴리스(2026-10, 90 stars)—실제 Revit 세션에서 검증된 것이 아직 없고(Python 서버는 mock 프로바이더 테스트, CI는 애드인 컴파일만) README가 설명하는 Revit 동작은 전부 UNVERIFIED로 취급하라는 경고. 프로젝트 복사본에서 먼저 시험할 것
 * [Cognitum — AI Agent Platform: Seed Device, MCP Tools & Developer SDK](https://cognitum.one/)
   * WASM 런타임·암호화 ID·벡터 스토리지 내장 Seed 하드웨어 + Rust/Node.js/Python SDK
 * [gpu-unlock: Unlock FP/BF16 instruction issue rate on Nvidia 3000's cards to their professional equivalents | Zagitta](https://github.com/Zagitta/gpu-unlock)
@@ -356,6 +359,8 @@ Hardware
 * [RuView: Edge AI perception — WiFi signals to human pose estimation, vital signs, presence detection](https://github.com/ruvnet/RuView)
   * [ruvector: WiFi CSI signal processing framework](https://github.com/ruvnet/ruvector/)
   * [Cognitum.One — Intelligence Where the Physical World Happens (RuView)](https://cognitum.one/ruview)
+  * [RuView: Open-Source WiFi Sensing That Sees Through Walls | DevPik](https://www.devpik.com/open-source/ruview)
+    * 2026-10 기준 101k stars·13k forks. WiFi CSI로 카메라·웨어러블 없이 벽 너머·어둠 속 존재 감지·움직임 추적·생체 신호 모니터링을 실시간 재구성—ESP32-S3 메시 노드(약 $9)·Raspberry Pi에서 클라우드 없이 로컬 처리, Rust+RuVector 스파이킹 신경망, 4-bit 양자화 8KB 모델, MQTT·HAP-1.1(Apple Home)·Matter 연동, MIT
   * WiFi CSI 분석으로 카메라 없이 인체 포즈 추정(17 키포인트), 호흡/심박 모니터링, 벽 통과 감지. ESP32-S3(~$8) 기반, 60개 WASM 엣지 모듈
 
 # Javascript
