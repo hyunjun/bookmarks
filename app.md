@@ -88,6 +88,9 @@ App
 * [Browsh](https://www.brow.sh/) a fully-modern text-based browser
 * [budget_tracker_tui: A simple TUI budget tracker app built in rust. Designed to track income and expenses and help visualize and gather basic insights from your transactions](https://github.com/Feromond/budget_tracker_tui) CLI 가계부
 * [calcure: Modern TUI calendar and task manager with minimal and customizable UI](https://github.com/anufrievroman/calcure)
+* [Cal.diy — The community-driven, open-source scheduling platform](https://www.cal.diy/)
+  * [cal.diy: Scheduling infrastructure for absolutely everyone | calcom](https://github.com/calcom/cal.diy)
+  * Cal.com에서 엔터프라이즈·상용 코드를 모두 걷어낸 100% MIT 커뮤니티 에디션(TypeScript, Next.js·tRPC·React, 50k stars)—Teams·Organizations·Insights·Workflows·SSO/SAML 등 EE 기능 없음, 라이선스 키·Cal.com 계정 불필요, "Open Core" 분리 없는 전체 오픈소스. 호스팅판 없이 셀프호스팅 전용이며 개인·비프로덕션 용도 권장("use at your own risk")
 * [Citadel: manage your ebooks without frustration](https://citadel.page/)
   * [citadel: Manage your ebook library without frustrations. Calibre compatible](https://github.com/everydaythingssoftware/citadel)
   * 빠르고 미니멀한 데스크톱 전자책 라이브러리 관리 앱—서가·메타데이터·표지·검색. 임포트·서버 설치 없이 기존 Calibre 라이브러리를 열면 새 책·편집이 Calibre와 공유됨. Rust, MIT
@@ -902,6 +905,9 @@ App
 * [“우리도 있다” 업무용 오픈소스 화상회의 툴 10선 - ITWorld Korea](https://www.itworld.co.kr/news/173069)
 * [기획자가 알면 좋은 협업 툴 선정 방법 | 요즘IT](https://yozm.wishket.com/magazine/detail/1727/)
 * [국산 협업툴은 슬랙과 팀즈의 대안이 될까? | 요즘IT](https://yozm.wishket.com/magazine/detail/3366/)
+* [Chatwoot — Open-source customer engagement platform](https://www.chatwoot.com/)
+  * [chatwoot: Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc.](https://github.com/chatwoot/chatwoot)
+  * Intercom·Zendesk·Salesforce Service Cloud의 오픈소스 셀프호스팅 대안(Ruby on Rails, 39k stars). 웹사이트 라이브 채팅·이메일·Facebook·Instagram·Twitter·WhatsApp·Telegram·Line 등을 하나의 옴니채널 인박스로 모으고, AI 에이전트 Captain이 자주 묻는 질문에 자동 응답해 상담 부담을 줄임. 헬프센터 포털(FAQ·가이드 게시), 비공개 메모·@멘션, 라벨, 캔드 리스폰스, 상담원 가용성 기반 자동 배정, 키보드 단축키·커맨드 바
 * [drawnix-seedream: Drawnix whiteboard application - open source collaborative drawing tool with mind maps, flowcharts, and free drawing capabilities | joeseesun](https://github.com/joeseesun/drawnix-seedream)
   * [drawnix: 开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等 | plait-board](https://github.com/plait-board/drawnix)
   * PingCode의 Plait 프레임워크 기반 올인원 오픈소스 화이트보드 Drawnix(마인드맵·플로차트·자유 그리기·이미지 삽입, 플러그인 아키텍처, PNG/`.drawnix` 내보내기, 무한 캔버스, Mermaid→플로차트·Markdown→마인드맵 변환, 모바일 대응)에 ByteDance 豆包/Seedream 이미지 생성 API를 붙인 변형. Vercel API 라우트로 이미지 생성·이미지 프록시 엔드포인트, 이미지→이미지 대화창, 최대 20장 동시 생성(2025-09 커밋). TypeScript, MIT
@@ -2770,6 +2776,9 @@ App
   * [맥 화면 녹화 소리 포함 시키는 방법 / Big Sur / M1](https://creavart.tistory.com/392)
 * [boltstream: Boltstream Live Video Streaming Website + Backend](https://github.com/benwilber/boltstream)
 * Canva [이미지 편집 서비스 캔바(Canva)](https://www.44bits.io/ko/post/preparing-wtd-meetup-without-a-designer-nor-photoshop#%EC%9D%B4%EB%AF%B8%EC%A7%80-%ED%8E%B8%EC%A7%91-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%BA%94%EB%B0%94canva)
+* [Cap — Beautiful, shareable screen recordings](https://cap.so/)
+  * [Cap: Open source Loom alternative. Beautiful, shareable screen recordings | CapSoftware](https://github.com/capsoftware/cap)
+  * Loom의 오픈소스 대안(Rust·Tauri, macOS·Windows·Linux 네이티브 앱+웹 대시보드, 24k stars). 화면·카메라·마이크를 녹화해 링크 공유 또는 영상 내보내기—녹화 중 업로드해 멈추는 순간 링크가 나오는 Instant Mode, 로컬 녹화 후 배경·줌·트리밍·캡션을 편집하는 Studio Mode. 저장은 Cap Cloud·자체 S3 호환 버킷·로컬·완전 셀프호스팅 중 선택, 비밀번호·커스텀 도메인·비공개 공유, 댓글·반응·전사·시청 분석·팀 워크스페이스, Cap AI가 제목·요약·챕터·캡션 자동 생성, Loom 영상 가져오기. 제품 데모·버그 리포트·온보딩·비동기 스탠드업용
 * [ChatCut · AI Video Editor | Edit Videos with Prompts](https://chatcut.io/)
   * 프롬프트로 영상을 편집하는 AI 비디오 에디터
 * [Cleanup.pictures - Remove objects, people, text and defects from any picture for free](https://cleanup.pictures/)
@@ -2977,6 +2986,9 @@ App
 * anytype [The Everything App](https://anytype.io/)
   * [Notion Vs Obsidian Vs Anytype - Why I Use ALL of them in 2024 (Complete Review) - YouTube](https://www.youtube.com/watch?v=MGuJMASyDUc)
 * [AppFlowy.IO](https://www.appflowy.io/) notion alternative, implemented by rust
+  * [AppFlowy — AI collaborative workspace](https://appflowy.com/)
+  * [AppFlowy: Bring projects, wikis, and teams together with AI. The AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative | AppFlowy-IO](https://github.com/appflowy-io/appflowy)
+  * 2026-10 현황(Dart/Flutter+Rust, 78k stars): 프로젝트·위키·팀을 AI와 함께 묶는 협업 워크스페이스로 포지셔닝—데이터 통제권을 잃지 않는 오픈소스 Notion 대안, 도메인은 appflowy.com
 * [Boostnote, the opensource note app for developer. https://b00st.io](https://github.com/BoostIO/Boostnote)
 * [Briefer](https://briefer.cloud/)
   * [Briefer – 일정, SQL, 내장 LLM이 포함된 멀티플레이어 노트북 | GeekNews](https://news.hada.io/topic?id=16012)
@@ -3252,6 +3264,10 @@ App
     * [옵시디언 깃허브 연동하기 - Obsidian Git Plugin](https://alive-wong.tistory.com/65#google_vignette)
     * [Obsidian 커뮤니티 플러그인 추천 및 Git을 활용한 연동법 — ERROR DENY](https://dnai-deny.tistory.com/96)
     * [Obsidian-git으로 컴퓨터-안드로이드 연동하기](https://velog.io/@rethinking21/Obsidian-git%EC%9C%BC%EB%A1%9C-%EC%BB%B4%ED%93%A8%ED%84%B0-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0)
+  * [ideaverse-maps: The home for Maps of the Ideaverse | nickmilo](https://github.com/nickmilo/ideaverse-maps)
+    * [Maps of the Ideaverse | Obsidian community plugin](https://community.obsidian.md/plugins/ideaverse-maps)
+    * [Obsidian Just Got a Universe Mode | Linking Your Thinking with Nick Milo - YouTube](https://www.youtube.com/watch?v=TaMHh9ki114) 플러그인 시연 소개 영상
+    * Linking Your Thinking의 Nick Milo가 만든 무료 오픈소스 Obsidian 플러그인(JavaScript, 노트를 바꾸지 않음). 볼트의 모든 노트를 종류·링크 방식에 따라 자리를 정해 여러 인터랙티브 맵으로 시각화—Emergence(Idea Emergence 5단계 띠, 생성 연도·폴더 기준 배치, Space-Time·Planetarium 변형), Ideaverse(3D 구체, 허브·맵이 두드러짐), Gravity(5단계를 동심원으로), Starfield(큰 허브가 은하 핵이 되고 노트가 가장 가까운 허브로 모임, 3D·타임랩스), Sensemakers(Synthesizer·Producer·Inner Guide·Creative 4분면), 기본 graph view보다 훨씬 빠른 Obsidian 그래프 재구현, Chord·Corona·Tesla·Treemap·Mosaic·Tree. Play를 누르면 볼트가 자라는 과정을 재생, 테마 Play·Soft Paper·LYT Mode
   * [JSON Canvas — An open file format for infinite canvas data](https://jsoncanvas.org/)
     * [NEW 🎉 Obsidian JSON Canvas (Game Changer) - YouTube](https://www.youtube.com/watch?v=c3NSxQmKCss)
     * [Announcing JSON Canvas: an open file format for infinite canvas data - Obsidian](https://obsidian.md/blog/json-canvas/)
