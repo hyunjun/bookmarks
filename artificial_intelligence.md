@@ -1847,6 +1847,12 @@ Artificial Intelligence
   * 작업 생성→에이전트 자동 생성→코드 작성→결과 제출→PR 병합까지 자동화. 개발자는 작업 정의와 검증에 집중
   * [Running OpenAI Symphony with Claude Code](https://www.sapsaldog.com/posts/symphony-with-claude-code)
     * Symphony를 포크하여 Claude Code 백엔드 추가. JSON-RPC 2.0으로 Claude Code 래핑, GitHub Issues 지원, 다중 백엔드 추상화
+* [OpenBot: Run a team of AI agents on your computer](https://openbot.run/)
+  * [openbot: A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration | nightly-labs](https://github.com/nightly-labs/openbot)
+  * [OpenBot: Free Desktop App for Persistent AI Agent Teams with Claude Code, OpenCode | AI Stack Engineer - YouTube](https://www.youtube.com/watch?v=luqFKMdbw3w)
+    * 13분(2026-10-26). Synthetify Labs의 무료 로컬 퍼스트 데스크톱 앱 소개—이미 내는 플랜으로 Codex·Claude Code·Gemini·Grok·OpenCode·Cursor·Cline, Ollama·LM Studio 로컬 모델, 임의 ACP 에이전트를 상주 에이전트로 운영. Grok Bot 비교 페이지 있음
+  * 상주하는 AI 팀원들을 위한 로컬 퍼스트 데스크톱 워크스페이스(TypeScript, macOS·Windows·Linux AppImage, 4.2k stars). 로컬 Codex App Server·Claude Code, ACP로 Grok CLI·OpenCode·Gemini·Cursor CLI·Cline CLI, OpenAI 호환 엔드포인트와 커스텀 ACP 에이전트 지원—에이전트마다 독립 세션·워크스페이스·대화를 주고 FIFO 메시지 큐(일시정지·재개·취소·크래시 안전), 에이전트 간 메시지·반응·이미지·파일 전송, 한 명의 태스크 소유자와 명시적 위임이 있는 공유 채널 채팅, 에이전트가 열고 조작하는 내장 브라우저, 선택적 Computer Use(`cua-driver`), 긴 스레드가 모델 윈도를 소진하기 전 자동 컴팩션. 워크스페이스·대화·파일·브라우저 데이터는 로컬 보관(오프라인 전용은 아님—각 프로바이더에 연결)
+  * 개발 프리뷰 경고: 에이전트가 `danger-full-access`·`approvalPolicy: never`로 돌아 첫 실행 동의 뒤에는 동작별 확인 없이 파일 수정·명령 실행·네트워크·브라우저 제어를 하므로 신뢰하는 에이전트·작업만 돌리고 백업을 둘 것
 * [OpenBrowser — Automate browser tasks in plain text](https://docs.openbrowser.me/)
   * [openbrowser-ai: OpenBrowser is a framework for intelligent browser automation](https://github.com/billy-enrizky/openbrowser-ai)
   * 평문 지시로 브라우저 작업을 자동화하는 프레임워크—직접 CDP(Chrome DevTools Protocol) 통신과 코딩 에이전트 스타일 루프를 결합. Python, MIT
@@ -1936,6 +1942,8 @@ Artificial Intelligence
   * 셀프호스팅 Slack AI 에이전트. 스레드를 읽고 질문에 답하고 도구를 호출하며 리치 결과를 대화에 렌더링. CopilotKit 봇 SDK 기반—런타임·모델 선택·도구 통합을 완전히 소유, 좌석당 과금·벤더 락인 없음. 인간 승인 워크플로우 지원
 * [openui: The Open Standard for Generative UI | thesysdev](https://github.com/thesysdev/openui)
   * [OpenUI 1.0: Intelligent UI for every agent | Thesys - YouTube](https://www.youtube.com/watch?v=GG8RdSrikwg)
+  * [OpenUI - The Open Standard for Generative UI](https://www.openui.com/)
+    * 공식 사이트·문서·Playground. OpenUI Lang이 JSON 기반 포맷 대비 토큰 최대 67% 절감·3배 빠른 UI 생성을 내세우고, 무료 오픈소스 외에 프로덕션 신뢰성용 Gateway 서비스 제공
   * 모델 출력을 텍스트가 아니라 UI로 다루는 풀스택·프레임워크 비종속 Generative UI 프레임워크(openui.com). 핵심은 **OpenUI Lang**—스트리밍 우선의 간결한 UI 생성 언어로, 허용할 컴포넌트 라이브러리에서 프롬프트 지시를 생성하고 토큰이 도착하는 대로 점진 렌더링. React·Vue·Svelte·Angular 1급 런타임(React는 차트·폼·테이블·레이아웃 내장 컴포넌트 라이브러리 추가 제공), 챗·앱 표면 공용. `npx @openuidev/cli create`. TypeScript, MIT, 12.8k stars
 * [OpenViking: Open-source context database engineered for AI Agents](https://github.com/volcengine/OpenViking)
   * [OpenViking 공식 사이트](https://openviking.ai/)
@@ -5419,6 +5427,10 @@ Artificial Intelligence
   * [How to Secure & Run AI Agents with NVIDIA OpenShell - NVIDIA Developer - YouTube](https://www.youtube.com/watch?v=GYYP-eW58ug)
     * 이미 돌리는 에이전트를 코드나 하네스를 바꾸지 않고 OpenShell 안에 넣는 5분 튜토리얼. 오케스트레이터가 런타임을 먼저 만들고 그 안에서 하네스를 띄우면 도구·MCP 서버·서브에이전트가 같은 정책·자격 증명·감사 통제를 물려받음. 파일시스템·네트워크·프로세스 정책을 바이너리·목적지·메서드·경로 단위로 설정하고, 막힌 동작에 대한 범위 한정 정책 변경을 승인하면 샌드박스 재시작 없이 반영
     * 상한선 안의 요청은 자동 승인하되 에이전트가 스스로 권한을 넓히지 못하게 하는 정책 자문, 부모 한도를 넘지 못하는 단기 서브에이전트 런타임, 팀 단위 샌드박스 그룹·Kubernetes 배포·고가용성·중앙 로그와 감사 기록, 정책 파서·컴퓨트 드라이버·자격 증명 저장소용 확장 API까지
+  * [How to sandbox AI agents with OpenShell | AgentOps Unlocked | Red Hat - YouTube](https://www.youtube.com/watch?v=sXXYJQ-3mXs)
+    * 4분(2026-10-20), Red Hat Developer Advocate Legare Kerrison. Hermes·OpenClaw 같은 자율 에이전트가 읽는 문서·메일에 숨은 프롬프트 인젝션이 환경 변수 노출·무단 curl을 시키는 피싱 시나리오를 OpenShell로 봉쇄—3개 구성요소(게이트웨이 컨트롤 플레인+Docker·Podman·Kubernetes 플러거블 컴퓨트 백엔드, 샌드박스 안의 supervisor와 기본 거부 네트워크 프록시, 정책 관리·실시간 모니터링 CLI). OpenCode 코딩 에이전트의 자격 증명 유출 시도와 미검증 웹 요청이 차단되는 데모, OpenShift에서 Kata Containers로 돌리면 전용 커널의 경량 VM 격리로 호스트 커널 공유 탈출 위험까지 막음
+  * [NVIDIA Just Built a Sandbox That Knows When to Say No (Openshell) | Better Stack - YouTube](https://www.youtube.com/watch?v=SbwckhZkPGs)
+    * 8분(2026-10-28). "Docker만으로 AI 코딩 에이전트를 안전하게 둘 수 있나"에서 출발—Mac에 OpenShell을 설치하고 보안 정책을 훑은 뒤 라이브 데모로 무단 파일 접근 차단, 기본 거부 네트워크, GitHub API 읽기 전용만 허용하고 그 외 요청은 차단, 자격 증명 주입으로 API 키를 에이전트에 노출하지 않는 보호, Z3로 정책을 검증하는 런타임 보안까지 확인
   * 파일 읽기·패키지 설치·API 호출·자격 증명 사용을 허용하되 데이터·비밀·네트워크에 무제한 접근은 주지 않는 자율 에이전트 함대용 런타임—에이전트별로 만질 수 있는 것을 정책으로 선언하면 커널을 계측해 모든 파일 접근·시스템 콜·네트워크 연결에 런타임 집행(격리 샌드박스, 나가는 연결마다 정책 검사, 실제 자격 증명은 승인된 엔드포인트로 가는 요청에만 주입해 에이전트는 못 봄). 정책 변경은 적용 전 형식 검증으로 새 호스트 접근·새 API 메서드 같은 위험한 권한 확대를 표시해 사람 검토 대기. 게이트웨이·슈퍼바이저·샌드박스 구조, Linux·Apple Silicon macOS·WSL2(실험), Docker·Podman·호스트 가상화. 0.1.x 안정 릴리스. Rust, Apache-2.0, 14.7k stars
 * [OpenTor: Tor/Dark Web access skill for AI agents (OpenCode & Claude Code)](https://github.com/vichhka-git/OpenTor)
   * 12개 다크웹 엔진 검색, .onion 사이트 스파이더, IOC 추출. Orchestrator-conductor 아키텍처, 외부 LLM 의존성 제로
@@ -7363,6 +7375,8 @@ Artificial Intelligence
     * `npx claude-duet host`로 호스트가 Claude Code를 헤드리스로 띄우고 상대가 `join <코드>`로 접속하면 WebRTC P2P(서버 없음, E2E 암호화, NAT 홀펀칭)로 터미널 세션을 공유—일반 텍스트는 둘만의 채팅, `@claude <프롬프트>`만 Claude에 전달되고 응답은 양쪽에 스트리밍. 기본 승인 모드로 호스트가 상대의 프롬프트를 검토, `--continue`로 기존 대화 이어가기. 용도: 세션 중 동료 불러 5분 브레인스토밍, 상사에게 라이브 데모, 원격 페어 프로그래밍, 맥락 있는 코드 리뷰, 온보딩. TypeScript, MIT, 155 stars
   * [claude-esp: Terminal utility displaying Claude Code's internal processes in real-time](https://github.com/phiat/claude-esp)
     * thinking, tool calls, subagents를 별도 창에서 실시간 스트리밍. 메인 Claude Code 세션 중단 없이 AI 추론 과정 모니터링
+  * [claude-flightdeck: A Claude Code mod that puts a live agent dashboard in your terminal: context and cost, advisor timeline, every permission check, subagent cards and swimlanes | scasella](https://github.com/scasella/claude-flightdeck)
+    * Claude Code 2.1.287+의 얼리 액세스 기능인 **mod**로 터미널 안에 라이브 에이전트 대시보드를 띄움(`/plugin marketplace add scasella/claude-flightdeck` → `/flightdeck`, TypeScript, 205 stars). 트랜스크립트 옆 도킹 또는 프롬프트 위 인라인—main(모델·effort·권한 모드·요청 수, 컴팩션 창 기준 컨텍스트 게이지·비용), architect(자문 에이전트 타임라인), gate(권한 검사마다 한 칸: 자동 허용·분류기/사용자 결정·대기·거부, 도구 패밀리별 드릴다운), agents(서브에이전트를 카드로—작업·타입·실시간 컨텍스트/출력 토큰·단계·경과 시간, 넘치면 한 시간축 스윔레인), loops(카드 없는 모델 루프—워크플로·컴팩션·메모리 포크), receipt(현재/직전 턴의 소요·에이전트·편집·오류·비용), log. 모든 수치는 실제 세션 이벤트(`agent.spawn`·`turn.step`·`tool.call`…)에서 오고 외부로 나가는 것 없음, 보여줄 게 없는 패널은 공간을 차지하지 않음. `ctrl+x tab`으로 포커스, `/flightdeck layout auto|compact|wide|mini`
   * [Claude-Flow v2.0.0 Alpha represents a revolutionary leap in AI-powered development orchestration. Built from the ground up with enterprise-grade architecture, advanced swarm intelligence, and seamless Claude Code integration.](https://github.com/ruvnet/claude-flow)
     * [Vibe Coding is so “Last Month…” — My First Agent Swarm Experience with claude-flow | by adrian cockcroft | Jun, 2025 | Medium](https://adrianco.medium.com/vibe-coding-is-so-last-month-my-first-agent-swarm-experience-with-claude-flow-414b0bd6f2f2)
       * [Vibe Coding is so “Last Month…” — My First Agent Swarm Experience with claude-flow | by adrian cockc | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5223746/4691987)
@@ -8323,6 +8337,9 @@ Artificial Intelligence
   * 20-30+ AI 에이전트 동시 조율. Git worktree+Beads 원장 기반 영속 상태, Mayor(코디네이터), Convoy(작업 번들), Refinery(머지 큐), 3단계 감시 시스템. Go 94.8%
 * [GeneralStaff: Open-source local-first dispatcher for AI coding agents. Verification-gated, BYOK, rolls back on test failures | lerugray](https://github.com/lerugray/generalstaff)
   * 에이전트의 "완료" 보고를 그대로 믿지 않는 검증 게이트—매 사이클 테스트 통과·비어있지 않은 diff·별도 리뷰어 AI의 스코프 일치 확인을 코드로 강제하고 실패 시 롤백, 전 과정을 PROGRESS.jsonl 감사 로그로 기록. 코딩 배경 없는 게임 디자이너가 AI 지시만으로 만든 프로젝트. TypeScript, AGPL-3.0
+* [Ghostex | The Most Powerful All-in-one Agents Workspace](https://ghostex.dev/)
+  * [Ghostex: The Best Native Agents Workspace. Fully Rust & GPUI based. Mobile apps. 20+ agents. Native Ghostty | maddada](https://github.com/maddada/Ghostex)
+  * 여러 에이전트를 동시에 살려 두는 개발자용 네이티브 올인원 워크스페이스(Rust·GPUI, 네이티브 Ghostty 터미널, 1.5k stars). 에이전트마다 채팅 뷰, 내장 Chromium 패널, 모바일 앱이 한 워크스페이스를 공유하고 모든 세션이 재시작 후에도 유지. 필요할 때만 로드되는 VS Code 내장 IDE, Easy Connect 코드·SSH로 원격 머신 사이드바 연결, Claude·Codex 사용량 한도 표시와 자동 계정 전환, 태스크별 worktree·분할 패널·Arc식 spaces, 예약 프롬프트·메뉴바·사운드 알림, 브라우저·Kanban·Docs 등 선택 플러그인(직접 작성 가능)
 * [grok-build: SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible](https://github.com/xai-org/grok-build)
   * [Grok Build 오픈소스 공개, 터미널 기반 AI 코딩 에이전트의 구조와 특징 | digitalbourgeois](https://digitalbourgeois.tistory.com/3380)
   * [🆓 SpaceXAI Grok Build, 84만 줄 Rust 오픈소스 AI 코딩 에이전트 완벽 가이드 | fornewchallenge](https://fornewchallenge.tistory.com/entry/%F0%9F%86%93-SpaceXAI-Grok-Build-84%EB%A7%8C-%EC%A4%84-Rust-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-AI-%EC%BD%94%EB%94%A9-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EC%99%84%EB%B2%BD-%EA%B0%80%EC%9D%B4%EB%93%9C)
@@ -8954,6 +8971,12 @@ Artificial Intelligence
   * [Together Link: Claude Code·Codex·OpenCode에서 오픈 모델을 활용하는 방법 | digitalbourgeois](https://digitalbourgeois.tistory.com/3766)
   * Together AI의 무료 CLI(베타, MIT, 2026-10-05 공개)—이미 쓰는 하네스(Claude Code·Claude Desktop·ChatGPT 앱의 Codex·OpenCode·Pi)의 로그인·설정·기록·습관은 그대로 두고 GLM 5.3·Kimi K3·DeepSeek V4.1 Flash·MiniMax M3 같은 오픈 모델을 연결. 설치 명령 한 줄로 6개 에이전트에 적용하고 설정 파일 편집·로컬 프록시·상주 데몬이 없음. 기본값 Auto Router가 세션 초반 작업을 보고 가벼운 일은 GLM 5.3, 어려운 문제는 Opus 5.5로 세션 단위 라우팅하거나 에이전트 모델 메뉴에서 직접 선택
   * 프록시된 세션마다 토큰·달러 합계 영수증을 출력해 사용량 추적, 일상 코딩 작업을 오픈 모델로 옮기면 에이전트 비용 50% 이상 절감 주장. 가격(1M 토큰당): Auto Router $3.00 in/$15.00 out, Kimi K3 $1.40/$4.40, GLM 5.3·MiniMax M3 $0.30/$1.20. 도구는 무료지만 모델 사용은 Together AI API 종량제·크레딧이 적용된다는 점 주의
+* [TokenEconomizer: Experience-Driven Black-Box Cost Control for Coding Agents | microsoft](https://github.com/microsoft/TokenEconomizer)
+  * [TokenEconomizer project page](https://tokeneconomizer.github.io)
+  * [This Is Microsoft's New Tool Finally Fixed Claude's Usage Limits | AI LABS - YouTube](https://www.youtube.com/watch?v=1kQ_1_QL5Es)
+    * 13분(2026-10-28). Claude 사용 한도가 빨리 닳는 건 Claude Code가 매 메시지에 낭비 토큰을 보내기 때문이라며 TokenEconomizer로 한도를 늘리는 법—파일을 먼저 매핑하는 Graft 같은 맵 기반 절약 도구와 달리 과거 세션에서 작업 방식을 학습한다는 차이, 과거 세션을 활용하는 Claude Code 팁
+  * UC Berkeley·Microsoft Research·Microsoft Security(Aaron J. Li, Ion Stoica, Jianfeng Gao 등). 에이전트 자체를 바꾸지 않고 자주 쓰는 저장소에서 이미 돌린 세션의 경험으로 다음 세션의 낭비를 줄이는 Claude Code·Codex·GitHub Copilot CLI·Pi 플러그인(opencode 실험적, Python, 1.2k stars). 3가지 메커니즘: ①Micro-skills—반복 실패와 k=3세션마다 최근 세션을 검토하는 모델이 제안한 저장소 사실(먼저 돌려야 하는 빌드 단계, `python -m pytest` 같은 명령 철자, 필요한 환경 변수)을 3세션 확인 후 세션 시작에 진술, 모순되면 삭제 ②Tool pruning—요청마다 정의가 전송되는 도구 중 안 쓰는 도구를 에이전트 설정으로 제외(명령 하나로 복구) ③Loop guard—한 턴이 같은 실패를 반복하면 판정 모델(c=0.7)이 다른 접근을 권하는 리다이렉트를 최대 1회 넣고, 그래도 막히면 멈추는 법을 알려주되 스스로 멈추진 않음
+  * SWE-Bench 277 태스크·5개 에이전트-모델 조합에서 평균 비용 18.4~30.9% 절감, 30개 저장소×조합 셀 전부에서 저렴, Pass@1은 유지·상승; 저장소·조합별 5~40%, Web-Bench 16~21%, 매 태스크가 새 저장소인 보안 감사 벤치마크 6~20%(모델 호출 비용 포함). 학습 내용은 `~/.tokeneconomizer`에 로컬 보관, 실패 시 설치 안 된 것처럼 세션 계속
 * [TokenTracker — Local-first token usage tracker for 11 AI coding tools](https://token.rynn.me/)
   * [TokenTracker](https://github.com/mm7894215/TokenTracker)
   * Claude Code/Codex/Cursor/Gemini 등 11개 도구 토큰 사용량 추적. 로컬 전용(클라우드 업로드 없음), 웹 대시보드+macOS 메뉴바+4개 위젯, 250+ 스킬 매니저, 7개 프로바이더 레이트 리밋 모니터링
