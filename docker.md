@@ -1586,6 +1586,9 @@ Docker
 * [07. 파드 오토스케일링 – Metrics-Server & HPA – 제니퍼소프트](https://jennifersoft.com/ko/blog/tech/2023-10-11-jennifer-kubernetes-7/)
 * [Kubernetes에서 HPA를 활용한 오토스케일링(Auto Scaling)](https://saramin.github.io/2022-05-17-kubernetes-autoscaling/)
 * [K8S Kubernetes의 HPA를 활용한 오토스케일링(Auto Scaling) | by 민현기(Min, Hyun Gi) | DT Evangelist 기술 블로그 | Medium](https://medium.com/dtevangelist/k8s-kubernetes%EC%9D%98-hpa%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%98%A4%ED%86%A0%EC%8A%A4%EC%BC%80%EC%9D%BC%EB%A7%81-auto-scaling-2fc6aca61c26)
+* [Why Kubernetes autoscalers keep fighting each other (and why the solution must be autonomous) | The New Stack](https://thenewstack.io/why-kubernetes-autoscalers-fight/)
+  * [쿠버네티스 오토스케일러 충돌의 원인과 자율적인 리소스 관리의 필요성 | digitalbourgeois](https://digitalbourgeois.tistory.com/4103)
+  * Nikhil Kurup, 2026-10-24. HPA(파드 수)·VPA(리소스 요청량)·노드 오토스케일러(클러스터 용량)가 각자 다른 기준으로 움직여 한쪽의 결정이 다른 쪽 판단을 흔드는 상호 충돌—개별 정책은 제 목표를 달성해도 전체 시스템 관점에선 비효율이 생기고, 구성 요소 간 조정 메커니즘이 없다는 게 근본 원인. 독립 자동화를 넘어 전체 시스템 목표 기준으로 변경을 조정하는 자율적 리소스 관리(안정성·효율·용량을 통합 판단)가 필요하다는 주장
 * [Martin Heinz | Keeping Kubernetes Clusters Clean and Tidy](https://martinheinz.dev/blog/60)
 * [Kubernetes Persistent Volumes: Examples & Best Practices](https://loft.sh/blog/kubernetes-persistent-volumes-examples-and-best-practices)
 * [4 devs by devs: Kubernetes interview question made easy | All about software development](https://jakubstransky.com/2021/11/05/4-devs-kubernetes-interview-question-made-easy/)
