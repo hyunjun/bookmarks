@@ -304,6 +304,9 @@ iOS
   * [Swift HTTP Types 찍먹하기 :: iOYES](https://green1229.tistory.com/392)
 * [TLPhotoPicker - application to pick images and videos from multiple smart album in iOS, similar to the current facebook app](https://github.com/tilltue/TLPhotoPicker)
 * [vftool: A simple macOS Virtualisation.framework wrapper](https://github.com/evansm7/vftool)
+* [vphone-cli: Run a virtual iPhone on an Apple Silicon Mac | Lakr233](https://github.com/Lakr233/vphone-cli)
+  * Apple Virtualization.framework과 PCC(Private Cloud Compute) 리서치 VM으로 Apple Silicon Mac(macOS 15+, 실기기만·macOS VM 안 됨)에서 iOS를 통째로 돌리는 가상 iPhone(Swift, 16k stars)—보안 연구·리버스 엔지니어링·디버깅 용도. 그래픽 창에서 앱·파일 탐색과 스크린샷·화면 녹화, 사전 패치된 펌웨어에 패키지 환경 설치, VM 내보내기·가져오기·복제, 로컬 HTTP/WebSocket 자동화 API, 런타임에 Xcode·Python·Homebrew 불필요. Recovery에서 `csrutil enable --without debug`·`csrutil allow-research-guests enable`로 디버깅 제한만 완화(SIP 유지), VM당 64GB 디스크, 복원 시 서명 티켓 온라인 조회
+  * Launchpad 앱으로 호스트 설정→Core Bundle 설치→펌웨어 페어링 선택해 머신 생성(펌웨어 다운로드·패치·복원·부팅 자동). Claude Code·Codex 등 코딩 에이전트에게 맡길 수 있는 vphone-guest-control 스킬(SKILL.md)과 프롬프트 제공—SIP·boot-args 등 호스트 보안 설정은 건드리지 말고 펌웨어·디스크 확인 전엔 머신을 만들지 말라는 가드 포함. 암호화폐·토큰 발행과 무관하다는 경고문
 * [YouTubePlayerKit: A Swift Package to easily play YouTube videos 📺](https://github.com/SvenTiigi/YouTubePlayerKit)
   * [YouTubePlayerKit을 활용한 쇼츠 구현하기 :: iOYES](https://green1229.tistory.com/495)
 
