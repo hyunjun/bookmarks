@@ -2877,6 +2877,9 @@ NLP
   * 제안: 토큰 부하(token load)=캐시 재사용을 감안한 들어오는 요청의 남은 prefill 작업+그 레플리카가 이미 처리 중인 prefill·decode 작업. Ray Serve LLM 라우터가 KV 캐시 친화도와 토큰 부하를 함께 고려—코딩 에이전트 트레이스 재생에서 세션 친화도 베이스라인 대비 TTFT·TPOT 약 15% 개선. 스트래글러가 있는 비동기 RL 롤아웃·에이전틱 워크로드처럼 이질적인 작업에서 특히 중요
 * [HiCache in SGLang: hybrid-model caching with up to 15.5× input throughput | SGLang Blog](https://www.sglang.io/blog/hicache)
   * 멀티턴 대화와 늘어나는 클라이언트 이력으로 GPU 메모리의 prefix KV 캐시가 꽉 차 다음 요청 직전에 축출되는 문제를, 재사용 prefix를 **GPU HBM(L1)→CPU DRAM(L2)→외부 저장소(L3, Mooncake)** 계층에 보존해 풀는 HiCache—어텐션은 GPU에서 하되 하위 계층이 데이터를 지킴. 설계 이력(2025-02 GPU·CPU 계층→07 효율적 CPU-GPU 전송 커널·외부 저장소→2026-04 DSA·Mamba 등 하이브리드 모델의 recurrent·보조 상태 저장→08 MTP/EAGLE 드래프트 상태 복구·Mamba 브랜치 체크포인트 증분 백업·호스트 메모리를 전송 버퍼로만 쓰는 모드). DeepSeek-V4-Flash TP4 4×H200 멀티턴 prefix 재사용에서 유효 입력 처리량 9.4K→145.5K tok/s(15.5배), 캐시 적중률 ~98%
+* [KV Cache 기초 — 어떻게 계산되고, 추론 엔진은 그것을 어떻게 관리하는가 | LLM 추론 기초 세미나 - Google Slides](https://docs.google.com/presentation/d/1KlI7ubYbKLFxdP6JyBqRGEzx6-Rx1OvB/)
+  * 5부 구성 세미나 슬라이드(발표자 노트 포함). ①왜 KV Cache인가—자기회귀 생성에서 캐시가 없으면 과거 전체를 매 스텝 재계산(프롬프트 4토큰·6스텝에 K·V 계산 39회 중 30회가 중복, 길이 n이면 n²/2) ②Attention과 Q·K·V—causal mask 때문에 과거 토큰의 K·V는 변하지 않아 캐시 가능 ③계산과 메모리—decode 한 스텝은 새 토큰 1개만 투영해 캐시에 append하고 q 하나로 캐시 전체와 attention(prefill=연산 병목인 큰 행렬곱, decode=가중치+캐시 전체를 읽는 메모리 대역폭 병목이라 최적화 방향이 다름: prefix caching·chunked prefill vs 배치 확대·GQA·FP8·speculative decoding), 토큰당 KV 크기=2×레이어×KV헤드×헤드차원×바이트—Llama 3 8B FP16 토큰당 128KiB·8K 문맥 1GiB·배치 32면 32GiB로 가중치(15GiB)의 2배, TTFT·TPOT·ITL 지표
+  * ④추론 엔진에서—최대 길이 연속 예약의 내부·외부 단편화와 공유 불가로 기존 시스템은 KV 메모리의 20.4~38.2%만 실제 사용(vLLM 논문), OS 가상 메모리식 PagedAttention(고정 블록+block table, vLLM 기본 16토큰), continuous batching, prefix caching ⑤심화—prefill/decode를 다른 GPU 풀로 나누고 KV 블록을 RDMA·NVLink로 넘기는 disaggregated serving(DistServe·Splitwise·Mooncake·NVIDIA Dynamo·llm-d, vLLM·SGLang 커넥터), KV-aware 라우터와 전역 KV 풀(Mooncake Store·LMCache), 전송 비용 계산(Llama 3 8B·8K 프롬프트 1GiB≈400Gb/s 링크 21ms, MHA→GQA→FP8로 토큰당 512→128→64KiB, DeepSeek이 MLA+PD 분리를 함께 쓰는 이유), KV Cache 전제가 깨지는 diffusion LLM
 * [(1) AI 응답의 안정성을 높이는 3가지 방법 - 1) 무작위성 낮추기 | LinkedIn](https://www.linkedin.com/pulse/ai-%EC%9D%91%EB%8B%B5%EC%9D%98-%EC%95%88%EC%A0%95%EC%84%B1%EC%9D%84-%EB%86%92%EC%9D%B4%EB%8A%94-3%EA%B0%80%EC%A7%80-%EB%B0%A9%EB%B2%95-1-%EB%AC%B4%EC%9E%91%EC%9C%84%EC%84%B1-%EB%82%AE%EC%B6%94%EA%B8%B0-%ED%9C%98%EB%8F%99-%EB%B0%B0-uuuic/)
 * [(1) AI 응답의 안정성을 높이는 3가지 방법 - 2) 출력 형식 지정하기 | LinkedIn](https://www.linkedin.com/pulse/ai-%EC%9D%91%EB%8B%B5%EC%9D%98-%EC%95%88%EC%A0%95%EC%84%B1%EC%9D%84-%EB%86%92%EC%9D%B4%EB%8A%94-3%EA%B0%80%EC%A7%80-%EB%B0%A9%EB%B2%95-2-%EC%B6%9C%EB%A0%A5-%ED%98%95%EC%8B%9D-%EC%A7%80%EC%A0%95%ED%95%98%EA%B8%B0-%ED%9C%98%EB%8F%99-%EB%B0%B0-umzwc/)
 * [**GPT 호출이 전부가 아니다! 실전 LLM 앱 구조(아키텍처) 공개 #1 - YouTube**](https://www.youtube.com/watch?v=0T2LlsQDz-o)
@@ -4038,6 +4041,11 @@ NLP
 * [LiOn: 다양한 데이터와 연결되어 자연어 처리 분야에서의 전문성을 확장](https://github.com/gyunggyung/LiOn)
 * [Liquid Docs](https://docs.liquid.ai/)
   * [Small-fine-tuning: Examples, end-2-end tutorials and apps built using Liquid AI Foundational Models (LFM) and the LEAP SDK](https://github.com/0xSojalSec/Small-fine-tuning)
+  * [cookbook: Examples, end-2-end tutorials and apps built using Liquid AI Foundational Models (LFM) and the LEAP SDK | Liquid4All](https://github.com/Liquid4All/cookbook)
+    * 공식 쿡북(Jupyter, 2.7k stars). 노트북·모바일·엣지에서 오픈 웨이트 LFM을 돌리는 예제—데스크톱(LFM2-VL 인보이스 파서, LFM2.5-Audio 실시간 전사 CLI·음성 차량 콕핏, 툴 콜링 항공권 검색, LFM2-24B-A2B 기반 LocalCowork 온디바이스 에이전트, 홈 어시스턴트 파인튜닝 파이프라인), WebGPU·ONNX Runtime Web 브라우저 앱(인브라우저 툴 콜링·음성 비서·실시간 영상 캡션·CoT 추론, d1 의사결정 모델이 운전하는 Road Decider), LEAP Edge SDK iOS(Swift)·Android(Kotlin) 앱, 파인튜닝 예제, 서드파티·커뮤니티 프로젝트
+  * [LFM3: Every Modality for Specialized Intelligence | Liquid AI](https://www.liquid.ai/blog/lfm3)
+    * [Introducing LFM3: Every Modality for Specialized Intelligence | Liquid AI - YouTube](https://www.youtube.com/watch?v=6XedR2Feb6k)
+    * 2026-10-27. 새 하이브리드 아키텍처의 2B급 멀티모달 파운데이션 모델 세대(22T 토큰 사전학습)—하나의 공유 백본에서 텍스트·비전·오디오·옴니·의사결정 모델을 제공하고 LFM2보다 35% 적은 파라미터로 더 높은 성능, LFM3-1.7B는 에이전트 작업에서 훨씬 큰 모델과 경쟁. 엣지 기기·프라이빗 인프라·클라우드 어디서든 특화·파인튜닝·배포하도록 설계(단일 GPU 파인튜닝), Hugging Face·Liquid AI Playground·API로 오픈 웨이트 공개. 영상은 2분 소개
 * [LiteLLM — Call 100+ LLMs using the OpenAI format](https://docs.litellm.ai/)
   * [litellm](https://github.com/BerriAI/litellm)
   * [litellm-guide: It shows how to deploy liteLLM | kyopark2014](https://github.com/kyopark2014/litellm-guide)
@@ -6713,6 +6721,9 @@ NLP
 * [Omni SenseVoice: High-Speed Speech Recognition with words timestamps 🗣️🎯](https://github.com/lifeiteng/OmniSenseVoice)
   * [Omni SenseVoice - 단어별 타임스탬프 가능한 고속 음성 인식 | GeekNews](https://news.hada.io/topic?id=17671)
 * [openspeech: Open-Source Toolkit for End-to-End Speech Recognition leveraging PyTorch-Lightning and Hydra](https://github.com/openspeech-team/openspeech)
+* [OpenWhispr — open-source voice-to-text dictation](https://openwhispr.com/)
+  * [openwhispr: Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform | OpenWhispr](https://github.com/openwhispr/openwhispr)
+  * WisprFlow·Granola의 무료 오픈소스 대안(JavaScript/Electron, macOS·Windows·Linux, Homebrew cask, 10k stars). 전역 핫키로 말하면 커서 위치에 텍스트가 자동 붙여넣기—완전 오프라인 로컬 STT(NVIDIA Parakeet·Whisper) 또는 BYOK 클라우드 모델 선택, AI 에이전트 연동·회의 전사·노트. Intel Mac은 ONNX Runtime이 x86_64 macOS 빌드를 중단해 실시간 화자 식별·음성 지문 미지원
 * [parakeet-tdt-0.6b-v2 · Hugging Face](https://huggingface.co/nvidia/parakeet-tdt-0.6b-v2)
   * [엔비디아, 60분짜리 오디오 1초 만에 받아 쓰는 전사 모델 오픈 소스 공개 < 뉴테크 < 기술 < 기사본문 - AI타임스](https://www.aitimes.com/news/articleView.html?idxno=170202)
   * [엔비디아, 60분짜리 오디오 1초 만에 받아 쓰는 전사 모델 오픈 소스 parakeet-tdt-0.6b-v2 공개](https://www.facebook.com/groups/255834461424286/user/100001182289254/)
