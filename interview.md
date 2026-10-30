@@ -232,7 +232,7 @@ Interview
 * [Choosing from multiple Java job offers](https://www.java-success.com/choosing-multiple-job-offers/)
 * [주니어 개발자가 포트폴리오를 준비할 때 알아두면 좋은 것들. 스타트업 채용 담당자의 입장에서 바라본 포트폴리오 | by 김태성 | 오일나우 팀 블로그 | Mar, 2021 | Medium](https://medium.com/%EC%98%A4%EC%9D%BC%EB%82%98%EC%9A%B0-%ED%8C%80-%EB%B8%94%EB%A1%9C%EA%B7%B8/%EC%A3%BC%EB%8B%88%EC%96%B4-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4%EB%A5%BC-%EC%A4%80%EB%B9%84%ED%95%A0-%EB%95%8C-%EC%95%8C%EC%95%84%EB%91%90%EB%A9%B4-%EC%A2%8B%EC%9D%80-%EA%B2%83%EB%93%A4-ac5304a9ecb9)
 * [금융 하나도 몰라도 금융 프로젝트는 만들 수 있습니다 | 파이낸스코더 - YouTube](https://www.youtube.com/watch?v=TqtH0zxcAhg)
-  * 8분(2026-09-02). 금융권 개발자 취업 준비생이 금리·채권·파생상품·수신/여신부터 공부하다 막막해지는 대신, 내가 써 본 금융 서비스 하나(송금·카드 결제·보험금 청구·주식 매매)를 골라 "이 버튼을 누르면 뒤에서 어떻게 돌아갈까"라는 질문에서 시작하라는 조언. 1일차엔 A 계좌 100만 원→B 계좌 50만 원에 10만 원 송금해 90만/60만이 되는 것만 만들고(계좌·잔액·거래 개념과 데이터 모델이 생김), 기능 추가 대신 문제를 추가—잔액 10만 원인데 두 곳에 동시 송금, 네트워크 문제로 같은 요청이 두 번, 처리 중 서버 다운, 하루 이체 한도—하면 트랜잭션·락·동시성 제어·멱등성이 필요해서 등장. "Kafka 써 보고 싶어서 넣은 프로젝트"와 "문제 풀다 Kafka가 필요해진 프로젝트"는 면접 설명 깊이가 다름
+  * 금융권 개발자 취업 준비생이 금리·채권·파생상품·수신/여신부터 공부하다 막막해지는 대신, 내가 써 본 금융 서비스 하나(송금·카드 결제·보험금 청구·주식 매매)를 골라 "이 버튼을 누르면 뒤에서 어떻게 돌아갈까"라는 질문에서 시작하라는 조언. 1일차엔 A 계좌 100만 원→B 계좌 50만 원에 10만 원 송금해 90만/60만이 되는 것만 만들고(계좌·잔액·거래 개념과 데이터 모델이 생김), 기능 추가 대신 문제를 추가—잔액 10만 원인데 두 곳에 동시 송금, 네트워크 문제로 같은 요청이 두 번, 처리 중 서버 다운, 하루 이체 한도—하면 트랜잭션·락·동시성 제어·멱등성이 필요해서 등장. "Kafka 써 보고 싶어서 넣은 프로젝트"와 "문제 풀다 Kafka가 필요해진 프로젝트"는 면접 설명 깊이가 다름
   * 업무 지식은 은행·카드·보험 앱 직접 사용, 상품 설명과 보험금 청구 절차, 금감원·금융결제원 자료, 채용 공고에 나오는 계정계·정보계·대외계·결제·신용·보험 계약·보상 같은 용어를 하나씩 찾아보며 내 프로젝트 관련 업무 하나만 깊게. 익숙해지면 계좌·거래·이체 한도·거래 상태(보험이면 고객·계약·담보·사고·심사·지급)를 테이블·API가 아닌 도메인 관점에서 모델링해 DDD의 애그리거트·도메인 이벤트·바운디드 컨텍스트를 실제 문제와 연결. 면접에서는 금융 전문가인 척하지 말고 "송금이 궁금해 직접 만들다 동시 송금 문제를 만나 트랜잭션·멱등성·은행 간 거래를 공부했다"는 행동의 증거로 관심을 보여 주고, 시작 전에 "왜 금융 프로젝트를, 왜 송금을, 동시 송금은 어떻게, 왜 락을, DDD는 왜"라는 면접 질문을 상상하면 화면 하나보다 설명할 기술적 고민 하나를 더 만드는 방향으로 바뀜
 * [**개발자, 채용 가이드북 innovationacademy-kr/tech-hr**](https://github.com/innovationacademy-kr/tech-hr/blob/master/SUMMARY.md)
 * [Why Senior Engineers Hate Coding Interviews | by Adam Storm | The Startup | Medium](https://medium.com/swlh/why-senior-engineers-hate-coding-interviews-d583d2855757)
@@ -388,7 +388,7 @@ Interview
 * [How to Succeed in a System Design Interview](https://blog.pramp.com/how-to-succeed-in-a-system-design-interview-27b35de0df26) 기본적인 approach와 자료 links
 * [Design Software Systems Like a Senior Engineer – Complete Course | freeCodeCamp.org - YouTube](https://www.youtube.com/watch?v=soTfFFIQQ8U)
   * [시니어 엔지니어처럼 소프트웨어 시스템 설계하기 - 풀코스 | GeekNews](https://news.hada.io/topic?id=35613)
-  * 3시간 17분(2026-10-13, Hayk Simonyan). 모호한 요구사항을 압박 속에서 구조화하는 5단계 프레임워크(요구사항 확인→데이터/API·상위 아키텍처→확장성·장애 검토→절충점 정리)를 Spotify·Booking.com·WhatsApp 유사 시스템에 적용—음악 스트리밍은 오디오 저장량·전송 비용 계산과 객체 저장소·서명 URL·CDN으로 수천만 사용자 확장, 호텔 예약은 검색의 최종 일관성과 예약의 강한 일관성 구분·멱등성·재고 행 잠금, 메시징은 WebSocket 실시간 전달·오프라인 수신·다기기 동기화에서 그룹 채팅·샤딩·암호화·장애 복구까지. 면접은 완성된 아키텍처보다 소통·구조화된 사고·판단·시간 관리를 평가하므로 정답 암기보다 가정 확인과 선택 이유 설명에 초점
+  * 모호한 요구사항을 압박 속에서 구조화하는 5단계 프레임워크(요구사항 확인→데이터/API·상위 아키텍처→확장성·장애 검토→절충점 정리)를 Spotify·Booking.com·WhatsApp 유사 시스템에 적용—음악 스트리밍은 오디오 저장량·전송 비용 계산과 객체 저장소·서명 URL·CDN으로 수천만 사용자 확장, 호텔 예약은 검색의 최종 일관성과 예약의 강한 일관성 구분·멱등성·재고 행 잠금, 메시징은 WebSocket 실시간 전달·오프라인 수신·다기기 동기화에서 그룹 채팅·샤딩·암호화·장애 복구까지. 면접은 완성된 아키텍처보다 소통·구조화된 사고·판단·시간 관리를 평가하므로 정답 암기보다 가정 확인과 선택 이유 설명에 초점
 * [Scaling to 100k Users](https://alexpareto.com/scalability/systems/2020/02/03/scaling-100k.html)
   * [번역 10만명 접속을 허용하는 시스템 만들기](https://brunch.co.kr/@jowlee/102)
 * [Horizontal vs Vertical Scaling | System Design | Programming Tutorials - YouTube](https://www.youtube.com/watch?v=QUlBh64vdH8)
@@ -414,7 +414,7 @@ Interview
   * 1천만 문서 zero-hallucination RAG 파이프라인 설계가 Google L5 인터뷰에서 출제. 클래식 분산 시스템 질문보다 흥미로운 시스템 디자인 문제로 평가
 * [2,000+ Hours of Learning Agentic AI System Design in 20 Minutes | Aish Reganti - YouTube](https://www.youtube.com/watch?v=Mv7eiQFQQ1E)
   * [awesome-generative-ai-guide | aishwaryanr](https://github.com/aishwaryanr/awesome-generative-ai-guide)
-  * 20분(2026-10-22). 전 AWS 테크 리드·LevelUp Labs 창업자가 수백 명을 면접하며 본 차이—RAG·MCP·툴 콜링을 아는 것과 실제 비즈니스 문제에 적용하고 프로덕션 확장을 설명하는 것은 다르고, 후자가 AI 시스템 디자인. 예제는 가장 흔한 면접 문제인 이커머스 고객지원 에이전트(헬프센터 답변·주문 조회·티켓 생성·불확실하면 사람에게 에스컬레이션)
+  * 전 AWS 테크 리드·LevelUp Labs 창업자가 수백 명을 면접하며 본 차이—RAG·MCP·툴 콜링을 아는 것과 실제 비즈니스 문제에 적용하고 프로덕션 확장을 설명하는 것은 다르고, 후자가 AI 시스템 디자인. 예제는 가장 흔한 면접 문제인 이커머스 고객지원 에이전트(헬프센터 답변·주문 조회·티켓 생성·불확실하면 사람에게 에스컬레이션)
   * 5개 층: ①범위와 가정(시스템의 자율성 수준, 가정을 명시) ②아키텍처—자체 프레임워크 KARC(Know·Act·Remember·Coordinate: 하이브리드 RAG, 도구 설계와 권한·blast radius·실패 처리·신뢰 경계, 메모리 4종) ③관측성—무엇을 로깅하고 그 위에 어떤 eval을 만들며 어떤 것을 온라인 가드레일 vs 오프라인으로 돌릴지 ④프로덕션·운영—스케일·지연·신뢰성·최신성·보안 ⑤최적화—지연·비용·품질·특정 실패 패턴, 멀티 에이전트 같은 복잡성이 "정당화되는" 시점. 핵심은 추가하는 모든 요소가 문제에 대한 가정으로 소급돼야 하며, 면접관은 이유 없는 아키텍처 이름 나열을 알아본다는 것
 * [프론트엔드 백엔드 데이터베이스 전체를 20분만에 보이게 해드립니다. | 바이브코딩 - YouTube](https://www.youtube.com/watch?v=l5z6UNa-ons)
 * [Timelines at Scale](https://www.infoq.com/presentations/Twitter-Timeline-Scalability)

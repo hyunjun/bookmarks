@@ -1823,7 +1823,7 @@ App
     * 11. 파일 삭제와 일정 검색을 통해 효율적 업무 운영
 * [Mac에서 사용하는 툴들](https://github.com/msbaek/memo/blob/master/mac-tools.md)
 * [바이브 코딩이 맥 앱 시장을 바꿨습니다. (유료보다 나은 무료 앱 5개) | 서울리안 SEOULiAN - YouTube](https://www.youtube.com/watch?v=frqfwvC4LCg)
-  * 12분(2026-10-14). 바이브 코딩으로 개발자 한 명이 유료 앱 수준의 완성도를 만들어 GitHub에 무료 공개하는 일이 흔해진 2026년 맥 앱 시장—광고·기능 잠금·업데이트 중단이던 "무료라서 어쩔 수 없다"가 깨지고, 사용자가 개선안을 올리면 개발자가 AI로 빨리 반영(Vorssaint는 첫 커밋 사흘 만에 GitHub 트렌딩 상단, Mole 저장소엔 AGENTS.md와 .claude 폴더가 그대로). 유료 앱을 대체하는 무료 5종: Handy(Whisper Large v3 Turbo 로컬 받아쓰기, 단축키 누른 채 말하면 커서에 입력·외부 전송 없음), Input Source Pro(앱별 마지막 입력 소스 기억—터미널·편집기는 영어, 메신저·메모는 한국어, 전환 시 커서 옆 표시), Forel(Hazel 42달러 대체 폴더 자동 정리, Dry Run으로 미리보기, 조건별 동적 폴더 생성은 아직 없음), Mole(CleanMyMac 대체 터미널 청소·앱 삭제, 악성코드 검사는 없음), Vorssaint(메뉴바 70+ 기능—앱별 볼륨 믹서·노치 다이내믹 아일랜드·스크롤 캡처·AI 에이전트 사용량 표시). 설치: `brew install mole`, `brew install --cask handy input-source-pro vorssaint lab421/tap/forel`,
+  * 바이브 코딩으로 개발자 한 명이 유료 앱 수준의 완성도를 만들어 GitHub에 무료 공개하는 일이 흔해진 2026년 맥 앱 시장—광고·기능 잠금·업데이트 중단이던 "무료라서 어쩔 수 없다"가 깨지고, 사용자가 개선안을 올리면 개발자가 AI로 빨리 반영(Vorssaint는 첫 커밋 사흘 만에 GitHub 트렌딩 상단, Mole 저장소엔 AGENTS.md와 .claude 폴더가 그대로). 유료 앱을 대체하는 무료 5종: Handy(Whisper Large v3 Turbo 로컬 받아쓰기, 단축키 누른 채 말하면 커서에 입력·외부 전송 없음), Input Source Pro(앱별 마지막 입력 소스 기억—터미널·편집기는 영어, 메신저·메모는 한국어, 전환 시 커서 옆 표시), Forel(Hazel 42달러 대체 폴더 자동 정리, Dry Run으로 미리보기, 조건별 동적 폴더 생성은 아직 없음), Mole(CleanMyMac 대체 터미널 청소·앱 삭제, 악성코드 검사는 없음), Vorssaint(메뉴바 70+ 기능—앱별 볼륨 믹서·노치 다이내믹 아일랜드·스크롤 캡처·AI 에이전트 사용량 표시). 설치: `brew install mole`, `brew install --cask handy input-source-pro vorssaint lab421/tap/forel`,
 * [코드에서 macOS 노티피케이션 센터 띄우기 - 용균](https://edykim.com/ko/post/putting-the-macos-notification-center-in-code/)
 * [맥OSX에 윈도우 10 설치하기 (외장 HDD 또는 외장 SSD에 설치)](https://www.youtube.com/watch?v=G6aZ7wImY1Q)
 * [최신 맥에 윈도우를 설치하는 3가지 방법 | 공대생신동민 - YouTube](https://www.youtube.com/watch?v=91CAqAlW7fI)
@@ -3285,7 +3285,7 @@ App
   * [obsidian-excalidraw-plugin: Obsidian plugin to edit and view Excalidraw drawings](https://github.com/zsviczian/obsidian-excalidraw-plugin)
     * [obsidian-excalidraw-cli: A library to support Obsidian Excalidraw CLI development](https://github.com/zsviczian/obsidian-excalidraw-cli)
       * [Obsidian Excalidraw CLI: GPT-6 Luna vs 6.1 Sol (Full Workflow & Benchmark) | Zsolt's Visual Personal Knowledge Management - YouTube](https://www.youtube.com/watch?v=H64AW1l-ae4)
-        * 13분(2026-10-12, 설명·챕터 기준, 자막은 429로 미확인). 플러그인 v2.29.0의 새 기능 CLI 소개—설정에서 Command Line Interface를 켜고 샌드박스 볼트를 만든 뒤 에이전트에 이 스킬 레포와 프롬프트·참조 이미지를 주면 됨. AI가 만든 래스터 인포그래픽을 100% 편집 가능한 네이티브 Excalidraw 캔버스(재사용 벡터 요소)로 다시 그리는 과제로 저가 GPT-6 Luna와 고지능 Codex GPT-6.1 Sol을 경주—Luna는 빠른 초안, Sol은 깔끔한 기하와 객체 재사용, 비전 피드백 루프로 반복, 속도·품질·비용 비교와 벡터를 스텐실 라이브러리에 저장
+        * 플러그인 v2.29.0의 새 기능 CLI 소개—설정에서 Command Line Interface를 켜고 샌드박스 볼트를 만든 뒤 에이전트에 이 스킬 레포와 프롬프트·참조 이미지를 주면 됨. AI가 만든 래스터 인포그래픽을 100% 편집 가능한 네이티브 Excalidraw 캔버스(재사용 벡터 요소)로 다시 그리는 과제로 저가 GPT-6 Luna와 고지능 Codex GPT-6.1 Sol을 경주—Luna는 빠른 초안, Sol은 깔끔한 기하와 객체 재사용, 비전 피드백 루프로 반복, 속도·품질·비용 비교와 벡터를 스텐실 라이브러리에 저장
       * 코딩 에이전트(Copilot·Codex·Claude 등)가 로컬 터미널→Obsidian CLI→Excalidraw 플러그인 경로로 볼트 안의 편집 가능한 드로잉을 발견·제어하도록 돕는 에이전트 킷(SKILL.md·AGENTS.md·예제·Node 헬퍼, AGPL-3.0)—별도 렌더러나 클라우드 서비스가 아니라 설치된 플러그인이 드로잉 생성·리비전 검사·저장·내보내기를 담당. 데스크톱 Obsidian 1.12.2+에서 Settings→General→Command line interface와 플러그인 CLI를 켜고, `doctor.mjs`나 `obsidian vault="…" obsidian-excalidraw-plugin:help|status|schema`로 읽기 전용 탐색부터 시작. Obsidian이 돌고 있는 컴퓨터의 터미널이어야 하며 클라우드·컨테이너 에이전트는 제어 불가, npm 의존성·API 키 없음
   * [kplex: K-Plex — Obsidian graph view plugin (ExcaliBrain 2.0)](https://github.com/zsviczian/kplex)
     * [Meet K-Plex: The New Obsidian Graph View Plugin (ExcaliBrain 2.0) - YouTube](https://www.youtube.com/watch?v=pQbv5jSaW9Q)
@@ -3376,7 +3376,7 @@ App
 # Novel
 * [neo: A novel-writing tool created by a novelist | Hugh Howey](https://github.com/hughhowey/neo)
   * [NEO - A Writing Tool for Authors | Hugh Howey - YouTube](https://www.youtube.com/watch?v=_K-ExOiEv40)
-    * 11분(2026-09-25, 설명 기준, 자막은 429로 미확인). 작가 본인의 전업 집필 환경인 NEO를 내려받아 설치하고 쓰는 법—다른 집필 소프트웨어의 기능을 다 갖추지 않은 게 핵심이고, 초고를 키보드만으로 산만함 없이 써 내려가는 도구. 책장 UI, 프로젝트별 마지막 위치 기억, 아웃라인, 타자기 모드, 어두운·밝은 모드, 전체 화면. "대신 미뤄 둔 그 책을 끝내 달라"
+    * 작가 본인의 전업 집필 환경인 NEO를 내려받아 설치하고 쓰는 법—다른 집필 소프트웨어의 기능을 다 갖추지 않은 게 핵심이고, 초고를 키보드만으로 산만함 없이 써 내려가는 도구. 책장 UI, 프로젝트별 마지막 위치 기억, 아웃라인, 타자기 모드, 어두운·밝은 모드, 전체 화면. "대신 미뤄 둔 그 책을 끝내 달라"
   * 『Wool』(Silo) 작가 Hugh Howey가 만든 작가 전용 무료 워드프로세서(JavaScript, MIT, macOS·Windows·Linux). 설치 순간부터 "책"만 쓴다고 전제—계정·구독 없이 로컬 평문 파일로 저장, 라이브러리는 파일 목록이 아닌 책장(시리즈·상태·필명별 선반, 표지와 단어 목표 진행바). Enter 한 번은 새 단락, 두 번은 `***` 섹션 구분, 세 번은 새 챕터(자동 번호, 프롤로그·에필로그 지정). 드롭캡·em dash·곡선 따옴표 자동, 맞춤법은 부를 때만
   * "darlings를 죽이되 시체는 남겨라"—아깝지만 걸리는 문단을 Darlings 탭으로 끌어다 두면 원고에서 빠지되 원래 자리로 복원 가능. 이름·날짜가 떠오르지 않으면 ⌘⇧X로 자리표시+메모를 남기고 챕터 목록에 빨간 점 표시. Outline 탭은 챕터·섹션을 인덱스 카드로 펼쳐 메모하면 원고에 회색 유령 단락으로 나타남
 * [novelWriter: novelWriter is an open source plain text editor designed for writing novels. It supports a minimal markdown syntax for formatting text. It is written with Python 3 (3.6+) and Qt 5 (5.3+) for cross-platform support](https://github.com/vkbo/novelWriter)

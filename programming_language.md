@@ -472,7 +472,7 @@ Programming Language
 * [Genie Language](https://wiki.gnome.org/Projects/Genie#More_Resources)
 * [The Goose Programming Language — A memory-safe systems language with no heap allocator, garbage collector, or lifetime annotations](https://aardappel.github.io/goose/)
   * [New Language Claims to Be as Safe as Rust, but Faster and Simpler | Code to the Moon - YouTube](https://www.youtube.com/watch?v=kHDsfGvMlPU)
-    * 10분(2026-10-21). Goose의 기원과 주요 기능 개관, 로드맵에 바랐으면 하는 것, AI 시대에도 프로그래밍 언어가 여전히 중요한 이유
+    * Goose의 기원과 주요 기능 개관, 로드맵에 바랐으면 하는 것, AI 시대에도 프로그래밍 언어가 여전히 중요한 이유
   * Wouter van Oortmerssen(aardappel, Lobster·FlatBuffers 제작자). C·Rust 친화 문법이지만 힙이 없음—모든 동적 값이 컴파일러가 관리하는 데이터 스택에 인라인으로 놓이고, 증가는 포인터 전진, 해제는 스코프 종료 시 단일 저장(백만 요소 구조도 한 번에). 메모리가 이동하지 않아 참조가 성장 후에도 유효, 어노테이션 없는 안전한 참조, 포인터보다 좁은 링크, 공유 메모리 없는 스레드, C로 컴파일·호출
   * 자체 벤치마크 16종에서 관용 C++ 대비 3.3배, 수작업 최적화 C++ 대비 1.16배, 최고 safe Rust 대비 1.12배 속도, 메모리는 각 1.9·1.3·1.2배 절감(할당자·GC·참조 카운팅·소멸자 없음)
 * [Guile is a programming language](http://www.gnu.org/software/guile/)

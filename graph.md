@@ -274,11 +274,11 @@ Graph
   * [2편 '앵커링'과 '트래버싱'으로 맥락 증명... 성패 가르는 '모델링'](http://www.itdaily.kr/news/articleView.html?idxno=237742)
   * [3편 '그래프 RAG'로 환각 차단 가능... RDB 대체재 아닌 상보 관계](http://www.itdaily.kr/news/articleView.html?idxno=237743)
 * [단 30분 만에 이해하는 GraphRAG (with 랭체인, Neo4j) | Bloom AI - YouTube](https://www.youtube.com/watch?v=yWyJKCZG990)
-  * 35분(2026-06-06). 0:00 GraphRAG란 / 13:06 Knowledge Graph / 22:46 Neo4j×LangChain 실습. RAG 4단계(로드→스플릿→임베딩→스토어)와 벡터 유사도 검색의 한계를 'VIP 고객은 수수료 면제 / 단 해외송금은 예외 / 2025-03 이후 가입자 적용'이 세 청크로 갈라져 한 청크만 검색되면 틀린 답이 나오는 예로 설명하고, 관계로 문맥을 잇는 GraphRAG가 왜 필요한지로 이어감
+  * 0:00 GraphRAG란 / 13:06 Knowledge Graph / 22:46 Neo4j×LangChain 실습. RAG 4단계(로드→스플릿→임베딩→스토어)와 벡터 유사도 검색의 한계를 'VIP 고객은 수수료 면제 / 단 해외송금은 예외 / 2025-03 이후 가입자 적용'이 세 청크로 갈라져 한 청크만 검색되면 틀린 답이 나오는 예로 설명하고, 관계로 문맥을 잇는 GraphRAG가 왜 필요한지로 이어감
 * [지식그래프는 "검색 기술"이 아닙니다 | Sanguine Kim | LinkedIn](https://www.linkedin.com/posts/sanguinekim_%EC%A7%80%EC%8B%9D%EA%B7%B8%EB%9E%98%ED%94%84%EB%8A%94-%EA%B2%80%EC%83%89-%EA%B8%B0%EC%88%A0%EC%9D%B4-%EC%95%84%EB%8B%99%EB%8B%88%EB%8B%A4-%EB%A7%8E%EC%9D%80-%EB%B6%84%EB%93%A4%EC%9D%B4-%EC%A7%80%EC%8B%9D%EA%B7%B8%EB%9E%98%ED%94%84%EB%A5%BC-graph-share-7465326198508789761-L14C/)
   * Graph DB·RDF·Cypher/SPARQL 같은 기술 키워드가 아니라 **AI가 따라갈 수 있는 관계의 길**을 만드는 것이 지식그래프의 본질이라는 글—PDF 임베딩·Vector DB 검색으로 시작한 RAG가 "이 고객의 최근 이슈와 관련된 제품 정책·담당자 판단·과거 장애 기록·계약 조건을 함께 보고 답해줘" 같은 실무 질문(흩어진 문서, 여러 이름의 같은 고객, 바뀌는 정책·담당자, 오래된 근거, 사람마다 다른 권한)에 부딪히면 엔티티·관계·속성·출처·근거·최신성·권한이 함께 움직이는 문제가 되므로 지식그래프를 5단계 구조로 봐야 한다고 정리
 * ["온톨로지를 말로 풀어서 쓰면 됩니다" 딥러닝 10년 CTO가 만든 방법 (제네시스랩 유대훈 CTO님) | 빌더 조쉬 Builder Josh - YouTube](https://www.youtube.com/watch?v=b6phhtUi0hs)
-  * HOW I AI 팟캐스트 48분(2026-10-20). 뷰인터 HR 면접 플랫폼 등 딥러닝 모델 10개 이상을 만든 제네시스랩이 기업용 에이전트 빌더 에이전트리아(Agentria)에 담은 'prose-first 온톨로지' 슬립박스(Slipbox)—팔란티어처럼 데이터를 한곳에 모으는 대신 기존 시스템은 그대로 두고 관계와 용어를 마크다운 글로 써서 LLM이 컴파일하게 함("모든 걸 그래프로 할 필요는 없다", 페이지 하나가 작은 온톨로지). 슬립박스 에이전트가 페이지를 읽고 판단해 설명하는 실제 화면, 온톨로지·사내 지식 자산화를 고민하는 AX 담당자가 사내를 설득할 언어
+  * 뷰인터 HR 면접 플랫폼 등 딥러닝 모델 10개 이상을 만든 제네시스랩이 기업용 에이전트 빌더 에이전트리아(Agentria)에 담은 'prose-first 온톨로지' 슬립박스(Slipbox)—팔란티어처럼 데이터를 한곳에 모으는 대신 기존 시스템은 그대로 두고 관계와 용어를 마크다운 글로 써서 LLM이 컴파일하게 함("모든 걸 그래프로 할 필요는 없다", 페이지 하나가 작은 온톨로지). 슬립박스 에이전트가 페이지를 읽고 판단해 설명하는 실제 화면, 온톨로지·사내 지식 자산화를 고민하는 AX 담당자가 사내를 설득할 언어
 * [Create Context Graph — CLI scaffolding for AI agent apps with Neo4j](https://create-context-graph.dev/)
   * [create-context-graph](https://github.com/neo4j-labs/create-context-graph)
   * FastAPI+Next.js+Neo4j로 도메인별 AI 에이전트 앱 5분 생성. 대화·지식 그래프·결정 추적 3가지 메모리

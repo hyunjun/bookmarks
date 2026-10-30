@@ -245,7 +245,7 @@ C
     * [Introduction to Zig](https://pedropark99.github.io/zig-book/)
   * [ziglings: Learn the Zig programming language by fixing tiny broken programs](https://github.com/ratfactor/ziglings)
   * [Zig 2026: No-AI Policy, $670K Foundation, Left GitHub & Why Zig Isn't 1.0 - Andrew Kelley Explains | JetBrains - YouTube](https://www.youtube.com/watch?v=iqddnwKF8HQ)
-    * 1시간 13분(2026-05-27). 2018년 퇴사해 언어를 만든 Andrew Kelley와의 대담—Ghostty·TigerBeetle·Bun·Uber의 크로스 컴파일에 쓰이고 Stack Overflow 선호도 톱5인데 10년째 1.0이 없는 이유(의도적, "worse is better"), 67만 달러 Zig Foundation 재정과 본인 연봉 15.4만 달러, Reddit·Twitter·GitHub을 떠나 Codeberg로 간 이유, LLVM에서 벗어나 100만 줄 50ms 컴파일, LLM/AI 기여 금지 정책과 AI 생성물 탐지법, vibe coding에 대한 생각, "Zig은 C 자체보다 C를 더 끌어안는다", Zig vs Rust, 미사용 변수·I/O 인터페이스, C에서 Zig으로 옮기기
+    * 2018년 퇴사해 언어를 만든 Andrew Kelley와의 대담—Ghostty·TigerBeetle·Bun·Uber의 크로스 컴파일에 쓰이고 Stack Overflow 선호도 톱5인데 10년째 1.0이 없는 이유(의도적, "worse is better"), 67만 달러 Zig Foundation 재정과 본인 연봉 15.4만 달러, Reddit·Twitter·GitHub을 떠나 Codeberg로 간 이유, LLVM에서 벗어나 100만 줄 50ms 컴파일, LLM/AI 기여 금지 정책과 AI 생성물 탐지법, vibe coding에 대한 생각, "Zig은 C 자체보다 C를 더 끌어안는다", Zig vs Rust, 미사용 변수·I/O 인터페이스, C에서 Zig으로 옮기기
   * [Systems Programming with Zig • Garrison Hinson-Hasty & Trevor Berrange Sanchez • GOTO 2026 - YouTube](https://www.youtube.com/watch?v=4kpk6c_5wG4)
     * GOTO Book Club 38분. 『Systems Programming with Zig』 저자이자 Zig 컴파일러 기여자가 자주 깨지는 pre-1.0 언어에 책을 쓴 이유(마지막 7장을 0.16에 맞춰 개정 중)—느린 1.0 행보가 기능이며 지금 배우면 왜 그 결정들이 유지되는지 알게 됨. Zig은 추상화를 쌓는 대신 검증된 아이디어를 재사용하고 "너무 많이 더하지 않는" 반문화적 언어로, '단순함'은 기계가 하는 일에 비해 단순하다는 뜻(정수·포인터 타입이 어셈블리 관점의 데이터와 맞닿음). 6장 CHIP-8 인터프리터 예, 문자열 타입이 없는 이유(길이 있는 바이트열, 인코딩은 사용자 몫)와 Rust 대비
 

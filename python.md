@@ -334,7 +334,7 @@ Python
   * [2016 데이터 과학 여름학교 Labs](https://www.youtube.com/playlist?list=PLBHVuYlKEkUJ6WPJZ2uRAt5u0OMVVoGEQ)
 * [Ecosystem of Python](http://readme.skplanet.com/wp-content/uploads/%ED%8A%B8%EB%9E%993-1.%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%97%90%EC%BD%94%EC%8B%9C%EC%8A%A4%ED%85%9C.pdf)
 * [From Code to Execution: Python’s Complete Ecosystem Explained in 12 Minutes | Cloud X Berry - YouTube](https://www.youtube.com/watch?v=iDwVm6r33L0)
-  * 12분(2026-10-07). `print("Hello")` 한 줄 뒤에서 일하는 시스템—언어 자체와 인터프리터·표준 라이브러리·패키지 생태계를 분리해 설명하는 입문 영상. '인터프리트'의 실제 의미(Java·C#과 달리 별도 빌드 단계가 없고 오류는 그 줄이 실행될 때 드러나므로 테스트가 더 중요), 바이트코드와 Python 가상 머신, 라이브러리(Requests·Pandas·Pillow) vs 프레임워크(Django·Flask)—누가 누구를 호출하는가, pip과 PyPI, 초보자가 가장 많이 걸리는 환경·버전 충돌과 가상 환경을 항상 쓰는 이유, 에디터(VS Code·PyCharm·Jupyter) 비교, Python 2는 끝났고 어떤 3.x를 쓸지, 시스템 Python에 의존하지 말아야 하는 이유, 사람들이 실제로 Python으로 만드는 것, 그리고 Python이 적합하지 않은 경우
+  * `print("Hello")` 한 줄 뒤에서 일하는 시스템—언어 자체와 인터프리터·표준 라이브러리·패키지 생태계를 분리해 설명하는 입문 영상. '인터프리트'의 실제 의미(Java·C#과 달리 별도 빌드 단계가 없고 오류는 그 줄이 실행될 때 드러나므로 테스트가 더 중요), 바이트코드와 Python 가상 머신, 라이브러리(Requests·Pandas·Pillow) vs 프레임워크(Django·Flask)—누가 누구를 호출하는가, pip과 PyPI, 초보자가 가장 많이 걸리는 환경·버전 충돌과 가상 환경을 항상 쓰는 이유, 에디터(VS Code·PyCharm·Jupyter) 비교, Python 2는 끝났고 어떤 3.x를 쓸지, 시스템 Python에 의존하지 말아야 하는 이유, 사람들이 실제로 Python으로 만드는 것, 그리고 Python이 적합하지 않은 경우
 * 한국의 파이썬 소식
   * [6월 둘째 주](http://raccoonyy.github.io/python-news-for-korean-2nd-week-june/index.html)
   * [6월 셋째 주](http://raccoonyy.github.io/python-news-for-korean-3rd-week-june/index.html)
@@ -3567,7 +3567,7 @@ Python
     * 하나의 반응형 marimo 노트북을 리포트·대시보드·랩·슬라이드 같은 여러 뷰로—데이터·계산·컨트롤은 노트북에 두고 청중별 뷰를 각자의 프런트엔드 프로젝트로 만들며, 뷰가 노트북의 라이브 셀·컨트롤을 렌더링해 입력을 바꾸면 의존 결과가 갱신되고 모든 결과가 계산한 셀로 추적됨. Claude Code·Codex에 `uvx --with marimo-studio agent-plugins read marimo-studio`로 Studio의 에이전트용 지침을 읽혀 스크롤리텔링 리포트·슬라이드를 만들게 하거나, Studio 툴바의 Add view로 직접 작성. 실험 단계. Python, Apache-2.0
   * 반응형 Python 노트북—변수 의존성을 추적해 연결된 셀을 자동 갱신, 순수 .py 파일이라 Git 친화적, 인터랙티브 UI 요소와 웹 앱 변환 지원
   * [Jupyter, Streamlit 대신 다음 세대를 위한 파이썬 Marimo | 오늘코드todaycode - YouTube](https://www.youtube.com/watch?v=D4o8PWIc2gs)
-    * 43분(2026-10-19). PyCon JP 2026 키노트에서 Jupyter 공동 제작자 Carol Willing이 "다음 세대를 위한 파이썬"으로 소개한 Marimo를 다루게 된 계기(발표자도 라이트닝 토크에 올라 "요즘 Jupyter를 안 쓰는 이유" 발표). 공공데이터포털 국민연금 사업장 가입 현황 데이터로 기업별 입·퇴사 추정·추정 연봉 대시보드를 Antigravity CLI+Gemini 1.5 Pro에 한두 줄 프롬프트("이 데이터로 종합 Marimo 대시보드 만들어줘", "필터와 KPI 카드 추가")로 만든 시연
+    * PyCon JP 2026 키노트에서 Jupyter 공동 제작자 Carol Willing이 "다음 세대를 위한 파이썬"으로 소개한 Marimo를 다루게 된 계기(발표자도 라이트닝 토크에 올라 "요즘 Jupyter를 안 쓰는 이유" 발표). 공공데이터포털 국민연금 사업장 가입 현황 데이터로 기업별 입·퇴사 추정·추정 연봉 대시보드를 Antigravity CLI+Gemini 1.5 Pro에 한두 줄 프롬프트("이 데이터로 종합 Marimo 대시보드 만들어줘", "필터와 KPI 카드 추가")로 만든 시연
     * Jupyter와의 차이: 출력까지 담긴 JSON(.ipynb) vs 코드만 있는 순수 .py, 실행 순서에 따라 숨은 상태가 쌓이는 REPL vs 변수 정의·참조를 분석해 의존 셀을 함께 실행하고 셀을 지우면 변수도 메모리에서 제거하는 반응형 실행, `%`/`!` 매직 미지원 대신 내장 패키지 관리·서버 프로세스, `marimo convert`로 기존 노트북 변환. Streamlit은 인터랙션마다 스크립트 전체를 재실행해 느린데 Marimo는 의존 셀만. WebAssembly 노트북은 서버 없이 브라우저에서 Python 실행—단 스레드 락·공유 메모리 미지원, 메모리 약 2GB 제한, pdb 미지원, Chrome 권장, 공식 문서는 튜토리얼·교육·가벼운 탐색용으로 쓰고 무거운 연산은 로컬·서버에서 하라고 안내
 * [Mercury – Build Data Web Apps in Jupyter Notebook](https://runmercury.com/)
   * [mercury 시작](https://brunch.co.kr/@fermat39/143)
@@ -3793,7 +3793,7 @@ Python
   * opentemplate — 최신 개발·보안·CI/CD 설정을 포함한 프로젝트 템플릿
   * Pyrefly — Meta의 Rust 기반 고성능 타입 체커
 * [7 Python Libraries Powered by Rust 🦀 | Byte Without Bite - YouTube](https://www.youtube.com/watch?v=GcerLt86Pmc)
-  * 7분(2026-10-20). 2025 Python Language Summit 보고로 PyPI 신규 프로젝트 네이티브 코드의 25~33%가 Rust, JetBrains 조사에서 Python 바이너리 확장의 Rust 사용률 27%→33%로 1년 만에 상승—Rust를 배우지 않고 Python을 쓰면서 뒷단만 Rust인 7개 도구 소개
+  * 2025 Python Language Summit 보고로 PyPI 신규 프로젝트 네이티브 코드의 25~33%가 Rust, JetBrains 조사에서 Python 바이너리 확장의 Rust 사용률 27%→33%로 1년 만에 상승—Rust를 배우지 않고 Python을 쓰면서 뒷단만 Rust인 7개 도구 소개
   * uv(pip 대비 10~100배, 가상환경+패키지 관리 통합)·Ruff(Flake8·Black·isort를 `ruff format`/`ruff check --fix`로 대체, 800+ 규칙)·xy(Reflex가 내놓은 Rust 코어+WebGL2 플로팅, 1억 포인트까지 실시간 팬·줌, CSS/Tailwind 스타일링, Plotly·Matplotlib의 JSON 직렬화 병목 회피)·Granian(Hyper·Tokio 기반 HTTP 서버, ASGI·WSGI·자체 RSGI 지원)·Polars(멀티코어·지연 평가·스트리밍으로 pandas 대체)·Pydantic(Rust 검증 코어)·orjson(datetime·UUID·dataclass·NumPy 지원 고속 JSON)
 * [5 Python Libraries That Feel Illegal to Know | Byte Without Bite - YouTube](https://www.youtube.com/watch?v=o9Tgv4oZ3K4)
   * 6분 소개—Manim(3Blue1Brown식 수학·기술 애니메이션을 코드로), Faker(이름·이메일·주소·회사 등 테스트 데이터 대량 생성), Gradio(ML 모델·함수를 인터랙티브 웹 UI로, Hugging Face 데모 표준), Diagrams(AWS·Azure·GCP·K8s 아이콘으로 아키텍처 다이어그램을 코드로), Marimo(변수 의존성을 추적해 셀을 자동 갱신하는 반응형 노트북, Git 친화적·웹 앱 변환 가능)
@@ -6031,11 +6031,11 @@ Python
 * [Pyrefly: A Fast Python Type Checker and Language Server](https://pyrefly.org/)
   * [pyrefly: A fast type checker and language server for Python | facebook](https://github.com/facebook/pyrefly)
   * [Pyrefly v1.0.0 is here! | Meta Open Source - YouTube](https://www.youtube.com/watch?v=_o0TZG_xrys)
-    * 4분(2026-05-13). Meta가 만든 빠른 오픈소스 Python 타입 체커·언어 서버 Pyrefly v1.0.0 프로덕션 출시 소개, 에이전트가 Pyrefly를 쓰게 하는 팁 링크
+    * Meta가 만든 빠른 오픈소스 Python 타입 체커·언어 서버 Pyrefly v1.0.0 프로덕션 출시 소개, 에이전트가 Pyrefly를 쓰게 하는 팁 링크
   * [Lessons from Pyre that Shaped Pyrefly](https://pyrefly.org/blog/lessons-from-pyre/)
     * Pyre 개발 경험에서 얻은 교훈이 Pyrefly 설계에 어떤 영향을 미쳤는지 분석
   * [Why You NEED This New Python Tool | Tech With Tim - YouTube](https://www.youtube.com/watch?v=lFA-zuZRG4Q)
-    * 17분(2026-09-29). 실행은 되는데 출시되면 안 될 줄에서 터지는 코드—Python은 실행 전까지 타입을 검사하지 않고 타입 힌트만으로는 막지 못한다는 설명에서 시작해 정적 타입 체커가 무엇인지, Pyrefly 설치·사용, mypy에서 마이그레이션, 타입 검사 데모, 속도 테스트, 에이전트에서 Pyrefly 쓰기(AI가 쓴 Python의 타입 버그 잡기)까지 시연
+    * 실행은 되는데 출시되면 안 될 줄에서 터지는 코드—Python은 실행 전까지 타입을 검사하지 않고 타입 힌트만으로는 막지 못한다는 설명에서 시작해 정적 타입 체커가 무엇인지, Pyrefly 설치·사용, mypy에서 마이그레이션, 타입 검사 데모, 속도 테스트, 에이전트에서 Pyrefly 쓰기(AI가 쓴 Python의 타입 버그 잡기)까지 시연
   * Meta가 Pyre의 교훈 위에 Rust로 다시 만든 Python 타입 체커+언어 서버. Meta 인프라(166코어) 기준 초당 185만 줄 검사, PyTorch 코드베이스 전체 검사 벤치마크에서 Pyright·mypy 대비 빠름을 내세우고 에디터 자동완성·즉시 피드백, AI 에이전트가 작성한 Python 검증 용도 강조. Instagram·PyTorch 프로덕션에서 사용 중, 무료·오픈소스
 * [pyright - Static type checker for the Python language](https://github.com/Microsoft/pyright)
 * [pytype - A static analyzer for Python code](https://github.com/google/pytype)

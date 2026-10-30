@@ -1846,7 +1846,7 @@ Programming
   * 2026-01-21, 65분. 『The Software Architect Elevator』의 Gregor Hohpe(전 Google·AWS)가 말하는 엔지니어에서 아키텍트로 가는 법—"아키텍트는 방에서 가장 똑똑한 사람이 되려 하지 말고 모두를 더 똑똑하게 만들어야 한다". 나쁜 아키텍트와 증폭기형 아키텍트 구분, 아키텍트의 진짜 가치는 리스크를 낮추는 것(위장한 리스크 매니저), 불명확한 요구사항을 시각화하는 "Phantom Sketch Artist" 기법, 나쁜 결정에 반대하기 위한 정치적 자본 쌓기, 단순한 아키텍처가 가장 만들기 어려운 이유
 * [자주 보는 개발 설계 패턴 가지 탄 | 커리어리](https://careerly.co.kr/comments/78185)
 * [10 Backend Design Pattern Laws of Senior Engineers and Architects | Cloud X Berry - YouTube](https://www.youtube.com/watch?v=b4IlyJSIlL0)
-  * 14분(2026-10-16). 처음엔 단순했던 백엔드가 기능·개발자·비즈니스 변경이 쌓이며 손대기 위험해지는 순간을 위한 패턴 10개를 문제 하나씩 초보자용으로—Repository(DB 접근을 비즈니스 로직 밖으로, 목으로 테스트하고 MySQL→PostgreSQL 교체), Factory(Stripe·Razorpay·PayPal 같은 결제 제공자를 한곳에서 생성), Singleton(설정·로깅 공유 인스턴스와 과용의 함정), Strategy(쌓여 가는 할인 if-else를 교체 가능한 전략으로), Observer(주문 서비스가 이벤트를 발행) 등
+  * 처음엔 단순했던 백엔드가 기능·개발자·비즈니스 변경이 쌓이며 손대기 위험해지는 순간을 위한 패턴 10개를 문제 하나씩 초보자용으로—Repository(DB 접근을 비즈니스 로직 밖으로, 목으로 테스트하고 MySQL→PostgreSQL 교체), Factory(Stripe·Razorpay·PayPal 같은 결제 제공자를 한곳에서 생성), Singleton(설정·로깅 공유 인스턴스와 과용의 함정), Strategy(쌓여 가는 할인 if-else를 교체 가능한 전략으로), Observer(주문 서비스가 이벤트를 발행) 등
 * [Design Patterns: Build better software from day one — Marine Guyot - YouTube](https://www.youtube.com/watch?v=mB5uGoXYG3A)
   * [디자인 패턴: 소프트웨어 구축 및 연구 활용 | Marine Guyot](https://livewiki.com/ko/content/design-patterns-software-build)
 * [LINE LIVE 채팅 기능의 기반이 되는 아키텍처](http://developers.linecorp.com/blog/ko/?p=290)
@@ -1884,7 +1884,7 @@ Programming
 * [데이터센터 모놀리스에서 클라우드 쿠버네티스: 클라우드 네이티브로의 성공적인 이전을 위한 전략](https://drive.google.com/file/d/1phjKwPQp7fSqyDeHRQFAbGn5D0_H_U9G/view)
 * [Beyond the Distributed Monolith: Rearchitecting the Big Data Platform](https://www.infoq.com/presentations/bbc-distributed-monolith-microservices/)
 * [How much slower are Microservices? (I tested) | Arjay McCandless - YouTube](https://www.youtube.com/watch?v=bhklFv_VRq8)
-  * 13분(2026-10-20). 같은 Go 앱을 모놀리식과 4개 서비스로 각각 만들어 월 $112 동일 예산(8코어 1대 vs 2코어 4대)으로 부하 테스트—HTTP vs gRPC, 측정 부하에 맞춘 하드웨어 재배치까지 비교해 마이크로서비스로 쪼갤 때 네트워크·API 통신으로 잃는 성능을 실측. 추가 CPU가 어디로 가는지, 서버리스라면 무엇이 필요한지, 그럼에도 팀이 마이크로서비스를 택하는 이유(blast radius 등)까지 다룸
+  * 같은 Go 앱을 모놀리식과 4개 서비스로 각각 만들어 월 $112 동일 예산(8코어 1대 vs 2코어 4대)으로 부하 테스트—HTTP vs gRPC, 측정 부하에 맞춘 하드웨어 재배치까지 비교해 마이크로서비스로 쪼갤 때 네트워크·API 통신으로 잃는 성능을 실측. 추가 CPU가 어디로 가는지, 서버리스라면 무엇이 필요한지, 그럼에도 팀이 마이크로서비스를 택하는 이유(blast radius 등)까지 다룸
 * [플러그를 꽂듯 결합이 되어야 진정 모듈화라 부를 만하다](https://brunch.co.kr/@graypool/2805)
   * 공개 프로젝트의 모듈화는 내부 의존성과 배포 이식성 두 측면을 구분해 관리해야 하며, 실제 서버 배포에서 PostgreSQL·PM2·SSL 인증서를 통합하려면 쉘 스크립트로 조율해야 함
   * 진정한 모듈화는 규격화된 플러그를 꽂듯 각 요소가 오차 없이 결합되는 "접합부 통합의 엔지니어링"으로 완성된다는 관점
@@ -2724,7 +2724,7 @@ Programming
 * [아키텍처 그림, 문서 쉽게 만들기 | C4 · ADR · arc42 - YouTube](https://www.youtube.com/watch?v=LaLtZsRWFMc)
   * 코딩하는기술사. 아키텍처 문서화의 공신력 있는 기준 3가지—C4 Model(다이어그램 그리는 방법), ADR(결정 근거 기록), arc42(문서 목차·템플릿)—과 셋의 관계, 문서화 안티패턴, 시작하는 법. AI 시대에 아키텍처 기록이 더 중요해지는 이유
 * [I Bet Nobody Has Ever Explained the Backend Ecosystem Like This Before | Cloud X Berry - YouTube](https://www.youtube.com/watch?v=mZ27vUoOEB0)
-  * 12분(2026-10-05). 백엔드 로드맵의 수십 가지 도구 이름(Spring Boot·Docker·Kubernetes·Redis·Kafka·PostgreSQL·Jenkins·AWS·Prometheus 등)을 외울 목록이 아니라 각자가 푸는 공학 문제로 보게 하자며, 쇼핑 사이트에서 노트북을 장바구니에 넣고 결제해 '주문하기'를 누르는 요청 하나를 끝까지 따라감—리버스 프록시(NGINX)가 요청을 알맞은 백엔드 서비스로 라우팅→Spring Boot·ASP.NET Core·Express·Django 같은 프레임워크가 인증(세션·JWT·OAuth·OpenID Connect)으로 누구인지 확인→DB에 주문을 읽고 저장(앱의 장기 기억)→Redis 캐시로 반복 작업 회피(히트·미스, 캐시가 DB를 대체하지 못하는 이유)→재고·배송·이메일·분석 같은 느린 후속 작업은 Kafka·RabbitMQ 메시지 큐로 넘겨 사용자를 기다리게 하지 않음
+  * 백엔드 로드맵의 수십 가지 도구 이름(Spring Boot·Docker·Kubernetes·Redis·Kafka·PostgreSQL·Jenkins·AWS·Prometheus 등)을 외울 목록이 아니라 각자가 푸는 공학 문제로 보게 하자며, 쇼핑 사이트에서 노트북을 장바구니에 넣고 결제해 '주문하기'를 누르는 요청 하나를 끝까지 따라감—리버스 프록시(NGINX)가 요청을 알맞은 백엔드 서비스로 라우팅→Spring Boot·ASP.NET Core·Express·Django 같은 프레임워크가 인증(세션·JWT·OAuth·OpenID Connect)으로 누구인지 확인→DB에 주문을 읽고 저장(앱의 장기 기억)→Redis 캐시로 반복 작업 회피(히트·미스, 캐시가 DB를 대체하지 못하는 이유)→재고·배송·이메일·분석 같은 느린 후속 작업은 Kafka·RabbitMQ 메시지 큐로 넘겨 사용자를 기다리게 하지 않음
   * 이어서 줌아웃—"내 컴퓨터에선 되는데"를 고치는 Docker 컨테이너, 연휴 세일에 수천 개 컨테이너를 유지하는 Kubernetes, 그것들이 돌아가는 AWS·Azure·Google Cloud, 변경을 안전하게 배포하는 CI/CD 파이프라인, 고객보다 먼저 문제를 발견하는 Prometheus·Grafana 모니터링까지 전체 그림을 맞추고, 로드맵을 볼 때 각 도구가 어떤 문제를 푸는지 묻는 쪽으로 질문을 바꾸자는 결론. 로드맵에 압도된 입문자, 브라우저 밖에서 벌어지는 일을 알고 싶은 프런트엔드 개발자, 백엔드·시스템 디자인 면접 준비자 대상
 * [Strangling the dragon: modernizing legacy systems with the Strangler Fig pattern by Daniel Ranela | Devoxx - YouTube](https://www.youtube.com/watch?v=AmL_OCs5F4E)
   * Devoxx Belgium 2026(35분). 레거시 시스템을 한 번에 갈아엎지 않고 새 시스템이 기존 기능을 하나씩 가로채며 점진적으로 대체하는 Strangler Fig 패턴으로 현대화하는 발표. 자막을 받지 못해 제목·발표 정보만 기록
@@ -5014,7 +5014,7 @@ Programming
 * [인터프리터 vs 컴파일러: 프로그래밍 언어계의 토끼와 거북이 - 모두의연구소](https://modulabs.co.kr/blog/interpreter-and-compiler/)
 * [일부 프로젝트에서 여러 프로그래밍 언어를 사용하는 이유 - YouTube](https://www.youtube.com/watch?v=XJC5WB2Bwrc)
 * [Writing a compiler from scratch - Erik Schierboom - NDC Oslo 2026 | NDC Conferences - YouTube](https://www.youtube.com/watch?v=tYFljFUaAw0)
-  * NDC Oslo 2026, 62분(2026-10-07 공개). Exercism의 Erik Schierboom이 라이브 코딩으로 컴파일러를 처음부터 만들어 구조를 해설—기본 산술과 변수를 지원하는 단순한 동적 언어를 대상으로 렉싱→파싱→컴파일 단계가 어떻게 서로 쌓이는지 보이고, 마지막에 컴파일된 바이트코드를 실행하는 런타임을 만들어 언어를 동작시킴. 컴파일러가 어떻게 구성되는지와 직접 하나 써 보려면 어디서 시작할지 이해하는 것이 목표인 세션(#dotnet 태그)
+  * Exercism의 Erik Schierboom이 라이브 코딩으로 컴파일러를 처음부터 만들어 구조를 해설—기본 산술과 변수를 지원하는 단순한 동적 언어를 대상으로 렉싱→파싱→컴파일 단계가 어떻게 서로 쌓이는지 보이고, 마지막에 컴파일된 바이트코드를 실행하는 런타임을 만들어 언어를 동작시킴. 컴파일러가 어떻게 구성되는지와 직접 하나 써 보려면 어디서 시작할지 이해하는 것이 목표인 세션(#dotnet 태그)
 * [CompilerJobs | A listing of compiler, language and runtime teams for people looking for jobs in this area](https://mgaudet.github.io/CompilerJobs/)
 * [Decompiler Explorer](https://dogbolt.org/)
 * [pl0c: PL/0 to C compiler to teach basic compiler construction from a practical, hands-on perspective](https://github.com/ibara/pl0c)
