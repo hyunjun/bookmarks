@@ -2774,6 +2774,9 @@ App
   * 프롬프트로 영상을 편집하는 AI 비디오 에디터
 * [Cleanup.pictures - Remove objects, people, text and defects from any picture for free](https://cleanup.pictures/)
   * [Cleanup Pictures - 사진에서 필요없는 부분 지우기 | GeekNews](https://news.hada.io/topic?id=5843)
+* [Clearcam: AI Detection and Search for CCTV Cameras](https://clearcam.org/)
+  * [clearcam: Add object detection, tracking, mobile notifications, and search to any security camera | roryclear](https://github.com/roryclear/clearcam)
+  * 같은 네트워크의 RTSP 카메라에 객체 감지·추적·검색·AI 알림 요약(Qwen3 VL)을 더하는 오픈소스(Python+FFmpeg+tinygrad, M시리즈 Mac 권장, 2.1k stars). 침입자 감지·교통량 집계·특정 차량 식별을 클라우드 없이 내 컴퓨터에서 로컬 처리. 기본 소프트웨어 무료, 원격 보기·iOS/Android 앱 알림·클라우드 저장은 프리미엄 월 €1
 * [cmdpxl: totally practical command-line image editor](https://github.com/knosmos/cmdpxl)
 * [Compositor – The Photoshop alternative for Mac](https://robbietilton.com/compositor)
   * [Compositor: The Photoshop alternative for Mac | robbietilton](https://github.com/robbietilton/Compositor)
