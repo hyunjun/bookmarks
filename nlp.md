@@ -4723,6 +4723,9 @@ NLP
   * [로컬 LLM 추론 쪽에서 흥미로운 프로젝트가 하나 등장했습니다. Strata라는 오픈소스 inference engine | 박정태 | LinkedIn](https://www.linkedin.com/posts/%EC%A0%95%ED%83%9C-%EB%B0%95-956aba256_%EB%A1%9C%EC%BB%AC-llm-%EC%B6%94%EB%A1%A0-%EC%AA%BD%EC%97%90%EC%84%9C-%ED%9D%A5%EB%AF%B8%EB%A1%9C%EC%9A%B4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EA%B0%80-%ED%95%98%EB%82%98-%EB%93%B1%EC%9E%A5%ED%96%88%EC%8A%B5%EB%8B%88%EB%8B%A4-strata%EB%9D%BC%EB%8A%94-share-7513104372701163520-0H2m/)
     * VRAM→RAM→SSD를 계층적으로 쓰는 메모리 관리로 12GB급 소비자 GPU에서 125B 모델 구동. 공개 벤치마크는 Qwen3.8-Flash-Next 125B 기준 RTX 5070 12GB 약 55~94 tok/s, RTX 5090 약 100~140 tok/s(포스트 표기). 로컬 추론에서 메모리의 경계가 VRAM 하나에서 시스템 전체(VRAM+RAM+SSD)로 확장되고 있다는 점이 핵심이라는 평. MIT, 26.6k stars
   * 게이밍 PC(NVIDIA 12~24GB + RAM 64GB)에서 125B MoE 모델을 60~95 tok/s로 구동하는 원클릭 추론 엔진. localhost에 OpenAI/Anthropic 호환 API 제공, 이미지 입력 지원. C++
+* [Survival LLM: 인터넷 없이 작동하는 AI 어시스턴트](https://www.brangus.io/survival-llm)
+  * [survival-llm: A free AI assistant and survival library that runs on your own computer, with no internet needed. Shows the source of every answer](https://github.com/anonnerdfrenzy/survival-llm)
+  * 내 컴퓨터에서 완전히 오프라인으로 돌아가는 무료 오픈소스 재난·응급용 AI(Mac Apple Silicon·Windows, 엔진 Ollama). 정전 시 식품 보관·화상 처치·정수 같은 질문에 Wikipedia 다독 93만 건·WikiMed·MedlinePlus·WikEM·Ready.gov·CDC·FEMA/미군 생존·응급처치 매뉴얼·USDA 통조림 가이드 등 약 150만 건(Essentials 50만 건) 오프라인 라이브러리를 검색해 답하고, 답마다 인용 구절·라이선스를 하이라이트해 보여줌. 컴퓨터 메모리에 맞는 모델 자동 추천(최대 80GB), 추론 과정 표시·추론 예산 조절, 시스템 지시문 편집, 내 PDF·Word·EPUB(발전기 매뉴얼·약 목록·가족 비상 계획) 추가 검색, 메모리 노트, 자체 업데이트
 * [synthid-text](https://github.com/google-deepmind/synthid-text)
   * [구글 딥마인드, LLM이 생성한 텍스트를 워터마킹하고 감지하는 SynthID를 오픈소스로 | GeekNews](https://news.hada.io/topic?id=17508)
 * [🆓 Ternary Bonsai 2 27B 설치·사용 가이드: 5.9GB 로컬 구동과 브라우저 데모 총정리 | fornewchallenge](https://fornewchallenge.tistory.com/entry/%F0%9F%86%93-Ternary-Bonsai-2-27B-%EC%84%A4%EC%B9%98%C2%B7%EC%82%AC%EC%9A%A9-%EA%B0%80%EC%9D%B4%EB%93%9C-59GB-%EB%A1%9C%EC%BB%AC-%EA%B5%AC%EB%8F%99%EA%B3%BC-%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80-%EB%8D%B0%EB%AA%A8-%EC%B4%9D%EC%A0%95%EB%A6%AC)
@@ -6692,6 +6695,9 @@ NLP
 * [Nari Labs: Dia Examples](https://yummy-fir-7a4.notion.site/dia)
   * [dia: A TTS model capable of generating ultra-realistic dialogue in one pass](https://github.com/nari-labs/dia)
     * [Dia-1.6B · Hugging Face](https://huggingface.co/nari-labs/Dia-1.6B)
+* [NVIDIA Nemotron 3.5 Transcribe | NVIDIA Research](https://research.nvidia.com/labs/nemotron/NVIDIA-Nemotron-3.5-Transcribe/)
+  * [NVIDIA Nemotron 3.5 Transcribe - 한국어 포함 40개 언어를 지원 | GeekNews](https://news.hada.io/topic?id=36196)
+  * 전사·화자 구분·음성 번역·언어 식별·오디오 QA를 하나의 오픈 웨이트 모델로 제공하는 NVIDIA 음성 인식 모델(한국어 포함 40개 언어, 최대 1시간 오디오). Transformer-Mamba 하이브리드 MoE로 총 30B 중 약 4B만 활성, 영어 공개 벤치마크 평균 WER 4.71%(GeekNews 기준 5.33%로 공개 모델 1위), 문맥 기반 전사로 고유명사 오류 6배 감소. OpenMDW-1.1 라이선스, BF16·FP8·NVFP4·GGUF 체크포인트와 NeMo Speech 미세조정 도구 제공—의료 도메인 미세조정으로 WER 22.44%→12.17% 개선 사례
 * [neutts: On-device TTS model by Neuphonic](https://github.com/neuphonic/neutts)
   * Neuphonic의 온디바이스 TTS 모델 패밀리—NeuTTS-Air(영어), NeuTTS-Nano 다국어 컬렉션(영어·프랑스어·독일어·스페인어), 감정 제어가 되는 NeuTTS-2E. 각각 Hugging Face 모델과 Q8/Q4 GGUF, 데모 Space 제공. Python
 * [NVIDIA Jarvis | NVIDIA Developer](https://developer.nvidia.com/nvidia-jarvis)
