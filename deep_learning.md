@@ -3304,6 +3304,9 @@ CVPR2016)
   * [Wan-Dancer](https://github.com/Wan-Video/Wan-Dancer)
   * [Wan-Dancer 데모 영상 | Facebook](https://www.facebook.com/watch/?v=1329582308908031)
   * 음악에서 분 단위 길이의 고품질 리듬 댄스 비디오를 생성하는 계층적 프레임워크. 기존 디퓨전 모델이 20초 이후 겪는 시간적 드리프트·정체성 불일치·반복 동작 문제를 해결. 전역 구조와 시간적 연속성 유지. Wan-AI 14B 모델 공개
+* [Xmax AI - API Platform](https://platform.xmax.ai/)
+  * [Xmax AI — Real-time Interactive AI](https://xmax.ai/)
+  * 실시간 인터랙티브 AI 비디오 모델 Xmax X2.1(이전 X2.0)의 API 플랫폼—카메라·영상 입력을 실시간으로 다른 모습·스타일·차원으로 바꾸고 시청자가 채팅으로 의상·동작·표정을 조종하는 Live Transform·Chat Interact·Virtual Try-on·Style Shift. JavaScript SDK(`@xmaxai/web-sdk`, llms.txt·Quick Start 문서 제공, 임시 API 키·파일 업로드). 응용: 라이브 스트리밍 캐릭터 변신, 관광지 시대 의상, 패션 이커머스 실시간 착장, 스마트 글래스로 거리를 반 고흐 그림처럼, 반응하는 반려동물 라이브 배경화면. 자사 제품 XLive Studio·FaceNow·WearNow는 출시 예정. 페이지가 JS 렌더링이라 메타태그·메인 사이트 텍스트 기준
 
 # Tutorial
 * [입문자를 위한 딥러닝 튜토리얼](http://courseshare.co.kr/course/39?pageType=Intro)
