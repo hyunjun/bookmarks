@@ -5843,6 +5843,10 @@ NLP
 * [251227_AI인터시스브랜드(온톨로지논문)](https://aibread.notion.site/251227_AI-2d58d9a8b46080089449e1fc48b42fff)
 * [Disease Ontology](http://www.disease-ontology.org/)
 * [distil-text2sql: Query your data in plain English with a fine-tuned Text2SQL model](https://github.com/distil-labs/distil-text2sql)
+* [open-ontologies: Plan, apply and roll back changes to a production ontology, with a blast radius report and a proof an auditor can re-check | fabio-rovai](https://github.com/fabio-rovai/open-ontologies)
+  * [Tesseract Semantics — enterprise data interoperability platform](https://tesseractsemantics.com/)
+  * 프로덕션 온톨로지 변경을 Terraform처럼 plan→apply→rollback하되, 텍스트 diff가 아니라 **변경의 의미와 파급(blast radius)**을 검사하는 Rust 단일 바이너리(MIT, 2.2k stars, Docker 이미지, JVM·Protégé 불필요, MCP로 Claude·Cursor 연결). 예: `ex:hasParent rdfs:domain ex:Person` 한 줄 추가는 shape diff·blast radius 모두 0이지만 OWL-RL 규칙으로 901개의 새 결과(모든 개체에 새 타입)가 생기는 비보존적 변경임을 0.04초에 드러냄. 실행마다 인증서를 쓰고 `oo-cert`가 Lean 4 증명(`OOCert.certificate_sound`)으로 재검증—다른 사람이 몇 달 뒤 이 소프트웨어·네트워크 없이 확인 가능하고, 위조된 결론은 exit 1과 위반 규칙 이름으로 거부. HQDM의 RDFS/OWL 두 배포본에서 미선언 클래스 23개·잘못된 range 12개·언더스코어만 다른 이름 13쌍, 불만족 클래스 39개(HermiT와 일치)를 찾은 사례. 온톨로지 편집기는 아님(그건 Protégé)
+  * Tesseract Semantics는 이 엔진의 호스팅판·엔터프라이즈 지원—조직 데이터를 규제기관·파트너가 요구하는 형식으로 변환하고 변환 중 손실되는 정보를 정량화하는 데이터 상호운용성 플랫폼. 온톨로지 엔지니어링·기계 검증·크로스워크로 AI 답변 정확도 68.8%→78.0% 주장, 공개 데이터 표준의 결함을 찾아 44개 조직에 PR 22개 병합·이슈 65개 제출, 영국 국방부·Welsh Government·WRAP 등 공공기관 협력
 * [SNOMED CT](http://en.wikipedia.org/wiki/SNOMED_CT)
 * [Text-to-SQL Learning to query tables with natural language](https://medium.com/@aerinykim/text-to-sql-learning-to-query-tables-with-natural-language-7d714e60a70d)
 * [TypeDB: The AI-native database for intelligent systems](https://typedb.com/)
@@ -6740,6 +6744,12 @@ NLP
     * 회의 전사·콘텐츠 제작·통화 분석용 엔드투엔드 오프라인(비실시간) 음성인식 모델. 다국어와 중국 지역 방언 인식, 핫워드·문맥 강화, 화자 분리, 문장부호 예측, 텍스트 정규화, 잡음 환경에서도 안정적인 장시간 오디오 전사, 방언별 제어 가능한 ASR/AST(음성 번역) 출력
   * [Qwen-Audio-3.1-Realtime-Plus | QwenCloud](https://www.qwencloud.com/models/qwen-audio-3.1-realtime-plus)
     * 텍스트·오디오 입출력 풀듀플렉스 실시간 음성 대화 모델. 음성 언어 추론·다중 턴 지시 이행·공감 대화·롤플레이 강화, 잡음 억제와 다자 대화 이해로 끼어들기 처리·발화 종료 대기·자연스러운 턴 테이킹, 다국어 대화와 도구 호출로 지식베이스·업무 시스템 연결, 안전 요청 거부 강화—고객 서비스·업무 협업·음성 컴패니언 용도
+* [Qwen Audio Agent — Real-time Voice Runtime for AI Agents](https://qwenaudio.github.io/qwen-audio-agent/)
+  * [qwen-audio-agent: A realtime voice runtime that keeps Agents talking, working, and present | QwenAudio](https://github.com/QwenAudio/qwen-audio-agent)
+  * [2609.25195 Qwen Audio Agent](https://arxiv.org/abs/2609.25195)
+  * [🎙️ Qwen Audio Agent: 무료 음성 에이전트의 관문은 API 키가 아니라 8765 포트입니다 | fornewchallenge](https://fornewchallenge.tistory.com/entry/%F0%9F%8E%99%EF%B8%8F-Qwen-Audio-Agent-%EB%AC%B4%EB%A3%8C-%EC%9D%8C%EC%84%B1-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EC%9D%98-%EA%B4%80%EB%AC%B8%EC%9D%80-API-%ED%82%A4%EA%B0%80-%EC%95%84%EB%8B%88%EB%9D%BC-8765-%ED%8F%AC%ED%8A%B8%EC%9E%85%EB%8B%88%EB%8B%A4)
+    * 2026-10-30. 게이트웨이는 Realtime 인터페이스만 보기 때문에 음성 처리가 클라우드든 내 PC든 상관없음—Hugging Face speech-to-speech로 VAD·STT·LLM·TTS 4단계를 로컬 8765 포트에 띄우고 `config.env` 값 6개만 바꾸면 API 키 없이 무료 음성 대화. 클라우드↔로컬 전환이 설정값 교체로 끝남
+  * 에이전트가 도구를 호출하거나 작업 중이어도 대화가 끊기지 않고 "준비됐어요"라고 자연스럽게 알려주는 **Agent Presence**를 목표로 한 실시간 음성 런타임(Alibaba Qwen, JavaScript/Node 22+, npm `qwen-audio-agent`, 3k stars). 구조는 음성 프런트엔드(Qwen3.5-Omni Realtime 등 클라우드 또는 로컬 speech-to-speech)+오케스트레이션 런타임(내장 Gateway)+ACP/A2A로 붙는 백엔드 에이전트, 접근은 macOS·Linux 데스크톱 앱(orb 스킨·펫 애니메이션)·TUI/WebUI·모바일·임베디드 Gateway 확장. 2026-07-28 공개→v2.0.0(09-23) 통합 클라이언트 프로토콜·메모리·지식 라이브러리·Agent Skills 설치·웨이크 워드("你好千问")·예약 리마인더
 * [🤖 Qwen3-TTS: AI 음성 합성의 새로운 혁신](https://fornewchallenge.tistory.com/entry/%F0%9F%A4%96-Qwen3-TTS-AI-%EC%9D%8C%EC%84%B1-%ED%95%A9%EC%84%B1%EC%9D%98-%EC%83%88%EB%A1%9C%EC%9A%B4-%ED%98%81%EC%8B%A0-1)
   * [Qwen3 TTS Voice Design - a Hugging Face Space by Qwen](https://huggingface.co/spaces/Qwen/Qwen3-TTS-Voice-Design)
   * [Qwen TTS Clone Demo - a Hugging Face Space by Qwen](https://huggingface.co/spaces/Qwen/Qwen-TTS-Clone-Demo)
