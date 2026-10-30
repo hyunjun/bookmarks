@@ -630,6 +630,10 @@ Artificial Intelligence
 * [Introducing Beam: Reflection's 501B open-weight model](https://reflection.ai/blog/introducing-beam)
   * [Reflection AI의 Beam: 501B 파라미터 오픈 웨이트 모델과 효율적인 AI 추론 기술 | digitalbourgeois](https://digitalbourgeois.tistory.com/3730)
   * Beam: 희소 MoE 모델(총 501B 파라미터, 활성 23B), 코딩·추론·에이전트 작업 최적화. 2.38조 토큰 사전학습(웹+라이선스) + 100M+ 롤아웃 고스케일 RL(10.5K GB300 GPU, 4주). Kimi K3·GLM 5.2·Qwen 3.8-Max·DeepSeek 경쟁 모델 대비 추론 효율 이점. 초기 접근 신청 가능.
+* [AI 만드는 사람들의 위험한 세계관 l 테크 파시즘: 기계신과 제사장, 그리고 제물들 | 씨리얼 - YouTube](https://www.youtube.com/watch?v=oiu9PbazKBM)
+  * ['기계신과 제사장, 그리고 제물들'…기계신을 모시는 제사장들 씨리얼 | CBS노컷뉴스](https://v.daum.net/v/20261030050337762)
+  * 50분(2026-10-29), 미국 현지 취재 다큐멘터리. Meta·Google·OpenAI·Anthropic·xAI 수장 "다섯 남자"가 AI가 풍요를 가져온다는 말과 인류를 멸종시킬 수 있다는 경고를 동시에 하는 이유—둘 다 인간을 뛰어넘는 '기계 신(Machine God)'의 재림이라는 같은 염원(TESCREAL)에서 나오며, 두머 vs 가속주의 내전처럼 보도되지만 본질은 같은 믿음. 초지능을 "쥐어야 할 사람은 우리"라는 교리가 천문학적 자본·정부 권력과 결합
+  * 그 뿌리를 따라가면 인간을 우월한 자와 열등한 자로 나눈 우생학과 만남—Amazon 채용 ML이 여성을 걸러낸 사례, 팔란티어의 ICE 이민 단속 기술에 의료 정보가 쓰일 것을 우려하는 간호사들, 얼굴 인식이 수염을 깎은 배달 기사의 계정을 끊는 현실("제물들"). AI가 파시즘을 만드는 게 아니라 이미 그 경향이 있는 곳에서 사람을 가치 있는 자와 문제인 자로 패턴 분류해 증폭하는 도구라는 결론. 챕터: 기계 신→우월한 종→제물들→최후의 제사장. 한국언론진흥재단 정부광고 수수료 지원 제작
 * [2503.23923 What the F*ck Is Artificial General Intelligence?](https://arxiv.org/abs/2503.23923)
   * [Wontae Lee - 이 논문은 AGI를 ‘인공 과학자’(human scientist)라고 부른다. 단순히 인간과... | Facebook](https://www.facebook.com/wontae.lee.9889/posts/pfbid0gWE7ecSj1rwEaR1gVjfBzSheUepHxYaAzwUTzFnmFeVVLCHWoWtEddyNhZKGsVQ3l)
 * [2512.05765 The Missing Layer of AGI: From Pattern Alchemy to Coordination Physics](https://arxiv.org/abs/2512.05765)
@@ -1292,6 +1296,10 @@ Artificial Intelligence
     * 뉴스레터의 동반 레포. 66개 실전 프로젝트(AI 에이전트 41·RAG 11·멀티모달 6·OCR 4·오디오 3·파인튜닝 1)—각각 완전한 코드·설치 안내·문서 포함, OpenAI·Anthropic·Google·오픈소스 모델 혼용. e.g. Actian VectorAI DB 메모리 위에서 Planner·Research·Writer·Critic이 협업하는 리서치 어시스턴트, Karpathy 큐레이션 블로그 92개를 MiniMax M2.7로 골라 텔레그램에 보내는 일일 뉴스 다이제스트, OpenClaw+GitHub MCP PR 리뷰 에이전트 Eagle Eye, Gemma 4 E2B 비전으로 오프라인 영수증 가계부, GraphRAG·HyDE·하이브리드 RAG, Qwen3.5-2B 파인튜닝 Text-to-SQL. Python, MIT, 4k stars
   * Sumanth P가 쓰는 LLM 앱·AI 에이전트 구축 단계별 튜토리얼 뉴스레터(beehiiv). 매 호 본 글+PLUS 꼭지 구성—최근 호: Jev 스타일 결정 모델 직접 학습, EmbeddingGemma 2 로컬 실행, 마크다운 파일로 에이전트 장기 메모리, 끝까지 통제하는 에이전트 하네스 만들기, 오프라인 트러블슈팅 에이전트, Jev vs LLM 설명, 코드베이스를 질의 가능한 지식 그래프로, Claude Code 출력을 바꾸는 10가지 규칙
   * AI 에이전트가 반복 작업에서 학습한 워크플로우를 메모리로 저장·재사용하여 효율성을 높이는 프레임워크
+* [ai-memory: Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors | akitaonrails](https://github.com/akitaonrails/ai-memory)
+  * [aimemory.sh](https://aimemory.sh)
+  * Claude Code를 작업 중간에 끄고 같은 디렉터리에서 Codex를 켜도 아키텍처·실패한 접근·열린 질문을 다시 설명하지 않게 하는 코딩 에이전트 장기 메모리(Rust, MIT, 14.5k stars). 20개+ 하네스(Claude Code·Codex·Cursor·Gemini CLI·OpenCode·Grok·Devin·Kimi·Kiro 등)가 하나의 공유 메모리에 기록하고, 핸드오프는 소유자가 있고 정확히 한 번 claim되는 타입드 프로토콜. `ai-memory run codex`로 띄우면 요약뿐 아니라 이전 에이전트의 네이티브 세션 기록을 임시 로컬 투영으로 넘겨 세부까지 이어받음(서버엔 하네스·세션 ID만 전송)
+  * 메모리는 내가 운영하는 서버에 살아 프로젝트·머신·팀을 넘어 따라다님—패키지 매니저·테스트 구조 같은 작업 습관 프로필이 새 저장소에도 적용, 팀은 서버 하나를 공유해 프로젝트별 지식은 공유·개인 핸드오프는 비공개(멀티유저 인증·귀속·감사 로그 기본 포함). 원본은 git 기반 위키의 평범한 `.md` 파일(grep·Obsidian·rsync 가능, DB는 재생성 가능한 파생 인덱스, 벡터 스토어 없음). 라이프사이클 훅이 프롬프트·도구 호출·세션 경계를 조용히 기록해 타입드 프라이버시 경계에서 정제한 뒤 서버가 읽기 쉬운 페이지로 통합
 * [AIO Sandbox — All-in-One Agent Sandbox Environment: Browser, Shell, File, VSCode Server, and MCP Hub in One Container](https://sandbox.agent-infra.com/)
   * [sandbox: All-in-One Sandbox for AI Agents that combines Browser, Shell, File, MCP and VSCode Server in a single Docker container | agent-infra](https://github.com/agent-infra/sandbox)
   * [2509.02544 UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning](https://arxiv.org/abs/2509.02544)
@@ -1973,6 +1981,10 @@ Artificial Intelligence
   * [박시용 - PhoneUse, AI 에이전트가 스마트폰을 조작하는 서비스 | Facebook](https://www.facebook.com/syp.sypark/posts/pfbid02xZmu2WKXxTbtxhUyPQec1QjpQCFkmWpenEbf8a8kQjvVTD7sTo2bTqRiNnH7y4pgl)
     * 에뮬레이터·루팅 폰을 탐지해 막는 앱을 우회하려 클라우드 Android(월 $20, ADB 제어)와 샌프란시스코의 실제 iPhone 15 Pro를 로봇 스타일러스로 터치하고 카메라로 화면을 읽는 물리 iPhone(Facebook 글 기준 월 $89, 사이트 기준 retail 실기기 $199)을 제공, Claude·Cursor MCP 연동. 사용자 코멘트: 이미 테스트/QA에서는 사용하던 방식이라 그 자체가 놀랍진 않지만, computer use처럼 agent를 위해 적용했다는 점이 좋다고 생각
   * 클라우드의 실제 iPhone·Android를 AI 에이전트에 제공해 브라우저 자동화로 안 되는 앱 기반 작업(소셜·메신저·기기 무결성 검사가 필요한 서비스)을 수행
+* [Phone Use — the mobile runtime for AI agents on iOS](https://phoneuse.dev/)
+  * [phone-use: Natural-language phone control for AI agents — CLI, MCP server, and agent SDK | npm](https://www.npmjs.com/package/phone-use)
+  * [Phone Use: AI 에이전트가 iPhone 앱을 자율 조작하는 모바일 런타임 | digitalbourgeois](https://digitalbourgeois.tistory.com/4072)
+  * 위 PhoneUse(phoneuse.com, 클라우드 실기기 대여)와는 다른 프로젝트. AI 에이전트가 iOS를 보고 제어하는 모바일 런타임(`npm install -g phone-use`, CLI·SDK·MCP 서버). 스크린샷만이 아니라 접근성 트리로 화면 요소를 구조화해 이해하고, 동작마다 기대한 화면 상태가 됐는지 검증한 뒤 다음 단계로—App Cartographer가 앱 화면·전환을 그래프로 기록해 반복 작업을 재사용하고, 성공한 작업 시퀀스는 모델 호출 없이 실행되는 스킬로 컴파일(예: 2.8초·모델 호출 0회). iOSWorld(133 태스크·26 앱) 자체 측정: 단일 앱 92.6%(베이스라인 81.5%)지만 멀티 앱 33.3%(베이스라인 36.7%), 전체 52.6% vs 51.9%로 차이 미미—개발자 공개 수치라 독립 검증 없음
 * [Pi - There are many coding agents, but this one is mine](https://pi.dev/)
   * [Pi – 간결한 터미널 코딩 하니스 | GeekNews](https://news.hada.io/topic?id=26999)
   * 미니멀한 CLI 코딩 에이전트. 15개+ AI 프로바이더 지원, TypeScript 확장·스킬·테마 커스터마이징, 트리 구조 세션 히스토리, 자동 요약 맥락 관리. MCP 등은 확장으로 직접 구현하는 철학
@@ -2701,6 +2713,9 @@ Artificial Intelligence
   * 장기 실행 LLM 에이전트가 상태 유지·진행 추적·도구 호출·결과 검증·경험 재사용을 위해 의존하는 외부 실행 지원(하네스). 노이즈 섞인 상호작용 트레이스로부터의 상태 형성(state formation)과 외부 상태 접근에 대한 런타임 제어라는 두 결합된 과제를 다룸
   * [Self-Evolving AI: Learning from Its Own Runs | Code Pointer](https://codepointer.dev/p/self-evolving-ai-learning-from-its)
     * 자기 실행 결과로부터 학습하는 AI 딥다이브—모델·하네스·옵티마이저·환경 각각에 대한 변경의 메커니즘, 변경 타이밍, 수용 제어(acceptance control)를 정리
+* [GovCode Harness - 보안이 내재화된 개발 하네스 | ROBOCO](https://roboco.io/govcode-harness-guide)
+  * [govcode-harness: 보안이 내재화된 개발 하네스 — 공공 프로젝트의 보안 기준을 검사·수정 지원·승인·증적으로 연결하는 Apache-2.0 오픈소스 프로젝트 | roboco-io](https://github.com/roboco-io/govcode-harness)
+  * 공공 프로젝트에서 비개발자가 안전하게 바이브 코딩을 하도록 보안 기준을 **검사→수정 지원→재검사→승인·증적**으로 개발 흐름 안에 연결하는 하네스. AI는 설명·수정안을 제안하고 정책 엔진과 필수 검사가 판정, 담당자 승인·서명 증적을 같은 흐름에 둠—개발자(탐지→다음 행동)·보안 검토자(어떤 정책으로 검사하고 누가 승인했는지)·프로젝트 책임자(실행·정책·증적 조회)가 같은 기준으로 협업. 개인정보 로깅을 첫 사례로 시작해 법령·규칙·가이드라인 규정 팩으로 확장 설계, 현재 Python 검사 지원 v0.10.0 합성 데모 파일럿(Python 3.10+, 추가 패키지 없이 `python3 -m govcode_harness demo`)
 * Graph Engineering
   * [Graph Engineering vs Loop Engineering: What Actually Changed | Louis Bouchard](https://www.louisbouchard.ai/graph-engineering-explained/)
     * [Graph 엔지니어링 vs Loop 엔지니어링: 실제로 달라진 것은 무엇인가 | digitalbourgeois](https://digitalbourgeois.tistory.com/3543)
