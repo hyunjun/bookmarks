@@ -3246,6 +3246,9 @@ CVPR2016)
 * [Open Generative AI — Free AI Image & Video Studio | Muapi](https://muapi.ai/open-generative-ai)
   * [Open-Generative-AI: Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation | Anil-matcha](https://github.com/Anil-matcha/Open-Generative-AI)
   * 계정 없이 Flux·Kling·Veo·Seedance 등 200+ 모델로 이미지·영상 생성하는 오픈소스 스튜디오. JavaScript, MIT, 29.4k stars
+* [OpenHiggsfield AI — Open-Source Alternative to Higgsfield AI](https://www.openhiggsfield.ai/)
+  * [open-higgsfield: A studio for image and video generation — one prompt bar, each model's own settings, and every finished run in one gallery | wide-trace](https://github.com/wide-trace/open-higgsfield)
+  * Higgsfield AI의 무료 오픈소스 대안—프롬프트 바 하나로 이미지 8종·비디오 30종, 38개 모델을 쓰는 생성 스튜디오(TypeScript, Next.js 16·React 19·Zustand, 5k stars). 모델별 고유 설정을 유지하고 완료된 모든 생성물을 한 갤러리에 모음, 스튜디오 구독·벤더 종속 없이 자기 플랫폼 키(`id:secret`)로 생성, 셀프호스팅 또는 설치 없는 호스팅판(openhiggsfield.ai, 스튜디오 자체는 무료)
 * [pixelle-video: 🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine | ath-maas](https://github.com/ath-maas/pixelle-video)
   * AI 완전 자동 쇼트폼 영상 생성 엔진. Python, Apache-2.0, 28.5k stars
 * [ReCapture: Generative Video Camera Controls for User-Provided Videos using Masked Video Fine-Tuning](https://generative-video-camera-controls.github.io/)
