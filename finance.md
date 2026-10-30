@@ -463,6 +463,8 @@ Finance
     * 공식 TradingView MCP 서버(`https://mcp.tradingview.com/mcp`) 공개 베타—Claude(웹·데스크톱·모바일·Claude Code) 등 MCP 호환 클라이언트에 사용자 지정 커넥터로 추가하고 TradingView 로그인·승인하면 끝. Essential 이상 유료 플랜 대상, 베타 중 일일 요청 제한. 시세·가격 이력 조회, 스크리너 실행, 펀더멘털·뉴스·공시(실적 콜 녹취록·10-K/10-Q/8-K)·경제 캘린더 분석, 왓치리스트·얼러트 생성, 얼러트 로그 사후 분석("지난 7일 발동된 얼러트와 이후 2세션 가격 움직임·헤드라인"), 종목 비교표, Claude Code에서 API 키·CSV 없이 2년치 봉차트+CPI 받아 상관관계 계산 등 활용 예시와 첫 프롬프트 10가지
   * [트레이딩뷰 공식 MCP 나왔습니다, 클로드 연결부터 한계까지 | Running the System - YouTube](https://www.youtube.com/watch?v=yEbJe1uILiM)
     * 7분 실연(2026-10-04): MCP는 USB 같은 것, 누가 쓸 수 있나(에센셜 이상·베타 제한), 클로드에 연결하기, 도구 권한 설정(읽기는 항상 허용·쓰기는 승인 필요), 트레이더가 쓸 만한 기능, 말로 왓치리스트 만들기, 얼러트 기록으로 거래 횟수 세기, 써 보니 아쉬운 점과 되는 것·아직인 것 정리
+* [TrendSpider - All-in-One Market Research & Trading Software](https://trendspider.com/)
+  * 개인 트레이더부터 기관까지 쓰는 AI 기반 통합 시장 분석·거래 플랫폼(월 구독). 자동 차트 패턴·추세선 인식, 머신러닝 기반 전략 개발과 50년+ 과거 데이터 백테스팅, 실시간 시장 스캐너, 코드 없는 클라우드 알림·자동 매매, AI 거래 조수 Sidekick("챗봇이 아니라 워크봇"). 스캐너·계산기·학습 센터는 무료 제공
 * [vibe-investing: 투자를 위한 AI 투자(Vibe Investing) 큐레이션, 시장 분석 칼럼, AI 트레이딩 도구 2종 (Harness Quant v2 + Earnings Momentum Agent) 를 다루며 미국 나스닥, S&P500, 가상화폐 투자를 다룹니다](https://github.com/gameworkerkim/vibe-investing/)
   * [VibeQuant — AI Quant · CTI · Web3](https://vibequant.cc/)
   * [토스증권 API 이용 퀀트봇 소스 무료 공개 | Dennis Kim | LinkedIn](https://www.linkedin.com/posts/testcode_tsaswm-tsaswmtedqwu-toss-share-7468358298837303296-PbBd/)
