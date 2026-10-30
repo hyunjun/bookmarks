@@ -120,8 +120,14 @@ Game
 * [Game Source Code Collection : Free Software : Free Download, Borrow and Streaming : Internet Archive](https://archive.org/details/gamesourcecode)
 * [isao의 IT,게임번역소 : 고전 게임의 소스코드를 다운로드 할 수 있는 「Game Source Code Collection」](http://isao76.egloos.com/2662070)
 * [돌핀 에뮬레이터](https://ko.dolphin-emu.org/)
+* [awesome-gamedev-agent-skills: 77 game-dev skills for AI coding agents — Godot, Unity, Unreal, Phaser, PixiJS, three.js, Bevy, pygame, LÖVE, Roblox. Portable SKILL.md Agent Skills, with a router that loads the right skill for your engine and task](https://github.com/gamedev-skills/awesome-gamedev-agent-skills)
+  * [AI 게임 개발을 지원하는 74개 스킬 카탈로그, awesome-gamedev-agent-skills 분석 | digitalbourgeois](https://digitalbourgeois.tistory.com/4053)
+  * AI 코딩 에이전트용 게임 개발 Agent Skills 모음(Apache-2.0, 5.7k stars). `npx skills add gamedev-skills/awesome-gamedev-agent-skills` 한 번으로 Claude Code·Cursor·Kiro·Codex·Copilot·Gemini CLI 등에 라우터+전체 스킬 설치—사용자가 스킬을 고르지 않고 라우터가 프로젝트 파일과 요청에서 엔진·작업을 감지해 맞는 것만 로드. Godot·Unity·Unreal·Ebitengine·Phaser·PixiJS·three.js·Bevy·pygame·LÖVE·Defold·Roblox 12개 엔진별 스킬 46개+개발 분야 15개+장르 9개+워크플로 4개(digitalbourgeois 작성 시점 74개, 현재 77개). 아트 디렉션 워크플로는 일회성 생성이 아니라 비주얼 타깃을 고정해 에셋 패밀리를 만들고 결정론적으로 정규화한 뒤 게임 안에서 검사. 모든 스킬은 1차 문서 기반·엔진 버전 고정·validator 검증
 * [batocera.linux](https://batocera.org/)
   * [오래된 컴퓨터 버리지 마세요. 게임기로 개조해서 즐겁게 활용할 수 있어요. 리눅스를 활용한 초간단 게임기 만들기 도전! - YouTube](https://www.youtube.com/watch?v=f7i1qVfS92I)
+* [Blockbench - A Low-Poly 3D Model Editor](https://blockbench.net/)
+  * [blockbench: Blockbench - A low poly 3D model editor | JannisX11](https://github.com/JannisX11/blockbench)
+  * 픽셀아트 텍스처를 입힌 로우폴리 3D 모델용 무료 오픈소스 에디터(JavaScript/Electron, GPL, 6.1k stars). 큐보이드로 마인크래프트식 모델을 만들거나 메시 모델링으로 복잡한 형태 제작, 텍스처 페인팅·UV 자동 생성·애니메이션 리깅, 표준 포맷으로 내보내 공유·렌더·3D 프린팅·게임 엔진에 사용, Minecraft Java·Bedrock 전용 포맷과 플러그인 확장
 * [Box2D is a 2D physics engine for games](https://github.com/erincatto/box2d)
 * [claude-pxl: pxl — Pixel art as code | crsolver](https://github.com/crsolver/claude-pxl)
   * 한 글자 색 키 팔레트와 ASCII 그리드로 스프라이트를 쓰는 간결한 `.px.js` DSL(미러링·자동 아웃라인·베이스 스프라이트 색 교체 한 줄)에서 PNG·TexturePacker식 JSON 스프라이트 시트·애니메이션 GIF·픽셀 그리드 업스케일 프리뷰를 생성. `pxl serve`는 저장할 때마다 다시 빌드하고 그린 과정을 op 단위로 리플레이하는 라이브 뷰어—에이전트가 그림 그리는 걸 지켜볼 수 있음. `pxl ascii`로 x/y 눈금 포함 텍스트 출력
