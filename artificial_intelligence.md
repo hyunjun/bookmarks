@@ -1134,6 +1134,12 @@ Artificial Intelligence
   * Harman Singh·Anton Bakhtin·Jason Weston·Rob Fergus·Sanjeev Arora·Kurt Keutzer·Anirudh Goyal 외(Meta FAIR 등). 기존 평가는 고정 시점의 능력만 측정하고 "얼마나 잘 배우는가"는 보지 않는다는 문제의식—에이전트가 과거 경험을 재사용 가능한 아티팩트로 상각(amortize)해 다음 인스턴스가 상속하는 통제된 설정에서, 체크포인트마다 학습 비용을 감안해 훈련·홀드아웃 성능을 측정
   * 핵심 지표 agent plasticity(가소성): 경험을 미래 홀드아웃 성능 향상으로 바꾸는 효율. 같은 학습 기회에도 프론티어 모델들의 개선 궤적이 크게 갈림—큰 지속적 향상을 얻는 모델과 초기 성능 근처 또는 그 아래에 머무는 모델, 훈련 영역 내 향상이 분포 외 조건으로는 부분적으로만 전이. 최종 능력과 획득 효율도 어긋남: 최종 1위가 가장 효율적으로 배운 에이전트는 아님
   * 개선 루프의 실패 추적으로 병목 후보 분리—가소성 낮은 에이전트는 관련 아티팩트를 재사용하지 못하고, 가소성 높은 에이전트는 재사용하고도 실패(아티팩트 품질·일반화·적용의 한계). 자기개선 에이전트 평가는 "무엇을 할 수 있나"뿐 아니라 "경험을 통해 얼마나 효과적으로 나아지나"를 측정해야 한다는 결론
+* [2610.30468 SplatLab: Autonomous Scientific Discovery for 3DGS Research](https://arxiv.org/html/2610.30468v1)
+  * [SplatLab 프로젝트 페이지 — 생성 논문 16편·피어 리뷰 결과](http://seemandharjain.com/splatlab)
+  * [논문 재현부터 실험과 원고 작성까지 자동화하는 3DGS 연구용 AI 시스템 SplatLab | digitalbourgeois](https://digitalbourgeois.tistory.com/4085)
+  * Seemandhar Jain·Manmohan Chandraker(UC San Diego, NeurIPS 2026). 발표된 3DGS 논문 하나를 재현하는 데만 전문가 수 주가 걸리는 문제에서 출발해, 프롬프트 하나(또는 입력 없이)로 베이스라인 재현→확장 제안→실제 GPU 학습→원고 작성→피어 리뷰까지 7단계를 Professor→PhD 코디네이터→Undergrad 리프 36개 에이전트 계층이 수행하는 자율 연구 시스템. 설계 5요소: 발표 수치와 0.2dB 이내로 맞춘 검증된 재현 백본에서 플러그인 변이, 8개 탐색 섬의 캐스케이드 가중 Elo 토너먼트로 후보 평가, 실패 시 Elo를 깎는 상시 반증자(stress test), 보고하는 모든 숫자를 로그된 학습 실행에 결속, 7범주 3DGS 분류와 도메인 정렬 스캐폴드
+  * PSNR 목표 실행에서 재현 타깃 대비 +0.18~+3.78dB(선행 3DGS 방법이 없던 천체 성운 렌더링 Nebula3DGS-v2 32.58→36.36dB, 버블 장면 27.40→30.11dB), 재현 타깃 11개 모두에서 승리, 생성 논문 16편 중 3편이 실제 피어 리뷰를 거쳐 CVPR 2026 워크숍 포스터 채택, 블라인드 인간 평가에서 박사과정생 베이스라인보다 약간 높은 novelty. 16회 실행 결과는 검증된 개선 5·제한적 개선 5·PSNR 외 기여 5·실패 1, 실행당 24~48시간·GPU 2~36시간·API 비용 약 $150~250
+  * 티스토리 글이 짚은 한계: 특정 실험 조건의 결과라 보편적 개선이 아니고 동일 연산 예산 통제 비교가 아님, 3DGS 특화 설계라 다른 분야 일반화 미검증, PaperBench에서 최신 모델의 3DGS 재현 성공률이 약 5%에 그친다는 배경
 * [3dcodeverse: Official Codebase of 3DCodeVerse — Exploring 3D Worlds as Code | gaoypeng](https://github.com/gaoypeng/3dcodeverse)
   * 코딩 에이전트가 편집·검증 가능한 3D 콘텐츠를 대규모로 만드는 연구 생태계(USC·Yale·Rochester·UCSD·Columbia·Google DeepMind 등)—모든 에셋을 Blender Python·Three.js·OpenGL 등 코드만으로 생성. 정적 객체·관절 에셋·장면·그래픽스에 걸친 약 200만 개의 독립 실행 가능 3D 프로그램 말뭉치 3DCodeVerse-2M(소스·에셋·설명·검증 기록 포함)과, 3D 프로젝트를 계획하고 벤더 코딩 에이전트가 원시 코드로 작성한 뒤 실행·측정·검증하는 DAG 구조 멀티 에이전트 코딩 하네스. Python, Apache-2.0
 * [500-AI-Agents-Projects: The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more](https://github.com/ashishpatel26/500-AI-Agents-Projects) 다양한 산업 분야의 AI 에이전트 활용 사례를 선별하여 모은 컬렉션
@@ -6184,6 +6190,9 @@ Artificial Intelligence
     * [NotebookLM을 “도구”로 쓰는 사람과 “시스템”으로 쓰는 사람의 차이 대부분의 사람들이 NotebookLM을 이렇게 씁니다. 유튜브 영상을 하나씩 붙여넣고, PDF를 드래그앤드롭으로 올리고, 팟캐스트 버튼을 클릭하고 기다립니다. 동시에 Claude나 GPT에는 자료를 직접 붙여넣습니다. 컨텍스트가 꽉 차고, 토큰이 터지고, 결과가… | SungJae Shim](https://www.linkedin.com/posts/sungjae-shim-9b353159_notebooklm%EC%9D%84-%EB%8F%84%EA%B5%AC%EB%A1%9C-%EC%93%B0%EB%8A%94-%EC%82%AC%EB%9E%8C%EA%B3%BC-%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9C%BC%EB%A1%9C-%EC%93%B0%EB%8A%94-%EC%82%AC%EB%9E%8C%EC%9D%98-%EC%B0%A8%EC%9D%B4-share-7450680091136655360-ys--)
   * [notebooklm-rest-api: A REST API wrapper for Google NotebookLM](https://github.com/gnh1201/notebooklm-rest-api)
 * [noton: A free and open documentation platform built with Laravel and Filament, enhanced by Ollama for local AI features, focused on clarity, structure, and self-hosted simplicity](https://github.com/bartvantuijn/noton/)
+* [ODS: Turn your PC, Mac, or Linux box into a private AI server | Osmantic](https://github.com/osmantic/ods)
+  * Osmantic Deployment System—Ollama·Open WebUI·n8n·ComfyUI·프라이버시 도구를 손으로 조립하지 않고 PC·Mac·Linux를 사설 AI 서버로 만드는 설치·배선 도구. 로컬 모델 추론, ChatGPT식 웹 UI, 모델·서비스·GPU 상태·확장을 한곳에서 다루는 제어 대시보드, 음성·에이전트·워크플로 자동화, 로컬 문서 RAG·사설 검색, 이미지 생성, 서비스 인증·비밀값·관측성·진단까지 하나의 로컬 스택으로 묶음
+  * 클라우드·구독·텔레메트리 없음—기본은 모델·컨테이너 이미지 다운로드, 릴리스 확인, Portal 에이전트 웹 검색에만 온라인 접속(FAQ에서 끄는 법 안내), 클라우드·하이브리드 API 모드는 선택. V3 프리릴리스(main 설치, 서명된 설치 프로그램은 별도 검증 중). Python, Apache-2.0(+Pixel ODS 전용 조항), 7.7k stars
 * [omlx: LLM inference, optimized for your Mac](https://omlx.ai/)
   * [omlx](https://github.com/jundot/omlx)
   * [Mac에서 로컬 LLM을 효율적으로 운영하는 oMLX, 주요 기능과 사용 방법 | digitalbourgeois](https://digitalbourgeois.tistory.com/3605)
@@ -6215,6 +6224,7 @@ Artificial Intelligence
   * [What is Open Notebook? | Open Notebook](https://www.open-notebook.ai/)
   * [이상선 - 오픈소스 버전 NotebookLM 등장 — 학습과 연구를 위한 ‘Open Notebook’ 공개 Open... | Facebook](https://www.facebook.com/lsszz1/posts/pfbid02oWhkbPNGiszZhNRxvty8LfGPpu6PNRF6jR4xrc95RJZiAaC9fjK7YhByF611DvMl)
   * ["모든 데이터를 내 서버에서, 원하는 AI 모델로" 작동하게 해주는 프라이버시 우선 AI 연구 플랫폼, Open Notebook | HaYeJin Kang](https://www.linkedin.com/posts/h4y3j1n_google-activity-7388714877739200512-SV6K)
+  * 링크·PDF·텍스트·프레젠테이션·YouTube를 소스로 AI 요약·인사이트·맞춤 팟캐스트를 생성하고, AI가 접근할 정보를 사용자가 통제하며 모델을 직접 고르는 프라이버시 우선 NotebookLM 대안. TypeScript, MIT, 41k stars
 * [Open WebUI](https://openwebui.com/)
   * [open-webui: User-friendly AI Interface (Supports Ollama, OpenAI API, ...)](https://github.com/open-webui/open-webui)
   * 셀프호스팅 가능한 확장형 AI 챗 인터페이스. Ollama·OpenAI 호환 API 지원, 오프라인 동작, RAG·웹 검색·이미지 생성·다중 모델 대화. Python, 145k+ stars
@@ -7253,6 +7263,9 @@ Artificial Intelligence
     * [cc-deck Claude Code 세션을 한눈에 | kuberneteslab](https://kuberneteslab.dev/ko/blog/cc-deck/)
     * [Claude Code 세션 관리가 불편했던 분들에게... | InfraEngineer Facebook](https://www.facebook.com/groups/InfraEngineer/posts/4290250021289766)
     * fzf 기반 TUI Claude Code 세션 브라우저. 압축 요약 대신 마지막 입력으로 표시·실시간 fuzzy 필터링. memory `type: project` TODO 자동 상단 핀, `Ctrl-K` 수동 핀, `Ctrl-R` 완료 표시. Smart Resume—원본 디렉토리 자동 이동, 4 모드 토글(`claude`/`claude-api`/`--dangerously-skip-permissions`). `cc-deck -q` 단발 질문(7일 자동 삭제). `Ctrl-G` 무손실 스냅샷 정리(305MB→122MB), `Ctrl-E` 최근 N턴만 유지+gzip 백업(77MB→0.8MB). mtime 캐시 ~0.04s. macOS/Linux/Windows. Hoon Jo, MIT
+  * [Intelligent UI for Claude Code](https://intelligentui.art/)
+    * [cc-intelligent-ui: Claude's answers, rendered: Markdown, math, charts and diagrams drawn in the Claude Code terminal. Independent project, not affiliated with Anthropic](https://github.com/razorback16/cc-intelligent-ui)
+    * Claude Code 2.1.298+ mod—Claude의 답변을 Typst(0.15)로 렌더링해 Markdown·수식·차트·다이어그램을 터미널 안에 그림으로 보여줌("Ask once. See it."). 한 줄 bash 설치 또는 Homebrew+플러그인 마켓플레이스, macOS·Linux. Anthropic과 무관한 커뮤니티 프로젝트. TypeScript, MIT
   * [cc-lens: Claude Code usage analytics dashboard](https://github.com/Arindam200/cc-lens)
     * ~/.claude/ 데이터를 시각화하는 로컬 분석 대시보드. 세션·비용·도구·활동 실시간 모니터링. API 키 불필요
   * [cctray: macOS menu bar app for monitoring Claude Code usage](https://github.com/goniszewski/cctray)
@@ -9381,6 +9394,9 @@ Artificial Intelligence
 * [eian-riso-broll: 孔版双色风格的口播信息动画 Skill：逐字稿 → 1080×1920 竖屏 mp4 · Risograph-style info animations for talking-head videos](https://github.com/yian6557/eian-riso-broll)
   * 토킹헤드·설명형 숏폼 영상의 대본(또는 SRT 자막)을 Claude Code·Codex·Cursor·Gemini CLI 등 코딩 에이전트에 주면, 시각화할 문장을 골라 2색 리소그래프 인쇄 풍의 세로 1080×1920 mp4 정보 애니메이션(B-roll)으로 만드는 스킬. 큰 숫자·다수→소수·전후 비교·핵심 인용 등 10종 템플릿이 종이·잉크·폰트·헤더를 공유해 한 에피소드가 통일된 시리즈로 보임
   * 화면 텍스트는 발화에서만 발췌(없는 수치·UI는 비워두거나 placeholder), 자막 타이밍에 길이 맞춤, 스토리보드→전체 샷 스틸→최종 렌더 3단계마다 승인을 받아 수정 비용 절감. 세로 플랫폼 상단바·자막 영역·우측 버튼을 피하고 글자 크기·대비·프레임 이탈 자동 점검. 투명 배경판 제공. Node.js 22+·Chrome·ffmpeg만으로 이미지 생성 모델·네트워크 없이 로컬 오프라인 렌더. 타이포그래피는 중국어 기준(라틴 문자도 가능)
+* [FreeVideo: Make videos on the computer you already own. FreeVideo runs MiniMax H3 in as little as 8 GB of VRAM and 16 GB of RAM, and adapts its acceleration path to your hardware](https://github.com/flashml-org/freevideo)
+  * MiniMax H3를 8GB VRAM·16GB RAM 소비자 GPU에서 돌리는 로컬 추론 엔진—OpenVDN의 8스텝 VDN-H3 모델과 Video DeltaNet 하이브리드 어텐션 기반으로 VRAM·시스템 메모리·디스크를 조율해 가중치 배치·연산 정밀도(GeForce·RTX 30은 int8, 워크스테이션·데이터센터는 FP8)·어텐션 커널을 하드웨어에 맞게 자동 선택. ComfyUI 플러그인으로 동작하며 Windows·macOS(Apple silicon)·Linux 런처 제공
+  * Light~Max 4단계 품질, 반해상도 미리보기 후 마음에 드는 것만 완성, 생성 영상을 ComfyUI 캔버스에 떨어뜨리면 프롬프트·시드·설정 복원, 커뮤니티 LoRA, v0.4.0에서 Claude Code·Codex 같은 에이전트가 스스로 영상 생성·1분 이상 영상·타임라인 편집. Python, Apache-2.0, 2.5k stars
 * [huashu-art-motion: 艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来 — 코딩 에이전트가 예술 스타일을 움직이는 그림으로 쓰게 하는 스킬](https://github.com/alchaincyf/huashu-art-motion)
   * 花叔(alchaincyf)의 에이전트 스킬(`npx skills add alchaincyf/huashu-art-motion`). 36종 예술 스타일 레시피 카드(파라미터·모티프 동작·시그니처 전환·현재 단점, 53장)+9종 해설 문법(Kurzgesagt·Vox·화이트보드·3Blue1Brown·Storytime·동적 텍스트·발표회·금융 차트·해설자식 금융 과학)+8종 파라미터화 클립+내레이션 전편 참고 코드. 장면·전환·관문 이동·배경음악(BPM 그리드)은 코드로, 인물은 생성 프레임으로 합성
   * 샘플: 花叔가 픽셀 주인공이 되어 슈퍼마리오 한 스테이지를 완주(65초), Claude Code 마스코트 Clawd의 메트로폴리탄 박물관 야경 순찰(98초·16장면, 고흐·쇠라·페르메이르 등 CC0 원작을 각 화가 필법으로 코드 재묘화), 명화를 가로지르는 장권(長卷) 횡스크롤(이집트 벽화→모네 일본교→8-bit). 같은 구도의 소녀·고양이·책상을 기원전 4만 년 동굴벽화부터 2026년까지 35개 스타일로 통과하는 미술사 속주 샘플
@@ -9482,11 +9498,24 @@ Artificial Intelligence
   * latent 월드 모델을 목표 이미지 한 장을 향해 플래닝하는 zero-shot 로봇 에이전트로 실제 하드웨어에 배포, 장기 플래닝 과제 해결. 모든 체크포인트와 학습·로봇 배포 코드 공개
 * [Awesome-World-Models: A Curated List of Awesome Works in World Modeling, Aiming to Serve as a One-stop Resource for Researchers, Practitioners, and Enthusiasts Interested in World Modeling](https://github.com/knightnemo/Awesome-World-Models)
   * 월드 모델 연구를 다방면에서 집대성한 저장소로, 자율주행, 임베디드 AI, 게임 시뮬레이션, 로봇 조작, 자연과학, 사회과학 등 다양한 분야의 최신 논문과 모델을 체계적으로 분류
+* [CADRE: Rethinking Video Autoencoders for Interactive World Models | Kyutai](https://kyutai.org/blog/2026-10-22-cadre/)
+  * [2610.30129 CADRE: Rethinking Video Autoencoders for Interactive World Models](https://arxiv.org/abs/2610.30129)
+  * [cadre-autoencoders-and-world-models](https://github.com/kyutai-labs/cadre-autoencoders-and-world-models)
+  * [CADRE 라이브 데모 — 키보드로 월드 모델 직접 조작](https://cadre-wm.kyutai.org/)
+  * [Kyutai CADRE: Video Autoencoders That Cut World Model Lag Below 230 ms | MarkTechPost](https://www.marktechpost.com/2026/10/23/kyutai-cadre-video-autoencoders-interactive-world-models/)
+  * [Kyutai CADRE: 월드 모델의 실시간 반응을 높이는 비디오 오토인코더 기술 | digitalbourgeois](https://digitalbourgeois.tistory.com/4093)
+  * Kyutai·LIGM·UC Berkeley(Adrien Ramanana Rahary·Patrick Pérez·David Picard 외). 대부분의 비디오 월드 모델이 Wan 2.2·Cosmos·LTX-2 같은 텍스트-투-비디오 생성기의 오토인코더를 빌려 쓰는데, 이들은 양방향 클립 생성용으로 시간 축을 8배 압축해 인터랙티브 월드 모델에서는 액션 하나가 화면에 반영되기까지 20fps 기준 400ms 이상 지연(사람은 약 230ms부터 지연을 인지). CADRE(Causal Diffusion Representation Autoencoders)는 프레임을 frozen DINOv3로 읽고 작은 병목으로 압축률을 정하며, causal diffusion 디코더를 1~2스텝으로 self-distill해 빠르고 선명하게 복원하는 범용 비디오 오토인코더 패밀리—23개 공개 데이터셋 약 76k시간으로 학습한 7종을 조작(로봇·사람 손)·내비게이션(자율주행·실내) 4개 환경에서 같은 월드 모델로 비교
+  * 네 가지 발견: ①강한 압축에서는 회귀 디코더보다 diffusion 디코더가 선명 ②시간 압축은 월드 모델 안에서 프레임을 묶는 것보다 오토인코더가 하는 게 낫다 ③카메라 움직임이 압축 방식을 결정—정지 카메라(조작)는 시간 압축이 거의 무해하지만 움직이는 카메라(주행·실내)는 프레임을 유지하고 공간을 압축해야 함 ④거친 공간 토큰은 이미지 품질(FID)보다 모션(FVD 2.4배 악화)과 액션 추종(ARR 1.6배 악화)을 먼저 해친다. CADRE 기반 월드 모델은 H100 1장에서 20fps·230ms 미만으로 반응하며 지연-품질 Pareto 전선 대부분을 차지. 던진 공의 포물선·천의 처짐 같은 물리, 다른 차량·보행자의 자율 행동, 도로 밖으로 벗어나는 반사실 조작까지 일관되게 생성
+  * 논문·코드·모델(Hugging Face 컬렉션)·라이브 데모 모두 공개. 티스토리 글은 CADRE-2×32×32의 185ms·23.4fps 수치와 함께 청크 경계 불연속, 일부 지표에서 Wan 2.2·Cosmos에 뒤지는 점, 가중치 CC BY-NC 4.0(비상업) 제한을 한계로 짚음
 * [Code as Worlds: Agentic Discovery of Executable World Representations for Physical Reasoning](https://mirros-lab.github.io/code-as-world/)
   * [Code-as-World: Agentic Discovery of Executable World Representations for Physical Reasoning](https://github.com/MirroS-Lab/Code-as-World)
   * [Meet 'Code-as-World': An Agentic Loop That Rewrites Real Videos Into Executable MuJoCo Physics Programs | MarkTechPost](https://www.marktechpost.com/2026/08/29/mirros-code-as-world-executable-world-representations)
   * [Code-as-World, 영상을 실행 가능한 물리 세계 코드로 바꾸는 AI 에이전트 기술 | digitalbourgeois](https://digitalbourgeois.tistory.com/3615)
   * MirroS. 영상을 픽셀·설명문이 아닌 실행 가능한 MuJoCo 물리 프로그램으로 변환하는 에이전틱 루프. 물체의 질량·마찰·중력·충돌 같은 물리 메커니즘을 코드 형태 월드로 표현해 물리 추론 수행. Python, 393 stars
+* [EdenLive Technical Report | VAST](https://assets.vast-eden.ai/assets/edenlive/EdenLive-tech-report.pdf)
+  * [EdenLive: 실시간 생성형 렌더링으로 구현하는 인터랙티브 가상 환경 | digitalbourgeois](https://digitalbourgeois.tistory.com/4095)
+  * VAST의 실시간 생성형 비디오 렌더러. 생성 모델 하나가 환경 상태와 렌더링을 모두 맡는 대신 역할을 분리—상위 프로그램(게임 엔진·코딩 에이전트)이 환경 로직·상태를 명시적으로 관리하고, 구조·움직임 정보를 담은 참조 비디오(엔진 프록시 영상 또는 실제 촬영 영상) 계층을 거쳐 EdenLive가 세부 비주얼을 생성. 비전 인코더로 다양한 참조 형식을 공통 특징 공간으로 변환, 청크 단위 자기회귀 생성과 제한된 어텐션 캐시로 시간적 일관성 유지, 시뮬레이션·특징 추출·렌더링을 겹치는 파이프라인 서빙으로 H100 1장에서 1280×704 24fps 이상
+  * 활용: AI 생성 게임 프리뷰, 비주얼 스타일 탐색, 레거시 영상 리렌더링, 임바디드 AI 데이터 증강
 * [H3-World — Turning Language Understanding into World Control](https://danzer1xxxxchan.github.io/H3-World)
   * [2609.01560 H3-World: Turning Language Understanding into World Control](https://arxiv.org/abs/2609.01560)
   * [H3-World](https://github.com/Danzer1xxxxChan/H3-World)
