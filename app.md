@@ -1060,6 +1060,10 @@ App
   * [it-tools: Collection of handy online tools for developers, with great UX](https://github.com/CorentinTh/it-tools)
   * [Every Techie Needs This: IT Tools - YouTube](https://www.youtube.com/watch?v=CbIASgzUIUU)
 * [Lando - A Local Dev Tool For Every Project | Lando](https://lando.dev/)
+* [Macro — The unified workspace for your company](https://macro.com/)
+  * [macro: Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory](https://github.com/macro-inc/macro)
+  * Slack·Linear·Notion·HubSpot·Superhuman을 따로 쓰다 MCP·Zapier로 간신히 이어 붙인 스타트업 경험에서 출발해, 이메일·채널 메시지·태스크·CRDT 기반 마크다운 문서·캔버스·통화(녹음·전사)·파일·GitHub PR·CRM을 하나의 백엔드 위에 블록으로 재설계한 팀 운영체제. 모든 객체가 @링크로 양방향 그래프에 저장돼 통합 검색되고, 팀 수준 공유 메모리를 가진 에이전트가 이메일 초안·CRM 갱신·코딩 작업까지 대신 수행
+  * Superhuman식 키보드 우선 멀티 계정 통합 인박스(j/k/e로 이메일·메시지·@멘션·태스크를 한 목록에서 처리), 첨부 PDF까지 파싱해 검색하는 에이전트용 MCP 도구, 3분할 이상 내장 창 관리자, cmd+k로 연락처·회사 도메인별 이메일·파일 전체 조회. NYC·토론토 팀이 2년간 자체 사용, SolidJS+Rust, a16z 등 3천만 달러 이상 투자, SOC 2·ISO 27001. Rust, AGPL-3.0, 6k stars
 * [mise-en-place](https://mise.jdx.dev/)
   * [Comparison to asdf | mise-en-place](https://mise.jdx.dev/dev-tools/comparison-to-asdf.html)
 * mysetting [**Develop. Share. Discover. For developers - mysetting**](https://mysetting.io/)
@@ -1128,6 +1132,10 @@ App
 * [Kaneo — All you need. Nothing you don't.](https://kaneo.app/)
   * [kaneo: Open source project management that works for you, not against you](https://github.com/usekaneo/kaneo)
   * 셀프호스팅 오픈소스 프로젝트 관리 도구. 필요한 것만 담은 미니멀 설계. TypeScript, 8.3k stars
+* [Lalabase | Open-source project management for software companies](https://lalabase.com/)
+  * [lalabase: Self-hosted project management for devs and their clients: tickets, time tracking, docs and meetings, with an AI assistant that cites its sources](https://github.com/lalabase/lalabase)
+  * 소프트웨어 에이전시와 고객을 위한 셀프 호스팅 프로젝트 관리—클라이언트별 조직·프로젝트와 역할 기반 고객 접근, 프로젝트별 상태·우선순위·필드를 정의하는 보드/리스트 티켓, 티켓당 여러 세션을 각각 청구 가능한 시간 추적과 인보이스 내보내기, GitHub/GitLab 레포 폴더를 프로젝트 문서로 쓰는 지식베이스, 전사·AI 요약·후속 태스크가 붙는 회의. AI 어시스턴트는 티켓·문서·시간·회의를 가로질러 답하며 출처(티켓·댓글·회의)를 인용
+  * AI는 기본 꺼짐이고 켤 때 OpenAI·Anthropic·Vertex AI(EU) Gemini·Mistral·IONOS·OVHcloud·OpenAI 호환 자체 모델 중 선택, 개인 액세스 토큰으로 Claude·Cursor를 붙이는 MCP 서버·REST API(티켓 CRUD·시간 기록·지식베이스 검색·색인된 코드 조회), 터미널에서 티켓을 Claude Code에 넘기는 별도 CLI. Rails 8.1·Ruby 4·PostgreSQL+pgvector·Hotwire, Docker Compose, 1인 창업자(Guido Boyke)가 2025-09부터 고객 운영 후 2026.10.0 첫 공개. 독일 호스팅 클라우드 €10/인·월 또는 셀프 호스팅 무료. Ruby, AGPL-3.0
 * [Leantime — open source project management for non-project managers](https://leantime.io/)
   * [leantime: Leantime is an open source project management system for non-project managers](https://github.com/Leantime/leantime)
   * 목표 중심 오픈소스 프로젝트 관리 플랫폼. ADHD·자폐·난독증 접근성 고려 설계, 칸반·간트·태스크·타임시트(Trello/Jira 수준) 제공하면서 사용 편의성 유지. 다국어·커뮤니케이션 통합, Docker/서버 셀프호스팅
@@ -3324,6 +3332,9 @@ App
     * ["이거 쓰면 못 돌아가요" 옵시디안, 단순 메모 앱이 아닌 이유 (Feat. AI, 자동화, 무한 확장) - YouTube](https://www.youtube.com/watch?v=UHXoA4G6GEc)
     * [왜 옵시디언을 사용해야 하는가?-Smart Composer를 중심으로 - YouTube](https://www.youtube.com/watch?v=p-2JtueFFiM)
     * [옵시디언에서 AI로 노트 작성하기 (Smart Composer Plugin) - YouTube](https://www.youtube.com/watch?v=YYiok_C9o7M)
+  * [Smart Second Brain — Your vault, but smarter](https://smartsecondbrain.dev/)
+    * [smart-second-brain: A free, open-source Obsidian plugin that makes your vault smarter: better search, an interactive knowledge graph, and an AI assistant that knows your notes](https://github.com/s2b-dev/smart-second-brain)
+    * 무료 오픈소스 Obsidian 플러그인—PDF 본문까지 색인하는 전문 검색과 의미 기반 시맨틱 검색(태그·폴더 필터), 노트를 주제로 자동 묶고 하위 주제로 파고드는 인터랙티브 지식 그래프, 노트를 아는 AI 어시스턴트(볼트 탐색·노트 편집, 차트·표·대시보드·3D 플롯 라이브 위젯, 메모리 폴더, 커스텀 스킬, Dataview·Tasks·Canvas 플러그인 API 연동, 대화 분기). 선택한 노트로 초안을 쓰며 빠진 정보를 짚고 변경은 노트 안에서 승인. Ollama·oMLX 등 완전 오프라인 포함 6개 제공자, 계정·구독 없음. TypeScript, MIT, 1.3k stars
   * [TaskNotes — Task and note management plugin for Obsidian](https://tasknotes.dev/)
     * [tasknotes](https://github.com/callumalpass/tasknotes)
     * 1노트=1태스크 원칙의 Obsidian 태스크 관리 플러그인. YAML 프론트매터 기반 마크다운 파일로 저장. Kanban·캘린더·포모도로 뷰, Google/Outlook 캘린더 동기화, 자연어 파싱, REST API·웹훅 자동화 지원
@@ -4074,6 +4085,9 @@ App
   * SwiftUI 네이티브 macOS 프록시 앱. 듀얼 모드(System Proxy + TUN Enhanced), 실시간 트래픽 시각화, 연결 토폴로지 추적, 구독 관리. macOS 13.5+ 지원
 * [EasyTier-iOS: EasyTier in SwiftUI for iOS/macOS](https://github.com/EasyTier/EasyTier-iOS)
   * 분산형 P2P VPN EasyTier(코어 레포 EasyTier/EasyTier)의 Apple 플랫폼 클라이언트. SwiftUI(95.6%)+Rust(3.7%), Network Extension 프레임워크 시스템 레벨 VPN 통합, Widget Extension. TestFlight 베타. GPLv3. **NOT ACTIVELY MAINTAINED**, 메인테이너 인계 모집 중
+* [FlClash – Clash Meta (mihomo) Proxy Client](https://chen08209.github.io/FlClash/)
+  * [FlClash: A multi-platform proxy client based on ClashMeta, simple and easy to use, open-source and ad-free](https://github.com/chen08209/FlClash)
+  * Clash Meta(mihomo) 기반 멀티 플랫폼 프록시 클라이언트(Android·Windows·macOS·Linux)—규칙 라우팅·프록시 그룹·TUN 모드, 구독 링크로 프로필 가져오기, WebDAV로 기기 간 설정 백업·동기화, 프로필별 DNS·NTP 설정, 연결 모니터링. 광고 없는 오픈소스. Dart/Flutter, GPL-3.0, 60k stars
 * [MasterDnsVPN: Advanced DNS tunneling VPN that encapsulates TCP traffic inside DNS queries to bypass censorship](https://github.com/masterking32/MasterDnsVPN)
   * DNS 터널링 + 멀티 리졸버 라우팅 + 커스텀 경량 ARQ(오버헤드 5-7바이트, DNSTT 59바이트 대비). DNSTT 대비 ~9배 빠른 처리량. 로컬 SOCKS5/TCP 프록시, DNS 캐싱, XOR/ChaCha20/AES 암호화, 8가지 로드밸런싱 전략
 * [Netmaker - WireGuard 기반 오픈소스 VPN 플랫폼 | GeekNews](https://news.hada.io/topic?id=5701)
