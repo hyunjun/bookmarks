@@ -3354,6 +3354,8 @@ NLP
 * [InternLM: InternLM has open-sourced a 7 billion parameter base model, a chat model tailored for practical scenarios and the training system](https://github.com/InternLM/InternLM)
   * [Intern-S1: A Scientific Multimodal Foundation Model](https://github.com/InternLM/Intern-S1/)
 * [jamo\_llm: 어느 고등학생의 심플한 확률론적 앵무새 만들기](https://github.com/yoonhero/jamo_llm)
+* [janas: LLMs bigger than your RAM, pure C, CPU or GPU — Faster than llama.cpp on all 13 models compared in Q4_K_M](https://github.com/prabanta-dev/janas)
+  * Maurizio Cammalleri의 순수 C AI 도구 패밀리(실험 단계, Linux·Windows x86-64). RAM보다 큰 모델을 NVMe에서 흘려 돌려 32GB 노트북(Core Ultra 9 185H, 내장 Arc GPU)에서 48GB짜리 Qwen3-Next-80B-A3B를 쓰기 26.4 tok/s·읽기 68.4 tok/s로 구동—같은 조건의 llama.cpp는 3.0·17.7 tok/s. 66.5GB Qwen3.8-Flash-Next(177B)도 10.95/33 tok/s. Q4_K_M으로 비교한 13개 모델 모두에서 llama.cpp보다 빠름(드래프트 모델 없이도). MoE·speculative decoding·AVX2 SIMD·Vulkan, GGUF 호환. GPL-3.0
 * Jev [Introducing System One Models & Jev | TypeSafe AI](https://typesafe.ai/blog/introducing-system-one-models-and-jev)
   * [Jev - 문장 대신 판단과 확률을 반환하는 AI 모델 | GeekNews](https://news.hada.io/topic?id=33751)
   * [Jev, 문장 대신 판단과 확률을 반환하는 AI 모델](https://digitalbourgeois.tistory.com/3670)
@@ -4046,6 +4048,10 @@ NLP
   * [LFM3: Every Modality for Specialized Intelligence | Liquid AI](https://www.liquid.ai/blog/lfm3)
     * [Introducing LFM3: Every Modality for Specialized Intelligence | Liquid AI - YouTube](https://www.youtube.com/watch?v=6XedR2Feb6k)
     * 2026-10-27. 새 하이브리드 아키텍처의 2B급 멀티모달 파운데이션 모델 세대(22T 토큰 사전학습)—하나의 공유 백본에서 텍스트·비전·오디오·옴니·의사결정 모델을 제공하고 LFM2보다 35% 적은 파라미터로 더 높은 성능, LFM3-1.7B는 에이전트 작업에서 훨씬 큰 모델과 경쟁. 엣지 기기·프라이빗 인프라·클라우드 어디서든 특화·파인튜닝·배포하도록 설계(단일 GPU 파인튜닝), Hugging Face·Liquid AI Playground·API로 오픈 웨이트 공개. 영상은 2분 소개
+  * [RIPL: Real-time Intelligence When Every Millisecond Counts | Liquid AI](https://www.liquid.ai/blog/low-latency)
+    * [생성형 AI를 50ms 미만 실시간 요청 경로에 올리는 Liquid AI의 저지연 추론 엔진 RIPL | digitalbourgeois](https://digitalbourgeois.tistory.com/4071)
+    * Liquid RIPL(Real-time Inference Pipeline)—검색 랭킹·상품 추천·사기 탐지·결제 승인처럼 밀리초 단위 응답이 필요한 실시간 경로에서 큰 배치·긴 처리에 맞춰진 기존 서빙 대신 피크 트래픽(초당 1,000 요청 테스트)에서도 생성 응답을 엔드투엔드 50ms 미만으로 끝내는 저지연 추론 엔진. 그래디언트 부스팅 트리·소형 임베딩 같은 덜 정확한 전통 기법을 생성형 모델로 대체하는 것이 목표
+    * 공개 수치: LFM2.5-1.2B는 vLLM 위 Qwen3.5-0.8B 대비 p95 지연 14.4~28.4배, LFM2.5-2.6B는 Qwen3.5-2B 대비 5.6~7.7배 낮음, B200에서 1.2B 34.6ms·2.6B 76.4ms, Shopify 검색 적용 사례 20ms 미만. 티스토리 글은 Liquid AI 자체 발표 수치이며 비교 대상 모델·서빙 환경이 달라 독립 검증이 아니라는 점을 짚음
 * [LiteLLM — Call 100+ LLMs using the OpenAI format](https://docs.litellm.ai/)
   * [litellm](https://github.com/BerriAI/litellm)
   * [litellm-guide: It shows how to deploy liteLLM | kyopark2014](https://github.com/kyopark2014/litellm-guide)
@@ -4375,6 +4381,10 @@ NLP
   * Microsoft. CoT를 블록+요약으로 분할, 블록 처리 후 KV 캐시에서 제거하여 고정 컨텍스트 윈도우 내에서 확장된 추론. 특수 토큰(block_start/end)으로 추론 구간 구분, vLLM 통합
 * [mergekit: Tools for merging pretrained large language models](https://github.com/cg123/mergekit)
   * [Merge Large Language Models with mergekit](https://huggingface.co/blog/mlabonne/merge-models)
+* [Meshy: asynchronous RL framework that models every role of an RL run as an independent service | OpenBMB](https://github.com/OpenBMB/Meshy)
+  * [강화학습 파이프라인을 역할별 서비스로 나누는 비동기 RL 프레임워크, OpenBMB Meshy | digitalbourgeois](https://digitalbourgeois.tistory.com/4073)
+  * 추론·학습·롤아웃 등 RL 실행의 모든 역할을 독립 서비스(프로세스)로 두고, RPC를 뿌리거나 텐서를 중계하는 드라이버 없이 단일 TransferQueue 데이터 플레인의 큐 컬럼으로만 통신—컬럼 준비 여부가 유일한 제어 신호라 서비스 간 핸드셰이크가 없고 게이트 펄스·GPU 소유권 토큰·텐서가 같은 미들웨어로 흐름. 전체 토폴로지는 선언적 레시피 하나에서 각 프로세스가 SPMD식으로 로컬 계산(서비스 디스커버리 불필요, 잘못된 레시피는 시작 시 탐지)
+  * on-policy·제한 off-policy·완전 비동기 학습을 같은 서비스 코드로 롤아웃 페이싱 윈도만 조절해 지원, 같은 GPU 세트에 임의 개수 서비스 colocation 또는 분리 배치, 서비스별 로그 파일. SGLang+torchtitan 기반, 사전 빌드 Docker·Dockerfile·수동 설치. 티스토리 글은 0.1.0-alpha 버전이고 공개 벤치마크가 없어 도입 전 직접 검증이 필요하다고 지적. Python, Apache-2.0
 * [MicroLLM lab — tiny LLMs, Q4, in your browser | stateofutopia](https://stateofutopia.com/experiments/microllmlab/)
   * [브라우저에서 소형 LLM 7개를 직접 실행하는 MicroLLM Lab | digitalbourgeois](https://digitalbourgeois.tistory.com/3714)
   * 설치·계정 없이 브라우저에서 소형 언어 모델을 내려받아(IndexedDB 캐시) 기기 GPU로 추론하고 속도·정확도를 비교하는 실험 도구—WebGPU 우선, 불가 시 WASM→JS 폴백(안내 기준 WASM 8~20 tok/s vs WebGPU 100~300+ tok/s). Q4 양자화로 1억+ 파라미터 모델을 50~84MB에. 모델 7종: PetitGPT research-v1 125M·SmolLM2 135M/360M Instruct·L20-Edu 135M·MiniMind2 104M/Small 26M·GPT-2 124M(15.4~215.9MB)
