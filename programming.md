@@ -5471,6 +5471,9 @@ Programming
   * [Sim - AI Agent Workflow Builder | Open Source Platform](https://www.sim.ai/)
     * [sim: Open-source platform to build and deploy AI agent workflows.](https://github.com/simstudioai/sim)
     * [N8N을 위협할 오픈소스 🔥Copilot 기능을 통해 <자연어로 노드를 생성>하고 오류 수정 가능, OpenAI/Anthropic/Gemini는 물론 Ollama로 로컬 LLM까지 연동 가능 | HaYeJin Kang](https://www.linkedin.com/posts/h4y3j1n_n8n-githubabr1sroabrsnyuiosqsswm-activity-7409367226274775040-Z6zv)
+    * [Sim으로 구현하는 AI 에이전트 워크플로 구축과 셀프 호스팅 가이드 | digitalbourgeois](https://digitalbourgeois.tistory.com/4108)
+    * 시각·대화·코드 세 방식으로 에이전트를 만들고 270+ 통합·5,400+ 액션·520+ 트리거로 Slack·Notion·Salesforce·DB와 주요 LLM(OpenAI·Anthropic·Google·xAI·Mistral·Perplexity)을 연결, 에이전트·워크플로·테이블·파일·지식베이스를 한 워크스페이스에서 관리. Claude·Claude Code·Codex에 MCP 서버(mcp.sim.ai)로 연결, `npx sim-setup`으로 셀프 호스팅(Docker·Kubernetes), Ollama·vLLM 로컬 모델, 상태·로그·진단·재시작 관리 명령. Next.js·Bun·PostgreSQL·Drizzle·Better Auth
+    * 권한 그룹·조직/멤버별 지출 한도·사용량 분석·감사 기록 등 거버넌스, 채팅·API·MCP 서버로 배포(SSO·이메일·비밀번호 인증), TypeScript·Python SDK와 CLI, Free·Pro·Max·Enterprise 요금제. TypeScript, Apache-2.0, 30k stars
 * [Pierre](https://pierre.co/)
   * [Bootstrap 개발자가 만든 제품 엔지니어링 도구 Pierre :: Outsider's Dev Story](https://blog.outsider.ne.kr/1715)
 * [PIPE: 더 나은 개발자 경험을 제공하기 위한 CI/CD - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/pipe-ci-cd-with-runtime/)
@@ -7869,6 +7872,7 @@ Programming
   * [10월 2주 소식(개발/설계/경력관리/보안/클라우드/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2026/10/b-10-2.html)
   * [10월 3주 소식(빅데이터/인공지능, 하드웨어, 읽을거리 부문) | 컴퓨터 vs 책](https://jhrogue.blogspot.com/2026/10/b-10-3.html)
   * [10월 4주 소식(개발/설계/경력관리/보안/클라우드/데이터베이스 관련 소식 정리) | 컴퓨터 vs 책](https://jhrogue.blogspot.com/2026/10/b-10-4.html)
+  * [10월 5주 소식(개발 + 인공지능 통합) | 컴퓨터 vs 책](https://jhrogue.blogspot.com/2026/10/b-10-5.html)
 * [ByteByteGo Newsletter | Alex Xu | Substack](https://blog.bytebytego.com/)
 * [GN#114 신입 웹개발 커리큘럼과 SaaS 스타트업 부트스트래핑 도구 | GeekNews](https://news.hada.io/weekly/202137)
 * [goQuality-dev-contents: { 고퀄리티 개발 컨텐츠 모음 }](https://github.com/Integerous/goQuality-dev-contents)
