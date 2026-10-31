@@ -718,6 +718,9 @@ Web
   * [Give your AI agent eyes to see the entire internet for free](https://www.opensourceprojects.dev/post/98258f76-86c9-4980-9616-b5ad00cb6df4)
   * [Agent Reach란? AI Agent의 웹 검색과 데이터 수집 기능을 확장하는 방법 | digitalbourgeois](https://digitalbourgeois.tistory.com/3725)
     * YouTube 자막, Twitter/X·Reddit 검색, GitHub 저장소·이슈, 샤오홍슈·Bilibili, RSS처럼 서비스마다 API·인증·로그인·수집 방식이 달라 에이전트가 직접 접근하기 어려운 문제를 줄이는 도구. 플랫폼별로 필요한 도구를 고르고 설치하며 환경을 점검해 지금 쓸 수 있는 연결 방식을 알려 주고, 사용자는 복잡한 명령 대신 에이전트에게 자연어로 설치·설정과 이후 웹 데이터 활용을 요청
+  * [AI 에이전트가 닿지 못하는 웹 플랫폼을 명령어 하나로 연결하는 오픈소스 Agent Reach와 이용 시 주의점 | digitalbourgeois](https://digitalbourgeois.tistory.com/4081)
+    * `agent-reach <채널> <동작> [인자]` 통일 형식으로 채널별 도구를 감싸고, 채널마다 첫 선택·대안 도구를 순서대로 시도(B站은 bili-cli→공개 API, 웹은 Jina Reader→Exa). 기본 채널 Bilibili·V2EX·GitHub·YouTube·Web, 선택 채널 샤오홍슈·雪球·BOSS·LinkedIn·Reddit, 실험 채널 Twitter/X·Facebook·Instagram. 로그인이 필요한 플랫폼은 Chrome의 해당 사이트 로그인만 전용 백그라운드 브라우저로 복사해 쓰고 읽기 전용(게시·댓글·좋아요 없음)
+    * 주의점: 자동 접근·로그인 세션 재사용은 플랫폼 정책 위반 소지가 있어 부계정 권장, 에이전트에게 넘기는 설치 명령은 실행 전 검토, Groq·OpenAI 키는 채팅이 아닌 터미널 `agent-reach configure`로 관리, 실험 채널은 반봇 강화로 언제든 깨질 수 있음. PyPI의 동명 패키지는 이 프로젝트가 아님
   * [👁️ Agent-Reach : 9.2만 스타, API 비용 0원으로 에이전트에 인터넷 눈을 달아주는 CLI | fornewchallenge](https://fornewchallenge.tistory.com/entry/%F0%9F%91%81%EF%B8%8F-Agent-Reach-92%EB%A7%8C-%EC%8A%A4%ED%83%80-API-%EB%B9%84%EC%9A%A9-0%EC%9B%90%EC%9C%BC%EB%A1%9C-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EC%97%90-%EC%9D%B8%ED%84%B0%EB%84%B7-%EB%88%88%EC%9D%84-%EB%8B%AC%EC%95%84%EC%A3%BC%EB%8A%94-CLI)
   * AI 에이전트에게 인터넷 접근 능력을 부여하는 CLI 도구. Twitter, Reddit, YouTube, GitHub 등 14+ 플랫폼 통합, API 비용 없이 yt-dlp·Jina Reader·GitHub CLI 등 오픈소스 도구 활용. 원커맨드 설치, 로컬 자격증명 저장으로 프라이버시 보장
 * [bb-browser: CLI and MCP server for AI agents to control Chrome with your login state](https://github.com/epiral/bb-browser)
