@@ -6,6 +6,8 @@ Machine Learning
 * [Awesome Quantum Machine Learning](https://github.com/krishnakumarsekar/awesome-quantum-machine-learning)
 * [VSBE2020: OAQA 양자 머신러닝 알고리즘의 기반 - Hyun Byung Park (박현병), 양자오리 at KAITA - YouTube](https://www.youtube.com/watch?v=ZZcyzVxYxqQ)
 * [Awesome-Mobility-Machine-Learning-Contents](https://github.com/zzsza/Awesome-Mobility-Machine-Learning-Contents)
+* [awesome-machine-learning-resources: 😎 A curated list of awesome lists across all machine learning topics | ZhiningLiu1998](https://github.com/ZhiningLiu1998/awesome-machine-learning-resources)
+  * 머신러닝·딥러닝 전 주제(학습 패러다임·과제·응용·모델·윤리·교차 학문·데이터셋·프레임워크·튜토리얼)의 awesome 리스트 380개+를 모은 "리스트의 리스트"—입문자는 분야 지형과 최신 흐름을, 연구자는 새 연구 방향을, 엔지니어는 적합한 튜토리얼·라이브러리를 찾도록 구성. 12개월 이상 갱신이 멈춘 리스트는 ⚠️ inactive로 표시. 영·중 README, CC0-1.0, 851 stars
 * [applied-ml: 📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production](https://github.com/eugeneyan/applied-ml)
 * [Machine Learning Roadmap 2020](https://whimsical.com/CA7f3ykvXpnJ9Az32vYXva) mindmap
 * [ml-roadmap](https://github.com/merveenoyan/ml-roadmap)
