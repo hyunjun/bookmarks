@@ -3307,6 +3307,8 @@ App
     * [Excel 데이터를 옵시디언 테이블로 - Excel to Markdown Table 플러그인](https://kaminik.tistory.com/entry/Excel-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC-%EC%98%B5%EC%8B%9C%EB%94%94%EC%96%B8-%ED%85%8C%EC%9D%B4%EB%B8%94%EB%A1%9C-Excel-to-Markdown-Table-%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8)
   * [obsidian-file-link: A plugin for the note taking app Obsidian to add better external file links to your notes](https://github.com/marcjulianschwarz/obsidian-file-link)
     * [영원히 기억하는 옵시디안과 제텔카스텐 독서법 실제 예시 - YouTube](https://www.youtube.com/watch?v=sFGFCTGxscI)
+  * [obsidian-memory-for-ai: A guide to building persistent AI memory using Obsidian, so your AI assistant knows you without re-explaining yourself every session | jrcruciani](https://github.com/jrcruciani/obsidian-memory-for-ai)
+    * 평문 Markdown으로 된 영구 AI 메모리—DB·데몬·벡터 스토어·서버·임베딩·바이너리 원본이 없는 "의도적으로 지루한 인프라"로, 메모리 볼트는 읽고 편집하고 diff하고 동기화하고 도구 간에 옮길 수 있는 Markdown·YAML 폴더(파일을 읽을 수 있는 어떤 어시스턴트든 사용). 현재 v4.1 "Temporal, Traceable Atomic Markdown Memory"(참조 구현 `examples/v4.1-minimal-vault/`, 호환 규약 SPEC-v4.1.md, v4.0·v3.1도 지원). 저자는 코드가 아니라 문제를 생각한 패턴을 가져가 자기 것으로 쓰라고 권함(impermanente.es). Python
   * [obsidian-mind: Obsidian vault template for persistent AI memory with Claude Code](https://github.com/breferrari/obsidian-mind)
     * [AI 에이전트에 무한 메모리 추가하는 Obsidian Mind | soulai](https://www.linkedin.com/posts/soulai_obsidianmind-claudecode-codexcli-share-7487525081812713472-Q6SW/)
     * Claude Code와 함께 사용하는 Obsidian vault 템플릿. 자동 노트 정리, 컨텍스트 연결, 성과 추적으로 세션 간 영속적 메모리
