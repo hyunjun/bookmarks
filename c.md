@@ -71,6 +71,10 @@ C
 * [Using the __cleanup__ variable attribute in GCC](http://echorand.me/site/notes/articles/c_cleanup/cleanup_attribute_c.html)
   * [practice](https://gist.github.com/hyunjun/ab66c01ed583166dcfc6)
 * ["C" Programming Language: Brian Kernighan - Computerphile](https://www.youtube.com/watch?v=de2Hsvxaf8M)
+* [Brian Kernighan: Inside Bell Labs, The Best Programmer, Why C Won | Ryan Peterman - YouTube](https://www.youtube.com/watch?v=sMllOlxVgD0)
+  * [Brian Kernighan: Bell Labs Stories, Greatest Programmers, Why C Succeeded | GeekNews](https://news.hada.io/topic?id=36271)
+  * 안정적 수익과 장기 평가 덕에 외부 기한 없이 문제를 좇을 수 있었던 벨 연구소(1960년대 머레이힐 약 3천 명, 물리·반도체·화학·컴퓨팅)의 채용과 일상, 3주 만에 에디터·어셈블러·OS를 만든 최고의 프로그래머 Ken Thompson, 건설적 비판의 Doug McIlroy, 연구의 절반 이상이 컴퓨터가 될 거라 예언한 Richard Hamming. 24KB 메모리·0.5MB 디스크 시절 효율과 표현력의 균형, Unix와의 공생으로 C가 이긴 이유, 자기 불편을 해결하다 나온 awk와 Stu Feldman의 주말 프로젝트 make
+  * LLM 생성 코드를 검증할 전문성과 학생-멘토 직접 교류 감소 등 CS 교육 우려(프린스턴 CS 졸업생 200+→80~90명 전망), Go 레포의 1972년 커밋, 가짜 직원 Grace Emlen, 책을 많이 쓰는 이유, 좋아하는·싫어하는 언어
 * [About size_t and ptrdiff_t](https://medium.com/@CPP_Coder/about-size-t-and-ptrdiff-t-a1654234d842)
 * [COMPRESSING SKELETAL ANIMATION DATA](http://engineering.riotgames.com/news/compressing-skeletal-animation-data)
 * [Accessing unaligned memory](http://fastcompression.blogspot.kr/2015/08/accessing-unaligned-memory.html)
