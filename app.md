@@ -2911,6 +2911,9 @@ App
   * Haiku OS용 ISDB-T 원세그 수신 앱. 일본 내수용 Sony VAIO P(VGN-P70H)에 내장된 튜너 모듈을 대상으로, 수신·USB 링크 복호화·영상과 음성 재생을 모두 VAIO 안에서 처리. ISDB-T를 쓰는 일본·브라질 등에서만 동작하며 수신 테스트는 일본 원세그 방송으로만 함. Claude Code와 Codex로 개발. rtelevision과 같은 작성자. C++
 * [rtelevision: A player for free TV streams from around the world](https://github.com/rainygirl/rtelevision)
   * 전 세계 무료 TV 스트림 재생기. C++, MIT
+* [SeeCut: An AI editor that watches its own cut: talking-head / AI-avatar video → auto-edited short video | YeJe-cpu](https://github.com/yeje-cpu/seecut)
+  * 디지털 휴먼·실제 사람의 세로 토킹헤드 영상을 "온라인 감성(网感)" 모션 그래픽 숏폼으로 자동 정밀 편집하는 Claude Code용 스킬(`/seecut 素材：<폴더>`, JavaScript, 410 stars, macOS에서만 검증). 에이전트가 소재를 이해하고 발언에 맞는 **진짜 증거**(실제 웹페이지·UI·사례 스크린샷, 가짜 화면 금지)를 찍어 카드·손그림 강조·인물 전체화면/소창 전환을 디자인 토큰→컴포넌트→연출 결정표→컷별 시공서 체계로 편성해 HyperFrames로 렌더링. 핵심은 **AI가 결과 영상을 직접 보고 자가 품질 검사·반복**—프레임 몇 장이 아니라 Antigravity CLI로 Gemini가 영상 자체를 보고, 절대 점수는 신뢰할 수 없어 두 버전을 자리 바꿔 두 번 비교해 모두 이겨야 채택, 최대 3버전. 25초 샘플 1편에 약 1시간
+  * 3단계 파이프라인: ①디지털 휴먼(HeyGen AV5 아바타+더우바오 TTS, 내장 음성은 가짜 느낌이라 교체) ②정밀 편집(핵심) ③선택적으로 剪映(CapCut 중국판) 분층 초안으로 밀어 트랙별 미세 조정. 필요 환경: 코딩 에이전트, Antigravity CLI(`agy`, Google 계정 지역 제한), HyperFrames CLI, ffmpeg·Node 22+·faster-whisper·playwright-core
 * [Shotcut - Home](https://shotcut.org/)
   * [Shotcut - a free, open source, cross-platform video editor](https://github.com/mltframework/shotcut)
   * [리눅스에서 비디오 편집 프로그램 추천 - Shotcut : 클리앙](https://www.clien.net/service/board/cm_linux/15344021)
