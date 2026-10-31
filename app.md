@@ -3893,6 +3893,9 @@ App
 * [midipix - posix for windows](http://midipix.org/)
 * msys2 [윈도우 msys2는 완벽한 POSIX 호환 레이어인가?](https://jhrogue.blogspot.com/2021/05/b-msys2-posix.html)
 * [notepad_logger - crates.io: Rust Package Registry](https://crates.io/crates/notepad_logger)
+* [Nusa: A Living Notch for Windows](https://rama2555.github.io/nusa)
+  * [rama2555/nusa](https://github.com/rama2555/nusa)
+  * Windows 10·11 화면 위쪽 가장자리를 맥북 노치처럼 쓰는 네이티브 앱(약 3MB, v1.1.0)—Spotify·Apple Music·YouTube 재생 제어와 가사 싱크 표시, 포모도로 타이머, 물 섭취 기록, 시간 알림 할 일, 드래그 앤 드롭 파일 선반, 볼륨·밝기 오버레이, 배터리·Wi-Fi·헤드폰·Caps Lock·키보드 언어 알림. 쉬고 있을 때는 CPU 0%로 졸고 있는 눈 한 쌍만 표시하고 전체 화면 앱에서는 비켜 줌, 모든 데이터는 로컬 저장·계정·추적 없음. GitHub 레포는 랜딩 페이지 소스(HTML, 74 stars)
 * [Pajek: analysis and visualization of large networks](http://mrvar2.fdv.uni-lj.si/pajek/)
 * [PBOX - Windows Package Manager](http://pbox.me/)
 * PowerShell
