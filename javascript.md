@@ -3918,6 +3918,8 @@ Javascript
 * [Node.js — Security Best Practices](https://nodejs.org/en/learn/getting-started/security-best-practices)
   * 보안 모범 사례 문서는 웹 서버, 의존성 관리, 민감 정보 노출 등 다양한 공격 벡터와 대응 방법 제시
   * 서버 취약점, 서드파티 패키지 위험, 타임 어택 방지 등 현실적 위협과 그에 대한 구체적 대응책 안내
+* [We cut Node.js' Memory in half | Platformatic](https://blog.platformatic.dev/we-cut-nodejs-memory-in-half)
+  * V8 포인터 압축—포인터를 64비트 주소 대신 32비트 오프셋으로 저장해 코드 수정 없이 힙 메모리를 대략 절반으로 줄이는 기능. Node.js는 모든 스레드가 하나의 4GB "케이지"를 공유해야 하는 제약 때문에 오랫동안 쓰지 못했는데, Cloudflare와 Igalia가 만든 IsolateGroups로 isolate마다 자기 압축 케이지를 갖게 되어 Node.js에 통합. Next.js 이커머스 앱 테스트에서 메모리 약 50% 감소, 평균 지연 2~4% 증가하지만 P99는 7% 개선, Platformatic Watt와 함께 쓰면 15% 빨라지고 P99 43% 개선. 6노드 AWS EKS 클러스터를 3노드로 줄여 연 $8,300, 큰 배포는 연 $80,000~100,000 절감 추정. isolate당 4GB 제한은 일반 서비스엔 문제 없고, Node-API 애드온은 그대로지만 레거시 NAN 네이티브 애드온은 재컴파일 필요
 
 ## Node.js Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
