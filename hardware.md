@@ -556,6 +556,8 @@ Hardware
 
 # Tizen
 * [바닥서부터 만들어보는 타이젠](http://www.slideshare.net/again4you/tizen-talk-2016-in-seoul)
+* [awesome-smart-tv: ⚡A curated list of awesome resources for building Smart TV apps | vitalets](https://github.com/vitalets/awesome-smart-tv)
+  * 스마트 TV 앱 개발 리소스 모음—플랫폼별(Samsung Tizen·LG webOS·Android TV·Apple tvOS·Google Chromecast) 공식·서드파티 자료, 크로스 플랫폼 프레임워크와 도구, 리모컨 프로토콜, 포커스 내비게이션 라이브러리, 테스트, 커뮤니티. 1.5k stars
 
 # Zephyr
 * [리눅스재단, IoT용 오픈소스 OS ‘제퍼’ 공개](http://www.bloter.net/archives/250149)
