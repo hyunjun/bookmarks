@@ -4997,6 +4997,9 @@ Artificial Intelligence
 * [How to Become an AI-Literate Teacher: A Step-by-Step Guide | Med Kharbach, Educators Technology](https://www.educatorstechnology.com/2026/04/how-to-become-an-ai-literate-teacher.html)
   * 2026-04(웹 제목 "AI Literacy for Teachers: A Step-by-Step Guide", PDF 17쪽 Ed AI Series, CC BY-NC-SA 4.0). 15년간 에드테크 도구를 리뷰한 저자가 UNESCO·OECD·Stanford Teaching Commons·Jisc 프레임워크와 교사 커뮤니티의 조언을 8단계로 종합—교사용 AI 리터러시는 기술 지식·실무 기술·윤리적 판단·교육적 판단 4영역이며 도달점이 아니라 단계적 진행(UNESCO 교사 AI 역량 프레임워크 2024: Acquire→Deepen→Create)
   * 8단계: ①LLM이 다음 단어 예측으로 글을 만들고 왜 유창한 오답을 내는지 기초 이해(OECD AILit 2025: 이미 쓰는 도구 속 AI를 알아보기) ②윤리 지형—알고리즘 편향·데이터 프라이버시·학업 진실성·형평성 4영역(학생 이름·성적·IEP 정보는 절대 입력 금지, 사소한 정보도 조합되면 식별 가능) ③도구는 3~4개만—범용 어시스턴트(ChatGPT·Claude)+교사 특화(Eduaide·Edcafe·MagicSchool.ai)+과목별 1개, 에너지를 뺏는 업무(차별화 자료·평가·학부모 소통·대체 수업안)부터 ④형식·대상·어조·맥락을 지정하고 페르소나를 쓰는 프롬프트 ⑤"AI는 강력한 초안 파트너이자 끔찍한 팩트체커"—사실인가·누구의 관점이 빠졌나·모든 학생에게 공정한가 세 질문 ⑥개인 생산성에서 수업 통합으로(학생이 AI 출력을 팩트체크·비평, 역사 인물에게 프롬프트)—AI 리터러시는 별도 "AI 수업"이 아니라 기존 교과에 엮을 것 ⑦학생과 함께 만드는 교실 AI 합의서(승인 도구·허용 시점·사용 공개 방법·공유 금지 정보·위반 시 결과, 학기마다 재검토; 빨강/노랑/초록 신호등 템플릿) ⑧지속 학습—Google·ISTE 미국 교사 무료 AI 리터러시 모듈(2026), Jisc 영국 커리큘럼, 매달 한 가지 새로 시도. 저자 저서 『Teaching with AI』
+* [모델이 그렇게 좋다면 오픈AI는 왜 직접 회사를 차리지 않을까 | 요즘IT](https://yozm.wishket.com/magazine/detail/4017/)
+  * 요즘 프로덕트 메이커 주간 3선. ①써볼 것—성공한 런치 영상 163편을 분석해 페이싱·리듬·시각 원칙을 뽑아낸 huashu-motion: AI 코딩 도구가 텍스트 프롬프트로 제품 런치 영상을 만들되 비디오 AI가 아닌 웹 애니메이션으로 렌더해 클릭으로 수정 가능, 스타일 변주와 애니메이션에 맞춘 음악 생성 ②Anthropic S-1 공시—매출 2023년 $41M→2024년 $3.86B→2025년 $4.6B, 2026년 상반기만 $16.3B(전년 대비 14배)로 80%가 토큰 사용량 과금($13.1B)·20%가 구독($3.2B), 연 $10만 이상 고객 11,900+·$100만 이상 1,900+, 상반기 영업비용 $17B 중 R&D $9.7B
+  * ③Hacker News 750+ 댓글 토론 "모델이 그렇게 좋다면 왜 직접 회사 100개를 안 차리나"—AI는 두뇌일 뿐 실행에는 시간·관계·자본이 필요, 고객 확보가 제품 제작보다 여전히 어렵다, 곡괭이와 삽을 파는 쪽이 리스크가 작다, 이미 그 영역에서 경쟁 중이라는 반론. 기능 복제 속도가 빨라진 시대에 기술 외의 경쟁 우위(고객 관계·유통 채널)가 중요하다는 결론
 * [AILit Framework — AI Literacy Framework for Primary and Secondary Education](https://ailiteracyframework.org/)
   * [이재흥 - OECD와 EU가 확정 발표한 AI 리터러시 프레임워크 | Facebook](https://www.facebook.com/weirdo0613518/posts/pfbid02Jdv5jJCrjJrn6PC7ECdFHHSbCe5QwZJ81a4dfWw8qLpyeQs6RwMyxt3EP8kYqyUwl)
   * EU와 OECD가 공동 개발한 초중등 AI 리터러시 교육 프레임워크. 4개 영역(AI 이해·AI 창작·AI 관리·AI 형성)의 학습 역량과 교수 역량 기준 제시. 100개국 2,000명+ 교육자·학생·정책가·과학자 협의로 완성
@@ -9204,6 +9207,10 @@ Artificial Intelligence
 * [Structured-Prompt-Driven Development SPDD | Martin Fowler](https://martinfowler.com/articles/structured-prompt-driven/)
   * [Structured Prompt-Driven Development SPDD | 박상길](https://www.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_structured-prompt-driven-development-spdd-share-7456298777155637248-kvX5/)
   * Thoughtworks가 제안한 SPDD. 프롬프트를 버전화·리뷰 가능한 아티팩트로 취급. REASONS Canvas 7부(Requirements/Entities/Approach/Structure/Operations/Norms/Safeguards)로 LLM 생성 코드 경계 설정. 추상화 우선·의도 정렬·반복 리뷰 3가지 핵심 역량
+* [ThinkRail: Vibe code with pi in a lightweight, real IDE that customises itself around the way you work | JetBrains](https://github.com/JetBrains/thinkrail)
+  * [ThinkRail — The Vibe You Need](https://thinkrail.ai/)
+  * JetBrains 인큐베이터 프로젝트. 쓸수록 나아지는 에이전틱 IDE—오픈소스 코딩 에이전트 `pi`(@earendil-works/pi-coding-agent) 주위에 풍부한 인터페이스를 두르고, git 레포를 프로젝트로 열어 `git worktree`로 잘라낸 격리 워크스페이스(브랜치·작업 디렉터리 분리, PR 머지·종료나 한 주 비활성 시 자동으로 선반에 정리)에서 에이전트들이 병렬 작업. 상단바가 origin·PR 대비 브랜치 상태와 다음 단계(publish·push·PR 생성)를 보여주고 GitHub PR의 CI·리뷰 상태, ready 전환, 실패 체크·분기된 브랜치를 에이전트에 넘기기, 머지까지 처리
+  * Monaco 에디터 탭·git 변경 표시 파일 트리·터미널·문서로 이루어진 분할 워크벤치, 파일·diff에 앵커 리뷰 코멘트를 달아 채팅에 구조화 컨텍스트로 전송, 워크스페이스당 여러 `pi` 세션(모델·토큰·비용 표시, 진행 중 턴 조종·후속 큐·서브에이전트 위임·공유 플랜 단계별 커밋·리뷰). 코드 옆 `SPEC.md` 그래프를 `spec_*` 도구로 읽고 유지하는 living spec, 다른 코딩 에이전트용 Agent Skills를 그대로 읽기, 프로젝트 설정·설계 브레인스토밍·PR 출시 번들 워크플로, 웹 리서치·선택형 질문·인라인 다이어그램·UI 변경 전후 목업 렌더. 확장은 Settings→Extensions에서 끄고 켜며 npm·git·로컬 `pi` 패키지 설치 가능, 질문·시각화 도구는 별도 `pi` 패키지로도 배포. 다음 단계는 에이전트가 작업 방식에 맞춰 스스로 도구를 만드는 완전한 확장 지원. TypeScript, Apache-2.0, 6.8k stars
 
 # Tutorial
 * [왕초보의 인공지능 코딩 - YouTube](https://www.youtube.com/playlist?list=PLfbC0A7KFwZURUl9Q3pgNSYy0uexBf0x5)
