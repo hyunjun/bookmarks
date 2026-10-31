@@ -2390,6 +2390,8 @@ Deep Learning
   * 카파시의 "어텐션은 토큰 간 의사소통·집계(reduce), MLP는 토큰별 개별 사고(map)—트랜스포머는 맵리듀스의 반복"과 "MLP 블록은 데이터 독립적 {key: value} 테이블에 대한 크로스 어텐션 소프트 조회(쿼리 프로젝션 없음, softmax→GeLU, 최종 프로젝션 없음)이므로 단일 슈퍼블록으로 통합 가능하다는 미증명 메모"를 다시 연상. 직교하지 않고 기능이 중첩된 느슨한 '부드러운' 함수 블록들이 "표현→조건부 경로 활성화→다음 표현"으로 암묵적으로 합성된다는 느낌(From f(x) and g(x) to f(g(x)) 논문 연결)
 * [A Bird’s Eye View of Research on Attention](https://machinelearningmastery.com/a-birds-eye-view-of-research-on-attention/)
 * [The Attention Mechanism from Scratch](https://machinelearningmastery.com/the-attention-mechanism-from-scratch/)
+* [Editing a Compressed Memory | Ravid Shwartz Ziv, The Information Bottleneck](https://www.the-information-bottleneck.com/p/editing-a-compressed-memory)
+  * 표준 트랜스포머가 전체 KV 캐시를 들고 있는 것과 달리 선형 어텐션은 무한한 컨텍스트를 고정 크기 행렬 하나(새 토큰마다 갱신되는 러닝 서머리)로 압축해 메모리 증가는 없지만 겹치는 키가 저장된 값을 오염시키는 간섭이 생김. 델타 규칙은 같은 키가 다른 값으로 다시 오면 그냥 더하지 않고 현재 값을 읽어 목표와의 차이만 써 넣는 "수술적 편집"으로 다른 기억을 보존하고, 순차적으로 보이는 이 연산을 토큰 청크 단위 삼각 행렬 풀이로 재정식화해 GPU에 맞는 밀집 행렬곱+청크당 작은 풀이로 병렬 학습. 이후 모델들은 망각을 위한 decay, 특징 선택적 망각을 위한 채널별 decay, 지울 것과 쓸 것을 따로 제어하는 분리된 erase/write 게이트를 더함. 정확한 회상에선 여전히 소프트맥스보다 느려 실제 모델은 선형 층과 표준 어텐션을 3:1 같은 비율로 섞어 씀
 * [Arxiv Sanity Preserver](http://www.arxiv-sanity.com/)
 * [Computer Vision and Pattern Recognition (cs.CV)](https://scirate.com/arxiv/cs.CV) arXiv에 올라온, CV/PR 주제 논문의 초록만 모아 보여줌
 * MNIST 숫자 인식기 Gaussian Bayesian 확률 모델로 구현
