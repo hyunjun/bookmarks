@@ -10199,6 +10199,7 @@ Programming
 * [Python을 이용해 Builder 패턴으로 API 자동화 테스트 코드 구성하기](https://chance-doe.tistory.com/32)
 * [무신사 Web 테스트 자동화 2.0: 더 빠르고 효율적인 테스트 환경 만들기 | by Hochul Shin | MUSINSA tech | May, 2025 | Medium](https://medium.com/musinsa-tech/%EB%AC%B4%EC%8B%A0%EC%82%AC-web-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%9E%90%EB%8F%99%ED%99%94-2-0-%EB%8D%94-%EB%B9%A0%EB%A5%B4%EA%B3%A0-%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8-%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%99%98%EA%B2%BD-%EB%A7%8C%EB%93%A4%EA%B8%B0-af3ad971e0af)
 * [Ace Automation Academy - YouTube](https://www.youtube.com/@aceautomationacademy6926/videos)
+* [agent-qa](https://github.com/vostride/agent-qa) - 웹, Android, iOS 앱을 자연어로 테스트하며, 고급 memidex 메모리 엔진과 자기 개선 기능으로 실행 경험을 재사용
 * [appium - Automation for iOS, Android, and Windows Apps. http://appium.io ](https://github.com/appium/appium)
   * [모바일 UI 테스트 자동화 구축하기](http://blog.dramancompany.com/2019/09/%eb%aa%a8%eb%b0%94%ec%9d%bc-ui-%ed%85%8c%ec%8a%a4%ed%8a%b8-%ec%9e%90%eb%8f%99%ed%99%94-%ea%b5%ac%ec%b6%95%ed%95%98%ea%b8%b0/)
 * Applitools [AI-Powered Test Automation Platform - Applitools](https://applitools.com/)
