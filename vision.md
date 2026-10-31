@@ -359,6 +359,11 @@ Vision
 * [fight_detection: Real time Fight Detection Based on 2D Pose Estimation and RNN Action Recognition](https://github.com/imsoo/fight_detection)
 * [ImageBind: Holistic AI learning across six modalities](https://ai.facebook.com/blog/imagebind-six-modalities-binding-ai/)
   * [Meta open-sources multisensory AI model that combines six types of data - The Verge](https://www.theverge.com/2023/5/9/23716558/meta-imagebind-open-source-multisensory-modal-ai-model-research)
+* [MatAnyone-E: Sparse Memory Propagation for Efficient High-Resolution Video Matting](https://github.com/Shuyun-Wang/MatAnyone-E)
+  * [MatAnyone-E 프로젝트 페이지](https://shuyun-wang.github.io/projects/MatAnyone-E)
+  * [2610.35724 MatAnyone-E: Sparse Memory Propagation for Efficient High-Resolution Video Matting](https://arxiv.org/abs/2610.35724)
+  * Shuyun Wang·Shangchen Zhou·Peiqing Yang·Yuekun Dai·Xin Yu·Chen Change Loy(NTU S-Lab·퀸즐랜드대·애들레이드대). MatAnyone 2의 구조를 유지하면서 해상도에 따라 비용이 가장 빨리 커지는 두 부분을 교체—①Sparse Memory Propagation: 저해상도 패스로 불확실한 질의 위치(query pruning)와 그에 관련된 메모리(memory pruning)만 골라 그 쌍에만 고해상도 매칭 ②단계별 지연 프로파일링으로 설계하고 원본 디코더에서 특징 증류로 학습한 경량 디코더
+  * 4K에서 MatAnyone 2 대비 추론 7.4배 빠르고 피크 GPU 메모리는 7.6%(79.69GB 추정→6.08GB, torch.compile 시 3.89GB), H200 1장+torch.compile에서 1080p 73.07 FPS·4K 28.62 FPS, A800에서 1080p 13.6→37.6 FPS. 머리카락 같은 세부와 프레임 간 투명도 일관성은 유지(MAD 4.14 vs 4.10). 추론 코드·체크포인트·Hugging Face 데모·ComfyUI 커스텀 노드는 예정. NTU S-Lab License 1.0
 * [Painter & SegGPT Series: Vision Foundation Models from BAAI](https://github.com/baaivision/Painter) SegGPT: Segmenting Everything In Context
 * [segment-anything: The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model](https://github.com/facebookresearch/segment-anything)
   * [Introducing Segment Anything: Working toward the first foundation model for image segmentation](https://ai.facebook.com/blog/segment-anything-foundation-model-image-segmentation/)
