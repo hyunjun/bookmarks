@@ -3447,6 +3447,10 @@ Business
 * [Why AI Is Raising the Bar for Marketing Leadership | Shachar Scott, Inc.](https://www.inc.com/shachar-scott/why-ai-is-raising-the-bar-for-marketing-leadership/91389420)
   * AI가 브리프 작성·리걸 사전 검토·QA 등 캠페인 실행 체인을 압축(4주 → 4일)하면서 CMO의 일은 제작 관리에서 시스템 설계·기능 정렬·의사결정 품질로 이동
   * 예측 가능하고 규칙 기반인 작업(캠페인 트래피킹, 성과 리포팅, 템플릿 초안)은 자동화하고, 맥락 판단·문화적 직관·이해관계자 조율이 필요한 일(신규 시장 브랜드 포지셔닝)은 사람이 유지하라는 필터 제시
+* [AI changed the speed of product development. Marketing has to catch up | Gabe Rogol, Fast Company](https://www.fastcompany.com/91623270/ai-changed-the-speed-of-product-development)
+  * [AI로 빨라진 제품 개발, 마케팅 운영 방식도 달라져야 하는 이유 | digitalbourgeois](https://digitalbourgeois.tistory.com/4084)
+  * AI로 소프트웨어 개발이 빨라졌는데(McKinsey: AI를 잘 쓰는 고성과 기업은 출시 기간 16~30%·소프트웨어 품질 31~45% 개선) 마케팅 운영은 그대로라는 단절—분기 단위 캠페인 계획은 잦은 제품 출시와 맞지 않고, 전통 에이전시 계약은 예측 가능한 고정 업무량을 전제하며, 여러 승인 단계와 팀 간 조정이 필요한 쪼개진 워크플로가 병목. 마케터 60%가 주 여러 번 AI를 쓰지만 전체 워크플로에서 가치를 실현하는 비율은 10% 미만, AI 역량 중심으로 마케팅 운영을 크게 재구성한 조직은 28%
+  * 해법으로 개별 작업 자동화가 아니라 필요한 작업 순서를 스스로 정해 실행하고 결과에 따라 조정하는 '에이전틱 마케팅'—사람의 판단이 필요한 전략 결정과 소프트웨어가 조율할 수 있는 실행 조정을 구분하는 것이 핵심
 * [ai-growth-stack: A curated collection of my top AI-powered APIs for website optimization, SEO, conversions, and social media growth | cporter202](https://github.com/cporter202/ai-growth-stack)
   * "API Growth Stack"—웹사이트 데이터 추출(메타·연락처·링크·이미지·SEO 데이터)→SEO 분석→전환 요소 최적화→카피 생성→랜딩 페이지 개선→소셜 콘텐츠 자동 생성, 서로 연결되는 AI API 6종을 하나의 그로스 엔진으로 묶은 큐레이션. 각 API는 저자가 RapidAPI에 올린 유료 상품 링크라 사실상 자체 API 카탈로그·홍보 레포(라이선스 미표기)
 * [claude-seo: Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting | AgriciDaniel](https://github.com/AgriciDaniel/claude-seo)
