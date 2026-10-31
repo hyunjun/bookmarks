@@ -6719,7 +6719,11 @@ NLP
     * [Dia-1.6B · Hugging Face](https://huggingface.co/nari-labs/Dia-1.6B)
 * [NVIDIA Nemotron 3.5 Transcribe | NVIDIA Research](https://research.nvidia.com/labs/nemotron/NVIDIA-Nemotron-3.5-Transcribe/)
   * [NVIDIA Nemotron 3.5 Transcribe - 한국어 포함 40개 언어를 지원 | GeekNews](https://news.hada.io/topic?id=36196)
+  * [NVIDIA-Nemotron-3.5-Transcribe-30B-A4B · Hugging Face](https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B)
+  * [NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt | Hugging Face Blog](https://huggingface.co/blog/nvidia/nemotron-transcribe-granary)
+  * [🎙️ Nemotron 3.5 Transcribe: 받아쓰기와 화자 분리를 한 모델로 합친 이유 | fornewchallenge](https://fornewchallenge.tistory.com/entry/%F0%9F%8E%99%EF%B8%8F-Nemotron-35-Transcribe-%EB%B0%9B%EC%95%84%EC%93%B0%EA%B8%B0%EC%99%80-%ED%99%94%EC%9E%90-%EB%B6%84%EB%A6%AC%EB%A5%BC-%ED%95%9C-%EB%AA%A8%EB%8D%B8%EB%A1%9C-%ED%95%A9%EC%B9%9C-%EC%9D%B4%EC%9C%A0)
   * 전사·화자 구분·음성 번역·언어 식별·오디오 QA를 하나의 오픈 웨이트 모델로 제공하는 NVIDIA 음성 인식 모델(한국어 포함 40개 언어, 최대 1시간 오디오). Transformer-Mamba 하이브리드 MoE로 총 30B 중 약 4B만 활성, 영어 공개 벤치마크 평균 WER 4.71%(GeekNews 기준 5.33%로 공개 모델 1위), 문맥 기반 전사로 고유명사 오류 6배 감소. OpenMDW-1.1 라이선스, BF16·FP8·NVFP4·GGUF 체크포인트와 NeMo Speech 미세조정 도구 제공—의료 도메인 미세조정으로 WER 22.44%→12.17% 개선 사례
+  * 실습: 총 34B 중 토큰당 약 4.3B 활성, Mamba-2+Transformer 하이브리드와 병렬 전문가 인코더, 65,536 토큰 컨텍스트(약 1시간), 화자 분리는 Sortformer 기반 13개 언어·최대 8명, 번역 31개 언어(영어 양방향). 공식 Quick Start 기준 H100 80GB가 최소 사양(A100 80GB·B200·RTX PRO 6000·DGX Spark 지원, 소비자 GPU 로컬 실행은 예정, 스트리밍 미지원)이라 Modal에서 H100을 시간당 약 $3.95로 빌려 vLLM으로 서빙—첫 배포는 가중치 약 67GB 다운로드와 커널 컴파일로 10~20분, 샘플 측정 WER 1.8%, VoiceArena cpWER 32.4%로 14개 시스템 중 1위. 함께 공개된 Granary v2는 48개 언어·16개 코퍼스 46만 3천 시간 데이터 파이프라인, 의료 ASR 파인튜닝에서 최고 프롬프트 베이스라인 대비 WER 45.8% 상대 감소
 * [neutts: On-device TTS model by Neuphonic](https://github.com/neuphonic/neutts)
   * Neuphonic의 온디바이스 TTS 모델 패밀리—NeuTTS-Air(영어), NeuTTS-Nano 다국어 컬렉션(영어·프랑스어·독일어·스페인어), 감정 제어가 되는 NeuTTS-2E. 각각 Hugging Face 모델과 Q8/Q4 GGUF, 데모 Space 제공. Python
 * [NVIDIA Jarvis | NVIDIA Developer](https://developer.nvidia.com/nvidia-jarvis)
