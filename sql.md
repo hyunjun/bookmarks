@@ -580,6 +580,10 @@ SQL
   * [DuckLake - SQL과 Parquet 기반의 데이터 레이크하우스 형식 | GeekNews](https://news.hada.io/topic?id=35046)
   * [DuckLake란? SQL과 Parquet 기반의 오픈 레이크하우스 포맷과 주요 기능 살펴보기 | digitalbourgeois](https://digitalbourgeois.tistory.com/3834)
   * 2026.10 기준 보강—2026년 4월 v1.0으로 프로덕션 준비 완료·하위 호환 보장. 메타데이터(카탈로그)는 ACID SQL DB(PostgreSQL·MySQL·SQLite·DuckDB, 베타로 DuckDB+Quack)에, 데이터는 로컬 디스크나 오브젝트 스토리지의 평범한 Parquet(Iceberg 호환)에—전용 카탈로그 서버 없이 스냅샷(비용 큰 컴팩션 없이 무제한)·타임 트래블·스키마 진화·파티셔닝·다중 테이블 ACID 트랜잭션·변경 데이터 피드·통계 기반 필터 푸시다운. 카탈로그 선택 기준: 단일 로컬 클라이언트는 DuckDB, 로컬 다중 클라이언트는 SQLite, 원격 포함 다중 사용자는 PostgreSQL(기존 인증·권한 그대로)—바닐라 DuckDB가 지원하지 않는 '멀티플레이어 DuckDB'. `INSTALL ducklake; ATTACH 'ducklake:metadata.ducklake' AS my_ducklake (DATA_PATH 'data/')`. DuckLake는 포맷·명세이고 이 레포는 DuckDB 확장(C++, MIT, 3.3k stars)—HN 반응: DuckDB 없이도 쓰는 명세여서 Rust/DataFusion 구현 datafusion-ducklake가 진행 중(Iceberg는 저지연 작업에 너무 무거웠다는 구현자 후기), 카탈로그가 Postgres면 'PostgresLake'에 가깝다는 농담, 행·열 접근 제어·마스킹이 없어 기업 BI엔 부족하다는 지적, "명세는 1.0이지만 소프트웨어는 1.0 수준이 아니다"(v1.5.4 카탈로그 필터 집계 버그, main/v2는 DuckDB v2 SQL 파서 10배 저하)라는 경고, MotherDuck에서 O'Reilly 「DuckLake: The Definitive Guide」 무료 배포
+* [pg_duckdb: DuckDB-powered Postgres for high performance apps & analytics](https://github.com/duckdb/pg_duckdb)
+  * [pg_duckdb - PostgreSQL and DuckDB in one query engine | BugBytes - YouTube](https://www.youtube.com/watch?v=xBBU213nEts)
+    * Docker로 pg_duckdb 내장 Postgres를 띄우고, `read_parquet()`로 Parquet 파일을 바로 Postgres 테이블로 읽어 들이고, 기존 Postgres 테이블을 DuckDB 엔진으로 질의하고, 데이터 소스에서 필요한 컬럼만 직접 읽는 과정을 보여주는 14분 실습. 기존 데이터가 있는 환경에서 이 확장을 어떻게 접근할지도 다룸
+  * DuckDB·Hydra·MotherDuck이 함께 만든 공식 PostgreSQL 확장—DuckDB의 컬럼 지향 벡터화 분석 엔진을 Postgres 안에 넣어 `SET duckdb.force_execution = true`만으로 기존 SQL을 바꾸지 않고 일반 Postgres 테이블의 분석 질의를 DuckDB로 실행(Parquet 등으로 내보낼 필요 없음). S3·GCS·Azure·R2의 Parquet·CSV·JSON·Iceberg·Delta Lake를 `read_parquet()` 등으로 읽고 쓰며 Postgres 테이블과 조인, `duckdb.create_simple_secret()`으로 SQL에서 바로 S3 자격 증명 설정, MotherDuck을 컴퓨트 제공자로 바로 연결. C++, MIT, 3.3k stars
 
 # Library
 * [alasql.org](http://alasql.org/)
