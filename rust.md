@@ -669,6 +669,10 @@
 * [Rust for the impatient - YouTube](https://www.youtube.com/watch?v=br3GIIQeefY)
   * [A half-hour to learn Rust](https://fasterthanli.me/articles/a-half-hour-to-learn-rust)
 * [Rust Is a Scalable Language](https://matklad.github.io/2023/03/28/rust-is-a-scalable-language.html)
+* [Rust Style Guide | Google Style Guides](https://google.github.io/styleguide/rustguide.html)
+  * [Google의 Rust 코딩 스타일 가이드: 유지보수성과 일관성을 높이는 개발 규칙 | digitalbourgeois](https://digitalbourgeois.tistory.com/4049)
+  * Android·ChromeOS·Fuchsia·Chrome·사내 코드에 적용되는 Google의 Rust 스타일 가이드—공식 Rust Style Guide·API Guidelines를 따르되(포매팅은 rustfmt가 강제, 근거로 Clippy 린트 다수 인용) 대규모 변경(LSC)과 거대 코드베이스 일관성을 위해 추가한 규칙. 작은 크레이트·평평한 파일 구조·타입과 같은 모듈 이름, glob import 금지·트레이트는 함수 안에서 로컬 import·타입은 비한정·함수는 `mem::transmute()`처럼 모듈 한정, 라이브러리는 `Vec<T>` 대신 이터레이터 반환·`&Vec<T>` 대신 `&[T]`·`bool` 인자 대신 `enum`·`Option`/`Result`/`panic!` 구분
+  * 표준 트레이트 구현·`#[derive]`·공개 enum `#[non_exhaustive]`·순수 함수와 오류 타입 `#[must_use]`·newtype과 이름 있는 필드, `Rc`/`Arc`보다 단일 소유권·clone보다 borrowing, Chrome은 `async`/`.await`와 std 스레딩 금지·Fuchsia는 `fuchsia_sync::Mutex`, 매크로보다 표준 기능, 공개 API `///` 문서에 예제·panic 조건·unsafe 불변식 명시, unsafe는 안전한 추상화 안에 격리하고 `SAFETY:` 주석. 라이브러리와 애플리케이션 코드에 다른 기준 적용
 * [rustlings: Small exercises to get you used to reading and writing Rust code!](https://github.com/rust-lang/rustlings)
   * 버그 수정하며 Rust 언어 배우기
   * 에러가 있는 코드를 수정하면서 Rust를 읽고 쓰는법 배우기
