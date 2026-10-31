@@ -114,6 +114,13 @@ GIS
   * [27억5000만채…전세계 모든 건물 ‘용적’까지 파악한 입체지도 나왔다](https://v.daum.net/v/20251212093616829)
 * [google-maps-scraping-apis: A powerhouse collection of Google Maps scraping APIs you can start using immediately to build local lead lists, monitor reviews, and power location intelligence. One of the most valuable Maps data lists on GitHub](https://github.com/cporter202/google-maps-scraping-apis)
   * scraping-apis-for-devs·social-media-scraping-apis·video-scraping-apis와 같은 저자(cporter202)의 Apify 액터 카탈로그—Google Maps 스크래핑용 Apify 액터 217개(리뷰 스크래퍼 103·이메일/연락처 추출 61·업종별 리드 파인더 19·장소 스크래퍼 30, 장소당 20~30 필드)를 catalog/README.md에 정리하고 지역 리드 파이프라인·리뷰 모니터링 플레이북을 붙임. 추천 액터: Compass Google Maps Scraper(월 3.9만+ 사용자·4.7★), Thirdwatch($0.002/결과 종량제), Bovi(장소당 27필드·신뢰도 점수), Compass Reviews Scraper. Google Maps가 핑거프린팅·속도 제한·CAPTCHA·레이아웃 변경으로 자체 스크래퍼 유지가 어려우니 프록시·재시도를 액터 작성자가 관리하는 Apify를 쓰라는 논리. 모든 Apify 링크에 제휴 코드(fpr=p2hrc6)가 붙어 있음을 공개. 코드 없는 디렉터리 레포, MIT, 2026-10-08 생성, 22 stars
+* [olmoearth_pretrain: Earth system foundation model data, training, and eval | Ai2](https://github.com/allenai/olmoearth_pretrain)
+  * [OlmoEarth v1.3: State-of-the-art embeddings for the whole planet | Ai2](https://allenai.org/blog/olmoearth-v1-3)
+  * [OlmoEarth Embeddings Explorer](https://olmoearth.allenai.org/embeddings)
+  * [위성 데이터를 한 번 계산해 계속 쓴다, Ai2 OlmoEarth v1.3 임베딩과 탐색 도구 | digitalbourgeois](https://digitalbourgeois.tistory.com/4064)
+  * Sentinel-2·Sentinel-1·Landsat 세 위성 모달리티와 OpenStreetMap·WorldCover·USDA CDL·SRTM DEM·캐노피 높이·WorldCereal 여섯 파생 지도로 학습한 Ai2의 멀티모달 시공간 지구 관측 파운데이션 모델 패밀리(Nano 1.4M~Large 308M, OLMo-core 기반). v1→v1.1→v1.2→v1.3으로 반복 공개하며 각 버전의 학습 스크립트·테크 리포트·Hugging Face 가중치를 함께 제공
+  * v1.3은 GPU 파인튜닝 대신 "한 번 계산해 어디서나 재사용"—1년치 레이더·다중분광 시계열을 지구 전체 10m 픽셀마다 128차원(경량 64차원) 벡터로 미리 계산해 Source Cooperative에 공개(연간 약 150TB, 2023~2025 전 지구·2017~2022 일부 국가). 6대륙 27개 평가에서 AlphaEarth Foundations·Tessera v2 대비 128차원은 20개, 64차원은 18개 1위(열대 작물 벤치마크 PLANTEUR 신설). 학습 연산은 v1.2의 53%·v1의 18%, H100 임대 기준 재현 비용 약 2,720달러, 원본 위성 장면 출처표 공개
+  * 브라우저용 Embeddings Explorer로 로그인·GPU 없이 지도 위에서 유사도 검색과 경량 분류 실험 가능—작물 분류·토지 피복·산림 벌채·변화 탐지에 같은 임베딩을 재사용. OlmoEarth Artifact License, Python
 * [OSIRIS — Open Source Intelligence Platform | Live Flight Tracking, CCTV, OSINT Tools & More](https://osirisai.live/)
   * [osiris: Open Source Global Intelligence Platform - Real-Time OSINT Dashboard - A Palantir Alternative](https://github.com/simplifaisoul/osiris)
   * 3D 지구 위에 항공기 1만+·위성 2천·전세계 CCTV를 실시간 추적하고, 브라우저에서 Nmap·DNS·WHOIS·위협 인텔리전스 스캔 실행. 20+ 라이브 인텔리전스 피드, Palantir 대안 지향. 무료 오픈소스, TypeScript, 9.6k stars
