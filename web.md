@@ -1732,6 +1732,9 @@ Web
     * 기존에는 에이전트가 서버에 요청을 보내고 대기, 변경사항이 생겼을 때 모든 결과를 보내다 보니 수만 대의 인스턴스에서 부하가 심해서 새 인스턴스를 추가할 때마다 성능 우려
     * 스트리밍 기능은 해당 서비스의 변경사항만 gRPC로 보내기 때문에 성능과 밴드위스에서 이득
 * [CRProxy](https://crproxy.com/) command line tool allow you to serve web content from your local machine, or behind any firewall
+* [dev-proxy: Built for agentic development workflows: one proxy to route everything, one terminal to monitor it all | reopt-ai](https://github.com/reopt-ai/dev-proxy)
+  * [여러 프로젝트를 동시에 개발하기 위해 만든 오픈소스 로컬 프록시 | Seungho Han](https://kr.linkedin.com/posts/eric-han-kr_github-reopt-aidev-proxy-built-for-agentic-activity-7521053910728376320-FVzd)
+  * 코딩 에이전트와 여러 프로젝트·git worktree를 병렬로 개발할 때 늘어나는 localhost 포트를 하나의 프록시가 `*.{domain}:3000` 서브도메인으로 라우팅하고, 모든 프로젝트의 HTTP/WS 트래픽을 터미널 대시보드(TUI) 하나에서 보는 도구—Charles·Proxyman의 터미널 네이티브 경량 대안. 와일드카드 DNS+신뢰 TLS 인증서+`httpsPort: 443`이면 프로젝트마다 `https://shop.dev.example.com` 같은 깔끔한 URL을 쓰고 같은 LAN의 폰·태블릿에서 실기기 테스트. Vercel Labs portless에서 영감, 라우트·worktree를 설정 파일로 두는 에이전트 친화 설계, 여러 로컬 머신에 서비스를 분산하는 Peer 기능. npm `@reopt-ai/dev-proxy`, 한국어 README. TypeScript, MIT
 * [go-proxy: Easy to use reverse proxy with docker integration](https://github.com/yusing/go-proxy)
   * [GoDoxy - 사용하기 쉬운 리버스 프록시 | GeekNews](https://news.hada.io/topic?id=18940)
 * [imgproxy: Fast and secure standalone server for resizing and converting remote images](https://github.com/imgproxy/imgproxy)
