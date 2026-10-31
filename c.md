@@ -140,6 +140,8 @@ C
 * [C 프로그래밍 언어가 여전히 최고인 이유 : 개발언어 일대일 비교](http://www.itworld.co.kr/news/124767)
 * [C에 대해서 잘 아시나요?](http://jhrogue.blogspot.com/2019/07/b-c.html)
 * [Why const Doesn't Make C Code Faster](https://theartofmachinery.com/2019/08/12/c_const_isnt_for_performance.html)
+* [const doesn't mean constant in C. It means you can't modify an object through a const-qualified access path | Jacob Beningo](https://www.linkedin.com/posts/jacobbeningo_const-doesnt-mean-constant-in-c-it-means-share-7521179543907381248-Oa8Y/)
+  * `const int x = 14; int *y = (int *)&x; *y = 16;` 세 줄을 Mac의 Clang과 Cortex-M4용 GCC로 컴파일하면 네 가지 다른 결과—Clang -O0 전역 x는 읽기 전용 메모리에 놓여 크래시, Clang -O2 전역은 크래시 없이 *y가 14 출력(수정 효과 없음), Clang 지역 x는 x는 14·*y는 16(같은 주소, 두 값), GCC Cortex-M4 -O2는 flash의 .rodata에 두고 스토어 명령은 내보내되 x는 다시 읽지 않고 14 사용. 전부 컴파일러 버그가 아니라 const 한정 객체 수정은 C11 6.7.3p6의 정의되지 않은 동작이고, 명시적 캐스트가 타입 검사를 침묵시켜 두 컴파일러 모두 -Wall -Wextra에서 경고 0개. const는 데이터가 어디 있는지의 보장이 아니라 접근 경로에 대한 계약(`const int *p`·`int * const p`·`const int * const p`의 차이, `Uart_Send(const uint8_t *buf, size_t len)` 같은 인터페이스 계약)이라는 관점과, 한정자를 버리는 캐스트를 잡아내는 -Wcast-qual을 켜고 const를 떼는 모든 캐스트에 이유를 요구하라는 권고
 * [P99 - Preprocessor macros and functions for C99 and C11](http://p99.gforge.inria.fr/p99-html/index.html)
 * [Using pseudo-terminals (pty) to control interactive programs](http://rachid.koucha.free.fr/tech_corner/pty_pdip.html)
 * [Floating point oddity](https://www.johndcook.com/blog/2019/11/11/floating-point-oddity/)
