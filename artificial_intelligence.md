@@ -5336,6 +5336,7 @@ Artificial Intelligence
 * [claude-bug-bounty: BugHunter — AI-powered bug bounty hunting toolkit](https://github.com/shuvonsec/claude-bug-bounty)
   * [ShuvonSec — Ethical Hacker & AI Agent Builder](https://shuvonsec.me/)
   * 정찰(서브도메인 열거·호스트 발견·URL 크롤링)→헌팅(20개 웹 취약점+10개 스마트컨트랙트 버그 스캔)→검증(7문항 게이트로 false positive 필터)→HackerOne/Bugcrowd 제출용 리포트 생성. CLI+Claude Code 플러그인, Ollama(로컬)/Groq(무료)/DeepSeek 등 무료 AI 프로바이더, 세션 간 패턴 기억·취약점 체이닝. 승인된 스코프 내 사용 강조
+* [claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development. · GitHub](https://github.com/SnailSploit/claude-red)
 * [claude-security-scan: Security Skills for Claude Code · GitHub](https://github.com/mimul/claude-security-scan)
   * [Claude로 만드는 보안 진단 스킬 공개 | Mimul Tech blog](https://www.mimul.com/blog/claude-security-scan/)
   * [Claude로 만드는 보안 진단 스킬 공개 | LinkedIn](https://www.linkedin.com/posts/mimul_claude%EB%A1%9C-%EB%A7%8C%EB%93%9C%EB%8A%94-%EC%8B%A4%EC%A0%84-%EB%B3%B4%EC%95%88-%EC%A7%84%EB%8B%A8-%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%84-%EA%B3%B5%EA%B0%9C%ED%95%A9%EB%8B%88%EB%8B%A4-security-full-scan-share-7457677762393432066-3sJ8/?utm_source=share&utm_medium=member_ios&rcm=ACoAAAbMQEUBMB4uRYC4Kn5aQ940QwHNVlgc8EE)
