@@ -7032,6 +7032,13 @@ Javascript
   * [standard-schema: A standard interface for TypeScript schema validation libraries](https://github.com/standard-schema/standard-schema)
   * [Standard Schema - TypeScript Validation을 위한 공통 인터페 | GeekNews](https://news.hada.io/topic?id=19078)
 * [state-ref: Universal state management library that can be easily integrated into UI libraries](https://github.com/superlucky84/state-ref)
+* [TanStack AI — Type-safe, provider-agnostic TypeScript AI SDK](https://tanstack.com/ai)
+  * [ai: Type-safe, provider-agnostic TypeScript AI SDK for streaming chat, tool calling, agents, and multimodal apps across OpenAI, Anthropic, Gemini, React, Vue, Svelte, and Solid | TanStack](https://github.com/TanStack/ai)
+  * [TanStack AI 1.0 announcement | TanStack Blog](https://tanstack.com/blog/tanstack-ai-1-0)
+  * [TanStack AI is Officially STABLE! | OrcDev - YouTube](https://www.youtube.com/watch?v=IeP8_4YlEdQ)
+    * 1.0이 정말 안정적인가, RC 이후 무엇이 바뀌었나, 0.x 사용자에게 무엇이 깨지나, 왜 에이전트 하네스는 아직 experimental인가를 다루는 소개 영상. Neon 어댑터 예시
+  * 스트리밍 채팅·툴 콜링 에이전트·구조화 출력·실시간 음성·미디어 생성을 위한 TypeScript SDK(3.3k stars)—조합 가능한 activity와 프로바이더 어댑터로 구성되어 chat만 쓰거나 image·audio·video·speech·transcription·summarization·realtime·Code Mode·devtools·프레임워크 바인딩을 필요한 만큼만 가져옴. 모델별 지원 필드를 타입으로 검증, 도구를 한 번 정의해 클라이언트·서버 양쪽에서 실행, 메시지를 thinking·tool call·text 등 타입화된 파트로 관리, 지속성·인터럽트·샌드박스 내장. Claude Code·Cursor용 Agent Skills(`/plugin marketplace add TanStack/ai`)로 코딩 에이전트에 사용법을 먼저 가르칠 수 있음
+  * 1.0: 코어 API 안정화(알파 때 4개 프로바이더·3개 UI 프레임워크→23+ 프로바이더 어댑터·8개 UI 프레임워크: React·Vue·Solid·Svelte·Preact·Angular·Octane·Remix). breaking change—`threadId` 필수, `body`→`forwardedProps`, `addToolApprovalResponse()`→인터럽트 해소 방식(codemod 제공). 재시작을 넘어 대기하고 다중 사용자를 지원하는 장기 실행 에이전트 세션용 `@tanstack/ai-harness`는 아직 0.x experimental
 * [TGrid - TypeScript Grid Computing Framework](https://tgrid.dev)
   * [TGrid 3분 PR 동영상](https://www.youtube.com/watch?v=r7zRdc0XxLk)
 * [TrackPurchase: 단 몇줄의 코드로 다양한 쇼핑 플랫폼에서 결제 내역을 긁어오자!](https://github.com/code-yeongyu/trackpurchase)
