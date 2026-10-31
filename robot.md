@@ -127,6 +127,11 @@ Robot
 * [foros: Failover ROS framework](https://github.com/42dot/foros)
 * [IsaacLab: Unified framework for robot learning built on NVIDIA Isaac Sim](https://github.com/isaac-sim/IsaacLab)
   * [엔비디아, 로봇 학습 및 휴머노이드 개발 가속화하는 AI 도구 오픈 소스로 공개 < 로봇 < AI Industry < 기사본문 - 인공지능신문](https://www.aitimes.kr/news/articleView.html?idxno=32734)
+  * [Isaac Lab Documentation](https://isaac-sim.github.io/IsaacLab/)
+  * [2511.04831 Isaac Lab: A GPU-Accelerated Simulation Framework for Multi-Modal Robot Learning](https://arxiv.org/abs/2511.04831)
+  * [GPU 가속 로봇 시뮬레이션과 강화학습을 위한 오픈소스 프레임워크, Isaac Lab | digitalbourgeois](https://digitalbourgeois.tistory.com/4055)
+  * 강화학습·모방학습·포스트트레이닝 등 로봇 연구 워크플로를 통합하는 NVIDIA의 GPU 가속 오픈소스 프레임워크. 물리·렌더링 백엔드로 Newton·OVRTX·OVPhysX·Isaac Sim을 바꿔 끼우는 멀티 백엔드 구조(3.0.0은 Isaac Sim 6.2 대응), 강체·관절·변형체 물리, RTX 카메라·LiDAR·IMU·접촉 센서·레이캐스터 시뮬레이션, 16종 이상 로봇 모델과 30개 이상 사전 구축 학습 환경, RSL RL·SKRL·RL Games·Stable Baselines 연동, 로컬 또는 클라우드 분산 실행
+  * 티스토리 글의 주의점: 코어는 BSD-3-Clause지만 isaaclab_mimic 등 일부 확장은 Apache 2.0 또는 cuRobo가 필요한 독점 라이선스, Isaac Sim 버전 호환표 확인 필요, GPU 가속 성능은 설정·백엔드·하드웨어에 따라 다르고 Sim-to-Real은 시뮬레이션 결과 외 추가 검증 필요. Python, 8.5k stars
 * [Newton: GPU-accelerated physics simulation engine for robotics](https://newton-physics.github.io/newton)
   * [newton](https://github.com/newton-physics/newton)
   * NVIDIA Warp 기반, MuJoCo Warp 백엔드. OpenUSD 지원, 미분 가능, 빠른 반복·확장 가능한 로봇 시뮬레이션
