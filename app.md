@@ -3233,6 +3233,8 @@ App
   * [My Obsidian And Gemini CLI Workflow - YouTube](https://www.youtube.com/watch?v=JGwFsyyewYc) terminal, templater
   * [My Ultimate Obsidian Setup - YouTube](https://www.youtube.com/watch?v=ZQTj8ZSDFw4)
     * File Color, Colored Tags, Code Styler, File Explorer++, Omnisearch, Commander, Editor Syntax Highlighter, Importer, Tag Wrangler
+  * [obsidian plugins i can't live without | melody aka melocreating - YouTube](https://www.youtube.com/watch?v=h7BYRUMiJ-8)
+    * Notion·Capacities 같은 다른 세컨드 브레인 앱과 Obsidian을 가르는 건 방대한 커뮤니티 플러그인이라며 노트·공부·연구·스토리텔링용으로 애용하는 플러그인을 소개—챕터 순서로 각주 단축 플러그인(Footnote shortcut), Dataview로 데이터 관리, 노트 자동 완성, 연결 시각화, 고급 서식 팁
   * MoC Map of Content
     * [Linking Your Thinking](https://www.linkingyourthinking.com/)
     * [Linking Your Thinking with Nick Milo - YouTube](https://www.youtube.com/@linkingyourthinking)
