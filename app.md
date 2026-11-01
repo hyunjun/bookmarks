@@ -2761,6 +2761,8 @@ App
 * AllDUP [How-To : 무료 소프트웨어로 중복 사진을 정리하는 방법 - ITWorld Korea](https://www.itworld.co.kr/news/226129)
 * [AES67 Stream Monitor - aes67.app](https://aes67.app/) Free and Open Source Audio over IP Monitoring App
 * [Adacious 리눅스 & 윈도 MP3 플레이어](https://sunyzero.tistory.com/297)
+* [ai-ffmpeg-cli: AI-powered CLI that translates natural language into safe, reviewable ffmpeg commands | d-k-patel](https://github.com/d-k-patel/ai-ffmpeg-cli/)
+  * "ffmpeg 명령 검색을 멈추고 원하는 걸 말하라"—자연어를 ffmpeg 명령으로 번역하되 실행 전에 미리 보여 주는 안전 우선 CLI(`aiclip`). 합리적 코덱·품질 기본값, 토큰 사용량·비용 추적, 터미널 UI. Python, MIT
 * [Apache OpenMeetings Project – Home](https://openmeetings.apache.org/) video conferencing, instant messaging, white board, collaborative document editing and other groupware tools
 * audacity [오픈소스 오디오 편집툴 : Audacity](https://jybaek.tistory.com/801)
 * [AudioKitSynthOne: AudioKit Synth One: Open-Source iOS Synthesizer App](https://github.com/AudioKit/AudioKitSynthOne)
