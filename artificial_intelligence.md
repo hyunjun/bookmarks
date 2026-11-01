@@ -1072,8 +1072,10 @@ Artificial Intelligence
   * [Demystifying Agentic AI Using Small Language Models - YouTube](https://www.youtube.com/watch?v=nk5BNz8v_9E)
     * PyCon DE & PyData 2026, Serhii Sokolenko. GPU 팜 없이 SLM(10~30B, 16GB에 들어가는 모델)과 Iceberg 테이블로 확장 가능한 데이터 에이전트 구축. 추론 루프에 흔히 쓰는 LLM은 계산 비용이 크고 중복 데이터를 담고 있다는 문제 제기
 * [2508.16153 Memento: Fine-tuning LLM Agents without Fine-tuning LLMs](https://arxiv.org/html/2508.16153v2)
-  * [memento: Official Code of Memento: Fine-tuning LLM Agents without Fine-tuning LLMs | agent-on-the-fly](https://github.com/agent-on-the-fly/memento)
+  * [Memento: Official Code of Memento: Fine-tuning LLM Agents without Fine-tuning LLMs | Memento-Teams](https://github.com/Memento-Teams/Memento)
+  * [모델 재학습 없이 AI 에이전트를 개선하는 방법, Memento의 메모리 기반 학습 구조 | digitalbourgeois](https://digitalbourgeois.tistory.com/4106)
   * Huichi Zhou·Yihang Chen·Jun Wang 외(UCL 등). 손으로 짠 정적 reflection 워크플로나 비용이 큰 gradient 업데이트 대신 메모리 기반 온라인 강화학습으로 LLM 가중치를 바꾸지 않고 에이전트를 지속 적응시키는 프레임워크—에이전트를 Memory-augmented MDP로 정식화하고 신경망 case-selection 정책이 에피소드 메모리(사례)에서 경험을 고르며 환경 피드백으로 메모리를 계속 갱신. 딥 리서치 과제에 적용한 Memento는 GAIA 검증 Pass@3 87.88%·테스트 79.40%, OOD 과제에서 학습 기반 대안 대비 4.7~9.6pt 향상. Planner–Executor 구조·Case-Based Reasoning·MCP 도구, 비파라메트릭/파라메트릭 CBR 추론 코드와 vLLM 로컬 실행기 지원. Python, MIT, 2.7k stars
+  * 티스토리 글의 구조 정리: 복잡한 요청을 실행 가능한 하위 작업으로 분해하는 Meta-Planner(GPT-4.1)와 개별 작업을 수행하는 Executor(o3)의 분리, (상태·행동·보상) 튜플을 저장하는 Case Memory와 관련 사례를 꺼내 쓰는 Case-Based Reasoning(비파라메트릭·파라메트릭 검색 두 방식), 웹 검색·문서 처리·코드 실행·멀티미디어 분석을 묶는 MCP 도구 계층—핵심 LLM 가중치를 재학습하지 않고 지속 학습. README 벤치마크: GAIA 검증 87.88%·테스트 79.40%, DeepResearcher F1 66.6%·PM 80.4%, SimpleQA 95.0%. 설치는 레포의 INSTALL.md
 * [2510.06445 A Survey on Agentic Security: Applications, Threats and Defenses](https://arxiv.org/abs/2510.06445)
   * [전종홍 - ‘자율형 LLM 에이전트(agentic LLMs)’의 보안 문제를 체계적으로 정리하려는 첫시도. 기존... | Facebook](https://www.facebook.com/story.php?story_fbid=10164606243271410&id=683301409)
 * [2510.09244v1.pdf Fundamentals of Building Autonomous LLM Agents](https://arxiv.org/abs/2510.09244)
@@ -6333,6 +6335,10 @@ Artificial Intelligence
 * [rams - AI Design Engineer & Design Reviews](https://www.rams.ai/) 접근성, 시각적 일관성 리뷰하는 디자인 엔지니어 스킬
 * [ResearchRabbit: AI Tool for Smarter, Faster Literature Reviews](https://www.researchrabbit.ai/)
   * [김성원 - 연구자들을 위해 구축한 가장 강력한 문헌 조사 도구 Research Rabbit AI... | Facebook](https://www.facebook.com/fatdogfish/posts/pfbid0x3vFUEVdampsvgB122a2JXSFVz5ZKqiKe3vMYmBuEPNoAERmirAquuHsShpS8tUTl)
+* [ReviewFast: find, screen and extract the literature | JoLab](https://www.jolab.ai/reviewfast)
+  * [요즘 핫한 Jev를 이용해, 질문을 넣으면 수만편의 논문중에서 가장 관련 있는 논문들을 순서대로 나열하는 모델을 만들었습니다 | 조태호(Taeho Jo) | Facebook Reel](https://www.facebook.com/reel/1774771410446595)
+  * 체계적 문헌 고찰의 초기 선별 단계를 자동화하는 무료 AI 도구—연구 질문을 넣으면 Jev가 모든 초록을 읽고 관련도를 점수화하고 사용자가 슬라이더로 컷오프를 정함. 기본·고급 검색과 열 커스터마이징, 제목·초록에서 묶은 주제와 인터랙티브 점 그래프 시각화, 실행 결과 14일 보존과 공유 링크, CSV 내보내기. Claude Opus 5.5로 같은 검색을 하면 $29.30·45분 걸리는 데 비해 무료·35초(논문 2,000편)이고 정확도는 AUC 0.962 vs 0.973으로 비슷하다는 비교. Anthropic AI for Science 프로그램의 크레딧을 받은 조태호 박사의 JoLab이 만들었고 Apache-2.0 오픈소스
+  * 릴에서는 "blood biomarkers in Alzheimer disease" 질문으로 PubMed에서 10,759편을 선별→상위 1,944편의 초록을 읽고→슬라이더로 가장 관련 높은 59편만 남기는 과정을 재현. Anthropic 크레딧으로 만든 첫 결과물로 리뷰 페이퍼 준비·빠른 논문 탐색이 필요한 누구나 쓸 수 있게 지금도 앞으로도 무료로 운영할 계획
 * [Revyl](https://www.revyl.ai/) AI를 통해 test를 한다고 하는 도구
 * [Reworkd](https://auth.reworkd.ai/)
   * [Reworkd라는 서비스는 원하는 사이트를 지정하면 자동으로 코드가 생성되고, 해당 코드가 실행 되면서 컨텐츠를 크롤링](https://www.linkedin.com/posts/duckjungkim_%EC%9B%B9-%EC%BB%A8%ED%85%90%EC%B8%A0%EB%A5%BC-%ED%81%AC%EB%A1%A4%EB%A7%81%ED%95%98%EB%8A%94-%EA%B8%B0%EC%88%A0%EC%9D%80-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%BD%94%EB%94%A9-%EB%B0%B0%EC%9A%B8%EB%95%8C-%EB%A7%8E%EC%9D%B4-%EC%8B%A4%EC%8A%B5%ED%95%9C-%EB%82%B4%EC%9A%A9%EC%9E%85%EB%8B%88%EB%8B%A4-activity-7327293373856260096-b9bm/)
@@ -8387,7 +8393,11 @@ Artificial Intelligence
   * [휴대폰에서 Claude·Codex 이어 쓰기 — Herdr × Tailscale 설치부터 세션 관리까지 | 단테 - YouTube](https://www.youtube.com/watch?v=qo_y2iQlZ2I)
     * Tailscale은 맥·휴대폰을 암호화 사설망으로 묶고(포트포워딩 불필요) Herdr는 그 안의 터미널에서 Claude Code·Codex·서버 로그를 pane·탭으로 정리—DHH가 여러 컴퓨터에서 AI 작업 16개쯤을 Herdr로 관리하고 Tailscale로 접속한다고 밝힌 방식. 설치 후 `herdr integration`으로 Claude·Codex 연동, 이름 붙인 세션(이름을 빼면 기본 세션이 열림), Ctrl+B V 분할·Z 확대·Q 나가기, 다시 같은 세션으로 들어오면 대화·웹 서버가 그대로 살아 있음(Claude 자체를 종료했으면 `--continue`로 재개)
     * 같은 폴더를 쓰는 두 pane은 같은 파일을 보므로 동시 수정은 별도 폴더·git worktree로 분리, 연결만 끊기면 계속 실행되지만 맥이 꺼지거나 잠들면 끝남. 휴대폰은 맥 원격 로그인을 켜고 Moshi 같은 SSH 앱에 Tailscale 주소·맥 짧은 사용자명·포트 22·휴대폰에서 만든 키(공개 키만 맥에 등록)로 접속해 같은 세션 실행, 다른 데스크톱은 `--remote` 옵션. Codex만 쓰면 공식 앱 원격 연결, Claude만 쓰면 Remote Control이 낫고 여러 CLI·서버 로그를 함께 오갈 때 Herdr
+  * [Claude Code·Codex 여러 개를 한 창에서 — Herdr 앱 나왔다 (설치부터 휴대폰·다른 컴퓨터까지) | 단테 - YouTube](https://www.youtube.com/watch?v=HyzCDB0195U)
+    * [herdr-inflearn-practice/sec08-app — 프롬프트 원문·예시 파일](https://github.com/dante01yoon/herdr-inflearn-practice/tree/main/sec08-app)
+    * Herdr 앱 0.1.10·herdr-core 0.1.15(Mac) 기준 실제 화면으로 따라가는 가이드—설치와 첫 화면, 앱을 꺼도 일이 계속되는 herdr-core 구조, 말로 앱 화면 바꾸기, 남이 만든 레이아웃·모드 가져오기, 에이전트가 다른 에이전트를 부리는 위임, Ovis(devswha/ovis)로 휴대폰에서 채팅처럼 답하기, 맥북 에어의 Claude Code까지 다른 컴퓨터를 한 목록에 모으기. Windows는 설치 파일로 설치. 인프런 무료 강의 "에이전트 워크플로우 최강 도구, Herdr 완벽 가이드"의 일부
   * [awesome-herdr: A curated guide to the Herdr ecosystem — tools, workflows, configs, clients, skills, and integrations](https://github.com/yigitkonur/awesome-herdr)
+  * 2026-10 데스크톱 앱(herdr-app) 공개—"Made for your agents. Remade by them." 에이전트는 백그라운드 서버 herdr-core에서 돌아 앱 창을 닫거나 업데이트해도 계속 작업하고, 에이전트가 다른 에이전트에게 일을 맡기고 보고를 받으며, SSH로 서버·VM·클라우드의 에이전트까지 사이드바 하나에서 관리. 레이아웃·테마·탭·키바인딩은 `~/.config/herdr-app/` 설정 파일로 바꾸고 그 변경을 에이전트에게 시킬 수 있음. 어떤 터미널 앱이든 돌리되 OSC 7501 공개 상태 프로토콜을 지원하는 에이전트는 working·done·blocked 상태를 보고(한 줄 추가로 커스텀 스크립트도 가능). macOS(Apple Silicon)·Linux(x86_64·arm64)·Windows(x86_64), herdrdev 조직의 herdr-app·herdr-core·herdr 레포, Apache 2.0
 * [entroly — Self-Evolving Daemon](https://juyterman1000.github.io/entroly/)
   * [entroly: Compress 2M-token repos into a razor-sharp Principal Engineer context. 85-99% fewer tokens, 100% accuracy retention](https://github.com/juyterman1000/entroly)
   * Cursor/Claude Code/Opus/Codex/GPT/커스텀 프로바이더용. 2M 토큰 레포를 압축하여 정확도 유지
@@ -9159,6 +9169,8 @@ Artificial Intelligence
 * [최용식 - 요즘 미국 개발자 커뮤니티를 뜨겁게 달구는 단어, 스펙 기반 개발 | Facebook](https://www.facebook.com/cys712/posts/pfbid0B5h77jSoJGecyVt5ibkGAtcFY4NdR7Jy49Ym4EfAdBuy8iGPi3jyyGDwQ1GWMziCl)
   * 코드보다 명세서를 먼저 쓰고 버전 관리하며 AI 에이전트가 그것을 읽고 구현하는 SDD—"예전엔 코드가 진실, 지금은 명세서가 진실". 바이브코딩의 대안으로 부상(개발자 88%가 AI 도입 후 부정적 이슈 경험, 53%가 겉은 멀쩡하고 속은 결함투성이인 코드를 지목), GitHub Spec Kit(2025-09 공개, 1년 안에 11만+ stars), 아마존 Kiro(2026-05, Q Developer 후속·Q Developer는 2027-04 지원 종료). 장점은 AI와의 오해 감소·다수 사람·에이전트의 단일 기준점·몇 페이지 명세서로 하는 리뷰·쉬운 인수인계, 한계는 비대화(689줄 코드에 2,577줄 마크다운 명세서)와 시간이 지나며 코드와 어긋나는 중복·모순
   * 진영 싸움: 켄트 벡(2026-01 LinkedIn)은 "명세서를 완벽히 쓰고서야 코드를 짠다"는 전제 자체가 이상하다, 마틴 파울러는 명세서도 코드와 함께 계속 고쳐야 한다며 동의, Thoughtworks는 2025-11 Radar에서 '지켜볼 단계'로 분류(규칙을 사람이 손으로 쓰면 규모가 커질수록 감당 불가), 보안 쪽은 책임 소재와 보안 계획이 명세서를 더 비대하게 만드는 문제, 가브리엘라 곤잘레스는 "충분히 상세한 명세서는 결국 코드와 구분이 안 된다". 결론은 혁명이라기보다 '미리 설계 vs 만들고 고치기'의 되돌이표지만 지치지 않는 AI 앞에서 쓸 만한 전략으로 부활—사람이 원하는 것을 정확히 짚어 AI에 전달하는 능력이 다음 시대 개발자의 핵심 역량
+* [Building Simple Systems in the World of Natural Language Programming - Cameron Barre | ClojureTV - YouTube](https://www.youtube.com/watch?v=YKFxDDtfJVI)
+  * ObneyAI CTO이자 오랜 Clojure 개발자 Cameron Barre의 발표. 앱은 복잡해지고 MVP 범위는 커지고 새 시스템은 에이전틱 기능과 마찰 없이 호환돼야 하며 개발자는 전보다 많은 코드를 내놓으면서도 책임을 져야 하는 시대에, 에이전틱 코딩의 기본 작업 방식이 아키텍처 드리프트와 슬롭으로 흐르는 문제를 어떻게 막을까—AI의 의사결정을 구조 수준에서 바닥까지 내릴 수 있는가, Markdown 파일로 충분한가라는 질문에 소프트웨어 공학의 아이디어, 소수의 기초 규칙, 조합 가능한 빌딩 블록, 불변의 단일 진실 원천으로 에이전트를 제약해 프로덕션에서 신뢰할 수 있는 동작을 얻은 경험을 공유
 * [Backlog.md: A tool for managing project collaboration between humans and AI Agents in a git ecosystem](https://github.com/MrLesk/Backlog.md)
   * [Backlog.md: The simplest project management tool for the AI Era by Alex Gavrilescu - YouTube](https://www.youtube.com/watch?v=c8l5Lai1454)
   * [Backlog.md로 AI 에이전트와 프로젝트 관리하기](https://livewiki.com/ko/content/backlog-md-project-management-ai)
@@ -9241,6 +9253,8 @@ Artificial Intelligence
   * [정진호 - 바이브코딩용 Spec 문서 생성기 : github Spec-kit 바이브코딩의 단점은 시작은 쉽지만... | Facebook](https://www.facebook.com/jinho.jung/posts/pfbid0PbpiQrjABvJXddFBmr2MQbEVuZzYFhk19M8fdKzVtAx4DdCf7MSTxFFTnHAdygtcl)
   * [코드보다 스펙이 먼저: Spec-Driven Development가 바꿀 개발 흐름](https://digitalbourgeois.tistory.com/1925)
   * [The ONLY guide you'll need for GitHub Spec Kit - YouTube](https://www.youtube.com/watch?v=a9eR1xsfvHg)
+  * [Spec Kit Integration for Existing Projects | Step-by-Step | Joe Maddalone - YouTube](https://www.youtube.com/watch?v=E9BtrF3Urnc)
+    * 전체 코드베이스 감사 없이 지저분한 레거시 레포에 specify CLI로 Spec Kit을 초기화하고, 공개 API 호환성·서비스 경계·DB 마이그레이션 롤백 계획·기존 테스트 스위트 유지를 강제하는 프로젝트 헌법(constitution)을 만든 뒤, "YouTube 조회수 vs 참여 조회수 추적"이라는 거친 기능 요청을 `specify`로 구조화된 명세로 바꾸고 `clarify`로 명세를 반박해 빠진 에지 케이스를 채우고, 계획·리서치 노트·데이터 모델·API 계약·퀵스타트를 생성해 Postgres·SQLite 앱에 마이그레이션·엔드포인트·UI 변경·테스트를 에이전트가 깨끗한 커밋으로 구현하게 하는 단계별 실습
   * [speckit_test: Spec Kit v0.8.9 + Claude Code Opus 4.7로 USGS 3DEP 고도 데이터 Python 모듈 구축한 SDD 비판 케이스 스터디](https://github.com/alexcpn/speckit_test)
     * SDD가 명세를 진실의 원천으로 삼는다는 전제와 좋은 설계가 반복 코딩에서 출현한다는 현실의 충돌 분석. 1,756 타일·230억 샘플·180GB 데이터셋 실험. clarify 단계에서 품질 정점 후 하락 관찰, "no new dependencies" 제약이 SQLite+R-tree 편향 유발(Zarr 텐서 스토어가 더 적합)
     * 명세를 맹신하지 마라, 항상 코드로 검증하고 리뷰하며 설계를 다듬어라, 설계는 반복적으로 발전시켜라
@@ -9578,6 +9592,11 @@ Artificial Intelligence
   * [H3-World](https://github.com/Danzer1xxxxChan/H3-World)
   * [H3-World 데모 영상 | Facebook](https://www.facebook.com/watch/?v=1641075517469213)
   * 33B MiniMax-H3 비디오 생성 모델을 인터랙티브 월드 모델로 전환하는 프레임워크. 전용 액션 모듈 없이 자연어(캐릭터+카메라 지시)를 시간 정렬된 비디오 latent에 결합, temporal attention routing으로 액션 간 제어 누출 방지. 게임플레이 샘플 8,000개·LoRA 10,000스텝·학습 파라미터 0.199%의 경량 적응만으로 정밀한 시간 단위 월드 제어 달성
+* [tinyworldformer: Tiny world model generates games and stream ac plays them all on Pico 2W | SheepSeb](https://github.com/SheepSeb/tinyworldformer)
+  * [tinyworldformer 블로그 글](https://sheepseb.github.io/stealth/posts/tinyworldformer.html)
+  * [tinyworldformer - Raspberry Pi Pico 2 W에서 게임을 생성하는 초소형 월드 모델 | GeekNews](https://news.hada.io/topic?id=36274)
+  * Raspberry Pi Pico 2 W(RP2350) 위에서 작은 신경망 두 개가 게임을 만들고 동시에 플레이—①월드 모델: 현재 프레임+행동→다음 프레임+보상을 예측하는 looped transformer(같은 가중치의 블록을 여러 번 적용해 메모리를 아낌, int8 양자화, 26k~131k 파라미터, 프레임당 2~8M MAC) ②액터: 생성된 프레임을 보고 행동을 고르는 2층 MLP(9k~16k 파라미터), stream-x(Stream-AC) 스트리밍 RL로 실제 게임 또는 꿈 안에서 학습. 칩 위에서는 둘 다 실제 게임을 전혀 쓰지 않고 서로의 출력만 보며 core 1에서 돌고 core 0은 USB·디스플레이 담당. Breakout·Doom-lite·Flappy Bird·Pong·Pac-Man lite 5종, 가장 큰 게임이 플래시 600KB·RAM 460KB, 프레임 예측 정확도 83.6~100%, 객체 제약을 지키는 디코딩 규칙. 실제 게임을 numpy로 직접 써서 생성 프레임을 검증, 학습은 RTX 4060. `no_std` Rust, WebAssembly로 브라우저 실행도 지원
+  * GeekNews 댓글: 게임마다 독립된 신경망 사용, 에이전트가 월드 모델의 환각을 악용하는 현상이 있어 노이즈 증강으로 완화, 로컬 AI 실행의 "진정한 미래"라는 평과 절차적 생성의 한계를 보완할 가능성
 * [WorldPlay2: Extending Real-Time Interactive World Models in Control and Horizon](https://github.com/worldplay2/worldplay2)
   * [WorldPlay2 프로젝트 페이지](https://worldplay2.github.io/)
   * [2609.35560 WorldPlay2: Extending Real-Time Interactive World Models in Control and Horizon](https://arxiv.org/abs/2609.35560)
