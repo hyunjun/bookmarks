@@ -210,6 +210,12 @@ Time Series
       * 가중치 라이선스가 2.5의 Apache 2.0에서 timesfm-non-commercial-license-v1.0(비상업·비프로덕션 전용)으로 변경—성능은 최고지만 상업 서비스에는 붙일 수 없음(소스코드는 Apache 2.0 유지). 무엇이 달라졌고 실무자가 지금 무엇을 쓰면 되는지 1차 출처 기준 정리
     * [Google's New TimesFM-3 vs. Classical Forecasting | AI with Surya - YouTube](https://www.youtube.com/watch?v=_tB4pdy9VJw)
       * "내 데이터로 학습하지 않고 매출·재고·수익을 예측한다"는 주장을 검증한 13분 영상—TimesFM-3로 수요 계획 앱을 만들어 처음 보는 데이터에서 프로모션·날씨·유동 인구 공변량을 반영한 예측을 시연하고, 모델 내부 동작을 열어 본 뒤 데이터 사이언스 팀이 실제로 만들 고전적 예측 모델들과 정면 비교. 가중치는 비상업 라이선스라 상업 프로덕션은 BigQuery 통합 등 Google 플랫폼 경로라는 점도 짚음
+* [timestral: Repository for Timestral, the time-series foundation model by Mistral AI](https://github.com/mistralai/timestral)
+  * [Timestral | Mistral AI](https://mistral.ai/news/timestral)
+  * [mistralai/Timestral-209M · Hugging Face](https://huggingface.co/mistralai/Timestral-209M)
+  * [📈 Timestral : 209M로 예측 벤치마크 3종 1위, CPU에서 도는 시계열 모델 | fornewchallenge](https://fornewchallenge.tistory.com/entry/%F0%9F%93%88-Timestral-209M%EB%A1%9C-%EC%98%88%EC%B8%A1-%EB%B2%A4%EC%B9%98%EB%A7%88%ED%81%AC-3%EC%A2%85-1%EC%9C%84-CPU%EC%97%90%EC%84%9C-%EB%8F%84%EB%8A%94-%EC%8B%9C%EA%B3%84%EC%97%B4-%EB%AA%A8%EB%8D%B8)
+  * Mistral AI의 첫 시계열 파운데이션 모델 패밀리(5M·28M·123M·209M, fp32 가중치 21MB~837MB)—다변량 확률 예측용으로 변량들을 함께 예측하고, 과거 전용·미래 알려진·범주형 공변량을 지원하며, 스텝마다 21개 분위수(0.01~0.99)를 출력, 컨텍스트 최대 32,768 스텝·호출당 최대 1,024 스텝 예측. 32스텝 패치 기반 causal transformer에 시간·변량 어텐션과 DHF(Decoupled Horizon Forecasting) 학습, 결측은 NaN으로 표시. 추론 코드는 PyTorch·NumPy·safetensors·huggingface_hub만 필요하고 CPU에서도 동작
+  * 공개 시점에 209M이 사전학습·제로샷 모델 중 GIFT-Eval(MASE 0.658·CRPS 0.446)·TIME(98개 과제, MASE 0.626)·fev-bench(100개 과제, SQL skill 50.39) 3대 공개 벤치마크 모두 1위, 네 크기 전부 정확도 대 모델 크기 Pareto 전선 위. 코드는 Apache-2.0, 가중치는 Modified MIT(Hugging Face 별도 배포). Python, 1k stars
 * TSBS [You are what you benchmark: Introducing the Time Series Benchmark Suite (TSBS)](https://blog.timescale.com/time-series-database-benchmarks-timescaledb-influxdb-cassandra-mongodb-bc702b72927e)
 * TSCoke
   * [TSDB as a Service, TSCoke 개발기 – tech.kakao.com](https://tech.kakao.com/2022/08/09/developing-tsdb-as-a-service-tscoke/)
