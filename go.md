@@ -400,6 +400,8 @@ Go
   * [x/tools/gopls: additional client support for interactive refactoring · Issue #79937 · golang/go](https://github.com/golang/go/issues/79937)
   * Go 팀이 LSP에 제안한 "인터랙티브 편집"—지금까지 코드 액션은 변수 이름 바꾸기를 빼면 사용자에게 물을 방법 없이 즉시 실행되는 동작(struct 태그 추가를 누르면 JSON 태그를 무조건 붙임)이었는데, 서버가 질문 폼 필드 목록을 보내고 에디터가 입력 UI를 렌더링하는 방식을 프로토콜에 추가하자는 것. Dart(Flutter) 팀과 공동 작업이고 Gleam도 지원에 적극적. 최신 gopls+VS Code Go 플러그인 프로토타입 시연—struct 태그를 XML로, PascalCase로 고르기, 코드베이스에서 인터페이스를 검색해 선택하면 메서드 선언을 채워 주는 인터페이스 구현, GUI 없는 Neovim 포크에서도 동작. 다음 목표는 시그니처 리팩터링. 제안은 아직 검토 중이며 LSP 비대화·에디터 유지보수 부담·AI 코딩 시대에 필요한가라는 질문도 던짐
   * 배경 이슈: LSP 저장소 #1164(2020)가 사용자 입력이 필요한 리팩터링 지원 요구의 원점, gopls #76331(2025-11)은 기존 LSP 메서드 변형 또는 새 메서드 제안으로 그 요구를 실험하는 피처 요청(타입 이동·선언 이동·시그니처 변경 리팩터링, gomodifytags 입력 등이 혜택), #79937(2026-06)은 gopls v0.22.1에서 Emacs·Neovim 클라이언트가 인터랙티브 리팩터링 코드 액션을 아직 제공하지 않는 문제
+* [Go is the Best Language for AI Agents | Burak Karakan, Bruin](https://getbruin.com/blog/go-is-the-best-language-for-agents/)
+  * 오픈소스 ETL 도구 Bruin을 8년간 Go로 만든 Bruin Data CEO의 다섯 논거—①컴파일 언어라 에이전트가 타입 검사·문법 검증으로 코드 품질을 스스로 확인하고, Rust보다 문법·개념이 단순하면서 컴파일이 빨라 반복 피드백 루프가 좋음 ②언어가 단순해 사람이든 에이전트든 코드를 이해하기 쉽고 에이전트가 이상한 설계로 가는지 알아보기 쉬움 ③gofmt·테스트·에러 처리 등 의견이 강한 표준 도구 덕에 JavaScript처럼 구현이 갈라지지 않음 ④크로스 플랫폼 바이너리 빌드로 의존성 문제 없이 여러 환경에서 검증 ⑤현재 모델이 유효한 Go 코드를 약 95% 확률로 생성—Python의 수많은 대안 패턴보다 Go의 단일 관용구가 학습 데이터에서 유리. 언어 지형은 바뀔 수 있다는 단서 포함
 
 # API
 * [Let's Talk Locks!](https://www.infoq.com/presentations/go-locks/)
