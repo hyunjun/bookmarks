@@ -1409,6 +1409,10 @@ Business
   * CEO가 전문성 없는 분야의 임원 평가 시 실질적 기준 제시. 면접 후 후보자 아이디어를 당장 실행하고 싶은 충동이 문화 적합성·맥락 이해의 핵심 신호. 뛰어난 리더는 자기 부서를 넘어 조직 전체의 수준을 끌어올림
 * [여현준 - 1. 인적 자원(Human Resource)이라는 용어를 두고 인간을 물건처럼 취급하는 것... | Facebook](https://www.facebook.com/hyeonjoon.yeo/posts/26947592128210420/)
   * 인적 자원은 인간을 나사못처럼 취급하는 용어가 아니라, 오히려 인간을 유무형 자원과 구별해 제3의 자원으로 봐야 한다는 관점에서 나온 개념. 전통적 HR은 채용·평가 중심이지만 자원으로서의 중요성 재해석 필요
+* [경력 없는 신입은 어떤 기준으로 채용해야 할까요? | 직무분석 컨설팅센터 : 네이버 블로그](https://blog.naver.com/PostView.naver?blogId=job-analysis&logNo=224376016648)
+  * 경총 '2026년 신규채용 실태조사'(500개사)에서 67.6%가 1순위 평가요소로 꼽은 '직무 관련 업무 경험'은 신입에게 애초에 없는 항목—기업이 진짜 확인하려는 것은 경력이 아니라 입사 후 그 직무에서 성과를 낼 가능성이므로, 손봐야 할 것은 지원자 스펙이 아니라 채용 평가표. 운전 경력 0인 응시자를 채점표로 합불 판정하는 도로주행 시험처럼 '도달해야 할 상태'에서 거꾸로 기준을 도출—직무역할(미션)→성과목표→핵심성공요인(CSF)→고성과자의 성과행동→직무역량(지식·기술)→직무자격(그 역량을 가질 가능성이 높은 전공·경험) 6단계(마케팅 담당자 예시). 서류전형은 직무자격으로 면접 대상자를 선별하고 면접은 직무역량·성과행동을 과제 수행이나 경험 구술로 확인하되 "본인의 강점은?" 같은 어느 직무에나 붙는 질문은 피할 것
+* [NDC26-커리어 기술 면접은 무엇을 평가 하는가 "이 정도면 충분하다고 생각했습니다" (면접 전까지는) | 오윤호(넥슨코리아 실장), NDC - YouTube](https://www.youtube.com/watch?v=iMU8CBaLOW8)
+  * NDC26 커리어·프로그래밍 트랙 38분 발표—기술 면접이 실제로 무엇을 평가하는지, 지원자가 "이 정도면 충분하다"고 여기는 준비와 면접관이 보는 기준 사이의 간극을 면접관 입장에서 풀어낸 세션
 * [FoloUp — Open-source AI Voice Interviewer](https://foloup.suveenellawela.com/)
   * [FoloUp](https://github.com/FoloUp/FoloUp)
   * AI 음성 기반 비동기 채용 인터뷰 플랫폼. JD로 인터뷰 생성, 공유 링크로 후보자 비동기 진행, 실시간 대화 적응, 대시보드 점수/요약. Next.js+Supabase+Retell AI. MIT
@@ -1556,6 +1560,8 @@ Business
   * 각 분기에 한 일에 대해서 평가를 하는 것이 아니라, 지금의 상태가 계속된다면 연말에 어떤 평가를 받게 될 것인지의 '예측등급'을 표기... 평가결과는 절대로 서프라이즈가 되어서는 안된다
 * [성과 평가 면담에서 자주 발생하는 최악의 리더십](https://www.linkedin.com/posts/elfpenguin_uchqoo-uchqoorhwqxa-spfqtguchqoo-activity-7260565811012984832-a6rA/)
 * [평가를 할 때 중요하게 생각하는 것들](https://www.linkedin.com/posts/divercity_%ED%8F%89%EA%B0%80%EB%A5%BC-%ED%95%A0-%EB%95%8C-%EC%A4%91%EC%9A%94%ED%95%98%EA%B2%8C-%EC%83%9D%EA%B0%81%ED%95%98%EB%8A%94-%EA%B2%83%EB%93%A4-1-%ED%8F%89%EA%B0%80%EB%8A%94-%EC%84%9C%ED%94%84%EB%9D%BC%EC%9D%B4%EC%A6%88%EA%B0%80-%EB%90%98%EC%96%B4%EC%84%9C%EB%8A%94-activity-7272046874675560448-JqSp/)
+* [성과 평가에 대한 생각 정리 | Yongkwon Park | LinkedIn](https://www.linkedin.com/pulse/%EC%84%B1%EA%B3%BC-%ED%8F%89%EA%B0%80%EC%97%90-%EB%8C%80%ED%95%9C-%EC%83%9D%EA%B0%81-%EC%A0%95%EB%A6%AC-yongkwon-park-mmeac)
+  * 20년 넘게 일했지만 평생 백 번을 넘기기 어려운 성과 평가는 매번 새삼 어렵다는 중간관리자의 정리—엔지니어의 활동에서 산출물(Output: 배포한 기능·마이그레이션·테스트 자동화·대시보드처럼 관찰하기 쉽고 통제 가능하지만 존재한다고 가치가 생기진 않음)이 나오고, 산출물이 변화(Outcome: 주문 완료율·응답 시간·전달 속도처럼 여러 동료·시스템·시장이 함께 만들어 개인 귀속이 어려움, DORA도 팀·시스템 능력으로 봐야 한다고 함)로 이어지며, 그 과정에 기여(Contribution: 원인 규명·대안 설계·조직 간 합의, 방향 잡기·리뷰·멘토링·위험 예방처럼 남을 더 잘 일하게 하는 일, SPACE가 커밋·PR로는 포착 못 한다고 지적)가 있고, 역할 기대와 맥락에 비춰 이를 종합한 판단이 성과(Performance)—하나의 숫자로 환원되지 않는 근거 기반 판단. 흔한 오해: 변화가 좋아도 개인 기여 근거가 부족할 수 있고, 저비용 실험이 실패해도 좋은 기여일 수 있지만 "실패했지만 배웠다"만으로는 안 되며(사전 가설·성공 기준·검증·다음 결정에 반영 필요), 산출물 양이 많아도 쓰이지 않거나 부채를 늘렸으면 성과가 아니고 적게 만들어 큰 변화를 내는 것이 더 높은 성과일 수 있음. 기술 방법은 목표·문제→기여→산출물→변화→품질·지속가능성을 하나로 잇기(결제 승인 실패 개선 예시)
 
 # 회계
 * [직장인이여, 회계하라!](http://ppss.kr/archives/43889)
@@ -3358,6 +3364,9 @@ Business
 * [한성희 - 시리즈B 준비 중 발견하는 숨겨진 성장 정체 요인들 시리즈A 이후 지표는 꾸준히 상승했는데, 시리즈B 준비... | Facebook](https://www.facebook.com/simplifier.seoul/posts/pfbid047NYAQEsDQ7XtzS5CMuEesx4G683qVgeC6Wfhg9vjv3uPqn23bF4pVEHy8VPuWtgl)
 * [Average Manager vs. Great Manager | by Julie Zhuo | The Year of the Looking Glass | Medium](https://medium.com/the-year-of-the-looking-glass/average-manager-vs-great-manager-cf8a2e30907d)
 * [외국계 회사 지사장 포지션에 초임으로 지원하시.. : 네이버블로그](https://blog.naver.com/best-headhunter/224050748063)
+* [The Manager's Path in the Age of AI | Camille Fournier](https://skamille.medium.com/the-managers-path-in-the-age-of-ai-279cb6611d66)
+  * [AI 시대, 매니저의 길 | GeekNews](https://news.hada.io/topic?id=34865)
+  * 『The Manager's Path』 저자의 LDX3 New York 2026 발표를 옮긴 글—Jack Dorsey("상설 중간관리 계층 불필요")·Brian Chesky("피플 매니저는 가치가 없어질 것")·Brian Armstrong("순수 매니저 없음") 같은 '관리의 종말'은 SF적 미래상이고 2026년의 실제 업무를 기술 역량·신호 처리·사람 관리 세 축으로 재검토. ①기술 역량: 관리의 상당 부분은 위험 관리라 직접 만들어 본 경험이 필요한데, 에이전트에 개발을 지시하며 겉보기 완성 속도가 급등해 생산성 집착(경영진뿐 아니라 엔지니어도), 1인 처리량 증가에 따른 업무 분할 재검토, 보안·장기 품질·유지보수성 위험이 등장—만능 해법 없이 실험·공유 ②신호 처리(문제 진단·팀 디버깅·모호한 결정): AI가 업무 기록을 쉽게 보여 주지만 가시성과 이해는 다르며 요약만 읽으면 맥락·미묘한 신호를 놓치고 성과 평가문까지 맡기면 판단이 AI에 끌려감; 코드가 싸지면 기존 시스템을 이해하는 대신 새로 만들어 중복 시스템·소유권 다툼이 늘고 동료에게 도움을 구하며 쌓던 신뢰가 약해짐 ③사람 관리: AI 도구 실험에만 몰두하거나 외면하지 말고 작업 방식·협업 규범을 함께 바꾸며 예상 밖 문제를 직접 추적할 것, 생산성 향상의 일부는 회의·설계 검토·대화에 써야 하며 각자가 빨라질수록 방향을 맞추고 지식을 공유하는 일이 중요—Claude보다 사람과 더 많이 이야기하라
 
 ## Manager Management micromanagement
 * [조직을 말려 죽이는 micromanager](https://brunch.co.kr/@younghakjang/17)
