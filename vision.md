@@ -732,6 +732,8 @@ Vision
 * [paperless-stack: Docker Compose stack for running Paperless-ngx with optional local AI capabilities](https://github.com/timothystewart6/paperless-stack)
   * [Self-Hosted Paperless-ngx + Optional Local AI: Private Documents and Improves OCR & Search (Full Setup) | Techno Tim](https://technotim.com/posts/paperless-ngx-local-ai/)
   * [Paperless-ngx: Keep Your Documents Private (Optional Local AI OCR) - YouTube](https://www.youtube.com/watch?v=NMAwHjleqHg)
+* [SmolDocling-OCR-App: SmolDocling OCR App built using SmolDocling 256M Model and Streamlit | AIAnytime](https://github.com/AIAnytime/SmolDocling-OCR-App)
+  * 256M 파라미터 SmolDocling으로 문서 이미지를 OCR해 DocTags와 Markdown 구조화 출력을 내는 Streamlit 앱—단일·다중 이미지 처리, 일반 문서 변환·표(OTSL)·코드·수식(LaTeX)·차트 데이터·섹션 헤더 추출 모드, 결과 다운로드. Python 3.12+, Hugging Face 토큰 필요. Python, MIT
 * [surya: OCR and line detection in 90+ languages](https://github.com/VikParuchuri/surya)
 * [TeleOCR: Navigating Document Parsing Across Digital and Camera-Captured Documents](https://github.com/caipeng328/TeleOCR)
   * [2608.12898 NaviDC-OCR: Navigating Document Parsing Across Digital and Camera-Captured Documents](https://arxiv.org/abs/2608.12898)
