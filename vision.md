@@ -459,6 +459,10 @@ Vision
 * [Motion2MixamoRig: Retarget human motion from video to an Adobe Mixamo-rigged 3D character | maxliu22](https://github.com/maxliu22/motion2mixamorig)
   * 한 사람이 머리부터 발끝까지 나오는 동작 영상(또는 정지 사진의 포즈)을 Adobe Mixamo 리그 캐릭터(Y Bot 등 FBX)로 옮겨, 프리뷰 영상과 Blender·Unity에 바로 넣는 스킨드 `.glb`를 출력하는 게임 개발자용 파이프라인. GVHMR 등 3D 인체 메시 복원 가중치(~5GB, 첫 실행 시 다운로드)와 SMPL-X 바디 모델(별도 등록·다운로드) 필요, Cinema 4D 재익스포트 Mixamo FBX도 지원
   * 두 가지 사용법: Blender 4.2+ 익스텐션(zip 설치→N 패널에서 런타임 원클릭 설치→SMPL-X·Mixamo FBX·영상 선택→Generate Motion, macOS Apple Silicon 테스트) 또는 CLI `m2mr run`(Python 3.11+, 레거시 chumpy는 `--no-build-isolation` 설치). 실험 단계(v0.1.7), AGENTS.md 제공. Python, Apache-2.0
+* [motionbricks: Official implementation of MotionBricks: Scalable Real-Time Motions with Modular Latent Generative Model and Smart Primitives (SIGGRAPH 2026) | NVlabs](https://github.com/NVlabs/motionbricks)
+  * [MotionBricks project page](https://nvlabs.github.io/motionbricks/)
+  * [2604.24833 MotionBricks: Scalable Real-Time Motions with Modular Latent Generative Model and Smart Primitives](https://arxiv.org/abs/2604.24833)
+  * 캐릭터와 로봇을 실시간으로 움직이는 모듈형 잠재 생성 모델—최근 4개 포즈(컨텍스트)와 1~4개 목표 포즈 사이를 30Hz로 채우며(한 번에 4포즈짜리 토큰 6~16개, 약 0.6~1.9초) 루트 모듈(지속 시간·루트 경로 예측)·포즈 모듈(마스크드 토큰 트랜스포머)·디코더(멀티 코드북 VQ-VAE)가 일을 나눔. 재생한 마지막 4포즈를 다음 컨텍스트로 쓰는 체이닝으로 긴 동작을 만들고 목표를 어디서 가져올지는 응용이 정하므로 하나의 인비트위닝 모델이 키프레임 애니메이션·연속 보행·오브젝트 상호작용이 됨. Smart Primitives는 목표 포즈를 내비게이션·상호작용용 블록으로 바꿔 뛰어넘기·앉기 같은 행동을 재학습 없이 브릭처럼 조립. SOMA 인체 모델과 Unitree G1 로봇용 사전학습 ONNX 모델(Hugging Face), Warp·Newton·TensorRT 기반 Python 런타임(NVIDIA GPU 필요), Inbetweener·Scene Preview 데모와 Smart Primitive·씬 에디터 2종. 첫 공개는 GR00T Whole-Body Control 안의 G1 프리뷰. Python, Apache-2.0, 740 stars
 * [motion-diffusion-model: The official PyTorch implementation of the paper "Human Motion Diffusion Model" (MDM) | GuyTevet](https://github.com/GuyTevet/motion-diffusion-model)
   * 텍스트·액션 조건으로 사람 동작을 생성하는 확산 모델 MDM(ICLR 2023)의 공식 PyTorch 구현—50스텝 모델과 CLIP 결과 캐싱으로 원래 1000스텝 대비 약 40배 빠른 ~0.4초/샘플. MIT, 4.1k stars
 * [OmniParser](https://microsoft.github.io/OmniParser/)
