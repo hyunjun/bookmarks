@@ -1104,6 +1104,9 @@ Artificial Intelligence
     * 1. 의생명과학 지식은 폭발적으로 늘어나 인간 연구자가 따라잡기 어려우며, 지식 축적 속도와 인간 인지 능력의 격차 증가
     * 2. 「Memory in the Age of AI Agents」는 AI가 단순히 빨리 읽는 존재가 아니라 ‘무엇을, 어떻게, 언제까지 기억할 것인가’라는 메모리의 도약을 통해 한계를 돌파할 가능성 제시
     * 3. 미래 AI는 파라미터+외부메모리 결합(형태), 사실+경험 메모리로의 확장(기능), 갱신, 망각, 정제의 진화하는 기억(동역학)으로 집단지성 협업을 가능케 해 연구의 초점이 ‘읽기’에서 ‘질문, 협업’으로 이동
+* [2512.15567 Evaluating Large Language Models in Scientific Discovery](https://arxiv.org/html/2512.15567v2)
+  * [Tae Hyung Kim - 하버드와 MIT 연구진의 논문 "Evaluating Large Language Models in Scientific Discovery"는 LLM이 과연 과학을 이야기하는 데 그치는지, 아니면 진짜 발견할 수 있는지를 묻는다 | Facebook](https://www.facebook.com/socialego/posts/pfbid0fMP3p4Bxnkxdt9ttAs7tMF34kN5mwiZiWu6cMtNXrk141N3iYgMygg4coqWJE6ynl)
+  * Zhangde Song·Jieyu Lu·Yuanqi Du·Botao Yu 외 56명(하버드·MIT 등). 생물·화학·재료·물리의 실제 연구 과제에 근거한 2단계 평가 프레임워크—도메인 시나리오 안의 질문 수준 정확도와, 가설 생성·실험 설계가 필요한 프로젝트 수준 성능. 결과: 일반 과학 벤치마크 대비 일관된 성능 격차, 스케일링의 수확 체감, 주요 제공사 모델들의 공통 약점, 연구 시나리오별 성능 편차가 커서 꾸준히 앞서는 모델이 없음—그럼에도 다양한 발견 프로젝트에서 진짜 가능성을 보여 "안내된 탐색과 세렌디피티"의 역할을 시사. 김태형의 정리: 퀴즈형 벤치마크 대신 가설 수립–실험 설계–결과 해석–수정의 발견 루프 전 과정을 평가했고, LLM은 그럴듯한 가설은 잘 내지만 반증 앞에서 생각을 바꾸고 인과를 추론하며 실패로 이론을 갱신하는 데 취약—일반 벤치마크 고득점이 과학적 발견 능력과 거의 상관없다는 점에서 언어 지능이 곧 과학적 지능은 아니며, 지속적 기억·가설 생성과 추적·근거 기반 평가·설명 가능성·명확한 인과 추론 위에 창발성을 끊임없이 유도할 수 있을 때 "혁신가(Innovator) 모델"의 시대가 온다는 전망
 * [2512.16301 Adaptation of Agentic AI](https://arxiv.org/abs/2512.16301)
   * [“에이전틱 AI에서 ‘적응(Adaptation)’이란 무엇이며, 어디를 어떻게 적응시켜야 하는가?” 를 체계적으로 정리하려 시도한 논문](https://www.facebook.com/1biit/posts/pfbid02u6eztGKnNTKK5mkABHd3wojmxzNJBHvgsdeReznZz649Ekfs3MfyKmktUodWfJWml)
 * [2601.20048 Insight Agents: An LLM-Based Multi-Agent System for Data Insights](https://arxiv.org/abs/2601.20048)
@@ -1276,6 +1279,8 @@ Artificial Intelligence
     * 스킬은 텍스트 파일이 아니라 스크립트·템플릿·데이터까지 담는 폴더(AI가 필요할 때 꺼내 쓰는 도구 상자). Anthropic 내부 스킬을 분류하면 9유형—API 레퍼런스(이 라이브러리 쓸 때 조심할 실수), 제품 검증(헤드리스 브라우저로 가입·결제 흐름 테스트), 데이터 수집·분석, 반복 업무 자동화(스탠드업·티켓·주간 리캡), 코드 템플릿, 코드 품질·리뷰(서브에이전트가 비판·수정 반복), CI/CD·배포(PR 감시·재시도·점진 롤아웃·롤백), 장애 대응 런북, 인프라 운영—좋은 스킬은 한 카테고리에 명확히 속하고 "이 스킬이 뭘 하는 거지?"가 나오면 범위가 넓다는 신호
     * 핵심 팁: ①AI가 자주 틀리는 "함정 목록"을 꼭 넣고 새 실패마다 한 줄씩 추가(가장 유용한 섹션) ②정보를 한 번에 주지 말고 references/·assets/로 나누는 점진적 공개(Progressive Disclosure) ③너무 세세히 지시하지 말고 핵심만 주고 판단은 AI에게(재사용성) ④Description은 사람이 아니라 AI를 위해 "무엇을 하는가"가 아닌 "언제 실행할지"로. 실전 패턴으로 이전 실행 결과를 로그 파일로 남겨 다음 실행에 "어제 이후 뭐가 바뀌었지?"만 판단하게 하고, 배포는 누구나 GitHub 샌드박스 폴더에 올려 Slack에 공유하면 많이 쓰이는 것이 마켓플레이스로 승격되는 상향식. 대부분의 좋은 스킬은 몇 줄 메모와 함정 하나로 시작해 반복하며 좋아진 것—설계보다 시작과 반복
     * 단일 책임(한 카테고리에 속할 것), 정보 은닉과 모듈화(점진적 공개), 과도한 명세 대신 적절한 추상화 수준, 호출자를 위한 인터페이스 문서(Description), 회귀 테스트처럼 쌓이는 함정 목록, 큰 설계보다 작게 시작해 반복—좋은 프로그래밍의 원칙을 스킬 작성에 옮겨 놓은 셈
+  * [skills-benchmarks: Claude Code Skill Benchmarks — Measures how skill documentation design affects Claude Code's adherence to recommended patterns | langchain-ai](https://github.com/langchain-ai/skills-benchmarks)
+    * 스킬 문서를 어떻게 설계하느냐가 Claude Code가 권장 패턴을 따르는 정도에 어떤 영향을 주는지 측정하는 LangChain의 벤치마크—과제마다 instruction.md(변수 플레이스홀더)·task.toml·Docker 환경·검증 스크립트·정답 데이터를 두고, CONTROL·ALL_MAIN_SKILLS 같은 공통 treatment와 LangSmith(LS_*)·LangChain 간결판(LCC_*)·OSS 분할 스킬(OSSS_*) treatment를 바꿔 pytest로 반복 실행(`--task`·`--treatment`·`--count`·`-n`). 기본 모델 Claude Sonnet 4.6(`BENCH_CC_MODEL`로 변경), Docker 샌드박스·Claude Code CLI·LangSmith 키 필요. JavaScript, MIT
 * [agent-skills: A collection of AI agent skills for Clawdbot, Claude Code, Codex](https://github.com/jdrhyne/agent-skills)
   * [AI 에이전트를 더 똑똑하게 만드는 agent-skills 저장소 정리 | digitalbourgeois](https://digitalbourgeois.tistory.com/3292)
   * 재사용 가능한 스킬·프롬프트 라이브러리. 범용 스킬(태스크 오케스트레이션·리서치 루프·문서 처리, 79% 크로스플랫폼), API 통합(Jira/GA/Zendesk/Salesforce), 순수 프롬프트(디자인 원칙·엔지니어링 베스트 프랙티스), 플랫폼별(OpenClaw/Claude Code/Codex). 의사결정 트리·트레이드오프 분석 등 전문 지식 강조
@@ -2498,6 +2503,8 @@ Artificial Intelligence
 * [Context Is the New Code: DevOps Practices for AI Agents | Patrick Debois, QCon London 2026 | InfoQ - YouTube](https://www.youtube.com/watch?v=RwxNnF1PeR0)
   * DevOps 용어의 창시자 Patrick Debois—"컨텍스트는 코드다": 온보딩의 온갖 엣지 케이스 코드를 자연어 스킬 하나로 압축한 자사 경험처럼 코드가 몇 단어로 압축되므로, 컨텍스트(CLAUDE.md·스킬·프롬프트)도 코드처럼 빌드·테스트·배포·모니터링해야 한다는 주장. 테스트=스킬 YAML 프런트매터 린팅(설명 길이·스펙 준수)과 eval(옛 컨텍스트 vs 새 컨텍스트 비교, AI가 생성하되 내 코드·내 환경에서 의미가 있는지 검증—벤더의 클린룸 지표는 의미 없음)
   * 배포=컨텍스트 공유·버전·보안 스캔, 모니터링=프로덕션 피드백 루프(OpenTelemetry처럼 에이전트 로그 표준화 흐름, 커밋 하나하나가 리뷰 컨텍스트). 자율성은 목표가 아니라 전 스펙트럼에서 "언제 적용할지"의 문제—알려진 상황엔 가드레일을 두고 맡기되 걸리면 호출. Slack에서 외부 리포트를 보며 "@Claude 고쳐서 PR 만들어" 한 뒤 사람 한 명이 승인만 하는 사일로 파괴 사례. 모델이 바뀌면 1년 전 컨텍스트가 여전히 유효한지 다시 봐야 함
+* [Claude Code / Codex는 엔지니어링, 제품, 디자인을 어떻게 바꾸고 있을까요? Langchain 대표 Harrison은 에이전트 시대의 제품 직군을 Builder와 Reviewer로 나눴습니다. 가장 중요한 역할이 빠져 있습니다. 맥락을 설계하는 사람입니다 | Goobong Jeong](https://kr.linkedin.com/posts/gb-jeong_claude-code-codex%EB%8A%94-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81-%EC%A0%9C%ED%92%88-%EB%94%94%EC%9E%90%EC%9D%B8%EC%9D%84-%EC%96%B4%EB%96%BB%EA%B2%8C-activity-7438346909632626688-LcEY)
+  * Harrison Chase의 Builder/Reviewer 프레임에 대한 반론 세 가지—①리뷰 병목은 사람이 아니라 시스템이 풀어야 함: Ralphthon 우승팀 HouseOps의 하네스 Ouroboros는 에이전트에게 133라운드 인터뷰를 시켜 모호성을 0.05까지 낮춘 뒤 코딩을 시작해 12.8시간 자율 실행·169,553줄, 사람은 아침에 git log만 봄 ②PRD는 죽지 않고 Skill로 진화: 저자가 운영하는 100개+ 스킬은 각각 제품 요구사항+실행 로직+품질 기준을 한 프롬프트에 담되 사람이 아니라 에이전트가 실행(이 글을 쓴 linkedin-write 스킬엔 7단계 워크플로·14개 버전 진화 패턴·알고리즘 체커) ③세 번째 역할 Harness Builder: Ralphthon 9팀이 하룻밤에 501,955줄을 만들었는데 차이는 코딩 실력이 아니라 좋은 하네스—검증 루프·모호성 제거·에이전트 간 조율을 설계해 빌더에게 일감을 주고 리뷰어 부담을 줄이는 사람. 더 큰 빈칸은 EPD 경계 자체의 붕괴: AI Native Camp에서 비개발자 130명에게 Skill 파일 하나로 Claude가 커리큘럼을 진행하게 했고 Anthropic knowledge-work-plugins에는 영업·재무·법무·데이터 분석 53개 스킬—마케터가 빌드하고 CFO가 커밋하는 세계. 에이전트 시대의 System Thinking은 Context Engineering(시스템 성격 정의·Skill로 실행 로직·Memory로 학습 축적·MCP로 외부 도구, 159개 CLAUDE.md와 100개+ 스킬로 실험)—실행이 공짜가 된 세계의 경쟁력은 리뷰를 시스템으로 만드는 하네스, 요구사항을 실행 가능한 프롬프트로 바꾸는 스킬, 이를 엮는 Context Engineering
 * [2507.13334 A Survey of Context Engineering for Large Language Models](https://arxiv.org/abs/2507.13334)
   * [‘Context Engineering’을 주제로 한 160페이지가 넘는 리서치 서베이](https://www.linkedin.com/posts/jaeyunhenrylee_%EC%99%80%EC%9A%B0-%EB%8C%80%EB%B0%95-%EA%B6%81%EA%B8%88%ED%96%88%EB%8D%98-%EB%82%B4%EC%9A%A9%EC%9D%84-%ED%95%9C%EB%B2%88%EC%97%90-%EB%8B%A4-%EC%A0%95%EB%A6%AC%ED%95%B4%EC%A4%8D%EB%8B%88%EB%8B%A4-%ED%98%84%EC%9E%AC-%EB%A7%8E%EC%9D%80-%EB%B6%84%EB%93%A4%EC%9D%B4-activity-7352114484351561730-e3Yi/)
   * [이제는 더욱 중요한 '컨텍스트'를 설계해야 할 때](https://www.linkedin.com/feed/update/urn:li:activity:7343801990730104832/) AI 에이전트를 도입하기 전 '워크플로 정리'가 중요
@@ -6088,6 +6095,8 @@ Artificial Intelligence
 * [GitNexus: Index your codebase into a searchable knowledge graph for AI agents](https://github.com/abhigyanpatwari/GitNexus)
   * [GitNexus 웹 UI](https://gitnexus.vercel.app/)
   * 코드베이스를 검색 가능한 지식 그래프로 인덱싱. AI 에이전트가 코드 의존성, 호출 체인, 아키텍처 관계를 이해할 수 있도록 지원. CLI(MCP 서버 통합) 및 웹 UI
+* [GitReverse — Reverse engineer any codebase or website into a prompt](https://www.gitreverse.com/)
+  * Filiksyos가 만든 도구—코드베이스나 웹사이트를 분석해 그 구조와 내용을 재현할 프롬프트를 생성. GitHub URL의 `hub`를 `reverse`로 바꾸면 바로 처리되며 Next.js·Openclaw·React·Supabase·Linux 예시 레포, 라이브러리 섹션과 Discord 커뮤니티
 * [Genspark - The AI Agent Engine that revolutionizes search with trustworthy AI answers and unbiased, comprehensive results. Save time with our team of AI agents for various research & tasks.](https://www.genspark.ai/) perplexity같은 검색
   * [Genspark AI 슬라이드가 일하는 방식, CO-STAR 방식의 프롬프트로 에이전트 길들이기 AI 지배자라는 책에서 나오는 CO-STAR 프롬프트를 활용해 젠스파크를 테스트해 보았습니다. CO-STAR 프롬프트의 6가지 요소 Context(맥락): AI가 작업할 배경 정보 설명 Objective(목표): AI가 달성해야 할 구체적인 목적을… | Minjung Kim](https://www.linkedin.com/posts/minjung-kim-982762229_genspark-ai-%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C%EA%B0%80-%EC%9D%BC%ED%95%98%EB%8A%94-%EB%B0%A9%EC%8B%9D-co-start-%EB%B0%A9%EC%8B%9D%EC%9D%98-%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8%EB%A1%9C-activity-7374662279092424705-ll-B)
   * [Genspark Claw AI 어시스턴트 출시와 엔터프라이즈 업무 자동화 변화](https://digitalbourgeois.tistory.com/2880)
@@ -7216,6 +7225,8 @@ Artificial Intelligence
   * [코딩 몰라도 됩니다 — 클로드 코드 설치부터 기본 세팅까지 | EP.01 - YouTube](https://www.youtube.com/watch?v=ZY9RNQghsf0)
   * [Claude Code 스킬을 직접 고치지 마세요. Autoresearch가 대신 해줍니다 - YouTube](https://www.youtube.com/watch?v=7MaUhmZijak)
   * [Claude Code 10가지 꿀팁 — Anthropic 해커톤 우승자가 다 알려줬습니다 - YouTube](https://www.youtube.com/watch?v=QhZJyg47JW0)
+  * [이제 LSP 모르면 바이브코딩 뉴비 인증 (이거 모르면 grep 노가다 평생합니다!) | TaeKim, BKAMP](https://bkamp.ai/ko/recipes/a68916b5-059b-4659-bfa6-64f96af3cfab)
+    * "AI 바이버들의 놀이터" BKAMP의 레시피. Claude Code 2.0.74에 들어온 LSP(Language Server Protocol)를 6부로 안내—LSP가 무엇인지, 3분 설정, LSP가 할 수 있는 일 시연, 실전 이점, FAQ, 마무리. grep으로 코드를 더듬는 대신 정의·참조·타입 정보를 언어 서버에서 직접 받아 탐색하라는 취지
   * [2026년 AI의 승부처는 Loop의 반복입니다. Skill을... | Jeongmin Lee](https://www.linkedin.com/posts/jyoung105_2026%EB%85%84-ai-%EC%9D%98-%EC%8A%B9%EB%B6%80%EC%B2%98%EB%8A%94-loop-%EC%9D%98-%EB%B0%98%EB%B3%B5%EC%9E%85%EB%8B%88%EB%8B%A4-skill-%EC%9D%84-activity-7439287763121729536-g_Bk)
   * [AI가 과학 연구를 가속하는 방식: Anthropic 과학 블로그와 AI 대학원생 실험이 던지는 메시지](https://digitalbourgeois.tistory.com/2927)
   * [미래를 바꾸는 것은 생성이 아니라 평가다](https://roach716464.substack.com/p/478)
