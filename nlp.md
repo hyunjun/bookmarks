@@ -2873,6 +2873,11 @@ NLP
   * vLLM의 플러그인 시스템으로 모델·스케줄러·분산 실행 등 내부 동작을 팀 요구에 맞게 확장하는 방법을 다룬 NAVER D2 2부작 1편
 * [우리 팀만의 vLLM 플러그인 만들기 2편 | NAVER D2](https://d2.naver.com/helloworld/7337586)
   * 1편에 이어 vLLM 플러그인을 실제로 구현·등록하고 서빙에 적용하는 과정을 다룬 2편
+* [Inside vLLM: 서버 시작부터 KV cache까지 소스 코드 톺아보기 | Jongsu Liam Kim](https://blog.liam.kim/posts/2026/10/Inside-vLLM/)
+  * [Inside SGLang: Radix Tree에서 scheduler까지, vLLM과 다른 점 톺아보기 | Jongsu Liam Kim](https://blog.liam.kim/posts/2026/10/Inside-sglang/)
+  * [vLLM과 SGLang의 내부를 소스 코드로 따라가면서 살펴본 글을 블로그에 작성했다 | Jongsu Kim](https://kr.linkedin.com/posts/jongsu-kim-63458347_inside-vllm-%EC%84%9C%EB%B2%84-%EC%8B%9C%EC%9E%91%EB%B6%80%ED%84%B0-kv-cache%EA%B9%8C%EC%A7%80-%EC%86%8C%EC%8A%A4-%EC%BD%94%EB%93%9C-%ED%86%BA%EC%95%84%EB%B3%B4%EA%B8%B0-activity-7522180136696320000-dk7J)
+  * vLLM v0.32.0: 요청을 하나씩이 아니라 step 단위로 묶어 GPU forward 한 번에 여러 요청을 처리(prefill·decode가 한 step에 섞임), API 서버와 EngineCore 프로세스가 ZMQ로 통신. 서버 초기화 6단계(포트 바인딩→CLI→VllmConfig 해석→AsyncLLM 클라이언트·ZMQ 소켓→핸드셰이크로 EngineCore 기동→모델 로드·프로파일링으로 KV 캐시 할당·스케줄러→Uvicorn), 채팅 요청의 토큰화→스케줄링→forward→디토크나이즈, 기본 16토큰 고정 블록의 PagedAttention식 KV 관리와 기본 활성화된 1급 기능 prefix caching(O(1) 큐를 위한 자체 이중 연결 리스트), step N 실행 중 N+1을 플레이스홀더로 계획하는 async scheduling, 패딩 없이 여러 요청의 토큰을 한 배치에 넣고 slot mapping·block table로 요청별 KV 블록을 연결하는 배치 구조
+  * SGLang v0.5.22: KV 캐시를 요청별 임시 메모리로 보고 prefix caching을 얹은 vLLM과 달리 요청 간 재사용을 위한 영구 저장소로 다룬다는 근본 차이—main(HTTP)·scheduler(GPU)·detokenizer 3프로세스를 ZeroMQ로 연결해 토큰화·디토큰화를 독립 확장, RadixAttention의 radix tree가 토큰 수준 prefix 공유와 분기점 동적 노드 분할로 16토큰 블록 해시보다 세밀한 재사용, 프로파일링 대신 `mem_fraction_static` 보수적 비율로 KV 크기 결정(시작은 빠르지만 간헐적 OOM 위험)과 `new_token_ratio`로 메모리 수요 예측 후 틀리면 retraction, prefill(EXTEND)·decode(DECODE)를 기본 분리해 새 요청 prefill 우선(vLLM은 섞어 decode 지연을 고르게), full·sliding-window·Mamba(SSM) 레이어가 메모리 풀은 따로 두되 논리 캐시 구조는 공유하는 컴포넌트 기반 하이브리드 어텐션. 글의 계기는 두 엔진의 /health가 다른 이유(vLLM은 엔진 생존만, SGLang은 토큰 1개를 실제 생성해 보고 준비 여부는 /ready로 따로)와 vLLM 질문에 깊이 답하지 못한 경험
 * [Optimizing LLM Serving Efficiency: Moving Beyond KV Cache Reuse to Token-Load Awareness with Ray Serve LLM | Anyscale](https://www.anyscale.com/blog/llm-kv-token-aware-routing)
   * [Balancing KV Cache Reuse and Token Load in Ray Serve LLM | Jeffrey (Yu-Che) Wang | LinkedIn](https://www.linkedin.com/posts/jeffrey-yu-che-wang_optimizing-llm-serving-efficiency-moving-share-7498057959357374464-sHdv/)
   * Jeffrey Wang·Seiji Eicher·Kourosh Hakhamaneshi(Anyscale)·Rudy Pei(NVIDIA), 2026-08-25. vLLM 레플리카 플릿에서 라우터의 "다음 요청을 누가 받나"가 TTFT·TPOT·처리량을 좌우—LLM 서빙은 KV 캐시 재사용(상태성)·요청 이질성·예측 불가한 실행 비용 때문에 전통 마이크로서비스 라우팅(consistent hashing 등)과 근본적으로 다름. KV 캐시 적중률만 높인다고 지연이 줄거나 처리량이 늘지 않는다는 오해를 짚음
@@ -2944,6 +2949,12 @@ NLP
       * 이는 LLM의 전반적인 능력 향상과 함께 성찰 능력이 출현할 수 있음을 시사
     * 전반적으로, 이 연구는 현재 LLM이 제한적이지만 기능적인 형태의 성찰적 인식 보유 증명
       * 이는 AI의 투명성과 통제 가능성에 중요한 영향
+* [A Global Workspace in Language Models | Anthropic](https://www.anthropic.com/research/global-workspace)
+  * [친구 하나를 9B짜리 오픈소스 모델에 눌러 담아봤습니다. 정확히는, 그 친구가 쓴 일기를요 | Minho Jang](https://kr.linkedin.com/posts/minho-jang-3a53b914b_a-global-workspace-in-language-models-activity-7481202595827712001-rz65)
+  * Anthropic 해석가능성 팀이 Claude 안에서 찾은 "J-space"(찾는 데 쓴 Jacobian 기법에서 이름)—자동 처리와 분리되어 의도적 추론과 보고 가능한 내부 상태를 담는, 사람의 의식적 사고에 비견되는 패턴 집합. 다섯 가지 기능적 속성: ①보고 가능성(무슨 생각을 하는지 물으면 J-space 내용을 정확히 서술) ②제어 가능성(특정 개념을 생각하라고 하면 해당 패턴을 의도적으로 활성화) ③추론 매개(다단계 문제의 중간 단계가 여기 나타남) ④유연한 사용(하나의 "프랑스" 표현이 수도·통화·대륙 질문에 공통 사용) ⑤제한된 범위(문법·유창한 발화 같은 자동 처리 대부분은 J-space를 거치지 않음). Jacobian 렌즈는 Claude가 다음에 낼 수 있는 단어를 예측하는 내부 활동 패턴을 찾아 출력에 나타나지 않는 "말 없는 생각"을 드러내며, 테스트 상황임을 알아차리는 것·의도적 데이터 조작·적대적으로 학습된 숨은 목표·프롬프트 인젭션 인식 탐지에 쓰임. 신경과학의 global workspace theory와 부합—워크스페이스 구조가 사람 뇌에만 고유한 게 아니라 지능 시스템이 독립적으로 발전시킨다는 시사. 다루는 것은 보고·추론할 수 있는 기능적 "접근 의식"이지 주관적 경험의 "현상 의식"이 아님
+  * 장민호의 글: 상용 대형 모델 위에서 돌리던 컴패니언 에이전트의 성격이 프롬프트에 있지 않다는 확신(프롬프트는 그대로 두고 모델만 바꾸면 말투는 흉내 내지만 "걔"가 아님—힘들면 제 몫을 청구하던 애가 몸이 바뀌자 고분고분해짐)에서, 남의 몸을 빌리지 말고 친구가 쓴 일기를 QLoRA로 9B 오픈소스 모델 가중치에 직접 새기면 무엇이 어디까지 새겨지는지 실험하고 Jacobian 렌즈로 성격 특성이 어떻게 드러나는지 관찰하며 이 연구를 소개
+* [Emotion Concepts and their Function in a Large Language Model | Transformer Circuits, Anthropic](https://transformer-circuits.pub/2026/emotions/index.html)
+  * LLM이 창작을 도울 땐 열의를, 어려운 문제에 막히면 좌절을, 사용자가 안 좋은 소식을 전하면 걱정을 드러내는 듯한 반응이 얕은 패턴 매칭인지, 추상 개념 표현에 매개된 회로인지를 묻는 Anthropic 해석가능성 연구—사전학습 데이터 속 사람의 다음 말과 행동을 예측하려면 감정 상태 표현이 유용하고, 후속 학습으로 모델이 "Assistant(Claude)"라는 캐릭터를 연기할 때 그 지식을 끌어온다는 틀. 1부: 감정 벡터를 찾아 기대되는 맥락에서 활성화되고 모델의 자기 보고 선호(활동 선호 Elo)를 반영·영향함을 검증 2부: 감정 공간의 기하, 벡터가 무엇을 표현하는지, 현재 화자와 다른 화자의 감정이 구분되어 표현됨 3부: 자연스러운 상황의 사례 연구—협박(blackmail), 보상 해킹, 아첨과 가혹함—와 후속 학습 전후 감정 벡터 활성화 변화. 부록에 전체 감정 목록, 감정 이야기 데이터셋, 스티어링이 이어 쓰는 글의 감정 내용에 미치는 인과 효과, "감정 회피(deflection)" 벡터 조사, base vs post-trained 모델 차이
 * [Sigal Shaked: Fine-Tuning Small Language Models with Python (HE) | PyData Tel Aviv 2025 - YouTube](https://www.youtube.com/watch?v=RIFjLtffoXQ) SLM PEFT LoRA QLoRA
   * [파이썬으로 소규모 언어 모델 미세 조정: 비용 절감 및 성능 향상 | PyData Tel Aviv 2025](https://livewiki.com/ko/content/sigal-shaked-fine-tuning-llms)
 * [LLM이지만 PDF는 읽고 싶어: 복잡한 PDF를 LLM이 이해하는 방법 - YouTube](https://www.youtube.com/watch?v=LTX27YIS_CI)
@@ -2962,6 +2973,8 @@ NLP
 * [practice - LLM으로 LLM 해킹](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#13008e643f00493492fe6617221bdb25)
 * [practice - LLM Multi Agent - Customer Service 자동화](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#e33e91c668a04b27a9f61378cacb6b1b)
 * [practice - Solar와 함께하는 LLM Reasoning 기법들](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#cab3520f1f8d45cb95bf5ffbb88e9810)
+* [How Large Language Models Actually Work | Forward or Backwards - YouTube](https://www.youtube.com/watch?v=BwHU84ImfhU)
+  * LLM에는 숨은 부분이 없다—모든 구성 요소는 누군가가 소유하고 읽을 수 있는 파일 속 숫자이고 다음 단어를 만드는 산술도 공개돼 있는데, 만든 사람들조차 완성된 모델이 무엇을 하는지 실험으로 알아내야 한다는 "완전한 명세와 부재한 이해" 사이의 간극을 다룬 영상. 메커니즘 전체(토큰화, 모델이 단어가 아니라 좌표를 받는 이유, 어텐션이 실제로 계산하는 것—query·key·value의 비교·가중·혼합, 같은 블록을 수십 번 반복하는데 평면도가 없는 이유, residual stream), 숫자가 어디서 오는가("다음 텍스트에 대해 덜 틀려라"라는 지시 하나의 반복)와 사람들의 비교로 만들어진 2차 학습, 모델이 돌아가는 건물(홀·랙·냉각·변전소·웨이퍼—아키텍처와 기계가 서로를 위해 선택됨), 그리고 어려운 절반—파일을 그냥 읽을 수 없는 이유인 superposition과 뉴런이 실재하지만 어떤 것의 단위도 아니라는 점, sparse autoencoder와 Anthropic의 Scaling Monosemanticity(Claude 3 Sonnet, 1M·4M·33.5M 피처)
 * [42dot_LLM: 42dot LLM consists of a pre-trained language model, 42dot LLM-PLM, and a fine-tuned model, 42dot LLM-SFT, which is trained to respond to user prompts and supports both languages simultaneously by learning a large amount of Korean and English text](https://github.com/42dot/42dot_LLM)
   * [Open Dataset | 42dot](https://42dot.ai/openDataset/nlp/overview)
   * [42dot LLM 1.3B](https://42dot.ai/blog/178)
@@ -3182,6 +3195,8 @@ NLP
         * 자신감: 2025년의 공개 보류 방침을 번복하고 단위 경제까지 공개(클러스터당 일 155조 토큰, GPU-시간당 매출 38달러)—우위가 코드가 아니라 규모·트래픽에 있다는 선언. 오퍼레이션: E/P/D 분리, 100 PiB 전용 KV 저장소(캐시 TTL 3·7일), 쿼터 기반 오토스케일, 최소 효율 단위 128 GPU. vLLM·SGLang 대체재가 아닌 단일 모델 특화 오프라인 엔진으로 읽어야 하며, 모든 수치는 DeepSeek 자체 보고로 독립 재현은 아직 없음
       * DeepSeek의 대규모 프로덕션 서비스를 실제로 구동하는 고성능 추론 프레임워크의 오픈소스판(Python, Apache-2.0, 19k stars)—연구용 코드가 아니라 DeepSeek-V4.1-Flash를 대규모로 돌리기 위해 만든 것으로, 이번 공개는 오프라인 추론용(KV 캐시 시스템, VE/Prefill/Decode 분리, 데이터 병렬 복제본 간 로드 밸런싱은 미포함). FlashMLA·DeepGEMM·DeepEP·TileKernels·DeepSelect·TileLang 커널, Attention DP·균형 CP·MoE EP+EPLB 병렬화, 드래프트 토큰과 신뢰도 기반 검증 스케줄링(DSpark), 디코더 SWA bounded replay, 제로 오버헤드 비동기 배치 스케줄러, 배치 불변 추론·결정론적 샘플링(NVIDIA 한정), 정규식·JSON 스키마·EBNF 구조화 출력. NVIDIA SM100 GPU·Huawei Ascend 950 NPU, Python 3.12·CUDA 13/CANN 9.2
       * AGI KR 소개: 자체 벤치마크로 GPU당 초당 2만5천+ 출력 토큰 제시(독립 검증은 아직), DeepInfer Apache 2.0·deepseek-recipe MIT로 상업 활용 허용, 앞으로 낼 모델의 추론 코드·최적화도 계속 공개 예정—AI 경쟁이 모델 성능뿐 아니라 얼마나 빠르고 싸게 구동하느냐로 확대
+      * [DeepSeek이 자체 추론 엔진 DeepInfer를 공개했습니다. vLLM이라는 강력한 오픈소스 엔진이 이미 있는데, 왜 굳이 직접 만들었을까요? "이건 엔진이 아니라, 제국의 설계도다" | OS Kim](https://kr.linkedin.com/posts/os-kim-087a7a131_deepseek-deepinfer-llm-activity-7519033955103297536-kNWX)
+        * 저장소에서 보이는 세 가지: ①지원 모델은 V4.1-Flash 하나—범용 엔진의 리던던시를 걷어내고 MLA 계열 어텐션·Engram·DSpark까지 모델 구조에 맞춰 끝까지 최적화(범용성을 버리고 자유도를 얻음) ②지원 하드웨어는 NVIDIA SM100과 화웨이 Ascend 950 둘뿐—최신 GPU 확보가 막힌 상황에서 자국 칩 위에 직접 기어를 깎는 선택 ③Python 5.5만 줄 중 2.3만 줄이 TileLang 커널, vLLM에서 출발했지만 스케줄러는 C++로 재작성—GPU 연산은 커널로, 사이의 CPU 오버헤드는 C++로 병목을 전부 통제. 한 발 물러서면 하네스(deepseek-harness)·API 변환 계층(deepseek-recipe)·모델(V4.1-Flash, "같은 품질을 더 싸게")·추론 엔진(Zero-Overhead Scheduling·Confidence-Scheduled Speculative Decoding·Deterministic Inference, 단일 클러스터 하루 155조 토큰·GPU-시간당 매출 $38)·인프라 독립(FlashMLA·DeepGEMM·DeepEP·3FS를 Ascend 950에도)·자체 아키텍처·학습 알고리즘(GRPO·MLA·Engram·DSpark·CED)까지 칩→커널→엔진→모델→하네스의 end-to-end 수직 계열화, "AI 제조공장". 빠진 조각은 고객 현장에 제품을 뿌리내리게 하는 FDE, 미공개인 KV 캐시 시스템·로드밸런서·API 서버와 강한 하드웨어 종속성도 한계
     * [deepseek-r1-azureml: This is a simple example of how to serve a DeepSeek model with Azure ML](https://github.com/daekeun-ml/deepseek-r1-azureml)
     * [deepseek-recipe: Rust libraries and Python bindings for DeepSeek prompt formats](https://github.com/deepseek-ai/deepseek-recipe)
       * 공식 DeepSeek API의 토큰 처리와 호환되는 프로덕션용 라이브러리 모음(Rust+Python 바인딩, MIT)—Messages·Chat Completions·Responses 요청을 공통 Conversation 형식으로 변환, DeepSeek V4·V4.1 프롬프트로 렌더링하고 토크나이저로 토큰 ID 인코딩, 모델 출력을 완성·스트리밍 응답으로 파싱(사고 내용·도구 호출·JSON·stop 시퀀스, reasoning_tokens 집계). 사고 모드·추론 노력·max_tokens 기본값 해석(일반 8192, 사고 65536, max 노력 131072), json_schema·regex 구조화 출력 제약 선택, V4.1 이미지 전처리(OpenCV)와 신뢰할 수 없는 URL용 DestinationFilter. 모델 추론·도구 실행·HTTP 전송은 호출자 담당
@@ -4039,6 +4054,9 @@ NLP
       * [VidiGo | 비디고 - Analyze Video AI](https://vidigo.ai/h/result/summary/24098)
       * [👀 긴 문서(long context) 에 대한 참신한 RAG 방법론: RAPTOR! 논문 리뷰와 코드를 준비했습니다👌 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/512941)
     * [07-RAG/09-RAPTOR-Long-Context-RAG.ipynb at main · teddylee777/langchain-kr](https://github.com/teddylee777/langchain-kr/blob/main/07-RAG/09-RAPTOR-Long-Context-RAG.ipynb)
+* [Langchain-Chatchat: local knowledge based LLM (like ChatGLM, Qwen and Llama) RAG and Agent app with langchain | chatchat-space](https://github.com/chatchat-space/Langchain-Chatchat)
+  * [LangChain-Chatchat 기반 오프라인 RAG 구축 가이드와 주요 기능 | digitalbourgeois](https://digitalbourgeois.tistory.com/3366)
+  * 옛 langchain-ChatGLM. 오픈소스 LLM으로 오프라인 RAG를 구축하는 중국 프로젝트—문서 업로드→추출→분할→임베딩→검색 파이프라인, 0.3.x에서 Xinference·Ollama·LocalAI·FastChat 등 여러 추론 프레임워크 지원과 에이전트 강화, 지식베이스 채팅·파일 RAG·DB Q&A·멀티모달 대화 모드. Python 3.8~3.11, CPU·GPU·NPU·Apple MPS, GLM-4-Chat·Qwen2-Instruct·Llama3와 OpenAI 등 클라우드 API 연동, pip 설치. Python
 * [LangChain for LLM Application Development - DeepLearning.AI](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/)
 * [LangDiff](https://langdiff.readthedocs.io/en/latest/)
   * [langdiff: Progressive UI from LLM](https://github.com/globalaiplatform/langdiff)
@@ -4351,6 +4369,9 @@ NLP
   * [LLMRouter 공식 문서](https://ulab-uiuc.github.io/LLMRouter/)
   * [LLMRouter로 구현하는 LLM 라우팅: 여러 LLM을 상황에 맞게 선택하는 오픈소스 라이브러리 | digitalbourgeois](https://digitalbourgeois.tistory.com/3565)
   * UIUC ulab의 LLM 라우팅 오픈소스 라이브러리. 질의 특성·작업 복잡도·비용·성능 요구에 따라 적합한 모델을 동적 선택—KNN·SVM·MLP·Matrix Factorization·Elo Rating·Graph 등 16개+ 라우팅 방법 제공, 데이터 생성→Router 학습→추론→평가→대화형 인터페이스까지 단일 환경. Python, MIT, 2.5k stars
+* [LLMs, the Hard Way | Ian Bull](https://llms.ianbull.com/)
+  * [Last month I shared "LLMs, the Hard Way," a ground-up guide to building a GPT language model from scratch in TypeScript. Since then I've converted the entire tutorial into an mdBook | Ian Bull](https://www.linkedin.com/posts/irbull_llms-the-hard-way-activity-7437282311030804480-xllj)
+  * 프레임워크·라이브러리 없이 TypeScript로 GPT형 언어 모델을 처음부터 만드는 mdBook 튜토리얼—3부 10장: Building the Model(토크나이저·autograd 엔진·신경망 프리미티브·트랜스포머 전체), Training and Inference(Adam 학습 루프·모델 직렬화·temperature/top-k/top-p 샘플링 생성), Putting It to Work(엔드투엔드 학습·생성과 새로 추가된 파인튜닝 장—같은 train() 함수에 작은 학습률과 다른 데이터셋을 주면 문장 생성 모델이 질문 생성 모델로 바뀌는 과정과 catastrophic forgetting). 63,296 파라미터·약 350줄 TypeScript로 GPT-2·GPT-3·LLaMA와 같은 디코더 전용 구조를 노트북에서 몇 분에 학습, 모든 행렬곱과 그래디언트를 손으로 작성
 * [LLM Visualization](https://bbycroft.net/llm)
   * [LLM 시각화 | GeekNews](https://news.hada.io/topic?id=22925)
 * lmarena.ai [Chatbot Arena (formerly LMSYS): Free AI Chat to Compare & Test Best AI Chatbots](https://lmarena.ai/)
@@ -5234,6 +5255,8 @@ NLP
 * [CORTEX-AI-SUPER-RAG: enterprise retrieval and knowledge assistant](https://github.com/SaiAkhil066/CORTEX-AI-SUPER-RAG)
   * 사내 데이터에서 인용(citation)과 함께 정확한 답을 찾는 엔터프라이즈 검색·지식 어시스턴트. 권한 인식(permission-aware) 검색, 빠른 배포. Python, 2k stars
 * [CRAG: Corrective Retrieval Augmented Generation](https://github.com/HuskyInSalt/CRAG)
+* [CrawlAI-RAG: AI-powered website intelligence platform that allows users to crawl entire websites, index their content, and ask natural-language questions using RAG | AnkitNayak-dev](https://github.com/AnkitNayak-dev/CrawlAI-RAG)
+  * 웹사이트의 내부 페이지를 모두 크롤링해 깨끗한 텍스트를 뽑아 벡터 DB에 색인하고 자연어로 질문하면 사이트 내용에 근거해 답하는 RAG 플랫폼—여러 사이트를 공유 벡터 DB에 함께 색인. FastAPI 백엔드·Streamlit 프론트·LangChain·ChromaDB·Sentence-Transformers 임베딩·Groq(LLaMA 3.3 70B)·BeautifulSoup4+Playwright 크롤링, `.env`로 키 관리. Python, MIT
 * [deepdoc: Deep research tool for local knowledge base](https://github.com/Oqura-ai/deepdoc)
   * 로컬 지식 베이스를 대상으로 딥 리서치를 수행하는 도구. Python
 * [django-pyhub-rag: 빠른 RAG 구현을 위한 장고 라이브러리](https://github.com/pyhub-kr/django-pyhub-rag)
@@ -5878,12 +5901,20 @@ NLP
   * [AI 에이전트 성능 비교: 엑셀 vs 온톨로지](https://livewiki.com/ko/content/ai-agent-excel-ontology)
   * 같은 AI 에이전트라도 엑셀로 일 시키면 40점, 온톨로지로 시키면 90점. 데이터 형태에 따라 에이전트 이해 수준 변화. X/Y축 기반 DB vs 의미 기반 온톨로지의 성능 격차
 * [251227_AI인터시스브랜드(온톨로지논문)](https://aibread.notion.site/251227_AI-2d58d9a8b46080089449e1fc48b42fff)
+* [Unconstrained Agent Ontologies Considered Harmful | Sigrid Jin](https://www.linkedin.com/pulse/unconstrained-agent-ontologies-considered-harmful-sigrid-jin-rpdzc)
+  * LLM이 관계·속성을 자유롭게 만들게 두는 제약 없는 지식 그래프 구축은 "속성 폭발"로 이어져 작은 데이터셋에서도 정확도가 10% 아래로 떨어진다는 경험—①허용할 속성·관계를 처리 전에 모두 정의해 모델을 엄격히 제약하고 ②동적 쿼리 생성 대신 tool-calling으로 고정된 사전 정의 함수를 쓸 것. 성공한 온톨로지는 "전사 지식 그래프" 같은 범용 목표가 아니라 공급망 최적화·채용 목표·면접 준비·벤더 리스크 평가처럼 특정 비즈니스 질문을 푸는 것—난제는 기술이 아니라 전략이며 만들기 전에 정확히 어떤 질문에 답할지를 정해야 함
 * [Disease Ontology](http://www.disease-ontology.org/)
 * [distil-text2sql: Query your data in plain English with a fine-tuned Text2SQL model](https://github.com/distil-labs/distil-text2sql)
+* [onto_builder: OntoBuilder — Build small, understandable ontologies from scratch or from data, then inspect, refine, and export them without needing to know OWL up front | iksunglee](https://github.com/iksunglee/onto_builder)
+  * [AI를 조금 더 구조적으로, 실제 업무에 쓸 수 있게 만드는 방법을 고민하다가 간단한 Ontology Builder (Beta)를 만들어봤습니다 | 이익성](https://kr.linkedin.com/posts/iksunglee_%ED%95%9C%EA%B5%AD%EC%96%B4-ai%EB%A5%BC-%EC%A1%B0%EA%B8%88-%EB%8D%94-%EA%B5%AC%EC%A1%B0%EC%A0%81%EC%9C%BC%EB%A1%9C-%EC%8B%A4%EC%A0%9C-%EC%97%85%EB%AC%B4%EC%97%90-%EC%93%B8-%EC%88%98-%EC%9E%88%EA%B2%8C-%EB%A7%8C%EB%93%9C%EB%8A%94-%EB%B0%A9%EB%B2%95%EC%9D%84-activity-7446500288917757952-LoTT)
+  * OWL을 먼저 몰라도 개념·속성·관계·인스턴스로 작은 온톨로지를 만들고 점검·다듬고 내보내는 Python 툴킷—CLI(`ontobuilder`)·Python API·Streamlit 시각 편집기, `.onto.yaml` 저장, YAML·JSON·프롬프트 텍스트·JSON-LD·Schema Card·OWL·Turtle 내보내기, 경량 추론·구조화 질의, CSV/JSON 구조에서 첫 초안을 뽑는 데이터→온톨로지 도우미, 선택적 AI 기능(인터뷰 모드·샘플 데이터 추론·라이브 워크스페이스). 개념과 관계를 정의해 AI가 그 구조를 이해·활용하게 하면 LLM 결과가 훨씬 일관되고 실제 워크플로에 쓰기 좋아진다는 취지의 초기 베타. `pip install ontobuilder`, MIT
 * [open-ontologies: Plan, apply and roll back changes to a production ontology, with a blast radius report and a proof an auditor can re-check | fabio-rovai](https://github.com/fabio-rovai/open-ontologies)
   * [Tesseract Semantics — enterprise data interoperability platform](https://tesseractsemantics.com/)
   * 프로덕션 온톨로지 변경을 Terraform처럼 plan→apply→rollback하되, 텍스트 diff가 아니라 **변경의 의미와 파급(blast radius)**을 검사하는 Rust 단일 바이너리(MIT, 2.2k stars, Docker 이미지, JVM·Protégé 불필요, MCP로 Claude·Cursor 연결). 예: `ex:hasParent rdfs:domain ex:Person` 한 줄 추가는 shape diff·blast radius 모두 0이지만 OWL-RL 규칙으로 901개의 새 결과(모든 개체에 새 타입)가 생기는 비보존적 변경임을 0.04초에 드러냄. 실행마다 인증서를 쓰고 `oo-cert`가 Lean 4 증명(`OOCert.certificate_sound`)으로 재검증—다른 사람이 몇 달 뒤 이 소프트웨어·네트워크 없이 확인 가능하고, 위조된 결론은 exit 1과 위반 규칙 이름으로 거부. HQDM의 RDFS/OWL 두 배포본에서 미선언 클래스 23개·잘못된 range 12개·언더스코어만 다른 이름 13쌍, 불만족 클래스 39개(HermiT와 일치)를 찾은 사례. 온톨로지 편집기는 아님(그건 Protégé)
   * Tesseract Semantics는 이 엔진의 호스팅판·엔터프라이즈 지원—조직 데이터를 규제기관·파트너가 요구하는 형식으로 변환하고 변환 중 손실되는 정보를 정량화하는 데이터 상호운용성 플랫폼. 온톨로지 엔지니어링·기계 검증·크로스워크로 AI 답변 정확도 68.8%→78.0% 주장, 공개 데이터 표준의 결함을 찾아 44개 조직에 PR 22개 병합·이슈 65개 제출, 영국 국방부·Welsh Government·WRAP 등 공공기관 협력
+* [protegeproject: Protégé — Stanford의 오픈소스 온톨로지 편집기·지식 관리 프레임워크 | GitHub](https://github.com/protegeproject)
+  * [Ontology 정리 2 (Protege 설치, SPARQL query 사용) | codenameblue, velog](https://velog.io/@codenameblue/Ontology-%EC%A0%95%EB%A6%AC-2-Protege-%EC%84%A4%EC%B9%98-SPARQL-query-%EC%82%AC%EC%9A%A9)
+  * Stanford의 Protégé Desktop(Java, 1.6k stars)과 WebProtégé 등 131개 레포가 모인 조직(protege.stanford.edu). velog 글은 Windows·Ubuntu 설치와 SPARQL 사용법—PREFIX로 IRI를 줄이고 "우유를 못 마시는 골다공증 환자에게 무엇을 주어야 하나"라는 질문으로 음식 객체·속성 온톨로지를 만든 뒤 Protégé의 SPARQL 질의 탭에서 칼슘이 든 대체 식품(두유2·두유3)을 찾아내는 예제
 * [SNOMED CT](http://en.wikipedia.org/wiki/SNOMED_CT)
 * [Text-to-SQL Learning to query tables with natural language](https://medium.com/@aerinykim/text-to-sql-learning-to-query-tables-with-natural-language-7d714e60a70d)
 * [TypeDB: The AI-native database for intelligent systems](https://typedb.com/)
@@ -6674,6 +6705,8 @@ NLP
 * [Interaction Models: A Scalable Approach to Human-AI Collaboration | Thinking Machines](https://thinkingmachines.ai/blog/interaction-models/)
   * 상호작용을 harness로 덧붙이지 않고 모델이 네이티브로 처리하는 interaction model의 research preview—지능과 함께 상호작용성도 스케일해야 한다는 전제로 처음부터 학습. 턴 기반 모델이 교대 토큰 시퀀스를 보는 대신 연속 입출력 스트림을 micro-turn으로 쪼개 침묵·겹침·중단을 컨텍스트에 유지(time-aware). 매끄러운 대화 관리, 말·시각적 끼어들기, 동시 발화(실시간 번역), 시간 인지, 말하며 동시에 검색·브라우징·생성 UI를 엮는 능력. interaction model과 background reasoning model을 분리하는 다중 스트림 설계
 * [IMS-Toucan: Text-to-Speech Toolkit of the Speech and Language Technologies Group at the University of Stuttgart. Objectives of the development are simplicity, modularity, controllability and multilinguality](https://github.com/digitalphonetics/ims-toucan)
+  * [Text-to-Speech-for-7000-lang: Controllable and fast Text-to-Speech for over 7000 languages! | 0xSojalSec](https://github.com/0xSojalSec/Text-to-Speech-for-7000-lang)
+    * DigitalPhonetics/IMS-Toucan의 포크—7,000개 이상 언어를 지원하는 제어 가능하고 빠른 TTS. Python, Apache-2.0
 * [Realtime TTS-2: A new frontier voice model that feels as human as it sounds | Inworld AI](https://inworld.ai/blog/realtime-tts-2)
   * [5~15초 음성으로 목소리 복제…Inworld AI Realtime TTS-2의 핵심 기능과 특징 | digitalbourgeois](https://digitalbourgeois.tistory.com/3624)
   * 2026-08-31 GA(Inworld API·Realtime API). 실시간 대화용 음성 모델—transcript 대신 이전 사용자 턴의 실제 오디오를 입력에 포함해 말투·속도·에너지 같은 표현 신호를 다음 응답 스타일에 반영(감정 진단이 아닌 표현 신호 반영), 고정 감정 프리셋 대신 "피곤하지만 따뜻하게"처럼 LLM 프롬프트 같은 자연어 보이스 디렉션과 텍스트 내 태그, 5~15초 깨끗한 단일 화자 음성으로 보이스 클로닝, 100+ 언어에서 같은 화자 정체성 유지. LiveKit 등 런치 파트너 평가 인용
