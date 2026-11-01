@@ -578,6 +578,8 @@ Finance
   * [Goldman Sachs Has an Open Source Python Package Called GS-Quant - YouTube](https://www.youtube.com/watch?v=6PSlX7Qqd1U)
 * [hometaxbot](https://github.com/finecodekr/hometaxbot)
 * [KIS Developers](https://apiportal.koreainvestment.com/intro) 한국투자증권
+  * [open-trading-api: Korea Investment & Securities Open API Github | koreainvestment](https://github.com/koreainvestment/open-trading-api)
+  * 한국투자증권 Open API(KIS Developers) 공식 샘플 코드 저장소—ChatGPT·Claude 같은 LLM과 Python 개발자 모두가 쓰기 쉽게 구성(`llms.txt` 제공). `examples_llm/`(인증·국내주식·국내채권·해외주식·선물옵션 등 기능 단위 샘플), `examples_user/`(상품별 통합 자동매매 예제), `strategy_builder/`(비주얼 UI로 매매 전략 설계·시그널 생성), `backtester/`(QuantConnect Lean 기반 백테스팅). 2026년 10월 23일부터 포털에서 API 질문·샘플 작성·오류 해결을 돕는 OpenAPI AI 에이전트(로그인 후 챗봇)와 개발환경 없이 웹에서 전략을 만드는 투자전략 플레이그라운드(AI도구 메뉴) 제공. Python, 1.7k stars
 * [OctoBot — Crypto trading bot for automated strategies](https://www.octobot.cloud/)
   * [OctoBot: Free open source crypto trading bot to automate AI, Grid, DCA and TradingView strategies](https://github.com/Drakkar-Software/OctoBot)
   * AI·Grid·DCA·TradingView 전략을 자동화하는 오픈소스 암호화폐 트레이딩 봇. Binance·Hyperliquid 등 15개+ 거래소 지원, 자금은 사용자가 직접 보관(non-custodial). Python, GPL-3.0, 6.3k stars
