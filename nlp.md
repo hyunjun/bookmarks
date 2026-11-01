@@ -3507,6 +3507,9 @@ NLP
   * [Saving money in your Pydantic AI projects | Pretty Printed - YouTube](https://www.youtube.com/watch?v=dCybEQ_pHjc)
     * [pydantic_ai_jev_demo | PrettyPrinted/youtube_video_code](https://github.com/PrettyPrinted/youtube_video_code/tree/master/2026/10/23/Saving%20money%20in%20your%20Pydantic%20AI%20projects)
     * Pydantic AI 에이전트에서 YouTube 영상의 제목·설명을 받아 "교육용인가"(bool)와 "설명에서 파는 주 상품은 무엇인가"(course·coaching·physical product·service·software 중 택일)를 판정하는 분류 작업을, `openai:gpt-6.1-sol` 대신 `typesafe:jev-latest`로 바꿔 돌리는 데모—`pydantic-ai-slim[openai,typesafe]`를 설치하고 모델 문자열만 바꾸면 Pydantic 모델(`output_type`)의 bool·Literal 필드가 그대로 Jev의 noul·choice 질문이 되어, usage·provider_details와 소요 시간으로 LLM 대비 비용·속도 차이를 비교
+  * [Build your own decision model | Nish Tahir](https://nishtahir.com/build-your-own-decision-model/)
+    * [Qwen으로 나만의 의사결정 모델 만들기 | GeekNews](https://news.hada.io/topic?id=35145)
+    * Jev 같은 System 1 의사결정 모델을 직접 흉내 내기—구조화 출력은 JSON 토큰마다 순전파가 필요(예시 11회)하지만 선택지 A~E 토큰만 남기고 어휘를 마스킹하면 마지막 위치 로짓 한 번으로 답을 고름. Qwen3-1.7B+Transformers로 구현해 CommonsenseQA 홀드아웃 1,221문항에서 정확도 59.38%, 간단한 미세조정 후 62.41%. 단 선택지 제한은 정답을 보장하지 않고 토큰 확률은 다음 토큰에 대한 확신일 뿐이라 "bat은 어디에"처럼 모호한 질문에도 99.8%를 주는 과신이 생김(평균 신뢰도 98.55% 구간의 실제 정확도 70.09%)—온도 스케일링으로 보정해 신뢰도-정확도 차이를 줄이고 데이터셋 구성·평가·미세조정·보정 스크립트 공개
   * [2609.26550 JEV-as-a-Judge: Accept When Confident, Escalate When Unsure](https://arxiv.org/html/2609.26550)
     * [벌써 Jev의 실제 성능과 장점, 그리고 약점과 보완 방법까지 자세히 실험한 논문이 나왔습니다 | 염기웅](https://www.linkedin.com/posts/kiwoong-yeom_%EB%B2%8C%EC%8D%A8-jev%EC%9D%98-%EC%8B%A4%EC%A0%9C-%EC%84%B1%EB%8A%A5%EA%B3%BC-%EC%9E%A5%EC%A0%90-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%95%BD%EC%A0%90%EA%B3%BC-%EB%B3%B4%EC%99%84-%EB%B0%A9%EB%B2%95%EA%B9%8C%EC%A7%80-%EC%9E%90%EC%84%B8%ED%9E%88-%EC%8B%A4%ED%97%98%ED%95%9C-share-7509092892578050048-psZU/)
     * CMU 계열 저자 4명(Yubo Li·Ramayya Krishnan·Rema Padman 외)의 첫 Jev 독립 평가 논문(2026-09-22). 판단만 내리는 저지가 LLM-as-a-judge의 경제적 1차 패스가 될 수 있는지를 16개 생성·리워드 모델 저지와 블라인드 인간 판정으로 비교—일반 선호·근거 기반 사실성에서는 최고 성능 LLM 저지 대비 3%p 이내를 **비용 0.36%**로 달성하지만, 유도 과정을 검증하거나 정교하게 쓰인 오답에 저항해야 하는 판단에서는 격차가 커짐
@@ -5345,6 +5348,14 @@ NLP
   * [📝 UltraRAG: 오픈소스 RAG 프레임워크 로컬 설치 및 실전 예제 가이드 | fornewchallenge](https://fornewchallenge.tistory.com/entry/%F0%9F%93%9D-UltraRAG-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-RAG-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC-%EB%A1%9C%EC%BB%AC-%EC%84%A4%EC%B9%98-%EB%B0%8F-%EC%8B%A4%EC%A0%84-%EC%98%88%EC%A0%9C-%EA%B0%80%EC%9D%B4%EB%93%9C)
   * 칭화대 THUNLP·동북대 NEUIR·OpenBMB·AI9Stars가 만든 MCP 기반 저코드 RAG 프레임워크. 복잡한 RAG 파이프라인을 수십 줄 YAML로 구성하고 순차·조건 분기·반복 같은 제어 구조를 표현하며, 각 기능을 독립 MCP 서버로 분리해 재사용. 블로그는 개요·설치·파이프라인 구축 실습. Python, Apache-2.0, 5.7k stars
 * [urstory-rag: 한국어 최적화 프로덕션 RAG 시스템](https://github.com/urstory/urstory-rag)
+  * [한국어 RAG 시스템을 오픈소스로 공개합니다 | 김성박](https://www.linkedin.com/posts/%EC%84%B1%EB%B0%95-%EA%B9%80-08a276188_%ED%95%9C%EA%B5%AD%EC%96%B4-rag-%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%84-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%EB%A1%9C-%EA%B3%B5%EA%B0%9C%ED%95%A9%EB%8B%88%EB%8B%A4-%ED%95%98%EC%9D%B4%EB%B8%8C%EB%A6%AC%EB%93%9C-%EA%B2%80%EC%83%89-%ED%95%9C%EA%B5%AD%EC%96%B4-activity-7434580600210116608-UZeT)
+    * 공개 포스트 기준 90개 Q&A 테스트에서 LLM Judge 평균 94.4점·검색 적중률 100%. 아래 블로그 시리즈가 이론적 배경이고 이 프로젝트는 그 이론을 구현한 결과물, 이전 회사에서도 RAG를 만들었고 여럿이 함께 만들면 더 좋은 시스템이 나올 것 같아 오픈
+  * 소규모 기업을 위한 제대로 된 RAG 시스템 시리즈 (4부작) | 김성박, FSF
+    * [1/4 왜 당신의 RAG는 실패하는가 - 온톨로지, 지식 그래프, 그리고 제대로 된 아키텍처의 조건](https://www.fullstackfamily.com/@urstory/posts/13981)
+    * [2/4 데이터가 전부입니다 - 문서를 지식으로 바꾸는 파이프라인](https://www.fullstackfamily.com/@urstory/posts/13982)
+    * [3/4 검색, 평가, 그리고 신뢰할 수 있는 시스템](https://www.fullstackfamily.com/@urstory/posts/13983)
+    * [4/4 MCP로 완성하기 - Claude가 회사 지식을 쓰게 만들기](https://www.fullstackfamily.com/@urstory/posts/13984)
+    * 튜토리얼식 "기본 RAG"(청킹→벡터DB→유사 청크→프롬프트)가 문서가 수천 개로 늘면 무너지는 이유에서 출발해 DoorDash·LinkedIn·RBC 등 실제 아키텍처를 소규모 기업 예산으로 재설계하는 4부작—①실패 원인과 온톨로지·지식 그래프를 포함한 아키텍처 조건 ②실패의 80%는 데이터 준비 단계: 수집·전처리·청킹·Anthropic Contextual Retrieval로 문맥 부착·Ollama 임베딩·ChromaDB 인덱싱 6단계 파이프라인(API 비용 없이 로컬) ③하이브리드 검색+리랭킹으로 정확도 30%+ 향상, DoorDash식 가드레일로 할루시네이션 억제, RAGAS 평가와 Langfuse 모니터링 ④FastMCP 3.0으로 검색 파이프라인을 MCP 서버로 포장해 Claude Desktop·Claude Code에 연결, 인증·프로덕션 배포까지—인사·영업팀이 터미널 없이 Claude에게 물어 사내 문서를 쓰게 하는 것이 최종 목표
   * PGVector + Elasticsearch(Nori) 하이브리드 검색, bge-reranker-v2-m3-ko 한국어 리랭킹, HyDE 합성 문서, PII 마스킹·프롬프트 인젝션 방어. RAGAS 자동 평가 + Langfuse v3 모니터링. 평균 92.0/100점, 96% 성공률
 * [WeKnora: LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm](https://github.com/Tencent/WeKnora)
   * [Tencent 올인원 RAG 프레임워크를 오픈소스로 | HaYeJin Kang](https://www.linkedin.com/posts/h4y3j1n_tencent-activity-7407555266591932416-7ScG)
