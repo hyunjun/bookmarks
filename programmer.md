@@ -538,6 +538,9 @@ Programmer
 * [Belonging to Amazon’s Principal Engineering Community | by Carlos Arguelles | Geek Culture | Nov, 2021 | Medium](https://medium.com/geekculture/belonging-to-amazons-principal-engineering-community-aa8059152fbf)
 * [What does a Principal Software Engineer do? | by Bobi | Dev Genius](https://blog.devgenius.io/what-does-a-principal-engineer-do-2e6af918ff28)
   * [Principal(수석) 소프트웨어 엔지니어는 어떤 일을 하는가 | GeekNews](https://news.hada.io/topic?id=5557)
+* [Advice for New Principal Tech ICs (i.e., Notes to Myself) | Eugene Yan](https://eugeneyan.com/writing/principal/)
+  * [이제 막 핵심 인재로 올라선 엔지니어들에게 주는 조언 | 안영회 번역, 요즘IT](https://yozm.wishket.com/magazine/detail/3548/)
+  * Amazon Principal Applied Scientist가 롤 모델들을 관찰하고 조언을 인용해 정리한 수석 IC 노트—①수석마다 스타일이 다르니(깊이 파기·수평 영향력·기술 선구자·복잡성 정리·조직 정렬) 강점에 맞는 것을 찾되 Amazon은 수석이 계속 hands-on이기를 원함 ②이전 역할에서 핵심이던 코딩은 이제 부수적—80% 코딩하더라도 설계 피드백·기술 가이드·장기 비전으로 모든 빌더가 더 잘 만들게 하는 것이 영향력 ③기술의 파트타임 PM, 사실은 제품·디자인·채용·재무·문화 모두의 파트타임 ④디렉터·VP를 넘나드는 범위라 소통·영향력·사람 연결이 핵심, 조직도를 고객에게 배송하지 말 것 ⑤옳은 것은 절반도 못 이김—설득하고 움직이게 하고 후원자를 찾아 마무리까지, "수석이 곧 위원회" ⑥조직이 아직 가치를 모르는 것을 가르치는 일(10개 문서 중 3개가 실행되면 훌륭한 성과) ⑦당신 없이는 일어나지 않을 일(관심×탁월함의 교차점)에 집중 ⑧일을 하는 것보다 점을 연결하는 것이 더 가치 있을 때 ⑨혼자 할 수 있는 양은 한계가 있으니 1~2명을 골라 키우고 "조직이 수석과 같은 결정을 내리게 되는 것"이 성공. 번역은 scientist·principal tech IC를 모두 '수석 엔지니어'로 통일하고 L7 등 국내 상황에 맞춘 의역 추가
 * [What Happens To Developers Who Never Go Into Management? | WBS CODING SCHOOL](https://www.wbscodingschool.com/blog/what-happens-devs-never-management/)
 * [What happens to developers who never go into management? | by WBS CODING SCHOOL | Medium](https://wbscodingschool.medium.com/what-happens-to-developers-who-never-go-into-management-1f1d8483e4bd)
 * [37signals에는 다시 한 번 풀타임 관리자가 없습니다. (We once more have no full-time managers at 37signals) | Write the code. Change the world.](https://kyoungwon.me/articles/2024/09/03/We-once-more-have-no-full-time-managers-at-37signals/)
@@ -618,6 +621,9 @@ Programmer
 * [No Meat Proxy — AI is a tool. You shouldn't be.](https://nomeatproxy.com/)
   * [Meat Proxy가 되지 마세요. 동료의 질문을 AI에 그대로 넣고 나온 답변을 복붙해서 답장하신 적이 있으신가요? | Dale Seo](https://www.linkedin.com/posts/daleseo_meat-proxy%EA%B0%80-%EB%90%98%EC%A7%80-%EB%A7%88%EC%84%B8%EC%9A%94-%EB%8F%99%EB%A3%8C%EC%9D%98-%EC%A7%88%EB%AC%B8%EC%9D%84-ai%EC%97%90-%EA%B7%B8%EB%8C%80%EB%A1%9C-share-7503578501300629505-pUDV/)
   * AI가 뱉은 결과물을 읽지도·이해하지도·검증하지도 않고 그대로 타인에게 넘기는 사람 = Meat Proxy('살로 된 중계기'). 에이전트가 짜준 코드를 안 읽고 PR 리뷰를 요청하는 행태에 대한 경고 선언 사이트
+* ["똑똑함은 이제 흔합니다" 젠슨 황이 말한 AI 시대 최고의 인재 | 우명훈 대표 세바시45 ep.109 | 세바시 강연 Sebasi Talk - YouTube](https://www.youtube.com/watch?v=L1SvTQuQlVs)
+  * [원대로 - 내 프롬프트 꽁꽁 숨기고 있는 당신, 그게 당신 연봉의 천장이다 | Facebook](https://www.facebook.com/drwonsg/posts/pfbid02KLUcZi6cdKNBJdjuUXaD1NLaP1jtnQMKfswKf2hDdMzDvRxjzci5SNuuB6QpxMXfl)
+  * 삼성전자·SK하이닉스 등에서 18년간 리더십 교육을 한 『이타적 성장』 저자 우명훈의 40분 강연과 그 정리—"이기적인 분들은 좋은 평가가 나오기 쉽지 않다". ①자기계발과 이타적 성장의 차이는 '감시자'(클라이언트·동료 시선·데드라인)의 유무, 남의 문제를 풀러 뛰어들면 내 역량의 울타리를 넘게 됨 ②"밴드만 붙여주지 마라"—왜 다치는지 찾아 가드를 만드는 심층 동기화에는 호기심·애정·"그게 정말 문제 맞나요"라고 묻는 용기·전문성이 필요 ③다운턴에 찬밥이던 HBM 팀에 다른 팀이 자기 실패 데이터를 넘긴 SK하이닉스의 '원 팀' DNA가 지금 주가를 만들었다 ④Above/Below the Line—남 탓·셀프 독설이 아래로 끌어내리고, 잘 먹고 잘 자고 도움을 요청하는 용기가 위로 ⑤호구와 파트너 사이의 가드레일(진짜 필요한지·내가 할 수 있는지 먼저 묻고, 횟수를 정하고, 생색을 내라) ⑥AI 시대에 "내 프롬프트는 자산"이라며 안 나누는 사람은 자기 한계 안에서만 성장—핵심 인재에게 노하우를 후배에게 가르치게 했더니 6개월 뒤 전원 승진(가르치며 구조가 선명해지고 전문성의 반경이 넓어짐)
 
 # Programmers
 * [도널드 커누스 - 튜링상 수상자 시리즈, 지식함지](https://knowledgebasin.com/archives/persons/%EB%8F%84%EB%84%90%EB%93%9C-%EC%BB%A4%EB%88%84%EC%8A%A4)
