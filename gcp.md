@@ -29,6 +29,8 @@ Google Cloud Platform GCP
 * [VSCODE에서 COLAB서버 TPU를 원격 .. : 네이버블로그](https://blog.naver.com/ulsancoding/224095197597)
 * [구글 TPU환경에서 CUDA를 대체하는 기술 .. : 네이버블로그](https://blog.naver.com/ulsancoding/224096602529)
 * [EdgeTPU로 티처블머신의 TF Lite 모.. : 네이버블로그](https://blog.naver.com/ulsancoding/224103319607)
+* [구글 coral EdgeTPU로 TF Lite 모델 object 탐지 실습하기--(6) : 네이버블로그](https://blog.naver.com/ulsancoding/224109506030)
+  * Coral EdgeTPU는 Ironwood 같은 클라우드용이 아니라 IoT·라즈베리파이에 YOLO 등을 붙여 쓰는 엣지용 TPU로 포즈·객체 탐지가 가능한 AI 반도체—USB 스틱처럼 연결(박스엔 본체와 케이블 하나). 앞선 회차에서 만든 EdgeTPU용 TFLite 모델로 랩탑 웹캠에서 book(0.997)·remocon(0.980) 객체를 검출하는 모습과, 같은 모델을 라즈베리파이에 올려 바로 쓸 수 있다는 점
 * [Why Our Tech Startup Chose Google Cloud Platform (GCP) over AWS](https://hackernoon.com/why-our-tech-startup-chose-google-cloud-platform-gcp-over-aws-dc7c8080fb89)
 * [Continuous Delivery Pipeline in Google Cloud with Kubernetes and Jenkins - Johan Frick](https://www.youtube.com/watch?v=0uKzw8wJV6A)
 * [GCP Dataprep 사용 해보기](https://jungwoon.github.io/google%20cloud/2018/02/28/Dataprep/)
