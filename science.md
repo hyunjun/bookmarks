@@ -41,6 +41,15 @@ Science
 * [Understanding the brain with AI-driven explanations and experiments | Microsoft Research](https://www.microsoft.com/en-us/research/blog/understanding-the-brain-with-ai-driven-explanations-and-experiments/)
   * [Microsoft turns LLM brain predictions into fMRI-tested explanations | insights.marvin-42](https://insights.marvin-42.com/articles/ai-fmri)
   * Microsoft·UC Berkeley·UCSF·Columbia의 generative causal testing(GCT). 해석 불가능한 언어-뇌 예측 모델을 짧은 언어 가설로 변환하고, LLM이 표적 자극(스토리)을 생성해 특정 뇌 영역이 예측대로 반응하는지 fMRI로 검증—AI 브레인 모델을 검증 가능한 과학 이론으로
+* [Introducing TRIBE v2: A Predictive Foundation Model Trained to Understand How the Human Brain Processes Complex Stimuli | Meta AI](https://ai.meta.com/blog/tribe-v2-brain-predictive-foundation-model/)
+  * [A Foundation Model of Vision, Audition, and Language for In-Silico Neuroscience | Meta Research](https://ai.meta.com/research/publications/a-foundation-model-of-vision-audition-and-language-for-in-silico-neuroscience/)
+  * [tribev2 | facebookresearch](https://github.com/facebookresearch/tribev2)
+  * [facebook/tribev2 · Hugging Face](https://huggingface.co/facebook/tribev2)
+  * [TRIBE v2 interactive demo](https://aidemos.atmeta.com/tribev2)
+  * [Meta TRIBE v2, 인간 뇌의 '디지털 트윈'을 만들다 - 박재홍의 실리콘밸리 | WikiDocs](https://wikidocs.net/blog/@jaehong/10702/)
+  * ["챗GPT도 클로드도 아니다" AI 전쟁 끝낼 메타의 '최종병기'가 등장했습니다 | Softdragon SOD - YouTube](https://www.youtube.com/watch?v=SfRUFw4AEFY)
+    * 메타버스에 110조 원 넘는 적자를 낸 Meta가 AI 글래스에선 상반기 세계 출하량 10대 중 8대로 압도적 1위라는 데서 출발—노리는 건 안경 판매가 아니라 상품 선택·결제가 모두 Meta를 거치게 하는 커머스 길목. 설정 때 음성·이미지 데이터 제공 동의를 묻는 Ray-Ban Meta 3세대 체험, 인스타 사진으로 가상 옷장·코디를 만드는 패션앱 Style Sketch, 2022년 900여 명의 1인칭 영상 3,600시간으로 학습한 연구(Ego4D), Muse 에이전트에 Shopify 상품·PayPal 결제 연결 발표를 엮어 "보는 순간 식별→옷장 매칭→Instagram Shop·Meta Pay 결제" 시나리오를 그리고, "정말 사고 싶은지 구경인지" 의도 판별의 과제에 대한 답으로 시각·청각 자극에 뇌가 어떻게 반응할지 예측하는 TRIBE v2를 지목. 3분기 매출 646억 달러 중 광고 631억 달러인 회사가 가장 잘하는 광고 영역으로 AI를 끌어오고 있으며, 가장 똑똑한 모델이 아니라 "뭘 살지 고민하는 순간 먼저 답하고 구매까지 연결한 회사"가 판을 뒤집을 수 있다는 주장(하이젠버그 리포트 기반)
+  * Meta FAIR의 TRImodal Brain Encoder v2—영상·소리·텍스트를 넣으면 인간 뇌의 fMRI 반응을 약 7만 복셀(fsaverage5 피질 메쉬 약 2만 꼭짓점) 수준으로 예측하는 "뇌의 디지털 트윈" 파운데이션 모델. Algonauts 2025 대회 1위(263팀) v1이 피험자 4명 데이터로 약 1,000개 피질 셀을 예측했다면 v2는 720명+·1,000시간+ fMRI로 학습해 해상도 70배·정확도 2~3배, 새 피험자·언어·과제에 재학습 없는 제로샷 예측이 가능하고 때로는 개별 피험자의 실제 스캔보다 집단 평균 신경 활동에 더 가까움. 구조는 프리즈한 V-JEPA2(시각)·Wav2Vec-BERT 2.0(청각)·LLaMA 3.2-3B(언어) 특징 추출→혈역학 반응 지연(4~6초)을 감안한 100초 컨텍스트의 8층 Temporal Transformer→피험자별 뇌 매핑 블록 3단계. 피험자를 MRI에 눕히지 않고 컴퓨터 안에서 가설을 수천 번 검증하는 인실리코 신경과학, 실어증 연구·BCI 개발·AI 내부 표현과 뇌 반응 비교(정렬 연구)에 응용 전망; 신경 데이터 동의 범위·거버넌스 문제, 스케일링 곡선 미포화, CC-BY-NC-4.0(상업 이용은 별도 협의)이 과제. 박재홍은 Meta 핵심 모델 3종의 쇼케이스이자 공개 fMRI 데이터 플라이휠 전략으로도 읽음(Hugging Face 월 5만+ 다운로드)
 * [Connectome - Wikipedia](https://en.wikipedia.org/wiki/Connectome)
   * [Fly Connectome – Drosophila Connectomics Group, University of Cambridge](https://flyconnecto.me/)
   * 커넥톰은 뇌 신경 연결의 전체 지도, 즉 "배선도". MRI로 얻는 뇌 영역 간 기능적 커넥톰(mm 단위)부터 전자현미경으로 개별 뉴런과 시냅스를 추적한 신경 커넥톰까지 해상도가 다양
