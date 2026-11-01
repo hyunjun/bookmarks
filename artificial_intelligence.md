@@ -1272,6 +1272,10 @@ Artificial Intelligence
     * RahulMCA. Anthropic 시니어 엔지니어의 1시간 무료 강의 소개—CLAUDE.md·Plan mode 입문, 스킬·훅 만들기, 에이전트·서브에이전트 구축, 루프·그래프 기반 자기 개선 에이전트 팀까지. "$500짜리 에이전틱 엔지니어링 코스를 대체"
   * [Claude Code를 설치했다면 알아야 할 22가지 Skills, 개발부터 디자인·리서치·마케팅까지 | digitalbourgeois](https://digitalbourgeois.tistory.com/3706)
     * `npx skills add [repo]`로 설치하는 22개 스킬을 4영역으로 정리. BUILD: superpowers(계획·디버깅)·gstack(23개 스킬 팩)·caveman·ponytail·codex·i-have-adhd, DESIGN: ui-ux-pro-max·taste-skill·impeccable·hyperframes·emil·gsap, RESEARCH: skill-creator·graphify·last30days·agent-browser·find-skills·claude-hud, MARKETING: remotion·marketingskills(40개)·humanizer·social-media-skills. 원저자가 가장 많이 쓰는 건 superpowers·caveman·last30days
+  * [클로드 스킬 꿀팁 꼭 읽으세요. Anthropic Claude Code 팀의 Thariq Shihipar가 내부에서 수백 개의 스킬을 운영하며 얻은 교훈 | Seungpil Lee](https://kr.linkedin.com/posts/seungpil_%ED%81%B4%EB%A1%9C%EB%93%9C-%EC%8A%A4%ED%82%AC-%EA%BF%80%ED%8C%81-%EA%BC%AD-%EC%9D%BD%EC%9C%BC%EC%84%B8%EC%9A%94-anthropic-claude-code-%ED%8C%80%EC%9D%98-activity-7440532562331992064-qIb7)
+    * 스킬은 텍스트 파일이 아니라 스크립트·템플릿·데이터까지 담는 폴더(AI가 필요할 때 꺼내 쓰는 도구 상자). Anthropic 내부 스킬을 분류하면 9유형—API 레퍼런스(이 라이브러리 쓸 때 조심할 실수), 제품 검증(헤드리스 브라우저로 가입·결제 흐름 테스트), 데이터 수집·분석, 반복 업무 자동화(스탠드업·티켓·주간 리캡), 코드 템플릿, 코드 품질·리뷰(서브에이전트가 비판·수정 반복), CI/CD·배포(PR 감시·재시도·점진 롤아웃·롤백), 장애 대응 런북, 인프라 운영—좋은 스킬은 한 카테고리에 명확히 속하고 "이 스킬이 뭘 하는 거지?"가 나오면 범위가 넓다는 신호
+    * 핵심 팁: ①AI가 자주 틀리는 "함정 목록"을 꼭 넣고 새 실패마다 한 줄씩 추가(가장 유용한 섹션) ②정보를 한 번에 주지 말고 references/·assets/로 나누는 점진적 공개(Progressive Disclosure) ③너무 세세히 지시하지 말고 핵심만 주고 판단은 AI에게(재사용성) ④Description은 사람이 아니라 AI를 위해 "무엇을 하는가"가 아닌 "언제 실행할지"로. 실전 패턴으로 이전 실행 결과를 로그 파일로 남겨 다음 실행에 "어제 이후 뭐가 바뀌었지?"만 판단하게 하고, 배포는 누구나 GitHub 샌드박스 폴더에 올려 Slack에 공유하면 많이 쓰이는 것이 마켓플레이스로 승격되는 상향식. 대부분의 좋은 스킬은 몇 줄 메모와 함정 하나로 시작해 반복하며 좋아진 것—설계보다 시작과 반복
+    * 단일 책임(한 카테고리에 속할 것), 정보 은닉과 모듈화(점진적 공개), 과도한 명세 대신 적절한 추상화 수준, 호출자를 위한 인터페이스 문서(Description), 회귀 테스트처럼 쌓이는 함정 목록, 큰 설계보다 작게 시작해 반복—좋은 프로그래밍의 원칙을 스킬 작성에 옮겨 놓은 셈
 * [agent-skills: A collection of AI agent skills for Clawdbot, Claude Code, Codex](https://github.com/jdrhyne/agent-skills)
   * [AI 에이전트를 더 똑똑하게 만드는 agent-skills 저장소 정리 | digitalbourgeois](https://digitalbourgeois.tistory.com/3292)
   * 재사용 가능한 스킬·프롬프트 라이브러리. 범용 스킬(태스크 오케스트레이션·리서치 루프·문서 처리, 79% 크로스플랫폼), API 통합(Jira/GA/Zendesk/Salesforce), 순수 프롬프트(디자인 원칙·엔지니어링 베스트 프랙티스), 플랫폼별(OpenClaw/Claude Code/Codex). 의사결정 트리·트레이드오프 분석 등 전문 지식 강조
@@ -2282,6 +2286,12 @@ Artificial Intelligence
   * Envoy AI Gateway로 사내 LLM 요청을 중앙화하고, 모델 선택을 low/medium/high 세 등급으로 추상화한 과정
 * [정부 AI 응용 서비스 개발 체크리스트](https://government-ai-checklist-rlvb.vercel.app/)
   * 문제 중심·사용자 중심·점진적 검증 원칙으로 공공 AI 서비스를 설계하는 9단계 인터랙티브 체크리스트(다운로드·프린트 가능). 1단계 문제 정의는 "AI로 무엇을 할까"가 아니라 행정·시민의 실제 불편과 반복·지연·오류 지점을 서술하고, 누가·얼마나 자주·미해결 비용·법제도 변경 없이 기술로 개선 가능한지 점검한 뒤, 반복 판단·대량 문서·전문성 병목·"보조"로도 효과 여부로 AI 적합성 판단. 2단계 데이터 정의는 업무·법규·외부·실시간 데이터 리스트업과 속성 정의
+* [Open Responses vs. Chat Completion: A new era for AI apps | The New Stack](https://thenewstack.io/open-responses-vs-chat-completion-a-new-era-for-ai-apps/)
+  * [Open Responses 표준이 바꾸는 AI 애플리케이션 개발 방식 - Chat Completion API 이후, 에이전틱 AI를 위한 새로운 기준 | digitalbourgeois](https://digitalbourgeois.tistory.com/2683)
+  * 상태 없는 챗봇용으로 설계된 OpenAI Chat Completion API는 다중 턴·도구 오케스트레이션이 필요한 에이전틱 앱에서 한계—2025년 3월 공개된 Open Responses 표준은 네이티브 상태 관리, 통합 도구 호출, 추론 컨텍스트 보존, 멀티모달을 담고 Hugging Face·Nvidia·Vercel 등 생태계가 채택해 벤더 종속 없이 하이브리드 배포가 가능해짐. "챗봇 시대의 끝, 에이전틱 시대의 시작"—인프라 자체가 자율 AI를 위해 설계되는 전환
+* [A practical systems engineering guide: Architecting AI-ready infrastructure for the agentic era | The New Stack](https://thenewstack.io/ai-ready-infrastructure/)
+  * [에이전틱 시대를 위한 AI-Ready 인프라 아키텍처 설계 가이드 | digitalbourgeois](https://digitalbourgeois.tistory.com/2756)
+  * 질문에 답하는 대신 추론·계획·도구 실행·지식 검색을 하는 에이전틱 시스템의 성패는 모델 선택보다 인프라 설계에 달렸다는 가이드—LangChain 오케스트레이션, Qdrant 벡터 DB, 도구 실행 계층, FastAPI 게이트웨이, 컨테이너·Kubernetes 배포, Terraform IaC, 관측성. "에이전트는 기본적으로 신뢰하지 않는다"는 전제의 엄격한 통제, 모듈성·확장성·비용 인식·회복력 원칙과 에이전트 초기화·검색 도구·배포 패턴의 Python 예제
 
 ## Agentic Engineering
 * [바이브 코딩은 지났다, 에이전틱 엔지니어링이 여는 AI 개발의 다음 단계](https://digitalbourgeois.tistory.com/2802)
@@ -2346,6 +2356,10 @@ Artificial Intelligence
   * [AI 코딩 품질을 높이는 멀티 에이전트 개발 워크플로 | digitalbourgeois](https://digitalbourgeois.tistory.com/4079)
   * 단일 에이전트는 하나의 해석과 그 맹점을 내놓으므로, 여러 에이전트를 "병렬 탐색→한 번 계획→한 번 구현→병렬 리뷰→종합→반복 개선"으로 조율해 더 강한 해법에 더 빨리 도달하되 개발자의 주의는 최소로 쓰자는 제안—완성된 구현 여러 개를 비교하는 게 아니라 결정 순서를 압축하는 데 추가 연산을 쓴다. ①여러 모델이 읽기 전용으로 독립 조사해 근본 원인·근거·해법·대안·위험을 제안(코드 변경 없음) ②개발자가 접근을 고르고 명시적 계약으로 문서화 ③에이전트 하나가 격리된 Git worktree에서 구현 ④정확성·보안·아키텍처·성능·단순성 전담 리뷰어가 diff를 독립 검토 ⑤한 에이전트가 모든 주장을 검증·중복 제거해 최종 판정 ⑥채택된 지적을 구현 에이전트에 돌려 재검토. 원인이 불명확한 버그나 보안 변경처럼 실수 비용이 큰 작업에 특히 유효
   * 사례: 모바일에서 완료한 작업이 노트북에선 미완료로 보이는 동기화 버그—세 모델이 서로 다른 원인을 제안했고 탐색에서 진짜 충돌 해소 결함이 드러남, 에이전트 하나가 기존 merge 유틸을 재사용해 60줄+테스트로 수정, 병렬 리뷰가 누락된 엣지 케이스(삭제와 완료가 겹치는 경우)와 죽은 코드를 잡아냄. 개발자는 핵심 결정 세 번만 하고 조사·구현·종합은 에이전트가 처리
+* [How to Work and Compound with AI | Eugene Yan](https://eugeneyan.com/writing/working-with-ai/)
+  * [요즘 에이전틱 엔지니어링의 화두는 두 가지라고 생각합니다. Token maxing과 Closed loop | HoYeon Lee](https://kr.linkedin.com/posts/hoyeonleekr_how-to-work-and-compound-with-ai-activity-7464805004021882880-pswS)
+  * Anthropic Technical Staff Eugene Yan의 AI와 일하며 복리를 쌓는 다섯 원칙—①Context as Infrastructure: `~/src`(코드)·`~/vault`(지식)처럼 모델이 찾기 쉽게 파일을 정리하고 프로젝트마다 주석 달린 INDEX.md를 두며 새 세션을 동료 온보딩처럼 대하고 메모리를 사실(`~/vault`)과 설정(`~/.claude`) 두 층으로 분리 ②Taste as Configuration: 선호와 일하는 방식을 CLAUDE.md 행동 계약으로 적되 전역→레포→프로젝트 계층으로, 주 1회 이상 반복되는 작업은 워크플로·판단 논리를 담은 스킬로 ③Verification for Autonomy: post-edit 훅과 결정론적 검사로 검증을 왼쪽으로 옮기고 비싼 평가는 그 뒤에, 모델이 스스로 테스트·수정할 피드백 루프를 주고 긴 세션은 병렬 "페어 프로그래머" 세션으로 실행 드리프트·전략 이탈 감시 ④Scaling via Delegation: 마이크로매니징 대신 성공 기준을 분명히 한 점점 큰 작업을 끝까지 위임하고 병렬 세션으로 병목을 실행에서 명세·리뷰로 옮기며 상태 이모지·소리 같은 관측성으로 여러 세션 관리 ⑤Closing the Loop: 공유 문서로 조직 학습, 과거 트랜스크립트에서 설정 공백 채굴, 겹침·충돌 방지를 위한 정기 리팩터링—사람 팀 협업과 조직 인프라에도 같은 원리
+  * 에이전틱 엔지니어링의 화두 token maxing과 closed loop는 "토큰을 어디에 쏟을 것인가"와 "사람의 손을 어디서 뗄 것인가"라는 같은 질문—계획 단계에 토큰을 쏟는 건 손해일 수 있고(카파시: 생각은 외주화할 수 있어도 이해는 외주화할 수 없다) 의사결정 friction이 품질을 좌우하는 영역엔 뇌의 "신경학적 토큰"을, 모델 토큰은 검증 레이어와 모델이 스스로 실행·고쳐 쓰는 공간에. closed loop는 스킬 몇 개로 굴러가는 게 아니라 recall·재현성이 올라 예측 가능해진 영역만 닫을 수 있으며 ①문제가 충분히 정의되고 ②시행착오로 워크플로 형상이 잡히고 ③사람의 의사결정이 유형화되어 위임 가능해야 함—결국 경계를 매번 다시 그어내는 일. 그 기본이 될 5원칙으로 이 글을 소개
 * [agentic-engineering-handbook: The definitive OpenAI, Claude, MCP, Harness, Evals, and Production Agent Systems learning roadmap](https://github.com/keyuchen21/agentic-engineering-handbook)
   * OpenAI·Anthropic·Google 블로그·엔지니어링 글·SDK 문서·쿡북·논문에 흩어진 에이전트 지식(에이전트 루프·도구 호출·MCP·메모리·장기 워크플로·코딩 에이전트·하네스·평가·안전)을 195개 큐레이션 자료로 묶은 학습 로드맵. Phase 0(에이전트 루프)~6(평가·프로덕션)+7(에이전트 학습·검색 심화)을 단계별 Read First·Then Read·Build Exercise 체크리스트로 진행하고, 코딩 에이전트·보안·코드 리뷰·SRE 응용 트랙과 P0/P1/P2 우선순위 전체 읽기 표 제공. Andrew Ng의 AI Engineering Skills Map을 출발점으로 연결. MIT, 452 stars
 * [awesome-agentic-engineering: Curated resources for adopting agentic engineering — AI agents that plan, write, test, and develop software autonomously](https://github.com/jordimas/awesome-agentic-engineering)
@@ -2615,6 +2629,8 @@ Artificial Intelligence
   * 프롬프트 엔지니어링을 넘어 하네스 엔지니어링으로. 훅·모듈러 아키텍처·런타임 제약으로 워크플로우 강제. 6단계 사고 모델→4단계 단순화, 플러그인 기반 Smith 시스템, Claude/Codex/Cursor 멀티모델 연동
 * [Toby Lee - 클로드 코드는 스스로 하네스 확장 포인트를 제공한다 | Facebook](https://www.facebook.com/tobyilee/posts/10236007503342478/)
   * Claude Code가 스킬·에이전트·훅·플러그인으로 하네스 확장. 유저 레벨 `.claude` 폴더로 직접 확장하는 방법의 한계 논의
+* [이일민 - 클로드 코드를 만든 Boris Cherny가 처음 가졌던 아이디어는 AI에게 도구를 자유롭게 쓰게 해주면 어떻게될까였다 | Facebook](https://www.facebook.com/tobyilee/posts/pfbid02BgRneRht3GShHsrBMqBkTbJMAHGKsTWXKbhFgZguroHkGW6WhVKRriBuXT1zze3Rl)
+  * 에이전틱 코딩의 핵심은 모델이 사용자 환경의 도구를 쓰며 문제를 푸는 것이므로 어떤 도구가 있고 어떻게 쓰이는지부터 살펴보라는 글—Claude Code에 직접 물으면 파일(Read·Write·Edit·Glob·Grep·NotebookEdit)·명령 실행(Bash·KillShell)·에이전트(Task와 Bash·Explore·Plan·general-purpose 서브에이전트, TaskOutput)·웹(WebFetch·WebSearch)·계획(TodoWrite·EnterPlanMode·ExitPlanMode)·사용자 상호작용(AskUserQuestion·Skill) 17개 도구를 알려주고, 도구를 쓸 때 앞에 🥕를 붙여 달라고 하면 어떤 도구가 언제 쓰이는지 보임. 내장 서브에이전트(Bash·Explore·Plan·general-purpose·statusline-setup·claude-code-guide)도 물어보면 알려주며 병렬 실행·백그라운드·resume 가능. 코드 분석은 Explore 서브에이전트를 모듈별로 병렬로 쓰라고 명시 요청하고 AskUserQuestion으로 요구사항을 확인하게 하는 등 도구 특성을 알면 요구를 다듬을 수 있음. Claude Code가 모델에 보내는 request에는 프롬프트와 함께 사용 가능 도구 목록이 전달되는 것이 에이전틱 코딩 도구의 기본 동작이고, Bash는 도구이자 서브에이전트인 것처럼 API 메시지를 분석하면 파라미터 정의도 알 수 있음. 댓글: Codex는 도구가 없으면 Python·Docker로 즉석 도구를 만들어 쓰는데, 내장 도구가 매번 코드로 만드는 것보다 효과적·안정적이고 Codex도 functions.view_image 같은 기본 도구를 가진다는 답
 * [내 AI 에이전트를 완벽한 준마로 만드는 비결: 하네스 엔지니어링 | Sungjin Kim](https://www.linkedin.com/pulse/%EB%82%B4-ai-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EB%A5%BC-%EC%99%84%EB%B2%BD%ED%95%9C-%EC%A4%80%EB%A7%88%EB%A1%9C-%EB%A7%8C%EB%93%9C%EB%8A%94-%EB%B9%84%EA%B2%B0-%ED%95%98%EB%84%A4%EC%8A%A4harness-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81-sungjin-kim-ph-d--zfi8c)
   * 하네스 엔지니어링은 gitignore와 유사한 역할. 무엇을 저장하지 말아야 할지 지정하는 규칙이 없으면 쓸모없는 파일이 쌓여 제대로 사용 불가
 * [Thin Harness, Thick Skills.. The Real Reason for AI Productivity Gaps lucas_flatwhite on X (tweet 2045884392699199975)](https://x.com/lucas_flatwhite/status/2045884392699199975)
@@ -4779,6 +4795,8 @@ Artificial Intelligence
   * 파편화·운영 복잡 산업일수록 버티컬 AI의 방어벽 구축에 유리. 규제·레거시·예외 처리 얽힌 워크플로 침투가 핵심
 * [AI 에이전트가 우리 프로덕션 데이터베이스를 삭제했다 | GeekNews](https://news.hada.io/topic?id=28927)
   * Railway GraphQL volumeDelete 한 호출로 프로덕션 DB+볼륨 백업 동시 삭제. staging 작업 중 credential mismatch 처리하려다 9초 만에 파괴. API 토큰이 무관한 파일에서 노출된 것이 원인
+  * [AI 에이전트가 9초 만에 DB를 날렸다…CIO, 통제권을 되찾을 수 있을까 | Greg Noone, CIO](https://www.cio.com/article/4214477)
+    * 이 PocketOS 사건(Claude Opus 4.6 기반 에이전트가 인증 오류를 풀려다 9초 만에 운영 DB와 수개월치 백업 삭제)으로 시작해 에이전트가 안전장치를 우회하고 이메일 시스템까지 파괴하려 한 사례들을 들며, 속도와 동시 접근 때문에 기존 보안 위협과 다른 리스크가 생겼다고 진단. CIO의 역할은 인프라 계획에서 신뢰·책임·AI 거버넌스 관리로 옮겨가는데(Gartner: 에이전틱 AI 도입 기업의 최대 40%가 현재 안전장치가 충분한지 의문) 정적 정책·연간 검토·분산된 감독으로는 부족—작업 중요도에 따른 계층적 권한, 명확한 RACI와 부서별 거버넌스 위원회, 모든 AI 행동의 필수 감사 추적, 우회를 막는 구체성과 유연성의 균형, 기술 통제와 교육·멘토링의 결합을 권고
 * [문규민 - AI와 관련하여 시뮬레이션은 구현이 아니다 | Facebook](https://www.facebook.com/share/14dFp1z63D6/)
   * AI 시뮬레이션 vs 구현 논쟁. "시뮬레이션이 충분히 정교해지면 구현이다"라는 반론에 대한 철학적 검토
 * [AI와 협업하는 조직으로의 여정 | Arawn Park](https://speakerdeck.com/arawn/aiwa-hyeobeobhaneun-jojigeuroyi-yeojeong)
