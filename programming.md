@@ -10003,6 +10003,8 @@ Programming
   * Bug Bash EU 2026(Antithesis 주최) 라이트닝 토크, Fly.io Staff Software Engineer. 원제 "Separating Protocol Logic from I/O for Deterministic Testing"—프로토콜 로직을 주변 I/O와 분리해 두면 결정론적으로 테스트할 수 있다는 내용. 2026-10-30 최초 공개 예정 시점에 북마크(자막 미확인)
 * [Formal Methods & AI for Reliable Databases • Anatoliy Bilenko & Alberto Carretero • Bug Bash EU 2026 | GOTO Conferences - YouTube](https://www.youtube.com/watch?v=ds9np_fgI-U)
   * Bug Bash EU 2026(Antithesis 주최), Canonical의 Staff Engineer·Software Engineer. 원제 "Building a Reliable Database Protocol with AI, Formal Methods, and a Simulation Framework"—2026년에 중요한 분산 프로토콜을 만든다는 것은 정확성을 마지막 검증 단계가 아니라 지속적인 엔지니어링 실천으로 다루는 일이라는 전제에서, 실행 가능한 상태 기계 설계와 형식 기법을 AI 보조 개발·관측성·Antithesis 테스트와 결합한 워크플로를 제시. 목표는 프로토콜 모델에서 실제 시스템 실행의 증거로 나아가는 것—의미 있는 이벤트를 노출하고, 실패 시나리오를 생성·조사하며, 코드만으로는 드러나지 않는 분산 속성을 코드와 관측 데이터를 함께 써서 검증
+* [From Unit Tests to Synthetic Canaries at Netflix • William Schor • Bug Bash EU 2026 | GOTO Conferences - YouTube](https://www.youtube.com/watch?v=gINXSCYTC0A)
+  * Bug Bash EU 2026(Antithesis 주최) 라이트닝 토크, Netflix의 온라인 데이터 스토어·분산 데이터 시스템을 맡는 Senior Software Engineer. 원제 "From unit tests to synthetic canaries: Implementation-Agnostic Testing at Netflix"—단위 테스트부터 합성 카나리까지, 밑단 구현이 무엇이든 그와 독립적으로 시스템을 검증하는 Netflix의 구현 불가지론적(implementation-agnostic) 테스트 방식
 * [2402.11048 Towards identifying and minimizing customer-facing documentation debt](https://arxiv.org/abs/2402.11048)
   * documentation-related defects contribute to many bug reports -> documentation debt
   * documentation defects
@@ -10523,6 +10525,9 @@ Programming
 * [FEConf 2024 A5 아�니 이 글자 왜 들어간거에요? (부제: 알아두면 가끔 쓸모있는 한글 유니코드 완전 정복) - YouTube](https://www.youtube.com/watch?v=RAOIUP4BJog)
   * [아�니 이 글자 왜 들어간 거예요? (1) | 요즘IT](https://yozm.wishket.com/magazine/detail/2836/)
   * [아�니 이 글자 왜 들어간 거예요? (2) | 요즘IT](https://yozm.wishket.com/magazine/detail/2837/)
+* [유니코드+한글 관련 책, 스탠포드 A 자료 도착 이후 수정본 (프롤로그, 1장) | 따끈君, 다모앙](https://damoang.net/free/7230018)
+  * [책 초고 전체 공개 원글 — 가칭 "한글은 어떻게 유니코드를 뒤집어 놓았나 — '가'가 U+AC00이 되기까지"](https://damoang.net/free/7110583)
+  * 다모앙에 초고 전체를 공개한 책의 수정본 연재(2·3장, 4·5장, 6장, 7장, 8·9장, 10장·에필로그가 각각 별도 글로 링크)—스탠퍼드대에 요청한 중요도 A급 자료가 도착해 책이 크게 뒤집혔다며 본문을 통으로 다시 공개(각주 생략, 출간되면 삭제 예정). 프롤로그 "삭제된 6,656자의 한글": 1996년 7월 유니코드 2.0에서 전판에 실려 있던 한글 음절 6,656자가 통째로 지워지고 전혀 다른 자리에 11,172자가 다시 지어진 사건—"한 번 실린 글자는 지우지도 옮기지도 않는다"는 문자 표준의 원칙이 30년 넘는 유니코드 역사에서 단서 없이 무너진 단 한 번이고, 그래서 '가'의 주소는 처음의 U+3400이 아니라 지금의 U+AC00이 되었다는 이야기로 시작
 * convmv
   * [convert between NFC and NFD Unicode normalization (e.g. for Korean)](https://gist.github.com/kjoonlee/326b8f42e39bcc045e9932fef5511031)
   * [macOS: convmv 를 사용한 유니코드 문제(풀어쓰기) 해결(?) – 바깥 세상으로](https://www.nemonein.xyz/2019/03/1850/)
