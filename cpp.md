@@ -267,6 +267,9 @@ C++
 * [CppIndia Async in C++ by Oliver Esser - YouTube](https://www.youtube.com/watch?v=MFpWGC7AAO0)
 * [Asynchronous I/O and Coroutines for Smooth Data Streaming - Björn Fahller - ACCU 2022 - YouTube](https://www.youtube.com/watch?v=54oGgmMAUNk)
 * [The downsides of C++ Coroutines | reductor’s blog](https://reductor.dev/cpp/2023/08/10/the-downsides-of-coroutines.html)
+* [Fiber in C++: Understanding the Basics | A Graphics Guy's Note](https://agraphicsguynotes.com/posts/fiber_in_cpp_understanding_the_basics/)
+  * Jiayin Cao의 장문 글. OS가 스케줄링하는 선점형 멀티태스킹은 불필요한 컨텍스트 스위치로 자원을 낭비하므로, 게임 잡 시스템처럼 작업 전환이 잦은 곳에서는 프로그래머가 스케줄링을 쥐는 협력형 멀티태스킹의 단위인 파이버가 유리하다는 논지—파이버 전환은 저장해 둔 컨텍스트와 레지스터를 맞바꾸는 것뿐이라 스레드 전환보다 훨씬 싸고, 스택 메모리를 직접 할당·제어하며, C++20 코루틴과 달리 어떤 호출 깊이에서든 yield할 수 있는 stackful이고 파이버 간 대칭 전환이 가능. x64(System V ABI)·ARM64 어셈블리로 레지스터와 호출 규약, 스택·명령 포인터를 다루며 컨텍스트 스위치·파이버 생성·스레드→파이버 변환을 구현(gist 코드 제공)
+  * 함정: 파이버 스택 위의 스마트 포인터는 보장을 잃어 누수 위험, 파이버가 끝날 때 소멸자가 제대로 안 돌 수 있음, 파이버가 스레드를 넘나들면 thread-local storage가 안전하지 않고 컴파일러의 TLS 캐싱 최적화가 값을 어긋나게 할 수 있음, 블로킹 I/O 호출 하나가 그 스레드에 예약된 모든 파이버를 멈춤
 * [eznetpp - This is an asynchronous network library for C++ programmers](https://github.com/kangic/eznetpp)
 * [MozPromise: A Better Tool for Asynchronous C++](http://bholley.net/blog/2015/mozpromise.html)
 
