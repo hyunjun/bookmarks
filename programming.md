@@ -84,6 +84,9 @@ Programming
 * [A Complete Learning Path to Becoming a Backend Developer | Boot.dev](https://blog.boot.dev/backend/become-backend-developer/)
 * [66.(요약) 개발자 분류와 공부해야 하는 기술](https://brunch.co.kr/@topasvga/1382)
 * [백엔드 개발자를 꿈꾸는 학생개발자에게](https://d2.naver.com/news/3435170)
+  * [AI 시대의 개발자를 꿈꾸는 학생 개발자에게 | NAVER D2](https://d2.naver.com/helloworld/1975819)
+    * 2018년 글의 8년 뒤 후속편—2025년 말 설문으로 받은 학생 개발자 질문에 답하되 "목적지가 명확한 안내서보다 격변기의 스냅샷"으로 봐 달라는 글. 핵심 진단: 1989년 이후 코딩에 가장 큰 변화가 왔고 이제 조직의 말단 작업자는 AI, 모든 개발자는 AI 팀의 관리자—다수의 작업자에게 목표·배경·가치·평가 기준을 제시하고, 정보 탐색 비용을 줄이고(참조 정보 위치), 장점·과금 수준을 고려해 역할을 분배하며 컨텍스트가 과도하게 넓어지지 않게 하고, 빠른 피드백 사이클을 만드는 일. 여러 메신저 창을 오가는 관리자나 유닛에 쉴 틈 없이 지시하는 프로게이머에 비유되는 멀티태스킹, 에이전트가 막힘없이 일하도록 연결 체계·권한·아키텍처·워크플로를 설계하는 일(모듈 경계가 분명하면 고칠 범위를 좁게 잡고 흐리면 코드를 복제)이 핵심 업무로. 리더·아키텍트 역할까지 AI가 가져가면 사람은 조직 수준의 투자·리스크 결정으로 "한 번 더 승진", 종량제 비중이 커지며 프롬프트 한 번의 부가가치에도 신경 쓰게 됨. 코드를 아는 개발자는 마이크로매니징과 큰 위임 사이를 현미경·망원경처럼 오갈 수 있음
+    * AI에게 맡겨도 되는 것과 직접 해야 하는 것: 사람만이 책임을 질 수 있으므로 "개발자"는 민감한 시스템의 운영 배포를 승인하는 사람이라는 의미가 가장 커지고 검증 장치(코드 리뷰·테스트 자동화)가 더 중요해짐. 검증도 1차로 AI에 맡기는 흐름이지만 큰 책임이 따르는 소프트웨어일수록 사람이 코드를 볼 가치가 큼—LLM 결과는 확률 분포를 따르고 피드백 루프는 개발 환경 안에서 돌아 트래픽·데이터 용량·실행 경로가 다른 운영 환경의 성능 지연·메모리 초과·데이터 오염을 보장 못 함(수억 원 배치 잡을 완벽하다 가정하고 배포하는 건 기댓값 마이너스인 도박). 보안은 AI가 공격자의 무기이기도 해 의존성 취약점 점검·정적 분석·보안 AI 리뷰의 다층 검증과 신속 대응 체계 필요. 어디까지 볼지는 시스템·모듈·단계에 따라—Anthropic의 PR 위험도 3단계 분류(저위험은 자동 리뷰·보안 검사만, 보통은 1명, 고위험은 2명 승인, 결제·자동 업데이트·CI는 무조건 사람, 에이전트 승인은 사람 승인으로 인정 안 함)처럼 세밀한 승인 정책과 사람이 볼 코드를 별도 모듈·저장소로 분리하는 설계 패턴 전망
 * [Learn about software project development teams and roadmap to become backend developer | by Sofikul Mallick | Aug, 2022 | Medium](https://medium.com/@sofikul.m/learn-about-software-project-development-teams-and-roadmap-to-become-backend-developer-7bad8b26bbfd)
 * [Challenging projects every programmer should try](http://web.eecs.utk.edu/~azh/blog/challengingprojects.html)
 * [More challenging projects every programmer should try - Austin Z. Henley](https://web.eecs.utk.edu/~azh/blog/morechallengingprojects.html)
@@ -9998,6 +10001,8 @@ Programming
   * 포프TV. "테스트 실패"·"값이 다름" 같은 메시지로는 못 고침—문제는 개발자가 아니라 구조. POCU는 실패 메시지를 문자열로 못 받게 막고 IStringProvider+MSG() 구조로 강제해 실패 이유를 정형화. "사람을 믿지 말고 시스템으로 해결"하는 설계
 * [Separate Protocol Logic from I/O for Deterministic Tests • Somtochi Onyekwere • Bug Bash EU 2026 | GOTO Conferences - YouTube](https://www.youtube.com/watch?v=DhmcJK2nCK0)
   * Bug Bash EU 2026(Antithesis 주최) 라이트닝 토크, Fly.io Staff Software Engineer. 원제 "Separating Protocol Logic from I/O for Deterministic Testing"—프로토콜 로직을 주변 I/O와 분리해 두면 결정론적으로 테스트할 수 있다는 내용. 2026-10-30 최초 공개 예정 시점에 북마크(자막 미확인)
+* [Formal Methods & AI for Reliable Databases • Anatoliy Bilenko & Alberto Carretero • Bug Bash EU 2026 | GOTO Conferences - YouTube](https://www.youtube.com/watch?v=ds9np_fgI-U)
+  * Bug Bash EU 2026(Antithesis 주최), Canonical의 Staff Engineer·Software Engineer. 원제 "Building a Reliable Database Protocol with AI, Formal Methods, and a Simulation Framework"—2026년에 중요한 분산 프로토콜을 만든다는 것은 정확성을 마지막 검증 단계가 아니라 지속적인 엔지니어링 실천으로 다루는 일이라는 전제에서, 실행 가능한 상태 기계 설계와 형식 기법을 AI 보조 개발·관측성·Antithesis 테스트와 결합한 워크플로를 제시. 목표는 프로토콜 모델에서 실제 시스템 실행의 증거로 나아가는 것—의미 있는 이벤트를 노출하고, 실패 시나리오를 생성·조사하며, 코드만으로는 드러나지 않는 분산 속성을 코드와 관측 데이터를 함께 써서 검증
 * [2402.11048 Towards identifying and minimizing customer-facing documentation debt](https://arxiv.org/abs/2402.11048)
   * documentation-related defects contribute to many bug reports -> documentation debt
   * documentation defects
