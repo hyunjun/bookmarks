@@ -1290,6 +1290,8 @@ Artificial Intelligence
   * [UI-TARS-desktop: The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra](https://github.com/bytedance/UI-TARS-desktop)
   * [GUI Agent와 Vision을 터미널, 컴퓨터, 브라우저에 통합해주는 멀티모달 AI Agent 스택을 오픈소스로 공개 | HaYeJin Kang](https://www.linkedin.com/posts/h4y3j1n_bytedance-tiktok-snyuiosqsswm-activity-7416618742526201856-wNFN)
 * [agents-towards-production: This repository delivers end-to-end, code-first tutorials covering every layer of production-grade GenAI agents, guiding you from spark to scale with proven patterns and reusable blueprints for real-world launches](https://github.com/NirDiamant/agents-towards-production)
+* [Agent Use Cases: what people are actually doing with AI agents](https://agentusecases.ai/)
+  * 오픈 웹·X·Reddit·Hacker News를 매일 스캔해 사람들이 AI 에이전트로 실제로 하는 일을 모은 사례 저장소(Vibe Coding Academy의 Alex Finn)—1,777건(주당 약 200건 추가), 에이전트별(Claude Code 238·Claude 140·Grok Bot 120·OpenClaw 95 등 28종)과 카테고리별(업무·운영 308, 소프트웨어·DevOps 307, 영업·마케팅·지원 237, 생활 행정·집 227, 돈·청구·복지 135, 리서치·지식 122, 여행·예약 117, 콘텐츠·창작 114, 쇼핑·심부름 112, 게임·시뮬레이션 58, 보안·과학·하드웨어 40) 탐색, 매일 아침 사례 5개를 보내는 뉴스레터
 * [agent-workflow-memory: AWM: Agent Workflow Memory](https://github.com/zorazrw/agent-workflow-memory)
 * [Agent Zero AI: Open Source Agentic Framework & Computer Assistant](https://www.agent-zero.ai/)
   * [spynel: One chat, unlimited AI orchestration](https://github.com/agent0ai/spynel)
