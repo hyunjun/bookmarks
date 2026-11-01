@@ -502,6 +502,10 @@ C
 * Rake
   * [Input fields in rake task](http://aross.se/2014/09/21/input-fields-in-rake-task.html)
   * [Using GCC for Automatic C-Language Dependency Management with Rake](http://www.electronvector.com/blog/using-gcc-for-automatic-c-language-dependency-management-with-rake)
+* [Raven: A lightweight, multithreaded GUI library in C for editors and tools. For C, Rust, C++, C#, Python, Zig, Lua, Go | oscar-soirey](https://github.com/oscar-soirey/Raven)
+  * [Raven manual: Guide](https://oscar-soirey.github.io/Raven/)
+  * [Raven - An Open Source Modern GUI Library Built with C & Vulkan | Oscar Soirey - YouTube](https://www.youtube.com/watch?v=woRba5SXxKg)
+  * 에디터·도구용 C11 GUI 라이브러리—Windows·Linux(X11)·macOS 네이티브 창을 Vulkan(macOS는 MoltenVK)으로 그리고, Slate식 레이아웃, XML 또는 코드로 쓰는 인터페이스(실행 중 XML을 저장하면 창이 따라 바뀌는 라이브 리로드), 코드 텍스트 에디터, 도킹, 글래스 머티리얼, 번역, 접근성, C++·Python·Rust·Go·C#·Zig·LuaJIT 바인딩. 보존형 트리라 바뀐 부분만 다시 그리며, 링크 의존성 없음(CMake 3.16+·C11, Vulkan 헤더는 설정 시 자동 다운로드). 폴더의 인터페이스를 폰·데스크톱 크기와 테마·언어별로 보며 만드는 `raven_designer`(컴파일 없음)와 테마 에디터 동봉, 매뉴얼에 Qt 6·Clay·Dear ImGui와의 비교표. 0.1 단계라 공개 API는 1.0 전까지 바뀔 수 있음. 영상은 0.1.3 기준 1분 반 소개. Apache-2.0, 1.5k stars
 * [RC is a dialect of C that adds safe, region-based memory management to C](http://www.barnowl.org/research/rc/)
 * [rdrview: Firefox Reader View as a command line tool](https://github.com/eafer/rdrview)
 * [Recur is a collection of Gstreamer plugins based on recurrent neural networks, along with a character level language modeller](https://github.com/douglasbagnall/recur)
