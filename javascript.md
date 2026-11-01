@@ -544,6 +544,9 @@ Javascript
 * [카카오웹툰은 하드웨어 가속과 IntersectionObserver를 어떻게 사용했을까? | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2021/211202-gpu-intersection-observer/)
 * [아직도 이 API 모르셨다고요? 개발자 인생 꿀템 소개! - YouTube](https://www.youtube.com/watch?v=iZhq7I42uaI) IntersectionObserver
 * [Online VS Code IDE for Angular & React](https://stackblitz.com/)
+* [LiveCodes — A Code Playground That Just Works!](https://livecodes.io)
+  * [livecodes: A Code Playground That Just Works! | live-codes](https://github.com/live-codes/livecodes)
+  * 서버 없이 브라우저 클라이언트에서 돌아가는 오픈소스 코드 플레이그라운드—React·Vue·Svelte·Solid·TypeScript·Python·Go·Ruby·PHP 등 90개+ 언어·프레임워크, npm 패키지(`livecodes`)로 임베드·SDK 제공, llms.txt 문서. TypeScript, MIT, 1.5k stars
 * [JavaScript는 잘못이 없다 정말로](https://medium.com/@pitzcarraldo/javascript%EB%8A%94-%EC%9E%98%EB%AA%BB%EC%9D%B4-%EC%97%86%EB%8B%A4-%EC%A0%95%EB%A7%90%EB%A1%9C-fb9b8e033b10?refer=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4)
 * [메모리 크래시가 일어나는 과정](http://hacks.mozilla.or.kr/2017/11/a-crash-course-in-memory-management/)
 * [자바스크립트의 메모리관리](https://developer.mozilla.org/ko/docs/Web/JavaScript/Memory_Management)
