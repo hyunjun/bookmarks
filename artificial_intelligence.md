@@ -1737,6 +1737,12 @@ Artificial Intelligence
   * 커뮤니티가 만든 바로 쓰는 AI 에이전트 컬렉션—브라우저 기반 BYOK(자기 API 키 지참) 모델로 OpenAI·Anthropic·Gemini·OpenRouter를 지원하고, 키는 브라우저에서 직접 호출하거나 옵트인 서버측 암호화로만 다룸. Battle Mode(여러 프로바이더 응답 나란히 비교), Workflow Builder(에이전트 체이닝, Supabase 필요), 스케줄 자동화(시간/일/주 단위 반복 실행+암호화 키 저장+이메일 알림). 에이전트 추가가 3단계로 정리된 기여자 친화 구조(GSSoC 2026 참여 프로젝트). React 18+Vite+Tailwind, MIT, 125 stars
 * [In-Memoria: Persistent Intelligence Infrastructure for AI Agents | pi22by7](https://github.com/pi22by7/In-Memoria/)
   * 세션마다 아키텍처·패턴·컨벤션을 다시 설명해야 하는 AI 코딩 도구의 "세션 기억상실"을 해결하는 MCP 서버—실제 코드베이스를 학습해 세션을 넘어 기억하고, 즉각적인 컨텍스트 제공과 기능→파일 라우팅을 수행(Claude·Copilot·Cursor와 동작). npm `in-memoria`. Rust, MIT
+* [infinity: An agent runtime and tool protocol for principled agent concurrency | hydro-project](https://github.com/hydro-project/infinity)
+  * [Introducing Infinity: a runtime for extreme agent concurrency | AWS Open Source Blog](https://aws.amazon.com/blogs/opensource/introducing-infinity-a-runtime-for-extreme-agent-concurrency/)
+  * [Amazon built a new AI agent runtime in Rust | Let's Get Rusty - YouTube](https://www.youtube.com/watch?v=os5eNeAVRpc)
+    * 대기 중인 에이전트가 프로세스를 붙들고 자원을 낭비하는 문제→툴 호출에 비동기성 도입, 실행 슬라이스와 내구성 있는 대화 상태, Rust async/await 모델과의 연결, 메시지와 synthetic tool call, AWS Lambda로 scale-to-zero까지 Rust 관점 해설
+  * Shadaj Laddad(2026-10-23), AWS×UC Berkeley Hydro 프로젝트의 연구 릴리스(Apache-2.0, Rust, 578 stars). 코딩 에이전트는 20분짜리 빌드를, 트리아지 에이전트는 다음 PR을 몇 시간씩, 어시스턴트는 다음 날 아침 승인을 기다리는데 대부분의 하네스는 모델 호출→툴 호출→대기→반복의 블로킹 루프라 대기 중에도 프로세스·메모리를 점유하고 그 사이 이벤트에 반응하지 못함. Infinity는 언어가 비동기 함수를 중단·재개하는 기법(Rust async fn의 stackless coroutine—스택 전체가 아닌 재개에 필요한 상태만 저장)을 에이전트에 적용—툴 호출 시 디스패치하고 대화를 저장한 뒤 에이전트를 중단, 결과가 오면 저장 상태에서 재개
+  * 결과: Raspberry Pi 5의 8GB에 동시 에이전트 75,000개, 서버리스에서 툴 호출 중엔 함수가 종료되므로 호출이 며칠 걸려도 대기 중 아무것도 돌지 않음. 기존 모델에 비동기 이벤트를 전달하는 synthetic tool call과 이를 이용한 에이전트 간 통신(Reactive Agent Protocol), 열린 질문들. 초기 연구 릴리스로 피드백 수집 목적
 * [InsForge — The all-in-one, open-source backend platform for agentic coding](https://insforge.dev/)
   * [InsForge: gives your coding agent database, auth, storage, compute, hosting, and AI gateway to ship full-stack apps end-to-end](https://github.com/InsForge/InsForge)
   * 코딩 에이전트가 백엔드 엔지니어처럼 백엔드를 다루게 하는 플랫폼(TypeScript, Apache-2.0, 13.3k stars)—MCP 서버(셀프호스트·클라우드)로 운영을 도구로 노출하거나 CLI+Skills(클라우드)로 터미널에서 직접 호출. 에이전트가 문서·스키마·메타데이터(배포된 함수·버킷·인증 설정)·런타임 로그를 읽어 코드를 쓰고 검증·디버깅하며, 엣지 함수 배포·DB 마이그레이션·스토리지 버킷·인증 공급자 설정 같은 프리미티브를 직접 구성. DB·인증·스토리지·컴퓨트·호스팅·AI 게이트웨이를 한 묶음으로
