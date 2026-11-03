@@ -591,6 +591,8 @@ Artificial Intelligence
     * Rensin 글을 바탕으로 Claude Code·Codex(베타)·Gemini CLI(베타)용으로 만든 커뮤니티 워크플로—각 도구에서 `gh api`로 BOOTSTRAP.md를 받아 설치하면 `/eg-…`(Claude)·`$eg…`(Codex) 명령 세트가 생김. "코드 써 줘"에서 "내가 놓친 걸 생각하고, 두 번째 의견을 구하고, 협업한 뒤 쓰고 테스트하라"로 파이프라인을 바꾸는 대신 토큰 소모와 시간이 늘어난다고 경고. MIT
   * [EGM: Google's New Way To Use Claude Code Is Insane | AI LABS - YouTube](https://www.youtube.com/watch?v=xxf6D9jynFw)
     * Google의 spec-driven development 판인 EGM을 설치해 자기 앱의 새 기능에 적용—에이전트가 만들기 전에 계획을 먼저 찢어 보게 하는 구조로, 컨텍스트 0인 Goldfish 에이전트들이 계획을 리뷰해 기존 리뷰가 놓친 실제 버그를 잡아낸 과정. 결과물은 계획만이 아니라 무엇을 만들고 어떻게 테스트할지의 체크리스트까지
+  * [Google's FREE Elephant Goldfish AI Agents! | Julian Goldie SEO - YouTube](https://www.youtube.com/watch?v=fo9fyl-xJQM)
+    * 같은 프롬프트·같은 AI로 다섯 가지(3D 웹사이트, 인스타그램 캐러셀, 광고 9종, 프로모 영상, 리드 생성 에이전트)를 EGM 없이/있이 나란히 제작—유일한 차이는 컨텍스트 없는 Goldfish 리뷰어 팀이 계획을 먼저 찢어 본 것("멀쩡해 보이던 계획 vs 리뷰어 4명"). "당신의 청중도 금붕어"라는 마케팅 관점의 Goldfish Audience Check 스킬 응용. 설치: `claude plugin marketplace add google/elephant-goldfish-model` → `claude plugin install egm@egm`. 유료 커뮤니티 홍보 포함
   * Google 엔지니어링 디렉터 Dave Rensin이 2026-04에 쓴 27분 분량 에세이(Google Research 출판물로도 등재)—지난 1년간 팀이 AI 코딩 도구로 일한 기록. Part 1 "장난감이 아니라 도구": 한 프롬프트로 다 시키는 대신(차 구매 리서치 예—연구자가 아니라 **심문자**로 쓰라) 가정을 묻고 채점 기준을 정하고 대화로 이끌되 최종 판단은 사람. Part 2 **Elephant-Goldfish Model**: AI가 사람이 읽을 수 있는 양보다 많은 코드를 만들수록 설계 문서가 코드보다 중요해지므로, 모든 배경과 결정을 담은 긴 세션(Elephant)에서 코드 전에 상세 설계 문서를 쓰고, 기억이 없는 새 세션(Goldfish)에게 그 문서만 읽혀 이해하지 못하면 문서를 보강—Goldfish가 이해할 만큼 명확해진 뒤에만 그 지시대로 코드 작성. Part 3 일반 직원이 관리자처럼 AI를 다루게 되는 미래. AI-DLC처럼 Inception(설계)→Construction을 명세로 잇는 spec-driven 계열
 * [이길환 - 제목: MCP, RAG, AI 에이전트, 대체 뭐가 다를까?…'계층'으로 이해해야 쉬운 AI 기술 트리오... | Facebook](https://www.facebook.com/weaikorea/posts/pfbid02tGCNoydznP3sSJREX76d7gp7C9Hy1f5twwam7FQcfmAray5sCg2QngBU2nkkdqvvl)
 * [The future of software engineering is SRE | Swizec Teller](https://swizec.com/blog/the-future-of-software-engineering-is-sre/)
@@ -6612,6 +6614,10 @@ Artificial Intelligence
 * [에이전틱 AI 프로덕트를 만들다 보면, 공학의 한가운데서 오래된 인문학의 질문들을 자주 마주친다 | Josh Lee](https://www.linkedin.com/posts/josh-lee-76b99833_%EC%97%90%EC%9D%B4%EC%A0%84%ED%8B%B1-ai-%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8%EB%A5%BC-%EB%A7%8C%EB%93%A4%EB%8B%A4-%EB%B3%B4%EB%A9%B4-%EA%B3%B5%ED%95%99%EC%9D%98-%ED%95%9C%EA%B0%80%EC%9A%B4%EB%8D%B0%EC%84%9C-%EC%98%A4%EB%9E%98%EB%90%9C-%EC%9D%B8%EB%AC%B8%ED%95%99%EC%9D%98-share-7519607536216518656-sjcv)
   * 도메인 레졸루션은 "의미는 누가 정의하고, 사실은 누가 확정하며, 실행의 정당성은 누가 보장하는가"에 답하는 과정—부서마다 다른 어휘(비트겐슈타인, 의미와 사용), "승인합니다"의 효력은 누가 어떤 권한으로 말했느냐에 달림(오스틴, 언어행위론), AI가 "심사 완료"라 판단한 것은 추정인가 확정된 업무 상태인가(인식론). 사람 사이에선 조직 문화·암묵지로 풀던 것을 에이전트가 업무를 대리하면 기계가 집행할 명시적 계약으로 바꿔야 함
   * 신뢰는 100% 정확한 판단이 아니라 거버넌스 설계에서 나온다—AWB(에이전틱 월드 부트캠프) 1기 비개발자 참가자가 업무 단위·절차·통제사항을 먼저 정의하고 자기 하네스를 만들어 SOPbench·FDE-Gym·τ-bench로 검증한 결과 "판단은 확률적이라 100%는 아니지만 통제 쪽은 100%, 심각한 오류는 모두 방지". 판단은 확률적으로, 실행은 결정론적으로(Superwork OS 뉴로심볼릭 실행 아키텍처). 단, 원시 데이터·policy_id를 화면에 늘어놓는 "불편하게 솔직한 제품"은 좋은 UX가 아님—"1천만 원 이상 지출은 본부장 승인 필요" 한 줄이면 충분
+* [Josh Lee - 코딩 에이전트는 '세션'을 관리한다. 하지만 실제 프로젝트는 '상태'로 굴러간다 — 에이전틱 월드 부트캠프(AWB) 2기를 마치며 | Facebook](https://www.facebook.com/JoshatSwit/posts/pfbid0WCWUFws6dEcGYpNyzizxCMFk7gyP1RGUfQZ3PQFe6Ayn7rPQWZ8vUCvnaiiA2Tpfl)
+  * [Agentic World Bootcamp](https://agentic-world-bootcamp.netlify.app/)
+  * 삼성전자 DS·LG에너지솔루션·LG전자·Google YouTube·LG U+·메가존·더존 등에서 AX를 맡은 엔지니어 12명+전략·마케팅·커머스 3명, 이틀 14시간. SCM·S&OP·Coding 등 월드 모델 4개로 여러 에이전트가 하나의 공유 세계에서 협업하고 산출물을 이어받으며 상태·제약에 따라 행동하는 사례. 1일차: 자연어 업무에서 엔티티를 발굴하는 Entity Mining과 그것이 무엇을 가리키는지 확정하는 Semantic Resolution—온톨로지에 상태·전이·제약을 결합하면 실행 가능한 구조가 되고, UML·BPMN·ERD가 표현해 온 것을 에이전트 행동을 판정하고 상태를 바꾸는 실행 계약(Execution Contract)까지 연결. 지식 그래프·온톨로지·상태기계·규칙 엔진·워크플로가 하나의 실행 세계로 재결합
+  * 2일차: 세계에 동역학을 부여하고 Runtime이 행동을 판정·커밋—AI가 무엇을 제안하든 World가 현재 상태·권한·역할·정책으로 실행 가능성을 판단(AI가 실수하지 않는다는 믿음이 아니라 잘못된 제안이 조직의 사고로 이어지지 않게 세계를 설계). Coding World 시연: Claude Code·Codex에 월드 모델을 씌우면—①지시가 아니라 규칙으로(아키텍처 결정·불변식이 World 제약이라 위반 변경은 커밋 불가) ②세션이 아니라 상태로(진행·의존성·산출물·검토·의사결정이 공유 세계에 쌓여 무엇이 끝나고 막혔는지 보임, 근거 없는 일정은 만들지 않음) ③모델이 바뀌어도 세계는 남음(Builder·Tester·Reviewer 역할별 다른 모델). 에이전트 협업의 핵심은 긴 대화 기록 공유가 아니라 Agent→Artifact→World→Next Agent. 3기는 12월 10·17일
 * [AI를 활용한 프로그래밍 역량을 높이는 방법 | GeekNews](https://news.hada.io/topic?id=25060)
 * [AI 보조 코딩, 생산성을 높였을까? 해커뉴스가 말하는 2026년 3월의 현실](https://digitalbourgeois.tistory.com/2887)
 * [이보라 - 실패 없이 AI 코딩을 도입하는 7가지 조직 원칙 지난 16일 DevMentor가 주최한「기업의 바이브... | Facebook](https://www.facebook.com/learner.bora/posts/pfbid02x3ncsNiRSr1sxvmVHiSHXAYM354oy8FXYK6mMBYxh7bN33tqLTN6JuRRBZKCPit2l)
@@ -7395,6 +7401,11 @@ Artificial Intelligence
   * [Balanced Coupling — A Practical Framework for Managing Coupling in Software Design](https://coupling.dev/)
     * [modularity: Claude Code plugin for designing modular systems from functional requirements](https://github.com/vladikk/modularity)
     * 통합 강도·거리·변동성 3차원으로 커플링 평가해 모듈성 향상시키는 프레임워크. Claude Code 플러그인으로 Balanced Coupling 기반 분석 제공
+  * [BAMA — Build Any Mac App. Agent skills to research, clone, design, build, optimize, and test native macOS apps with Swift and SwiftUI | daveebbelaar](https://github.com/daveebbelaar/bama)
+    * [This Free Repo Lets Claude Code Build Any Mac App | Dave Ebbelaar - YouTube](https://www.youtube.com/watch?v=gN6wl-OX8-Q)
+      * 매일 쓰는 Mac 앱들을 Claude Code로 자기만의 네이티브 macOS 앱으로 다시 만든 과정—앱 10개를 대체하는 메뉴 바 도구 Onyx, 자체 투두 앱, 이 영상을 녹화·편집·내보낸 앱까지. 설치, 작동 방식, Onyx에 새 기능 추가 시연, 디자인·성능·아키텍처 팁과 "에이전트가 쓸 수 있는 CLI를 앱에 달아 두라"는 조언
+    * [BAWA — Build Any Windows App | daveebbelaar](https://github.com/daveebbelaar/bawa)
+    * 좋아하는 앱을 보고 네이티브 Mac 앱으로 다시 만드는 에이전트 스킬 세트(Swift·SwiftUI, 로컬 데이터, Xcode GUI 없이; Swift, MIT, 1.4k stars). `npx skills@latest add daveebbelaar/bama` 또는 Claude Code·Codex 플러그인 마켓플레이스로 설치, 막히면 `/bama`가 프로젝트를 보고 다음 스킬을 고름. 흐름: ①Clone—에이전트가 대상 앱을 열어 모든 화면을 스크린샷하고 화면 인덱스 작성(네이티브 앱은 computer use 필요) ②Plan—화면을 체크 가능한 인수 조건이 달린 사용자 스토리·마일스톤으로 ③Build—스토리당 커밋 하나, 커밋 전마다 라이트/다크 모드 스냅샷과 테스트. specs/에 윈도 스내퍼·스위처·런처·클립보드 히스토리·스크린샷·화면 녹화 등 Onyx를 해체한 소형 앱 빌드 계획 12개. macOS 26·Xcode 26(Swift 6.2 툴체인) 필요, Claude Code·Codex·Cursor·Gemini CLI 지원
   * [Bright Data Plugin for Claude Code](https://github.com/brightdata/skills)
     * [GitHub - brightdata/skills | 박상길](https://www.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_github-brightdataskills-share-7455723365484453888-6nXa)
     * Claude Code용 Bright Data 웹 인프라 통합 플러그인. 13개 스킬로 웹페이지→마크다운 스크래핑, Google 검색 구조화, 40+ 사이트 데이터 추출, 60+ MCP 도구. 봇 감지·CAPTCHA 우회
@@ -8476,6 +8487,9 @@ Artificial Intelligence
   * [Herdr - AI Agent 시대를 위한 tmux 스타일 터미널 워크스페이스 | GeekNews](https://news.hada.io/topic?id=29738)
   * [이제 tmux 대신 herdr 쓰세요. 강력추천합니다. with Claude Code - YouTube](https://www.youtube.com/watch?v=-dlYljXtYHQ)
     * StefanCho. 5년 쓴 tmux를 코딩 에이전트 시대에 맞춘 herdr로 갈아탄 과정. 설치·개념(Workspace/Tab/Pane), Claude Code·Codex 에이전트 상태(idle·working·blocked)를 한 화면에서 관리(20분)
+  * [Orca에서 Herdr로 갈아타도 될까요? 터미널 앱 세 번째 실험기 | 바이브랩스 - YouTube](https://www.youtube.com/watch?v=qDTjXHQtMJw)
+    * Warp→cmux→Orca를 거쳐 세 번째로 갈아타 보는 입장에서 "에이전트가 에이전트를 실행한다"는 소개 문구를 '릴리스 보드' 실습 프로젝트로 검증. Herdr는 TUI·데스크톱 앱·hc(herdr-core) 세 가지인데 TUI와 앱은 서로 다른 '주방(서버)'을 써서 한쪽에서 돌린 에이전트가 다른 쪽에 안 보임—`brew install herdr`(TUI)와 DMG(앱, Apple Silicon 전용, 첫 실행 때 버튼 하나로 코어+hc 설치)를 따로 설치. `hc run --bg`로 개발 서버를 뒤에서 띄우고 `hc read`로 마지막 출력 확인, Claude Code가 `hc skill`을 읽고 읽기 전용 리뷰어 워커를 직접 띄운 뒤 "hc from review" 태그로 결과를 보고받는 장면
+    * 창을 닫아도 `hc ls`에 Claude Code·리뷰어·웹이 남아 있음(창·덮개·잠자기·재부팅·업데이트 상황별 점검표). 상태 표시는 에이전트가 보내는 OSC 7501 신호 기준이라 신호가 없는 개발 서버는 running으로만 표시. `~/.config`의 agent.md를 읽은 에이전트가 레이아웃 복사본을 수정해 탭마다 작업 경과 시간을 붙이는 커스터마이징(모드는 샌드박스가 아닌 신뢰 코드). 결론: 작업별 worktree·브라우저 탭·코드 리뷰 화면을 주는 Orca를 앱이 바로 대체하긴 어렵지만, 개발 서버·체커·리뷰어 같은 백그라운드 작업을 맡기는 코어는 Orca와 병용할 만함
   * [herdr is a must use - YouTube](https://www.youtube.com/watch?v=2CR9tDNAzB0)
     * Academind. 에이전틱 워크플로우 구동에 특화된 터미널 멀티플렉서. tmux보다 단순하면서 여러 AI 에이전트 작업을 병렬로 몰아주는(herd) 데 강점
   * [Exploring Herdr Plugins: Multi-Agent Orchestration and Workflows | Tonbi's AI Garage - YouTube](https://www.youtube.com/watch?v=82S8fmes9T0)
