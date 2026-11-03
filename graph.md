@@ -265,6 +265,9 @@ Graph
   * AI Engineer. 확률적 에이전트가 저지르는 실수(같은 주문 이중 환불, 잘못된 수취인에게 지급, "아마 배송됨" 같은 모호한 상태)를 온톨로지로 방지—에이전틱 시스템에 온톨로지가 필요한 이유
 * [#2. 온톨로지는 검색이 아니라 실행이어야 합니다 — AI-Native 금융을 향한 두 개의 축 | Hongsoo Kim](https://www.linkedin.com/posts/hongsoo-kim-2bb23512_toss-ainative-ontology-share-7506149649385197569-AFHM/)
   * 토스. 고객데이터 온톨로지(마이데이터 기반 시맨틱 레이어—테이블·컬럼 위에 지표 노드를 올리고 각 지표에 SQL 표현을 묶어 숫자를 검증된 채로 답하게)와 사내지식 온톨로지 두 축. 틀린 숫자는 틀린 답이 아니라 사고라는 관점
+* [고객들은 화려한 그래프에 감탄했습니다. 하지만 딱 거기까지였습니다 — 행위 없는 온톨로지는 죽은 지식 | OS Kim](https://www.linkedin.com/posts/os-kim-087a7a131_snctsirxgtfm-ontology-palantir-share-7522444746703896576-E8sX/)
+  * FDE 과제에서 온톨로지=graph DB라 믿고 고객 데이터의 명사·동사를 뽑아 노드·엣지가 얽힌 그래프를 보여줬지만 감탄 다음이 없었고, 질의해도 원하는 답이 나오지 않아 배보다 배꼽이 커진 실패담. 팔란티어의 온톨로지가 일반 온톨로지와 다른 세 가지—①명사만이 아니라 Action(동사)까지("이 주문은 지연 위험" 아는 것 vs "대체 공급처로 발주 변경" 실행하는 것) ②언제든 관계를 붙이는 유연함 대신 운영에서 예측 가능한 구조 ③추론 주체가 논리 추론 엔진이 아니라 LLM과 사람이고 온톨로지는 LLM이 호출하는 도구(타입·권한으로 울타리)
+  * 결국 핵심은 행위가 있느냐—그릇은 graph DB일 필요 없이 SQL·vector DB·BM25든 상관없고, 현장 문제를 가장 단순하게 표현해 검색 결과를 행위(액션 아이템·이상 징후 조치·보고, 주체는 사람 또는 AI)로 이어주면 됨. 출근길엔 세계 지도가 아니라 지하철 노선도만 필요하듯 "사내 모든 지식을 하나로 연결하면 AI가 뭐든 답한다"는 환상의 지도는 완성되지 않고 완성돼도 열어 보는 사람이 없음. 실천: 데이터가 아니라 행위("누가 무엇을 다르게 해야 하나")에서 출발, 만들기 전 "이 지식으로 누가 무엇을 하게 되는가"에 답하지 못하면 아직 때가 아님, 다 연결하려는 욕심을 버리고 문제 하나씩 풀며 쓰이면서 자라는 온톨로지
 * [How Cerebras Built Its Enterprise Knowledge Base | Cerebras](https://www.cerebras.ai/blog/how-we-built-our-knowledge-base)
   * [Cerebras on X](https://x.com/cerebras/status/2077822555159945507)
   * [Cerebras 사내 지식 베이스 구축 전략: 기존 업무 환경을 유지하면서 AI 검색 시스템을 만든 방법 | digitalbourgeois](https://digitalbourgeois.tistory.com/3429)
