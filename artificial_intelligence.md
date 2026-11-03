@@ -1791,6 +1791,10 @@ Artificial Intelligence
   * [llm-brain: LLM을 컴파일러로 쓰는 개인 지식 관리 시스템 (Second Brain Compiler)](https://github.com/kimsanguine/llm-brain)
   * [요즘 AI 에이전트 메모리에서 가장 과소평가된 패턴은 RAG가 아니라 LLM Wiki | Sanguine Kim](https://www.linkedin.com/posts/sanguinekim_%EC%9A%94%EC%A6%98-ai-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EB%A9%94%EB%AA%A8%EB%A6%AC%EC%97%90%EC%84%9C-%EA%B0%80%EC%9E%A5-%EA%B3%BC%EC%86%8C%ED%8F%89%EA%B0%80%EB%90%9C-%ED%8C%A8%ED%84%B4%EC%9D%80-rag%EA%B0%80-%EC%95%84%EB%8B%88%EB%9D%BC-llm-share-7479001617946554369-wfQy/)
   * 흩어진 노트·메모를 LLM 컴파일러로 구조화된 위키로 변환하는 개인 지식 관리 시스템. RAG처럼 원시 데이터를 즉석 검색하는 대신 에이전트가 읽기 좋게 사전 압축·정리된 지속 가능한 지식 레이어 구축. Obsidian vault+위키 링크+그래프 시각화, Claude Code 연동 4개 CLI 명령
+* [lobehub: LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team](https://github.com/lobehub/lobehub)
+  * [LobeHub](https://lobehub.com)
+  * [LobeHub — 여러 AI 모델을 한 화면에서 쓰는 채팅 도구를 넘어 AI Agent를 구성·운영하는 플랫폼 | Donghyun Kim](https://www.linkedin.com/posts/kim-donghyun0916_github-lobehublobehub-lobehub-is-your-share-7490368823246614528-qstc)
+  * 구 Lobe Chat이 진화한 에이전트 운영 플랫폼(TypeScript, 83.8k stars, 셀프호스팅 Docker 지원). 업무 목적별 Agent를 만들고 각각에 모델·시스템 프롬프트·지식 베이스·Skills·MCP 도구·Memory를 연결해 범용 챗봇이 아닌 특정 업무와 데이터를 아는 전문 Agent를 구성, Agent Group으로 조사·분석·문서 작성 에이전트가 한 작업에 병렬 참여, 반복 업무 예약 실행과 결과 보고("Chief Agent Operator"). 프로젝트·워크스페이스 단위로 대화·자료·Agent를 구조화하고 개인·조직의 일하는 방식을 기억하는 편집 가능한 Memory. 활용: 사내 문서 기술지원·지식 검색, 클라우드 아키텍처 검토, 시장·기술 동향 조사, 콘텐츠 자동화, 여러 모델 응답 비교
 * [Luvus — Mission control for your AI agents](https://luvus.dev/)
   * [luvus: Mission control for your AI agents](https://github.com/RizRiyz/luvus)
   * [AI 코딩 에이전트를 한곳에서 관리하는 Luvus, 주요 기능과 사용 방법 | digitalbourgeois](https://digitalbourgeois.tistory.com/3577)
@@ -2537,6 +2541,10 @@ Artificial Intelligence
 * [Agentic Engine Optimization (AEO)](https://addyosmani.com/blog/agentic-engine-optimization/)
   * [에이전틱 엔진 최적화 (AEO) | GeekNews](https://news.hada.io/topic?id=28588)
   * AI 코딩 에이전트가 문서를 효과적으로 활용하도록 콘텐츠를 구조화하는 새 패러다임. robots.txt, llms.txt, skill.md 등 6계층 구현
+* [AI features and your website | Google Search Central](https://developers.google.com/search/docs/appearance/ai-features)
+  * [구글이 공식적으로 AEO/GEO 가이드를 발표했습니다 — 결국 GEO에서도 SEO 모범 사례는 여전히 유효 | Yongjoon Yang](https://www.linkedin.com/posts/yongjoonyang_%EA%B5%AC%EA%B8%80%EC%9D%B4-%EA%B3%B5%EC%8B%9D%EC%A0%81%EC%9C%BC%EB%A1%9C-aeogeo-%EA%B0%80%EC%9D%B4%EB%93%9C%EB%A5%BC-%EB%B0%9C%ED%91%9C%ED%96%88%EC%8A%B5%EB%8B%88%EB%8B%A4-%EC%A0%84%EC%B2%B4%EC%A0%81%EC%9C%BC%EB%A1%9C-%EC%9D%BD%EC%96%B4%EB%B4%A4%EC%9D%84-share-7461080783982592001-Hl15)
+    * 구글의 생성형 AI 검색 기능이 핵심 검색 순위·품질 시스템 위에 있으므로 GEO에서도 SEO 모범 사례가 그대로 유효(GPT·Perplexity도 핵심은 동일). 구글이 "굳이 할 필요 없다"고 명시한 것들—LLMS.txt 등 특수 마크업(실질 효과 없음; 이를 GEO 지표로 삼던 업체는 틀린 정보), AI가 이해하도록 콘텐츠를 작은 조각으로 분할하기, AI 검색에 맞춘 글쓰기 재구성, 웹 곳곳에 부자연스러운 언급을 만드는 가짜 언급(스팸 처리 위험), GEO 전용 스키마 마크업(기존 SEO용은 좋지만 추가할 건 없음). "BEST 7" 류 콘텐츠가 지금은 인용되기 좋지만 곧 바뀔 수 있어 비정형 콘텐츠 제작 권장. GA4에 AI 채널 추가 소식과 함께 FOMO를 덜어 줄 지침으로 평가
+  * 사이트 소유자 관점에서 AI Overviews·AI Mode가 어떻게 작동하고 콘텐츠 포함을 어떻게 접근할지—SEO 모범 사례는 AI 기능에도 그대로 유효하며 AI Overviews·AI Mode에 나타나기 위한 추가 요구사항이나 특별한 최적화는 없음. 기술 요구사항, 성능 측정, 미리보기 제어(nosnippet 등)로 AI 기능 내 콘텐츠 제어, 문제 해결
 * [AI한테 마크다운으로 인수인계시키는 지금 방식은, 색소폰을 글로 배우는 것과 같다 | Gallery X](https://x.com/realgalleryx/status/2085874917984387571)
   * Dwarkesh Patel의 "지속학습 시대의 8가지 예측" 도입부 우화 소개—색소폰을 처음 보는 학생이 실패하고 노트를 남기면, 다음 학생이 그 노트를 읽고 또 실패하고 노트를 보탬. 마크다운 파일로 에이전트에 컨텍스트를 인수인계하는 현재 방식의 한계를 짚는 비유
 * [AI Agent를 제대로 쓰려면, 먼저 LLM이 “어떻게 일하는지”를 알아야 합니다 | Sanguine Kim | LinkedIn](https://www.linkedin.com/posts/sanguinekim_ai-agent%EB%A5%BC-%EC%A0%9C%EB%8C%80%EB%A1%9C-%EC%93%B0%EB%A0%A4%EB%A9%B4-%EB%A8%BC%EC%A0%80-llm%EC%9D%B4-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9D%BC%ED%95%98%EB%8A%94%EC%A7%80%EB%A5%BC-%EC%95%8C%EC%95%84%EC%95%BC-share-7463056986255872000-BHo3/)
@@ -4969,6 +4977,12 @@ Artificial Intelligence
 * [The Intent Debt | Addy Osmani](https://addyosmani.com/blog/intent-debt/)
   * [기술 부채, 인지 부채, 의도 부채 | GeekNews](https://news.hada.io/topic?id=28824)
   * LLM이 코드 대량 생산하는 환경에서 기술·인지·의도 3층 부채. 기술부채는 미래 변경 제한, 인지부채는 팀 추론 능력 약화, 의도부채는 목표 기록 약화. 의도 부채는 AI 에이전트가 해결 못 하는 유일한 부채—시스템이 존재하는 '이유'는 인간만 제공 가능. 스펙·AGENTS.md·결정 로그로 의도를 명시 기록 필요
+* [Slopfix — three senior engineers who refactor vibecoded codebases back to maintainability](https://odra.dev/slopfix/)
+  * [Slopfix' software team charges $10,000 a week to delete AI-generated code bloat — ironically, the team uses AI agents to trim messy repositories by up to 65% | Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/a-team-of-engineers-called-slopfix-charges-10000-a-week-to-delete-ai-generated-code-using-ai-agents)
+    * [이상선 - Slopfix, AI가 만든 코드를 AI로 정리하는 서비스 등장 | Facebook](https://www.facebook.com/lsszz1/posts/pfbid0vxdCBg79ZeAwPqZkrSthCLqTuSbHjdJ59oPZR8JnCJAhNsE6EYi5ZYFjNAuKDji7l)
+    * Luke James. 창업자(HN 'zie1ony')의 "우리는 코드를 지워서 돈을 받는다". 배경 수치로 GitClear 2026 Maintainability Gap 리포트—6억 2,300만 변경에서 중복 코드 블록이 2023년 대비 81% 증가해 역대 최고, 리팩터링은 2022년 변경 라인의 21%에서 2026년 4% 미만으로 추락, 개발자가 리팩터링보다 복붙할 확률이 약 5배. 이상선: "AI가 개발자를 대체한다" 논쟁보다 AI 산출물을 관리·검증하는 개발자 역할이 중요해진다는 신호
+  * 동작은 하는데 기능 하나 추가에 며칠 걸리고 다른 둘이 깨지는 바이브코딩 프로젝트—일정 규모를 넘으면 에이전트가 전체를 못 보고 기존 코드를 찾는 대신 중복을 만들기 때문. 무료 분석 후 도울 수 없으면 그렇다고 말하고, 가능하면 고정가와 감축 목표("10만 줄→3.5만 줄, 기능 동일")를 약속. 1주 작업: 손대기 전 화면·엔드포인트 단위로 앱이 하는 일을 체크리스트로 적어 안전망 삼고, 14개 날짜 포매터를 하나로, 손수 만든 프레임워크를 라이브러리로, 중복 로직을 접고, 살릴 수 없는 코드는 하는 일만 추출해 다시 구축. 고객은 작아진 코드베이스·QA 체크리스트·CLAUDE.md/린트/CI 가드레일을 받고 2주 보증
+  * 가격: 3명·1주·$10,000, 목표 달성 비율에 비례 지불(50% 약속에 20% 달성이면 목표의 40%라 $4,000). 라인 수는 scc 기준 비공백·비주석이고 계약이 코드 골프를 금지—주석 삭제나 읽기 어려운 압축으로 이기지 않음. Claude Code를 쓰지만 "아주 짧은 목줄"에 매고, 합산 30년 경험이 유지보수 가능한 코드가 뭔지 결정하며 에이전트에겐 투표권이 없음. HN 프런트페이지 진출
 * [현관문에도 얼굴이 있다: 배송 완료 사진 기반 On-device 오배송 탐지 시스템 - 컬리 기술 블로그](https://helloworld.kurly.com/blog/image-based-misdelivery-detection)
   * 배송 완료 사진 임베딩 유사도로 오배송 탐지. On-device 추론으로 서비스에 적용
 * [“코딩 몰라도 단백질 설계한다”... 오픈프로틴AI, 연구자 위한 노코드 플랫폼 오픈소스로 공개 < 플랫폼 < AI Tech < 기사본문 - 인공지능신문](https://www.aitimes.kr/news/articleView.html?idxno=39608)
@@ -6428,6 +6442,10 @@ Artificial Intelligence
   * [Qwen3-Coder: Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team, Alibaba Cloud.](https://github.com/QwenLM/Qwen3-Coder)
   * [Qwen3-Coder-Next: How to Run Locally | Unsloth Documentation](https://unsloth.ai/docs/models/qwen3-coder-next)
     * [Qwen3-Coder-Next 로컬 실행 가이드와 모델 특징 정리](https://digitalbourgeois.tistory.com/2710)
+* [qwen-code: An open-source AI coding agent that lives in your terminal | QwenLM](https://github.com/QwenLM/qwen-code)
+  * [Qwen Code Docs](https://qwenlm.github.io/qwen-code-docs/en/)
+  * [AI Agents KR | 알리바바의 Qwen 팀이 개발한 오픈소스 AI 코딩 에이전트 Qwen Code | Facebook](https://www.facebook.com/groups/9546662462016100/posts/30068180236104355/)
+  * 알리바바 Qwen 팀의 오픈소스 코딩 에이전트(TypeScript, Apache-2.0, 29k stars)—Google Gemini CLI v0.8.2에서 출발했지만 v0.1부터 독립 개발돼 멀티 모델·멀티 플랫폼 에이전트 프레임워크로 진화. Auto-Memory·Auto-Skills·SubAgents·Agent Teams·MCP를 기본 탑재한 "agentic out of the box", OpenAI·Anthropic·Gemini·Qwen API와 Ollama/vLLM 로컬 모델을 실행 중 전환, LSP·Git Worktree·Hooks·Plan Mode 통합. 터미널 외에 VS Code·JetBrains·Zed 플러그인, 데스크톱 앱, 웹 UI, Headless 모드와 Python/TypeScript/Java SDK, Telegram·DingTalk·WeChat·Feishu 채팅 연동. 자기 에이전트와 모델로 이슈·PR·리뷰·테스트를 돌리며 스스로 개발. `npm install -g @qwen-code/qwen-code@latest` 또는 설치 스크립트
 * [rams - AI Design Engineer & Design Reviews](https://www.rams.ai/) 접근성, 시각적 일관성 리뷰하는 디자인 엔지니어 스킬
 * [ResearchRabbit: AI Tool for Smarter, Faster Literature Reviews](https://www.researchrabbit.ai/)
   * [김성원 - 연구자들을 위해 구축한 가장 강력한 문헌 조사 도구 Research Rabbit AI... | Facebook](https://www.facebook.com/fatdogfish/posts/pfbid0x3vFUEVdampsvgB122a2JXSFVz5ZKqiKe3vMYmBuEPNoAERmirAquuHsShpS8tUTl)
@@ -8479,6 +8497,8 @@ Artificial Intelligence
   * DeepSeek AI의 오픈소스 에이전트 하네스(`dsh`). "모든 것이 플러그인"인 아키텍처, Cordis(시공간 조합 가능성 프로그래밍 패러다임) 기반. `npx @deepseek-ai/dsh web`으로 웹 UI 실행(기본 127.0.0.1:3080). developer preview로 호환성 깨지는 변경 예고. TypeScript, MIT, 49k stars
   * [Why DeepSeek Harness Is The End Of Coding Agents as We Know Them - YouTube](https://www.youtube.com/watch?v=jtyV7O4Pt0s)
     * Turing Post TV. 실행 중 없는 도구를 스스로 작성하고 끝나면 깔끔하게 제거하는 특성, 4일 만에 GitHub 149k stars, 88페이지 논문. Claude Code 클론이 아니라 고정된 코딩 에이전트가 끝나는 순간이라는 관점
+  * [dsh-superagent-prototype: Towards a More Autonomous Agent System | deepseek-ai](https://github.com/deepseek-ai/dsh-superagent-prototype)
+    * DeepSeek Harness 번들로 패키징된, GitHub 저장소 하나를 담당하는 선제적(proactive) 코딩 에이전트의 연구 프로토타입(TypeScript, MIT, 15.9k stars; 공식 제품 아님, 대부분 코딩 에이전트가 작성). GitHub와 선택적으로 Feishu를 듣다가 허용된 사람이 일을 요청하면 work item을 열고 자기 세션·디렉터리에서 작업한 뒤 원래 대화에 PR 등으로 답하며, 사람이 봐야 할 것만 웹 패널에 표시. 원칙은 "사람의 주의를 최소로 쓰고 가치를 최대로"—팀 전체를 대신할 수 있는 에이전트는 팀 전체의 주의를 낭비할 수도 있으므로 요청받았거나 팀이 쓴 규칙이 허용할 때만 행동하고, 누군가 행동해야 하거나 결과를 쓸 수 있을 때만 말함. 설치도 에이전트가 SETUP.md를 읽고 한 질문씩 진행, 철학→도메인 모델→인가→실행→프롬프트→패널→배포→아키텍처 순 문서. 논문 "Exploring Super-agent Design"의 공개용 변형
 * [DeepSeek-Reasonix](https://esengine.github.io/DeepSeek-Reasonix/)
   * [DeepSeek-Reasonix: DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running](https://github.com/esengine/DeepSeek-Reasonix)
   * [DeepSeek-Reasonix ARCHITECTURE.md (v1)](https://github.com/esengine/DeepSeek-Reasonix/blob/v1/docs/ARCHITECTURE.md)
