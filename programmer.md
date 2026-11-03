@@ -13,6 +13,8 @@ Programmer
 * [사이드프로젝트 개발부터 배포까지의 경험기 | Fernando 기술 블로그](https://fernando.kr/general/2022-03-13-side-project/)
 * [개발자라면 무조건 해야 하는 '이것'?- 사이드프로젝트!](https://www.slid.cc/ko/share/vdocs/%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%9D%BC%EB%A9%B4-%EB%AC%B4%EC%A1%B0%EA%B1%B4-%ED%95%B4%EC%95%BC-%ED%95%98%EB%8A%94-%EC%9D%B4%EA%B2%83-%EC%82%AC%EC%9D%B4%EB%93%9C%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-2988a71fef2f4afabbb1a7afa524ed59)
 * [월 $500 이상 버는 사이드 프로젝트가 있나요? 2024 | GeekNews](https://news.hada.io/topic?id=13032)
+* [분노 주도 개발(RDD)로 시작하는 사이드 프로젝트 | 요즘IT](https://yozm.wishket.com/magazine/detail/3627)
+  * PyCon Korea 2025 발표 "RDD(Rage-Driven Development)" 정리, RSQUARE 데이터 엔지니어 김혜원. 프로그래밍의 본질은 문제 해결이므로 "개발해야 하는데…"는 "해결해야 하는데… 무엇을? 왜?"와 같고, 풀고 싶은 문제가 불분명하면 사이드 프로젝트가 시작도 지속도 어려움—사회문제에 대한 분노를 동력으로 만든 여성혐오 뉴스 아카이브 'Leave Her Alone' 프로젝트 경험과 지속 가능한 사이드 프로젝트·시빅 테크에 대한 배움
 * [Programmers: Before you turn 40, get a plan B](http://improvingsoftware.com/2009/05/19/programmers-before-you-turn-40-get-a-plan-b/)
 * [How to increase your value as a developer](http://enterprisecraftsmanship.com/2015/01/17/how-to-increase-your-value-as-developerv/)
 * [TNF 10년, 블로그를 사랑한 물리학자 – 신정규 인터뷰](http://slownews.kr/39698)
