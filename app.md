@@ -1992,6 +1992,8 @@ App
   * [카카오톡, Slack, iMessage — API 없이 자동 발송이 가능한 macOS 앱을 무료로 배포합니다 | 류장근 | LinkedIn](https://www.linkedin.com/posts/jkryu_batiflow-tcutcusnytsbsuyrbvupi-macos-ugcPost-7442481922854993920-jJqv)
   * 바티(Bati AI) 팀의 무료 네이티브 macOS 앱(3MB 미만). 일반 채팅용 API가 없는 카카오톡도 macOS Accessibility API로 앱을 직접 조작해 연락처 이름으로 발송—Claude Code·Cursor 작업이 끝난 뒤 "김 대표님께 카톡으로 이번 수정 완료 사항 정리해서 보내줘" 한 줄이면 5초 뒤 전송. Slack·iMessage·Chrome 자동화, 캘린더·메모·미리 알림·메일·Finder 등 49+ 도구, 예약 워크플로, Claude Code·Cursor용 MCP 서버(21개 도구), 100% 로컬 처리
   * 최근 버전은 로컬 오픈소스 모델 실행, 폴더 대상 로컬 RAG 검색(한글 파일명 지원), LinkedIn·Threads·X·Medium 글을 마크다운으로 보관하는 Web Scrap과 지식 그래프를 추가
+  * [링크드인에서 좋은 글 발견하면 어디에 저장하세요? 공유 버튼 한 번으로 본문·미디어를 내 맥에 마크다운으로 | 류장근 | LinkedIn](https://www.linkedin.com/posts/jkryu_batiflow-secondbrain-rxgtekai-ugcPost-7462487352670781440-5LbX)
+    * 링크드인 모바일 앱은 공유 시 URL만 내보내 카톡 "나에게 보내기"로 모은 링크는 매번 재로그인이 필요하고 원본이 지워지면 휘발—"모바일 공유→텔레그램→BatiFlow→로컬 마크다운→AI 분석→RAG 검색"의 우회 크롤링 아키텍처로 본문·댓글·이미지까지 .md로 저장. 저장 위치는 내 Mac/iCloud(표준 마크다운이라 Obsidian·VS Code 어디서든), 로컬 LLM이 요약·태그 자동 부착, 주제·인물·회사로 연결되는 그래프 뷰, 의미 기반 로컬 유사도 검색. 초기 버전은 링크드인 파싱 위주
 * [Beamer: free software KVM for Mac, Windows and Linux](https://beamerapp.co.uk/)
   * [beamer: One keyboard and mouse for a Mac and a Windows PC over the local network, in either direction | kalkman-code](https://github.com/kalkman-code/beamer)
   * 같은 네트워크의 기기들 사이에서 키보드·마우스(트랙패드) 하나를 공유하고 클립보드도 함께 넘어가는 무료 오픈소스 소프트웨어 KVM(v1.5.14, GPL-3.0)—포인터를 상대 기기 쪽 화면 가장자리(선택한 구간·모서리·맥북 노치)로 밀면 같은 위치로 이어지고, 트리거 키(Mac Right Option·PC Right Ctrl, 변경 가능) 더블탭·홀드로도 전환, 도착 지점에 짧은 애니메이션. 최대 32대 직접 페어링, Mac↔Mac·PC↔PC는 키가 그대로, 단축키 유지, 입력은 네트워크 밖으로 나가지 않음. Linux는 실험적 Flatpak(x86-64). Python, 683 stars
