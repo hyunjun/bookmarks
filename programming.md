@@ -9376,6 +9376,11 @@ Programming
 * [Tech Truth: Agile Evolution & the Future of SW Engineering • Martin Fowler & Kent Beck • GOTO 2025 - YouTube](https://www.youtube.com/watch?v=ii_rLjQfjp0)
   * [The Tech Truth Circle | GOTO Copenhagen 2025](https://gotocph.com/2025/sessions/3780/the-tech-truth-circle)
   * Martin Fowler와 Kent Beck의 54분 대담—애자일의 진화와 소프트웨어 엔지니어링의 미래
+* [The Augmented Forest • Kent Beck • GOTO Copenhagen 2026 | GOTO Conferences - YouTube](https://www.youtube.com/watch?v=fDdAgexp_bU)
+  * [세션 페이지·슬라이드 | GOTO Copenhagen 2026](https://gotocph.com/2026/sessions/4170)
+  * 3년 연속 GOTO 키노트에서 바뀌는 분위기를 추적—Tidy First 워크숍 자료가 1년 만에 1/3이 낡음. 서두의 "tool seeds": 완성된 패키지 대신 도구를 만든 프롬프트 자체를 건네면 받는 사람에게 즉시 맞춤 적응되는 새 소프트웨어 도구 배포 방식(24시간 된 실험, 콜 그래프 시각화 예제). 지금의 도구와 그 문화는 도구 구조가 낳는 결과를 무시하고 있으며 3·6·12개월 뒤엔 다른 도구가 될 것
+  * 핵심 프레임 "숲과 사막"(딸 Beth가 명명): 사막은 시간·안정성·기술·사람·도메인 전문가 연결이 모두 부족하다고 가정하는 결핍의 끌개, 숲은 포식자와 가시는 있지만 자원은 충분하다고 가정하는 끌개—지니(AI)는 양쪽을 다 증폭하는 앰프라 하던 음악이 안 좋았다면 더 크게 안 좋아짐. Features & Futures: 기능은 처음엔 빠르다 점점 느려지고, 미래(설계 투자)의 수직 점프는 사막에선 어렵지만 숲에선 매일의 일상(월가 채권 트레이더의 "그 짓 다 빼면 얼마나 빨라지나"→"두 배 더 걸립니다" 일화)
+  * 인간의 필요: 유능함은 문제→고군분투→통찰→해결의 순환에서 오는데 지니는 "finger guns, 고쳤습니다 보스"로 분투를 외주해 승리도 없고, 많이 해냈어도 하루가 공허함. 연결·도전 같은 필요도 현재 AI 코딩 도구가 다루지 않음. 원칙: "Fred가 지난주에 이 부분을 바꿨으니 이야기해 보라"처럼 사람 간 연결을 촉진하고, 실제 사용자·투자자·관리자와의 연결 수단이 되며, 토일은 자동화하되 디렉터리 변경 하나까지 묻지 않는 도구—아직 설명할 수 없는 새 역량을 사람의 필요에 초점을 맞춰 길러낼 프로세스에 시간을 쏟겠다는 선언
 * [Platform Engineering for Developers, Architects & the Rest of Us • Daniel Bryant • GOTO 2025 - YouTube](https://www.youtube.com/watch?v=ROBX-P7q1d8)
   * [Platform Engineering for Software Developers, Architects and the Rest of Us | GOTO Copenhagen 2025](https://gotocph.com/2025/sessions/3734/platform-engineering-for-software-developers-architects-and-the-rest-of-us)
   * 41분—개발자·아키텍트 관점에서 플랫폼 엔지니어링이 실제로 무엇을 해결하는가
