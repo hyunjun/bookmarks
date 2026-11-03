@@ -5675,6 +5675,8 @@ Artificial Intelligence
   * [The New Software Development Lifecycle with Vibe Coding | Addy Osmani](https://addyosmani.com/blog/new-sdlc-vibe-coding/)
   * Google whitepaper(Addy Osmani·Shubham Saboo·Sokratis Kartakis) 해설. 에이전트=모델(10%)+하네스(90%), 정적/동적 컨텍스트 경계를 PR로 리뷰·버전관리하는 아키텍처 결정으로. "vibe coding"→프로덕션급의 스펙트럼은 검증 엄격성이 가름(테스트=결정론적 출력, eval=최종 정확성+추론 품질). 구현은 빨라지나 요구사항·아키텍처·검증이 병목—스펙 품질이 새 병목. 바이브 코딩은 싸 보여도 유지보수 비용 누적, 에이전틱 엔지니어링은 선투자로 장기 비용 3-10배 절감
 * [The AI-Native SDLC playbook | Claude](https://claude.com/blog/the-ai-native-sdlc-playbook)
+  * [AI 네이티브 SDLC 플레이북 (한국어) | Claude](https://claude.com/ko/resources/articles/the-ai-native-sdlc-playbook)
+    * Louis Claxton의 44분 분량 한국어판(PDF 다운로드 제공). "코드는 더 이상 병목이 아니다"—빌드가 몇 시간으로 줄자 병목은 사람 속도로 움직이는 계획·검토/테스트·배포로 이동하고, 줄 단위 검토 같은 통제는 현실과 어긋나며, 예외 처리를 주간·월간 위원회가 맡아 거버넌스 비용이 늘어남(보안 팀 규모는 사람의 산출에 맞춰져 있어 검토 큐가 쌓이거나 미검토 코드가 배포). 선형이 아닌 순환 구조에 각 지점마다 AI를 내장하고 인계·후속 작업을 자동 실행하는 AI 네이티브 SDLC를 6단계 비교표(Plan: 위원회 요구사항 수집→소스에서 직접 종합한 사람·기계 모두 읽는 intent.md, Design: 스킬로 인코딩한 표준에 따라 요구사항과 설계를 한 세션에 압축해 git에 버전 관리 등)와 단계별 플레이·실례로 설명
   * [한영자막 Claude Code 팀이 새로 공개한 INTENT.MD의 정체와 AI-Native 개발 방식 - YouTube](https://www.youtube.com/watch?v=rGaSkBWjoHA)
     * Tech Bridge. 플레이북 워크플로우 해설—에이전트 인터뷰로 요구사항 수집해 intent.md 생성(Discovery), 설계 명세 자동 생성·거버넌스(Spec), plan.md 수립 후 서브에이전트·git worktree 병렬 개발(Build), TDD·브라우저 E2E·지속적 Evals(Test), 비동기 PR 리뷰와 장애 시 자율 진단·intent 생성(유지보수)
   * [클로드, SDD를 네이티브로? INTENT.md - YouTube](https://www.youtube.com/watch?v=lh2Klr0hcFo)
@@ -5686,6 +5688,8 @@ Artificial Intelligence
   * [AI 네이티브 SDLC - 개발 전 과정을 에이전트에 맞게 재설계하기 | GeekNews](https://news.hada.io/topic?id=34792)
   * Anthropic Applied AI 팀의 AI 네이티브 SDLC 가이드. 코드는 더 이상 병목이 아닌데 승인 게이트·리뷰·핸드오프는 인간 속도 그대로라 병목이 build 좌우(계획·리뷰/테스트·배포)로 이동—라인별 수동 리뷰·주간 위원회 거버넌스가 현실과 불일치. 선형 흐름 대신 AI가 각 지점에 내장된 루프로 재설계, 6단계(Plan→Design→Build→Test→Deploy→Maintain)별 플레이 제공
   * 관통하는 원칙은 "커밋된 아티팩트": 각 단계가 intent.md·spec.md·plan.md·diff+테스트·리뷰 findings·인시던트 기록을 버전 관리에 커밋하고 다음 단계가 그걸 읽음—커밋 체인이 곧 감사 추적. 에이전트 다층 리뷰+훅을 승인 게이트로, 인간 리뷰는 규제·핵심 코드에 집중
+* [The new AI-driven SDLC | CircleCI Blog](https://circleci.com/blog/ai-sdlc/)
+  * Jacob Schmitt. 계획→설계→개발→테스트→배포→운영의 SDLC는 Agile·CI/CD·DevOps로 자동화와 반복이 더해졌어도 여전히 구조화된 핸드오프와 사람의 주의에 의존했고, 회의·피드백 주기·가용성이 속도를 정했음. LLM 도구가 산출물 생성·검증·선제적 개선으로 전 수명주기에 직접 참여하면서 단계가 순차가 아니라 동시에 펼쳐지고 피드백이 여러 방향으로 흐르는 구조로 재편—AI 시대 SDLC의 모습, 새 제약과 기회, 팀이 새 속도에 맞춰 관행을 진화시키는 방법
 * [Prompt to Prod: Engineering an Autonomous SDLC at Scale | InfoQ](https://www.infoq.com/presentations/autonomous-ai-software-development-roblox)
   * [Roblox Engineering Director: "Prompt to Prod" Is Broken Without Trust - YouTube](https://www.youtube.com/watch?v=x_dnHivzYtk)
   * QCon AI. Roblox의 Andrew Swerdlow(Sr. Director, ex-Google·Instagram)가 AI 자동완성에서 완전 자율 "Prompt to Prod" 파이프라인으로 안전하게 전환한 과정—"typing vs. trust" 역설을 자동 코드 리뷰 에이전트, 샌드박스 런타임, 코드 리뷰 exemplar로 조직 지식 추출, 생산성 지표 재정의(피처 속도·장시간 AI 턴)로 해결. DAU 수천만 규모 플랫폼의 신뢰 기반 자동 배포
@@ -6841,6 +6845,9 @@ Artificial Intelligence
       * [Claude Code Unpacked - 비주얼 가이드 | GeekNews](https://news.hada.io/topic?id=28410)
       * Claude Code 소스코드를 시각적으로 분석한 비공식 프로젝트. 에이전트 루프, 50+ 도구, 멀티에이전트 오케스트레이션, 미공개 기능을 인터랙티브하게 탐색
       * Subagent·Command·Skill·Workflow·Hook·MCP·Memory 핵심 개념 정리. Auto Mode, Agent Teams 병렬 조율, 스케줄 태스크, 코드 리뷰, 음성 입력, Remote Control, Git Worktree 등 고급 기능 가이드. Research→Plan→Execute→Review→Ship 워크플로우
+  * [클로드 코드의 책임 설계자가 CLAUDE.md를 더이상 사용하지 않는 이유 | 마일드코드 - YouTube](https://www.youtube.com/watch?v=nf4AWqLMME0)
+    * Claude Code의 플러그인·에이전트 팀 설계를 주도한 Anthropic 엔지니어 Daisy Hollman의 NDC Copenhagen 2026 강연("How Anthropic uses Claude Code")과 Code w/ Claude 런던 워크숍("Beyond the basics with Claude Code")을 풀어낸 해설—그는 CLAUDE.md를 거의 쓰지 않고 자기 플러그인에서도 의도적으로 뺐음. 이유는 CLAUDE.md가 대화마다 통째로 컨텍스트에 올라가 토큰 비용의 90%가 현재 작업과 무관한 내용이고, 강제 장치가 아니라 참고를 부탁하는 문서라 길어질수록 준수율이 떨어지기 때문(공식 문서도 명시)
+    * 대안은 컨텍스트 윈도우 사용 기준으로 고른 하네스 도구—꼭 지켜야 할 규칙은 훅(규칙을 어긴 순간 알려주는 "빨간 밑줄", 비밀 키 노출·복구 불가 삭제를 실행 직전 차단), 필요할 때만 쓰는 절차는 스킬(설명만 상주하고 본문은 필요 시 로드), 결과만 받으면 되는 일은 서브에이전트(별도 컨텍스트에서 일하고 요약만 반환), 워크트리마다 이름·메모를 붙여 오래 머무는 에이전트(16개 워크트리 사례). CLAUDE.md에는 모든 작업에 공통인 몇 줄만 남기고 지울 후보는 `/doctor`로 받기. 강의 홍보 포함
   * [Claude Skills: Customize AI for your workflows \ Anthropic](https://www.anthropic.com/news/skills)
     * [skills: Public repository for Skills](https://github.com/anthropics/skills)
     * [Claude Skills are awesome, maybe a bigger deal than MCP](https://simonwillison.net/2025/Oct/16/claude-skills/)
@@ -8631,6 +8638,8 @@ Artificial Intelligence
 * [Modu-AI's Agentic Development Kit](https://github.com/modu-ai/moai-adk)
   * [모두의AI — 완전 자율 AI 에이전트가 운영합니다](https://mo.ai.kr/)
   * [MoAI-ADK 문서](https://adk.mo.ai.kr/)
+    * [개발 방법론 (DDD/TDD) | MoAI-ADK 핵심 개념](https://adk.mo.ai.kr/ko/core-concepts/ddd)
+      * Run 단계에서 에이전트가 코드를 구현할 때 지키는 규율—"완료"의 기준을 코드를 쓴 뒤의 눈대중이 아니라 TRUST 5 게이트를 통과한 테스트 결과로 두어 하네스가 매 사이클 확인하고 루프가 스스로 수렴, 쓸데없는 재시도에 토큰을 흘리지 않음. 프로젝트 상태로 자동 선택: 신규 또는 테스트 커버리지 10% 이상이면 TDD(RED 실패 테스트→GREEN 최소 코드→REFACTOR, Given-When-Then, 커버리지 85%+), 커버리지 10% 미만의 기존 프로젝트면 DDD(ANALYZE-PRESERVE-IMPROVE, 특성화 테스트로 안전한 점진 개선). `.moai/config/sections/quality.yaml`의 development_mode로 수동 지정 가능
   * [Agentic Coding(에이전틱 코딩) | Facebook](https://www.facebook.com/groups/1015790320162945/?multi_permalinks=1125291609212815&hoisted_section_header_type=recently_seen)
   * [moai-adk | Code Wiki](https://codewiki.google/github.com/modu-ai/moai-adk)
   * [모두의 코워크 MoAI-Cowork](https://cowork.mo.ai.kr/)
