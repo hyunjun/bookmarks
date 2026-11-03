@@ -430,6 +430,8 @@ NLP
 * [Gemini Embedding 2: Our first natively multimodal embedding model | Google](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-embedding-2/)
   * [🤖 텍스트+이미지+비디오+오디오 통합 임베딩: Gemini Embedding 2 활용 가이드 | fornewchallenge](https://fornewchallenge.tistory.com/entry/%F0%9F%A4%96-%ED%85%8D%EC%8A%A4%ED%8A%B8%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%B9%84%EB%94%94%EC%98%A4%EC%98%A4%EB%94%94%EC%98%A4-%ED%86%B5%ED%95%A9-%EC%9E%84%EB%B2%A0%EB%94%A9-Gemini-Embedding-2-%EC%99%84%EB%B2%BD-%EA%B0%80%EC%9D%B4%EB%93%9C)
   * 2026-03-10 퍼블릭 프리뷰. Gemini 아키텍처 기반 첫 네이티브 멀티모달 임베딩 모델—텍스트·이미지·비디오·오디오·문서를 단일 임베딩 공간에 매핑해 미디어 종류를 넘나드는 검색·분류. 100+ 언어, RAG·시맨틱 검색·감정 분석·클러스터링 활용 예제(가이드)
+  * [Google's New Model + Claude Code Just Changed RAG Forever | Nate Herk - YouTube](https://www.youtube.com/watch?v=hem5D1uvy-w)
+    * 이미지·영상·텍스트를 한 번에 이해하는 Gemini Embedding 2를 Claude Code와 함께 써서 시각 검색 시스템을 처음부터 구축하는 과정(유료 커뮤니티·스폰서 홍보 포함)
 * [It's all just text - stitcher.io](https://stitcher.io/blog/its-all-just-text) 단순화된 관점으로 보면 복잡한 문제들을 더 쉽게 이해하고 해결 가능
   * [결국 모든 것은 텍스트이다 | GeekNews](https://news.hada.io/topic?id=17050)
 * [Plain Text - Dylan Beattie - NDC Copenhagen 2022 - YouTube](https://www.youtube.com/watch?v=gd5uJ7Nlvvo)
@@ -2389,6 +2391,12 @@ NLP
 * [The Easiest Part of LLM Applications is the LLM](https://generatingconversation.substack.com/p/the-easiest-part-of-llm-applications)
 * [Want to learn how to 𝗳𝗶𝗻𝗲-𝘁𝘂𝗻𝗲 𝗮𝗻 𝗟𝗟𝗠, build a 𝘀𝘁𝗿𝗲𝗮𝗺𝗶𝗻𝗴 𝗽𝗶𝗽𝗲𝗹𝗶𝗻𝗲, use a 𝘃𝗲𝗰𝘁𝗼𝗿 𝗗𝗕, build a 𝗳𝗶𝗻𝗮𝗻𝗰𝗶𝗮𝗹 𝗯𝗼𝘁 and 𝗱𝗲𝗽𝗹𝗼𝘆 𝗲𝘃𝗲𝗿𝘆𝘁𝗵𝗶𝗻𝗴 using a serverless solution?](https://www.linkedin.com/posts/pauliusztin_machinelearning-mlops-deeplearning-activity-7105074644193308673-qe-0/)
 * [Why Large Language Models Hallucinate and How to Reduce it If you are a power user of ChatGPT you have probably been bitten by the hallucination bug. The LLM lulls you into getting comfortable with it and then springs a convincing but totally made-up story, playing you for a… https://t.co/CP5GxbNpJr / X](https://twitter.com/bindureddy/status/1699975747786641855)
+* [2509.11208 Predictable Compression Failures: Order Sensitivity and Information Budgeting for Evidence-Grounded Binary Adjudication](https://arxiv.org/html/2509.11208)
+  * [2309.10668 Language Modeling Is Compression | Google DeepMind](https://arxiv.org/html/2309.10668)
+    * Delétang·Ruoss 외(ICLR 2024). 예측 모델은 무손실 압축기로 변환 가능하고 그 역도 성립하므로 LLM을 압축 관점에서 평가—Chinchilla 70B가 텍스트로만 학습했는데도 ImageNet 패치를 43.4%, LibriSpeech를 16.4%로 압축해 범용 예측기임을 보이고, 압축 관점이 스케일링 법칙·토크나이제이션·in-context learning에 새 통찰을 줌
+  * [LLM의 진짜 정체는 거대한 텍스트 압축기입니다. 할루시네이션은 거짓말이 아니라 압축 파일이 깨졌을 때 일어나는 참사 | Kiwoong Yeom](https://www.linkedin.com/posts/kiwoong-yeom_llm%EC%9D%98-%EC%A7%84%EC%A7%9C-%EC%A0%95%EC%B2%B4%EB%8A%94-%EA%B1%B0%EB%8C%80%ED%95%9C-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%95%95%EC%B6%95%EA%B8%B0%EC%9E%85%EB%8B%88%EB%8B%A4-%ED%95%A0%EB%A3%A8%EC%8B%9C%EB%84%A4%EC%9D%B4%EC%85%98%EC%9D%80-%EA%B1%B0%EC%A7%93%EB%A7%90%EC%9D%84-share-7470616253343113217-MbPA)
+    * 두 논문을 엮은 해설—RAG로 문서를 많이 주면 똑똑해질 거란 믿음과 달리, 오픈북 시험에서 참고서 쪽 순서만 바꿔도 점수가 널뛰듯 증거 순서를 섞으면 내부 압축이 꼬여 문맥 읽기가 급락(순서 민감성). 환각은 순서가 뒤틀리거나 낯선 지식에 정보 예산이 바닥났을 때 "모르겠다" 대신 얄팍한 사전 지식으로 빈자리를 그럴싸하게 덮어쓰는 압축 실패의 물리적 결과. 처방은 파인튜닝이 아니라 연료 게이지—답하기 전 순서를 3~6번 섞어 정보 예산의 흔들림을 재는 ISR(정보 충족 비율)이 1.0 이상이면 답변, 미만이면 기권(게이팅)으로 10만 번 테스트에서 환각률 0%대
+  * Chlon·Karim·Chlon·Awada(Oxford·UCL·Harvard, ICML 2026). support/refute·yes/no·검증기 기반 pass/fail 같은 증거 기반 이진 판정에서 트랜스포머가 교환 가능한 증거의 제시 순서에 민감해 순열 간 분산과 불안정한 답을 내는 문제를 형식화—순서를 성가신 변수로 두고 기대-실현 격차(next-token 학습은 순서 전체의 기대 설명 길이를 최소화하지만 고정 순서는 위치 민감)를 정의. Quantified Martingale Violation 경계가 인접 순위 위치 민감성이 유발하는 분산을 O(log n)으로 예측하고, Expectation-level Decompression Law가 KL 볼록성/데이터 처리 경계를 베르누이 판정에 특화해 Bits-to-Trust·환각 위험·ISR 같은 운영 지표를 도출
 * [Why language models hallucinate | OpenAI](https://openai.com/index/why-language-models-hallucinate/)
   * [2509.04664 Why Language Models Hallucinate](https://www.arxiv.org/abs/2509.04664)
   * [LLM의 환각, 피할 수 없다면 관리하세요. - Deskroom | 블로그](https://blog.deskroom.so/platform/why-language-models-hallucinate)
@@ -3640,6 +3648,13 @@ NLP
 * [Jupiter | Sovereign — zero-dependency high-performance inference engine for LLMs](https://www.teamjupiter.ai/)
   * [Jupiter Sovereign 공유 | Jupiter Song](https://www.linkedin.com/posts/jupitersong_jupiter-sovereign-share-7486380864663076864-IBtp/)
   * 의존성 없는 고성능 LLM 추론 엔진. 커스텀 PTX 런타임과 B-Tree 레이어 스트리밍 기반
+* [K2 Horizon — models, datasets, and supporting resources | IFM, Hugging Face](https://huggingface.co/collections/IFM/k2-horizon)
+  * [DATA_NAVIGATOR: Map of K2 Horizon data code and datasets | ifm-ai](https://github.com/ifm-ai/DATA_NAVIGATOR)
+    * 사전학습 데이터 파이프라인(pretraining-data-toolkit—WebOrganizer 주제·형식 분류와 FineWeb-Edu·fastText 품질 점수로 5개 티어, 2-pass 분산 셔플; 코퍼스 검색 인덱스 search360)과 중·사후학습 데이터 생성 코드(GitHub PR→에이전틱 코딩 데이터 PRism-curator/annotator/synthesis, 오피스 파일 지식노동 과제 파이프라인, 장문 리서치 대화 agentic_semantic_packing, 검증된 AI-for-Science RL 과제 task-factory, 장문 QA LCQA, 어려운 과제의 롤아웃 가이드 advisor, 품질 게이트 process_entry)의 지도
+  * [The most detailed open LLM data release yet: K2 Horizon's pre-training data and post-training data-generation pipelines are now open | Institute of Foundation Models on X](https://x.com/IFM_AI/status/2113677853355295200)
+    * [박태웅 - 굉장한 오픈소스가 나왔네요. 가중치+코드+데이터+체크포인트+훈련 로그까지 전부 공개 | Facebook](https://www.facebook.com/bagtaeung.561890/posts/pfbid0qtdLkybwqUkknaiY1N5c1DoxQNnE4mAxSWdrjiXK3pHzrK24cAgxjuYsgubobe26l)
+    * 사전학습 13조 토큰(5개 데이터셋·24개 하위셋)과 수학·추론·코딩·계획 합성 데이터 10조 토큰 공개, 사후학습(SFT·RL) 데이터는 파일 대신 생성 코드·도구만. 네 가지 발견—①합성 데이터를 규모로 늘려도 다양성이 자연 웹 텍스트에 근접 ②검증을 엄격히 할수록 좋은 게 아니라 유용한 학습 신호를 버릴 수 있음 ③작은 규모 실험에서 진 데이터 배합이 큰 모델에서 이김(작은 실험을 믿으면 틀림) ④교사 모방을 넘어 교사가 못 만드는 궤적을 여러 시도·검증으로 생성
+  * UAE 아부다비 MBZUAI 산하 국가 자금 연구소 IFM의 완전 오픈 LLM 패밀리(Apache-2.0)—9월 3일 0.9B~375B 6종(375B-A23B, MoVA-36B-A4B, 32B, 7B, 3.7B 등) 공개 후 10월 23일 훈련 데이터·코드 공개. 박태웅 정리: 미국 빅테크는 모델·데이터 비공개, 중국은 가중치만 공개라 재현 불가인 데 반해 가중치+코드+데이터+체크포인트+훈련 로그를 전부 공개해 되밟아 검증 가능한 모델 중 375B는 역대 최대(이전 K2-65B·Apertus 70B·OLMo 3 32B급)이고 Artificial Analysis 지수 47점으로 동급 오픈 웨이트 중앙값 29점을 크게 앞섬—오픈소스 기준을 "가중치 공개"에서 "재현 가능성"으로 끌어올린 첫 대규모 사례, 완전 오픈은 성능이 뒤진다는 통념을 깬 UAE의 제3노선. 재배포 금지 웹 데이터는 수집·필터링 레시피로 대체, 합성 데이터는 교사 모델 약관 문제가 남아 완전한 라이선스 프리는 아님
 * [kanana: Kanana: Compute-efficient Bilingual Language Models](https://github.com/kakao/kanana)
   * [밑바닥부터 Kanana LLM 개발하기: Pre-training - tech.kakao.com](https://tech.kakao.com/posts/661)
   * [밑바닥부터 Kanana LLM 개발하기: Post-training - tech.kakao.com](https://tech.kakao.com/posts/662)
@@ -4675,6 +4690,11 @@ NLP
     * [flash-moe: Pure C/Metal inference engine — Qwen3.5-397B on MacBook Pro 48GB at 4.4+ tok/s](https://github.com/danveloper/flash-moe)
       * [Autoresearching Apple's "LLM in a Flash" to run Qwen 397B locally](https://x.com/danveloper/status/2034353876753592372)
       * SSD에서 209GB 모델 스트리밍, Metal 컴퓨트 셰이더, Python 의존성 없음
+  * [qwenputer: A computer, compiled into the weights of a language model — an exact CPU inside Qwen3.5-4B, with Gated DeltaNet state as RAM | divagr18](https://github.com/divagr18/qwenputer)
+    * [divagr1925/Qwen3.5-4B-Qwenputer · Hugging Face](https://huggingface.co/divagr1925/Qwen3.5-4B-Qwenputer)
+    * [AI Agents KR | LLM의 가중치 안에 실제 CPU를 구현한 실험적인 모델, Qwenputer가 공개되었습니다 | Facebook](https://www.facebook.com/groups/9546662462016100/posts/30013760514879661/)
+    * 플러그인·도구·샌드박스가 아니라 Qwen3.5-4B의 32개 레이어 앞에 11개 트랜스포머 레이어로 32비트 RISC-V CPU(RV32IM+Zba, bignum 코프로세서)를 넣은 실험 모델—이 레이어들의 약 100만 가중치는 학습이 아니라 컴파일러가 전부 계산하고 Qwen의 원래 가중치는 건드리지 않음. RAM은 Qwen3.5 Gated DeltaNet 레이어의 상태 행렬: delta rule이 한 번에 한 행을 정확히 덮어쓰므로 각 행이 메모리 셀이 되어 코드·데이터·레지스터·프로그램 카운터를 담음. C와 MicroPython이 모델의 forward pass 안에서 실행되고 공식 riscv-tests를 통과
+    * Qwen은 학습된 `<tool_call>` 형식으로 `calc`를 호출하지만 바깥에서는 아무것도 실행되지 않음—컴퓨터 레이어가 호출을 읽어 CPU에서 돌리고 모델 자신이 `<tool_response>`를 한 자리씩 써냄(런타임·샌드박스·툴 실행기 없음). 정수 연산 정확도 75%→97.5%, DeepMind 대형 정수 곱셈 55%→97.5%·나눗셈 72.5%→97.5%, 복합 연산 90%→100%, CPU 출력 위치 약 23만 개를 참조 구현과 대조해 불일치 0, 텍스트 동작은 베이스와 동일(KL 6e-4). Triton 실행기로 L4에서 약 3,200 트레이스 토큰/초, BF16 약 18.8GB, Apache-2.0. 확률적 다음 토큰 예측기 안에 결정론적 명령 실행 컴퓨터를 심은 아키텍처 가능성—단, 실험적 구현이며 추론 능력 전반이 좋아지는 것은 아님. 파일시스템·NPU 변형과 벡터 유닛 QwenPU도 공개
   * [Qwen3.6](https://qwen.ai/blog?id=qwen3.6)
     * [Qwen3.6-Plus 기술 업데이트 핵심 정리: 에이전트 코딩과 멀티모달 AI의 실제 활용 단계 진입](https://digitalbourgeois.tistory.com/2947)
     * 100만 토큰 컨텍스트, 에이전트 코딩(터미널 명령, 파일 수정, 멀티스텝 계획), 멀티모달 추론 대폭 향상
@@ -5086,6 +5106,10 @@ NLP
   * [OpenLLMetry - LLM 어플리케이션을 위한 오픈소스 Observability | GeekNews](https://news.hada.io/topic?id=13482)
 
 ## Language Model LM RAG
+* [RAG(Retrieval-Augmented Generation) 개념 및 구현 — 7가지 RAG 방법론 | webnautes](https://webnautes.com/ragretrieval-augmented-generation-%EA%B0%9C%EB%85%90-%EB%B0%8F-%EA%B5%AC%ED%98%84)
+  * "검색해서 LLM에 주면 끝"이 아니라 엉뚱한 검색 결과·무관한 문서 혼입·문서를 무시하는 생성·비용 폭발 같은 문제를 하나씩 풀며 진화한 7가지 방법론—Naive RAG→Advanced RAG→Modular RAG, 그리고 특수 요구에 맞춘 Graph RAG·Self-RAG·Agentic RAG·Corrective RAG—와 공통 기반 기술(코사인 유사도 등)을 간단한 구현 코드와 함께 정리한 연재의 허브 글
+* [RAG란? RAG를 써도 AI가 틀리는 이유 | 와탭 WhaTap](https://whatap.io/ko/blog/rag-explained-why-ai-still-wrong)
+  * AI에게 오픈북 시험을 치게 하는 방식—검색(Retrieval)·증강(Augmentation)·생성(Generation) 3단계와 그라운딩 개념, 재학습 없이 최신·비공개 지식을 다루고 출처를 달 수 있어 기본 설계가 된 이유. 그런데도 출처까지 달고 틀리는 이유는 환각을 줄이되 없애진 못하기 때문—검색 단계에서 어긋나는 경우와 생성 단계에서 근거대로 답하지 않는 경우로 나눠 서비스 신뢰성 판단에 필요한 한계를 설명
 * [Jerry Liu on X: "Building good RAG systems is hard, but building LLM-powered QA systems that can scale to large #’s of docs and question types is even harder 📑 We’re excited to introduce multi-document agents (V0) - a step beyond “naive” top-k RAG. Using multi-document agents allows our system… https://t.co/rMH4jwoob9" / X](https://twitter.com/jerryjliu0/status/1708523212366393403)
 * [Why do you need a streaming pipeline instead of a batch pipeline when implementing RAG in your LLM applications? What do you need to implement a streaming pipeline for a financial assistant?](https://www.linkedin.com/posts/pauliusztin_machinelearning-mlops-datascience-activity-7162007367100960768-AVZn/)
 * [캐글에서 살펴본 RAG 트렌드 살펴보기 (1)](https://brunch.co.kr/@hotorch/20)
@@ -5246,6 +5270,11 @@ NLP
   * [RAG 품질 ③ 아키텍처 — LangGraph 기반 Agentic RAG 검색 처리 흐름](https://1week.tistory.com/124)
   * [RAG 품질 ③ 아키텍처 — LangGraph 기반 Agentic RAG 검색 처리 흐름 | 전유성 LinkedIn](https://www.linkedin.com/posts/1week_databricks-rag-mlflow-share-7479026512483000320-L4Yb)
   * 2026-07-04, Databricks 환경. "이거 잘 되고 있는 거 맞나?"에 답하기 위한 3단계—①측정: RAG를 검색·증강·생성으로 나눠 단계별 MLflow Scorer(검색 관련성·충분성, 답변 근거성·정확성)와 골드셋·LLM-as-a-Judge를 갖춰 모든 변경을 같은 잣대로 비교(엉뚱한 답은 검색 탓인지 생성 탓인지 구분) ②개선: 청킹→임베딩→하이브리드 검색→Reranking→Self-RAG 필터→LLM 순으로 직전 최고 구성을 이어받아 한 번에 하나만 교체·재측정하는 누적형(cumulative) 실험(수치는 공개용 재구성 예시) ③수렴: 검증된 구성만 남겨 LangGraph ReAct 구조(Agent 노드 Gemini 3 Flash가 검색 쿼리/최종 답변 생성, 검색 노드가 시맨틱+키워드 하이브리드 검색과 Self-RAG 적합성 판정을 반복)로 정리. 어떤 기법이 이길지는 데이터마다 다르므로 과정 자체가 재사용 자산
+* Databricks LLMOps 시리즈 — AI Gateway·Prompt Registry·MLflow Tracing | 전유성(1week)
+  * [Databricks LLMOps ① AI Gateway — LLM 폴백·게이트웨이 프록시·Inference Table 로깅](https://1week.tistory.com/127)
+  * [Databricks LLMOps ② Prompt Registry — UC 기반 프롬프트 버전·alias 관리](https://1week.tistory.com/126)
+  * [Databricks LLMOps ③ MLflow Tracing — LangGraph 관측·한국어 PII 마스킹](https://1week.tistory.com/128)
+  * 서울 리전 워크스페이스에서 실제 검증한 LangGraph RAG 에이전트의 운영 3종 세트. ①게이트웨이: 1순위 모델이 429/5XX로 실패하면 다음 모델로 자동 전환하는 Fallbacks(external model 전용), 요청/응답 원문을 UC Delta 테이블에 비동기 적재하는 Inference Table, 토큰·요청 수 시스템 테이블(Usage tracking), QPM/TPM Rate limit, Traffic splitting—AI Guardrails(Safety·PII)는 서울 미지원. ②프롬프트 레지스트리(Managed MLflow Prompt Registry, Preview 토글 필요): 프롬프트가 Unity Catalog에 function류 엔티티로 저장돼 스키마 레벨 권한(CREATE FUNCTION·EXECUTE·MANAGE), 버전·alias 관리와 변수 주입, system 문자열만 떼어 쓰면 Text·메시지 구조까지 버전 관리하려면 Chat 타입. ③트레이싱: `mlflow.langchain.autolog()` 한 줄로 LLM·도구·노드 호출을 span 트리로 캡처하고, `mlflow.tracing.configure(span_processors=...)` 훅으로 원본 PII가 데이터 평면 밖으로 나가기 전 클라이언트 단에서 한국어 PII를 마스킹
 * [AutoRAG: RAG AutoML Tool - Find optimal RAG pipeline for your own data.](https://github.com/Marker-Inc-Korea/AutoRAG)
   * 같은 저장소가 AutoRAG 2.0 "AutoRAG Agent"(Now your agent can find anything in your computer)로 전면 개편—Pi 에이전트 프레임워크 기반 self-evolving librarian agent(npm @autorag/librarian, Node 24+). 데이터를 벡터 DB로 옮기지 않고 제자리에서 연합 검색(BM25·벡터·RRF 하이브리드·Jikji find-first·datasource skills), MinSync CDC 청크 자동 관리, ~/.autorag/memory.json에 검색 방법별 성과를 기억해 자주 쓸수록 똑똑해짐, bash로 원문을 직접 열어 검증. 기존 Python RAG AutoML 도구는 legacy로 유지보수(pip install AutoRAG)
   * [🤖 E01. #AutoRAG 처음 사용자를 위한 튜토리얼 by Markr.AI 김동규 - YouTube](https://www.youtube.com/watch?v=rA5SoBXB8R4)
@@ -5337,6 +5366,8 @@ NLP
 * [R2R is a prod-ready RAG (Retrieval-Augmented Generation) engine with a RESTful API. R2R includes hybrid search, knowledge graphs, and more](https://github.com/SciPhi-AI/R2R)
   * [R2R V2 - 프로덕션 준비된 오픈 소스 RAG 엔진 | GeekNews](https://news.hada.io/topic?id=15575)
 * [RAG-Anything: "RAG-Anything: All-in-One RAG System"](https://github.com/HKUDS/RAG-Anything)
+  * [2510.12323 RAG-Anything: All-in-One RAG Framework](https://arxiv.org/html/2510.12323v1)
+    * Guo·Ren·Xu·Zhang 외(HKU). 현대 지식 저장소는 텍스트·시각 요소·표·수식이 섞인 멀티모달인데 기존 RAG는 텍스트에 한정된 불일치를 지적—멀티모달 콘텐츠를 고립된 데이터 타입이 아닌 상호 연결된 지식 엔티티로 재개념화하고, 교차 모달 관계와 텍스트 의미를 함께 잡는 이중 그래프 구축으로 모든 모달리티에 걸친 지식 검색을 통합. Python, MIT, 24k stars
   * [All-in-One RAG System!](https://www.linkedin.com/posts/sumanth077_all-in-one-rag-system-rag-anything-is-a-activity-7366372905531691008-LjGy/)
   * [A Graph-powered all-in-one RAG system! (100% open-source and multimodal) Modern documents increasingly contain diverse multimodal content like text, images, tables, equations, charts, and… | Akshay Pachaar | 댓글 17](https://www.linkedin.com/posts/akshay-pachaar_a-graph-powered-all-in-one-rag-system-activity-7376976934632730624-pDkL)
 * Ragas [Introduction | Ragas](https://docs.ragas.io/)
@@ -5347,6 +5378,8 @@ NLP
   * [Retrieval-Augmented Generation for Large Language Models: A Survey - 요즘 주목받는 키워드 중 하나인 RAG(Retrieval-Augmented Generation)에 대한 종합적인 연구동향 조사 분석 분석](https://www.facebook.com/1biit/posts/pfbid02ELvS8Qo77LKJJ9qLBg5AgWzpeR2FTb3HXg2ByKyvoeAsjdsown9SumY9uJkUDxr1l)
 * [retriever-simple-benchmark: Make running benchmark simple yet maintainable, again. Now only supports Korean-based cross-encoder](https://github.com/instructkr/retriever-simple-benchmark)
   * [가볍고 효율적인 RAG 모델 평가 코드 프로젝트 | GeekNews](https://news.hada.io/topic?id=18501)
+* [swirl-search: AI Search & RAG Without Moving Your Data — instant answers from your company's knowledge across 100+ apps while keeping data secure | swirlai](https://github.com/swirlai/swirl-search)
+  * 데이터를 옮기거나 재색인하지 않고 100개 이상의 앱·DB·검색 엔진에 동시에 질의해 결과를 통합·재랭킹하고 그 위에 RAG로 답하는 엔터프라이즈 AI 검색(Python, Apache-2.0, 3k stars). 데이터가 원래 시스템에 남아 보안·권한을 유지하며 수 분 내 배포
 * [text-embeddings-inference: A blazing fast inference solution for text embeddings models](https://github.com/huggingface/text-embeddings-inference)
   * [HuggingFace TEI(Text Embeddings Inference) 아키텍처 심층 분석](https://kr.linkedin.com/pulse/huggingface-teitext-embeddings-inference-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EC%8B%AC%EC%B8%B5-%EB%B6%84%EC%84%9D-sigrid-jin--k3jgc)
     * [HuggingFace TEI(Text Embeddings Inference) 아키텍처 심층 분석 | Jin Hyung Park (Sigrid Jin) 🌈](https://www.linkedin.com/posts/sigridjineth_%EC%9E%90%EC%97%B0%EC%96%B4-%EC%B2%98%EB%A6%AC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A5%BC-%ED%95%98%EB%8B%A4-%EB%B3%B4%EB%A9%B4-%ED%85%8D%EC%8A%A4%ED%8A%B8%EB%A5%BC-%EC%88%AB%EC%9E%90-%EB%B2%A1%ED%84%B0%EB%A1%9C-%EB%B0%94%EA%BE%B8%EB%8A%94-%EC%9E%84%EB%B2%A0%EB%94%A9-%EC%9E%91%EC%97%85%EC%9D%84-ugcPost-7402511241640091648-nNmU)
@@ -5364,6 +5397,8 @@ NLP
     * [4/4 MCP로 완성하기 - Claude가 회사 지식을 쓰게 만들기](https://www.fullstackfamily.com/@urstory/posts/13984)
     * 튜토리얼식 "기본 RAG"(청킹→벡터DB→유사 청크→프롬프트)가 문서가 수천 개로 늘면 무너지는 이유에서 출발해 DoorDash·LinkedIn·RBC 등 실제 아키텍처를 소규모 기업 예산으로 재설계하는 4부작—①실패 원인과 온톨로지·지식 그래프를 포함한 아키텍처 조건 ②실패의 80%는 데이터 준비 단계: 수집·전처리·청킹·Anthropic Contextual Retrieval로 문맥 부착·Ollama 임베딩·ChromaDB 인덱싱 6단계 파이프라인(API 비용 없이 로컬) ③하이브리드 검색+리랭킹으로 정확도 30%+ 향상, DoorDash식 가드레일로 할루시네이션 억제, RAGAS 평가와 Langfuse 모니터링 ④FastMCP 3.0으로 검색 파이프라인을 MCP 서버로 포장해 Claude Desktop·Claude Code에 연결, 인증·프로덕션 배포까지—인사·영업팀이 터미널 없이 Claude에게 물어 사내 문서를 쓰게 하는 것이 최종 목표
   * PGVector + Elasticsearch(Nori) 하이브리드 검색, bge-reranker-v2-m3-ko 한국어 리랭킹, HyDE 합성 문서, PII 마스킹·프롬프트 인젝션 방어. RAGAS 자동 평가 + Langfuse v3 모니터링. 평균 92.0/100점, 96% 성공률
+  * [한국어 RAG, 제대로 만들어보자: urstory-rag 오픈소스 프로젝트를 시작합니다 | 김성박, FSF](https://www.fullstackfamily.com/notes/14009)
+    * 영어 튜토리얼을 따라 만들면 한국어 문서에서 검색 정확도가 뚝 떨어지는 이유—토크나이징, 한국어를 모르는 리랭커("서울특별시"와 "서울대학교"를 같은 맥락으로 묶음), 가드레일 없는 할루시네이션 노출. "소규모 기업을 위한 제대로 된 RAG 시스템" 블로그 4편(실패 원인→전처리→하이브리드 검색·가드레일→MCP 통합)에서 쌓인 코드를 오픈소스로 전환하고 Good First Issue부터 아키텍처 이슈까지 20개를 열어 기여자 모집. FastAPI+Haystack 2.x 백엔드, Next.js 15 어드민, Redis+Celery 비동기, PGVector 벡터+Elasticsearch 키워드를 RRF로 결합→CrossEncoder 리랭킹→6중 가드레일
 * [WeKnora: LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm](https://github.com/Tencent/WeKnora)
   * [Tencent 올인원 RAG 프레임워크를 오픈소스로 | HaYeJin Kang](https://www.linkedin.com/posts/h4y3j1n_tencent-activity-7407555266591932416-7ScG)
     * ReACT 패턴으로 지식베이스 + 웹 검색 + MCP 도구까지 알아서 조합해서 답변하도록 개발
