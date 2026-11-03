@@ -121,6 +121,9 @@ Presentation
   * [PPT Master: AI로 문서 기반 PowerPoint를 생성하고 편집하는 오픈소스 도구 | digitalbourgeois](https://digitalbourgeois.tistory.com/3826)
     * 2026-10-17. 특정 AI 모델이 아니라 AI 채팅 환경에서 에이전트가 수행하는 워크플로—PDF·DOCX·이미지 등 자료로 슬라이드를 만들되 이미지가 아닌 PowerPoint 네이티브 객체(개별 선택·수정 가능한 텍스트·도형, 데이터 기반 차트·표, 텍스트 효과, 커넥터)로 내보냄. 기존 프레젠테이션 디자인을 유지한 채 새 내용 반영, 참고 자료에서 재사용 템플릿 추출. MIT(README 기반 정리, 실제 생성 품질은 미검증)
   * 이미지가 아닌 실제 PowerPoint 도형·텍스트 상자를 생성하여 완전 편집 가능한 프레젠테이션 자동 생성
+  * [직장인 야근 탈출 치트키? PPT 뼈대 제대로 만들어주는 미친 오픈소스.. | 성공지식백과 - YouTube](https://www.youtube.com/watch?v=FIH_ZAxtQtU)
+    * 워드 파일 하나로 그림이 아니라 파워포인트에서 바로 고칠 수 있는 진짜 PPT(글자·도형·표·차트가 개별 개체)를 만드는 시연—2026 하반기 팀 워크숍 기획안을 Claude Code에서 PPT로 만들고, 슬라이드 그림·영상은 Higgsfield(Kling 4.0)를 MCP로 붙여 대화창에서 생성(광고 포함)
+  * 2026-10 현황(Python, MIT, 72.5k stars, 예제 72개·1,012페이지·템플릿 72개, Kimi 후원): "편집 가능은 이제 기본, 관건은 PowerPoint의 네이티브 깊이"—슬라이드 마스터, 조정 핸들이 살아 있는 네이티브 도형·커넥터, 데이터 기반 차트·표, 전환·애니메이션, 발표자 노트 기반 오디오 내레이션, 자체 .pptx 템플릿 지원. 형태는 에이전트 가능 AI 도구 안에서 돌아가는 "스킬"—채팅으로 "이 PDF로 덱 만들어"라고 하면 내 머신에서 워크플로를 돌려 .pptx 내보내기(참조에서 브랜드·스타일·레이아웃 템플릿 추출, 기존 .pptx에 새 내용 채우기도). 무료·오픈소스(모델 사용료만), 데이터 로컬, 플랫폼 종속 없음(Claude·GPT·Gemini·Kimi). "harness + model = agent"—도구는 워크플로만 담당하고 천장은 모델이 정하므로 1M 컨텍스트급 모델(Kimi K3·Claude)+이미지 생성 권장
 * [PPT Reverse Prompt - AI PowerPoint Design Style Analyzer | genppt.ai](https://genppt.ai/ppt-reverse-prompt)
   * [PPT Reverse Prompt라는 개념이 뜨고 있네요 | Duckjung Kim | LinkedIn](https://www.linkedin.com/posts/duckjungkim_%EC%96%BC%EB%A7%88%EC%A0%84%EA%B9%8C%EC%A7%80%EB%A7%8C-%ED%95%B4%EB%8F%84-chatgpt%EB%A5%BC-%EC%9E%98-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-%EC%9C%84%ED%95%B4-reverse-prompt-activity-7429881050136313856-UNbp)
   * PPTX(최대 50MB)를 업로드하면 색상·타이포그래피·레이아웃·비주얼 요소·디자인 톤을 구조화된 마크다운 프롬프트로 역추출—Manus·Skywork·NotebookLM 등이 슬라이드를 생성하는 시대에 **회사 템플릿 기반 아웃풋을 만들기 위한 'PPT 역프롬프트'**가 새 작업이 되고 있다는 관찰
