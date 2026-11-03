@@ -2931,6 +2931,8 @@ App
 * [SponsorBlock: Skip YouTube video sponsors (browser extension)](https://github.com/ajayyy/SponsorBlock)
   * [SponsorBlock - Skip over YouTube Sponsors - Sponsorship Skipper](https://sponsor.ajay.app/)
   * [SponsorBlock – 유튜브 스폰서 광고 건너뛰기 기능 확장 | GeekNews](https://news.hada.io/topic?id=16309)
+* [쌤컷(SsamCut) — 설치 없는 무료 웹 영상 편집기 | 어비(UhBee)](https://ssamtool.com/tool/cut)
+  * 크롬에서 바로 쓰는 무료 브라우저 영상 편집기(광고·결제 없음, Google 로그인, 사용자 5.9만+)—영상이 서버로 올라가지 않고 내 컴퓨터에서만 편집. 타임라인 컷·이어붙이기·멀티트랙, 음성 인식 자동 자막과 텍스트, 배경음악·효과음·속도 조절, 필터·마스크·크로마키·전환·키프레임 애니메이션, 16:9/9:16/1:1 즉시 전환, 워터마크 없는 MP4 내보내기, 폰 편집 베타. NEW: `ssamtool.com/mcp`를 Claude·ChatGPT에 커스텀 커넥터(MCP)로 붙이면 AI가 편집기에서 컷·자막·효과·전환·내보내기를 대화로 직접 수행
 * [StykAnimate: the free animation studio for stick figures](https://stykanimate.com/)
   * [StykAnimate-App: Free, open-source stick figure animation app for Windows, Linux and the browser. Opens Pivot and Stick Nodes projects](https://github.com/filippocalippo/StykAnimate-App)
   * [StykAnimate Is Now Open Source - YouTube](https://www.youtube.com/watch?v=S1em5t5msx0)
