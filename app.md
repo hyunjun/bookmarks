@@ -2829,6 +2829,8 @@ App
   * [비디오 파일의 파일명에 날짜와 시간을 박는 bash script | 웹으로 말하기](https://mytory.net/2022/08/06/add-datetime-to-video-file-script.html)
 * [Exposé - A simple static site generator for photoessays](https://github.com/Jack000/Expose)
 * [fastocloud: Self-hosted IPTV/NVR/CCTV/Video service](https://github.com/fastogt/fastocloud)
+* [ff-tracking: A virtual camera films an AI agent's screen while a tracker locks onto every glyph — two fframes passes, one SkSL shader, all sound synthesized | mrsarac](https://github.com/mrsarac/ff-tracking)
+  * 터미널에서 에이전트가 `thinking…`→`reading 14 files`→`tool_call: render_frame()`→`✓ 0 problems`→`Done`으로 생각을 내보이는 동안 컴퓨터 비전 트래커가 새로 찍힌 글자를 따라가고 한순간도 멈추지 않는 카메라가 화면을 근접 촬영하는 6초 영상—푸티지도 스톡 오디오도 없이 모든 픽셀과 소리가 코드에서 나옴(Rust 영상 프레임워크 fframes 2패스+SkSL 셰이더, 사운드 합성). 화면의 `x: 1403 y: 559` 라벨은 그 프레임에서 박스의 실제 픽셀 좌표. 2부 ff-unmute는 코드로 쓴 음악과 소리에서 측정한 숫자. Rust, MIT
 * Files [Single-file PHP file manager, browser and photo gallery | Files](https://www.files.gallery/)
 * [filmora9 - Discover the power of storytelling with Filmora](https://filmora.wondershare.com)
 * [Filmulator - A simple raw photo editor based on the process of developing film](https://filmulator.org/)
