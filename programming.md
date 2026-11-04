@@ -4495,6 +4495,9 @@ Programming
   * [오라클 클라우드 인스턴스 방화벽 허용 명령 – 형우의 웹개발](https://mytory.net/archives/15552)
   * [Oracle Cloud: Bring your own LB for self-managed clusters](https://www.loxilb.io/post/oracle-cloud-bring-your-own-lb-for-self-managed-clusters)
   * [클라우드를 가지고 놀아보세요.](https://velog.io/@480/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%EB%A5%BC-%EA%B0%80%EC%A7%80%EA%B3%A0-%EB%86%80%EC%95%84%EB%B3%B4%EC%84%B8%EC%9A%94)
+  * [Oracle Cloud에서 무료로 가상 컴퓨터(VM)를 만들어 쓸 수 있다 — 인스턴스 생성 과정 기록 | Spike Jee](https://www.linkedin.com/posts/spike-jee-480225a_oracle-cloud%EC%97%90%EC%84%9C-%EB%AC%B4%EB%A3%8C%EB%A1%9C-%EA%B0%80%EC%83%81-%EC%BB%B4%ED%93%A8%ED%84%B0vm%EB%A5%BC-%EB%A7%8C%EB%93%A4%EC%96%B4-%EC%93%B8-%EC%88%98-%EC%9E%88%EB%8B%A4-share-7513122493189079040-bVJH/)
+    * [dev-server-setup: 개발 서버 초기 설정 스크립트 | jay-jang](https://github.com/jay-jang/dev-server-setup)
+    * GPU 없고 진지한 서비스는 무리지만 SSH로 일상 작업하기엔 유용한 Always Free VM—한때 4 OCPU·24GB까지였던 무료 한도가 2 OCPU·12GB로 줄었다는 점(1 OCPU=물리 코어 1개, aarch64 ARMv8.2+ 약 3.0GHz). 계정 생성(카드 번호 필요하나 과금 없음, 한국 리전이 없어 Tokyo 선택), MFA는 Oracle 앱 대신 "Offline Mode or Use Another Authenticator App"으로 Google OTP, Compute→Create VM에서 Canonical Ubuntu 26.04 Minimal aarch64 이미지·Ampere VM.Standard.A1.Flex 셰이프·새 VCN과 public subnet·공개 IP 자동 할당 순으로 기록. 댓글에 Jungshik Jang의 서버 셋업 스크립트
 * [Piku - the tiniest PaaS you've ever seen. Git push deployments to your own servers](https://piku.github.io/)
   * [piku - 초경량 PaaS | GeekNews](https://news.hada.io/topic?id=3659)
 * [Ploomber - Build data pipelines. FAST.⚡️](https://ploomber.io/)
