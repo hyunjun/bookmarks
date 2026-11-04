@@ -1702,6 +1702,8 @@ AWS
 * [Amazon EKS 로 시작하는 Kubernetes — Intro | by SangHyo Han | Medium](https://medium.com/@tkdgy0801/amazon-eks-%EB%A1%9C-%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94-kubernetes-intro-83fd3ef2f10e)
 * [EKS AutoScaling 하기 Part 1 — Horizontal Pod Autoscaler With Custom Metrics | by SangHyo Han | Medium](https://medium.com/@tkdgy0801/eks-autoscaling-%ED%95%98%EA%B8%B0-part-1-horizontal-pod-autoscaler-with-custom-metrics-2274566463f9)
 * [EKS AutoScaling 하기 Part 2—IAM Role for Service Account & EKS Cluster Autoscaler | by SangHyo Han | Medium](https://medium.com/@tkdgy0801/eks-autoscaling-%ED%95%98%EA%B8%B0-part-2-iam-role-for-service-account-eks-cluster-autoscaler-c3bbb0d44d1b)
+* [Cluster Autoscaler Setup (A Step-by-Step Guide) | DevOpsCube](https://devopscube.com/cluster-autoscaler/)
+  * Aswin Vijayan. EKS는 기본적으로 노드 오토스케일링이 꺼져 있어 HPA를 켜도 노드 자원이 소진되면 파드가 Pending에 머무는 문제를 Cluster Autoscaler로 해결하는 실습—동작 원리, IAM 정책·IAM 역할 생성과 서비스 어카운트 연결, Cluster Autoscaler YAML 수정·배포, 테스트, 흔한 문제 해결(노드 그룹 미감지, Pending 파드, 스케일 다운 안 됨, Autoscaler 파드 evict)과 모범 사례
 * [AWS EKS Service Account에 AWS IAM Role 부여 | Ssup2 Blog](https://ssup2.github.io/theory_analysis/AWS_EKS_Service_Account_IAM_Role/)
 * [AWS EKS - kubernetes 1.22 설치 및 Tip](https://gasidaseo.notion.site/AWS-EKS-kubernetes-1-22-Tip-a1cbf1ee96724b2a9ffcc6ed09bb3de4)
 * [Apache Airflow와 Amazon EKS가 만났을 때 벌어지는 일 | by MUSINSA tech | MUSINSA tech | Apr, 2022 | Medium](https://medium.com/musinsa-tech/sre-9fe5113de898)
@@ -1761,6 +1763,8 @@ AWS
 * [LLM on EKS: Scaling with Ray & Karpenter | danielcristho](https://danielcristho.site/blog/llm-on-eks-scale-llm)
   * [LLM on EKS: Scaling with Ray & Karpenter | Medium](https://danielpepuho.medium.com/llm-on-eks-scaling-with-ray-karpenter-fc71c30ad6f2)
   * vLLM을 Ray로 EKS에 서빙하고 Karpenter로 오토스케일링
+* [Friendli Container로 LLM 추론 최적화하기 — Amazon EKS Add-on | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/optimizing-llm-inference-using-friendli-container-on-amazon-eks/)
+  * YongHwan Yoo·Sungbae Park. FriendliAI의 고성능 서빙 스택을 고객 인프라에 바로 들여오는 Docker 이미지 Friendli Container를 EKS Add-on으로 통합—기존 EKS 워크플로에 즉시 추가하고 비용은 AWS 통합 빌링으로 관리. Friendli Dedicated Endpoint의 모든 최적화가 들어 있진 않지만 핵심 기능으로 GPU 사용량 50% 이상 절감, 지연 시간·처리량 2배 이상 개선을 내세움. 역량을 다 쓰려면 GPU 자원 관리·오케스트레이션 인프라가 필수라 EKS와 결합
 * [How to Set Karpenter on Amazon EKS Using Helm (Step-by-Step with NodePool & EC2NodeClass) | Nenis Rudani | Medium](https://medium.com/@cavasakilala/how-to-set-karpenter-on-amazon-eks-using-helm-step-by-step-with-nodepool-ec2nodeclass-600ba094d6b0)
   * [terraform_eks: whole terraform code of eks + karpenter helm repo | nenisrudani7](https://github.com/nenisrudani7/terraform_eks)
   * [Karpenter vs Cluster Autoscaler on EKS | Darryl Ruggles | LinkedIn](https://www.linkedin.com/posts/darryl-ruggles_aws-eks-karpenter-share-7491050585476030464-KguS/)
@@ -1772,6 +1776,9 @@ AWS
     * 개념(고정 노드 그룹→Pending Pod 기반 프로비저닝)·구조(NodePool·NodeClass·Auto Mode, Karpenter는 노드만 만들고 바인딩은 kube-scheduler)·스케일링과 disruption·Auto Mode 심화(설정·용량·진단·비용·마이그레이션)·데모 영상 4편 순서. EKS 1.37·Karpenter v1.15 기준(2026-10-20 확인)
   * 같은 VPC에 EKS 1.37 클러스터 둘(Auto Mode vs Helm 설치 Karpenter 1.15.0)을 같은 NodePool 조건·같은 pause 워크로드로 2026-10-20 동시 측정. **결론: 노드 선택 판단은 같은 Karpenter 엔진이라 같은 인스턴스를 같은 대수로 고르고, 차이는 운영 책임과 기본값**—1.37에서 consolidationPolicy를 비우면 Auto Mode는 `Balanced`(점수=절감 비율/영향 Pod 비율≥0.5), 직접 설치는 `WhenEmptyOrUnderutilized`가 들어가 Git과 live 객체가 달라지므로 정책은 명시할 것. Pending Pod 10개→둘 다 c7i-flex.4xlarge 1대(Ready는 Bottlerocket +15초 vs AL2023 +40초, 단 1회 측정)
   * Drift: NodeClass 변경 시 budget 1대로 한 대씩 교체(maxPods 64를 넣어도 capacity는 56—설정값·인스턴스 IP 수·110 중 최솟값, 같은 EC2NodeClass를 참조하는 다른 NodePool도 함께 교체되니 `@latest` 대신 날짜 고정 권장). Spot 중단(FIS, Karpenter만 가능): 경고 즉시 drain·대체 NodeClaim, 6초 뒤 인스턴스 종료→replica가 한 노드에 몰려 약 30초 Running 0개(topology spread·여러 인스턴스 유형·PDB 필요). 막힌 지점—Auto Mode NodeClass에 tags 넣으면 CreateLaunchTemplate 권한 오류, disruption 쓰면 consolidateAfter 필수, zone spread는 `minDomains: 2` 없으면 노드가 안 늘어남, Helm 버전은 `1.15.0`(v 접두사 불가), Auto Mode 인스턴스는 EC2 목록에서 숨겨져 `kubectl get nodeclaims`로 확인
+* [Going 100% Spot on EKS with Karpenter | Ayoub Reda, Medium](https://medium.com/@ayoubreda/going-100-spot-on-eks-with-karpenter-9278da5f5637)
+  * Anghami/OSN+의 Cloud & DevOps Architect. 대부분의 팀은 배치 잡과 스테이트리스 몇 개만 Spot으로 옮기고 사용자 대면 서비스는 "일단" 온디맨드에 두다 1년 뒤 Spot 20%에서 멈추지만, 이 팀은 60개+ 마이크로서비스·2,000개+ 파드·50~200+ 노드의 프로덕션 EKS에서 모든 애플리케이션 워크로드를 Spot(최대 90% 할인, 2분 회수 통지)에 올림. 논리: 쿠버네티스 위의 서비스는 이미 하드웨어 장애·커널 패닉·AZ 장애·Karpenter consolidation의 노드 드레인을 견뎌야 하므로 노드 하나가 사라져 죽는 서비스는 원래 고장 난 것—Spot은 그걸 자주 일어나게 해 고치게 만들 뿐
+  * 온디맨드에 남긴 것: Istio ingress 게이트웨이(ALB IP 모드 타깃으로 수천 개 장수명 연결을 품어 2분 안에 깔끔히 드레인하기 어려움, 그러나 플릿의 극소수)와 클러스터 자체가 의존하는 컴포넌트—Karpenter(풀 Spot 클러스터에서 유일하게 용량을 더하는 존재라 자기 관리 노드가 아닌 소형 관리형 노드 그룹에), CoreDNS, istiod, AWS Load Balancer Controller. 클러스터 분할, Spot용 Karpenter 설정, 노드 상실이 non-event가 되도록 애플리케이션에 가한 변경을 다룬 전작(Zone-Aware EKS with Karpenter and Istio: Cluster Autoscaler→Karpenter, 전용 노드 그룹→공유 NodePool)의 후속
 * [Deploying to Amazon EKS with GitHub Actions - Octopus Deploy](https://octopus.com/blog/deploying-amazon-eks-github-actions)
 * [Kubernetes + EKS + Github Actions | by jerome.decoster | Medium](https://medium.com/@jerome.decoster/kubernetes-eks-github-actions-a874321fb9b4)
 * [EKS Blue/Green 배포 1부. 안녕하세요. 여기어때컴퍼니 인프라개발팀에서 EKS(Elastic… | by Jensen | Sep, 2023 | 여기어때 기술블로그](https://techblog.gccompany.co.kr/eks-blue-green-%EB%B0%B0%ED%8F%AC-1%EB%B6%80-d7e12c113300)
