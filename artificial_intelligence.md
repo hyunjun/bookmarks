@@ -5512,6 +5512,8 @@ Artificial Intelligence
   * 레포가 Ed1s0nZ/CyberStrikeAI → AIPentest/CyberStrikeAI로 이전(구 주소는 리다이렉트). 소유하거나 명시적으로 승인받은 시스템에서만 쓰도록 안내하며, 사람 승인 모드·감사 로그·RBAC 같은 거버넌스 기능 포함. Go, Apache-2.0, 7.4k stars
 * [CYBER-THREAT-INTELLIGENCE-REPORT/KISA-AI Security Threat Response Manual_Review.md at main · gameworkerkim/CYBER-THREAT-INTELLIGENCE-REPORT · GitHub](https://github.com/gameworkerkim/CYBER-THREAT-INTELLIGENCE-REPORT/blob/main/KISA-AI%20Security%20Threat%20Response%20Manual_Review.md)
   * [KISA 「AI 보안 위협 대응 매뉴얼」 리뷰](https://www.linkedin.com/pulse/kisa-ai-%EB%B3%B4%EC%95%88-%EC%9C%84%ED%98%91-%EB%8C%80%EC%9D%91-%EB%A7%A4%EB%89%B4%EC%96%BC-%EB%A6%AC%EB%B7%B0-dennis-kim-rhtyc)
+  * [LLM CISO Skills — Cursor · Claude · ChatGPT · Ollama | Startup_Security_Guide/skills](https://github.com/gameworkerkim/CYBER-THREAT-INTELLIGENCE-REPORT/blob/main/Startup_Security_Guide/skills/README.md)
+    * 같은 레포(Dennis Kim의 TLP:GREEN OSINT CTI 아카이브, 공급망·제로데이·DPRK/APT·AI/LLM 위협·Web3·한국 유출/정책, KR/EN/JP/ZH)의 스타트업 보안 가이드에 딸린 멀티 LLM용 Virtual CISO 스킬 세트—같은 지식(SKIL JSON: `skil/controls/cloud.json`, `skil/policies/pipa.json` 등)을 Cursor Agent Skill(`ciso-cloud`·`ciso-core`·`_shared`를 `.cursor/skills/`에 복사, "@ciso-cloud 우리 AWS 계정 보안 점검해줘")과 범용 System Prompt(`SYSTEM_PROMPT.md`를 Claude 커스텀 지침·Custom GPT Instructions·Ollama에 붙이기)로 공유
 * [Decepticon — Autonomous Hacking Agent](https://decepticon.red/)
   * [Decepticon: Autonomous Hacking Agent for Red Team](https://github.com/PurpleAILAB/Decepticon)
   * [레드팀을 위한 자율 해킹 에이전트 Decepticon 기술 정리](https://digitalbourgeois.tistory.com/3157)
@@ -9123,6 +9125,9 @@ Artificial Intelligence
 * [quarkify: Local-first static analysis engine & source code topology map builder](https://github.com/companyjupiter/quarkify)
   * "모든 것은 폴더다" 철학의 설정 기반 정적 분석 엔진. 복잡한 소스코드를 파싱해 구조를 물리적 디렉토리 트리로 materialize—AI 코딩 에이전트(LLM)가 파일을 열지 않고도 대규모 코드베이스를 로컬에서 탐색·분석할 수 있는 AI-Ready Code Map 생성. JavaScript, Apache-2.0
 * [RA.Aid: Develop software autonomously.](https://github.com/ai-christianson/RA.Aid) Coding agent for autonomous software development
+* [reevesagents: Run Claude Code, Codex, Kimi, OpenCode, Hermes and 26 other coding agents using MCP, CLI, TUI or WebUI | mertkayacs](https://github.com/mertkayacs/reevesagents)
+  * [ReevesAgents](https://reevesagents.mertkayacs.com)
+  * AI 코딩 CLI들을 tmux 안에 나란히 띄우는 로컬 워크스페이스(TypeScript, Apache-2.0)—Claude Code·Codex·OpenCode·Hermes·Kimi·DeepSeek·Qwen·Pi·Aider·Gemini CLI·Cline·Goose·Kilo Code·Grok Build·Kiro·Factory Droid·Copilot CLI·Cursor CLI 등. 일반 CLI/TUI/Web UI로 쓰거나 옵트인 MCP를 한 에이전트에 붙여(`reevesagents attach codex`) 그 에이전트가 나머지를 spawn·read·steer·stop하게 함(`spawn claude-code:lead codex:tests hermes:research --prompt …`). 프로바이더 로그인은 각 CLI 안에 그대로, 자체 상태는 `~/.reeves`의 평문 JSON 몇 개, 쓰는 동안만 실행. Windows 10 1809+는 WSL 없이 ConPTY 위에서 tmux 호환 멀티플렉서 winmux가 백그라운드 서버로 돌아 UI를 닫아도 에이전트가 계속 실행. 코딩 CLI 옆의 도구 4종(Perplexity CLI 웹 검색, Google Colab CLI로 CPU/GPU/TPU 런타임 실행, Hugging Face CLI, Ollama)을 에이전트가 자기 셸에서 호출
 * [remodex: Local-first open-source bridge + iOS app for remote Codex control](https://github.com/Emanuele-web04/remodex)
   * [iPhone으로 Mac의 Codex를 제어한다 - 로컬 퍼스트 원격 개발 도구 Remodex 완전 정리](https://digitalbourgeois.tistory.com/2890)
 * [reverse-api-engineer: Claude engineer that captures traffic, writes documentation and automatically generates API clients](https://github.com/kalil0321/reverse-api-engineer)
