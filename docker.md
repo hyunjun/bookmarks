@@ -1761,6 +1761,8 @@ Docker
     * 플랫폼 전체 공개에 앞서 KAI Scheduler만 Apache-2.0으로 먼저 열었던 NVIDIA 기술 블로그—Kubernetes 네이티브 GPU 스케줄러가 풀려는 문제: 요동치는 GPU 수요(fair-share를 실시간 재계산해 할당량·한도 조정), 대기 시간 단축(갱 스케줄링+GPU 공유+계층형 큐로 배치 제출 후 자리 비워도 순서대로 실행), 자원 보장·GPU 할당, AI 도구·프레임워크 연결. 스케줄링 사이클과 액션 설명
   * NVIDIA가 오픈소스로 공개한 AI 워크로드·GPU 오케스트레이션 플랫폼(2026-10). 여러 팀이 공유하는 GPU 인프라에서 개발 워크스페이스·단일/분산 학습·추론 서비스를 배치하고 자원을 배분—GPU 하나를 여러 작업에 분할(fractional), 유휴 자원 동적 활용, fair-share·선점·회수·우선순위·GPU 토폴로지 인식 스케줄링, 부서·프로젝트별 할당량과 정책으로 독점 방지
   * 구조: 컨트롤 플레인(중앙 자원 관리·워크로드 제출·모니터링·분석, 여러 클러스터 연결)+클러스터 서비스(각 K8s 클러스터에서 네이티브 스케줄링을 GPU 인식 기능으로 확장). 온프레미스·클라우드·하이브리드, Kubernetes/OpenShift 자체 설치·폐쇄망 배포, Kubeflow·Ray·KServe 연동, 웹 UI·CLI·REST API에 MCP 서버로 AI 어시스턴트에서도 조작, 역할별 접근 제어·GPU/노드/작업별 사용량 모니터링. 모노레포에 컨트롤 플레인·오퍼레이터/컨트롤러·설치기·CLI·MCP 서버·로컬 개발 환경 포함. 오픈소스판은 NGC 인증 없이 설치 가능. Go, Apache-2.0
+  * [NVIDIA Run:ai 실습 튜토리얼 — Kubernetes 기반 GPU 자원 관리 및 AI 워크로드 오케스트레이션 | 네이버 블로그](https://blog.naver.com/lims_land/224445472890)
+    * 설치에서 끝나지 않고 실제 AI 인프라 관리자의 작업을 10단계로 실습—아키텍처(Control Plane·Cluster·KAI Scheduler) 이해, Docker·Kind 개발 환경, GitHub 소스 기반 로컬 설치, 웹 UI로 클러스터·GPU 확인, 프로젝트·사용자와 GPU Quota, Training Job 실행, 우선순위·자원 공유·선점 스케줄링, GPU 모니터링, Python으로 CLI·REST API 제어, NVIDIA GPU Operator 연동. GPU 없는 PC는 `local-dev.sh`의 fake-gpu-operator로 CUDA 연산을 제외한 전 기능을 체험, 실제 GPU 환경은 `--gpu-operator` 옵션(권장 사양표 포함)
 * [Kubernetes K8s Article - YouTube](https://www.youtube.com/watch?v=rld_y56Q09I)
 * [About - Kubernetes](https://kubernetes.youngwjung.com/)
 * [Real time issue in Kubernetes | how do we restore tomcat application in Kubernetes #aks #kubernetes - YouTube](https://www.youtube.com/watch?v=FK2ljTJlIsE)
@@ -3355,6 +3357,8 @@ Docker
 * [qemu: QEMU in a Docker container](https://github.com/qemus/qemu)
 * [qontainer: QEMU in Docker, but in Container Native way!](https://github.com/iwanhae/qontainer)
 * [registry.hub.docker.com](https://registry.hub.docker.com)
+* [Repo2Run: LLM-based agent that automates environment configuration by generating error-free Dockerfiles for Python repositories | bytedance](https://github.com/bytedance/Repo2Run)
+  * NeurIPS 2025 스포트라이트 논문 "Repo2Run: Automated Building Executable Environment for Code Repository at Scale"의 구현(Python, Apache-2.0). 컨테이너화된 빌드 과정을 관리·자동화하는 LLM 빌드 에이전트—Docker 샌드박스에서 격리 빌드, 의존성 자동 관리와 충돌 해소(패키지 대기 목록·충돌 목록), Python 버전 관리, 오류 형식 처리와 출력 수집을 거쳐 오류 없는 Dockerfile을 생성
 * [rocker-compose - Docker composition tool with idempotency features for deploying apps composed of multiple containers](https://github.com/grammarly/rocker-compose)
 * [Sandboxie: Sandboxie - Open Source](https://github.com/sandboxie-plus/Sandboxie)
 * [seagull - Friendly Web UI to manage and monitor docker](https://github.com/tobegit3hub/seagull)
@@ -3649,4 +3653,8 @@ Docker
 * [윈도우 Docker - ubuntu GUI를 사용 가능한 방법](https://open-support.tistory.com/entry/%EC%9C%88%EB%8F%84%EC%9A%B0-Docker-ubuntu-GUI%EB%A5%BC-%EC%82%AC%EC%9A%A9-%EA%B0%80%EB%8A%A5%ED%95%9C-%EB%B0%A9%EB%B2%95)
 * [No more Docker Desktop! WSL Containers are here with wslc! - YouTube](https://www.youtube.com/watch?v=4mkSbJUZpLs)
   * Ed Andersen. Docker Desktop·Podman·Rancher 같은 서드파티 없이 WSL2에서 컨테이너를 네이티브로 실행하는 Microsoft `wslc`. [공식 문서](https://learn.microsoft.com/en-us/windows/wsl/wsl-container)
+* [WSL improvements and the new Containers CLI and APIs | DEM346, Microsoft Build 2026 - YouTube](https://www.youtube.com/watch?v=i0M13ZvL04M)
+  * [Build26-DEM346-whats-new-in-windows-subsystem-for-linux: Demo resources covering the latest WSL features including WSL Containers | microsoft](https://github.com/microsoft/Build26-DEM346-whats-new-in-windows-subsystem-for-linux)
+    * WSL 2.8+와 WSL Container 지원(`wslc`)으로 따라 하는 데모 4종—Linux 렌더러를 WSL Container SDK로 네이티브 Windows 실행 파일로 패키징(WSLC-Moonray), 컨테이너화된 Linux 데스크톱을 Windows로 스트리밍하는 WinUI 3 앱(Herbert Stock Trader), GPU 지원 WSL Container 안에서 신경망 최적화를 시각화하는 Triton 빌드 데모(Kernel Vision), Linux 파일 분석 도구를 컨테이너에서 돌리는 Flask 웹앱(WSL File Inspector). Vue, MIT
+  * Craig Loewen·Pooja Trivedi의 400 레벨 데모 세션. 세 가지 핵심—로컬 Linux 컨테이너가 WSL에 내장되고, 별도 설치 없이 WSL 업데이트만으로 완전한 WSL Containers가 제공되며, 엔터프라이즈 준비 완료. WSL 코어의 end-to-end 개선과 애플리케이션용 Container CLI·API
 * [docker-qemu-win2000: A Docker image for Windows 2000 Advanced Server with SP4](https://github.com/hectorm/docker-qemu-win2000)
