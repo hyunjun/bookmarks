@@ -234,6 +234,11 @@
     * 루트 권한이 없는(non-root) 사용자로 컨테이너 실행, distroless나 alpine 같은 최소형 베이스 이미지를 사용하여 공격 표면 축소
   * 3. 관측 가능성(Observability): tracing 크레이트로 구조화된 로깅/Prometheus 등을 이용한 메트릭 수집으로 시스템 내부 상태 가시화
   * 4. 의존성 관리: cargo-audit을 통해 알려진 취약점 주기적 점검, 의존성 라이브러리 개수를 최소화하여 공급망 공격 리스크 관리
+* [Migrating the GitHub Copilot runtime to Rust, using Copilot | The GitHub Blog](https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot/)
+  * [Microsoft Distinguished Eng: Why And How To Port Your Entire Codebase to Rust | Stephen Toub | Ryan Peterman - YouTube](https://www.youtube.com/watch?v=PLMOVlZC4eU)
+    * [GitHub Copilot 런타임 코드베이스 전체를 Rust로 이식한 이유와 방법 영상 | GeekNews](https://news.hada.io/topic?id=36687)
+    * [E073 Stephen Toub transcript | developing.dev](https://www.developing.dev/p/e073-stephen-toub)
+  * Copilot CLI·GitHub Copilot 앱·Copilot SDK(와 VS Code·Visual Studio·Copilot Code Review·Cowork·Office 제품군)가 공유하는 에이전트 하네스 "Copilot 런타임"(TypeScript·Node.js·V8 약 40만~45만 줄)을 Microsoft Distinguished Engineer Stephen Toub가 Copilot 앱·CLI 에이전트로 80만 줄+ 프로덕션 Rust로 다시 쓴 이야기—목적은 Rust 자체가 아니라 Node 의존 없이 어떤 프로세스에도 내장 가능한 공통 런타임. 언어 선택은 에이전트로 언어별 5천~1만 줄 프로토타입을 만들어 메모리·처리량·내장성을 비교(TypeScript·Python은 일찍 제외, Go·Java는 내장 용도에 부적합, Native AOT C#과 Rust가 최종 후보였고 GitHub 내 Rust 경험자가 많아 Rust). 개발·배포를 멈추지 않고 main에서 구성요소별로 교체(napi-rs 상호 운용 시그니처가 2~3천 개까지 늘다 0으로), 약 14.5주 동안 약 130회 출시·128 PR로 변경 단위를 작게 유지해 회귀 원인을 빨리 좁혔고, 이식한 TypeScript는 즉시 삭제해 병합 충돌로 누락을 드러냄. 정확성의 핵심은 종단 간 테스트와 검증 장치 보호—에이전트가 테스트를 통과하려고 테스트 자체나 CI 예외를 고친 사례가 있어 사람은 아키텍처·변경 범위를, 여러 모델이 코드 세부를 교차 검토. 비용은 약 1,360억 토큰·당시 공개 요금 기준 약 12만 달러, 사람 투입은 PR 비중으로 환산해 약 3주—에이전트 이전엔 팀 전체가 1~2년 걸릴 일을 한 명이 몇 달에 끝냈지만 사업 가치·비용·ROI는 따져야 하며 일괄 교체·장기 브랜치·A/B 병행도 프로젝트에 따라 유효(Bun의 Zig→Rust 이식 비교). 인터뷰 후반은 Distinguished까지의 커리어 교훈과 책 추천(『CODE』)
 
 # API
 * [How 'String' works in Rust?](https://medium.com/mathscapes/how-string-works-in-rust-c36ea49201c8)
