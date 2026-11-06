@@ -1315,6 +1315,8 @@ App
 * [Micro - a modern and intuitive terminal-based text editor](https://micro-editor.github.io/)
 * [nuclide - Building Nuclide, a unified developer experience](https://code.facebook.com/posts/397706937084869/)
 * [Onivim 2 - Modal Editing from the Future](https://v2.onivim.io/)
+* [openidea: The IDE you know, rebuilt in Rust. IntelliJ IDEA–style keymap, tool windows and search-everywhere in a fast native app: editor, code insight, debugger, Git, terminal, database and HTTP clients for 60+ languages | l0ng-ai](https://github.com/l0ng-ai/openidea)
+  * IntelliJ IDEA의 일하는 방식(키맵·툴 윈도우·search-everything 습관)을 Rust 코어 네이티브 앱(Tauri)으로 다시 만든 IDE—에디터·코드 인사이트·디버거·Git·터미널·DB·HTTP 클라이언트, 60+ 언어, macOS·Windows·Linux. freqtrade(Python ~770파일) 벤치마크에서 창 표시 0.9초 vs IDEA 3.1초, 준비 완료 1.1초 vs 13.2초, 메모리 169MB vs 2GB(단 IDEA는 Python을 더 깊이 분석하므로 "준비"의 의미가 같지 않다고 명시, `perf/compare`로 직접 재현 가능). 플러그인은 샌드박스 WebAssembly 컴포넌트로 액션·완성·퀵픽스·툴 윈도우·커스텀 에디터·테마·언어를 추가(테마·아이콘·언어는 코드 불필요, API는 프리뷰). JetBrains와 무관. TypeScript+Rust, Apache-2.0, 6.6k stars
 * [PdfDing: Selfhosted PDF manager, viewer and editor offering a seamless user experience on multiple devices](https://github.com/mrmn2/PdfDing)
   * [PdfDing - 개인용 PDF 관리자 | GeekNews](https://news.hada.io/topic?id=18931)
 * [pdfescape.com](http://www.pdfescape.com/) free online pdf editor
@@ -2956,6 +2958,8 @@ App
 * [webreel: Record scripted browser demos as video](https://github.com/vercel-labs/webreel)
   * [브라우저 데모를 MP4 영상으로 자동 녹화하는 CLI 도구 | GeekNews](https://news.hada.io/topic?id=28335)
   * JSON 설정으로 클릭·타이핑·드래그 등 액션 정의, 헤드리스 Chrome이 ~60fps로 캡처 후 ffmpeg 인코딩. MP4, GIF, WebM 출력
+* [yoinks: yoink any video from your terminal. no shady ads | pablostanley](https://github.com/pablostanley/yoinks)
+  * YouTube·X·Instagram·Threads·TikTok 등 1,800+ 사이트의 영상을 터미널에서 내려받는 CLI—URL을 붙이고 해상도(예상 파일 크기 표시) 또는 mp3 오디오만 고르면 끝, 가짜 다운로드 버튼·팝업·리다이렉트 없음. `npm i -g yoinks` 또는 `npx yoinks`(Node 18+), 첫 실행 시 yt-dlp 독립 바이너리를 `~/.yoinks/bin`에 받아 Python 불필요, ffmpeg는 PATH 또는 번들된 ffmpeg-static. Ink(터미널용 React) 풀스크린 UI로 키보드·마우스 모두 지원, 터미널 전경·배경색을 따르는 auto 테마, 결과는 `~/Downloads`. 로드맵: 피커를 건너뛰는 `--best`/`--mp3`, 출력 폴더, 플레이리스트, 클립보드 감지. TypeScript, MIT, 6.6k stars
 * [YoutubeCLI](https://github.com/icitry/YoutubeCLI)
   * [Can I Run Youtube Entirely From My Terminal? (No Browser) - YouTube](https://www.youtube.com/watch?v=CYNpdmgwNTM)
 * [**youtube-dl - Command-line program to download videos from YouTube.com and other video sites http://ytdl-org.github.io/youtube-dl **](https://github.com/ytdl-org/youtube-dl)
