@@ -375,6 +375,9 @@ Finance
   * 결론은 회의론자들이 옳았다—상관은 발견되지만 너무 작고 일관성이 없어 매매에 쓰면 종목을 무작위로 고르는 것과 같음. 단어로 학습한 LLM처럼 주가로 학습한 StockGPT로 다음 날을 예측하는 시도도 실패, 약 70가지 변형(66개 사전 등록 테스트)까지 모두 실패해 20년 질문을 종결. 왜 안 되는지는 삼중 진자로 설명—상관은 첫 진자의 흔들림엔 정확도를 더하지만 거기에 매달린 사람들의 베팅과 시장 반응, 그 밑의 외부 사건이 10억분의 1 라디안 차이로도 전혀 다른 궤적을 만듦. 데이터·실험 기록·사전 연구 정리 공개
 * [daily_stock_analysis: LLM-powered intelligent analyzer for A-shares, HK stocks, US equities](https://github.com/ZhuLinsen/daily_stock_analysis)
   * AI 대시보드 자동 생성→기업 위챗/Telegram/Slack 등 푸시. 기술 분석·뉴스 센티먼트·펀더멘탈 통합, GitHub Actions 무료 배포
+* [day-trader-skill: 11 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry and exit, and replay every outcome before you risk a dollar | Jakeschincariol](https://github.com/jakeschincariol/day-trader-skill)
+  * [trader-skill: 전작 Trader skill — 투자자 13F 복제·스크리너·세금 로트·리밸런싱 | Jakeschincariol](https://github.com/Jakeschincariol/trader-skill)
+  * 가입·API 키 없이 Yahoo Finance·Nasdaq Trader 심볼 목록·SEC EDGAR·하원 서기 공개 자료만 읽는 순수 Python 도구 11개를 Claude 스킬로 묶은 데이트레이딩 팩(Trader skill v2)—`/trader-scanner`(수천 개 차트에서 오프닝 레인지 돌파·플래그·과매도 반등 셋업 탐색)→`/trader-news`(관심 종목 속보)→`/trader-entry`(바 단위로 진입 시점)→`/trader-exit`(진입 전 손절·목표 설정)→`/trader-timemachine`(종목의 최근 바로 남은 세션을 1만 번 시뮬레이션하고 같은 셋업이 발동한 과거 날까지 재생해 정직한 확률 제시)→`/trader-budget`·`/trader-risk`(예산·최대 손실 기준 포지션 크기와 한도 검사)→`/trader-broker`(승인한 주문만 브로커로, 기본은 페이퍼 트레이딩, 사람의 yes 없이는 어떤 주문도 나가지 않음), 보유 중엔 `/trader-alerts`, 일정 실행으로 `/trader-analyst`(실적 보고서 요약)·`/trader-pelosi`(의회 주식 거래 공시). 각 스킬은 프로젝트의 `trader/` 폴더에 앞 스킬이 쓴 결과를 이어 읽으며, Claude Code 플러그인 마켓플레이스 또는 폴더 복사로 설치하고 SKILL.md만 붙여도 모드처럼 동작. README는 2026년 10월 19일 TSLA 15분 오프닝 레인지 돌파 실데이터로 스캐너→뉴스→진입→청산 흐름을 예시
 * [dexter: An autonomous agent for deep financial research](https://github.com/virattt/dexter)
 * [edgartools: The world's easiest, most powerful edgar library](https://github.com/dgunning/edgartools)
 * [FinAgent-Lab · GitHub](https://github.com/FinAgent-Lab)
