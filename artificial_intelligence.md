@@ -1361,6 +1361,8 @@ Artificial Intelligence
   * eBPF로 시그널 수집, 하이브리드 LLM 워크플로우로 위험 분석 및 RCA, 가드 액션으로 MTTR 단축. Go/C++/TS 기반
 * [agentic-ai-apis: The ultimate collection of APIs for building autonomous AI agents — 2,036 production-ready APIs across Agents, AI Models, and MCP Servers | cporter202](https://github.com/cporter202/agentic-ai-apis)
   * 에이전트·AI 모델·MCP 서버 세 범주로 정리한 프로덕션급 API 2,036개 큐레이션—인프라를 몇 주씩 만들지 말고 끼워 넣어 출시하라는 취지. JavaScript, 667 stars
+* [agentic-ai-starters: A practical collection of plug-and-play starter blueprints for building autonomous AI apps with real APIs. Discover ready-to-build agent workflows, API stacks, architecture patterns, prompts, and monetization ideas for research agents, lead gen systems, SEO automations, MCP toolchains, and more | cporter202](https://github.com/cporter202/agentic-ai-starters)
+  * agentic-ai-apis·API-mega-list와 같은 저자의 "의견이 담긴 빌드 레이어"—API 목록이 아니라 무엇을 만들지·누구를 위한 것인지·워크플로가 어떻게 돌아야 하는지·어떤 API를 스택에 넣을지·MVP에서 수익화까지 어떻게 가는지를 묶은 스타터 블루프린트 모음. Research Agent(인용 우선 리서치), Lead Gen Agent(발굴·보강·스코어링·라우팅), SEO Content Agent, Social Listening Agent 등 카테고리별 스타터와 접이식 스택 경로, 프롬프트 라이브러리, MVP→V1 아키텍처 패턴. 저자의 유료 API 마켓플레이스 APIMesa 홍보가 포함된 점은 감안할 것. MIT, 312 stars
 * [Alice: Voice-first desktop AI assistant with Vue.js, Vite, Electron](https://github.com/pmbstyle/Alice)
   * 고급 메모리 시스템, 함수 호출, MCP 지원, 완전 로컬 실행 옵션
 * [all-agentic-architectures: Implementation of 17+ agentic architectures designed for practical use across different stages of AI system development](https://github.com/FareedKhan-dev/all-agentic-architectures)
@@ -1993,6 +1995,10 @@ Artificial Intelligence
   * [OpenJiuwen Community Releases JiuwenClaw: A Self-Evolving AI Agent for Task Management](https://www.marktechpost.com/2026/03/27/openjiuwen-community-releases-jiuwenclaw-a-self-evolving-ai-agent-for-task-management/)
   * [JiuwenClaw: 대화를 넘어 실제 업무를 끝까지 수행하는 자기 진화형 AI 에이전트](https://digitalbourgeois.tistory.com/2937)
   * 프로덕션급 AI 에이전트 플랫폼. 이벤트 기반 멀티 에이전트 제어, 자동 상태 관리, 텍스트 그래디언트 프롬프트 최적화. JiuwenClaw는 계층형 메모리와 자기 진화 메커니즘으로 요구사항 변화에 적응하며 작업 완수
+* [OpenMausBot: Open-source Grok Bot alternative with a virtual machine that bots can use | milind-soni](https://github.com/milind-soni/OpenMausBot)
+  * [OpenMausBot — your own team of AI bots, in a chat app](https://www.openmausbot.com/)
+  * [🤖 OpenMausBot: 봇을 더 늘리는 대신 이미 쓰는 Claude와 Codex를 채팅창으로 불러왔습니다 | fornewchallenge](https://fornewchallenge.tistory.com/entry/%F0%9F%A4%96-OpenMausBot-%EB%B4%87%EC%9D%84-%EB%8D%94-%EB%8A%98%EB%A6%AC%EB%8A%94-%EB%8C%80%EC%8B%A0-%EC%9D%B4%EB%AF%B8-%EC%93%B0%EB%8A%94-Claude%EC%99%80-Codex%EB%A5%BC-%EC%B1%84%ED%8C%85%EC%B0%BD%EC%9C%BC%EB%A1%9C-%EB%B6%88%EB%9F%AC%EC%99%94%EC%8A%B5%EB%8B%88%EB%8B%A4)
+  * Grok Bot에서 영감을 받은 오픈소스 독립 프로젝트(구 OpenGrokBot, 별칭 MausBot; Meta Muse·OpenAI dots·Manus Cue의 오픈 대안을 표방, xAI·Meta·OpenAI·Manus와 무관, 암호화폐 토큰 없음)—"상자 하나에 비서 하나"가 아니라 Telegram식 채팅 앱의 연락처처럼 봇 여러 개를 두고, 사이드바의 봇 하나하나가 로컬에서 돌아가는 Claude 또는 Codex 에이전트로 각자 성격·모델·클라우드 컴퓨터(VM)·연결 앱을 가짐. 새 계정·구독 대신 이미 쓰는 에이전트를 가져오는 bring-your-own-agent·local-first, 대화하듯 지시하고 작업을 지켜보고 중요한 것만 승인. Electron(macOS Apple silicon·Intel 서명 .dmg, Windows, Ubuntu .deb)+React 19, 소스 실행은 `pnpm dev:server`(:8799)→`pnpm dev`(:5199)→`pnpm dev:desktop`. 같은 계열의 Grok Bot 오픈 대안으로 Rakazo·Codync가 있음. TypeScript, Apache-2.0, 14.3k stars
 * [OpenMemory - Long-term Memory for AI Agents](https://openmemory.cavira.app/)
   * [OpenMemory: Add long-term memory to any AI in minutes. Self-hosted, open, and framework-free](https://github.com/CaviraOSS/OpenMemory)
 * [OpenMonoAgent.ai: Local-first terminal coding agent with bundled llama.cpp, no token billing](https://github.com/StartupHakk/OpenMonoAgent.ai)
@@ -7939,7 +7945,7 @@ Artificial Intelligence
     * 롱폼 SEO 블로그 콘텐츠 제작용 Claude Code 워크스페이스—`/research`·`/write`·`/rewrite`·`/analyze-existing`·`/optimize`·`/performance-review`·`/publish-draft`·`/article`·`/priorities`와 랜딩 페이지 명령, 콘텐츠 분석·SEO 최적화·메타 요소·내부 링크·키워드 매핑·에디터·성과 분석·헤드라인·CRO·랜딩 페이지 전문 에이전트, 카피라이팅·CRO·A/B 테스트·이메일 시퀀스·가격 전략 등 마케팅 스킬 26개
   * [sepia: De-AI writing skill for any Agent Skills-compatible agent, with native plugins for Claude Code, Codex, Grok Build, and Antigravity](https://github.com/Nanako0129/sepia)
     * 단어 치환식 휴머나이저가 아니라 문장 구조·지나치게 정돈된 논리·반복적 리듬 등 AI 특유의 글쓰기 패턴부터 분석해 제거하는 De-AI 스킬. 픽션은 서사 구조 수선, 전문 산문은 매체별 규칙 적용. StoryScope(arXiv 2604.03136) 기반, Skills CLI로 77+ 에이전트 지원. Python, 1.9k stars
-  * [Skills for Real Engineers. Straight from my .claude directory. · GitHub](https://github.com/mattpocock/skills)
+  * [skills: Skills for Real Engineers. Straight from my .agents directory | mattpocock](https://github.com/mattpocock/skills)
     * [Claude Code Skills 22개 한국어 정리 — mattpocock .claude 폴더 공개, TDD·PRD·grill-me 설치·활용법](https://jkf87.github.io/mattpocock-skills-real-engineers-claude-2026-04-27)
     * [Claude Code Skills 22개 한국어 정리 — mattpocock .claude 폴더 공개, TDD·PRD·grill-me 설치·활용법 | 박상길](https://www.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_claude-code-skills-22%EA%B0%9C-%ED%95%9C%EA%B5%AD%EC%96%B4-%EC%A0%95%EB%A6%AC-mattpocock-share-7454848076172775426-OE2M)
     * [Matt Pocock 41만뷰 발표 — AI 코드 망치는 6가지와 해결법 - YouTube](https://www.youtube.com/watch?v=FOee3zb98wI)
@@ -7964,6 +7970,7 @@ Artificial Intelligence
       * Matt Pocock. AI 코딩 세션을 별도 에이전트로 넘기는 `/handoff` 스킬—컨텍스트 윈도우와 `/compact`의 동작을 설명하고 handoff가 compact와 어떻게 다른지, grilling 세션 중 사용·프로토타입으로 넘기기 같은 실전 패턴과 크로스 에이전트 워크플로우 이점
     * [SNS에서 난리났다는데.. 맷 포콕 AI코딩 스킬 업데이트 완벽 정리 | MINDUNG - YouTube](https://www.youtube.com/watch?v=ZE4hmiGglTM)
       * 업데이트로 추가된 멀티 에이전트 분업·검토 정리·실수 반영 기능—원하는 것 정리(grill-me), 설명이 어려울 때(wait-what), 구현 맡기기(implement-spec), 검토하기 쉽게(pr), 실수를 경험으로(retro), 기존 사용자 주의(GLOSSARY.md). 설치: `claude plugin install mattpocock-skills@claude-plugins-official` 후 `/setup-matt-pocock-skills`
+    * 2026-11 시점 31.6만 스타. 설명이 ".claude directory"에서 ".agents directory"로 바뀌며 Claude Code 전용에서 범용 에이전트 스킬로—Claude Code는 공식 마켓플레이스 플러그인(`claude plugin install mattpocock-skills@claude-plugins-official`, 자동 업데이트), Codex·GitHub Copilot(CLI·VS Code)은 플러그인 마켓플레이스 추가, Gemini CLI는 `gemini skills install`, 그 외 cursor·opencode·devin·windsurf·amp·pi는 `npx skills@latest add mattpocock/skills -a <agent>`(skills.sh는 편집 가능한 파일 복사, 플러그인과 둘 다 설치하면 스킬이 두 번 잡힘). 설치 후 레포마다 `/setup-matt-pocock-skills`를 한 번 실행해 이슈 트래커(GitHub·GitLab·로컬 파일)·트리아지 라벨·문서 저장 위치를 지정. 용어집 관례는 예전 `CONTEXT.md` 이름에서 바뀜. 뉴스레터 구독자 약 6만
   * [skillstead: Practical, portable skills for agentic coding workflows](https://github.com/kyungseo/skillstead)
     * [svg-infographic 스킬 예제 (README.ko)](https://github.com/kyungseo/skillstead/blob/main/examples/svg-infographic/README.ko.md)
     * [설치 가이드 (INSTALL.md)](https://github.com/kyungseo/skillstead/blob/main/docs/INSTALL.md)
