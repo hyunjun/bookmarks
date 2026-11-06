@@ -511,6 +511,8 @@ SQL
 * [963초짜리 쿼리 하나가 HLL 205만까지 끌어올렸습니다 | 아임웹 기술블로그](https://tech.imweb.me/posts/aurora-hll-snapshot-lifetime/)
   * Aurora에서 단일 장기 쿼리가 유지한 읽기 스냅샷이 정리되지 못한 undo 로그를 쌓아 History List Length가 205만까지 급증한 사례. Read Committed도 963초짜리 statement는 그만큼 스냅샷을 유지하므로 근본 해결이 아니었음
   * 단일 조회를 1만 건씩 청크로 분할해 각 스냅샷 수명을 단축하고 조회를 리더 복제본으로 이동시켜 해결
+* [Aurora MySQL Failover: 수동 전환 데모와 자동 복구, Multi-AZ가 지켜 주는 범위 | AtomAI](https://blog.atomai.click/aurora-mysql-failover/)
+  * Aurora MySQL Failover 동작 정리—수동·자동 Failover의 차이와 활용 상황, Multi-AZ가 제공하는 가용성 범위, Writer 전환 후 애플리케이션의 재연결·재시도 시 고려할 사항을 다루고 동작 이해를 돕는 시뮬레이션 데모 영상 2편(실제 콘솔 녹화·장애 실측이 아님)과 재현용 CLI·쓰기 관측 스크립트를 포함. "Aurora니까 Multi-AZ"로 가용성을 판단하면 안 되는 이유: 데이터가 3개 AZ 6개 복사본에 저장되는 것(스토리지)과 다른 AZ에서 SQL을 처리할 인스턴스가 준비된 것(컴퓨트)은 별개이므로 Writer와 최소 한 Reader를 서로 다른 AZ에 둘 것(Writer 1대·같은 AZ·다른 AZ·3AZ 구성별 장애 시 의미 표). 알아둘 다섯 가지: 자동 Failover가 항상 다른 인스턴스로 전환하진 않고 같은 인스턴스 재시작이 빠르면 그 경로로 복구, 수동 Failover도 기존 연결·진행 중 작업에 영향(계획 전환≠무중단), Writer Endpoint 이름은 유지되지만 DNS 응답이 바뀌고 기존 TCP 연결은 넘어가지 않음, 완료 판단은 Writer 역할 변경이 아니라 애플리케이션의 쓰기 성공으로. Aurora 운영과 Failover 테스트 준비에 도움
 
 # Book
 * [SQL 전문가 되어보기](https://wikidocs.net/book/159)
