@@ -2127,11 +2127,12 @@ App
 * mc midnight commander
   * [맥에서 mc (Midnight Commander) 한글 깨지는 문제](http://mcchae.egloos.com/11287823)
 * [Mirror Displays](https://fabiancanas.com/open-source/mirror-displays)
-* [Mole: 🐹 Deep clean and optimize your Mac.](https://github.com/tw93/Mole)
+* [Mole: 🐹 Keep your Mac and PC clean, light, and running like new. Fast open-source CLI, plus native Mac and Windows apps | tw93](https://github.com/tw93/Mole)
   * [Mole - Mac을 깊게 청소하고 최적화하는 올인원 도구 | GeekNews](https://news.hada.io/topic?id=26527)
   * [Mole](https://mole.fit/)
   * [Mole - The Epic Free Mac System Cleaner - Reviewed - YouTube](https://www.youtube.com/watch?v=gUdh9oboG7E)
     * Mostly Mac. M2 MacBook Pro에서 터미널 버전으로 캐시·로그·고아 파일 13GB 회수—clean·uninstall·optimise·analyse·status 도구 시연. CleanMyMac 대체 무료 오픈소스, GUI 원하면 $19 일회성 결제(구독 없음)
+  * CleanMyMac·AppCleaner·DaisyDisk·iStat Menus식 워크플로를 터미널 명령 하나(`mo`)로—`mo clean`(캐시·로그·삭제한 앱 잔여물 정리), `mo uninstall`(LaunchAgents·환경설정까지 함께 제거), `mo analyze`(인터랙티브 TUI 디스크 탐색), `mo optimize`(DNS·QuickLook·시스템 DB 정리), `mo status`(CPU·메모리·디스크 I/O·네트워크 실시간), `mo purge`(프로젝트 빌드 산출물), `mo slim`(유니버설 앱의 Intel 코드 제거), `mo touchid` 등. 모든 정리 명령에 `--dry-run`과 `mo history`로 삭제 전 확인. `brew install mole` 또는 설치 스크립트(macOS 12+, Intel·Apple Silicon), AI 에이전트용 `llms.txt`와 스킬(`npx skills add tw93/Mole`)·Claude Code/Codex 플러그인 제공—에이전트는 항상 dry-run으로 먼저 보여 주고 앱 삭제·관리자 단계는 사람에게 넘김. 레포는 무료 오픈소스 CLI이고 삭제 전 리뷰·800+ 앱 잔여물 DB·팬 제어가 있는 Mole for Mac과 Mole for Windows 네이티브 앱은 별도 배포(Windows·Linux는 별도 브랜치 README). Shell, GPL-3.0, 74k stars
 * [MonitorControl: 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs](https://github.com/MonitorControl/MonitorControl)
 * [monodraw.helftone.com](http://monodraw.helftone.com/) ascii art editor, 30 days trial
 * [Monolingual - a program for removing unnecessary language resources from macOS](https://ingmarstein.github.io/Monolingual/) Mojave에서 default로 실행해본 결과 Languages에서 1.96GB, Architectures에서 227MB 삭제
