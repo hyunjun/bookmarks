@@ -4078,7 +4078,7 @@ App
 * [FluidVoice — Open-source offline voice-to-text for macOS](https://altic.dev/fluid)
   * [FluidVoice](https://github.com/altic-dev/FluidVoice)
   * macOS 전용 오프라인 음성→텍스트. Parakeet/Whisper/Apple Speech 모델, AI 정제, Command/Write 모드
-* [mac-whisper: The free dictation app for your Mac. Speak into any field, keep audio on-device, refine with AI](https://github.com/bytonylee/mac-whisper)
+* [mac-whisper: The free dictation app for your Mac. Speak into any field, keep audio on-device, refine with AI](https://github.com/humantonylee/mac-whisper)
   * [발열도 속도 지연도 정보 유출도 없는 맥북을 위한 보이스 타이핑 | Jeongmin Lee](https://www.linkedin.com/posts/jyoung105_%EB%B0%9C%EC%97%B4%EB%8F%84-%EC%86%8D%EB%8F%84-%EC%A7%80%EC%97%B0%EB%8F%84-%EC%A0%95%EB%B3%B4-%EC%9C%A0%EC%B6%9C%EB%8F%84-%EC%97%86%EB%8A%94-%EB%A7%A5%EB%B6%81%EC%9D%84-%EC%9C%84%ED%95%9C-%EB%B3%B4%EC%9D%B4%EC%8A%A4-%ED%83%80%EC%9D%B4%ED%95%91%EC%9C%BC%EB%A1%9C-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8%ED%96%88%EC%8A%B5%EB%8B%88%EB%8B%A4-ugcPost-7479886755760848897-CTW6)
   * Mac용 무료 받아쓰기 앱. Fn 키를 누른 채 말하면 사용 중인 앱 어디에나 정제된 텍스트를 붙여넣음. 오디오는 온디바이스 유지(정보 유출·발열·지연 없음), AI로 결과 정제. Swift
 * [Meetily — Privacy-first AI meeting assistant](https://meetily.ai/)
