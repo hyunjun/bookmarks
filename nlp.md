@@ -3318,6 +3318,11 @@ NLP
   * [🆓 FreeLLMAPI : 34개 무료 제공자를 하나의 /v1로 묶는 3.6만 스타 | James AI Explorer](https://fornewchallenge.tistory.com/entry/%F0%9F%86%93-FreeLLMAPI-34%EA%B0%9C-%EB%AC%B4%EB%A3%8C-%EC%A0%9C%EA%B3%B5%EC%9E%90%EB%A5%BC-%ED%95%98%EB%82%98%EC%9D%98-v1%EB%A1%9C-%EB%AC%B6%EB%8A%94-36%EB%A7%8C-%EC%8A%A4%ED%83%80)
   * 무료 LLM 제공자 34곳(474개 모델 계열·635개 엔드포인트, 합산 월 약 74억 토큰 추정)의 키를 모아 OpenAI 호환 단일 `/v1`로 노출하는 셀프호스팅 라우터. 커스텀 OpenAI 호환 채팅·임베딩·이미지·오디오 엔드포인트도 추가 가능하고, 클라이언트·코딩 에이전트는 base_url만 바꾸면 됨. 개인 실험용 명시
   * 요청마다 우선순위가 높고 한도 안인 모델을 골라 호출하고 429·5xx면 그 키를 잠시 쉬게 한 뒤 대시보드에서 정한 폴백 체인의 다음 모델로 넘김. 키는 로컬 SQLite에 암호화 저장, 키별 사용량 추적으로 무료 한도 유지. 서명된 피드로 모델 카탈로그를 자동 갱신하지만 무료 설치본은 월간 스냅샷이라 최대 30일 늦고, 실시간 카탈로그는 유료($19/년, 평생 $49). Docker·데스크톱 앱·npm으로 실행
+* [FreeToken — Bring Frontier to Edge | FlashML](https://www.flashml.ai/)
+  * [FreeToken: FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently | FlashML-org](https://github.com/FlashML-org/FreeToken)
+  * [2608.16157 FreeToken: Efficient Edge-Native MoE Serving with Bandwidth-Adaptive Execution](https://arxiv.org/abs/2608.16157)
+  * [Larry Kim - 데이터센터급 대형 AI 모델을 일반 PC에서도 실행할 수 있도록 해주는 오픈소스 프로젝트가 등장했다. 이름은 FreeToken | AI Agents KR, Facebook](https://www.facebook.com/groups/9546662462016100/?multi_permalinks=30075182518737460)
+  * UC Berkeley(Ion Stoica·Matei Zaharia·Kurt Keutzer·Song Han 등)의 엣지 네이티브 MoE 서빙 엔진—개인 PC를 "작은 GPU"가 아니라 GPU·CPU·호스트 메모리·인터커넥트를 묶은 하나의 탄력적 추론 플랫폼으로 보고, 고정 오프로딩 전략 대신 머신마다 다른 자원 균형과 계속 바뀌는 에이전트 워크로드에 맞춰 계산과 모델 상태를 동적으로 배치. 대역폭 적응형 CPU–GPU 공동 실행(q* 정책), 전층 더블 버퍼 prefill 스트리밍, 전역 LRU 전문가 캐시, FTW 가중치 포맷, 툴 호출·thinking 블록 같은 에이전틱 컨텍스트 편집에도 재계산을 피하는 시맨틱 앵커 체크포인트(KV·recurrent 상태), 재시작 없이 전문가 캐시와 KV 메모리 사이 VRAM을 재배분하는 탄력 메모리. DeepSeek-V4-Flash·Qwen3.6-35B-A3B·GLM-5.2 등 20종+ MoE와 MXFP4·NVFP4·FP8·BF16·GGUF를 지원하고 Anthropic·OpenAI 호환 API로 Codex·Claude Code·OpenCode·OpenClaw·DeepSeek Harness에 바로 연결—8GB 노트북 GPU에서 35B, 게이밍 데스크톱에서 284B, 워크스테이션 GPU 한 장에서 753B GLM-5.2까지. RTX 30/40/50 지원, Windows·Linux 데스크톱 앱 또는 `uv pip install "freetoken[accel]"`
 * [frontier-moe-serving-benchmark: Serving and benchmarking 9 frontier MoE checkpoints (490 GiB+) with vLLM on a single 8x B200 node, plus a pre-download HBM fit checker](https://github.com/daekeun-ml/frontier-moe-serving-benchmark)
   * [2026년 4~7월 공개 프론티어 MoE 9종을 8x B200 단일 노드 vLLM으로 서빙·벤치마크 | Daekeun Kim](https://www.linkedin.com/posts/daekeun-kim_aws-llminference-vllm-share-7493909499871924224-JO6B/)
   * GLM-5.2, DeepSeek-V4-Pro, MiMo-V2.5-Pro, Ring-2.6, Nemotron-3-Ultra, SKT A.X-K2, LG K-EXAONE-2.0 등 9종의 서빙 방법·메모리 사용량·벤치마크. 파라미터 수만으로는 GPU 메모리 예측이 어려움(1.6T DeepSeek-V4-Pro와 743B GLM-5.2의 메모리 차이가 14% 수준). HF 모델 ID로 RTX 6000 Pro/A100/H100/H200/B200/B300 필요 GPU 수 계산 도구 포함
@@ -3401,6 +3406,7 @@ NLP
   * [Intern-S1: A Scientific Multimodal Foundation Model](https://github.com/InternLM/Intern-S1/)
 * [jamo\_llm: 어느 고등학생의 심플한 확률론적 앵무새 만들기](https://github.com/yoonhero/jamo_llm)
 * [janas: LLMs bigger than your RAM, pure C, CPU or GPU — Faster than llama.cpp on all 13 models compared in Q4_K_M](https://github.com/prabanta-dev/janas)
+  * [Janas - SSD를 활용해 RAM보다 큰 MoE 언어 모델을 실행하는 추론 엔진 | GeekNews](https://news.hada.io/topic?id=35298)
   * Maurizio Cammalleri의 순수 C AI 도구 패밀리(실험 단계, Linux·Windows x86-64). RAM보다 큰 모델을 NVMe에서 흘려 돌려 32GB 노트북(Core Ultra 9 185H, 내장 Arc GPU)에서 48GB짜리 Qwen3-Next-80B-A3B를 쓰기 26.4 tok/s·읽기 68.4 tok/s로 구동—같은 조건의 llama.cpp는 3.0·17.7 tok/s. 66.5GB Qwen3.8-Flash-Next(177B)도 10.95/33 tok/s. Q4_K_M으로 비교한 13개 모델 모두에서 llama.cpp보다 빠름(드래프트 모델 없이도). MoE·speculative decoding·AVX2 SIMD·Vulkan, GGUF 호환
 * Jev [Introducing System One Models & Jev | TypeSafe AI](https://typesafe.ai/blog/introducing-system-one-models-and-jev)
   * [Jev - 문장 대신 판단과 확률을 반환하는 AI 모델 | GeekNews](https://news.hada.io/topic?id=33751)
