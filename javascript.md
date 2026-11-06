@@ -546,7 +546,7 @@ Javascript
 * [Online VS Code IDE for Angular & React](https://stackblitz.com/)
 * [LiveCodes — A Code Playground That Just Works!](https://livecodes.io)
   * [livecodes: A Code Playground That Just Works! | live-codes](https://github.com/live-codes/livecodes)
-  * 서버 없이 브라우저 클라이언트에서 돌아가는 오픈소스 코드 플레이그라운드—React·Vue·Svelte·Solid·TypeScript·Python·Go·Ruby·PHP 등 90개+ 언어·프레임워크, npm 패키지(`livecodes`)로 임베드·SDK 제공, llms.txt 문서. TypeScript, MIT, 1.5k stars
+  * 서버 없이 브라우저 클라이언트에서 돌아가는 오픈소스 코드 플레이그라운드—React·Vue·Svelte·Solid·TypeScript·Python·Go·Ruby·PHP 등 90개+ 언어·프레임워크, npm 패키지(`livecodes`)로 임베드·SDK 제공, llms.txt 문서
 * [JavaScript는 잘못이 없다 정말로](https://medium.com/@pitzcarraldo/javascript%EB%8A%94-%EC%9E%98%EB%AA%BB%EC%9D%B4-%EC%97%86%EB%8B%A4-%EC%A0%95%EB%A7%90%EB%A1%9C-fb9b8e033b10?refer=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4)
 * [메모리 크래시가 일어나는 과정](http://hacks.mozilla.or.kr/2017/11/a-crash-course-in-memory-management/)
 * [자바스크립트의 메모리관리](https://developer.mozilla.org/ko/docs/Web/JavaScript/Memory_Management)
@@ -2129,7 +2129,7 @@ Javascript
   * [Asm.js Chess Battle](https://dev.windows.com/en-us/microsoft-edge/testdrive/demos/chess/)
 * [ArtPlayer.js - HTML5 Video Player and Online Editor](https://artplayer.org/)
   * [ArtPlayer: :art: ArtPlayer.js is a modern and full featured HTML5 video player | zhw2590582](https://github.com/zhw2590582/ArtPlayer)
-  * HLS·DASH·FLV·자막·플러그인을 갖춘 현대적 HTML5 비디오 플레이어. JavaScript, MIT, 4k stars
+  * HLS·DASH·FLV·자막·플러그인을 갖춘 현대적 HTML5 비디오 플레이어
 * [Astro | Build faster websites](https://astro.build/)
   * [astro: Build faster websites with Astro's next-gen island architecture 🏝✨](https://github.com/withastro/astro)
   * [Introducing Astro: Ship Less JavaScript](https://astro.build/blog/introducing-astro)
@@ -2256,7 +2256,7 @@ Javascript
     * [Turn any website into separate native application – ServerKernel](https://serverkernel.com/turn-any-website-into-separate-native-application/)
   * [PakePlus — Turn Web into Desktop/Mobile Apps](https://pakeplus.com/)
     * [PakePlus-iOS: Turn any webpage/HTML/Vue/React and so on into desktop and mobile app under 5M with easy in few minutes](https://github.com/Sjj1024/PakePlus-iOS)
-    * HTML·Vue·React 프로젝트나 웹페이지를 몇 분 만에 5MB 미만의 Windows·macOS·Linux·Android·iOS 앱으로 패키징하는 오픈소스(Tauri 계열, nativefier·Electron 대비 경량). iOS 저장소는 Swift, MIT, 9.9k stars
+    * HTML·Vue·React 프로젝트나 웹페이지를 몇 분 만에 5MB 미만의 Windows·macOS·Linux·Android·iOS 앱으로 패키징하는 오픈소스(Tauri 계열, nativefier·Electron 대비 경량). iOS 저장소는
 * [elegant-queue: To address this inefficiency when processing large amounts of data, designing a queue with O(1) time complexity can solve many problems](https://github.com/seongjin605/elegant-queue)
 * [Elevator.js fixes those awkward "scroll to top" moments the old fashioned way](http://tholman.com/elevator.js/)
 * [ELI5: Flow - Static Type Checker for JavaScript](https://developers.facebook.com/blog/post/2020/12/14/eli5-flow-static-type-checker-javascript/)
@@ -2357,7 +2357,7 @@ Javascript
   * [Demo: Disabling JavaScript Won’t Save You from Fingerprinting](https://fingerprintjs.com/blog/disabling-javascript-wont-stop-fingerprinting/)
   * [fingerprintjs: The most advanced free and open-source browser fingerprinting library](https://github.com/fingerprintjs/fingerprintjs)
     * [Fingerprint on GitHub](https://fingerprint.com/github/)
-    * 브라우저 속성으로 방문자 식별자를 생성하는 오픈소스 라이브러리. 쿠키·로그인 없이 방문자 구분(정확도 40~60%, Pro는 99.5%). TypeScript, 27k+ stars
+    * 브라우저 속성으로 방문자 식별자를 생성하는 오픈소스 라이브러리. 쿠키·로그인 없이 방문자 구분(정확도 40~60%, Pro는 99.5%)
 * [flagsmith: Feature flagging and remote config service. Host yourself or use our hosted version at https://flagsmith.com ](https://github.com/Flagsmith/flagsmith)
   * [Flagsmith - 오픈소스 Feature Flag 서비스 | GeekNews](https://news.hada.io/topic?id=4477)
 * [Foldkit — The frontend framework for correctness (Effect-TS, Elm Architecture)](https://foldkit.dev/)
@@ -2846,7 +2846,7 @@ Javascript
   * [Smartcrop.js - 콘텐츠 인식해서 이미지 크롭하기 | GeekNews](https://news.hada.io/topic?id=4958)
 * [Social SDK, a typed toolkit for social platforms](https://social-sdk.dev/)
   * [social-sdk: Typed TypeScript SDK for direct and managed social platform integrations, with capability checks, explicit outcomes, and deterministic testing | opencoredev](https://github.com/opencoredev/social-sdk)
-  * 1인 창업자·소규모 팀이 앱에 소셜 기능을 넣을 때 쓰는 오픈소스 TypeScript SDK(`@opencoredev/social-sdk`, Node 22.12+/Bun 서버 사이드, 800 stars). X·Threads·Bluesky·YouTube·TikTok·Instagram·LinkedIn 직접 어댑터 또는 Zernio·Post for Me·PostFast·Postiz·Buffer 매니지드 백엔드 선택, 플랫폼별 타입드 capability manifest와 서브패스 import, 목적지별로 complete·processing·uncertain·failed를 구분하는 독립 결과, 자격 증명·과금 호출 없이 계약 테스트를 돌리는 결정론적 mock 백엔드, 어댑터 탐색·capability 점검·요청 검증용 오프라인 CLI
+  * 1인 창업자·소규모 팀이 앱에 소셜 기능을 넣을 때 쓰는 오픈소스 TypeScript SDK(`@opencoredev/social-sdk`, Node 22.12+/Bun 서버 사이드). X·Threads·Bluesky·YouTube·TikTok·Instagram·LinkedIn 직접 어댑터 또는 Zernio·Post for Me·PostFast·Postiz·Buffer 매니지드 백엔드 선택, 플랫폼별 타입드 capability manifest와 서브패스 import, 목적지별로 complete·processing·uncertain·failed를 구분하는 독립 결과, 자격 증명·과금 호출 없이 계약 테스트를 돌리는 결정론적 mock 백엔드, 어댑터 탐색·capability 점검·요청 검증용 오프라인 CLI
 * [socketcluster - Highly scalable realtime microframework http://socketcluster.io ](https://github.com/SocketCluster/socketcluster)
 * [Solid · Reactive Javascript Library](https://www.solidjs.com/)
   * [ReactJS vs SolidJS - YouTube](https://www.youtube.com/watch?v=ZR7tdZ51MQ8)
@@ -2984,7 +2984,7 @@ Javascript
 * [TermDOM — Build terminal apps with HTML, CSS and DOM](https://termdom.org/)
   * [termdom: Build terminal apps with HTML, CSS and DOM | bikeshaving](https://github.com/bikeshaving/termdom)
   * [TermDOM - HTML, CSS와 DOM으로 터미널 UI 만들기 | GeekNews](https://news.hada.io/topic?id=33760)
-  * 별도 터미널 위젯 API를 배우는 대신 HTML 요소를 만들고 DOM을 수정하는 방식으로 터미널 UI·대화형 CLI를 구성하는 JS/TS 라이브러리—노드가 바뀌면 스타일·배치를 다시 계산해 렌더링. TypeScript, MIT
+  * 별도 터미널 위젯 API를 배우는 대신 HTML 요소를 만들고 DOM을 수정하는 방식으로 터미널 UI·대화형 CLI를 구성하는 JS/TS 라이브러리—노드가 바뀌면 스타일·배치를 다시 계산해 렌더링
 * [Three.js - JavaScript 3D library](http://threejs.org/)
   * [three.js examples](https://threejs.org/examples/)
   * [Interactive 3D Graphics by Autodesk](https://www.udacity.com/course/interactive-3d-graphics--cs291)
@@ -3000,7 +3000,7 @@ Javascript
     * [img2threejs: Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D](https://github.com/img2threejs/img2threejs)
     * [🎨 img2threejs : 참조 이미지 한 장을 애니메이션 Three.js 모델로 | fornewchallenge](https://fornewchallenge.tistory.com/entry/%F0%9F%8E%A8-img2threejs-%EC%B0%B8%EC%A1%B0-%EC%9D%B4%EB%AF%B8%EC%A7%80-%ED%95%9C-%EC%9E%A5%EC%9D%84-%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98-Threejs-%EB%AA%A8%EB%8D%B8%EB%A1%9C)
     * 참조 이미지 한 장을 사진측량·메시 추출·에셋 다운로드 없이 기본 도형+절차적 셰이더+생성 지오메트리의 읽고 고칠 수 있는 Three.js 코드로 재구성하는 에이전트 스킬(Claude Code·Codex·OpenCode). 피벗·소켓·충돌체를 갖춘 런타임 계층까지 만들어 애니메이션 가능. 모델 토큰은 시각 판단·코드 생성에만 쓰고 검증·게이팅은 결정적 Python 3.10+ 표준 라이브러리 스크립트가 담당
-    * blockout→structural→form→material→surface→lighting→interaction→optimization 8단계 자기 교정 파이프라인. 코드 생성 전 정체성을 결정하는 작은 디테일(광택·베벨·리벗·각인·마모)을 detailInventory로 열거하고 모두 컴포넌트·재질에 매핑되기 전엔 생성을 막는 엄격 품질 게이트, 텍스처가 구조를 대신하지 못하게 하는 컴포넌트 커버리지 게이트, 보이지 않는 영역은 저신뢰로 남기는 "지어내지 않기" 원칙. Python, Apache-2.0, 17.4k stars
+    * blockout→structural→form→material→surface→lighting→interaction→optimization 8단계 자기 교정 파이프라인. 코드 생성 전 정체성을 결정하는 작은 디테일(광택·베벨·리벗·각인·마모)을 detailInventory로 열거하고 모두 컴포넌트·재질에 매핑되기 전엔 생성을 막는 엄격 품질 게이트, 텍스처가 구조를 대신하지 못하게 하는 컴포넌트 커버리지 게이트, 보이지 않는 영역은 저신뢰로 남기는 "지어내지 않기" 원칙
   * [Three.js-Object-Sculptor-Codex-Plugin: turns object images into code-only, animation-ready procedural Three.js models](https://github.com/vinhhien112/Three.js-Object-Sculptor-Codex-Plugin)
     * 첨부 이미지 속 오브젝트를 코드로만 만든 애니메이션 준비 완료 procedural Three.js 모델로 재구성하는 Codex 플러그인. 포토그래메트리·메시 추출이 아니라 이미지 검증→객체 기술→지오메트리/머티리얼 분해→블록아웃-디테일 단계 빌드→애니메이션 계층 배선→원본 대비 렌더 비교의 스컬프팅 워크플로우 유도. ObjectSculptSpec 기반, 게임 오브젝트·소품·식물·기계 부품 등에 적합
   * [threejs-skills](https://github.com/CloudAI-X/threejs-skills) Three.js Skills for Claude Code
@@ -3013,7 +3013,7 @@ Javascript
 * [tinyjsapp: Build native apps in JS. Backend, frontend. ~5Mb | tarwin](https://github.com/tarwin/tinyjsapp)
   * [tinyjs - JavaScript로 약 6MB 데스크톱 앱을 만드는 경량 프레임워크 | GeekNews](https://news.hada.io/topic?id=35038)
   * Electron·Node.js·Chromium을 넣지 않고 txiki.js 백엔드와 OS WebView(macOS WebKit·Windows WebView2·Linux WebKitGTK)를 조합해 프런트·백엔드 모두 JavaScript로 짜는 약 6MB 데스크톱 앱 프레임워크. React·Vue·Svelte·Solid·Preact·TypeScript 템플릿, 백엔드에서 파일·소켓·프로세스·FFI 접근과 내장 SQLite, 네이티브 메뉴·파일 대화상자·트레이·알림·드래그 앤 드롭
-  * 프런트는 `tiny.api.call()`로 백엔드 함수를 부르고 백엔드는 이벤트를 화면에 보내며, 기본은 HTTP 서버·포트 없이 로컬 소켓 통신. `tinyjs new/dev/build`, Vite HMR, macOS 코드 서명과 자동 업데이트. macOS 중심이고 Windows·Linux는 베타. C, MIT, 701 stars
+  * 프런트는 `tiny.api.call()`로 백엔드 함수를 부르고 백엔드는 이벤트를 화면에 보내며, 기본은 HTTP 서버·포트 없이 로컬 소켓 통신. `tinyjs new/dev/build`, Vite HMR, macOS 코드 서명과 자동 업데이트. macOS 중심이고 Windows·Linux는 베타
 * [Tiny Slider 2 | Vanilla Javascript Slider for All Purposes](https://morioh.com/p/0ed7686c73be)
 * [Tippy.js - Tooltip, Popover, Dropdown, and Menu Library](https://atomiks.github.io/tippyjs/)
   * [간편한 툴팁 라이브러리 Tippy.js | 웹으로 말하기](https://mytory.net/archives/14763)
@@ -3089,7 +3089,7 @@ Javascript
   * [Shaders: Open-source WebGPU shader components & free design editor](https://shaders.com/)
     * [shaders: WebGPU components for React, Vue, Svelte, Solid, JS & Framer | shader-effects-inc](https://github.com/shader-effects-inc/shaders)
     * 200+ WebGPU 이펙트(그라디언트·노이즈·글래스·메탈·광원·왜곡·전환·블러·커서 효과)를 선언형 컴포넌트로—`<Shader>` 캔버스 안에 레이어를 중첩·블렌드·마스킹, React/Vue/Svelte/Solid/JS 진입점이 같은 props 공유. TypeScript, 반응형 props, SSR 안전. 디자인 엔지니어 1.6만+ 사용
-    * shaders.com의 무료 디자인 에디터(무한 캔버스에서 컴포넌트 쌓고 props를 커서·타임라인으로 구동)에서 만든 뒤 프레임워크별 컴포넌트 트리로 코드 내보내기. CLI(`npx shaders connect/install/search/preview/update`)가 코드베이스와 에디터 프로젝트를 동기화, 에이전트 스킬(`npx shaders skill`)·MCP 지원. 유료 Pro 별도. MIT
+    * shaders.com의 무료 디자인 에디터(무한 캔버스에서 컴포넌트 쌓고 props를 커서·타임라인으로 구동)에서 만든 뒤 프레임워크별 컴포넌트 트리로 코드 내보내기. CLI(`npx shaders connect/install/search/preview/update`)가 코드베이스와 에디터 프로젝트를 동기화, 에이전트 스킬(`npx shaders skill`)·MCP 지원. 유료 Pro 별도
   * [shadeup.dev](https://shadeup.dev/)
 * [webm.js](https://kagami.github.io/webm.js/)
 * [WEIGHTOF.IT - Compare JavaScript libraries by weight](http://weightof.it/)
@@ -3257,7 +3257,7 @@ Javascript
 * [Nub — All-in-one TypeScript-first toolkit for Node.js (Bun-like, augments stock Node)](https://nubjs.com/)
   * [nub](https://github.com/nubjs/nub)
   * [Nub - Node.js용 Bun 유사 올인원 툴킷 | GeekNews](https://news.hada.io/topic?id=30832)
-  * Node를 대체하지 않고 보강하는 Rust 기반 툴킷. TS/JSX 직접 실행(oxc 인메모리 트랜스파일), `nub run`(pnpm 대비 ~24배 빠름), `nubx`(npx 대비 ~19배), pnpm/npm/bun 락파일 호환 패키지 매니저(deny-by-default 빌드 스크립트·OSV 검사), Node 버전 관리, .env 자동 로드. 진짜 Node에서 실행돼 락인 없음. MIT
+  * Node를 대체하지 않고 보강하는 Rust 기반 툴킷. TS/JSX 직접 실행(oxc 인메모리 트랜스파일), `nub run`(pnpm 대비 ~24배 빠름), `nubx`(npx 대비 ~19배), pnpm/npm/bun 락파일 호환 패키지 매니저(deny-by-default 빌드 스크립트·OSV 검사), Node 버전 관리, .env 자동 로드. 진짜 Node에서 실행돼 락인 없음
 * nvm
   * [노드를 더 우아하게. nvm 이야기](http://jybaek.tistory.com/746)
   * [nvm을 모든 사용자가 쓸 수 있도록 설치하기](http://blog.hazard.kr/archives/978)
@@ -5817,7 +5817,7 @@ Javascript
   * [github.com/dev4us/hook-player](https://github.com/dev4us/hook-player)
 * [interior.dev — Free React Micro-Interaction Components](https://www.interior.dev/)
   * [interior: micro-interactions for react, built for the half-second after a click | ddoemonn](https://github.com/ddoemonn/interior)
-  * "클릭 후 0.5초"를 위한 React 마이크로 인터랙션 모음(TypeScript, 1.2k stars). 패키지가 아니라 `components/interior/`의 파일 하나를 복사해 쓰는 방식—각 파일이 동작을 전부 가진 헤드리스 훅(`useX`, 클래스명 무관)과 그 훅 위의 예시 스타일 컴포넌트(`X`)를 내보내 리스킨 비용은 클래스만. 의존성은 motion 하나. 라벨이 바뀔 때 크기가 튀는 버튼, 로딩 중 점프하는 리스트, 탭 포커스를 잃어 멈추는 드래그처럼 아무도 버그로 올리지 않지만 인터페이스 신뢰를 깎는 "마지막 20%"를 프레임 단위로 마무리—무언가 일어나지 않으면 움직이지 않고, 물리 과정을 모사하는 모션은 그 과정을 따름
+  * "클릭 후 0.5초"를 위한 React 마이크로 인터랙션 모음. 패키지가 아니라 `components/interior/`의 파일 하나를 복사해 쓰는 방식—각 파일이 동작을 전부 가진 헤드리스 훅(`useX`, 클래스명 무관)과 그 훅 위의 예시 스타일 컴포넌트(`X`)를 내보내 리스킨 비용은 클래스만. 의존성은 motion 하나. 라벨이 바뀔 때 크기가 튀는 버튼, 로딩 중 점프하는 리스트, 탭 포커스를 잃어 멈추는 드래그처럼 아무도 버그로 올리지 않지만 인터페이스 신뢰를 깎는 "마지막 20%"를 프레임 단위로 마무리—무언가 일어나지 않으면 움직이지 않고, 물리 과정을 모사하는 모션은 그 과정을 따름
 * [jotai: 👻 Primitive and flexible state management for React](https://github.com/pmndrs/jotai)
   * [Atomic state management - Jotai – 화해 블로그 | 기술 블로그](http://blog.hwahae.co.kr/all/tech/tech-tech/6099/)
   * [jotai 커스텀 훅 테스트 하는 방법](https://velog.io/@juunini/jotai-%EC%BB%A4%EC%8A%A4%ED%85%80-%ED%9B%85-%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95)
@@ -6108,11 +6108,11 @@ Javascript
 * [pdfcn — Beautiful pdf components, built on Takumi and Forme](https://www.pdfcn.dev/)
   * [pdfcn: 100% Free, Zero config, one command setup | shadcn-labs](https://github.com/shadcn-labs/pdfcn)
   * [pdfcn - React 컴포넌트로 만드는 PDF 문서 | GeekNews](https://news.hada.io/topic?id=34090)
-  * 청구서·보고서 같은 PDF를 처음부터 디자인하지 않고 준비된 React 컴포넌트·문서 템플릿을 조합해 생성—shadcn/ui처럼 **필요한 컴포넌트의 소스를 프로젝트로 가져와 직접 수정**하는 방식. TypeScript, MIT, 2.2k stars
+  * 청구서·보고서 같은 PDF를 처음부터 디자인하지 않고 준비된 React 컴포넌트·문서 템플릿을 조합해 생성—shadcn/ui처럼 **필요한 컴포넌트의 소스를 프로젝트로 가져와 직접 수정**하는 방식
 * [Piral, a Modern React-Based Microfrontends Library](https://www.infoq.com/news/2021/06/piral-microfrontends/)
 * [Plasma UI — Liquid glass panels for React](https://cruxgarden.github.io/plasma-ui/)
   * [plasma-ui: Liquid glass panels for React | CruxGarden](https://github.com/CruxGarden/plasma-ui)
-  * Apple의 Liquid Glass 스타일 반투명 유리 패널을 React 컴포넌트로 구현한 라이브러리. TypeScript, MIT
+  * Apple의 Liquid Glass 스타일 반투명 유리 패널을 React 컴포넌트로 구현한 라이브러리
 * [Prism.js 적용하기](http://alpoxdev.com/posts/24)
 * [Preact | Preact: Fast 3kb React alternative with the same ES6 API. Components & Virtual DOM](https://preactjs.com/)
   * [Signals – Preact Guide](https://preactjs.com/guide/v10/signals/)
@@ -6709,7 +6709,7 @@ Javascript
 * [Typescript Tips Series: Proper Typing of react-redux Connected Components](https://medium.com/knerd/typescript-tips-series-proper-typing-of-react-redux-connected-components-eda058b6727d)
 * [Using React with Redux and TypeScript](https://blog.usejournal.com/using-react-with-redux-and-typescript-c7ec48c211f6)
 * [Types Are Worth the Typing - Filip Sodic - NDC Oslo 2026 | NDC Conferences - YouTube](https://www.youtube.com/watch?v=Vhjo1myKaCk)
-  * 60분. Haskell을 가르치고 웹 프레임워크 Wasp를 만드는 Filip Sodic이 Haskell에서 배운 타입 활용법을 TypeScript로 옮긴 발표—컴파일 타임 버그 잡기는 빙산의 일각이고, 엔지니어링 산출물은 타입→코드(검증·단위 테스트·변수명)→문서(주석·MD·Notion·이슈)→머릿속 기억 순으로 흘러가는데 기억은 빨리 사라지니 가능한 한 많은 맥락을 타입 쪽으로 밀어 넣자는 주장. 타입을 "값의 집합"으로 생각하기, 유니언으로 집합을 좁히기, 전화번호·이메일처럼 유니언으로 나열할 수 없는 사실상 무한 집합은 branded type(소 낙인)+private 타입과 public 생성 함수(파싱·DB 읽기)로만 만드는 smart constructor로 다루기
+  * Haskell을 가르치고 웹 프레임워크 Wasp를 만드는 Filip Sodic이 Haskell에서 배운 타입 활용법을 TypeScript로 옮긴 발표—컴파일 타임 버그 잡기는 빙산의 일각이고, 엔지니어링 산출물은 타입→코드(검증·단위 테스트·변수명)→문서(주석·MD·Notion·이슈)→머릿속 기억 순으로 흘러가는데 기억은 빨리 사라지니 가능한 한 많은 맥락을 타입 쪽으로 밀어 넣자는 주장. 타입을 "값의 집합"으로 생각하기, 유니언으로 집합을 좁히기, 전화번호·이메일처럼 유니언으로 나열할 수 없는 사실상 무한 집합은 branded type(소 낙인)+private 타입과 public 생성 함수(파싱·DB 읽기)로만 만드는 smart constructor로 다루기
   * 커피 주문 도메인 예제로 "밀크 넣은 에스프레소", "샷 들어간 드립"처럼 잘못된 상태를 표현 불가능하게(illegal state unrepresentable) 만들어 단위 테스트 3개를 지우고 문서 필요도 줄이는 과정. AI 에이전트 시대에도 타입이 유효한 이유—"연료 채워"처럼 암묵적 맥락이 실린 지시를 에이전트가 잘못 해석(디젤 vs 가솔린)할 수 있으니 타입이 그 맥락을 기계가 확인 가능한 형태로 고정. 예제는 TypeScript지만 ADT·branded primitive·smart constructor 패턴은 현대 언어 대부분에 적용
 * [A Type-Driven Approach To React and Redux Using TypeScript | by Drew Carver | Func Shui | Medium](https://medium.com/func-shui/a-type-driven-approach-to-react-and-redux-using-typescript-f93470b0d724)
 * [React Redux Toolkit with TypeScript | usage with Next 13 | app directory - YouTube](https://www.youtube.com/watch?v=lojIR6XehW8)
@@ -6923,8 +6923,8 @@ Javascript
 * [AI-Fullstack-SaaS-Boilerplate — Fullstack SaaS Boilerplate built with tRPC, Fastify and React](https://alan345.github.io/AI-Fullstack-SaaS-Boilerplate/)
   * [AI-Fullstack-SaaS-Boilerplate: Fullstack SaaS Boilerplate built with tRPC, Fastify and React | alan345](https://github.com/alan345/AI-Fullstack-SaaS-Boilerplate)
   * [Fastify, tRPC, React로 시작하는 풀스택 SaaS 보일러플레이트 AI-Fullstack-SaaS-Boilerplate의 구성과 실행 방법 | digitalbourgeois](https://digitalbourgeois.tistory.com/4031)
-    * 2026-10-25. 기술 스택별 역할 표(Fastify 서버·tRPC 타입 안전 API·React 19·Tailwind v4·PostgreSQL·Drizzle·Better Auth·OpenAI·Vite·React Router v7·Zod·pnpm Workspaces·Playwright)와 설치·실행·테스트 절차 정리. 완성형 SaaS가 아닌 개발용 템플릿이라는 점과 결제 처리·사용량 측정·멀티 AI 제공자 통합은 포함되지 않아 별도 설계가 필요하다는 점을 짚음
-  * 개발자 경험(단순·효율·빠름)에 초점을 둔 pnpm 모노레포 풀스택 템플릿(TypeScript, MIT, 1.4k stars). T3 앱과 달리 Next.js를 쓰지 않아 프런트가 정적 파일로 S3 같은 오브젝트 스토리지에 올라가는 대신 SEO엔 부적합—웹사이트가 아닌 웹앱용. 예제 기능: 외부 REST API 데이터 조회, 헬스 체크, 디바운스 검색 훅, WebSocket 대신 SSE로 구현한 OpenAI 채팅, 사용자 임퍼소네이션·로그인/가입, Playwright E2E 테스트. Nachonacho.com이 실사용
+    * 기술 스택별 역할 표(Fastify 서버·tRPC 타입 안전 API·React 19·Tailwind v4·PostgreSQL·Drizzle·Better Auth·OpenAI·Vite·React Router v7·Zod·pnpm Workspaces·Playwright)와 설치·실행·테스트 절차 정리. 완성형 SaaS가 아닌 개발용 템플릿이라는 점과 결제 처리·사용량 측정·멀티 AI 제공자 통합은 포함되지 않아 별도 설계가 필요하다는 점을 짚음
+  * 개발자 경험(단순·효율·빠름)에 초점을 둔 pnpm 모노레포 풀스택 템플릿. T3 앱과 달리 Next.js를 쓰지 않아 프런트가 정적 파일로 S3 같은 오브젝트 스토리지에 올라가는 대신 SEO엔 부적합—웹사이트가 아닌 웹앱용. 예제 기능: 외부 REST API 데이터 조회, 헬스 체크, 디바운스 검색 훅, WebSocket 대신 SSE로 구현한 OpenAI 채팅, 사용자 임퍼소네이션·로그인/가입, Playwright E2E 테스트. Nachonacho.com이 실사용
 * [ArkType | ArkType](https://arktype.io/) TypeScript's 1:1 validator, optimized from editor to runtime
 * [backend: A template repository for TypeScript backend server](https://github.com/samchon/backend)
 * [bamboo-forest: 🎋 Echo your message as anonymous on Slack!](https://github.com/wormwlrm/bamboo-forest)
@@ -7042,7 +7042,7 @@ Javascript
   * [TanStack AI 1.0 announcement | TanStack Blog](https://tanstack.com/blog/tanstack-ai-1-0)
   * [TanStack AI is Officially STABLE! | OrcDev - YouTube](https://www.youtube.com/watch?v=IeP8_4YlEdQ)
     * 1.0이 정말 안정적인가, RC 이후 무엇이 바뀌었나, 0.x 사용자에게 무엇이 깨지나, 왜 에이전트 하네스는 아직 experimental인가를 다루는 소개 영상. Neon 어댑터 예시
-  * 스트리밍 채팅·툴 콜링 에이전트·구조화 출력·실시간 음성·미디어 생성을 위한 TypeScript SDK(3.3k stars)—조합 가능한 activity와 프로바이더 어댑터로 구성되어 chat만 쓰거나 image·audio·video·speech·transcription·summarization·realtime·Code Mode·devtools·프레임워크 바인딩을 필요한 만큼만 가져옴. 모델별 지원 필드를 타입으로 검증, 도구를 한 번 정의해 클라이언트·서버 양쪽에서 실행, 메시지를 thinking·tool call·text 등 타입화된 파트로 관리, 지속성·인터럽트·샌드박스 내장. Claude Code·Cursor용 Agent Skills(`/plugin marketplace add TanStack/ai`)로 코딩 에이전트에 사용법을 먼저 가르칠 수 있음
+  * 스트리밍 채팅·툴 콜링 에이전트·구조화 출력·실시간 음성·미디어 생성을 위한 TypeScript SDK—조합 가능한 activity와 프로바이더 어댑터로 구성되어 chat만 쓰거나 image·audio·video·speech·transcription·summarization·realtime·Code Mode·devtools·프레임워크 바인딩을 필요한 만큼만 가져옴. 모델별 지원 필드를 타입으로 검증, 도구를 한 번 정의해 클라이언트·서버 양쪽에서 실행, 메시지를 thinking·tool call·text 등 타입화된 파트로 관리, 지속성·인터럽트·샌드박스 내장. Claude Code·Cursor용 Agent Skills(`/plugin marketplace add TanStack/ai`)로 코딩 에이전트에 사용법을 먼저 가르칠 수 있음
   * 1.0: 코어 API 안정화(알파 때 4개 프로바이더·3개 UI 프레임워크→23+ 프로바이더 어댑터·8개 UI 프레임워크: React·Vue·Solid·Svelte·Preact·Angular·Octane·Remix). breaking change—`threadId` 필수, `body`→`forwardedProps`, `addToolApprovalResponse()`→인터럽트 해소 방식(codemod 제공). 재시작을 넘어 대기하고 다중 사용자를 지원하는 장기 실행 에이전트 세션용 `@tanstack/ai-harness`는 아직 0.x experimental
 * [TGrid - TypeScript Grid Computing Framework](https://tgrid.dev)
   * [TGrid 3분 PR 동영상](https://www.youtube.com/watch?v=r7zRdc0XxLk)

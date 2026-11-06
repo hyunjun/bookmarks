@@ -78,11 +78,11 @@ Game
   * Scott에게 게임 제작자·엔지니어·과학자 소그룹 XBOX LABS 신설 요청—공개적으로 만들고 "더 많은 사람이 플레이·창작하는지"로 성공 측정. 연간 720억 시간의 Xbox 플레이 시간은 전 세계 코딩 시간의 약 5배—코딩 다음 에이전트 워크로드로 게임. 4C·게임·하드웨어·IP 관리 우선순위는 유지, 도구는 업계와 공유
 * [Vibe-Coded Browser Ports Of Games Work Perfectly, Unfortunately | Kotaku](https://kotaku.com/we-might-be-cooked-as-these-vibe-coded-web-browser-ports-of-halo-the-simpsons-hit-and-run-and-gta-vice-city-seem-to-work-perfectly-2000743300)
   * [AI 디컴파일과 바이브 코딩이 바꾸는 게임의 미래: 웹 브라우저 포트와 지식재산권 문제 | digitalbourgeois](https://digitalbourgeois.tistory.com/3796)
-  * Lewis Parker 오피니언(2026-10-09). 최근 몇 주간 AI로 디컴파일한 에뮬레이터·게임 포트가 수백 개 등장했고, 필자는 원인으로 디컴파일에 뛰어난 Claude Opus 5.5를 지목—수개월 걸리던 소스 재구성을 밤새 맡겨 끝낼 수 있게 됨. Call of Duty: Black Ops·Halo: CE·GTA Vice City·Skate 3·The Simpsons: Hit and Run 브라우저 포트를 직접 해보니 일부는 거의 완벽(Hit and Run은 240fps, Halo 포트 하나는 온라인 서버까지 동작)
+  * Lewis Parker 오피니언. 최근 몇 주간 AI로 디컴파일한 에뮬레이터·게임 포트가 수백 개 등장했고, 필자는 원인으로 디컴파일에 뛰어난 Claude Opus 5.5를 지목—수개월 걸리던 소스 재구성을 밤새 맡겨 끝낼 수 있게 됨. Call of Duty: Black Ops·Halo: CE·GTA Vice City·Skate 3·The Simpsons: Hit and Run 브라우저 포트를 직접 해보니 일부는 거의 완벽(Hit and Run은 240fps, Halo 포트 하나는 온라인 서버까지 동작)
   * 대상은 대부분 PS2·PS3 시대 게임이라(PS3 RAM 약 512MB) 브라우저 자원은 제약이 아님. 쉽고 빠르게 다시 만들 수 있어 삭제 요청만으로는 막기 어려운, 해적판 DVD 이후 최대 규모의 IP 보호 두더지 잡기라는 우려. 번역 글은 원인·성능 평가가 필자 개인의 주장·체험이며 독립 검증되지 않았다는 점을 짚음
 * [game-developer-roadmap: Roadmap to becoming a game developer in 2022](https://github.com/utilForever/game-developer-roadmap)
 * [OpenDLSS-NR: A Vulkan reimplementation of NVIDIA's DLSS 5 Neural Rendering network, bit-exact against the original](https://github.com/maanHimself/OpenDLSS-NR)
-  * NVIDIA DLSS 5 뉴럴 렌더링 네트워크를 Vulkan으로 재구현—원본과 비트 단위로 동일한 결과. JavaScript, MIT
+  * NVIDIA DLSS 5 뉴럴 렌더링 네트워크를 Vulkan으로 재구현—원본과 비트 단위로 동일한 결과
 * [snake6502.asm](https://gist.github.com/wkjagt/9043907)
 * [Simutrans - Transport Simulator](https://www.simutrans.com/en/)
 * [Summle - a daily maths game](https://summle.net/)
@@ -122,16 +122,16 @@ Game
 * [돌핀 에뮬레이터](https://ko.dolphin-emu.org/)
 * [awesome-gamedev-agent-skills: 77 game-dev skills for AI coding agents — Godot, Unity, Unreal, Phaser, PixiJS, three.js, Bevy, pygame, LÖVE, Roblox. Portable SKILL.md Agent Skills, with a router that loads the right skill for your engine and task](https://github.com/gamedev-skills/awesome-gamedev-agent-skills)
   * [AI 게임 개발을 지원하는 74개 스킬 카탈로그, awesome-gamedev-agent-skills 분석 | digitalbourgeois](https://digitalbourgeois.tistory.com/4053)
-  * AI 코딩 에이전트용 게임 개발 Agent Skills 모음(Apache-2.0, 5.7k stars). `npx skills add gamedev-skills/awesome-gamedev-agent-skills` 한 번으로 Claude Code·Cursor·Kiro·Codex·Copilot·Gemini CLI 등에 라우터+전체 스킬 설치—사용자가 스킬을 고르지 않고 라우터가 프로젝트 파일과 요청에서 엔진·작업을 감지해 맞는 것만 로드. Godot·Unity·Unreal·Ebitengine·Phaser·PixiJS·three.js·Bevy·pygame·LÖVE·Defold·Roblox 12개 엔진별 스킬 46개+개발 분야 15개+장르 9개+워크플로 4개(digitalbourgeois 작성 시점 74개, 현재 77개). 아트 디렉션 워크플로는 일회성 생성이 아니라 비주얼 타깃을 고정해 에셋 패밀리를 만들고 결정론적으로 정규화한 뒤 게임 안에서 검사. 모든 스킬은 1차 문서 기반·엔진 버전 고정·validator 검증
+  * AI 코딩 에이전트용 게임 개발 Agent Skills 모음. `npx skills add gamedev-skills/awesome-gamedev-agent-skills` 한 번으로 Claude Code·Cursor·Kiro·Codex·Copilot·Gemini CLI 등에 라우터+전체 스킬 설치—사용자가 스킬을 고르지 않고 라우터가 프로젝트 파일과 요청에서 엔진·작업을 감지해 맞는 것만 로드. Godot·Unity·Unreal·Ebitengine·Phaser·PixiJS·three.js·Bevy·pygame·LÖVE·Defold·Roblox 12개 엔진별 스킬 46개+개발 분야 15개+장르 9개+워크플로 4개(digitalbourgeois 작성 시점 74개, 현재 77개). 아트 디렉션 워크플로는 일회성 생성이 아니라 비주얼 타깃을 고정해 에셋 패밀리를 만들고 결정론적으로 정규화한 뒤 게임 안에서 검사. 모든 스킬은 1차 문서 기반·엔진 버전 고정·validator 검증
 * [batocera.linux](https://batocera.org/)
   * [오래된 컴퓨터 버리지 마세요. 게임기로 개조해서 즐겁게 활용할 수 있어요. 리눅스를 활용한 초간단 게임기 만들기 도전! - YouTube](https://www.youtube.com/watch?v=f7i1qVfS92I)
 * [Blockbench - A Low-Poly 3D Model Editor](https://blockbench.net/)
   * [blockbench: Blockbench - A low poly 3D model editor | JannisX11](https://github.com/JannisX11/blockbench)
-  * 픽셀아트 텍스처를 입힌 로우폴리 3D 모델용 무료 오픈소스 에디터(JavaScript/Electron, GPL, 6.1k stars). 큐보이드로 마인크래프트식 모델을 만들거나 메시 모델링으로 복잡한 형태 제작, 텍스처 페인팅·UV 자동 생성·애니메이션 리깅, 표준 포맷으로 내보내 공유·렌더·3D 프린팅·게임 엔진에 사용, Minecraft Java·Bedrock 전용 포맷과 플러그인 확장
+  * 픽셀아트 텍스처를 입힌 로우폴리 3D 모델용 무료 오픈소스 에디터. 큐보이드로 마인크래프트식 모델을 만들거나 메시 모델링으로 복잡한 형태 제작, 텍스처 페인팅·UV 자동 생성·애니메이션 리깅, 표준 포맷으로 내보내 공유·렌더·3D 프린팅·게임 엔진에 사용, Minecraft Java·Bedrock 전용 포맷과 플러그인 확장
 * [Box2D is a 2D physics engine for games](https://github.com/erincatto/box2d)
 * [claude-pxl: pxl — Pixel art as code | crsolver](https://github.com/crsolver/claude-pxl)
   * 한 글자 색 키 팔레트와 ASCII 그리드로 스프라이트를 쓰는 간결한 `.px.js` DSL(미러링·자동 아웃라인·베이스 스프라이트 색 교체 한 줄)에서 PNG·TexturePacker식 JSON 스프라이트 시트·애니메이션 GIF·픽셀 그리드 업스케일 프리뷰를 생성. `pxl serve`는 저장할 때마다 다시 빌드하고 그린 과정을 op 단위로 리플레이하는 라이브 뷰어—에이전트가 그림 그리는 걸 지켜볼 수 있음. `pxl ascii`로 x/y 눈금 포함 텍스트 출력
-  * AI 에이전트용으로 설계돼 에이전트 스킬 동봉, 사람도 쓰기 편함. 런타임 의존성·빌드 단계 없음(Node 22.18+), `npx github:crsolver/claude-pxl build art.px.js`. `.ts`도 지원(타입 정의로 에디터 자동완성). TypeScript, MIT
+  * AI 에이전트용으로 설계돼 에이전트 스킬 동봉, 사람도 쓰기 편함. 런타임 의존성·빌드 단계 없음(Node 22.18+), `npx github:crsolver/claude-pxl build art.px.js`. `.ts`도 지원(타입 정의로 에디터 자동완성)
 * [CSEngine: CSEngine is a cross-platform 3D game engine](https://github.com/ounols/CSEngine)
 * [Doom3 BFG Source Code Review: Introduction](https://fabiensanglard.net/doom3_bfg/index.php)
 * [EasyRPG](https://easyrpg.org/)
@@ -153,7 +153,7 @@ Game
 * [micropolisJS - 오리지널 심시티 클론 | GeekNews](https://news.hada.io/topic?id=6105)
 * [Plateau — Turn novels into playable games](https://plateau.vibecoco.ai/)
   * [novel-to-game: Agent Skills that turn novels into source-grounded, fully playable games for Claude Code, Codex, and Kimi Code(K3)](https://github.com/worldwonderer/novel-to-game)
-  * 소설을 원작에 충실한(source-grounded) 플레이 가능한 게임으로 변환하는 Claude Code·Codex·Kimi Code(K3)용 Agent Skills. MIT
+  * 소설을 원작에 충실한(source-grounded) 플레이 가능한 게임으로 변환하는 Claude Code·Codex·Kimi Code(K3)용 Agent Skills
 * [Openfoot Manager — Free and open source football manager game](https://openfootmanager.com/)
   * [openfootmanager](https://github.com/openfootmanager/openfootmanager)
   * Football Manager 영감의 오픈소스 축구 매니저 게임. Rust 매치 시뮬레이션 엔진 + React/TypeScript/TailwindCSS 프론트엔드 + Tauri 데스크톱 앱 + SQLite. GPLv3
@@ -166,7 +166,7 @@ Game
 * [Pixelbox.js - A downloadable Game Engine for Windows and macOS](https://pixwlk.itch.io/pixelbox)
 * [Pixeli: pixel art drawn by AI agents in Aseprite](https://pixeli.pebbly.space/)
   * [aseprite-ai-artist: Your coding agent paints pixel art in the Aseprite window you already have open. MCP server + skills for Claude Code, omp, Codex, Gemini CLI and Cursor — draws, looks at its work, animates and exports. Gallery and benchmark: pixeli.pebbly.space | with-pebbly](https://github.com/with-pebbly/aseprite-ai-artist)
-  * Pebbly의 Aseprite AI Artist—코딩 에이전트가 생성 PNG를 던지는 대신 이미 열어 둔 Aseprite 창의 문서에 한 픽셀씩 그리고(모든 동작이 Ctrl+Z 한 번), 픽셀을 바꾼 매 단계 후 결과를 직접 보며 마지막에 타협한 부분을 보고. MCP 서버(명사별 18개 도구: draw·look·layer·frame·export…) + 스킬(studio·brief·concept·new·palette·draw·shade·rig·animate·tileset·review·fix·export·submit)로, `/aseprite:studio`가 연결→브리프→콘셉트→드로잉→애니메이션→리뷰→내보내기(스프라이트시트+아틀라스·GIF·PNG) 7단계를 알아서 진행. Aseprite 1.3+·Node 22.6+, Claude Code·omp·Codex CLI·Gemini CLI·Cursor·VS Code·Windsurf 지원(Claude Code·omp에선 palette-smith·rig-builder·animation-director·pixel-critic 전문 서브에이전트), Aseprite 미연결 시 파일 편집 거부·127.0.0.1 바인딩, CI용 헤드리스 모드. TypeScript+Lua, MIT, 253 stars
+  * Pebbly의 Aseprite AI Artist—코딩 에이전트가 생성 PNG를 던지는 대신 이미 열어 둔 Aseprite 창의 문서에 한 픽셀씩 그리고(모든 동작이 Ctrl+Z 한 번), 픽셀을 바꾼 매 단계 후 결과를 직접 보며 마지막에 타협한 부분을 보고. MCP 서버(명사별 18개 도구: draw·look·layer·frame·export…) + 스킬(studio·brief·concept·new·palette·draw·shade·rig·animate·tileset·review·fix·export·submit)로, `/aseprite:studio`가 연결→브리프→콘셉트→드로잉→애니메이션→리뷰→내보내기(스프라이트시트+아틀라스·GIF·PNG) 7단계를 알아서 진행. Aseprite 1.3+·Node 22.6+, Claude Code·omp·Codex CLI·Gemini CLI·Cursor·VS Code·Windsurf 지원(Claude Code·omp에선 palette-smith·rig-builder·animation-director·pixel-critic 전문 서브에이전트), Aseprite 미연결 시 파일 편집 거부·127.0.0.1 바인딩, CI용 헤드리스 모드
   * 0.5.0 '그리드 루프': 원·사각형 대신 프레임을 픽셀당 한 글자 텍스트 그리드로 타이핑해 한 번에 그리고, 캔버스를 같은 형식으로 읽어 틀린 글자만 고침(0.6.0부터 글자=팔레트 항목이라 큰 캔버스도 조각 단위 편집; 같은 모델·프롬프트로 벤치마크 mage 3→4/10, road 1→3/10, tree 2 유지—초기 신호). 0.7.0 지식 베이스: 62개 규칙(라인·안티에일리어싱·디더링·색 램프·해부·걷기 사이클·타일·이펙트·콘솔 시대 스타일)·약 400 픽셀 템플릿을 `rules://` MCP 리소스로 제공. 0.8.0 '새 눈으로 리뷰': 그리지 않은 pixel-critic이 콜드 리드→채점(블로킹 없이 7/10 이상이면 출하), 수정안은 중립 이름의 블라인드 A/B에서 이겨야 채택; 번들 팔레트도 6→2006개(콘솔 클래식+Lospec 다운로드 상위 2000, `knowledge://palettes` 리소스)로 확장
   * Pixeli 사이트는 플러그인으로 그린 모든 작품(프롬프트·모델·.aseprite 원본 포함, 41점)의 갤러리 + 고정 프롬프트 벤치마크(Boombox mage·Winding road·Cherry tree·Turntable cottage, 기준 통과 35%·사람 심사 craft 50%·속도 15%로 0–100점, 플러그인 버전별 기록). 2026-10-07 기준 리더보드 claude-opus-5-5 69 > claude-sonnet-5-5 55 > gpt-6.1-sol 35 > gpt-6-luna 27. README 히어로 GIF(500×400·384프레임 24fps·16초·24레이어)도 Claude Opus 5.5가 이 서버로 그림. `/aseprite:submit`으로 갤러리 PR 제출
 * [PlayCanvas WebGL Game Engine](https://playcanvas.com/)
@@ -209,7 +209,7 @@ Game
 * [Vassal - a game engine for building and playing online adaptations of board games and card games](http://www.vassalengine.org/)
 * [voxel-musou: Dynasty Warriors-style voxel action game in the browser: Zhao Yun vs 300 soldiers. Three.js, no build step](https://github.com/mike007jd/voxel-musou)
   * [Voxel Musou — 브라우저에서 바로 플레이](https://voxel-musou.vercel.app)
-  * 진삼국무쌍 스타일의 브라우저 복셀 액션 게임—조자룡으로 위나라 병사 수백을 상대(400+ 히트 체인, 차지 공격 C1~C6, 무쌍 컷인·150 K.O. 무쌍 드래곤). 빌드 스텝 없는 순수 ES 모듈 + Three.js r186 vendored, 결정론적 고정 60Hz 시뮬레이션. JavaScript, MIT
+  * 진삼국무쌍 스타일의 브라우저 복셀 액션 게임—조자룡으로 위나라 병사 수백을 상대(400+ 히트 체인, 차지 공격 C1~C6, 무쌍 컷인·150 K.O. 무쌍 드래곤). 빌드 스텝 없는 순수 ES 모듈 + Three.js r186 vendored, 결정론적 고정 60Hz 시뮬레이션
 * [Warzone 2100: A Free And Open Source Real-Time Strategy Game](https://wz2100.net/)
 
 ## Library DOS
@@ -227,7 +227,7 @@ Game
   * Shire/Gondor/Mordor/Lothlorien/Rohan/Moria/Rivendell 7개 렘 + 혼합 모드, 3x3~20x20 그리드, 지형·물·식물·주거·건물·장식 6개 타일 카테고리, 8개 호빗 스프라이트. 클릭/드래그 페인팅, Cmd+Z 실행 취소, PNG/JSON 내보내기. Zustand+localStorage 상태 유지
 * [Kaboom!! - a fun JavaScript game programming library & environment](https://replit.com/kaboom)
 * [mykonos-island-voxels: A browser-based isometric island builder with the soft, sun-bleached look of Mykonos](https://github.com/boona13/mykonos-island-voxels)
-  * 미코노스풍의 부드럽고 햇살 바랜 룩의 브라우저 아이소메트릭 섬 빌더. Vanilla ES 모듈, 번들러 없음, 모바일 지원. JavaScript, MIT
+  * 미코노스풍의 부드럽고 햇살 바랜 룩의 브라우저 아이소메트릭 섬 빌더. Vanilla ES 모듈, 번들러 없음, 모바일 지원
 * [PrinceJS: Prince of Persia reimplementation written in HTML5/Javascript](https://github.com/ultrabolido/PrinceJS)
   * [페르시아의 왕자 in Javascript | GeekNews](https://news.hada.io/topic?id=5639)
 

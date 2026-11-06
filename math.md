@@ -134,7 +134,7 @@ Math
   * [최승준 - 그랜트 샌더슨 – AI와 수학의 미래 (1/3) | Facebook](https://www.facebook.com/seungjoon.choi/posts/pfbid02iun8aQaw2L3jAeJYcrmHH6FfvAPpnQLh62mJsiDuetRmezrGyNkpLEcXhkbUfNS3l)
   * [최승준 - 그랜트 샌더슨 – AI와 수학의 미래 (2/3) | Facebook](https://www.facebook.com/seungjoon.choi/posts/pfbid0ibKiMNwBZbHRvk1EzodR4icZeJ9qySPWWM6Vj7hdYhgpLyWdghaqEy8kybjACdWDl)
   * [최승준 - 그랜트 샌더슨 – AI와 수학의 미래 (3/3) | Facebook](https://www.facebook.com/seungjoon.choi/posts/pfbid0Q6t1DBSLyKxJadj7PErnJ61tno6E1wZWXtBgD6E8zKwKP3ntTqz1cXpyWJMidmxYl)
-  * 2026-06-30, 94분. "초지능이 가장 먼저 나타날 곳은 수학이다"—AI는 다른 어떤 분야보다 수학에서 빠르게 진보해 다른 분야의 AI 진보가 어떤 모습일지를 구체적으로 보여주지만 수학 안에서도 지형은 들쭉날쭉. 수학사 주요 개념적 돌파구의 본질과 현재 AI 능력의 차이, AI가 인간의 이해를 늘리는가 줄이는가, 문헌 속 아이디어를 AI가 체계적으로 연결하기만 해도 얻을 수 있는 미개발 잠재력(overhang), AI로 가장 크게 바뀌는 분야를 지망하는 학생들에 대한 조언. 최승준의 한국어 번역 3부작
+  * "초지능이 가장 먼저 나타날 곳은 수학이다"—AI는 다른 어떤 분야보다 수학에서 빠르게 진보해 다른 분야의 AI 진보가 어떤 모습일지를 구체적으로 보여주지만 수학 안에서도 지형은 들쭉날쭉. 수학사 주요 개념적 돌파구의 본질과 현재 AI 능력의 차이, AI가 인간의 이해를 늘리는가 줄이는가, 문헌 속 아이디어를 AI가 체계적으로 연결하기만 해도 얻을 수 있는 미개발 잠재력(overhang), AI로 가장 크게 바뀌는 분야를 지망하는 학생들에 대한 조언. 최승준의 한국어 번역 3부작
 * [There's never been a better time to go into math | 3Blue1Brown - YouTube](https://www.youtube.com/watch?v=LKrwhjOI8Nc)
   * [오픈AI가 수학 원고 700편을 쏟아낸 뒤, 3Blue1Brown이 "지금이 수학에 들어갈 때"라고 말한 이유 | AgentOS - YouTube](https://www.youtube.com/watch?v=lkErhEIdWJY)
   * [100 Reactions to 100 Solutions | Proofs and Prompts](https://proofsandprompts.com/2026/10/08/100-reactions-to-100-solutions/)
@@ -209,7 +209,7 @@ Math
   * [AI가 이룬 수학 연구 성과를 공유합니다 | OpenAI](https://openai.com/ko-KR/index/sharing-ai-progress-in-mathematics/)
   * [OpenAI, AI가 도출한 수학 연구 원고 722편과 증명 자료 공개 | GeekNews](https://news.hada.io/topic?id=34910)
   * 기존 수학 평가가 포화되자 미공개 내부 프런티어 모델에 약 4,000개 미해결 연구 문제를 제시해 얻은 결과를 원고 719편(공개 당시 722편)·372개 결과 묶음(주요 결과·뒷받침 논증·후속·대안 증명)으로 분류해 공개. 결과 하나당 평균 연산량은 ChatGPT Pro가 약 3시간 생각하는 양. 원고 수가 해결한 미해결 문제 수는 아니며, 일부는 모델이 앞서 낸 결과 위에 쌓은 것
-  * 상위 결과의 약 42%를 Lean으로 형식화해 컴퓨터 검증이 가능하고 나머지는 검증 단계가 달라 오류 가능성을 명시, 수정 시 이전 버전 보존과 원고별 BibTeX 제공. π의 무리성 지수·Mahler 추측·Vlasov–Maxwell 계 등 추론 요약 10건 공개. 고등연구소(IAS) 수학·AI 자문단의 공개 권고를 반영했고, 결과를 이해하는 학술 행사 지원과 해당 모델 공개를 추진. Lean, Apache-2.0, 12.4k stars
+  * 상위 결과의 약 42%를 Lean으로 형식화해 컴퓨터 검증이 가능하고 나머지는 검증 단계가 달라 오류 가능성을 명시, 수정 시 이전 버전 보존과 원고별 BibTeX 제공. π의 무리성 지수·Mahler 추측·Vlasov–Maxwell 계 등 추론 요약 10건 공개. 고등연구소(IAS) 수학·AI 자문단의 공개 권고를 반영했고, 결과를 이해하는 학술 행사 지원과 해당 모델 공개를 추진
 * [Mathos | AI Math Solver & Calculator](https://www.mathgptpro.com/)
   * [이상선 - 클릭 몇 번으로 수학 문제 해결하기 학생들을 위한 간단한 AI 수학 도우미, 어려운 문제를 직관적이고... | Facebook](https://www.facebook.com/lsszz1/posts/pfbid031KyLEQh4mFAMinVxsabr953nTub7eyBjzwYZGjz8XjbnNTqKKePXySe8njGhjmr4l)
 
@@ -410,7 +410,7 @@ Math
 * [ManimGX — The animation engine for agents: blazingly fast math and 3D videos with Manim's Python API, on a Rust GPU core](https://manimgx.academa.ai/)
   * [manimgx: The animation engine for agents | academa-labs](https://github.com/academa-labs/manimgx)
   * Manim CE API 호환 Python 애니메이션 엔진을 Rust+wgpu GPU 코어로 재구현. 1080p60 5개 장면 36.2초 영상을 M4 Pro에서 3.08초에 렌더—ManimCE 대비 90.6×, ManimGL 11.5×, Blender Workbench 18.7× 빠름(벤치마크 공개). `pip install manimgx`(Python 3.13+, 폰트·조판·인코딩 포함) 또는 에이전트에 "llms.txt를 따라 설치하고 태양계 3D 애니메이션을 만들어 열어라" 프롬프트 한 줄
-  * 에이전트 시대의 3D 영상 API—완전 정적 타이핑(키워드 인자·`.animate` 체인), 2D·3D 혼합(서피스·메시·카메라 이동+텍스트·수식·플롯), 브라우저 실행(`npm install manimgx`, Pyodide+WebGPU로 렌더 서버 없이 임베드), `manimgx inspect`로 스토리보드·2D 레이아웃 검사 피드백, LaTeX/Typst 설치 불필요, `self.say()`로 음성과 애니메이션 동기화. MIT
+  * 에이전트 시대의 3D 영상 API—완전 정적 타이핑(키워드 인자·`.animate` 체인), 2D·3D 혼합(서피스·메시·카메라 이동+텍스트·수식·플롯), 브라우저 실행(`npm install manimgx`, Pyodide+WebGPU로 렌더 서버 없이 임베드), `manimgx inspect`로 스토리보드·2D 레이아웃 검사 피드백, LaTeX/Typst 설치 불필요, `self.say()`로 음성과 애니메이션 동기화
 * [Pi-thon: Teaching Maths with Python!](https://www.youtube.com/watch?v=w18LxSnQ4A4)
 * [PyDualNumber: Basic implementation of dual numbers in Python](https://github.com/kaifishr/PyDualNumber)
 

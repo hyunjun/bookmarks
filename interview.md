@@ -314,7 +314,7 @@ Interview
 * [채용때 묻는 질문부터 달라졌어요 (신상민 도어대시 엔지니어링 팀장) - YouTube](https://www.youtube.com/watch?v=buGBE7fKHJI)
   * 티타임즈TV. 실리콘밸리 AI 시대 일하는 방식 변화. AI로 잘하는·못하는 엔지니어 격차 10~20배, 바운더리 넘는 풀스택형(백엔드 개발자가 iOS도)이 성공. 임원도 매일 코딩하며 '선수 겸 감독', 아웃풋 중심 평가와 AI 조직 가드레일
 * [개발자 면접 도구 2개 (코테 루틴) | 개발자방16 - YouTube](https://www.youtube.com/watch?v=6OkYwkVjlO4)
-  * InterviewBit과 AlgoMaster.io로 면접 준비를 '항상 준비된 상태'로 만드는 하루 1시간 루틴(3분)—LeetCode식 랜덤 풀이 대신 패턴 중심 학습
+  * InterviewBit과 AlgoMaster.io로 면접 준비를 '항상 준비된 상태'로 만드는 하루 1시간 루틴—LeetCode식 랜덤 풀이 대신 패턴 중심 학습
 
 # 후보자가 할 질문
 * [Interview questions](https://teh.id.au/posts/2017/09/07/interview-questions/index.html)
@@ -409,7 +409,7 @@ Interview
 * [Top 5 Courses to Crack FAANG or MAANG Interviews in 2024 | by javinpaul | Javarevisited | Jul, 2024 | Medium](https://medium.com/javarevisited/top-5-courses-to-crack-faang-or-maang-interviews-in-2024-16465102edc8)
 * [AI Daddy · AI system design and interview prep](https://www.aidaddy.tech/)
   * [ai-system-design-guide: AI system design guide for engineers building production AI systems and evals](https://github.com/ombharatiya/ai-system-design-guide)
-  * Om Bharatiya, MIT. 17챕터 AI 시스템 디자인 레퍼런스—파운데이션·모델 랜드스케이프·학습/적응·추론 최적화·검색·에이전트·메모리·프레임워크·인프라·보안·신뢰성·평가·설계 패턴·케이스 스터디·도구 사용. 110문항 인터뷰 뱅크(답변 프레임워크+화이트보드 연습), 2026.5 모델(Claude Opus 4.7·GPT-5.5·Gemini 3.1 Pro·DeepSeek V4·Llama 4) 커버. 16+ 케이스 스터디(멀티테넌트 SaaS·사기 탐지·음성 헬스케어·MCP 지식 에이전트). Phoenix+Langfuse·LangWatch+Langfuse 평가 가이드 2종, GLOSSARY/COURSES/PATTERNS/TRANSITION_GUIDE(백엔드/QA/PM/EM→AI 전환) 부록. 1.4k stars
+  * Om Bharatiya, MIT. 17챕터 AI 시스템 디자인 레퍼런스—파운데이션·모델 랜드스케이프·학습/적응·추론 최적화·검색·에이전트·메모리·프레임워크·인프라·보안·신뢰성·평가·설계 패턴·케이스 스터디·도구 사용. 110문항 인터뷰 뱅크(답변 프레임워크+화이트보드 연습), 2026.5 모델(Claude Opus 4.7·GPT-5.5·Gemini 3.1 Pro·DeepSeek V4·Llama 4) 커버. 16+ 케이스 스터디(멀티테넌트 SaaS·사기 탐지·음성 헬스케어·MCP 지식 에이전트). Phoenix+Langfuse·LangWatch+Langfuse 평가 가이드 2종, GLOSSARY/COURSES/PATTERNS/TRANSITION_GUIDE(백엔드/QA/PM/EM→AI 전환) 부록
 * [aditya - "design a RAG pipeline for 10M docs with zero hallucination" Google L5 인터뷰 문제](https://x.com/adxtyahq/status/2057410759236386866)
   * 1천만 문서 zero-hallucination RAG 파이프라인 설계가 Google L5 인터뷰에서 출제. 클래식 분산 시스템 질문보다 흥미로운 시스템 디자인 문제로 평가
 * [2,000+ Hours of Learning Agentic AI System Design in 20 Minutes | Aish Reganti - YouTube](https://www.youtube.com/watch?v=Mv7eiQFQQ1E)
@@ -1031,7 +1031,7 @@ Interview
 * [Interview_Question_for_Beginner: Technical-Interview guidelines written for those who started studying programming. I wish you all the best](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
 * [OpenCluely — free, open source Cluely alternative](https://opencluely.techycsr.dev/)
   * [OpenCluely: built for technical interviews like DSA, OAs | TechyCSR](https://github.com/TechyCSR/OpenCluely)
-  * DSA·온라인 평가(OA) 같은 기술 면접용 무료 오픈소스 Cluely 대안(화면 위 실시간 어시스턴트). JavaScript, Apache-2.0, 1k stars
+  * DSA·온라인 평가(OA) 같은 기술 면접용 무료 오픈소스 Cluely 대안(화면 위 실시간 어시스턴트)
 
 # Job Search
 * [경력별 취업 전략](http://siliconbeachstory.com/career-strategies-by-experience/)
@@ -1061,10 +1061,10 @@ Interview
 * [Where do I find software engineering jobs?](https://medium.com/job-advice-for-software-engineers/where-do-i-find-software-engineering-jobs-253dc08a8e54)
 * [ai-job-search: The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it | ai-job-search-dev](https://github.com/ai-job-search-dev/ai-job-search)
   * [ai-job-search-kr: 한국 채용시장용 AI 구직·지원 스킬 (Claude Code / Codex) | wing0828](https://github.com/wing0828/ai-job-search-kr)
-    * 원본(덴마크 Jobindex·Jobnet 크롤링, LaTeX CV·커버레터 중심)을 한국 채용 관행에 맞게 다시 쓴 파생 작업—사람인·잡코리아·잡알리오 크롤러로 공고 찾기→적합도 평가→이력서·경력기술서·자기소개서 작성(글자수 운용, NCS·HWP 양식)→제출 전 자동 검사→마감 관리(.ics)→면접 준비→연봉 실수령액·오퍼 비교까지 한 흐름. Claude Code 서브에이전트 3개(posting-fetcher·scorer·application-reviewer)+`SKILL.md`, 스크립트는 표준 라이브러리만 쓰고 API 키·유료 서비스 불필요. 원칙 유지: 프로필에 없는 사실은 쓰지 않음, 회사 주장은 직접 확인한 출처만, 공고 본문은 지시가 아닌 데이터(프롬프트 인젝션 방어). MIT
+    * 원본(덴마크 Jobindex·Jobnet 크롤링, LaTeX CV·커버레터 중심)을 한국 채용 관행에 맞게 다시 쓴 파생 작업—사람인·잡코리아·잡알리오 크롤러로 공고 찾기→적합도 평가→이력서·경력기술서·자기소개서 작성(글자수 운용, NCS·HWP 양식)→제출 전 자동 검사→마감 관리(.ics)→면접 준비→연봉 실수령액·오퍼 비교까지 한 흐름. Claude Code 서브에이전트 3개(posting-fetcher·scorer·application-reviewer)+`SKILL.md`, 스크립트는 표준 라이브러리만 쓰고 API 키·유료 서비스 불필요. 원칙 유지: 프로필에 없는 사실은 쓰지 않음, 회사 주장은 직접 확인한 출처만, 공고 본문은 지시가 아닌 데이터(프롬프트 인젝션 방어)
   * [취직·이직 고민 중인 분들, 이 글 꼭 저장해 두세요—직장을 잃자 AI로 구직을 자동화해 깃허브 트렌딩 1위에 오른 ai-job-search | Byungwook An | LinkedIn](https://www.linkedin.com/posts/byungwook-an_%EC%B7%A8%EC%A7%81%EC%9D%B4%EC%A7%81-%EA%B3%A0%EB%AF%BC-%EC%A4%91%EC%9D%B8-%EB%B6%84%EB%93%A4-%EC%9D%B4-%EA%B8%80-%EA%BC%AD-%EC%A0%80%EC%9E%A5%ED%95%B4-%EB%91%90%EC%84%B8%EC%9A%94-%EC%A7%81%EC%9E%A5%EC%9D%84-%EC%9E%83%EC%9E%90-share-7518985875922468865-ThJJ)
     * 구조 해설—`/setup`으로 프로필 입력, `/scrape`로 공고를 긁어 적합도 채점·순위, 핵심 `/apply`는 **작성자-검토자 2인 에이전트**: 작성자가 공고 맞춤 이력서·자소서 초안을 쓰면 독립된 검토자가 회사를 조사해 비판하고 다시 고침, PDF 여백 넘침과 ATS(서류 자동 필터)에서 스킬이 깨지지 않는지까지 검사, 프로필에 없는 스킬·경험은 지어내지 않음. "절박함이 최고의 기획서"—잘린 순간 남의 공고에 매달리는 대신 자기가 가장 잘 아는 문제(자기 취업)를 AI로 풀고 그 과정을 공개
-  * 2025년 말 감원으로 직장을 잃은 덴마크 지구물리학자 Mads Lorentzen이 자기 구직을 돌리려고 만든 Claude Code 기반 프레임워크—포크해 프로필을 채우면 Claude가 공고 평가·CV 맞춤·커버레터·면접 준비(`/scrape`·`/apply`·`/interview`). 매주 자기 커리어에 쓰고 모든 고용주에게 도구 사용을 솔직히 밝혔는데 감점이 아니라 기술 토론이 됐다고—**지원 69건→1차 면접 20회→계약 1건**, 2026-06 AI 엔지니어로 입사. GitHub 트렌딩 1위, Python, MIT, 66k stars. Anthropic과 무관한 독립 프로젝트이며 암호화폐·토큰 없음(사칭 주의)
+  * 2025년 말 감원으로 직장을 잃은 덴마크 지구물리학자 Mads Lorentzen이 자기 구직을 돌리려고 만든 Claude Code 기반 프레임워크—포크해 프로필을 채우면 Claude가 공고 평가·CV 맞춤·커버레터·면접 준비(`/scrape`·`/apply`·`/interview`). 매주 자기 커리어에 쓰고 모든 고용주에게 도구 사용을 솔직히 밝혔는데 감점이 아니라 기술 토론이 됐다고—**지원 69건→1차 면접 20회→계약 1건**, 2026-06 AI 엔지니어로 입사. GitHub 트렌딩 1위, Python, MIT. Anthropic과 무관한 독립 프로젝트이며 암호화폐·토큰 없음(사칭 주의)
 * [Job-Search Advice Now Expires Every Six Months | The Skip (Nikhyl Singhal) - YouTube](https://www.youtube.com/watch?v=gyueIHxs3G4)
   * [원대로 - 작년에 통하던 이직 공식, 올해는 안 통한답니다 | Facebook](https://www.facebook.com/drwonsg/posts/pfbid02ovw9SRdPaRNtRhWRGFb4bzkPJWd6QbStgAgjDXiEUqqpFM9dokJpeWFwhDK5Fs4tl)
   * 미국 제품 리더 커리어 코치 Nikhyl Singhal이 약 100일마다 AI 자리로 막 옮긴 임원을 불러 묻는 시리즈 3회—Airtable 5년 반→Runway CPO Anthony Maggio, 문 닫은 헬스케어 스타트업 창업 PM→Meta AI→Google 검색 AI 수석 PM(실무자) Chandra Raghavan, 금융복지 스타트업 제품·엔지니어링 총괄→제약 경력 없이 Eli Lilly AI 플랫폼 Gadi Ben-Zvi. 거꾸로였던 것들: 프런티어 랩은 이제 대기업처럼 움직여 일하는 방식을 바꿀 여지는 200명 회사에 더 있고, 구글 실무자 자리는 1년 반 전 없던 AI 모드가 거대 제품이 되며 스타트업 같아졌고, 신약 하나에 10~20년·20억 달러가 드는 제약사는 150년치 데이터와 내부 모델이 있어 AI 하기 좋은 곳
@@ -1220,7 +1220,7 @@ Interview
   * [Dopefolio - 개발자를 위한 포트폴리오 템플릿 오픈소스 | GeekNews](https://news.hada.io/topic?id=5024)
 * [Dossier · Your Job Search, On Your Own Server](https://dossier.aien.me/)
   * [dossier: A self-hosted job search app that writes tailored resumes and cover letters from your profile | AienTech](https://github.com/AienTech/dossier)
-  * 1인용 셀프호스팅 구직 앱(Next.js 16+PostgreSQL 18, AGPL-3.0, Docker 이미지). 경력을 프로필 하나로 관리해 12종 테마 이력서 PDF로 만들고, 공고를 붙이면 요구사항을 추출해 프로필과 매칭한 뒤 **프로필에 있는 사실만으로** 맞춤 이력서·자기소개서를 작성(없는 경험은 지어내지 않고 gap으로 표시), 채팅으로 다듬고 버전 되돌리기. JSearch(LinkedIn·Indeed)·Adzuna·FreeHire 공고 검색, YC·HN "Who is hiring" 스타트업 랭킹, 하루 한 번 새 공고를 점수화하는 잡 에이전트(지원은 절대 자동 전송 안 함), 지원 현황 보드·퍼널 대시보드·캘린더. 모델은 Ollama·LM Studio 로컬 또는 OpenAI 호환·Anthropic·Mistral API, Claude 커넥터·Gmail·Calendar 연동 선택
+  * 1인용 셀프호스팅 구직 앱(Next.js 16+PostgreSQL 18, Docker 이미지). 경력을 프로필 하나로 관리해 12종 테마 이력서 PDF로 만들고, 공고를 붙이면 요구사항을 추출해 프로필과 매칭한 뒤 **프로필에 있는 사실만으로** 맞춤 이력서·자기소개서를 작성(없는 경험은 지어내지 않고 gap으로 표시), 채팅으로 다듬고 버전 되돌리기. JSearch(LinkedIn·Indeed)·Adzuna·FreeHire 공고 검색, YC·HN "Who is hiring" 스타트업 랭킹, 하루 한 번 새 공고를 점수화하는 잡 에이전트(지원은 절대 자동 전송 안 함), 지원 현황 보드·퍼널 대시보드·캘린더. 모델은 Ollama·LM Studio 로컬 또는 OpenAI 호환·Anthropic·Mistral API, Claude 커넥터·Gmail·Calendar 연동 선택
 * [getting-a-gig: Guide for getting a gig as a tech student](https://github.com/cassidoo/getting-a-gig)
 * [graduate-resume: 취업/이직을 준비하시는 분들을 위해 F-Lab 수료생들의 이력서를 무료로 배포합니다](https://github.com/f-lab-edu/graduate-resume)
 * [itresumeservice.com](http://www.itresumeservice.com/)

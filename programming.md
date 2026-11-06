@@ -170,7 +170,7 @@ Programming
 * [A Philosophy of Software Design | John Ousterhout | Talks at Google - YouTube](https://www.youtube.com/watch?v=bmSAYlu0NcY) 좋은 소프트웨어 디자인을 어떻게 알아보고, 가르치고, 가꿔 나갈지에 대한 이야기
 * [Book Review: A Philosophy of Software Design | Johz Blog](https://johz.bearblog.dev/book-review-philosophy-software-design/)
 * [The Philosophy of Software Design – with John Ousterhout | The Pragmatic Engineer - YouTube](https://www.youtube.com/watch?v=lz451zUlF-k)
-  * 1시간 21분(2025-04-09). 『A Philosophy of Software Design』 저자이자 스탠퍼드 교수 John Ousterhout와 Gergely Orosz의 대담—Cursor·Copilot 같은 도구가 자동완성·테스트·문서 생성에 능해져도 소프트웨어 설계의 본질은 크게 바뀌지 않으며, 오히려 AI가 코드를 더 잘 만들수록 좋은 설계가 더 중요해진다는 관점
+  * 1시간 21분. 『A Philosophy of Software Design』 저자이자 스탠퍼드 교수 John Ousterhout와 Gergely Orosz의 대담—Cursor·Copilot 같은 도구가 자동완성·테스트·문서 생성에 능해져도 소프트웨어 설계의 본질은 크게 바뀌지 않으며, 오히려 AI가 코드를 더 잘 만들수록 좋은 설계가 더 중요해진다는 관점
 * [Software Design — Orthogonality. Software Design can seem tricky or… | by Yoganathan Shiv | Level Up Coding](https://levelup.gitconnected.com/software-design-orthogonality-7cd2d50267b6)
 * [Twenty Years of Patterns’ Impact](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6648592) celebrates the 20th year of software patterns
 * [Analysis & Design · Present](https://present.do/decks/60c21e8267ba0b4949e79f42)
@@ -1012,7 +1012,7 @@ Programming
   * 오래된 글이지만 여전히 유효하다고 생각
   * [Choose Boring Technology, Revisited | Aaron Brethorst](https://www.brethorsting.com/blog/2025/07/choose-boring-technology%2C-revisited)
     * [지루한 기술을 선택하라, Revisited (2025) | GeekNews](https://news.hada.io/topic?id=30036)
-    * 2025-07-30. 10년 전 "새 프로젝트가 새것을 배우기 위한 핑계인가, 문제를 풀려는 것인가—배운다면 미지수를 하나로 제한, 푼다면 아는 것을 고수"라는 결론이 LLM·에이전틱 코딩 도구 시대에 더 중요해졌다는 재방문. AI 도구는 거의 모든 스택에 그럴듯한 코드를 내놓지만 내가 모르는 기술이 둘 이상 섞이면 오류를 검증할 수 없음—아는 스택에선 force multiplier, 모르는 스택에선 단순 의존. 생성 코드 품질이 높아질수록 문제가 숨으므로 깊은 이해의 가치가 커짐
+    * 10년 전 "새 프로젝트가 새것을 배우기 위한 핑계인가, 문제를 풀려는 것인가—배운다면 미지수를 하나로 제한, 푼다면 아는 것을 고수"라는 결론이 LLM·에이전틱 코딩 도구 시대에 더 중요해졌다는 재방문. AI 도구는 거의 모든 스택에 그럴듯한 코드를 내놓지만 내가 모르는 기술이 둘 이상 섞이면 오류를 검증할 수 없음—아는 스택에선 force multiplier, 모르는 스택에선 단순 의존. 생성 코드 품질이 높아질수록 문제가 숨으므로 깊은 이해의 가치가 커짐
 * [Spoqa 기술 블로그 | 서버 언어 전환 이야기](https://spoqa.github.io/2022/04/15/all-new-server.html)
 * [Choosing the Right Integers :: The Coded Message](https://www.thecodedmessage.com/posts/programming-integers/)
 * [😵💫 Why billing systems are a nightmare for engineers](https://www.getlago.com/blog/why-billing-systems-are-a-nightmare-for-engineers)
@@ -1080,7 +1080,7 @@ Programming
   * [what the Simulmatics Corporation actually did has been solved](https://www.linkedin.com/posts/adampool_reconstructing-the-simulmatics-code-activity-7394472644504363008-3-Qv)
 * [알아도 도움안되는 얕은 개발 지식들 - Google Slides](https://docs.google.com/presentation/d/1T8MbP89hY3EEfxft7H2qtmOfosTerhaGtoZpk8OYSso/mobilepresent?slide=id.p)
 * [Geoffrey Litt: Dynamic Documents as Personal Software - Recurse Center - YouTube](https://www.youtube.com/watch?v=MccJdr61xnc)
-  * 문서와 애플리케이션을 별개로 보지 말고, 문서의 단순함과 앱의 힘을 합친 동적 문서로 더 많은 사람이 자기만의 고쳐 쓸 수 있는(malleable) 소프트웨어를 만들게 하자는 Recurse Center Localhost 강연(56분). HyperCard 같은 옛 시스템의 교훈, Ink & Switch의 동적 여행 플래너 Embark 시연, 현재 일하는 Notion에서의 최신 실험 미리보기
+  * 문서와 애플리케이션을 별개로 보지 말고, 문서의 단순함과 앱의 힘을 합친 동적 문서로 더 많은 사람이 자기만의 고쳐 쓸 수 있는(malleable) 소프트웨어를 만들게 하자는 Recurse Center Localhost 강연. HyperCard 같은 옛 시스템의 교훈, Ink & Switch의 동적 여행 플래너 Embark 시연, 현재 일하는 Notion에서의 최신 실험 미리보기
 
 # Agile, Scrum
 * book
@@ -1498,7 +1498,7 @@ Programming
   * [애자일에 작별을 고하며 | GeekNews](https://news.hada.io/topic?id=28583)
   * 애자일의 핵심 개념(반복 개발, 고객 참여)이 1970년대 연구에서 이미 존재했으며, 명확한 정의 없이 워터폴 반대로만 규정됐다고 비판. LLM 시대에 명세 기반 개발로 회귀 필요성 제기
 * [The Lean Tech Manifesto • Fabrice Bernhard & Steve Pereira • GOTO 2026 - YouTube](https://www.youtube.com/watch?v=5n6rFC6Ahhk)
-  * 「The Lean Tech Manifesto」 저자의 33분 대담—린 원칙을 테크 조직에 적용하기
+  * 「The Lean Tech Manifesto」 저자의 대담—린 원칙을 테크 조직에 적용하기
 * [CodeOwnership](https://martinfowler.com/bliki/CodeOwnership.html)
   * [애자일 활동에서 Collective code ownership이 '코드 공유'를 말하는게...](https://www.facebook.com/jinho.yoo.10/posts/pfbid08uZceQNYc4gygBoaeHAjNv5SqDxEwfVyoSg833tKJBsc8SwFmKbcNekcR5KbPpp5l)
   * collective code ownership = shared code
@@ -1703,7 +1703,7 @@ Programming
   * cURL, xh, Nushell http, Httpie, Curlie, Kulala nvim, Posting
 * [안전한 프로토콜의 설계 - Google Slides](https://docs.google.com/presentation/d/15edIsK14U7iVnDEcTV6epv68SN6PY56zecElEyZXsuI/edit#slide=id.p) 결제 API 설계 예시
 * [8 API Design Patterns Every Senior Developer Should Know - Visualcoders - YouTube](https://www.youtube.com/watch?v=jCs7ld1ROcw)
-  * 문제를 먼저 보여주고 그것을 푸는 패턴을 시각적으로 설명하는 10분 영상. 리소스 중심 설계, 페이지 번호 대신 커서 기반 페이지네이션, 필터링·필드 선택, 결제가 두 번 되는 버그를 막는 멱등성 키, BFF(Backend for Frontend), API 게이트웨이, 비동기 API, 클라이언트를 깨뜨리지 않는 버전 관리의 8가지
+  * 문제를 먼저 보여주고 그것을 푸는 패턴을 시각적으로 설명하는 영상. 리소스 중심 설계, 페이지 번호 대신 커서 기반 페이지네이션, 필터링·필드 선택, 결제가 두 번 되는 버그를 막는 멱등성 키, BFF(Backend for Frontend), API 게이트웨이, 비동기 API, 클라이언트를 깨뜨리지 않는 버전 관리의 8가지
 * [Architecting and Evaluating an AI-First Search API](https://research.perplexity.ai/articles/architecting-and-evaluating-an-ai-first-search-api)
   * [Architecting and Evaluating an AI-First Search API | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/6021813/5910775)
 * [Apidog An integrated platform for API design, debugging, development, mock, and testing](https://apidog.com/)
@@ -1785,7 +1785,7 @@ Programming
 * [**대규모 소프트웨어 패턴 강좌 업데이트 | Architecture 101**](https://architecture101.blog/2023/02/11/welcome_2_pattern_worlds/)
 * [Learning Software Architecture | matklad](https://matklad.github.io/2026/05/12/software-architecture.html)
   * [소프트웨어 아키텍처 배우기 | GeekNews](https://news.hada.io/topic?id=29452)
-  * rust-analyzer를 만든 matklad가 물리학 연구자의 "과학 코드" 질문에 답한 글(2026-05-12)—설계는 강의보다 하면서 배우는 것, Conway의 법칙(소프트웨어는 조직의 사회 구조를 반복)과 인센티브 구조의 중요성, rust-analyzer를 stable에서 C 의존성 없이 수초 테스트로 유지해 주말 기여자를 모으고 기능을 `catch_unwind`로 격리해 품질이 번지지 않게 한 설계 사례. HN 치트시트: 하나의 아이디어가 전체에 스며들고 놀라움을 최소화, 데이터 변환·사용 분리, 결합도가 문제의 뿌리, 상태는 명시적으로, 이름 짓기에 시간을 더 쓰고 테스트가 어려우면 설계가 틀린 것
+  * rust-analyzer를 만든 matklad가 물리학 연구자의 "과학 코드" 질문에 답한 글—설계는 강의보다 하면서 배우는 것, Conway의 법칙(소프트웨어는 조직의 사회 구조를 반복)과 인센티브 구조의 중요성, rust-analyzer를 stable에서 C 의존성 없이 수초 테스트로 유지해 주말 기여자를 모으고 기능을 `catch_unwind`로 격리해 품질이 번지지 않게 한 설계 사례. HN 치트시트: 하나의 아이디어가 전체에 스며들고 놀라움을 최소화, 데이터 변환·사용 분리, 결합도가 문제의 뿌리, 상태는 명시적으로, 이름 짓기에 시간을 더 쓰고 테스트가 어려우면 설계가 틀린 것
 * [**SwirlAI Newsletter | Aurimas Griciūnas | Substack**](https://www.newsletter.swirlai.com/)
 * [트레이드오프와 아키텍트 그리고 개발자의 소통 문제](https://brunch.co.kr/@graypool/119) 기술적인 글은 아니지만 좋은 글
 * [TA, DA, QA, BA, SA 소프트웨어 아키텍처의 역할별 차이 이해하기 | 이랜서 블로그](https://www.elancer.co.kr/blog/detail/829)
@@ -1846,7 +1846,7 @@ Programming
   * [Architects Live in the First Derivative • Gregor Hohpe • YOW! 2019 - YouTube](https://www.youtube.com/watch?v=aKVwsv4u2kc)
 * [건축가, 최초의 파생상품에 살다 - 그레고르 호페 - YOW! 2019 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/698449)
 * [Google & AWS Veteran: What Top Tier Software Architects Do Differently | Beyond Coding - YouTube](https://www.youtube.com/watch?v=F8X9_Dp3ZUk)
-  * 2026-01-21, 65분. 『The Software Architect Elevator』의 Gregor Hohpe(전 Google·AWS)가 말하는 엔지니어에서 아키텍트로 가는 법—"아키텍트는 방에서 가장 똑똑한 사람이 되려 하지 말고 모두를 더 똑똑하게 만들어야 한다". 나쁜 아키텍트와 증폭기형 아키텍트 구분, 아키텍트의 진짜 가치는 리스크를 낮추는 것(위장한 리스크 매니저), 불명확한 요구사항을 시각화하는 "Phantom Sketch Artist" 기법, 나쁜 결정에 반대하기 위한 정치적 자본 쌓기, 단순한 아키텍처가 가장 만들기 어려운 이유
+  * 『The Software Architect Elevator』의 Gregor Hohpe(전 Google·AWS)가 말하는 엔지니어에서 아키텍트로 가는 법—"아키텍트는 방에서 가장 똑똑한 사람이 되려 하지 말고 모두를 더 똑똑하게 만들어야 한다". 나쁜 아키텍트와 증폭기형 아키텍트 구분, 아키텍트의 진짜 가치는 리스크를 낮추는 것(위장한 리스크 매니저), 불명확한 요구사항을 시각화하는 "Phantom Sketch Artist" 기법, 나쁜 결정에 반대하기 위한 정치적 자본 쌓기, 단순한 아키텍처가 가장 만들기 어려운 이유
 * [자주 보는 개발 설계 패턴 가지 탄 | 커리어리](https://careerly.co.kr/comments/78185)
 * [10 Backend Design Pattern Laws of Senior Engineers and Architects | Cloud X Berry - YouTube](https://www.youtube.com/watch?v=b4IlyJSIlL0)
   * 처음엔 단순했던 백엔드가 기능·개발자·비즈니스 변경이 쌓이며 손대기 위험해지는 순간을 위한 패턴 10개를 문제 하나씩 초보자용으로—Repository(DB 접근을 비즈니스 로직 밖으로, 목으로 테스트하고 MySQL→PostgreSQL 교체), Factory(Stripe·Razorpay·PayPal 같은 결제 제공자를 한곳에서 생성), Singleton(설정·로깅 공유 인스턴스와 과용의 함정), Strategy(쌓여 가는 할인 if-else를 교체 가능한 전략으로), Observer(주문 서비스가 이벤트를 발행) 등
@@ -2349,15 +2349,15 @@ Programming
 * [Stateful vs Stateless Architecture | AlgoMaster](https://blog.algomaster.io/p/stateful-vs-stateless-architecture)
   * 위 7편은 AlgoMaster(Ashish Pratap Singh)의 시스템 디자인 개념 시리즈 중 아키텍처 개념 편
 * [Master Software Architecture: From Simplicity to Complexity • Maciej «MJ» Jedrzejewski • GOTO 2025 - YouTube](https://www.youtube.com/watch?v=ZCrCqbblXjk)
-  * 「Master Software Architecture」 저자의 46분 발표—단순함에서 복잡함으로 가는 아키텍처 여정
+  * 「Master Software Architecture」 저자의 발표—단순함에서 복잡함으로 가는 아키텍처 여정
 * [Platforms: Build Abstractions, not Illusions • Gregor Hohpe • GOTO 2025 - YouTube](https://www.youtube.com/watch?v=mRoWGqcBSzk)
-  * 「Platform Strategy」·「The Software Architect Elevator」 저자 Gregor Hohpe의 46분 발표—플랫폼은 환상(illusion)이 아니라 추상화(abstraction)를 만들어야 한다
+  * 「Platform Strategy」·「The Software Architect Elevator」 저자 Gregor Hohpe의 발표—플랫폼은 환상(illusion)이 아니라 추상화(abstraction)를 만들어야 한다
 * [Best Simple System for Now • Daniel Terhorst-North • GOTO 2025 - YouTube](https://www.youtube.com/watch?v=u4Cv65F9DcY)
-  * BDD 창시자 Dan North의 44분 발표—미래를 예측한 최적 설계가 아니라 '지금을 위한 가장 단순한 시스템'을 반복적으로 유지하는 설계 철학
+  * BDD 창시자 Dan North의 발표—미래를 예측한 최적 설계가 아니라 '지금을 위한 가장 단순한 시스템'을 반복적으로 유지하는 설계 철학
 * [Why The Best Software Engineers Focus On System Design | Beyond Coding - YouTube](https://www.youtube.com/watch?v=LeUUxLRdvho)
-  * 최고의 엔지니어들이 코드보다 시스템 디자인에 집중하는 이유(46분)
+  * 최고의 엔지니어들이 코드보다 시스템 디자인에 집중하는 이유
 * [Model-Based Systems Eng. & Requirements Definition • Dennis Hansen & Jorge Orellana • GOTO Book Club - YouTube](https://www.youtube.com/watch?v=-6BbPwlR6o4)
-  * 모델 기반 시스템 엔지니어링(MBSE)과 요구사항 정의를 다룬 북클럽 대담(23분)
+  * 모델 기반 시스템 엔지니어링(MBSE)과 요구사항 정의를 다룬 북클럽 대담
 * [You Keep Using That Word • Sam Newman • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=rZxIzrjvSGg) event driven, asynchronous, message queue
   * [VidiGo You Keep Using That Word • Sam Newman • GOTO 2023.](https://vidigo.ai/share/summary/38a45beea29d)
   * [그 단어를 계속 사용하는 당신 - 샘 뉴먼 - GOTO 2023 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/536409)
@@ -2730,7 +2730,7 @@ Programming
   * 백엔드 로드맵의 수십 가지 도구 이름(Spring Boot·Docker·Kubernetes·Redis·Kafka·PostgreSQL·Jenkins·AWS·Prometheus 등)을 외울 목록이 아니라 각자가 푸는 공학 문제로 보게 하자며, 쇼핑 사이트에서 노트북을 장바구니에 넣고 결제해 '주문하기'를 누르는 요청 하나를 끝까지 따라감—리버스 프록시(NGINX)가 요청을 알맞은 백엔드 서비스로 라우팅→Spring Boot·ASP.NET Core·Express·Django 같은 프레임워크가 인증(세션·JWT·OAuth·OpenID Connect)으로 누구인지 확인→DB에 주문을 읽고 저장(앱의 장기 기억)→Redis 캐시로 반복 작업 회피(히트·미스, 캐시가 DB를 대체하지 못하는 이유)→재고·배송·이메일·분석 같은 느린 후속 작업은 Kafka·RabbitMQ 메시지 큐로 넘겨 사용자를 기다리게 하지 않음
   * 이어서 줌아웃—"내 컴퓨터에선 되는데"를 고치는 Docker 컨테이너, 연휴 세일에 수천 개 컨테이너를 유지하는 Kubernetes, 그것들이 돌아가는 AWS·Azure·Google Cloud, 변경을 안전하게 배포하는 CI/CD 파이프라인, 고객보다 먼저 문제를 발견하는 Prometheus·Grafana 모니터링까지 전체 그림을 맞추고, 로드맵을 볼 때 각 도구가 어떤 문제를 푸는지 묻는 쪽으로 질문을 바꾸자는 결론. 로드맵에 압도된 입문자, 브라우저 밖에서 벌어지는 일을 알고 싶은 프런트엔드 개발자, 백엔드·시스템 디자인 면접 준비자 대상
 * [Strangling the dragon: modernizing legacy systems with the Strangler Fig pattern by Daniel Ranela | Devoxx - YouTube](https://www.youtube.com/watch?v=AmL_OCs5F4E)
-  * Devoxx Belgium 2026(35분). 레거시 시스템을 한 번에 갈아엎지 않고 새 시스템이 기존 기능을 하나씩 가로채며 점진적으로 대체하는 Strangler Fig 패턴으로 현대화하는 발표. 자막을 받지 못해 제목·발표 정보만 기록
+  * Devoxx Belgium 2026. 레거시 시스템을 한 번에 갈아엎지 않고 새 시스템이 기존 기능을 하나씩 가로채며 점진적으로 대체하는 Strangler Fig 패턴으로 현대화하는 발표. 자막을 받지 못해 제목·발표 정보만 기록
 * [Strangler Pattern: The Migration Strategy Every Senior Developer Should Know | Visualcoders - YouTube](https://www.youtube.com/watch?v=yiU6n0Qgvwc)
   * 검색·주문·결제가 한 앱에 든 15년짜리 모놀리스를 "처음부터 다시 쓰기"가 실패하는 이유에서 출발해, 자연에서 교살무화과가 나무를 대체하듯 레거시가 매일 고객을 응대하는 동안 조각씩 바꾸는 Strangler Fig 패턴 설명—①앞에 라우팅 계층 두기 ②첫 조각(검색) 추출 ③즉시 롤백이라는 내장 안전망 ④주문·결제·사용자 반복 ⑤가장 어려운 데이터 이관 ⑥트래픽 1%→100% 점진 전환 ⑦모놀리스 종료. 패턴의 솔직한 비용, 가장 큰 위험은 "끝내지 못하는 것", 쓸 때와 안 쓸 때, 레거시 시스템에 던질 질문
 * [How Docker, Kubernetes, Redis, Kafka & Prometheus Fit Together in One Application | akashcodeofficial - YouTube](https://www.youtube.com/watch?v=h3St8AXYwCs)
@@ -2773,7 +2773,7 @@ Programming
   * [Auth0의 오픈소스 대체제 Ory Kratos, 이제 Passwordless 및 SMS | GeekNews](https://news.hada.io/topic?id=13528)
 * [LikeC4 — Visualize, collaborate, and evolve software architecture with live diagrams from your code](https://likec4.dev/)
   * [likec4: Architecture-as-a-code](https://github.com/likec4/likec4)
-  * 코드로부터 항상 최신 상태의 라이브 아키텍처 다이어그램을 생성하는 C4 모델 기반 도구. TypeScript, MIT, 5.2k stars
+  * 코드로부터 항상 최신 상태의 라이브 아키텍처 다이어그램을 생성하는 C4 모델 기반 도구
 * [Polylith - a software architecture that applies functional thinking at the system scale](https://polylith.gitbook.io/polylith/)
 * [Software Architecture for Developers](https://softwarearchitecturefordevelopers.com/)
 * [software-architect-mindmap: 🧠Mindmap of 🗺️Software Architecture, Software engineering: An Overview of Software Terminologies and Concepts.](https://github.com/kimtth/software-architect-mindmap)
@@ -2819,7 +2819,7 @@ Programming
 * [SaaS 시간여행이 가능한 시스템 아키텍처](https://blog.gangnamunni.com/post/saas-event-sourcing/)
 * [What is CQRS (Command and Query Responsibility Segregation) Pattern in Microservices Architecture? | by Soma | Javarevisited | Apr, 2023 | Medium](https://medium.com/javarevisited/what-is-cqrs-command-and-query-responsibility-segregation-pattern-7b1b38514edd)
 * [CQRS Explained: Why Big Systems Separate Reads and Writes - Visualcoders - YouTube](https://www.youtube.com/watch?v=1_FGx85AEYI)
-  * 11초 걸리던 매출 대시보드가 3ms가 되기까지로 CQRS를 처음부터 설명하는 24분 영상. API 속 명령과 조회 구분, 수직 확장과 읽기 복제본이 읽기 위주 시스템에서 한계에 부딪히는 이유, 테이블이 아니라 질문에 맞춘 읽기 모델, 이중 쓰기 함정과 야간 배치의 한계, 이벤트와 프로젝터로 읽기 쪽을 갱신하는 방법
+  * 11초 걸리던 매출 대시보드가 3ms가 되기까지로 CQRS를 처음부터 설명하는 영상. API 속 명령과 조회 구분, 수직 확장과 읽기 복제본이 읽기 위주 시스템에서 한계에 부딪히는 이유, 테이블이 아니라 질문에 맞춘 읽기 모델, 이중 쓰기 함정과 야간 배치의 한계, 이벤트와 프로젝터로 읽기 쪽을 갱신하는 방법
   * 최종 일관성이라는 실제 트레이드오프, CQRS의 3단계(대부분 팀은 2단계면 충분), Event Sourcing과의 차이, CQRS가 잘 맞는 경우와 과한 경우
 * [cqrs-journey-guide-korean: 🚘 CQRS Journey 의 한국어판 번역본 (Korean version translation of Microsoft's CQRS Journey)](https://github.com/dhslrl321/cqrs-journey-guide-korean)
 
@@ -3764,7 +3764,7 @@ Programming
 * [마이크로서비스는 목표가 아니다 | 와일드 코딩 블로그](https://wild-coding.com/blog/2026/07/18/microservices-change-boundary)
   * 아샬. 마이크로서비스는 좋은 구조가 아니라 복잡한 구조이며, 전체 복잡도를 낮출 때만 선택해야 함. 기능 이름(회원·게시판·주문)으로 나누면 배포 단위는 나뉘어도 변경이 함께 일어나 "분산 모놀리식"이 됨. 좋은 분리는 비슷한 기능이 아니라 "함께 변경되는 것"끼리 묶는 것—변경 경계가 기준
 * [연속재생 MSA 아키텍처 시리즈 - YouTube](https://www.youtube.com/watch?v=Z53SHQGrTvU)
-  * 코딩하는기술사 채널 MSA 영상 통합본(46분). 모놀리스 vs MSA 딜레마→모듈러 모놀리스→API Gateway→Docker vs VM→서킷 브레이커→Service Discovery→신입의 MSA 공부 필요성 순서로 구성
+  * 코딩하는기술사 채널 MSA 영상 통합본. 모놀리스 vs MSA 딜레마→모듈러 모놀리스→API Gateway→Docker vs VM→서킷 브레이커→Service Discovery→신입의 MSA 공부 필요성 순서로 구성
 * [Apache APISIX® -- Cloud-Native API Gateway](https://apisix.apache.org/)
   * [APISIX로 11번가 Open API 모놀리식 시스템 개선하기 | 장준영 - YouTube](https://www.youtube.com/watch?v=2NLOrcz_Cfo)
   * [11번가 TECH TALK 2023](https://techtalk.11stcorp.com/2023/session/session04.html)
@@ -4189,7 +4189,7 @@ Programming
 * [클라우드 우분투에 gui로 원격 연결하기](https://evols-atirev.tistory.com/27)
 * [Running Payments on AWS, GCP and Azure at Once | InfoQ - YouTube](https://www.youtube.com/watch?v=xOi7yW4VmWw)
   * [Form3 Multi-Cloud Architecture: Running Payments on AWS, GCP and Azure at Once | InfoQ](https://www.infoq.com/presentations/form3-multicloud-architecture/)
-  * QCon London 2026, Form3(영국·유럽·미국 계좌 간 결제 처리)의 Ross McFarlane·Kevin Holditch(45분). 2021년 영국 금융 규제기관이 클라우드 집중 리스크를 지적하며 "은행은 클라우드를 빠져나올 수 있어야 한다"고 한 뒤 대형 고객 은행이 멀티클라우드를 요구—4~10명 시절 AWS에 의도적으로 꽉 묶었던 v1(Java 마이크로서비스 on ECS, SQS, RDS Postgres)을 "클라우드 공급자 하나를 가용 영역처럼 다룬다"는 발상으로 AWS·GCP·Azure 동시 active-active-active인 v2로 재구축. 각 클라우드에 Kubernetes 클러스터, 고객이 어느 클라우드 엔드포인트로든 보내는 클라이언트 측 로드밸런싱, 데이터 계층 난제는 벤더에 위임—NATS JetStream(이벤트 버스 복제)과 Postgres 호환 CockroachDB(9개 pod Raft 합의, 5개 필요하므로 PodDisruptionBudget 설정이 느슨하면 클라우드 하나 잃을 때 4개로 떨어져 전체 장애가 날 수 있어 커스텀 Kubernetes 오퍼레이터 작성·오픈소스 공개)
+  * QCon London 2026, Form3(영국·유럽·미국 계좌 간 결제 처리)의 Ross McFarlane·Kevin Holditch. 2021년 영국 금융 규제기관이 클라우드 집중 리스크를 지적하며 "은행은 클라우드를 빠져나올 수 있어야 한다"고 한 뒤 대형 고객 은행이 멀티클라우드를 요구—4~10명 시절 AWS에 의도적으로 꽉 묶었던 v1(Java 마이크로서비스 on ECS, SQS, RDS Postgres)을 "클라우드 공급자 하나를 가용 영역처럼 다룬다"는 발상으로 AWS·GCP·Azure 동시 active-active-active인 v2로 재구축. 각 클라우드에 Kubernetes 클러스터, 고객이 어느 클라우드 엔드포인트로든 보내는 클라이언트 측 로드밸런싱, 데이터 계층 난제는 벤더에 위임—NATS JetStream(이벤트 버스 복제)과 Postgres 호환 CockroachDB(9개 pod Raft 합의, 5개 필요하므로 PodDisruptionBudget 설정이 느슨하면 클라우드 하나 잃을 때 4개로 떨어져 전체 장애가 날 수 있어 커스텀 Kubernetes 오퍼레이터 작성·오픈소스 공개)
   * 실제 Google Cloud 대규모 장애(3~4시간) 때 GCP pod 크래시 루프 저수준 알림만 뜨고 결제는 다른 두 클라우드로 계속 흘러간 경험. 미국은 다른 선택—거리 때문에 레이턴시가 커 3중 active를 펼칠 수 없고 고객도 비제로 RTO/RPO를 받아들이는 시장이라 AWS 동부 active + GCP 서부 standby로: 서비스는 쉽고, 데이터는 NATS 스트림만 상대 클라우드로 복제해 서비스가 로컬 저장소에 다시 쓰게 하고, TCH RTP 연결은 IBM MQ 브로커 쌍이 같은 IP를 광고하며 BGP 라우트 전환으로 페일오버. 운영 2일차 과제(유지보수 부담이 된 초기 결정들)까지 솔직하게 다룸
 * [Cloud Resource Naming Conventions - Cloud Architecture - HUIT Confluence](https://confluence.huit.harvard.edu/display/CLA/Cloud+Resource+Naming+Conventions)
 * [‘역설투성이'··· 우리가 클라우드를 싫어하는 11가지 이유 - CIO Korea](https://www.ciokorea.com/news/177989)
@@ -4392,11 +4392,11 @@ Programming
   * [2025 최고의 개발자 플랫폼은? - YouTube](https://www.youtube.com/watch?v=bClgGbYfeWE)
   * [왜 다들 클라우드플레어로 갈까 — 압축·폰트·CLI·CDN까지 실전 팁 7가지 - 메이커 에반 | Maker Evan - YouTube](https://www.youtube.com/watch?v=c7IM7r3ZPLI)
     * GitHub에 올린 AWS 키를 5분 만에 지웠는데 다음날 서버 140대가 비트코인을 채굴해 청구서 $2,375(환불은 받았지만 보장 없음)—AI가 키를 코드에 넣고 그대로 푸시되는 일이 흔한 바이브코더에게 남 얘기가 아니라는 도입. 바이브코더 99%는 Cloudflare 하나로 충분: 코드는 Workers(전 세계 데이터센터 실행, 리전 고민 없음. 무료 일 10만 요청, $5/월 1천만 요청, 정적 파일은 무료 무제한), 파일은 R2. 핵심은 무료 플랜이 한도를 넘으면 요금이 아니라 요청이 막히는 '바닥 있는 구조'. DB는 D1(SQLite, 10GB 상한·쿼리 직렬 처리·확장 제한)보다 확장성 보고 PostgreSQL(pgvector, Neon·Supabase·Railway·AWS 어디로든 이식)—Neon 서버리스(무요청 5분 뒤 꺼짐, 무료 1GB·월 100 CU-h, 한도 초과 시 정지)+Hyperdrive(연결 풀·쿼리 캐시, 무료 일 10만 쿼리). Neon은 서울 리전이 없어 싱가포르 왕복 70ms → Workers Smart Placement로 코드를 DB 근처에서 실행
-    * 압축: 1,200만 화소 PNG 10MB → WebP q70 780KB → 가로 1600px 127KB, FHD 1분 영상 100MB → 720p H.264 3.5MB. 기준은 원본이 아니라 화면(iPhone 가로 1170px, q100 vs q75는 폰에서 구분 안 되는데 용량 4배). 한글 폰트는 Pretendard(영문 Inter·한글 본고딕 기반으로 다듬어 한 폰트처럼, 9굵기, 상업 무료)를 다이나믹 서브셋(92조각, 조각당 ~20KB)으로—AI 기본 폰트 Inter엔 한글이 없어 맑은 고딕/애플 산돌고딕이 섞여 싸 보이는 문제 해결
+    * 압축: 1,200만 화소 PNG 10MB → WebP q70 780KB → 가로 1600px 127KB, FHD 영상 100MB → 720p H.264 3.5MB. 기준은 원본이 아니라 화면(iPhone 가로 1170px, q100 vs q75는 폰에서 구분 안 되는데 용량 4배). 한글 폰트는 Pretendard(영문 Inter·한글 본고딕 기반으로 다듬어 한 폰트처럼, 9굵기, 상업 무료)를 다이나믹 서브셋(92조각, 조각당 ~20KB)으로—AI 기본 폰트 Inter엔 한글이 없어 맑은 고딕/애플 산돌고딕이 섞여 싸 보이는 문제 해결
     * AWS는 바이브코더에게 사치—키 유출이 흔하고(GitGuardian 집계 작년 공개 레포 신규 시크릿 2,800만+, Palo Alto 추적 사례는 5분 내 악용) 기본 요금 상한이 없음. 꼭 쓰려면 루트 키 금지·첫날 예산 알림·키는 환경변수로. 썸네일은 400px q60 → 5KB(카드 20개 200MB vs 100KB), 목록용·상세용 크기별 저장 또는 Cloudflare 이미지 변환(무료 월 5,000건). CLI(Wrangler·Vercel·Railway·GitHub·Supabase·Neon)는 무조건 설치—AI가 배포·환경변수·DB 테이블·실시간 로그까지 직접 처리, 브라우저 로그인이라 키 복붙 불필요. CDN 달면 DB엔 파일명(키)만 저장+CDN 주소는 환경변수, 이미지 URL 생성 함수 하나로, 파일명에 해시 붙여 캐시 1년. 안 맞는 경우—Workers 무료 CPU 10ms/요청(유료 30초~5분), 일부 npm 패키지 미호환, 고정 IP 없음, Neon 콜드스타트 수백 ms → 해당 부분만 Railway 같은 서버로(저자 본인은 Railway에 서버·DB 운영). 가격·한도는 2026-10-04 공식 문서 기준, 12분
   * [awesome-cloudflare: ⛅️ A curated list of Cloudflare tools, open source projects, guides, blogs and other resources | zhuima](https://github.com/zhuima/awesome-cloudflare)
     * [Awesome Cloudflare 在线导航](https://cloudflare.chuhai.tools/)
-    * 독립 개발자가 초기 탐색 단계에서 시간과 비용을 아끼도록 Cloudflare 기반 오픈소스 도구만 수록(기준: 개발 효율 향상·비용 절감·충분히 간단)—이미지 호스팅·이메일·블로그·스캐폴드·단축 URL·웹 분석·터널·가속·파일 공유·오브젝트 스토리지·속도 측정·모니터링·개발자 도구·글·튜토리얼 범주로 이름·특징·온라인 주소·상태 표. 중·영·스·독 README와 온라인 내비게이션 사이트. 15.6k stars
+    * 독립 개발자가 초기 탐색 단계에서 시간과 비용을 아끼도록 Cloudflare 기반 오픈소스 도구만 수록(기준: 개발 효율 향상·비용 절감·충분히 간단)—이미지 호스팅·이메일·블로그·스캐폴드·단축 URL·웹 분석·터널·가속·파일 공유·오브젝트 스토리지·속도 측정·모니터링·개발자 도구·글·튜토리얼 범주로 이름·특징·온라인 주소·상태 표. 중·영·스·독 README와 온라인 내비게이션 사이트
 * [Cloudforet | Open Source Multi-cloud Management Platform](https://cloudforet.io/)
 * [cloudquery transforms your cloud infrastructure into queryable SQL tables for easy monitoring, governance and security](https://github.com/cloudquery/cloudquery)
 * [Coolify](https://coolify.io/)
@@ -4547,14 +4547,14 @@ Programming
   * [코드 복잡도 줄이기 (Cyclomatic Complexity, NPath Complexity) | Popit](https://www.popit.kr/%ec%bd%94%eb%93%9c-%eb%b3%b5%ec%9e%a1%eb%8f%84-%ec%a4%84%ec%9d%b4%ea%b8%b0-cyclomatic-complexity-npath-complexity/)
 * [Measuring Software Complexity: What Metrics to Use?](https://thevaluable.dev/complexity-metrics-software/)
 * [lizard: A simple code complexity analyser without caring about the C/C++ header files or Java imports | terryyin](https://github.com/terryyin/lizard)
-  * 헤더 파일·import 없이도 동작하는 다언어 순환 복잡도(Cyclomatic Complexity) 분석기. Python, 2.5k stars
+  * 헤더 파일·import 없이도 동작하는 다언어 순환 복잡도(Cyclomatic Complexity) 분석기
 * [jscpd: Copy/paste detector for source code](https://jscpd.dev/)
   * [jscpd: 220+ languages, Rust engine, SARIF/HTML/badge reporters | kucherenko](https://github.com/kucherenko/jscpd)
-  * 220+ 언어를 지원하는 소스 코드 복사·붙여넣기(중복) 감지기—Rust 엔진, SARIF/HTML/배지 리포터. MIT, 6.3k stars
+  * 220+ 언어를 지원하는 소스 코드 복사·붙여넣기(중복) 감지기—Rust 엔진, SARIF/HTML/배지 리포터
 * [Sokrates - Polyglot source code examination tool](https://www.sokrates.dev/)
   * 다언어 소스 코드 구조·이력을 검사해 리포트를 만드는 코드베이스 분석 도구
 * [valknut: Next generation command line tool for automated code quality analysis | sibyllinesoft](https://github.com/sibyllinesoft/valknut)
-  * 자동화된 코드 품질 분석 CLI. JavaScript, 75 stars 초기 단계
+  * 자동화된 코드 품질 분석 CLI. JavaScript 초기 단계
 * [wily: A Python application for tracking, reporting on timing and complexity in Python code](https://github.com/tonybaloney/wily)
   * [A Python application for tracking, reporting on timing and complexity in Python code](https://pythonawesome.com/a-python-application-for-tracking-reporting-on-timing-and-complexity-in-python-code/)
 
@@ -5052,7 +5052,7 @@ Programming
   * [VidiGo | 비디고 - Analyze Video AI](https://vidigo.ai/h/result/summary/24044)
   * [AI, 플랫폼 엔지니어링 및 스태프 플러스 탐색하기: InfoQ 개발자 서밋 미리보기 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/512366)
 * [Verifying Code That Calls Code You Can't Trust • Sophia Drossopoulou • Bug Bash EU 2026 | GOTO Conferences - YouTube](https://www.youtube.com/watch?v=iXD6NvG8k7A)
-  * Bug Bash EU 2026(Antithesis 주최), Imperial College London 교수·2023 Dahl-Nygaard 상 수상자. 원제 "Specification and Verification of Robust Open Systems: Capabilities, Effects, and Trusted Mediation"—오늘의 소프트웨어는 신뢰하는 내부 코드와 동작을 알 수 없거나 적대적일 수 있는 외부 코드가 얽힌 열린 시스템이라, 검사할 수 없는 외부 호출의 효과를 감안해 방어적으로 써야 함. 효과를 제한하는 수단으로 capability와 신뢰된 중재(trusted mediation)를 두고 그런 코드를 명세·검증하는 방법. (2026-10-28 기준 프리미어 예정이라 영상 본문은 미확인)
+  * Bug Bash EU 2026(Antithesis 주최), Imperial College London 교수·2023 Dahl-Nygaard 상 수상자. 원제 "Specification and Verification of Robust Open Systems: Capabilities, Effects, and Trusted Mediation"—오늘의 소프트웨어는 신뢰하는 내부 코드와 동작을 알 수 없거나 적대적일 수 있는 외부 코드가 얽힌 열린 시스템이라, 검사할 수 없는 외부 호출의 효과를 감안해 방어적으로 써야 함. 효과를 제한하는 수단으로 capability와 신뢰된 중재(trusted mediation)를 두고 그런 코드를 명세·검증하는 방법.
 * [개발자 글로벌 커리어 컨퍼런스 - YouTube](https://www.youtube.com/watch?v=4G3x7g7Ls8o)
 * [11번가 TechTalk - YouTube](https://www.youtube.com/@11TechTalk)
 * [제주 AI 컨퍼런스](https://jejuai.kr/)
@@ -5476,13 +5476,13 @@ Programming
   * [n8nworkflows.xyz: N8N Workflows Catalog](https://github.com/nusquama/n8nworkflows.xyz) n8n용 약 6000개의 준비된 템플릿
   * [n8n AI 자동화 가이드 - WikiDocs](https://wikidocs.net/book/19485)
     * [n8n_Auto_Guide: n8n을 활용한 AI 업무 자동화 학습 가이드](https://github.com/lsszz2100/n8n_Auto_Guide)
-    * 코딩 없이 자동화 워크플로우 구축, ChatGPT·Claude 연동. 10챕터 78페이지—n8n 설치/노드/JSON/표현식, AI 에이전트·LLM·메모리, Gmail/Slack/Telegram/Sheets 실전, RAG·멀티 에이전트, Sub-Workflow·커스텀 노드. MIT
+    * 코딩 없이 자동화 워크플로우 구축, ChatGPT·Claude 연동. 10챕터 78페이지—n8n 설치/노드/JSON/표현식, AI 에이전트·LLM·메모리, Gmail/Slack/Telegram/Sheets 실전, RAG·멀티 에이전트, Sub-Workflow·커스텀 노드
   * [Sim - AI Agent Workflow Builder | Open Source Platform](https://www.sim.ai/)
     * [sim: Open-source platform to build and deploy AI agent workflows.](https://github.com/simstudioai/sim)
     * [N8N을 위협할 오픈소스 🔥Copilot 기능을 통해 <자연어로 노드를 생성>하고 오류 수정 가능, OpenAI/Anthropic/Gemini는 물론 Ollama로 로컬 LLM까지 연동 가능 | HaYeJin Kang](https://www.linkedin.com/posts/h4y3j1n_n8n-githubabr1sroabrsnyuiosqsswm-activity-7409367226274775040-Z6zv)
     * [Sim으로 구현하는 AI 에이전트 워크플로 구축과 셀프 호스팅 가이드 | digitalbourgeois](https://digitalbourgeois.tistory.com/4108)
     * 시각·대화·코드 세 방식으로 에이전트를 만들고 270+ 통합·5,400+ 액션·520+ 트리거로 Slack·Notion·Salesforce·DB와 주요 LLM(OpenAI·Anthropic·Google·xAI·Mistral·Perplexity)을 연결, 에이전트·워크플로·테이블·파일·지식베이스를 한 워크스페이스에서 관리. Claude·Claude Code·Codex에 MCP 서버(mcp.sim.ai)로 연결, `npx sim-setup`으로 셀프 호스팅(Docker·Kubernetes), Ollama·vLLM 로컬 모델, 상태·로그·진단·재시작 관리 명령. Next.js·Bun·PostgreSQL·Drizzle·Better Auth
-    * 권한 그룹·조직/멤버별 지출 한도·사용량 분석·감사 기록 등 거버넌스, 채팅·API·MCP 서버로 배포(SSO·이메일·비밀번호 인증), TypeScript·Python SDK와 CLI, Free·Pro·Max·Enterprise 요금제. TypeScript, Apache-2.0, 30k stars
+    * 권한 그룹·조직/멤버별 지출 한도·사용량 분석·감사 기록 등 거버넌스, 채팅·API·MCP 서버로 배포(SSO·이메일·비밀번호 인증), TypeScript·Python SDK와 CLI, Free·Pro·Max·Enterprise 요금제
 * [Pierre](https://pierre.co/)
   * [Bootstrap 개발자가 만든 제품 엔지니어링 도구 Pierre :: Outsider's Dev Story](https://blog.outsider.ne.kr/1715)
 * [PIPE: 더 나은 개발자 경험을 제공하기 위한 CI/CD - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/pipe-ci-cd-with-runtime/)
@@ -5577,7 +5577,7 @@ Programming
 * [CS101 Introduction to Computing Principles](https://web.stanford.edu/class/cs101/)
 * [CS50 - YouTube](https://www.youtube.com/c/cs50)
 * [cs-video-courses: List of Computer Science courses with video lectures | Developer-Y](https://github.com/Developer-Y/cs-video-courses)
-  * CS 전 분야(시스템·이론·AI·보안 등) 대학 강의 중 영상이 공개된 것만 모은 목록. 83.5k stars
+  * CS 전 분야(시스템·이론·AI·보안 등) 대학 강의 중 영상이 공개된 것만 모은 목록
 * [everdevel.com](http://www.everdevel.com/)
 * freecodecamp.org
   * [Free Code Camp's open source codebase and curriculum!](https://github.com/FreeCodeCamp/FreeCodeCamp)
@@ -5604,7 +5604,7 @@ Programming
 * [nand2tetris](https://www.nand2tetris.org/)
 * [NovoEd delivers effective and engaging online training with our social learning platform](https://novoed.com/)
 * [omniget: Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and music library. Powered by yt-dlp](https://github.com/tonhowtf/omniget)
-  * Tauri(Rust+Svelte) 데스크톱 앱. yt-dlp 기반 1,800+ 사이트 다운로드에 25개 카테고리 158개 도구를 묶음—Whisper 전사·TTS, PDF/EPUB 리더(하이라이트·북마크·포커스 모드), 타임스탬프 노트와 간격 반복 플래시카드, 음악 라이브러리, 토렌트/마그넷, PDF 도구·이미지/영상 압축. 계정·광고 없고 다운로드 내용에 텔레메트리 없음, 파일은 로컬 유지. GPL-3.0, 13.8k stars
+  * Tauri(Rust+Svelte) 데스크톱 앱. yt-dlp 기반 1,800+ 사이트 다운로드에 25개 카테고리 158개 도구를 묶음—Whisper 전사·TTS, PDF/EPUB 리더(하이라이트·북마크·포커스 모드), 타임스탬프 노트와 간격 반복 플래시카드, 음악 라이브러리, 토렌트/마그넷, PDF 도구·이미지/영상 압축. 계정·광고 없고 다운로드 내용에 텔레메트리 없음, 파일은 로컬 유지
 * [Online-Computer-Science-Degree: Open-Source Computer Science Degree](https://github.com/eeeear/Online-Computer-Science-Degree)
 * [Open Logic Project – Open Source, Customizable, Advanced Logic Text](https://openlogicproject.org/)
   * [Open Logic Project Builds](http://builds.openlogicproject.org/)
@@ -5936,11 +5936,11 @@ Programming
 * [양자컴퓨터 시대 대비 나선 미국…PQC 의무화와 양자 기술 육성 병행 | CIO](https://www.cio.com/article/4189211/)
   * 트럼프 행정명령 2건으로 연방 양자 보안·혁신 전략 수립. 연방기관 키교환 2030년말·전자서명 2031년말까지 전환, 30일 내 담당 고위직 지정. NIST·CISA에 암호 자재명세서(CBOM) 최소 표준 270일 내 수립 지시. "Harvest Now, Decrypt Later" 위협 강조, QC-ADDS 양자 연구 프로그램 병행
 * [AI 시대, 빠르고 안전한 앱 프로토타입 — 섀도우 IT를 양지로 올리는 법 | 장민석(KISTI) · 출연연 오픈소스 테크데이 2026](https://msjang.github.io/ostday26-sadp)
-  * 2026-10-07 발표 슬라이드(40분). 섀도우 IT는 예외가 아니라 모든 새 시스템이 거쳐가는 단계(PoC는 승인 전에 만들어 봐야 승인 여부를 정할 수 있음)이므로 "막을 것인가"가 아니라 "어떻게 양지로 올릴 것인가"를 묻자는 제안. 2001년 님다 바이러스 때 "공유 폴더를 해제하라"는 공지에 대응하는 "다시 켜도 된다"는 공지가 25년째 없다는 사례로 금지가 공짜인 구조를 짚고, 유즈넷 등 학술 정보 공유의 역사까지
+  * 2026-10-07 발표 슬라이드. 섀도우 IT는 예외가 아니라 모든 새 시스템이 거쳐가는 단계(PoC는 승인 전에 만들어 봐야 승인 여부를 정할 수 있음)이므로 "막을 것인가"가 아니라 "어떻게 양지로 올릴 것인가"를 묻자는 제안. 2001년 님다 바이러스 때 "공유 폴더를 해제하라"는 공지에 대응하는 "다시 켜도 된다"는 공지가 25년째 없다는 사례로 금지가 공짜인 구조를 짚고, 유즈넷 등 학술 정보 공유의 역사까지
   * 비전공자가 하기 쉬운 실수 열 가지와 아웃바운드 차단으로 안전하게 운영하는 법, 앱 하나하나 대신 플랫폼을 검사하는 SADP(Secure Application Deployment Profile), 그리고 총량제·과분류를 겨냥한 정책 제안 아홉 가지. "규제를 풀자는 게 아니라 금지가 공짜인 구조를 바꾸자." CC BY-NC-ND 4.0
 * [Python packages vulnerable to Node2Shell Brotli bug (CVE-2026-111497) | Aikido](https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497)
   * [HTTP2Shell - Node.js에서 Python까지, Brotli 의존성으로 퍼진 원격 코드 실행 취약점 | GeekNews](https://news.hada.io/topic?id=35927)
-  * 2026-10-23. Node.js 'Node2Shell'로 알려진 Brotli 디코더 메모리 경계 밖 쓰기(CVE-2026-111497)가 같은 디코더를 쓰는 PyPI Brotli·brotlicffi, Bun, Envoy, Istio, curl에도 해당—조작된 압축 데이터를 풀면 메모리 유출·충돌·RCE 가능하고, 서버가 받는 압축 요청 본문뿐 아니라 HTTP 클라이언트가 가져오는 외부 응답(URL 미리보기·크롤러)도 공격 경로. 근본 원인은 2월에 소스에서 고쳐졌지만 보안 문제로 인식되지 않아 릴리스되지 않았고 이후 OpenAI 레드팀이 취약점으로 발견. 원인은 DecodeBlockTypeAndLength()가 잘못된 형식과 입력 부족을 같은 반환값으로 처리한 것
+  * Node.js 'Node2Shell'로 알려진 Brotli 디코더 메모리 경계 밖 쓰기(CVE-2026-111497)가 같은 디코더를 쓰는 PyPI Brotli·brotlicffi, Bun, Envoy, Istio, curl에도 해당—조작된 압축 데이터를 풀면 메모리 유출·충돌·RCE 가능하고, 서버가 받는 압축 요청 본문뿐 아니라 HTTP 클라이언트가 가져오는 외부 응답(URL 미리보기·크롤러)도 공격 경로. 근본 원인은 2월에 소스에서 고쳐졌지만 보안 문제로 인식되지 않아 릴리스되지 않았고 이후 OpenAI 레드팀이 취약점으로 발견. 원인은 DecodeBlockTypeAndLength()가 잘못된 형식과 입력 부족을 같은 반환값으로 처리한 것
   * Python은 직접 import하지 않아도 Brotli가 설치돼 있으면 urllib3·requests·HTTPX·aiohttp·Scrapy가 자동으로 br 응답을 풀기 때문에 의존성 트리 전체를 점검해야 하며, 작성 시점엔 취약점 DB에 PyPI 연결 정보가 없어 pip-audit·Dependabot·Safety가 탐지 못 함. 수정 버전: Node.js 22.23.4/24.22.1/26.12.1, libbrotli 1.2.1(구 계열 1.0.10/1.1.1), Python Brotli 1.2.1·brotlicffi 1.2.1.0, Bun 1.4.4, Envoy 1.40.0 등—정적 링크·컨테이너는 재빌드. 임시 대응은 Brotli 패키지 제거 또는 Content-Encoding: br 요청 거부·응답 자동 해제 끄기; 악성 서버는 Accept-Encoding을 무시하므로 요청 헤더만 바꾸는 건 방어가 아님
 * [0xNews - 악성 PyPI, npm, Ruby 패키지 발견 – 오픈 소스 공급망을 위협하는 다중 공격 캠페인 | openLab - Secure & opensource](https://project-openlab.blogspot.com/2025/06/0xnews-pypi-npm-ruby.html)
 * [0xVulner - Salesforce Industry Cloud 보안 경고: 20개 이상 구성 취약점 및 5개의 CVE 확인 | openLab - Secure & opensource](https://project-openlab.blogspot.com/2025/06/0xvulner-salesforce-industry-cloud-20-5.html)
@@ -6056,7 +6056,7 @@ Programming
   * 다른 데이터 노출 없이 "18세 이상" 같은 사실만 증명하는 영지식증명(ZKP) 라이브러리 오픈소스화. Sparkasse 은행과 협업한 EU 연령 확인 대응, 레거시 신원 표준(ISO MDOC·JWT·W3C Verifiable Credentials) 대상. "Anonymous credentials from ECDSA" 연구 기반, C++ 구현. EU eIDAS(2026)·EUDI Wallet 연계
 * [Maigret Telegram Bot](https://www.maigret.app/)
   * [maigret: Collect a dossier on a person by username from 3000+ sites](https://github.com/soxoj/maigret)
-  * 사용자명으로 3000+ 사이트에서 정보 수집하는 Python OSINT 도구(API 키 불필요). 기본 상위 500 사이트 스캔(`-a` 전체), 프로필에서 다른 계정 링크·정보 추출, 발견된 username/ID로 재귀 검색, 태그·국가 필터, 차단/캡차 부분 우회, 24시간 자동 DB 업데이트, Tor/I2P(.onion·.i2p) 지원, FlareSolverr Cloudflare 우회, `--ai`로 OpenAI 호환 API 요약, HTML/PDF/XMind/JSON/CSV/D3 그래프 리포트, 웹 UI. 텔레그램 봇(@maigret_searchbot)으로도 제공. MIT, Python 3.10+, 31.1k stars
+  * 사용자명으로 3000+ 사이트에서 정보 수집하는 Python OSINT 도구(API 키 불필요). 기본 상위 500 사이트 스캔(`-a` 전체), 프로필에서 다른 계정 링크·정보 추출, 발견된 username/ID로 재귀 검색, 태그·국가 필터, 차단/캡차 부분 우회, 24시간 자동 DB 업데이트, Tor/I2P(.onion·.i2p) 지원, FlareSolverr Cloudflare 우회, `--ai`로 OpenAI 호환 API 요약, HTML/PDF/XMind/JSON/CSV/D3 그래프 리포트, 웹 UI. 텔레그램 봇(@maigret_searchbot)으로도 제공. Python 3.10+
 * [masscan: TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes](https://github.com/robertdavidgraham/masscan)
 * [Metasploit | Penetration Testing Software, Pen Testing Security | Metasploit](https://www.metasploit.com/)
   * [Metasploit Framework](https://github.com/rapid7/metasploit-framework)
@@ -6083,7 +6083,7 @@ Programming
   * 웹앱 보안 테스트용 자동 정찰 프레임워크. 설정 가능한 YAML 엔진, DB 기반 데이터 정리·연관, 지속 모니터링(Slack/Discord/Telegram), GPT 취약점 리포트. 서브도메인·포트·엔드포인트·취약점·스크린샷 자동화
 * [Report | SK쉴더스](https://www.skshieldus.com/kor/support/download/report.do)
 * [reverse-engineering: A curated list of awesome reverse engineering resources](https://github.com/wtsxDev/reverse-engineering)
-  * 리버스 엔지니어링 학습 자료·도구 awesome 리스트(1만+ stars). IDA Pro·Ghidra·Binary Ninja 등 디스어셈블러/디버거, 책·강의·CTF, 멀웨어·바이너리·바이트코드·안드로이드 분석 도구를 카테고리별 정리
+  * 리버스 엔지니어링 학습 자료·도구 awesome 리스트. IDA Pro·Ghidra·Binary Ninja 등 디스어셈블러/디버거, 책·강의·CTF, 멀웨어·바이너리·바이트코드·안드로이드 분석 도구를 카테고리별 정리
 * scapy -> [network](network.md)
 * [scorecard: OSS Security Scorecards](https://github.com/ossf/scorecard)
 * [security-framework: NIST·OWASP 보안 프레임워크 한국어 레퍼런스 — CSF 2.0, SP 800-53, RMF, Top 10, ASVS, WSTG 등](https://github.com/zer0-kr/security-framework)
@@ -6183,7 +6183,7 @@ Programming
 
 # Debugging
 * [What Really Happens When You Hit a Breakpoint • Sy Brand • GOTO 2025 - YouTube](https://www.youtube.com/watch?v=-czq9nJQops)
-  * 「Building a Debugger」 저자(Fastly C++ 엔지니어)가 브레이크포인트를 찍었을 때 실제로 일어나는 일을 파헤치는 42분 발표
+  * 「Building a Debugger」 저자(Fastly C++ 엔지니어)가 브레이크포인트를 찍었을 때 실제로 일어나는 일을 파헤치는 발표
 * [당신의 디버깅에 니코니코니](http://www.slideshare.net/LusainKim/ss-54856264)
 * [How to Debug Any Problem](https://hackernoon.com/how-to-debug-any-problem-ac6f8a867fae)
 * [오늘의 질문 2018.12.18](https://jojoldu.tistory.com/363) 디버깅에 대한 창천향로님 의견
@@ -6459,7 +6459,7 @@ Programming
   * [Teleport 기능 톺아보기 1탄(SSO, Access Requests편) | InfoGrab, DevOps 전문 기술 기업 | 인포그랩 | GitLab기반 DevSecOps 구축,컨설팅,교육,기술지원 서비스 제공](https://insight.infograb.net/blog/2024/06/26/teleport-ssoar/)
 * [Versus | Your AI SRE Teammate](https://versusincident.com/)
   * [devops-ai-guidelines: First AI Journey for DevOps — learning paths, practical tips, and enterprise guidelines | VersusControl](https://github.com/VersusControl/devops-ai-guidelines)
-  * 서비스 시그널에서 이상 탐지·헬스 모니터링·알림 피로 감소·SLO 정의를 해주는 AI SRE. 같은 팀의 DevOps용 AI 학습 경로·가이드라인 레포(1.5k stars) 동봉
+  * 서비스 시그널에서 이상 탐지·헬스 모니터링·알림 피로 감소·SLO 정의를 해주는 AI SRE. 같은 팀의 DevOps용 AI 학습 경로·가이드라인 레포 동봉
 
 # Email
 * [Billions of Emails Synced with Python](https://www.nylas.com/blog/billions-of-emails-synced-with-python)
@@ -6482,7 +6482,7 @@ Programming
 * [Docker Mailserver: A fullstack but simple mail-server (SMTP, IMAP, LDAP, Anti-spam, Anti-virus, etc.) using Docker](https://docker-mailserver.github.io/docker-mailserver/)
   * [docker-mailserver: Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container](https://github.com/docker-mailserver/docker-mailserver)
   * 컨테이너 하나로 돌리는 프로덕션급 풀스택 메일 서버(DMS)—Postfix(SMTP·LDAP 인증·확장 구분자), Dovecot(SASL·IMAP·POP3·LDAP·Sieve·쿼터), Rspamd·Amavis·SpamAssassin(커스텀 규칙)·ClamAV(자동 업데이트), OpenDKIM·OpenDMARC, Fail2ban, Fetchmail·Getmail6, Postscreen·Postgrey, Let's Encrypt/수동/자체 서명 인증서, SASLauthd LDAP, OAuth2(XOAUTH2·OAUTHBEARER). SQL DB 없이 설정 파일만 쓰는 "Keep it simple and versioned" 철학으로 배포·업그레이드가 단순하고 `setup.sh`로 설정·관리
-  * 2015년 @tomav가 시작, 2021년 1월부터 자원봉사자 유지보수. 문서는 이미지 버전별로 제공(기본 `:latest`=최신 안정판)되니 쓰는 이미지 태그와 맞춰 볼 것—FAQ·Usage·Docker Compose 예제·ENV 전체 목록·컨테이너 시작 시 실행되는 커스텀 스크립트 `user-patches.sh`·디버깅 가이드. 이슈 트래커는 개인 지원용이 아니라고 명시. Shell, MIT, 19k stars
+  * 2015년 @tomav가 시작, 2021년 1월부터 자원봉사자 유지보수. 문서는 이미지 버전별로 제공(기본 `:latest`=최신 안정판)되니 쓰는 이미지 태그와 맞춰 볼 것—FAQ·Usage·Docker Compose 예제·ENV 전체 목록·컨테이너 시작 시 실행되는 커스텀 스크립트 `user-patches.sh`·디버깅 가이드. 이슈 트래커는 개인 지원용이 아니라고 명시
 * [emailengine: Headless email client](https://github.com/postalsys/emailengine)
   * [EmailEngine - IMAP/SMTP를 REST API로 접근하는 오픈소스 | GeekNews](https://news.hada.io/topic?id=4855)
 * [FakeSMTP – FakeSMTP - Dummy SMTP server for developers](https://nilhcem.com/FakeSMTP/)
@@ -6497,11 +6497,11 @@ Programming
 * [posta: Self-hosted email delivery platform that enables applications to send emails via HTTP APIs while handling SMTP delivery, templates, storage, security, and analytics. Fully self-hostable alternative to services like SendGrid or Mailgun | goposta](https://github.com/goposta/posta)
   * [Posta — Self-Hosted Email Delivery & Inbound Platform](https://goposta.dev/)
   * 하나의 HTTP API(필요한 경로엔 SMTP)로 발신·수신·릴레이를 모두 다루는 셀프호스팅 이메일 플랫폼—SendGrid·Mailgun·Postmark 대안. 발신: 트랜잭션·마케팅 메일, 템플릿·로컬라이제이션·캠페인·구독자 목록, 바운스·컴플레인 처리, 전달 분석, 첨부·커스텀 헤더·구독 해지, 서명된 만료 링크의 웹 보기, 예약 발송·미리보기, 주소 검증(문법·MX·일회용·역할 계정), Redis+Asynq 비동기 처리·재시도·우선순위 큐
-  * 수신: TLS SMTP 수신기·HMAC 검증 웹훅 인제스트, 메시지·헤더·첨부 저장, 스팸 점수, 실시간 SSE 알림. 릴레이: 기존 SMTP 클라이언트를 Posta로 향하게 해 API 파이프라인을 그대로 타며 점진 이전. 폼: 웹사이트 문의 폼이 JS·백엔드 없이 Posta로 POST, 스팸 검사 후 대시보드에서 사람이 답장(자동 응답 없음). SMTP 풀·추적·OIDC/SSO, 대시보드·SDK, Docker 이미지(jkaninda/posta), 라이브 데모 app.goposta.dev. Go, AGPL-3.0
+  * 수신: TLS SMTP 수신기·HMAC 검증 웹훅 인제스트, 메시지·헤더·첨부 저장, 스팸 점수, 실시간 SSE 알림. 릴레이: 기존 SMTP 클라이언트를 Posta로 향하게 해 API 파이프라인을 그대로 타며 점진 이전. 폼: 웹사이트 문의 폼이 JS·백엔드 없이 Posta로 POST, 스팸 검사 후 대시보드에서 사람이 답장(자동 응답 없음). SMTP 풀·추적·OIDC/SSO, 대시보드·SDK, Docker 이미지(jkaninda/posta), 라이브 데모 app.goposta.dev
 * [SENDUNE - HTML Email Designer Drag-and-Drop-Email-Designer: Drag and drop HTML email designer - truly free and open source.](https://github.com/SendWithSES/Drag-and-Drop-Email-Designer)
   * [Sendune – 오픈소스 HTML 이메일 디자이너 | GeekNews](https://news.hada.io/topic?id=15932)
 * [spameater: Secure temporary email service with auto-deletion. ModSecurity WAF protected | rufftruffles](https://github.com/rufftruffles/spameater)
-  * SpamEater—자기 도메인·서버에서 돌리는 셀프호스팅 일회용 이메일. 이름을 치면 받은편지함이 생기고 가입·테스트에 쓴 뒤 24시간 후 받은편지함·메일이 복구 불가로 자동 삭제(카운트다운은 생성 시점부터). 계정·트래킹·분석 없음, 본문은 AES-256-GCM으로 암호화 저장, 원격 이미지는 기본 차단(트래킹 픽셀 미작동), 외부 CDN 미사용. Haraka SMTP + Express API + SQLite, 빌드 스텝 없는 바닐라 JS 프론트(3초 폴링), Docker 이미지·네이티브 설치 스크립트(AlmaLinux/RHEL/Rocky 9·10, Ubuntu 22.04+/Debian 11+). JavaScript, MIT, 227 stars
+  * SpamEater—자기 도메인·서버에서 돌리는 셀프호스팅 일회용 이메일. 이름을 치면 받은편지함이 생기고 가입·테스트에 쓴 뒤 24시간 후 받은편지함·메일이 복구 불가로 자동 삭제(카운트다운은 생성 시점부터). 계정·트래킹·분석 없음, 본문은 AES-256-GCM으로 암호화 저장, 원격 이미지는 기본 차단(트래킹 픽셀 미작동), 외부 CDN 미사용. Haraka SMTP + Express API + SQLite, 빌드 스텝 없는 바닐라 JS 프론트(3초 폴링), Docker 이미지·네이티브 설치 스크립트(AlmaLinux/RHEL/Rocky 9·10, Ubuntu 22.04+/Debian 11+)
   * 보안: ModSecurity WAF(OWASP CRS)·fail2ban·CSRF+HMAC 삭제 토큰(상수 시간 비교)·SMTP/WAF/API 계층별 IP·받은편지함 단위 레이트 리밋·Let's Encrypt 자동 갱신·CSP/HSTS 헤더. 받은편지함 이름만 알면 누구나 읽을 수 있는 무계정 설계라 민감한 용도는 랜덤 이름(주사위 버튼) 권장. v4(2026-08, Terminal Ledger UI): HTML 메일을 다크 테마에 색상 단위로 적응시키고 대비 가드로 읽기 어려운 텍스트 보정, MIME 트리 전체 탐색으로 전달 메일 표시, cid 인라인 이미지 임베드, 4.1 다크/라이트 토글, Docker 업그레이드 시 암호화 키 유지, Haraka 3.1·3.3 지원, 첫 테스트 스위트·CI
 * [spf-dkim-dmarc-simplified: Email security is a key part of internet communication. But what are SPF, DKIM, and DMARC, and how do they work? This guide will explain it all in simple terms to make these concepts clearer](https://github.com/nicanorflavier/spf-dkim-dmarc-simplified)
   * [SPF, DKIM, DMARC 이해하기: 간단한 가이드 | GeekNews](https://news.hada.io/topic?id=15408)
@@ -8260,7 +8260,7 @@ Programming
   * [Q-Day 이후: 대규모 양자 애플리케이션 • 매튜 키슨 • YOW! 2025](https://livewiki.com/ko/content/q-day-quantum-applications-scale)
 * [Amazon Braket으로 양자-고전 하이브리드 알고리즘 실행하기 (1편) | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/amazon-braket-quantum-classical-hybrid-algorithms-1/)
   * [Amazon Braket으로 양자-고전 하이브리드 알고리즘 실행하기 (2편) | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/amazon-braket-quantum-classical-hybrid-algorithms-2/)
-  * NISQ 시대에 고전·양자 자원을 결합한 하이브리드 알고리즘을 Amazon Braket Hybrid Jobs로 실행—Braket이 EC2 인스턴스를 자동 프로비저닝하고 QPU 또는 시뮬레이터와 연동해 반복 알고리즘을 돌리며 쓴 만큼만 과금. 1편(2026-06-09): 알고리즘 스크립트를 제출하는 방식과 코드·콘솔 기반 구성. 2편(2026-07-31): Python SDK `@hybrid_job` 데코레이터로 함수 단위 잡 정의와 로컬 잡 활용, 예제는 |0⟩에 RX(θ) 회전 게이트를 적용했을 때 각도에 따른 Pauli Z 기댓값 변화(상태 토모그래피 중 Z축 측정)
+  * NISQ 시대에 고전·양자 자원을 결합한 하이브리드 알고리즘을 Amazon Braket Hybrid Jobs로 실행—Braket이 EC2 인스턴스를 자동 프로비저닝하고 QPU 또는 시뮬레이터와 연동해 반복 알고리즘을 돌리며 쓴 만큼만 과금. 1편: 알고리즘 스크립트를 제출하는 방식과 코드·콘솔 기반 구성. 2편: Python SDK `@hybrid_job` 데코레이터로 함수 단위 잡 정의와 로컬 잡 활용, 예제는 |0⟩에 RX(θ) 회전 게이트를 적용했을 때 각도에 따른 Pauli Z 기댓값 변화(상태 토모그래피 중 Z축 측정)
 * [Guppy](https://docs.quantinuum.com/guppy/)
   * [Guppy: Programming the Next Generation of Quantum Computers](https://www.quantinuum.com/blog/guppy-programming-the-next-generation-of-quantum-computers)
   * [파이썬으로 더 쉽게…퀀티뉴엄, 양자 프로그래밍 언어 '구피' 공개 - ZDNet korea](https://zdnet.co.kr/view/?no=20250822092501)
@@ -8600,7 +8600,7 @@ Programming
   * [Patching an Embedded OS from 1996 with Ghidra](http://blog.petersobot.com/patching-the-k2500)
   * [ghidra: Ghidra is a software reverse engineering (SRE) framework | NSA](https://github.com/NationalSecurityAgency/ghidra)
   * [ghidra-mcp: Ghidra MCP Server — 200+ MCP tools for AI-powered reverse engineering. GUI plugin + headless server, lazy tool loading, convention enforcement, batch operations, Ghidra Server integration, and Docker deployment](https://github.com/bethington/ghidra-mcp)
-    * Claude Code 등 AI 에이전트가 Ghidra를 조작하는 MCP 서버. GUI 플러그인과 헤드리스 서버 두 모드, 200+ 도구를 지연 로딩, 명명·주석 컨벤션 강제, 배치 작업, Ghidra Server(공유 프로젝트) 연동, Docker 배포. Java, Apache-2.0
+    * Claude Code 등 AI 에이전트가 Ghidra를 조작하는 MCP 서버. GUI 플러그인과 헤드리스 서버 두 모드, 200+ 도구를 지연 로딩, 명명·주석 컨벤션 강제, 배치 작업, Ghidra Server(공유 프로젝트) 연동, Docker 배포
   * [소스코드 없이 소프트웨어 내부를 분석하는 방법 | 이상선 | Facebook](https://www.facebook.com/lsszz1/posts/pfbid0o3xbEnWgAbPa7V9gXBZkdZ1yYoW6xXYT2gYJh4SMdnMuN5rLDLAGEX6vhqy7QSSl)
     * NSA가 개발한 오픈소스 리버스 엔지니어링 프레임워크 소개—컴파일된 프로그램 디컴파일·어셈블리 분석, 내부 로직·함수 구조 파악, 의심 파일·악성코드 분석, 디버깅·에뮬레이션·그래프 분석·스크립팅
 * [h4cker - This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more](https://github.com/The-Art-of-Hacking/h4cker)
@@ -9378,7 +9378,7 @@ Programming
 * [소프트웨어 엔지니어링은 정말 엔지니어링인가? | Toby's Codex](https://codex.epril.com/is-software-engineering-real-engineering/)
 * [Tech Truth: Agile Evolution & the Future of SW Engineering • Martin Fowler & Kent Beck • GOTO 2025 - YouTube](https://www.youtube.com/watch?v=ii_rLjQfjp0)
   * [The Tech Truth Circle | GOTO Copenhagen 2025](https://gotocph.com/2025/sessions/3780/the-tech-truth-circle)
-  * Martin Fowler와 Kent Beck의 54분 대담—애자일의 진화와 소프트웨어 엔지니어링의 미래
+  * Martin Fowler와 Kent Beck의 대담—애자일의 진화와 소프트웨어 엔지니어링의 미래
 * [The Augmented Forest • Kent Beck • GOTO Copenhagen 2026 | GOTO Conferences - YouTube](https://www.youtube.com/watch?v=fDdAgexp_bU)
   * [세션 페이지·슬라이드 | GOTO Copenhagen 2026](https://gotocph.com/2026/sessions/4170)
   * 3년 연속 GOTO 키노트에서 바뀌는 분위기를 추적—Tidy First 워크숍 자료가 1년 만에 1/3이 낡음. 서두의 "tool seeds": 완성된 패키지 대신 도구를 만든 프롬프트 자체를 건네면 받는 사람에게 즉시 맞춤 적응되는 새 소프트웨어 도구 배포 방식(24시간 된 실험, 콜 그래프 시각화 예제). 지금의 도구와 그 문화는 도구 구조가 낳는 결과를 무시하고 있으며 3·6·12개월 뒤엔 다른 도구가 될 것
@@ -10415,7 +10415,7 @@ Programming
 * [2022년 1월 100% 할인 이벤트 장애 부검](https://tech.inflab.com/202201-event-postmortem/)
 * [An Architectural Post-Mortem of an 11TB Exadata Failure | Devoxx - YouTube](https://www.youtube.com/watch?v=Qw6845LaSGw)
   * [10 Billion Records vs The Regulator: An Architectural Post Mortem of an 11TB Exadata Failure | Devoxx - YouTube](https://www.youtube.com/watch?v=TB45qqp-OxM) 같은 발표(49분)의 Devoxx 채널 재업로드본—제목에 "10 Billion Records vs The Regulator"가 붙음
-  * Devoxx Belgium 2026(49분), 독일 2위 은행 Commerzbank(고객 2,000만)의 테크 리드/솔루션 아키텍트. 100억 레코드·11TB(현재 14TB, 상한 25TB) Oracle Exadata 시스템이 멈춰 은행이 다운되고 독일 금융감독청 BaFin 조사까지 간 사건—"Oracle이 실패한 게 아니라 아키텍처가 실패했다"(DB는 살아 있었음). 발표 승인에 9명을 거쳤고 일부 익명화. 긴급 완화, 놓친 쿼리 윈도 점검, 캐시 워밍, 읽기 쪽 중복 제거를 쓰기 쪽으로 옮기기(읽기 4,000만/일보다 쓰기가 2배인데 읽기 시 정합성 처리), 2·3번 들여다보면 잘못된 파티셔닝, 그리고 Cloud PostgreSQL로의 무손실 dual-write 마이그레이션 설계
+  * Devoxx Belgium 2026, 독일 2위 은행 Commerzbank(고객 2,000만)의 테크 리드/솔루션 아키텍트. 100억 레코드·11TB(현재 14TB, 상한 25TB) Oracle Exadata 시스템이 멈춰 은행이 다운되고 독일 금융감독청 BaFin 조사까지 간 사건—"Oracle이 실패한 게 아니라 아키텍처가 실패했다"(DB는 살아 있었음). 발표 승인에 9명을 거쳤고 일부 익명화. 긴급 완화, 놓친 쿼리 윈도 점검, 캐시 워밍, 읽기 쪽 중복 제거를 쓰기 쪽으로 옮기기(읽기 4,000만/일보다 쓰기가 2배인데 읽기 시 정합성 처리), 2·3번 들여다보면 잘못된 파티셔닝, 그리고 Cloud PostgreSQL로의 무손실 dual-write 마이그레이션 설계
   * 인프런에서 연초 이벤트를 진행하면서 겪은 장애 상황을 정리한 글
   * Node.js로 작성된 모노리식 서버를 AWS ECS Fargate로 서버를 운영하고 Aurora PostgreSQL을 사용 중
   * 연초 이벤트로 트래픽이 증가하면서 며칠에 걸쳐서 큰 장애

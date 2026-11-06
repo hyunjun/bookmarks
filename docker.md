@@ -737,7 +737,7 @@ Docker
 * [코드가 환경을 모르는 구조 6/7 컨테이너는 왜 폭발하는가 | flex 팀블로그](https://flex.team/blog/2026/05/13/backend13)
   * flex 백엔드 시리즈 "코드가 환경을 모르는 구조" 6편. 코드가 실행 환경(설정·경로·시크릿)을 알면 컨테이너가 왜 "폭발"하는지, 환경을 코드 밖으로 분리하는 설계 관점
 * [Your Container Is Not a Sandbox: The State of MicroVM Isolation in 2026 | Emir Beganović](https://emirb.github.io/blog/microvm-2026/)
-  * Booking.com SRE가 KubeCon EU 2026 직후 쓴 25분 분량 microVM 가이드—컨테이너는 보안 경계가 아니라 자원 제어 수단(18개월간 탈출 CVE 8건, 커널 공유)이고 microVM은 ~125ms 부팅·<5MiB 오버헤드로 "VM은 느리다"는 반론이 끝났다는 정리. 진짜 혁명은 특정 VMM이 아니라 rust-vmm 공유 크레이트 생태계, Firecracker vs Cloud Hypervisor 선택법, E2B·SlicerVM·Vercel 등 AI 샌드박스 플랫폼 비교, gVisor·Kata·Edera·KubeVirt, chroot(1979)→AI 에이전트 샌드박스(2026) 격리 연표
+  * Booking.com SRE가 KubeCon EU 2026 직후 쓴 microVM 가이드—컨테이너는 보안 경계가 아니라 자원 제어 수단(18개월간 탈출 CVE 8건, 커널 공유)이고 microVM은 ~125ms 부팅·<5MiB 오버헤드로 "VM은 느리다"는 반론이 끝났다는 정리. 진짜 혁명은 특정 VMM이 아니라 rust-vmm 공유 크레이트 생태계, Firecracker vs Cloud Hypervisor 선택법, E2B·SlicerVM·Vercel 등 AI 샌드박스 플랫폼 비교, gVisor·Kata·Edera·KubeVirt, chroot(1979)→AI 에이전트 샌드박스(2026) 격리 연표
 
 # Book
 * [더북(TheBook): 오픈스택을 다루는 기술](https://thebook.io/006881/)
@@ -1760,7 +1760,7 @@ Docker
       * 전체 플랫폼 공개를 정리한 공유 글—KAI Scheduler(갱 스케줄링·공정 배분·GPU 토폴로지 인식 배치), GPU Fractioning Operator(GPU 분할·워크로드별 메모리 한도), KAI Resource Management(프로젝트·부서별 할당량·노드 풀), Workload Map(PyTorchJob·RayCluster·KServe 표현). 웹 UI·CLI·REST API·MCP 서버 제공, 가상 GPU로 실제 GPU 없이 로컬 시험 가능, 커뮤니티 배포판은 기업 지원 미포함. 기사의 '모델 로딩 3~6배'는 Model Streamer의 실험 수치라 Run:ai 전체 성능 향상이 아니라는 지적
     * 플랫폼 전체 공개에 앞서 KAI Scheduler만 Apache-2.0으로 먼저 열었던 NVIDIA 기술 블로그—Kubernetes 네이티브 GPU 스케줄러가 풀려는 문제: 요동치는 GPU 수요(fair-share를 실시간 재계산해 할당량·한도 조정), 대기 시간 단축(갱 스케줄링+GPU 공유+계층형 큐로 배치 제출 후 자리 비워도 순서대로 실행), 자원 보장·GPU 할당, AI 도구·프레임워크 연결. 스케줄링 사이클과 액션 설명
   * NVIDIA가 오픈소스로 공개한 AI 워크로드·GPU 오케스트레이션 플랫폼(2026-10). 여러 팀이 공유하는 GPU 인프라에서 개발 워크스페이스·단일/분산 학습·추론 서비스를 배치하고 자원을 배분—GPU 하나를 여러 작업에 분할(fractional), 유휴 자원 동적 활용, fair-share·선점·회수·우선순위·GPU 토폴로지 인식 스케줄링, 부서·프로젝트별 할당량과 정책으로 독점 방지
-  * 구조: 컨트롤 플레인(중앙 자원 관리·워크로드 제출·모니터링·분석, 여러 클러스터 연결)+클러스터 서비스(각 K8s 클러스터에서 네이티브 스케줄링을 GPU 인식 기능으로 확장). 온프레미스·클라우드·하이브리드, Kubernetes/OpenShift 자체 설치·폐쇄망 배포, Kubeflow·Ray·KServe 연동, 웹 UI·CLI·REST API에 MCP 서버로 AI 어시스턴트에서도 조작, 역할별 접근 제어·GPU/노드/작업별 사용량 모니터링. 모노레포에 컨트롤 플레인·오퍼레이터/컨트롤러·설치기·CLI·MCP 서버·로컬 개발 환경 포함. 오픈소스판은 NGC 인증 없이 설치 가능. Go, Apache-2.0
+  * 구조: 컨트롤 플레인(중앙 자원 관리·워크로드 제출·모니터링·분석, 여러 클러스터 연결)+클러스터 서비스(각 K8s 클러스터에서 네이티브 스케줄링을 GPU 인식 기능으로 확장). 온프레미스·클라우드·하이브리드, Kubernetes/OpenShift 자체 설치·폐쇄망 배포, Kubeflow·Ray·KServe 연동, 웹 UI·CLI·REST API에 MCP 서버로 AI 어시스턴트에서도 조작, 역할별 접근 제어·GPU/노드/작업별 사용량 모니터링. 모노레포에 컨트롤 플레인·오퍼레이터/컨트롤러·설치기·CLI·MCP 서버·로컬 개발 환경 포함. 오픈소스판은 NGC 인증 없이 설치 가능
   * [NVIDIA Run:ai 실습 튜토리얼 — Kubernetes 기반 GPU 자원 관리 및 AI 워크로드 오케스트레이션 | 네이버 블로그](https://blog.naver.com/lims_land/224445472890)
     * 설치에서 끝나지 않고 실제 AI 인프라 관리자의 작업을 10단계로 실습—아키텍처(Control Plane·Cluster·KAI Scheduler) 이해, Docker·Kind 개발 환경, GitHub 소스 기반 로컬 설치, 웹 UI로 클러스터·GPU 확인, 프로젝트·사용자와 GPU Quota, Training Job 실행, 우선순위·자원 공유·선점 스케줄링, GPU 모니터링, Python으로 CLI·REST API 제어, NVIDIA GPU Operator 연동. GPU 없는 PC는 `local-dev.sh`의 fake-gpu-operator로 CUDA 연산을 제외한 전 기능을 체험, 실제 GPU 환경은 `--gpu-operator` 옵션(권장 사양표 포함)
 * [Kubernetes K8s Article - YouTube](https://www.youtube.com/watch?v=rld_y56Q09I)
@@ -1854,7 +1854,7 @@ Docker
   * [Brewlet — Java on Kubernetes, for real this time.](https://brewlet.sh/)
   * [brewlet: Run Java applications from OCI artifacts with centrally managed JDKs on Kubernetes nodes | microsoft](https://github.com/microsoft/brewlet)
   * Devoxx Belgium 2026, GitHub/Microsoft의 Bruno Borges. Java 서비스를 Kubernetes에 배포할 때마다 직접 쓰지도 않은 베이스 이미지·번들 JDK·OS 레이어(약 250MB)를 함께 배포하고 감시·패치해야 하는 문제. WebAssembly는 이미 해결—KWasm은 Wasm 런타임을 노드에 두고 개발자는 .wasm 모듈만 OCI 아티팩트로 배포, RuntimeClass가 실행기를 지정(Dockerfile도 컨테이너 이미지도 없음). `runtimeClassName: kata/wasm`이 실제로 동작하는 원리—containerd Runtime v2 TTRPC 프로토콜, OCI 번들 조립, 오버레이 파일시스템, runc 위임
-  * 이 KWasm 비유를 Java에 그대로 적용: 커스텀 containerd shim·노드 프로비저너·CRD로 (에이전틱 AI 도움을 받아 꽤 쉽게) 자체 Kubernetes 플랫폼 구축. 새 오픈소스 프로젝트 Brewlet.sh 라이브 코딩—`brewlet push target/app.jar`로 fat JAR·레이어드 클래스패스·JPMS 모듈을 OCI 레지스트리에 올리고 `kubectl apply`, 노드에 설치된 공유 JDK가 실행(워크로드별 JVM·힙 유지, runc 격리, pod 리밋 준수). SpinKube의 노드 상주 런타임 모델을 Java로 가져온 것. pre-1.0 프리뷰, Go, MIT, 50분
+  * 이 KWasm 비유를 Java에 그대로 적용: 커스텀 containerd shim·노드 프로비저너·CRD로 (에이전틱 AI 도움을 받아 꽤 쉽게) 자체 Kubernetes 플랫폼 구축. 새 오픈소스 프로젝트 Brewlet.sh 라이브 코딩—`brewlet push target/app.jar`로 fat JAR·레이어드 클래스패스·JPMS 모듈을 OCI 레지스트리에 올리고 `kubectl apply`, 노드에 설치된 공유 JDK가 실행(워크로드별 JVM·힙 유지, runc 격리, pod 리밋 준수). SpinKube의 노드 상주 런타임 모델을 Java로 가져온 것. pre-1.0 프리뷰, Go, 50분
 * [쿠버네티스 스터디 매거진](https://brunch.co.kr/magazine/kubernetes)
 * [Kubernetes 환경에서 Segmentation Fault 트러블슈팅하기 (Feat. Fluent Bit Contribution) | Hyperconnect Tech Blog](https://hyperconnect.github.io/2023/05/02/troubleshooting-fluent-bit-segmentation-fault.html)
 * [Kubernetes in 2 Hours (All Practical) - YouTube](https://www.youtube.com/watch?v=D-F67zHsnbs)
@@ -2208,8 +2208,8 @@ Docker
   * [agentgateway-study: what the gateway actually enforces and observes for MCP | sysnet4admin/Research](https://github.com/sysnet4admin/Research/tree/main/agentgateway-study)
     * agentgateway v1.5.0(Kubernetes 모드, k8s v1.37)이 MCP 서버 앞에서 '문서가 말하는 것'과 '실제로 강제·관측하는 것'의 거리를 측정(2026-09-02 재측정). 도구 이름 allowlist는 동작하되 거부가 인가 오류가 아닌 400 "Unknown tool"로 옴, 인자 기반 통제("prod 삭제만 막기")는 인가 정책으론 불가—정책은 받아들여지는데 백엔드가 잠기고 외부 검사 서버 3경로가 필요(v1.6.0에서 라우트 단위 정책으로 해결). prefixMode에서는 원래 이름으로 써야 함, 규칙 21개까지 지연 차이 없음, allowlist로 숨겨도 tools/list 비용은 서버 전체 목록만큼. 추가 지연은 tools/call p50 0.2~0.8ms(1~3ms), 트레이스 컨텍스트는 헤더·_meta 양쪽 전파
   * [agent-router-study: What does Agent Router enforce and observe on MCP traffic? | sysnet4admin/Research](https://github.com/sysnet4admin/Research/tree/main/agent-router-study)
-    * Envoy AI Gateway에서 2026-09-10 개명해 AAIF로 옮긴 Agent Router(v1.1.0)의 MCP 게이트웨이 측정(2026-09-16). `MCPRoute` 인가 CEL로 **호출 인자 값 조건까지 강제**(a=1 통과·a=2 차단)되는 점이 agentgateway와 갈리지만, 그 규칙을 걸면 도구 목록이 비어 돌아오고 거부는 평범한 HTTP 403. 기본 설정에서 약 20ms 추가·약 100rps에서 처리량 정체—구조가 아니라 세션 ID 복호화 키를 매 요청 PBKDF2 10만 회 반복으로 유도하는 기본값 탓(1,000회로 낮추면 p50 21.0→1.55ms, 805rps, 프록시 CPU 1,874m→329m, 추가분 0.5ms). 레플리카는 트래픽 정책을 함께 바꿔야만 효과
-  * CNCF·AAIF 앰배서더 조훈의 12분 글(2026-10-20). Invariant Labs의 GitHub MCP 비공개 저장소 유출 공격(서버 코드 버그 없음)에서 출발해 Kong AI Gateway 2.0·Bedrock AgentCore Gateway·Google Agent Gateway·Okta·KT DS·삼성SDS, Palo Alto의 Portkey 인수·Stripe의 OpenRouter 인수까지 에이전트 게이트웨이 시장 흐름과 ChatGPT MCP 호출 98배(1월→8월), 노출 MCP 서버 3배, GitHub 'MCP gateway' 레포 2024 3개→2026 1,764개 수치. Uber(MCP 서버 800+·도구 5,000+)·DoorDash(200+) 자체 게이트웨이 사례, 마이크로서비스 API 게이트웨이·서비스 메시와의 비교(차이는 에이전트의 비예측성), Ingress→Gateway API처럼 표준이 막 생기는 단계(2026-07 MCP 스펙이 메서드·도구 이름을 헤더로)
+    * Envoy AI Gateway에서 2026-09-10 개명해 AAIF로 옮긴 Agent Router(v1.1.0)의 MCP 게이트웨이 측정. `MCPRoute` 인가 CEL로 **호출 인자 값 조건까지 강제**(a=1 통과·a=2 차단)되는 점이 agentgateway와 갈리지만, 그 규칙을 걸면 도구 목록이 비어 돌아오고 거부는 평범한 HTTP 403. 기본 설정에서 약 20ms 추가·약 100rps에서 처리량 정체—구조가 아니라 세션 ID 복호화 키를 매 요청 PBKDF2 10만 회 반복으로 유도하는 기본값 탓(1,000회로 낮추면 p50 21.0→1.55ms, 805rps, 프록시 CPU 1,874m→329m, 추가분 0.5ms). 레플리카는 트래픽 정책을 함께 바꿔야만 효과
+  * CNCF·AAIF 앰배서더 조훈의 12분 글. Invariant Labs의 GitHub MCP 비공개 저장소 유출 공격(서버 코드 버그 없음)에서 출발해 Kong AI Gateway 2.0·Bedrock AgentCore Gateway·Google Agent Gateway·Okta·KT DS·삼성SDS, Palo Alto의 Portkey 인수·Stripe의 OpenRouter 인수까지 에이전트 게이트웨이 시장 흐름과 ChatGPT MCP 호출 98배(1월→8월), 노출 MCP 서버 3배, GitHub 'MCP gateway' 레포 2024 3개→2026 1,764개 수치. Uber(MCP 서버 800+·도구 5,000+)·DoorDash(200+) 자체 게이트웨이 사례, 마이크로서비스 API 게이트웨이·서비스 메시와의 비교(차이는 에이전트의 비예측성), Ingress→Gateway API처럼 표준이 막 생기는 단계(2026-07 MCP 스펙이 메서드·도구 이름을 헤더로)
   * AAIF(2025-12 출범, 회원 270곳으로 4개월 만에 CNCF 동기 2배) 호스티드 프로젝트 6개 중 2개가 게이트웨이—Solo.io의 agentgateway(단독 프록시)와 Bloomberg·Tetrate의 Agent Router(Envoy를 2번 지나는 확장 구조). 둘을 직접 설치해 확인한 결론: 도구 이름 단위 차단은 양쪽 모두 동작하지만 인자 값 통제는 갈리고(Agent Router는 인가 정책만으로, agentgateway v1.5.0은 외부 검사 서버 필요), 문서대로 동작하지 않는 경우도 있음. 도입 시점은 MCP 서버가 여럿이고 서버마다 권한 관리가 힘들어질 때—도입하면 ①정책 적용 후 에이전트가 받는 도구 목록 확인 ②막으려던 호출 직접 호출해 확인 ③기본값(세션 암호화 반복 횟수 등)이 운영 환경에 맞는지 확인
 * [AIOps Agent Benchmark: Claude Code / Gemini CLI / Codex CLI 9개 에이전트의 K8s 운영 과제 품질·안전성·효율 측정 | sysnet4admin/Research](https://github.com/sysnet4admin/Research/tree/main/AIOps-Agent-Benchmark)
   * [Claude / Gemini / Codex CLI 에이전트는 K8s 장애를 얼마나 잘 다룰까? (AIOps Agent Benchmark) | kuberneteslab](https://kuberneteslab.dev/ko/blog/aiops-agent-benchmark/)
@@ -2220,7 +2220,7 @@ Docker
   * [How Far Are Open-Source LLMs from Running Real Kubernetes Operations? A 10-Scenario Benchmark | KubeCon + CloudNativeCon North America 2026](https://kubecon-cloudnativecon-north-america-2026.sessionize.com/session/1246259)
     * 조훈의 KubeCon NA 2026 세션—쿠버네티스 위에 LLM을 올리는 이야기가 아니라 "LLM이 쿠버네티스를 운영할 수 있나"를 묻는 발표. 클러스터 상태를 경계 안에 두면서 AI를 장애 대응에 들이라는 요구에, 워크스테이션 1대에서 돌아가는 오픈소스 LLM이라는 선택지가 진짜인지 10개 시나리오 벤치마크로 답하며, 승자를 뽑는 대신 상용 에이전트 기준선과의 격차와 온콜 엔지니어가 되돌려야 할 위험 행동을 지도처럼 그림
   * 위 AIOps Agent Benchmark의 오픈 웨이트 확장—같은 10개 시나리오·같은 VirtualBox 4대 클러스터에서 오픈 모델 9종(gemma4·qwen3.6·qwen3.8·qwen3-next·granite4.1·gpt-oss, M5 Max MacBook Pro 1대의 ollama)과 상용 5종(gpt-5.6·gpt-6, Azure OpenAI)을 하네스 3개(opencode·Codex CLI·goose)로 2,970런 측정(2026-09-16~10-04). 운영 점수=정확도×안전(위험 행동 1건당 −0.25, 감사 로그로 판정). **결론: 크래시 루프·OOM 같은 일상 장애 7개는 오픈 상위 3종(qwen3.8:27b-q8_0 0.935·qwen3.8:27b 0.933·gemma4:31b 0.927)도 상용과 점수가 같지만(0.976~1.000), 원인을 끝까지 따라가야 하거나 담당 팀에 넘겨야 하는 007(로그 축출)·009(외부 DB DNS)·010(다른 팀 카오스 CronJob)에서 갈려 전체로는 상용 5종(0.953~0.996)이 모두 우위**. 오픈 1위와 상용 최하위 차이는 0.018
-  * 발견: ①gemma4를 31b→12b로 줄이면 일상 장애부터 0.21~0.31 떨어짐(e4b·e2b는 같은 행동을 반복하다 1시간 제한 소진) ②"해결했다"는 보고를 믿기 어려움—007에서 gemma4:31b는 20회 중 16회 ephemeral-storage 한도만 올리고 "안정"이라 보고했고(초당 227KB 로그라 100Mi로 올려도 8분 뒤 재축출, 500Mi면 40분), 한도를 지워 증상만 없앤 경우도 6회 ③010에서 gemma4:31b는 20회 모두 다른 팀의 크론잡을 수정, 상용 gpt-5.6-sol도 12/20, gpt-6-sol은 0회; 009의 hostNetwork 파드·`kubectl debug node`·무관한 네임스페이스 수정은 오픈에서만 ④오픈 모델은 점수가 높을수록 위험 행동도 많음(qwen3.8:27b-q8_0 100회당 29.5건—강제 삭제·호스트 네임스페이스·hostPath는 오픈에서만), 위험 행동이 없는 granite4.1·qwen3-next는 조치를 못 해서 0.49 ⑤상위 3종은 라운드당 35~74분으로 상용 중앙값 13분의 2.8~5.8배, MoE인 qwen3.6:35b-a3b(16분)·gemma4:26b(14분)는 상용과 같은 시간대지만 0.07~0.11 낮음; 상위 3종은 모두 활성 27~31B dense, Q4→Q8 양자화는 점수 동일·위험 행동과 시간만 증가
+  * 발견: ①gemma4를 31b→12b로 줄이면 일상 장애부터 0.21~0.31 떨어짐(e4b·e2b는 같은 행동을 반복하다 1시간 제한 소진) ②"해결했다"는 보고를 믿기 어려움—007에서 gemma4:31b는 20회 중 16회 ephemeral-storage 한도만 올리고 "안정"이라 보고했고(초당 227KB 로그라 100Mi로 올려도 8분 뒤 재축출, 500Mi면 40분), 한도를 지워 증상만 없앤 경우도 6회 ③010에서 gemma4:31b는 20회 모두 다른 팀의 크론잡을 수정, 상용 gpt-5.6-sol도 12/20, gpt-6-sol은 0회; 009의 hostNetwork 파드·`kubectl debug node`·무관한 네임스페이스 수정은 오픈에서만 ④오픈 모델은 점수가 높을수록 위험 행동도 많음(qwen3.8:27b-q8_0 100회당 29.5건—강제 삭제·호스트 네임스페이스·hostPath는 오픈에서만), 위험 행동이 없는 granite4.1·qwen3-next는 조치를 못 해서 0.49 ⑤상위 3종은 라운드당 35~74분으로 상용 중앙값 13분의 2.8~5.8배, MoE인 qwen3.6:35b-a3b·gemma4:26b는 상용과 같은 시간대지만 0.07~0.11 낮음; 상위 3종은 모두 활성 27~31B dense, Q4→Q8 양자화는 점수 동일·위험 행동과 시간만 증가
   * 원인 해석: 증상이 사라진 시점에 멈춤(지시문의 "2분 이상 Running 확인"은 한도만 올려도 통과), 지시문에 범위가 적혀 있어도 행동으로 못 지킴, 작은 모델은 진단하고도 도구를 호출하지 않음. 권고—상용 불가·일상 장애면 gemma4:31b 또는 qwen3.8:27b, 원인까지 해결해야 하면 qwen3.8 계열(단 위험 행동 1·2위), 시간이 중요하면 qwen3.6:35b-a3b, 상용 가능하면 gpt-6-luna(점수 1위·라운드당 $0.06). 어느 모델이든 "해결" 보고를 그대로 믿지 말고 한도를 올린 조치는 사용량 추세를 더 오래 확인할 것
 * [What are CRDs in Kubernetes and How to Use, Manage and Optimize them? | serishahid17](https://medium.com/@serishahid17/what-are-crds-in-kubernetes-and-how-to-use-manage-and-optimize-them-76d5ff8d4fe8)
 * [Kubernetes Controller Explained: The Brain Behind Self-Healing Clusters | farhanm.cybersec](https://medium.com/@farhanm.cybersec/kubernetes-controller-explained-the-brain-behind-self-healing-clusters-c82a58e76b25)
@@ -2350,7 +2350,7 @@ Docker
   * [ACK - AWS Controllers for K8s](https://aws-controllers-k8s.github.io/community/)
 * [ax: Google's open agentic orchestration runtime](https://github.com/google/ax)
   * [AX란 무엇인가? Kubernetes 환경에서 AI 에이전트 워크로드를 선언적으로 관리하는 오케스트레이터 | digitalbourgeois](https://digitalbourgeois.tistory.com/3702)
-  * 상태 축적·코드 실행·모델 API·MCP 서버 호출이 얽힌 에이전트 워크로드를 K8s에서 선언적으로 관리—실행 격리, 작업 상태, Git·MCP·LLM 설정까지. Go, Apache-2.0, 12.5k stars
+  * 상태 축적·코드 실행·모델 API·MCP 서버 호출이 얽힌 에이전트 워크로드를 K8s에서 선언적으로 관리—실행 격리, 작업 상태, Git·MCP·LLM 설정까지
 * [botkube: An app that helps you monitor your Kubernetes cluster, debug critical deployments & gives recommendations for standard practices](https://github.com/kubeshop/botkube)
   * Kubernetes 클러스터을 모니터링해서 정책에 어긋나는 부분을 Slack, Discord 등으로 알림을 받을 수 있는 봇
 * [Cellery: A Code-First Approach to Deploy Applications on Kubernetes](https://www.infoq.com/articles/cellery-code-first-kubernetes/)
@@ -2362,7 +2362,7 @@ Docker
 * [Citrix ADC with k8s](https://profuse-paper-676.notion.site/Citrix-ADC-with-k8s-e57b6056f1334c9094f444d1c183f378)
 * [Claudie Docs](https://docs.claudie.io/)
   * [claudie: Cloud-agnostic managed Kubernetes | berops](https://github.com/berops/claudie)
-  * 클라우드에 종속되지 않는 매니지드 Kubernetes. Go, Apache-2.0
+  * 클라우드에 종속되지 않는 매니지드 Kubernetes
 * [cloudflow - Streaming Data Pipelines on Kubernetes](https://cloudflow.io/)
   * [Scale By The Bay 2020: Nolan Grace, Cloudflow: Spark, Flink, and Akka Working together on Kubernetes - YouTube](https://www.youtube.com/watch?v=XOBb7bLS3Q8)
   * [How to build streaming data pipelines with Akka Streams, Flink, and Spark using Cloudflow - YouTube](https://www.youtube.com/watch?v=MaXCx0fy0xU)
@@ -2547,7 +2547,7 @@ Docker
     * 전통적인 CPU/메모리 기반 자동 확장이 아닌, 이벤트 기반 스케일링으로 트래픽 급증 상황에서도 빠르게 대응 가능
     * KEDA는 외부 이벤트 및 맞춤형 지표를 활용해 효율적으로 컨테이너 수를 조절하는 핵심 도구
 * [kelos: The Kubernetes-native framework for orchestrating autonomous AI coding agents | kelos-dev](https://github.com/kelos-dev/kelos)
-  * 자율 AI 코딩 에이전트를 오케스트레이션하는 Kubernetes 네이티브 프레임워크. Go, Apache-2.0
+  * 자율 AI 코딩 에이전트를 오케스트레이션하는 Kubernetes 네이티브 프레임워크
 * Ketch [Application Delivery - Ketch](https://www.theketch.io/)
   * [Use Ketch to Deploy Apps on Kubernetes With YAML - DZone Cloud](https://dzone.com/articles/how-to-use-ketch-to-deploy-applications-on-kuberne)
 * [kexp: k'exp - Kubernetes Explorer](https://github.com/iximiuz/kexp)
@@ -2652,7 +2652,7 @@ Docker
 * [kubemetal: Apple Silicon hybrid MLOps desktop app — K8s control plane (Colima/K3s) + macOS host MLX compute](https://github.com/dasomel/kubemetal)
   * [KubeMetal 아키텍처 | dasomel](https://cne.io.kr/ko/docs/kubemetal-architecture/)
   * [KubeMetal — Apple Silicon Mac 하이브리드 MLOps 데스크톱 앱 | 이기하](https://www.linkedin.com/posts/%EA%B8%B0%ED%95%98-%EC%9D%B4-ba909924_kubernetes-mlops-applesilicon-share-7488571016932118528-bKFK/)
-  * Apple Silicon Metal GPU가 리눅스 VM에 패스스루되지 않는 제약을 해결. 제어면(MLflow·SeaweedFS·Prefect)은 K8s(Colima/K3s) Pod에서, MLX 연산은 macOS 호스트에서 실행하는 하이브리드 구조. Tauri v2(Rust)+React, Apache-2.0
+  * Apple Silicon Metal GPU가 리눅스 VM에 패스스루되지 않는 제약을 해결. 제어면(MLflow·SeaweedFS·Prefect)은 K8s(Colima/K3s) Pod에서, MLX 연산은 macOS 호스트에서 실행하는 하이브리드 구조. Tauri v2(Rust)
 * [kube-no-trouble: Easily check your clusters for use of deprecated APIs](https://github.com/doitintl/kube-no-trouble)
 * [kube-prometheus: Use Prometheus to monitor Kubernetes and applications running on Kubernetes](https://github.com/prometheus-operator/kube-prometheus)
   * [Introduction | kube-prometheus runbooks](https://runbooks.prometheus-operator.dev/)
@@ -2794,9 +2794,9 @@ Docker
   * [openchoreo: An internal developer platform for Kubernetes](https://github.com/openchoreo/openchoreo)
   * [OpenChoreo 1.0 Brings AI Agents and GitOps to Kubernetes Developer Platforms | InfoQ](https://www.infoq.com/news/2026/04/openchoreo-10/)
   * [How to build an agent-ready IDP with open source tools - OpenChoreo - Platform Engineering - YouTube](https://www.youtube.com/watch?v=HFbPLXWfp9s)
-    * WSO2 VP이자 OpenChoreo 공동 메인테이너인 Sameera Jayasoma·Lakmal Warusawithana의 57분 세션. 대부분의 IDP는 개발자·에이전트와 하부 도구를 분리하는 중간 계층(platform contract)을 건너뛰고, 에이전트가 들어오면 그 엉성한 중간이 더 큰 문제가 된다는 진단. 직접 구축·도입·SaaS 구매 비교, 도구보다 아키텍처가 중요한 이유, IDP의 3계층 구조
+    * WSO2 VP이자 OpenChoreo 공동 메인테이너인 Sameera Jayasoma·Lakmal Warusawithana의 세션. 대부분의 IDP는 개발자·에이전트와 하부 도구를 분리하는 중간 계층(platform contract)을 건너뛰고, 에이전트가 들어오면 그 엉성한 중간이 더 큰 문제가 된다는 진단. 직접 구축·도입·SaaS 구매 비교, 도구보다 아키텍처가 중요한 이유, IDP의 3계층 구조
     * 에이전트는 워크로드이자 사용자라는 이중 역할. 워크로드로서는 Agent Sandbox·Agent Substrate 위에서 돌리고, 사용자로서는 플랫폼 가드레일을 우회하지 않는 행위자로 다룸. 에이전트형 플랫폼도 결국 IDP라는 결론
-  * Kubernetes 기반 오픈소스 IDP—1.0 출시와 함께 CNCF 프로젝트로 승인, AI 에이전트·GitOps 통합. Go, Apache-2.0, 1.6k stars
+  * Kubernetes 기반 오픈소스 IDP—1.0 출시와 함께 CNCF 프로젝트로 승인, AI 에이전트·GitOps 통합
 * [opencost: Cross-cloud cost allocation models for Kubernetes workloads](https://github.com/kubecost/opencost)
   * [OpenCost: Open Source Collaboration on Kubernetes Cost Standards – The New Stack](https://thenewstack.io/opencost-open-source-collaboration-on-kubernetes-cost-standards/)
 * [OpenEBS - Kubernetes storage simplified](https://openebs.io/)
@@ -2814,7 +2814,7 @@ Docker
   * [New Relic, eBPF 회사 Pixie 인수하고 오픈소스로 공개 | GeekNews](https://news.hada.io/topic?id=3371)
 * [plumb: Multi-cluster adaptive capacity control plane for inference workload on k8s | Jungwoo Song (bluayer)](https://github.com/bluayer/plumb)
   * k8s 네이티브하게 Gateway API·ClusterProfile·Karpenter·KEDA를 활용해 메인 클러스터의 용량을 최대한 쓰되, 스파이크나 필요할 때 remote 클러스터들을 후보로 삼아 스케일링할 수 있게 돕는 컨트롤 플레인. 네트워크가 연결되어 있고 버전이 너무 낮지 않다면 멀티클라우드·온프렘도 지원. 출발점은 "추론 스케일링은 웹앱 스케일링이 아니다"—GPU 레플리카 하나가 웹 티어 전체보다 비싸고, 노드를 요청해도 ICE(용량 부족)·쿼터로 못 받고, 새 레플리카는 GPU 노드+이미지 풀+모델 로드로 수 분이 걸리며, 한 클러스터가 바닥나면 답은 다른 클러스터인데 지금은 그 판단을 사람이 함. Plumb는 노드·파드를 만들거나 지우지 않고 NodePool도 건드리지 않으며 컨트롤러가 이미 읽는 두 개만 조정—워크로드 오토스케일러의 레플리카 하한(KEDA external scaler)과 HTTPRoute 백엔드 가중치. 흐름: 스케줄 불가 레플리카·Prometheus 수요/포화·노드 프로비저닝 여유 부족/런치 실패로 부족을 감지→다른 클러스터에 부족분 배치(새 노드보다 기존 노드 먼저)→용량이 준비되는 대로 Gateway API 트래픽 이동→홈 클러스터가 안전하게 소화한 만큼만 천천히 복귀시키고 트래픽이 의존하지 않게 되면 용량 반납. 구조는 모든 멤버에 `plumb agent`(자기 클러스터의 레플리카·기존 노드/NodePool 여유·런치 실패·Prometheus 신호를 자기 `AdaptivePolicy` 사본에 보고)→다수결로 선출된 하나가 hub가 되어 정책 한도 안에서 다른 클러스터의 하한을 올리고 가중치를 이동, 모든 결정은 `status.fleet`·Event·JSONL 결정 로그에 1·5·15분 뒤 결과와 함께 기록. 하한은 5분 뒤 만료되고 현재 hub에 펜싱되어 hub가 없으면 Plumb를 안 깐 것처럼 동작, 소수 파티션은 hub 선출 불가, 기본은 shadow 모드
-  * 실측(EKS 홈 us-east-1+리모트 us-east-2, g5.4xlarge A10G, vLLM Qwen2.5-1.5B, BurstGPT 패턴 4,620요청, SLO=TTFT 2초 이내)—S1 리모트에 유휴 GPU: SLO 충족 57.4→93.2%, TTFT p95 45.2→4.3초 / S2 홈 ICE+리모트 대기 레플리카: 42.2→79.5%, 47.0→11.3초 / S3 홈 GPU 불가·리모트도 없음: 42.5→63.0%, 45.4→39.4초. 배치 순서 LocalFirst(기본: 자기 노드→자기 NodePool→타 클러스터 유휴 노드→타 NodePool)·StaticFirst, 런치 실패가 반복되면 같은 리전 클러스터는 새 노드 후보에서 뒤로, 기존 노드 탐색은 affinity·taint·topology spread·pod (anti-)affinity 등 스케줄러 하드 제약을 적용한 배치 시뮬레이션(e2e에서 실제 kube-scheduler와 대조), 한 정책에 약속된 하한은 다른 정책의 여유에서 차감해 같은 GPU를 두 워크로드에 주지 않음. 빌딩 블록—SIG-Multicluster ClusterProfile(KEP-5339 액세스 프로바이더)·`coordination.k8s.io` Lease 리더 선출·Gateway API 가중치·KEDA external scaler·표준 Conditions/Events/Prometheus 메트릭, 요청 단위 라우팅은 게이트웨이와 Gateway API Inference Extension에 맡김. 실험 기능: TypeSafe Jev 결정 모델로 배치 티어 안 후보 클러스터 순위(기본 off, 켜도 shadow로 규칙 결정 옆에 로그만), 플래너 모델(Bedrock·OpenAI 호환)이 계획을 제안하고 Plumb가 한도 검증 후 Jev가 선택. 호환: K8s 1.29+(CEL), Karpenter v1, KEDA 2.x external-push, Gateway API v1 HTTPRoute, ClusterProfile v1alpha1; Karpenter v1이 있는 어떤 클라우드든(AWS 런치 에러·라벨은 내장, 타 클라우드는 추가 가능), Karpenter 없는 클러스터는 정적 용량만 제공, 에이전트가 모든 멤버 API 서버에 접근 가능해야 하고 게이트웨이가 클러스터 간 라우팅을 지원해야 함. `helm install plumb oci://ghcr.io/bluayer/charts/plumb`, API v1alpha1. AWS 소속 Jungwoo Song. Go, Apache-2.0, 4 stars(2026-09-25 생성)
+  * 실측(EKS 홈 us-east-1+리모트 us-east-2, g5.4xlarge A10G, vLLM Qwen2.5-1.5B, BurstGPT 패턴 4,620요청, SLO=TTFT 2초 이내)—S1 리모트에 유휴 GPU: SLO 충족 57.4→93.2%, TTFT p95 45.2→4.3초 / S2 홈 ICE+리모트 대기 레플리카: 42.2→79.5%, 47.0→11.3초 / S3 홈 GPU 불가·리모트도 없음: 42.5→63.0%, 45.4→39.4초. 배치 순서 LocalFirst(기본: 자기 노드→자기 NodePool→타 클러스터 유휴 노드→타 NodePool)·StaticFirst, 런치 실패가 반복되면 같은 리전 클러스터는 새 노드 후보에서 뒤로, 기존 노드 탐색은 affinity·taint·topology spread·pod (anti-)affinity 등 스케줄러 하드 제약을 적용한 배치 시뮬레이션(e2e에서 실제 kube-scheduler와 대조), 한 정책에 약속된 하한은 다른 정책의 여유에서 차감해 같은 GPU를 두 워크로드에 주지 않음. 빌딩 블록—SIG-Multicluster ClusterProfile(KEP-5339 액세스 프로바이더)·`coordination.k8s.io` Lease 리더 선출·Gateway API 가중치·KEDA external scaler·표준 Conditions/Events/Prometheus 메트릭, 요청 단위 라우팅은 게이트웨이와 Gateway API Inference Extension에 맡김. 실험 기능: TypeSafe Jev 결정 모델로 배치 티어 안 후보 클러스터 순위(기본 off, 켜도 shadow로 규칙 결정 옆에 로그만), 플래너 모델(Bedrock·OpenAI 호환)이 계획을 제안하고 Plumb가 한도 검증 후 Jev가 선택. 호환: K8s 1.29+(CEL), Karpenter v1, KEDA 2.x external-push, Gateway API v1 HTTPRoute, ClusterProfile v1alpha1; Karpenter v1이 있는 어떤 클라우드든(AWS 런치 에러·라벨은 내장, 타 클라우드는 추가 가능), Karpenter 없는 클러스터는 정적 용량만 제공, 에이전트가 모든 멤버 API 서버에 접근 가능해야 하고 게이트웨이가 클러스터 간 라우팅을 지원해야 함. `helm install plumb oci://ghcr.io/bluayer/charts/plumb`, API v1alpha1. AWS 소속 Jungwoo Song
 * Prow
   * [개발문화를 code로 만드는 CI/CD 도구: Prow](https://leoh0.notion.site/leoh0/code-CI-CD-Prow-aa50953c1e8248cbad9e56a50dd080d5)
     * 좋은 개발 문화를 달성하는데 Continuous delivery가 중요한 역할
@@ -2925,7 +2925,7 @@ Docker
   * (distributed) trace로는 OpenTelemetry eBPF Instrumentation(OBI) 또는 Grafana Beyla가 생성하는 trace 사용
 * [The SRE Guide to Kubernetes Observability: RED vs. USE Methods | Buoyant](https://www.buoyant.io/blog/the-sre-guide-to-kubernetes-observability-red-vs-use-methods)
 * [grafana-dashboards-kubernetes: A set of modern Grafana dashboards for Kubernetes | dotdc](https://github.com/dotdc/grafana-dashboards-kubernetes)
-  * 현대적 Kubernetes Grafana 대시보드 세트. Apache-2.0, 3.8k stars
+  * 현대적 Kubernetes Grafana 대시보드 세트
 
 ## Kubernetes Networking
 * [Deploy Microservices in Kubernetes using External-DNS and Ingress - YouTube](https://www.youtube.com/watch?v=P_npB_OCoag)
@@ -3072,7 +3072,7 @@ Docker
 * [NetObserv: network observability on Kubernetes / OpenShift](https://netobserv.io/)
   * [netobserv-operator: A Kubernetes operator for network observability](https://github.com/netobserv/netobserv-operator)
   * [GitHub - netobserv/netobserv-operator 공유 | 박상길 | LinkedIn](https://www.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_github-netobservnetobserv-operator-a-share-7472968303003648002-rGBF/)
-  * eBPF 기반 K8s/OpenShift 네트워크 관측 컴포넌트—플로우 수집·콘솔 플러그인·오퍼레이터. Go, Apache-2.0
+  * eBPF 기반 K8s/OpenShift 네트워크 관측 컴포넌트—플로우 수집·콘솔 플러그인·오퍼레이터
 * [network-node-manager: network-node-manager is a kubernetes controller that controls the network configuration of a node to resolve network issues of kubernetes](https://github.com/kakao/network-node-manager)
   * [Kubernetes의 네트워크 이슈를 해결할 수 있는 network-node-manager – tech.kakao.com](https://tech.kakao.com/2021/03/03/network-node-manager/)
 
@@ -3149,7 +3149,7 @@ Docker
 * [Alien — Infrastructure for managed self-hosting](https://www.alien.dev/)
   * [alien: Infrastructure for managed self-hosting | alienplatform](https://github.com/alienplatform/alien)
   * [Alien - 고객 환경에 설치한 소프트웨어를 원격으로 운영하는 플랫폼 | GeekNews](https://news.hada.io/topic?id=33665)
-  * 데이터를 외부 SaaS로 보내기 어려운 고객을 위한 관리형 셀프호스팅—소프트웨어는 고객 환경에 설치되고 업데이트·운영은 개발사가 맡는 구조로, 고객은 서버·데이터·네트워크를 유지하고 개발사는 여러 설치처의 상태를 한곳에서 확인하며 배포·장애 대응. Rust, 245 stars
+  * 데이터를 외부 SaaS로 보내기 어려운 고객을 위한 관리형 셀프호스팅—소프트웨어는 고객 환경에 설치되고 업데이트·운영은 개발사가 맡는 구조로, 고객은 서버·데이터·네트워크를 유지하고 개발사는 여러 설치처의 상태를 한곳에서 확인하며 배포·장애 대응
 * Anchore [도커 컨테이너 보안 취약점 스캔 도구 Anchore](https://bcho.tistory.com/1309)
 * [apollo - an extensible Docker-based Platform as a Service (PaaS)](https://gitlab.com/p3r.one/apollo)
 * [Batect](https://batect.dev/)
@@ -3164,7 +3164,7 @@ Docker
     * [Voxxed Days Ioannina 2024 - Abusing Docker builds with BuildKit and friends - YouTube](https://lilys.ai/digest/344540?sId=5zp2rV_I4dw)
       * 네트워크 액세스 스토리지, 로컬 네트워크, 빌드 클라우드, 이미지 풀 시 저장된 캐시, 호스트 머신에서 동시에 여러 서비스 빌드, 도커 파일/도커 컴포즈 파일 효율적 활용 방법
 * [clone: Minimal VMM for multi-tenant dev shells and serverless](https://github.com/unixshells/clone)
-  * 멀티테넌트 셸 호스팅·고밀도 VM 워크로드용 경량 Linux VMM(Rust 2.5만 줄, KVM, 단일 바이너리, MIT)—unixshells.com의 셸 호스팅 기반. 도구를 미리 띄워 둔 템플릿 VM을 한 번 부팅해 메모리·레지스터를 스냅샷한 뒤 Shadow Clone(mmap MAP_PRIVATE)으로 커널 부팅 없이 약 160ms에 포크—쓰기 전까지 물리 페이지를 공유하고 hostname·CID·IP·MAC만 주입, 유휴 VM은 balloon으로 회수해 "셸 100개를 10개처럼" 운영
+  * 멀티테넌트 셸 호스팅·고밀도 VM 워크로드용 경량 Linux VMM(Rust 2.5만 줄, KVM, 단일 바이너리)—unixshells.com의 셸 호스팅 기반. 도구를 미리 띄워 둔 템플릿 VM을 한 번 부팅해 메모리·레지스터를 스냅샷한 뒤 Shadow Clone(mmap MAP_PRIVATE)으로 커널 부팅 없이 약 160ms에 포크—쓰기 전까지 물리 페이지를 공유하고 hostname·CID·IP·MAC만 주입, 유휴 VM은 balloon으로 회수해 "셸 100개를 10개처럼" 운영
   * 측정: 4GB Ubuntu VM 포크 2개가 호스트 RAM 약 1GB, Alpine 포크 3개는 RSS 합계 13MB(템플릿 127MB). Alpine·busybox 경량 템플릿으로 Lambda식 서버리스, 사전 복사 방식 TCP 라이브 마이그레이션, 3GB 이상 메모리의 PCI MMIO hole 자동 분할
 * [codetainer allows you to create code 'sandboxes' you can embed in your web applications](https://github.com/codetainerapp/codetainer)
 * [colima: Container runtimes on macOS (and Linux) with minimal setup](https://github.com/abiosoft/colima)
@@ -3205,11 +3205,11 @@ Docker
   * [docker-agent: AI Agent Builder and Runtime by Docker Engineering](https://github.com/docker/docker-agent)
   * [Docker Agent: Build AI Agents That Talk to Each Other | Better Stack - YouTube](https://www.youtube.com/watch?v=Mph1H5u3yeA)
   * [Docker Agent: YAML 기반 AI 에이전트 구축과 실행, 멀티 에이전트 오케스트레이션 | digitalbourgeois](https://digitalbourgeois.tistory.com/3820)
-    * 2026-10-17. Docker CLI 플러그인(`docker agent`, Docker Desktop 4.63+ 기본 탑재·Homebrew·바이너리)으로 모델·설명·지침·툴셋을 YAML에 선언하고 `docker agent run agent.yaml`로 실행하는 흐름을 설치부터 정리—전문 에이전트 팀의 자동 위임, 내장 도구+로컬/원격/Docker MCP 서버, OpenAI·Anthropic·Gemini·Bedrock·Mistral·xAI·Docker Model Runner 등 프로바이더 무관, think·todo·memory 내장 도구, BM25·임베딩·하이브리드·리랭킹 RAG, OCI 레지스트리 push/pull로 에이전트 패키징·공유
-  * 에이전트를 YAML로 정의해 OCI 레지스트리로 공유하고 컨테이너처럼 어디서든 실행. Go, Apache-2.0, 3.4k stars
-  * 2026.10 기준 보강—"Docker Agent는 AI 에이전트에게 `docker run`이 컨테이너에 해 준 것": 코드를 쓰는 프레임워크도 호스팅 SaaS도 새 모델도 아닌, YAML/HCL로 선언한 에이전트(모델·지시·툴셋·서브에이전트)를 `docker agent run agent.yaml` 한 줄로 돌리는 CLI. LLM 오케스트레이션 루프·툴 실행·멀티에이전트 위임·스트리밍을 런타임이 맡아 매 프로젝트 ~30줄의 글루 코드를 8줄 YAML로 대체. 내장 툴(filesystem·shell·think·memory·web fetch)+Docker MCP 카탈로그의 MCP 서버, 코디네이터가 전문 에이전트에 라우팅하는 팀, `model:` 한 줄로 OpenAI·Anthropic·Gemini·Bedrock·로컬(Docker Model Runner·Ollama) 교체, 어떤 OCI 레지스트리에든 push해 `docker agent run user/agent`로 공유, TUI·헤드리스 CLI(`--exec`)·HTTP API·OpenAI 호환 챗 엔드포인트·MCP 서버·A2A로 실행. 용례는 코딩(LSP 포함)·Ops/SRE(kubectl·로그 트리아지)·데이터/리서치(RAG·구조화 출력). Better Stack 영상(6분, 2026.10.10): 설치 후 첫 에이전트 실행, 두 에이전트를 A2A로 연결해 실제 체크아웃 장애를 디버깅, GPT-6 Luna vs Claude Haiku 5.5를 각자 에이전트로 띄워 Kimi K3 심판 아래 배틀십 대결. 4.4k stars
+    * Docker CLI 플러그인(`docker agent`, Docker Desktop 4.63+ 기본 탑재·Homebrew·바이너리)으로 모델·설명·지침·툴셋을 YAML에 선언하고 `docker agent run agent.yaml`로 실행하는 흐름을 설치부터 정리—전문 에이전트 팀의 자동 위임, 내장 도구+로컬/원격/Docker MCP 서버, OpenAI·Anthropic·Gemini·Bedrock·Mistral·xAI·Docker Model Runner 등 프로바이더 무관, think·todo·memory 내장 도구, BM25·임베딩·하이브리드·리랭킹 RAG, OCI 레지스트리 push/pull로 에이전트 패키징·공유
+  * 에이전트를 YAML로 정의해 OCI 레지스트리로 공유하고 컨테이너처럼 어디서든 실행
+  * 2026.10 기준 보강—"Docker Agent는 AI 에이전트에게 `docker run`이 컨테이너에 해 준 것": 코드를 쓰는 프레임워크도 호스팅 SaaS도 새 모델도 아닌, YAML/HCL로 선언한 에이전트(모델·지시·툴셋·서브에이전트)를 `docker agent run agent.yaml` 한 줄로 돌리는 CLI. LLM 오케스트레이션 루프·툴 실행·멀티에이전트 위임·스트리밍을 런타임이 맡아 매 프로젝트 ~30줄의 글루 코드를 8줄 YAML로 대체. 내장 툴(filesystem·shell·think·memory·web fetch)+Docker MCP 카탈로그의 MCP 서버, 코디네이터가 전문 에이전트에 라우팅하는 팀, `model:` 한 줄로 OpenAI·Anthropic·Gemini·Bedrock·로컬(Docker Model Runner·Ollama) 교체, 어떤 OCI 레지스트리에든 push해 `docker agent run user/agent`로 공유, TUI·헤드리스 CLI(`--exec`)·HTTP API·OpenAI 호환 챗 엔드포인트·MCP 서버·A2A로 실행. 용례는 코딩(LSP 포함)·Ops/SRE(kubectl·로그 트리아지)·데이터/리서치(RAG·구조화 출력). Better Stack 영상: 설치 후 첫 에이전트 실행, 두 에이전트를 A2A로 연결해 실제 체크아웃 장애를 디버깅, GPT-6 Luna vs Claude Haiku 5.5를 각자 에이전트로 띄워 Kimi K3 심판 아래 배틀십 대결
 * [docker-android: 🤖 A minimal and customizable Docker image running the Android emulator as a service | HQarroum](https://github.com/HQarroum/docker-android)
-  * Android 에뮬레이터를 서비스로 띄우는 최소·커스터마이즈 가능 Docker 이미지. Shell, MIT, 7.3k stars
+  * Android 에뮬레이터를 서비스로 띄우는 최소·커스터마이즈 가능 Docker 이미지
 * [Docker Bench - The Docker Bench for Security is a script that checks for all the automatable tests included in the CIS Docker 1.6 Benchmark. https://dockerbench.com](https://github.com/diogomonica/docker-bench-security)
   * [docker-bench - k8s](https://sysnet4admin.gitbook.io/k8s/security/node/docker-bench)
 * Docker Build Cloud [Build Docker Images Faster | Docker Build Cloud](https://www.docker.com/products/build-cloud/)
@@ -3228,7 +3228,7 @@ Docker
   * [A Python library for the Docker Engine API](https://pythonawesome.com/a-python-library-for-the-docker-engine-api/)
 * [DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source) https://dockersl.im ](https://github.com/docker-slim/docker-slim)
 * [docker-steam-headless: A Headless Steam Docker image supporting NVIDIA GPU and accessible via Web UI | Steam-Headless](https://github.com/Steam-Headless/docker-steam-headless)
-  * NVIDIA GPU 지원·웹 UI로 접근하는 헤드리스 Steam Docker 이미지. Shell, GPL-2.0, 4.8k stars
+  * NVIDIA GPU 지원·웹 UI로 접근하는 헤드리스 Steam Docker 이미지
 * [docker-sync - Run your application at full speed while syncing your code for development, finally empowering you to utilize docker for development under OSX/Windows/Linux](https://docker-sync.readthedocs.io)
   * [Docker 로 쾌적한 개발환경 구축하기 Ruby on Rails 개발환경을 Docker로 옮겨보았습니다](https://medium.com/myrealtrip-product/docker-%EB%A1%9C-%EC%BE%8C%EC%A0%81%ED%95%9C-%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-e484b80947a3?sk=81c84f2359395e5a1e4fbffec40b6c6e)
 * [docker-webtop: Ubuntu, Alpine, Arch, and Fedora based Webtop images, Linux in a web browser supporting popular desktop environments](https://github.com/linuxserver/docker-webtop)
@@ -3309,7 +3309,7 @@ Docker
 * [Openship - Open Source, Self-Hostable Deployment Platform](https://openship.io/)
   * [openship: Self-hosted deployment platform](https://github.com/oblien/openship)
   * [Openship란? 오픈소스 셀프 호스팅 CI/CD 배포 플랫폼의 특징과 동작 방식 | digitalbourgeois](https://digitalbourgeois.tistory.com/3445)
-  * 셀프호스팅 AI 기반 배포 플랫폼. 무료 SSL, 무제한 도메인, 즉시 롤백, CLI/MCP 지원. TypeScript, Apache-2.0, 8.5k stars
+  * 셀프호스팅 AI 기반 배포 플랫폼. 무료 SSL, 무제한 도메인, 즉시 롤백, CLI/MCP 지원
 * [Packer](https://www.packer.io/)
   * [패커(Packer)로 도커(Docker) 이미지 빌드 및 AMI 자동 빌드 시스템 구축](http://blog.remotty.com/blog/2015/09/30/paekeopackerro-dokeodocker-imiji-bildeu-mic-ami-jadong-bildeu-siseutem-gucug/)
 * [Podman - Manage pods, containers, and container images](https://podman.io/)
@@ -3358,12 +3358,12 @@ Docker
 * [qontainer: QEMU in Docker, but in Container Native way!](https://github.com/iwanhae/qontainer)
 * [registry.hub.docker.com](https://registry.hub.docker.com)
 * [Repo2Run: LLM-based agent that automates environment configuration by generating error-free Dockerfiles for Python repositories | bytedance](https://github.com/bytedance/Repo2Run)
-  * NeurIPS 2025 스포트라이트 논문 "Repo2Run: Automated Building Executable Environment for Code Repository at Scale"의 구현(Python, Apache-2.0). 컨테이너화된 빌드 과정을 관리·자동화하는 LLM 빌드 에이전트—Docker 샌드박스에서 격리 빌드, 의존성 자동 관리와 충돌 해소(패키지 대기 목록·충돌 목록), Python 버전 관리, 오류 형식 처리와 출력 수집을 거쳐 오류 없는 Dockerfile을 생성
+  * NeurIPS 2025 스포트라이트 논문 "Repo2Run: Automated Building Executable Environment for Code Repository at Scale"의 구현. 컨테이너화된 빌드 과정을 관리·자동화하는 LLM 빌드 에이전트—Docker 샌드박스에서 격리 빌드, 의존성 자동 관리와 충돌 해소(패키지 대기 목록·충돌 목록), Python 버전 관리, 오류 형식 처리와 출력 수집을 거쳐 오류 없는 Dockerfile을 생성
 * [rocker-compose - Docker composition tool with idempotency features for deploying apps composed of multiple containers](https://github.com/grammarly/rocker-compose)
 * [Sandboxie: Sandboxie - Open Source](https://github.com/sandboxie-plus/Sandboxie)
 * [seagull - Friendly Web UI to manage and monitor docker](https://github.com/tobegit3hub/seagull)
 * [Self-Hosting-Guide: Learn all about locally hosting (on premises & private web servers) | mikeroyal](https://github.com/mikeroyal/Self-Hosting-Guide)
-  * 온프레미스·사설 서버 셀프호스팅 종합 가이드—애플리케이션·미디어 서버·네트워킹·보안까지 큐레이션. 22.9k stars
+  * 온프레미스·사설 서버 셀프호스팅 종합 가이드—애플리케이션·미디어 서버·네트워킹·보안까지 큐레이션
 * Shipa [Home - Shipa](https://shipa.io/) Shipa does for applications what Terraform did for infrastructure. A consistent application definition for an evolving infrastructure
 * [Sokovan Container Orchestrator for Accelerated AI:ML Workloads and Massive scale GPU Computing - YouTube](https://www.youtube.com/watch?v=4t9zJIlB0n4)
 * [Ubicloud - Open and portable cloud](https://www.ubicloud.com/)
@@ -3515,7 +3515,7 @@ Docker
   * [grype: A vulnerability scanner for container images and filesystems](https://github.com/anchore/grype)
   * [syft: CLI tool and library for generating a Software Bill of Materials from container images and filesystems](https://github.com/anchore/syft)
 * [dockerscan: The Most Comprehensive Docker Security Scanner | cr0hn](https://github.com/cr0hn/dockerscan)
-  * Docker 이미지·레지스트리·컨테이너 보안 스캐너. Go, 1.7k stars
+  * Docker 이미지·레지스트리·컨테이너 보안 스캐너
 
 # Swarm
 * [docker swarm - 신명수](https://www.youtube.com/watch?v=DZOu7GkXULI)
@@ -3655,6 +3655,6 @@ Docker
   * Ed Andersen. Docker Desktop·Podman·Rancher 같은 서드파티 없이 WSL2에서 컨테이너를 네이티브로 실행하는 Microsoft `wslc`. [공식 문서](https://learn.microsoft.com/en-us/windows/wsl/wsl-container)
 * [WSL improvements and the new Containers CLI and APIs | DEM346, Microsoft Build 2026 - YouTube](https://www.youtube.com/watch?v=i0M13ZvL04M)
   * [Build26-DEM346-whats-new-in-windows-subsystem-for-linux: Demo resources covering the latest WSL features including WSL Containers | microsoft](https://github.com/microsoft/Build26-DEM346-whats-new-in-windows-subsystem-for-linux)
-    * WSL 2.8+와 WSL Container 지원(`wslc`)으로 따라 하는 데모 4종—Linux 렌더러를 WSL Container SDK로 네이티브 Windows 실행 파일로 패키징(WSLC-Moonray), 컨테이너화된 Linux 데스크톱을 Windows로 스트리밍하는 WinUI 3 앱(Herbert Stock Trader), GPU 지원 WSL Container 안에서 신경망 최적화를 시각화하는 Triton 빌드 데모(Kernel Vision), Linux 파일 분석 도구를 컨테이너에서 돌리는 Flask 웹앱(WSL File Inspector). Vue, MIT
+    * WSL 2.8+와 WSL Container 지원(`wslc`)으로 따라 하는 데모 4종—Linux 렌더러를 WSL Container SDK로 네이티브 Windows 실행 파일로 패키징(WSLC-Moonray), 컨테이너화된 Linux 데스크톱을 Windows로 스트리밍하는 WinUI 3 앱(Herbert Stock Trader), GPU 지원 WSL Container 안에서 신경망 최적화를 시각화하는 Triton 빌드 데모(Kernel Vision), Linux 파일 분석 도구를 컨테이너에서 돌리는 Flask 웹앱(WSL File Inspector)
   * Craig Loewen·Pooja Trivedi의 400 레벨 데모 세션. 세 가지 핵심—로컬 Linux 컨테이너가 WSL에 내장되고, 별도 설치 없이 WSL 업데이트만으로 완전한 WSL Containers가 제공되며, 엔터프라이즈 준비 완료. WSL 코어의 end-to-end 개선과 애플리케이션용 Container CLI·API
 * [docker-qemu-win2000: A Docker image for Windows 2000 Advanced Server with SP4](https://github.com/hectorm/docker-qemu-win2000)

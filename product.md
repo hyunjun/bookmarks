@@ -231,12 +231,12 @@ Product
 * [A Beginner's Guide to Split Keyboards](https://www.justinmklam.com/posts/2026/02/beginners-guide-split-keyboards/)
   * [분리형 키보드 초보자 가이드 | GeekNews](https://news.hada.io/topic?id=26853)
 * [Why I stopped buying $400 keyboards for a tiny split one - Jose Romero - YouTube](https://www.youtube.com/watch?v=VlSVJcZe5tc)
-  * 3년간 손목·어깨·목 통증을 겪으며 ErgoDox → ZSA Moonlander → Kinesis Advantage360("캐딜락"이지만 함정이 있음) → 저가 Amazon Corne → Typeractive Corne Wireless(1년 반 정착)로 이어진 인체공학 키보드 여정을 광고 없이 정리한 20분 영상. 더 일찍 알았으면 좋았을 ZSA Voyager, 레이아웃을 싸게 시험해 보는 저가 Corne, 스위치(적축·갈축·핑크의 실수)·키캡·납땜 조립, ZMK 펌웨어 설정과 함정까지. 결론은 작은 스플릿이 이겼다
+  * 3년간 손목·어깨·목 통증을 겪으며 ErgoDox → ZSA Moonlander → Kinesis Advantage360("캐딜락"이지만 함정이 있음) → 저가 Amazon Corne → Typeractive Corne Wireless(1년 반 정착)로 이어진 인체공학 키보드 여정을 광고 없이 정리한 영상. 더 일찍 알았으면 좋았을 ZSA Voyager, 레이아웃을 싸게 시험해 보는 저가 Corne, 스위치(적축·갈축·핑크의 실수)·키캡·납땜 조립, ZMK 펌웨어 설정과 함정까지. 결론은 작은 스플릿이 이겼다
 * [After 11 Years... This Keyboard Has Been Dethroned - YouTube](https://www.youtube.com/watch?v=0dOTSnvq3eI)
   * Switch and Click. 11년간 홈시어터 PC용 소파 키보드 기본값이던 Logitech K400 Plus를 대체할 후보 비교—CZUR Touchboard Pro, Rii i4 Mini, Fintie Ultra-Slim, iPazzPort, Arteck HW197, Clevetura S, Rii K22 (협찬·어필리에이트 포함)
 * [How (Not) To Build An Open Source Keyboard feat. TOTEM - Cheese Turbulence - YouTube](https://www.youtube.com/watch?v=aVhC3ekbFAs)
   * [TOTEM: 38-key split keyboard | GEIGEIGEIST](https://github.com/GEIGEIGEIST/TOTEM)
-  * 오픈소스 키보드를 "내려받아" 실제로 만들기까지 어떻게 하는지 TOTEM 스플릿 키보드로 따라가는 23분 영상(실수 사례 포함). 3D 프린팅 키캡(KLP Lamé·Pseudo Make Me·CLP)과 JLCPCB 출력, 전원·리셋 스위치 같은 부품 구매, ZMK 펌웨어 설정, golem.hu·ergo-keyboards·awesome-split-keyboards 같은 오픈소스 키보드 목록을 안내. 2주 전 원본을 지워 다시 올린 영상
+  * 오픈소스 키보드를 "내려받아" 실제로 만들기까지 어떻게 하는지 TOTEM 스플릿 키보드로 따라가는 영상(실수 사례 포함). 3D 프린팅 키캡(KLP Lamé·Pseudo Make Me·CLP)과 JLCPCB 출력, 전원·리셋 스위치 같은 부품 구매, ZMK 펌웨어 설정, golem.hu·ergo-keyboards·awesome-split-keyboards 같은 오픈소스 키보드 목록을 안내. 2주 전 원본을 지워 다시 올린 영상
 * [타이핑 웍스 typing works](https://typing.works/)
 * [AM AFA](https://www.angrymiao.com/am-afa/)
   * [집에서 석유가 솟으면 사고 싶은 키보드. 앵그리 미아오 AM AFA R2 - YouTube](https://www.youtube.com/watch?v=UrHt3nJxriI)
@@ -275,7 +275,7 @@ Product
     * [Finding success after the Keychron Nape Pro - YouTube](https://www.youtube.com/watch?v=oDqsIdWXFFQ)
       * [「文字を打つたびに楽しくなる」究極のタイピング体験を追求した分割キーボード「Keychron Orca echo」 | CoSTORY](https://costory.jp/cf-published-sku-groups/1955012598)
       * [Keychron Orca echo 소개 영상 (일본어, 자막 지원) - YouTube](https://www.youtube.com/watch?v=MHZKk1J0Dko)
-      * Work Flow State가 Keychron × Gizmodo 협업 이력을 훑는 7분 영상. Nape Pro를 만든 Gizmodo 편집자 겸 키보드 애호가 Koichiro Amemiya가 이번엔 분할 키보드 **Orca echo**를 내놨고, 일본 CoSTORY 크라우드펀딩에서 한 달도 안 돼 360만(엔) 이상 모아 성공—이미 그린라이트 상태. 49키 텐팅 오솔리니어 스플릿에 왼쪽 스크롤 휠 + 오른쪽 19mm 트랙볼(Nape Pro보다 약간 작음), 흰색·검정 2색이고 흰 모델은 휠·볼도 흰색. 블루투스·2.4GHz 동글·USB-C, Windows/macOS/iOS/Android, 8개 레이어
+      * Work Flow State가 Keychron × Gizmodo 협업 이력을 훑는 영상. Nape Pro를 만든 Gizmodo 편집자 겸 키보드 애호가 Koichiro Amemiya가 이번엔 분할 키보드 **Orca echo**를 내놨고, 일본 CoSTORY 크라우드펀딩에서 한 달도 안 돼 360만(엔) 이상 모아 성공—이미 그린라이트 상태. 49키 텐팅 오솔리니어 스플릿에 왼쪽 스크롤 휠 + 오른쪽 19mm 트랙볼(Nape Pro보다 약간 작음), 흰색·검정 2색이고 흰 모델은 휠·볼도 흰색. 블루투스·2.4GHz 동글·USB-C, Windows/macOS/iOS/Android, 8개 레이어
       * 마우스 클릭은 Fn 홀드 + 검지·중지로 좌/우클릭, 한 손 조작은 JK=좌클릭·KL=우클릭처럼 전부 커스터마이즈. 기호 배치는 사용자가 직접 매핑하는 전제라 해당 면 키캡이 무각(blank). 알루미늄 바디 버전도 검토 중. 리뷰어 관점은 "Keychron은 프리미엄이 아니라 중간 지점—입문용으로 훌륭하다"는 것이고, 첫 스플릿 사용자를 겨냥한 제품이라는 점을 반복 강조. 현재는 일본 내 배송 조건의 진행 중 캠페인이지만 Nape Pro처럼 이후 일반 판매로 풀릴 가능성을 예상
     * [Is it time to ditch your mouse? (Keychron Nape Pro Unboxing) - Cameron Dougherty Tech - YouTube](https://www.youtube.com/watch?v=jE3oyHciLJw)
       * [Keychron Nape Pro Wireless Trackball Mouse](https://www.keychron.com/products/keychron-nape-pro-wireless-trackball-mouse)
@@ -296,7 +296,7 @@ Product
   * MD600 [웹소설 작가, 스플릿 키보드 어떻게 고르지? 적응은 가능? 마감은 되겠어?! | 내돈내산 키보드 후기 - YouTube](https://www.youtube.com/watch?v=_DKuo7YZUjQ)
 * MoErgo Go60 [One Surprise After Another - MoErgo Go60 Review - Cheese Turbulence - YouTube](https://www.youtube.com/watch?v=mYT5AyVAzE8)
   * [Go60 | MoErgo](https://www.moergo.com/pages/go60)
-  * Glove80를 만든 MoErgo의 스플릿 키보드 Go60 리뷰(25분). ZSA Voyager에 정착한 지 얼마 안 된 리뷰어가 매일 출근용으로 무엇을 들고 갈지 고민하게 될 만큼 끌렸다는 평. 하드웨어 전반, 터치패드/트랙패드, 소프트웨어, 타건음 순으로 다루고 MoErgo 키캡·KLP Lamé 키캡, Naya Create·Boardsource Unicorne과 비교
+  * Glove80를 만든 MoErgo의 스플릿 키보드 Go60 리뷰. ZSA Voyager에 정착한 지 얼마 안 된 리뷰어가 매일 출근용으로 무엇을 들고 갈지 고민하게 될 만큼 끌렸다는 평. 하드웨어 전반, 터치패드/트랙패드, 소프트웨어, 타건음 순으로 다루고 MoErgo 키캡·KLP Lamé 키캡, Naya Create·Boardsource Unicorne과 비교
 * [Monkeytype | A minimalistic, customizable typing test](https://monkeytype.com/)
 * moonlander [40만원짜리 어고노믹 키보드 샀다. - YouTube](https://www.youtube.com/watch?v=fjwhN6DqCSU)
 * MStone [사람(?)이 윤활해준 저소음 밀키축! 부드러운 저압 타건감! 집콕하면 하나씩 있어야 하는 키보드 엠스톤 그루브 T SF 리뷰! - YouTube](https://www.youtube.com/watch?v=LKKtY6Llmj0)
@@ -339,7 +339,7 @@ Product
 * WorkLouder XYZ [It's Cheaper And Better? - WorkLouder XYZ - Cheese Turbulence - YouTube](https://www.youtube.com/watch?v=YYcvv6AuvK8)
   * [WorkLouder XYZ Work Board](https://worklouder.cc/xyz-work-board-2)
   * [split-xyz: Spacebar Split Script | cheeseturbulence · GitLab](https://gitlab.com/cheeseturbulence/split-xyz)
-  * WorkLouder의 47키 컴팩트 키보드 XYZ 리뷰(14분). 같은 회사의 Nomad E나 Dygma Sonsei 같은 상위 제품보다 싸면서도 나은지를 하드웨어·소프트웨어로 따져 보고, 스페이스바 아래 숨은 두 번째 스위치를 분리 스크립트로 살려 48번째 키로 쓰는 방법을 소개
+  * WorkLouder의 47키 컴팩트 키보드 XYZ 리뷰. 같은 회사의 Nomad E나 Dygma Sonsei 같은 상위 제품보다 싸면서도 나은지를 하드웨어·소프트웨어로 따져 보고, 스페이스바 아래 숨은 두 번째 스위치를 분리 스크립트로 살려 48번째 키로 쓰는 방법을 소개
 * [YUNZII WOOD68 Wireless Mechanical Keyboard](https://www.yunzii.com/ko/products/yunzii-wood68-wireless-mechanical-keyboard)
   * [YUNZII WOOD68 | 데스크 위 감성을 완성하는 원목 키보드 언박싱 & 타건 - YouTube](https://www.youtube.com/watch?v=Mm565XtNWgs)
     * YukeyB. 캔디 리니어 스위치 조합 원목 무선 기계식 키보드 언박싱·타건 영상
@@ -365,7 +365,7 @@ Product
 * [KEFEYA S2 가장진화된랩탑 휴대용듀얼모니터모니터！ - YouTube](https://www.youtube.com/watch?v=LNTbNSJ2VIU)
 * [Sotsu FlipAction Elite 16" Monitor | Is this the best travel monitor for photographers? - Archipelago Presets - YouTube](https://www.youtube.com/watch?v=5n5oCtViRbI)
   * [Sotsu FlipAction Elite 16](https://www.sotsu.com/products/flipaction-elite-16)
-  * 여러 가지 영리한 기능을 갖춘 16인치 휴대용 모니터 Sotsu FlipAction Elite의 언박싱과 첫인상 리뷰(4분). 사진가에게 가장 좋은 여행용 모니터인지 살펴봄
+  * 여러 가지 영리한 기능을 갖춘 16인치 휴대용 모니터 Sotsu FlipAction Elite의 언박싱과 첫인상 리뷰. 사진가에게 가장 좋은 여행용 모니터인지 살펴봄
 
 ## Monitor Arm 노트북 거치대
 * [거북목 때문에 필사적으로 찾은 가성비, 휴대성, 퀄리티 만족시키는 노트북 거치대 3종 리뷰ㅣ내돈내산 - YouTube](https://www.youtube.com/watch?v=yy14Zc9SYms) 노트북 거치대/암
@@ -408,7 +408,7 @@ Product
 # Printer
 * [Openprinter: Finally, an open hardware printer you can actually understand, repair, and upgrade | Crowd Supply](https://www.crowdsupply.com/open-tools/openprinter)
   * [Openprinter Teaser Update | Crowd Supply - YouTube](https://www.youtube.com/watch?v=wSV5XT4sl2A)
-    * 79초 티저(2026-09-15, 조회 55만+). 대사 없이 "I need you"만 반복
+    * 79초 티저(조회 55만+). 대사 없이 "I need you"만 반복
   * 파리의 Open Tools(Nicolas Schurando·Léonard Hartmann·Laurent Berthuel)가 Crowd Supply에서 론칭을 준비 중(2026-10 현재 Coming Soon, 업데이트 2026-06-29 프랑스 디자인 어워드 후보·2026-09-17 론칭 준비)인 오픈소스 수리 가능 잉크젯 프린터—독점 드라이버·카트리지 DRM 없이 표준 기계 부품과 모듈 구조로 조립·개조·수리하고 벽걸이·탁상 어디든 설치, 낱장(Letter·Tabloid·A4·A3)과 11인치/297mm 롤지(내장 커터로 배너·띠 출력) 지원, 흑백 600dpi·컬러 1200dpi, 리필 가능한 HP 63(미국)/HP 302(유럽) 프린트헤드를 흑백·컬러 중 하나만 또는 둘 다 장착
   * 메인보드 Raspberry Pi Zero W+카트리지 보드 STM32, 1.47인치 172×320 TFT와 조그 휠, USB-C(PC)·USB-A(USB 저장장치)·Wi-Fi 802.11ac·Bluetooth 4.1, 24V DC, CUPS 기반이라 Windows·macOS·Linux·Android·iPhone 지원, 50×10×11cm, 속도는 미정. 전자·기계 설계 파일·펌웨어·BOM을 CC BY-NC-SA 4.0으로 공개 예정(opentools.studio)
 
@@ -422,4 +422,4 @@ Product
 * [건축에서 디자인 영감을 받은 블루투스 스피커](http://www.earlyadopter.co.kr/64024)
 * [이건 완전 추천할 수 밖에 없어요. 하이파이로즈 RS350 - YouTube](https://www.youtube.com/watch?v=duG6e3xOcSY)
 * [무료로 실시간 소리 계산기가 등장했습니다 - 삼아사운드 - YouTube](https://www.youtube.com/watch?v=ol1ps3w5Wkw)
-  * 음향 커뮤니티 스원포코가 새로 내놓은 무료 "실시간 음향 단위 계산기"로 음향 단위가 어떻게 계산되는지, 스피커 세팅·음향 측정에 실제로 어떻게 쓰는지 설명하는 18분 영상
+  * 음향 커뮤니티 스원포코가 새로 내놓은 무료 "실시간 음향 단위 계산기"로 음향 단위가 어떻게 계산되는지, 스피커 세팅·음향 측정에 실제로 어떻게 쓰는지 설명하는 영상

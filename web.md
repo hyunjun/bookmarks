@@ -493,7 +493,7 @@ Web
 * [Password-less apps: implementing WebAuthN by Daniel Garnier-Moiroux - YouTube](https://www.youtube.com/watch?v=FUWLYC1z1LU)
 * [auth.md — an open protocol for agents to register users on behalf of customers | WorkOS](https://workos.com/auth-md)
   * [auth.md — 에이전트가 사용자를 대신해 가입시키기 위한 오픈 프로토콜 | GeekNews](https://news.hada.io/topic?id=30837)
-  * 앱이 도메인 루트(`https://yourapp.com/auth.md`)에 호스팅하는 마크다운 파일로 에이전트가 회원가입 없이 사용자를 등록하는 프로토콜. 에이전트가 auth.md를 fetch→지원 플로우 선택→검증 신원 assertion 또는 user-claimed 검증. OAuth 기반, 스코프·단기 토큰 발급. Cloudflare·Firecrawl·Resend 채택, MIT
+  * 앱이 도메인 루트(`https://yourapp.com/auth.md`)에 호스팅하는 마크다운 파일로 에이전트가 회원가입 없이 사용자를 등록하는 프로토콜. 에이전트가 auth.md를 fetch→지원 플로우 선택→검증 신원 assertion 또는 user-claimed 검증. OAuth 기반, 스코프·단기 토큰 발급. Cloudflare·Firecrawl·Resend 채택
 * [Keycloak](https://www.keycloak.org/)
   * [신원확인, 통합인증관리 오픈소스 ‘키클락’을 알아보자 | 요즘IT](https://yozm.wishket.com/magazine/detail/2425/)
   * [키클락 구성을 위한 기나긴 사전 작업 한번에 보기 | 요즘IT](https://yozm.wishket.com/magazine/detail/2427/)
@@ -602,7 +602,7 @@ Web
   * `defaults`나 `last 2 versions`같은 설정을 입력하면 자세한 브라우져 사용 현황 확인 가능
 * [nothing-private: Do you think you are safe using private browsing or incognito mode? This will prove that you're wrong](https://github.com/gautamkrishnar/nothing-private)
   * [Nothing Private 데모](https://nothingprivate.gkr.pw)
-  * 브라우저 핑거프린팅으로 시크릿 모드·프라이빗 브라우징이 신원을 숨겨주지 못함을 직접 보여주는 개념 증명 데모. 이름을 입력한 뒤 시크릿 창으로 다시 접속해도 알아맞힘. JavaScript, GPL-3.0, 2.2k stars
+  * 브라우저 핑거프린팅으로 시크릿 모드·프라이빗 브라우징이 신원을 숨겨주지 못함을 직접 보여주는 개념 증명 데모. 이름을 입력한 뒤 시크릿 창으로 다시 접속해도 알아맞힘
 
 # C++
 * [Cheerp 1.1 - C++ for the Web with fast startup times, dynamic memory and now, more speed!](http://leaningtech.com/cheerp/blog/2015/06/17/Cheerp-1.1/)
@@ -663,7 +663,7 @@ Web
     * 코드팩토리. ego lite 소개—기존 로그인 세션에서 바로 작동, parallel Spaces로 여러 브라우저 작업 동시 실행
   * [AI 에이전트 브라우저를 따로 써야 할까? ego(lite) 사용기 | 요즘IT](https://yozm.wishket.com/magazine/detail/3971)
     * 효빈. 사람이 쓰는 크롬과 에이전트용 크로미움을 나눠 쓰다 로그인 풀림·탭 누적에 지쳐 일주일 사용—같은 프로세스 안의 작업별 격리 공간 Space 덕에 이미 로그인한 사이트는 재인증 없이 바로 진행, 에이전트가 작업하는 동안 사용자의 페이지·마우스·포커스는 그대로, 탭은 작업 단위로 묶여 정리 범위가 분명. 바뀐 요청 방식: 종료 조건(결과물 형식·남길 탭)을 미리 정하고, 조회와 변경을 분리해 "읽기 전용" 범위를 명시하고, 2차 인증·캡차·결제·게시처럼 되돌리기 어려운 단계는 사람이 제어권을 받아 처리. mac 전용·lite 단계라는 한계
-  * Codex·Claude Code 등 AI 에이전트에 로그인된 브라우저 상태를 방해 없이 공유해 브라우저 자동화를 실행. 무료·무설정. JavaScript, MIT, 7.5k stars
+  * Codex·Claude Code 등 AI 에이전트에 로그인된 브라우저 상태를 방해 없이 공유해 브라우저 자동화를 실행. 무료·무설정
 * [fingerprint-suite: Browser fingerprinting tools for anonymizing your scrapers](https://github.com/apify/fingerprint-suite)
   * Apify의 브라우저 핑거프린팅 도구. header-generator(현실적 HTTP 헤더), fingerprint-generator(JS API+HTTP 영향 지문), fingerprint-injector(Playwright/Puppeteer 주입), generative-bayesian-network(베이지안 생성 네트워크). 모듈러 npm 패키지
 * [Browserflow - Web Scraping & Web Automation](https://browserflow.app/)
@@ -687,18 +687,18 @@ Web
   * [Nepenthes - AI 웹 크롤러를 잡는 함정 | GeekNews](https://news.hada.io/topic?id=18770)
 * [Lightpanda | The headless browser designed for AI and automation](https://lightpanda.io/)
   * [browser: Lightpanda: the headless browser designed for AI and automation](https://github.com/lightpanda-io/browser)
-  * 머신을 위해 처음부터 만든 AI-네이티브 headless 브라우저(Chrome 포크 아님). Chrome headless 대비 10배 빠르고 RAM 10배 절약. Zig, AGPL-3.0, 32K stars
+  * 머신을 위해 처음부터 만든 AI-네이티브 headless 브라우저(Chrome 포크 아님). Chrome headless 대비 10배 빠르고 RAM 10배 절약
 * [moli: Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Rust](https://github.com/lexmount/moli)
   * [Cloud Browser API for AI Agents & Web Fetch | Lexmount](https://browser.lexmount.com/)
-  * Lexmount의 AI 에이전트용 프로덕션 headless 브라우저(Rust, Apache-2.0, 19k stars, Linux·macOS·Windows). 페이지 구조·상호작용 상태는 메모리에 두고 시각 뷰·스크린샷이 필요할 때만 레이아웃·렌더링하는 on-demand 설계로 완전한 브라우저 런타임을 가볍게 유지. 내부 RL 학습 워크로드 관찰에서 Chromium 대비 유휴 메모리 약 1/7, 피크 메모리 1/3, 콜드 스타트 약 5배 빠름
+  * Lexmount의 AI 에이전트용 프로덕션 headless 브라우저(Linux·macOS·Windows). 페이지 구조·상호작용 상태는 메모리에 두고 시각 뷰·스크린샷이 필요할 때만 레이아웃·렌더링하는 on-demand 설계로 완전한 브라우저 런타임을 가볍게 유지. 내부 RL 학습 워크로드 관찰에서 Chromium 대비 유휴 메모리 약 1/7, 피크 메모리 1/3, 콜드 스타트 약 5배 빠름
   * `moli fetch`로 Markdown·시맨틱 트리 텍스트·스크린샷·PDF 추출(`--eval`로 클릭 후 덤프), `moli serve` 한 엔드포인트에서 CDP·WebDriver Classic·WebDriver BiDi 동시 제공해 Playwright `connectOverCDP`로 바로 연결. 에이전트 스킬(moli-webfetch 등) 제공. Lexmount Cloud Browser는 세션마다 Chromium·Moli 런타임을 고르고 CAPTCHA 자동 처리·사내망 접근·라이브 뷰·Replay·Web Fetch API 지원
 * [obscura: Open-source headless browser engine for AI agents, written in Rust](https://github.com/h4ckf0r0day/obscura)
   * headless Chrome 대체 Rust 브라우저 엔진. 30MB 메모리(Chrome 200MB+), 85ms 페이지 로드, V8 JS 실행, CDP 호환(Puppeteer/Playwright), 핑거프린트 랜덤화+트래커 차단 스텔스 모드, 단일 바이너리 배포
   * [Obscura · Give every agent its own browser](https://www.obscura.sh/)
   * [🦀 Obscura 설치·사용 가이드: 2.5만 스타 Rust 헤드리스 브라우저, 30MB로 Chrome 대체 | fornewchallenge](https://fornewchallenge.tistory.com/entry/%F0%9F%A6%80-Obscura-%EC%84%A4%EC%B9%98%C2%B7%EC%82%AC%EC%9A%A9-%EA%B0%80%EC%9D%B4%EB%93%9C-25%EB%A7%8C-%EC%8A%A4%ED%83%80-Rust-%ED%97%A4%EB%93%9C%EB%A6%AC%EC%8A%A4-%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80-30MB%EB%A1%9C-Chrome-%EB%8C%80%EC%B2%B4)
-    * 공식 사이트의 문제 정의—Chrome은 사람이 한 페이지씩 보는 용도라 수천 세션을 돌리는 에이전트엔 무겁고(인스턴스마다 메모리·CPU), 콜드 스타트가 초 단위이며, 쿠키·로그인·캐시가 작업 간에 새어 재현성이 깨짐. 가이드: Chromium 전체 대신 V8만 임베드해 메모리 30MB·바이너리 70MB(Chrome 대비 약 80% 경량), 85ms 로드, 스텔스 모드, 설치→CDP 서버 실행→Claude Desktop MCP 연동→스크래핑 활용 순으로 안내. 29k stars로 성장
+    * 공식 사이트의 문제 정의—Chrome은 사람이 한 페이지씩 보는 용도라 수천 세션을 돌리는 에이전트엔 무겁고(인스턴스마다 메모리·CPU), 콜드 스타트가 초 단위이며, 쿠키·로그인·캐시가 작업 간에 새어 재현성이 깨짐. 가이드: Chromium 전체 대신 V8만 임베드해 메모리 30MB·바이너리 70MB(Chrome 대비 약 80% 경량), 85ms 로드, 스텔스 모드, 설치→CDP 서버 실행→Claude Desktop MCP 연동→스크래핑 활용 순으로 안내
 * [pipet: Swiss-army tool for scraping and extracting data from online assets, made for hackers](https://github.com/bjesus/pipet)
-  * CLI 웹 스크레이퍼. HTML 파싱·JSON 파싱·클라이언트 JS 평가 3가지 모드, curl 등 기존 도구와 unix 파이프로 확장. 배송 추적·티켓 발매 알림·주가 변동 등 온라인 정보 모니터링. Go, MIT
+  * CLI 웹 스크레이퍼. HTML 파싱·JSON 파싱·클라이언트 JS 평가 3가지 모드, curl 등 기존 도구와 unix 파이프로 확장. 배송 추적·티켓 발매 알림·주가 변동 등 온라인 정보 모니터링
 * [scraping-apis-for-devs: This GitHub repo is a powerhouse collection of scraping APIs for developers that you can start using immediately to build everything from simple automations to full-scale applications](https://github.com/cporter202/scraping-apis-for-devs)
 * [Scraping Browser - Automated Browser for Scraping](https://brightdata.com/products/scraping-browser)
   * [차원이 다른 '웹 스크래핑' 비법 알려드림 - YouTube](https://www.youtube.com/watch?v=tcFz6NY3zpc)
@@ -727,7 +727,7 @@ Web
   * 103개 명령어×36개 플랫폼. 인증된 브라우저 세션 그대로 사용, CLI/MCP/OpenClaw 통합. 10분만에 새 사이트 어댑터 추가 가능
 * [brightdata-mcp: A powerful Model Context Protocol (MCP) server that provides an all-in-one solution for public web access | Bright Data](https://github.com/brightdata/brightdata-mcp)
   * [Bright Data - All in One Platform for Proxies and Web Scraping](https://brightdata.com/)
-  * AI 에이전트의 공개 웹 접근을 한 MCP 서버로 제공하는 Bright Data 공식 서버. 프록시·웹 스크래핑 플랫폼 Bright Data의 인프라를 에이전트 도구로 노출. JavaScript, MIT, 2.7k stars
+  * AI 에이전트의 공개 웹 접근을 한 MCP 서버로 제공하는 Bright Data 공식 서버. 프록시·웹 스크래핑 플랫폼 Bright Data의 인프라를 에이전트 도구로 노출
 * [Jina Reader — URL to LLM-friendly content](https://r.jina.ai/)
   * `r.jina.ai/URL`로 웹 페이지를 LLM 최적화 마크다운으로 변환, `s.jina.ai/QUERY`로 검색. API 키 불필요
 * [web-access: Agent Skill for comprehensive web access with CDP browser control](https://github.com/eze-is/web-access)
@@ -895,16 +895,16 @@ Web
 * [facebook-scraper: Scrape Facebook public pages without an API key](https://github.com/0xSojalSec/facebook-scraper)
 * [Google Image Downloader - A simple script that fetches images from Google with browser simulation](https://github.com/bemoregt/google-image-downloader)
 * [google-maps-scraper-kit: Local Google Maps lead extraction, operated by Claude. Clean CSVs with phones, emails, websites and socials](https://github.com/Mahanaicoach/google-maps-scraper-kit)
-  * 업종·도시를 말하면 이름·전화·이메일·웹사이트·카테고리·주소·평점·리뷰 수를 담은 영업용 CSV를 로컬에서 뽑아주는 키트—채팅 AI에 "구글 맵 긁어줘"라고 하면 동의 화면·JS 렌더링에 막혀 거의 0건이 나오는 문제를, 로컬 헤드리스 스크래핑 엔진(Docker)과 Claude용 정밀 운영 매뉴얼(skill + `/scrape`·`/scrape-batch`·`/scrape-setup`·`/scrape-jobs`)로 해결. 원본 ~34개 필드 중 8개만 남기고(`--full`로 전체), 웹사이트에서 이메일 추출, `--socials`로 Instagram·Facebook·LinkedIn을 AI 토큰 없이 HTTP+정규식으로 보강, 도시명 자동 지오코딩, 배치 작업. API 키·SaaS 불필요, API는 127.0.0.1 바인딩, 레이트 리밋·데이터 법규 가드레일 내장, Claude 없이도 의존성 없는 Python CLI. 1.1k stars
+  * 업종·도시를 말하면 이름·전화·이메일·웹사이트·카테고리·주소·평점·리뷰 수를 담은 영업용 CSV를 로컬에서 뽑아주는 키트—채팅 AI에 "구글 맵 긁어줘"라고 하면 동의 화면·JS 렌더링에 막혀 거의 0건이 나오는 문제를, 로컬 헤드리스 스크래핑 엔진(Docker)과 Claude용 정밀 운영 매뉴얼(skill + `/scrape`·`/scrape-batch`·`/scrape-setup`·`/scrape-jobs`)로 해결. 원본 ~34개 필드 중 8개만 남기고(`--full`로 전체), 웹사이트에서 이메일 추출, `--socials`로 Instagram·Facebook·LinkedIn을 AI 토큰 없이 HTTP+정규식으로 보강, 도시명 자동 지오코딩, 배치 작업. API 키·SaaS 불필요, API는 127.0.0.1 바인딩, 레이트 리밋·데이터 법규 가드레일 내장, Claude 없이도 의존성 없는 Python CLI
 * [iris: Screenshots of live websites. Minimal interface, powerful engine](https://github.com/brijr/iris)
-  * 라이브 웹사이트 스크린샷 도구. 미니멀 인터페이스, Rust, 377 stars
+  * 라이브 웹사이트 스크린샷 도구. 미니멀 인터페이스
 * [katana: A next-generation crawling and spidering framework | projectdiscovery](https://github.com/projectdiscovery/katana)
-  * ProjectDiscovery의 빠르고 완전히 설정 가능한 웹 크롤러—standard와 headless 모드, JavaScript 파싱·크롤링, 스코프 제어, 필터. 보안 정찰용 엔드포인트 수집에 주로 쓰임. Go, MIT, 17.7k stars
+  * ProjectDiscovery의 빠르고 완전히 설정 가능한 웹 크롤러—standard와 headless 모드, JavaScript 파싱·크롤링, 스코프 제어, 필터. 보안 정찰용 엔드포인트 수집에 주로 쓰임
 * [kocrawl: A collection of useful Korean crawlers (always updated)](https://github.com/gusdnd852/kocrawl)
 * [KoreaNewsCrawler: 대량의 뉴스 데이터를 수집하기 위해 만들어진 뉴스 크롤러입니다](https://github.com/lumyjuwon/KoreaNewsCrawler)
 * [Maxun • Open-Source Web Scraping & Data Extraction for AI](https://maxun.dev/)
   * [maxun: Turn any website into a structured API. Extract, automate, search and monitor the web](https://github.com/getmaxun/maxun)
-  * 어떤 웹사이트든 앱·워크플로·AI 에이전트용 구조화 데이터로 바꾸는 웹 데이터 플랫폼—REST API·SDK·CLI·MCP 서버(개발자)와 노코드 레코더(성장·운영·리서치 팀)를 함께 제공. 원하는 데이터를 코드·레코더 클릭·AI 모드 자연어·프리빌트 로봇 중 하나로 지정하면 실제 브라우저를 돌려 스크레이프·크롤·추출·검색·모니터링. 가격·경쟁사 모니터링, 리드 생성, RAG 파이프라인, 리뷰 추적 용도. TypeScript, AGPL-3.0, 18k stars
+  * 어떤 웹사이트든 앱·워크플로·AI 에이전트용 구조화 데이터로 바꾸는 웹 데이터 플랫폼—REST API·SDK·CLI·MCP 서버(개발자)와 노코드 레코더(성장·운영·리서치 팀)를 함께 제공. 원하는 데이터를 코드·레코더 클릭·AI 모드 자연어·프리빌트 로봇 중 하나로 지정하면 실제 브라우저를 돌려 스크레이프·크롤·추출·검색·모니터링. 가격·경쟁사 모니터링, 리드 생성, RAG 파이프라인, 리뷰 추적 용도
 * [newscatcher - Programmatically collect normalized news from (almost) any website](https://github.com/kotartemiy/newscatcher)
 * [ScrapeGraphAI](https://scrapegraphai.com/)
   * [Scrapegraph-ai: Python scraper based on AI](https://github.com/ScrapeGraphAI/Scrapegraph-ai)
@@ -914,7 +914,7 @@ Web
   * [Scrapling - 현대 웹을 위한 적응형 웹 스크래핑 | GeekNews](https://news.hada.io/topic?id=27352)
   * [Cloudflare 우회 웹 스크래핑을 무료로 Scrapling MCP Server 완벽 가이드](https://fornewchallenge.tistory.com/entry/%F0%9F%94%93-Cloudflare-%EC%9A%B0%ED%9A%8C-%EC%9B%B9-%EC%8A%A4%ED%81%AC%EB%9E%98%ED%95%91%EC%9D%84-%EB%AC%B4%EB%A3%8C%EB%A1%9C-Scrapling-MCP-Server-%EC%99%84%EB%B2%BD-%EA%B0%80%EC%9D%B4%EB%93%9C)
   * [7만 GitHub star를 받은 Scrapling, Cloudflare 차단 어디까지 우회할 수 있을까? - YouTube](https://www.youtube.com/watch?v=hdEweGeZpuE)
-    * 오늘코드. Scrapling으로 Cloudflare 차단 우회 실전(42분)
+    * 오늘코드. Scrapling으로 Cloudflare 차단 우회 실전
 * [scrapy: Scrapy, a fast high-level web crawling & scraping framework for Python](https://github.com/scrapy/scrapy)
   * [scrapy_community](https://github.com/onecue/scrapy_community)
   * [Web Crawling](https://www.youtube.com/playlist?list=PLWUxS6i2fXtip8sHElwRUubwWfLowlFA4)
@@ -1148,7 +1148,7 @@ Web
 * [ฅ^•ﻌ•^ฅ ♥ AdorableCSS](https://developer-1px.github.io/adorable-css/)
 * [Buttons Generator - Marko Denic - Web Developer](https://markodenic.com/tools/buttons-generator/)
 * [Cloudscape Design System](https://cloudscape.design/)
-  * AWS가 2016년부터 개발한 오픈소스 클라우드 UX 디자인 시스템. AWS 웹앱 UX 향상·개발 가속용. Foundation(색상·여백·아이콘) + React 컴포넌트 라이브러리(테스트·접근성·반응형) + 패턴 가이드라인 + 데모. 94 컴포넌트, 62 패턴, 33 데모. 다크/라이트 모드, 테마, 접근성, 반응형. Apache 2.0
+  * AWS가 2016년부터 개발한 오픈소스 클라우드 UX 디자인 시스템. AWS 웹앱 UX 향상·개발 가속용. Foundation(색상·여백·아이콘) + React 컴포넌트 라이브러리(테스트·접근성·반응형) + 패턴 가이드라인 + 데모. 94 컴포넌트, 62 패턴, 33 데모. 다크/라이트 모드, 테마, 접근성, 반응형
   * CSS 그리드에서 그리드 컨테이너의 직접 자식에만 영향을 주는데
   * `grid-template-columns`를 `subgrid`로 지정해서 사용하는 서브그리드를 사용하면 부모 그리드의 값을 서브그리드에서 사용 가능해 레이아웃 내에서 콘텐츠 정렬 가능
 * [CSS Grid Generator](https://cssgridgenerator.io/)
@@ -1165,7 +1165,7 @@ Web
 * [Rethinking CSS in JS - DEV Community](https://dev.to/black7375/rethinking-css-in-js-5dip)
   * [Rethinking CSS in JS | GeekNews](https://news.hada.io/topic?id=16727)
 * [scroll-craft: An agent skill for building premium, immersive, scroll-driven websites. Works with Codex, Claude Code, and others](https://github.com/nateherkai/scroll-craft)
-  * 프리미엄 스크롤 주도(scroll-driven) 웹사이트를 만들어 주는 에이전트 스킬. JavaScript, MIT, 2.8k stars
+  * 프리미엄 스크롤 주도(scroll-driven) 웹사이트를 만들어 주는 에이전트 스킬
 * [shadcn/ui](https://ui.shadcn.com/)
   * [shadcn ui 자세히 알아보기](https://pyjun01.github.io/v/shadcn-ui)
     * 작년 가장 많은 GitHub Star를 받은 shadcn/ui 설명
@@ -1176,7 +1176,7 @@ Web
   * [The anatomy of shadcn/ui](https://manupa.dev/blog/anatomy-of-shadcn-ui)
     * [번역 shadcn/ui 의 해부. 원문… | by 조영제 | Nov, 2024 | Medium](https://siosio3103.medium.com/shadcn-ui-%EC%9D%98-%ED%95%B4%EB%B6%80-ebd469c34614)
   * [Shadcn Lint 써서 AI로 디자인 박살내지 않기 | 코드팩토리 - YouTube](https://www.youtube.com/watch?v=2_2M0DlHD1Y)
-    * 코드팩토리(7분). AI로 페이지를 추가할수록 색·글자·여백이 제멋대로 바뀌는 이유는 LLM이 테마에 없는 색(예: 분홍 하드코딩)이나 컴포넌트 스타일을 무차별 오버라이드하기 때문—새로 나온 shadcn lint가 테마 색상 사용 여부와 기존 컴포넌트 외관 덮어쓰기를 규칙으로 검사해 어떤 파일의 어떤 코드를 무엇으로 바꿔야 하는지(사용 가능한 테마 색 이름·정의 파일, 컴포넌트의 size/variant 선택지) 진단으로 알려줌. 빌드 전 검사로 연결하면 AI가 디자인 규칙을 어겨도 에러로 잡히고, 진단을 그대로 AI에 넘겨 정확한 위치만 수정
+    * 코드팩토리. AI로 페이지를 추가할수록 색·글자·여백이 제멋대로 바뀌는 이유는 LLM이 테마에 없는 색(예: 분홍 하드코딩)이나 컴포넌트 스타일을 무차별 오버라이드하기 때문—새로 나온 shadcn lint가 테마 색상 사용 여부와 기존 컴포넌트 외관 덮어쓰기를 규칙으로 검사해 어떤 파일의 어떤 코드를 무엇으로 바꿔야 하는지(사용 가능한 테마 색 이름·정의 파일, 컴포넌트의 size/variant 선택지) 진단으로 알려줌. 빌드 전 검사로 연결하면 AI가 디자인 규칙을 어겨도 에러로 잡히고, 진단을 그대로 AI에 넘겨 정확한 위치만 수정
     * 기존 프로젝트 적용 프롬프트 흐름: 현재 테마·공통 컴포넌트 위치 확인→공식 설치 안내 링크와 함께 설치·등록 요청(기존 검사 설정 유지)→검사 규칙과 명령 설정 요청(의도적 오버라이드는 제외)→테마 일관화 후 린트 재실행·진단 수정·재검사 반복
 * [system.css | A design system for building retro Apple-inspired interfaces](https://sakofchit.github.io/system.css/)
 * [tachyons.io](https://tachyons.io/)
@@ -1485,7 +1485,7 @@ Web
   * [Instatic: The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages](https://github.com/CoreBunch/Instatic)
   * [Instatic - Webflow, Framer, WordPress를 대체하는 오픈소스 셀프호스팅 비주얼 CMS | GeekNews](https://news.hada.io/topic?id=32372)
   * 단일 Bun 서버 하나에 에디터·콘텐츠 API·미디어·인증·플러그인·호스팅·폼·애널리틱스를 모두 담은 셀프호스팅 비주얼 CMS. 발행하면 시맨틱 HTML+압축 CSS 정적 파일이 자기 서버에 저장되어 언제든 다른 호스트로 이동 가능
-  * 실제 캔버스 에디터로 여러 브레이크포인트 동시 편집, 모듈을 드래그해 재사용 컴포넌트 생성, AI 에이전트가 설명만으로 노드 편집, 플러그인은 QuickJS-WASM 샌드박스에서 실행. TypeScript, MIT, 8k stars
+  * 실제 캔버스 에디터로 여러 브레이크포인트 동시 편집, 모듈을 드래그해 재사용 컴포넌트 생성, AI 에이전트가 설명만으로 노드 편집, 플러그인은 QuickJS-WASM 샌드박스에서 실행
 * [Jet - Lightweight, Realtime Message Bus for the Web](http://jetbus.io/)
 * [LaunchKit — free template for devtool landing pages](https://launchkit.evilmartians.io/)
   * [devtool-template: Free free template for dev tools](https://github.com/evilmartians/devtool-template)
@@ -1734,7 +1734,7 @@ Web
 * [CRProxy](https://crproxy.com/) command line tool allow you to serve web content from your local machine, or behind any firewall
 * [dev-proxy: Built for agentic development workflows: one proxy to route everything, one terminal to monitor it all | reopt-ai](https://github.com/reopt-ai/dev-proxy)
   * [여러 프로젝트를 동시에 개발하기 위해 만든 오픈소스 로컬 프록시 | Seungho Han](https://kr.linkedin.com/posts/eric-han-kr_github-reopt-aidev-proxy-built-for-agentic-activity-7521053910728376320-FVzd)
-  * 코딩 에이전트와 여러 프로젝트·git worktree를 병렬로 개발할 때 늘어나는 localhost 포트를 하나의 프록시가 `*.{domain}:3000` 서브도메인으로 라우팅하고, 모든 프로젝트의 HTTP/WS 트래픽을 터미널 대시보드(TUI) 하나에서 보는 도구—Charles·Proxyman의 터미널 네이티브 경량 대안. 와일드카드 DNS+신뢰 TLS 인증서+`httpsPort: 443`이면 프로젝트마다 `https://shop.dev.example.com` 같은 깔끔한 URL을 쓰고 같은 LAN의 폰·태블릿에서 실기기 테스트. Vercel Labs portless에서 영감, 라우트·worktree를 설정 파일로 두는 에이전트 친화 설계, 여러 로컬 머신에 서비스를 분산하는 Peer 기능. npm `@reopt-ai/dev-proxy`, 한국어 README. TypeScript, MIT
+  * 코딩 에이전트와 여러 프로젝트·git worktree를 병렬로 개발할 때 늘어나는 localhost 포트를 하나의 프록시가 `*.{domain}:3000` 서브도메인으로 라우팅하고, 모든 프로젝트의 HTTP/WS 트래픽을 터미널 대시보드(TUI) 하나에서 보는 도구—Charles·Proxyman의 터미널 네이티브 경량 대안. 와일드카드 DNS+신뢰 TLS 인증서+`httpsPort: 443`이면 프로젝트마다 `https://shop.dev.example.com` 같은 깔끔한 URL을 쓰고 같은 LAN의 폰·태블릿에서 실기기 테스트. Vercel Labs portless에서 영감, 라우트·worktree를 설정 파일로 두는 에이전트 친화 설계, 여러 로컬 머신에 서비스를 분산하는 Peer 기능. npm `@reopt-ai/dev-proxy`, 한국어 README
 * [go-proxy: Easy to use reverse proxy with docker integration](https://github.com/yusing/go-proxy)
   * [GoDoxy - 사용하기 쉬운 리버스 프록시 | GeekNews](https://news.hada.io/topic?id=18940)
 * [imgproxy: Fast and secure standalone server for resizing and converting remote images](https://github.com/imgproxy/imgproxy)
@@ -1774,7 +1774,7 @@ Web
     * Pingora는 HTTP/1, HPTT/2, gRPC, WebSocket 프록시를 지원하고 Pingora 기반으로 서비스를 구축할 수 있는 라이브러리와 API도 제공
   * [Cloudflare Open sources Pingora (NGINX replacement) - YouTube](https://www.youtube.com/watch?v=WpMwuo13-7w)
 * [rota: A high-performance proxy rotation engine with automated IP management and real-time health monitoring](https://github.com/alpkeskin/rota)
-  * Go 기반 프록시 로테이션 플랫폼. 지능형 로테이션 전략, 자동 IP 관리, 실시간 헬스 모니터링, HTTP/SOCKS5 지원. Next.js 대시보드+TimescaleDB 시계열 분석, Docker 배포. 웹 스크레이핑·보안 리서치·부하 테스트용. Apache-2.0
+  * Go 기반 프록시 로테이션 플랫폼. 지능형 로테이션 전략, 자동 IP 관리, 실시간 헬스 모니터링, HTTP/SOCKS5 지원. Next.js 대시보드+TimescaleDB 시계열 분석, Docker 배포. 웹 스크레이핑·보안 리서치·부하 테스트용
 * [rss-proxy: RSS-proxy allows you to do create an RSS or ATOM feed of almost any website, just by analyzing just the static HTML structure](https://github.com/damoeb/rss-proxy)
 * [toxiproxy: A TCP proxy to simulate network and system conditions for chaos and resiliency testing](https://github.com/Shopify/toxiproxy)
 * [tproxy: A cli tool to proxy and analyze TCP connections](https://github.com/kevwan/tproxy)
@@ -1782,7 +1782,7 @@ Web
   * [traefik - 클라우드 네이티브 어플리케이션 프록시 | GeekNews](https://news.hada.io/topic?id=3668)
 * [Traefik Manager](https://traefik-manager.xyzlab.dev/)
   * [traefik-manager: A clean, self-hosted web UI for managing your Traefik reverse proxy](https://github.com/chr0nzz/traefik-manager)
-  * Traefik 리버스 프록시의 라우트·미들웨어·서비스·프로바이더를 웹 UI로 관리·모니터링하는 셀프호스팅 도구. JavaScript, GPL-3.0
+  * Traefik 리버스 프록시의 라우트·미들웨어·서비스·프로바이더를 웹 UI로 관리·모니터링하는 셀프호스팅 도구
 * [YARP: Yet Another Reverse Proxy](https://microsoft.github.io/reverse-proxy/)
   * [Implementing an API Gateway For Microservices With YARP](https://www.milanjovanovic.tech/blog/implementing-an-api-gateway-for-microservices-with-yarp)
 * [reverse-proxy: A toolkit for developing high-performance HTTP reverse proxy applications](https://github.com/microsoft/reverse-proxy)
@@ -1883,7 +1883,7 @@ Web
     * [다양한 커리어 성장의 기회 | 원티드 이벤트](https://www.wanted.co.kr/events/vod/meetup_fastapi)
   * [Flask 서버를 FastAPI 서버로 전환하기. 안기욱 - PyCon Korea 2021 - YouTube](https://www.youtube.com/watch?v=5FvicDwklaA)
   * [PyCon Korea 2026 "FastAPI로 그게 됩니까?" — 됩니다 부제: 엔터프라이즈 백엔드를 지탱하는 모듈러 모놀리스 1년 회고 - 윤상현 - YouTube](https://www.youtube.com/watch?v=7wVbjmMzh7g)
-    * "FastAPI는 작은 API를 빨리 만들 때나 쓴다, 대형 시스템엔 Spring·NestJS"라는 통념을 측정으로 검증한 1년 회고(18분). 사회적 협동조합 1인 CTO로 심리 상담 AI 챗봇(Python·LangChain)과 업무 플랫폼을 운영하며 NestJS+FastAPI 폴리글랏 MSA(레포 6·배포 단위 9·DB 4)로 커진 복잡도와 기술 부채를, uv workspace 기반 FastAPI 모듈러 모놀리스(패키지 25·테이블 102·약 10만 줄)로 통합해 프로덕션 운영
+    * "FastAPI는 작은 API를 빨리 만들 때나 쓴다, 대형 시스템엔 Spring·NestJS"라는 통념을 측정으로 검증한 1년 회고. 사회적 협동조합 1인 CTO로 심리 상담 AI 챗봇(Python·LangChain)과 업무 플랫폼을 운영하며 NestJS+FastAPI 폴리글랏 MSA(레포 6·배포 단위 9·DB 4)로 커진 복잡도와 기술 부채를, uv workspace 기반 FastAPI 모듈러 모놀리스(패키지 25·테이블 102·약 10만 줄)로 통합해 프로덕션 운영
     * NestJS→Python 번역 사전(@Module·DI 컨테이너·class-validator·TypeORM을 import·Depends·Pydantic·SQLAlchemy 2.0으로), uv workspace로 모듈 경계 정의·도메인/애플리케이션 패키지 분리, 요청 범위 트랜잭션, OpenAPI 계약(CI 드리프트 게이트·프런트 코드 생성)으로 협업 규칙을 기계 검증 가능하게. FastAPI의 자유도가 컨벤션·린터·계층 부재로 발목을 잡던 지점을 디렉터리 구조·훅·린터로 해결
   * [Dix et al - Lessons Learned Building Our Own Dashboard Solution | PyData Global 2022 - YouTube](https://www.youtube.com/watch?v=zBPpOPnLaFE) celery도 일부
   * [Generate Python FastApi Rest Client & Server - YouTube](https://www.youtube.com/watch?v=52MRyaOPmF4)
@@ -1961,7 +1961,7 @@ Web
   * [HTTPX Tutorial - A next-generation HTTP client for Python - YouTube](https://www.youtube.com/watch?v=qAh5dDODJ5k)
 * [Japronto! - screaming-fast, scalable, asynchronous Python 3.5+ web micro-framework integrated with pipelining HTTP server based on uvloop and picohttpparser](https://github.com/squeaky-pl/japronto)
 * [ladder: Selfhosted alternative to 12ft.io and 1ft.io](https://github.com/everywall/ladder)
-  * 12ft.io·1ft.io의 셀프호스팅 대안. CORS 헤더 제거·HTML 수정 프록시로 페이월 우회. Go, GPL-3.0, 8.8k stars
+  * 12ft.io·1ft.io의 셀프호스팅 대안. CORS 헤더 제거·HTML 수정 프록시로 페이월 우회
 * [Lektor - Lektor is a static website generator. It builds out an entire project from static files into many individual HTML pages and has a built-in admin UI and minimal desktop app](https://github.com/lektor/lektor)
 * [The Ludic Framework](https://getludic.dev/)
 * [Lumi is an nano framework to convert your python functions into a REST API without any extra headache](https://github.com/Tanmoy741127/lumi)
@@ -2213,13 +2213,13 @@ Web
 * [여기보기 WAS의 정보는 개인정보 다루듯이 보호하라 - 넷마블 기술 블로그](https://netmarble.engineering/was-information-private/)
 * [ezXSS — easy way to test (blind) Cross Site Scripting](https://ezxss.com/)
   * [ezXSS: an easy way for penetration testers and bug bounty hunters to test (blind) Cross Site Scripting](https://github.com/ssl/ezXSS)
-  * 펜테스터·버그바운티용 blind XSS 테스트 플랫폼. 페이로드 실행 시 스크린샷·DOM·쿠키·세션 등 정보 수집. PHP, MIT
+  * 펜테스터·버그바운티용 blind XSS 테스트 플랫폼. 페이로드 실행 시 스크린샷·DOM·쿠키·세션 등 정보 수집
 * [Osmedeus — A Modern Orchestration Engine for Security](https://www.osmedeus.org/)
   * [osmedeus: A Modern Orchestration Engine for Security | j3ssie](https://github.com/j3ssie/osmedeus)
-  * 정찰·취약점 스캔 워크플로를 선언적으로 조합·병렬 실행하는 보안 오케스트레이션 엔진. Go, MIT, 6.6k stars
+  * 정찰·취약점 스캔 워크플로를 선언적으로 조합·병렬 실행하는 보안 오케스트레이션 엔진
 * [Sn1per - Attack Surface Management & Pentesting Platform](https://sn1persecurity.com/)
   * [Sn1per: Automated penetration testing & attack surface management platform. Recon, scan, exploit, report | 1N3](https://github.com/1N3/Sn1per)
-  * 공격자 관점의 자동 공격 표면 관리·지속적 펜테스팅·익스플로잇 검증 플랫폼(정찰→스캔→익스플로잇→리포트). Shell, 11.3k stars
+  * 공격자 관점의 자동 공격 표면 관리·지속적 펜테스팅·익스플로잇 검증 플랫폼(정찰→스캔→익스플로잇→리포트)
 
 # Server
 * [스타트업을 위한 서버 안내서](https://subokim.wordpress.com/2015/07/17/server-for-startup/)
@@ -2600,7 +2600,7 @@ Web
 * [webassembly vs javascript and its application in microservice & cloud computing - YouTube](https://www.youtube.com/watch?v=1wbIjxW2Ry4)
 * [WebAssembly on Kubernetes • Nicolas Frankel • GOTO 2025 - YouTube](https://www.youtube.com/watch?v=fMpDgsjBQzg)
 * [WASM Components are a FaaS' Best Friend | InfoQ - YouTube](https://www.youtube.com/watch?v=vPrYHZ6KXCE)
-  * Laurent Doguin의 51분 발표—Wasm의 콜드스타트 성능과 보안 모델이 FaaS 런타임에 이상적인 이유, 폴리글랏 상호운용을 위한 WebAssembly Component Model
+  * Laurent Doguin의 발표—Wasm의 콜드스타트 성능과 보안 모델이 FaaS 런타임에 이상적인 이유, 폴리글랏 상호운용을 위한 WebAssembly Component Model
 * [webassembly: the new kubernetes? -- wingolog](https://wingolog.org/archives/2021/12/13/webassembly-the-new-kubernetes)
 * [How Prime Video updates its app for more than 8,000 device types - Amazon Science](https://www.amazon.science/blog/how-prime-video-updates-its-app-for-more-than-8-000-device-types)
   * [아마존 프라임 비디오, WebAssembly 사용하여 8000개의 디바이스 타입 지원 | GeekNews](https://news.hada.io/topic?id=5858)
@@ -2858,7 +2858,7 @@ Web
 * [WebVM](https://webvm.io/)
   * [webvm: Virtual Machine for the Web](https://github.com/leaningtech/webvm)
   * [기술 잡담 - 리눅스 서버가 브라우저에 들어왔다 (webvm, cheerpx) - YouTube](https://www.youtube.com/watch?v=AHhRTb3zN2w)
-  * CheerpX(x86 가상화 엔진) 기반으로 브라우저에서 서버 없이 클라이언트 사이드로 실행되는 리눅스 가상 머신. JavaScript, 17.2k stars
+  * CheerpX(x86 가상화 엔진) 기반으로 브라우저에서 서버 없이 클라이언트 사이드로 실행되는 리눅스 가상 머신
 * [workerd: The JavaScript / Wasm runtime that powers Cloudflare Workers](https://github.com/cloudflare/workerd)
   * [Introducing workerd: the Open Source Workers runtime](https://blog.cloudflare.com/workerd-open-source-workers-runtime/)
     * Cloudflare에서 JavaScript/Wasm 런타임인 workerd의 첫 베타를 오픈소스로 공개

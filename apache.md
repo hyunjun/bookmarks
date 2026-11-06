@@ -890,7 +890,7 @@ Apache
 * [순서대로, 한 번만, 빠르게 | AB180 엔지니어링](https://engineering.ab180.co/stories/kafka-event-ordering-at-scale)
   * 대규모 트래픽에서 Kafka 이벤트의 순서 보장과 정확히 한 번 처리를 동시에 달성한 AB180 사례
 * [Kafka Interview Questions That Confuse Even Experienced Developers 😳 - Java Techie - YouTube](https://www.youtube.com/watch?v=HGLtFOZLtNI)
-  * 어렵지는 않지만 Kafka 내부 동작 때문에 경력자도 헷갈리는 면접 질문들을 간단한 예제로 풀어 주는 19분 영상. 백엔드·마이크로서비스 면접 준비용
+  * 어렵지는 않지만 Kafka 내부 동작 때문에 경력자도 헷갈리는 면접 질문들을 간단한 예제로 풀어 주는 영상. 백엔드·마이크로서비스 면접 준비용
 
 ## Kafka Library
 * [aiokafka - asyncio client for kafka http://aiokafka.readthedocs.io ](https://github.com/aio-libs/aiokafka)
@@ -952,7 +952,7 @@ Apache
   * [Kafka로 메시지와 이벤트 처리하기 - (2) Python으로 consumer, producer 만들기 | woolog - 개발자 울이](https://www.woolog.dev/data-engineering/kafka-python/2/)
 * [pykafka: Apache Kafka client for Python; high-level & low-level consumer/producer, with great performance](https://github.com/Parsely/pykafka)
 * [Sarama - a Go library for Apache Kafka](https://github.com/Shopify/sarama)
-  * 쇼피파이(Shopify)에서 개발한 네이티브 Go 언어 구현체. MIT 라이선스
+  * 쇼피파이(Shopify)에서 개발한 네이티브 Go 언어 구현체
 
 ## Kafka Installation & Management
 * [akhq: Kafka GUI for Apache Kafka to manage topics, topics data, consumers group, schema registry, connect and more...](https://github.com/tchiotludo/akhq)
@@ -978,7 +978,7 @@ Apache
 * [StreamLens: Native desktop app for Apache Kafka. Browse topics, tail live messages, decode JSON/Avro, mask sensitive data, and publish test payloads directly from your desktop—no browser required](https://github.com/getaxtools/StreamLens)
   * 웹 UI를 배포하지 않고 쓰는 Kafka 네이티브 데스크톱 클라이언트(StreamLens Studio, 상업용 포함 무료, GPL-3.0 오픈소스화 준비 중). v0.8.0 프리릴리스—현재 Windows 전용 단일 exe(약 75MB, 자체 서명 인증서라 SmartScreen 경고), Linux는 2026년 11월 첫째 주·macOS는 12월 첫째 주 예정. 다중 클러스터 연결(SASL/SSL/mTLS, 암호는 Windows DPAPI 암호화)·토픽 브라우징·전 파티션 라이브 테일·JSON/Avro/Protobuf(Schema Registry) 디코딩·필드 경로(`$.order.id`)와 타임스탬프 범위로 토픽 전체 검색·키/헤더/파티션 지정 발행·CSV/JSON/zip 내보내기
   * 무료 데스크톱 클라이언트에 드문 세 가지—패턴·JSONPath 마스킹 규칙을 메시지 목록·상세·모든 내보내기에 적용(화면 공유용 표시·내보내기 위생이며 보안 경계는 아님, 전체 메시지는 브로커에서 그대로 옴), Production 태그 클러스터에선 파괴적 작업에 리소스 이름 입력 확인+로컬 감사 로그 뷰어(Tools → Audit Log), 토픽별 포맷·시작 위치 기억. Kafbat Kafka UI·AKHQ·Offset Explorer와의 비교표를 README에 제공(Conduktor Desktop은 EOL이라 제외)
-  * 한계: 컨슈머 그룹 lag·오프셋 이동은 미안정, Avro/Protobuf 발행은 Confluent 프레이밍 없는 plain text라 등록 스키마 컨슈머가 못 읽음, Protobuf는 Schema Registry 필수, Kafka Connect·ksqlDB·ACL 관리 없음, Kerberos(GSSAPI)는 설정만 가능하고 미검증, 단일 사용자. Python, 3 stars
+  * 한계: 컨슈머 그룹 lag·오프셋 이동은 미안정, Avro/Protobuf 발행은 Confluent 프레이밍 없는 plain text라 등록 스키마 컨슈머가 못 읽음, Protobuf는 Schema Registry 필수, Kafka Connect·ksqlDB·ACL 관리 없음, Kerberos(GSSAPI)는 설정만 가능하고 미검증, 단일 사용자
 * [Strimzi - Apache Kafka on Kubernetes](https://strimzi.io/)
   * 쿠버네티스 환경에 카프카 클러스터를 쉽게 설치할 수 있도록 해 주는 쿠버네티스 오퍼레이터 제공
   * 매니지드 서비스를 제공하진 않지만 퍼블릭이든 프라이빗이든 상관없이, 클라우드 상에서 카프카를 실행시키는 것을 쉽게 해 줌
@@ -1314,7 +1314,7 @@ Apache
 # Maka
 * [maka: Apache Maka (Incubating) is a high-performance agent workspace that keeps a complete record of everything it did](https://github.com/apache/maka)
   * [Apache Maka - 에이전트가 한 일을 기록으로 남기는 로컬 우선 워크스페이스 | GeekNews](https://news.hada.io/topic?id=33336)
-  * 에이전트가 수행한 모든 작업의 완전한 기록을 남기는 고성능 로컬 우선 에이전트 워크스페이스(Incubating). TypeScript, 5.2k stars
+  * 에이전트가 수행한 모든 작업의 완전한 기록을 남기는 고성능 로컬 우선 에이전트 워크스페이스(Incubating)
 
 # Mesos
 * [Mesos](http://mesos.apache.org/)
@@ -1407,7 +1407,7 @@ Apache
   * [Vortex - 고성능 Columnar 파일 포맷 | GeekNews](https://news.hada.io/topic?id=17284)
   * [S3 to GPU at 60Gbps: Why Parquet is Bottlenecking Your Data | InfoQ - YouTube](https://www.youtube.com/watch?v=V3qrXWQ8YL8)
     * [Vortex: Columnar File Format for GPU Streaming | InfoQ](https://www.infoq.com/presentations/vortex-columnar-file-format-gpu-streaming/)
-    * SpiralDB Onur Satici의 50분 발표—Parquet·NVMe 파이프라인이 GPU 분석·학습을 병목시키는 이유와, Vortex가 논리/물리 타입 분리·캐스케이딩 인코딩(압축 상태에서 연산)으로 CPU 압축 해제 없이 S3→GPU를 최대 60Gbps로 스트리밍하는 원리
+    * SpiralDB Onur Satici의 발표—Parquet·NVMe 파이프라인이 GPU 분석·학습을 병목시키는 이유와, Vortex가 논리/물리 타입 분리·캐스케이딩 인코딩(압축 상태에서 연산)으로 CPU 압축 해제 없이 S3→GPU를 최대 60Gbps로 스트리밍하는 원리
 
 # Phoenix
 * [Phoenix](http://phoenix.apache.org/) High performance relational database layer over HBase for low latency applications
@@ -1665,7 +1665,7 @@ Apache
 # Texera
 * [Apache Texera — Human-AI Collaborative Data Science Using Visual Workflows](https://texera.apache.org/)
   * [texera: Human-AI Collaborative Data Science Using Visual Workflows](https://github.com/apache/texera)
-  * 비주얼 워크플로로 인간-AI 협업 데이터 과학을 수행하는 오픈소스 플랫폼(Incubating). 직관적 GUI로 분석 태스크를 구성·실행·개선하고 자연어 지시를 이해하는 AI 에이전트가 보조. 노트북 로컬 실행부터 클라우드 대규모 처리까지, "AI for Science" 등 활용. Scala, 298 stars
+  * 비주얼 워크플로로 인간-AI 협업 데이터 과학을 수행하는 오픈소스 플랫폼(Incubating). 직관적 GUI로 분석 태스크를 구성·실행·개선하고 자연어 지시를 이해하는 AI 에이전트가 보조. 노트북 로컬 실행부터 클라우드 대규모 처리까지, "AI for Science" 등 활용
 
 # Thrift
 * [Apache Thrift](https://github.com/likejazz/likejazz.github.io/wiki/Apache-Thrift)

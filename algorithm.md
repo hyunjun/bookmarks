@@ -528,7 +528,7 @@ Algorithm
 * [Dijkstra’s Algorithm for Coding Interviews | Single Source Shortest Path (Greedy Algorithm) - YouTube](https://www.youtube.com/watch?v=pLElbKBc4RU)
 * [Contraction Hierarchies path finding algorithm, illustrated using three.js](https://www.mjt.me.uk/posts/contraction-hierarchies/)
 * [네비게이션이 미친속도로 길을 찾아내는 비밀 | 조코딩 | Facebook](https://www.facebook.com/watch?v=3464313260435560)
-  * 조코딩의 1분 영상. 내비게이션이 거대한 도로망에서 거의 즉시 경로를 찾아내는 원리를 짧게 설명
+  * 조코딩의 영상. 내비게이션이 거대한 도로망에서 거의 즉시 경로를 찾아내는 원리를 짧게 설명
 * [The Traveling Tesla Salesman](http://mortada.net/drafts/the-traveling-tesla-salesman.html)
 * [Evolution of a salesman: A complete genetic algorithm tutorial for Python](https://towardsdatascience.com/evolution-of-a-salesman-a-complete-genetic-algorithm-tutorial-for-python-6fe5d2b3ca35)
 * [Computing the optimal road trip across the U.S.](http://www.randalolson.com/2015/03/08/computing-the-optimal-road-trip-across-the-u-s/)

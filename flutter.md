@@ -341,7 +341,7 @@ Flutter
   * [Flutter를 위한 Code Push Shorebird 1.0 릴리즈 — Teveloper 개발 & 테니스 이야기](https://teveloper.tistory.com/75)
 * [TeVe: A cross platform free IPTv player developed for Android/IOS](https://github.com/7-USH/TeVe)
   * Flutter 크로스플랫폼 무료 IPTV 플레이어. iptv-org 공개 API(channels.json)의 약 10,000개 무료 채널을 국가별로 탐색·시청하고 즐겨찾기에 추가, 로그인·회원가입 지원. 표준 Dart 라이브러리만으로 네트워크 요청, Android 디자인을 Flutter로 재현하는 UI 실험이 목표
-  * 백엔드는 FastAPI + SQLite 별도 레포(Teve-Backend). Dart, GPL-3.0
+  * 백엔드는 FastAPI + SQLite 별도 레포(Teve-Backend)
 * [ZeroTo7Seg: ⚗️ (Team 0to100) Flutter 7-segment OCR using Tesseract LSTM](https://github.com/SemteulGaram/ZeroTo7Seg)
 
 # TDD, Test

@@ -861,7 +861,7 @@ Deep Learning
 * [KAN: Kolmogorov-Arnold Networks | Ziming Liu | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/624660)
 * [weathernext | Google DeepMind](https://github.com/google-deepmind/weathernext)
   * [DeepMind WeatherNext, 사이클론 예측 정확도를 하루 앞당김 | GeekNews](https://news.hada.io/topic?id=32274)
-  * WeatherNext Cyclones가 경로·강도·바람 구조를 함께 예측—기존 2일 예측과 동일한 정확도를 3일 예측에서 달성해 24시간 이상 추가 대비 시간 확보. 전 지구 기상 역학과 약 5,000개 폭풍 관측 자료를 함께 학습, 전 지구 경로 모델 + 고해상도 국지 강도 모델 결합. Python, Apache-2.0
+  * WeatherNext Cyclones가 경로·강도·바람 구조를 함께 예측—기존 2일 예측과 동일한 정확도를 3일 예측에서 달성해 24시간 이상 추가 대비 시간 확보. 전 지구 기상 역학과 약 5,000개 폭풍 관측 자료를 함께 학습, 전 지구 경로 모델 + 고해상도 국지 강도 모델 결합
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
@@ -1551,7 +1551,7 @@ Deep Learning
 * [Fabrik – Collaboratively build, visualize, and design neural nets in the browser http://fabrik.cloudcv.org](https://github.com/Cloud-CV/Fabrik)
 * [gemmlowp: a small self-contained low-precision GEMM library](https://github.com/google/gemmlowp)
 * [GFPGAN: Practical Algorithms for Real-world Face Restoration](https://github.com/TencentARC/GFPGAN)
-  * Tencent ARC의 실사 얼굴 복원 모델. 저화질·손상된 얼굴 사진을 고품질로 복원, 사전학습된 GAN(StyleGAN2) prior 활용. Python, 37k+ stars
+  * Tencent ARC의 실사 얼굴 복원 모델. 저화질·손상된 얼굴 사진을 고품질로 복원, 사전학습된 GAN(StyleGAN2) prior 활용
 * [hiplot - HiPlot makes understanding high dimensional data easy](https://github.com/facebookresearch/hiplot)
   * [페이스북 AI, 인공지능 개발자·연구자 위한... AI 대화식 시각화 도구 'HiPlot' 오픈 소스로 공개](http://www.aitimes.kr/news/articleView.html?idxno=15348)
   * [HiPlot: High-dimensional interactive plots made easy](https://ai.facebook.com/blog/hiplot-high-dimensional-interactive-plots-made-easy)
@@ -2386,7 +2386,7 @@ Deep Learning
 * [Attn: Illustrated Attention(KR)](https://databreak.netlify.com/2019-05-31-illustrated_Attention/)
 * [어텐션 메커니즘과 transformer(self-attention) | by platfarm tech team | platfarm | Medium](https://medium.com/platfarm/%EC%96%B4%ED%85%90%EC%85%98-%EB%A9%94%EC%BB%A4%EB%8B%88%EC%A6%98%EA%B3%BC-transfomer-self-attention-842498fd3225)
 * [Seung Joon Choi - 차근차근 트랜스포머 MoE | Facebook](https://www.facebook.com/seungjoon.choi/posts/pfbid045SJcLRhMWnDWzFBAoZnTBPuUVJWuxviWCctMy7NLTK2xzJGoGuBcmCGwDtCwyLml)
-  * 2026-01-08. 2024년 '차근차근 트랜스포머' 글을 Opus 4.5로 오류 교정·MoE 추가·윤문한 사고 외재화 메모. FFN을 MoE로 바꾸면 게이트가 고른 top-k 전문가 응답의 가중합을 취하는데, 이것이 어텐션에서 QK 스코어로 캐시된 V들을 선형조합해 V'를 만드는 것과 닮았다는 관찰—멀티헤드 V'를 concat·정규화해 잔차 스트림에 델타를 더하며 고차원 공간에서 방향을 바꿔 전진하는 궤적이 토큰·KV로 남은 심상(=컨텍스트의 정체)
+  * 2024년 '차근차근 트랜스포머' 글을 Opus 4.5로 오류 교정·MoE 추가·윤문한 사고 외재화 메모. FFN을 MoE로 바꾸면 게이트가 고른 top-k 전문가 응답의 가중합을 취하는데, 이것이 어텐션에서 QK 스코어로 캐시된 V들을 선형조합해 V'를 만드는 것과 닮았다는 관찰—멀티헤드 V'를 concat·정규화해 잔차 스트림에 델타를 더하며 고차원 공간에서 방향을 바꿔 전진하는 궤적이 토큰·KV로 남은 심상(=컨텍스트의 정체)
   * 카파시의 "어텐션은 토큰 간 의사소통·집계(reduce), MLP는 토큰별 개별 사고(map)—트랜스포머는 맵리듀스의 반복"과 "MLP 블록은 데이터 독립적 {key: value} 테이블에 대한 크로스 어텐션 소프트 조회(쿼리 프로젝션 없음, softmax→GeLU, 최종 프로젝션 없음)이므로 단일 슈퍼블록으로 통합 가능하다는 미증명 메모"를 다시 연상. 직교하지 않고 기능이 중첩된 느슨한 '부드러운' 함수 블록들이 "표현→조건부 경로 활성화→다음 표현"으로 암묵적으로 합성된다는 느낌(From f(x) and g(x) to f(g(x)) 논문 연결)
 * [A Bird’s Eye View of Research on Attention](https://machinelearningmastery.com/a-birds-eye-view-of-research-on-attention/)
 * [The Attention Mechanism from Scratch](https://machinelearningmastery.com/the-attention-mechanism-from-scratch/)
@@ -2502,11 +2502,11 @@ CVPR2016)
 * [Dust: Pretraining Transformers Without Backpropagation | Q Labs](https://qlabs.sh/research/dust)
   * [dust: Pretraining Transformers Without Backpropagation](https://github.com/qlabs-eng/dust)
   * Q Labs(Samip Dahal·Bishwas Mandal·Serdar Gülbahar·Akshay Vegesna, 2026-10). 트랜스포머 LM 사전학습에서 역전파와 경쟁하는 첫 zeroth-order 방법. 가중치 대신 **활성값을 토큰마다 독립적으로 교란**(node perturbation)해 각 토큰을 '가상 개체군' 멤버로 삼아 한 번의 forward로 전체를 병렬 평가하고, 손실 감소량으로 보상을 매겨 보상 가중 평균으로 그래디언트를 추정. 가중치 공간 ES인 EGGROLL(2511.16652) 대비 1M 토큰 이상에서 10³~10⁴배 효율
-  * FineWeb·8층 512폭 GPT에서 개체군 64~16k, 100k~20M 토큰 스윕: 개체군이 커질수록 역전파에 근접하고 100k·1M 토큰에서는 역전파 아래로 내려감(SGD·Adam 모두, 20M에서 극한 추정 4.43). 통념과 반대로 큰 모델이 개체군 효율이 더 좋아 243M 모델이 120배 작은 모델을 대부분의 개체군에서 앞섬. 역전파 그래디언트와의 코사인 유사도가 개체군과 함께 cos(K)=c_max/√(1+c/K) 법칙으로 상승하고 1B 토큰까지 정렬 유지. 미분 가능성이 필요 없어 아키텍처 탐색 공간이 열리지만 실용화엔 수 자릿수의 연산 효율 개선 필요(bitter lesson 관점). 최소 구현 코드: Linux·bf16 NVIDIA GPU, 개체군 256(1 GPU)~16384(8 GPU), 역전파 베이스라인 포함(Python, MIT)
+  * FineWeb·8층 512폭 GPT에서 개체군 64~16k, 100k~20M 토큰 스윕: 개체군이 커질수록 역전파에 근접하고 100k·1M 토큰에서는 역전파 아래로 내려감(SGD·Adam 모두, 20M에서 극한 추정 4.43). 통념과 반대로 큰 모델이 개체군 효율이 더 좋아 243M 모델이 120배 작은 모델을 대부분의 개체군에서 앞섬. 역전파 그래디언트와의 코사인 유사도가 개체군과 함께 cos(K)=c_max/√(1+c/K) 법칙으로 상승하고 1B 토큰까지 정렬 유지. 미분 가능성이 필요 없어 아키텍처 탐색 공간이 열리지만 실용화엔 수 자릿수의 연산 효율 개선 필요(bitter lesson 관점). 최소 구현 코드: Linux·bf16 NVIDIA GPU, 개체군 256(1 GPU)~16384(8 GPU), 역전파 베이스라인 포함
   * [noise: Speedrun for pretraining without backpropagation | Q Labs](https://github.com/qlabs-eng/noise)
     * [초당 수억원 절감? AI 업계의 절대법칙을 부순 '역전파 없는 사전학습' | Suk Hyun K.](https://www.linkedin.com/posts/suk-hyun-k-31ba9b369_smvswktzasliqviukrswd-0tretxaswhupi-ai-share-7519559146237558784-uyn3)
-      * 0차 최적화(Zeroth-Order) 기반 트랜스포머 사전학습이 열흘 만에 1.76시간→1.6초(약 4,000배, 검증 손실 4.2 도달 기준, 단일 8xH100). 프로브 컴파일(21분)→완전 아다마르 사이클(5분)→항등 경로 크레딧(83초)→커널 융합(47초)→샤딩(6.4초)→행 단위 업데이트(2.5초)→커널 런칭 최소화·16행 업데이트(1.6초)로 누적된 커뮤니티 기여. 일부 트릭은 규모 확장이 어려워 데이터셋을 10M→30M 토큰으로 늘려 체급 검증 중
-    * 역방향 패스를 전혀 돌리지 않는 학습 알고리즘의 사전학습 스피드런(Python, MIT, 420 stars). 역전파 대체는 불가피하고, 컴퓨트가 커질수록 bitter lesson에 따라 탐색 기반의 범용 brute-force 학습이 이긴다는 주장. 자체 알고리즘 Dust는 SGD 하의 역전파와 대등하고 SOTA 가중치 공간 ES인 EGGROLL보다 1,000~10,000배 효율적이나 Adam 하의 역전파에는 아직 뒤짐
+      * 0차 최적화(Zeroth-Order) 기반 트랜스포머 사전학습이 열흘 만에 1.76시간→1.6초(약 4,000배, 검증 손실 4.2 도달 기준, 단일 8xH100). 프로브 컴파일→완전 아다마르 사이클→항등 경로 크레딧(83초)→커널 융합(47초)→샤딩(6.4초)→행 단위 업데이트(2.5초)→커널 런칭 최소화·16행 업데이트(1.6초)로 누적된 커뮤니티 기여. 일부 트릭은 규모 확장이 어려워 데이터셋을 10M→30M 토큰으로 늘려 체급 검증 중
+    * 역방향 패스를 전혀 돌리지 않는 학습 알고리즘의 사전학습 스피드런. 역전파 대체는 불가피하고, 컴퓨트가 커질수록 bitter lesson에 따라 탐색 기반의 범용 brute-force 학습이 이긴다는 주장. 자체 알고리즘 Dust는 SGD 하의 역전파와 대등하고 SOTA 가중치 공간 ES인 EGGROLL보다 1,000~10,000배 효율적이나 Adam 하의 역전파에는 아직 뒤짐
 * [2604.21691 A Scientific Theory of Deep Learning Will Come](https://arxiv.org/abs/2604.21691)
   * [딥러닝에 대한 과학적 이론이 나올 것이다 | GeekNews](https://news.hada.io/topic?id=28883)
   * 신경망 학습의 "learning mechanics" 이론 프레임워크 제안. 5가지 연구 방향(해석 가능 이상화, 다루기 쉬운 극한, 수학 법칙, 하이퍼파라미터 이론, 보편적 행동)과 7가지 필요 조건
@@ -2788,11 +2788,11 @@ CVPR2016)
   * NYU·Modal·UCLA·UIUC·Columbia(Pavel Izmailov 외, v2 2026-08-09). 정답 검증이 100% 가능한 체스를 통제된 테스트베드로 사람 기보 사전학습→합성 트리 탐색 추론 SFT→검증 가능한 퍼즐 RL 파이프라인을 5M~1B 10개 스케일·54B 토큰·15.6만 퍼즐·36개 연산 조합으로 스윕. 사전학습 검증 손실이 RL 최종 성능(Pass@1) 상한을 거의 결정(ρ=-0.99, R²=0.98)하고 사전학습 토큰 수가 RL 연산 10배당 향상 기울기를 결정(r=+0.92)—"RL은 0에서 1을 만들지 못한다". RL이 SFT 정책을 날카롭게 하는지 새 행동을 발견하는지(정답 증폭 vs 꼬리 발견) 메커니즘 분석, 고정 연산 예산의 사전학습/RL 최적 배분
 * [2609.33848 QwenGyre: An Elastic Reinforcement Learning Framework for Training xLong-Horizon Agents | Qwen](https://arxiv.org/html/2609.33848v1)
   * [QwenGyre: 초장기 LLM 에이전트 학습을 위한 탄력적 강화학습 프레임워크 | digitalbourgeois](https://digitalbourgeois.tistory.com/3814)
-  * 2026-09-27. 한 번 실행이 수 시간·수백 번의 모델-환경 상호작용·롤아웃당 약 100만 토큰에 이르는 초장기(xLong-horizon) 에이전트 작업(자연어 명세로 저장소 생성·시스템 재구현·코드베이스 전체 리팩터링)에 온라인 RL을 적용할 때의 두 난관—롤아웃 편차·지연으로 인한 대규모 GPU 유휴(Colocate는 느린 롤아웃을 기다리고, 작업 공간 상태를 체크포인트하기 어려워 중단도 어려움)와 히스토리 압축·하위 작업 위임·재시도로 비선형 분기된 궤적의 중복—을 해결하는 엔드투엔드 프레임워크
+  * 한 번 실행이 수 시간·수백 번의 모델-환경 상호작용·롤아웃당 약 100만 토큰에 이르는 초장기(xLong-horizon) 에이전트 작업(자연어 명세로 저장소 생성·시스템 재구현·코드베이스 전체 리팩터링)에 온라인 RL을 적용할 때의 두 난관—롤아웃 편차·지연으로 인한 대규모 GPU 유휴(Colocate는 느린 롤아웃을 기다리고, 작업 공간 상태를 체크포인트하기 어려워 중단도 어려움)와 히스토리 압축·하위 작업 위임·재시도로 비선형 분기된 궤적의 중복—을 해결하는 엔드투엔드 프레임워크
   * 실행 중인 작업을 끊지 않고 롤아웃과 학습 사이에서 GPU를 탄력적으로 재배분하고, 궤적 처리기가 분기 히스토리를 재구성·부분 진행을 채점·중복 경로를 제거해 학습 비용을 제한. 플래그십 Qwen 3.8 2.4T에 롤아웃당 700K 토큰으로 적용해 NL2RepoBench 52.5%→58.5%(48스텝, +6.0%p), Colocate·Async 대비 최대 1.85배·1.78배 속도 향상(저자 자체 보고)
 * [2610.08430 NeMo-DCR: Bit-Exact Delta-Compressed Refit for Scalable Agentic RL at Trillion-Parameter Scale](https://arxiv.org/html/2610.08430v1)
   * [1T 크기의 모델을 강화학습시킬 때 가장 큰 병목은 학습이 아니라 추론 서버로 옮기는 복사 시간 | 염기웅 | LinkedIn](https://www.linkedin.com/posts/kiwoong-yeom_1t-%ED%81%AC%EA%B8%B0%EC%9D%98-%EB%AA%A8%EB%8D%B8%EC%9D%84-%EA%B0%95%ED%99%94%ED%95%99%EC%8A%B5rl%EC%8B%9C%ED%82%AC-%EB%95%8C-%EA%B0%80%EC%9E%A5-%ED%81%B0-%EB%B3%91%EB%AA%A9%EC%9D%80-%ED%95%99%EC%8A%B5%EC%9D%B4-%EC%95%84%EB%8B%88%EB%9D%BC-share-7516756637500641281-b1-1/)
-  * NVIDIA·Aalto(2026-10-06). 에이전틱 RL은 시간의 70% 이상을 롤아웃에 써 학습·추론 클러스터를 분리하므로 매 스텝 갱신 가중치를 추론 서버로 넘기는 refit이 필요한데, 1T 체크포인트 전체를 AWS 리전 간에 옮기면 87.5분. BF16 학습에서 한 스텝에 실제 저장 비트가 바뀌는 가중치는 0.6~1.2%뿐이라, 표현력을 깎는 LoRA 없이 풀 파라미터 RL을 하면서 바뀐 위치를 HF 표준 규격으로 bit-exact하게 압축해 1%만 전송—동기화 2.5분(35배 단축)
+  * NVIDIA·Aalto. 에이전틱 RL은 시간의 70% 이상을 롤아웃에 써 학습·추론 클러스터를 분리하므로 매 스텝 갱신 가중치를 추론 서버로 넘기는 refit이 필요한데, 1T 체크포인트 전체를 AWS 리전 간에 옮기면 87.5분. BF16 학습에서 한 스텝에 실제 저장 비트가 바뀌는 가중치는 0.6~1.2%뿐이라, 표현력을 깎는 LoRA 없이 풀 파라미터 RL을 하면서 바뀐 위치를 HF 표준 규격으로 bit-exact하게 압축해 1%만 전송—동기화 2.5분(35배 단축)
 * [async_deep_reinforce - Asynchronous deep reinforcement learning](https://github.com/miyosuda/async_deep_reinforce)
 * [async-rl-tensorflow - Asynchronous Methods for Deep Reinforcement Learning](https://github.com/devsisters/async-rl-tensorflow)
 * [Bomberland | Coder One](https://www.gocoder.one/bomberland)
@@ -2816,7 +2816,7 @@ CVPR2016)
   * [Open-sourcing Psychlab](https://deepmind.com/blog/open-sourcing-psychlab/)
   * [Psychlab 'visual search' task in DeepMind Lab](https://www.youtube.com/watch?v=54AS3a6niPo)
 * [Repo2RLEnv: Turn any repository into verifiable RL environments for coding agents | huggingface](https://github.com/huggingface/Repo2RLEnv)
-  * 코딩 에이전트는 실제 작업을 시도하고 사람이 아닌 프로그램이 성공 여부를 판정할 때 좋아지는데, RL에 필요한 수천 개 과제(작동하는 환경·답을 흘리지 않는 지시·믿을 수 있는 검증기)를 손으로 만들면 하나에 몇 시간—병합된 PR·커밋 이력·보안 권고·라이브러리 함수·터미널 녹화·문제 계열에서 표준 Harbor 과제를 생성해 어떤 에이전트로든 학습·평가하고 HF Hub에 공유. 생성기 23종·공개 데이터셋 21개·Hub 과제 1,930개. Python, Apache-2.0
+  * 코딩 에이전트는 실제 작업을 시도하고 사람이 아닌 프로그램이 성공 여부를 판정할 때 좋아지는데, RL에 필요한 수천 개 과제(작동하는 환경·답을 흘리지 않는 지시·믿을 수 있는 검증기)를 손으로 만들면 하나에 몇 시간—병합된 PR·커밋 이력·보안 권고·라이브러리 함수·터미널 녹화·문제 계열에서 표준 Harbor 과제를 생성해 어떤 에이전트로든 학습·평가하고 HF Hub에 공유. 생성기 23종·공개 데이터셋 21개·Hub 과제 1,930개
 * [RL_BASIC](https://github.com/kkugosu/RL_BASIC)
 * [rliable: Open-source library for reliable evaluation on reinforcement learning and machine learning benchmarks. See NeurIPS 2021 oral for details](https://github.com/google-research/rliable)
 * [rllab - a framework for developing and evaluating reinforcement learning algorithms](https://github.com/rll/rllab)
@@ -2830,7 +2830,7 @@ CVPR2016)
 * [TetrisXQ - Difficult and annoying Tetris implemented by Reinforcement Lrarning](https://github.com/junghyun397/TetrisXQ)
 * [Unity-ML-Agents: Unity 강화학습 알고리즘 및 게임 환경을 제공합니다](https://github.com/jk96491/Unity-ML-Agents)
 * [Video-Pre-Training: Video PreTraining (VPT): Learning to Act by Watching Unlabeled Online Videos | openai](https://github.com/openai/Video-Pre-Training/)
-  * 레이블 없는 온라인 영상(Minecraft)을 보고 행동을 학습하는 OpenAI VPT 공식 코드. Python, MIT, 1.7k stars
+  * 레이블 없는 온라인 영상(Minecraft)을 보고 행동을 학습하는 OpenAI VPT 공식 코드
 
 ## RL Deep Q Learning DQL
 * [Deep Q-Learning (Space Invaders)](http://maciejjaskowski.github.io/2016/03/09/space-invaders.html)
@@ -2937,7 +2937,7 @@ CVPR2016)
     * [AlphaFold3 의 오픈소스 구현체 | GeekNews](https://news.hada.io/topic?id=16621)
   * [minAlphaFold2: A minimal PyTorch re-implementation of AlphaFold2's model & training | ChrisHayduk](https://github.com/ChrisHayduk/minAlphaFold2)
     * [Md Ismail Sojal - Rebuilding AlphaFold2 from scratch in pure PyTorch | Facebook](https://www.facebook.com/0xSojalSec/posts/pfbid02sW73kR5f1kGBggqLEfsgGhANVVtEMZFn4t3A7U4gYzpoigbLi5mpPUqGcbFP4AXpl)
-    * Karpathy의 minGPT에서 영감을 받은 교육용 AlphaFold2 재구현—모델 구조 약 3,000줄(손실·데이터 파이프라인·학습 루프 포함 약 9,000줄)의 순수 PyTorch, 모든 모듈이 62쪽 보충 자료의 번호 매긴 알고리즘과 1:1 대응(input embedding·Evoformer·Structure Module·all-atom 3D 좌표, FAPE·torsion·pLDDT·distogram·structural violation 손실, recycling·템플릿·extra MSA·앙상블). SE(3)-등변 Invariant Point Attention이 약 150줄. AI×생물학 인재 병목을 줄이려는 목적. MIT
+    * Karpathy의 minGPT에서 영감을 받은 교육용 AlphaFold2 재구현—모델 구조 약 3,000줄(손실·데이터 파이프라인·학습 루프 포함 약 9,000줄)의 순수 PyTorch, 모든 모듈이 62쪽 보충 자료의 번호 매긴 알고리즘과 1:1 대응(input embedding·Evoformer·Structure Module·all-atom 3D 좌표, FAPE·torsion·pLDDT·distogram·structural violation 손실, recycling·템플릿·extra MSA·앙상블). SE(3)-등변 Invariant Point Attention이 약 150줄. AI×생물학 인재 병목을 줄이려는 목적
 * [AlphaStar: Mastering the Real-Time Strategy Game StarCraft II](https://deepmind.com/blog/alphastar-mastering-real-time-strategy-game-starcraft-ii/)
   * [AI가 스타크래프트2를 정복한 원리(알파스타)](https://www.youtube.com/watch?v=GciYOMIJ2Eo)
   * [AlphaStar: Mastering the Game of StarCraft II](https://slideslive.com/38916905/alphastar-mastering-the-game-of-starcraft-ii)
@@ -3022,7 +3022,7 @@ CVPR2016)
 * [ai-pose-gallery-zh: 中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊 | anhao](https://github.com/anhao/ai-pose-gallery-zh)
   * [AI 姿势参考库 · 中文版 — 온라인 데모](https://ai-pose-gallery.anhao.app/)
   * [AI Pose Gallery — 원본 사이트(일본어, ギア @giaaibusi)](https://ai-pose-gallery.pages.dev/)
-  * AI 그림·3D·사진 참고용 인체 포즈 레퍼런스 갤러리의 중국어판 미러(HTML, 3.8k stars). 원본 사이트는 메타데이터가 전부 일본어이고 일괄 다운로드가 없어서 ①1,439건의 썸네일(JPG 300×400)과 원본(PNG 900×1200) 2,878개 파일(659.5MB)을 전부 저장소에 내려받고 ②4개 체계·26개 분류·288개 포즈명·5개 시점을 빠짐없이 중국어로 번역하고 ③의존성 없는 반응형 정적 갤러리를 만들어 분류·시점 필터, 포즈별 그룹/장별 보기, 썸네일 호버로 각도 전환, 라이트박스에서 원본 PNG 다운로드·ID 복사, 키보드(←→ 각도·↑↓ 포즈)·모바일 스와이프 지원. 체계별 규모: 전신 단인 표준계 365·섹시계 399 등. 포크 후 다른 도메인을 쓰면 canonical·og·sitemap 주소를 바꿔야 함
+  * AI 그림·3D·사진 참고용 인체 포즈 레퍼런스 갤러리의 중국어판 미러. 원본 사이트는 메타데이터가 전부 일본어이고 일괄 다운로드가 없어서 ①1,439건의 썸네일(JPG 300×400)과 원본(PNG 900×1200) 2,878개 파일(659.5MB)을 전부 저장소에 내려받고 ②4개 체계·26개 분류·288개 포즈명·5개 시점을 빠짐없이 중국어로 번역하고 ③의존성 없는 반응형 정적 갤러리를 만들어 분류·시점 필터, 포즈별 그룹/장별 보기, 썸네일 호버로 각도 전환, 라이트박스에서 원본 PNG 다운로드·ID 복사, 키보드(←→ 각도·↑↓ 포즈)·모바일 스와이프 지원. 체계별 규모: 전신 단인 표준계 365·섹시계 399 등. 포크 후 다른 도메인을 쓰면 canonical·og·sitemap 주소를 바꿔야 함
 * [AUTOMATIC1111](https://github.com/AUTOMATIC1111)
 * [awesome-diffusion: A curated list of awesome Diffusion notebooks, tools, software, tutorials and resources](https://github.com/cobanov/awesome-diffusion)
 * [awesome-nano-banana: Awesome curated collection of images and prompts generated by gemini-2.5-flash-image (aka Nano Banana) state-of-the-art image generation and editing model. Explore AI generated visuals created with Gemini, showcasing Google’s advanced image generation capabilities](https://github.com/JimmyLv/awesome-nano-banana/)
@@ -3060,7 +3060,7 @@ CVPR2016)
   * [ComfyUI 이제 원클릭으로 설치가능 (ComfyUI Desktop) - YouTube](https://www.youtube.com/watch?v=wdvM3urQzRA)
   * [ComfyUI-Idol: Native ComfyUI support for Idol, Speridlabs' single image to 3D gaussian splat model | Nynxz](https://github.com/Nynxz/ComfyUI-Idol)
     * [speridlabs/idol · Hugging Face](https://huggingface.co/speridlabs/idol)
-    * 물체 사진 한 장을 넣으면 보이지 않는 면까지 채운 3DGS 스플랫을 최신 GPU에서 몇 초 안에 뽑는 Speridlabs의 Idol을 ComfyUI에서 그대로 돌리는 커스텀 노드. Idol은 TripoSplat 아키텍처를 재학습한 모델이라 ComfyUI 0.22+의 기본 TripoSplat 노드(Load Diffusion Model·Load VAE·KSampler·Render Splat·Save Splat·3D 뷰어)로 실행되며 오프로딩·dtype·어텐션 백엔드·`torch.compile`이 그대로 적용—별도 의존성·모델 코드 없음. 추가 노드 3개: Idol Preprocess Image(synthetic/real 크롭 모드·배경 제거), Idol Camera(입력 뷰 재렌더·턴테이블 시작점), Idol Prune Splat(뷰어를 흐리게 만드는 투명 가우시안 제거). 가중치는 변환 스크립트로 만든 fp16 디노이저·디코더(nynxz/Idol)와 TripoSplat 공용 DINOv3 ViT-H·FLUX.2 VAE·BiRefNet. Python, Apache-2.0
+    * 물체 사진 한 장을 넣으면 보이지 않는 면까지 채운 3DGS 스플랫을 최신 GPU에서 몇 초 안에 뽑는 Speridlabs의 Idol을 ComfyUI에서 그대로 돌리는 커스텀 노드. Idol은 TripoSplat 아키텍처를 재학습한 모델이라 ComfyUI 0.22+의 기본 TripoSplat 노드(Load Diffusion Model·Load VAE·KSampler·Render Splat·Save Splat·3D 뷰어)로 실행되며 오프로딩·dtype·어텐션 백엔드·`torch.compile`이 그대로 적용—별도 의존성·모델 코드 없음. 추가 노드 3개: Idol Preprocess Image(synthetic/real 크롭 모드·배경 제거), Idol Camera(입력 뷰 재렌더·턴테이블 시작점), Idol Prune Splat(뷰어를 흐리게 만드는 투명 가우시안 제거). 가중치는 변환 스크립트로 만든 fp16 디노이저·디코더(nynxz/Idol)와 TripoSplat 공용 DINOv3 ViT-H·FLUX.2 VAE·BiRefNet
   * [ComfyUI-MiniMaxH3-Prompt-Writer: Local multimodal MiniMax H3 prompt writer for ComfyUI, powered by Gemma 4 GGUF models](https://github.com/duckyshell/ComfyUI-MiniMaxH3-Prompt-Writer)
     * [ComfyUI에서 로컬 AI로 MiniMax H3 프롬프트를 만드는 H3 Prompt Writer | digitalbourgeois](https://digitalbourgeois.tistory.com/3505)
     * 로컬 Gemma 4 GGUF 모델로 크리에이티브 브리프+레퍼런스(이미지 9장·영상 3개·오디오 3개)에서 MiniMax H3용 프롬프트를 생성하는 ComfyUI 확장. 생성 프롬프트 직접 편집 가능, VRAM별 모델 선택. MiniMax H3 실행 기능은 없음(프롬프트 생성 전용)
@@ -3088,9 +3088,9 @@ CVPR2016)
   * [speridlabs/iris-3b · Hugging Face](https://huggingface.co/speridlabs/iris-3b)
   * [Iris-3B - a Hugging Face Space by speridlabs](https://huggingface.co/spaces/speridlabs/iris-3b)
   * [2610.09450 Iris-3B: Going Beyond the Latent with Pixel-Space Diffusion Training, Conversion and Fine-Tuning](https://arxiv.org/abs/2610.09450)
-  * Speridlabs(Hanqiu Li Cai·Chema Garabito)의 완전 공개 3B 픽셀 공간 text-to-image 모델(Apache-2.0, 논문 2026-10-07). VAE·잠재 공간 없이 모델이 모든 픽셀을 직접 생성해 손실 많고 텍스처 편향된 latent에 잃는 것이 없다는 발상으로, DINOv2 같은 비전 파운데이션 모델을 생성 모델이 대체할 수 있는지 탐구. 구조: 16×16 패치, 트렁크 24블록(폭 2560: 듀얼스트림 8+싱글스트림 16, GQA 20/5, gated attention, 샌드위치 RMSNorm, shared-bias adaLN)+PixelDiT식 픽셀 트랜스포머(PiT) 헤드 4블록, 텍스트 인코더는 고정 Qwen3-VL-4B-Instruct(12층을 layer-attention 어댑터로 집계), rectified flow v-prediction, 2D RoPE로 1메가픽셀까지 임의 해상도·비율. 256→512→1024 3단계+SFT 총 665K 스텝, hybrid Muon(+AdamW), 1단계 REPA(DINOv2-B/14), bf16·FSDP2, 학습 코드 공개
+  * Speridlabs(Hanqiu Li Cai·Chema Garabito)의 완전 공개 3B 픽셀 공간 text-to-image 모델(논문 2026-10-07). VAE·잠재 공간 없이 모델이 모든 픽셀을 직접 생성해 손실 많고 텍스처 편향된 latent에 잃는 것이 없다는 발상으로, DINOv2 같은 비전 파운데이션 모델을 생성 모델이 대체할 수 있는지 탐구. 구조: 16×16 패치, 트렁크 24블록(폭 2560: 듀얼스트림 8+싱글스트림 16, GQA 20/5, gated attention, 샌드위치 RMSNorm, shared-bias adaLN)+PixelDiT식 픽셀 트랜스포머(PiT) 헤드 4블록, 텍스트 인코더는 고정 Qwen3-VL-4B-Instruct(12층을 layer-attention 어댑터로 집계), rectified flow v-prediction, 2D RoPE로 1메가픽셀까지 임의 해상도·비율. 256→512→1024 3단계+SFT 총 665K 스텝, hybrid Muon(+AdamW), 1단계 REPA(DINOv2-B/14), bf16·FSDP2, 학습 코드 공개
   * 벤치마크(1024², 프롬프트 재작성·best-of-N 없음): GenEval 0.798·DPG 86.52·LongText 0.857·OneIG 0.540—FLUX.1-dev 12B(0.66/83.8/0.607/0.434)·SD3.5 Large를 넘고 OneIG에서 Qwen-Image 20B(0.539)와 동급이면서 학습 연산은 훨씬 적음. 같은 백본을 구조 변경 없이 파인튜닝해 단안 깊이(상대 log depth 직접 회귀 10K 스텝, NYUv2·KITTI·ETH3D·ScanNet·DIODE 평균 AbsRel 0.071·δ1 0.946, Marigold V2 프로토콜 zero-shot)와 4× 복원·업스케일(HYPIR 레시피 one-step adversarial, DIV2K LPIPS 0.292·PSNR 20.68)—가중치 각 ~12GB를 depth/·upscaler/ 폴더로 함께 배포, 빈 프롬프트로 단일 forward
-  * 논문의 결론은 부정적 결과—FLUX.2 Klein base 4B를 픽셀 공간으로 변환한 모델까지 포함해 "픽셀 공간 생성 사전지식이 latent보다 세밀한 다운스트림에 유리하다"는 가설을 검증했지만 유의미한 개선 없음(깊이는 Iris-3B가 latent FLUX.2 Klein과 동급, 변환 모델은 뒤처짐; DIV2K 4×는 두 픽셀 모델 모두 latent 파인튜닝을 못 이김). 레시피·실패 모드·남은 혼란 변수를 문서화하되, PixelDiT의 PiT 헤드로 픽셀 공간 사전학습이 3B·latent급 품질까지 스케일한다는 점은 입증. `hf download speridlabs/iris-3b`(T2I 가중치 ~12GB; `--exclude "depth/*" "upscaler/*"` 없이 전부 받으면 ~36GB), 기본 1024²·DPM-Solver++ 100스텝·CFG 3, Gradio 데모(ZeroGPU, 세 모델 ~45GB, `IRIS_OFFLOAD=1`이면 ~20GB 피크). Python, 90 stars
+  * 논문의 결론은 부정적 결과—FLUX.2 Klein base 4B를 픽셀 공간으로 변환한 모델까지 포함해 "픽셀 공간 생성 사전지식이 latent보다 세밀한 다운스트림에 유리하다"는 가설을 검증했지만 유의미한 개선 없음(깊이는 Iris-3B가 latent FLUX.2 Klein과 동급, 변환 모델은 뒤처짐; DIV2K 4×는 두 픽셀 모델 모두 latent 파인튜닝을 못 이김). 레시피·실패 모드·남은 혼란 변수를 문서화하되, PixelDiT의 PiT 헤드로 픽셀 공간 사전학습이 3B·latent급 품질까지 스케일한다는 점은 입증. `hf download speridlabs/iris-3b`(T2I 가중치 ~12GB; `--exclude "depth/*" "upscaler/*"` 없이 전부 받으면 ~36GB), 기본 1024²·DPM-Solver++ 100스텝·CFG 3, Gradio 데모(ZeroGPU, 세 모델 ~45GB, `IRIS_OFFLOAD=1`이면 ~20GB 피크)
 * [Janus: Janus-Series: Unified Multimodal Understanding and Generation Models](https://github.com/deepseek-ai/Janus)
   * [Janus/janus_pro_tech_report.pdf at main · deepseek-ai/Janus · GitHub](https://github.com/deepseek-ai/Janus/blob/main/janus_pro_tech_report.pdf)
   * [🎨🤖Janus: DeepSeek AI의 최신 멀티모달 생성 모델 분석](https://fornewchallenge.tistory.com/entry/%F0%9F%8E%A8%F0%9F%A4%96Janus-DeepSeek-AI%EC%9D%98-%EC%B5%9C%EC%8B%A0-%EB%A9%80%ED%8B%B0%EB%AA%A8%EB%8B%AC-%EC%83%9D%EC%84%B1-%EB%AA%A8%EB%8D%B8-%EB%B6%84%EC%84%9D)
@@ -3113,14 +3113,14 @@ CVPR2016)
 * [MOSS-Image: Text-to-Image Generation with Native Layout Control | OpenMOSS](https://openmoss.ai/MOSS-Image/)
   * [MOSS-Image: Official repository for MOSS-Image, a 5B-parameter base DiT model with high-quality text rendering, layout generation, and efficient fine-tuning](https://github.com/OpenMOSS/MOSS-Image)
   * [New top local AI image generator is here! | AI Search - YouTube](https://www.youtube.com/watch?v=cUeZMUGCxrw)
-  * OpenMOSS의 5B DiT 텍스트-투-이미지 모델 패밀리(Base+SFT, Apache-2.0, 2026-10-16 공개)—자연어 프롬프트뿐 아니라 구조화된 JSON으로 객체·렌더링 텍스트·바운딩 박스를 지정하는 네이티브 레이아웃 제어, 강한 텍스트 렌더링, 최대 4K 토큰 프롬프트, 애니메·사실적 스타일. 5B 백본으로 효율적 생성·파인튜닝, 이종 GPU 플랫폼 학습. arXiv 2610.23374
-  * AI Search 리뷰(22분)—체급 대비 최고라는 평가, 복잡한 인포그래픽·텍스트 포함 다이어그램 생성, 4GB VRAM 이하 양자화 버전. 단 의미 기반 이미지 편집(Nano Banana·Qwen-Image 2.1식)은 안 되는 순수 text-to-image지만 ComfyUI·LoRA·DMD 8스텝으로 편집·가속·품질 개선하는 방법 시연
+  * OpenMOSS의 5B DiT 텍스트-투-이미지 모델 패밀리(2026-10-16 공개)—자연어 프롬프트뿐 아니라 구조화된 JSON으로 객체·렌더링 텍스트·바운딩 박스를 지정하는 네이티브 레이아웃 제어, 강한 텍스트 렌더링, 최대 4K 토큰 프롬프트, 애니메·사실적 스타일. 5B 백본으로 효율적 생성·파인튜닝, 이종 GPU 플랫폼 학습. arXiv 2610.23374
+  * AI Search 리뷰—체급 대비 최고라는 평가, 복잡한 인포그래픽·텍스트 포함 다이어그램 생성, 4GB VRAM 이하 양자화 버전. 단 의미 기반 이미지 편집(Nano Banana·Qwen-Image 2.1식)은 안 되는 순수 text-to-image지만 ComfyUI·LoRA·DMD 8스텝으로 편집·가속·품질 개선하는 방법 시연
 * [Muse: Text-To-Image Generation via Masked Generative Transformers](https://muse-model.github.io/) Transformer 기반. 기존의 Diffusion 이나 Autoregressive 모델의 성능을 능가하는 SOTA 달성. 모델 크기 900M, Inference 속도도 더 빠르다고 함
 * [Novel AI 찍먹해본 후기 | Univdev](https://www.univdev.page/posts/novel-ai-review/)
 * [PromptBase | DALL·E, Midjourney & GPT-3 Prompt Marketplace](https://promptbase.com/)
 * [PromptDirector 提示词导演 · Spot it. Save it.](https://promptdirector.cn/)
   * [PromptDirector: Spot it. Save it. Free, local-first Chrome extension for images, videos and prompts. Explore 2,000+ curated cases and connect your library to AI Agents via MCP](https://github.com/wchao6891/PromptDirector)
-  * AI 이미지·영상 작품과 공개 프롬프트를 한 번에 저장하는 로컬 우선 Chrome/Edge 확장(계정 불필요, JavaScript, Apache-2.0). Jimeng(即梦)·Higgsfield·Midjourney·X(작성자 답글 속 프롬프트까지)·WeChat·Feishu 등 20여 사이트 캡처, 이미지 중심 케이스 월+태그·프로젝트, 유사 케이스 추천, 프레임 단위 메모. 로컬 MCP로 Codex·Claude Code·WorkBuddy가 라이브러리를 검색·읽기·저장, 사이드바 Assistant가 현재 페이지·영상을 캡처하고 레퍼런스를 찾아줌. Composer가 레퍼런스 케이스를 재사용 가능한 창작 Skill로 증류하고 Skill+레퍼런스로 샷 단위 영상 프롬프트 작성(1.28: Skill 전체 파일·자료 묶음 내보내기)
+  * AI 이미지·영상 작품과 공개 프롬프트를 한 번에 저장하는 로컬 우선 Chrome/Edge 확장(계정 불필요, JavaScript). Jimeng(即梦)·Higgsfield·Midjourney·X(작성자 답글 속 프롬프트까지)·WeChat·Feishu 등 20여 사이트 캡처, 이미지 중심 케이스 월+태그·프로젝트, 유사 케이스 추천, 프레임 단위 메모. 로컬 MCP로 Codex·Claude Code·WorkBuddy가 라이브러리를 검색·읽기·저장, 사이드바 Assistant가 현재 페이지·영상을 캡처하고 레퍼런스를 찾아줌. Composer가 레퍼런스 케이스를 재사용 가능한 창작 Skill로 증류하고 Skill+레퍼런스로 샷 단위 영상 프롬프트 작성(1.28: Skill 전체 파일·자료 묶음 내보내기)
   * 사이트는 2,000+ 큐레이션 케이스를 합집으로 탐색·가져오기—V01~V12 주제별(광고·패션·단막극·공포·액션·음댄스·게임 등), Melies 촬영 문법(카메라 무브·앵글·조명·구성·렌즈·색·전환) 시리즈, 即梦·小黑盒·Higgsfield·EvoLink 선집, Seedance 2.5·GPT Image 2 최신 영상 사례
 * [Qwen-Image-2.1: Compact, Efficient, and Unified Image Creation | Qwen Blog](https://qwen.ai/blog?id=qwen-image-2.1)
   * [Qwen-Image-2.1: Qwen's most powerful open-source image generation model](https://github.com/QwenLM/Qwen-Image-2.1)
@@ -3136,7 +3136,7 @@ CVPR2016)
   * [Kokon — Edit photos by describing the change, on your own GPU](https://kokon.app/)
     * [kokon: Edit photos by describing the change, on your own GPU. One installer, no Python, no cloud. Qwen-Image 2.1 for Windows and Mac, with an MCP server for AI agents](https://github.com/GabrieleLozupone/kokon)
     * Qwen-Image 2.1(Turbo)을 내 GPU에서 돌리는 네이티브 사진 편집 앱—"해변에서 사람 다 지워줘", "골든아워로 만들어줘"처럼 문장으로 지시하면 모드·해상도·메모리 설정을 알아서 고르고(Fast/Balanced/Quality만 선택), 영역을 브러시로 칠한 뒤 Change·Remove·Replace·Add를 골라 칠한 부분만 바꾸는 인페인팅, 원본 크기·비율 유지와 AI 업스케일, iPhone HEIC(HDR 포함) 열기. stable-diffusion.cpp 기반 Tauri/Rust 앱이라 Python·ComfyUI·노드 그래프 없이 설치 파일 하나(Windows, Apple Silicon Mac·Linux는 베타), 첫 실행 때 GPU 또는 Mac 메모리를 감지해 맞는 모델을 내려받아 SHA-256 검증. 계정·업로드·텔레메트리 없음, 비공개 모드는 아무것도 저장 안 함
-    * NVIDIA는 CUDA, AMD·Intel Arc는 Vulkan 엔진(베타), Windows는 12GB GPU 권장. RTX 5070 Ti 기준 2K 신규 생성 약 36초·1.5K 편집 약 24초. 내장 MCP 서버·로컬 HTTP API로 Claude·Cursor·자체 스크립트가 로컬에서 이미지 생성·편집. Rust, AGPL-3.0, 135 stars
+    * NVIDIA는 CUDA, AMD·Intel Arc는 Vulkan 엔진(베타), Windows는 12GB GPU 권장. RTX 5070 Ti 기준 2K 신규 생성 약 36초·1.5K 편집 약 24초. 내장 MCP 서버·로컬 HTTP API로 Claude·Cursor·자체 스크립트가 로컬에서 이미지 생성·편집
 * [Qwen-Image-3.0 | Qwen Blog](https://qwen.ai/blog?id=qwen-image-3.0)
   * [Qwen-Image-3.0 - 풍부한 콘텐츠, 사실적 디테일, 깊이 있는 지식 | GeekNews](https://news.hada.io/topic?id=31666)
   * [Qwen-Image-3.0 핵심 기능과 특징 정리: 더욱 현실적인 AI 이미지 생성 모델의 진화 | digitalbourgeois](https://digitalbourgeois.tistory.com/3400)
@@ -3186,7 +3186,7 @@ CVPR2016)
     * [VidiGo NEW Open Source AI Video (Multi-Consistent Charact](https://vidigo.ai/share/summary/066db0cf4924)
     * [새로운 오픈 소스 AI 비디오가 최고입니다! | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/600489)
 * [2604.13452 CANVAS: Continuity-Aware Narratives via Visual Agentic Storyboarding](https://arxiv.org/html/2604.13452v1)
-  * Ishani Mondal·Yiwen Song·Mihir Parmar·Palash Goyal·Jordan Boyd-Graber·Tomas Pfister·Yale Song(2026-04-15). 장편 시각 스토리텔링에서 생성 모델은 개별 프레임은 잘 만들지만 캐릭터 외형·배경·장면 전환의 연속성을 깨뜨림—CANVAS는 캐릭터 연속성, 지속되는 배경 앵커, 같은 장소 안의 부드러운 전환을 위한 위치 인식 장면 계획으로 멀티샷 서사의 시각적 연속성을 명시적으로 계획하는 멀티 에이전트 프레임워크. ST-BENCH·ViStoryBench와 새 장거리 일관성 벤치마크 HardContinuityBench에서 최고 베이스라인 대비 배경 연속성 +21.6%, 캐릭터 일관성 +9.6%, 소품 일관성 +7.6%
+  * Ishani Mondal·Yiwen Song·Mihir Parmar·Palash Goyal·Jordan Boyd-Graber·Tomas Pfister·Yale Song. 장편 시각 스토리텔링에서 생성 모델은 개별 프레임은 잘 만들지만 캐릭터 외형·배경·장면 전환의 연속성을 깨뜨림—CANVAS는 캐릭터 연속성, 지속되는 배경 앵커, 같은 장소 안의 부드러운 전환을 위한 위치 인식 장면 계획으로 멀티샷 서사의 시각적 연속성을 명시적으로 계획하는 멀티 에이전트 프레임워크. ST-BENCH·ViStoryBench와 새 장거리 일관성 벤치마크 HardContinuityBench에서 최고 베이스라인 대비 배경 연속성 +21.6%, 캐릭터 일관성 +9.6%, 소품 일관성 +7.6%
 * [SUPIR - XPixel Group](https://supir.xpixel.group/)
   * [이미지 업스케일링 끝판왕 - SUPIR (스테이블 디퓨전) - YouTube](https://www.youtube.com/watch?v=FxYnHqijgAc)
 * [SUPRA-Tex: 3D Generation with Super-Aligned Texture | Huawei](https://supra-3d.github.io/supratex/)
@@ -3194,7 +3194,7 @@ CVPR2016)
   * [2610.22352 SUPRA-Tex: 3D Generation with Super-Aligned Texture](https://arxiv.org/abs/2610.22352)
   * [Supra-Tex online demo | Hugging Face Space](https://huggingface.co/spaces/UniLat3D/Supra-Tex)
   * Huawei·상하이교통대·화중과기대(Chen Yang·Jiemin Fang·Fanpeng Meng 외, 2026-10). 이미지 한 장에서 글자·패턴·재질 경계 같은 세부를 유지한 텍스처 3D 에셋을 생성—참조 뷰에서 PBR 재질을 예측해 표면 정렬 3D 관측으로 인코딩하고, 보이지 않는 영역은 Interleaved Flow Transformer로 완성해 base color·metallic·roughness 텍스처가 든 relightable GLB 출력. 이미지→3D뿐 아니라 기존 메시에 카메라·재질 관측을 맞춰 텍스처링도 가능. 전부 오픈소스 데이터로만 학습했는데 상용 모델과 경쟁—45개 입력·512쌍 사람 평가에서 Hunyuan3D 3.1 대비 84.8%, Rodin 2.5 75.5%, Tripo H3.1 67.8%, Meshy 7.1 57.6%, Hi3D 3.0 51.1% 선호
-  * 공개: 3D Completion 2.1B·Material Adapter 33.6M 가중치(Hugging Face), 이미지→3D·메시 텍스처링 추론 코드와 학습 개요(2026-10-19), Studio 투어. Linux·NVIDIA GPU·CUDA 12.4, RTX 3090 24GB에서 CPU 오프로드로 전체 파이프라인 동작, FlashAttention 권장(Python, MIT). 프로젝트 페이지에 한 이미지로 만든 장면에서 로봇 pick & place·조명 변경을 시뮬레이션하는 Real2Sim 데모
+  * 공개: 3D Completion 2.1B·Material Adapter 33.6M 가중치(Hugging Face), 이미지→3D·메시 텍스처링 추론 코드와 학습 개요, Studio 투어. Linux·NVIDIA GPU·CUDA 12.4, RTX 3090 24GB에서 CPU 오프로드로 전체 파이프라인 동작, FlashAttention 권장. 프로젝트 페이지에 한 이미지로 만든 장면에서 로봇 pick & place·조명 변경을 시뮬레이션하는 Real2Sim 데모
 * [Tensor.Art | FREE online image generator and model hosting site!](https://tensor.art/)
   * [사진 만드는 AI 혁명! 기존 AI는 다 버리세요! Tensor Art AI - YouTube](https://www.youtube.com/watch?v=hSmkwC491T8)
     * [프롬프트 문구 종류별 정리](https://letsgotitan.tistory.com/38)
@@ -3209,16 +3209,16 @@ CVPR2016)
   * Meta Research의 뉴럴 네트워크 기반 캐릭터 애니메이션 프레임워크. MLP/오토인코더/코드북, GLB/FBX/BVH 모캡 임포트, 실시간 렌더링·IK, ECS 아키텍처. Unity 대비 학습 데이터 생성 4시간→5분, 추론 중 역전파 가능
 * [ArcReel: Open-source AI video workspace powered by AI Agents](https://github.com/ArcReel/ArcReel)
   * [ArcReel — 开源 AI 短剧 / 漫剧生成工作台, 小说一键到成片](https://arc-reel.com/)
-  * 11개 내장 공급자·100+ 모델(Sora 2·Veo 3.1·Seedance 2.0·Nano Banana 2·GPT Image 2) 연동, 컷 간 캐릭터 일관성, 剪映(CapCut) 초안 직출. 5.2k stars
+  * 11개 내장 공급자·100+ 모델(Sora 2·Veo 3.1·Seedance 2.0·Nano Banana 2·GPT Image 2) 연동, 컷 간 캐릭터 일관성, 剪映(CapCut) 초안 직출
   * AI 에이전트 기반 오픈소스 비디오 생성 워크벤치. 소설→캐릭터/장면/소품 디자인→극본→분경도(storyboard)→비디오 파이프라인, 컷 간 캐릭터·장면 일관성 유지. Nano Banana 2·Veo 3.1·Grok·Seedance·OpenAI 연동, Claude Agent SDK 기반. Python, Docker
 * [ATAS: Any Time, Any Space — A World-State-Centric Framework for Agentic Video Generation | ziplab](https://github.com/ziplab/ATAS)
   * [ATAS project page](https://lhmd.top/atas/)
   * [2610.20571 Any Time, Any Space: A World-State-Centric Framework for Agentic Video Generation](https://arxiv.org/abs/2610.20571)
   * 저장대·Monash·UC Berkeley BAIR·Adelaide(Bohan Zhuang 그룹). 장편 에이전틱 영상 생성에서 프롬프트나 최근 프레임만 넘기면 같은 장소를 다시 찍거나 이전 사건을 다른 각도에서 재촬영할 때 공간·시간 일관성이 깨지는 문제에, 영화 한 편 뒤에 **하나의 영속 world state**를 둠—world-state compiler가 시나리오를 장면·카메라·시간·사건이 명시된 bounded shot request로 컴파일하고, 모든 장소의 정적 기하를 한 좌표계에 둔 scene memory와 장면·사건·시간으로 색인된 동적 관측 event memory에서 증거를 꺼내 렌더한 컨텍스트로 영상 생성기를 조건화
-  * 생성된 클립은 재구성·정합(Pi3X·SAM3 기반 geometry 서비스)·상태 검사를 통과해야만 world state를 갱신하고(영상 전달은 메모리 수용과 독립), 영상 생성기 4종 모두에서 샷 간 일관성 지표 전부 개선·백본별 종합 최고점, 공간 재방문·사건 재촬영에서 비교 에이전트·3D 가이드 방식을 앞서고 사람 평가 6개 기준 모두 최고. 클라이언트는 GPU 불필요(geometry 서비스만 약 20GB GPU), `atas run --screenplay …`로 어떤 평문 시나리오든 실행, 재실행 시 유료 생성 재사용(Python, MIT)
+  * 생성된 클립은 재구성·정합(Pi3X·SAM3 기반 geometry 서비스)·상태 검사를 통과해야만 world state를 갱신하고(영상 전달은 메모리 수용과 독립), 영상 생성기 4종 모두에서 샷 간 일관성 지표 전부 개선·백본별 종합 최고점, 공간 재방문·사건 재촬영에서 비교 에이전트·3D 가이드 방식을 앞서고 사람 평가 6개 기준 모두 최고. 클라이언트는 GPU 불필요(geometry 서비스만 약 20GB GPU), `atas run --screenplay …`로 어떤 평문 시나리오든 실행, 재실행 시 유료 생성 재사용
 * [Control-A-Video: Controllable Text-to-Video Generation with Diffusion Models](https://controlavideo.github.io/)
 * [CutClaw: Agentic Hours-Long Video Editing via Music Synchronization | GVCLab](https://github.com/GVCLab/CutClaw)
-  * 음악 동기화 기반으로 수 시간 길이 영상을 에이전트가 편집. Python, 979 stars
+  * 음악 동기화 기반으로 수 시간 길이 영상을 에이전트가 편집
 * [Dreamix: Video Diffusion Models are General Video Editors](https://dreamix-video-editing.github.io/)
 * [EMO](https://humanaigc.github.io/emote-portrait-alive/)
 * [Genmo | Open Video Generation](https://www.genmo.ai/)
@@ -3254,12 +3254,12 @@ CVPR2016)
   * CVPR 2026(Orange 3DV Team). 영상 속 캐릭터를 사용자가 준 캐릭터로 바꾸는 과제에서, 프레임별 마스크와 포즈·깊이 같은 구조 가이드에 의존하던 기존 재구성 방식은 가림·희귀 포즈·사물 상호작용·복잡한 조명에서 아티팩트와 시간적 불연속이 생김—MoCha는 첫 프레임 마스크 하나만 받고 여러 조건을 단일 토큰 스트림으로 통합해 캐릭터를 다시 렌더링. condition-aware RoPE로 다중 참조 이미지와 가변 길이 영상 지원, 짝지어진 학습 영상 부족은 자체 데이터 합성 파이프라인으로 해결. 추론 코드 공개, kijai의 ComfyUI-WanVideoWrapper 노드에 포함
 * [Open Generative AI — Free AI Image & Video Studio | Muapi](https://muapi.ai/open-generative-ai)
   * [Open-Generative-AI: Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation | Anil-matcha](https://github.com/Anil-matcha/Open-Generative-AI)
-  * 계정 없이 Flux·Kling·Veo·Seedance 등 200+ 모델로 이미지·영상 생성하는 오픈소스 스튜디오. JavaScript, MIT, 29.4k stars
+  * 계정 없이 Flux·Kling·Veo·Seedance 등 200+ 모델로 이미지·영상 생성하는 오픈소스 스튜디오
 * [OpenHiggsfield AI — Open-Source Alternative to Higgsfield AI](https://www.openhiggsfield.ai/)
   * [open-higgsfield: A studio for image and video generation — one prompt bar, each model's own settings, and every finished run in one gallery | wide-trace](https://github.com/wide-trace/open-higgsfield)
-  * Higgsfield AI의 무료 오픈소스 대안—프롬프트 바 하나로 이미지 8종·비디오 30종, 38개 모델을 쓰는 생성 스튜디오(TypeScript, Next.js 16·React 19·Zustand, 5k stars). 모델별 고유 설정을 유지하고 완료된 모든 생성물을 한 갤러리에 모음, 스튜디오 구독·벤더 종속 없이 자기 플랫폼 키(`id:secret`)로 생성, 셀프호스팅 또는 설치 없는 호스팅판(openhiggsfield.ai, 스튜디오 자체는 무료)
+  * Higgsfield AI의 무료 오픈소스 대안—프롬프트 바 하나로 이미지 8종·비디오 30종, 38개 모델을 쓰는 생성 스튜디오(TypeScript, Next.js 16·React 19·Zustand). 모델별 고유 설정을 유지하고 완료된 모든 생성물을 한 갤러리에 모음, 스튜디오 구독·벤더 종속 없이 자기 플랫폼 키(`id:secret`)로 생성, 셀프호스팅 또는 설치 없는 호스팅판(openhiggsfield.ai, 스튜디오 자체는 무료)
 * [pixelle-video: 🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine | ath-maas](https://github.com/ath-maas/pixelle-video)
-  * AI 완전 자동 쇼트폼 영상 생성 엔진. Python, Apache-2.0, 28.5k stars
+  * AI 완전 자동 쇼트폼 영상 생성 엔진
 * [ReCapture: Generative Video Camera Controls for User-Provided Videos using Masked Video Fine-Tuning](https://generative-video-camera-controls.github.io/)
 * Roboflow Inference [What is Inference? - Roboflow Inference](https://inference.roboflow.com/)
   * [Inference Pipeline - Roboflow Inference](https://inference.roboflow.com/using_inference/inference_pipeline/)
@@ -3270,7 +3270,7 @@ CVPR2016)
 * [Sketch2Motion: convert photo or sketch to motion video](https://github.com/leeyeel/Sketch2Motion)
   * 사진·낙서·스케치를 SVG 벡터로 변환한 뒤 Manim으로 그려지는 애니메이션 MP4로 렌더링. 애니메이션 길이·스타일(linear/smooth/there_and_back/wiggle)·스케일 조절, Gradio 웹 UI 제공. Python
 * [SkyReels-V2: Infinite-length Film Generative model | SkyworkAI](https://github.com/SkyworkAI/SkyReels-V2)
-  * Skywork AI의 무한 길이 영화 생성 모델—공개 비디오 생성 모델 중 처음으로 AutoRegressive Diffusion-Forcing 아키텍처를 써서 공개 모델 최고 성능을 냈다고 주장. 14B·1.3B 체크포인트(DF-14B-720P는 무한 길이 자기회귀 생성, I2V-14B-720P는 이미지→비디오), 단일·멀티 GPU 추론, 비디오 캡셔닝 모델 SkyCaptioner-V1, 프롬프트 인핸서, Diffusers 통합, 비디오 연장·시작/끝 프레임 제어. 후속작 SkyReels-V3(2026-01 가중치·API 공개)와 A1(인물 이미지 애니메이션)·A2(임의 시각 요소 조합) 계열도 있음. Python, 7.7k stars
+  * Skywork AI의 무한 길이 영화 생성 모델—공개 비디오 생성 모델 중 처음으로 AutoRegressive Diffusion-Forcing 아키텍처를 써서 공개 모델 최고 성능을 냈다고 주장. 14B·1.3B 체크포인트(DF-14B-720P는 무한 길이 자기회귀 생성, I2V-14B-720P는 이미지→비디오), 단일·멀티 GPU 추론, 비디오 캡셔닝 모델 SkyCaptioner-V1, 프롬프트 인핸서, Diffusers 통합, 비디오 연장·시작/끝 프레임 제어. 후속작 SkyReels-V3(2026-01 가중치·API 공개)와 A1(인물 이미지 애니메이션)·A2(임의 시각 요소 조합) 계열도 있음
 * [Sora](https://openai.com/sora)
   * [발표자료 - Google Drive](https://drive.google.com/drive/folders/1DlqsySJGzkeSGFomn__4Kugok1v6-Xrb)
     * [발표자료 - OpenAI Sora 살짝 보기](https://www.notion.so/1003/Sora-14610884387e49ceaf3b08604adbb70a?pvs=4#325fb8b611f34e7aaa09858c77a92998)
@@ -3287,7 +3287,7 @@ CVPR2016)
 * [Text2Video-Zero: Text-to-Image Diffusion Models are Zero-Shot Video Generators](https://github.com/Picsart-AI-Research/Text2Video-Zero)
   * [Stable Diffusion으로 이제 영상까지?! 추가 학습 없이 영상 만드는 초 간단 기술! Text2Video-Zero 논문 리뷰! - YouTube](https://www.youtube.com/watch?v=nGkSjxU3Tiw)
 * [univa: Official Code Repo for UniVA: Universal Video Agents | univa-agent](https://github.com/univa-agent/univa)
-  * 범용 비디오 에이전트 UniVA 공식 코드. TypeScript, MIT
+  * 범용 비디오 에이전트 UniVA 공식 코드
 * [VASA-1 - Microsoft Research](https://www.microsoft.com/en-us/research/project/vasa-1/)
   * [Microsoft 충격 발표… 사진 음성 주어지면 실시간으로 표정부터 시선, 감정, 머리 움직임까지 조절하는 영상 생성AI VASA-1 공개 - YouTube](https://www.youtube.com/watch?v=-3Y9qgCP2FY)
 * [Veo - Google DeepMind](https://deepmind.google/technologies/veo/)
@@ -3297,7 +3297,7 @@ CVPR2016)
     * 입문자용 한국어 가이드북. Google Flow 무료 체험, 프롬프트 8요소, 대화·오디오·카메라 연출, TikTok/Instagram/YouTube 플랫폼별 최적화, JSON 고급 프롬프트, AI 영상 수익화. Veo 3.1/Lite 반영, 116+ 페이지, 18 PART + 부록 A~G
 * [ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One) | HKUDS](https://github.com/HKUDS/ViMax)
   * [2606.07649 ViMax: Agentic Video Generation](https://arxiv.org/html/2606.07649v2)
-  * 단편 클립 생성에 없던 서사 계획과 장면 간 캐릭터·환경 일관성을 갖춘 장편 영상 생성 에이전트 프레임워크—감독·시나리오 작가·프로듀서·비디오 생성기를 한 시스템에. Python, MIT, 12.5k stars
+  * 단편 클립 생성에 없던 서사 계획과 장면 간 캐릭터·환경 일관성을 갖춘 장편 영상 생성 에이전트 프레임워크—감독·시나리오 작가·프로듀서·비디오 생성기를 한 시스템에
 * [VideoPoet: 구글의 제로샷(Zero-Shot) 비디오 생성 대규모 언어 모델](https://fornewchallenge.tistory.com/entry/VideoPoet-%EA%B5%AC%EA%B8%80%EC%9D%98-%EC%A0%9C%EB%A1%9C%EC%83%B7Zero-Shot-%EB%B9%84%EB%94%94%EC%98%A4-%EC%83%9D%EC%84%B1-%EB%8C%80%EA%B7%9C%EB%AA%A8-%EC%96%B8%EC%96%B4-%EB%AA%A8%EB%8D%B8)
 * [VOID: Video Object and Interaction Deletion](https://github.com/netflix/void-model)
   * [void-model · Netflix](https://huggingface.co/netflix/void-model)

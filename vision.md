@@ -446,25 +446,25 @@ Vision
 * [Leptonica is a pedagogically-oriented open source site containing software that is broadly useful for image processing and image analysis applications](http://www.leptonica.com/)
 * [libfacedetection](https://github.com/ShiqiYu/libfacedetection)
 * [LingBot-Map: Geometric Context Transformer for streaming 3D reconstruction](https://github.com/Robbyant/lingbot-map)
-  * 스트리밍 비디오에서 3D 장면을 재구성하는 피드포워드 3D 파운데이션 모델. Geometric Context Transformer 아키텍처로 연속 비디오→3D 포인트클라우드 실시간 생성. ~20 FPS, paged KV cache attention으로 10,000+ 프레임 처리, FlashInfer 가속(PyTorch 2.8+CUDA 12.8). 기존 스트리밍·최적화 기반 대비 우수한 재구성 품질, HuggingFace/ModelScope 체크포인트. Apache 2.0
+  * 스트리밍 비디오에서 3D 장면을 재구성하는 피드포워드 3D 파운데이션 모델. Geometric Context Transformer 아키텍처로 연속 비디오→3D 포인트클라우드 실시간 생성. ~20 FPS, paged KV cache attention으로 10,000+ 프레임 처리, FlashInfer 가속(PyTorch 2.8+CUDA 12.8). 기존 스트리밍·최적화 기반 대비 우수한 재구성 품질, HuggingFace/ModelScope 체크포인트
 * [LUMINOTH - Open source Computer Vision toolkit](https://luminoth.ai/)
 * [mac-local-vision: Zero-token, on-device vision for AI agents — OCR, pixel-exact UI targeting, and face grouping on Apple Vision | junmo-kim](https://github.com/junmo-kim/mac-local-vision)
   * [스크린샷 한 장을 그대로 Claude Code나 Codex에 넘기면 토큰이 1만 9천 개쯤 나갑니다 — macvis | Junmo Kim | LinkedIn](https://www.linkedin.com/posts/junmo-kim_github-junmo-kimmac-local-vision-zero-token-share-7481760054753288192-ArWd/)
   * Apple Vision·FoundationModels 프레임워크만 쓰는 100% Pure Swift 단일 바이너리(`macvis`, 약 240KB, 런타임 의존성 0)—AI 에이전트·E2E 테스트용 OCR·UI 요소 찾기를 0.3초 안에 로컬에서. 19,000토큰짜리 스크린샷을 `macvis ocr` YAML로 바꾸면 약 500토큰(38배 절감), `find`는 단어의 정확한 픽셀 중심 좌표를 돌려줘 클릭·assert에 바로 사용. QR/바코드 인식·생성, 문서 경계 검출·평탄화, 레이아웃 보존 문서 OCR, 1,303개 라벨 이미지 분류, 얼굴 그룹핑
-  * 온디바이스 멀티모달 `ask`(macOS 27 베타+Apple Intelligence 필요, 이미지당 1~7초, 24개 언어). CLI·MCP 서버·Claude Code 스킬로 사용, Homebrew/mise 설치. MIT
+  * 온디바이스 멀티모달 `ask`(macOS 27 베타+Apple Intelligence 필요, 이미지당 1~7초, 24개 언어). CLI·MCP 서버·Claude Code 스킬로 사용, Homebrew/mise 설치
 * [MegaFace: Test face recognition at the million scale](http://megaface.cs.washington.edu/)
 * [Mesh2Motion — 3D animation library and auto-rigging tool for web and game engines](https://mesh2motion.org/)
   * [mesh2motion-app: Import a 3D Model and automatically assign and export animations](https://github.com/mesh2motion/mesh2motion-app)
-  * 브라우저에서 돌아가는 무료 오픈소스 Mixamo 대안(app.mesh2motion.org)—GLB·GLTF·DAE·FBX 모델을 올리고 스켈레톤 종류(인간·새·드래곤·거미·카이주·여우·말·물고기·뱀)를 골라 뼈를 모델 안에 맞춘 뒤 170개+ 애니메이션을 미리 보고 선택해 GLB/GLTF로 내보냄. 리깅된 모델도 그대로 업로드 가능, 되돌리기/다시 실행, 원본 Blender 리그·애니메이션 파일 전부 공개. TypeScript+Vite, Docker 실행 지원, 3.5k stars
+  * 브라우저에서 돌아가는 무료 오픈소스 Mixamo 대안(app.mesh2motion.org)—GLB·GLTF·DAE·FBX 모델을 올리고 스켈레톤 종류(인간·새·드래곤·거미·카이주·여우·말·물고기·뱀)를 골라 뼈를 모델 안에 맞춘 뒤 170개+ 애니메이션을 미리 보고 선택해 GLB/GLTF로 내보냄. 리깅된 모델도 그대로 업로드 가능, 되돌리기/다시 실행, 원본 Blender 리그·애니메이션 파일 전부 공개. TypeScript+Vite, Docker 실행 지원
 * [Motion2MixamoRig: Retarget human motion from video to an Adobe Mixamo-rigged 3D character | maxliu22](https://github.com/maxliu22/motion2mixamorig)
   * 한 사람이 머리부터 발끝까지 나오는 동작 영상(또는 정지 사진의 포즈)을 Adobe Mixamo 리그 캐릭터(Y Bot 등 FBX)로 옮겨, 프리뷰 영상과 Blender·Unity에 바로 넣는 스킨드 `.glb`를 출력하는 게임 개발자용 파이프라인. GVHMR 등 3D 인체 메시 복원 가중치(~5GB, 첫 실행 시 다운로드)와 SMPL-X 바디 모델(별도 등록·다운로드) 필요, Cinema 4D 재익스포트 Mixamo FBX도 지원
-  * 두 가지 사용법: Blender 4.2+ 익스텐션(zip 설치→N 패널에서 런타임 원클릭 설치→SMPL-X·Mixamo FBX·영상 선택→Generate Motion, macOS Apple Silicon 테스트) 또는 CLI `m2mr run`(Python 3.11+, 레거시 chumpy는 `--no-build-isolation` 설치). 실험 단계(v0.1.7), AGENTS.md 제공. Python, Apache-2.0
+  * 두 가지 사용법: Blender 4.2+ 익스텐션(zip 설치→N 패널에서 런타임 원클릭 설치→SMPL-X·Mixamo FBX·영상 선택→Generate Motion, macOS Apple Silicon 테스트) 또는 CLI `m2mr run`(Python 3.11+, 레거시 chumpy는 `--no-build-isolation` 설치). 실험 단계(v0.1.7), AGENTS.md 제공
 * [motionbricks: Official implementation of MotionBricks: Scalable Real-Time Motions with Modular Latent Generative Model and Smart Primitives (SIGGRAPH 2026) | NVlabs](https://github.com/NVlabs/motionbricks)
   * [MotionBricks project page](https://nvlabs.github.io/motionbricks/)
   * [2604.24833 MotionBricks: Scalable Real-Time Motions with Modular Latent Generative Model and Smart Primitives](https://arxiv.org/abs/2604.24833)
-  * 캐릭터와 로봇을 실시간으로 움직이는 모듈형 잠재 생성 모델—최근 4개 포즈(컨텍스트)와 1~4개 목표 포즈 사이를 30Hz로 채우며(한 번에 4포즈짜리 토큰 6~16개, 약 0.6~1.9초) 루트 모듈(지속 시간·루트 경로 예측)·포즈 모듈(마스크드 토큰 트랜스포머)·디코더(멀티 코드북 VQ-VAE)가 일을 나눔. 재생한 마지막 4포즈를 다음 컨텍스트로 쓰는 체이닝으로 긴 동작을 만들고 목표를 어디서 가져올지는 응용이 정하므로 하나의 인비트위닝 모델이 키프레임 애니메이션·연속 보행·오브젝트 상호작용이 됨. Smart Primitives는 목표 포즈를 내비게이션·상호작용용 블록으로 바꿔 뛰어넘기·앉기 같은 행동을 재학습 없이 브릭처럼 조립. SOMA 인체 모델과 Unitree G1 로봇용 사전학습 ONNX 모델(Hugging Face), Warp·Newton·TensorRT 기반 Python 런타임(NVIDIA GPU 필요), Inbetweener·Scene Preview 데모와 Smart Primitive·씬 에디터 2종. 첫 공개는 GR00T Whole-Body Control 안의 G1 프리뷰. Python, Apache-2.0, 740 stars
+  * 캐릭터와 로봇을 실시간으로 움직이는 모듈형 잠재 생성 모델—최근 4개 포즈(컨텍스트)와 1~4개 목표 포즈 사이를 30Hz로 채우며(한 번에 4포즈짜리 토큰 6~16개, 약 0.6~1.9초) 루트 모듈(지속 시간·루트 경로 예측)·포즈 모듈(마스크드 토큰 트랜스포머)·디코더(멀티 코드북 VQ-VAE)가 일을 나눔. 재생한 마지막 4포즈를 다음 컨텍스트로 쓰는 체이닝으로 긴 동작을 만들고 목표를 어디서 가져올지는 응용이 정하므로 하나의 인비트위닝 모델이 키프레임 애니메이션·연속 보행·오브젝트 상호작용이 됨. Smart Primitives는 목표 포즈를 내비게이션·상호작용용 블록으로 바꿔 뛰어넘기·앉기 같은 행동을 재학습 없이 브릭처럼 조립. SOMA 인체 모델과 Unitree G1 로봇용 사전학습 ONNX 모델(Hugging Face), Warp·Newton·TensorRT 기반 Python 런타임(NVIDIA GPU 필요), Inbetweener·Scene Preview 데모와 Smart Primitive·씬 에디터 2종. 첫 공개는 GR00T Whole-Body Control 안의 G1 프리뷰
 * [motion-diffusion-model: The official PyTorch implementation of the paper "Human Motion Diffusion Model" (MDM) | GuyTevet](https://github.com/GuyTevet/motion-diffusion-model)
-  * 텍스트·액션 조건으로 사람 동작을 생성하는 확산 모델 MDM(ICLR 2023)의 공식 PyTorch 구현—50스텝 모델과 CLIP 결과 캐싱으로 원래 1000스텝 대비 약 40배 빠른 ~0.4초/샘플. MIT, 4.1k stars
+  * 텍스트·액션 조건으로 사람 동작을 생성하는 확산 모델 MDM(ICLR 2023)의 공식 PyTorch 구현—50스텝 모델과 CLIP 결과 캐싱으로 원래 1000스텝 대비 약 40배 빠른 ~0.4초/샘플
 * [OmniParser](https://microsoft.github.io/OmniParser/)
   * [OmniParser: A simple screen parsing tool towards pure vision based GUI agent](https://github.com/microsoft/OmniParser)
   * GUI 스크린샷 파서, 최근 나온 클로드 Computer Use 같은 GUI 상호작용 에이전트 개발 가능할 걸로 예상. 아이콘 감지·기능 설명으로 UI 스크린샷을 구조화 요소로 파싱해 VLM의 grounded 액션 생성 향상. V2는 GUI grounding 벤치마크 SOTA
@@ -476,7 +476,7 @@ Vision
   * [pico.js - 200줄 JS로 만든 얼굴 감지 라이브러리 | GeekNews](https://news.hada.io/topic?id=7326)
 * [Pipeless - The open-source computer vision framework](https://www.pipeless.ai/)
   * [pipeless: An open-source computer vision framework to build and deploy apps in minutes | pipeless-ai](https://github.com/pipeless-ai/pipeless)
-  * 실시간 영상 분석 앱을 몇 분 만에 만들고 배포하는 프레임워크—코드 병렬화·멀티미디어 파이프라인·메모리 관리·모델 추론·멀티 스트림 관리를 대신 처리. 서버리스처럼 프레임을 받는 pre-process·모델·post-process 함수로 "stage"(마이크로 파이프라인)를 만들고 스트림마다 동적으로 조합해 재시작 없이 다른 파이프라인 적용. YOLO 등 표준 모델이나 커스텀 모델을 URL로 로드, ONNX Runtime 등 추론 런타임 내장, 클라우드·엣지(오프라인) 배포. NVIDIA Inception, 호스팅형 Pipeless Agents. Rust, Apache-2.0
+  * 실시간 영상 분석 앱을 몇 분 만에 만들고 배포하는 프레임워크—코드 병렬화·멀티미디어 파이프라인·메모리 관리·모델 추론·멀티 스트림 관리를 대신 처리. 서버리스처럼 프레임을 받는 pre-process·모델·post-process 함수로 "stage"(마이크로 파이프라인)를 만들고 스트림마다 동적으로 조합해 재시작 없이 다른 파이프라인 적용. YOLO 등 표준 모델이나 커스텀 모델을 URL로 로드, ONNX Runtime 등 추론 런타임 내장, 클라우드·엣지(오프라인) 배포. NVIDIA Inception, 호스팅형 Pipeless Agents
 * [pixerise: A high-performance 3D software renderer implemented in Python, optimized with NumPy and Numba JIT compilation](https://github.com/enricostara/pixerise)
   * [Pixerise - 고성능 3D 소프트웨어 렌더링 엔진 테스트](https://webnautes.tistory.com/2427)
 * [Pl@ntNet](https://github.com/plantnet)
@@ -491,18 +491,18 @@ Vision
 * StylEx [Google AI Blog: Introducing StylEx: A New Approach for Visual Explanation of Classifiers](https://ai.googleblog.com/2022/01/introducing-stylex-new-approach-for.html)
 * [Supervision documentation | Roboflow](https://supervision.roboflow.com/)
   * [supervision: We write your reusable computer vision tools | roboflow](https://github.com/roboflow/supervision)
-  * 모델에 구애받지 않는 재사용 가능 컴퓨터 비전 도구 모음(`pip install supervision`, Python 3.9+)—데이터셋 로딩, 이미지·영상에 검출 결과 그리기, 존(zone) 안 검출 개수 세기 등. 분류·검출·세그멘테이션 모델을 커넥터로 바로 연결. MIT, 51.2k stars
+  * 모델에 구애받지 않는 재사용 가능 컴퓨터 비전 도구 모음(`pip install supervision`, Python 3.9+)—데이터셋 로딩, 이미지·영상에 검출 결과 그리기, 존(zone) 안 검출 개수 세기 등. 분류·검출·세그멘테이션 모델을 커넥터로 바로 연결
 * [Tencent ML Images released: 18 million training images with 11,000 categories](https://www.techleer.com/articles/573-tencent-ml-images-released-18-million-training-images-with-11000-categories/)
 * [TiefVision - End-to-end deep learning image-similarity search engine](https://github.com/paucarre/tiefvision)
 * [Ultralytics Inference for Rust | Ultralytics Docs](https://docs.ultralytics.com/inference)
   * [inference: High-performance Ultralytics YOLO inference in Rust with ONNX Runtime, GPU backends, CLI, and WebGPU/WASM | ultralytics](https://github.com/ultralytics/inference)
-  * 내보낸 ONNX 모델을 ONNX Runtime으로 돌려 이미지·영상·웹캠·스트림에서 빠르고 메모리 안전한 예측을 하는 Rust YOLO 추론 라이브러리·CLI—추론 시 Python 런타임 불필요, 인터프리터 없는 네이티브 바이너리라 서버·컨테이너·엣지에 적합. 단일 크레이트를 CLI(빠른 예측·배치)나 라이브러리(Rust 앱 내장)로 사용, 모든 Ultralytics 태스크와 통일된 디바이스 인터페이스의 다양한 하드웨어 백엔드, 같은 레포에서 브라우저용 WebGPU/WASM npm 패키지. AGPL-3.0
+  * 내보낸 ONNX 모델을 ONNX Runtime으로 돌려 이미지·영상·웹캠·스트림에서 빠르고 메모리 안전한 예측을 하는 Rust YOLO 추론 라이브러리·CLI—추론 시 Python 런타임 불필요, 인터프리터 없는 네이티브 바이너리라 서버·컨테이너·엣지에 적합. 단일 크레이트를 CLI(빠른 예측·배치)나 라이브러리(Rust 앱 내장)로 사용, 모든 Ultralytics 태스크와 통일된 디바이스 인터페이스의 다양한 하드웨어 백엔드, 같은 레포에서 브라우저용 WebGPU/WASM npm 패키지
 * [unblink: Camera monitoring with VLM | zapdos-labs](https://github.com/zapdos-labs/unblink)
-  * VLM 기반 카메라 모니터링 앱(Unblink V2). Qwen3-VL로 프레임 분석·요약, 카메라 피드와 자연어 채팅, 녹화 프레임 자연어 검색. 로컬 노드(`unblink-node`, Linux·Windows 바이너리 또는 `go install`)가 공개 릴레이 서버에 접속하는 relay-node 구조로 실시간 영상 처리. Go, AGPL-3.0, 1.5k stars
+  * VLM 기반 카메라 모니터링 앱(Unblink V2). Qwen3-VL로 프레임 분석·요약, 카메라 피드와 자연어 채팅, 녹화 프레임 자연어 검색. 로컬 노드(`unblink-node`, Linux·Windows 바이너리 또는 `go install`)가 공개 릴레이 서버에 접속하는 relay-node 구조로 실시간 영상 처리
 * [UniMate — One Unified Model to Animate Diverse Skeletons | SIGGRAPH Asia 2026](https://linzhanmou.com/unimate/)
   * [UniMate: SIGGRAPH Asia 2026 UniMate: One Unified Model to Animate Diverse Skeletons](https://github.com/Friedrich-M/UniMate)
   * Princeton·UC Berkeley·MIT·NTU. 리깅된 3D 에셋과 텍스트 프롬프트만으로 골격 구조가 제각각인 캐릭터를 하나의 모델로 애니메이션—카테고리 템플릿, 골격별 재학습, 추론 시 참조 모션이 필요 없음. 위상 인식 diffusion transformer가 골격 위상을 어텐션에 넣는 3가지 장치: 관절 쌍 관계·측지 거리 기반 그래프 어텐션 바이어스, 그래프 라플라시안으로 RoPE를 임의 운동학 트리로 일반화한 spectral RoPE, rest-pose 골격에서 어텐션 풀링한 전역 위상 조건
-  * 두발·네발·조류·해양·곤충·뱀형 생물과 관절 강체까지 13,006개 모션 시퀀스를 통일 정규화·텍스트 쌍으로 묶은 UniML3D 데이터셋 공개(Truebones·Mixamo·Objaverse). 품질·일반화·효율에서 기존 방법을 앞서고 zero-shot 교차 위상 전이·중간 프레임 생성·확장·텍스트 편집 지원. 학습·추론 코드, Hugging Face 체크포인트, 임의의 리깅 GLB·glTF·FBX를 넣는 rig_preprocess, 3D 인터랙티브 데모 제공(Python, MIT)
+  * 두발·네발·조류·해양·곤충·뱀형 생물과 관절 강체까지 13,006개 모션 시퀀스를 통일 정규화·텍스트 쌍으로 묶은 UniML3D 데이터셋 공개(Truebones·Mixamo·Objaverse). 품질·일반화·효율에서 기존 방법을 앞서고 zero-shot 교차 위상 전이·중간 프레임 생성·확장·텍스트 편집 지원. 학습·추론 코드, Hugging Face 체크포인트, 임의의 리깅 GLB·glTF·FBX를 넣는 rig_preprocess, 3D 인터랙티브 데모 제공
 * [vatic is a free, online, interactive video annotation tool for computer vision research that crowdsources work to Amazon's Mechanical Turk](http://web.mit.edu/vondrick/vatic/)
 * [VICAR Open Source - We are pleased to announce that the VICAR Core is now available in Open Source form!](http://www-mipl.jpl.nasa.gov/vicar_open.html)
 * [VTK - The Visualization Toolkit (VTK) is an open-source, freely available software system for 3D computer graphics, image processing, and visualization](http://www.vtk.org/)
@@ -679,7 +679,7 @@ Vision
   * [Deepseek_OCR_(3B).ipynb - Colab](https://colab.research.google.com/github/unslothai/notebooks/blob/main/nb/Deepseek_OCR_\(3B\).ipynb)
   * [DeepSeek-OCR 2: How to Run & Fine-tune Guide | Unsloth Documentation](https://unsloth.ai/docs/models/tutorials/deepseek-ocr-2)
     * [류내원 - DeepSeek releases DeepSeek-OCR 2 (source: X UnslothAI) | Facebook](https://www.facebook.com/won.wizard/posts/pfbid02nWomGK9ZvbKCJnrj6ZZFoDKxmzV5u7T4YgjLKVKDPX724cvpq4iyw1G1j97HLibml)
-    * 후속작 DeepSeek-OCR 2의 로컬 실행·파인튜닝 가이드. 새 3B 모델이 최첨단 시각·문서·OCR 이해를 달성—DeepEncoder V2가 고정 그리드(좌상단→우하단)로 읽는 기존 비전 LLM과 달리 먼저 전체를 이해한 뒤 사람과 같은 논리적 읽기 순서(어디부터 주의를 기울일지)를 학습해 OCR 정확도 향상. Apache-2.0
+    * 후속작 DeepSeek-OCR 2의 로컬 실행·파인튜닝 가이드. 새 3B 모델이 최첨단 시각·문서·OCR 이해를 달성—DeepEncoder V2가 고정 그리드(좌상단→우하단)로 읽는 기존 비전 LLM과 달리 먼저 전체를 이해한 뒤 사람과 같은 논리적 읽기 순서(어디부터 주의를 기울일지)를 학습해 OCR 정확도 향상
   * [deepseek_ocr_app: A quick vibe coded app for deepseek OCR](https://github.com/rdumasia303/deepseek_ocr_app)
 * [Docling - Docling](https://docling-project.github.io/docling/)
   * [docling: Get your documents ready for gen AI](https://github.com/docling-project/docling)
@@ -704,7 +704,7 @@ Vision
 * [llm_aided_ocr: Enhance Tesseract OCR output for scanned PDFs by applying Large Language Model (LLM) corrections.](https://github.com/Dicklesworthstone/llm_aided_ocr)
   * [Show HN: LLM-Aided OCR – LLM으로 Tesseract OCR 오류 수정 | GeekNews](https://news.hada.io/topic?id=16253)
 * [MinerU: Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows](https://github.com/opendatalab/MinerU)
-  * PDF·Office 등 복잡한 문서를 에이전틱 워크플로용 LLM-ready 마크다운/JSON으로 변환하는 OpenDataLab 도구. Python, 79k stars
+  * PDF·Office 등 복잡한 문서를 에이전틱 워크플로용 LLM-ready 마크다운/JSON으로 변환하는 OpenDataLab 도구
 * [MinerU-Diffusion: Diffusion-based document OCR framework](https://github.com/opendatalab/MinerU-Diffusion)
   * [2603.22458](https://arxiv.org/abs/2603.22458)
   * 블록 수준 병렬 확산 디코딩으로 기존 대비 최대 3.26배 빠른 처리. 2.5B 파라미터, 레이아웃 감지·텍스트·수식·표 인식 지원
@@ -728,7 +728,7 @@ Vision
 * [OXR — Turn documents into Agent-Friendly data | SoMark](https://somark.ai/oxr)
   * [OXR: An open-source document parsing model with SOTA accuracy and speed, using an RSI loop during post-training | SoMarkAI](https://github.com/SoMarkAI/OXR)
   * [OXR: AI 기반 문서 파서 — PDF·이미지를 레이아웃 보존 Markdown/JSON으로 | digitalbourgeois](https://digitalbourgeois.tistory.com/4060)
-  * SoMark 팀의 오픈소스 문서 파싱 모델 OXR(Optical Everything Recognition, Python, 2.6k stars). PDF·문서 이미지를 레이아웃 좌표가 포함된 Markdown/JSON으로 바꿔 에이전트가 쓰기 좋은 데이터로 만듦—처음부터 사전학습했고 후학습에 재귀적 자기개선(RSI) 루프를 문서 파싱에 처음 적용. 1.3B 파라미터로 olmOCR-Bench 87.84·OmniDocBench 97.18·DocParsingBench 87.76로 3개 벤치마크 1위(표 파싱에서 특히 큰 격차)이자 RTX PRO 6000 속도 테스트에서 오픈소스 1위(개발자 공개 수치). 캡션·각주·수식(LaTeX)·표(HTML/Markdown)·스탬프·화학식(mhchem)·화학 구조(SMILES)·코드 블록 등 13종 요소를 바운딩 박스와 함께 인식
+  * SoMark 팀의 오픈소스 문서 파싱 모델 OXR(Optical Everything Recognition, Python). PDF·문서 이미지를 레이아웃 좌표가 포함된 Markdown/JSON으로 바꿔 에이전트가 쓰기 좋은 데이터로 만듦—처음부터 사전학습했고 후학습에 재귀적 자기개선(RSI) 루프를 문서 파싱에 처음 적용. 1.3B 파라미터로 olmOCR-Bench 87.84·OmniDocBench 97.18·DocParsingBench 87.76로 3개 벤치마크 1위(표 파싱에서 특히 큰 격차)이자 RTX PRO 6000 속도 테스트에서 오픈소스 1위(개발자 공개 수치). 캡션·각주·수식(LaTeX)·표(HTML/Markdown)·스탬프·화학식(mhchem)·화학 구조(SMILES)·코드 블록 등 13종 요소를 바운딩 박스와 함께 인식
   * 레이아웃 분석 모듈을 독립·플러거블로 분리한 첫 사례—내장 레이아웃 모델을 도메인별 커스텀 모델로 바꿔도 OXR의 내용 인식·읽기 순서는 그대로 쓸 수 있음. 무료 API와 온라인 데모 제공, 로컬 배포는 Linux·BF16 지원 NVIDIA GPU 24GB+·CUDA 13.0·Python 3.12
 * [PaddleOCR: Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices)](https://github.com/PaddlePaddle/PaddleOCR)
   * [PaddleOCR-VL Upstage만큼 강력합니다 - YouTube](https://www.youtube.com/watch?v=nL88A59qBC0)
@@ -737,16 +737,16 @@ Vision
   * [Self-Hosted Paperless-ngx + Optional Local AI: Private Documents and Improves OCR & Search (Full Setup) | Techno Tim](https://technotim.com/posts/paperless-ngx-local-ai/)
   * [Paperless-ngx: Keep Your Documents Private (Optional Local AI OCR) - YouTube](https://www.youtube.com/watch?v=NMAwHjleqHg)
 * [SmolDocling-OCR-App: SmolDocling OCR App built using SmolDocling 256M Model and Streamlit | AIAnytime](https://github.com/AIAnytime/SmolDocling-OCR-App)
-  * 256M 파라미터 SmolDocling으로 문서 이미지를 OCR해 DocTags와 Markdown 구조화 출력을 내는 Streamlit 앱—단일·다중 이미지 처리, 일반 문서 변환·표(OTSL)·코드·수식(LaTeX)·차트 데이터·섹션 헤더 추출 모드, 결과 다운로드. Python 3.12+, Hugging Face 토큰 필요. Python, MIT
+  * 256M 파라미터 SmolDocling으로 문서 이미지를 OCR해 DocTags와 Markdown 구조화 출력을 내는 Streamlit 앱—단일·다중 이미지 처리, 일반 문서 변환·표(OTSL)·코드·수식(LaTeX)·차트 데이터·섹션 헤더 추출 모드, 결과 다운로드. Python 3.12+, Hugging Face 토큰 필요
 * [surya: OCR and line detection in 90+ languages](https://github.com/VikParuchuri/surya)
 * [TeleOCR: Navigating Document Parsing Across Digital and Camera-Captured Documents](https://github.com/caipeng328/TeleOCR)
   * [2608.12898 NaviDC-OCR: Navigating Document Parsing Across Digital and Camera-Captured Documents](https://arxiv.org/abs/2608.12898)
   * [This Local 1.2B OCR Model Beats GPT-5.2 (and Runs on 8GB GPU) — TeleOCR - Prompt Engineer 48 - YouTube](https://www.youtube.com/watch?v=6TnE5pMVbCQ)
-  * China Telecom AI 팀의 약 1.2B 문서 파싱 VLM(Qwen2.5-VL 인코더 + Qwen3-0.6B, Apache-2.0). NaviDC-OCR에서 이름을 바꿈. 디지털 문서와 카메라로 찍은 휘어진·기울어진 문서를 하나의 모델로 처리. 변형 인지 학습, 곡률 기반 Douglas-Peucker 샘플링(CGDP)으로 다각형 레이아웃 표현, 수식 문법과 표 구조를 따로 배우는 학습, 여러 노드 합의 투표로 만든 의사 라벨과 이미지 간 자기 검증 데이터 엔진
-  * OmniDocBench v1.6 96.87(Gemini 3 Pro·GPT-5.2·Qwen3-VL-235B보다 높음), Wild-OmniDocBench 88.53, PureDocBench 78.41, ICDAR 2026 Sci-ImageMiner 1위. 영상은 RTX 4060 노트북(VRAM 8GB 중 약 2.5GB 사용)에서 기울어진 영수증·구겨진 수학 페이지·손글씨 등을 직접 돌려 실패 사례까지 보여 주고 Gradio 앱으로 감쌈. 커뮤니티 GGUF·llama.cpp 지원, 309 stars
+  * China Telecom AI 팀의 약 1.2B 문서 파싱 VLM(Qwen2.5-VL 인코더 + Qwen3-0.6B). NaviDC-OCR에서 이름을 바꿈. 디지털 문서와 카메라로 찍은 휘어진·기울어진 문서를 하나의 모델로 처리. 변형 인지 학습, 곡률 기반 Douglas-Peucker 샘플링(CGDP)으로 다각형 레이아웃 표현, 수식 문법과 표 구조를 따로 배우는 학습, 여러 노드 합의 투표로 만든 의사 라벨과 이미지 간 자기 검증 데이터 엔진
+  * OmniDocBench v1.6 96.87(Gemini 3 Pro·GPT-5.2·Qwen3-VL-235B보다 높음), Wild-OmniDocBench 88.53, PureDocBench 78.41, ICDAR 2026 Sci-ImageMiner 1위. 영상은 RTX 4060 노트북(VRAM 8GB 중 약 2.5GB 사용)에서 기울어진 영수증·구겨진 수학 페이지·손글씨 등을 직접 돌려 실패 사례까지 보여 주고 Gradio 앱으로 감쌈. 커뮤니티 GGUF·llama.cpp 지원
 * [Texo: A minimalist SOTA LaTeX OCR model with only 20M parameters, running in browser. Full training pipeline available for self-reproduction. | 超轻量SOTA LaTeX公式识别模型，仅20M参数量，可在浏览器中运行。训练全流程代码开源，以便自学复现。](https://github.com/alephpi/Texo/)
 * [Unlimited-OCR: long-horizon document parsing OCR model by Baidu](https://github.com/baidu/Unlimited-OCR)
-  * 바이두의 장문 문서 파싱용 OCR 비전-언어 모델. DeepSeek-OCR을 개선해 긴 문서를 한 번에(one-shot) 처리, 단일 이미지·멀티페이지·PDF 지원. 컨텍스트 32,768 토큰, Transformers/vLLM/SGLang 추론, Gundam·base 모드. 11.2k stars
+  * 바이두의 장문 문서 파싱용 OCR 비전-언어 모델. DeepSeek-OCR을 개선해 긴 문서를 한 번에(one-shot) 처리, 단일 이미지·멀티페이지·PDF 지원. 컨텍스트 32,768 토큰, Transformers/vLLM/SGLang 추론, Gundam·base 모드
 
 # OpenCL
 * [ClojureCL - Parallel computations with OpenCL 2.0 in Clojure High Performance Computing and GPGPU in Clojure: access the supercomputer on your desktop](http://clojurecl.uncomplicate.org/)
@@ -1111,7 +1111,7 @@ Vision
 * [MyColPali: The PyQt6 application using ColPali and OpenAI to show Efficient Document Retrieval with Vision Language Models](https://github.com/hyun-yang/MyColPali)
 * [peepshow — video → frames → LLM. Any LLM CLI. Any storage backend.](https://www.peepshow.dev/)
   * [peepshow: Turn a video — or an animated GIF, APNG, or WebP — into a timeline of still frames so an LLM can read it | t0mtaylor](https://github.com/t0mtaylor/peepshow)
-  * 영상·GIF·APNG·WebP를 정지 프레임 타임라인으로 바꿔 어떤 LLM CLI든 읽게 하는 도구. JavaScript, MIT
+  * 영상·GIF·APNG·WebP를 정지 프레임 타임라인으로 바꿔 어떤 LLM CLI든 읽게 하는 도구
 * [PersonaPlex: Real-time, full-duplex speech-to-speech conversational model with persona control](https://arxiv.org/abs/2602.06053)
   * [personaplex](https://github.com/NVIDIA/personaplex)
   * [personaplex-7b-v1](https://huggingface.co/nvidia/personaplex-7b-v1)
@@ -1123,7 +1123,7 @@ Vision
   * [2604.22875 SketchVLM: Vision language models can annotate images to explain thoughts and guide users](https://arxiv.org/abs/2604.22875)
   * [SketchVLM Interactive Demo](https://sketch-vlm-demo.vercel.app/)
   * Brandon Collins·Logan Bolton·Hung Huy Nguyen·Mohammad Reza Taesiri·Trung Bui·Anh Totti Nguyen(Auburn·Adobe, 2026-04-23). 사람은 이미지 질문에 답할 때 가리키고 라벨 붙이고 그려서 설명하는데 Gemini-3-Pro·GPT-5 같은 VLM은 텍스트로만 답해 검증이 어렵다는 문제—학습 없이 모델 불문으로 입력 이미지 위에 비파괴·편집 가능한 SVG 오버레이를 그려 답을 시각적으로 설명하게 하는 프레임워크. 이미지에 좌표 그리드를 덧씌워 모델에 보내고 모델이 낸 SVG 스트로크를 다시 이미지에 렌더링(`collab_sketch_with_label.py`, `--adaptive-grid`로 해상도별 그리드 자동 조정, Claude·GPT·Gemini·OpenRouter 지원)
-  * 시각 추론(미로 탐색·공 낙하 궤적 예측·물체 개수 세기)과 드로잉(부위 라벨링·점 잇기·물체 둘레 그리기) 7개 벤치마크에서 이미지 편집·파인튜닝 스케치 베이스라인 대비 추론 정확도 최대 +28.5%p, 주석 품질 최대 1.48배, 모델이 말한 답과 더 일치하는 주석. 단일 턴만으로도 강하고 멀티턴은 인간-AI 협업 여지를 열어 줌. 이미지 업로드·질문 입력 후 모델이 그 위에 추론을 스케치하는 라이브 데모 제공. Jupyter Notebook, 134 stars
+  * 시각 추론(미로 탐색·공 낙하 궤적 예측·물체 개수 세기)과 드로잉(부위 라벨링·점 잇기·물체 둘레 그리기) 7개 벤치마크에서 이미지 편집·파인튜닝 스케치 베이스라인 대비 추론 정확도 최대 +28.5%p, 주석 품질 최대 1.48배, 모델이 말한 답과 더 일치하는 주석. 단일 턴만으로도 강하고 멀티턴은 인간-AI 협업 여지를 열어 줌. 이미지 업로드·질문 입력 후 모델이 그 위에 추론을 스케치하는 라이브 데모 제공
 * [Thinking-with-Visual-Primitives: DeepSeek 멀티모달 추론, 포인트/바운딩 박스를 추론 체인에 끼워 넣어 'Reference Gap' 해결](https://github.com/ailuntx/Thinking-with-Visual-Primitives)
   * [DeepSeek's New AI Is A Game Changer - YouTube (Two Minute Papers)](https://www.youtube.com/watch?v=LpXhy2iiaQE)
   * [Thinking_with_Visual_Primitives.pdf](https://huggingface.co/datasets/NodeLinker/deepseek-ai-Thinking-with-Visual-Primitives-deleted-repo/blob/main/Thinking_with_Visual_Primitives.pdf)

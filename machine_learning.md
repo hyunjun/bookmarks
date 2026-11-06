@@ -7,7 +7,7 @@ Machine Learning
 * [VSBE2020: OAQA 양자 머신러닝 알고리즘의 기반 - Hyun Byung Park (박현병), 양자오리 at KAITA - YouTube](https://www.youtube.com/watch?v=ZZcyzVxYxqQ)
 * [Awesome-Mobility-Machine-Learning-Contents](https://github.com/zzsza/Awesome-Mobility-Machine-Learning-Contents)
 * [awesome-machine-learning-resources: 😎 A curated list of awesome lists across all machine learning topics | ZhiningLiu1998](https://github.com/ZhiningLiu1998/awesome-machine-learning-resources)
-  * 머신러닝·딥러닝 전 주제(학습 패러다임·과제·응용·모델·윤리·교차 학문·데이터셋·프레임워크·튜토리얼)의 awesome 리스트 380개+를 모은 "리스트의 리스트"—입문자는 분야 지형과 최신 흐름을, 연구자는 새 연구 방향을, 엔지니어는 적합한 튜토리얼·라이브러리를 찾도록 구성. 12개월 이상 갱신이 멈춘 리스트는 ⚠️ inactive로 표시. 영·중 README, CC0-1.0, 851 stars
+  * 머신러닝·딥러닝 전 주제(학습 패러다임·과제·응용·모델·윤리·교차 학문·데이터셋·프레임워크·튜토리얼)의 awesome 리스트 380개+를 모은 "리스트의 리스트"—입문자는 분야 지형과 최신 흐름을, 연구자는 새 연구 방향을, 엔지니어는 적합한 튜토리얼·라이브러리를 찾도록 구성. 12개월 이상 갱신이 멈춘 리스트는 ⚠️ inactive로 표시. 영·중 README, CC0-1.0
 * [applied-ml: 📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production](https://github.com/eugeneyan/applied-ml)
 * [Machine Learning Roadmap 2020](https://whimsical.com/CA7f3ykvXpnJ9Az32vYXva) mindmap
 * [ml-roadmap](https://github.com/merveenoyan/ml-roadmap)
@@ -805,7 +805,7 @@ Machine Learning
 * [Machine Learning Refined 2nd Edition | GitHub, PDFs & Notebooks](https://www.mlrefined.com/)
   * [machine-learning-refined: Master the fundamentals of machine learning, deep learning, and mathematical optimization by building key concepts and models from scratch using Python](https://github.com/neonwatty/machine-learning-refined)
   * Cambridge 대학 교재 2판(Watt·Borhani·Katsaggelos)의 공식 사이트·레포. 100+ 대학에서 참고 교재로 채택. "Visualize. Derive. Implement."—기하학적 직관→정확한 수식→실행 가능한 Python 순서로 모든 주제를 다루고, 최적화 관점으로 통일. 선수 지식은 기초 Python과 행렬 수학
-  * 레포에 챕터 PDF 무료 공개·소스 Jupyter 노트북·연습문제·강의 슬라이드, 사이트에 경사하강법·로지스틱 회귀·K-means 등 from-scratch 학습 가이드와 애니메이션 노트북 모음, Colab/로컬 설정 안내. Python, 2.3k stars
+  * 레포에 챕터 PDF 무료 공개·소스 Jupyter 노트북·연습문제·강의 슬라이드, 사이트에 경사하강법·로지스틱 회귀·K-means 등 from-scratch 학습 가이드와 애니메이션 노트북 모음, Colab/로컬 설정 안내
 * [Machine Learning Systems](https://mlsysbook.ai/) 1400페이지에 이르는 방대한 양, machine learning 영역이 넓어지며 system 구축이 중요한 일이 되었는데, 이 분야에 대한 책
   * [cs249r_book: Introduction to Machine Learning Systems](https://github.com/harvard-edge/cs249r_book)
 * [Machine Learning with TensorFlow](http://tensorflowbook.com/)
@@ -819,9 +819,9 @@ Machine Learning
 * [maths-cs-ai-compendium: Become a cracked AI/ML researcher/engineer with this unconventional textbook covering maths, computing, and ML with intuition | HenryNdubuaku](https://github.com/HenryNdubuaku/maths-cs-ai-compendium)
   * [Maths, CS & AI Compendium 온라인 읽기](https://henryndubuaku.github.io/maths-cs-ai-compendium/)
   * 밀도 높은 표기 아래 아이디어를 묻고 직관을 건너뛰는 교과서들에 대한 반작용으로, 수학·컴퓨팅·AI를 바닥부터 직관 우선·실제 맥락으로 설명하는 오픈 교과서. 저자가 수년간 쌓은 노트로 2025년 친구들이 DeepMind·OpenAI·NVIDIA 면접을 준비해 모두 합격했고 본인은 Y Combinator에 들어간 뒤 공개
-  * 챕터: 벡터, 행렬(LU·QR·SVD), 미적분·최적화, 통계, 확률·베이즈·정보이론, 머신러닝(고전 ML·딥러닝·강화학습·분산 학습), 전산언어학(RNN·어텐션·트랜스포머·MoE·SSM·현대 LLM), 컴퓨터 비전(검출·세그멘테이션·SLAM·ViT·확산·flow matching), 오디오·음성 등. Claude Code·Cursor 등이 지식 베이스로 쓸 수 있는 MCP 서버 포함. TypeScript, Apache-2.0, 7.7k stars
+  * 챕터: 벡터, 행렬(LU·QR·SVD), 미적분·최적화, 통계, 확률·베이즈·정보이론, 머신러닝(고전 ML·딥러닝·강화학습·분산 학습), 전산언어학(RNN·어텐션·트랜스포머·MoE·SSM·현대 LLM), 컴퓨터 비전(검출·세그멘테이션·SLAM·ViT·확산·flow matching), 오디오·음성 등. Claude Code·Cursor 등이 지식 베이스로 쓸 수 있는 MCP 서버 포함
 * [ml-engineering: Machine Learning Engineering Open Book | stas00](https://github.com/stas00/ml-engineering)
-  * 대규모 LLM/VLM 학습·운영 실무를 다룬 오픈북—하드웨어·병렬화·디버깅·성능. Python, 19k stars
+  * 대규모 LLM/VLM 학습·운영 실무를 다룬 오픈북—하드웨어·병렬화·디버깅·성능
 * [Model-Based Machine Learning](http://www.mbmlbook.com/)
 * [PRML(Pattern Recognition & Machien Learning, Bishop) 정리](http://norman3.github.io/prml/)
   * [Pattern Recognition and Machine Learning](http://nbviewer.jupyter.org/github/metamath1/ml-simple-works/blob/master/PRML/prml-chap2.ipynb)
@@ -1837,11 +1837,11 @@ Machine Learning
   * [streamlit-google-oauth: An example Streamlit application that incorporates Google OAuth 2.0](https://github.com/hunkim/streamlit-google-oauth)
 * [tabfm: A scikit-learn compatible tabular foundation model for zero-shot classification and regression | Google Research](https://github.com/google-research/tabfm)
   * [Introducing TabFM: a zero-shot foundation model for tabular data | Google Research](https://research.google/blog/introducing-tabfm-a-zero-shot-foundation-model-for-tabular-data/)
-  * 하이퍼파라미터 튜닝·피처 엔지니어링 없이 in-context learning으로 단일 forward pass 예측하는 tabular 파운데이션 모델. 수억 개 합성 데이터셋으로 사전학습, JAX·PyTorch 백엔드, scikit-learn 호환. Apache 2.0
+  * 하이퍼파라미터 튜닝·피처 엔지니어링 없이 in-context learning으로 단일 forward pass 예측하는 tabular 파운데이션 모델. 수억 개 합성 데이터셋으로 사전학습, JAX·PyTorch 백엔드, scikit-learn 호환
 * [TabPFN - One Model, Infinite Predictions | Prior Labs](https://priorlabs.ai/)
   * [TabPFN: Foundation Model for Tabular Data](https://github.com/PriorLabs/TabPFN)
   * [TabPFN - 테이블 데이터를 위한 파운데이션 모델 | GeekNews](https://news.hada.io/topic?id=29719)
-  * Tabular 데이터 파운데이션 모델. scikit-learn fit/predict 인터페이스, 분류·회귀. 합성 데이터로만 학습, 첫 사용 시 체크포인트 자동 다운로드—별도 학습 파이프라인 불필요. 전처리 없이 raw 데이터(스케일링·원핫 X), 결측치 내부 처리. GPU ~8GB VRAM+, CPU는 ~1,000 샘플 한정, TabPFN Client 클라우드 추론 제공. 배치 예측 필수(개별 호출 ~100배 느림). 최적: 100K 샘플·2K feature 미만. SHAP·이상치·합성 데이터·임베딩 추출 등 Extensions, large features/samples/small samples 특화 체크포인트. Enterprise 1천만 행·저레이턴시 distilled 추론·노코드 UX. Nature 게재, 7K stars, 3M 다운로드, TabArena 93% win rate. SAP €1B+ 4년 인수 합의. TabPFN-3는 1M rows/0.2s + Thinking mode. API/VPC/Databricks/SageMaker/Azure AI Foundry/MCP 배포. 코드 Prior Labs License(Apache 2.0+attribution), 가중치 비상업
+  * Tabular 데이터 파운데이션 모델. scikit-learn fit/predict 인터페이스, 분류·회귀. 합성 데이터로만 학습, 첫 사용 시 체크포인트 자동 다운로드—별도 학습 파이프라인 불필요. 전처리 없이 raw 데이터(스케일링·원핫 X), 결측치 내부 처리. GPU ~8GB VRAM+, CPU는 ~1,000 샘플 한정, TabPFN Client 클라우드 추론 제공. 배치 예측 필수(개별 호출 ~100배 느림). 최적: 100K 샘플·2K feature 미만. SHAP·이상치·합성 데이터·임베딩 추출 등 Extensions, large features/samples/small samples 특화 체크포인트. Enterprise 1천만 행·저레이턴시 distilled 추론·노코드 UX. Nature 게재, 3M 다운로드, TabArena 93% win rate. SAP €1B+ 4년 인수 합의. TabPFN-3는 1M rows/0.2s + Thinking mode. API/VPC/Databricks/SageMaker/Azure AI Foundry/MCP 배포. 코드 Prior Labs License(Apache 2.0+attribution), 가중치 비상업
 * TensorDash [A Must-Have Tool for Every Data Scientist | by Arun | Oct, 2020 | Towards Data Science](https://towardsdatascience.com/a-must-have-tool-for-every-data-scientist-5e7c76f1916f)
 * [tpot - A Python tool that automatically creates and optimizes machine learning pipelines using genetic programming. http://rhiever.github.io/tpot ](https://github.com/rhiever/tpot)
 * Uber
@@ -1894,7 +1894,7 @@ Machine Learning
 * [envharness: A programmable layer that turns static agent environments into adaptive training worlds | Google Research](https://github.com/google-research/envharness)
   * [Google AI Introduces EnvHarness: A Programmable Layer that Turns Static Agent Environments into Adaptive Training Worlds | MarkTechPost](https://www.marktechpost.com/2026/08/30/google-ai-introduces-envharness-a-programmable-layer-that-turns-static-agent-environments-into-adaptive-training-worlds/)
   * [Google이 공개한 EnvHarness, 정적인 AI 에이전트 환경을 적응형 학습 환경으로 바꾸는 방법 | digitalbourgeois](https://digitalbourgeois.tistory.com/3607)
-  * Google Cloud AI Research·Washington University in St. Louis·UNC Chapel Hill 연구팀. 사람이 만들어 고정해 둔 에이전트 벤치마크 환경은 에이전트 실력이 향상되면 새로운 학습 기회를 주지 못한다는 문제의식—환경을 새로 만드는 대신 기존 환경을 그대로 유지하면서 에이전트의 현재 능력·약점에 맞춰 환경을 변형하는 프로그래머블 계층. Python, Apache-2.0
+  * Google Cloud AI Research·Washington University in St. Louis·UNC Chapel Hill 연구팀. 사람이 만들어 고정해 둔 에이전트 벤치마크 환경은 에이전트 실력이 향상되면 새로운 학습 기회를 주지 못한다는 문제의식—환경을 새로 만드는 대신 기존 환경을 그대로 유지하면서 에이전트의 현재 능력·약점에 맞춰 환경을 변형하는 프로그래머블 계층
 * [hydrogym: An RL-Gym for Challenge Problems in Data-Driven Modeling and Control of Fluid Dynamics](https://github.com/dynamicslab/hydrogym)
   * [HydroGym: A Reinforcement Learning Platform for Fluid Dynamics - YouTube](https://www.youtube.com/watch?v=SQrPBk6f0GY)
   * [HydroGym Nature 논문](https://www.nature.com/articles/s41586-026-10917-6)

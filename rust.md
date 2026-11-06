@@ -395,7 +395,7 @@
   * [Rust Iced Tutorial: Build a Desktop App with a Real API | Codynn - YouTube](https://www.youtube.com/watch?v=CQsXK973zdE)
     * [Build a Desktop App in Rust with Iced – Part 1 | Codynn](https://www.codynn.com/documentation/build-a-desktop-app-in-rust-with-iced-part-1)
     * [The Elm Architecture in Rust: Why Iced Apps Are Easy to Reason About | Codynn](https://www.codynn.com/blogs/read/the-elm-architecture-in-rust-why-iced-apps-are-easy-to-reason-about)
-    * 53분 입문 튜토리얼 1부(2026-10-13, Iced 0.14). 사이트 가동 여부·응답 속도를 보여주는 데스크톱 앱 Pulse 제작—Docker Compose로 백엔드+Postgres를 띄우고, API 문서를 serde 구조체로 옮기고, Iced 앱의 4요소(state·message·update·view)를 익힌 뒤 reqwest+Iced Task로 창을 멈추지 않고 백그라운드에서 실시간 데이터 로드. 구조체·enum·match 정도의 기본 Rust만 필요
+    * 53분 입문 튜토리얼 1부(Iced 0.14). 사이트 가동 여부·응답 속도를 보여주는 데스크톱 앱 Pulse 제작—Docker Compose로 백엔드+Postgres를 띄우고, API 문서를 serde 구조체로 옮기고, Iced 앱의 4요소(state·message·update·view)를 익힌 뒤 reqwest+Iced Task로 창을 멈추지 않고 백그라운드에서 실시간 데이터 로드. 구조체·enum·match 정도의 기본 Rust만 필요
 * [imageflow - High-performance image manipulation for web servers. Includes imageflow_server, imageflow_tool, and libimageflow https://docs.imageflow.io ](https://github.com/imazen/imageflow)
 * [IronCalc: Main engine of the IronCalc ecosystem](https://github.com/ironcalc/IronCalc)
   * [IronCalc - Open-Source Spreadsheet Engine](https://www.ironcalc.com/)
@@ -448,7 +448,7 @@
 * [Ratatui | Ratatui](https://ratatui.rs/)
   * [Introducing Ratatui: A Rust library to cook up terminal user interfaces - FOSDEM 2024 - YouTube](https://www.youtube.com/watch?v=NU0q6NOLJ20)
   * [Ratatui Tutorial for Beginners: Build a Rust System Monitor | Codynn - YouTube](https://www.youtube.com/watch?v=U20S5pxTUhU)
-    * Ratatui로 실시간 htop 스타일 시스템 모니터 구축: CPU 바, 메모리 게이지, 히스토리 그래프, 프로세스 테이블 (112분)
+    * Ratatui로 실시간 htop 스타일 시스템 모니터 구축: CPU 바, 메모리 게이지, 히스토리 그래프, 프로세스 테이블
 * RDBC [Rust Database Connectivity (RDBC)](https://andygrove.io/2020/01/rust-database-connectivity-rdbc/)
 * [Redox - Your Next(Gen) OS - Redox - Your Next(Gen) OS](https://www.redox-os.org/)
   * [Redox: A Rust Operating System https://redox-os.org](https://github.com/jackpot51/redox)
@@ -468,7 +468,7 @@
 * [RustFS — High-Performance, Apache 2.0 Alternative to MinIO](https://rustfs.com/)
   * [rustfs: 🚀 High-performance distributed object storage for MinIO alternative](https://github.com/rustfs/rustfs)
   * [RustFS - Rust로 만든 MinIO 대안 분산 객체 스토리지 | GeekNews](https://news.hada.io/topic?id=29532)
-  * Rust 기반 엔터프라이즈급 분산 파일 시스템. 100% S3 호환, 멀티 클라우드 중복화, WORM 객체 잠금, 동기·비동기 액티브 복제, 버전 관리. Zero-master 분산 아키텍처(TB→EB), 92%+ 읽기/쓰기 속도 향상, 100MB 미만 바이너리. Apache 2.0
+  * Rust 기반 엔터프라이즈급 분산 파일 시스템. 100% S3 호환, 멀티 클라우드 중복화, WORM 객체 잠금, 동기·비동기 액티브 복제, 버전 관리. Zero-master 분산 아키텍처(TB→EB), 92%+ 읽기/쓰기 속도 향상, 100MB 미만 바이너리
 * [rust_opencv_study: Rust & OpenCV Example Codes](https://github.com/bipark/rust_opencv_study)
 * [rustorm - A simple ORM for rust](https://github.com/ivanceras/rustorm)
 * [rustpad: Efficient and minimal collaborative code editor, self-hosted, no database required](https://github.com/ekzhang/rustpad)
@@ -535,7 +535,7 @@
 * [vizia: A declarative GUI library written in Rust](https://github.com/vizia/vizia)
   * [vizia - Rust Docs](https://docs.vizia.dev/vizia/)
   * DSL 매크로 없이 순수 Rust로 선언형 GUI를 작성하는 크로스플랫폼(Windows·Linux·macOS) 데스크톱 프레임워크. 상태가 바뀌면 바인딩된 뷰가 자동 갱신되는 반응형 구조, morphorm 기반 유연한 레이아웃, 핫 리로드 스타일시트, 애니메이션, 25개+ 기본 뷰와 라이트·다크 테마(Tabler 아이콘 4,250+)
-  * accesskit 기반 접근성, fluent 기반 다국어, skia 렌더링(필요한 부분만 다시 그림), 오디오 플러그인 개발 지원. MIT, 2.3k stars
+  * accesskit 기반 접근성, fluent 기반 다국어, skia 렌더링(필요한 부분만 다시 그림), 오디오 플러그인 개발 지원
 * [webrtc: A pure Rust implementation of WebRTC API. Rewrite Pion WebRTC stack (http://Pion.ly) in Rust!](https://github.com/webrtc-rs/webrtc)
 * [windows-drivers-rs: Platform that enables Windows driver development in Rust. Developed by Surface](https://github.com/microsoft/windows-drivers-rs)
 * [windows-rs: Rust for Windows](https://github.com/microsoft/windows-rs)
@@ -547,7 +547,7 @@
   * [Doing a database join with CSV files](https://www.johndcook.com/blog/2019/12/31/sql-join-csv-files/)
 * [yoagent: The agent loop for Rust — stream from 7 LLM protocols, run tools, loop until done](https://github.com/yologdev/yoagent)
   * [yoagent Documentation](https://yologdev.github.io/yoagent/)
-  * Rust용 에이전트 루프 크레이트—7개 LLM 프로토콜(Anthropic·OpenAI 호환·Groq·Google·Ollama·LM Studio/llama.cpp/vLLM 등) 스트리밍, 도구 실행, 완료까지 루프. `ModelConfig`만 바꾸면 프로바이더·API 키 환경변수가 따라오고, `AgentEvent` 스트림(MessageUpdate·ToolExecutionStart·AgentEnd)으로 소비. `cargo run --example cli -- --provider ollama`로 API 키 없이 파일 읽기/쓰기/편집·셸·ripgrep 검색·스킬을 갖춘 미니 코딩 에이전트를 터미널에서 바로 실행. MIT, 211 stars
+  * Rust용 에이전트 루프 크레이트—7개 LLM 프로토콜(Anthropic·OpenAI 호환·Groq·Google·Ollama·LM Studio/llama.cpp/vLLM 등) 스트리밍, 도구 실행, 완료까지 루프. `ModelConfig`만 바꾸면 프로바이더·API 키 환경변수가 따라오고, `AgentEvent` 스트림(MessageUpdate·ToolExecutionStart·AgentEnd)으로 소비. `cargo run --example cli -- --provider ollama`로 API 키 없이 파일 읽기/쓰기/편집·셸·ripgrep 검색·스킬을 갖춘 미니 코딩 에이전트를 터미널에서 바로 실행
 
 # Python
 * [Rust for Python Programmers](http://lucumr.pocoo.org/2015/5/27/rust-for-pythonistas/)
@@ -575,7 +575,7 @@
   * Byte Without Bite(2026-10, 6분 30초). Python이 ML 연구를 지배하는데 왜 AI 인프라에서 Rust가 자라는가—PyTorch·TensorFlow 코드 아래 Python→C++→CUDA→GPU로 내려가는 스택을 따라가며 Rust가 어디에 들어가는지 설명. 선택 이유: GC 없는 성능, 안전한 동시성, 메모리 레이아웃 제어, PyO3·maturin으로 Python 통합. 데이터 파이프라인·CPU 병목이 값비싼 GPU를 놀게 만드는 문제
   * Python 개발자가 이미 쓰는 Rust 기반 도구—Hugging Face tokenizers·safetensors, OpenAI tiktoken, Polars, Pydantic—와 추론 서버·벡터 DB·ML 프레임워크(Candle·Burn)에서의 역할. "Rust가 Python을 대체하나?"에는 연구 레이어와 시스템 레이어를 구분하면 둘이 공존하며, Rust는 C++의 대안 자리라는 답
 * [Why AI Companies Are Moving to Rust | Code Bear - YouTube](https://www.youtube.com/watch?v=kq7_2bDLtls)
-  * 2026-10-17, 5분. GitHub은 엔지니어 1명과 AI 에이전트 팀이 Copilot 에이전트 런타임을 Rust로 옮겼고, Claude Code 밑의 런타임 Bun도 Claude 에이전트로 Rust 재작성, OpenAI Codex CLI는 2025년에 Rust로—AI 업계는 거의 Python을 쓰는데 왜? 프롬프트 하나를 스택 아래로 따라가며 Rust가 실제로 있는 곳(에이전트 CLI, tiktoken 토크나이저, safetensors 모델 가중치, vLLM Rust 프런트엔드 RFC 같은 서버 정문, uv 같은 Python 도구)을 짚음
+  * GitHub은 엔지니어 1명과 AI 에이전트 팀이 Copilot 에이전트 런타임을 Rust로 옮겼고, Claude Code 밑의 런타임 Bun도 Claude 에이전트로 Rust 재작성, OpenAI Codex CLI는 2025년에 Rust로—AI 업계는 거의 Python을 쓰는데 왜? 프롬프트 하나를 스택 아래로 따라가며 Rust가 실제로 있는 곳(에이전트 CLI, tiktoken 토크나이저, safetensors 모델 가중치, vLLM Rust 프런트엔드 RFC 같은 서버 정문, uv 같은 Python 도구)을 짚음
   * Python 자체는 괜찮지만 Python 서버가 문제이고 C++은 메모리 안전성 문제(Chromium·Android 사례)가 있으며, AI 에이전트가 대규모 재작성을 싸게 만들었다는 점이 전환을 가속. Rust가 돕지 못하는 곳(Cloudflare 2025-11-18 장애, 컴파일 시간, Microsoft의 2030 전환 계획 철회)까지—결론: 사람이 생각하고 실험하는 곳은 Python, 종일 도는 부분은 Rust, GPU 수학은 여전히 CUDA C++. 수치는 각 회사 자체 발표 기준(자막은 받지 못해 설명·챕터로 정리)
 * [pyo3 - Rust bindings for the Python interpreter](https://github.com/PyO3/pyo3)
   * [Introduction - PyO3 user guide](https://pyo3.rs/)
@@ -715,7 +715,7 @@
 * [dufs: A file server that supports static serving, uploading, searching, accessing control, webdav...](https://github.com/sigoden/dufs)
   * [dufs - Rust로 작성된 경량 파일/웹 서버 | GeekNews](https://news.hada.io/topic?id=14795)
 * [Falco: Tiny browser engine written from scratch in Rust | poxk](https://github.com/poxk/Falco)
-  * 처음부터 Rust로 만든 작은 브라우저 엔진—HTML·CSS·JavaScript·SVG·이미지를 PNG 또는 라이브 인터랙티브 창으로 렌더링. 약 73,000줄, 바이너리 ~12MB, MIT
+  * 처음부터 Rust로 만든 작은 브라우저 엔진—HTML·CSS·JavaScript·SVG·이미지를 PNG 또는 라이브 인터랙티브 창으로 렌더링. 약 73,000줄, 바이너리 ~12
 * [hyper - fast and safe HTTP for the Rust language](https://hyper.rs/)
 * [IRON - extensible web framework for rust](http://ironframework.io/)
 * [Rocket - a web framework for Rust that makes it simple to write fast, secure web applications without sacrificing flexibility, usability, or type safety](https://rocket.rs/)

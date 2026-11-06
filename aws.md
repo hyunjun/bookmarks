@@ -688,10 +688,10 @@ AWS
 * [AWS 에 구축하는 클라우드 디자인 패턴 시리즈 4부: API 관리 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/cloud-design-patterns-on-aws-4/)
 * [AWS 에 구축하는 클라우드 디자인 패턴 시리즈 5부: 데이터 관리 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/cloud-design-patterns-on-aws-5/)
 * [aws-diagram-design: AWS 브랜드로 스킨된 에디토리얼 다이어그램 스킬](https://github.com/masangbeom/aws-diagram-design)
-  * "ALB 뒤에 Fargate 서비스 두고, RDS Multi-AZ랑 ElastiCache 붙는 VPC 3-티어 구성도 그려줘"처럼 말로 설명하면 공식 AWS Architecture Icons·Amazon Ember 타이포그래피·VPC/서브넷/Region/계정 컨테이너 색상·배지 규약이 적용된 다이어그램을 자체 완결형 HTML로 생성(SVG/PNG 내보내기). Claude Code·Kiro용, cathrynlavery/diagram-design 스킬에 AWS 공식 아이콘 패키지를 입힌 변형. MIT
+  * "ALB 뒤에 Fargate 서비스 두고, RDS Multi-AZ랑 ElastiCache 붙는 VPC 3-티어 구성도 그려줘"처럼 말로 설명하면 공식 AWS Architecture Icons·Amazon Ember 타이포그래피·VPC/서브넷/Region/계정 컨테이너 색상·배지 규약이 적용된 다이어그램을 자체 완결형 HTML로 생성(SVG/PNG 내보내기). Claude Code·Kiro용, cathrynlavery/diagram-design 스킬에 AWS 공식 아이콘 패키지를 입힌 변형
   * 아키텍처 구성도(서버리스·VPC 네트워크·멀티 계정/멀티 리전·하이브리드 Direct Connect/VPN)부터 플로차트·시퀀스·상태 머신·ER·타임라인·스윔레인·간트·조직도·레이어 스택·데이터 플로 등 총 27개 시각 타입 지원. 기존 draw.io(.drawio)·Mermaid(.mmd) 파일을 내용은 유지한 채 지정한 크기·상세도(문서용/슬라이드용/요약본)로 재작도
 * [oh-my-cloud-skills: AWS 콘텐츠 제작·인프라 운영을 위한 Claude Code 플러그인 6종 모음](https://github.com/Atom-oh/oh-my-cloud-skills)
-  * HTML 프레젠테이션·PPTX·Draw.io 아키텍처 다이어그램·SVG 트래픽 플로우·GitBook·Workshop Studio 콘텐츠 생성, EKS/네트워크/IAM 트러블슈팅, Well-Architected 6필러 100점 리뷰, Kiro/Codex/Gemini 변환·멀티 AI 협업. AWS MCP 서버(지식·문서·API·가격·IaC) 연동. MIT
+  * HTML 프레젠테이션·PPTX·Draw.io 아키텍처 다이어그램·SVG 트래픽 플로우·GitBook·Workshop Studio 콘텐츠 생성, EKS/네트워크/IAM 트러블슈팅, Well-Architected 6필러 100점 리뷰, Kiro/Codex/Gemini 변환·멀티 AI 협업. AWS MCP 서버(지식·문서·API·가격·IaC) 연동
 
 # Athena
 * [AWS Athena와 Google BigQuery 간단 비교기](https://docs.google.com/document/d/15SYAJ-B3__1zgNraieDiOAdz3tDK_40O55BKmUrQCt0/edit)
@@ -804,7 +804,7 @@ AWS
 * [경농의 스마트팜 지원을 위한 농업 AI 챗봇 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/knco-agricultural-ai-chatbot-for-smart-farm/)
   * [Amazon Bedrock Vision LLM과 Amazon OpenSearch Service를 활용한 농약 제품 이미지 인식 시스템 구축기 (2부) | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/knco-agricultural-ai-chatbot-for-smart-farm-part2/)
     * [메가존클라우드 AI Architect Unit 김보근·정진호 프로젝트 소개 | Hyunmin Kim | LinkedIn](https://www.linkedin.com/posts/hyunmin-kim-1356a260_%EB%A9%94%EA%B0%80%EC%A1%B4%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-ai-architect-unit-%EC%9D%98-%EA%B9%80%EB%B3%B4%EA%B7%BC%EB%8B%98-%EC%A0%95%EC%A7%84%ED%98%B8%EB%8B%98-%EB%91%90%EB%B6%84%EC%9D%B4-share-7471000545214939136-B54R/)
-    * 2026-06-11. (주)경농 파밍노트 고도화—고령 농업인이 긴 농약 제품명을 타이핑하는 대신 스마트폰으로 촬영만 하면 약 4,000종 중 제품을 찾아 주는 시스템(AWS·메가존클라우드). 흐리거나 회전된 사진·한글/숫자/특수문자 섞인 라벨을 Vision LLM이 완벽히 못 읽는다는 전제로 "OCR이 틀려도 찾는" 3단계 설계: ①Claude Haiku 4.5 라벨 정보 추출+RapidFuzz 오타 보정 ②OpenSearch 계층적 fallback 검색(exact→prefix/suffix wildcard를 한 쿼리로) ③LLM 리랭커가 원본 이미지를 다시 보고 최종 판단
+    * (주)경농 파밍노트 고도화—고령 농업인이 긴 농약 제품명을 타이핑하는 대신 스마트폰으로 촬영만 하면 약 4,000종 중 제품을 찾아 주는 시스템(AWS·메가존클라우드). 흐리거나 회전된 사진·한글/숫자/특수문자 섞인 라벨을 Vision LLM이 완벽히 못 읽는다는 전제로 "OCR이 틀려도 찾는" 3단계 설계: ①Claude Haiku 4.5 라벨 정보 추출+RapidFuzz 오타 보정 ②OpenSearch 계층적 fallback 검색(exact→prefix/suffix wildcard를 한 쿼리로) ③LLM 리랭커가 원본 이미지를 다시 보고 최종 판단
     * 기술적 선택: 보완 구조 덕에 Sonnet 대신 Haiku로 응답 1~3초, '가네마이트'와 '카네마이트' 같은 고유명사 차이는 임베딩이 못 잡아 벡터 검색을 끄고 BM25 사용, 외부 OCR 없이 프롬프트에 "제품명은 가장 큰 텍스트" 한 줄로 디자인 폰트 인식 해결—모델의 완벽함보다 오차를 복구하는 시스템 설계가 성능·비용·UX의 최적점
 * [대한항공의 AI 대전환: Amazon Bedrock 기반 AI 컨택센터 지식 검색 챗봇 구축 사례 - YouTube](https://www.youtube.com/watch?v=7YbZAOKK3gs)
   * [대한항공의 AI 대전환: Amazon Bedrock 기반 AI 컨택센터 지식 검색 챗봇 구축 사례 | 김영민](https://www.linkedin.com/posts/aldente0630_%EB%8C%80%ED%95%9C%ED%95%AD%EA%B3%B5%EC%9D%98-ai-%EB%8C%80%EC%A0%84%ED%99%98-amazon-bedrock-%EA%B8%B0%EB%B0%98-ai-%EC%BB%A8%ED%83%9D%EC%84%BC%ED%84%B0-%EC%A7%80%EC%8B%9D-activity-7377987988041019392-TkL8)
@@ -829,7 +829,7 @@ AWS
   * LiteLLM·AWSome AI Gateway 같은 AI 게이트웨이가 업계에서 주목받는 흐름 속 LiteLLM + AWS 조합. 게이트웨이를 경유하면 "누가 호출했는가"가 사라지는데 `X-Amzn-Bedrock-Request-Metadata` 헤더로 사용자·팀 정보를 Bedrock 로그에 주입해 감사 추적 복원
   * Application Inference Profile을 모델별로 만들어 CloudWatch에서 모델별 사용량을 관측하고 IAM 권한을 프로파일 ARN으로 한정해 모델 거버넌스 확보. Virtual Key 레벨 예산 강제 + IAM Identity Center 자동 매핑으로 개발자 단위 사용 통제, VPC 격리로 안전한 운영
 * [Amazon Bedrock 기반 Claude Code, 조직에서 안전하게 운영하기: LLM Gateway 구축 가이드 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/bedrock-claude-code-llm-gw/)
-  * 2026-04-07. "개발자가 AI 코딩 도구를 쓰고 싶다는데 보안팀이 허용해도 될까?"—Claude Code를 Bedrock에 직접 붙이면 IAM 권한만으로 동작하고 Model Invocation Logging·CloudWatch·Athena·Lambda로 자체 관리도 가능하지만 사용자별 비용 집계·예산 차단이 어려움(제한 없이 100명이 쓰면 월 수만 달러). IAM Identity Center SSO(Entra ID·Okta와 SAML 2.0 연동)+LiteLLM Proxy 기반 Gateway로 개발자는 한 번 로그인, 관리자는 사용자별 사용량 추적·예산 관리. 전체 인프라 CDK 코드 공개
+  * "개발자가 AI 코딩 도구를 쓰고 싶다는데 보안팀이 허용해도 될까?"—Claude Code를 Bedrock에 직접 붙이면 IAM 권한만으로 동작하고 Model Invocation Logging·CloudWatch·Athena·Lambda로 자체 관리도 가능하지만 사용자별 비용 집계·예산 차단이 어려움(제한 없이 100명이 쓰면 월 수만 달러). IAM Identity Center SSO(Entra ID·Okta와 SAML 2.0 연동)+LiteLLM Proxy 기반 Gateway로 개발자는 한 번 로그인, 관리자는 사용자별 사용량 추적·예산 관리. 전체 인프라 CDK 코드 공개
 * [단일 LLM Gateway 아키텍처 : Claude Code와 Codex를 Amazon Bedrock을 통해 한 곳에서 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/single-llm-gw-arch/)
   * [AWS 환경에서는 Amazon Bedrock을 통해 Claude Code와 Codex를 동시에 사용할 수 있습니다 | Jinsung Huh | LinkedIn](https://www.linkedin.com/posts/jinsungh_aws-%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C%EB%8A%94-amazon-bedrock%EC%9D%84-%ED%86%B5%ED%95%B4-claude-code%EC%99%80-share-7476169742467362816-viXd/)
   * 2026-06-26(2026-08-21 GPT-5.6이 bedrock-runtime으로 호출 가능해져 bedrock-mantle 내용 갱신). 조직의 고민은 "도입할까"가 아니라 "어떻게 운영할까"—Claude Code와 Codex를 하나의 LLM Gateway로: ①단일 인증·단일 엔드포인트 ②단일 API Key 단위로 두 도구 예산 통합, 초과 시 실시간 차단 ③MCP 서버 자격증명 중앙 관리·권한·호출 내역 통합 추적 ④단일 진입점에서 PII·자격증명·프롬프트 인젝션을 같은 정책으로 차단하는 Guardrails ⑤Bedrock-Runtime과 Mantle의 로깅 차이를 게이트웨이가 흡수해 Observability 통합(Jinsung Huh·Dohyung Kim SA)
@@ -844,7 +844,7 @@ AWS
   * 해법은 기존 사전 검색 ACL 필터 위에 실시간 ACL 검사를 한 층 더—1단계: 벡터 인덱스 시맨틱 검색+인덱스에 저장된 ACL로 후보 문서를 좁힘(모든 문서에 실시간 API 호출은 비용상 불가), 2단계: Google Drive 예시처럼 관리자가 제공한 서비스 계정 자격 증명으로 사용자를 impersonation해 사용자별 액세스 토큰을 발급받아 소스 API에 문서별 권한을 질의 시점에 확인하고 통과한 구절만 LLM 컨텍스트로 전달. 권한 회수가 몇 시간·며칠이 아닌 즉시(within moments) 반영되고 동기화 주기 걱정 없이 지식 기반 범위를 확장 가능. Bedrock Guardrails·grounding 체크와 결합. Mondelēz International이 4개 지역 3만 5천여 명에 Amazon Quick을 배포한 사례 인용
 * [Amazon Bedrock launches a redesigned console optimized for OpenAI- and Anthropic-compatible APIs - AWS](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-redesigned-console-optimized-openai-anthropic-compatible-apis/)
   * [Amazon Bedrock — OpenAI/Anthropic 호환 API를 위한 새로운 콘솔 출시 | Woo Hyung Choi | LinkedIn](https://www.linkedin.com/posts/woohyungchoi_amazon-bedrock-openai-anthropic-%ED%98%B8%ED%99%98-share-7469869000236236800-N1eH/)
-  * 2026-06-04. 평가→실험→운영 라이프사이클 중심으로 Bedrock 콘솔 전면 개편—OpenAI Responses·Chat Completions API와 Anthropic Messages API를 쓰던 앱이 Bedrock Mantle 엔드포인트로 쉽게 이전하도록 최적화. Claude·GPT·오픈 웨이트 통합 모델 카탈로그, capability·멀티모달·컨텍스트 윈도·서비스 쿼터 비교, 프로젝트 단위 모델 선택·평가·Usage Insights, 모델 ID·리전·Mantle 엔드포인트 URL·API 키를 자동 반영하는 project-aware 문서·코드 생성
+  * 평가→실험→운영 라이프사이클 중심으로 Bedrock 콘솔 전면 개편—OpenAI Responses·Chat Completions API와 Anthropic Messages API를 쓰던 앱이 Bedrock Mantle 엔드포인트로 쉽게 이전하도록 최적화. Claude·GPT·오픈 웨이트 통합 모델 카탈로그, capability·멀티모달·컨텍스트 윈도·서비스 쿼터 비교, 프로젝트 단위 모델 선택·평가·Usage Insights, 모델 ID·리전·Mantle 엔드포인트 URL·API 키를 자동 반영하는 project-aware 문서·코드 생성
 * [정진호 - 팁 클로드 앱에서 AWS MCP 사용하기 | Facebook](https://www.facebook.com/jinho.jung/posts/pfbid03ekQa1G7x5Wj8Lf8We6qKHR2Xj7R8uuzWiL3xXyaQv61kG9YQ8zRXW55E3CexWfJl)
   * AWS MCP를 Claude 앱 커넥터로 붙이면 콘솔에서 하던 작업을 Claude 앱에서 실행 가능. 설정: 커넥터 메뉴→"aws" 검색→AWS MCP 선택·"+"→계정 호스팅 리전(us-east-1) 선택→Claude 접근 승인→커넥터 목록에서 확인. 테스트 프롬프트 예: "Lightsail 인스턴스 보여줘", "자동 스냅샷 정보 상세하게", "최근 6개월 사용 요금 보여줘", "그래프로 보여줘"
 * [Amazon Bedrock AgentCore (Preview) - AWS](https://aws.amazon.com/ko/bedrock/agentcore/)
@@ -912,7 +912,7 @@ AWS
   * [evaluate-llm-on-korean-dataset: Performs benchmarking on two Korean datasets with minimal time and effort](https://github.com/daekeun-ml/evaluate-llm-on-korean-dataset)
     * [한국어 LLM 평가 리포지토리 전면 개편 & Amazon Nova 2.0 Lite의 한국어 성능 분석 (KMMLU) | Daekeun Kim](https://www.linkedin.com/posts/daekeun-kim_github-daekeun-mlevaluate-llm-on-korean-dataset-activity-7403067104221892609-qyTm)
     * [DeepSeek-V4-Flash-0731의 한국어 벤치마크(CLIcK, HAE-RAE, KMMLU-Pro, KoBALT, MuSR-Ko) & frontier 모델 5종 비교 | Daekeun Kim | LinkedIn](https://www.linkedin.com/posts/daekeun-kim_deepseek-llm-koreannlp-share-7491016451894714368-DsA_/)
-      * 2026-08-06, 개인 프로젝트. DeepSeek-V4-Flash-0731(reasoning none/high/max)을 GPT-5.6 Sol/Terra/Luna·Claude Opus 5·Sonnet 5와 비교—high/max에서 한국어 성능이 frontier 대비 크게 떨어지지 않고 어려운 KMMLU-Pro·KoBALT·MuSR-Ko에서도 Sonnet 5·GPT-5.6 Terra/Luna와 거의 같은 수준. 작년엔 50점도 어렵던 10지선다 KoBALT에서 5개 모델 중 4개가 76%+, Opus 5는 90% 육박. 단 DeepSeek는 reasoning을 켜면 overthinking이 심해 max_tokens를 32K까지 올려도 답이 안 나오는 경우가 잦았고(원인은 reasoning_effort별로 주입되는 "독립적으로 검증할 때까지 추론을 멈추지 말라" 지시문), max_token 도달 시 `<think>`를 강제로 닫고 답만 받는 방식으로 우회
+      * 개인 프로젝트. DeepSeek-V4-Flash-0731(reasoning none/high/max)을 GPT-5.6 Sol/Terra/Luna·Claude Opus 5·Sonnet 5와 비교—high/max에서 한국어 성능이 frontier 대비 크게 떨어지지 않고 어려운 KMMLU-Pro·KoBALT·MuSR-Ko에서도 Sonnet 5·GPT-5.6 Terra/Luna와 거의 같은 수준. 작년엔 50점도 어렵던 10지선다 KoBALT에서 5개 모델 중 4개가 76%+, Opus 5는 90% 육박. 단 DeepSeek는 reasoning을 켜면 overthinking이 심해 max_tokens를 32K까지 올려도 답이 안 나오는 경우가 잦았고(원인은 reasoning_effort별로 주입되는 "독립적으로 검증할 때까지 추론을 멈추지 말라" 지시문), max_token 도달 시 `<think>`를 강제로 닫고 답만 받는 방식으로 우회
 * [aws-ai-ml-workshop-kr/genai/aws-gen-ai-kr/20_applications/08_bedrock_manus at master · aws-samples/aws-ai-ml-workshop-kr · GitHub](https://github.com/aws-samples/aws-ai-ml-workshop-kr/tree/master/genai/aws-gen-ai-kr/20_applications/08_bedrock_manus)
   * [Demo Bedrock-Manus: Data analysis and Report Automation - YouTube](https://www.youtube.com/watch?v=DwWICGLEv14)
 * [AWSome AI Gateway: A unified LLM Gateway for coding agents (Claude Code / Codex / Cowork) | aws-samples/sample-agentic-ai-acceleration-kr](https://github.com/aws-samples/sample-agentic-ai-acceleration-kr/blob/main/projects/awsome-ai-gateway/README.en.md)
@@ -925,7 +925,7 @@ AWS
   * Anthropic Analytics/Admin/Compliance API 통합 대시보드. 참여·생산성·지출·컴플라이언스 11페이지. Bedrock NL 쿼리(스냅샷 분석·자율 SQL 생성). React+Vite/Express+AWS CDK(CloudFront/WAF/ALB/ECS Fargate/Cognito/Athena)
 * [hello-openai — Amazon Bedrock에서 OpenAI 모델 사용하기 (AWS Credential) | kyopark2014](https://github.com/kyopark2014/hello-openai/blob/main/README.md#aws-credential)
   * [AWS Credential을 이용하여 OpenAI 모델을 활용하는 방법 | Kyoungsu Park | LinkedIn](https://www.linkedin.com/posts/kyoungsu-park-9b9a1068_hello-openaireadmemd-at-main-kyopark2014-share-7468440663005675520-14B_/)
-  * OpenAI SDK의 `BedrockOpenAI` 클라이언트로 Responses API를 Bedrock에서 호출(예: `openai.gpt-5.5`, us-east-2, `bedrock-mantle` 엔드포인트)—AWS 기반 인증·과금·IAM·리전 컴플라이언스가 필요할 때. `AWS_BEARER_TOKEN_BEDROCK` Bedrock API Key 방식과 `aws-bedrock-token-generator`로 AWS Credential에서 토큰을 자동 갱신해 스트리밍하는 방식. "AWS SA로서 3년간 OpenAI 모델을 못 쓰던 스트레스에서 벗어나 GPT와 Claude를 단일 API로 안내할 수 있게 됐다"(2026-06-04)
+  * OpenAI SDK의 `BedrockOpenAI` 클라이언트로 Responses API를 Bedrock에서 호출(예: `openai.gpt-5.5`, us-east-2, `bedrock-mantle` 엔드포인트)—AWS 기반 인증·과금·IAM·리전 컴플라이언스가 필요할 때. `AWS_BEARER_TOKEN_BEDROCK` Bedrock API Key 방식과 `aws-bedrock-token-generator`로 AWS Credential에서 토큰을 자동 갱신해 스트리밍하는 방식. "AWS SA로서 3년간 OpenAI 모델을 못 쓰던 스트레스에서 벗어나 GPT와 Claude를 단일 API로 안내할 수 있게 됐다"
 * [korean-chatbot-using-amazon-bedrock: It shows a question and answering chatbot using Multi-LLM and Multi-RAG](https://github.com/kyopark2014/korean-chatbot-using-amazon-bedrock)
   * [RAG를 활용하여 향상된 Korean Chatbot 만들기 - LLM관련 LangChain으로 만들었던 여러 프로젝트들을 하나로 통합하고, 다수의 문서/코드를 RAG에 넣을때 필요한 Event-driven 구조를 적용](https://www.linkedin.com/posts/kyoungsu-park-9b9a1068_llm%EA%B4%80%EB%A0%A8-langchain%EC%9C%BC%EB%A1%9C-%EB%A7%8C%EB%93%A4%EC%97%88%EB%8D%98-%EC%97%AC%EB%9F%AC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%93%A4%EC%9D%84-%ED%95%98%EB%82%98%EB%A1%9C-%ED%86%B5%ED%95%A9%ED%95%98%EA%B3%A0-activity-7167686512178872321-rQgV)
   * [parent-document-retrieval.md at main · kyopark2014/korean-chatbot-using-amazon-bedrock · GitHub](https://github.com/kyopark2014/korean-chatbot-using-amazon-bedrock/blob/main/parent-document-retrieval.md)
@@ -1108,7 +1108,7 @@ AWS
 * [aws-ec2-user-data-cloud-watch-metric-memory-disk](https://linuxer.name/2020/04/aws-ec2-user-data-cloud-watch-metric-memory-disk/)
 * [aws-rum-pipeline: AWS Serverless Real User Monitoring Pipeline — collect, store, query, and visualize RUM data at scale | whchoi98](https://github.com/whchoi98/aws-rum-pipeline)
   * 상용 RUM 서비스를 대체하는 AWS 서버리스 Real User Monitoring 파이프라인. Web(TypeScript)·iOS(Swift)·Android(Kotlin) SDK로 행동·성능·오류 데이터를 하나의 수집 파이프라인에 모아 S3 Parquet에 저장하고 Athena+Grafana(9개 섹션 43패널)와 Bedrock AgentCore 에이전트(Claude Sonnet이 Athena SQL 자동 생성)로 자연어 분석. 50K DAU·하루 약 180만 이벤트를 월 약 $124로 처리한다고 추정
-  * Core Web Vitals(LCP·CLS·INP), JS 오류·크래시·ANR 스택 트레이스, Terraform 12모듈+CDK 12 construct 이중 IaC, CloudFront+Lambda@Edge+Cognito SSO, 셀프호스팅 OpenReplay 세션 리플레이. Python, MIT
+  * Core Web Vitals(LCP·CLS·INP), JS 오류·크래시·ANR 스택 트레이스, Terraform 12모듈+CDK 12 construct 이중 IaC, CloudFront+Lambda@Edge+Cognito SSO, 셀프호스팅 OpenReplay 세션 리플레이
 * [cronally - The easiest way to run cron jobs on AWS](https://cronally.com/)
 * [cwlog](https://github.com/deptno/cwlog) download cloudwatch log
 
@@ -1304,7 +1304,7 @@ AWS
     * S3를 거쳐서 보내도록 해서 비용을 절감하겠다는 아이디어이다(전송후에는 S3에서 지워서 스토리지 비용 절약)
     * 직접 테스트로 1TB를 전송했을 때 직접 보내면 20.48달러가 청구, S3를 통해서 보낼 때는 8센트만 청구
 * [AWS 청구서 보고 NAT 게이트웨이 처음 들어보신 분 - 메이커 에반 | Maker Evan - YouTube](https://www.youtube.com/watch?v=1Ax0q_eIm00)
-  * 작은 앱 하나를 ECS Fargate + RDS Multi-AZ 정석 구성으로 서울 리전에 올리면 한 달 789달러인데 실제 서버값은 166달러, 나머지는 DB 이중화·NAT 게이트웨이(시간·데이터 이중 과금)·로드 밸런서·퍼블릭 IPv4·가용 영역 간 전송·로그 같은 주변 비용이라는 8분 영상. 2025년 7월 바뀐 프리티어, 불편한 배포 과정, AI 에이전트에게 배포를 맡길 때 AWS가 불리한 이유
+  * 작은 앱 하나를 ECS Fargate + RDS Multi-AZ 정석 구성으로 서울 리전에 올리면 한 달 789달러인데 실제 서버값은 166달러, 나머지는 DB 이중화·NAT 게이트웨이(시간·데이터 이중 과금)·로드 밸런서·퍼블릭 IPv4·가용 영역 간 전송·로그 같은 주변 비용이라는 영상. 2025년 7월 바뀐 프리티어, 불편한 배포 과정, AI 에이전트에게 배포를 맡길 때 AWS가 불리한 이유
   * AWS가 맞는 경우와 이미 쓰고 있다면 바로 줄일 수 있는 비용도 다룸. 가격은 2026-10-04 AWS·Railway 공식 가격표 기준 추정치이며, AWS는 이중화 구성 기준이라 Railway와 같은 체급 비교는 아니라는 단서
 * [AWS Data 전송 비용](https://zigispace.net/1192)
 * [회사에 매달 청구되는 aws 비용을 1,000 달러이상 절감했던 이야기](https://kim-jong-hyun.tistory.com/133)
@@ -1413,7 +1413,7 @@ AWS
 * [Top 5 Courses to learn AWS Cloud Formation in 2022 - Best of Lot](https://javarevisited.blogspot.com/2020/08/top-5-courses-to-learn-aws-cloudformation-in-depth.html)
 * [Top 6 Websites to learn AWS Online for FREE in 2022 - Best of Lot](https://javarevisited.blogspot.com/2021/11/top-5-websites-to-learn-aws-online-for.html)
 * [AWS Will Finally Make Sense After This Video | Cloud X Berry - YouTube](https://www.youtube.com/watch?v=LPJ1zHDC0Ck)
-  * 16분 입문 강의(2026-10-24, 설명·자막 기준). 사무실 서버 2대로 운영하는 온라인 신발 가게가 11월 세일에 트래픽 4배로 멈추는 '11월 문제'를 끝까지 따라가며 설명—클라우드란 남이 소유·운영하는 컴퓨터·스토리지·네트워크를 인터넷으로 빌리는 것, 진짜 클라우드의 5가지 조건(온디맨드 셀프서비스·네트워크 접근·자원 풀링·탄력성·사용량 측정), CapEx→OpEx, 주방 비유로 IaaS·PaaS·SaaS
+  * 16분 입문 강의. 사무실 서버 2대로 운영하는 온라인 신발 가게가 11월 세일에 트래픽 4배로 멈추는 '11월 문제'를 끝까지 따라가며 설명—클라우드란 남이 소유·운영하는 컴퓨터·스토리지·네트워크를 인터넷으로 빌리는 것, 진짜 클라우드의 5가지 조건(온디맨드 셀프서비스·네트워크 접근·자원 풀링·탄력성·사용량 측정), CapEx→OpEx, 주방 비유로 IaaS·PaaS·SaaS
   * AWS 구조: 리전 선택 기준, 가용 영역에 분산해야 살아남는 이유, 글로벌·리전·존 단위 서비스 구분, 엣지 로케이션과 CloudFront. 계정: 루트 사용자 보호, IAM 사용자, Organizations 다중 계정, ARN. 초보자가 자주 틀리는 것: 콘솔·CLI·SDK는 모두 같은 API 호출, 실제 과금 항목, 서버 '중지'≠'삭제', 예산은 경고만 하고 지출을 막지 않음, SLA와 '파이브 나인'의 뜻, 공동 책임 모델
 
 # DevOps Guru
@@ -1476,12 +1476,12 @@ AWS
 * [채널톡 스타트업 기술 성장기: RDBMS에서 NoSQL로의 전환 - YouTube](https://www.youtube.com/watch?v=hMTaMRsuIf8)
 * [DynamoDB 핫 파티션을 해결하는 3가지 방법 (1): 인덱스 테이블로 GSI 떼어내기 설계편 | 채널톡](https://tech.channel.io/kr/articles/tech-dynamodb-hot-partition-03b2a039)
   * [DynamoDB 핫 파티션 이슈를 해결하는 3가지 방법 - 1편 | Jinyoung Park | LinkedIn](https://www.linkedin.com/posts/jinyoung-park-2b48b6215_backend-aws-dynamodb-share-7460886975026270209-gTXZ)
-  * 2026-05-14, 채널톡 백엔드 제이온(Jinyoung Park)의 4편 연재 중 1편. User 테이블의 managed GSI가 PK=channelId·SK=lastSeenAt이라 한 채널 트래픽이 같은 파티션에 쏠리고 SK 변경마다 쓰기가 2배—파티션당 1,000 WCU 한계에 닿으면 GSI Back-Pressure로 메인 테이블 쓰기 전체가 거부되고, GSI와 무관한 Boot 요청까지 막혀 고객사 사이트에서 채널톡 위젯이 안 뜨는 장애로 번짐
+  * 채널톡 백엔드 제이온(Jinyoung Park)의 4편 연재 중 1편. User 테이블의 managed GSI가 PK=channelId·SK=lastSeenAt이라 한 채널 트래픽이 같은 파티션에 쏠리고 SK 변경마다 쓰기가 2배—파티션당 1,000 WCU 한계에 닿으면 GSI Back-Pressure로 메인 테이블 쓰기 전체가 거부되고, GSI와 무관한 Boot 요청까지 막혀 고객사 사이트에서 채널톡 위젯이 안 뜨는 장애로 번짐
   * 키 샤딩·도메인 테이블 분리를 검토한 끝에 GSI를 떼어 내고 인덱스 테이블+자동 동기화 파이프라인을 직접 구축("채널톡만의 GSI")—비즈니스 로직은 User 테이블만 보게 두고 DynamoDB Streams(Kinesis)→자체 마이크로서비스→Rate Limiter→SQS 버퍼로 전파. 임시 테이블·Dual Write 없는 무중단 마이그레이션 전략까지
 * [삼성 클라우드의 Amazon DynamoDB 비용 최적화 여정 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/sec-cloud-amazon-dynamodb-cost-optimization-journey/)
 * [How Amazon Dynamo Works - by Saurabh Dashora](https://newsletter.systemdesigncodex.com/p/how-amazon-dynamo-works)
 * [Building with API Gateway, Lambda and DynamoDB Single-Table Design for Multi-Tenant SaaS - DEV Community](https://dev.to/aws-builders/building-with-api-gateway-lambda-and-dynamodb-single-table-design-for-multi-tenant-saas-3cm3)
-  * 2026-03-08, AWS Builders. API Gateway(인그레스)+Lambda(비즈니스 로직)+DynamoDB 단일 테이블+Cognito JWT 인증으로 멀티테넌트 SaaS API를 만드는 엔드투엔드 패턴과 코드. 테넌트 격리 패턴, 파티션 키 설계, 핫 파티션 완화, 접근 패턴별 GSI, 인증 컨텍스트 전파, API Gateway usage plan과 Lambda authorizer로 테넌트별 throttling·쿼터
+  * AWS Builders. API Gateway(인그레스)+Lambda(비즈니스 로직)+DynamoDB 단일 테이블+Cognito JWT 인증으로 멀티테넌트 SaaS API를 만드는 엔드투엔드 패턴과 코드. 테넌트 격리 패턴, 파티션 키 설계, 핫 파티션 완화, 접근 패턴별 GSI, 인증 컨텍스트 전파, API Gateway usage plan과 Lambda authorizer로 테넌트별 throttling·쿼터
 
 # EBS Elastic Block Storage
 * ['AWS는 만능이 아니야'··· EBS 데이터 백업 방법](http://www.ciokorea.com/news/131699)
@@ -1614,7 +1614,7 @@ AWS
   * [How to use AWS ECS for blue/green deployments | Darryl R. posted on the topic | LinkedIn](https://www.linkedin.com/posts/darryl-ruggles_accelerate-safe-software-releases-with-new-activity-7385775571433172992-UQI7)
 * [Amazon ECS 실행 구조와 선택 기준 – 1부: 컴퓨트와 실행 형태 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/ecs-design-01/)
   * [Amazon ECS 실행 구조와 선택 기준 – 2부: 배포 전략과 네트워크, 설계 상한 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/ecs-design-02/)
-  * 2026-09-04, 2026년 8월 기준 정리. 모델 추론 서버·AI 에이전트·도구가 컨테이너로 배포되며 ECS가 다시 주목받는 가운데 "EC2→Fargate 이전 시 launch type이 안 바뀐다"·"GPU는 필요하지만 OS 패치는 부담"·"6종 배포 전략 중 무엇을" 같은 고민의 답을 한 원칙으로: launch type은 Task definition이 호환되는 실행 환경을 선언하는 값으로만 쓰고 실제 실행은 capacity provider로 구성. 1부는 Fargate·ECS Managed Instances·EC2 컴퓨트 선택과 Express Mode부터 예약 Task까지의 실행 형태
+  * 2026년 8월 기준 정리. 모델 추론 서버·AI 에이전트·도구가 컨테이너로 배포되며 ECS가 다시 주목받는 가운데 "EC2→Fargate 이전 시 launch type이 안 바뀐다"·"GPU는 필요하지만 OS 패치는 부담"·"6종 배포 전략 중 무엇을" 같은 고민의 답을 한 원칙으로: launch type은 Task definition이 호환되는 실행 환경을 선언하는 값으로만 쓰고 실제 실행은 capacity provider로 구성. 1부는 Fargate·ECS Managed Instances·EC2 컴퓨트 선택과 Express Mode부터 예약 Task까지의 실행 형태
   * 2부: 배포 컨트롤러 3종(ECS·CodeDeploy·External) 중 ECS 컨트롤러의 ROLLING·BLUE_GREEN·LINEAR·CANARY를 합친 6종 배포 전략(기본 Rolling, Linear는 step 3.0~100.0%·bake 0~1,440분, Blue/Green·Linear·Canary는 ALB/NLB 또는 Service Connect 필요), 네트워크·스토리지·플랫폼 옵션, 상황별 선택 가이드와 설계 상한이 되는 서비스 쿼터
 
 ## ECS Fargate
@@ -1768,7 +1768,7 @@ AWS
 * [How to Set Karpenter on Amazon EKS Using Helm (Step-by-Step with NodePool & EC2NodeClass) | Nenis Rudani | Medium](https://medium.com/@cavasakilala/how-to-set-karpenter-on-amazon-eks-using-helm-step-by-step-with-nodepool-ec2nodeclass-600ba094d6b0)
   * [terraform_eks: whole terraform code of eks + karpenter helm repo | nenisrudani7](https://github.com/nenisrudani7/terraform_eks)
   * [Karpenter vs Cluster Autoscaler on EKS | Darryl Ruggles | LinkedIn](https://www.linkedin.com/posts/darryl-ruggles_aws-eks-karpenter-share-7491050585476030464-KguS/)
-  * 2026-05-01. Terraform으로 EKS를 만든 뒤 Helm으로 Karpenter를 설치하고 NodePool(새 노드의 요구 조건·스케일링 규칙)과 EC2NodeClass(AMI·서브넷·보안 그룹·IAM 역할·스토리지 등 AWS 설정 템플릿)를 구성하는 단계별 실습. Karpenter 컨트롤러가 pending 파드의 CPU·메모리 요구를 보고 NodeClaim으로 맞는 노드를 띄우고 불필요해지면 제거하는 원리, aws-auth ConfigMap에 Karpenter 노드 역할 추가, 기존 노드를 drain해 모두 Karpenter 관리로 넘기는 방법
+  * Terraform으로 EKS를 만든 뒤 Helm으로 Karpenter를 설치하고 NodePool(새 노드의 요구 조건·스케일링 규칙)과 EC2NodeClass(AMI·서브넷·보안 그룹·IAM 역할·스토리지 등 AWS 설정 템플릿)를 구성하는 단계별 실습. Karpenter 컨트롤러가 pending 파드의 CPU·메모리 요구를 보고 NodeClaim으로 맞는 노드를 띄우고 불필요해지면 제거하는 원리, aws-auth ConfigMap에 Karpenter 노드 역할 추가, 기존 노드를 drain해 모두 Karpenter 관리로 넘기는 방법
   * Darryl Ruggles의 추천: Cluster Autoscaler는 노드 그룹이 유연하지 않고 급증 시 스케일업이 늦으며 인스턴스 타입 튜닝이 끝없지만, Karpenter는 셋 다 낫고 유휴 노드 비용을 줄임. 예제는 테인트로 시스템 파드와 잡 파드를 별도 풀로 나누고 스팟·온디맨드를 섞으며 consolidation으로 저사용 노드를 정리
 * [AWS EKS 비용 절감 방안 (인스턴스 비용 절감) — Jen's Space](https://jenakim47.tistory.com/98)
 * [EKS Auto Mode와 Karpenter 1.15를 나란히 돌려 봤습니다: 스케일 아웃, Balanced consolidation, Drift, Spot 중단 | AtomAI](https://blog.atomai.click/eks-automode-karpenter/)
@@ -1849,7 +1849,7 @@ AWS
     * EKS 1.36·nodeadm 1.0.20 기준(2026-10-12 갱신) 한국어 운영 가이드—사전 요구 사항, 네트워크 구성(RemoteNodeNetwork·RemotePodNetwork·TGW/VGW 라우팅), 인터넷 제한 환경(S3+VPC 엔드포인트), 노드 부트스트랩, GPU 서버 통합, 워크로드 배치, 노드 라이프사이클, 운영, 베어메탈 OS 설치·마이그레이션, Hybrid Nodes Gateway, 보안팀 관점 망분리 검토, SNAT 없는 Pod 연결·PrivateLink 검증. 지원 인터페이스와 예제 구성을 구분하고 "특정 온프렘 프로덕션을 검증한 증거가 아니다"를 명시
   * [EKS Hybrid Nodes를 직접 돌려 봤습니다: gateway를 아껴 써야 하는 이유부터 SNAT 없는 연결, PrivateLink, 링크 단절까지 | AtomAI](https://blog.atomai.click/eks-hybrid-nodes-demos/)
     * [세션 덱에 포함된 같은 글](https://presentation.atomai.click/eks-hybrid-nodes/blog/eks-hybrid-nodes-demos.html)
-    * 세션 5부(라이브 데모) 준비로 2026-10-15~19 측정한 영상 5편 정리(2026-10-19). 온프렘·VPN이 없어 두 번째 VPC를 TGW로 잇고 그 안의 EC2를 hybrid node로 등록한 시뮬레이션(프로덕션 미지원, hybrid 요금 발생). EKS 1.36, Cilium 1.18 AWS 빌드, SSM hybrid activation, 공인 IP 없음. **결론: 중요 서비스에는 Hybrid Nodes gateway를 권하지 않음**—클라우드→hybrid Pod 트래픽 전부가 단일 리더 gateway 노드를 지나고 리더 전환 3~5초 동안 실제 요청 실패(60회 중 1~2회, ALB 경로 191건 중 1건), AMI 교체·인스턴스 변경마다 같은 공백, Cilium L7(`l7Proxy: false`)과 병용 불가. 출발점은 Pod CIDR을 BGP로 광고해 gateway 없이 라우팅하는 구성
+    * 세션 5부(라이브 데모) 준비로 2026-10-15~19 측정한 영상 5편 정리. 온프렘·VPN이 없어 두 번째 VPC를 TGW로 잇고 그 안의 EC2를 hybrid node로 등록한 시뮬레이션(프로덕션 미지원, hybrid 요금 발생). EKS 1.36, Cilium 1.18 AWS 빌드, SSM hybrid activation, 공인 IP 없음. **결론: 중요 서비스에는 Hybrid Nodes gateway를 권하지 않음**—클라우드→hybrid Pod 트래픽 전부가 단일 리더 gateway 노드를 지나고 리더 전환 3~5초 동안 실제 요청 실패(60회 중 1~2회, ALB 경로 191건 중 1건), AMI 교체·인스턴스 변경마다 같은 공백, Cilium L7(`l7Proxy: false`)과 병용 불가. 출발점은 Pod CIDR을 BGP로 광고해 gateway 없이 라우팅하는 구성
     * 데모 2 bursting: ReplicaSet 스케일 인은 위치를 안 봐서 온프렘 Pod가 먼저 지워짐→Kyverno로 hybrid Pod에 `pod-deletion-cost` 부여하면 온프렘 8개 전부 보존, Karpenter `podDeletionCostManagement`(alpha) 추가 시 burst 노드 정리 123→87초. 데모 3: g6.xlarge(L4) hybrid 노드에 vLLM Qwen2.5-0.5B, 드라이버 설치 3분·조인 50초·9.6GB 이미지 4.5분(라이브 시연은 미리 받아 둘 것). Istio sidecar(1.30.6)는 hybrid 노드에서 동작하고 재시도로 리더 전환 중 1,800건 전부 성공(공백이 숨겨질 뿐 사라지진 않음), gateway 경유 시 약 1ms 추가. 데모 4: ALB ip 타깃 갱신은 LB Controller가 담당(rollout 후 54초 수렴), 온프렘→ALB→hybrid Pod는 hairpin, hybrid NodePort→클라우드 Pod는 SG 443 제한으로 실패
     * 데모 5: "방화벽이 Pod IP를 봐야 한다"는 요구로 native routing+masquerade 끔(AWS 지원 범위 밖, VXLAN+masquerade 끔+BGP가 지원되는 대안) 구성—`routingMode: native`, `enableIPv4Masquerade: false`, VPC CNI `AWS_VPC_K8S_CNI_EXCLUDE_SNAT_CIDRS`, source/dest check 해제. 38개 연결 매트릭스(Pod 간·ClusterIP·DNS·API·control plane→hybrid·온프렘 서버·인터넷·PrivateLink 8종) 전부 PASS, 첫 실행 실패 3건은 hostNetwork Pod DNS SG 53 미허용·온프렘 노드 대역 SNAT 제외 누락·익명 `/version` 401(`/livez`로 확인)
 * [EKS Workshop | EKS Workshop](https://www.eksworkshop.com/)
@@ -2320,7 +2320,7 @@ AWS
 * [Lambda Just Got a File System. I Put AI Agents on It](https://edjgeek.com/blog/s3-files-lambda-agents/)
   * S3 Files for Lambda로 S3를 로컬 파일시스템처럼 마운트. 다운로드/업로드 보일러플레이트 제거. AI 에이전트가 마운트된 S3 워크스페이스를 공유하는 서버리스 코드 리뷰 시스템 구축 사례
 * [2026년 상반기 가장 큰 AWS 신규소식! 드디어 출시된 Lambda MicroVM 정리합니다 - YouTube](https://www.youtube.com/watch?v=zxZKU-0iAMs)
-  * AWS 강의실. 2026 상반기 최대 AWS 신규 소식인 Lambda MicroVM 정리(43분)
+  * AWS 강의실. 2026 상반기 최대 AWS 신규 소식인 Lambda MicroVM 정리
 * [AWS-FullStack-Application](https://github.com/Jana0509/AWS-FullStack-Application)
   * [“Building a Full Stack Application: A Serverless Approach with AWS” | by Janarthanan Ravikumar | Medium](https://medium.com/@tojanasg/building-a-full-stack-application-a-serverless-approach-with-aws-ecdeba6e3d88)
     * A straightforward example of building an app on AWS using serverless services using API Gateway, Lambda, and DynamoDB
@@ -2429,9 +2429,9 @@ AWS
 * [AWS Blocks — TypeScript framework to compose backend capabilities from pre-built modules](https://docs.aws.amazon.com/blocks/)
   * [aws-blocks](https://github.com/aws-devtools-labs/aws-blocks)
   * [AWS Blocks: TypeScript Framework for AI-Driven Backend Development | InfoQ](https://www.infoq.com/news/2026/06/aws-blocks-framework-preview/)
-  * AI 에이전트가 백엔드를 만들도록 설계된 오픈소스 TS 프레임워크(퍼블릭 프리뷰). `npm run dev`로 AWS 계정 없이 로컬에 Postgres·인증·실시간 메시징·파일 저장소 실행, 동일 코드가 Lambda/DynamoDB/Aurora/API Gateway/Bedrock에 그대로 배포. 조합형 npm 패키지, 코딩 에이전트를 올바른 아키텍처로 유도하는 steering 파일 내장. 스키마→프론트엔드 타입 안전(Next.js/React/Vue/Angular/Svelte·Swift/Kotlin/Flutter). ~20개 Block, Apache 2.0
+  * AI 에이전트가 백엔드를 만들도록 설계된 오픈소스 TS 프레임워크(퍼블릭 프리뷰). `npm run dev`로 AWS 계정 없이 로컬에 Postgres·인증·실시간 메시징·파일 저장소 실행, 동일 코드가 Lambda/DynamoDB/Aurora/API Gateway/Bedrock에 그대로 배포. 조합형 npm 패키지, 코딩 에이전트를 올바른 아키텍처로 유도하는 steering 파일 내장. 스키마→프론트엔드 타입 안전(Next.js/React/Vue/Angular/Svelte·Swift/Kotlin/Flutter). ~20개
 * [aws-blog-mcp: Unofficial MCP server to search and read AWS Korea tech blog posts (AWS 기술 블로그) | anhyobin](https://github.com/anhyobin/aws-blog-mcp)
-  * AWS 한국어 기술 블로그를 Claude Code·Claude Desktop·Kiro·Cursor·VS Code 등 MCP 클라이언트에서 검색·조회하는 비공식 커뮤니티 MCP 서버(Python, Apache-2.0, `claude mcp add --scope user aws-blog -- uvx aws-blog-mcp@latest`). 공식 AWS Documentation MCP가 다루지 않는 지역 블로그(한국 고객 사례·마이그레이션·아키텍처 글)를 대상으로 하며, 조사만 하는 AWS 디렉터리 API가 완전 일치만 지원해 `쿠버네티스를` 같은 조사·합성어 검색을 놓치는 문제를 한글 부분 일치·조사 제거·한영 동의어(쿠버네티스=Kubernetes=k8s, 베드락=Bedrock)로 해결
+  * AWS 한국어 기술 블로그를 Claude Code·Claude Desktop·Kiro·Cursor·VS Code 등 MCP 클라이언트에서 검색·조회하는 비공식 커뮤니티 MCP 서버(`claude mcp add --scope user aws-blog -- uvx aws-blog-mcp@latest`). 공식 AWS Documentation MCP가 다루지 않는 지역 블로그(한국 고객 사례·마이그레이션·아키텍처 글)를 대상으로 하며, 조사만 하는 AWS 디렉터리 API가 완전 일치만 지원해 `쿠버네티스를` 같은 조사·합성어 검색을 놓치는 문제를 한글 부분 일치·조사 제거·한영 동의어(쿠버네티스=Kubernetes=k8s, 베드락=Bedrock)로 해결
   * 읽기 전용 도구 4개—`search_posts`(카테고리·저자·발행일 필터, relevance/newest 정렬, 페이징), `list_recent_posts`, `list_categories`(카테고리 트리와 글 수), `get_post`(WordPress 위젯을 걷어낸 깨끗한 마크다운, 긴 글은 코드 블록 밖 단락 경계에서 분할). 글은 요청 시 aws.amazon.com에서만 가져오고 저장·재배포하지 않으며 식별 가능한 User-Agent·클라이언트 측 스로틀링·응답 크기 제한 적용. 블로그 레지스트리(`blogs.py`)로 다른 AWS 블로그 확장 여지
 * [**Amazon Builders' Library Amazon의 소프트웨어 구축 및 운영 방식**](https://aws.amazon.com/ko/builders-library/)
 * [AWS CLI v2 - now generally available](https://aws.amazon.com/ko/blogs/developer/aws-cli-v2-is-now-generally-available/)
@@ -2684,7 +2684,7 @@ AWS
   * [vLLM Omni Neuron documentation](https://awsdocs-neuron.readthedocs-hosted.com/en/latest/vllm-omni-neuron/docs/index.html)
   * [AWS Neuron Documentation](https://awsdocs-neuron.readthedocs-hosted.com/)
   * Trn2·Trn3에서 디퓨전(diffusion) 및 멀티모달 생성 모델을 구동할 수 있는 플러그인—vLLM Omni(옴니모달 추론 프레임워크, nlp.md vLLM 하위에 등록)에 Neuron 백엔드를 붙여 같은 API·설정으로 AWS Trainium에서 서빙하는 AWS 권장 솔루션(Beta, 2026-09-30 공개). 지원 모델은 Wan2.2 T2V-A14B(텍스트→비디오)·I2V-A14B(이미지→비디오)로 VBench·레퍼런스 비교 정확도 검증과 릴리스별 성능 벤치마크 추적(성능 튜닝 진행 중). 기능—오프라인 `Omni.generate`·온라인 비동기 생성 API·순차 다단계 파이프라인(연속 배칭은 Wan 파이프라인이 직렬 처리라 '제한', 스텝별 스트리밍 미지원), 병렬화 TP·CP·Megatron SP·CFG 병렬·VAE 패치 병렬, `torch.compile`+재사용 컴파일 캐시, Cache-DiT 가속, BF16과 FP8 ROW_MX 프로젝션(Wan2.2 T2V, Trn3). const-max 링 어텐션·FP8 양자화 융합 adaptive LayerNorm·FP8 QKV/MLP 등 NKI 커널을 레포에 벤더링하고 다른 모델에 응용할 수 있게 커널 레퍼런스 문서화
-  * 설치는 SDK 2.32 드라이버·런타임을 준비한 호스트에 Python 3.13으로 `pip install --extra-index-url=https://pip.repos.neuron.amazonaws.com -e .` 또는 vLLM Neuron DLC 컨테이너, 예제 `examples/wan22/run.py`로 480×832 81프레임 영상 생성. 버전 `0.24.0.0.1.0`=vLLM Omni 0.24.0+플러그인 0.1.0. 문서(getting-started·tutorials·models·guides·model-dev·design)는 AWS Neuron 공식 문서 사이트에 게시—문서 루트는 Neuron SDK 전체(Inf1/Inf2/Trn1/Trn2/Trn3 벤치마크·계산기·모델 샘플·NKI)를 다루며, 2.32.0(2026-08-17)에 NKI 0.6.0(온디바이스 top-K·가변 길이 콜렉티브·데이터 의존 런타임 루프), DeepSeek-V3.2 sparse-MLA·MXFP8 MoE 학습용 NKI Library 커널 13개, 컴파일러 64비트 정수 제어, HuggingFace 모델을 vLLM Neuron 백엔드로 포팅하는 Neuron Agentic Development 스킬이 추가됨. Python, Apache-2.0, 3 stars
+  * 설치는 SDK 2.32 드라이버·런타임을 준비한 호스트에 Python 3.13으로 `pip install --extra-index-url=https://pip.repos.neuron.amazonaws.com -e .` 또는 vLLM Neuron DLC 컨테이너, 예제 `examples/wan22/run.py`로 480×832 81프레임 영상 생성. 버전 `0.24.0.0.1.0`=vLLM Omni 0.24.0+플러그인 0.1.0. 문서(getting-started·tutorials·models·guides·model-dev·design)는 AWS Neuron 공식 문서 사이트에 게시—문서 루트는 Neuron SDK 전체(Inf1/Inf2/Trn1/Trn2/Trn3 벤치마크·계산기·모델 샘플·NKI)를 다루며, 2.32.0에 NKI 0.6.0(온디바이스 top-K·가변 길이 콜렉티브·데이터 의존 런타임 루프), DeepSeek-V3.2 sparse-MLA·MXFP8 MoE 학습용 NKI Library 커널 13개, 컴파일러 64비트 정수 제어, HuggingFace 모델을 vLLM Neuron 백엔드로 포팅하는 Neuron Agentic Development 스킬이 추가됨
 
 ## Machine Learning SageMaker
 * [Amazon SageMaker 출시 – 머신 러닝 기반 서비스 가속화](https://aws.amazon.com/ko/blogs/korea/sagemaker/)
@@ -2757,7 +2757,7 @@ AWS
 * [SageMaker AI Fine-tuning & Serving E2E | daekeun-ml](https://daekeun-ml.github.io/sagemaker-finetune-serve-e2e/)
   * [sagemaker-finetune-serve-e2e: Hands-on toolkit for fine-tuning Gemma 4 on Amazon SageMaker across 5 self-contained tracks: JSON extraction, intent classification, summarization, domain QA, and multimodal](https://github.com/daekeun-ml/sagemaker-finetune-serve-e2e)
   * [답답하니 내가 만든다 Amazon SageMaker SLM 핸즈온: 합성 데이터 → 파인튜닝 → 서빙 → AgentCore까지 | Daekeun Kim | LinkedIn](https://www.linkedin.com/posts/daekeun-kim_aws-sagemaker-slm-share-7489435737587892224-mDrw/)
-  * Gemma 4를 SageMaker AI에서 합성 데이터→파인튜닝→서빙→평가→agentic loop까지 잇는 한국어 핸즈온—JSON 추출·의도 분류·요약·도메인 QA·멀티모달 5개 유스케이스가 각각 독립된 E2E 코스라 필요한 것만 골라 실행. 개념 문서(SageMaker AI 기초: Training Job과 Endpoint의 수명·과금 차이, Studio와의 구분, VPC·network isolation의 control plane과 데이터 경로)와 노트북 실행 순서·전체 지도 제공. Python, MIT
+  * Gemma 4를 SageMaker AI에서 합성 데이터→파인튜닝→서빙→평가→agentic loop까지 잇는 한국어 핸즈온—JSON 추출·의도 분류·요약·도메인 QA·멀티모달 5개 유스케이스가 각각 독립된 E2E 코스라 필요한 것만 골라 실행. 개념 문서(SageMaker AI 기초: Training Job과 Endpoint의 수명·과금 차이, Studio와의 구분, VPC·network isolation의 control plane과 데이터 경로)와 노트북 실행 순서·전체 지도 제공
 * [Multi-RAG와 Multi-Region LLM로 한국어 Chatbot 만들기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/multi-rag-and-multi-region-llm-for-chatbot/)
 * [한국어 Reranker를 활용한 검색 증강 생성(RAG) 성능 올리기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/korean-reranker-rag/)
 * [Amazon SageMaker JumpStart를 이용하여 Falcon Foundation Model기반의 Chatbot 만들기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/chatbot-based-on-falcon-fm/)
@@ -3164,7 +3164,7 @@ AWS
 * [Announcing Amazon S3 Files, making S3 buckets accessible as file systems - AWS](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-s3-files/)
   * [Amazon S3 Files — S3를 파일 시스템처럼 사용하는 새로운 스토리지 패러다임 | Woo Hyung Choi | LinkedIn](https://www.linkedin.com/posts/woohyungchoi_amazon-s3-files-s3%EB%A5%BC-%ED%8C%8C%EC%9D%BC-%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%B2%98%EB%9F%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%EC%83%88%EB%A1%9C%EC%9A%B4-share-7448005363636834304-Q-iR)
   * [S3 Files: Simplified AWS Lambda Processing with Terraform | Darryl Ruggles](https://darryl-ruggles.cloud/s3-files-the-end-of-download-process-upload-with-terraform/)
-    * 2026-04-28. S3 Files는 EFS 기반 관리형 NFS v4.1/4.2 계층으로 read-after-write 일관성·advisory 파일 락·POSIX 권한을 S3 위에 제공(Storage Gateway File Gateway 같은 캐싱 어플라이언스가 아님). EC2·Lambda·EKS·ECS(Fargate·Managed Instances, EC2 launch type은 아직 미지원)에서 마운트해 boto3 없이 파일로 읽고 쓰며 /tmp 저글링·copy-then-delete rename이 사라짐. s3fs-fuse(2010)·Mountpoint 등 S3를 파일 시스템으로 쓰려던 계보를 짚고, 기존 S3 API 방식과 S3 Files 방식 문서 처리 Lambda를 Terraform으로 각각 배포해 벤치마크
+    * S3 Files는 EFS 기반 관리형 NFS v4.1/4.2 계층으로 read-after-write 일관성·advisory 파일 락·POSIX 권한을 S3 위에 제공(Storage Gateway File Gateway 같은 캐싱 어플라이언스가 아님). EC2·Lambda·EKS·ECS(Fargate·Managed Instances, EC2 launch type은 아직 미지원)에서 마운트해 boto3 없이 파일로 읽고 쓰며 /tmp 저글링·copy-then-delete rename이 사라짐. s3fs-fuse(2010)·Mountpoint 등 S3를 파일 시스템으로 쓰려던 계보를 짚고, 기존 S3 API 방식과 S3 Files 방식 문서 처리 Lambda를 Terraform으로 각각 배포해 벤치마크
   * 2026-04-07 GA(34개 리전). 기존 S3 버킷을 데이터 이동·코드 변경 없이 POSIX 스타일 파일 시스템으로 접근—S3 API와 파일 접근 동시 지원, EFS 기반 캐싱으로 저지연·고처리량, 수천 개 컴퓨트 동시 연결, 수 TB/s 집계 읽기. 데이터 레이크 직접 처리·ML 데이터 준비·AI 에이전트 상태 공유에 적합
 * [glacier_deep_archive_backup: Extremely low cost backup/restore for S3 Glacier Deep Archive](https://github.com/mrichtarsky/glacier_deep_archive_backup)
 * [glacier-restore: Utility script to restore files on AWS S3 that have the GLACIER storage class.](https://github.com/ryujt/glacier-restore)
@@ -3240,7 +3240,7 @@ AWS
   * 관리형 MCP 서버의 IAM 보안 제어. 새 IAM 컨텍스트 키로 사람/AI 작업 구분, VPC 엔드포인트 지원 예정
 * [Automate public TLS certificate issuance with ACME support in AWS Certificate Manager | AWS News Blog](https://aws.amazon.com/ko/blogs/aws/automate-public-tls-certificate-issuance-with-acme-support-in-aws-certificate-manager/)
   * [AWS Certificate Manager(ACM) ACME 프로토콜 지원 | 동현김 | LinkedIn](https://www.linkedin.com/posts/%EA%B9%80-%EB%8F%99%ED%98%84-00b73a138_automate-public-tls-certificate-issuance-share-7478064653651222528-PsIe/)
-  * 2026-06-30. CA/Browser Forum이 공개 인증서 최대 유효기간을 2027-03부터 100일, 2029년까지 47일로 줄이므로 수동 갱신은 불가능해짐—ACM이 Let's Encrypt와 같은 ACME 프로토콜의 완전관리형 서버 엔드포인트를 제공해 Certbot·Caddy·Traefik 등 ACMEv2 클라이언트로 EC2·컨테이너·온프레미스 워크로드의 공개 TLS 인증서를 자동 발급·갱신. 관리자는 중앙 거버넌스·IAM 접근 제어·도메인 범위 지정
+  * CA/Browser Forum이 공개 인증서 최대 유효기간을 2027-03부터 100일, 2029년까지 47일로 줄이므로 수동 갱신은 불가능해짐—ACM이 Let's Encrypt와 같은 ACME 프로토콜의 완전관리형 서버 엔드포인트를 제공해 Certbot·Caddy·Traefik 등 ACMEv2 클라이언트로 EC2·컨테이너·온프레미스 워크로드의 공개 TLS 인증서를 자동 발급·갱신. 관리자는 중앙 거버넌스·IAM 접근 제어·도메인 범위 지정
   * 주의점(동현김): ACME 인증서 유효기간은 최대 45일(일반 ACM 관리형 198일), ELB·CloudFront·API Gateway 같은 AWS 통합 서비스에 바인딩 불가, 개인 키를 클라이언트가 보관해 키 관리 책임도 따라옴. 발급·갱신마다 도메인 단위 과금—FQDN 첫 1,000개 $1.00, 다음 1,000개 $0.50, 와일드카드 첫 500개 $5.00
 * [cloudfox: Find exploitable attack paths in cloud infrastructure](https://github.com/BishopFox/cloudfox)
   * [Introducing CloudFox | Bishop Fox](https://bishopfox.com/blog/introducing-cloudfox)
@@ -3256,7 +3256,7 @@ AWS
   * 무료 오픈소스(MIT) 로컬 AWS 에뮬레이터—계정·인증 토큰·유료 기능 게이트 없이 `docker compose up`만으로 localhost:4566에 AWS 호환 서비스 제공. AWS SDK·CLI·Terraform·CDK·OpenTofu·테스트 스위트를 그대로 사용, Testcontainers 연동, 웹 콘솔, LocalStack 마이그레이션 가이드. Java 구현
 * [kumo: A lightweight AWS service emulator written in Go](https://github.com/sivchari/kumo)
   * [kumo - Go로 작성된 경량 AWS 서비스 에뮬레이터 | GeekNews](https://news.hada.io/topic?id=28793)
-  * 단일 바이너리 Go 기반 76개 AWS 서비스 에뮬레이터. 인증 불필요, Docker 지원, 선택적 JSON 데이터 보존, localhost:4566. CI/CD·로컬 개발용. MIT
+  * 단일 바이너리 Go 기반 76개 AWS 서비스 에뮬레이터. 인증 불필요, Docker 지원, 선택적 JSON 데이터 보존, localhost:4566. CI/CD·로컬 개발용
 * [localstack: 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!](https://github.com/localstack/localstack)
   * [LocalStack을 활용한 Integration Test 환경 만들기 | 우아한형제들 기술블로그](https://techblog.woowahan.com/2638/)
   * [LocalStack: Turbocharging dev loops and team collaboration for cloud applications by Waldemar Hummer - YouTube](https://www.youtube.com/watch?v=YIkKsnxb9eE)
@@ -3269,7 +3269,7 @@ AWS
   * [ministack: Free, open-source local AWS emulator - 60+ services, Terraform compatible, real databases](https://github.com/ministackorg/ministack)
   * [MiniStack - 무료 오픈소스 로컬 AWS 에뮬레이터 | GeekNews](https://news.hada.io/topic?id=28106)
   * LocalStack 무료 대안. 34개 AWS 서비스 에뮬레이션, 실제 Postgres/Redis/Docker 컨테이너, 2초 시작, 회원가입/API 키 불필요
-  * 이후 60개+ AWS 서비스로 확대(단일 포트), 멀티 어카운트·멀티 리전, Terraform 호환. Python 3.12, MIT, 4.2k stars
+  * 이후 60개+ AWS 서비스로 확대(단일 포트), 멀티 어카운트·멀티 리전, Terraform 호환. Python 3.12+
 * [moto: A library that allows you to easily mock out tests based on AWS infrastructure](https://github.com/getmoto/moto)
   * [how to work moto mock aws function internally? - Codingdog Blog](https://codingdog.pe.kr/2024/04/17/how-to-work-moto-mock-aws-function-internally/)
 * [sample-qa-studio](https://github.com/aws-samples/sample-qa-studio)
@@ -3657,4 +3657,4 @@ AWS
 * [Protect Your Web Site with AWS WAF and CloudFront](https://dev.to/aws-builders/protect-your-web-site-with-aws-waf-and-cloudfront-2p8c)
 * [AWS WAF announces AI traffic monetization - AWS](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-waf-ai-traffic-monetization/)
   * [AWS WAF AI Traffic Monetization 출시 — AI Agent 트래픽을 수익으로 전환 | Woo Hyung Choi | LinkedIn](https://www.linkedin.com/posts/woohyungchoi_aws-waf-ai-traffic-monetization-%EC%B6%9C%EC%8B%9C-ai-share-7472643591182602240-EAev/)
-  * 2026-06-15. 콘텐츠 제공자·API 운영자가 AI 봇·에이전트의 접근에 비용을 부과하고 결제를 검증한 뒤 허용—HTTP 402 Payment Required와 x402 오픈 프로토콜로 가격·라이선스 조건을 전달하면 에이전트가 자동 결제, CloudFront 엣지에서 WAF가 결제를 검증하고 단일 요청 사이클 안에 scoped access token 발급. 검증된 AI 검색 에이전트·미검증 에이전트·학습용 크롤러별 차등 가격, 에이전트별 사용량·매출 Revenue Analytics, Coinbase x402 Facilitator 연동 등 machine payments 생태계 지원
+  * 콘텐츠 제공자·API 운영자가 AI 봇·에이전트의 접근에 비용을 부과하고 결제를 검증한 뒤 허용—HTTP 402 Payment Required와 x402 오픈 프로토콜로 가격·라이선스 조건을 전달하면 에이전트가 자동 결제, CloudFront 엣지에서 WAF가 결제를 검증하고 단일 요청 사이클 안에 scoped access token 발급. 검증된 AI 검색 에이전트·미검증 에이전트·학습용 크롤러별 차등 가격, 에이전트별 사용량·매출 Revenue Analytics, Coinbase x402 Facilitator 연동 등 machine payments 생태계 지원

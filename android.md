@@ -311,7 +311,7 @@ Android
 * [Install Linux on ANY Samsung Phone — No Termux, No Root - YouTube](https://www.youtube.com/watch?v=IvvpNrzS21o)
   * [DroidDesk: DroidDesk turns your Android phone into a real Linux desktop using Termux, Termux X11, TUR, and Proot](https://github.com/orailnoor/DroidDesk)
   * [DroidDesk-Enhanced — 영상 제작자가 포크해 확장한 버전](https://github.com/techjarves/DroidDesk-Enhanced)
-  * Tech Jarves. APK 설치 후 기본 설정으로 5~6분 설치, 개발자 옵션에서 `disable child process restrictions`를 켜야 백그라운드 실행 가능, 첫 부팅 약 30초. VNC 원격 데스크톱이 아니라 Linux 커널에서 네이티브 실행되며 Turnip Vulkan 드라이버로 GPU 가속, Samsung DeX와 붙이면 창 리사이즈·나란히 배치가 되는 데스크톱처럼 동작하고 Android 앱도 Linux 데스크톱에서 그대로 열림. 내장 앱스토어로 Firefox·VS Code를 클릭 설치(2~3분), Ollama 오프라인 로컬 AI·Claude Code·Python 웹앱·LibreOffice·Wireshark 실행 시연. 설정에서 Linux 환경 백업·복원 가능. Kotlin, GPL-3.0(원본 3.6k stars)
+  * Tech Jarves. APK 설치 후 기본 설정으로 5~6분 설치, 개발자 옵션에서 `disable child process restrictions`를 켜야 백그라운드 실행 가능, 첫 부팅 약 30초. VNC 원격 데스크톱이 아니라 Linux 커널에서 네이티브 실행되며 Turnip Vulkan 드라이버로 GPU 가속, Samsung DeX와 붙이면 창 리사이즈·나란히 배치가 되는 데스크톱처럼 동작하고 Android 앱도 Linux 데스크톱에서 그대로 열림. 내장 앱스토어로 Firefox·VS Code를 클릭 설치(2~3분), Ollama 오프라인 로컬 AI·Claude Code·Python 웹앱·LibreOffice·Wireshark 실행 시연. 설정에서 Linux 환경 백업·복원 가능
   * 제목의 "No Termux"는 과장—영상 설명 자체가 "The project runs on Termux/Termux-X11 with Linux userspace components"라고 밝히고 레포 설명도 Termux·Termux X11·TUR·Proot 기반임을 명시. 루트 불필요는 사실이고, GPU 가속은 하드웨어 의존(Adreno/Snapdragon은 Turnip, 그 외는 소프트웨어 렌더링 폴백)
 * [Android 폰에 웹서버 설치하기 - 신현석(Hyeonseok Shin)](https://hyeonseok.com/blog/925)
 * [Android XR: AI 기반의 새로운 확장 현실 플랫폼 | GeekNews](https://news.hada.io/topic?id=18244)
@@ -545,15 +545,15 @@ Android
 * [OCR_Plus_Table](https://github.com/JaeMinYooon/OCR_Plus_Table) table OCR -> excel
 * [OpenSMS: An open-source solution for a SMS API Server hosted locally | daslearning-org](https://github.com/daslearning-org/OpenSMS)
   * [Self Host SMS Gateway | Open Source SMS API Application | DasLearning - YouTube](https://www.youtube.com/watch?v=wNXH_3onjfg)
-    * 7분 데모(2026-10-16, 설명 기준, 자막은 429로 미확인). 활성 SIM이 든 Android 폰 하나로 내 SMS API 게이트웨이를 셀프호스팅할 수 있느냐는 질문에 "된다"로 답하는 영상
-  * Android 폰을 로컬 SMS API 서버로 바꾸는 오픈소스 앱(Python—FastAPI API 계층+KivyMD/Kivy UI, Apache-2.0)—광고 없음·프라이버시 중심. 릴리스 APK 설치 후 권한 부여(Android가 SMS 권한을 막으면 앱 설정의 '제한된 액세스 허용'), Start Server를 누르면 첫 실행 때 API 키 생성, `POST /sms/`에 Bearer 키와 `{number, text}` JSON을 보내면 발송. 향후 Quectel EC200U USB 보드로 Linux·Windows 데스크톱 지원 계획, buildozer로 APK 빌드
+    * 데모. 활성 SIM이 든 Android 폰 하나로 내 SMS API 게이트웨이를 셀프호스팅할 수 있느냐는 질문에 "된다"로 답하는 영상
+  * Android 폰을 로컬 SMS API 서버로 바꾸는 오픈소스 앱(Python—FastAPI API 계층+KivyMD/Kivy UI)—광고 없음·프라이버시 중심. 릴리스 APK 설치 후 권한 부여(Android가 SMS 권한을 막으면 앱 설정의 '제한된 액세스 허용'), Start Server를 누르면 첫 실행 때 API 키 생성, `POST /sms/`에 Bearer 키와 `{number, text}` JSON을 보내면 발송. 향후 Quectel EC200U USB 보드로 Linux·Windows 데스크톱 지원 계획, buildozer로 APK 빌드
 * [PHONK - Self-contained Creative scripting toolbox for new and old Android devices](https://phonk.app/)
 * [PowerPrefs - A Powerful Android SharedPreferences wrapper Library Written in Kotlin 🤩🔥](https://github.com/tarifchakder/PowerPrefs)
 * [Profiler를 통한 메모리 관리 #안드로이드 스튜디오](https://developer88.tistory.com/229)
 * [Google Developers Korea Blog: Baseline Profile로 앱 성능을 개선해보세요](https://developers-kr.googleblog.com/2022/03/improving-app-performance-with-baseline.html)
 * [PIT4ADB: 파파고 이미지 번역을 ADB로 구현](https://github.com/kdrkdrkdr/PIT4ADB)
 * [playtranslate: A real-time game translation Android app for language learners and players](https://github.com/dominostars/playtranslate)
-  * 21개 게임 언어·59개 사용자 언어 지원. 원탭 번역, 자동 번역 모드(대화 변경 자동 인식), 떠다니는 사전 렌즈, 후리가나/병음 위 표시, 핫키 홀드 미리보기, 듀얼 디스플레이, 영역 크롭, AnkiDroid 익스포트. 오프라인 OCR/번역, 온디바이스 AI 옵션. Kotlin, GPL-3.0
+  * 21개 게임 언어·59개 사용자 언어 지원. 원탭 번역, 자동 번역 모드(대화 변경 자동 인식), 떠다니는 사전 렌즈, 후리가나/병음 위 표시, 핫키 홀드 미리보기, 듀얼 디스플레이, 영역 크롭, AnkiDroid 익스포트. 오프라인 OCR/번역, 온디바이스 AI 옵션
 * [rawdrawandroid: Build android apps without any java, entirely in C and Make](https://github.com/cnlohr/rawdrawandroid)
   * [Rawdrawandroid – Java 없이 C와 Make로 안드로이드 앱 개발하기 | GeekNews](https://news.hada.io/topic?id=16898)
 * [React Native for Android: How we built the first cross-platform React Native app](https://code.facebook.com/posts/1189117404435352/)
@@ -631,7 +631,7 @@ Android
 * [ThreeLevelExpandableListView: Android 3 Level Expendable ListView example](https://github.com/DonggeunJung/ThreeLevelExpandableListView)
 * [udroid | udroid docs](https://docs.udroid.org/)
   * [ubuntu-on-android: Run Ubuntu with pre-installed Desktop Environments in android/termux with ease! | RandomCoderOrg](https://github.com/RandomCoderOrg/ubuntu-on-android)
-  * 코드명 udroid—루팅 없이 Termux의 proot 위에서 데스크톱 환경·개발 도구·소프트웨어가 미리 설치된 Ubuntu를 실행. 내려받아 설치하면 끝나는 것이 목표. Shell, MIT, 1.6k stars
+  * 코드명 udroid—루팅 없이 Termux의 proot 위에서 데스크톱 환경·개발 도구·소프트웨어가 미리 설치된 Ubuntu를 실행. 내려받아 설치하면 끝나는 것이 목표
 * [Vectras-VM-Android: It's a Virtual Machine App for Android Which is Based on QEMU](https://github.com/xoureldeen/Vectras-VM-Android/)
   * Virtual machine app for Android based on QEMU
 * [ViewPager2 사용하는 방법 정리](https://developer88.tistory.com/242)
@@ -675,14 +675,14 @@ Android
 * [agent-device — The mobile verification for AI Agents](https://agent-device.dev/)
   * [agent-device: Mobile app automation and verification for AI coding agents. CLI, MCP server, and typed Node.js API for iOS, Android, HarmonyOS, TV, web, macOS, and Linux | callstack](https://github.com/callstack/agent-device)
   * [agent-device - AI 에이전트가 iOS/Android 기기를 제어하도록 돕는 CLI | GeekNews](https://news.hada.io/topic?id=32078)
-  * 웹 에이전트를 실용화한 브라우저 자동화 패턴(Vercel agent-browser의 inspect-act-verify)을 네이티브 모바일·TV 앱에 적용—`agent-device open … --platform ios`→`snapshot -i`로 접근성 트리를 `@e2` 같은 안정적 ref와 함께 토큰 효율적으로 읽고 `press @e2`처럼 ref·텍스트·라벨·역할 셀렉터로 조작, 필요할 때만 스크린샷·비디오·로그·트레이스·네트워크·성능·크래시·React 프로필 증거 수집. 정상 단계는 `.ad` 스크립트로 저장해 CI 재현하거나 Maestro YAML로 내보냄. 백엔드: iOS/tvOS XCTest, Android ADB, Vega CLI, macOS 로컬 헬퍼, Linux AT-SPI. TypeScript, MIT, 5.1k stars
+  * 웹 에이전트를 실용화한 브라우저 자동화 패턴(Vercel agent-browser의 inspect-act-verify)을 네이티브 모바일·TV 앱에 적용—`agent-device open … --platform ios`→`snapshot -i`로 접근성 트리를 `@e2` 같은 안정적 ref와 함께 토큰 효율적으로 읽고 `press @e2`처럼 ref·텍스트·라벨·역할 셀렉터로 조작, 필요할 때만 스크린샷·비디오·로그·트레이스·네트워크·성능·크래시·React 프로필 증거 수집. 정상 단계는 `.ad` 스크립트로 저장해 CI 재현하거나 Maestro YAML로 내보냄. 백엔드: iOS/tvOS XCTest, Android ADB, Vega CLI, macOS 로컬 헬퍼, Linux AT-SPI
 * [EmuHub is an innovative tool designed to simplify the testing of Android applications by providing access to multiple emulators via web browsers. Built with Docker and NoVNC (HTML5-based VNC client), EmuHub offers developers and QA engineers a seamless platform for testing APKs across various Android device configurations](https://github.com/mohamed-helmy/emuhub)
 * [Espresso  |  Android 개발자  |  Android Developers](https://developer.android.com/training/testing/espresso)
   * [Android UI Test와 Espresso를 사용하는 방법](https://developer88.tistory.com/232)
 * [Maestro — Painless E2E Automation for Mobile and Web](https://maestro.dev/)
   * [maestro: Painless E2E Automation for Mobile and Web | mobile-dev-inc](https://github.com/mobile-dev-inc/maestro)
   * [What is Maestro? | docs](https://docs.maestro.dev/get-started/what-is-maestro)
-  * 모바일(Android/iOS)과 웹의 E2E UI 테스트 자동화 프레임워크—YAML 플로우 선언, 플래키함에 강한 내장 대기·재시도. Appium 계열의 현대적 대안. Kotlin, Apache-2.0, 15.8k stars
+  * 모바일(Android/iOS)과 웹의 E2E UI 테스트 자동화 프레임워크—YAML 플로우 선언, 플래키함에 강한 내장 대기·재시도. Appium 계열의 현대적 대안
 * [Sixpack-java - Introducing Sixpack-java: A/B Testing for Android and Java Apps](http://chairnerd.seatgeek.com/sixpack-java-a-b-testing-for-android-and-java-apps/)
 
 # Tutorial

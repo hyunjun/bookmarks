@@ -77,7 +77,7 @@ Hardware
   * Z80까지 합류한 저가 8비트 공세에 모토롤라는 68000, 인텔은 8086/8088로 16비트 선점 전략으로 대응, PC 표준은 x86으로
   * 이후 PowerPC(RISC)가 한때 애플에서 성공했지만 전력/발열 한계에 부딪혔고, 오늘날은 ARM/애플 실리콘 등 RISC 계열로 흐름이 재정렬
 * [Open source chip design with Tiny Tapeout - Hackware Oct 2026 | Engineers.SG - YouTube](https://www.youtube.com/watch?v=XrnZu4UchzE)
-  * Tiny Tapeout을 만든 Matt Venn의 18분 발표(싱가포르 Hackware 밋업). 오픈소스 도구로 직접 설계한 디지털 회로를 여러 참가자의 설계와 한 칩에 묶어 실제 실리콘으로 제작하는 저비용 칩 설계 교육 프로젝트
+  * Tiny Tapeout을 만든 Matt Venn의 발표(싱가포르 Hackware 밋업). 오픈소스 도구로 직접 설계한 디지털 회로를 여러 참가자의 설계와 한 칩에 묶어 실제 실리콘으로 제작하는 저비용 칩 설계 교육 프로젝트
 * [Mario Bros. Clock : 7 Steps (with Pictures) - Instructables](https://www.instructables.com/Mario-Bros-Clock/)
 * [Building a Budget Homelab NAS Server (2022 Edition) · mtlynch.io](https://mtlynch.io/budget-nas/)
 * [가성비 끝판 대장 N100 미니 PC로 고성능 NAS 만들기 - YouTube](https://www.youtube.com/watch?v=KUICRLV3NGE)
@@ -93,7 +93,7 @@ Hardware
   * [홈서버 어려워서 포기했다면, 이거 설치해 보세요 (N100 미니PC + UmbrelOS) - YouTube](https://www.youtube.com/watch?v=2CMf4reNCWw)
   * 셀프호스팅용 홈서버 OS(umbrelOS)와 플러그앤플레이 하드웨어(Umbrel Home·Pro). Nextcloud·Jellyfin·비트코인 노드 등 수백 개 앱을 원클릭 설치. 잇츠 매거진 영상은 N100 미니PC에 설치해 영화 서버(Jellyfin)·스마트홈 구성까지
 * [NAS 살 돈 아끼세요. 무료 홈서버 OS 3개 다 깔아봤습니다 | 잇츠 매거진 - YouTube](https://www.youtube.com/watch?v=hc5I4CxERro)
-  * 2026-10-17, 11분. 상용 NAS는 비싸고 홈서버는 OS 고르기부터 막힌다는 입문자 관점에서 웹 UI 기반 무료 홈서버 OS 3종(OpenMediaVault·ZimaOS·UmbrelOS)을 직접 설치해 비교(TrueNAS·Proxmox는 제외)
+  * 상용 NAS는 비싸고 홈서버는 OS 고르기부터 막힌다는 입문자 관점에서 웹 UI 기반 무료 홈서버 OS 3종(OpenMediaVault·ZimaOS·UmbrelOS)을 직접 설치해 비교(TrueNAS·Proxmox는 제외)
     * OpenMediaVault는 역사가 길고 메모리 1GB면 돌 만큼 가벼워 라즈베리 파이에서도 많이 쓰지만 관리자 화면 같은 투박한 UI("피처폰 느낌")에 앱스토어가 없어 Compose에 도커 스크립트를 직접 입력해야 함
     * ZimaOS·UmbrelOS는 깔끔한 GUI와 자체 앱스토어로 클릭 설치(Home Assistant 등 앱 자체는 똑같은 도커 앱)
     * ZimaOS는 앱 설정을 깊게 열어 두고 UmbrelOS는 막아 둔 아이폰 같은 단순함
@@ -153,7 +153,7 @@ Hardware
   * SK하이닉스(Minki Jeong 외, 2026-07). 양자화된 가중치를 커스텀 HBM 근처에서 역양자화(near-memory dequantization)해 AI 추론 가속을 확장. LinkedIn 맥락: DRAM이 적은 DGX Spark에 DeepSeek V4 Flash를 SSD expert streaming으로 올리면 초당 1토큰, H100 4장 GLM-5.2는 약 15 tok/s—HBM expert 캐시·streaming/연산 overlap·expert 양자화/역양자화를 실험하다 PCIe 병목 안에서 "DRAM→HBM 로드 시점에 H/W로 dequant"를 떠올렸는데 마침 이 논문을 발견(작은 모델일수록 효과가 클 것이라는 평)
 * [aec-model-bridge: Open-source Revit MCP server: let Claude and other AI assistants read and edit BIM models, with human approval on every change | Sam-AEC](https://github.com/Sam-AEC/aec-model-bridge)
   * 열어 둔 Revit 모델(2024~2027)에 대해 Claude·Codex·Cursor 등 MCP 클라이언트로 질문하고 수정하는 오픈소스(Python MCP 서버+네이티브 Revit 애드인, GPL-3.0+상용 라이선스). 읽기 도구는 즉시 실행, 모델 변경은 기본적으로 사람이 계획을 승인한 뒤에만—BIM 코디네이터·매니저가 스크립트 없이 모델 품질 점검·영향 요소 찾기·파라미터 수정 준비를 AI에 맡기되 모든 변경을 통제하는 용도. 같은 서버로 IFC 파일 검사, Rhino·Grasshopper 자동화, Speckle 연결. dev 브랜치 기준 mock 모드 도구 241개
-  * 프리릴리스(2026-10, 90 stars)—실제 Revit 세션에서 검증된 것이 아직 없고(Python 서버는 mock 프로바이더 테스트, CI는 애드인 컴파일만) README가 설명하는 Revit 동작은 전부 UNVERIFIED로 취급하라는 경고. 프로젝트 복사본에서 먼저 시험할 것
+  * 프리릴리스(2026-10)—실제 Revit 세션에서 검증된 것이 아직 없고(Python 서버는 mock 프로바이더 테스트, CI는 애드인 컴파일만) README가 설명하는 Revit 동작은 전부 UNVERIFIED로 취급하라는 경고. 프로젝트 복사본에서 먼저 시험할 것
 * [Cognitum — AI Agent Platform: Seed Device, MCP Tools & Developer SDK](https://cognitum.one/)
   * WASM 런타임·암호화 ID·벡터 스토리지 내장 Seed 하드웨어 + Rust/Node.js/Python SDK
 * [gpu-unlock: Unlock FP/BF16 instruction issue rate on Nvidia 3000's cards to their professional equivalents | Zagitta](https://github.com/Zagitta/gpu-unlock)
@@ -163,16 +163,16 @@ Hardware
   * [Нафиг NVIDIA! Часть 2. Запустил 8 нейросетей на FPGA за $50 — и упёрся в DDR3 (КЕДР) | Habr](https://habr.com/ru/articles/1095564/)
     * [AI Agents KR | 50달러짜리 중고 FPGA에서 8종의 AI 언어모델을 실행하는 데 성공했다 | Facebook](https://www.facebook.com/groups/9546662462016100/posts/30076844201904625/)
     * 러시아 개발자 Konstantin Tyutin의 실측(2026-10)—Xilinx Kintex-7 XC7K480T-2(Inspur YPCB-00338, 중고 약 $50), DDR3-1066 2GB×2, PCIe Gen2 x8, 133.33MHz, 곱셈기 512개(최대 121 GOPS), FPGA 전력 추정 약 9.7W(Vivado 추정치). 4비트 양자화로 LFM2.5-230M 95 tok/s, Qwen3-0.6B 35 tok/s, Qwen3.5-2B 12.5 tok/s, 2.3억~40억 파라미터 8개 모델 165회 추론 모두 정상. 병목은 연산이 아니라 메모리—연산기 활용 25% 미만, DDR3 대역폭은 92~96% 포화, PCIe를 x1로 낮춰도 속도 거의 불변, DSP 사용률 37%. TOPS·연산기 수가 아니라 데이터 공급이 가속기 성능을 결정한다는 것을 실측으로 확인
-  * auto-arch-tournament의 교훈을 가속기에 적용한 "AI가 설계한 AI 가속기" 실험이자 학습 프로젝트(Verilog/SystemVerilog, Apache-2.0, 888 stars)—하드웨어 설계·ISA·비트 정확 시뮬레이터·커널 언어와 컴파일러·PCIe 카드를 구동하는 호스트 소프트웨어가 한 모노레포에 있어 Python matmul에서 배선까지 끝까지 읽을 수 있음. AI 에이전트가 하드웨어 설계를 어디까지 하고, 자기 추론을 돌릴 칩을 만들 수 있는가라는 두 질문. 모델 10종을 실제 가중치로 실행하고 카드 출력이 시뮬레이터와 비트 단위로 일치, LiteDRAM 컨트롤러·4열 시스톨릭 매트릭스 유닛·스트림 엔진을 담은 단일 비트스트림, `otpu-chat`·`otpu-smi` 도구
+  * auto-arch-tournament의 교훈을 가속기에 적용한 "AI가 설계한 AI 가속기" 실험이자 학습 프로젝트(Verilog/SystemVerilog)—하드웨어 설계·ISA·비트 정확 시뮬레이터·커널 언어와 컴파일러·PCIe 카드를 구동하는 호스트 소프트웨어가 한 모노레포에 있어 Python matmul에서 배선까지 끝까지 읽을 수 있음. AI 에이전트가 하드웨어 설계를 어디까지 하고, 자기 추론을 돌릴 칩을 만들 수 있는가라는 두 질문. 모델 10종을 실제 가중치로 실행하고 카드 출력이 시뮬레이터와 비트 단위로 일치, LiteDRAM 컨트롤러·4열 시스톨릭 매트릭스 유닛·스트림 엔진을 담은 단일 비트스트림, `otpu-chat`·`otpu-smi` 도구
 * [SolidCraft · Open Source Parametric CAD in Rust](https://solidcraft.io/)
   * [solidcraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP](https://github.com/tangency-labs/solidcraft)
-  * 순수 Rust로 만든 오픈소스 파라메트릭 3D CAD(Apache-2.0, Windows·macOS·Linux·FreeBSD 데스크톱과 브라우저). 치수·각도·기하 제약을 건 스케치→돌출·회전·필렛·셸로 솔리드→편집 가능한 피처 타임라인에서 이전 피처 수정·재빌드(기판 폭·벽 두께·인클로저 높이 같은 이름 있는 파라미터), 어셈블리·조인트·구성, STEP·메시 가져오기/내보내기. 데모: 빈 설계에서 Raspberry Pi 4 케이스를 만들고 높이 24→32mm로 바꾸면 전부 재빌드
+  * 순수 Rust로 만든 오픈소스 파라메트릭 3D CAD(Windows·macOS·Linux·FreeBSD 데스크톱과 브라우저). 치수·각도·기하 제약을 건 스케치→돌출·회전·필렛·셸로 솔리드→편집 가능한 피처 타임라인에서 이전 피처 수정·재빌드(기판 폭·벽 두께·인클로저 높이 같은 이름 있는 파라미터), 어셈블리·조인트·구성, STEP·메시 가져오기/내보내기. 데모: 빈 설계에서 Raspberry Pi 4 케이스를 만들고 높이 24→32mm로 바꾸면 전부 재빌드
   * 내장 MCP 서버로 AI 에이전트가 모델링 명령 실행·형상 측정·파라미터 변경·내보내기를 하고 결과 설계를 SolidCraft에서 열어 편집(AI는 선택 사항). 기하 커널 SolidCore는 NVIDIA 오픈소스 C++ 라이브러리 SMLib의 Rust 포트. 0.11~0.14는 릴리스 주소 이동으로 한 번 수동 업데이트 필요
 * [CADCraft — computer-aided design and drafting, an open-source clean-room AutoCAD-style app in pure Rust | storytold](https://github.com/storytold/cadcraft)
-  * 익숙한 제도 워크플로를 그대로—`L` 입력, 두 점 클릭, `@5<45`, Enter. 커맨드라인과 클릭 가능한 `[Keywords]` 프롬프트, 자동완성, 객체 스냅, 극좌표 추적, ortho, 직접 거리 입력, 윈도·크로싱 선택, 그립, 우클릭 반복까지 수십 년 제도 습관대로 동작. 레이어·치수·해치·블록, DXF 네이티브 읽기/쓰기(ASCII·바이너리 R12~2018), DWG(R13~2018)는 오픈소스 acadrust로 열고 저장, SVG·PNG 내보내기. 순수 Rust+egui로 Electron·웹뷰 없이 macOS(유니버설)·Windows·Linux·FreeBSD 단일 바이너리와 WebAssembly 브라우저 빌드. ArtCraft 커뮤니티 프로젝트, Apache-2.0, 7.1k stars
+  * 익숙한 제도 워크플로를 그대로—`L` 입력, 두 점 클릭, `@5<45`, Enter. 커맨드라인과 클릭 가능한 `[Keywords]` 프롬프트, 자동완성, 객체 스냅, 극좌표 추적, ortho, 직접 거리 입력, 윈도·크로싱 선택, 그립, 우클릭 반복까지 수십 년 제도 습관대로 동작. 레이어·치수·해치·블록, DXF 네이티브 읽기/쓰기(ASCII·바이너리 R12~2018), DWG(R13~2018)는 오픈소스 acadrust로 열고 저장, SVG·PNG 내보내기. 순수 Rust+egui로 Electron·웹뷰 없이 macOS(유니버설)·Windows·Linux·FreeBSD 단일 바이너리와 WebAssembly 브라우저 빌드. ArtCraft 커뮤니티 프로젝트
 * [SOMA – Open-source AI CAD for Claude Code, Codex and CadQuery](https://somacad.app/)
   * [SOMA: Desktop app for designing parametric 3D models in CadQuery together with the coding agent of your choice](https://github.com/Kai-Jungsthoefel/SOMA)
-  * "Solid Object Modeling with Agents"—AI가 CAD를 하고 사람은 디자이너가 되는 데스크톱 앱(TypeScript, GPL-3.0, Windows·macOS Apple Silicon·Linux, Python·CadQuery·Git·CalculiX 내장으로 1GB+). "PETG로 인쇄할, 뚜껑에 통풍구가 있는 Raspberry Pi 5 케이스"처럼 말하면 에이전트가 CadQuery Python 코드로 모델을 쓰고 SOMA가 변경마다 빌드해 3D로 보여줌—면·모서리를 클릭해 CAD 기하 기준 정확한 치수·거리·각도 측정, 화면에 화살표·메모를 그려 보내거나 부품을 클릭해 지시, 에이전트가 조절 가능하게 만든 파라미터는 코드 없이 수정. 케이스·브래킷·마운트가 필요한 메이커용 "CAD의 바이브 코딩"
+  * "Solid Object Modeling with Agents"—AI가 CAD를 하고 사람은 디자이너가 되는 데스크톱 앱(Windows·macOS Apple Silicon·Linux, Python·CadQuery·Git·CalculiX 내장으로 1GB+). "PETG로 인쇄할, 뚜껑에 통풍구가 있는 Raspberry Pi 5 케이스"처럼 말하면 에이전트가 CadQuery Python 코드로 모델을 쓰고 SOMA가 변경마다 빌드해 3D로 보여줌—면·모서리를 클릭해 CAD 기하 기준 정확한 치수·거리·각도 측정, 화면에 화살표·메모를 그려 보내거나 부품을 클릭해 지시, 에이전트가 조절 가능하게 만든 파라미터는 코드 없이 수정. 케이스·브래킷·마운트가 필요한 메이커용 "CAD의 바이브 코딩"
   * 자체 에이전트가 아님—Claude Code·OpenCode·Codex CLI·Gemini CLI 등 파일을 읽고 명령을 실행하는 CLI 에이전트를 모델 폴더의 내장 터미널에서 돌리고(구독·모델·권한은 내 것), `soma build/analyze/render` CLI와 AGENTS.md 규칙·스킬로 모델링·검사·내보내기를 가르침. 에이전트의 모든 단계가 타임라인에 남아 이전 버전 복원, 슬라이더로 분해도, Python으로 관절·기어·카메라 애니메이션(충돌 검사·영상 렌더), 출력용 오버행·벽 두께 검사와 CalculiX FEM 강도 해석, PDF·DXF 도면, STEP·STL·3MF 내보내기. v0.10.1 프리뷰, 패키지 미서명
 * [The Personal AI Computer | Autonomous](https://www.autonomous.ai/computer)
   * [autonomous-computer: Open-source hardware and software designs for building personal AI computers](https://github.com/autonomous-ai/autonomous-computer)
@@ -180,8 +180,8 @@ Hardware
 * [text-to-cad | Give your agent CAD superpowers](https://www.texttocad.dev/)
   * [text-to-cad: Give your agent CAD superpowers | earthtojake](https://github.com/earthtojake/text-to-cad)
   * [📐 text-to-cad : 1.9만 스타, 코딩 에이전트에 CAD 설계 능력을 | fornewchallenge](https://fornewchallenge.tistory.com/entry/%F0%9F%93%90-text-to-cad-19%EB%A7%8C-%EC%8A%A4%ED%83%80-%EC%BD%94%EB%94%A9-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EC%97%90-CAD-%EC%84%A4%EA%B3%84-%EB%8A%A5%EB%A0%A5%EC%9D%84)
-    * 2026-10-13. "M8 볼트가 들어가는 브래킷을 만들어 줘" 같은 자연어·이미지 요청으로 에이전트가 STEP(주 출력)·STL·3MF·GLB 모델을 만들고 제조 적합성(DFM) 검사, 도면(PDF) 생성, 3D 프린터용 G-code 슬라이스, 3D 프린팅·판금·CNC 외주 서비스 연동까지. Claude Code·Codex·Cursor·Gemini·Grok 플러그인(뷰어 로컬 서버 `cadgen mcp` 포함) 또는 스킬만 설치, uv+cadgen(PyPI), Open CASCADE 기반. 첫 실행 시 런타임 다운로드에 네트워크 필요, 기본으로 익명 사용 통계를 보내며 `uvx cadgen telemetry off`로 끔, Windows 11 Smart App Control 충돌 사례 문서화. MIT, 2.1만 stars
-  * CAD(설계)·CAE(해석)·CAM(제조)용 에이전트 스킬 라이브러리—텍스트로 기계 설계·해석·가공 워크플로를 다루는 스킬 모음. Python, MIT, 16.4k stars
+    * "M8 볼트가 들어가는 브래킷을 만들어 줘" 같은 자연어·이미지 요청으로 에이전트가 STEP(주 출력)·STL·3MF·GLB 모델을 만들고 제조 적합성(DFM) 검사, 도면(PDF) 생성, 3D 프린터용 G-code 슬라이스, 3D 프린팅·판금·CNC 외주 서비스 연동까지. Claude Code·Codex·Cursor·Gemini·Grok 플러그인(뷰어 로컬 서버 `cadgen mcp` 포함) 또는 스킬만 설치, uv+cadgen(PyPI), Open CASCADE 기반. 첫 실행 시 런타임 다운로드에 네트워크 필요, 기본으로 익명 사용 통계를 보내며 `uvx cadgen telemetry off`로 끔, Windows 11 Smart App Control 충돌 사례 문서화
+  * CAD(설계)·CAE(해석)·CAM(제조)용 에이전트 스킬 라이브러리—텍스트로 기계 설계·해석·가공 워크플로를 다루는 스킬 모음
 * [Tiiny AI Inc](https://tiiny.ai/)
   * [(1) 전종홍 - 120B 파라미터 모델을 클라우드 연결 없이 주머니에 넣고 다닐 수 있다면 당장 구입하실 생각이 있으신가요... | Facebook](https://www.facebook.com/1biit/posts/pfbid0WxgebboAwyUMXojQQNxzNJH8NE27wiEppkNYQC64NtojQkT1ukcZfEJdPt14hcnjl)
 * [xpu-top: Intel's CPU-GPU-NPU monitoring solution including discrete GPU without dependencies on Linux & Windows | circuluspibo](https://github.com/circuluspibo/xpu-top)
@@ -367,7 +367,7 @@ Hardware
   * [ruvector: WiFi CSI signal processing framework](https://github.com/ruvnet/ruvector/)
   * [Cognitum.One — Intelligence Where the Physical World Happens (RuView)](https://cognitum.one/ruview)
   * [RuView: Open-Source WiFi Sensing That Sees Through Walls | DevPik](https://www.devpik.com/open-source/ruview)
-    * 2026-10 기준 101k stars·13k forks. WiFi CSI로 카메라·웨어러블 없이 벽 너머·어둠 속 존재 감지·움직임 추적·생체 신호 모니터링을 실시간 재구성—ESP32-S3 메시 노드(약 $9)·Raspberry Pi에서 클라우드 없이 로컬 처리, Rust+RuVector 스파이킹 신경망, 4-bit 양자화 8KB 모델, MQTT·HAP-1.1(Apple Home)·Matter 연동, MIT
+    * WiFi CSI로 카메라·웨어러블 없이 벽 너머·어둠 속 존재 감지·움직임 추적·생체 신호 모니터링을 실시간 재구성—ESP32-S3 메시 노드(약 $9)·Raspberry Pi에서 클라우드 없이 로컬 처리, Rust+RuVector 스파이킹 신경망, 4-bit 양자화 8KB 모델, MQTT·HAP-1.1(Apple Home)·Matter 연동
   * WiFi CSI 분석으로 카메라 없이 인체 포즈 추정(17 키포인트), 호흡/심박 모니터링, 벽 통과 감지. ESP32-S3(~$8) 기반, 60개 WASM 엣지 모듈
 
 # Javascript
@@ -564,7 +564,7 @@ Hardware
 # Tizen
 * [바닥서부터 만들어보는 타이젠](http://www.slideshare.net/again4you/tizen-talk-2016-in-seoul)
 * [awesome-smart-tv: ⚡A curated list of awesome resources for building Smart TV apps | vitalets](https://github.com/vitalets/awesome-smart-tv)
-  * 스마트 TV 앱 개발 리소스 모음—플랫폼별(Samsung Tizen·LG webOS·Android TV·Apple tvOS·Google Chromecast) 공식·서드파티 자료, 크로스 플랫폼 프레임워크와 도구, 리모컨 프로토콜, 포커스 내비게이션 라이브러리, 테스트, 커뮤니티. 1.5k stars
+  * 스마트 TV 앱 개발 리소스 모음—플랫폼별(Samsung Tizen·LG webOS·Android TV·Apple tvOS·Google Chromecast) 공식·서드파티 자료, 크로스 플랫폼 프레임워크와 도구, 리모컨 프로토콜, 포커스 내비게이션 라이브러리, 테스트, 커뮤니티
 
 # Zephyr
 * [리눅스재단, IoT용 오픈소스 OS ‘제퍼’ 공개](http://www.bloter.net/archives/250149)

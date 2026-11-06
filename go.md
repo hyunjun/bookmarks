@@ -589,7 +589,7 @@ Go
 * [TINYGO - A GO COMPILER FOR SMALL PLACES](https://tinygo.org/)
   * [Tiny Go: Small Is Going Big - YouTube](https://www.youtube.com/watch?v=zNibD802V6Q)
   * [My old trains have a second life, with TinyGo! By Florian FORESTIER, Justine Bachelard | Devoxx - YouTube](https://www.youtube.com/watch?v=LIGVpEuIrrY)
-    * Devoxx Belgium 2026(40분). 오래된 모형 기차를 TinyGo(마이크로컨트롤러용 Go 컴파일러)로 되살린 발표. 자막을 받지 못해 제목·발표 정보만 기록
+    * Devoxx Belgium 2026. 오래된 모형 기차를 TinyGo(마이크로컨트롤러용 Go 컴파일러)로 되살린 발표. 자막을 받지 못해 제목·발표 정보만 기록
   * [tinygo-multi-i2c: A reimplementation of the TinyGo drivers package for communicating with multiples of the same (supported) devices on one individual I2C bus](https://github.com/syke99/tinygo-multi-i2c)
 
 # Debug
@@ -1059,7 +1059,7 @@ Go
   * [Building Microservices with the Go Kit Toolkit - YouTube](https://www.youtube.com/watch?v=sjd2ePF3CuQ)
 * [Go Micro — An Agent Harness for Go: build agents, services, and workflows on one runtime](https://go-micro.dev/)
   * [Go Micro - Go를 위한 에이전트 하네스 | GeekNews](https://news.hada.io/topic?id=30958)
-  * 에이전트(모델·메모리·도구·가드레일)+서비스(엔드포인트를 타입 AI 도구로 자동 변환, MCP·A2A)+워크플로우(체크포인트 재개)를 단일 런타임에. 프롬프트 기반 서비스 생성, `plan`/`delegate` 내장, 7개 LLM 프로바이더, `micro new/run/chat` CLI. Anthropic·OpenAI 후원, 23k+ stars, Apache 2.0 (기존 마이크로서비스 프레임워크에서 에이전트 하네스로 피벗)
+  * 에이전트(모델·메모리·도구·가드레일)+서비스(엔드포인트를 타입 AI 도구로 자동 변환, MCP·A2A)+워크플로우(체크포인트 재개)를 단일 런타임에. 프롬프트 기반 서비스 생성, `plan`/`delegate` 내장, 7개 LLM 프로바이더, `micro new/run/chat` CLI. Anthropic·OpenAI 후원, Apache 2.0 (기존 마이크로서비스 프레임워크에서 에이전트 하네스로 피벗)
 
 ## Library MySQL
 * [Three bugs in the Go MySQL Driver](https://github.blog/2020-05-20-three-bugs-in-the-go-mysql-driver/)

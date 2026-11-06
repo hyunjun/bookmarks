@@ -316,7 +316,7 @@ Finance
 * [KB증권 Open API로 나만의 주식투자 환경 구축해보기 | API 알려주는 누나 - YouTube](https://www.youtube.com/watch?v=cVpqVDmOYsI)
   * 깨비증권 마블TV. KB증권이 출시한 Open API 소개와 실전 활용—API 개념, 활용 사례(자동매매·퀀트·AI비서·잔고 조회), API key 신청, 문서 확인, GPT/Claude로 코딩 몰라도 시세조회·매수/매도하는 나만의 앱 만들기까지 5파트 구성
 * [StockPilot · 자동매매 전략 노트 · 작동 원리 편 — Cloud Scheduler · Cloud Run · Firestore로 만든 자동매매 시스템 | 골든시그널](https://blog.naver.com/goldensignal_/224423409797)
-  * 실제 운영 중인 서버·스케줄 설정 기준(2026-09-26)의 자동매매 백엔드 해부—**Cloud Scheduler(알람시계)가 평일 장중 5분봉이 완성될 때마다 Cloud Run(두뇌)을 깨우고, Cloud Run은 Firestore(창고)에서 보유 종목·매매 기록을 꺼내 매수·매도를 판단한 뒤 결과를 저장하고 다시 잠드는** 구조. 서버를 24시간 켜 두지 않아 유지비가 거의 없음. 실계좌가 아닌 모의투자(페이퍼 트레이딩)로 운용 중임을 명시, 용어 사전 포함 입문자용 10분 글
+  * 실제 운영 중인 서버·스케줄 설정 기준의 자동매매 백엔드 해부—**Cloud Scheduler(알람시계)가 평일 장중 5분봉이 완성될 때마다 Cloud Run(두뇌)을 깨우고, Cloud Run은 Firestore(창고)에서 보유 종목·매매 기록을 꺼내 매수·매도를 판단한 뒤 결과를 저장하고 다시 잠드는** 구조. 서버를 24시간 켜 두지 않아 유지비가 거의 없음. 실계좌가 아닌 모의투자(페이퍼 트레이딩)로 운용 중임을 명시, 용어 사전 포함 입문자용 10분 글
 * [Show GN 여러 주식 및 경제지표 비교 사이트 | GeekNews](https://news.hada.io/topic?id=26813)
   * 비개발자가 AI 도움으로 만든 주식·경제 지표 비교 차트 사이트. 여러 종목의 수익률·가격 추이를 기간별로 복잡한 설정 없이 비교
 * [I Built an AI Finance Team That Runs Itself With Claude (Full Tutorial) - YouTube](https://www.youtube.com/watch?v=MvUYORJpDSc)
@@ -352,13 +352,13 @@ Finance
 * [Agentic Trading Lab](https://agentic-trading-lab.vercel.app/)
   * [AgenticTrading: Agentic Trading Lab](https://github.com/Open-Finance-Lab/AgenticTrading)
   * [Agentic Trading Lab, LLM 기반 트레이딩 에이전트를 직접 실험하고 검증하는 오픈소스 플랫폼 | digitalbourgeois](https://digitalbourgeois.tistory.com/3599)
-  * Open-Finance-Lab. LLM 기반 트레이딩 에이전트를 직접 실험·검증하는 오픈소스 플랫폼. Python, 639 stars
+  * Open-Finance-Lab. LLM 기반 트레이딩 에이전트를 직접 실험·검증하는 오픈소스 플랫폼
 * [Alpha Arena | AI Trading Benchmark — nof1.ai](https://nof1.ai/)
   * AI 모델들이 **실제 시장에서 실시간으로 트레이딩하며 경쟁하는 라이브 벤치마크**—리더보드로 모델별 성과를 공개(TSLA·NDX·NVDA·MSFT 등 종목 티커 실시간 표시)
 * [anthropic-quickstarts/financial-data-analyst at main · anthropics/anthropic-quickstarts](https://github.com/anthropics/anthropic-quickstarts/tree/main/financial-data-analyst)
   * [@aicoffeechat • Anthropic, 금융 전문가 'Quick Start' 공개 여러분, Anthropic에서 정말 흥미진진?... • Threads](https://www.threads.net/@aicoffeechat/post/DBRdapBT_kr)
 * [AutoHedge: Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution](https://github.com/The-Swarm-Corporation/AutoHedge)
-  * The Swarm Corporation(Swarms 멀티 에이전트 스택) 제품. Director(전략·논지 생성)·Quant(기술·통계 분석)·Risk Management(포지션 사이징)·Execution(주문 생성·실행) 전문 에이전트 파이프라인이 실시간 시장 데이터로 논지를 만들고 검증·리스크 산정·주문까지 수행. 현재 Solana 완전 자율 트레이딩 지원, Coinbase 등 추가 예정. Python, MIT, 6.5k stars
+  * The Swarm Corporation(Swarms 멀티 에이전트 스택) 제품. Director(전략·논지 생성)·Quant(기술·통계 분석)·Risk Management(포지션 사이징)·Execution(주문 생성·실행) 전문 에이전트 파이프라인이 실시간 시장 데이터로 논지를 만들고 검증·리스크 산정·주문까지 수행. 현재 Solana 완전 자율 트레이딩 지원, Coinbase 등 추가 예정
 * [awesome-ai-in-finance: A curated list of awesome LLMs & deep learning strategies & tools in financial market](https://github.com/georgezouq/awesome-ai-in-finance)
   * [How People use AI in Finance](https://medium.com/@zousongqi0213/how-people-use-ai-in-finance-59f0a7512b4)
   * AI 기반 거래 에이전트, 백테스팅 프레임워크, 기술적 분석 라이브러리, 데이터 소스 등 정량적 금융 분석 종합 가이드
@@ -366,12 +366,12 @@ Finance
   * 실시간 뉴스 수집, 주가 데이터, 센티먼트 분석, 시장 예측, 시그널 추적. OpenCode/Claude Code/OpenClaw 지원
 * [awesome-trading-agents: Curated list of LLM-driven trading agents, MCP servers, and agent skills for market research, strategy, and execution](https://github.com/LLMQuant/awesome-trading-agents)
   * [LLM 기반 트레이딩 오픈소스 총정리: Agents, MCPs, Skills로 보는 AI Trading 생태계 | digitalbourgeois](https://digitalbourgeois.tistory.com/3616)
-  * LLM 기반 트레이딩 에이전트·MCP 서버·에이전트 스킬 큐레이션. 시장 리서치·전략·실행. CC0
+  * LLM 기반 트레이딩 에이전트·MCP 서버·에이전트 스킬 큐레이션. 시장 리서치·전략·실행
 * [Bigdata.com: your real-time research assistant](https://bigdata.com/)
   * [오랜 기간 금융 데이터(특히나 비정형데이터)를 핸들링하던 Ravenpack이 만든 서비스](https://www.linkedin.com/posts/hyunyul-lee-34952096_%EB%AF%B8%EC%B9%9C-%EC%84%9C%EB%B9%84%EC%8A%A4%EA%B0%80-%EB%98%90-%EB%82%98%EC%99%94%EB%8B%A4-%EC%98%A4%EB%9E%9C-%EA%B8%B0%EA%B0%84-%EA%B8%88%EC%9C%B5-%EB%8D%B0%EC%9D%B4%ED%84%B0%ED%8A%B9%ED%9E%88%EB%82%98-%EB%B9%84%EC%A0%95%ED%98%95%EB%8D%B0%EC%9D%B4%ED%84%B0-ugcPost-7256465997367238656-o5Lp/)
 * [ChatGPT-Micro-Cap-Experiment: This repo powers my blog experiment where ChatGPT manages a real-money micro-cap stock portfolio.](https://github.com/LuckyOne7777/ChatGPT-Micro-Cap-Experiment)
 * [correlation: Do stock correlations predict the market? 66 pre-registered tests, the data, and a triple pendulum that explains why not | bhoult](https://github.com/bhoult/correlation/)
-  * 20여 년 전 커피숍에서 "A사가 오르면 몇 달 뒤 B사도 오르지 않을까"라는 생각으로 시작한 질문의 종결 보고서(Python·Rust, GPL-3.0). 전 종목×모든 오프셋×여러 시간 창의 상관 계산 약 1.5조 번은 2000년대 초 Pentium II로 몇 년, 1년 전 Claude 4.0과 Ruby로 짠 PoC는 24코어에서 15년(인라인 C로 6개월)이 걸려 포기—지난주 Claude 5.5와 Rust로 다시 써 CPU·GPU·NPU를 전부 써서 17분에 끝냄
+  * 20여 년 전 커피숍에서 "A사가 오르면 몇 달 뒤 B사도 오르지 않을까"라는 생각으로 시작한 질문의 종결 보고서(Python·Rust). 전 종목×모든 오프셋×여러 시간 창의 상관 계산 약 1.5조 번은 2000년대 초 Pentium II로 몇 년, 1년 전 Claude 4.0과 Ruby로 짠 PoC는 24코어에서 15년(인라인 C로 6개월)이 걸려 포기—지난주 Claude 5.5와 Rust로 다시 써 CPU·GPU·NPU를 전부 써서 17분에 끝냄
   * 결론은 회의론자들이 옳았다—상관은 발견되지만 너무 작고 일관성이 없어 매매에 쓰면 종목을 무작위로 고르는 것과 같음. 단어로 학습한 LLM처럼 주가로 학습한 StockGPT로 다음 날을 예측하는 시도도 실패, 약 70가지 변형(66개 사전 등록 테스트)까지 모두 실패해 20년 질문을 종결. 왜 안 되는지는 삼중 진자로 설명—상관은 첫 진자의 흔들림엔 정확도를 더하지만 거기에 매달린 사람들의 베팅과 시장 반응, 그 밑의 외부 사건이 10억분의 1 라디안 차이로도 전혀 다른 궤적을 만듦. 데이터·실험 기록·사전 연구 정리 공개
 * [daily_stock_analysis: LLM-powered intelligent analyzer for A-shares, HK stocks, US equities](https://github.com/ZhuLinsen/daily_stock_analysis)
   * AI 대시보드 자동 생성→기업 위챗/Telegram/Slack 등 푸시. 기술 분석·뉴스 센티먼트·펀더멘탈 통합, GitHub Actions 무료 배포
@@ -382,7 +382,7 @@ Finance
 * [Finance-Guru: AI-powered family office system built on BMAD-CORE v6 architecture](https://github.com/AojdevStudio/Finance-Guru)
   * 11개 AI 전문가가 협업하는 개인 가족 자산관리 시스템. 한 명령(`/fin-guru:agents:finance-orchestrator`)으로 포트폴리오·리스크 허용도·목표를 아는 전문가 팀 활성화. 헤징·포트폴리오 보호(Total Return·Rolling Tracker·Hedge Sizer), Fidelity CSV 동기화, Plaid 대시보드. Electron 데스크톱(Agent SDK)+Plotly. 16개 스킬을 pi-coding-agent 등 Agent Skills 표준 하네스에 심링크
 * [FinanceMCP: AI Agent에게 통일·라우팅·추적 가능한 멀티마켓 금융 데이터를 제공하는 MCP 서버](https://github.com/guangxiangdebizi/FinanceMCP)
-  * Tushare·Qveris·Binance API를 통합한 19개 MCP Tools—주식·펀드·채권·거시경제 지표·스테이블코인·가상화폐 데이터와 금융 뉴스·중국 국가통계국 데이터 조회. stdio+Streamable HTTP 지원, npm `finance-mcp`, Smithery 등록. TypeScript, MIT
+  * Tushare·Qveris·Binance API를 통합한 19개 MCP Tools—주식·펀드·채권·거시경제 지표·스테이블코인·가상화폐 데이터와 금융 뉴스·중국 국가통계국 데이터 조회. stdio+Streamable HTTP 지원, npm `finance-mcp`, Smithery 등록
 * [financial-services: Claude for Financial Services — reference agents, skills, and MCP data connectors for investment banking, equity research, PE, and wealth management](https://github.com/anthropics/financial-services)
   * [Anthropic just open-sourced Wall Street (11.4k stars) - YouTube](https://www.youtube.com/watch?v=E4GNZxJQqfM)
   * [GitHub - anthropics/financial-services | 박상길](https://www.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_github-anthropicsfinancial-services-share-7457524869207851008-0aCT)
@@ -401,7 +401,7 @@ Finance
   * [InvestorClaw — 16-command portfolio analysis skill without Mac Mini | OpenClaw Community](https://www.facebook.com/share/p/1LNkzzPK57/)
 * [Jev (TypeSafe System One) — Finance & Trading Projects | drillan gist](https://gist.github.com/drillan/6916b16e8ea31a8ec36c8f59d6483150)
   * [jev-trade: Live Jev trader on Hyperliquid](https://github.com/aowang-ai/jev-trade)
-  * TypeSafe AI의 System One 판단 모델 Jev(2026-09-15 공개)를 투자·트레이딩·금융 데이터에 쓰는 프로젝트 조사(2026-09-20, GitHub API+awesome 리스트). 레퍼런스는 jarrodwatts/jev-trader—Monad 블록(~300ms)마다 Kuru MON-USDC 오더북을 읽고 Jev가 매수/매도를 답하면 post-only 지정가로 스프레드를 먹는 마켓메이커(Bun/TS, dry-run·SSE 대시보드). jev-trade는 이를 Hyperliquid로 포팅—BTC/ETH/SOL/DOGE/BNB 5개 격리 슬리브·5개 지갑·실제 체결. TypeScript
+  * TypeSafe AI의 System One 판단 모델 Jev(2026-09-15 공개)를 투자·트레이딩·금융 데이터에 쓰는 프로젝트 조사(GitHub API+awesome 리스트). 레퍼런스는 jarrodwatts/jev-trader—Monad 블록(~300ms)마다 Kuru MON-USDC 오더북을 읽고 Jev가 매수/매도를 답하면 post-only 지정가로 스프레드를 먹는 마켓메이커(Bun/TS, dry-run·SSE 대시보드). jev-trade는 이를 Hyperliquid로 포팅—BTC/ETH/SOL/DOGE/BNB 5개 격리 슬리브·5개 지갑·실제 체결
 * [kb-watchlist-app: KB 증권 관심종목 및 실시간 시세 조회 앱](https://github.com/f1772man/kb-watchlist-app)
   * KB증권 Open API와 연동해 국내 주식 관심종목을 관리하고 실시간 시세(현재가·전일대비 등락률·시가/고가/저가·누적거래량)를 조회하는 Android 네이티브 앱(Kotlin/Jetpack Compose)+클라우드 중계 백엔드(Cloud Run·Node.js/Express/TypeScript). Firebase Auth·Firestore(관심종목, KB 토큰 24h 캐시)·Secret Manager 구성, 시세 5초 인메모리 캐시. Google Stitch 디자인 시스템(딥 네이비&골드), 상승 빨강·하락 파랑의 한국 시장 관례
   * [KB Open API로 관심종목 시세 앱 만들기 | Easy Coding - YouTube](https://www.youtube.com/watch?v=_g185WwaGV4)
@@ -410,7 +410,7 @@ Finance
 * [korean-jangbu-for: 한국 스타트업, 1인 법인, 프리랜서, 개인 사업자를 위한 장부 자동 생성 Claude Code 스킬. 카드명세서 PDF·은행 CSV → 재무제표·세무사 전달 CSV 자동 생성. Level 2 민감정보 마스킹 적용](https://github.com/kimlawtech/korean-jangbu-for)
   * [5월 종소세, 이걸로 준비 끝납니다. 👩🏻‍💻스킬 "5월 종소세 준비 끝났다." 🇰🇷한국 사업자 장부 자동화 Claude Code 스킬을 공개합니다. /korean-jangbu-for ❤ 카드명세서 PDF 한 장이면 끝. 7대 카드사·5대 은행·홈택스 자동 수집 → 재무제표 → 세무사 전달… | 조사랑](https://www.linkedin.com/posts/chosarang_5%EC%9B%94-%EC%A2%85%EC%86%8C%EC%84%B8-%EC%9D%B4%EA%B1%B8%EB%A1%9C-%EC%A4%80%EB%B9%84-%EB%81%9D%EB%82%A9%EB%8B%88%EB%8B%A4-%EC%8A%A4%ED%82%AC-5%EC%9B%94-%EC%A2%85%EC%86%8C%EC%84%B8-ugcPost-7452727374376345600-UZmB)
 * [llm-agent-trader: AI-powered stock trading backtesting system with LLM-based decision analysis, FastAPI backend, and Next.js frontend](https://github.com/jason8745/llm-agent-trader)
-  * LLM을 매매 판단에 통합한 주식 백테스팅 시스템—YFinance 주가 데이터를 LLM 스마트 전략(Azure OpenAI GPT-4 또는 Google Gemini)·기술적 분석 엔진·리스크 관리 모듈에 넣어 매매 신호를 생성하고 성과를 계산해 SQLite 백테스트 로그에 기록. LLM 스트리밍 백테스트 엔진·백테스트 분석 API·일일 피드백 API를 FastAPI로, 화면은 Next.js. `make install && make run` 후 localhost:3000. Python, MIT, 491 stars
+  * LLM을 매매 판단에 통합한 주식 백테스팅 시스템—YFinance 주가 데이터를 LLM 스마트 전략(Azure OpenAI GPT-4 또는 Google Gemini)·기술적 분석 엔진·리스크 관리 모듈에 넣어 매매 신호를 생성하고 성과를 계산해 SQLite 백테스트 로그에 기록. LLM 스트리밍 백테스트 엔진·백테스트 분석 API·일일 피드백 API를 FastAPI로, 화면은 Next.js. `make install && make run` 후 localhost:3000
 * [LLMs-in-Finance/Agents/Anthropic at main · hananedupouy/LLMs-in-Finance](https://github.com/hananedupouy/LLMs-in-Finance/tree/main/Agents/Anthropic)
   * [Financial Modeling Prep API를 사용하여 주식 데이터를 가져오고, Anthropic의 Claude를 활용하여 금융 에이전트를 만드는 시스템을 구현](https://www.linkedin.com/feed/update/urn:li:activity:7251795373042630656/)
   * [Mastering AI Agents in Finance: Foundations + the Flagship Cohort | Hanane Dupouy](https://ai-agent-in-finance.com/training/)
@@ -419,7 +419,7 @@ Finance
     * 기업 신용분석처럼 KYC·재무정보 분석·신용위험 평가·컴플라이언스를 동시에 처리해야 하는 업무에 단일 에이전트가 갖는 한계와, Orchestrator가 업무를 분할해 전문 Worker Agent에 위임하고 결과를 통합하는 패턴
 * [LLMQuant Data — The knowledge harness for AI-native finance](https://llmquantdata.com/)
   * [quant-mind: An intelligent knowledge extraction and retrieval framework for quantitative finance](https://github.com/LLMQuant/quant-mind)
-  * 자율 AI 에이전트용 금융 데이터·컨텍스트 엔지니어링 플랫폼. 8개 데이터 유니버스(Crypto/Equities/ETFs/Macro/Wiki/Papers/SEC Filings/SEC 13F), MCP 서버+Agent Skill 통합, 4가지 쿼리(원본/시맨틱/PageIndex 트리/지식 그래프). 거시 30년·미주 25년·크립토 12년, p95 200ms 미만. quant-mind는 NeurIPS 2025 GenAI in Finance 워크숍 채택, 비정형 콘텐츠→구조화 지식베이스 변환. MIT
+  * 자율 AI 에이전트용 금융 데이터·컨텍스트 엔지니어링 플랫폼. 8개 데이터 유니버스(Crypto/Equities/ETFs/Macro/Wiki/Papers/SEC Filings/SEC 13F), MCP 서버+Agent Skill 통합, 4가지 쿼리(원본/시맨틱/PageIndex 트리/지식 그래프). 거시 30년·미주 25년·크립토 12년, p95 200ms 미만. quant-mind는 NeurIPS 2025 GenAI in Finance 워크숍 채택, 비정형 콘텐츠→구조화 지식베이스 변환
 * [MoneyPrinterV2: Automate the process of making money online](https://github.com/FujiwaraChoki/MoneyPrinterV2)
   * YouTube Shorts 자동 생성, Twitter 봇, 아마존 제휴 마케팅, 로컬 비즈니스 콜드 아웃리치 자동화
 * [multiagent_backend: 가짜연 9th 깃허브 잔디심기 Stockelper Multi Agent Backend Fastapi](https://github.com/jh941213/multiagent_backend)
@@ -430,7 +430,7 @@ Finance
   * [Qlib Documentation](https://qlib.readthedocs.io/)
   * Microsoft의 AI 기반 퀀트 투자 플랫폼. 데이터 처리→모델 학습→백테스트→포트폴리오 최적화 전 워크플로 지원, 지도학습·시장 동역학·강화학습 등 다양한 ML 패러다임과 사전 구축 모델·데이터셋 제공. RD-Agent와 통합돼 퀀트 트레이딩 R&D 자동화
 * [QuantHarness: Price-Driven Multi-Agent LLMs for High-Frequency Trading | Y-Research-SBU](https://github.com/Y-Research-SBU/QuantHarness)
-  * Stony Brook·CMU·UBC·Yale·Fudan 연구—가격 신호 주도 멀티 에이전트 LLM으로 고빈도 트레이딩(HFT)을 다루는 공식 레포. MIT, 2.9k stars
+  * Stony Brook·CMU·UBC·Yale·Fudan 연구—가격 신호 주도 멀티 에이전트 LLM으로 고빈도 트레이딩(HFT)을 다루는 공식 레포
 * [QuantMuse: A comprehensive quantitative trading system with AI-powered analysis, real-time data processing, and advanced risk management](https://github.com/0xemmkty/QuantMuse)
 * [RD-Agent: LLM-based framework for automating data-driven R&D | Microsoft](https://github.com/microsoft/RD-Agent)
   * [RD-Agent 공식 사이트](https://rdagent.azurewebsites.net/)
@@ -441,10 +441,10 @@ Finance
 * [skill-algotrader: Claude Code skill for building quantitative trading systems on Indian stock markets](https://github.com/javajack/skill-algotrader)
   * Claude Code 스킬. 인도 주식시장 퀀트 트레이딩 봇 생성 마법사, NSE 지수 구성·유동성 수집, Fortress 시그널(승률 65% 문서화), 백테스트-라이브 패리티 검증. 16개 지식 도메인 1,780줄 운영 노하우, 30+ gotcha, Parquet 캐싱 28배·Polars 37배 가속. 교육용 가이드(투자 보장 아님)
 * [stock-market-signal-automation: Build your own data-driven market edge with swing-trade signal webhooks, dashboards, alerts, AI agents, and automation examples](https://github.com/cporter202/stock-market-signal-automation)
-  * 스윙 트레이드 시그널 웹훅·대시보드·알림·AI 에이전트·자동화 예제 모음. MIT
+  * 스윙 트레이드 시그널 웹훅·대시보드·알림·AI 에이전트·자동화 예제 모음
 * [TaxHacker: Self-Hosted AI Accounting](https://github.com/vas3k/TaxHacker)
   * [SungJae Shim - TaxHacker — 프리랜서를 위한 셀프호스팅 AI 회계 | Facebook](https://www.facebook.com/sungjae.shim/posts/pfbid0UFVW9tP5puJqRNRGjkXodzJRTdztbCQ3GbBBnvgfVChtaNmKFhxt2NYtPLnsagurl)
-  * 프리랜서/소상공인용 셀프호스팅 AI 회계 앱. 영수증/PDF 업로드→날짜·금액·통화·벤더·카테고리·세금 정보 자동 추출. 170+ 통화·14개 암호화폐 환율 자동 변환. OpenAI/Gemini/Mistral/Ollama/LM Studio/vLLM 모두 지원. Next.js+Prisma+PostgreSQL, Docker 배포, MIT
+  * 프리랜서/소상공인용 셀프호스팅 AI 회계 앱. 영수증/PDF 업로드→날짜·금액·통화·벤더·카테고리·세금 정보 자동 추출. 170+ 통화·14개 암호화폐 환율 자동 변환. OpenAI/Gemini/Mistral/Ollama/LM Studio/vLLM 모두 지원. Next.js+Prisma+PostgreSQL, Docker 배포
 * [tossinvest-cli: Unofficial CLI connecting AI agents to Toss Securities](https://github.com/JungHoonGhae/tossinvest-cli)
   * `tossctl` 통합 명령. Claude Code/Codex/Cursor/bash에서 토스증권 계좌 관리·시세·주문. 미국·한국 주식 지원, 안전장치로 거래 전 명시적 설정 필요
 * [TradingAgents: Multi-agent LLM trading framework mirroring real-world trading firms](https://github.com/TauricResearch/TradingAgents)
@@ -453,7 +453,7 @@ Finance
   * [2412.20138 TradingAgents: Multi-Agents LLM Financial Trading Framework](https://arxiv.org/html/2412.20138)
     * 공식 논문—단일 에이전트나 독립적 데이터 수집을 넘어 **실제 트레이딩 회사의 협업 역학을 멀티 에이전트로 재현**하는 프레임워크 제안
   * [MIT Researchers Built An AI Hedge Fund (Here's How To Use It) | AI Pathways - YouTube](https://www.youtube.com/watch?v=w-8XSCgwzHw)
-    * MIT·UCLA 연구진이 만든 TradingAgents를 헤지펀드처럼 굴리는 17분 사용법 튜토리얼(투자 자문 아님 고지 포함)
+    * MIT·UCLA 연구진이 만든 TradingAgents를 헤지펀드처럼 굴리는 사용법 튜토리얼(투자 자문 아님 고지 포함)
   * 펀더멘탈·센티먼트·뉴스·기술 분석 에이전트 + 불/베어 리서처 토론 + 트레이더·리스크 관리·포트폴리오 매니저로 구성된 멀티 에이전트 트레이딩 시스템
   * [Someone open-sourced a hedge fund (53k stars on GitHub) - YouTube](https://www.youtube.com/watch?v=9FoEsXNGLwI)
 * [tradingcodex: Turn Codex into your investment workflow team](https://github.com/monarchjuno/tradingcodex)
@@ -462,7 +462,7 @@ Finance
   * [새로운 MCP 서버로 Claude에 TradingView를 연동하세요: 유료 요금제 대상 공개 베타 서비스 제공 | TradingView Blog](https://www.tradingview.com/blog/ko/tradingview-mcp-server-public-beta-60864/)
     * 공식 TradingView MCP 서버(`https://mcp.tradingview.com/mcp`) 공개 베타—Claude(웹·데스크톱·모바일·Claude Code) 등 MCP 호환 클라이언트에 사용자 지정 커넥터로 추가하고 TradingView 로그인·승인하면 끝. Essential 이상 유료 플랜 대상, 베타 중 일일 요청 제한. 시세·가격 이력 조회, 스크리너 실행, 펀더멘털·뉴스·공시(실적 콜 녹취록·10-K/10-Q/8-K)·경제 캘린더 분석, 왓치리스트·얼러트 생성, 얼러트 로그 사후 분석("지난 7일 발동된 얼러트와 이후 2세션 가격 움직임·헤드라인"), 종목 비교표, Claude Code에서 API 키·CSV 없이 2년치 봉차트+CPI 받아 상관관계 계산 등 활용 예시와 첫 프롬프트 10가지
   * [트레이딩뷰 공식 MCP 나왔습니다, 클로드 연결부터 한계까지 | Running the System - YouTube](https://www.youtube.com/watch?v=yEbJe1uILiM)
-    * 7분 실연(2026-10-04): MCP는 USB 같은 것, 누가 쓸 수 있나(에센셜 이상·베타 제한), 클로드에 연결하기, 도구 권한 설정(읽기는 항상 허용·쓰기는 승인 필요), 트레이더가 쓸 만한 기능, 말로 왓치리스트 만들기, 얼러트 기록으로 거래 횟수 세기, 써 보니 아쉬운 점과 되는 것·아직인 것 정리
+    * 7분 실연: MCP는 USB 같은 것, 누가 쓸 수 있나(에센셜 이상·베타 제한), 클로드에 연결하기, 도구 권한 설정(읽기는 항상 허용·쓰기는 승인 필요), 트레이더가 쓸 만한 기능, 말로 왓치리스트 만들기, 얼러트 기록으로 거래 횟수 세기, 써 보니 아쉬운 점과 되는 것·아직인 것 정리
 * [TrendSpider - All-in-One Market Research & Trading Software](https://trendspider.com/)
   * 개인 트레이더부터 기관까지 쓰는 AI 기반 통합 시장 분석·거래 플랫폼(월 구독). 자동 차트 패턴·추세선 인식, 머신러닝 기반 전략 개발과 50년+ 과거 데이터 백테스팅, 실시간 시장 스캐너, 코드 없는 클라우드 알림·자동 매매, AI 거래 조수 Sidekick("챗봇이 아니라 워크봇"). 스캐너·계산기·학습 센터는 무료 제공
 * [vibe-investing: 투자를 위한 AI 투자(Vibe Investing) 큐레이션, 시장 분석 칼럼, AI 트레이딩 도구 2종 (Harness Quant v2 + Earnings Momentum Agent) 를 다루며 미국 나스닥, S&P500, 가상화폐 투자를 다룹니다](https://github.com/gameworkerkim/vibe-investing/)
@@ -476,7 +476,7 @@ Finance
   * [Vibe-Trading - AI 다중 에이전트 트레이딩 전략 플랫폼 | GeekNews](https://news.hada.io/topic?id=29055)
   * [자연어로 만드는 퀀트 전략 자동화 플랫폼, Vibe-Trading 기술 정리 :: 지식의 섬](https://digitalbourgeois.tistory.com/3061)
   * 자연어→실행 가능 트레이딩 전략 변환. 68개 금융 스킬, 29개 에이전트 스웜 팀(투자위원회·트레이딩 데스크·리서치). A주/홍콩/미국/크립토/선물 크로스마켓 백테스팅, TradingView Pine Script 내보내기, MCP 플러그인
-  * 2026-10 기준 보강(36k stars)—위키는 스스로를 "브로커 실행이 아닌 금융 리서치용" 에이전트로 규정: 자연어 요청→스킬·데이터·스웜 팀 라우팅→시장 데이터·문서·브로커 저널 그라운딩→백테스트·팩터 분석·옵션 검증→run card·리포트·도구 추적·주의사항 전달의 루프. A주·글로벌·인도·한국·베트남 주식·크립토·선물·외환·옵션 11개 백테스트 엔진, 브로커 거래 저널을 파싱해 암묵적 규칙을 뽑고 반사실 백테스트·감사 리포트를 내는 Shadow Account. 실거래는 opt-in·기본 읽기 전용으로 직접 승인한 브로커(Robinhood Agentic Trading 등)와 한도 안에서만. v0.1.17(2026-10-21, 33명 638커밋)은 일별 종가 봉에 주문·전략을 매칭하는 paper trading(`paper_trade_step` 도구·CLI·REST·웹)과 "계산 불가면 그럴듯한 숫자 대신 null" 정확성 수정, v0.1.18은 도구 스키마 지연 로딩으로 모델 호출 12→7회·입력 토큰 약 1/5. 공식 토큰·밈코인은 없다는 사칭 경고
+  * 위키는 스스로를 "브로커 실행이 아닌 금융 리서치용" 에이전트로 규정: 자연어 요청→스킬·데이터·스웜 팀 라우팅→시장 데이터·문서·브로커 저널 그라운딩→백테스트·팩터 분석·옵션 검증→run card·리포트·도구 추적·주의사항 전달의 루프. A주·글로벌·인도·한국·베트남 주식·크립토·선물·외환·옵션 11개 백테스트 엔진, 브로커 거래 저널을 파싱해 암묵적 규칙을 뽑고 반사실 백테스트·감사 리포트를 내는 Shadow Account. 실거래는 opt-in·기본 읽기 전용으로 직접 승인한 브로커(Robinhood Agentic Trading 등)와 한도 안에서만. v0.1.17(33명 638커밋)은 일별 종가 봉에 주문·전략을 매칭하는 paper trading(`paper_trade_step` 도구·CLI·REST·웹)과 "계산 불가면 그럴듯한 숫자 대신 null" 정확성 수정, v0.1.18은 도구 스키마 지연 로딩으로 모델 호출 12→7회·입력 토큰 약 1/5. 공식 토큰·밈코인은 없다는 사칭 경고
 * [worldmonitor: Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface](https://github.com/koala73/worldmonitor)
   * [블룸버그 터미널 연 구독료 약 3만 2천 달러. 한화 4,600만원 수준입니다. 같은 역할을 지향하는 오픈소스 대안이 한 명의 개발자 손에서 나와 깃허브 별 4만개를 넘겼습니다. 이번 주말 개인 서버에 설치해볼 예정이라, 공부한 내용을 정리해 공유합니다. ▶ 프로젝트: World Monitor 실시간 글로벌 인텔리전스 대시보드입니다. 한 화면에 다음… | SungJae Shim](https://www.linkedin.com/posts/sungjae-shim-9b353159_%EB%B8%94%EB%A3%B8%EB%B2%84%EA%B7%B8-%ED%84%B0%EB%AF%B8%EB%84%90-%EC%97%B0-%EA%B5%AC%EB%8F%85%EB%A3%8C-%EC%95%BD-3%EB%A7%8C-2%EC%B2%9C-%EB%8B%AC%EB%9F%AC-%ED%95%9C%ED%99%94-4600%EB%A7%8C%EC%9B%90-%EC%88%98%EC%A4%80%EC%9E%85%EB%8B%88%EB%8B%A4-share-7452296257399861248-0t46)
 
@@ -549,7 +549,7 @@ Finance
 * [가상화폐 트레이딩 봇 만들기](https://brunch.co.kr/@skykamja24/542)
 * [joshephan/upbit_tradingbot](https://github.com/joshephan/upbit_tradingbot)
 * [TradingView-API: 📈 Get real-time stocks from TradingView](https://github.com/Mathieu2301/TradingView-API)
-  * TradingView에서 캔들·시세를 가져오고 지표·전략을 돌려 차트부터 실행 중인 감시 도구까지 만드는 비공식 커뮤니티 라이브러리(공식 TradingView API 아님). `getCandles({ symbol: 'BINANCE:BTCUSDT', timeframe: 'D', count: 40 })`처럼 한 번의 요청으로 실데이터. 현재 v4 베타는 하위 호환 없는 TypeScript 전면 재작성으로 레포에서만 빌드해 사용, npm(`@mathieuc/tradingview`) 최신은 아직 v3—마이그레이션 가이드·v3 기능 커버리지 표 제공. TypeScript, 5.5k stars
+  * TradingView에서 캔들·시세를 가져오고 지표·전략을 돌려 차트부터 실행 중인 감시 도구까지 만드는 비공식 커뮤니티 라이브러리(공식 TradingView API 아님). `getCandles({ symbol: 'BINANCE:BTCUSDT', timeframe: 'D', count: 40 })`처럼 한 번의 요청으로 실데이터. 현재 v4 베타는 하위 호환 없는 TypeScript 전면 재작성으로 레포에서만 빌드해 사용, npm(`@mathieuc/tradingview`) 최신은 아직 v3—마이그레이션 가이드·v3 기능 커버리지 표 제공
 
 # Library
 * [24시간 주식매매 자동화 구축하기 open API+](https://www.youtube.com/playlist?list=PLDtzZPtOGenaSknTbsb6x6L39V0VPz_rS)
@@ -557,20 +557,20 @@ Finance
 * [게으른 퀀트 ::: 홈](https://lazyquant.xyz/)
 * [한국 Trading API](https://igotit.tistory.com/entry/%EC%A6%9D%EA%B6%8C%EC%82%AC-API-DMA%EC%A0%95%EB%A6%AC)
 * [akshare: AKShare is an elegant and simple financial data interface library for Python, built for human beings! 开源财经数据接口库](https://github.com/akfamily/akshare)
-  * 주식·선물·옵션·펀드·채권·외환·암호화폐 등 금융 데이터를 간결한 인터페이스로 가져오는 오픈소스 Python 라이브러리. 22.4k stars
+  * 주식·선물·옵션·펀드·채권·외환·암호화폐 등 금융 데이터를 간결한 인터페이스로 가져오는 오픈소스 Python 라이브러리
 * [Finance: 150+ quantitative finance Python programs to help you gather, manipulate, and analyze stock market data](https://github.com/shashankvemuri/Finance)
   * [이상선 - GitHub 프로젝트: Finance - 금융 데이터 분석 & 트레이딩 도구 - 핵심내용 - 1. 모듈... | Facebook](https://www.facebook.com/100001916096643/posts/31814107121569744/)
 * [Finance Database | Jeroen Bouma](https://www.jeroenbouma.com/projects/financedatabase)
   * [FinanceDatabase: This is a database of 300.000+ symbols containing Equities, ETFs, Funds, Indices, Currencies, Cryptocurrencies and Money Markets](https://github.com/jerbouma/FinanceDatabase)
-  * 주식·ETF·펀드·지수·통화·암호화폐·머니마켓 30만+ 심볼을 담은 오픈소스 Python 패키지. 8.9k stars
+  * 주식·ETF·펀드·지수·통화·암호화폐·머니마켓 30만+ 심볼을 담은 오픈소스 Python 패키지
 * [FinceptTerminal: Open-source financial analysis platform — Bloomberg Terminal alternative](https://github.com/Fincept-Corporation/FinceptTerminal)
   * [Fincept Terminal — The Private AI Research Terminal](https://fincept.in/)
   * [Fincept Terminal - 금융 분석 플랫폼 오픈소스 | GeekNews](https://news.hada.io/topic?id=29089)
-  * C++20+Qt6 네이티브 앱. DCF·포트폴리오 최적화·리스크 지표, 37개 AI 트레이딩 에이전트(멀티 LLM), 100+ 데이터 소스, 16개 브로커 실시간 거래, QuantLib 기반 퀀트 분석. AGPL-3.0
+  * C++20+Qt6 네이티브 앱. DCF·포트폴리오 최적화·리스크 지표, 37개 AI 트레이딩 에이전트(멀티 LLM), 100+ 데이터 소스, 16개 브로커 실시간 거래, QuantLib 기반 퀀트 분석
   * Enterprise 에디션은 계획·위임하는 에이전틱 리서치, 백테스팅 퀀트 랩, 파생·매크로 커버리지, 프라이빗 데이터룸 등 41개 모듈. 월 $99/유저(블룸버그 단말 $27,000 대비)
 * [freqtrade — Free, open source crypto trading bot](https://www.freqtrade.io/)
   * [freqtrade/freqtrade: Free, open source crypto trading bot](https://github.com/freqtrade/freqtrade)
-  * 파이썬 오픈소스 암호화폐 트레이딩 봇. 백테스팅·전략 최적화(하이퍼옵트)·텔레그램/웹UI 제어, 주요 거래소 지원. Python, GPL-3.0, 53k stars
+  * 파이썬 오픈소스 암호화폐 트레이딩 봇. 백테스팅·전략 최적화(하이퍼옵트)·텔레그램/웹UI 제어, 주요 거래소 지원
 * [fsfupbit: Enhanced Python wrapper for Upbit API - A maintained fork of pyupbit](https://github.com/urstory/fsfupbit)
   * [Python Korea | 안녕하세요. pyupbit를 사용하시는 분들이 많은데, 원본 저장소가 2024년 이후로 업데이트가 되지 않고 있어 포크해?... | Facebook](https://www.facebook.com/groups/pythonkorea/posts/25694622306860921/)
 * [Goldman Sachs · GitHub](https://github.com/goldmansachs/)
@@ -579,16 +579,16 @@ Finance
 * [hometaxbot](https://github.com/finecodekr/hometaxbot)
 * [KIS Developers](https://apiportal.koreainvestment.com/intro) 한국투자증권
   * [open-trading-api: Korea Investment & Securities Open API Github | koreainvestment](https://github.com/koreainvestment/open-trading-api)
-  * 한국투자증권 Open API(KIS Developers) 공식 샘플 코드 저장소—ChatGPT·Claude 같은 LLM과 Python 개발자 모두가 쓰기 쉽게 구성(`llms.txt` 제공). `examples_llm/`(인증·국내주식·국내채권·해외주식·선물옵션 등 기능 단위 샘플), `examples_user/`(상품별 통합 자동매매 예제), `strategy_builder/`(비주얼 UI로 매매 전략 설계·시그널 생성), `backtester/`(QuantConnect Lean 기반 백테스팅). 2026년 10월 23일부터 포털에서 API 질문·샘플 작성·오류 해결을 돕는 OpenAPI AI 에이전트(로그인 후 챗봇)와 개발환경 없이 웹에서 전략을 만드는 투자전략 플레이그라운드(AI도구 메뉴) 제공. Python, 1.7k stars
+  * 한국투자증권 Open API(KIS Developers) 공식 샘플 코드 저장소—ChatGPT·Claude 같은 LLM과 Python 개발자 모두가 쓰기 쉽게 구성(`llms.txt` 제공). `examples_llm/`(인증·국내주식·국내채권·해외주식·선물옵션 등 기능 단위 샘플), `examples_user/`(상품별 통합 자동매매 예제), `strategy_builder/`(비주얼 UI로 매매 전략 설계·시그널 생성), `backtester/`(QuantConnect Lean 기반 백테스팅). 2026년 10월 23일부터 포털에서 API 질문·샘플 작성·오류 해결을 돕는 OpenAPI AI 에이전트(로그인 후 챗봇)와 개발환경 없이 웹에서 전략을 만드는 투자전략 플레이그라운드(AI도구 메뉴) 제공
 * [OctoBot — Crypto trading bot for automated strategies](https://www.octobot.cloud/)
   * [OctoBot: Free open source crypto trading bot to automate AI, Grid, DCA and TradingView strategies](https://github.com/Drakkar-Software/OctoBot)
-  * AI·Grid·DCA·TradingView 전략을 자동화하는 오픈소스 암호화폐 트레이딩 봇. Binance·Hyperliquid 등 15개+ 거래소 지원, 자금은 사용자가 직접 보관(non-custodial). Python, GPL-3.0, 6.3k stars
+  * AI·Grid·DCA·TradingView 전략을 자동화하는 오픈소스 암호화폐 트레이딩 봇. Binance·Hyperliquid 등 15개+ 거래소 지원, 자금은 사용자가 직접 보관(non-custodial)
 * openbb [Investment research for everyone](https://openbb.co/)
   * [OpenBB: Investment research for everyone, everywhere](https://github.com/OpenBB-finance/OpenBB)
   * 오픈소스 투자 리서치 플랫폼. 주식, 옵션, 암호화폐, 외환, 거시경제 데이터 분석. Python 기반, 터미널 UI 및 SDK 제공
 * [Securo - Privacy-First Expense Management](https://www.usesecuro.com/)
   * [securo: Open-source personal finance manager. Self-hosted, privacy-first](https://github.com/securo-finance/securo)
-  * 셀프호스팅·프라이버시 우선 개인 지출/재무 관리 앱. Python, AGPL-3.0
+  * 셀프호스팅·프라이버시 우선 개인 지출/재무 관리 앱
 * [StonksWatcher](https://github.com/khalidabuhakmeh/StonksWatcher) uses WebSocketClient to stream stock information to the console window in real-time! c#
 * Tart [크롬과 주식으로 창업하기](https://parkayun.kr/f8d49b62ced245df8cb61def68efc5bb)
 * [wallstreetlocal: Free and open-source stock tracking website for America's biggest money managers. Democratizing SEC filings by making them more accessible and useful](https://github.com/leftmove/wallstreetlocal)
@@ -745,7 +745,7 @@ Finance
 * [How to Create a Mean Reverting Trading Algorithm - YouTube](https://www.youtube.com/watch?v=0PfgqNYTl4Q)
 * [Algorithmic Trading Using Python - Full Course - YouTube](https://www.youtube.com/watch?v=xfzGZB4HhEE)
 * [Python Algorithmic Trading Course – Massive, SnapTrade & Alpaca Integrations | freeCodeCamp.org - YouTube](https://www.youtube.com/watch?v=zH2Mg782XhA)
-  * Python·Django로 알고리즘 페이퍼 트레이딩 시스템을 처음부터 구축하는 1시간 43분 무료 강좌(2026-09-29, SnapTrade 지원). Massive 시장 데이터 → SnapTrade 포트폴리오 연동 → Alpaca 모의 계좌로 자동 신호 라우팅 파이프라인, 50종목 유니버스에 12개월 모멘텀 점수를 계산해 매매 추천·실행하는 웹 대시보드 완성. 계정 셋업·Django 모델링·Admin·Massive/SnapTrade API 연동·전략 서비스·UI·데이터 백필 순서
+  * Python·Django로 알고리즘 페이퍼 트레이딩 시스템을 처음부터 구축하는 1시간 43분 무료 강좌(SnapTrade 지원). Massive 시장 데이터 → SnapTrade 포트폴리오 연동 → Alpaca 모의 계좌로 자동 신호 라우팅 파이프라인, 50종목 유니버스에 12개월 모멘텀 점수를 계산해 매매 추천·실행하는 웹 대시보드 완성. 계정 셋업·Django 모델링·Admin·Massive/SnapTrade API 연동·전략 서비스·UI·데이터 백필 순서
 * [삼성증권 퀀트모델링 A to Z](https://brunch.co.kr/@gauss92tgrd/23)
 * [1/2 ETF 전종목 브라우저의 네트워크 탭을 이해하면 코드 한 줄로 가능하다?! - YouTube](https://www.youtube.com/watch?v=-eVe2Dzj6lI)
 * [2/2 ETF 전종목 수집 JSON 타입도 판다스로?! - YouTube](https://www.youtube.com/watch?v=1ydH6ugjNOQ)
@@ -840,10 +840,10 @@ Finance
   * 구조—증거 수집·시장 데이터·모델 랩·독립 검증·리스크 제어·실험 원장 6요소. 관측 행동(y=Fθ(x,s)+ε)과 숨은 로직 분리, 홀드아웃 오차+복잡도+미지원 가정 패널티의 모델 선택 목표 J(M), 주문흐름 불균형(OFI)·호가 스큐 등 미시구조 특징으로 경쟁 가설을 세우고 최적화 전 반증 조건 정의
   * 백테스트 검증 건틀릿: 시간순 분리·누수 제어, 체결 모델(수수료·슬리피지·펀딩·시장충격)로 순수익, Deflated Sharpe·PBO로 선택 편향 보정, 5게이트(데이터 무결성→모델 충실도→실행 비용→통계 강건성→리스크·운영) 통과 후에만 페이퍼 트레이딩. 리스크 예산 포지션 사이징, 변동성 타게팅, 독립 사전·사후 거래 통제(SEC 15c3-5), 비상 정지, 불변 감사 로그. 한계: 디컴파일은 원본 소스가 아닌 구조 단서, 시장 데이터는 인과가 아닌 상관
 * [ib-gateway-docker: Docker image with IB Gateway/TWS and IBC | gnzsnz](https://github.com/gnzsnz/ib-gateway-docker)
-  * Interactive Brokers Gateway/TWS를 IBC와 함께 컨테이너로 띄우는 이미지—알고 트레이딩 봇의 무인 API 접속용. Shell, MIT, 1.3k stars
+  * Interactive Brokers Gateway/TWS를 IBC와 함께 컨테이너로 띄우는 이미지—알고 트레이딩 봇의 무인 API 접속용
 * [OpenQuant — collaborative and proper practices for financial machine learning](https://open-quant.github.io/openquant/)
   * [openquant: Rust implementations of the methods in Advances in Financial Machine Learning, with Python bindings](https://github.com/Open-Quant/openquant)
-  * López de Prado의 「Advances in Financial Machine Learning」 기법들을 Rust로 구현하고 Python 바인딩 제공. Jupyter Notebook, MIT
+  * López de Prado의 「Advances in Financial Machine Learning」 기법들을 Rust로 구현하고 Python 바인딩 제공
 * [quant-trading-rest: 키움증권/한국투자증권 REST API 자동매매](https://github.com/CyberFlower/quant-trading-rest)
   * [Dong-Kwan Lee](https://www.linkedin.com/posts/dong-kwan-lee-b35a741bb_github-cyberflowerquant-trading-rest-activity-7436322079949430784--nJZ)
   * 시그널 조건을 체인 구조로 조합, 다중 브로커 실행 엔진 재사용. 낮(키움/국내장)·밤(한투/미국장) 세션별 crontab 운용

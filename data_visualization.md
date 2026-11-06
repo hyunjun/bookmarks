@@ -265,7 +265,7 @@ Data Visualization
 * [chart.xkcd - xkcd styled chart lib https://timqian.com/chart.xkcd ](https://github.com/timqian/chart.xkcd)
 * [cosmos.gl — GPU-accelerated force graph layout and rendering](https://cosmos.gl/)
   * [graph: GPU-accelerated force graph layout and rendering](https://github.com/cosmosgl/graph)
-  * WebGL 셰이더에서 force 시뮬레이션과 렌더링을 모두 수행하는 GPU 가속 그래프 시각화 라이브러리. TypeScript, 1.3k stars
+  * WebGL 셰이더에서 force 시뮬레이션과 렌더링을 모두 수행하는 GPU 가속 그래프 시각화 라이브러리
 * [data-formulator: 🪄 Create rich visualizations with AI](https://github.com/microsoft/data-formulator)
   * [Microsoft released a new AI powered data analysis tool](https://www.linkedin.com/posts/sumanth077_microsoft-released-a-new-ai-powered-data-activity-7307302736302153729-wDQy/)
 * [Datawrapper: Create charts, maps, and tables](https://www.datawrapper.de/)
@@ -278,7 +278,7 @@ Data Visualization
 * [Flint — A visualization language for AI agents](https://microsoft.github.io/flint-chart/)
   * [flint-chart: 🪄 Flint is a visualization language that lets AI agents reliably create expressive, good-looking charts from simple, human-editable chart specs](https://github.com/microsoft/flint-chart)
   * [AI 시대의 시각화 언어, Flint로 간결한 차트 명세부터 다양한 백엔드까지 연결하기 | digitalbourgeois](https://digitalbourgeois.tistory.com/3587)
-  * Microsoft. 사람이 직접 편집할 수 있는 간결한 차트 명세로 AI 에이전트가 표현력 있고 보기 좋은 차트를 안정적으로 만들게 하는 시각화 언어. 여러 렌더링 백엔드 연결. TypeScript, 4.1k stars
+  * Microsoft. 사람이 직접 편집할 수 있는 간결한 차트 명세로 AI 에이전트가 표현력 있고 보기 좋은 차트를 안정적으로 만들게 하는 시각화 언어. 여러 렌더링 백엔드 연결
 * [flourish.studio](https://flourish.studio/) Beautiful and easy data visualization and storytelling
 * [Graphic Walker — Open-source Tableau-style visual analytics](https://kanaries.net/graphic-walker)
   * [graphic-walker](https://github.com/Kanaries/graphic-walker)
@@ -291,7 +291,7 @@ Data Visualization
 * Semiotic [Introducing Semiotic for Data Visualization](https://medium.com/@Elijah_Meeks/introducing-semiotic-for-data-visualization-88dc3c6b6926)
 * [seoulzoo-map](https://github.com/leejeonghoon/seoulzoo-map) 서울동물원 지도 리디자인
 * [supersonic: SuperSonic is the next-generation AI+BI platform that unifies Chat BI (powered by LLM) and Headless BI (powered by semantic layer) paradigms](https://github.com/tencentmusic/supersonic)
-  * Tencent Music. LLM 기반 Chat BI와 시맨틱 레이어 기반 Headless BI를 하나로 통합한 차세대 AI+BI 플랫폼. Java, 5k stars
+  * Tencent Music. LLM 기반 Chat BI와 시맨틱 레이어 기반 Headless BI를 하나로 통합한 차세대 AI+BI 플랫폼
 * [μPlot An exceptionally fast, tiny time series chart (MIT Licensed)](https://github.com/leeoniya/uPlot)
 * [Vega - a declarative format for creating, saving, and sharing visualization designs](http://vega.github.io/)
   * [Vega, Vega-lite 넌 뭐니](http://mobicon.tistory.com/549)

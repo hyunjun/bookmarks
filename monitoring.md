@@ -218,7 +218,7 @@ Monitoring
   * [loki logcli 사용법](https://catchv.tistory.com/102)
   * [당근에서 Loki 1년간 운영기 | 당근 SRE 밋업 4회 - YouTube](https://www.youtube.com/watch?v=pzvzOmZOKWc)
   * [로그 수집기가 왜 자꾸 OOM으로 죽었나 - 누적 드롭 8.9억 건을 기록한 로그 파이프라인을 고친 이야기 | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/no-more-oom-log-pipeline)
-    * 2026-10-27, 카카오페이손해보험. Kubernetes에서 Alloy(수집)+Loki(적재·인덱싱)를 운영하다 수집기가 OOM으로 반복 종료되고 누적 드롭 8.9억 건 발생—원인은 Alloy clustering 미활성화로 인한 중복 수집, API 방식 수집, 높은 레이블 카디널리티. clustering 활성화·파일 방식 전환·레이블 카디널리티 최적화로 메모리 증설 없이 Loki CPU 98% 감소, 쿼리 P99 90% 개선, 활성 스트림 78% 감소
+    * 카카오페이손해보험. Kubernetes에서 Alloy(수집)+Loki(적재·인덱싱)를 운영하다 수집기가 OOM으로 반복 종료되고 누적 드롭 8.9억 건 발생—원인은 Alloy clustering 미활성화로 인한 중복 수집, API 방식 수집, 높은 레이블 카디널리티. clustering 활성화·파일 방식 전환·레이블 카디널리티 최적화로 메모리 증설 없이 Loki CPU 98% 감소, 쿼리 P99 90% 개선, 활성 스트림 78% 감소
 * [oncall: Developer-friendly incident response with brilliant Slack integration](https://github.com/grafana/oncall)
   * [Introducing Grafana OnCall OSS, on-call management for the open source community | Grafana Labs](https://grafana.com/blog/2022/06/14/introducing-grafana-oncall-oss-open-source/)
 * [phlare: 🔥 horizontally-scalable, highly-available, multi-tenant continuous profiling aggregation system](https://github.com/grafana/phlare)
@@ -323,7 +323,7 @@ Monitoring
 * [OpenObserve | Open Source Observability Platform for Logs, Metrics, Traces, and More – Your Ultimate Dashboard for Alerts and Insights](https://openobserve.ai/)
   * [openobserve: 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance, 🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay)](https://github.com/openobserve/openobserve) local 개발환경에서도 구동 가능
   * [OpenObserve - 클라우드 네이티브 관찰(observability) 플랫폼 | GeekNews](https://news.hada.io/topic?id=17416)
-  * 로그·메트릭·트레이스·프론트엔드 모니터링·파이프라인·LLM 옵저버빌리티를 아우르는 오픈소스 플랫폼. Datadog/Splunk/Elasticsearch 대안으로 스토리지 비용 140배 절감, 단일 바이너리 배포. 20k+ stars
+  * 로그·메트릭·트레이스·프론트엔드 모니터링·파이프라인·LLM 옵저버빌리티를 아우르는 오픈소스 플랫폼. Datadog/Splunk/Elasticsearch 대안으로 스토리지 비용 140배 절감, 단일 바이너리 배포
 * [osquery | Easily ask questions about your Linux, Windows, and macOS infrastructure](https://osquery.io/)
   * [Osquery: SQL기반의 운영 체제 계측/모니터링/분석 도구 오픈소스 | GeekNews](https://news.hada.io/topic?id=13525)
 * [Pinpoint is an open source APM (Application Performance Management) tool for large-scale distributed systems written in Java](https://github.com/naver/pinpoint)
@@ -375,7 +375,7 @@ Monitoring
 
 # Observability
 * [Agentic Monitoring | Ben Congdon](https://benjamincongdon.me/blog/2026/10/19/Agentic-Monitoring/)
-  * 2026-10-19. Anthropic 블로그의 한 단락에서 출발—Claude Tag로 컴포넌트 하나의 건강 상태에 집착하는 Slack 채널 "superfan"(scion-daemon superfan, scion-cache superfan, 머지 큐 superfan…)을 만들어 텔레메트리·로그를 보며 "차트를 새로 고치는 것밖에 할 일이 없는 숙련 엔지니어"처럼 전통 알림이 1차원적으로 보일 만큼 미묘하고 새로운 이슈를 잡아낸다는 것. 소프트웨어가 LLM처럼 "설계"보다 "성장"하는 쪽으로 가고 코드량이 지수적으로 늘면서 운영자의 eyes-on-code 지식은 줄어드는 상황
+  * Anthropic 블로그의 한 단락에서 출발—Claude Tag로 컴포넌트 하나의 건강 상태에 집착하는 Slack 채널 "superfan"(scion-daemon superfan, scion-cache superfan, 머지 큐 superfan…)을 만들어 텔레메트리·로그를 보며 "차트를 새로 고치는 것밖에 할 일이 없는 숙련 엔지니어"처럼 전통 알림이 1차원적으로 보일 만큼 미묘하고 새로운 이슈를 잡아낸다는 것. 소프트웨어가 LLM처럼 "설계"보다 "성장"하는 쪽으로 가고 코드량이 지수적으로 늘면서 운영자의 eyes-on-code 지식은 줄어드는 상황
   * 관측성은 비싸고(Sentry·Datadog·Splunk·Honeycomb 산업) 숙련에 수년이 걸리는 영역인데 에이전트로 단계 변화 직전—"AI SRE" 스타트업은 많지만 실무자의 글은 드물다. 완전한 AI SRE 제품 없이도 에이전트에 로그·메트릭 접근을 주고 한 컴포넌트를 지켜보게 하는 것부터 시작할 수 있다는 실천적 관점
 * [서버 모니터링 분석 가이드 | kciter.so](https://kciter.so/posts/server-monitoring-analysis-guide/)
   * 서버 개발자를 위한 모니터링 종합 가이드. 장애 발생 시 빠르게 원인을 좁히고 사전에 문제를 파악하는 방법을 아키텍처·모니터링 관점에서 정리
@@ -424,7 +424,7 @@ Monitoring
 * [deepflow: eBPF Observability - Distributed Tracing and Profiling](https://github.com/deepflowio/deepflow)
   * [DeepFlow Insight｜业务交易可观测平台](https://deepflow.io/)
   * [DeepFlow란 무엇인가? eBPF 기반 코드 수정 없는 풀스택 관측성 플랫폼 | digitalbourgeois](https://digitalbourgeois.tistory.com/3824)
-  * 클라우드 네이티브·AI 애플리케이션용 오픈소스 관측성 플랫폼(Go, Apache-2.0). eBPF로 코드 수정 없이 메트릭·분산 추적·요청 로그·함수 프로파일링을 수집하고 SmartEncoding으로 풀스택 연관—Universal Map(언어 무관 서비스·AI·인프라 관계도와 골든 시그널, 사설 프로토콜은 Wasm 플러그인), 게이트웨이·서비스 메시·DB·메시지 큐·DNS·NIC까지 계측 없는 분산 추적(Span마다 네트워크 지표·파일 I/O 이벤트)
+  * 클라우드 네이티브·AI 애플리케이션용 오픈소스 관측성 플랫폼. eBPF로 코드 수정 없이 메트릭·분산 추적·요청 로그·함수 프로파일링을 수집하고 SmartEncoding으로 풀스택 연관—Universal Map(언어 무관 서비스·AI·인프라 관계도와 골든 시그널, 사설 프로토콜은 Wasm 플러그인), 게이트웨이·서비스 메시·DB·메시지 큐·DNS·NIC까지 계측 없는 분산 추적(Span마다 네트워크 지표·파일 I/O 이벤트)
   * 1% 미만 비용의 지속적 프로파일링(OnCPU·OffCPU·GPU·메모리·네트워크 플레임 그래프, 커널·CUDA 함수까지, 추적 데이터와 자동 연결). Prometheus·OpenTelemetry·SkyWalking·Pyroscope의 저장 백엔드 역할과 SQL·PromQL·OTLP API, 클라우드 리소스·K8s 라벨·CMDB 메타 태그 주입. SmartEncoding으로 ClickHouse String·LowCard 대비 저장 오버헤드 10배 절감
 * [honeycomb-opentelemetry-web: Honeycomb's Distro for OpenTelemetry in the browser](https://github.com/honeycombio/honeycomb-opentelemetry-web)
   * [Introducing Honeycomb for Frontend Observability | Honeycomb](https://www.honeycomb.io/blog/introducing-honeycomb-for-frontend-observability)
@@ -470,7 +470,7 @@ Monitoring
   * [superlog: Open-source observability tool that uses AI agents to self-heal your software](https://github.com/superloglabs/superlog)
   * [Superlog란? OpenTelemetry 기반 오픈소스 관측성 시스템의 특징과 설치 방법 | digitalbourgeois](https://digitalbourgeois.tistory.com/3541)
   * OpenTelemetry 데이터를 위한 오픈 코어 관측성 워크스페이스. 트레이스·로그·메트릭을 수집해 인시던트 단위로 그룹화하고, AI 에이전트가 소프트웨어를 스스로 치유(self-heal)하는 것을 지향. 로컬 우선 디버깅 환경, Agent Runner로 확장
-  * Node.js 20+·pnpm 9+·Docker 필요. `pnpm install`→Docker Compose→DB 마이그레이션→`pnpm dev`로 Web(5173)·API(4100)·OTLP Intake(4101) 실행. 커뮤니티 에디션 무료. TypeScript, 1.4k stars
+  * Node.js 20+·pnpm 9+·Docker 필요. `pnpm install`→Docker Compose→DB 마이그레이션→`pnpm dev`로 Web(5173)·API(4100)·OTLP Intake(4101) 실행. 커뮤니티 에디션 무료
 * [Vector | A lightweight, ultra-fast tool for building observability pipelines](https://vector.dev/)
   * [Vector를 활용해 멀티 CDN 로그 및 트래픽 관리하기](https://techblog.lycorp.co.jp/ko/managing-multi-cdn-logs-traffics-with-vector)
 
@@ -489,9 +489,9 @@ Monitoring
 * [A Prometheus fork for cloud scale anomaly detection across metrics & logs](https://www.zebrium.com/blog/a-prometheus-fork-for-efficient-cloud-scale-autonomous-monitoring)
 * [Prometheus Node Exporter Tutorial | Monitor CPU, Memory, Disk etc](https://www.youtube.com/watch?v=_h78zXBWjAU)
 * [대규모 멀티클러스터에서 Blackbox Exporter로 엔드포인트 모니터링 운영하기 (ICMP/HTTP/DNS + Grafana 대시보드 예시) | 카이도스(Kaidos)](https://djdakf1234.tistory.com/entry/Blackbox-Exporter%EB%A1%9C-%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81-%EA%B0%80%EC%9D%B4%EB%93%9C)
-  * 내부 메트릭을 긁는 다른 exporter와 달리 대상 내부를 몰라도 실제 요청(probe)을 보내 "사용자 입장에서 접속이 되는지"를 재는 Blackbox Exporter(2026-02-10)—HTTP/HTTPS 가용성·응답 시간·SSL 만료, ICMP ping, DNS 응답, TCP. 배치 위치에 따라 클러스터 내부 관점(DNS/Service/Ingress) 또는 외부 사용자 관점으로. 실전 사례: 멀티 리전 웹 서비스, SSL 인증서 만료, 네트워크 지연, 종합 헬스체크 대시보드와 운영 Best Practices
+  * 내부 메트릭을 긁는 다른 exporter와 달리 대상 내부를 몰라도 실제 요청(probe)을 보내 "사용자 입장에서 접속이 되는지"를 재는 Blackbox Exporter—HTTP/HTTPS 가용성·응답 시간·SSL 만료, ICMP ping, DNS 응답, TCP. 배치 위치에 따라 클러스터 내부 관점(DNS/Service/Ingress) 또는 외부 사용자 관점으로. 실전 사례: 멀티 리전 웹 서비스, SSL 인증서 만료, 네트워크 지연, 종합 헬스체크 대시보드와 운영 Best Practices
 * [Nexus Repository 운영 모니터링과 성능 최적화 전략 | 카이도스(Kaidos)](https://djdakf1234.tistory.com/entry/Nexus-Repository-%EC%9A%B4%EC%98%81-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81%EA%B3%BC-%EC%84%B1%EB%8A%A5-%EC%B5%9C%EC%A0%81%ED%99%94-%EC%A0%84%EB%9E%B5)
-  * Artifact Repository로 Nexus를 운영하며 Prometheus+Grafana로 HTTP 메소드별(GET/PUT/DELETE/HEAD)·요청 타입별(다운로드·조회·업로드·삭제)·사용자/빌드서버 IP별 빈도·응답 시간을 집계해 병목을 찾는 구성(2026-02-07)과 최적화 전략—단기 캐시 레이어 도입, 중장기 유료 버전 전환, 비용 절감용 오픈소스 HA 구성. 로그 분석 팁과 Grafana 대시보드 패널 예시 포함
+  * Artifact Repository로 Nexus를 운영하며 Prometheus+Grafana로 HTTP 메소드별(GET/PUT/DELETE/HEAD)·요청 타입별(다운로드·조회·업로드·삭제)·사용자/빌드서버 IP별 빈도·응답 시간을 집계해 병목을 찾는 구성과 최적화 전략—단기 캐시 레이어 도입, 중장기 유료 버전 전환, 비용 절감용 오픈소스 HA 구성. 로그 분석 팁과 Grafana 대시보드 패널 예시 포함
 * [prometheus-for-developers: Practical introduction to Prometheus for developers](https://github.com/danielfm/prometheus-for-developers)
 * [Level up your shell history with Loki and fzf | Opensource.com](https://opensource.com/article/20/10/shell-history-loki-fzf)
 * [Prometheus in a Clojure stack: Duct, Jetty, Compojure/Reitit and Hugsql](https://danlebrero.com/2021/02/03/prometheus-clojure-ring-sql-compojure-reitit/)

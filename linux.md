@@ -26,7 +26,7 @@ Linux
 * [6 open source tools and tips to securing a Linux server for beginners | Opensource.com](https://opensource.com/article/21/4/securing-linux-servers)
   * [초보자를 위한 리눅스 서버 보안용 오픈소스들과 팁 | GeekNews](https://news.hada.io/topic?id=4152)
 * [How-To-Secure-A-Linux-Server: An evolving how-to guide for securing a Linux server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server)
-  * SSH 키·2FA·방화벽·fail2ban·감사 로그 등 리눅스 서버 보안 설정을 단계별로 다루는 진화형 가이드. 30K stars
+  * SSH 키·2FA·방화벽·fail2ban·감사 로그 등 리눅스 서버 보안 설정을 단계별로 다루는 진화형 가이드
 * [Securing your Linux web server](https://hackernoon.com/securing-your-linux-web-server-2be683c223eb)
 * supervisord
   * [Deploy SSR Applications using Supervisord](https://hackernoon.com/deploy-ssr-applications-using-supervisord-dc32f1c0cda4)
@@ -105,7 +105,7 @@ Linux
 * [Transparently running binaries from any architecture in Linux with QEMU and binfmt_misc – Own your bits](https://ownyourbits.com/2018/06/13/transparently-running-binaries-from-any-architecture-in-linux-with-qemu-and-binfmt_misc/)
 * [Running the Steam Deck’s OS in a virtual machine using QEMU | The world won't listen](https://blogs.igalia.com/berto/2022/07/05/running-the-steam-decks-os-in-a-virtual-machine-using-qemu/)
 * [linuxpdf: Linux running inside a PDF file via a RISC-V emulator | ading2210](https://github.com/ading2210/linuxpdf)
-  * DoomPDF를 만든 사람의 후속—PDF 포맷이 자체 표준 라이브러리를 가진 JavaScript를 지원하고 Chromium·Firefox가 그 일부를 구현한다는 점을 이용해, asm.js를 타깃으로 하는 옛 Emscripten으로 TinyEMU(Bellard) 기반 RISC-V 에뮬레이터를 컴파일해 PDF 안에서 리눅스를 부팅(linux.doompdf.dev/linux.pdf에서 체험). C, GPL-3.0, 5.1k stars
+  * DoomPDF를 만든 사람의 후속—PDF 포맷이 자체 표준 라이브러리를 가진 JavaScript를 지원하고 Chromium·Firefox가 그 일부를 구현한다는 점을 이용해, asm.js를 타깃으로 하는 옛 Emscripten으로 TinyEMU(Bellard) 기반 RISC-V 에뮬레이터를 컴파일해 PDF 안에서 리눅스를 부팅(linux.doompdf.dev/linux.pdf에서 체험)
 * [Introduction to VirtIO](https://blogs.oracle.com/linux/post/introduction-to-virtio) with QEMU
 * [It's about time you try Linux. - Try Linux](https://www.trylinux.today/)
 * [net-rw/nf-tinyacl: Netfilter based ACL kernel module under Network stacks for studying](https://github.com/net-rw/nf-tinyacl)
@@ -805,7 +805,7 @@ Linux
     * [Super Fast and Accurate string distance algorithm: Sift4](http://siderite.blogspot.com/2014/11/super-fast-and-accurate-string-distance.html)
   * [tgrep: Trigram-indexed grep with a client/server architecture for fast regex search in large codebases locally | Microsoft](https://github.com/microsoft/tgrep)
     * [tgrep, Trigram 인덱스로 대규모 코드 저장소를 빠르게 검색하는 도구 | digitalbourgeois](https://digitalbourgeois.tistory.com/3664)
-    * 매번 전체를 스캔하는 대신 3바이트 Trigram 인덱스로 후보 파일을 좁힌 뒤 그 파일만 정규식 엔진으로 검사(후보 검색은 rayon 병렬). `tgrep index .`로 인덱싱하고 `tgrep serve .`로 서버를 띄우면 이후 검색이 자동으로 서버에 붙는 클라이언트/서버 구조—mmap 디스크 인덱스(IndexReader)와 서버 시작 후 변경분을 담는 메모리 오버레이(LiveIndex)를 HybridIndex로 결합해 인덱싱이 끝나기 전이나 파일 변경 후에도 최신 결과를 반환(미완성 인덱스일 때는 부분 결과 대신 파일시스템 검색으로 폴백). TCP JSON-RPC 2.0, native/polling 파일 감시+주기적 reconciliation. GitHub Copilot CLI의 빠른 grep에 통합. Rust, MIT, 3.2k stars
+    * 매번 전체를 스캔하는 대신 3바이트 Trigram 인덱스로 후보 파일을 좁힌 뒤 그 파일만 정규식 엔진으로 검사(후보 검색은 rayon 병렬). `tgrep index .`로 인덱싱하고 `tgrep serve .`로 서버를 띄우면 이후 검색이 자동으로 서버에 붙는 클라이언트/서버 구조—mmap 디스크 인덱스(IndexReader)와 서버 시작 후 변경분을 담는 메모리 오버레이(LiveIndex)를 HybridIndex로 결합해 인덱싱이 끝나기 전이나 파일 변경 후에도 최신 결과를 반환(미완성 인덱스일 때는 부분 결과 대신 파일시스템 검색으로 폴백). TCP JSON-RPC 2.0, native/polling 파일 감시+주기적 reconciliation. GitHub Copilot CLI의 빠른 grep에 통합
     * 벤치마크는 18개 측정 중 17개에서 ripgrep보다 낮은 지연(gecko-dev 388K 파일 macOS arm64 33,402ms→643ms, linux 96K Windows 3,280ms→94ms로 34.8배)이고 예외는 Kubernetes Linux의 0.93x. 단 결과가 수만 개로 많으면 후보 선별로 아낀 시간보다 결과 전달 비용이 커져 차이가 줄어듬. 기본값이 64 MiB 초과 파일 제외인데—292,911 파일 저장소에서 13.41 GiB 생성 파일 하나가 검색 바이트의 71%를 차지했고 제한 적용 시 인덱스 214.5초→64.2초, warm query 21.30초→0.55초—**제외된 파일 안의 매치는 결과에 나타나지 않는다는 점은 주의**(`--no-max-filesize`로 해제, 파일을 직접 지정한 검색은 제외되지 않음). 인덱스 구축은 기본 external 전략으로 저장소 크기에 비례해 메모리가 늘지 않게 설계
   * [ugrep: 🔍NEW ugrep v3.1: ultra fast grep with interactive query UI and fuzzy search: search file systems, source code, text, binary files, archives (cpio/tar/pax/zip), compressed files (gz/Z/bz2/lzma/xz/lz4), documents and more. A faster, user-friendly and compatible grep replacement](https://github.com/Genivia/ugrep)
 * `gzip`
@@ -1065,7 +1065,7 @@ Linux
   * [ShellCanvas — An open-source desktop for SSH servers](https://shellcanvas.com/)
     * [ShellCanvas: A beautiful, extensible desktop for remote devices. SSH first, composable connections by design](https://github.com/techartdev/ShellCanvas)
     * 헤드리스 원격 시스템을 SSH로 연결해 파일 브라우저·터미널·에디터를 하나의 그래픽 데스크톱으로 쓰는 로컬 앱—데스크톱은 내 컴퓨터에서 렌더링되고 원격에는 기존 SSH 서버+SFTP만 있으면 되므로 **원격 호스트에 에이전트를 설치할 필요가 없음**. 접속한 머신마다 창·폴더·터미널 세션이 유지되는 별도 워크스페이스를 갖고, 런처에서 GitHub 또는 패키지 파일로 앱을 설치(권한 접근 검토 포함)하며 Canvas Assistant(AI)·테마·앱/어댑터 SDK로 확장. Windows/Linux/macOS(Intel·Apple Silicon), 릴리스마다 SHA-256 체크섬 제공
-    * 주의—공개 프리뷰 단계로 Windows 인스톨러는 코드 서명이 없고 macOS 빌드는 공증되지 않았으며 Linux·macOS 워크플로는 검증이 더 필요하다고 사이트가 직접 밝힘. 2026-09-07 생성된 신규 레포(15 stars). Rust, MPL-2.0
+    * 주의—공개 프리뷰 단계로 Windows 인스톨러는 코드 서명이 없고 macOS 빌드는 공증되지 않았으며 Linux·macOS 워크플로는 검증이 더 필요하다고 사이트가 직접 밝힘. 2026-09-07 생성된 신규 레포
   * ssh-agent [The pitfalls of using ssh-agent, or how to use an agent safely](https://rabexc.org/posts/pitfalls-of-ssh-agents)
   * [shpool: Think tmux, then aim... lower](https://github.com/shell-pool/shpool)
     * [shpool - 쉘 세션 연결을 유지해주는 도구 | GeekNews](https://news.hada.io/topic?id=15431)
@@ -1415,7 +1415,7 @@ Linux
   * [eBPF로 Pod Blocker 구현 | Taehwan Dev Blog](https://taehwanyang.github.io/ebpf-pod-blocker/)
   * 양태환(2026-03). keep-alive를 끈 대규모 HTTP 요청으로 TCP SYN flooding을 흉내 내는 auth-attacker를 상대로, 커널 모드 eBPF 프로그램(count_conn_and_drop.c)이 (src-ip, dst-ip)별 SYN 수를 세어 조건 초과 시 패킷을 드롭하고, 유저 모드 Go 프로그램이 제한 조건을 커널에 넘기며 보호 대상 파드의 호스트 veth(또는 bridge) 인터페이스에 tc hook을 거는 구조. 호스트에서 직접 실행해도 되지만 쿠버네티스에서는 cilium처럼 DaemonSet으로 배포하는 전략(AKS·EKS에도 유효). Mac은 Lima VM(ubuntu-ebpf.yaml)+k3s로 개발 환경 구성, `--recurse-submodules`로 클론. C·Go
 * [linnix: eBPF-powered Linux observability with AI incident detection](https://github.com/linnix-os/linnix)
-  * "CPU를 누가 쓰는가"가 아니라 "누가 SLO를 해치는 stall을 일으키는가"—eBPF+PSI(Pressure Stall Information)로 사용률 아닌 경합을 측정(CPU 40%·PSI 60%인 Pod가 CPU 100%·PSI 5%보다 나쁨). noisy neighbor, fork storm, "Pod X가 Pod Y에 300ms stall" 가해자/피해자 쌍 Prometheus 카운터, top에 안 보이는 CPU/IO/메모리 압력 포화 탐지. 기본은 monitor-only, eBPF 부착 실패 시 `/proc/pressure`로 degrade하며 알림, 분석은 전부 로컬(Slack 알림만 옵션), AI 인사이트 모델(2.1GB 로컬 LLM)은 선택. Kubernetes DaemonSet 또는 `./quickstart.sh` Docker. Rust, AGPL-3.0
+  * "CPU를 누가 쓰는가"가 아니라 "누가 SLO를 해치는 stall을 일으키는가"—eBPF+PSI(Pressure Stall Information)로 사용률 아닌 경합을 측정(CPU 40%·PSI 60%인 Pod가 CPU 100%·PSI 5%보다 나쁨). noisy neighbor, fork storm, "Pod X가 Pod Y에 300ms stall" 가해자/피해자 쌍 Prometheus 카운터, top에 안 보이는 CPU/IO/메모리 압력 포화 탐지. 기본은 monitor-only, eBPF 부착 실패 시 `/proc/pressure`로 degrade하며 알림, 분석은 전부 로컬(Slack 알림만 옵션), AI 인사이트 모델(2.1GB 로컬 LLM)은 선택. Kubernetes DaemonSet 또는 `./quickstart.sh` Docker
 * [Parca - Open Source infrastructure-wide continuous profiling](https://www.parca.dev/)
   * [parca: Continuous profiling for analysis of CPU and memory usage, down to the line number and throughout time. Saving infrastructure cost, improving performance, and increasing reliability](https://github.com/parca-dev/parca)
   * [Parca - eBPF 기반의 지속적인 CPU/메모리 프로파일러 | GeekNews](https://news.hada.io/topic?id=6550)
@@ -1464,10 +1464,10 @@ Linux
   * [lazyrsync — A terminal UI for rsync](https://lazyrsync.westpoint.io/)
   * [tuxedo: A fast, keyboard-driven terminal UI for todo.txt](https://github.com/webstonehq/tuxedo)
     * [Tuxedo, a lightweight task management tui - ioga - YouTube](https://www.youtube.com/watch?v=mT1tg6SQ_Ag)
-    * todo.txt 표준 형식을 그대로 읽고 쓰는 Rust 단일 바이너리 TUI(+ todo.txt-cli 호환 CLI, `--json` 출력). Vim 키(50단계 undo), 원자적 쓰기, 외부 편집 즉시 감지, 테마 5종. 문장으로 입력하면 오프라인에서 todo.txt 형식으로 바꿔 주는 자연어 추가, QR로 같은 LAN의 PWA를 열어 휴대폰에서 할 일 입력. 영상은 README가 추천하는 IogaMaster의 소개(Neovim 플러그인 tuxedo.nvim 포함). MIT, 1.8k stars
+    * todo.txt 표준 형식을 그대로 읽고 쓰는 Rust 단일 바이너리 TUI(+ todo.txt-cli 호환 CLI, `--json` 출력). Vim 키(50단계 undo), 원자적 쓰기, 외부 편집 즉시 감지, 테마 5종. 문장으로 입력하면 오프라인에서 todo.txt 형식으로 바꿔 주는 자연어 추가, QR로 같은 LAN의 PWA를 열어 휴대폰에서 할 일 입력. 영상은 README가 추천하는 IogaMaster의 소개(Neovim 플러그인 tuxedo.nvim 포함)
   * [kew (/kjuː/, a variant of cue) is a terminal music player](https://kewplayer.com/)
     * [kew](https://codeberg.org/ravachol/kew)
-  * Seth Phaeno. 저평가된 CLI 도구 5종—leaf(마크다운 프리뷰: 문법 하이라이팅·LaTeX·Mermaid), ghgrab(GitHub/GitLab/Codeberg/Gitea 파일 탐색·다운로드, Rust 1.5k stars), lazyrsync(rsync TUI: 재사용 프로파일·dry-run diff·SSH 라이브 진행률), tuxedo(todo.txt 키보드 중심 TUI, Rust 1.7k stars), kew(터미널 음악 플레이어)
+  * Seth Phaeno. 저평가된 CLI 도구 5종—leaf(마크다운 프리뷰: 문법 하이라이팅·LaTeX·Mermaid), ghgrab(GitHub/GitLab/Codeberg/Gitea 파일 탐색·다운로드, Rust), lazyrsync(rsync TUI: 재사용 프로파일·dry-run diff·SSH 라이브 진행률), tuxedo(todo.txt 키보드 중심 TUI, Rust), kew(터미널 음악 플레이어)
 * [10 Insanely Useful CLI Tools That Make Developers 10x More Productive | Cloud X Berry - YouTube](https://www.youtube.com/watch?v=RXhU9-oQCjY)
   * 여러 명령·브라우저 탭·별도 앱이 필요하던 일을 명령 하나로 줄여주는 최신 CLI 도구 10종
   * dnsglobe(전 세계 공개 리졸버의 DNS 전파 확인)
@@ -1481,7 +1481,7 @@ Linux
   * Worktrunk(Git worktree 생성·전환·삭제, Claude Code 병렬 브랜치 작업에 유용)
   * yq(YAML·JSON·XML·CSV·TOML 조회·수정·병합·변환)
 * [I Tried Everything. This is the Best Terminal Setup | DevOps Toolbox - YouTube](https://www.youtube.com/watch?v=QpiZOKul1U8)
-  * 끝없이 바꿔 쓰며 살아남아 일상 워크플로가 된 무료·오픈소스 터미널 도구·플러그인·설정을 챕터별로 소개하는 21분 영상(설명·챕터 기준, 자막은 429·스크립트 패널 로딩 실패로 미확인)—터미널, 터미널 멀티플렉서, workmux(git worktree+tmux 창 병렬 개발), 셸, 코딩 에이전트, 터미널 내비게이션, 명령 기록, 프롬프트, IDE, 파일 탐색기, 개발 환경 구성
+  * 끝없이 바꿔 쓰며 살아남아 일상 워크플로가 된 무료·오픈소스 터미널 도구·플러그인·설정을 챕터별로 소개하는 영상(설명·챕터 기준, 자막은 429·스크립트 패널 로딩 실패로 미확인)—터미널, 터미널 멀티플렉서, workmux(git worktree+tmux 창 병렬 개발), 셸, 코딩 에이전트, 터미널 내비게이션, 명령 기록, 프롬프트, IDE, 파일 탐색기, 개발 환경 구성
 * [123elf: A native port of Lotus 1-2-3 to Linux](https://github.com/taviso/123elf)
   * [Lotus 1-2-3 For Linux](https://lock.cmpxchg8b.com/linux123.html)
 * [aaPanel: Simple but Powerful web-based Control Panel](https://github.com/aaPanel/aaPanel)
@@ -1543,7 +1543,7 @@ Linux
   * [kkamagui의 작업실 :: 리눅스용 간단한 볼륨 컨트롤 Pulseaudio Volume Control 설치하기](https://kkamagui.tistory.com/931)
   * [kkamagui의 작업실 :: i3wm 윈도우 매니저에서 배경 이미지 설정하기](https://kkamagui.tistory.com/934)
 * [impala: 🛜 TUI for managing wifi on Linux](https://github.com/pythops/impala)
-  * 리눅스 Wi-Fi 관리 TUI. Rust, 2.8k stars
+  * 리눅스 Wi-Fi 관리 TUI
 * Inotify
   * [Inotify: Efficient, Real-Time Linux File System Event Monitoring](https://www.infoq.com/articles/inotify-linux-file-system-event-monitoring)
   * [Linux file system events with C, Python and Ruby](http://markusjais.com/linux-file-system-events-with-c-python-and-ruby/)
@@ -1632,7 +1632,7 @@ Linux
   * [superfile 공식 사이트](https://superfile.dev/)
   * [I wish I knew about this package sooner - YouTube](https://www.youtube.com/watch?v=bCibCIpq5ko)
     * Melkey. superfile 소개—파일 처리를 더 쉽고 빠르고 효율적으로 만들어주는 터미널 파일 매니저 리뷰
-  * 모던하고 화려한 TUI 터미널 파일 매니저. Go, MIT, 23k stars
+  * 모던하고 화려한 TUI 터미널 파일 매니저
 * [TerminalTextEffects (TTE) is a terminal visual effects engine](https://github.com/ChrisBuilds/terminaltexteffects)
   * [TerminalTextEffects Docs](https://chrisbuilds.github.io/terminaltexteffects/)
   * [TerminalTextEffects (TTE) - 터미널 텍스트 효과 엔진 | GeekNews](https://news.hada.io/topic?id=15062)
@@ -1662,7 +1662,7 @@ Linux
 * [Wait4X - Wait for anything!](https://wait4x.dev/)
   * [Wait4X allows you to wait for a port or a service to enter the requested state](https://github.com/wait4x/wait4x)
 * [walker: Multi-Purpose Launcher with a lot of features. Highly Customizable and fast](https://github.com/abenz1267/walker)
-  * 다목적 앱 런처. 커스터마이징 자유도가 높고 빠름. Rust, 3k stars
+  * 다목적 앱 런처. 커스터마이징 자유도가 높고 빠름
 * Wayland
   * [Think twice before abandoning Xorg. Wayland breaks everything!](https://gist.github.com/probonopd/9feb7c20257af5dd915e3a9f2d1f2277)
   * [Isolating Xwayland in a VM - Thomas Leonard's blog](https://roscidus.com/blog/blog/2021/10/30/xwayland/)
@@ -1674,7 +1674,7 @@ Linux
 * [when: Timezones from the command line](https://github.com/mitsuhiko/when)
   * [when - 터미널에서 타임존별 시간 계산하기 | GeekNews](https://news.hada.io/topic?id=5537)
 * [wiremix: Simple TUI audio mixer for PipeWire](https://github.com/tsowell/wiremix)
-  * PipeWire용 간단한 TUI 오디오 믹서. Rust, 1k stars
+  * PipeWire용 간단한 TUI 오디오 믹서
 * [WinBoat - Run Windows Apps on Linux with Seamless Integration](https://www.winboat.app/)
   * [리눅스에서 윈도우 앱을 매끄럽게 실행하는 WinBoat | GeekNews](https://news.hada.io/topic?id=23549)
 * [X2GO: Linux Remote Desktop & Terminal Server System With Support For Published Applications](https://www.youtube.com/watch?v=oSuy1TS8FGs)
@@ -1738,10 +1738,10 @@ Linux
 * [What they don't teach you about sockets](https://macoy.me/blog/programming/Sockets)
 * [AdGuardian Terminal Edition](https://adguardian.as93.net/)
   * [AdGuardian-Term: Terminal-based, real-time traffic monitoring and statistics for your AdGuard Home instance](https://github.com/lissy93/AdGuardian-Term)
-  * AdGuard Home 인스턴스의 실시간 트래픽·차단 통계를 터미널에서 모니터링. Rust, MIT, 1.6k stars
+  * AdGuard Home 인스턴스의 실시간 트래픽·차단 통계를 터미널에서 모니터링
 * [MyIP: The best IP Toolbox — IP address & geolocation, WebRTC/DNS leak test, IP quality check, browser fingerprint, speed/latency test, MTR, Whois](https://github.com/jason5ng32/MyIP)
   * [IP Toolbox — ipcheck.ing](https://ipcheck.ing/)
-  * IP 주소·지오로케이션 확인, WebRTC/DNS 누출 테스트, IP 품질 검사, 브라우저 핑거프린트, 웹사이트 가용성·속도·글로벌 지연 테스트, MTR, Whois 등을 제공하는 IP 툴박스. JavaScript, MIT, 11k stars
+  * IP 주소·지오로케이션 확인, WebRTC/DNS 누출 테스트, IP 품질 검사, 브라우저 핑거프린트, 웹사이트 가용성·속도·글로벌 지연 테스트, MTR, Whois 등을 제공하는 IP 툴박스
 * [sonar: CLI tool to inspect and manage services listening on localhost ports](https://github.com/raskrebs/sonar)
 
 # Shell
@@ -1769,7 +1769,7 @@ Linux
 * [deja: Predictive inline shell autosuggestions for zsh. Go daemon, no TUI, no sync | Giammarco-Ferranti](https://github.com/Giammarco-Ferranti/deja)
   * [My Minimal Zsh Setup Is Ridiculously Good | Sam Natale - YouTube](https://www.youtube.com/watch?v=nzP_UcpaBZ0)
     * Deja를 중심으로 한 미니멀 zsh 설정 8분—플러그인·히스토리·퍼지 파인딩 구성
-  * zsh-autosuggestions 대체—접두어 매칭 대신 퍼지 매칭·디렉터리 인지·명령 시퀀스 예측(`make build` 뒤 `make test`)·frecency 점수(1주 지수 감쇠)로 고스트 텍스트 제안. MIT
+  * zsh-autosuggestions 대체—접두어 매칭 대신 퍼지 매칭·디렉터리 인지·명령 시퀀스 예측(`make build` 뒤 `make test`)·frecency 점수(1주 지수 감쇠)로 고스트 텍스트 제안
 * [Edbrowse, a Command Line Editor Browser](http://edbrowse.org/)
 * [Es: a shell with higher-order functions](http://wryun.github.io/es-shell/)
 * [fish shell - Finally, a command line shell for the 90s](http://fishshell.com/?version=2.2)
@@ -1785,7 +1785,7 @@ Linux
   * [oh-my-posh: The most customisable and low-latency cross platform/shell prompt renderer](https://github.com/jandedobbeleer/oh-my-posh)
   * [We may have killed p10k, so I found the perfect replacement - YouTube](https://www.youtube.com/watch?v=9U8LCjuQzdc)
     * Dreams of Autonomy. Powerlevel10k가 유지보수 최소 모드로 들어간 뒤 대안으로 Oh My Posh를 골라 p10k 설정과 동일하게 커스터마이즈한 과정
-  * 크로스 플랫폼·크로스 셸 프롬프트 렌더러. 커스터마이즈 자유도가 높고 지연이 낮음. Go, 23.4k stars
+  * 크로스 플랫폼·크로스 셸 프롬프트 렌더러. 커스터마이즈 자유도가 높고 지연이 낮음
 * [Prezto - Instantly Awesome Zsh](https://github.com/sorin-ionescu/prezto)
 * [svsh - Take control of your supervisor](http://ido50.github.io/Svsh/)
 * [vnstat - Track and Log a Linux Server's Bandwidth Use](http://www.happyapps.io/blog/2015-08-15-track-and-log-a-linux-server-s-bandwidth-use)
@@ -1849,7 +1849,7 @@ Linux
 * [Make tmux the OS](https://matduggan.com/what-does-my-dream-os-ui-look-like/)
   * [tmux를 OS로 만들자 | GeekNews](https://news.hada.io/topic?id=34720)
   * [Scott Jenson: Are we really going to use the same Desktop UX forever? | The KDE Community - YouTube](https://www.youtube.com/watch?v=V7AfAcQwLW0)
-  * Mathew Duggan(2026-10-02)—Scott Jenson의 KDE 발표를 계기로 쓴 데스크톱 UI 사고 실험. 요지는 '일반인도 쓸 수 있는 tmux를 OS로': 스크롤 가능하고 세션이 유지되며 분리할 수 있는 작업 중심 환경. 2026년 창 관리의 문제—하루 6번 도킹/언도킹마다 창 재배치, 최대화형·준최대화형·배치형 사용자와 공개/사적 창 구분(2004년 연구에서 이미 확인), 작은 OS가 된 브라우저의 탭은 앱이 아닌 작업에 속함, 앱 안에 갇힌 데이터로 약해진 파일시스템. 선행 연구(Rooms(1986)·WindowScape)와 실패 사례(Windows Timeline/Sets·macOS Stage Manager·KDE Activities)—후자의 공통점은 아이디어가 틀린 게 아니라 기본값이 아니었고 OS 수준에서 하지 않았음
+  * Mathew Duggan—Scott Jenson의 KDE 발표를 계기로 쓴 데스크톱 UI 사고 실험. 요지는 '일반인도 쓸 수 있는 tmux를 OS로': 스크롤 가능하고 세션이 유지되며 분리할 수 있는 작업 중심 환경. 2026년 창 관리의 문제—하루 6번 도킹/언도킹마다 창 재배치, 최대화형·준최대화형·배치형 사용자와 공개/사적 창 구분(2004년 연구에서 이미 확인), 작은 OS가 된 브라우저의 탭은 앱이 아닌 작업에 속함, 앱 안에 갇힌 데이터로 약해진 파일시스템. 선행 연구(Rooms(1986)·WindowScape)와 실패 사례(Windows Timeline/Sets·macOS Stage Manager·KDE Activities)—후자의 공통점은 아이디어가 틀린 게 아니라 기본값이 아니었고 OS 수준에서 하지 않았음
   * 제안: 데스크톱은 하나의 무한 가로 캔버스, 각 모니터는 뷰포트(창 순서·스크롤 위치·포커스·작업 소속은 절대 불변, 열 너비는 반응형으로 재배치, 뷰포트 조준은 재도킹 시 재생). 키 입력을 약 90% 받는 디스플레이가 포컬이고 나머지는 글랜서블(작은 화면에선 tmux처럼 얇은 띠로). 세 사용자 유형은 열 개수 차이일 뿐. 사적 창은 영역이 아닌 플래그로, 연결된 디스플레이·캡처 세션 같은 기계 상태로만 판단(새 디스플레이는 기본 '발표 준비' 화면—프레젠터 뷰를 OS 기본 요소로). 브라우저 탭은 실제 창으로 분리돼 작업에 합류. 작업 구성은 로컬 LLM이 제한된 MCP 동사로 상태를 읽어 배치를 제안·미리보기만 하고 사람이 y를 누르면 결정론적 코드가 실행, 고정 창은 건드리지 못하게. 스스로 꼽은 결함—프라이버시 설계가 감시형 데이터(포커스 텔레메트리)를 요구, '유휴 시 공개 영역으로 스크롤'은 읽기가 유휴로 잡혀 소유자에겐 숨기고 지나가는 사람에겐 보여줌, append-only 무한 캔버스는 아무것도 소멸하지 않아 금세 압도적(WindowScape의 사진 '증발'이 실은 GC였음). Linux VM에서 상단 드롭다운·스크롤 타일 일부만 동작하는 초기 실험, 데모는 아직
 * [tmux-bridge-mcp: cross-pane AI agent communication via tmux](https://github.com/howardpen9/tmux-bridge-mcp)
   * tmux 페인을 통해 서로 다른 코딩 에이전트끼리 통신하게 해주는 독립형 MCP 서버. Claude Code·Gemini CLI·Codex·Kimi CLI가 tmux 페인 너머로 대화·협업. TypeScript
@@ -1862,8 +1862,8 @@ Linux
 * [tuios: a terminal window manager that knows what your agents are doing](https://tuios.dev/)
   * [tuios: A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent](https://github.com/Gaurav-Gosain/tuios)
   * [Meet tuios, the terminal window manager | Gaurav Gosain - YouTube](https://www.youtube.com/watch?v=mSycusZaVdo)
-    * 2분 소개(v0.8.0): 패널에서 Claude Code·Codex·Crush·Gemini CLI 등 20여 코딩 에이전트를 감지하고 모든 승인·질문을 하나의 Inbox로 모음, 한 프롬프트를 여러 에이전트에 각자 git worktree로 fan out 해 최선의 결과만 남기기, 재시작·크래시·리부트 후에도 돌아오는 세션, ssh·Tailscale로 다른 머신 세션에 attach, 340+ 테마와 애니메이션 끄기
-  * Go(Bubble Tea v2·Lipgloss v2) 기반 tmux 대안 터미널 멀티플렉서+윈도우 매니저. vim식 모달 인터페이스, 9개 워크스페이스, BSP·master-stack·스크롤 레이아웃과 플로팅 창, 데몬 모드 attach/detach, kitty 그래픽 패스스루, 커맨드 팰릿, vim식 copy mode, 이벤트 기반 렌더링으로 유휴 CPU 거의 0, 브라우저 터미널. 에이전트 상태(working/waiting/done/failed)를 사이드바와 패널 제목에 표시, 윈도우·세션·에이전트 이벤트 훅, tape 스크립팅, JSON 제어 프로토콜, Claude Code agent teams처럼 tmux를 구동하는 도구용 tmux shim. 설치 전 tuios.dev/learn에서 WebAssembly로 컴파일된 실제 앱 체험. brew/AUR/Nix, MIT, 5k stars
+    * 소개(v0.8.0): 패널에서 Claude Code·Codex·Crush·Gemini CLI 등 20여 코딩 에이전트를 감지하고 모든 승인·질문을 하나의 Inbox로 모음, 한 프롬프트를 여러 에이전트에 각자 git worktree로 fan out 해 최선의 결과만 남기기, 재시작·크래시·리부트 후에도 돌아오는 세션, ssh·Tailscale로 다른 머신 세션에 attach, 340+ 테마와 애니메이션 끄기
+  * Go(Bubble Tea v2·Lipgloss v2) 기반 tmux 대안 터미널 멀티플렉서+윈도우 매니저. vim식 모달 인터페이스, 9개 워크스페이스, BSP·master-stack·스크롤 레이아웃과 플로팅 창, 데몬 모드 attach/detach, kitty 그래픽 패스스루, 커맨드 팰릿, vim식 copy mode, 이벤트 기반 렌더링으로 유휴 CPU 거의 0, 브라우저 터미널. 에이전트 상태(working/waiting/done/failed)를 사이드바와 패널 제목에 표시, 윈도우·세션·에이전트 이벤트 훅, tape 스크립팅, JSON 제어 프로토콜, Claude Code agent teams처럼 tmux를 구동하는 도구용 tmux shim. 설치 전 tuios.dev/learn에서 WebAssembly로 컴파일된 실제 앱 체험. brew/AUR/Nix
 * [vim + tmux - OMG!Code](https://www.youtube.com/watch?v=5r6yzFEXajQ)
   * [Vim workshop](https://github.com/nicknisi/vim-workshop)
 * [workmux: git worktrees + tmux windows for zero-friction parallel dev](https://github.com/raine/workmux)

@@ -66,7 +66,7 @@ NoSQL
 # ArcticDB
 * [ArcticDB — the fastest Python-native DataFrame database](https://arcticdb.io/)
   * [arcticdb: a high performance, serverless DataFrame database built for the Python Data Science ecosystem | man-group](https://github.com/man-group/arcticdb)
-  * 헤지펀드 Man Group이 만든 서버리스 DataFrame 데이터베이스. Pandas DataFrame을 S3·LMDB에 버전 관리하며 저장, 페타바이트급 틱 데이터 처리. C++, 2.5k stars
+  * 헤지펀드 Man Group이 만든 서버리스 DataFrame 데이터베이스. Pandas DataFrame을 S3·LMDB에 버전 관리하며 저장, 페타바이트급 틱 데이터 처리
 
 # Azure DocumentDB
 * [NoSQL database service Azure DocumentDB now Generally Available](http://azure.microsoft.com/blog/2015/04/08/nosql-database-service-azure-documentdb-now-generally-available)
@@ -443,7 +443,7 @@ NoSQL
 # MatrixOne
 * [MatrixOne Documentation](https://docs.matrixorigin.cn/mo/en)
   * [matrixone: AI-native HTAP database with Git-for-Data and built-in vector search](https://github.com/matrixorigin/matrixone)
-  * AI 네이티브 HTAP 데이터베이스. Git-for-Data(데이터 버전 관리)와 내장 벡터 검색을 갖춰 지능형 에이전트·애플리케이션의 데이터·메모리 백본 역할. Go, Apache-2.0
+  * AI 네이티브 HTAP 데이터베이스. Git-for-Data(데이터 버전 관리)와 내장 벡터 검색을 갖춰 지능형 에이전트·애플리케이션의 데이터·메모리 백본 역할
 
 # MapD; C++로 구현, GPU 기반의 In-Memory Columnar SQL DB
 * [MapD: Massive Throughput Database Queries with LLVM on GPUs](http://devblogs.nvidia.com/parallelforall/mapd-massive-throughput-database-queries-llvm-gpus/)
@@ -575,13 +575,13 @@ NoSQL
 # Murr
 * [murrdb/murr: Sub-millisecond cache for ML/AI workloads. Parquets in, Arrow-Flight out](https://github.com/murrdb/murr)
   * [murrdb/murr - ML/AI 워크로드용 서브 밀리초 캐시 | GeekNews](https://news.hada.io/topic?id=30469)
-  * RocksDB 기반 NVMe/S3 캐시, AI 추론 워크로드용 Redis 대체. Tiered storage(핫=메모리·콜드=디스크+S3 복제), 배치 in/out(컬럼형, per-row 오버헤드 없음, Parquet/Arrow 직접 ingest), zero-copy 와이어 프로토콜(np.ndarray/DataFrame/Tensor 변환 불필요), stateless(상태는 S3에 영속, 노드 축출 시 블록 스토리지에서 self-bootstrap). Rust, Apache-2.0
+  * RocksDB 기반 NVMe/S3 캐시, AI 추론 워크로드용 Redis 대체. Tiered storage(핫=메모리·콜드=디스크+S3 복제), 배치 in/out(컬럼형, per-row 오버헤드 없음, Parquet/Arrow 직접 ingest), zero-copy 와이어 프로토콜(np.ndarray/DataFrame/Tensor 변환 불필요), stateless(상태는 S3에 영속, 노드 축출 시 블록 스토리지에서 self-bootstrap)
 
 # NodeDB
 * [NodeDB — Replace 5 databases with 1 universal engine](https://nodedb.dev/)
   * [nodedb: The memory & storage engine for AI agents. Multi-model, edge-to-cloud, PostgreSQL-compatible](https://github.com/NodeDB-Lab/nodedb)
   * Postgres+벡터 DB+그래프 DB+Redis+Elasticsearch(+TileDB/Zarr)로 쪼개진 스택을 Rust 엔진 하나로 합치는 멀티모델 DB. 9개 엔진이 하나의 저장 코어·ID 공간·플래너를 공유—Vector(HNSW+SQ8/PQ 양자화, pgvector/Pinecone 대체), Graph(CSR 인접 리스트·13개 알고리즘·Cypher 서브셋·GraphRAG), Document(MessagePack+CRDT 스키마리스 또는 Binary Tuple 엄격 모드), Columnar(ALP·FastLanes·FSST 코덱), Timeseries(ILP 수집·연속 집계·PromQL), Spatial(R*-tree·H3), Key-Value(TTL·레이트 리밋), Full-Text(BM25·27개 언어·CJK 바이그램), NDArray. `GRAPH RAG FUSION` 한 문장으로 벡터 검색→그래프 확장→RRF 랭킹을 DB 계층에서 수행
-  * AI 에이전트 메모리(의미·관계·에피소드·시계열)를 에이전트가 있는 곳에서 실행하는 것이 목표—디바이스·브라우저 임베디드(NodeDB-Lite, WASM)·오프라인 동작·서버로 CRDT 무충돌 동기화, 접근 가드 내장. PostgreSQL 와이어 프로토콜로 psql·기존 클라이언트 그대로 사용. Thread-per-Core+io_uring·SIMD 거리 함수·제로카피 전송. 자체 벤치(DNS 텔레메트리 1,000만 행): 수집 93,450행/s로 TimescaleDB 1.65배·ClickHouse 1.73배, 메모리 8배 절감, 고카디널리티 GROUP BY는 ClickHouse 대비 3~5배 느림. 코딩 에이전트 메모리 레이어 ma8e가 임베디드 NodeDB 위에서 개발 중. Docker·Cargo 설치, Rust, 215 stars
+  * AI 에이전트 메모리(의미·관계·에피소드·시계열)를 에이전트가 있는 곳에서 실행하는 것이 목표—디바이스·브라우저 임베디드(NodeDB-Lite, WASM)·오프라인 동작·서버로 CRDT 무충돌 동기화, 접근 가드 내장. PostgreSQL 와이어 프로토콜로 psql·기존 클라이언트 그대로 사용. Thread-per-Core+io_uring·SIMD 거리 함수·제로카피 전송. 자체 벤치(DNS 텔레메트리 1,000만 행): 수집 93,450행/s로 TimescaleDB 1.65배·ClickHouse 1.73배, 메모리 8배 절감, 고카디널리티 GROUP BY는 ClickHouse 대비 3~5배 느림. 코딩 에이전트 메모리 레이어 ma8e가 임베디드 NodeDB 위에서 개발 중. Docker·Cargo 설치
 
 # OmniSci
 * [OmniSci - Massively Accelerated Analytics and Data Science](https://www.omnisci.com/)
@@ -676,7 +676,7 @@ NoSQL
 # seekdb
 * [seekdb — AI-Native Search Database](https://www.seekdb.ai/)
   * [seekdb: The AI-Native Search Database](https://github.com/oceanbase/seekdb)
-  * OceanBase의 에이전트 스토리지용 AI 네이티브 검색 DB—벡터·전문(full-text)·정형·반정형 데이터를 단일 엔진에 통합해 하이브리드 검색(벡터+전문+관계형 질의)을 한 문장으로. 1C2G에서 VectorDBBench 실행, Python으로 몇 분 만에 프로토타입→프로덕션. C++, Apache-2.0, 3k stars
+  * OceanBase의 에이전트 스토리지용 AI 네이티브 검색 DB—벡터·전문(full-text)·정형·반정형 데이터를 단일 엔진에 통합해 하이브리드 검색(벡터+전문+관계형 질의)을 한 문장으로. 1C2G에서 VectorDBBench 실행, Python으로 몇 분 만에 프로토타입→프로덕션
 
 # Supabase
 * [Supabase - The open source Firebase alternative](https://supabase.io/)

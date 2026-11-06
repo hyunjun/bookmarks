@@ -74,7 +74,7 @@ App
   * [ArchiveBox: 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...](https://github.com/ArchiveBox/ArchiveBox)
   * [Big changes are coming to ArchiveBox! - HedgeDoc](https://docs.sweeting.me/s/archivebox-plugin-ecosystem-announcement)
     * [ArchiveBox가 진화중: 셀프 호스팅 인터넷 아카이브의 미래 | GeekNews](https://news.hada.io/topic?id=17279)
-  * URL·브라우저 히스토리·북마크·RSS·Pocket/Pinboard를 받아 HTML·PDF·PNG·TXT·JSON·WARC·MP4로 저장하고 메타데이터는 SQLite에 보관. wget·SingleFile·헤드리스 Chromium·yt-dlp 등 여러 추출기를 병행하며 CLI·Web UI·REST API·웹훅·브라우저 확장·Mac/iPhone 공유 메뉴·Siri/Shortcuts로 수집. 스케줄 임포트로 스냅샷을 주기적으로 떠 사이트 변화를 비교 가능. 스냅샷이 평범한 파일·폴더라 호스팅 서비스 없이도 열람 가능하다는 점을 내세워 "100년+ 지속" 설계를 지향. Docker Compose 권장 설치, 애널리틱스 없음. Python, MIT, 28.5k stars
+  * URL·브라우저 히스토리·북마크·RSS·Pocket/Pinboard를 받아 HTML·PDF·PNG·TXT·JSON·WARC·MP4로 저장하고 메타데이터는 SQLite에 보관. wget·SingleFile·헤드리스 Chromium·yt-dlp 등 여러 추출기를 병행하며 CLI·Web UI·REST API·웹훅·브라우저 확장·Mac/iPhone 공유 메뉴·Siri/Shortcuts로 수집. 스케줄 임포트로 스냅샷을 주기적으로 떠 사이트 변화를 비교 가능. 스냅샷이 평범한 파일·폴더라 호스팅 서비스 없이도 열람 가능하다는 점을 내세워 "100년+ 지속" 설계를 지향. Docker Compose 권장 설치, 애널리틱스 없음
 * [Archivy - self-hosted knowledge repository](https://archivy.github.io/)
   * 북마킹한 웹페이지 내용을 로컬에 자동 저장
   * 노트는 마크다운포맷으로 저장
@@ -90,10 +90,10 @@ App
 * [calcure: Modern TUI calendar and task manager with minimal and customizable UI](https://github.com/anufrievroman/calcure)
 * [Cal.diy — The community-driven, open-source scheduling platform](https://www.cal.diy/)
   * [cal.diy: Scheduling infrastructure for absolutely everyone | calcom](https://github.com/calcom/cal.diy)
-  * Cal.com에서 엔터프라이즈·상용 코드를 모두 걷어낸 100% MIT 커뮤니티 에디션(TypeScript, Next.js·tRPC·React, 50k stars)—Teams·Organizations·Insights·Workflows·SSO/SAML 등 EE 기능 없음, 라이선스 키·Cal.com 계정 불필요, "Open Core" 분리 없는 전체 오픈소스. 호스팅판 없이 셀프호스팅 전용이며 개인·비프로덕션 용도 권장("use at your own risk")
+  * Cal.com에서 엔터프라이즈·상용 코드를 모두 걷어낸 100% MIT 커뮤니티 에디션(TypeScript, Next.js·tRPC·React)—Teams·Organizations·Insights·Workflows·SSO/SAML 등 EE 기능 없음, 라이선스 키·Cal.com 계정 불필요, "Open Core" 분리 없는 전체 오픈소스. 호스팅판 없이 셀프호스팅 전용이며 개인·비프로덕션 용도 권장("use at your own risk")
 * [Citadel: manage your ebooks without frustration](https://citadel.page/)
   * [citadel: Manage your ebook library without frustrations. Calibre compatible](https://github.com/everydaythingssoftware/citadel)
-  * 빠르고 미니멀한 데스크톱 전자책 라이브러리 관리 앱—서가·메타데이터·표지·검색. 임포트·서버 설치 없이 기존 Calibre 라이브러리를 열면 새 책·편집이 Calibre와 공유됨. Rust, MIT
+  * 빠르고 미니멀한 데스크톱 전자책 라이브러리 관리 앱—서가·메타데이터·표지·검색. 임포트·서버 설치 없이 기존 Calibre 라이브러리를 열면 새 책·편집이 Calibre와 공유됨
 * [cool-retro-term - A good looking terminal emulator which mimics the old cathode display...](https://github.com/Swordfish90/cool-retro-term)
 * [copyparty: Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps](https://github.com/9001/copyparty/)
   * [introducing copyparty, the FOSS file server - YouTube](https://www.youtube.com/watch?v=15_-hgsX2V0)
@@ -117,8 +117,8 @@ App
   * [fleetbase: Modular logistics and supply chain operating system (LSOS)](https://github.com/fleetbase/fleetbase)
   * [Managed Fleetbase as a Service | Elestio](https://elest.io/open-source/fleetbase)
   * [Fleetbase: Free Open Source Alternative to Onfleet for Fleet & Delivery Management | Elestio - YouTube](https://www.youtube.com/watch?v=b2AFnP5zlwk)
-  * 상품·사람·장비를 움직이는 팀을 위한 오픈소스 모듈형 물류·공급망 운영체제(LSOS)—배송당 수수료 없음, 벤더 락인 없음, AGPL로 셀프호스트하거나 Fleetbase Cloud 이용. 콘솔에 확장으로 설치되는 모듈: Fleet-Ops(디스패치·실시간 GPS 추적·경로 최적화·텔레매틱스·정비·연료 관리, 코드 없이 주문 유형·활동 플로·검증 규칙·상태 변경 자동화 트리거를 설계하는 Dynamic Order Config, 서비스 존·지오펜스), Storefront(헤드리스 커머스·멀티벤더 마켓플레이스, Stripe·PayPal, 결제 시 Fleet-Ops 자동 디스패치), Pallet(창고·재고·피킹, 출시 예정), Ledger(주문 완료 시 자동 인보이스·기사/벤더 지갑·P&L·복식부기), Customer Portal, AI(OpenAI·Claude로 자연어 주문 생성·운영 질의), IAM(역할·정책·2FA), Developers(API 키·웹훅·소켓 이벤트·테스트/라이브 환경), 오픈소스 iOS/Android 앱 Navigator(기사용 디스패치·내비·배송 증명)·Storefront App. 확장 마켓플레이스와 CLI 스캐폴딩, REST API·JS SDK·WebSocket. 트럭 운송·택배·음식 배달·이커머스·헬스케어·폐기물·컨테이너·정부 용례, 활성 인스턴스 8,000+ 주장. JavaScript, AGPL-3.0, 4.3k stars(2022.9 시작)
-  * Elestio는 전용 VM에 설치·암호화·백업·모니터링·OS/소프트웨어 업데이트까지 월정액으로 묶은 관리형 호스팅(SOC2·GDPR, 멀티클라우드·온프렘, DB 마이그레이션 서비스). 영상(12분, 2026.10.9)은 Elestio로 설치한 뒤 기사·차량·플릿→주문·고객·경로 추적/최적화→Navigator 기사 앱→Storefront와 API→커스텀 대시보드→문서 순으로 둘러보는 플랫폼 개요, Onfleet의 무료 오픈소스 대안으로 소개
+  * 상품·사람·장비를 움직이는 팀을 위한 오픈소스 모듈형 물류·공급망 운영체제(LSOS)—배송당 수수료 없음, 벤더 락인 없음, AGPL로 셀프호스트하거나 Fleetbase Cloud 이용. 콘솔에 확장으로 설치되는 모듈: Fleet-Ops(디스패치·실시간 GPS 추적·경로 최적화·텔레매틱스·정비·연료 관리, 코드 없이 주문 유형·활동 플로·검증 규칙·상태 변경 자동화 트리거를 설계하는 Dynamic Order Config, 서비스 존·지오펜스), Storefront(헤드리스 커머스·멀티벤더 마켓플레이스, Stripe·PayPal, 결제 시 Fleet-Ops 자동 디스패치), Pallet(창고·재고·피킹, 출시 예정), Ledger(주문 완료 시 자동 인보이스·기사/벤더 지갑·P&L·복식부기), Customer Portal, AI(OpenAI·Claude로 자연어 주문 생성·운영 질의), IAM(역할·정책·2FA), Developers(API 키·웹훅·소켓 이벤트·테스트/라이브 환경), 오픈소스 iOS/Android 앱 Navigator(기사용 디스패치·내비·배송 증명)·Storefront App. 확장 마켓플레이스와 CLI 스캐폴딩, REST API·JS SDK·WebSocket. 트럭 운송·택배·음식 배달·이커머스·헬스케어·폐기물·컨테이너·정부 용례, 활성 인스턴스 8,000+ 주장
+  * Elestio는 전용 VM에 설치·암호화·백업·모니터링·OS/소프트웨어 업데이트까지 월정액으로 묶은 관리형 호스팅(SOC2·GDPR, 멀티클라우드·온프렘, DB 마이그레이션 서비스). 영상은 Elestio로 설치한 뒤 기사·차량·플릿→주문·고객·경로 추적/최적화→Navigator 기사 앱→Storefront와 API→커스텀 대시보드→문서 순으로 둘러보는 플랫폼 개요, Onfleet의 무료 오픈소스 대안으로 소개
 * [Foliate — E-book Reader for Linux](https://johnfactotum.github.io/foliate/)
   * [Foliate - Linux용 e-Book 리더 오픈소스 | GeekNews](https://news.hada.io/topic?id=15941)
 * [fra.me](https://fra.me/)
@@ -136,7 +136,7 @@ App
 * [KDE Connect | KDE Connect: A project that enables all your devices to communicate with each other.](https://kdeconnect.kde.org/)
   * [완전 무료! 아이폰 → 윈도우, 맥북 다 됨! 아이폰 사진, 파일 더 쉽게 보내는 방법 - YouTube](https://www.youtube.com/watch?v=AB-AcDFgPwc)
   * [Tether: Modern, native macOS companion for Android built on the KDE Connect protocol](https://github.com/subhashhhhhh/Tether)
-    * Android 폰의 KDE Connect 앱과 짝지어 쓰는 네이티브 Mac 앱(Swift·SwiftUI, Qt·Electron·외부 라이브러리 없음, 2.3MB, GPL-2.0). 폰 알림을 Mac 알림 센터에서 바로 답장(SMS·WhatsApp·Telegram·Signal), 인증 코드 복사 버튼, 문자 대화 동기화, 파일·클립보드 양방향 전송, 폰 울리기·잠금·제어, 메뉴바 상주. macOS 15+, Apple Silicon·Intel, `brew install --cask subhashhhhhh/tether/tether`
+    * Android 폰의 KDE Connect 앱과 짝지어 쓰는 네이티브 Mac 앱(Swift·SwiftUI, Qt·Electron·외부 라이브러리 없음, 2.3MB). 폰 알림을 Mac 알림 센터에서 바로 답장(SMS·WhatsApp·Telegram·Signal), 인증 코드 복사 버튼, 문자 대화 동기화, 파일·클립보드 양방향 전송, 폰 울리기·잠금·제어, 메뉴바 상주. macOS 15+, Apple Silicon·Intel, `brew install --cask subhashhhhhh/tether/tether`
 * [LANDrop - Drop any files to any devices on your LAN](https://landrop.app/) send-anywhere 유사
 * [lantern - Open Internet for everyone. Lantern is a free desktop application that delivers fast, reliable and secure access to the open Internet for users in censored regions. It uses a variety of techniques to stay unblocked, including P2P and domain fronting. Lantern relies on users in uncensored regions acting as access points to the open Internet. https://getlantern.org ](https://github.com/getlantern/lantern)
 * LDS [개발자와 디자이너의 협업을 위한 LINE 디자인 시스템, LDS 소개 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/line-design-system/)
@@ -168,7 +168,7 @@ App
 * [opendrop: An open Apple AirDrop implementation written in Python](https://github.com/seemoo-lab/opendrop)
 * [Organic Maps: Offline Hike, Bike, Trails and Navigation](https://organicmaps.app/)
   * [organicmaps: 🍃 Organic Maps is a free Android & iOS offline maps app for more than 6M travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data](https://github.com/organicmaps/organicmaps)
-  * MAPS.ME를 만들었던 사람들이 커뮤니티로 만드는 프라이버시 중심 오프라인 지도·GPS 앱—광고·추적 없음, 인터넷 없이 100% 동작(지도 내려받고 SIM 빼고 일주일 트레킹). OpenStreetMap 기반 상세 오프라인 지도, 자전거·하이킹·도보 경로. 2025-12 600만 설치. C++, 15.7k stars
+  * MAPS.ME를 만들었던 사람들이 커뮤니티로 만드는 프라이버시 중심 오프라인 지도·GPS 앱—광고·추적 없음, 인터넷 없이 100% 동작(지도 내려받고 SIM 빼고 일주일 트레킹). OpenStreetMap 기반 상세 오프라인 지도, 자전거·하이킹·도보 경로. 2025-12 600만 설치
 * [Oven - 크리에이티브 프로젝트를 위한 세계에서 가장 진보된 온라인 프로토타이핑 툴](https://ovenapp.io/)
 * [Paintbrush](https://sourceforge.net/projects/paintbrush)
   * [맥에는 '그림판'이 없나요? 무료로 쓸 수 있는 맥용 스케치∙드로잉 프로그램 3가지](http://macnews.tistory.com/4173)
@@ -206,7 +206,7 @@ App
   * [pdf2image: pdfium 라이브러리를 이용한 pdf2image](https://github.com/sokcuri/pdf2image)
   * [pdf-compressor: CLI + Python API for batch compressing PDFs](https://github.com/janosh/pdf-compressor)
   * [pdfcraft: A free, privacy-focused PDF toolkit that runs entirely in your browser with 90+ professional tools](https://github.com/PDFCraftTool/pdfcraft)
-    * 브라우저 WebAssembly 완전 클라이언트 처리로 프라이버시 보장. 90+ 도구(정리·편집·주석·변환·최적화·보안) + 23+ 템플릿 비주얼 노드 기반 워크플로우 편집기(beta). Next.js 15 + React + TypeScript + Tailwind, 한국어 포함 8개 언어 지원. AGPL-3.0
+    * 브라우저 WebAssembly 완전 클라이언트 처리로 프라이버시 보장. 90+ 도구(정리·편집·주석·변환·최적화·보안) + 23+ 템플릿 비주얼 노드 기반 워크플로우 편집기(beta). Next.js 15 + React + TypeScript + Tailwind, 한국어 포함 8개 언어 지원
   * [pdfsandwich](http://www.tobias-elze.de/pdfsandwich/)
     * [pdfsandwich - 이미지와 OCR을 샌드위치한 PDF 파일 만드는 도구 | GeekNews](https://news.hada.io/topic?id=5334)
   * [pdfsizeopt: PDF file size optimizer](https://github.com/pts/pdfsizeopt)
@@ -222,7 +222,7 @@ App
   * [스몰PDF 리뷰 : 기본에 충실한 온라인 PDF 편집 도구 - ITWorld Korea](https://www.itworld.co.kr/news/233729)
 * [PhreshOS · The self-hosted system for web apps](https://phreshos.com/)
   * [system: An open-source, self-hosted system for apps built with web technologies](https://github.com/phreshos/system)
-  * 내 머신에 설치하면 웹 기술로 만든 Program들의 서버를 계속 돌려주고 브라우저 Desktop에서 쓰게 해주는 셀프호스팅 시스템—System이 각 Program에 실행 장소·단일 로그인·Program 간 통신(ask·publish·listen)·저장소·권한을 제공해 Program은 자기 로직만 가짐. 파일 관리자·설정·배경화면까지 Desktop의 모든 것이 System 위의 Program. AI 에이전트가 `phresh` CLI·SDK로 사용자와 동시에 같은 Program들을 사용. `npm i -g @phreshos/cli && phresh system install`(macOS·Linux·Windows, 기본 localhost:4300), 1시간짜리 라이브 데모. TypeScript, MIT, 80 stars
+  * 내 머신에 설치하면 웹 기술로 만든 Program들의 서버를 계속 돌려주고 브라우저 Desktop에서 쓰게 해주는 셀프호스팅 시스템—System이 각 Program에 실행 장소·단일 로그인·Program 간 통신(ask·publish·listen)·저장소·권한을 제공해 Program은 자기 로직만 가짐. 파일 관리자·설정·배경화면까지 Desktop의 모든 것이 System 위의 Program. AI 에이전트가 `phresh` CLI·SDK로 사용자와 동시에 같은 Program들을 사용. `npm i -g @phreshos/cli && phresh system install`(macOS·Linux·Windows, 기본 localhost:4300), 1시간짜리 라이브 데모
 * [pipefy - Organize and run all your processes in one place](http://www.pipefy.com/)
 * [Pipes](https://www.pipes.digital/)
   * [Pipes - Yahoo Pipes의 정신적 후계자 | GeekNews](https://news.hada.io/topic?id=15637)
@@ -244,7 +244,7 @@ App
   * [RescueTime 자동화하기 3](http://guswnsxodlf.github.io/automate-rescuetime-03) python
 * [Safebucket Documentation](https://docs.safebucket.io/)
   * [safebucket: On-prem file sharing made simple, fast and safe](https://github.com/safebucket/safebucket)
-  * 파일이 서버를 거치지 않는 온프레미스 오픈소스 파일 공유 플랫폼—클라이언트가 S3 호환 스토리지로 직접 업로드/다운로드. OIDC 기반 SSO 인증, 버킷 단위 역할 기반 접근 제어(소유자/기여자/뷰어). Go, 889 stars
+  * 파일이 서버를 거치지 않는 온프레미스 오픈소스 파일 공유 플랫폼—클라이언트가 S3 호환 스토리지로 직접 업로드/다운로드. OIDC 기반 SSO 인증, 버킷 단위 역할 기반 접근 제어(소유자/기여자/뷰어)
 * [ScanTailor](https://scantailor.org/)
   * [문서 스캔을 할 땐 ScanTailor!](https://www.clien.net/service/board/use/15014561)
   * 윈도우, 리눅스 프리웨어
@@ -286,7 +286,7 @@ App
     * 인터랙티브 논리 스토리 도구 Twine을 활용한 회고 도구 제작기
 * [uniterm: All-in-one terminal covering 30+ protocols — SSH, RDP, SFTP, databases, Kubernetes and more. With a built-in AI Agent that runs multi-turn shell commands autonomously](https://github.com/ys-ll/uniterm)
   * [uniTerm](https://uniterm.net)
-  * SSH·RDP·SFTP·데이터베이스·Kubernetes 등 30개+ 프로토콜을 한 앱에서 다루는 올인원 터미널에 멀티턴 셸 명령을 자율 실행하는 AI 에이전트 내장. Go, Apache-2.0, 877 stars
+  * SSH·RDP·SFTP·데이터베이스·Kubernetes 등 30개+ 프로토콜을 한 앱에서 다루는 올인원 터미널에 멀티턴 셸 명령을 자율 실행하는 AI 에이전트 내장
 * [vagrant로 linux에서 winodws 사용하기](http://blog.naver.com/hancury/220757948510)
   * [15분만에 윈도우에서 Ansible 테스트 환경 구축하기 (서버 1대 + 노드 5대)](https://sysnet4admin.blogspot.com/2017/06/vagrant-15-ansible-1-5.html)
   * [How to install ubuntu on VirtualBox with vagrant](https://devgrill.com/how-to-install-ubuntu-on-virtualbox-with-vagrant-2/)
@@ -319,7 +319,7 @@ App
 * [Watercolor — a watercolour painting app that runs in your browser | msurguy](https://msurguy.github.io/watercolor-playground/)
   * [watercolor-playground: Realistic watercolor drawings](https://github.com/msurguy/watercolor-playground)
   * 설치 없이 브라우저에서 마우스·터치·Apple Pencil로 그리는 수채화 앱—물감은 종이가 젖은 곳으로만 흐르고, 색은 실제 안료처럼 섞이며(노랑+파랑=녹색, 로즈+울트라마린=보라), 마른 종이엔 경계가 선명하고 젖은 종이엔 번지며 마르면서 블룸과 어두운 테두리(tide line)가 생김. 14종 브러시(라운드·플랫·리거·하케·몹·팬·드라이 브러시·스펀지·스패터·스티플·수묵 등, PNG/JPG로 커스텀 브러시), Water·Pen·Lift·Dry 도구, 단선 플로터 폰트로 한 획씩 쓰는 Text, Shape(SVG 트레이스 포함), 탭한 영역에 워시가 퍼지는 Fill, 10종 종이(콜드/핫 프레스·러프·카디·와시·크라프트), 참조 이미지 트레이싱(HEIC 지원), 히스토리, PNG/JPEG/WebP 내보내기·`.wcp` 프로젝트 저장, 웹캠 손 추적(MediaPipe)으로 핀치 페인팅
-  * 구현: TypeScript+WebGL2+Preact. 색은 RGB가 아닌 스펙트럼—spectral.js 방식의 38밴드 반사율→흡광도로 바꿔 7계수로 압축(Beer–Lambert 감산 혼합, 오차 ~0.1–0.2 ΔE), 유체 모델은 inkwash 기반 GPU 격자(속도·압력·와도·습윤도 필드, 안료는 양쪽이 젖은 만큼만 이웃 픽셀로 이동·마르는 가장자리로 끌려가 tide line 형성). 젖은 영역만 시뮬레이션하고 다 마르면 GPU 사용 0. 2026.10 공개, MIT, 67 stars
+  * 구현: TypeScript+WebGL2+Preact. 색은 RGB가 아닌 스펙트럼—spectral.js 방식의 38밴드 반사율→흡광도로 바꿔 7계수로 압축(Beer–Lambert 감산 혼합, 오차 ~0.1–0.2 ΔE), 유체 모델은 inkwash 기반 GPU 격자(속도·압력·와도·습윤도 필드, 안료는 양쪽이 젖은 만큼만 이웃 픽셀로 이동·마르는 가장자리로 끌려가 tide line 형성). 젖은 영역만 시뮬레이션하고 다 마르면 GPU 사용 0. 2026.10 공개
 * [Webrecorder.io - a web archiving service to collect and revisit web pages](https://webrecorder.io/)
 * WeKan [Get started with Wekan, an open source kanban board](https://opensource.com/article/19/1/productivity-tool-wekan)
 * [wezterm - Wez's Terminal Emulator](https://wezfurlong.org/wezterm/)
@@ -344,14 +344,14 @@ App
   * 광고 유형 3종(개인 계정 명의·실존 가상자산 매체 명의로 공식 도메인 표시·The Korea Herald 사칭)이 광고주와 링크 도메인을 바꿔가며 순환하므로 특정 도메인 차단으로는 대응 불가—서명·식별자 기준 차단을 EDR에 적용하라는 권고. Meta 광고의 표시 링크는 실제 목적지와 다르게 넣을 수 있고 심사·노출 시점에 다른 페이지를 보여줄 수도 있음. 유형 B 광고 본문에 마크다운 `**`가 그대로 남아 생성 도구로 대량 제작한 흔적. 악성 파일 미실행 정적 분석(pkgutil·strings·otool·codesign)만으로 수행, IOC 공개
 * [AgentHound: Red team framework for AI agent infrastructure](https://agenthound.io/)
   * [adithyan-ak/AgentHound: Offensive security framework for AI agent infrastructure](https://github.com/adithyan-ak/AgentHound)
-  * AI 에이전트 인프라(MCP·A2A·게이트웨이·추론·벡터스토어)를 겨냥한 오픈소스 레드팀 프레임워크. 정찰·크리덴셜 탈취·모델 exfiltration·포이즈닝·공격경로 분석을 수행하고 모든 공격 경로를 Neo4j 그래프로 증명. "에이전틱 스택의 BloodHound". Go, Apache-2.0
+  * AI 에이전트 인프라(MCP·A2A·게이트웨이·추론·벡터스토어)를 겨냥한 오픈소스 레드팀 프레임워크. 정찰·크리덴셜 탈취·모델 exfiltration·포이즈닝·공격경로 분석을 수행하고 모든 공격 경로를 Neo4j 그래프로 증명. "에이전틱 스택의 BloodHound"
 * [AI-Infra-Guard: A full-stack AI Red Teaming platform](https://github.com/Tencent/AI-Infra-Guard)
   * [GitHub Tencent/AI-Infra-Guard | 박상길](https://www.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_github-tencentai-infra-guard-a-full-stack-share-7496539710383730688-PpNJ/)
   * [AI-Infra-Guard Documentation | Tencent](https://tencent.github.io/AI-Infra-Guard/)
   * [AI-Infra-Guard - AI 인프라와 에이전트를 점검하는 오픈소스 레드팀 플랫폼 | GeekNews](https://news.hada.io/topic?id=34645)
   * Tencent Zhuque Lab의 풀스택 AI 레드팀 플랫폼 A.I.G—실행 중인 Ollama·ComfyUI·vLLM·n8n 등 주소를 넣으면 구성요소·버전을 식별해 알려진 취약점 탐지(v4.6 기준 146개 AI 구성요소·2,000+ CVE 규칙), MCP 서버·Agent Skill은 GitHub URL이나 소스로 도구 오염·자격증명 유출·명령 주입·악성 코드·권한 상승 검사(.pyc 바이트코드 우회·charset smuggling 방어), Agent Scan은 Dify·Coze 등 워크플로를 여러 에이전트로 자동 평가해 도구 오용·데이터 유출 탐색, OpenClaw 전용 ClawScan, 멀티턴 탈옥 평가(Many-Shot·PAIR·GOAT·ActorAttack), LLM API 바꿔치기·백도어를 잡는 블랙박스 감사
-  * 웹 UI + API + skill-scan·mcp-scan·agent-scan 독립 CLI, 식별·취약점·MCP 규칙과 탈옥 데이터셋을 파일 기반 플러그인으로 확장, Docker(Linux·macOS·Windows). 자체 인증이 없어 내부 환경 전용. Python, Apache-2.0, 6.7k stars
-  * 텐센트의 풀스택 AI 레드팀 플랫폼. Agent Scan·Skills Scan·MCP Scan·AI Infra Scan과 LLM 탈옥(jailbreak) 평가로 AI 생태계 보안 점검. Python, 5.2k stars
+  * 웹 UI + API + skill-scan·mcp-scan·agent-scan 독립 CLI, 식별·취약점·MCP 규칙과 탈옥 데이터셋을 파일 기반 플러그인으로 확장, Docker(Linux·macOS·Windows). 자체 인증이 없어 내부 환경 전용
+  * 텐센트의 풀스택 AI 레드팀 플랫폼. Agent Scan·Skills Scan·MCP Scan·AI Infra Scan과 LLM 탈옥(jailbreak) 평가로 AI 생태계 보안 점검
 * [AI-ML Pentest Academy — NEURAL BREACH (AI/ML roadmap for pentesters)](https://anmolksachan.github.io/LLMPenTestHub/ai-ml-roadmap-for-pentester.html)
   * [AI-ML-Free-Resources-for-Security-and-Prompt-Injection: AI/ML Pentesting Roadmap for Beginners](https://github.com/anmolksachan/AI-ML-Free-Resources-for-Security-and-Prompt-Injection)
   * 초보자용 AI/ML 펜테스팅·프롬프트 인젝션 학습 로드맵과 무료 리소스 큐레이션. anmolksachan
@@ -360,54 +360,54 @@ App
   * [맥으로 WiFi 비밀번호 해킹하기](https://itselfstory.tistory.com/entry/%EB%A7%A5%EC%9C%BC%EB%A1%9C-WiFi-%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8-%ED%95%B4%ED%82%B9%ED%95%98%EA%B8%B0)
   * [Hacking WPA2 WiFi Networks | The Linux Rain](https://www.thelinuxrain.com/articles/hacking-wpa2-wifi-networks)
 * [airgorah: A WiFi security auditing software mainly based on aircrack-ng tools suite](https://github.com/martin-olivier/airgorah)
-  * aircrack-ng 도구 모음 기반 WiFi 보안 감사 GUI 소프트웨어. Rust, 1.7k stars
+  * aircrack-ng 도구 모음 기반 WiFi 보안 감사 GUI 소프트웨어
 * [androguard: Reverse engineering and pentesting for Android applications](https://github.com/androguard/androguard)
   * [Androguard Live — 브라우저에서 돌아가는 WASM 버전](https://ismyphonepwned.com/droid2web/)
-  * DEX·ODEX·APK·Android 바이너리 XML을 파싱하고 Dalvik 바이트코드를 디스어셈블·디컴파일하는 Python 도구. `pip install androguard`. Live 버전은 클라우드 전송 없이 전부 로컬 WASM으로 동작하며 디스어셈블러·디컴파일러·CFG·보안 체크를 제공—APK를 브라우저에 넣어 바로 확인 가능. Python, Apache-2.0, 6.3k stars
+  * DEX·ODEX·APK·Android 바이너리 XML을 파싱하고 Dalvik 바이트코드를 디스어셈블·디컴파일하는 Python 도구. `pip install androguard`. Live 버전은 클라우드 전송 없이 전부 로컬 WASM으로 동작하며 디스어셈블러·디컴파일러·CFG·보안 체크를 제공—APK를 브라우저에 넣어 바로 확인 가능
   * 주의: 4.0.0 이상은 2019년 3.3.5 이후 오랜 공백을 거친 새 릴리스라 일부 기능이 제거됐고 문서도 갱신 중(레포가 직접 "Documentation contains outdated information"이라고 명시). 차세대 버전은 `ng` 브랜치에서 개발 중
 * [Argus: The Ultimate Information Gathering Toolkit](https://github.com/jasonxtn/Argus)
   * OSINT·보안 평가용 정보 수집 플랫폼. 135개 모듈로 네트워크 분석, 웹 애플리케이션 스캔, 위협 인텔리전스 수집을 인터랙티브 CLI로 수행. Python 기반
 * [Awesome-Android-Reverse-Engineering: A curated list of awesome Android Reverse Engineering training, resources, and tools](https://github.com/user1342/Awesome-Android-Reverse-Engineering)
-  * 안드로이드 리버스 엔지니어링 학습·리소스·도구 큐레이션. APK 분석, 디컴파일, 동적 분석, Frida 등. MIT, 2.6k stars
+  * 안드로이드 리버스 엔지니어링 학습·리소스·도구 큐레이션. APK 분석, 디컴파일, 동적 분석, Frida 등
 * [awesome-cyber-ai-arsenal: A curated collection of offensive, defensive and AI/LLM security tools](https://github.com/pazo01/awesome-cyber-ai-arsenal)
-  * 공격·방어·AI/LLM 보안 도구 큐레이션. MIT
+  * 공격·방어·AI/LLM 보안 도구 큐레이션
 * [awesome-cyber-skills: A curated list of hacking environments where you can train your cyber skills legally and safely](https://github.com/joe-shenouda/awesome-cyber-skills)
-  * 합법적·안전하게 사이버 스킬을 훈련할 수 있는 해킹 환경(CTF·워게임·취약 앱·랩) 큐레이션. MIT, 4.5k stars
+  * 합법적·안전하게 사이버 스킬을 훈련할 수 있는 해킹 환경(CTF·워게임·취약 앱·랩) 큐레이션
 * [awesome-malware-analysis: A curated list of awesome malware analysis tools and resources](https://github.com/rshipp/awesome-malware-analysis)
-  * 악성코드 분석 도구·리소스 큐레이션. 14k stars
+  * 악성코드 분석 도구·리소스 큐레이션
 * [awesome-osint-arsenal: Curated OSINT & recon toolkit for Kali Linux — 100+ tools, one-command installer](https://github.com/rawfilejson/awesome-osint-arsenal)
   * Kali Linux용 OSINT·정찰 도구 100+ 큐레이션. SOCMINT(소셜), GEOINT(지오로케이션), 네트워크 정찰, 다크웹, 포렌식 등을 원커맨드 설치 스크립트로 번들
 * [Bruce — Predatory ESP32 Firmware](https://bruce.computer/)
   * [firmware: Predatory ESP32 Firmware | BruceDevices](https://github.com/BruceDevices/firmware)
-  * ESP32 기반 공격형 보안 펌웨어(Flipper Zero류). WiFi·BLE·RF·NFC·인프라레드 등 무선 공격/테스트 도구 모음. C++, 6k+ stars
+  * ESP32 기반 공격형 보안 펌웨어(Flipper Zero류). WiFi·BLE·RF·NFC·인프라레드 등 무선 공격/테스트 도구 모음
 * [BruteForceAI: Advanced LLM-powered brute-force tool combining AI intelligence with automated login attacks](https://github.com/MorDavid/BruteForceAI)
   * [MOR DAVID - Penetration Tester | AI Cyber Operator](https://www.mordavid.com/)
-  * LLM으로 로그인 폼 필드를 자동 분석하고 브루트포스 공격을 수행하는 AI 기반 침투 테스트 도구. Python, 1.5k stars
+  * LLM으로 로그인 폼 필드를 자동 분석하고 브루트포스 공격을 수행하는 AI 기반 침투 테스트 도구
 * [cariddi: Take a list of domains, crawl urls and scan for endpoints, secrets, api keys, file extensions, tokens and more](https://github.com/edoardottt/cariddi)
   * [edoardottt](https://edoardottt.com/)
-  * 도메인 목록을 받아 URL을 크롤링하며 엔드포인트·시크릿·API 키·파일 확장자·토큰 등을 스캔하는 보안 크롤러. Go, GPL-3.0, 3.5k stars
+  * 도메인 목록을 받아 URL을 크롤링하며 엔드포인트·시크릿·API 키·파일 확장자·토큰 등을 스캔하는 보안 크롤러
 * [CertGames — Zero to Hired in Cybersecurity](https://certgames.com/)
   * [Cybersecurity-Projects: Building 70 Projects ranging from beginner to advanced](https://github.com/CarterPerez-dev/Cybersecurity-Projects)
   * 경험 없는 입문자를 위한 게임화 사이버보안 학습 플랫폼. 몇 가지 질문으로 SOC 분석가·침투 테스터 등 적합 직무 로드맵 추천, 26,000개+ 연습 문제·실습 게임·영상, CompTIA Security+/Network+/CCNA 등 20개+ 자격증 대비, AI 이력서 빌더·진로 상담. 무료/월 $25/연 $99.69
-  * 연동 레포는 초급~고급 70개 사이버보안 프로젝트를 공개—학습·참고·복사해 쓸 수 있게 구성. Go, 5.6k stars
+  * 연동 레포는 초급~고급 70개 사이버보안 프로젝트를 공개—학습·참고·복사해 쓸 수 있게 구성
 * [Claude-OSINT: Two paired Claude skills turning Claude into an external recon operator for authorized red-team and bug-bounty](https://github.com/elementalsouls/Claude-OSINT)
   * 인증된 레드팀·버그바운티용 외부 정찰 Claude 스킬 2종. 90+ recon 모듈, 48 secret-regex, 80+ dork, 9 read-only 크리덴셜 검증기, 27 공격경로 템플릿, 5,500+ 줄 tradecraft. SKILL.md drop-in. Python
 * [dark-web-osint-tools: OSINT Tools for the Dark Web](https://github.com/apurvsinghgautam/dark-web-osint-tools)
-  * 다크웹 OSINT 조사용 도구 큐레이션. Tor 히든 서비스 검색·크롤링, .onion 주소 수집·분석 도구 모음. 2.3k stars
+  * 다크웹 OSINT 조사용 도구 큐레이션. Tor 히든 서비스 검색·크롤링, .onion 주소 수집·분석 도구 모음
 * [EMAIL-CRAWL: professional-grade OSINT tool for advanced email address extraction through web crawling](https://github.com/techenthusiast167/EMAIL-CRAWL)
   * 웹 크롤링으로 이메일 주소를 대량 추출하는 OSINT 도구. 펜테스터·보안 분석가용
 * [flare-learning-hub: Free educational content on reverse engineering and malware analysis from the FLARE team](https://github.com/mandiant/flare-learning-hub)
   * [FLARE Learning Hub | ThreatVector](https://www.facebook.com/threatvector/posts/pfbid03AxputqPdYQymZVXwFMKb3S8rqswzJZvTGHXuL1bhNJ6uGj2FJqXqVtByCd9E4zGl)
-  * Mandiant FLARE 팀의 무료 리버스 엔지니어링·악성코드 분석 교육 자료. 실습 랩·레퍼런스·연습문제. Apache-2.0, 1.4k stars
+  * Mandiant FLARE 팀의 무료 리버스 엔지니어링·악성코드 분석 교육 자료. 실습 랩·레퍼런스·연습문제
 * [Flowsint — Automated graph analysis & intelligence](https://www.flowsint.io/)
   * [flowsint: A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators | reconurge](https://github.com/reconurge/flowsint)
-  * 윤리적 조사·투명성·검증을 내건 오픈소스 OSINT 그래프 탐색 플랫폼(ETHICS.md 동봉)—OSINT 도구는 생기고 사라지지만 데이터를 보고 연결하고 분석할 필요는 변하지 않으므로, 내구성 있는 그래프 코어 위에 도구를 플러그인처럼 붙이고 교체(새 소스 추가·API 교체에도 조사는 유지). 엔티티·관계를 한 그래프에 중앙화해 데이터 사일로 제거. TypeScript, Apache-2.0, 9.9k stars, 초기 개발 단계
+  * 윤리적 조사·투명성·검증을 내건 오픈소스 OSINT 그래프 탐색 플랫폼(ETHICS.md 동봉)—OSINT 도구는 생기고 사라지지만 데이터를 보고 연결하고 분석할 필요는 변하지 않으므로, 내구성 있는 그래프 코어 위에 도구를 플러그인처럼 붙이고 교체(새 소스 추가·API 교체에도 조사는 유지). 엔티티·관계를 한 그래프에 중앙화해 데이터 사일로 제거. 초기 개발 단계
 * [gosearch: 🔍 Search anyone's digital footprint across 300+ websites](https://github.com/ibnaleem/gosearch)
-  * Sherlock에서 영감받은 Go 기반 사용자명 OSINT 도구—300개+ 사이트를 동시 검색해 프로필을 찾고, 불확실한 결과는 노란색으로 표시해 거짓 양성을 걸러냄(`--no-false-positives`로 확실한 것만 출력). HudsonRock 사이버범죄 인텔리전스 API(유출 자격증명 90만 건)·ProxyNova COMB(32억 건), API 키가 있으면 BreachDirectory(180억 건)까지 조회하고 찾은 비밀번호 해시는 Weakpass로 크래킹 시도, 사용자명과 연관된 도메인도 주요 TLD에서 탐색. v2.0(2026-05)에서 GitHub OSINT 추가·코드베이스 리팩터링. 사용자명을 모르면 username-anarchy로 후보 생성 권장. Go, GPL-3.0, 3.7k stars
+  * Sherlock에서 영감받은 Go 기반 사용자명 OSINT 도구—300개+ 사이트를 동시 검색해 프로필을 찾고, 불확실한 결과는 노란색으로 표시해 거짓 양성을 걸러냄(`--no-false-positives`로 확실한 것만 출력). HudsonRock 사이버범죄 인텔리전스 API(유출 자격증명 90만 건)·ProxyNova COMB(32억 건), API 키가 있으면 BreachDirectory(180억 건)까지 조회하고 찾은 비밀번호 해시는 Weakpass로 크래킹 시도, 사용자명과 연관된 도메인도 주요 TLD에서 탐색. v2.0(2026-05)에서 GitHub OSINT 추가·코드베이스 리팩터링. 사용자명을 모르면 username-anarchy로 후보 생성 권장
 * [H4X-Tools: A modular, terminal-based toolkit for OSINT, reconnaissance, and scraping - built in Python, runs on Linux and Windows | vil](https://github.com/vil/h4x-tools)
-  * 모듈형 터미널 OSINT·정찰·스크래핑 도구 모음(Python 3.10+, Linux·Windows). 기여자를 구하는 커뮤니티 프로젝트, 위키에 단계별 설치 가이드. GPL-3.0, 844 stars
+  * 모듈형 터미널 OSINT·정찰·스크래핑 도구 모음(Python 3.10+, Linux·Windows). 기여자를 구하는 커뮤니티 프로젝트, 위키에 단계별 설치 가이드
 * [h8mail: Email OSINT & Password breach hunting tool](https://github.com/khast3x/h8mail)
-  * 이메일 OSINT·비밀번호 유출 헌팅 도구. 로컬 유출 DB 또는 프리미엄 서비스로 유출 이력 조회, 관련 이메일 추적. Python, 5.1k stars
+  * 이메일 OSINT·비밀번호 유출 헌팅 도구. 로컬 유출 DB 또는 프리미엄 서비스로 유출 이력 조회, 관련 이메일 추적
 * [hackingtool: ALL IN ONE Hacking Tool For Hackers](https://github.com/Z4nzu/hackingtool)
 * [Hack Underway Toolkit — 20 open-source OSINT & cybersecurity tools](https://toolkit.hackunderway.com/)
   * 정찰·인프라 분석·보안 리서치용 오픈소스 OSINT 도구 20종 모음. 소셜 계정 검색, 이메일 유출 분석, WAF 탐지, 각종 플랫폼 인텔리전스 수집
@@ -417,59 +417,59 @@ App
   * VM 없이 일회용 보안 환경을 빠르게 띄우는 Docker 이미지. Nmap·Metasploit·SQLMap 등 40+ 펜테스트·정찰 도구와 워드리스트 번들
 * [iNTERCEPT - Signal Intelligence Platform](https://www.intercept-sigint.com/)
   * [smittix/intercept: a free and open-source platform that unites the best signal intelligence tools into a single interface](https://github.com/smittix/intercept)
-  * SDR(소프트웨어 정의 라디오) 도구를 하나의 웹 인터페이스로 통합한 오픈소스 SIGINT 플랫폼. 페이저 디코딩, ADS-B 항공기 추적, WiFi 스캐닝 등. Python, Apache-2.0
+  * SDR(소프트웨어 정의 라디오) 도구를 하나의 웹 인터페이스로 통합한 오픈소스 SIGINT 플랫폼. 페이저 디코딩, ADS-B 항공기 추적, WiFi 스캐닝 등
 * [julius: Simple LLM service identification — translate IP:Port to Ollama, vLLM, LiteLLM, or 60+ other AI services in seconds](https://github.com/praetorian-inc/julius)
   * [Introducing Julius: Open Source LLM Service Fingerprinting | Praetorian](https://www.praetorian.com/blog/introducing-julius-open-source-llm-service-fingerprinting/)
-  * IP:Port를 Ollama·vLLM·LiteLLM 등 60+ AI 서비스로 몇 초 만에 식별하는 LLM 서비스 핑거프린팅 도구. 인터넷에 노출된 취약한 Ollama 서버 등 무단 접근 위험 노출. Go, Apache-2.0
+  * IP:Port를 Ollama·vLLM·LiteLLM 등 60+ AI 서비스로 몇 초 만에 식별하는 LLM 서비스 핑거프린팅 도구. 인터넷에 노출된 취약한 Ollama 서버 등 무단 접근 위험 노출
 * [KittySploit — Open security framework, professional reports](https://kittysploit.com/)
   * [Kittysploit-framework: Python Exploitation Framework, V8 Engine Debugger, Proxy interceptor, marketplace, post-exploitation, backdoor generator](https://github.com/SIA-IOTechnology/Kittysploit-framework)
-  * 오픈소스 보안 프레임워크. Python 익스플로잇 프레임워크, V8 엔진 디버거, 프록시 인터셉터, 마켓플레이스, post-exploitation, 백도어 생성기. 증거를 클라이언트 리포트로 변환하는 KittySploit Reports(E2E 암호화). Python, MIT
+  * 오픈소스 보안 프레임워크. Python 익스플로잇 프레임워크, V8 엔진 디버거, 프록시 인터셉터, 마켓플레이스, post-exploitation, 백도어 생성기. 증거를 클라이언트 리포트로 변환하는 KittySploit Reports(E2E 암호화)
 * [MobileHackersWeapons: A collection of cool tools used by Mobile hackers. Happy hacking, Happy bug-hunting](https://github.com/hahwul/MobileHackersWeapons)
-  * iOS·Android 모바일 해킹 도구 큐레이션 리스트. 카테고리별(Analysis/Pentest/Proxy/RE/Scanner/Utils/Device) × 플랫폼별 분류. 1.2k stars, MIT
+  * iOS·Android 모바일 해킹 도구 큐레이션 리스트. 카테고리별(Analysis/Pentest/Proxy/RE/Scanner/Utils/Device) × 플랫폼별 분류.
 * [naabu: A fast port scanner written in go with a focus on reliability and simplicity](https://github.com/projectdiscovery/naabu)
   * [ProjectDiscovery](https://projectdiscovery.io/)
-  * 신뢰성·단순함에 집중한 Go 기반 고속 포트 스캐너. 버그바운티·펜테스트의 공격면 발견에 다른 도구와 조합 사용. MIT, 6.1k stars
+  * 신뢰성·단순함에 집중한 Go 기반 고속 포트 스캐너. 버그바운티·펜테스트의 공격면 발견에 다른 도구와 조합 사용
 * [Netryx-Astra-V2-Geolocation-Tool: The world's most sophisticated street level image geolocation software](https://github.com/sparkyniner/Netryx-Astra-V2-Geolocation-Tool)
-  * 사진 한 장(영상 스크린샷·흐린 폰 사진·가게 앞·길모퉁이)을 스트리트뷰 파노라마 DB와 대조해 몇 분 안에 정확한 GPS 좌표를 찾는 오픈소스 지오로케이션. V1의 CosPlace+DISK·LightGlue·LoFTR·RANSAC 9단계 휴리스틱 스택을 버리고 MegaLoc(CVPR 2025, 실내외·주야·계절 6개 데이터셋 학습 장소 인식 검색—"도시의 어느 동네인가", 상위 500 후보)→MASt3R(ECCV 2024, 장면 기하를 이해하는 3D 인식 밀집 매처—부분·강하게 잘린 사진도 정확한 위치 확정) 3단계 파이프라인으로 재구축. Python, 1.1k stars
+  * 사진 한 장(영상 스크린샷·흐린 폰 사진·가게 앞·길모퉁이)을 스트리트뷰 파노라마 DB와 대조해 몇 분 안에 정확한 GPS 좌표를 찾는 오픈소스 지오로케이션. V1의 CosPlace+DISK·LightGlue·LoFTR·RANSAC 9단계 휴리스틱 스택을 버리고 MegaLoc(CVPR 2025, 실내외·주야·계절 6개 데이터셋 학습 장소 인식 검색—"도시의 어느 동네인가", 상위 500 후보)→MASt3R(ECCV 2024, 장면 기하를 이해하는 3D 인식 밀집 매처—부분·강하게 잘린 사진도 정확한 위치 확정) 3단계 파이프라인으로 재구축
 * [nox-framework: High-performance OSINT/CTI framework for automated identity pivoting and risk analysis across 120+ sources](https://github.com/nox-project/nox-framework)
   * 120+ 소스에서 자동 신원 피버팅·위험 분석을 수행하는 고성능 OSINT/CTI 프레임워크. Python
 * [OWASP Nettacker — Automated Penetration Testing Framework](https://owasp.org/www-project-nettacker/)
   * [Nettacker: Automated Penetration Testing Framework - Open-Source Vulnerability Scanner](https://github.com/OWASP/Nettacker)
-  * OWASP의 자동화 침투 테스트·취약점 스캐닝 프레임워크. 정보 수집·서비스/포트 스캔·취약점 관리, 모듈형 아키텍처. Python, 5.3k stars
+  * OWASP의 자동화 침투 테스트·취약점 스캐닝 프레임워크. 정보 수집·서비스/포트 스캔·취약점 관리, 모듈형 아키텍처
 * [PANO: Advanced OSINT investigation platform combining graph visualization, timeline analysis, and AI assistance to uncover hidden connections in data | ALW1EZ](https://github.com/ALW1EZ/PANO)
-  * Platform for Analysis and Network Operations. 그래프 시각화와 타임라인 분석, AI 보조를 결합해 데이터 속 숨은 연결과 패턴을 찾는 OSINT 조사 데스크톱 앱(Python·PySide6, Windows·Linux). 시작 스크립트가 업데이트 확인·환경 구성·의존성 설치까지 자동 처리. 라이선스 CC BY-NC(비상업), 612 stars
+  * Platform for Analysis and Network Operations. 그래프 시각화와 타임라인 분석, AI 보조를 결합해 데이터 속 숨은 연결과 패턴을 찾는 OSINT 조사 데스크톱 앱(Python·PySide6, Windows·Linux). 시작 스크립트가 업데이트 확인·환경 구성·의존성 설치까지 자동 처리. 라이선스 CC BY-NC(비상업)
 * [PatchaPalooza — analysis of Microsoft's monthly security updates](https://patchapalooza.com/)
   * [PatchaPalooza: comprehensive analysis of Microsoft's monthly security updates](https://github.com/xaitax/PatchaPalooza)
   * 마이크로소프트 월간 보안 업데이트(Patch Tuesday)를 분석·시각화하는 도구. CVE 심각도·악용 여부·유형별 통계와 추세를 제공. Python
 * [PwnPad: affordable, hands-on hardware hacking platform for practical learning](https://github.com/twelvesec/PwnPad)
-  * 저렴한 실습형 하드웨어 해킹 학습 플랫폼. PCB 설계부터 사이드채널 공격까지 핵심 하드웨어 보안 개념을 단계별 챌린지로 학습. C++, GPL-3.0, 1.1k stars
+  * 저렴한 실습형 하드웨어 해킹 학습 플랫폼. PCB 설계부터 사이드채널 공격까지 핵심 하드웨어 보안 개념을 단계별 챌린지로 학습
 * [robin: AI-Powered Dark Web OSINT Tool](https://github.com/apurvsinghgautam/robin)
-  * AI 기반 다크웹 OSINT 도구. Python, 6.5k stars
+  * AI 기반 다크웹 OSINT 도구
 * [RustScan: The Modern Port Scanner](https://github.com/bee-san/RustScan)
-  * 모든 65,535 포트를 몇 초 만에 스캔하고 발견한 열린 포트를 Nmap으로 자동 전달하는 초고속 포트 스캐너. 스크립팅 엔진(Python/Lua/Shell), 어댑티브 러닝, IPv6·CIDR 지원. Rust, 20k stars
+  * 모든 65,535 포트를 몇 초 만에 스캔하고 발견한 열린 포트를 Nmap으로 자동 전달하는 초고속 포트 스캐너. 스크립팅 엔진(Python/Lua/Shell), 어댑티브 러닝, IPv6·CIDR 지원
 * [SearchPhone: OSINT toolkit for researching phone numbers | HackUnderway](https://github.com/HackUnderway/SearchPhone)
   * 전화번호 OSINT 조사 Python CLI. Google·GitHub·Numverify·Reddit·DuckDuckGo 등 여러 API를 병렬 검색해 번호 검증·통신사 조회·코드/소셜 검색, JSON·PDF 리포트 자동 생성
 * [Taranis AI — advanced Open-Source Intelligence (OSINT) tool](https://taranis.ai/)
   * [taranis-ai: leveraging Artificial Intelligence to revolutionize information gathering and situational analysis](https://github.com/taranis-ai/taranis-ai)
-  * AI로 정보 수집·상황 분석을 자동화하는 OSINT 플랫폼—Celery 비동기 태스크 큐로 뉴스 아이템을 처리해 수집→분석→보고 흐름을 지원. Python, EUPL-1.2(EU 공공 라이선스), 1.2k stars
+  * AI로 정보 수집·상황 분석을 자동화하는 OSINT 플랫폼—Celery 비동기 태스크 큐로 뉴스 아이템을 처리해 수집→분석→보고 흐름을 지원. Python, EUPL-1.2(EU 공공 라이선스)
 * [tlosint-vm: A Linux OSINT distribution built for Trace Labs, based on Kali Linux](https://github.com/tracelabs/tlosint-vm)
   * [VM Introduction | Trace Labs Docs](https://docs.tracelabs.org/vm/vm-introduction)
   * Trace Labs용 Kali 기반 OSINT 리눅스 배포판. OSINT 조사에 사전 구성된 도구와 하드닝된 Firefox 설정 제공. 완성 VM 이미지 다운로드 또는 Debian 계열에 도구 설치 스크립트 실행
 * [TorBot: Dark Web OSINT Tool](https://github.com/DedSecInside/TorBot)
-  * 다크웹(.onion) OSINT 도구. Tor 네트워크 크롤링·링크 수집·이메일/전화번호 추출·인텔리전스 분석. Python, 4.4k stars
+  * 다크웹(.onion) OSINT 도구. Tor 네트워크 크롤링·링크 수집·이메일/전화번호 추출·인텔리전스 분석
 * [voidaccess: Self-hosted dark web OSINT platform. Automated threat intelligence from query to graph in 13 steps](https://github.com/KatrielMoses/voidaccess)
-  * 셀프호스팅 다크웹 OSINT 플랫폼. 쿼리→그래프까지 13단계 자동 위협 인텔리전스. Recorded Future·DarkOwl·Flare의 무료 대안. Python, MIT
+  * 셀프호스팅 다크웹 OSINT 플랫폼. 쿼리→그래프까지 13단계 자동 위협 인텔리전스. Recorded Future·DarkOwl·Flare의 무료 대안
 * [WebHackersWeapons: A collection of cool tools used by Web hackers. Happy hacking, Happy bug-hunting](https://github.com/hahwul/WebHackersWeapons)
-  * 웹 해킹·버그바운티 도구 큐레이션 리스트. 카테고리별(Recon/Scanner/Fuzzing/Exploitation/XSS/SQLi 등) 분류. hahwul, MIT, 5k stars
+  * 웹 해킹·버그바운티 도구 큐레이션 리스트. 카테고리별(Recon/Scanner/Fuzzing/Exploitation/XSS/SQLi 등) 분류
 * [WireTapper: wireless OSINT tool — passively map Wi-Fi, Bluetooth, CCTV, vehicles, IoT, cell towers](https://github.com/h9zdev/WireTapper)
-  * 주변 무선 신호를 수동 탐지·매핑하는 무선 OSINT 도구. Wi-Fi·블루투스·CCTV 카메라·차량·헤드폰·TV·IoT 기기·기지국을 감지해 상황 인텔리전스로 시각화. 1.5k stars
+  * 주변 무선 신호를 수동 탐지·매핑하는 무선 OSINT 도구. Wi-Fi·블루투스·CCTV 카메라·차량·헤드폰·TV·IoT 기기·기지국을 감지해 상황 인텔리전스로 시각화
 * [yesitsme: Simple OSINT script to find Instagram profiles by name and e-mail/phone](https://github.com/0x0be/yesitsme)
-  * 이름과 이메일·전화번호로 인스타그램 프로필을 찾는 OSINT 스크립트. 비밀번호 복구 흐름을 활용해 계정 매칭. Python, 2.9k stars
+  * 이름과 이메일·전화번호로 인스타그램 프로필을 찾는 OSINT 스크립트. 비밀번호 복구 흐름을 활용해 계정 매칭
 
 # Android
 * [안드로이드에만 있는 유용한 생산성 앱 10개](http://techneedle.com/archives/20513)
 * [android-titanium-browser: Secure open-source Android browser with support for extensions](https://github.com/jqssun/android-titanium-browser)
-  * 확장 프로그램을 지원하는 보안 중심 오픈소스 Android 브라우저. GPL-2.0, 2.7k stars
+  * 확장 프로그램을 지원하는 보안 중심 오픈소스 Android 브라우저
 * [Android tool for mac](https://github.com/mortenjust/androidtool-mac)
 * [Explore the night sky with this open source astronomy app | Opensource.com](https://opensource.com/article/21/1/kstars)
 * [Nexus 9에 설치한 Remix OS 살펴보기](http://thdev.net/744)
@@ -478,18 +478,18 @@ App
 * [b2gdroid - an experiment that let you use Gaia (the user interface of FirefoxOS) on your Android device, as an alternative homescreen](https://people.mozilla.org/~fdesre/b2gdroid/)
 * [BlockAds — Block Ads. Protect Privacy.](https://blockads.pwhs.app/)
   * [blockads-android: Block ads system-wide on Android using local VPN-based DNS filtering. No root needed. No data collection](https://github.com/pass-with-high-score/blockads-android)
-  * 로컬 VPN(비루팅) 또는 Root Proxy(iptables) 이중 라우팅으로 Android 시스템 전체 광고·트래커·피싱 차단. DNS 쿼리만 로컬에서 필터링해 데이터 수집 0·배터리 소모 최소, DoH·HTTPS 필터링(베타, 유저스페이스 TCP/IP 스택으로 앱별 MITM·CSS·스크립틀릿), 앱별 예외, StevenBlack·AdGuard DNS·EasyList 등 내장 목록과 언어 기반 지역 기본값, 은행·결제·정부 앱용 284개 통과 목록, 실시간 DNS 로그, Material 3, 위젯·퀵 타일, 규칙 JSON 백업. macOS·Windows 사전 등록 중. Kotlin, GPL-3.0, 2.3k stars, IzzyOnDroid 배포
+  * 로컬 VPN(비루팅) 또는 Root Proxy(iptables) 이중 라우팅으로 Android 시스템 전체 광고·트래커·피싱 차단. DNS 쿼리만 로컬에서 필터링해 데이터 수집 0·배터리 소모 최소, DoH·HTTPS 필터링(베타, 유저스페이스 TCP/IP 스택으로 앱별 MITM·CSS·스크립틀릿), 앱별 예외, StevenBlack·AdGuard DNS·EasyList 등 내장 목록과 언어 기반 지역 기본값, 은행·결제·정부 앱용 284개 통과 목록, 실시간 DNS 로그, Material 3, 위젯·퀵 타일, 규칙 JSON 백업. macOS·Windows 사전 등록 중. IzzyOnDroid 배포
 * [Fossdroid.com: Free and open source Android applications](https://fossdroid.com/)
 * [Mac.apk: Android Apps, Native on Apple Silicon](https://projects.voltare.us/macapk)
   * [Mac.apk: Run Android apps natively on Apple Silicon Macs](https://github.com/kksimp/Mac.apk)
-  * 에뮬레이터·VM·Linux 없이 Android 앱 환경을 macOS 위에 직접 구현해 APK를 네이티브 Mac 앱처럼 실행(Dock 아이콘·창·Cmd+Tab·GPU 가속). DEX→JVM 바이트코드 변환기 dex2jvm 별도 공개. macOS 26.4+ Apple Silicon 전용, 공개 알파(71개 앱 중 58개 동작), Apple 서명·공증, Java, AGPL-3.0, 1.2k stars
+  * 에뮬레이터·VM·Linux 없이 Android 앱 환경을 macOS 위에 직접 구현해 APK를 네이티브 Mac 앱처럼 실행(Dock 아이콘·창·Cmd+Tab·GPU 가속). DEX→JVM 바이트코드 변환기 dex2jvm 별도 공개. macOS 26.4+ Apple Silicon 전용, 공개 알파(71개 앱 중 58개 동작), Apple 서명·공증
 * [MiceWine-Application: MiceWine is a project that aims to run Windows applications and games on Android smartphones](https://github.com/KreitinnSoftware/MiceWine-Application)
   * [MiceWine – 윈도우 앱과 게임을 안드로이드폰에서 실행하기 | GeekNews](https://news.hada.io/topic?id=18949)
 * [perch - See What’s Happening At Home](https://getperch.com/)
 * [ShareX: 🚀 Send and receive files in hassle-free way with fast speed! | akanshSirohi](https://github.com/akanshSirohi/ShareX/)
-  * 같은 Wi-Fi·핫스팟의 기기가 앱 설치 없이 브라우저로 접속해 파일을 보고·올리고·내려받는 Android 파일 공유 앱—공유 폴더 또는 선택 파일만 공유하는 Private 모드, 브라우저 접근 승인·신뢰 기기 기억·취소, QR 연결, 전송 기록·실시간 속도, 스토어·ZIP 플러그인, 포트·HTTPS·숨김 파일·테마 설정. 로컬 전송은 인터넷 불필요. Java, AGPL-3.0
+  * 같은 Wi-Fi·핫스팟의 기기가 앱 설치 없이 브라우저로 접속해 파일을 보고·올리고·내려받는 Android 파일 공유 앱—공유 폴더 또는 선택 파일만 공유하는 Private 모드, 브라우저 접근 승인·신뢰 기기 기억·취소, QR 연결, 전송 기록·실시간 속도, 스토어·ZIP 플러그인, 포트·HTTPS·숨김 파일·테마 설정. 로컬 전송은 인터넷 불필요
 * [Square: Unofficial YouTube Music / Spotify Premium client for Android, built in Liquid Glass](https://github.com/Lelonio/Square)
-  * 첫 실행 때 Spotify(Premium 계정 필요)나 YouTube Music(계정 없이 전체 카탈로그·뮤직비디오, Google 로그인하면 내 플레이리스트 연동) 중 하나를 고르고 설정에서 바꿀 수 있는 비공식 Android 음악 클라이언트(Kotlin+librespot 기반 Rust 코어, GPL-3.0, Android 8.0+). 모든 컨트롤·탭 바·플레이어·시트가 블러·굴절·틴트를 조절할 수 있는 하나의 Liquid Glass로 되어 있고, 8개 언어를 폰 언어와 별개로 선택
+  * 첫 실행 때 Spotify(Premium 계정 필요)나 YouTube Music(계정 없이 전체 카탈로그·뮤직비디오, Google 로그인하면 내 플레이리스트 연동) 중 하나를 고르고 설정에서 바꿀 수 있는 비공식 Android 음악 클라이언트(Kotlin+librespot 기반 Rust 코어, Android 8.0+). 모든 컨트롤·탭 바·플레이어·시트가 블러·굴절·틴트를 조절할 수 있는 하나의 Liquid Glass로 되어 있고, 8개 언어를 폰 언어와 별개로 선택
   * 플레이어: 커버나 루프 캔버스 영상 배경, 큐·위치를 유지한 채 노래↔뮤직비디오 전환과 PiP, 임의 곡 라디오·유사곡 자동재생, 크로스페이드·끝부분 무음 건너뛰기, 슬립 타이머. 오디오 효과: 속도·피치 개별 조절과 리버브, "slowed + reverb" 같은 프리셋, 보컬을 낮추는 카라오케. 단어 단위 싱크 가사와 번역, 두 소스 모두 오프라인 다운로드(Wi-Fi 전용·좋아요 곡 자동), Spotify Connect 기기로 동작·친구 활동·곡 크레딧·청취 기록 저장, Android Auto. Play 스토어에는 올릴 수 없어 APK 자체 업데이트
 
 # App
@@ -860,7 +860,7 @@ App
 * [beaverhabits: A self-hosted habit tracking app without "Goals"](https://github.com/daya0576/beaverhabits)
   * [BeaverHabits - 목표(Goal) 없는 습관 추적 웹 앱 | GeekNews](https://news.hada.io/topic?id=18945)
 * [best-chrome-extensions: A curated list of the finest Chrome extensions tailored for developers and designers](https://github.com/themeselection/best-chrome-extensions)
-  * 개발자(코드 에디터·디버깅·CSS·버전 관리·자동화)·디자이너(컬러 피커·타이포그래피·팔레트)·일반(탭 관리·스크린샷·광고 차단·AI 어시스턴트·SEO) 카테고리별 큐레이션. MIT
+  * 개발자(코드 에디터·디버깅·CSS·버전 관리·자동화)·디자이너(컬러 피커·타이포그래피·팔레트)·일반(탭 관리·스크린샷·광고 차단·AI 어시스턴트·SEO) 카테고리별 큐레이션
 * [Bubbles: Video and Screenshot Collaboration](https://www.usebubbles.com/)
   * ["번거로운 화상회의 이제 그만" 말풍선으로 아이디어 공유하는 크롬 확장 프로그램 '버블스' - ITWorld Korea](https://www.itworld.co.kr/news/201594)
 * [bypass-paywalls-chrome: Bypass Paywalls web browser extension for Chrome and Firefox](https://github.com/iamadamdev/bypass-paywalls-chrome)
@@ -870,7 +870,7 @@ App
   * [안 쓰고 있다면 진짜 이건 손해입니다: Chrome DevTools MCP | duck blog | 기술 블로그](https://duck-blog.vercel.app/blog/web/chrome-devtools-mcp-game-changer)
     * [안 쓰고 있다면 진짜 이건 손해입니다: Chrome DevTools MCP | Kim Deokgoo](https://www.linkedin.com/posts/kim-deokgoo-51b583155_%EC%95%88-%EC%93%B0%EA%B3%A0-%EC%9E%88%EB%8B%A4%EB%A9%B4-%EC%A7%84%EC%A7%9C-%EC%9D%B4%EA%B1%B4-%EC%86%90%ED%95%B4%EC%9E%85%EB%8B%88%EB%8B%A4-chrome-devtools-mcp-activity-7390740765905309697-VQwB)
 * [15 updates from Google I/O 2026: Powering the agentic web with new capabilities, tools, and features in Chrome | Chrome for Developers](https://developer.chrome.com/blog/chrome-at-io26)
-  * 2026-05-19, Parisa Tabriz·Paul Kinlan 외. 세 축—①AI 에이전트가 웹을 만들고 상호작용하게: WebMCP(웹사이트를 에이전트 툴킷으로), 모던 웹 가이던스(코딩 에이전트용 청사진), 에이전트용 Chrome DevTools 자동 디버깅, AI 보조 디버깅, 서버·예산 없이 쓰는 내장 AI ②웹 UI·성능: HTML-in-Canvas과 요소 범위 view transitions, SPA용 Core Web Vitals, Immediate UI 모드 인증, 실트래픽 기반 Baseline 타깃 ③Gemini in Chrome: Android 브라우징 어시스턴트, 지루한 작업을 맡기는 auto browse, Nano Banana 이미지 변환, 프롬프트를 원클릭 도구로 만드는 Skills in Chrome, 화면 선택 프롬프트, 음성
+  * Parisa Tabriz·Paul Kinlan 외. 세 축—①AI 에이전트가 웹을 만들고 상호작용하게: WebMCP(웹사이트를 에이전트 툴킷으로), 모던 웹 가이던스(코딩 에이전트용 청사진), 에이전트용 Chrome DevTools 자동 디버깅, AI 보조 디버깅, 서버·예산 없이 쓰는 내장 AI ②웹 UI·성능: HTML-in-Canvas과 요소 범위 view transitions, SPA용 Core Web Vitals, Immediate UI 모드 인증, 실트래픽 기반 Baseline 타깃 ③Gemini in Chrome: Android 브라우징 어시스턴트, 지루한 작업을 맡기는 auto browse, Nano Banana 이미지 변환, 프롬프트를 원클릭 도구로 만드는 Skills in Chrome, 화면 선택 프롬프트, 음성
 * [codecopy: A browser extension that adds copy to clipboard buttons on every code block](https://github.com/zenorocha/codecopy)
 * [DevTools Timeline Viewer](https://chromedevtools.github.io/timeline-viewer/)
 * [Form Helper Chrome | Devpost](https://devpost.com/software/form-helper-chrome)
@@ -907,16 +907,16 @@ App
 * [국산 협업툴은 슬랙과 팀즈의 대안이 될까? | 요즘IT](https://yozm.wishket.com/magazine/detail/3366/)
 * [Chatwoot — Open-source customer engagement platform](https://www.chatwoot.com/)
   * [chatwoot: Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc.](https://github.com/chatwoot/chatwoot)
-  * Intercom·Zendesk·Salesforce Service Cloud의 오픈소스 셀프호스팅 대안(Ruby on Rails, 39k stars). 웹사이트 라이브 채팅·이메일·Facebook·Instagram·Twitter·WhatsApp·Telegram·Line 등을 하나의 옴니채널 인박스로 모으고, AI 에이전트 Captain이 자주 묻는 질문에 자동 응답해 상담 부담을 줄임. 헬프센터 포털(FAQ·가이드 게시), 비공개 메모·@멘션, 라벨, 캔드 리스폰스, 상담원 가용성 기반 자동 배정, 키보드 단축키·커맨드 바
+  * Intercom·Zendesk·Salesforce Service Cloud의 오픈소스 셀프호스팅 대안(Ruby on Rails). 웹사이트 라이브 채팅·이메일·Facebook·Instagram·Twitter·WhatsApp·Telegram·Line 등을 하나의 옴니채널 인박스로 모으고, AI 에이전트 Captain이 자주 묻는 질문에 자동 응답해 상담 부담을 줄임. 헬프센터 포털(FAQ·가이드 게시), 비공개 메모·@멘션, 라벨, 캔드 리스폰스, 상담원 가용성 기반 자동 배정, 키보드 단축키·커맨드 바
 * [drawnix-seedream: Drawnix whiteboard application - open source collaborative drawing tool with mind maps, flowcharts, and free drawing capabilities | joeseesun](https://github.com/joeseesun/drawnix-seedream)
   * [drawnix: 开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等 | plait-board](https://github.com/plait-board/drawnix)
-  * PingCode의 Plait 프레임워크 기반 올인원 오픈소스 화이트보드 Drawnix(마인드맵·플로차트·자유 그리기·이미지 삽입, 플러그인 아키텍처, PNG/`.drawnix` 내보내기, 무한 캔버스, Mermaid→플로차트·Markdown→마인드맵 변환, 모바일 대응)에 ByteDance 豆包/Seedream 이미지 생성 API를 붙인 변형. Vercel API 라우트로 이미지 생성·이미지 프록시 엔드포인트, 이미지→이미지 대화창, 최대 20장 동시 생성(2025-09 커밋). TypeScript, MIT
+  * PingCode의 Plait 프레임워크 기반 올인원 오픈소스 화이트보드 Drawnix(마인드맵·플로차트·자유 그리기·이미지 삽입, 플러그인 아키텍처, PNG/`.drawnix` 내보내기, 무한 캔버스, Mermaid→플로차트·Markdown→마인드맵 변환, 모바일 대응)에 ByteDance 豆包/Seedream 이미지 생성 API를 붙인 변형. Vercel API 라우트로 이미지 생성·이미지 프록시 엔드포인트, 이미지→이미지 대화창, 최대 20장 동시 생성(2025-09 커밋)
 * [Excalidraw | Hand-drawn look & feel • Collaborative • Secure](https://excalidraw.com/)
   * [Excalidraw - 오픈소스 가상 칠판 협업도구 | GeekNews](https://news.hada.io/topic?id=4234)
   * [💡 How to work with ALIGN FUNCTIONS in Excalidraw 👀 | TUTORIAL #14 - YouTube](https://www.youtube.com/watch?v=hROUh9lmtik)
   * [⏱️ Excalidraw in Seconds: Meet the CLI 🚀 | Excalidraw - YouTube](https://www.youtube.com/watch?v=AzODN_qw53k)
     * [cli: Official Excalidraw CLI for humans and agents](https://github.com/excalidraw/cli)
-    * 40초 공식 소개(2026-10-12)—Excalidraw+ 계정이나 로컬 파일로 다이어그램을 렌더링해 코딩 에이전트에게 더 나은 시각적 피드백을 주는 CLI. `npm install -g @excalidraw/cli`(Node 22+, `npx`로 설치 없이 시험): 로컬 `.excalidraw` 파일을 계정 없이 PNG로 렌더(`excalidraw render drawing.excalidraw --out drawing.png`, stdin/stdout 파이프 가능, 설치된 Chrome·Edge·Chromium·Firefox 사용), Excalidraw+ API 키로 로그인하면 컬렉션·씬 생성·내용 가져오기·패치·프레임 단위 렌더까지 워크스페이스 관리. 출력이 기본 JSON이라 jq·셸 스크립트·AI 에이전트와 바로 연결. TypeScript, MIT
+    * 40초 공식 소개—Excalidraw+ 계정이나 로컬 파일로 다이어그램을 렌더링해 코딩 에이전트에게 더 나은 시각적 피드백을 주는 CLI. `npm install -g @excalidraw/cli`(Node 22+, `npx`로 설치 없이 시험): 로컬 `.excalidraw` 파일을 계정 없이 PNG로 렌더(`excalidraw render drawing.excalidraw --out drawing.png`, stdin/stdout 파이프 가능, 설치된 Chrome·Edge·Chromium·Firefox 사용), Excalidraw+ API 키로 로그인하면 컬렉션·씬 생성·내용 가져오기·패치·프레임 단위 렌더까지 워크스페이스 관리. 출력이 기본 JSON이라 jq·셸 스크립트·AI 에이전트와 바로 연결
 * Jami [The Jami conferencing system](https://jami.net/the-jami-conferencing-system/)
 * [LiveKit - Open source infrastructure for real time audio and video.](https://livekit.io/)
   * [LiveKit - 실시간 커뮤니케이션 플랫폼 오픈소스 | GeekNews](https://news.hada.io/topic?id=4642)
@@ -927,7 +927,7 @@ App
   * [MiroTalk SFU - 오픈소스 Zoom/Teams 대체제 | GeekNews](https://news.hada.io/topic?id=5497)
 * [neko: A self hosted virtual browser that runs in docker and uses WebRTC](https://github.com/m1k1o/neko)
   * [n.eko 공식 사이트](https://neko.m1k1o.net/)
-  * Docker에서 돌아가는 WebRTC 기반 셀프호스팅 가상 브라우저. Go, Apache-2.0, 22.4k stars
+  * Docker에서 돌아가는 WebRTC 기반 셀프호스팅 가상 브라우저
 * [Nettu Meet - 온라인 강의를 위한 오픈소스 화상 회의 시스템 | GeekNews](https://news.hada.io/topic?id=4437)
 * [rallly: Self-hostable doodle poll alternative. Find the best date for a meeting with your colleagues or friends without the back and forth emails](https://github.com/lukevella/rallly)
   * [Rallly - 미팅 날짜 선택을 도와주는 Doodle Poll 대체제 오픈소스 | GeekNews](https://news.hada.io/topic?id=7195)
@@ -1063,7 +1063,7 @@ App
 * [Macro — The unified workspace for your company](https://macro.com/)
   * [macro: Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory](https://github.com/macro-inc/macro)
   * Slack·Linear·Notion·HubSpot·Superhuman을 따로 쓰다 MCP·Zapier로 간신히 이어 붙인 스타트업 경험에서 출발해, 이메일·채널 메시지·태스크·CRDT 기반 마크다운 문서·캔버스·통화(녹음·전사)·파일·GitHub PR·CRM을 하나의 백엔드 위에 블록으로 재설계한 팀 운영체제. 모든 객체가 @링크로 양방향 그래프에 저장돼 통합 검색되고, 팀 수준 공유 메모리를 가진 에이전트가 이메일 초안·CRM 갱신·코딩 작업까지 대신 수행
-  * Superhuman식 키보드 우선 멀티 계정 통합 인박스(j/k/e로 이메일·메시지·@멘션·태스크를 한 목록에서 처리), 첨부 PDF까지 파싱해 검색하는 에이전트용 MCP 도구, 3분할 이상 내장 창 관리자, cmd+k로 연락처·회사 도메인별 이메일·파일 전체 조회. NYC·토론토 팀이 2년간 자체 사용, SolidJS+Rust, a16z 등 3천만 달러 이상 투자, SOC 2·ISO 27001. Rust, AGPL-3.0, 6k stars
+  * Superhuman식 키보드 우선 멀티 계정 통합 인박스(j/k/e로 이메일·메시지·@멘션·태스크를 한 목록에서 처리), 첨부 PDF까지 파싱해 검색하는 에이전트용 MCP 도구, 3분할 이상 내장 창 관리자, cmd+k로 연락처·회사 도메인별 이메일·파일 전체 조회. NYC·토론토 팀이 2년간 자체 사용, SolidJS+Rust, a16z 등 3천만 달러 이상 투자, SOC 2·ISO 27001
 * [mise-en-place](https://mise.jdx.dev/)
   * [Comparison to asdf | mise-en-place](https://mise.jdx.dev/dev-tools/comparison-to-asdf.html)
 * mysetting [**Develop. Share. Discover. For developers - mysetting**](https://mysetting.io/)
@@ -1087,7 +1087,7 @@ App
 * [SSHBool — A blazing-fast desktop workspace for remote infrastructure](https://ssh.devbool.com/)
   * [sshbool: A blazing-fast desktop workspace that unifies SSH, SFTP, terminal, Docker, databases, and remote server management in one application](https://github.com/omarsenusi/sshbool)
   * 터미널·SFTP·에디터·DB GUI·서버 모니터링을 하나의 키보드 우선 데스크톱 워크스페이스로 통합. "Connect once, do everything" 아키텍처—서버당 멀티플렉스된 SSH 연결 하나를 열고 터미널 세션·파일 전송·에디터 버퍼·DB 쿼리를 같은 연결의 별도 채널로 라우팅해 지연·서버 부하 최소화
-  * Tauri v2 + Rust 코어 + React 19, AES-256 암호화. Apache 2.0
+  * Tauri v2 + Rust 코어 + React 19, AES-256 암호화
 * [TeamGantt - Online Gantt Chart Software](https://www.teamgantt.com/)
 * Termius [멀티 플랫폼 SSH 클라이언트: Termius](https://macnews.tistory.com/5728)
 * Zapier
@@ -1110,7 +1110,7 @@ App
   * [superfile: Pretty fancy and modern terminal file manager](https://github.com/yorukot/superfile)
   * [Superfile is AWESOME - YouTube](https://www.youtube.com/watch?v=pDIMXiKyvA4)
   * [Superfile: 나를 CLI로 돌아오게 한 터미널 파일 매니저 | TechHut](https://techhut.tv/superfile-terminal-file-manager)
-  * Go로 작성된 현대식 터미널 파일 매니저(`spf`). 중앙 파일 브라우저+우측 미리보기+좌측 사이드바 레이아웃, 다중 패널로 여러 디렉토리 동시 탐색, Vim 스타일 커스터마이징 가능한 키바인딩, 선택 모드 대량 파일 작업, 검색·정렬, Nord/Dracula 등 테마. SSH로 원격 서버에서도 사용. 22.7k stars
+  * Go로 작성된 현대식 터미널 파일 매니저(`spf`). 중앙 파일 브라우저+우측 미리보기+좌측 사이드바 레이아웃, 다중 패널로 여러 디렉토리 동시 탐색, Vim 스타일 커스터마이징 가능한 키바인딩, 선택 모드 대량 파일 작업, 검색·정렬, Nord/Dracula 등 테마. SSH로 원격 서버에서도 사용
 * [yazi: 💥 Blazing fast terminal file manager written in Rust, based on async I/O.](https://github.com/sxyazi/yazi)
   * [How To Use Yazi: An Awesome Terminal File Manager Written In Rust - YouTube](https://www.youtube.com/watch?v=iKb3cHDD9hw)
   * [Yazi: The CLI File Manager That's Faster Than Any GUI File Manager - YouTube](https://www.youtube.com/watch?v=RgV47l59NYs)
@@ -1131,11 +1131,11 @@ App
     * [Kan.bn - Trello의 오픈소스 대체제 | GeekNews](https://news.hada.io/topic?id=21257)
 * [Kaneo — All you need. Nothing you don't.](https://kaneo.app/)
   * [kaneo: Open source project management that works for you, not against you](https://github.com/usekaneo/kaneo)
-  * 셀프호스팅 오픈소스 프로젝트 관리 도구. 필요한 것만 담은 미니멀 설계. TypeScript, 8.3k stars
+  * 셀프호스팅 오픈소스 프로젝트 관리 도구. 필요한 것만 담은 미니멀 설계
 * [Lalabase | Open-source project management for software companies](https://lalabase.com/)
   * [lalabase: Self-hosted project management for devs and their clients: tickets, time tracking, docs and meetings, with an AI assistant that cites its sources](https://github.com/lalabase/lalabase)
   * 소프트웨어 에이전시와 고객을 위한 셀프 호스팅 프로젝트 관리—클라이언트별 조직·프로젝트와 역할 기반 고객 접근, 프로젝트별 상태·우선순위·필드를 정의하는 보드/리스트 티켓, 티켓당 여러 세션을 각각 청구 가능한 시간 추적과 인보이스 내보내기, GitHub/GitLab 레포 폴더를 프로젝트 문서로 쓰는 지식베이스, 전사·AI 요약·후속 태스크가 붙는 회의. AI 어시스턴트는 티켓·문서·시간·회의를 가로질러 답하며 출처(티켓·댓글·회의)를 인용
-  * AI는 기본 꺼짐이고 켤 때 OpenAI·Anthropic·Vertex AI(EU) Gemini·Mistral·IONOS·OVHcloud·OpenAI 호환 자체 모델 중 선택, 개인 액세스 토큰으로 Claude·Cursor를 붙이는 MCP 서버·REST API(티켓 CRUD·시간 기록·지식베이스 검색·색인된 코드 조회), 터미널에서 티켓을 Claude Code에 넘기는 별도 CLI. Rails 8.1·Ruby 4·PostgreSQL+pgvector·Hotwire, Docker Compose, 1인 창업자(Guido Boyke)가 2025-09부터 고객 운영 후 2026.10.0 첫 공개. 독일 호스팅 클라우드 €10/인·월 또는 셀프 호스팅 무료. Ruby, AGPL-3.0
+  * AI는 기본 꺼짐이고 켤 때 OpenAI·Anthropic·Vertex AI(EU) Gemini·Mistral·IONOS·OVHcloud·OpenAI 호환 자체 모델 중 선택, 개인 액세스 토큰으로 Claude·Cursor를 붙이는 MCP 서버·REST API(티켓 CRUD·시간 기록·지식베이스 검색·색인된 코드 조회), 터미널에서 티켓을 Claude Code에 넘기는 별도 CLI. Rails 8.1·Ruby 4·PostgreSQL+pgvector·Hotwire, Docker Compose, 1인 창업자(Guido Boyke)가 2025-09부터 고객 운영 후 2026.10.0 첫 공개. 독일 호스팅 클라우드 €10/인·월 또는 셀프 호스팅 무료
 * [Leantime — open source project management for non-project managers](https://leantime.io/)
   * [leantime: Leantime is an open source project management system for non-project managers](https://github.com/Leantime/leantime)
   * 목표 중심 오픈소스 프로젝트 관리 플랫폼. ADHD·자폐·난독증 접근성 고려 설계, 칸반·간트·태스크·타임시트(Trello/Jira 수준) 제공하면서 사용 편의성 유지. 다국어·커뮤니케이션 통합, Docker/서버 셀프호스팅
@@ -1155,13 +1155,13 @@ App
   * [Deploying Containers on NixOS](https://bkiran.com/blog/deploying-containers-nixos)
 * [nocodb: 🔥 🔥 The Open Source Airtable alternative](https://github.com/nocodb/nocodb)
   * [NocoDB Cloud](https://nocodb.com/)
-  * 셀프호스팅 가능한 오픈소스 Airtable 대안. TypeScript, 65k stars
+  * 셀프호스팅 가능한 오픈소스 Airtable 대안
 * [OpenProject - Open Source Project Management Software](https://www.openproject.org/)
   * [openproject: Community edition of OpenProject - classic, agile, and hybrid project management](https://github.com/opf/openproject)
   * 간트 차트·Scrum/Kanban 보드·팀 플래너·업무 패키지·시간 추적·예산 관리. Nextcloud/OneDrive/GitHub/GitLab 연동. Community(무료 셀프호스트)/Enterprise On-prem/Enterprise Cloud 3가지 배포. GPL v3, Siemens·Deutsche Bahn 등 사용
 * [Paca - AI-native project management](https://paca-ai.org/)
   * [paca: AI-native, free, open-source alternative to Jira, Trello, ClickUp & Monday](https://github.com/Paca-AI/paca)
-  * AI 에이전트와 사람이 같은 보드·스프린트·목표에서 동등한 스크럼 팀원으로 협업하는 셀프호스팅 PM 도구. 챗봇 애드온이 아니라 에이전트가 스프린트 계획 참여·보드에서 태스크 수령·BDD 스펙 작성. MCP 서버로 임의 AI 에이전트 연결, Claude Code 스킬 제공. config·플러그인으로 워크플로/데이터모델/UI 커스터마이즈. Go, Apache-2.0
+  * AI 에이전트와 사람이 같은 보드·스프린트·목표에서 동등한 스크럼 팀원으로 협업하는 셀프호스팅 PM 도구. 챗봇 애드온이 아니라 에이전트가 스프린트 계획 참여·보드에서 태스크 수령·BDD 스펙 작성. MCP 서버로 임의 AI 에이전트 연결, Claude Code 스킬 제공. config·플러그인으로 워크플로/데이터모델/UI 커스터마이즈
 * [Plane - The Open Source Project Management Tool](https://plane.so/)
   * [plane: 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage](https://github.com/makeplane/plane)
   * [The Open Source Jira Alternative - YouTube](https://www.youtube.com/watch?v=pgWHATQzkHk)
@@ -1253,7 +1253,7 @@ App
 # Dropbox, Google Drive, OneDrive
 * [A remote sync solution for iOS and Linux: Git and Working Copy](https://medium.freecodecamp.org/a-remote-sync-solution-for-ios-and-linux-git-and-working-copy-1aba488b3547)
 * [BYOC: One storage API for Google Drive, Nextcloud, and S3-compatible clouds, in TypeScript and Python](https://github.com/ajayvarmaramineni/byoc)
-  * Google Drive·Nextcloud·S3 호환 클라우드를 하나의 스토리지 API로 통합하는 라이브러리(Bring Your Own Cloud). TypeScript+Python, Apache-2.0
+  * Google Drive·Nextcloud·S3 호환 클라우드를 하나의 스토리지 API로 통합하는 라이브러리(Bring Your Own Cloud)
 * [Embedded File Viewer: Google Drive, OneDrive](https://gist.github.com/tzmartin/1cf85dc3d975f94cfddc04bc0dd399be)
 * [Fix-OneDrive-Zip: Fix OneDrive Zip files >4Gig](https://github.com/pmqs/Fix-OneDrive-Zip)
 * [goodsync.com](http://www.goodsync.com/)
@@ -1292,7 +1292,7 @@ App
   * [cate: An infinite zoomable canvas for coding. Editor, terminal, and browser panels in a spatial workspace](https://github.com/0-AI-UG/cate)
   * [Cate - 무한 줌 가능한 코딩용 캔버스 IDE | GeekNews](https://news.hada.io/topic?id=30438)
   * [무한 캔버스 기반 데스크톱 IDE Cate 기술 정리 및 활용 가이드 | digitalbourgeois](https://digitalbourgeois.tistory.com/3246)
-  * 무한 캔버스 기반 데스크톱 IDE. 에디터·터미널·브라우저·문서·AI 에이전트를 자유 공간에 배치, 패널 플로팅·도킹·창 분리, 폴더 단위 레이아웃 복원. Monaco+xterm.js+Git 통합, 인앱 코딩 에이전트 Pi(@earendil-works/pi) 내장+Anthropic/OpenAI Codex/Copilot/Gemini/OpenRouter/Groq/Mistral/DeepSeek 연결. Electron+React+Zustand+Tailwind. macOS/Windows/Linux. MIT
+  * 무한 캔버스 기반 데스크톱 IDE. 에디터·터미널·브라우저·문서·AI 에이전트를 자유 공간에 배치, 패널 플로팅·도킹·창 분리, 폴더 단위 레이아웃 복원. Monaco+xterm.js+Git 통합, 인앱 코딩 에이전트 Pi(@earendil-works/pi) 내장+Anthropic/OpenAI Codex/Copilot/Gemini/OpenRouter/Groq/Mistral/DeepSeek 연결. Electron+React+Zustand+Tailwind. macOS/Windows/Linux
 * [ContentTools - A beautiful & small content editor](http://getcontenttools.com/)
 * [DeckDeckGo - The Progressive Web App alternative for simple presentations https://deckdeckgo.com ](https://github.com/deckgo/deckdeckgo)
   * [We are developing an open source editor for presentations](https://hackernoon.com/we-are-developing-an-open-source-editor-for-presentations-9cfc69571133)
@@ -1316,7 +1316,7 @@ App
 * [nuclide - Building Nuclide, a unified developer experience](https://code.facebook.com/posts/397706937084869/)
 * [Onivim 2 - Modal Editing from the Future](https://v2.onivim.io/)
 * [openidea: The IDE you know, rebuilt in Rust. IntelliJ IDEA–style keymap, tool windows and search-everywhere in a fast native app: editor, code insight, debugger, Git, terminal, database and HTTP clients for 60+ languages | l0ng-ai](https://github.com/l0ng-ai/openidea)
-  * IntelliJ IDEA의 일하는 방식(키맵·툴 윈도우·search-everything 습관)을 Rust 코어 네이티브 앱(Tauri)으로 다시 만든 IDE—에디터·코드 인사이트·디버거·Git·터미널·DB·HTTP 클라이언트, 60+ 언어, macOS·Windows·Linux. freqtrade(Python ~770파일) 벤치마크에서 창 표시 0.9초 vs IDEA 3.1초, 준비 완료 1.1초 vs 13.2초, 메모리 169MB vs 2GB(단 IDEA는 Python을 더 깊이 분석하므로 "준비"의 의미가 같지 않다고 명시, `perf/compare`로 직접 재현 가능). 플러그인은 샌드박스 WebAssembly 컴포넌트로 액션·완성·퀵픽스·툴 윈도우·커스텀 에디터·테마·언어를 추가(테마·아이콘·언어는 코드 불필요, API는 프리뷰). JetBrains와 무관. TypeScript+Rust, Apache-2.0, 6.6k stars
+  * IntelliJ IDEA의 일하는 방식(키맵·툴 윈도우·search-everything 습관)을 Rust 코어 네이티브 앱(Tauri)으로 다시 만든 IDE—에디터·코드 인사이트·디버거·Git·터미널·DB·HTTP 클라이언트, 60+ 언어, macOS·Windows·Linux. freqtrade(Python ~770파일) 벤치마크에서 창 표시 0.9초 vs IDEA 3.1초, 준비 완료 1.1초 vs 13.2초, 메모리 169MB vs 2GB(단 IDEA는 Python을 더 깊이 분석하므로 "준비"의 의미가 같지 않다고 명시, `perf/compare`로 직접 재현 가능). 플러그인은 샌드박스 WebAssembly 컴포넌트로 액션·완성·퀵픽스·툴 윈도우·커스텀 에디터·테마·언어를 추가(테마·아이콘·언어는 코드 불필요, API는 프리뷰). JetBrains와 무관
 * [PdfDing: Selfhosted PDF manager, viewer and editor offering a seamless user experience on multiple devices](https://github.com/mrmn2/PdfDing)
   * [PdfDing - 개인용 PDF 관리자 | GeekNews](https://news.hada.io/topic?id=18931)
 * [pdfescape.com](http://www.pdfescape.com/) free online pdf editor
@@ -1336,7 +1336,7 @@ App
   * [Ultimate Sublime for Python](https://blog.usejournal.com/ultimate-sublime-for-python-5c531224421b)
 * [Stirling-PDF: Open-source PDF editing platform](https://github.com/Stirling-Tools/Stirling-PDF)
   * [Stirling PDF - 30M+ Downloads — A free, private PDF editor you can run on any infrastructure](https://www.stirling.com/)
-  * 셀프호스팅 PDF 편집 플랫폼. 50+ PDF 도구(병합·분할·서명·편집·OCR·압축·변환), 노코드 워크플로우 자동화, REST API, SSO·감사 로그, 40+ 언어. 데스크톱/브라우저/서버. 77.8k stars
+  * 셀프호스팅 PDF 편집 플랫폼. 50+ PDF 도구(병합·분할·서명·편집·OCR·압축·변환), 노코드 워크플로우 자동화, REST API, SSO·감사 로그, 40+ 언어. 데스크톱/브라우저/서버
 * [Theia - Cloud and Desktop IDE Platform](https://theia-ide.org/)
   * [theia: Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript](https://github.com/eclipse-theia/theia)
   * [Open Source 'Eclipse Theia IDE' Exits Beta to Challenge Visual Studio Code -- Visual Studio Magazine](https://visualstudiomagazine.com/Articles/2024/06/27/eclipse-theia-ide.aspx)
@@ -1376,7 +1376,7 @@ App
   * 로그인·결제 없이 브라우저에서 약 31개 실시간 데이터 스트림을 3D 지구본에 표시. 항공기·선박·날씨·위성·지진·산불·번개·오로라·인터넷 이벤트 등. NASA·NOAA·ADS-B·AIS 등 공개 피드, 서버사이드 fetch(IP 비공유)
 * [plexo: Speed up downloads by combining multiple network connections in parallel](https://github.com/anmolkapil/plexo)
   * [Plexo — Free download manager that combines your networks](https://getplexo.app/)
-  * Wi-Fi·이더넷·휴대폰 테더링 등 가용한 인터넷 연결을 모두 합쳐 파일과 토렌트를 더 빨리 받는 무료 오픈소스 다운로드 관리자(TypeScript, MIT, macOS·Windows·Linux, 프리릴리스). 같은 파일의 조각을 연결마다 병렬로 받고 빠른 네트워크에 더 많이 배분, 네트워크·서버·디스크 성능에 맞춰 병렬 스트림 수를 자동 조절하며 느린 조각은 놀고 있는 연결에서 경쟁시켜 막판 지연을 줄임. 각 네트워크가 서로 다른 회선으로 인터넷에 나가야 효과가 있음(같은 공유기의 Wi-Fi+이더넷은 합쳐도 그대로)
+  * Wi-Fi·이더넷·휴대폰 테더링 등 가용한 인터넷 연결을 모두 합쳐 파일과 토렌트를 더 빨리 받는 무료 오픈소스 다운로드 관리자(macOS·Windows·Linux, 프리릴리스). 같은 파일의 조각을 연결마다 병렬로 받고 빠른 네트워크에 더 많이 배분, 네트워크·서버·디스크 성능에 맞춰 병렬 스트림 수를 자동 조절하며 느린 조각은 놀고 있는 연결에서 경쟁시켜 막판 지연을 줄임. 각 네트워크가 서로 다른 회선으로 인터넷에 나가야 효과가 있음(같은 공유기의 Wi-Fi+이더넷은 합쳐도 그대로)
   * 직접 링크·마그넷·.torrent를 한 큐에서 관리, 재시작·절전 후 이어받기, 만료된 링크 교체, Chrome·Firefox 확장으로 로그인된 브라우저 세션째 다운로드 전달. 전체·네트워크별 속도 제한, 통화·스트리밍용 Slow 모드, 일·주·월 데이터 한도, 요일·시간 예약
 * Rambox [Workspace simplifier - Rambox](https://rambox.app/)
 * textografo
@@ -1668,9 +1668,9 @@ App
 * [(EP.12) 평생 서버비용 아끼는 방법. 무료 홈서버 BEST 5 (N100 미니PC 활용) - YouTube](https://www.youtube.com/watch?v=2SuHn0jMjIM)
 * [MicroRealEstate | Leases, rents and receipts in one app](https://microrealestate.app/)
   * [microrealestate: Self-hosted property management app for landlords to manage leases, rents and receipts](https://github.com/microrealestate/microrealestate)
-  * 임대인용 셀프호스팅 부동산 관리—물건·임차인·임대계약·임대료·영수증을 한 앱에서. 개인 임대인(5호 이하) 무료. JavaScript, 1.2k stars
+  * 임대인용 셀프호스팅 부동산 관리—물건·임차인·임대계약·임대료·영수증을 한 앱에서. 개인 임대인(5호 이하) 무료
 * [paperless-ngx: A community-supported supercharged document management system: scan, index and archive all your documents](https://github.com/paperless-ngx/paperless-ngx)
-  * 스캔·인덱싱·아카이브를 한 번에 하는 셀프호스팅 문서 관리 시스템. Python, GPL-3.0, 46k stars
+  * 스캔·인덱싱·아카이브를 한 번에 하는 셀프호스팅 문서 관리 시스템
 * [project-nomad: Node for Offline Media, Archives, and Data — self-contained offline-first knowledge and AI platform](https://github.com/Crosstalk-Solutions/project-nomad)
   * Docker 기반 오프라인 지식/AI 플랫폼. Ollama AI 채팅, 오프라인 Wikipedia/Kiwix, 지역 지도, CyberChef 암호화, 교육 콘텐츠. 인터넷 없이 운영
 * [Tipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps](https://github.com/meienberger/runtipi)
@@ -1698,7 +1698,7 @@ App
 * [NeoFreeBird](https://neofreebird.com/)
   * [app: A modified Twitter app, with branding reverts, BHTwitter and other QoL modifications](https://github.com/NeoFreeBird/app)
   * nyathea의 FreeBird 포크. iOS Twitter/X 앱 IPA를 개조해 X 리브랜딩 이전의 트위터 브랜딩(파랑새)·Dim 테마 복원, BHTwitter 통합으로 광고 차단과 Undo Tweet·앱 아이콘·테마 등 Blue 기능 무료 사용, 전 언어 로컬라이제이션 포함. Twitter/X 브랜딩 두 가지 빌드 제공
-  * AltStore·SideStore·Feather 소스 또는 GitHub Releases로 사이드로딩, 자기 IPA로 직접 빌드하는 가이드도 제공. Twitter/X와 무관한 비공식 프로젝트. Objective-C, GPL-3.0
+  * AltStore·SideStore·Feather 소스 또는 GitHub Releases로 사이드로딩, 자기 IPA로 직접 빌드하는 가이드도 제공. Twitter/X와 무관한 비공식 프로젝트
 
 # Linux
 * [리눅스에서 쓸 수 있는 베스트 그래픽 프로그램 정리](https://www.clien.net/service/board/useful/14961441)
@@ -1772,7 +1772,7 @@ App
 * [fastmac: Get a MacOS or Linux shell, for free, in around 2 minutes](https://github.com/fastai/fastmac/)
 * [OpenLogi — A local-first alternative to Logitech Options+, written in Rust](https://openlogi.org/)
   * [OpenLogi: A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry | AprilNEA](https://github.com/AprilNEA/OpenLogi)
-  * 계정·텔레메트리 없이 HID++로 로지텍 마우스의 버튼 리맵·DPI·SmartShift를 로컬에서 제어하는 Options+ 대안(`brew install --cask openlogi`). Bolt·Unifying·Bluetooth·USB. Rust, Apache-2.0
+  * 계정·텔레메트리 없이 HID++로 로지텍 마우스의 버튼 리맵·DPI·SmartShift를 로컬에서 제어하는 Options+ 대안(`brew install --cask openlogi`). Bolt·Unifying·Bluetooth·USB
 
 ## Mac App
 * [**practice - 최초 설치 후 install(M1)**](https://gist.github.com/hyunjun/cf75a8a9367b272c5707#file-install_m1-md)
@@ -1960,7 +1960,7 @@ App
     * [맥북 뚜껑을 닫아도 Claude Code 세션이 끊기지 않도록 만든 DontSleep | Wooseong Kim](https://kr.linkedin.com/posts/wooseong-kim_github-innocarpedontsleep-keep-the-mac-activity-7494435145022885888-Aa5O)
   * [**KeepingYouAwake - A Caffeine clone for OS X Yosemite (and Dark Mode)**](https://github.com/newmarcel/KeepingYouAwake)
   * [Theine 2 - Caffeine for your Mac](https://www.ixeau.com/apps/theine/) KeepingYouAwake같은 앱
-    * 뚜껑을 닫아도 작업(코딩 에이전트 세션 등)이 계속되는 메뉴바 앱. 내장 화면·키보드 조명을 꺼 발열 감소(클램쉘 모드), 뚜껑 열면 원상 복원, 과열 경고 시 자동 잠자기 옵션. Apache-2.0
+    * 뚜껑을 닫아도 작업(코딩 에이전트 세션 등)이 계속되는 메뉴바 앱. 내장 화면·키보드 조명을 꺼 발열 감소(클램쉘 모드), 뚜껑 열면 원상 복원, 과열 경고 시 자동 잠자기 옵션
 * [3uTools](http://www.3u.com/) Files & Data Management Tool
 * Across Modern Calendar [일정부터 할일관리까지 하루를 완벽하게 | 아이폰 캘린더 앱 - YouTube](https://www.youtube.com/watch?v=TAiQE3dQWpM)
 * `afplay` [macOS에서 음원 파일 노동요 모드로 재생하기](https://rein.kr/blog/archives/5575)
@@ -1998,7 +1998,7 @@ App
     * 링크드인 모바일 앱은 공유 시 URL만 내보내 카톡 "나에게 보내기"로 모은 링크는 매번 재로그인이 필요하고 원본이 지워지면 휘발—"모바일 공유→텔레그램→BatiFlow→로컬 마크다운→AI 분석→RAG 검색"의 우회 크롤링 아키텍처로 본문·댓글·이미지까지 .md로 저장. 저장 위치는 내 Mac/iCloud(표준 마크다운이라 Obsidian·VS Code 어디서든), 로컬 LLM이 요약·태그 자동 부착, 주제·인물·회사로 연결되는 그래프 뷰, 의미 기반 로컬 유사도 검색. 초기 버전은 링크드인 파싱 위주
 * [Beamer: free software KVM for Mac, Windows and Linux](https://beamerapp.co.uk/)
   * [beamer: One keyboard and mouse for a Mac and a Windows PC over the local network, in either direction | kalkman-code](https://github.com/kalkman-code/beamer)
-  * 같은 네트워크의 기기들 사이에서 키보드·마우스(트랙패드) 하나를 공유하고 클립보드도 함께 넘어가는 무료 오픈소스 소프트웨어 KVM(v1.5.14, GPL-3.0)—포인터를 상대 기기 쪽 화면 가장자리(선택한 구간·모서리·맥북 노치)로 밀면 같은 위치로 이어지고, 트리거 키(Mac Right Option·PC Right Ctrl, 변경 가능) 더블탭·홀드로도 전환, 도착 지점에 짧은 애니메이션. 최대 32대 직접 페어링, Mac↔Mac·PC↔PC는 키가 그대로, 단축키 유지, 입력은 네트워크 밖으로 나가지 않음. Linux는 실험적 Flatpak(x86-64). Python, 683 stars
+  * 같은 네트워크의 기기들 사이에서 키보드·마우스(트랙패드) 하나를 공유하고 클립보드도 함께 넘어가는 무료 오픈소스 소프트웨어 KVM(v1.5.14)—포인터를 상대 기기 쪽 화면 가장자리(선택한 구간·모서리·맥북 노치)로 밀면 같은 위치로 이어지고, 트리거 키(Mac Right Option·PC Right Ctrl, 변경 가능) 더블탭·홀드로도 전환, 도착 지점에 짧은 애니메이션. 최대 32대 직접 페어링, Mac↔Mac·PC↔PC는 키가 그대로, 단축키 유지, 입력은 네트워크 밖으로 나가지 않음. Linux는 실험적 Flatpak(x86-64)
 * [cactusformac.com](http://cactusformac.com/)
 * Calculator
   * [NaSC](https://parnold-x.github.io/nasc/)
@@ -2037,12 +2037,12 @@ App
 * [FileNic: 파일닉 - 간단하게 자소결합](https://github.com/0126kjw/FileNic)
   * [FileNic - macOS에서 한글 파일명 자소분리 문제 해결기 | GeekNews](https://news.hada.io/topic?id=18629)
 * [FineTune: a macOS menu bar app for per-app volume control, multi-device output, audio routing, and 10-band EQ](https://github.com/ronitsingh10/FineTune)
-  * 앱별 볼륨 조절·다중 출력 장치·오디오 라우팅·10밴드 EQ를 제공하는 macOS 메뉴바 앱. SoundSource의 무료 오픈소스 대안. Swift, GPL-3.0, 8.2K stars
+  * 앱별 볼륨 조절·다중 출력 장치·오디오 라우팅·10밴드 EQ를 제공하는 macOS 메뉴바 앱. SoundSource의 무료 오픈소스 대안
 * [finicky: A macOS app for customizing which browser to start](https://github.com/johnste/finicky)
 * [flashlight - the missing Spotlight plugin system](https://github.com/nate-parrott/Flashlight)
 * [Forel - File automation for macOS](https://forel-app.github.io/)
   * [forel: File automation for macOS. The open source Hazel alternative for macOS](https://github.com/lab421/forel)
-  * 폴더를 감시해 파일명·확장자·종류·크기·날짜·태그·색 라벨·내용(이미지·스캔 PDF는 온디바이스 OCR) 규칙으로 이동·이름 변경·태그·라벨을 자동 적용하는 메뉴바 앱—Downloads의 청구서는 Work/Invoices/2026/, 사진은 Photos/2026/March/로. 100% 온디바이스·클라우드 없음, macOS 14+, `brew install --cask lab421/tap/forel`. Swift, GPL-3.0, 800 stars
+  * 폴더를 감시해 파일명·확장자·종류·크기·날짜·태그·색 라벨·내용(이미지·스캔 PDF는 온디바이스 OCR) 규칙으로 이동·이름 변경·태그·라벨을 자동 적용하는 메뉴바 앱—Downloads의 청구서는 Work/Invoices/2026/, 사진은 Photos/2026/March/로. 100% 온디바이스·클라우드 없음, macOS 14+, `brew install --cask lab421/tap/forel`
 * [GhostVM - Mac Virtual Machine for Secure Development](https://ghostvm.org/)
   * [GhostVM](https://github.com/groundwater/GhostVM)
   * AI 에이전트·샌드박스 코드·신뢰할 수 없는 프로젝트용 격리된 macOS 워크스페이스. Apple Silicon 네이티브
@@ -2074,7 +2074,7 @@ App
 * [ImageOptim — better Save for Web](https://imageoptim.com/mac)
 * [Input Source Pro](https://inputsource.pro/)
   * [InputSourcePro: Switch and track your input sources with ease ✨](https://github.com/runjuu/InputSourcePro)
-  * 입력 소스를 자주 바꾸는 다국어 사용자용 무료 오픈소스 macOS 유틸리티—앱별 기본 입력 소스, 브라우저(Safari·Chrome·Arc·Edge·Firefox 등)에서는 웹사이트별 입력 소스 지정, 앱·사이트를 오갈 때 자동 전환, 현재 입력 소스를 보여 주는 화면 표시(마우스 길게 누를 때·전환 시·앱 전환 시 선택). 앱별 영어 문장부호 강제(코드 편집기·터미널에서 전각 기호 방지), 앱별 F1~F12 기능 키 모드 전환. 같은 개발자의 오프라인 Grammarly 대안 Refine 소개. Swift, GPL-3.0, 3.6k stars
+  * 입력 소스를 자주 바꾸는 다국어 사용자용 무료 오픈소스 macOS 유틸리티—앱별 기본 입력 소스, 브라우저(Safari·Chrome·Arc·Edge·Firefox 등)에서는 웹사이트별 입력 소스 지정, 앱·사이트를 오갈 때 자동 전환, 현재 입력 소스를 보여 주는 화면 표시(마우스 길게 누를 때·전환 시·앱 전환 시 선택). 앱별 영어 문장부호 강제(코드 편집기·터미널에서 전각 기호 방지), 앱별 F1~F12 기능 키 모드 전환. 같은 개발자의 오프라인 Grammarly 대안 Refine 소개
 * iNet Network Scanner [The iNet Network Scanner and Toolbox for Mac](https://inetapp.de/)
   * [아이넷 네트워크 스캐너 리뷰 | 로컬 네트워크 현황을 '한눈에' - ITWorld Korea](https://www.itworld.co.kr/news/229159)
 * itsycal [맥 어플 추천 Itsycal(이치칼) 메뉴 막대 달력](https://truesale.tistory.com/entry/%EB%A7%A5-%EC%96%B4%ED%94%8C-%EC%B6%94%EC%B2%9C-Itsycal%EC%9D%B4%EC%B9%98%EC%B9%BC-%EB%A9%94%EB%89%B4-%EB%A7%89%EB%8C%80-%EB%8B%AC%EB%A0%A5)
@@ -2107,7 +2107,7 @@ App
   * [앱 피드백도 백문이 불여일견, 모바일 화면 실시간 스트리밍 서비스 ‘유니콘’](http://besuccess.com/2015/06/unicorn/)
 * [Loop: MacOS window management made elegant](https://github.com/MrKai77/Loop)
   * [Mac's Best Window Manager - YouTube](https://www.youtube.com/watch?v=gkSe7UF1Xf0)
-  * 방사형 메뉴로 창 이동/리사이즈/배치. 키 프리뷰·커스텀 단축키·스태시·스냅·URL 스킴/AppleScript 지원. Swift/SwiftUI, GPL-3.0, macOS 13+
+  * 방사형 메뉴로 창 이동/리사이즈/배치. 키 프리뷰·커스텀 단축키·스태시·스냅·URL 스킴/AppleScript 지원. Swift/SwiftUI, macOS 13+
 * [LosslessCut - The Swiss Army Knife of Lossless Video/Audio Editing](https://losslesscut.app/)
   * [lossless-cut: The swiss army knife of lossless video/audio editing](https://github.com/mifi/lossless-cut)
   * 재인코딩 없이 데이터 스트림만 잘라 초 단위로 영상·오디오 무손실 편집. 트리밍·병합·리먹싱, 풀해상도 스냅샷, 키프레임 타임라인, CSV EDL, 메타데이터 편집
@@ -2115,7 +2115,7 @@ App
 * [Maccy: Lightweight clipboard manager for macOS](https://github.com/p0deje/Maccy)
   * [Maccy - 맥용 클립보드 매니저 오픈소스 앱 | GeekNews](https://news.hada.io/topic?id=6853)
   * [maccy.app](https://maccy.app/)
-  * 키보드 중심·네이티브 macOS UI의 경량 클립보드 매니저. 로컬 저장, 패스워드 매니저 연동, macOS Sonoma 14+, MIT
+  * 키보드 중심·네이티브 macOS UI의 경량 클립보드 매니저. 로컬 저장, 패스워드 매니저 연동, macOS Sonoma 14+
 * [MacJournal 7](https://danschimpf.com)
 * [mackup](https://github.com/lra/mackup)
 * [macSandbox for Windows — Disposable Windows 11 ARM64 sandboxes for Apple Silicon Macs](https://yourtablecloth.app/macSandbox)
@@ -2132,7 +2132,7 @@ App
   * [Mole](https://mole.fit/)
   * [Mole - The Epic Free Mac System Cleaner - Reviewed - YouTube](https://www.youtube.com/watch?v=gUdh9oboG7E)
     * Mostly Mac. M2 MacBook Pro에서 터미널 버전으로 캐시·로그·고아 파일 13GB 회수—clean·uninstall·optimise·analyse·status 도구 시연. CleanMyMac 대체 무료 오픈소스, GUI 원하면 $19 일회성 결제(구독 없음)
-  * CleanMyMac·AppCleaner·DaisyDisk·iStat Menus식 워크플로를 터미널 명령 하나(`mo`)로—`mo clean`(캐시·로그·삭제한 앱 잔여물 정리), `mo uninstall`(LaunchAgents·환경설정까지 함께 제거), `mo analyze`(인터랙티브 TUI 디스크 탐색), `mo optimize`(DNS·QuickLook·시스템 DB 정리), `mo status`(CPU·메모리·디스크 I/O·네트워크 실시간), `mo purge`(프로젝트 빌드 산출물), `mo slim`(유니버설 앱의 Intel 코드 제거), `mo touchid` 등. 모든 정리 명령에 `--dry-run`과 `mo history`로 삭제 전 확인. `brew install mole` 또는 설치 스크립트(macOS 12+, Intel·Apple Silicon), AI 에이전트용 `llms.txt`와 스킬(`npx skills add tw93/Mole`)·Claude Code/Codex 플러그인 제공—에이전트는 항상 dry-run으로 먼저 보여 주고 앱 삭제·관리자 단계는 사람에게 넘김. 레포는 무료 오픈소스 CLI이고 삭제 전 리뷰·800+ 앱 잔여물 DB·팬 제어가 있는 Mole for Mac과 Mole for Windows 네이티브 앱은 별도 배포(Windows·Linux는 별도 브랜치 README). Shell, GPL-3.0, 74k stars
+  * CleanMyMac·AppCleaner·DaisyDisk·iStat Menus식 워크플로를 터미널 명령 하나(`mo`)로—`mo clean`(캐시·로그·삭제한 앱 잔여물 정리), `mo uninstall`(LaunchAgents·환경설정까지 함께 제거), `mo analyze`(인터랙티브 TUI 디스크 탐색), `mo optimize`(DNS·QuickLook·시스템 DB 정리), `mo status`(CPU·메모리·디스크 I/O·네트워크 실시간), `mo purge`(프로젝트 빌드 산출물), `mo slim`(유니버설 앱의 Intel 코드 제거), `mo touchid` 등. 모든 정리 명령에 `--dry-run`과 `mo history`로 삭제 전 확인. `brew install mole` 또는 설치 스크립트(macOS 12+, Intel·Apple Silicon), AI 에이전트용 `llms.txt`와 스킬(`npx skills add tw93/Mole`)·Claude Code/Codex 플러그인 제공—에이전트는 항상 dry-run으로 먼저 보여 주고 앱 삭제·관리자 단계는 사람에게 넘김. 레포는 무료 오픈소스 CLI이고 삭제 전 리뷰·800+ 앱 잔여물 DB·팬 제어가 있는 Mole for Mac과 Mole for Windows 네이티브 앱은 별도 배포(Windows·Linux는 별도 브랜치 README)
 * [MonitorControl: 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs](https://github.com/MonitorControl/MonitorControl)
 * [monodraw.helftone.com](http://monodraw.helftone.com/) ascii art editor, 30 days trial
 * [Monolingual - a program for removing unnecessary language resources from macOS](https://ingmarstein.github.io/Monolingual/) Mojave에서 default로 실행해본 결과 Languages에서 1.96GB, Architectures에서 227MB 삭제
@@ -2158,11 +2158,11 @@ App
 * [Pika • Super High Fives](https://superhighfives.com/pika)
 * Post-it for Mac [3M, 아이폰과의 동기화를 지원하는 Post-it for Mac을 발표](https://tagilog.tistory.com/441)
 * [QLMarkdown: macOS Quick Look extension for Markdown files | sbarex](https://github.com/sbarex/QLMarkdown)
-  * Finder에서 스페이스바로 Markdown 파일을 렌더링해 미리 보는 Quick Look 확장. C++, GPL-3.0, 3.6k stars
+  * Finder에서 스페이스바로 Markdown 파일을 렌더링해 미리 보는 Quick Look 확장
 * [QLStephen - 확장자에 관계없이 텍스트 파일 미리보기 QLStephen](http://mcchae.egloos.com/10981138)
 * [QuickRecorder: A lightweight screen recorder based on ScreenCapture Kit for macOS](https://github.com/lihaoyun6/QuickRecorder)
   * [QuickRecorder 랜딩 페이지](https://lihaoyun6.github.io/quickrecorder/)
-  * ScreenCapture Kit 기반 경량·고성능 macOS 화면 녹화 앱. 화면·윈도우·앱·모바일 기기 녹화 지원, macOS 12.3+, `brew install lihaoyun6/tap/quickrecorder`. Swift, AGPL-3.0, 8.6k stars
+  * ScreenCapture Kit 기반 경량·고성능 macOS 화면 녹화 앱. 화면·윈도우·앱·모바일 기기 녹화 지원, macOS 12.3+, `brew install lihaoyun6/tap/quickrecorder`
 * [Raycast](https://www.raycast.com/)
   * [생산성에 진심인 자의 Raycast 세팅 엿보기 (for macOS)](https://velog.io/@wisepine/%EC%83%9D%EC%82%B0%EC%84%B1%EC%97%90-%EC%A7%84%EC%8B%AC%EC%9D%B8-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-Raycast-%EC%84%B8%ED%8C%85-%EC%97%BF%EB%B3%B4%EA%B8%B0-for-macOS)
   * [🍎 맥북 4년차, 최고의 무료앱 - YouTube](https://www.youtube.com/watch?v=6IAu1e4VX_4)
@@ -2224,7 +2224,7 @@ App
   * [Shotluma — Free AI App Store Screenshot Generator](https://shotluma.com/)
     * [shotluma: Open-source, local-first AI App Store screenshot editor](https://github.com/realZachi/shotluma)
     * [앱 출시할 때 스크린샷, 'Shotluma'로 빠르게 만들기 | 요즘IT](https://yozm.wishket.com/magazine/detail/3973)
-    * 앱 설명 몇 문장과 원본 캡처를 넣으면 AI가 여러 화면에 일관된 스토리로 App Store 스크린샷 세트를 구성—비트맵을 뿜는 게 아니라 에디터 API로 텍스트·도형·그라디언트·프레임을 만들어 모든 레이어가 생성 후에도 편집 가능. iPhone 17 Pro 7종 목업(원근·코너 마스킹), 템플릿 4종, 도형·아이콘·배경 편집, 1290×2796·1242×2688 PNG를 규격별 폴더로 ZIP 내보내기. 계정·서버 없이 브라우저 IndexedDB에 로컬 저장, Google·Qwen·OpenAI·Anthropic·xAI 키를 직접 넣어 사용. TypeScript, MIT, 138 stars
+    * 앱 설명 몇 문장과 원본 캡처를 넣으면 AI가 여러 화면에 일관된 스토리로 App Store 스크린샷 세트를 구성—비트맵을 뿜는 게 아니라 에디터 API로 텍스트·도형·그라디언트·프레임을 만들어 모든 레이어가 생성 후에도 편집 가능. iPhone 17 Pro 7종 목업(원근·코너 마스킹), 템플릿 4종, 도형·아이콘·배경 편집, 1290×2796·1242×2688 PNG를 규격별 폴더로 ZIP 내보내기. 계정·서버 없이 브라우저 IndexedDB에 로컬 저장, Google·Qwen·OpenAI·Anthropic·xAI 키를 직접 넣어 사용
     * 요즘IT 사용기: 가입 없이 바로 시작, 꼭 필요한 기능만 있어 학습 시간이 0에 수렴, 1인 메이커·소규모 팀에 적합. 규격·기본 배치는 도구에 맡기고 핵심 메시지·화면 순서·브랜드 디테일은 사람이 판단해야 하며, 글꼴·간격을 엄격히 맞춰야 하면 Figma가 나을 수 있다는 단서
   * Snagit
   * [Tendedero · Screenshots, hung out to dry](https://tendedero.app/)
@@ -2236,11 +2236,11 @@ App
 * [sill: Any window from your Mac, live on your iPhone or iPad. Touch, Apple Pencil, trackpad and keys. Free, open source, no servers](https://github.com/Saffsanity/sill)
   * [Sill: windows from your Mac on your iPhone and iPad](https://getsill.app/)
   * [Sill: any window from your Mac, live on your iPhone and iPad. Free and open source - YouTube](https://www.youtube.com/watch?v=fJnNkfHLdFw)
-    * 1분 23초 소개 영상—창 하나 또는 데스크톱 전체를 한 탭으로 전환, 원하는 글자 크기, 클릭·스크롤·입력, 최대 120fps, Mac에서 숨긴 창도 iPad에선 계속 라이브, Wi-Fi·유선·직접·VPN 원격 연결, 구독·서버 없음
+    * 소개 영상—창 하나 또는 데스크톱 전체를 한 탭으로 전환, 원하는 글자 크기, 클릭·스크롤·입력, 최대 120fps, Mac에서 숨긴 창도 iPad에선 계속 라이브, Wi-Fi·유선·직접·VPN 원격 연결, 구독·서버 없음
   * [Sill: Your Whole Mac on Your iPhone in a 3.3 MB Free App - YouTube](https://www.youtube.com/watch?v=EGwtQ2IuXG0)
-    * AwesomeFOSS 리뷰(6분 41초). Mac 앱 전체가 3.3MB 다운로드, 서드파티 의존성 0의 순수 Swift, 개발자 1명 585 커밋. 실제 사용감·랩톱 모드·내부 구조(ScreenCaptureKit→하드웨어 HEVC→TLS 1.3)·소스 빌드·수치·일반 원격 데스크톱 대비 차이·단점(the honest part) 순으로 소개—Sidecar의 역방향 무료 대안, Luna Display·Duet Display 대안으로 평가
+    * AwesomeFOSS 리뷰. Mac 앱 전체가 3.3MB 다운로드, 서드파티 의존성 0의 순수 Swift, 개발자 1명 585 커밋. 실제 사용감·랩톱 모드·내부 구조(ScreenCaptureKit→하드웨어 HEVC→TLS 1.3)·소스 빌드·수치·일반 원격 데스크톱 대비 차이·단점(the honest part) 순으로 소개—Sidecar의 역방향 무료 대안, Luna Display·Duet Display 대안으로 평가
   * Mac 창(또는 전체 데스크톱)을 iPhone·iPad에 띄워 터치·트랙패드·키보드·Apple Pencil로 조작하는 무료 오픈소스 앱. 메뉴바의 Sill for Mac이 ScreenCaptureKit으로 캡처→VideoToolbox 하드웨어 HEVC 인코딩→TLS 1.3로 기기에 직접 전송, 입력은 Accessibility로 마우스·키보드 이벤트 변환. 지연 시 프레임 큐잉 대신 드롭, 기기 미연결 시 캡처 없음
-  * 같은 네트워크·USB 케이블·Direct Wireless Connection, 외부에선 Tailscale 같은 자기 VPN이나 포트 포워딩(Remote Access)으로 연결—계정·서버·광고·트래킹 없음, 기기당 1회 페어링(코드 스캔). iPhone Duo 폴드 상태별 레이아웃. Apple silicon·macOS 14+, iOS/iPadOS 17+. Mac 앱은 공증 다운로드 또는 `brew install --cask saffsanity/sill/sill`, iOS 앱은 App Store 무료. Swift·SwiftUI, Apache-2.0
+  * 같은 네트워크·USB 케이블·Direct Wireless Connection, 외부에선 Tailscale 같은 자기 VPN이나 포트 포워딩(Remote Access)으로 연결—계정·서버·광고·트래킹 없음, 기기당 1회 페어링(코드 스캔). iPhone Duo 폴드 상태별 레이아웃. Apple silicon·macOS 14+, iOS/iPadOS 17+. Mac 앱은 공증 다운로드 또는 `brew install --cask saffsanity/sill/sill`, iOS 앱은 App Store 무료
 * [SketchyBar](https://felixkratz.github.io/SketchyBar/)
   * [SketchyBar: A highly customizable macOS status bar replacement](https://github.com/FelixKratz/SketchyBar)
 * [skhd: Simple hotkey daemon for macOS](https://github.com/koekeishiya/skhd)
@@ -2275,7 +2275,7 @@ App
   * [vorssaint-utils: Free and open-source macOS menu bar toolkit](https://github.com/vorssaint/vorssaint-utils)
   * [This App Fixes MacOS - YouTube](https://www.youtube.com/watch?v=s8dzlv4WuNk)
     * Rogi. Mac용 최고의 Microsoft PowerToys 대안이라 평가한 리뷰
-  * 무료 오픈소스 macOS 메뉴바 툴킷. Swift, 6.5k stars
+  * 무료 오픈소스 macOS 메뉴바 툴킷
 * [Warp: The terminal for the 21st century](https://www.warp.dev/)
   * [New *incredible* mac OS terminal! (warp + starship + zsh) - YouTube](https://www.youtube.com/watch?v=NfggT5enF4o)
   * [Warp Terminal — a reimagined terminal experience! - YouTube](https://www.youtube.com/watch?v=wdrjIHzGW74)
@@ -2295,7 +2295,7 @@ App
 * [Autokbisw - Automatic keyboard input source switcher](https://github.com/jeantil/autokbisw)
 * [gksdud: 빠릿빠릿한 macOS 한영 전환 유틸 | codingnoye](https://github.com/codingnoye/gksdud)
   * [gksdud - 씹힘 없고 빠릿빠릿한 Mac 한영 전환 | GeekNews](https://news.hada.io/topic?id=33788)
-  * Mac 한영 전환 시 글자가 하나씩 씹히는 고질병을 Karabiner 같은 복잡한 설정 없이 해결하는 것이 목표인 한영 키 유틸(이름은 '한영'의 두벌식 자판 그대로). Swift, MIT
+  * Mac 한영 전환 시 글자가 하나씩 씹히는 고질병을 Karabiner 같은 복잡한 설정 없이 해결하는 것이 목표인 한영 키 유틸(이름은 '한영'의 두벌식 자판 그대로)
 * karabiner [Hacking your keyboard with karabiner](https://blog.kaush.co/2019/12/25/hacking-your-keyboard/)
 * [kawa - A better input source switcher for OS X](https://github.com/utatti/kawa)
 * [kindaVim](https://kindavim.app/) Vim Mode for macOS
@@ -2468,7 +2468,7 @@ App
   * [GifGrabber - 화면 녹화에서 GIF 변환까지 한방에! 'GifGrabber'](http://macnews.tistory.com/1943)
   * loom [화면 캡처 및 녹화 프로그램 loom(룸) 소개 : 네이버 블로그](https://blog.naver.com/punchkorea/222694330420)
   * [openscreen: Create stunning demos for free — open-source alternative to Screen Studio](https://github.com/siddharthvaddem/openscreen)
-    * 워터마크·구독 없이 상업용까지 무료인 오픈소스 데모 녹화 도구. Screen Studio 대안. TypeScript, 39k+ stars
+    * 워터마크·구독 없이 상업용까지 무료인 오픈소스 데모 녹화 도구. Screen Studio 대안
   * [QuickCast - 화면 녹화와 공유를 원스톱으로 할 수 있는 심플한 스크린캐스트 앱 'QuickCast'](http://macnews.tistory.com/1952)
   * [Repeater - 키보드, 마우스 입력을 녹화하고 재생할 수 있는 매크로 프로그램 'Repeater'](http://macnews.tistory.com/1622)
   * [ScreenRecorder: ⏺️ A simple recording program with the ability to record screens and audio on your computer](https://github.com/akon47/ScreenRecorder)
@@ -2767,7 +2767,7 @@ App
 * [AES67 Stream Monitor - aes67.app](https://aes67.app/) Free and Open Source Audio over IP Monitoring App
 * [Adacious 리눅스 & 윈도 MP3 플레이어](https://sunyzero.tistory.com/297)
 * [ai-ffmpeg-cli: AI-powered CLI that translates natural language into safe, reviewable ffmpeg commands | d-k-patel](https://github.com/d-k-patel/ai-ffmpeg-cli/)
-  * "ffmpeg 명령 검색을 멈추고 원하는 걸 말하라"—자연어를 ffmpeg 명령으로 번역하되 실행 전에 미리 보여 주는 안전 우선 CLI(`aiclip`). 합리적 코덱·품질 기본값, 토큰 사용량·비용 추적, 터미널 UI. Python, MIT
+  * "ffmpeg 명령 검색을 멈추고 원하는 걸 말하라"—자연어를 ffmpeg 명령으로 번역하되 실행 전에 미리 보여 주는 안전 우선 CLI(`aiclip`). 합리적 코덱·품질 기본값, 토큰 사용량·비용 추적, 터미널 UI
 * [Apache OpenMeetings Project – Home](https://openmeetings.apache.org/) video conferencing, instant messaging, white board, collaborative document editing and other groupware tools
 * audacity [오픈소스 오디오 편집툴 : Audacity](https://jybaek.tistory.com/801)
 * [AudioKitSynthOne: AudioKit Synth One: Open-Source iOS Synthesizer App](https://github.com/AudioKit/AudioKitSynthOne)
@@ -2778,7 +2778,7 @@ App
 * [Auto-Editor — Automatically edit video and audio by analyzing where sections are silent or still and cut them out](https://auto-editor.com/)
   * [auto-editor: Effort free video editing!](https://github.com/WyattBlue/auto-editor)
   * 본 편집 전에 침묵 같은 "dead space"를 걷어내는 first pass를 자동화하는 CLI. `auto-editor video.mp4` 한 줄이 기본이고 `--edit` 방법으로 무엇을 기준으로 자를지 지정—기본은 오디오 음량(`audio:threshold=0.04`), 그 외 화면 움직임(`motion:threshold=0.02`)과 자막 기준. 트랙별로 다른 조건을 S-expression으로 조합 가능(`(or audio:stream=0 audio:threshold=10%,stream=1)`). `--margin`으로 컷 앞뒤에 여백을 넣어 편집 리듬을 조절(기본 0.2초, `0.3s,1.5sec`처럼 앞뒤 따로). CLI 외에 앱도 제공
-  * Nim으로 작성, Unlicense(퍼블릭 도메인), 5.3k stars. `npx skills add WyattBlue/auto-editor`로 에이전트 스킬 설치도 지원
+  * Nim으로 작성, Unlicense(퍼블릭 도메인). `npx skills add WyattBlue/auto-editor`로 에이전트 스킬 설치도 지원
 * [AutoFlip: An Open Source Framework for Intelligent Video Reframing](https://blog.research.google/2020/02/autoflip-open-source-framework-for.html)
   * [AutoFlip - 구글의 비디오 스마트 자르기 툴 | GeekNews](https://news.hada.io/topic?id=1523)
   * 가로(16:9, 4:3) 영상을 세로/정사각형 레이아웃으로 스마트 자르기. AI로 얼굴·주요 요소를 분석해 프레임 내 유지
@@ -2793,32 +2793,32 @@ App
 * Canva [이미지 편집 서비스 캔바(Canva)](https://www.44bits.io/ko/post/preparing-wtd-meetup-without-a-designer-nor-photoshop#%EC%9D%B4%EB%AF%B8%EC%A7%80-%ED%8E%B8%EC%A7%91-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%BA%94%EB%B0%94canva)
 * [Cap — Beautiful, shareable screen recordings](https://cap.so/)
   * [Cap: Open source Loom alternative. Beautiful, shareable screen recordings | CapSoftware](https://github.com/capsoftware/cap)
-  * Loom의 오픈소스 대안(Rust·Tauri, macOS·Windows·Linux 네이티브 앱+웹 대시보드, 24k stars). 화면·카메라·마이크를 녹화해 링크 공유 또는 영상 내보내기—녹화 중 업로드해 멈추는 순간 링크가 나오는 Instant Mode, 로컬 녹화 후 배경·줌·트리밍·캡션을 편집하는 Studio Mode. 저장은 Cap Cloud·자체 S3 호환 버킷·로컬·완전 셀프호스팅 중 선택, 비밀번호·커스텀 도메인·비공개 공유, 댓글·반응·전사·시청 분석·팀 워크스페이스, Cap AI가 제목·요약·챕터·캡션 자동 생성, Loom 영상 가져오기. 제품 데모·버그 리포트·온보딩·비동기 스탠드업용
+  * Loom의 오픈소스 대안(Rust·Tauri, macOS·Windows·Linux 네이티브 앱+웹 대시보드). 화면·카메라·마이크를 녹화해 링크 공유 또는 영상 내보내기—녹화 중 업로드해 멈추는 순간 링크가 나오는 Instant Mode, 로컬 녹화 후 배경·줌·트리밍·캡션을 편집하는 Studio Mode. 저장은 Cap Cloud·자체 S3 호환 버킷·로컬·완전 셀프호스팅 중 선택, 비밀번호·커스텀 도메인·비공개 공유, 댓글·반응·전사·시청 분석·팀 워크스페이스, Cap AI가 제목·요약·챕터·캡션 자동 생성, Loom 영상 가져오기. 제품 데모·버그 리포트·온보딩·비동기 스탠드업용
 * [ChatCut · AI Video Editor | Edit Videos with Prompts](https://chatcut.io/)
   * 프롬프트로 영상을 편집하는 AI 비디오 에디터
 * [Cleanup.pictures - Remove objects, people, text and defects from any picture for free](https://cleanup.pictures/)
   * [Cleanup Pictures - 사진에서 필요없는 부분 지우기 | GeekNews](https://news.hada.io/topic?id=5843)
 * [Clearcam: AI Detection and Search for CCTV Cameras](https://clearcam.org/)
   * [clearcam: Add object detection, tracking, mobile notifications, and search to any security camera | roryclear](https://github.com/roryclear/clearcam)
-  * 같은 네트워크의 RTSP 카메라에 객체 감지·추적·검색·AI 알림 요약(Qwen3 VL)을 더하는 오픈소스(Python+FFmpeg+tinygrad, M시리즈 Mac 권장, 2.1k stars). 침입자 감지·교통량 집계·특정 차량 식별을 클라우드 없이 내 컴퓨터에서 로컬 처리. 기본 소프트웨어 무료, 원격 보기·iOS/Android 앱 알림·클라우드 저장은 프리미엄 월 €1
+  * 같은 네트워크의 RTSP 카메라에 객체 감지·추적·검색·AI 알림 요약(Qwen3 VL)을 더하는 오픈소스(Python+FFmpeg+tinygrad, M시리즈 Mac 권장). 침입자 감지·교통량 집계·특정 차량 식별을 클라우드 없이 내 컴퓨터에서 로컬 처리. 기본 소프트웨어 무료, 원격 보기·iOS/Android 앱 알림·클라우드 저장은 프리미엄 월 €1
 * [cmdpxl: totally practical command-line image editor](https://github.com/knosmos/cmdpxl)
 * [Compositor – The Photoshop alternative for Mac](https://robbietilton.com/compositor)
   * [Compositor: The Photoshop alternative for Mac | robbietilton](https://github.com/robbietilton/Compositor)
-  * 무료 오픈소스 Mac 네이티브 이미지 편집 앱—"Photoshop은 너무 비싸고 GIMP는 흐름을 유지할 만큼 익숙하지 않아서 만들었다"는 동기로, 전문적 컴포지팅에 필요한 도구를 Photoshop 사용자에게 익숙한 감각으로 제공. Swift, MIT, 5.6k stars
+  * 무료 오픈소스 Mac 네이티브 이미지 편집 앱—"Photoshop은 너무 비싸고 GIMP는 흐름을 유지할 만큼 익숙하지 않아서 만들었다"는 동기로, 전문적 컴포지팅에 필요한 도구를 Photoshop 사용자에게 익숙한 감각으로 제공
 * [CompressO: Compress any video/image into a tiny size](https://compresso.codeforreal.com/)
   * [compressO: Convert any video/image into a tiny size. 100% free & open-source. Available for Mac, Windows & Linux | codeforreal1](https://github.com/codeforreal1/compressO)
-  * 100% 무료·오프라인·오픈소스 영상/이미지 압축 앱(Mac·Windows·Linux). TypeScript, AGPL-3.0, 4.7k stars
+  * 100% 무료·오프라인·오픈소스 영상/이미지 압축 앱(Mac·Windows·Linux)
 * [Concat: the free, open-source CapCut replacement](https://concat.standalones.org/)
   * [concat: The truly free, and open-source cross-platform CapCut replacement. Supports MCPs & API](https://github.com/jub0t/concat)
   * 자동 자막·TTS 보이스·배경 제거·키프레임·170+ 이펙트/필터/트랜지션/텍스트 애니메이션·타이틀·멀티트랙 컷 편집, 최대 4K 내보내기를 전부 로컬에서—워터마크·계정·구독 없음, 업로드 없음. Windows·macOS·Linux·Android·iOS, 앱 내 14개 언어. 라이브러리·모니터·인스펙터·타임라인 4패널을 자유 배치
-  * JSON-RPC·gRPC·MCP 개발자 API로 AI 에이전트가 편집 조작 가능. GitHub Releases 7.8만+ 다운로드(v0.2.7). Rust, AGPL-3.0
+  * JSON-RPC·gRPC·MCP 개발자 API로 AI 에이전트가 편집 조작 가능. GitHub Releases 7.8만+ 다운로드(v0.2.7)
 * [Crafting Apps: open-source creative tools | ArtCraft](https://getartcraft.com/apps)
   * [artcraft: ArtCraft is an intentional crafting engine for artists, designers, and filmmakers](https://github.com/storytold/artcraft)
-    * "The IDE for artists"—프롬프트 한 줄로 뽑는 대신 2D 캔버스에서 합성하고 3D로 장면을 연출한 뒤 모델을 골라 생성하는, 정밀하고 반복 가능한 '크래프팅' 중심의 AI 이미지·영상 제작 IDE. Image to Location(가상 배우를 같은 공간에 배치해 여러 샷 기획)·2D/3D 이미지 컴포지팅·Image to 3D Mesh·캐릭터 포징·키트배싱 씬 블로킹·마네킹 포즈로 캐릭터 정체성 전이·배경 제거·마스크/인페인팅 캔버스 편집·Image to Video. 자체 카탈로그 62모델(이미지 16: Nano Banana·GPT Image·FLUX·Seedream / 영상 25: Seedance·Kling·Veo·Sora·Vidu·MiniMax H3·Flux 3 / 음악·사운드 5: Suno·Seed Audio / 3D 메시 11·월드)+Grok Imagine·Midjourney·Sora·World Labs Marble(가우시안 스플랫) 프로바이더. 위 Crafting Apps 7종을 만든 팀의 본 제품. Rust, Apache-2.0, 13k stars
+    * "The IDE for artists"—프롬프트 한 줄로 뽑는 대신 2D 캔버스에서 합성하고 3D로 장면을 연출한 뒤 모델을 골라 생성하는, 정밀하고 반복 가능한 '크래프팅' 중심의 AI 이미지·영상 제작 IDE. Image to Location(가상 배우를 같은 공간에 배치해 여러 샷 기획)·2D/3D 이미지 컴포지팅·Image to 3D Mesh·캐릭터 포징·키트배싱 씬 블로킹·마네킹 포즈로 캐릭터 정체성 전이·배경 제거·마스크/인페인팅 캔버스 편집·Image to Video. 자체 카탈로그 62모델(이미지 16: Nano Banana·GPT Image·FLUX·Seedream / 영상 25: Seedance·Kling·Veo·Sora·Vidu·MiniMax H3·Flux 3 / 음악·사운드 5: Suno·Seed Audio / 3D 메시 11·월드)+Grok Imagine·Midjourney·Sora·World Labs Marble(가우시안 스플랫) 프로바이더. 위 Crafting Apps 7종을 만든 팀의 본 제품
   * [storytold · GitHub](https://github.com/storytold)
   * [Someone Just Rebuilt Adobe for Free, and Claude Can Run Them All (7 apps tested) - Jay E | RoboNuggets - YouTube](https://www.youtube.com/watch?v=Fuo1i_-9Frc)
-  * ArtCraft 팀이 순수 Rust로 만든 무료 오픈소스 네이티브 창작 앱 7종. PhotoCraft(Photoshop 클린룸 재구현, 30.6k stars)·FilmCraft(Premiere Pro, 6k)·PDFCraft(Acrobat, 5.3k)는 Apache-2.0으로 공개됐고, VectorCraft(벡터 일러스트)·EffectCraft(모션 그래픽)·LightCraft(사진)·DesignCraft(페이지 레이아웃)까지 이미지 편집·벡터·영상·사진·PDF·모션 그래픽·레이아웃을 묶음
-  * 영상(9분)은 PhotoCraft·FilmCraft·EffectCraft를 직접 써 보고 나머지 4개를 훑은 뒤, Claude가 이 앱들을 대신 조작할 수 있는지와 그래도 Adobe가 필요한지를 따져 봄
+  * ArtCraft 팀이 순수 Rust로 만든 무료 오픈소스 네이티브 창작 앱 7종. PhotoCraft(Photoshop 클린룸 재구현)·FilmCraft(Premiere Pro, 6k)·PDFCraft(Acrobat, 5.3k)는 Apache-2.0으로 공개됐고, VectorCraft(벡터 일러스트)·EffectCraft(모션 그래픽)·LightCraft(사진)·DesignCraft(페이지 레이아웃)까지 이미지 편집·벡터·영상·사진·PDF·모션 그래픽·레이아웃을 묶음
+  * 영상은 PhotoCraft·FilmCraft·EffectCraft를 직접 써 보고 나머지 4개를 훑은 뒤, Claude가 이 앱들을 대신 조작할 수 있는지와 그래도 Adobe가 필요한지를 따져 봄
 * [다운튜브 DownTube - 동영상 다운로드 프로그램 4K/8K 가능](http://downtube.org/)
 * [Durdraw - ANSI, ASCII and Unicode Art Animation Studio for Linux](https://durdraw.org/)
   * [durdraw: Versatile ASCII and ANSI Art text editor for drawing in the Linux/Unix/macOS terminal, with animation, 256 and 16 colors, Unicode and CP437, and customizable themes](https://github.com/cmang/durdraw/)
@@ -2833,7 +2833,7 @@ App
 * [Exposé - A simple static site generator for photoessays](https://github.com/Jack000/Expose)
 * [fastocloud: Self-hosted IPTV/NVR/CCTV/Video service](https://github.com/fastogt/fastocloud)
 * [ff-tracking: A virtual camera films an AI agent's screen while a tracker locks onto every glyph — two fframes passes, one SkSL shader, all sound synthesized | mrsarac](https://github.com/mrsarac/ff-tracking)
-  * 터미널에서 에이전트가 `thinking…`→`reading 14 files`→`tool_call: render_frame()`→`✓ 0 problems`→`Done`으로 생각을 내보이는 동안 컴퓨터 비전 트래커가 새로 찍힌 글자를 따라가고 한순간도 멈추지 않는 카메라가 화면을 근접 촬영하는 6초 영상—푸티지도 스톡 오디오도 없이 모든 픽셀과 소리가 코드에서 나옴(Rust 영상 프레임워크 fframes 2패스+SkSL 셰이더, 사운드 합성). 화면의 `x: 1403 y: 559` 라벨은 그 프레임에서 박스의 실제 픽셀 좌표. 2부 ff-unmute는 코드로 쓴 음악과 소리에서 측정한 숫자. Rust, MIT
+  * 터미널에서 에이전트가 `thinking…`→`reading 14 files`→`tool_call: render_frame()`→`✓ 0 problems`→`Done`으로 생각을 내보이는 동안 컴퓨터 비전 트래커가 새로 찍힌 글자를 따라가고 한순간도 멈추지 않는 카메라가 화면을 근접 촬영하는 6초 영상—푸티지도 스톡 오디오도 없이 모든 픽셀과 소리가 코드에서 나옴(Rust 영상 프레임워크 fframes 2패스+SkSL 셰이더, 사운드 합성). 화면의 `x: 1403 y: 559` 라벨은 그 프레임에서 박스의 실제 픽셀 좌표. 2부 ff-unmute는 코드로 쓴 음악과 소리에서 측정한 숫자
 * Files [Single-file PHP file manager, browser and photo gallery | Files](https://www.files.gallery/)
 * [filmora9 - Discover the power of storytelling with Filmora](https://filmora.wondershare.com)
 * [Filmulator - A simple raw photo editor based on the process of developing film](https://filmulator.org/)
@@ -2850,8 +2850,8 @@ App
   * [HyperFrames - HTML로 비디오를 만드는 오픈소스 프레임워크 | GeekNews](https://news.hada.io/topic?id=28961)
   * [HyperFrames란? HTML과 AI 에이전트로 만드는 자동화 영상 제작 프레임워크 | digitalbourgeois](https://digitalbourgeois.tistory.com/3570)
   * [herk-edit-kit: Herk Edit Kit by Nate Herk: edit videos, reels, and YouTube Shorts with Codex or Claude Code. 15 skills, transcript-driven cuts, storytelling, 406 motion-graphics cards, and HyperFrames templates](https://github.com/nateherkai/herk-edit-kit)
-    * Nate Herk의 영상 편집 키트(구 HyperFrames Student Kit, 2.1k★). 내 촬영본을 넣고 Codex `$edit-video`·Claude Code `/edit-video`로 전사→무음·실수 컷→스토리 구성→HyperFrames+GSAP 모션 그래픽까지 에이전트가 편집. 스킬 15개(edit-video·cut-silences·cut-mistakes·video-storytelling·short-form-edit 9:16 릴·motion-showreel 비트 그리드 쇼릴 등), 2가지 스타일 모션 카드 406장, 다크 그래프페이퍼·글라스 팝아웃 씬 템플릿, 편집 플레이북. 전사는 ElevenLabs Scribe(Whisper 대체 가능)·에셋 생성은 Kie.ai 선택. Node 22+·FFmpeg·Chrome. README에 에이전트가 처음부터 끝까지 편집한 릴 예시
-  * React 대신 순수 HTML/CSS+data attribute로 영상 구성. AI 에이전트 친화적, 빌드 단계 불필요. GSAP/Lottie/Three.js 등 커스텀 런타임 통합 Frame Adapter 패턴. Apache 2.0
+    * Nate Herk의 영상 편집 키트(구 HyperFrames Student Kit). 내 촬영본을 넣고 Codex `$edit-video`·Claude Code `/edit-video`로 전사→무음·실수 컷→스토리 구성→HyperFrames+GSAP 모션 그래픽까지 에이전트가 편집. 스킬 15개(edit-video·cut-silences·cut-mistakes·video-storytelling·short-form-edit 9:16 릴·motion-showreel 비트 그리드 쇼릴 등), 2가지 스타일 모션 카드 406장, 다크 그래프페이퍼·글라스 팝아웃 씬 템플릿, 편집 플레이북. 전사는 ElevenLabs Scribe(Whisper 대체 가능)·에셋 생성은 Kie.ai 선택. Node 22+·FFmpeg·Chrome. README에 에이전트가 처음부터 끝까지 편집한 릴 예시
+  * React 대신 순수 HTML/CSS+data attribute로 영상 구성. AI 에이전트 친화적, 빌드 단계 불필요. GSAP/Lottie/Three.js 등 커스텀 런타임 통합 Frame Adapter 패턴
 * [Immich](https://immich.app/)
   * [Don't Let Apple & Google Harvest Your Photos, Use Immich to Self-Host Your Own Cloud! - YouTube](https://www.youtube.com/watch?v=URJiQb8PwWo)
   * [스마트폰 사진 용량 부족할 때, 미니PC를 사진 백업 서버로 활용하기 (N100 PC immich 서버 설치방법) - YouTube](https://www.youtube.com/watch?v=nQHn03HEZCo)
@@ -2871,11 +2871,11 @@ App
   * 로컬 퍼스트 만화 번역 데스크톱 앱. ML 기반 객체 감지·OCR·인페인팅·LLM 번역 자동화. Rust 기반, Windows/macOS/Linux
 * [Lap — Private Local Photo Manager](https://julyx10.github.io/lap/)
   * [julyx10/lap: An offline-first photo manager for large local libraries](https://github.com/julyx10/lap)
-  * 로컬 퍼스트·프라이버시 중심 오픈소스 사진 관리 데스크톱 앱(macOS/Windows/Linux). 클라우드 없이 기존 폴더 구조 그대로 사용, 온디바이스 로컬 AI 검색(텍스트·유사 이미지·얼굴 클러스터링·50개+ 언어 멀티링궐). Apple Live Photos·RAW+JPEG/HEIC 페어링, 룰 기반 스마트 앨범, 4분할 컬링 뷰어, 중복 탐지, 기본 편집(크롭·회전·리사이즈), 60개+ 포맷 지원. Tauri+Rust·Vue·SQLite·ONNX Runtime·CLIP·InsightFace. GPL-3.0
+  * 로컬 퍼스트·프라이버시 중심 오픈소스 사진 관리 데스크톱 앱(macOS/Windows/Linux). 클라우드 없이 기존 폴더 구조 그대로 사용, 온디바이스 로컬 AI 검색(텍스트·유사 이미지·얼굴 클러스터링·50개+ 언어 멀티링궐). Apple Live Photos·RAW+JPEG/HEIC 페어링, 룰 기반 스마트 앨범, 4분할 컬링 뷰어, 중복 탐지, 기본 편집(크롭·회전·리사이즈), 60개+ 포맷 지원. Tauri+Rust·Vue·SQLite·ONNX Runtime·CLIP·InsightFace
 * [LibreTV: 一分钟搭建影视站，支持Docker等部署方式 | LibreSpark](https://github.com/LibreSpark/LibreTV)
-  * 1분 안에 띄우는 무료 온라인 영상 통합 검색·시청 플랫폼의 Next.js 15 이전판—App Router+TypeScript+Tailwind, ArtPlayer+hls.js 재생 코어, 라이트·다크 테마, Docker 등 배포 방식 지원. 문서(아키텍처·배포·설정) 별도 제공, AGPL-3.0, 20k stars
+  * 1분 안에 띄우는 무료 온라인 영상 통합 검색·시청 플랫폼의 Next.js 15 이전판—App Router+TypeScript+Tailwind, ArtPlayer+hls.js 재생 코어, 라이트·다크 테마, Docker 등 배포 방식 지원. 문서(아키텍처·배포·설정) 별도 제공
 * [llmpeg: AI-powered FFmpeg command generator. Describe your video task in plain English, get the perfect command | ali-master](https://github.com/ali-master/llmpeg/)
-  * 영상 작업을 영어로 설명하면 FFmpeg 명령을 만들어 주는 CLI. TypeScript, MIT
+  * 영상 작업을 영어로 설명하면 FFmpeg 명령을 만들어 주는 CLI
 * [Lottielab | Create and Edit Lottie Animations](https://www.lottielab.com/)
   * [GIF보다 작고 또렷한 로티 애니메이션 제작 ‘Lottielab’ | 요즘IT](https://yozm.wishket.com/magazine/detail/2202/)
   * [Lottie Creator: 로티 애니메이션을 제작할 수 있는 웹 기반 무료 디자인 도구 | GeekNews](https://news.hada.io/topic?id=17094)
@@ -2910,7 +2910,7 @@ App
 * [Radium - The Music Editor](http://users.notam02.no/~kjetism/radium/)
 * [RapidRAW - The RAW Editor You've Been Waiting For](https://getrapidraw.com/)
   * [RapidRAW: A beautiful, non-destructive, and GPU-accelerated RAW image editor built with performance in mind | CyberTimon](https://github.com/CyberTimon/RapidRAW)
-  * 18세에 자신의 사진 워크플로용으로 시작한 Adobe Lightroom 대체 RAW 편집기. Rust+wgpu(WGSL) GPU 엔진으로 모든 보정을 실시간 처리, React+Tauri로 20MB 미만 패키지(Windows·macOS·Linux·Android). 사이드카 파일 비파괴 편집, AI 피사체·하늘·전경 마스킹, 톤 커브·HSL 믹서, 프리셋, 배치 처리, 이미지 라이브러리, 선택적 ComfyUI 백엔드/RapidRAW Cloud로 생성형 객체 제거. Darktable·RawTherapee만큼 성숙하진 않았다고 밝힘. AGPL-3.0, 10.5k stars
+  * 18세에 자신의 사진 워크플로용으로 시작한 Adobe Lightroom 대체 RAW 편집기. Rust+wgpu(WGSL) GPU 엔진으로 모든 보정을 실시간 처리, React+Tauri로 20MB 미만 패키지(Windows·macOS·Linux·Android). 사이드카 파일 비파괴 편집, AI 피사체·하늘·전경 마스킹, 톤 커브·HSL 믹서, 프리셋, 배치 처리, 이미지 라이브러리, 선택적 ComfyUI 백엔드/RapidRAW Cloud로 생성형 객체 제거. Darktable·RawTherapee만큼 성숙하진 않았다고 밝힘
 * [reclip: Self-hosted video and audio downloader](https://github.com/averygan/reclip)
   * yt-dlp 기반 셀프호스팅 비디오/오디오 다운로더. 1000+ 사이트(YouTube/TikTok/Instagram/X) 지원, MP4/MP3, 깔끔한 웹 UI
 * [remotion: 🎥 Create videos programmatically in React](https://github.com/JonnyBurger/remotion)
@@ -2927,9 +2927,9 @@ App
 * [R One-Seg: Haiku OS 用の ISDB-T ワンセグ受信アプリ | rainygirl](https://github.com/rainygirl/haiku-roneseg)
   * Haiku OS용 ISDB-T 원세그 수신 앱. 일본 내수용 Sony VAIO P(VGN-P70H)에 내장된 튜너 모듈을 대상으로, 수신·USB 링크 복호화·영상과 음성 재생을 모두 VAIO 안에서 처리. ISDB-T를 쓰는 일본·브라질 등에서만 동작하며 수신 테스트는 일본 원세그 방송으로만 함. Claude Code와 Codex로 개발. rtelevision과 같은 작성자. C++
 * [rtelevision: A player for free TV streams from around the world](https://github.com/rainygirl/rtelevision)
-  * 전 세계 무료 TV 스트림 재생기. C++, MIT
+  * 전 세계 무료 TV 스트림 재생기
 * [SeeCut: An AI editor that watches its own cut: talking-head / AI-avatar video → auto-edited short video | YeJe-cpu](https://github.com/yeje-cpu/seecut)
-  * 디지털 휴먼·실제 사람의 세로 토킹헤드 영상을 "온라인 감성(网感)" 모션 그래픽 숏폼으로 자동 정밀 편집하는 Claude Code용 스킬(`/seecut 素材：<폴더>`, JavaScript, 410 stars, macOS에서만 검증). 에이전트가 소재를 이해하고 발언에 맞는 **진짜 증거**(실제 웹페이지·UI·사례 스크린샷, 가짜 화면 금지)를 찍어 카드·손그림 강조·인물 전체화면/소창 전환을 디자인 토큰→컴포넌트→연출 결정표→컷별 시공서 체계로 편성해 HyperFrames로 렌더링. 핵심은 **AI가 결과 영상을 직접 보고 자가 품질 검사·반복**—프레임 몇 장이 아니라 Antigravity CLI로 Gemini가 영상 자체를 보고, 절대 점수는 신뢰할 수 없어 두 버전을 자리 바꿔 두 번 비교해 모두 이겨야 채택, 최대 3버전. 25초 샘플 1편에 약 1시간
+  * 디지털 휴먼·실제 사람의 세로 토킹헤드 영상을 "온라인 감성(网感)" 모션 그래픽 숏폼으로 자동 정밀 편집하는 Claude Code용 스킬(`/seecut 素材：<폴더>`, JavaScript, macOS에서만 검증). 에이전트가 소재를 이해하고 발언에 맞는 **진짜 증거**(실제 웹페이지·UI·사례 스크린샷, 가짜 화면 금지)를 찍어 카드·손그림 강조·인물 전체화면/소창 전환을 디자인 토큰→컴포넌트→연출 결정표→컷별 시공서 체계로 편성해 HyperFrames로 렌더링. 핵심은 **AI가 결과 영상을 직접 보고 자가 품질 검사·반복**—프레임 몇 장이 아니라 Antigravity CLI로 Gemini가 영상 자체를 보고, 절대 점수는 신뢰할 수 없어 두 버전을 자리 바꿔 두 번 비교해 모두 이겨야 채택, 최대 3버전. 25초 샘플 1편에 약 1시간
   * 3단계 파이프라인: ①디지털 휴먼(HeyGen AV5 아바타+더우바오 TTS, 내장 음성은 가짜 느낌이라 교체) ②정밀 편집(핵심) ③선택적으로 剪映(CapCut 중국판) 분층 초안으로 밀어 트랙별 미세 조정. 필요 환경: 코딩 에이전트, Antigravity CLI(`agy`, Google 계정 지역 제한), HyperFrames CLI, ffmpeg·Node 22+·faster-whisper·playwright-core
 * [Shotcut - Home](https://shotcut.org/)
   * [Shotcut - a free, open source, cross-platform video editor](https://github.com/mltframework/shotcut)
@@ -2946,7 +2946,7 @@ App
   * Pivot Animator의 현대적 후계를 표방하는 스틱 피겨 애니메이션 앱(Windows·Linux·브라우저 app.stykanimate.com, 2026-10-18 GPL-3.0 공개, JavaScript/Electron+Python 사이드카). .piv/.stk·Stick Nodes 파일을 열고 디코딩·편집·렌더링 전부 로컬. 손·발 IK와 3D 피겨, 선·원·다각형·텍스트·이미지로 피겨 제작, Pivot식 Simple/레이어·키·이징 Advanced 이중 타임라인, 모션 패스·어니언 스킨·카메라 팔로우, 파티클(폭발·오라·빔·연기)과 브러시, 커뮤니티 라이브러리, 27개 언어·터치 UI. MP4(YouTube·Shorts·TikTok 프리셋)·투명 WebM·GIF·APNG·PNG/JPEG/SVG·.piv/.stk 내보내기
 * [TiXL — Open Source Motion GFX](https://tixl.app/)
   * [tixl: TiXL is an open source software to create realtime motion graphics](https://github.com/tixl3d/tixl)
-  * Tooll 4의 새 이름—실시간 렌더링, 그래프 기반 프로시저럴 생성, 선형 키프레임 애니메이션 사이의 접점을 노린 무료 오픈소스 모션 그래픽 툴킷(설치 작품·라이브 퍼포먼스·VJ). 오디오 반응 VJ 콘텐츠, 파라미터 탐색 인터페이스, 키프레임+자동화 조합. 테크니컬 아티스트는 프래그먼트·컴퓨트 셰이더 개발, MIDI 컨트롤러·센서·OSC·Spout 입력 추가 가능. 4.1에서 에셋 워크플로 재작성·새 오디오 파이프라인·Mediapipe 통합·MSDF 변환. C#, MIT, 5.2k stars
+  * Tooll 4의 새 이름—실시간 렌더링, 그래프 기반 프로시저럴 생성, 선형 키프레임 애니메이션 사이의 접점을 노린 무료 오픈소스 모션 그래픽 툴킷(설치 작품·라이브 퍼포먼스·VJ). 오디오 반응 VJ 콘텐츠, 파라미터 탐색 인터페이스, 키프레임+자동화 조합. 테크니컬 아티스트는 프래그먼트·컴퓨트 셰이더 개발, MIDI 컨트롤러·센서·OSC·Spout 입력 추가 가능. 4.1에서 에셋 워크플로 재작성·새 오디오 파이프라인·Mediapipe 통합·MSDF 변환
 * [Trangram](https://www.trangram.com/)
   * [Tangram - 웹기반 무료 애니메이션 편집기 | GeekNews](https://news.hada.io/topic?id=13778)
 * VLC
@@ -2960,7 +2960,7 @@ App
   * [브라우저 데모를 MP4 영상으로 자동 녹화하는 CLI 도구 | GeekNews](https://news.hada.io/topic?id=28335)
   * JSON 설정으로 클릭·타이핑·드래그 등 액션 정의, 헤드리스 Chrome이 ~60fps로 캡처 후 ffmpeg 인코딩. MP4, GIF, WebM 출력
 * [yoinks: yoink any video from your terminal. no shady ads | pablostanley](https://github.com/pablostanley/yoinks)
-  * YouTube·X·Instagram·Threads·TikTok 등 1,800+ 사이트의 영상을 터미널에서 내려받는 CLI—URL을 붙이고 해상도(예상 파일 크기 표시) 또는 mp3 오디오만 고르면 끝, 가짜 다운로드 버튼·팝업·리다이렉트 없음. `npm i -g yoinks` 또는 `npx yoinks`(Node 18+), 첫 실행 시 yt-dlp 독립 바이너리를 `~/.yoinks/bin`에 받아 Python 불필요, ffmpeg는 PATH 또는 번들된 ffmpeg-static. Ink(터미널용 React) 풀스크린 UI로 키보드·마우스 모두 지원, 터미널 전경·배경색을 따르는 auto 테마, 결과는 `~/Downloads`. 로드맵: 피커를 건너뛰는 `--best`/`--mp3`, 출력 폴더, 플레이리스트, 클립보드 감지. TypeScript, MIT, 6.6k stars
+  * YouTube·X·Instagram·Threads·TikTok 등 1,800+ 사이트의 영상을 터미널에서 내려받는 CLI—URL을 붙이고 해상도(예상 파일 크기 표시) 또는 mp3 오디오만 고르면 끝, 가짜 다운로드 버튼·팝업·리다이렉트 없음. `npm i -g yoinks` 또는 `npx yoinks`(Node 18+), 첫 실행 시 yt-dlp 독립 바이너리를 `~/.yoinks/bin`에 받아 Python 불필요, ffmpeg는 PATH 또는 번들된 ffmpeg-static. Ink(터미널용 React) 풀스크린 UI로 키보드·마우스 모두 지원, 터미널 전경·배경색을 따르는 auto 테마, 결과는 `~/Downloads`. 로드맵: 피커를 건너뛰는 `--best`/`--mp3`, 출력 폴더, 플레이리스트, 클립보드 감지
 * [YoutubeCLI](https://github.com/icitry/YoutubeCLI)
   * [Can I Run Youtube Entirely From My Terminal? (No Browser) - YouTube](https://www.youtube.com/watch?v=CYNpdmgwNTM)
 * [**youtube-dl - Command-line program to download videos from YouTube.com and other video sites http://ytdl-org.github.io/youtube-dl **](https://github.com/ytdl-org/youtube-dl)
@@ -2987,7 +2987,7 @@ App
   * 뉴스 수집부터 스크립트 생성, AI 비주얼, 보이스오버, 자막, 업로드까지 YouTube Shorts 제작 전 과정 자동화 파이프라인
 * [YTPro | Youtube client with older Android version support, background player, Google Gemini and many more features](https://prateek.is-a.dev/YTPro/)
   * [YTPro: Youtube client with older Android version support, background player, Google Gemini ✨ and many more features](https://github.com/prateek-chaubey/YTPro)
-  * 구버전 안드로이드 지원 YouTube 클라이언트. 백그라운드 재생, 광고/디스라이크 표시, 다운로더, Google Gemini 통합 등. JavaScript, MIT, 2.5K stars
+  * 구버전 안드로이드 지원 YouTube 클라이언트. 백그라운드 재생, 광고/디스라이크 표시, 다운로더, Google Gemini 통합 등
 * [YT-Spammer-Purge: Allows you easily scan for and delete scam comments using several methods](https://github.com/ThioJoe/YT-Spammer-Purge)
   * [YT-Spammer-Purge : 유튜브 스팸댓글 자동 삭제 도구 | GeekNews](https://news.hada.io/topic?id=6324)
 * [ytm-player: Full-featured YouTube Music player for the terminal with vim-style keybindings](https://github.com/peternaame-boop/ytm-player)
@@ -3012,7 +3012,7 @@ App
 * [AppFlowy.IO](https://www.appflowy.io/) notion alternative, implemented by rust
   * [AppFlowy — AI collaborative workspace](https://appflowy.com/)
   * [AppFlowy: Bring projects, wikis, and teams together with AI. The AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative | AppFlowy-IO](https://github.com/appflowy-io/appflowy)
-  * 2026-10 현황(Dart/Flutter+Rust, 78k stars): 프로젝트·위키·팀을 AI와 함께 묶는 협업 워크스페이스로 포지셔닝—데이터 통제권을 잃지 않는 오픈소스 Notion 대안, 도메인은 appflowy.com
+  * 프로젝트·위키·팀을 AI와 함께 묶는 협업 워크스페이스로 포지셔닝—데이터 통제권을 잃지 않는 오픈소스 Notion 대안, 도메인은 appflowy.com
 * [Boostnote, the opensource note app for developer. https://b00st.io](https://github.com/BoostIO/Boostnote)
 * [Briefer](https://briefer.cloud/)
   * [Briefer – 일정, SQL, 내장 LLM이 포함된 멀티플레이어 노트북 | GeekNews](https://news.hada.io/topic?id=16012)
@@ -3046,12 +3046,12 @@ App
 * [Loglike - 생각날 때마다 바로, 타임라인 일기/메모 | GeekNews](https://news.hada.io/topic?id=23371)
 * [Memos — Open-Source Self-Hosted Notes](https://usememos.com/)
   * [memos: A modern, open-source, self-hosted knowledge management and note-taking platform](https://github.com/usememos/memos)
-  * 마크다운 네이티브 셀프호스팅 타임라인 메모. 폴더·워크스페이스·제목 결정 없이 즉시 기록. 프라이빗 피드 형태. Docker로 Raspberry Pi/VPS/클라우드 배포, 태그·검색, MIT
+  * 마크다운 네이티브 셀프호스팅 타임라인 메모. 폴더·워크스페이스·제목 결정 없이 즉시 기록. 프라이빗 피드 형태. Docker로 Raspberry Pi/VPS/클라우드 배포, 태그·검색
 * [memotron.io](https://memotron.io/)
   * [Memotron - The Personal Knowledge Management (PKM) app - YouTube](https://www.youtube.com/watch?v=SeWdndc7y4A)
 * [mini-diarium: A local-only journal with serious encryption. Free, open source, and never touches the internet | fjrevoredo](https://github.com/fjrevoredo/mini-diarium)
   * [Mini Diarium: 인터넷 연결 없는 로컬 암호화 저널 애플리케이션의 구조와 보안 설계 | digitalbourgeois](https://digitalbourgeois.tistory.com/2798)
-  * 인터넷에 전혀 연결되지 않는 로컬 전용 일기 앱—AES-256-GCM 암호화 + 키 파일 기반 인증(X25519)으로 데이터 유출을 구조적으로 차단하는 '진짜 로컬 퍼스트' 설계. TypeScript, MIT
+  * 인터넷에 전혀 연결되지 않는 로컬 전용 일기 앱—AES-256-GCM 암호화 + 키 파일 기반 인증(X25519)으로 데이터 유출을 구조적으로 차단하는 '진짜 로컬 퍼스트' 설계
 * [nb: CLI plain-text note-taking, bookmarking, and archiving with encryption, filtering and search, Git-backed versioning and syncing, Pandoc-backed conversion, and more in a single portable script](https://github.com/xwmx/nb)
 * [Nimbus Note - One place to manage all your information | knowledge base | tasks | projects | etc](https://nimbusweb.me/)
   * [에버노트의 새로운 대안?이 될 수 있는 님부스 노트를 소개합니다. : 클리앙](https://www.clien.net/service/board/use/15793333)
@@ -3152,9 +3152,9 @@ App
   * [Alexandrie: 📚 The open-source, offline-first Notion, Obsidian & Confluence alternative. Advanced Markdown, multi-tenant teams, OIDC/SSO, and local S3 backups. Deploy in one command | Smaug6739](https://github.com/Smaug6739/Alexandrie)
   * [Managed Alexandrie as a Service | Elestio](https://elest.io/open-source/alexandrie)
   * [Alexandrie: Free Open Source Markdown Notes App (Notion & Obsidian Alternative) - YouTube](https://www.youtube.com/watch?v=QTUHHPXlzWQ)
-    * Elestio(2026-10-16, 10분). Elestio로 설치 후 대시보드·워크스페이스·마크다운 에디터·CDN·커맨드 센터·카테고리/태그·가져오기/내보내기·팀·PWA·UI 커스터마이즈·스니펫 순으로 기능 투어
+    * Elestio. Elestio로 설치 후 대시보드·워크스페이스·마크다운 에디터·CDN·커맨드 센터·카테고리/태그·가져오기/내보내기·팀·PWA·UI 커스터마이즈·스니펫 순으로 기능 투어
   * Smaug(개인 개발자)가 자기 용도로 만들어 수년간 유지하는 무료·오픈소스·광고/추적 없는 셀프호스팅 마크다운 워크스페이스—노트·지식 베이스·협업·공개 문서. 문법 강조·라이브 프리뷰·표·코드·KaTeX 수식·컬러 콜아웃 에디터, 중첩 폴더·워크스페이스·태그, 밀리초 전문 검색(⌘K), 내장 CDN 파일 업로드, 다크/라이트·문서 테마·아이콘 커스터마이즈, 권한 관리 공유와 원클릭 공개 읽기 전용 페이지(docs.yoursite.com)
-  * 오프라인 우선 Notion·Obsidian·Confluence 대안. 멀티테넌트 팀·중첩 카테고리, OIDC/SSO(네이티브 로그인 비활성화 가능), 번들 RustFS(S3 호환) 로컬 파일 저장·백업, 한 줄 명령 배포. Elestio 관리형은 월 $16부터. Vue, MIT
+  * 오프라인 우선 Notion·Obsidian·Confluence 대안. 멀티테넌트 팀·중첩 카테고리, OIDC/SSO(네이티브 로그인 비활성화 가능), 번들 RustFS(S3 호환) 로컬 파일 저장·백업, 한 줄 명령 배포. Elestio 관리형은 월 $16부터
 * athens research [Pioneering research. Self-hosted and multi-player](https://www.athensresearch.org/)
 * [BatNoter](https://batnoter.com/login)
   * [batnoter: An open source, markdown-based, self-hosted note taking webapp.](https://github.com/batnoter/batnoter)
@@ -3174,7 +3174,7 @@ App
 * [foam: A personal knowledge management and sharing system for VSCode](https://github.com/foambubble/foam)
   * [Foam — Your knowledge graph. For you and your AI](https://foam.md/)
   * [VS Code와 GitHub로 지식을 연결하는 오픈소스 지식 관리 시스템, Foam | digitalbourgeois](https://digitalbourgeois.tistory.com/3656)
-  * Markdown 문서를 Wikilink로 연결해 하나의 지식 베이스로 관리하는 무료 오픈소스 PKM(Roam 대안). VS Code+GitHub 기반이라 데이터를 사용자가 직접 소유—구독·벤더 락인·클라우드 없음. 그래프 시각화, 웹 게시 지원, "당신과 당신의 AI를 위한 지식 그래프". TypeScript, 17.4k stars
+  * Markdown 문서를 Wikilink로 연결해 하나의 지식 베이스로 관리하는 무료 오픈소스 PKM(Roam 대안). VS Code+GitHub 기반이라 데이터를 사용자가 직접 소유—구독·벤더 락인·클라우드 없음. 그래프 시각화, 웹 게시 지원, "당신과 당신의 AI를 위한 지식 그래프"
 * [Fongshen - Markdown with Ace example](http://simular.co/works/fongshen/)
 * [ghostwriter](https://wereturtle.github.io/ghostwriter/)
 * [hackmd.io](https://hackmd.io/) gist
@@ -3265,11 +3265,11 @@ App
   * Canvas
     * [Unlock the Power - Master Book Notes with Obsidian Canvas - YouTube](https://www.youtube.com/watch?v=sSFSFzgQ6vY)
   * [Agent Console: Obsidian plugin that runs AI agents right in your sidebar](https://community.obsidian.md/plugins/agent-console)
-    * vault를 AI 모델과 연결해 사이드바에서 에이전트 실행—이미 쓴 노트를 읽고 지식 그래프를 활용해 문서·슬라이드·코드를 함께 만들고 결과를 노트로 저장. 2.0: 퀵 프롬프트 칩, 세션 히스토리 전문 검색(복원·포크), 모든 에이전트에 Obsidian 브리핑 내장(위키링크·표·수식·Mermaid 기본 지원), 대화 중 에이전트 전환, 탭 undo·드래프트 보존, 메시지 큐잉, 완료 알림. Apache-2.0
+    * vault를 AI 모델과 연결해 사이드바에서 에이전트 실행—이미 쓴 노트를 읽고 지식 그래프를 활용해 문서·슬라이드·코드를 함께 만들고 결과를 노트로 저장. 2.0: 퀵 프롬프트 칩, 세션 히스토리 전문 검색(복원·포크), 모든 에이전트에 Obsidian 브리핑 내장(위키링크·표·수식·Mermaid 기본 지원), 대화 중 에이전트 전환, 탭 undo·드래프트 보존, 메시지 큐잉, 완료 알림
   * [Atlas VTT: A virtual tabletop inside Obsidian](https://atlas-vtt.dev/)
     * [atlas-vtt: Open Source virtual tabletop for Obsidian: battle maps, tokens, fog of war, dice, initiative and a separate player view](https://github.com/atlas-vtt/atlas-vtt)
     * [Obsidian Is Now a Free Virtual Tabletop | Atlas VTT - YouTube](https://www.youtube.com/watch?v=GlbPg4j7BGw)
-    * Obsidian 안에서 돌아가는 무료 오픈소스(AGPL-3.0) TTRPG 가상 테이블탑—배틀맵 이미지를 넣으면 사각/헥스 그리드 자동 인식, Fantasy Statblocks 크리처를 토큰으로 변환, 노트를 맵의 방·헥스에 핀, Tab으로 모험 노트+전체 크리처 스탯블록을 보는 DM 스크린, 전장의 안개, 플레이어용 두 번째 창(카메라 고정), 주사위 트레이·로그, 이니셔티브, 카운터·시계·타이머 위젯, 맵 안에 맵 중첩, 캠페인 통째 내보내기. D&D 5e·Pathfinder 2e·Daggerheart·Shadowdark·OSE·Call of Cthulhu·Cyberpunk RED 프리셋, 양피지풍 Atlas VTT 테마. 계정·광고·AI·텔레메트리 없이 모든 것이 vault 안 파일, 데스크톱 전용. 영상은 개발자의 25분 기능 투어(2026-09-28)
+    * Obsidian 안에서 돌아가는 무료 오픈소스(AGPL-3.0) TTRPG 가상 테이블탑—배틀맵 이미지를 넣으면 사각/헥스 그리드 자동 인식, Fantasy Statblocks 크리처를 토큰으로 변환, 노트를 맵의 방·헥스에 핀, Tab으로 모험 노트+전체 크리처 스탯블록을 보는 DM 스크린, 전장의 안개, 플레이어용 두 번째 창(카메라 고정), 주사위 트레이·로그, 이니셔티브, 카운터·시계·타이머 위젯, 맵 안에 맵 중첩, 캠페인 통째 내보내기. D&D 5e·Pathfinder 2e·Daggerheart·Shadowdark·OSE·Call of Cthulhu·Cyberpunk RED 프리셋, 양피지풍 Atlas VTT 테마. 계정·광고·AI·텔레메트리 없이 모든 것이 vault 안 파일, 데스크톱 전용. 영상은 개발자의 기능 투어
   * [awesome-obsidian-vault: Awesome list of obsidian vaults](https://github.com/obsidian-pkm-vault/awesome-obsidian-vault)
     * 큐레이션된 Obsidian vault 모음(43 항목+11 리소스+3 쇼케이스). 카테고리: 요리(Based.cooking·Grimgrains·HowToCook), 컴퓨터 사이언스(JavaScript Info·OSSU CS), Dev/디자인(System Design 101·dotnet API), 디지털 가든(MaggieAppleton·CyanVoxel), 문서화(Kepano Obsidian·Blue Book·Obsidian Hub), 엔지니어링·지식·개인 사이트·코스몰로지. 사전(Kiwix·Wiktionary·Wordnet)·치트시트(Anki·rstacruz). Hugo 등 정적 사이트 생성기 출처는 일부 호환 안 될 수 있음
   * [beautiful_pdf: Obsidian plugin: styled PDF export with profiles and preview](https://github.com/creative781/beautiful_pdf)
@@ -3312,10 +3312,10 @@ App
     * [obsidian-excalidraw-cli: A library to support Obsidian Excalidraw CLI development](https://github.com/zsviczian/obsidian-excalidraw-cli)
       * [Obsidian Excalidraw CLI: GPT-6 Luna vs 6.1 Sol (Full Workflow & Benchmark) | Zsolt's Visual Personal Knowledge Management - YouTube](https://www.youtube.com/watch?v=H64AW1l-ae4)
         * 플러그인 v2.29.0의 새 기능 CLI 소개—설정에서 Command Line Interface를 켜고 샌드박스 볼트를 만든 뒤 에이전트에 이 스킬 레포와 프롬프트·참조 이미지를 주면 됨. AI가 만든 래스터 인포그래픽을 100% 편집 가능한 네이티브 Excalidraw 캔버스(재사용 벡터 요소)로 다시 그리는 과제로 저가 GPT-6 Luna와 고지능 Codex GPT-6.1 Sol을 경주—Luna는 빠른 초안, Sol은 깔끔한 기하와 객체 재사용, 비전 피드백 루프로 반복, 속도·품질·비용 비교와 벡터를 스텐실 라이브러리에 저장
-      * 코딩 에이전트(Copilot·Codex·Claude 등)가 로컬 터미널→Obsidian CLI→Excalidraw 플러그인 경로로 볼트 안의 편집 가능한 드로잉을 발견·제어하도록 돕는 에이전트 킷(SKILL.md·AGENTS.md·예제·Node 헬퍼, AGPL-3.0)—별도 렌더러나 클라우드 서비스가 아니라 설치된 플러그인이 드로잉 생성·리비전 검사·저장·내보내기를 담당. 데스크톱 Obsidian 1.12.2+에서 Settings→General→Command line interface와 플러그인 CLI를 켜고, `doctor.mjs`나 `obsidian vault="…" obsidian-excalidraw-plugin:help|status|schema`로 읽기 전용 탐색부터 시작. Obsidian이 돌고 있는 컴퓨터의 터미널이어야 하며 클라우드·컨테이너 에이전트는 제어 불가, npm 의존성·API 키 없음
+      * 코딩 에이전트(Copilot·Codex·Claude 등)가 로컬 터미널→Obsidian CLI→Excalidraw 플러그인 경로로 볼트 안의 편집 가능한 드로잉을 발견·제어하도록 돕는 에이전트 킷(SKILL.md·AGENTS.md·예제·Node 헬퍼)—별도 렌더러나 클라우드 서비스가 아니라 설치된 플러그인이 드로잉 생성·리비전 검사·저장·내보내기를 담당. 데스크톱 Obsidian 1.12.2+에서 Settings→General→Command line interface와 플러그인 CLI를 켜고, `doctor.mjs`나 `obsidian vault="…" obsidian-excalidraw-plugin:help|status|schema`로 읽기 전용 탐색부터 시작. Obsidian이 돌고 있는 컴퓨터의 터미널이어야 하며 클라우드·컨테이너 에이전트는 제어 불가, npm 의존성·API 키 없음
   * [kplex: K-Plex — Obsidian graph view plugin (ExcaliBrain 2.0)](https://github.com/zsviczian/kplex)
     * [Meet K-Plex: The New Obsidian Graph View Plugin (ExcaliBrain 2.0) - YouTube](https://www.youtube.com/watch?v=pQbv5jSaW9Q)
-    * Zsolt(Excalidraw 플러그인 개발자)의 새 Obsidian 그래프 뷰 플러그인—ExcaliBrain의 후속(2.0). TypeScript, AGPL-3.0
+    * Zsolt(Excalidraw 플러그인 개발자)의 새 Obsidian 그래프 뷰 플러그인—ExcaliBrain의 후속(2.0)
   * [obsidian-excel-to-markdown-table: An Obsidian plugin to paste Excel data as Markdown table](https://github.com/ganesshkumar/obsidian-excel-to-markdown-table)
     * [Excel 데이터를 옵시디언 테이블로 - Excel to Markdown Table 플러그인](https://kaminik.tistory.com/entry/Excel-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC-%EC%98%B5%EC%8B%9C%EB%94%94%EC%96%B8-%ED%85%8C%EC%9D%B4%EB%B8%94%EB%A1%9C-Excel-to-Markdown-Table-%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8)
   * [obsidian-file-link: A plugin for the note taking app Obsidian to add better external file links to your notes](https://github.com/marcjulianschwarz/obsidian-file-link)
@@ -3336,12 +3336,12 @@ App
   * [Obsidian with Ollama - YouTube](https://www.youtube.com/watch?v=9YYB8a_ehc4)
   * [Osync-p: End-to-end encrypted vault sync plugin for Obsidian](https://github.com/KORThomasJeong/Osync-p)
     * [Heerak Jeong - Obsidian 동기화 플러그인 직접 개발 후기 | LinkedIn](https://www.linkedin.com/posts/heerak-jeong-556b7a79_github-korthomasjeongosync-p-share-7469261338922364928-ME7L/)
-    * 셀프호스팅 가능한 E2EE Obsidian 동기화 플러그인. AES-256-GCM 로컬 암호화+Argon2id 키 파생, 서버는 암호화 blob만 저장. Obsidian 실행/포커스 시 자동 동기화, 0.5초 내 반영. 이미지·오디오·비디오·PDF 개별 토글, 충돌 해결·버전 히스토리. Docker 셀프호스팅(MinIO+Postgres+API), Presigned URL 방식. MIT
+    * 셀프호스팅 가능한 E2EE Obsidian 동기화 플러그인. AES-256-GCM 로컬 암호화+Argon2id 키 파생, 서버는 암호화 blob만 저장. Obsidian 실행/포커스 시 자동 동기화, 0.5초 내 반영. 이미지·오디오·비디오·PDF 개별 토글, 충돌 해결·버전 히스토리. Docker 셀프호스팅(MinIO+Postgres+API), Presigned URL 방식
   * [PKM Project - RAG - Google Slides](https://docs.google.com/presentation/d/1T221IQ-6LllyzgIro3nsPfNxT41lK8XYRW4h59Xsjr4/edit?slide=id.p#slide=id.p)
     * [Study Group 발표 자료 - RAG의 이해와 Obsidian 적용 - PKM Project - My AI 2nd Brain - YouTube](https://www.youtube.com/watch?v=aM7Ensrqurs)
   * [Recall: A flexible and configurable spaced repetition plugin](https://community.obsidian.md/plugins/obsidian-recall)
     * [obsidian-recall](https://github.com/martin-jw/obsidian-recall)
-    * 간격 반복(spaced repetition) 학습 플러그인. Anki·SM2·Leitner 알고리즘 선택 지원, 파일을 수정하지 않고 노트를 추적·복습. MIT
+    * 간격 반복(spaced repetition) 학습 플러그인. Anki·SM2·Leitner 알고리즘 선택 지원, 파일을 수정하지 않고 노트를 추적·복습
   * [Relay - Team collaboration in Obsidian](https://relay.md/)
   * smart composer
     * ["이거 쓰면 못 돌아가요" 옵시디안, 단순 메모 앱이 아닌 이유 (Feat. AI, 자동화, 무한 확장) - YouTube](https://www.youtube.com/watch?v=UHXoA4G6GEc)
@@ -3349,7 +3349,7 @@ App
     * [옵시디언에서 AI로 노트 작성하기 (Smart Composer Plugin) - YouTube](https://www.youtube.com/watch?v=YYiok_C9o7M)
   * [Smart Second Brain — Your vault, but smarter](https://smartsecondbrain.dev/)
     * [smart-second-brain: A free, open-source Obsidian plugin that makes your vault smarter: better search, an interactive knowledge graph, and an AI assistant that knows your notes](https://github.com/s2b-dev/smart-second-brain)
-    * 무료 오픈소스 Obsidian 플러그인—PDF 본문까지 색인하는 전문 검색과 의미 기반 시맨틱 검색(태그·폴더 필터), 노트를 주제로 자동 묶고 하위 주제로 파고드는 인터랙티브 지식 그래프, 노트를 아는 AI 어시스턴트(볼트 탐색·노트 편집, 차트·표·대시보드·3D 플롯 라이브 위젯, 메모리 폴더, 커스텀 스킬, Dataview·Tasks·Canvas 플러그인 API 연동, 대화 분기). 선택한 노트로 초안을 쓰며 빠진 정보를 짚고 변경은 노트 안에서 승인. Ollama·oMLX 등 완전 오프라인 포함 6개 제공자, 계정·구독 없음. TypeScript, MIT, 1.3k stars
+    * 무료 오픈소스 Obsidian 플러그인—PDF 본문까지 색인하는 전문 검색과 의미 기반 시맨틱 검색(태그·폴더 필터), 노트를 주제로 자동 묶고 하위 주제로 파고드는 인터랙티브 지식 그래프, 노트를 아는 AI 어시스턴트(볼트 탐색·노트 편집, 차트·표·대시보드·3D 플롯 라이브 위젯, 메모리 폴더, 커스텀 스킬, Dataview·Tasks·Canvas 플러그인 API 연동, 대화 분기). 선택한 노트로 초안을 쓰며 빠진 정보를 짚고 변경은 노트 안에서 승인. Ollama·oMLX 등 완전 오프라인 포함 6개 제공자, 계정·구독 없음
   * [TaskNotes — Task and note management plugin for Obsidian](https://tasknotes.dev/)
     * [tasknotes](https://github.com/callumalpass/tasknotes)
     * 1노트=1태스크 원칙의 Obsidian 태스크 관리 플러그인. YAML 프론트매터 기반 마크다운 파일로 저장. Kanban·캘린더·포모도로 뷰, Google/Outlook 캘린더 동기화, 자연어 파싱, REST API·웹훅 자동화 지원
@@ -3368,13 +3368,13 @@ App
       * [Obsidian plugin - templater (+ ChatGPT 삽질기) -](https://jh4hj.tistory.com/entry/Obsidian-plugin-templater-ChatGPT-%EC%82%BD%EC%A7%88%EA%B8%B0)
   * [TTRPG Tools - Maps (zoom-map): A lightweight Obsidian plugin to place interactive markers on a zoomable, pannable image](https://github.com/Jareika/zoom-map)
     * [Interactive Worldbuilding Maps | Obsidian Showcase | Bag of Tips - YouTube](https://www.youtube.com/watch?v=QUyVmQfoSbU)
-    * 정적 지도 이미지를 줌·팬 가능한 인터랙티브 맵으로 만들어 세계를 연결하는 Obsidian 플러그인(Johannes Schwartz, TypeScript, MIT)—위치 마커·커스텀 마커, 지역 블록아웃, 여러 베이스 이미지와 PNG/WebP 오버레이 레이어, 호버 미리보기, 거리 측정 룰러, 모바일용 Canvas 렌더 모드. 영상은 Bag of Tips의 31분 사용법(2026-07-27): 설치·설정→맵 만들기→마커·커스텀 마커→레이어→그리기·텍스트·측정 도구→프레임
+    * 정적 지도 이미지를 줌·팬 가능한 인터랙티브 맵으로 만들어 세계를 연결하는 Obsidian 플러그인(Johannes Schwartz, TypeScript)—위치 마커·커스텀 마커, 지역 블록아웃, 여러 베이스 이미지와 PNG/WebP 오버레이 레이어, 호버 미리보기, 거리 측정 룰러, 모바일용 Canvas 렌더 모드. 영상은 Bag of Tips의 사용법: 설치·설정→맵 만들기→마커·커스텀 마커→레이어→그리기·텍스트·측정 도구→프레임
   * [voice-writing](https://github.com/reallygood83/voice-writing)
     * [노션 버리고 옵시디언 쓰는 이유 | AI 플러그인으로 노트가 나를 위해 일한다 (음성 에이전트 포함) - YouTube](https://www.youtube.com/watch?v=PydFmXOiXlY)
   * [word-smith: Dedicated Writing Studio for Obsidian](https://github.com/Sadsnake1/word-smith)
     * [I built a free Scrivener alternative inside Obsidian | Word-Smith - YouTube](https://www.youtube.com/watch?v=HLq91cDWx0s)
-      * 5분 소개(2026-10-02, 설명·챕터 기준, 자막은 429로 미확인). 배우·작가 Max Shippee 내레이션으로 인터페이스→집필 모드→문법·산문 검사→집필 리포트→테마→집필 이력→Organizer→내보내기→미리보기 순서로 시연
-    * 이미 쓰는 Obsidian 볼트 안에서 동작하는 무료 집필 스튜디오 플러그인(TypeScript, MIT, 데스크톱·모바일, Obsidian 1.13.7+)—프로젝트 위저드도 전용 폴더도 없고 AI·텔레메트리도 없음, 기능마다 토글. Zen·Letterbox·Typewriter·Hemingway 집필 모드, 내장 규칙·사전만으로 로컬에서 돌아가는 문법 색상·산문 검사, 노트·폴더별 단어 목표와 집필 리포트·이력, Word(원고 형식)·PDF·HTML 내보내기와 마크다운 한 파일로 컴파일
+      * 소개. 배우·작가 Max Shippee 내레이션으로 인터페이스→집필 모드→문법·산문 검사→집필 리포트→테마→집필 이력→Organizer→내보내기→미리보기 순서로 시연
+    * 이미 쓰는 Obsidian 볼트 안에서 동작하는 무료 집필 스튜디오 플러그인(데스크톱·모바일, Obsidian 1.13.7+)—프로젝트 위저드도 전용 폴더도 없고 AI·텔레메트리도 없음, 기능마다 토글. Zen·Letterbox·Typewriter·Hemingway 집필 모드, 내장 규칙·사전만으로 로컬에서 돌아가는 문법 색상·산문 검사, 노트·폴더별 단어 목표와 집필 리포트·이력, Word(원고 형식)·PDF·HTML 내보내기와 마크다운 한 파일로 컴파일
     * 핵심인 Organizer: 드래그로 정한 순서가 파일 트리·표·완성 원고에 그대로 유지돼 "001-Preface" 같은 파일명 번호 불필요, 모든 frontmatter 속성을 셀에서 편집하는 표(태그는 pill, 체크박스는 토글, 날짜는 피커)에 단어 수·목표·마감(요일 지정 시 하루 할당량 계산)·플래그·독해 등급·페이지·백링크 등 열 추가, 폴더 합계·Total 행, 다중 선택 일괄 편집으로 태그 정리. .md뿐 아니라 PDF·스프레드시트·epub 같은 모든 파일 형식에 메타데이터를 달 수 있어(ws-structure.md에 저장) 전자책 DB도 가능—"Bases가 아니라 Obsidian 안의 Directory Opus"
   * [YAOS — Yet Another Obsidian Sync](https://yaos.dev/)
     * [yaos](https://github.com/kavinsood/yaos)
@@ -3383,7 +3383,7 @@ App
 * [Quarkdown | Markdown with superpowers](https://quarkdown.com/)
   * [quarkdown: Turing-complete Markdown variant with modern typesetting. HTML/PDF output, slides, papers, wiki](https://github.com/iamgio/quarkdown)
   * [Quarkdown 하나의 마크다운으로 책, 논문, 문서, 발표 자료까지 만드는 차세대 문서 작성 시스템 | digitalbourgeois](https://digitalbourgeois.tistory.com/3106)
-  * CommonMark/GFM 확장 마크업+컴파일러. `.doctype` 디렉티브로 paged(LaTeX/Typst 대안)·plain(Notion/Obsidian 대안)·docs(GitBook/Docusaurus/MkDocs/VitePress 대안)·slides(Beamer/Google Slides 대안) 출력. 함수·변수·조건·반복으로 튜링 완전, 표준 라이브러리(레이아웃·I/O·수학·제어 흐름), 라이브 프리뷰. Claude Code 스킬 내장. paged.js·reveal.js 기반 HTML 4종 + PDF + plain text. Kotlin ~75%, GPL-3.0 (CLI/LSP는 AGPL-3.0). Homebrew·Scoop. 15K+ stars, Giorgio Garofalo (iamgio)
+  * CommonMark/GFM 확장 마크업+컴파일러. `.doctype` 디렉티브로 paged(LaTeX/Typst 대안)·plain(Notion/Obsidian 대안)·docs(GitBook/Docusaurus/MkDocs/VitePress 대안)·slides(Beamer/Google Slides 대안) 출력. 함수·변수·조건·반복으로 튜링 완전, 표준 라이브러리(레이아웃·I/O·수학·제어 흐름), 라이브 프리뷰. Claude Code 스킬 내장. paged.js·reveal.js 기반 HTML 4종 + PDF + plain text. Kotlin ~75%, GPL-3.0 (CLI/LSP는 AGPL-3.0). Homebrew·Scoop., Giorgio Garofalo (iamgio)
 * [**readme.so - Easiest Way to Create A README**](https://readme.so/)
 * [remark - markdown processor powered by plugins](https://remark.js.org/)
   * [remark-lint: plugins to check (lint) markdown code style](https://github.com/remarkjs/remark-lint)
@@ -3395,7 +3395,7 @@ App
 * [stackedit.io](https://stackedit.io/) gist, github(유료)
 * [Tolaria — A second brain for the AI era](https://tolaria.md/)
   * [tolaria](https://github.com/refactoringhq/tolaria)
-  * 마크다운+YAML 프론트매터 기반 오픈소스 지식 관리 앱. Git 내장 버전 관리, MCP 서버로 Claude Code 연동, 오프라인 동작, 계정 불필요. Tauri+React+TypeScript, AGPL-3.0
+  * 마크다운+YAML 프론트매터 기반 오픈소스 지식 관리 앱. Git 내장 버전 관리, MCP 서버로 Claude Code 연동, 오프라인 동작, 계정 불필요
   * [Tolaria: A Markdown Second Brain Built for the Claude Code Era - YouTube](https://www.youtube.com/watch?v=d8Wfp5HSNr0)
   * [Tolaria - Markdown 지식 베이스를 관리하는 오픈소스 macOS 앱 | GeekNews](https://news.hada.io/topic?id=28857)
 * [treemd: A (TUI/CLI) markdown navigator with tree-based structural navigation.](https://github.com/Epistates/treemd)
@@ -3408,7 +3408,7 @@ App
 * [neo: A novel-writing tool created by a novelist | Hugh Howey](https://github.com/hughhowey/neo)
   * [NEO - A Writing Tool for Authors | Hugh Howey - YouTube](https://www.youtube.com/watch?v=_K-ExOiEv40)
     * 작가 본인의 전업 집필 환경인 NEO를 내려받아 설치하고 쓰는 법—다른 집필 소프트웨어의 기능을 다 갖추지 않은 게 핵심이고, 초고를 키보드만으로 산만함 없이 써 내려가는 도구. 책장 UI, 프로젝트별 마지막 위치 기억, 아웃라인, 타자기 모드, 어두운·밝은 모드, 전체 화면. "대신 미뤄 둔 그 책을 끝내 달라"
-  * 『Wool』(Silo) 작가 Hugh Howey가 만든 작가 전용 무료 워드프로세서(JavaScript, MIT, macOS·Windows·Linux). 설치 순간부터 "책"만 쓴다고 전제—계정·구독 없이 로컬 평문 파일로 저장, 라이브러리는 파일 목록이 아닌 책장(시리즈·상태·필명별 선반, 표지와 단어 목표 진행바). Enter 한 번은 새 단락, 두 번은 `***` 섹션 구분, 세 번은 새 챕터(자동 번호, 프롤로그·에필로그 지정). 드롭캡·em dash·곡선 따옴표 자동, 맞춤법은 부를 때만
+  * 『Wool』(Silo) 작가 Hugh Howey가 만든 작가 전용 무료 워드프로세서(macOS·Windows·Linux). 설치 순간부터 "책"만 쓴다고 전제—계정·구독 없이 로컬 평문 파일로 저장, 라이브러리는 파일 목록이 아닌 책장(시리즈·상태·필명별 선반, 표지와 단어 목표 진행바). Enter 한 번은 새 단락, 두 번은 `***` 섹션 구분, 세 번은 새 챕터(자동 번호, 프롤로그·에필로그 지정). 드롭캡·em dash·곡선 따옴표 자동, 맞춤법은 부를 때만
   * "darlings를 죽이되 시체는 남겨라"—아깝지만 걸리는 문단을 Darlings 탭으로 끌어다 두면 원고에서 빠지되 원래 자리로 복원 가능. 이름·날짜가 떠오르지 않으면 ⌘⇧X로 자리표시+메모를 남기고 챕터 목록에 빨간 점 표시. Outline 탭은 챕터·섹션을 인덱스 카드로 펼쳐 메모하면 원고에 회색 유령 단락으로 나타남
 * [novelWriter: novelWriter is an open source plain text editor designed for writing novels. It supports a minimal markdown syntax for formatting text. It is written with Python 3 (3.6+) and Qt 5 (5.3+) for cross-platform support](https://github.com/vkbo/novelWriter)
 * [The Ren'Py Visual Novel Engine](https://www.renpy.org/)
@@ -3443,7 +3443,7 @@ App
   * [LAMBDA: The ultimate Excel worksheet function - Microsoft Research](https://www.microsoft.com/en-us/research/blog/lambda-the-ultimatae-excel-worksheet-function/)
 * [GenOffice — Free, Open-Source AI Office Suite](https://genoffice.ai/)
   * [genoffice: Free, open-source AI Office suite: Docs, Sheets, Slides, PDF, Markdown and HTML editors with a built-in AI agent, plus a genoffice CLI and agent skill so Claude Code, Codex and Cursor can create and edit real .docx/.xlsx/.pptx files locally | Genspark](https://github.com/genspark-ai/genoffice)
-  * Genspark(Mainfunc)가 공개한 데스크톱 AI 오피스(macOS·Windows·Linux, TypeScript, Apache-2.0, 10k stars). .docx·.xlsx·.pptx·PDF·HTML·Markdown 편집기 6종에 편집기마다 AI 창—바뀐 부분만 원본 파일에 다시 쓰는 byte-preserving 저장, 자체 xlsx 엔진(차트·피벗·슬라이서), 마스터·레이아웃을 가진 네이티브 pptx, 글꼴 보존 PDF 편집과 로컬 Word·Excel·PowerPoint 변환. AI는 Genspark 크레딧 또는 BYOK. `genoffice` CLI·에이전트 스킬로 Claude Code·Codex·Cursor가 로컬에서 실제 오피스 파일 생성·편집
+  * Genspark(Mainfunc)가 공개한 데스크톱 AI 오피스(macOS·Windows·Linux, TypeScript). .docx·.xlsx·.pptx·PDF·HTML·Markdown 편집기 6종에 편집기마다 AI 창—바뀐 부분만 원본 파일에 다시 쓰는 byte-preserving 저장, 자체 xlsx 엔진(차트·피벗·슬라이서), 마스터·레이아웃을 가진 네이티브 pptx, 글꼴 보존 PDF 편집과 로컬 Word·Excel·PowerPoint 변환. AI는 Genspark 크레딧 또는 BYOK. `genoffice` CLI·에이전트 스킬로 Claude Code·Codex·Cursor가 로컬에서 실제 오피스 파일 생성·편집
   * [openoffice: 이음오피스(IeumOffice) — GenOffice 기반 무료 오픈소스 AI 오피스 | pblsketch](https://github.com/pblsketch/openoffice)
     * GenOffice를 고쳐 만든 한국어 포크(Apache-2.0)—Genspark 서비스에 묶인 부분을 걷어내고 AI 연결 방식을 바꿔 **이미 쓰는 Claude·Codex 구독으로 동작**(API 키 발급 불필요), 구독이 없으면 OpenRouter·Gemini 무료 AI 연결. 워드·엑셀·파워포인트·PDF·마크다운·HTML에 마인드맵 추가. `ieumoffice` CLI(info·convert·create·docs read 등), `ieumoffice mcp` MCP 서버, `npx skills add pblsketch/openoffice` 에이전트 스킬. 터미널·MCP 요청은 허용 전까지 구독을 쓰지 않음
 * [G Suite Solutions Gallery - a collection of sample solutions that demonstrates how you can solve common business challenges with G Suite Developer technologies](https://developers.google.com/gsuite/solutions)
@@ -3515,7 +3515,7 @@ App
   * [Apache Guacamole - 클라이언트 필요 없는 리모트 데스크탑 게이트웨이 | GeekNews](https://news.hada.io/topic?id=5495)
 * [Bananas Screen Sharing](https://getbananas.net/)
   * [bananas: Cross-Platform screen sharing made simple](https://github.com/mistweaverco/bananas)
-  * 크로스플랫폼 P2P 화면 공유 도구. 설정 없이 누구와도 화면 공유. Svelte, MIT, 6.4k stars
+  * 크로스플랫폼 P2P 화면 공유 도구. 설정 없이 누구와도 화면 공유
 * [grdpwasm: A web-based RDP client](https://github.com/nakagami/grdpwasm)
   * [grdpwasm - 웹 기반 RDP 클라이언트 | GeekNews](https://news.hada.io/topic?id=28899)
   * 브라우저만으로 Windows 원격 데스크톱 접속. Go WebAssembly + 서버 측 WebSocket-to-TCP 프록시
@@ -3532,7 +3532,7 @@ App
   * [Open Source Self Hosted Teamviewer Replacement - YouTube](https://www.youtube.com/watch?v=FIEcTNjFZNA)
 * [Screego - open source screen sharing for developers](https://screego.net/)
   * [screego/server: screen sharing for developers](https://github.com/screego/server)
-  * 셀프호스팅 WebRTC 화면 공유. 다중 사용자가 동시에 화면을 공유하고 최대 해상도·여러 화면을 지원, 계정 없이 방 생성 가능(선택적 사용자 인증). 내장 TURN 서버로 방화벽·NAT 뒤에서도 동작. 단일 바이너리 또는 Docker 배포. Go, GPL-3.0, 10.6k stars
+  * 셀프호스팅 WebRTC 화면 공유. 다중 사용자가 동시에 화면을 공유하고 최대 해상도·여러 화면을 지원, 계정 없이 방 생성 가능(선택적 사용자 인증). 내장 TURN 서버로 방화벽·NAT 뒤에서도 동작. 단일 바이너리 또는 Docker 배포
 
 # RSS feed
 * [Lighthouse - The feed reader for finding actionable content](https://lighthouseapp.io/blog/feed-reader-deep-dive)
@@ -3764,7 +3764,7 @@ App
 * [Filee — Free File Converter for Windows: Convert Files Offline](https://filee.sh/)
   * [Filee: Free, open-source file converter. Convert 180+ formats offline by drag & drop — images, PDF, Word, Excel, PowerPoint, HWP/HWPX, video, audio, e-books and archives. No upload, no Office needed | KnifeLemon](https://github.com/KnifeLemon/Filee)
   * 키(Ctrl, macOS는 Option)를 누른 채 파일을 드래그하면 커서 위치에 그 파일에 맞는 포맷들의 도넛 메뉴가 열리고, 포맷 위에 놓으면 원본 옆에 변환 결과가 생기는 파일 변환기. 14개 카테고리 180+ 포맷(이미지 42종·벡터·PDF·Word/Excel/PowerPoint·HWP/HWPX·전자책·영상·음악·압축·CAD·폰트), HWPX→PDF→PNG처럼 포맷 간 경로를 자동 계획. Office·LibreOffice·한컴오피스 없이 변환, 업로드 없는 100% 로컬 처리, 병렬 일괄 변환(하나 실패해도 계속, PDF 하나/ZIP 하나로 병합 프리셋), 우클릭 'Convert with Filee'·보내기·단축키·드롭존·`filee` CLI
-  * 파일 종류별 프리셋(품질·리사이즈·DPI·그레이스케일·메타데이터·TIFF 압축·ICO 크기·PDF 병합/분할/페이지 범위·720p·MP3 비트레이트), 대형 엔진(FFmpeg·LibreOffice·Calibre·Ghostscript·Pandoc)은 설치 시 선택하거나 앱에서 나중에 내려받고 이미 설치된 것은 자동 탐지. 영어·한국어·중국어 간체. Windows 10/11, macOS 14+·Linux(X11)는 프리뷰. Avalonia/.NET C#, MIT, 133 stars
+  * 파일 종류별 프리셋(품질·리사이즈·DPI·그레이스케일·메타데이터·TIFF 압축·ICO 크기·PDF 병합/분할/페이지 범위·720p·MP3 비트레이트), 대형 엔진(FFmpeg·LibreOffice·Calibre·Ghostscript·Pandoc)은 설치 시 선택하거나 앱에서 나중에 내려받고 이미 설치된 것은 자동 탐지. 영어·한국어·중국어 간체. Windows 10/11, macOS 14+·Linux(X11)는 프리뷰
 * [GestureWheel: Mouse wheel gestures app for Windows](https://github.com/iodes/GestureWheel)
 * [GoodbyeDPI—Passive Deep Packet Inspection blocker and Active DPI circumvention utility (for Windows)](https://github.com/ValdikSS/GoodbyeDPI) 웹 차단 우회
   * [GoodByeDPI GUI](https://github.com/Include-sys/GUI-for-GoodbyeDPI/)
@@ -3797,7 +3797,7 @@ App
 * [Pulse — See what Windows is really doing](https://pulse.regncreative.com/)
   * [Pulse: Read-only Windows diagnostics: the Event Log in plain language, blue screens explained. Offline and open source | Regncreative](https://github.com/regncreative/pulse)
   * Windows 이벤트 로그를 사람 말로 풀어 주는 읽기 전용 진단 앱(Windows 10/11)—"Kernel-Power · Event ID 41, BugcheckCode 159" 대신 "블루스크린 후 재시작, 중지 코드 DRIVER_POWER_STATE_FAILURE"처럼 설명하고 기술 정보·원본 XML은 클릭 한 번 뒤에. Event Viewer와 Reliability Monitor 사이에 위치: 라이브 타임라인·System Health, 프로세스별 CPU·메모리·GPU·디스크·네트워크, 관련 이벤트를 인시던트로 묶음. 관찰·설명·시각화만 하고 Windows를 바꾸지 않음(인젝션·훅·패치·클리너/최적화 기능 없음)
-  * 1.4: 블루스크린·갑작스러운 재시작의 중지 코드와 흔한 원인·점검 사항 설명, 블루스크린·강제 전원 차단·전원 손실·WHEA 하드웨어 오류 구분, 다른 PC에서 내보낸 .evtx 열기, 사용자·컴퓨터 이름·IP·시리얼을 기본 마스킹한 공유용 리포트. Ollama·LM Studio 로컬 AI Assistant로 진단 데이터 질의, 텔레메트리·계정 없이 완전 오프라인. Flutter UI+C++20 서비스, Dart, MIT, 298 stars
+  * 1.4: 블루스크린·갑작스러운 재시작의 중지 코드와 흔한 원인·점검 사항 설명, 블루스크린·강제 전원 차단·전원 손실·WHEA 하드웨어 오류 구분, 다른 PC에서 내보낸 .evtx 열기, 사용자·컴퓨터 이름·IP·시리얼을 기본 마스킹한 공유용 리포트. Ollama·LM Studio 로컬 AI Assistant로 진단 데이터 질의, 텔레메트리·계정 없이 완전 오프라인. Flutter UI+C++20 서비스
 * [Rufus - create bootable USB](http://rufus.akeo.ie/)
 * [Share Mouse and Keyboard](http://www.keyboard-and-mouse-sharing.com/)
 * [**SharpKeys | randyrants.com**](https://www.randyrants.com/category/sharpkeys/) a utility that manages a Registry key that allows Windows to remap one key to any other key
@@ -3808,7 +3808,7 @@ App
 * [StaffPad is a brand new class of notation app](http://www.staffpad.net/)
 * [systeminformer: A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware](https://github.com/winsiderss/systeminformer)
   * [System Informer](https://systeminformer.com/)
-  * 구 Process Hacker의 후속. 실시간 시스템 활동 모니터링(시각적 하이라이트), 성능 그래프, 잠긴 파일 사용 프로세스 탐지, 네트워크 연결·디스크 접근 모니터링, 커널/.NET 스택 트레이스, 고급 서비스 관리. 포터블, Windows 10+, MIT
+  * 구 Process Hacker의 후속. 실시간 시스템 활동 모니터링(시각적 하이라이트), 성능 그래프, 잠긴 파일 사용 프로세스 탐지, 네트워크 연결·디스크 접근 모니터링, 커널/.NET 스택 트레이스, 고급 서비스 관리. 포터블, Windows 10+
 * [wincompose: 🔣 Compose Key for Windows](https://github.com/samhocevar/wincompose) special key 입력
 * [Worker Bee - Explore all the neat things your computer can do](http://workerbee.tonkworks.com/)
 * [Ventoy](https://www.ventoy.net/en/index.html)
@@ -3910,7 +3910,7 @@ App
 * [notepad_logger - crates.io: Rust Package Registry](https://crates.io/crates/notepad_logger)
 * [Nusa: A Living Notch for Windows](https://rama2555.github.io/nusa)
   * [rama2555/nusa](https://github.com/rama2555/nusa)
-  * Windows 10·11 화면 위쪽 가장자리를 맥북 노치처럼 쓰는 네이티브 앱(약 3MB, v1.1.0)—Spotify·Apple Music·YouTube 재생 제어와 가사 싱크 표시, 포모도로 타이머, 물 섭취 기록, 시간 알림 할 일, 드래그 앤 드롭 파일 선반, 볼륨·밝기 오버레이, 배터리·Wi-Fi·헤드폰·Caps Lock·키보드 언어 알림. 쉬고 있을 때는 CPU 0%로 졸고 있는 눈 한 쌍만 표시하고 전체 화면 앱에서는 비켜 줌, 모든 데이터는 로컬 저장·계정·추적 없음. GitHub 레포는 랜딩 페이지 소스(HTML, 74 stars)
+  * Windows 10·11 화면 위쪽 가장자리를 맥북 노치처럼 쓰는 네이티브 앱(약 3MB, v1.1.0)—Spotify·Apple Music·YouTube 재생 제어와 가사 싱크 표시, 포모도로 타이머, 물 섭취 기록, 시간 알림 할 일, 드래그 앤 드롭 파일 선반, 볼륨·밝기 오버레이, 배터리·Wi-Fi·헤드폰·Caps Lock·키보드 언어 알림. 쉬고 있을 때는 CPU 0%로 졸고 있는 눈 한 쌍만 표시하고 전체 화면 앱에서는 비켜 줌, 모든 데이터는 로컬 저장·계정·추적 없음. GitHub 레포는 랜딩 페이지 소스
 * [Pajek: analysis and visualization of large networks](http://mrvar2.fdv.uni-lj.si/pajek/)
 * [PBOX - Windows Package Manager](http://pbox.me/)
 * PowerShell
@@ -4083,15 +4083,15 @@ App
   * 100% 로컬 처리 셀프호스팅 AI 회의 도우미(macOS/Windows). Parakeet/Whisper 실시간 전사(4배 빠름), 화자 분리, Ollama 요약. 클라우드 불필요, Ollama/Claude/커스텀 엔드포인트 지원. Rust 기반
 * [Moonshine AI — Fast, private AI for real-world devices](https://www.moonshine.ai/)
   * [moonshine: Very low latency speech to text, intent recognition, and text to speech, for building voice agents and interfaces](https://github.com/moonshine-ai/moonshine)
-  * 초저지연 음성→텍스트·의도 인식·텍스트→음성 모델. 음성 에이전트·인터페이스 구축용, 실시간·온디바이스 지향. C++, 10K+ stars
+  * 초저지연 음성→텍스트·의도 인식·텍스트→음성 모델. 음성 에이전트·인터페이스 구축용, 실시간·온디바이스 지향
 * [Patter — Open-source voice-AI SDK](https://www.getpatter.com/)
   * [Patter: The Vapi/Retell alternative for builders who want to own the stack](https://github.com/PatterAI/Patter)
   * [Patter SDK Guide: Building a Restaurant Booking Phone Agent | MarkTechPost](https://www.marktechpost.com/2026/07/16/patter-sdk-guide-to-building-a-restaurant-booking-phone-agent-with-dynamic-variables-guardrails-latency-dashboards-and-eval-checks/)
   * [Patter로 나만의 음성 AI 전화 에이전트 만들기 | digitalbourgeois](https://digitalbourgeois.tistory.com/3388)
-  * 오픈소스 음성 AI SDK. Vapi/Retell 대안으로 스택을 직접 소유. 4줄이면 AI 에이전트에 전화번호 부여, Twilio·Telnyx·Plivo 연동. 동적 변수·가드레일·지연 대시보드·eval 체크. Python·TypeScript, MIT
+  * 오픈소스 음성 AI SDK. Vapi/Retell 대안으로 스택을 직접 소유. 4줄이면 AI 에이전트에 전화번호 부여, Twilio·Telnyx·Plivo 연동. 동적 변수·가드레일·지연 대시보드·eval 체크
 * [TranscriptionSuite — Fully local, private Speech-to-Text](https://transcriptionsuite.app/)
   * [TranscriptionSuite: A fully local and private Speech-To-Text app, offering multiple model backends, diarization & calendar mode](https://github.com/homelab-00/TranscriptionSuite)
-  * 100% 로컬·프라이빗 음성→텍스트 앱(Windows/macOS/Linux). Electron 대시보드+Python 서버(Docker, Apple Silicon 네이티브 Metal). 롱폼·실시간 Live Mode 받아쓰기, 화자 분리, AI 요약·챗(OpenAI 호환—LM Studio/Ollama/Groq/OpenRouter), 캘린더형 Audio Notebook(전문 검색). Whisper·NVIDIA NeMo Parakeet/Canary·SenseVoice·VibeVoice-ASR·whisper.cpp·MLX 모델, 90+ 언어→영어 번역, NVIDIA CUDA/AMD·Intel Vulkan 가속. Tailscale/LAN 원격, 글로벌 단축키, .txt/.srt/.ass 내보내기, API·웹훅. GPL-3.0
+  * 100% 로컬·프라이빗 음성→텍스트 앱(Windows/macOS/Linux). Electron 대시보드+Python 서버(Docker, Apple Silicon 네이티브 Metal). 롱폼·실시간 Live Mode 받아쓰기, 화자 분리, AI 요약·챗(OpenAI 호환—LM Studio/Ollama/Groq/OpenRouter), 캘린더형 Audio Notebook(전문 검색). Whisper·NVIDIA NeMo Parakeet/Canary·SenseVoice·VibeVoice-ASR·whisper.cpp·MLX 모델, 90+ 언어→영어 번역, NVIDIA CUDA/AMD·Intel Vulkan 가속. Tailscale/LAN 원격, 글로벌 단축키, .txt/.srt/.ass 내보내기, API·웹훅
 * [Wispr Flow | Effortless Voice Dictation](https://wisprflow.ai/)
   * 음성→AI 받아쓰기 도구. Mac/Windows/iPhone/Android 네이티브, 키보드(45wpm) 대비 4배 빠른 220wpm. 필러 단어·오타·횡설수설 자동 정제, Slack/Gmail/Notion/VS Code/Cursor/ChatGPT/Figma 등 어디서나. 개인 사전(고유어 학습), 스니펫 라이브러리, 100+ 언어 자동 감지. $81M 펀딩으로 "Voice OS" 빌드
 
@@ -4105,7 +4105,7 @@ App
   * 분산형 P2P VPN EasyTier(코어 레포 EasyTier/EasyTier)의 Apple 플랫폼 클라이언트. SwiftUI(95.6%)+Rust(3.7%), Network Extension 프레임워크 시스템 레벨 VPN 통합, Widget Extension. TestFlight 베타. GPLv3. **NOT ACTIVELY MAINTAINED**, 메인테이너 인계 모집 중
 * [FlClash – Clash Meta (mihomo) Proxy Client](https://chen08209.github.io/FlClash/)
   * [FlClash: A multi-platform proxy client based on ClashMeta, simple and easy to use, open-source and ad-free](https://github.com/chen08209/FlClash)
-  * Clash Meta(mihomo) 기반 멀티 플랫폼 프록시 클라이언트(Android·Windows·macOS·Linux)—규칙 라우팅·프록시 그룹·TUN 모드, 구독 링크로 프로필 가져오기, WebDAV로 기기 간 설정 백업·동기화, 프로필별 DNS·NTP 설정, 연결 모니터링. 광고 없는 오픈소스. Dart/Flutter, GPL-3.0, 60k stars
+  * Clash Meta(mihomo) 기반 멀티 플랫폼 프록시 클라이언트(Android·Windows·macOS·Linux)—규칙 라우팅·프록시 그룹·TUN 모드, 구독 링크로 프로필 가져오기, WebDAV로 기기 간 설정 백업·동기화, 프로필별 DNS·NTP 설정, 연결 모니터링. 광고 없는 오픈소스
 * [MasterDnsVPN: Advanced DNS tunneling VPN that encapsulates TCP traffic inside DNS queries to bypass censorship](https://github.com/masterking32/MasterDnsVPN)
   * DNS 터널링 + 멀티 리졸버 라우팅 + 커스텀 경량 ARQ(오버헤드 5-7바이트, DNSTT 59바이트 대비). DNSTT 대비 ~9배 빠른 처리량. 로컬 SOCKS5/TCP 프록시, DNS 캐싱, XOR/ChaCha20/AES 암호화, 8가지 로드밸런싱 전략
 * [Netmaker - WireGuard 기반 오픈소스 VPN 플랫폼 | GeekNews](https://news.hada.io/topic?id=5701)
@@ -4124,12 +4124,12 @@ App
     * [HeadScale - TailScale 서버의 오픈소스 구현체 | GeekNews](https://news.hada.io/topic?id=5039)
     * [Stop Using Tailscale. Use Open Source Instead. - YouTube](https://www.youtube.com/watch?v=7Jja20nWcqo)
       * DevOps Toolbox. Tailscale 컨트롤 서버를 셀프호스팅해 메시 네트워크를 직접 통제하는 방법
-    * Tailscale 컨트롤 서버의 오픈소스 셀프호스팅 구현체. Go, 43k stars
+    * Tailscale 컨트롤 서버의 오픈소스 셀프호스팅 구현체
   * [Tailcat | Tailscale](https://tailscale.com/tailcat)
     * [tailcat: like netcat, but over Tailscale's data plane, without Tailscale's control plane](https://github.com/tailscale/tailcat)
     * [Tailcat: Secure Connections Without the Setup | Tailscale - YouTube](https://www.youtube.com/watch?v=pA8e1uX195A)
-      * 13분 데모—단순 연결부터 HTTP 서버 접근·파일 전송·SSH·공개키 SSH 인증, 직접 연결이 안 될 때의 동작, 다른 프로젝트에 라이브러리로 내장하는 사례, 브라우저 실행까지
-    * "Tailscale without Tailscale, by Tailscale"—Tailscale 오픈소스 조각(magicsock 데이터 플레인)을 조합해 컨트롤 플레인 없이 netcat처럼 쓰는 도구. 두 머신 사이 WireGuard 종단간 암호화 터널을 DERP로 부트스트랩한 뒤 NAT 홀펀칭으로 직접 P2P UDP로 승격(실패 시 DERP 릴레이), 연결 메타데이터는 대역 외로 원하는 방식대로 교환. 서버 쪽이 받은 짧은 tailcat 주소를 클라이언트에 넘기면 연결. Tailscale 계정·root 권한 불필요(라우팅·DNS 변경 없음), 무료 레이트 리밋 DERP 또는 자체 derper. CLI+Go 라이브러리, WebAssembly 브라우저 데모. Go, BSD-3-Clause, 8.1k stars
+      * 데모—단순 연결부터 HTTP 서버 접근·파일 전송·SSH·공개키 SSH 인증, 직접 연결이 안 될 때의 동작, 다른 프로젝트에 라이브러리로 내장하는 사례, 브라우저 실행까지
+    * "Tailscale without Tailscale, by Tailscale"—Tailscale 오픈소스 조각(magicsock 데이터 플레인)을 조합해 컨트롤 플레인 없이 netcat처럼 쓰는 도구. 두 머신 사이 WireGuard 종단간 암호화 터널을 DERP로 부트스트랩한 뒤 NAT 홀펀칭으로 직접 P2P UDP로 승격(실패 시 DERP 릴레이), 연결 메타데이터는 대역 외로 원하는 방식대로 교환. 서버 쪽이 받은 짧은 tailcat 주소를 클라이언트에 넘기면 연결. Tailscale 계정·root 권한 불필요(라우팅·DNS 변경 없음), 무료 레이트 리밋 DERP 또는 자체 derper. CLI+Go 라이브러리, WebAssembly 브라우저 데모
   * [We're making Tailscale faster | Tailscale Blog](https://tailscale.com/blog/making-tailscale-faster)
     * [Tailscale을 더 빠르게 만들기 | GeekNews](https://news.hada.io/topic?id=34222)
     * 패킷 메모리 처리·병렬 처리 개선으로 앱 커넥터·서브넷 라우터·출구 노드의 처리량을 높이고 지연을 줄이는 작업—Linux·Android에서 작은 패킷을 별도 64KiB 버퍼로 복사하지 않고 수신 버퍼 안에서 처리(multi-queue, writev, netmap 캐싱)
@@ -4138,6 +4138,6 @@ App
 * [Tunnet — Open-source mesh networking platform](https://tunnet.io/)
   * [Tunnet: Connect your machines into a private network, wherever they are | tunnetio](https://github.com/tunnetio/Tunnet)
   * [Tunnet - 관리 서버까지 직접 운영하는 오픈소스 Tailscale 대안 | GeekNews](https://news.hada.io/topic?id=34204)
-  * Tailscale처럼 여러 컴퓨터를 하나의 암호화 사설망으로 연결(SSH·내부 서비스 공유·공개 터널·파일 전송을 같은 계정·정책으로 관리)하되, **에이전트만이 아니라 관리 서버·대시보드·릴레이까지 전부 공개**해 외부 제어 서버 의존 없이 전체 스택을 직접 운영. Rust, 176 stars
+  * Tailscale처럼 여러 컴퓨터를 하나의 암호화 사설망으로 연결(SSH·내부 서비스 공유·공개 터널·파일 전송을 같은 계정·정책으로 관리)하되, **에이전트만이 아니라 관리 서버·대시보드·릴레이까지 전부 공개**해 외부 제어 서버 의존 없이 전체 스택을 직접 운영
 * [ztm: A privacy-first open-source decentralized network software based on HTTP/2 tunnels](https://github.com/flomesh-io/ztm)
   * Zero Trust Mesh. HTTP/2 터널 기반 탈중앙 암호화 메시 네트워크(개인 2노드~기업 수천 노드). E2E 암호화·인증서 기반 접근 제어, 방화벽 통과, P2P 파일 공유, 내장 앱(Tunnel/Proxy/Terminal/Script). Pipy 프록시 엔진(PipyJS) 기반, 멀티 아키텍처·OS 지원

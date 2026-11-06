@@ -276,7 +276,7 @@ Bitcoin
 * [ETHval | Intrinsic Value Dashboard](https://ethval.com/)
   * [김서준 - ETHval v1.0 메이저 업데이트: 이더리움의 적정가치, 계산에서 검증으로 | Facebook](https://www.facebook.com/kimseojoon/posts/pfbid02puBE9ZgDr1DnRzcPy5EXpywWRwgWJNta5HyPEd1gaeLftfuDKuMu48Korwsgstagl)
     * [A Potential Valuation Methodology for Ethereum | VanEck](https://www.vaneck.com/pl/en/blog/digital-assets/a-potential-valuation-methodology-for-ethereum/)
-      * 2023-07-20. 스테이킹 출금을 연 하드포크로 ETH가 미 국채의 경쟁자가 됐다고 보고 거래 수수료·MEV·"Security as a Service" 수익을 2030년까지 추산(연 26억 달러→510억 달러)한 뒤 세금·검증자 몫을 빼 현금흐름을 만들고, 장기 현금흐름 수익률 7%−성장률 4% 배수로 2030년 FDV를 구해 12%로 할인하는 방법론
+      * 스테이킹 출금을 연 하드포크로 ETH가 미 국채의 경쟁자가 됐다고 보고 거래 수수료·MEV·"Security as a Service" 수익을 2030년까지 추산(연 26억 달러→510억 달러)한 뒤 세금·검증자 몫을 빼 현금흐름을 만들고, 장기 현금흐름 수익률 7%−성장률 4% 배수로 2030년 FDV를 구해 12%로 할인하는 방법론
     * [Ethereum 5-Year Valuation Framework: Bear, Base & Bull Cases | CoinShares](https://coinshares.com/corp/insights/research-data/ethereum-5-year-valuation-framework/)
       * 현금흐름 가치(사업으로서의 네트워크 수수료×배수)와 화폐 프리미엄 가치(스테이킹·DeFi·L2 준비금·ETF·기업 재무·가치저장 수요)를 합치고 네트워크·투기 프리미엄을 얹는 sum-of-parts. 2031년 Bear 약 1,443달러(연 -9%)·Base 약 4,935달러(+16%)·Bull 약 14,135달러(+43%). Dencun 이후 활동은 기록적인데 주간 수수료는 2억 달러대에서 1천만 달러 수준으로 줄어 시장이 ETH 가격을 매기기 어려워졌다는 진단
     * Hashed 대표 김서준 님이 Opus 4.5 출시 직후 첫 바이브 코딩으로 만든 ETHval의 v1.0 업데이트 소개. VanEck은 수익을 내는 자산으로, CoinShares는 화폐·담보 가치까지 더해 보듯 ETH를 무엇으로 보느냐에 따라 출발점이 달라진다는 관점에서 "계산에서 검증으로"—모형 12개가 독립적 증거 12개는 아니라 평균·중앙값·절사평균과 모형 하나 제외 시 변화를 비교, 목표가보다 그 가격에 필요한 조건을 묻는 시나리오 시뮬레이터, 기관 전망에 원문·발표일 연결
@@ -297,7 +297,7 @@ Bitcoin
 
 # Library
 * [awp-skill: Agent skill for AWP RootNet protocol — query, stake, govern, and monitor on-chain | awp-core](https://github.com/awp-core/awp-skill)
-  * EVM 체인(Base·Ethereum·Arbitrum·BSC, CREATE2로 동일 주소)의 탈중앙 Agent Work Protocol(AWP)을 자연어로 다루는 SKILL.md 표준 에이전트 스킬. 프로토콜 상태 조회, bind·delegate, veAWP 포지션 NFT 스테이킹·에이전트별 할당, worknet 관리(Merkle 보상 분배 WorknetManager), 거버넌스 제안·투표, 25종 실시간 온체인 이벤트 WebSocket 모니터링—20+ 액션·36개 스크립트. 첫 로드 시 AWP Wallet 의존성 설치. GitHub 설명은 testnet이지만 README는 메인넷 가동을 명시. Python, MIT
+  * EVM 체인(Base·Ethereum·Arbitrum·BSC, CREATE2로 동일 주소)의 탈중앙 Agent Work Protocol(AWP)을 자연어로 다루는 SKILL.md 표준 에이전트 스킬. 프로토콜 상태 조회, bind·delegate, veAWP 포지션 NFT 스테이킹·에이전트별 할당, worknet 관리(Merkle 보상 분배 WorknetManager), 거버넌스 제안·투표, 25종 실시간 온체인 이벤트 WebSocket 모니터링—20+ 액션·36개 스크립트. 첫 로드 시 AWP Wallet 의존성 설치. GitHub 설명은 testnet이지만 README는 메인넷 가동을 명시
 * [Bitcoin Trading Agents](http://tombell93.co.uk/wp-content/uploads/2015/05/BitcoinTradingAgents.pdf)
 * [bitmulate - Simulated cryptocurrency trading system https://bitimulate.com ](https://github.com/velopert/bitimulate)
 * [BlockSeer Introduction](https://www.youtube.com/watch?v=y_MNVekX6g4)

@@ -353,7 +353,7 @@ Business
   * 다섯 개 중 코딩 실력은 없음. 분석은 전체 일의 마지막 5~10%, 앞의 95%는 데이터 접근 권한을 얻고 흩어진 걸 정제·연결하는 일. 컨설팅·프로덕트·엔지니어링의 실패 방식 세 가지를 동시에 짊어지는 역할이라 코딩 테스트처럼 준비하면 어긋남—진단부터 구축·운영 이관까지 한 사람이 끝까지 책임지는 데서 희소성이 나옴
 * [AX, SI업계에 미칠영향...part 1 | 신현묵](https://brunch.co.kr/@supims/936)
   * [werub-his-ecosystem: AI 기반 HIS 를 구축하려는 의료기관을 위한 생태계 소개·구축 자료 (MIT)](https://github.com/seanshin/werub-his-ecosystem)
-  * 1년간 Claude·Codex를 초기 버전부터 개발 도구로 써 온 경험담(2026-10-15). CLI와 대화로 서버·클라이언트 레이어를 만들다 CLI 간 통신 도구·에디터·반복 작업 기능을 직접 만들었는데 곧 기본 기능으로 들어오고, 결국 루프·하네스로 정리됨. 앱도 하이브리드로 가다 Xcode를 직접 다루는 Codex로 마무리—"코딩은 어셈블리의 시대가 됐다", 30년 전 헥사코드·debug에서 Q에디터·컴파일러로 넘어가던 느낌
+  * 1년간 Claude·Codex를 초기 버전부터 개발 도구로 써 온 경험담. CLI와 대화로 서버·클라이언트 레이어를 만들다 CLI 간 통신 도구·에디터·반복 작업 기능을 직접 만들었는데 곧 기본 기능으로 들어오고, 결국 루프·하네스로 정리됨. 앱도 하이브리드로 가다 Xcode를 직접 다루는 Codex로 마무리—"코딩은 어셈블리의 시대가 됐다", 30년 전 헥사코드·debug에서 Q에디터·컴파일러로 넘어가던 느낌
   * 맥 한 대당 CLI 6~7개×2세트를 혼자 돌리다 보니 Git보다 SVN식 권한 모델이 맞아 형상관리 도구도 일부 자작—Anthropic이 Git을 넘어섰다는 기사와 같은 결론. 1년 작업한 소스(AI 기반 병원정보시스템 HIS 생태계)를 모두 공개하기로 결정. SI 형태 비즈니스 환경에 미칠 영향 고민 시리즈 1편
 * [Masterclass: How FDEs make $1M/yr deploying AI agents | Greg Isenberg - YouTube](https://www.youtube.com/watch?v=1a5HxU52vCQ)
   * [원대로 - 😮 연봉 100만 달러 FDE, 첫 3주는 코딩 대신 '받아쓰기'만 한다 | Facebook](https://www.facebook.com/drwonsg/posts/pfbid02PEkemsg2n7amk9ATUZYwf5Fi5HTcxpumkop7vtvJDDFBZjJEVLXJpfRJmHfXYzRrl)
@@ -398,7 +398,7 @@ Business
 * [레거시 운영개발팀을 수습하다](https://greypencil.tistory.com/113) 팀 운영 이야기
 * [역사와 현실 경복궁 경회루와 구종직 설화 - 경향신문](https://www.khan.co.kr/opinion/column/article/202208250300025)
   * 직접적인 이야기는 아니나 채용 뿐 아니라 조직 운영 관점에서 개인의 권한과 시스템 사이의 균형에 대해 생각해볼만한 이야기로 기록
-  * 이 글을 기록하는 시점(2022.08.29)에서 얼마전 소프트뱅크 손정의 회장의 막대한 손실 및 그 사과에 대한 이야기가 화제
+  * 이 글을 기록하는 시점에서 얼마전 소프트뱅크 손정의 회장의 막대한 손실 및 그 사과에 대한 이야기가 화제
     * [1등 스타트업 모으던 손정의는 왜 반성문 써야했나 - 티타임즈](https://www.ttimes.co.kr/article/2022082617427723998)
     * 막대한 손실을 기록해 그간의 이익을 모두 잃을 정도로 상황이 안 좋음
     * 도쿠가와 이에야스가 다케다 신겐에게 크게 지고 난 후 반성을 위해 그렸다는 그림을 걸고 사과
@@ -1412,10 +1412,10 @@ Business
 * [경력 없는 신입은 어떤 기준으로 채용해야 할까요? | 직무분석 컨설팅센터 : 네이버 블로그](https://blog.naver.com/PostView.naver?blogId=job-analysis&logNo=224376016648)
   * 경총 '2026년 신규채용 실태조사'(500개사)에서 67.6%가 1순위 평가요소로 꼽은 '직무 관련 업무 경험'은 신입에게 애초에 없는 항목—기업이 진짜 확인하려는 것은 경력이 아니라 입사 후 그 직무에서 성과를 낼 가능성이므로, 손봐야 할 것은 지원자 스펙이 아니라 채용 평가표. 운전 경력 0인 응시자를 채점표로 합불 판정하는 도로주행 시험처럼 '도달해야 할 상태'에서 거꾸로 기준을 도출—직무역할(미션)→성과목표→핵심성공요인(CSF)→고성과자의 성과행동→직무역량(지식·기술)→직무자격(그 역량을 가질 가능성이 높은 전공·경험) 6단계(마케팅 담당자 예시). 서류전형은 직무자격으로 면접 대상자를 선별하고 면접은 직무역량·성과행동을 과제 수행이나 경험 구술로 확인하되 "본인의 강점은?" 같은 어느 직무에나 붙는 질문은 피할 것
 * [NDC26-커리어 기술 면접은 무엇을 평가 하는가 "이 정도면 충분하다고 생각했습니다" (면접 전까지는) | 오윤호(넥슨코리아 실장), NDC - YouTube](https://www.youtube.com/watch?v=iMU8CBaLOW8)
-  * NDC26 커리어·프로그래밍 트랙 38분 발표—기술 면접이 실제로 무엇을 평가하는지, 지원자가 "이 정도면 충분하다"고 여기는 준비와 면접관이 보는 기준 사이의 간극을 면접관 입장에서 풀어낸 세션
+  * NDC26 커리어·프로그래밍 트랙 발표—기술 면접이 실제로 무엇을 평가하는지, 지원자가 "이 정도면 충분하다"고 여기는 준비와 면접관이 보는 기준 사이의 간극을 면접관 입장에서 풀어낸 세션
 * [FoloUp — Open-source AI Voice Interviewer](https://foloup.suveenellawela.com/)
   * [FoloUp](https://github.com/FoloUp/FoloUp)
-  * AI 음성 기반 비동기 채용 인터뷰 플랫폼. JD로 인터뷰 생성, 공유 링크로 후보자 비동기 진행, 실시간 대화 적응, 대시보드 점수/요약. Next.js+Supabase+Retell AI. MIT
+  * AI 음성 기반 비동기 채용 인터뷰 플랫폼. JD로 인터뷰 생성, 공유 링크로 후보자 비동기 진행, 실시간 대화 적응, 대시보드 점수/요약. Next.js+Supabase+Retell AI
 
 ## 채용 공고
 * [2022 kakao Tech Internship FAQ – tech.kakao.com](https://tech.kakao.com/2022/04/19/2022-kakao-tech-internship-faq/)
@@ -3464,13 +3464,13 @@ Business
   * "API Growth Stack"—웹사이트 데이터 추출(메타·연락처·링크·이미지·SEO 데이터)→SEO 분석→전환 요소 최적화→카피 생성→랜딩 페이지 개선→소셜 콘텐츠 자동 생성, 서로 연결되는 AI API 6종을 하나의 그로스 엔진으로 묶은 큐레이션. 각 API는 저자가 RapidAPI에 올린 유료 상품 링크라 사실상 자체 API 카탈로그·홍보 레포(라이선스 미표기)
 * [claude-seo: Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting | AgriciDaniel](https://github.com/AgriciDaniel/claude-seo)
   * [Claude Code 기반 SEO 자동화 도구 Claude SEO 분석 | digitalbourgeois](https://digitalbourgeois.tistory.com/4051)
-  * Claude Code 안에서 `/plugin marketplace add AgriciDaniel/claude-seo` 후 `/seo audit`로 10~15분에 사이트 전체 SEO 감사를 돌리고 우선순위별 실행 계획을 받는 무료 오픈소스 플러그인(MIT, 24k stars, 테스트 1,077개). 26개 서브스킬+19개 전문 에이전트(최대 17개 병렬, 복잡한 판단은 Opus·나머지 Sonnet)가 사이트 유형을 먼저 파악한 뒤 기술 SEO(크롤링·인덱싱·sitemap·robots·리다이렉트·Core Web Vitals)·E-E-A-T 콘텐츠 품질·Schema.org 구조화 데이터 작성·AI 검색(GEO: Google AI Overviews·ChatGPT·Perplexity·Gemini 인용 가능성)·에이전트 접근성(llms.txt·WebMCP)·백링크·로컬·이커머스·국제 SEO를 동시에 점검, 라이브 데이터용 선택 확장 9개와 PDF/Excel 리포트. README의 성과 수치는 독립 검증된 것이 아니라 실제 도입 전 자체 데이터로 비교해 볼 것(digitalbourgeois 지적)
+  * Claude Code 안에서 `/plugin marketplace add AgriciDaniel/claude-seo` 후 `/seo audit`로 10~15분에 사이트 전체 SEO 감사를 돌리고 우선순위별 실행 계획을 받는 무료 오픈소스 플러그인(테스트 1,077개). 26개 서브스킬+19개 전문 에이전트(최대 17개 병렬, 복잡한 판단은 Opus·나머지 Sonnet)가 사이트 유형을 먼저 파악한 뒤 기술 SEO(크롤링·인덱싱·sitemap·robots·리다이렉트·Core Web Vitals)·E-E-A-T 콘텐츠 품질·Schema.org 구조화 데이터 작성·AI 검색(GEO: Google AI Overviews·ChatGPT·Perplexity·Gemini 인용 가능성)·에이전트 접근성(llms.txt·WebMCP)·백링크·로컬·이커머스·국제 SEO를 동시에 점검, 라이브 데이터용 선택 확장 9개와 PDF/Excel 리포트. README의 성과 수치는 독립 검증된 것이 아니라 실제 도입 전 자체 데이터로 비교해 볼 것(digitalbourgeois 지적)
 * [LaunchOnIt - Launch Your Product, Get Found on Google & AI](https://launchon.it/)
   * minimalsource가 만든 주간 프로덕트 런치 플랫폼(Product Hunt·BetaList·Uneed·Peerlist 대안). 24시간이 아닌 7일간 프런트 페이지 노출, 커뮤니티 업보트, 구조화 데이터를 갖춘 영구 제품 페이지로 Google 인덱싱과 ChatGPT·Perplexity·Claude 인용(AEO) 대비. 월요일 00:00 UTC 동기 런치, 주당 약 20개 스타트업
   * 무료 런치(AI 자동 입력), 유료 Growth 플랜은 1,500+단어 리뷰와 4+ dofollow 링크. 카테고리·대안·기술 스택·국가별 디렉터리, 메이커 디렉터리, 임베드 배지·DR 체커, llms.txt·MCP 서버 제공
 * [OpenSEO - Open Source SEO Platform](https://openseo.so/)
   * [open-seo: Open source alternative to Semrush and Ahrefs](https://github.com/every-app/open-seo)
-  * 비싸고 무거운 Semrush·Ahrefs 대신 쓰는 종량제 오픈소스 SEO 도구—키워드 리서치·순위 추적·경쟁사 인사이트·백링크·사이트 감사·AI 가시성(AEO) 워크플로에 집중, 자기 DataForSEO API 키로 쓴 만큼만 지불. MCP 서버와 Agent Skills로 Claude Code·OpenClaw·Hermes 같은 에이전트가 SEO 데이터를 직접 사용. Docker 셀프호스팅 또는 호스팅 $10/월. TypeScript, MIT, 22.3k stars
+  * 비싸고 무거운 Semrush·Ahrefs 대신 쓰는 종량제 오픈소스 SEO 도구—키워드 리서치·순위 추적·경쟁사 인사이트·백링크·사이트 감사·AI 가시성(AEO) 워크플로에 집중, 자기 DataForSEO API 키로 쓴 만큼만 지불. MCP 서버와 Agent Skills로 Claude Code·OpenClaw·Hermes 같은 에이전트가 SEO 데이터를 직접 사용. Docker 셀프호스팅 또는 호스팅 $10/월
 
 # Mobile
 * ["앱의 시대"는 끝났다](http://ppss.kr/archives/34606)
@@ -3533,7 +3533,7 @@ Business
 * [Operately: Open Source OKR and Project Management Software](https://operately.com/)
   * [operately: The open source company operating system](https://github.com/operately/operately)
   * COO 없이도 목표·프로젝트·팀을 조율하게 해 주는 오픈소스 "회사 운영체제". Notion·ClickUp처럼 무엇이든 만들 수 있지만 실행 방법은 알아서 하라는 도구 대신, 목표 리뷰·프로젝트 체크인·책임 프로세스 같은 검증된 워크플로를 내장한 의견이 분명한 시스템
-  * 측정 가능한 목표(OKR)를 프로젝트와 연결해 진행률이 자동 반영되고, 프로젝트마다 담당자·마일스톤·정기 비동기 체크인을 둬 상태 회의 없이 진행 상황 공유. 자체 호스팅 또는 클라우드, 무료로 시작. Elixir, Apache-2.0, 572 stars
+  * 측정 가능한 목표(OKR)를 프로젝트와 연결해 진행률이 자동 반영되고, 프로젝트마다 담당자·마일스톤·정기 비동기 체크인을 둬 상태 회의 없이 진행 상황 공유. 자체 호스팅 또는 클라우드, 무료로 시작
 
 # Patent
 * 세기의 특허전쟁
@@ -3911,7 +3911,7 @@ Business
   * 구글 I/O 2026 AI 에이전트 발표가 사용자 페인 포인트 대신 기술 과시 우선. Apple 스토리텔링·MS Copilot 런칭("회의록 정리에 몇 분 걸리시나요?")과 대조. 5개 브랜드(Gemini/Spark/Halo/Information Agents/Daily Brief) 차별화 모호, "적절한 시기" 같은 모호한 무료 출시 시점. ChatGPT $20 티어가 5% 전환에 그치는데 $100/월 가격 의문. 가치 제안·접근성 양면 PMF 실패, 2018 Google Duplex가 더 명확한 가치 제안 사례
 * [Staying Ahead in the Agentic Era (or Any Era) Comes Down to 1 Key Priority | Entrepreneur](https://www.entrepreneur.com/building-a-business/staying-ahead-in-the-agentic-era-or-any-era-comes-down-to-1-key-priority)
   * [에이전틱 시대(또는 어느 시대든) 앞서 나가기 위한 1가지 핵심 우선순위 - Duke Donghyun Kim | Facebook](https://www.facebook.com/idreaming/posts/pfbid02L7uTmNb9xCxZwjxKXiaZ87sJWkeLSB7fQ1B7NWdJhJkhoZ7VeqbdZRDhxpJrvw7sl)
-  * Brady Broadbent(2026-10-22). 웹→모바일→클라우드→AI 세 번의 기술 곡선에서 승패를 가른 건 최신 스택이 아니라 첫 $1 매출부터 ARR $5억까지 고객의 문제가 어떻게 변했는지 포착하며 혁신한 것—AI 네이티브 스타트업이 기존 기업을 대체한다는 통념과 달리 많은 인컴번트가 계속 성장. 중소기업 회계 SaaS 사례: 결산의 '정확성'은 풀었지만 '효율성'(반복 업무 수 시간)을 "우리 영역이 아님"으로 방치하면 자동 수익 인식·예측 툴을 든 스타트업이 잠식
+  * Brady Broadbent. 웹→모바일→클라우드→AI 세 번의 기술 곡선에서 승패를 가른 건 최신 스택이 아니라 첫 $1 매출부터 ARR $5억까지 고객의 문제가 어떻게 변했는지 포착하며 혁신한 것—AI 네이티브 스타트업이 기존 기업을 대체한다는 통념과 달리 많은 인컴번트가 계속 성장. 중소기업 회계 SaaS 사례: 결산의 '정확성'은 풀었지만 '효율성'(반복 업무 수 시간)을 "우리 영역이 아님"으로 방치하면 자동 수익 인식·예측 툴을 든 스타트업이 잠식
   * 로드맵 상단에 "무엇을 더 만들어줄까요?"라고 묻지 말라는 문구 고정—고객은 해결책을 묘사할 수 있다면 직접 만들었을 것. 대신 "처음 도입 이유와 그 문제의 변화, 도입 후 페인 포인트 변화, 우리가 놓친 것, 직원이 기피하는 반복 작업, 5년 후 부서 모습". 전술 4가지: 최근 갱신·이탈 통화 10건에서 "여전히(still)…하지만 이제는(but now)" 표현 찾기, CS팀의 티켓화되지 않은 요청 패턴 분석, 월 1회 영업 아닌 순수 경청 미팅, ICP 자문 고객과 하루 보내기. 인접 문제를 재구축 없이 흡수하는 모듈형 아키텍처, CPO 영입 후에도 창업자가 고객 문제 진화를 계속 학습
 
 # Product Management
@@ -4039,7 +4039,7 @@ Business
   * 김영욱 〈AI 프로덕트 매니지먼트〉 시리즈 3편. 1편: 결정론 vs 확률론, 에어캐나다 챗봇 사건, 정확도 100% KPI 대신 오류 분포 관리. 2편: PM이 알아야 할 LLM 5개념(토큰·컨텍스트·추론·RAG·에이전트), 한국어가 영어 대비 1.5~2배 토큰. 3편: AI 기능 = 시스템(입력처리·프롬프트·출력처리·오케스트레이션 4레이어), 신뢰 설계 3패턴(출처·확신도·휴먼 에스컬레이션), Retry→Fallback→Escalation 연착륙
 * [Mental Models in the Agentic Era | Product Mindset](https://productmindset.substack.com/p/mental-models-in-the-agentic-era)
   * [AI 에이전트 시대의 제품 기획: 15가지 핵심 사고 모델 | digitalbourgeois](https://digitalbourgeois.tistory.com/4100)
-  * 2026-10-19. 경제학·제품 관리·조직 이론의 기존 멘탈 모델이 에이전트 시대에도 유효하지만 다른 답을 낸다는 글—5개 범주 15개 모델. 경제성(제번스 역설: 지능이 싸질수록 사용량 증가, 비용 구조 변화), 확률 시스템 설계(Jagged Frontier, 단계별 성공률이 높아도 복합되면 전체 작업 성공률은 낮아지는 오류 복합, "평가 스위트가 새로운 제품 명세서"), 신뢰 관리(자율성 다이얼, 되돌릴 수 없는 일방향 결정), 지속 가능성(차기 모델로 테스트, 데이터 플라이휠), 인력 운영—생성 속도가 빨라지면 검토가 새 병목이 되고 "병목이 구축에서 의사결정으로 이동", 사람의 판단·선택 능력이 제품 경쟁력의 핵심
+  * 경제학·제품 관리·조직 이론의 기존 멘탈 모델이 에이전트 시대에도 유효하지만 다른 답을 낸다는 글—5개 범주 15개 모델. 경제성(제번스 역설: 지능이 싸질수록 사용량 증가, 비용 구조 변화), 확률 시스템 설계(Jagged Frontier, 단계별 성공률이 높아도 복합되면 전체 작업 성공률은 낮아지는 오류 복합, "평가 스위트가 새로운 제품 명세서"), 신뢰 관리(자율성 다이얼, 되돌릴 수 없는 일방향 결정), 지속 가능성(차기 모델로 테스트, 데이터 플라이휠), 인력 운영—생성 속도가 빨라지면 검토가 새 병목이 되고 "병목이 구축에서 의사결정으로 이동", 사람의 판단·선택 능력이 제품 경쟁력의 핵심
 
 # Product Owner
 * [PO가 어떻게 일하냐고요?아니 PO가 뭐냐고요? 요기요 프로덕트 오너의 출근 브이로그ㅣ출근로그 - YouTube](https://www.youtube.com/watch?v=gVE_4pRjeJ4)
@@ -4260,7 +4260,7 @@ Business
   * Zubair Trabzada가 운영하는 AI 에이전시 창업 부트캠프 유료 커뮤니티(월 $59). 90일 안에 첫 $3K 클라이언트 확보 목표. 5주 런칭 프로그램, Claude Code 마스터클래스, 비즈니스 템플릿 제공
 * [awesome-ai-lead-generation: A curated list of AI tools for finding customers, social listening, and automated outreach. The modern growth stack](https://github.com/toofast1/awesome-ai-lead-generation)
   * 정적 DB에서 의도(intent) 기반 AI 고객 획득으로 옮겨가는 "모던 그로스 스택" 큐레이션. 5개 분류—소셜 리스닝·의도 분석(Leado·Awario·F5Bot·GummySearch·Syften), 데이터 스크래핑·인리치먼트(Apify·Apollo·Bright Data·Clay·PhantomBuster), 콜드 아웃리치·이메일 AI(Instantly·Lavender·Lemlist·Smartlead), 보이스 에이전트·콜링(Bland AI·Synthflow·Vapi), AI 카피라이팅·개인화(Copy.ai·Jasper·Taplio·Warmer.ai)
-  * LaunchOnIt(launchon.it) 메이커가 운영하며 Reddit 리드 생성 도구 Leado를 Editor's choice로 내세움. MIT
+  * LaunchOnIt(launchon.it) 메이커가 운영하며 Reddit 리드 생성 도구 Leado를 Editor's choice로 내세움
 
 # Startup
 * [원대로 - 20대 창업 신화를 깨는 32년 추적 연구 | Facebook](https://www.facebook.com/drwonsg/posts/pfbid0YSqhkx9beXbaY3T28JZ75Fh1n1wWSNPaq5RaETzubKbc6RSP1VCwMmv1apNxeRgil)
@@ -4815,7 +4815,7 @@ Business
   * [MIDI 레코더 2,500대를 판매하며 배운 것: 하드웨어는 그렇게 어렵지 않다 | GeekNews](https://news.hada.io/topic?id=31601)
   * 피아노 연주 자동 기록 장치 Jamcorder를 1년 반 만에 2,500대+ 판매한 경험담. 가장 어려운 건 하드웨어가 아니라 펌웨어·앱·제조 도구에 걸친 약 20만 줄의 소프트웨어였고, LLM 이전 환경에서 3년 넘게 소요
 * [1인 개발자가 시작해 수백조 기업이 된 쇼피파이 | 20년 동안 내린 결정 6가지 - 헤이제임스, 플랫폼 하나 만들어줘 - YouTube](https://www.youtube.com/watch?v=Vm1E3LriCY0)
-  * 개발자 한 명이 짠 코드에서 시작한 쇼피파이의 20년을 결정 6가지로 짚는 21분 영상. 월정액 0원 출시, 앱 9개로 시작한 생태계, 지분 14.6%로 회사를 쥔 방법, 구독이 아니라 결제 회사라는 사업 구조, 순이익 98%가 주식 평가이익이었던 시기, 세계 최대급 Rails 모놀리스, "AI를 안 쓰면 사람을 못 뽑는다" 원칙, 2026년 9월 네이티브로 돌아간 이유
+  * 개발자 한 명이 짠 코드에서 시작한 쇼피파이의 20년을 결정 6가지로 짚는 영상. 월정액 0원 출시, 앱 9개로 시작한 생태계, 지분 14.6%로 회사를 쥔 방법, 구독이 아니라 결제 회사라는 사업 구조, 순이익 98%가 주식 평가이익이었던 시기, 세계 최대급 Rails 모놀리스, "AI를 안 쓰면 사람을 못 뽑는다" 원칙, 2026년 9월 네이티브로 돌아간 이유
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)

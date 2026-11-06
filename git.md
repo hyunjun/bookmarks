@@ -549,7 +549,7 @@ Git
 * [Github 프로필 꾸미기](https://velog.io/@colorful-stars/Github-%ED%94%84%EB%A1%9C%ED%95%84-%EA%BE%B8%EB%AF%B8%EA%B8%B0)
 * [bubble: Let's start changing your profile. (Readme Profile Collection)](https://github.com/LHRUN/bubble)
   * [Bubble — Awesome Profile](https://bubble-awesome-profile.vercel.app/)
-  * GitHub 프로필 README를 꾸밀 때 쓰는 컴포넌트와 실제 프로필 사례를 모아 미리보기로 탐색하는 갤러리. Snk(잔디 먹는 뱀), github-readme-stats, Profile Trophy, 3D Contrib, Readme Typing SVG, Star History, waka-readme-stats, Techstack Generator 등 수십 개를 수록. GitHub/Google 로그인 후 마음에 드는 항목에 좋아요 표시 가능. 콘텐츠는 저자가 수동 큐레이션하며 빠진 컴포넌트는 Issues로 제안받음. Next.js+Prisma, TypeScript, MIT, 494 stars
+  * GitHub 프로필 README를 꾸밀 때 쓰는 컴포넌트와 실제 프로필 사례를 모아 미리보기로 탐색하는 갤러리. Snk(잔디 먹는 뱀), github-readme-stats, Profile Trophy, 3D Contrib, Readme Typing SVG, Star History, waka-readme-stats, Techstack Generator 등 수십 개를 수록. GitHub/Google 로그인 후 마음에 드는 항목에 좋아요 표시 가능. 콘텐츠는 저자가 수동 큐레이션하며 빠진 컴포넌트는 Issues로 제안받음
 * [fiddly: Create beautiful and simple HTML pages from your Readme.md files](https://github.com/SaraVieira/fiddly)
   * [Fiddly - Readme를 예쁜 웹페이지로 만들기 | GeekNews](https://news.hada.io/topic?id=4688)
 * [github-readme-stats: Dynamically generated stats for your github readmes](https://github.com/anuraghazra/github-readme-stats)
@@ -1372,8 +1372,8 @@ Git
 * [Redesigning source control at Anthropic | Anthropic Engineering](https://www.anthropic.com/engineering/redesigning-source-control)
   * [Anthropic의 소스 컨트롤 재설계: AI 에이전트 시대를 위한 Scion의 아키텍처와 확장 전략 | digitalbourgeois](https://digitalbourgeois.tistory.com/3798)
   * [AI가 Git의 한계를 드러냈다: Anthropic이 자체 버전 관리 시스템 'Scion'을 개발한 이유 | KAITA](https://kaita.org/learning/blog/Aqmf7bNNl1z0r2NlAFlD)
-    * 토토로(2026-10-17). Git의 분산 설계 철학과 Anthropic 워크로드의 충돌, 서버 중심 모델·Changeset·Content-Addressed Storage·Derived Data·계층형 캐싱을 그림으로 풀고, ML 엔지니어에게도 중요한 이유(AI 연구·실험 자동화 인프라)로 확장한 한국어 해설
-  * 2026-10-13. 코딩이 병목이 아니게 되자 인간 규모로 만들어진 개발 인프라(소스 컨트롤·빌드·CI)가 병목—모노레포 하루 머지 2026-05 약 2,500건→09 3만+건, 메인 브랜치 이력 ~100GB·압축 작업 사본 25GB+, CI만 하루 2,500만 회 체크아웃(단순 fetch면 600PB/일). 수백 대의 내부 git 미러로 버티다 5개월 만에 자체 VCS Scion으로 전면 이전, 코드 리뷰 Antique·코드 검색·IAM도 함께 구축(7명 팀)
+    * 토토로. Git의 분산 설계 철학과 Anthropic 워크로드의 충돌, 서버 중심 모델·Changeset·Content-Addressed Storage·Derived Data·계층형 캐싱을 그림으로 풀고, ML 엔지니어에게도 중요한 이유(AI 연구·실험 자동화 인프라)로 확장한 한국어 해설
+  * 코딩이 병목이 아니게 되자 인간 규모로 만들어진 개발 인프라(소스 컨트롤·빌드·CI)가 병목—모노레포 하루 머지 2026-05 약 2,500건→09 3만+건, 메인 브랜치 이력 ~100GB·압축 작업 사본 25GB+, CI만 하루 2,500만 회 체크아웃(단순 fetch면 600PB/일). 수백 대의 내부 git 미러로 버티다 5개월 만에 자체 VCS Scion으로 전면 이전, 코드 리뷰 Antique·코드 검색·IAM도 함께 구축(7명 팀)
   * 설계 원칙(Google Piper·Meta Sapling 교훈 위에): 클라이언트는 항상 온라인, 클라이언트-서버 비대칭(이력·blame·commit·merge·rebase는 서버가 수행, 클라이언트는 bounded 캐시+작업 사본), 모든 질의를 API로 노출(자동 bisect·revert 파이프라인), 모든 컴포넌트 수평 확장(완전 materialize된 복사본·packfile 없음), commit은 서버에서 저렴·증분·lock-free(ref는 main·릴리스 브랜치만 권장), 작업 사본은 선택적이며 sparse·가상화 기본
   * 구조: 단위는 WAL 엔트리 "changeset"(첫 부모 대비 변경 파일 목록+blob 스토리지 content-addressed 포인터), blame·경로 이력·커밋 그래프 skip list 등은 부모 값에서 재귀 계산하는 "derived data"로 일반화(eager/지연 선택, 클라이언트 비노출). scn 클라이언트는 "가진 것" 협상 대신 원하는 tree/blob만 재귀 요청(resumable, 어떤 캐시든 응답 가능)→노드별 scion-daemon→리전 scion-cache→scion-server→Spanner/클라우드 스토리지 3계층(동일 RPC, 티어 강제로 장애 격리, 각 티어 캐시 적중 99%+). 결과: git 미러 대비 인프라 CPU·메모리 200× 축소, 체크아웃 분→초(100×), CI CPU 25% 절감
   * 교훈: Claude Mythos Preview·Claude Tag 내부 공개와 동시에 시작—손으로 짠 git→Scion 인제스션 프로토타입을 Mythos Preview에 다시 쓰게 하자 추가 지시 없이 메모리 20× 절감·4× 빠른 버전이 나옴. 소규모 팀의 빠른 대형 마이그레이션이 흔해질 것. 수치는 자체 보고이며 Scion은 외부 제공·범용 git 대체가 아님(소개 글이 짚은 전제)
@@ -1405,15 +1405,15 @@ Git
 * [copybara: A tool for transforming and moving code between repositories | Google](https://github.com/google/copybara)
   * [Google Copybara: 저장소 간 코드 이동 | GeekNews](https://news.hada.io/topic?id=31018)
   * [Copybara로 이해하는 저장소 간 코드 동기화와 변환 자동화 | digitalbourgeois](https://digitalbourgeois.tistory.com/3311)
-  * 여러 저장소를 단일 authoritative 소스로 동기화(기밀↔공개 레포 싱크, 코드 부분 임포트, 다중 레포 기여 관리). 무상태—동기화 상태를 대상 커밋 메시지 라벨에 저장해 여러 사용자가 동일 설정으로 일관된 결과. Git 완전 지원, Java+Bazel. 3.6k stars
+  * 여러 저장소를 단일 authoritative 소스로 동기화(기밀↔공개 레포 싱크, 코드 부분 임포트, 다중 레포 기여 관리). 무상태—동기화 상태를 대상 커밋 메시지 라벨에 저장해 여러 사용자가 동일 설정으로 일관된 결과. Git 완전 지원, Java+Bazel
 * [cz-cli: The commitizen command line utility](https://github.com/commitizen/cz-cli) Git 커밋 메시지의 작성을 도와주는 CLI 도구
 * [delta: A viewer for git and diff output](https://github.com/dandavison/delta)
 * [dns.js.org - free and sleek URL for GitHub Pages](http://dns.js.org/)
 * [dolt: Dolt – It's Git for Data](https://github.com/dolthub/dolt)
 * [Entire — Former GitHub CEO Thomas Dohmke launches Entire with a landmark $60 million seed round to build the world's next developer platform for the era of AI](https://entire.io/news/former-github-ceo-thomas-dohmke-raises-60-million-seed-round)
   * [cli: 📜 Entire CLI hooks into your Git workflow to capture AI agent sessions as you work. Sessions are indexed alongside commits, creating a searchable record of how code was written in your repo | entireio](https://github.com/entireio/cli)
-  * 2026-02-10. 전 GitHub CEO Thomas Dohmke가 인간-에이전트 협업용 개발자 플랫폼 Entire를 창업, Felicis 주도 $60M 시드(밸류 $300M, 개발자 도구 사상 최대 시드; Madrona·M12·20VC와 Gergely Orosz·Theo Browne·Jerry Yang·Olivier Pomel·Garry Tan 등 참여). "이슈→git 레포→PR→배포의 수작업 소프트웨어 생산 시스템은 AI 시대를 위해 설계된 것이 아니다"—자동차의 이동식 조립 라인처럼 기계가 주 생산자인 세계에 맞춰 SDLC 재구상. 15명 원격 조직
-  * 비전 3요소: 코드·의도·제약·추론을 하나의 버전 관리 시스템에 통합하는 git 호환 데이터베이스, 컨텍스트 그래프로 멀티 에이전트를 조율하는 범용 시맨틱 추론 레이어, 에이전트-인간 협업용 AI 네이티브 UI. 첫 오픈소스 제품 Checkpoints(CLI): 에이전트가 만든 모든 커밋에 세션 전사·프롬프트·결정 등 전체 컨텍스트를 구조화된 체크포인트로 짝지어 Git에 저장, AI 기여 그래프로 검색·탐색. Claude Code·Gemini CLI부터 지원. Go, MIT
+  * 전 GitHub CEO Thomas Dohmke가 인간-에이전트 협업용 개발자 플랫폼 Entire를 창업, Felicis 주도 $60M 시드(밸류 $300M, 개발자 도구 사상 최대 시드; Madrona·M12·20VC와 Gergely Orosz·Theo Browne·Jerry Yang·Olivier Pomel·Garry Tan 등 참여). "이슈→git 레포→PR→배포의 수작업 소프트웨어 생산 시스템은 AI 시대를 위해 설계된 것이 아니다"—자동차의 이동식 조립 라인처럼 기계가 주 생산자인 세계에 맞춰 SDLC 재구상. 15명 원격 조직
+  * 비전 3요소: 코드·의도·제약·추론을 하나의 버전 관리 시스템에 통합하는 git 호환 데이터베이스, 컨텍스트 그래프로 멀티 에이전트를 조율하는 범용 시맨틱 추론 레이어, 에이전트-인간 협업용 AI 네이티브 UI. 첫 오픈소스 제품 Checkpoints(CLI): 에이전트가 만든 모든 커밋에 세션 전사·프롬프트·결정 등 전체 컨텍스트를 구조화된 체크포인트로 짝지어 Git에 저장, AI 기여 그래프로 검색·탐색. Claude Code·Gemini CLI부터 지원
 * [epiq — distributed, terminal-native, Git-backed issue tracker](https://ljtn.github.io/epiq/)
   * [epiq](https://github.com/ljtn/epiq)
   * [epiq - Git 기반 분산형 로컬 CLI 네이티브 이슈 트래커 | GeekNews](https://news.hada.io/topic?id=31104)
@@ -1483,7 +1483,7 @@ Git
 * git bash [Windows 사용자를 위한 Git Bash 설정](https://medium.com/@violetboralee/windows-%EC%82%AC%EC%9A%A9%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-git-bash-%EC%84%A4%EC%A0%95-ac50acb34c46)
 * [git-bug: Distributed, offline-first bug tracker integrated in git](https://github.com/git-bug/git-bug)
   * [Git-bug란? Git 저장소에서 이슈를 관리하는 분산형 버그 추적기 | digitalbourgeois](https://digitalbourgeois.tistory.com/3726)
-  * 이슈와 댓글을 별도 저장소 없이 Git 저장소 안에 보관하고 `git bug push`·`git bug pull`로 다른 저장소와 동기화하는 분산형 버그 추적기. 네트워크 없이도 이슈 조회·작성이 되는 오프라인 우선 설계. CLI·대화형 터미널 UI·웹 UI를 제공하고, GitHub·GitLab·Jira 같은 기존 이슈 추적기와 연동(bridge)해 기존 도구를 유지한 채 로컬 중심 작업 환경 구성. Go, GPL-3.0, 10.7k stars
+  * 이슈와 댓글을 별도 저장소 없이 Git 저장소 안에 보관하고 `git bug push`·`git bug pull`로 다른 저장소와 동기화하는 분산형 버그 추적기. 네트워크 없이도 이슈 조회·작성이 되는 오프라인 우선 설계. CLI·대화형 터미널 UI·웹 UI를 제공하고, GitHub·GitLab·Jira 같은 기존 이슈 추적기와 연동(bridge)해 기존 도구를 유지한 채 로컬 중심 작업 환경 구성
 * [GitButler | Git Branching, Refined](https://gitbutler.com/)
   * [gitbutler at blog.gitbutler.com](https://github.com/gitbutlerapp/gitbutler)
   * [Opening Up GitButler](https://blog.gitbutler.com/opening-up-gitbutler/)
@@ -1591,7 +1591,7 @@ Git
   * [git-mcp: Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project](https://github.com/idosal/git-mcp)
   * [GitHub 저장소를 AI 코딩 도구의 문서 허브로 연결하는 원격 MCP 서버 GitMCP의 사용법과 활용 예제 | digitalbourgeois](https://digitalbourgeois.tistory.com/4029)
   * 저장소 URL의 `github.com`을 `gitmcp.io`로 바꾸면(`gitmcp.io/{owner}/{repo}`, GitHub Pages 포함) 그 프로젝트가 AI 도구용 문서 허브가 되는 무료 원격 MCP 서버—llms.txt·llms-full.txt > AI 최적화 문서 > README 순으로 최신 문서·코드를 검색해 LLM이 모르는 신규·틈새·빠르게 바뀌는 라이브러리의 환각을 줄임. 특정 레포 전용 엔드포인트와 요청마다 레포를 고르는 범용 `gitmcp.io/docs` 두 방식, Cursor·Claude·Windsurf·VS Code·Cline 등 지원, 설치 없이 MCP 설정에 URL만 등록, 셀프 호스팅 가능
-  * 티스토리 글의 주의점: 문서를 가져와도 정확성이 보장되진 않아 생성 코드 검증 필요, 외부 서비스 질의에 민감 정보 금지, 대상 프로젝트 라이선스는 별도 적용. TypeScript, Apache-2.0, 8.5k stars
+  * 티스토리 글의 주의점: 문서를 가져와도 정확성이 보장되진 않아 생성 코드 검증 필요, 외부 서비스 질의에 민감 정보 금지, 대상 프로젝트 라이선스는 별도 적용
 * [git-meld-index - Run meld or any git difftool to interactively stage changes](https://github.com/jjlee/git-meld-index)
 * [Git Miner Dig into guts of git history](https://gitminer.com/)
 * [Git-mirror-sync - a GitHub service that allows users to easily backup there GitHub repositories to private BitBucket mirrors](http://obihann.github.io/git-mirror-sync/)

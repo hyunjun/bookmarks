@@ -288,7 +288,7 @@ Graph
   * 홈 화면이 1.5초 느려진 회귀 하나를 고치는 데 4시간이 걸린 이유는 데이터 부족이 아니라 Atlas·Radar·incident.io·PagerDuty·Spinnaker·Slack이 저마다 같은 대상을 application·service·cluster로 다르게 부르고 그 매핑을 사람 머릿속에만 두고 있었기 때문—end-to-end 관측성의 어려운 부분은 "데이터 모델링 문제"라는 진단. 그래서 RDF(데이터 모델)·OWL(온톨로지)·SHACL(검증)·SPARQL(질의) W3C 스택으로 12개 네임스페이스의 Observability Ontology를 만들고, 텔레메트리·로그·인시던트 대화를 트리플로 파싱해 자체 RDF 쿼드 스토어 QuipuDB(Rust redb 기반)에 지식 그래프로 저장(매 수집마다 diff 가능한 Turtle 직렬화도 보존). 설계 결정 두 가지: 범용 Service 타입을 거부하고 약 4만9천 건 소프트웨어 카탈로그로 검증된 것만 ops:Application이 되게 하며 의존성 엣지 수를 양방향으로 제한, 그리고 200메시지·50명·15서비스짜리 인시던트 Slack 채널에 담긴 가설·기각·완화 조치라는 "추론"을 구조화된 트리플로 보존. 가장 인상적인 부분은 LLM 요약·퍼지 매칭·확률적 인과 추론 같은 비결정적 도구의 출력을 온톨로지의 타입 시스템으로 제약해 결과적으로 같은 SPARQL 질의에 항상 같은 답을 주는 결정론적 그래프를 만든다는 접근이며, 이 그래프는 AutoRCA 멀티 에이전트의 공통 어휘 역할도 담당. 과거 매니저로서 담당 부서마다 공통 어휘집(dictionary)을 만들었던 경험처럼, 데이터 시스템 구축에서도 공통 어휘라는 가장 기초적인 것이 잘 되어야 한다는 점을 다시 확인하게 하는 글
 * [auto-ontology: Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data — deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows | NVIDIA](https://github.com/NVIDIA/auto-ontology)
   * [auto-ontology-eval: Measures ontology performance on benchmarks and evals | NVIDIA](https://github.com/NVIDIA/auto-ontology-eval)
-  * "에이전트가 엔터프라이즈 데이터에서 틀린 답을 덜 내게 하는 오픈 컨텍스트 레이어"(Python, Apache-2.0, 3.7k stars). 에이전트는 문서를 찾고 DB를 질의할 수 있지만 에이전틱 분석의 관문은 신뢰성—빨리 받은 매출 수치가 틀리면 아무 가치가 없으므로 질의 전에 데이터가 어디 있고, 무슨 뜻이고, 써도 되는지, 어떻게 쓰는지, 어디서 왔는지, 무엇과 비슷한지를 알아야 함. DB 옆에서 돌리는 서비스로 메타데이터를 온톨로지(비즈니스 용어→컬럼 매핑, 검토된 측정값 SQL, 테이블 간 관계)로 컴파일하고 에이전트는 온톨로지를 통해 질의, 사람은 웹 UI에서 검토. 기존 시맨틱 모델을 대체하지 않고 보완
+  * "에이전트가 엔터프라이즈 데이터에서 틀린 답을 덜 내게 하는 오픈 컨텍스트 레이어". 에이전트는 문서를 찾고 DB를 질의할 수 있지만 에이전틱 분석의 관문은 신뢰성—빨리 받은 매출 수치가 틀리면 아무 가치가 없으므로 질의 전에 데이터가 어디 있고, 무슨 뜻이고, 써도 되는지, 어떻게 쓰는지, 어디서 왔는지, 무엇과 비슷한지를 알아야 함. DB 옆에서 돌리는 서비스로 메타데이터를 온톨로지(비즈니스 용어→컬럼 매핑, 검토된 측정값 SQL, 테이블 간 관계)로 컴파일하고 에이전트는 온톨로지를 통해 질의, 사람은 웹 UI에서 검토. 기존 시맨틱 모델을 대체하지 않고 보완
   * Discover(DB 메타데이터에서 온톨로지 생성·기존 시맨틱 모델 임포트·시맨틱 그래프 탐색)→Ground(비즈니스 개념당 하나의 정의를 테이블·DB 횡단 매핑)→Certify(UI·API로 정의 검토·편집·인증)→Validate(질의 전에 답할 수 있는 질문인지 확인, 답마다 SQL과 에이전트 단계 반환)→Expose(MCP·에이전트 스킬·REST API로 어떤 하네스에나 컨텍스트 제공). 스키마를 컨텍스트 창에 붙이는 흔한 지름길 대신 온톨로지 위의 도구를 에이전트에 줌. 평가는 BIRD·BEAVER·FDABench-Lite·Wide World Importers에서 같은 모델에 스키마 프롬프트(대조군) vs 컴파일된 온톨로지 기반 QA 에이전트(실험군)로 두 번 묻고 실행 일치로 채점—정확도 차이와 온톨로지가 고친/깨뜨린 질문을 보고, 멀티턴 BIRD-Interact는 별도 하네스
 * [Create Context Graph — CLI scaffolding for AI agent apps with Neo4j](https://create-context-graph.dev/)
   * [create-context-graph](https://github.com/neo4j-labs/create-context-graph)
@@ -305,7 +305,7 @@ Graph
 * [HybridRAG: Integrating Knowledge Graphs and Vector Retrieval Augmented Generation for Efficient Information Extraction | 배수정](https://www.linkedin.com/posts/crystal0224_hybridrag-integrating-knowledge-graphs-and-share-7455392718773465088-Qvik)
   * 지식 그래프와 벡터 검색을 결합한 하이브리드 RAG. 정보 추출 효율성 향상. 온톨로지 관점의 RAG 설계 논의
 * [knowledge_graph: Convert any text to a graph of knowledge](https://github.com/rahulnyk/knowledge_graph)
-  * 텍스트를 지식 그래프로 변환. Graph Augmented Generation·지식 그래프 기반 QnA에 활용. Jupyter Notebook, MIT, 3.4k stars
+  * 텍스트를 지식 그래프로 변환. Graph Augmented Generation·지식 그래프 기반 QnA에 활용
 * [knowledgeGraph: AI agent long-term memory via mentoring-based knowledge graph](https://github.com/ChenLiangChong/knowledgeGraph)
   * AI 에이전트 장기 기억 시스템. 멘토링 통해 도메인 전문성 축적, 하이브리드 검색, 메모리 감쇠, 환각 방지
 * [LightRAG: Simple and Fast Retrieval-Augmented Generation](https://arxiv.org/abs/2410.05779)
@@ -313,13 +313,13 @@ Graph
   * 텍스트 인덱싱에 그래프 구조 통합한 dual-level 검색. NaiveRAG, GraphRAG보다 우수한 성능
 * [neocarta: Library built for generating semantic layer graphs for query routing, query generation and data discovery](https://github.com/neo4j-labs/neocarta)
   * [Neocarta로 구축하는 Neo4j 기반 Semantic Layer와 AI Agent 데이터 활용 | digitalbourgeois](https://digitalbourgeois.tistory.com/3593)
-  * Neo4j Labs의 시맨틱 레이어 구축 라이브러리. 원본 데이터는 소스에 그대로 두고 스키마 메타데이터·비즈니스 용어집·메트릭 정의·쿼리 이력만 Neo4j 그래프로 통합, MCP 서버로 AI 에이전트에 제공—어떤 데이터가 어디에 있고 무엇을 뜻하며 어떻게 조인되는지 이해시켜 Text2Query·쿼리 라우팅·데이터 디스커버리를 신뢰성 있게. BigQuery 등 커넥터 제공. Python, Apache-2.0
+  * Neo4j Labs의 시맨틱 레이어 구축 라이브러리. 원본 데이터는 소스에 그대로 두고 스키마 메타데이터·비즈니스 용어집·메트릭 정의·쿼리 이력만 Neo4j 그래프로 통합, MCP 서버로 AI 에이전트에 제공—어떤 데이터가 어디에 있고 무엇을 뜻하며 어떻게 조인되는지 이해시켜 Text2Query·쿼리 라우팅·데이터 디스커버리를 신뢰성 있게. BigQuery 등 커넥터 제공
 * [ontoflow: Ontology-native workflow automation for explainable business operations](https://github.com/llmragdev/ontoflow)
   * 업무 데이터 모델과 업무 절차 실행을 연결해 사람이 이해·추적할 수 있는 업무 자동화를 만드는 공개 아키텍처 프로젝트. 대화형 AI나 도구 연결만으로는 답하기 어려운 질문—어떤 업무 데이터의 어떤 값이 바뀌었고 어느 단계에서 만들어졌는지, 외부 API·MCP 도구 호출의 입·출력 추적, 어떤 검증 규칙이 통과/실패했는지, 후보 변경이 언제 실제 데이터에 반영되는지—를 제품 구조의 핵심으로 다룸
 * [Ontology-Playground: Free, open-source web app for learning about ontologies and Microsoft Fabric IQ](https://github.com/microsoft/Ontology-Playground)
   * [우리 회사는 같은 단어를 같은 뜻으로 쓰고 있는가 | AX LABS 블로그](https://theaxlabs.com/blog/%EC%9A%B0%EB%A6%AC-%ED%9A%8C%EC%82%AC%EB%8A%94-%EA%B0%99%EC%9D%80-%EB%8B%A8%EC%96%B4%EB%A5%BC-%EA%B0%99%EC%9D%80-%EB%9C%BB%EC%9C%BC%EB%A1%9C-%EC%93%B0%EA%B3%A0-%EC%9E%88%EB%8A%94%EA%B0%80)
   * [Microsoft가 온톨로지 오픈소스를 공개했습니다 | Seungpil Lee](https://www.linkedin.com/posts/seungpil_microsoft%EA%B0%80-%EC%98%A8%ED%86%A8%EB%A1%9C%EC%A7%80-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%EB%A5%BC-%EA%B3%B5%EA%B0%9C%ED%96%88%EC%8A%B5%EB%8B%88%EB%8B%A4-%ED%81%B4%EB%A1%9C%EB%93%9C-%EC%BD%94%EB%93%9C%EB%A1%9C-share-7484748260364943360-TLY_/)
-  * Microsoft의 온톨로지 학습용 오픈소스 웹앱(MIT, 백엔드 없이 브라우저 실행). 사전 구축 온톨로지 카탈로그 탐색, 시각적 설계, RDF/XML 내보내기. LLM은 텍스트를 읽지만 회사의 "고객"이 CRM 고객인지 청구 계약자인지는 못 읽음—DB 스키마는 저장 방식을, 온톨로지는 의미를 정의하며 에이전트에 필요한 건 후자
+  * Microsoft의 온톨로지 학습용 오픈소스 웹앱(백엔드 없이 브라우저 실행). 사전 구축 온톨로지 카탈로그 탐색, 시각적 설계, RDF/XML 내보내기. LLM은 텍스트를 읽지만 회사의 "고객"이 CRM 고객인지 청구 계약자인지는 못 읽음—DB 스키마는 저장 방식을, 온톨로지는 의미를 정의하며 에이전트에 필요한 건 후자
 * [os-taxonomy: Marble Skill Taxonomy — open, structured taxonomy of what children learn](https://github.com/withmarbleapp/os-taxonomy)
   * 초등 교육 학습 내용을 선행 의존성·커리큘럼 정렬·과목별로 구조화한 1,590개 마이크로 토픽 지식 그래프. 세분화된 교육 개념을 선행 관계로 연결하고 국가 커리큘럼 표준에 매핑, 연구·상업 이용 가능
 * [PathRAG: Pruning Graph-based RAG with Relational Paths](https://arxiv.org/abs/2502.14902)
@@ -330,12 +330,12 @@ Graph
 * [sample-industrial-ontology-mcp-server: Turn tabular data into a reviewable RDF/OWL knowledge graph using an MCP server and Amazon Bedrock | aws-samples](https://github.com/aws-samples/sample-industrial-ontology-mcp-server)
   * 도메인 중립 지식 그래프 라이프사이클을 로컬 stdio MCP 서버로—CSV 프로파일링→T-Box 설계→A-Box 생성→검증·품질 게이트→OWL 추론→SPARQL 질의·리포트. MCP 클라이언트+Amazon Bedrock으로 합성 제조 데이터를 다루는 200분 가이드 워크숍 포함(데이터·지식 그래프 엔지니어, SA, 도메인 전문가 대상). 비프로덕션 샘플. Python, MIT-0
 * [sample-ontology-discovery-workshop: OntoForge — a local workshop tool for building a graph model from business conversations and existing data | aws-samples](https://github.com/aws-samples/sample-ontology-discovery-workshop)
-  * 비즈니스 대화와 기존 데이터(스키마·샘플 레코드)에서 그래프 모델을 만드는 AWS 샘플 워크숍 도구—참가자의 AI 어시스턴트(Claude Code `/onto-discover`, Kiro 등)가 비즈니스 시나리오를 묻고 엔티티·관계를 찾아 `ontology-docs/`에 모델과 워크숍 기록(결정·출처·미해결 질문·변경)을 쓰고, 로컬 브라우저 리뷰 앱(viz-server)이 T-box(타입·관계·속성·식별자)·A-box(인스턴스)·Cypher 질의 결과를 시각화해 그래프가 비즈니스 질문에 답하는지 확인. 결과물은 그래프 모델·결정 기록·검증 질의이며 JSON·PNG·SVG·Cypher(스키마/데이터/전체)로 내보냄. 워크숍 후 `/ontoforge-evaluation` 스킬이 T-box를 읽어 구조 검사(관계 제약·중복 관계명·같은 사실의 중복 저장·명명 불일치)·정량 지표(속성·관계·상속 풍부도)·의미 검토·골든 질문 연계·권고를 한국어 HTML 보고서로 생성. 그래프 검증을 수작업으로 하면 손이 너무 많이 가고 복잡해져 시각적 리뷰(그래프 스튜디오) 기능을 둔 것으로 보이며, 그래프 빌드에는 사용자의 도메인 지식이 들어가야 하는데 그래프 DB가 생소한 사람에게는 이 부분이 어려우므로 변화를 눈으로 보며 모델링하면 이해가 나아진다는 점이 핵심. Python, Apache-2.0
+  * 비즈니스 대화와 기존 데이터(스키마·샘플 레코드)에서 그래프 모델을 만드는 AWS 샘플 워크숍 도구—참가자의 AI 어시스턴트(Claude Code `/onto-discover`, Kiro 등)가 비즈니스 시나리오를 묻고 엔티티·관계를 찾아 `ontology-docs/`에 모델과 워크숍 기록(결정·출처·미해결 질문·변경)을 쓰고, 로컬 브라우저 리뷰 앱(viz-server)이 T-box(타입·관계·속성·식별자)·A-box(인스턴스)·Cypher 질의 결과를 시각화해 그래프가 비즈니스 질문에 답하는지 확인. 결과물은 그래프 모델·결정 기록·검증 질의이며 JSON·PNG·SVG·Cypher(스키마/데이터/전체)로 내보냄. 워크숍 후 `/ontoforge-evaluation` 스킬이 T-box를 읽어 구조 검사(관계 제약·중복 관계명·같은 사실의 중복 저장·명명 불일치)·정량 지표(속성·관계·상속 풍부도)·의미 검토·골든 질문 연계·권고를 한국어 HTML 보고서로 생성. 그래프 검증을 수작업으로 하면 손이 너무 많이 가고 복잡해져 시각적 리뷰(그래프 스튜디오) 기능을 둔 것으로 보이며, 그래프 빌드에는 사용자의 도메인 지식이 들어가야 하는데 그래프 DB가 생소한 사람에게는 이 부분이 어려우므로 변화를 눈으로 보며 모델링하면 이해가 나아진다는 점이 핵심
 * [Semantica — Graph-Native Infrastructure for Context and Accountable AI Systems](https://getsemantica.ai/)
   * [semantica: Graph-Native Infrastructure for Context and Accountable AI Systems](https://github.com/semantica-agi/semantica)
   * [Semantica, AI 에이전트를 위한 Context Graph와 의사결정 인프라 | digitalbourgeois](https://digitalbourgeois.tistory.com/3537)
   * AI 에이전트의 의사결정을 추적·설명 가능하게 만드는 그래프 네이티브 인프라. 기업 데이터를 Context Graph로 통합(PDF·DB·API·Databricks·Snowflake), 의사결정을 기록하고 인과관계 연결, "왜 이 결정을 내렸는가" provenance 추적, 데이터 소스 간 충돌 감지·중복 제거
-  * LLM을 대체하지 않고 그 위에 구조화된 감사 추적 계층을 추가하는 방식. 금융(대출심사·AML)·의료(임상 의사결정)·법률(계약 분석)·정부·국방·사이버보안 등 규제 환경 대상. Python, 10k stars
+  * LLM을 대체하지 않고 그 위에 구조화된 감사 추적 계층을 추가하는 방식. 금융(대출심사·AML)·의료(임상 의사결정)·법률(계약 분석)·정부·국방·사이버보안 등 규제 환경 대상
 
 # Library
 * [Ajgu - a simple graph database power by BerkleyDB key-value store](https://bitbucket.org/amirouche/ajgu-graphdb)
@@ -429,12 +429,12 @@ Graph
 * [Omnigraph — Graph as code. Object-storage native. Optimized for context assembly](https://www.omnigraph.dev/)
   * [omnigraph: Rust-based lakehouse graph database as the operational state and coordination layer for fleets of agents](https://github.com/ModernRelay/omnigraph)
   * [에이전트 협업을 위한 레이크하우스 그래프 데이터베이스, Omnigraph 정리 | digitalbourgeois](https://digitalbourgeois.tistory.com/3321)
-  * AI 에이전트 fleet의 운영 상태·협업 레이어용 그래프 DB. "graph as code"—스키마·쿼리·정책·인프라를 YAML로 선언·버전관리, Git 스타일 브랜치/머지/리뷰로 여러 에이전트가 격리 브랜치에서 병렬 작업 후 병합. 그래프 순회+벡터+풀텍스트 하이브리드 검색 단일 쿼리, S3 호환 오브젝트 스토리지(Lance 포맷, time-travel), Cedar 정책 서버사이드 적용. CLI/TypeScript SDK/MCP 서버. Rust, MIT
+  * AI 에이전트 fleet의 운영 상태·협업 레이어용 그래프 DB. "graph as code"—스키마·쿼리·정책·인프라를 YAML로 선언·버전관리, Git 스타일 브랜치/머지/리뷰로 여러 에이전트가 격리 브랜치에서 병렬 작업 후 병합. 그래프 순회+벡터+풀텍스트 하이브리드 검색 단일 쿼리, S3 호환 오브젝트 스토리지(Lance 포맷, time-travel), Cedar 정책 서버사이드 적용. CLI/TypeScript SDK/MCP 서버
 * [OntoBricks — Knowledge Graph Builder for Databricks](https://ontobricks.org/)
   * [ontobricks: Transforms Databricks Unity Catalog tables into a knowledge graph, with ontology design and reasoning exposed as tools via MCP | databrickslabs](https://github.com/databrickslabs/ontobricks)
   * [OntoBricks로 이해하는 온톨로지 ① 개념 — 온톨로지와 지식 그래프 첫걸음 | 1week](https://1week.tistory.com/131)
     * 가상 금융그룹 데이터로 온톨로지를 설계→지식 그래프 구축→자연어 질의까지 따라가는 4부작의 1부—온톨로지가 필요한 질문, 시맨틱 레이어·온톨로지·지식 그래프의 관계, 온톨로지 구성 요소. 이어서 [② OntoBricks란](https://1week.tistory.com/132) · [③ 구성 — 설정부터 공개까지](https://1week.tistory.com/133) · [④ 데모 — GraphQL·자연어·MCP 질의](https://1week.tistory.com/130)
-  * Databricks Labs의 source-available 도구—OWL 온톨로지를 시각적으로 또는 LLM으로 설계→R2RML로 Unity Catalog 테이블에 매핑→트리플을 트리플 스토어(Lakebase·Lakehouse·Neo4j)에 실체화/가상화→OWL 2 RL·SWRL·SHACL로 추론→GraphQL·MCP로 앱과 AI 에이전트에 서빙하는 전 파이프라인을 '네 번의 클릭'으로. Python, 420 stars
+  * Databricks Labs의 source-available 도구—OWL 온톨로지를 시각적으로 또는 LLM으로 설계→R2RML로 Unity Catalog 테이블에 매핑→트리플을 트리플 스토어(Lakebase·Lakehouse·Neo4j)에 실체화/가상화→OWL 2 RL·SWRL·SHACL로 추론→GraphQL·MCP로 앱과 AI 에이전트에 서빙하는 전 파이프라인을 '네 번의 클릭'으로
 * [OpenGraphiti - OpenDNS Data Visualization Framework](http://www.opengraphiti.com/)
 * [pattern.graph](http://www.clips.ua.ac.be/pages/pattern-graph)
 * [Pegasus An award-winning, open-source, graph-mining system with massive scalability](http://www.cs.cmu.edu/~pegasus/)
@@ -447,7 +447,7 @@ Graph
 * [py-ascii-graph - A simple python lib to print data as ascii histograms](https://github.com/kakwa/py-ascii-graph)
 * [RushDB — Context Layer for Agents, Applications and Analytics](https://rushdb.com/)
   * [rushdb: RushDB is a graph + vector database and memory layer for AI agents. Push any JSON, get typed, searchable, relationship-aware records back — no schema, no migrations. Built on Neo4j](https://github.com/rush-db/rushdb)
-  * 에이전트 메모리를 위해 Redis(키-값)+벡터 스토어+그래프 DB 세 개를 두고 글루 코드로 동기화하는 대신 JSON을 밀어 넣으면 타입 있는 스키마·그래프 관계·시맨틱 검색이 자동 추론되는 단일 모델—Neo4j 위에 구축, 오픈소스·클라우드·셀프호스트, TypeScript·Python·REST·MCP. 325 stars
+  * 에이전트 메모리를 위해 Redis(키-값)+벡터 스토어+그래프 DB 세 개를 두고 글루 코드로 동기화하는 대신 JSON을 밀어 넣으면 타입 있는 스키마·그래프 관계·시맨틱 검색이 자동 추론되는 단일 모델—Neo4j 위에 구축, 오픈소스·클라우드·셀프호스트, TypeScript·Python·REST·MCP
 * [tagflow - stackoverflow graph](http://stared.github.io/tagoverflow/?site=stackoverflow&size=32)
 * [TAO: The power of the graph](https://www.facebook.com/notes/facebook-engineering/tao-the-power-of-the-graph/10151525983993920)
   * [TAO: Facebook’s Distributed Data Store for the Social Graph](https://www.micahlerner.com/2021/10/13/tao-facebooks-distributed-data-store-for-the-social-graph.html)
@@ -520,7 +520,7 @@ Graph
 * [OWL Reasoning Examples](http://owl.man.ac.uk/2003/why/latest/)
 * [oxigraph: SPARQL graph database](https://github.com/oxigraph/oxigraph)
   * [Oxigraph란? RocksDB 기반 그래프 데이터베이스와 RDF·SPARQL 툴킷 알아보기 | digitalbourgeois](https://digitalbourgeois.tistory.com/3693)
-  * RocksDB 기반 RDF 저장·SPARQL 질의·RDF 파싱/직렬화/정규화를 한 스택으로 제공. Rust 라이브러리 중심에 Python·JS 바인딩과 CLI 서버 제공. Apache-2.0, 2k stars
+  * RocksDB 기반 RDF 저장·SPARQL 질의·RDF 파싱/직렬화/정규화를 한 스택으로 제공. Rust 라이브러리 중심에 Python·JS 바인딩과 CLI 서버 제공
 * [sparql-endpoint: Utilities to interact with a SPARQL endpoint in clojure](https://github.com/ont-app/sparql-endpoint)
 * [SPARQL-TOOL: Allow your Agent to query knowledge graphs | Vlad Korolev | PyData Boston Meetup - YouTube](https://www.youtube.com/watch?v=RiBsLgGABUQ)
   * AI 에이전트가 SPARQL로 지식 그래프를 직접 쿼리하는 도구. 벡터 임베딩 대신 RDF 그래프의 구조화된 관계 데이터 활용, 에이전트 시스템과의 통합 방법 시연

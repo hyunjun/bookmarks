@@ -132,7 +132,7 @@ Programmer
 * [How To Become Dangerously Self-Educated With AI (for free) | Sandeep Swadia - YouTube](https://www.youtube.com/watch?v=3k6fR5EdLAo)
   * [MIT 출신 CEO의 AI 독학법, 직접 해보니 기초 없던 수학 A+ (With, 필요없는 것을 뺀 나만의 방식) | 평균밖성원 - YouTube](https://www.youtube.com/watch?v=aBu09M0Cov4)
   * 수도승 수련생→MIT→테크 CEO(한국어 영상에서 광고 사기·봇 탐지 보안사 White Ops CEO로 확인) Sandeep Swadia의 "university in a box". 세계 최고 대학 인턴 120명 중 AI를 하루 30분 쓰는 사람은 1/4, 인스타그램은 전원이라는 격차에서 출발. AI에게 5가지 역할—Advisor(목표·현재 수준·순서·버릴 것·배웠다는 증거의 5가지 결정을 AI가 나를 인터뷰해 정하게 하고 나만의 커리큘럼), Librarian(수천 자료 중 볼 가치 있는 소수만 선별), Tutor(이해의 정확한 빈틈을 찾는 심야 과외), Editor(칭찬 대신 결과물을 압박 검증), Roommate(혼자선 안 갈 분야로 끌어들여 새 관점). 조회수 125만+, 21분
-  * 평균밖성원(20분): 위 방식으로 공부해 기초 없던 수학 과목 A+. 다만 역할 5개로 나누는 건 복잡—이제 에이전트가 말만 하면 알아서 판단하므로 자기 방식은 Grok·Gemini에 이해될 때까지 질문 → 대화 전체를 세컨 브레인 볼트에 연결된 Claude Code에 던져 나를 아는 맥락(생긴 맥락·원리·앞으로의 쓰임 중심)으로 정리 → 그 정리를 NotebookLM에 넣어 리포트·슬라이드·영상 개요로 입체적 이해(평평한 개념 나열을 구글 지식 그래프식 정보 위계로). 왜 한국에 퍼지지 않나—Bloom의 2 Sigma(과외받은 학생이 98%를 앞섬)를 이제 월 3만 원(대학생은 Gemini 1년 무료)으로 24시간 누릴 수 있는데, 교사 1명:학생 30명 시대의 순차 교육 규칙이 이유가 사라진 뒤에도 남은 '원숭이와 바나나' 관성, "인간은 전체를 기획하지 않는다"(사피엔스), 대가가 죽어야 학문이 발전한다는 논문—주류가 아니어도 맞다고 판단되면 새 방식을 시도하라
+  * 평균밖성원: 위 방식으로 공부해 기초 없던 수학 과목 A+. 다만 역할 5개로 나누는 건 복잡—이제 에이전트가 말만 하면 알아서 판단하므로 자기 방식은 Grok·Gemini에 이해될 때까지 질문 → 대화 전체를 세컨 브레인 볼트에 연결된 Claude Code에 던져 나를 아는 맥락(생긴 맥락·원리·앞으로의 쓰임 중심)으로 정리 → 그 정리를 NotebookLM에 넣어 리포트·슬라이드·영상 개요로 입체적 이해(평평한 개념 나열을 구글 지식 그래프식 정보 위계로). 왜 한국에 퍼지지 않나—Bloom의 2 Sigma(과외받은 학생이 98%를 앞섬)를 이제 월 3만 원(대학생은 Gemini 1년 무료)으로 24시간 누릴 수 있는데, 교사 1명:학생 30명 시대의 순차 교육 규칙이 이유가 사라진 뒤에도 남은 '원숭이와 바나나' 관성, "인간은 전체를 기획하지 않는다"(사피엔스), 대가가 죽어야 학문이 발전한다는 논문—주류가 아니어도 맞다고 판단되면 새 방식을 시도하라
 * [How to keep enjoying programming in a world of LLMs | Manuel Bärenz (turion) - Haskell Discourse](https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705)
   * [LLM 시대에도 프로그래밍을 계속 즐기는 법 | GeekNews](https://news.hada.io/topic?id=34336)
   * [LLM 시대에도 프로그래밍의 즐거움과 개발 주도권을 지키는 방법 | digitalbourgeois](https://digitalbourgeois.tistory.com/3724)
@@ -494,7 +494,7 @@ Programmer
 * ISMS-P 심사원 자격증 [미리미리 노후 대비 해 놓자구요 😎 #개발자노후대비 - YouTube](https://www.youtube.com/watch?v=lN6Y5VM3YkI)
 * [Religious Studies In Software Engineering | tom bh](https://tombh.co.uk/religious-studies-in-software-engineering)
   * [종교학으로 바라본 소프트웨어 공학 | GeekNews](https://news.hada.io/topic?id=35475)
-  * 2026-10-13. 종교학을 전공하고 소프트웨어로 생계를 이어 온 저자의 에세이—이데올로기·정치·종교도 원하는 결과에 이르는 일련의 단계라는 점에서 프로그램과 닮았고, 프로그래밍은 컴퓨터만이 아니라 사람과 사회에 하는 일. Tillich의 "궁극적 관심"으로 종교를 보고, 정의하지 못한 대상을 엄밀하게 연구하는 훈련과 내부자/외부자 문제(개발자는 디지털 세계를 깊이 알지만 그 믿음과 권력에 참여하는 내부자—특이점이나 오픈소스 지지자도 편향 없는 관찰자가 아님)를 소프트웨어에 적용
+  * 종교학을 전공하고 소프트웨어로 생계를 이어 온 저자의 에세이—이데올로기·정치·종교도 원하는 결과에 이르는 일련의 단계라는 점에서 프로그램과 닮았고, 프로그래밍은 컴퓨터만이 아니라 사람과 사회에 하는 일. Tillich의 "궁극적 관심"으로 종교를 보고, 정의하지 못한 대상을 엄밀하게 연구하는 훈련과 내부자/외부자 문제(개발자는 디지털 세계를 깊이 알지만 그 믿음과 권력에 참여하는 내부자—특이점이나 오픈소스 지지자도 편향 없는 관찰자가 아님)를 소프트웨어에 적용
   * 분파가 자라 새 권위가 되듯 소프트웨어도 기존 구현과 새 해석 사이에서 갱신되고, 검증된 코드도 현실과 어긋날 수 있어 실제 사용·피드백으로 유효성을 확인해야 함. 프로그램의 핵심은 코드보다 개발자들이 공유하는 문제 이해(Conway의 법칙, Linux의 발전)—빅테크도 오픈소스도 신념이 권위로 굳는 과정에서 자유롭지 않고, 코드가 계속 실행돼도 변경 요구에 대응할 이해를 잃으면 프로그램은 이미 죽은 것
 * [Here Be Monsters: What Do You Still Need to Know When Agents Do the Work? | adrq.dev](https://blog.adrq.dev/here-be-monsters-what-do-you-still-need-to-know-when-agents-do-the-work)
   * [AI 에이전트가 코드를 작성해도 개발자는 무엇을 알아야 할까? | GeekNews](https://news.hada.io/topic?id=36162)
@@ -585,7 +585,7 @@ Programmer
   * AI 코딩 에이전트 시대에 오히려 소프트웨어 기본기가 더 중요해짐. Cursor/Claude가 만든 코드가 프로덕션에서 6-12개월 버틸 수 있는지, 팀원 변경 시 유지보수 가능한지에 대한 문제 제기
 * [If You Have Multiple Interests, Please Take Advantage of the Next 10 Years | Dan Koe - YouTube](https://www.youtube.com/watch?v=pmQhqVLVApw)
   * [36분 영상 83만 뷰, Dan Koe — 직업은 250년짜리 발명품, AI 시대에 남는 스킬 스택 3층 - YouTube](https://www.youtube.com/watch?v=fsZ_7WGEego)
-  * 구독자 142만 작가 Dan Koe의 36분 영상. AI를 거부하지도 전부 맡기지도 않는 세 번째 길—여러 관심사를 하나의 브랜드로 결합하는 전략과 AI 시대에 남는 스킬 스택(AgentOS 한국어 정리 영상 포함)
+  * 구독자 142만 작가 Dan Koe의 영상. AI를 거부하지도 전부 맡기지도 않는 세 번째 길—여러 관심사를 하나의 브랜드로 결합하는 전략과 AI 시대에 남는 스킬 스택(AgentOS 한국어 정리 영상 포함)
 * [career-ladders](https://career-ladders.dev/)
 
 # Consult
@@ -641,7 +641,7 @@ Programmer
   * [스탠포드에서 빅테크로 조용히 퍼지는 개발자 생존법](https://livewiki.com/ko/content/developer-survival-bigtech-stanford)
 * [estudy | rlaope](https://rlaope.github.io/estudy/)
   * [estudy: AI and engineering reinforcement learning for human | rlaope](https://github.com/rlaope/estudy)
-  * 소프트웨어를 공부하며 쌓은 기록을 "나의 지식의 숲"으로 모은 저장소(1.4k stars)—Essentials(엔지니어로 성장하기, YAGNI·리팩터링·의사결정, 일을 잘한다와 개발을 잘한다의 정의, AI 시대에서 살아남는 방법 등)와 Server 100여 편(KISS·YAGNI·DRY, 인증·인가, Clean Architecture, OAuth 2.0, SOLID, Netty 스레드 모델·메모리·EventLoop, Reactive, 캐시, Protocol Buffers, Kafka·Zookeeper 리밸런싱 등)
+  * 소프트웨어를 공부하며 쌓은 기록을 "나의 지식의 숲"으로 모은 저장소—Essentials(엔지니어로 성장하기, YAGNI·리팩터링·의사결정, 일을 잘한다와 개발을 잘한다의 정의, AI 시대에서 살아남는 방법 등)와 Server 100여 편(KISS·YAGNI·DRY, 인증·인가, Clean Architecture, OAuth 2.0, SOLID, Netty 스레드 모델·메모리·EventLoop, Reactive, 캐시, Protocol Buffers, Kafka·Zookeeper 리밸런싱 등)
 
 # Senior
 * [우리가 부르는 시니어 개발자는 누구인가? | 우아한형제들 기술블로그](https://techblog.woowahan.com/2525/)

@@ -286,7 +286,7 @@ SQL
 * [Reasons why SELECT * is bad for SQL performance | Tanel Poder Consulting](https://tanelpoder.com/posts/reasons-why-select-star-is-bad-for-sql-performance/)
 * [UUIDs are Popular, but Bad for Performance — Let’s Discuss](https://www.percona.com/blog/2019/11/22/uuids-are-popular-but-bad-for-performance-lets-discuss/)
 * [GUID로 업계가 집단 삽질했던 썰... 왜 그랬을까 | 포프TV - YouTube](https://www.youtube.com/watch?v=Yk2CBVkuEdo)
-  * NoSQL 유행기에 "분산 = GUID" 분위기 속에 유저 ID·주문 ID·로그까지 전부 random GUID로 만들던 시절의 회고(5분)—GUID는 분산에는 강하지만 RDBMS에서는 성능·인덱스·가독성 비용이 크다는 것, 업계의 각종 GUID 꼼수와 왜 결국 되돌아왔는지. "기술은 도구다, 유행은 설계 기준이 아니다"
+  * NoSQL 유행기에 "분산 = GUID" 분위기 속에 유저 ID·주문 ID·로그까지 전부 random GUID로 만들던 시절의 회고—GUID는 분산에는 강하지만 RDBMS에서는 성능·인덱스·가독성 비용이 크다는 것, 업계의 각종 GUID 꼼수와 왜 결국 되돌아왔는지. "기술은 도구다, 유행은 설계 기준이 아니다"
 * [Generating UUIDs at scale on the Web | by Matthieu Wipliez | Teads Engineering | Jul, 2020 | Medium](https://medium.com/teads-engineering/generating-uuids-at-scale-on-the-web-2877f529d2a2)
 * [uuid-readable: Generate Easy to Remember, Readable UUIDs, that are Shakespearean and Grammatically Correct Sentences 🥳](https://github.com/Debdut/uuid-readable)
 * [Understanding How UUIDs Are Generated - Digital Bunker](https://digitalbunker.dev/2020/09/30/understanding-how-uuids-are-generated/)
@@ -581,11 +581,11 @@ SQL
   * [DuckLake - 통합 데이터 레이크 및 카탈로그 포맷 | GeekNews](https://news.hada.io/topic?id=21168)
   * [DuckLake - SQL과 Parquet 기반의 데이터 레이크하우스 형식 | GeekNews](https://news.hada.io/topic?id=35046)
   * [DuckLake란? SQL과 Parquet 기반의 오픈 레이크하우스 포맷과 주요 기능 살펴보기 | digitalbourgeois](https://digitalbourgeois.tistory.com/3834)
-  * 2026.10 기준 보강—2026년 4월 v1.0으로 프로덕션 준비 완료·하위 호환 보장. 메타데이터(카탈로그)는 ACID SQL DB(PostgreSQL·MySQL·SQLite·DuckDB, 베타로 DuckDB+Quack)에, 데이터는 로컬 디스크나 오브젝트 스토리지의 평범한 Parquet(Iceberg 호환)에—전용 카탈로그 서버 없이 스냅샷(비용 큰 컴팩션 없이 무제한)·타임 트래블·스키마 진화·파티셔닝·다중 테이블 ACID 트랜잭션·변경 데이터 피드·통계 기반 필터 푸시다운. 카탈로그 선택 기준: 단일 로컬 클라이언트는 DuckDB, 로컬 다중 클라이언트는 SQLite, 원격 포함 다중 사용자는 PostgreSQL(기존 인증·권한 그대로)—바닐라 DuckDB가 지원하지 않는 '멀티플레이어 DuckDB'. `INSTALL ducklake; ATTACH 'ducklake:metadata.ducklake' AS my_ducklake (DATA_PATH 'data/')`. DuckLake는 포맷·명세이고 이 레포는 DuckDB 확장(C++, MIT, 3.3k stars)—HN 반응: DuckDB 없이도 쓰는 명세여서 Rust/DataFusion 구현 datafusion-ducklake가 진행 중(Iceberg는 저지연 작업에 너무 무거웠다는 구현자 후기), 카탈로그가 Postgres면 'PostgresLake'에 가깝다는 농담, 행·열 접근 제어·마스킹이 없어 기업 BI엔 부족하다는 지적, "명세는 1.0이지만 소프트웨어는 1.0 수준이 아니다"(v1.5.4 카탈로그 필터 집계 버그, main/v2는 DuckDB v2 SQL 파서 10배 저하)라는 경고, MotherDuck에서 O'Reilly 「DuckLake: The Definitive Guide」 무료 배포
+  * 2026.10 기준 보강—2026년 4월 v1.0으로 프로덕션 준비 완료·하위 호환 보장. 메타데이터(카탈로그)는 ACID SQL DB(PostgreSQL·MySQL·SQLite·DuckDB, 베타로 DuckDB+Quack)에, 데이터는 로컬 디스크나 오브젝트 스토리지의 평범한 Parquet(Iceberg 호환)에—전용 카탈로그 서버 없이 스냅샷(비용 큰 컴팩션 없이 무제한)·타임 트래블·스키마 진화·파티셔닝·다중 테이블 ACID 트랜잭션·변경 데이터 피드·통계 기반 필터 푸시다운. 카탈로그 선택 기준: 단일 로컬 클라이언트는 DuckDB, 로컬 다중 클라이언트는 SQLite, 원격 포함 다중 사용자는 PostgreSQL(기존 인증·권한 그대로)—바닐라 DuckDB가 지원하지 않는 '멀티플레이어 DuckDB'. `INSTALL ducklake; ATTACH 'ducklake:metadata.ducklake' AS my_ducklake (DATA_PATH 'data/')`. DuckLake는 포맷·명세이고 이 레포는 DuckDB 확장—HN 반응: DuckDB 없이도 쓰는 명세여서 Rust/DataFusion 구현 datafusion-ducklake가 진행 중(Iceberg는 저지연 작업에 너무 무거웠다는 구현자 후기), 카탈로그가 Postgres면 'PostgresLake'에 가깝다는 농담, 행·열 접근 제어·마스킹이 없어 기업 BI엔 부족하다는 지적, "명세는 1.0이지만 소프트웨어는 1.0 수준이 아니다"(v1.5.4 카탈로그 필터 집계 버그, main/v2는 DuckDB v2 SQL 파서 10배 저하)라는 경고, MotherDuck에서 O'Reilly 「DuckLake: The Definitive Guide」 무료 배포
 * [pg_duckdb: DuckDB-powered Postgres for high performance apps & analytics](https://github.com/duckdb/pg_duckdb)
   * [pg_duckdb - PostgreSQL and DuckDB in one query engine | BugBytes - YouTube](https://www.youtube.com/watch?v=xBBU213nEts)
     * Docker로 pg_duckdb 내장 Postgres를 띄우고, `read_parquet()`로 Parquet 파일을 바로 Postgres 테이블로 읽어 들이고, 기존 Postgres 테이블을 DuckDB 엔진으로 질의하고, 데이터 소스에서 필요한 컬럼만 직접 읽는 과정을 보여주는 14분 실습. 기존 데이터가 있는 환경에서 이 확장을 어떻게 접근할지도 다룸
-  * DuckDB·Hydra·MotherDuck이 함께 만든 공식 PostgreSQL 확장—DuckDB의 컬럼 지향 벡터화 분석 엔진을 Postgres 안에 넣어 `SET duckdb.force_execution = true`만으로 기존 SQL을 바꾸지 않고 일반 Postgres 테이블의 분석 질의를 DuckDB로 실행(Parquet 등으로 내보낼 필요 없음). S3·GCS·Azure·R2의 Parquet·CSV·JSON·Iceberg·Delta Lake를 `read_parquet()` 등으로 읽고 쓰며 Postgres 테이블과 조인, `duckdb.create_simple_secret()`으로 SQL에서 바로 S3 자격 증명 설정, MotherDuck을 컴퓨트 제공자로 바로 연결. C++, MIT, 3.3k stars
+  * DuckDB·Hydra·MotherDuck이 함께 만든 공식 PostgreSQL 확장—DuckDB의 컬럼 지향 벡터화 분석 엔진을 Postgres 안에 넣어 `SET duckdb.force_execution = true`만으로 기존 SQL을 바꾸지 않고 일반 Postgres 테이블의 분석 질의를 DuckDB로 실행(Parquet 등으로 내보낼 필요 없음). S3·GCS·Azure·R2의 Parquet·CSV·JSON·Iceberg·Delta Lake를 `read_parquet()` 등으로 읽고 쓰며 Postgres 테이블과 조인, `duckdb.create_simple_secret()`으로 SQL에서 바로 S3 자격 증명 설정, MotherDuck을 컴퓨트 제공자로 바로 연결
 
 # Library
 * [alasql.org](http://alasql.org/)
@@ -598,7 +598,7 @@ SQL
 * [Chat2DB - AI-driven database client and SQL workspace](https://chat2db.ai/)
   * [Chat2DB: free, cross-platform, local-first database client and SQL workspace](https://github.com/OtterMind/Chat2DB)
   * [Chat2DB, AI와 SQL 워크스페이스를 결합한 데이터베이스 클라이언트 | digitalbourgeois](https://digitalbourgeois.tistory.com/3509)
-  * 로컬 우선 크로스 플랫폼 DB 클라이언트+SQL 워크스페이스. 40+ DB 연결, 자체 AI 모델로 자연어 SQL 생성·설명·최적화, 메타데이터 탐색·임포트/익스포트·대시보드 차트, AES-256-GCM으로 연결정보 암호화. 데스크톱/웹/Docker/CLI, MCP 지원. Java, 28k stars
+  * 로컬 우선 크로스 플랫폼 DB 클라이언트+SQL 워크스페이스. 40+ DB 연결, 자체 AI 모델로 자연어 SQL 생성·설명·최적화, 메타데이터 탐색·임포트/익스포트·대시보드 차트, AES-256-GCM으로 연결정보 암호화. 데스크톱/웹/Docker/CLI, MCP 지원
 * [cozo: A general-purpose, transactional, relational database that uses Datalog and focuses on graph data and algorithms](https://github.com/cozodb/cozo)
 * [dataherald: Interact with your SQL database, Natural Language to SQL using LLMs](https://github.com/Dataherald/dataherald)
   * [Dataherald - 자연어-to-SQL 엔진, 전체 오픈소스로 전환 | GeekNews](https://news.hada.io/topic?id=15008)
@@ -622,7 +622,7 @@ SQL
 * [db_seeder: Relational database data generator..](https://github.com/KonnexionsGmbH/db_seeder)
 * [DBX - 25MB, 100+ 데이터베이스 관리](https://dbxio.com/)
   * [dbx: 25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis | t8y2](https://github.com/t8y2/dbx)
-  * 25MB 경량 크로스플랫폼 DB 클라이언트—SQL 편집기, 선택형 AI 어시스턴트, MCP, Docker 셀프호스팅. Rust, Apache-2.0, 21.6k stars
+  * 25MB 경량 크로스플랫폼 DB 클라이언트—SQL 편집기, 선택형 AI 어시스턴트, MCP, Docker 셀프호스팅
 * [Dolt – It's Git for Data](https://github.com/dolthub/dolt)
 * [dqlite: Embeddable, replicated and fault tolerant SQL engine](https://github.com/canonical/dqlite)
 * [dsq: Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more](https://datastation.multiprocess.io/blog/2022-01-11-dsq.html)
@@ -635,7 +635,7 @@ SQL
   * [DBML: Database Markup Language · /usr/lib/libsora.so](https://libsora.so/posts/dbml-entity-relation-diagram-as-code/)
   * [drawDB - Free, simple, and intuitive online database diagram editor and SQL generator](https://www.drawdb.app/)
     * [drawdb: Free, simple, and intuitive online database diagram editor and SQL generator](https://github.com/drawdb-io/drawdb)
-    * 무료 온라인 DB 다이어그램 에디터+SQL 생성기. JavaScript, AGPL-3.0, 39.6k stars
+    * 무료 온라인 DB 다이어그램 에디터+SQL 생성기
   * [erdplus.com](https://erdplus.com)
   * [SequenceDiagram.org - UML Sequence Diagram Online Tool](https://sequencediagram.org/)
 * [falcon - Free, open-source SQL client for Windows and Mac](https://github.com/plotly/falcon)
@@ -652,7 +652,7 @@ SQL
   * [gridex: A native macOS / windows / Linux database IDE built with Swift and AppKit. Connect to PostgreSQL, MySQL, SQLite, and Redis from a single app with a fast, keyboard-driven interface](https://github.com/gridex/gridex)
   * Swift·AppKit 네이티브 DB IDE(Electron·ODBC·JDBC 없음). PostgreSQL·MySQL·SQLite·Redis·MongoDB·SQL Server·ClickHouse 7종을 한 창에서—멀티탭 쿼리 에디터, 스키마 자동완성, 자동 레이아웃 ER 다이어그램(PNG/SVG 내보내기)
   * 스키마를 이해하는 내장 AI 채팅(Claude·GPT·Gemini·로컬 Ollama, 자기 API 키)이 SQL 작성·실행·설명. 저장된 연결을 두 클릭으로 MCP 서버로 노출—13개 도구를 read-only/read/gated write 3단계 권한으로 Claude Desktop·Cursor 등에 제공, 모든 AI 툴 호출은 감사 로그(티어·SQL·소요 시간·행 수·승인 상태)에 기록
-  * Community 에디션 무료(계정 불필요), 팀용 Pro. Cassandra·DynamoDB·Snowflake 로드맵. Apache-2.0
+  * Community 에디션 무료(계정 불필요), 팀용 Pro. Cassandra·DynamoDB·Snowflake 로드맵
 * [Harlequin: The SQL IDE for Your Terminal](https://harlequin.sh/)
 * [ingestr: ingestr is a CLI tool to copy data between any databases with a single command seamlessly](https://github.com/bruin-data/ingestr)
   * [ingestr - 명령 하나로 DB간 데이터를 복사해주는 CLI 도구 | GeekNews](https://news.hada.io/topic?id=13578)
@@ -688,7 +688,7 @@ SQL
 * [sequel fumpt - Type some SQL. Move the slider to set output width](https://sqlfum.pt/)
   * [sqlfmt: an opinionated online SQL formatter](https://www.cockroachlabs.com/blog/sql-fmt-online-sql-formatter/)
 * [slowql: Next-generation SQL static analyzer written in Rust. 282+ rules. Zero false positives](https://github.com/slowql/slowql)
-  * 보안·성능 등 282개+ 규칙의 Rust SQL 정적 분석기—"zero false positives"를 내세움. 227 stars
+  * 보안·성능 등 282개+ 규칙의 Rust SQL 정적 분석기—"zero false positives"를 내세움
 * [SpacetimeDB](https://spacetimedb.com/)
   * [1000X Faster Than PostgreSQL?! - YouTube](https://www.youtube.com/watch?v=k7ZemI82Qxs)
 * [**sq: swiss-army knife for data**](https://sq.io/) jq for relational data
@@ -1308,7 +1308,7 @@ SQL
   * Peter Kraft, 2026.5.20. Temporal·Airflow·AWS Step Functions 같은 외부 오케스트레이터는 과도하게 복잡—durable workflow는 본질적으로 프로그램 상태를 DB에 체크포인팅하는 것이므로 별도 오케스트레이터 서버 불필요. Postgres 기반 접근: 클라이언트가 workflows 테이블에 작업 INSERT, 서버가 locking 절로 폴링·dequeue, step 출력 직접 체크포인트. 워커 크래시 시 다른 워커가 마지막 체크포인트부터 재개. 장점: Postgres 스케일링 솔루션(streaming replication·failover·CockroachDB·sharded Postgres) 상속, SQL 테이블이라 declarative 모니터링 쿼리, 오케스트레이터 단일 장애점 제거·민감 데이터 외부 노출 회피. DBOS 미션은 Postgres-backed durable execution 단순·고성능화
 * [SQLite is All You Need for Durable Workflows | Obelisk](https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/)
   * [SQLite만으로 내구성 있는 워크플로를 구현할 수 있음 | GeekNews](https://news.hada.io/topic?id=30014)
-  * 2026-05-29. DBOS의 "Postgres면 충분하다"에 동의하면서 더 밀어붙인 글—내구성 있는 건 인프라가 아니라 워크플로 상태이고 컴퓨트는 싸고 일회용이어도 됨. Obelisk는 진행 상태를 실행 로그에 두고 영속 히스토리에서 리플레이·액티비티 재시도. SQLite는 별도 DB 서비스·네트워크 홉·컨트롤 플레인 없이 트랜잭션 영속 상태를 주고, Litestream으로 변경을 S3 호환 스토리지에 비동기 스트리밍하면 백업·마이그레이션·검사용 복사까지. AI 에이전트처럼 버스트성·실험적 워크플로는 에이전트마다 작은 SQLite 상태를 가진 마이크로VM/컨테이너가 하나의 큰 공유 시스템보다 단순·저렴하고 장애 격리에 유리. 고가용성·광범위 공유 확장이 필요하면 Postgres
+  * DBOS의 "Postgres면 충분하다"에 동의하면서 더 밀어붙인 글—내구성 있는 건 인프라가 아니라 워크플로 상태이고 컴퓨트는 싸고 일회용이어도 됨. Obelisk는 진행 상태를 실행 로그에 두고 영속 히스토리에서 리플레이·액티비티 재시도. SQLite는 별도 DB 서비스·네트워크 홉·컨트롤 플레인 없이 트랜잭션 영속 상태를 주고, Litestream으로 변경을 S3 호환 스토리지에 비동기 스트리밍하면 백업·마이그레이션·검사용 복사까지. AI 에이전트처럼 버스트성·실험적 워크플로는 에이전트마다 작은 SQLite 상태를 가진 마이크로VM/컨테이너가 하나의 큰 공유 시스템보다 단순·저렴하고 장애 격리에 유리. 고가용성·광범위 공유 확장이 필요하면 Postgres
 * [All you need is PostgreSQL | ebellani](https://ebellani.github.io/blog/2026/all-you-need-is-postgresql/)
   * [All you need is PostgreSQL 공유 | 박상길 | LinkedIn](https://www.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_all-you-need-is-postgresql-share-7490170060683239424-U7uR/)
   * 뱅킹 예제(계좌·이체·거래)를 PostgreSQL만으로 구축하는 실습형 글—스키마·사용자 역할로 모듈화, 도메인 타입, **상태 머신과 시간 구간(temporal period) 제약으로 규율되는 이체**, 이체 상태 이력, 계좌 감사, 불변 이벤트로서의 트랜잭션. 비즈니스 규칙을 애플리케이션 코드가 아니라 의미 있는 DB 제약으로 유지하는 접근
@@ -1331,7 +1331,7 @@ SQL
 * [Zero-downtime Postgres migrations - the hard parts](https://gocardless.com/blog/zero-downtime-postgres-migrations-the-hard-parts/)
   * [Zero-Downtime PostgreSQL Migrations: A Production Playbook for Safe Schema Changes · Boundlayer](https://boundlayer.io/blog/zero-downtime-postgresql-migrations)
     * [PostgreSQL 무중단 스키마 변경을 위한 실무 가이드 | GeekNews](https://news.hada.io/topic?id=35501)
-    * 2026-10-08. 무중단은 "DB가 켜져 있음"이 아니라 서비스 지표로 정의—오류율·p95/p99 지연·핵심 쓰기·복제 지연이 유지되고 데이터 손실·중복·오변환이 없으며 구·신 앱 버전이 함께 동작하고 즉흥 없이 중단·되돌리기 가능해야 함. 목표는 잠금을 없애는 게 아니라 빠르게 얻고 영향을 제한하는 것. 위험은 `ACCESS EXCLUSIVE` 잠금 자체보다 잠금 대기열—장기 트랜잭션을 기다리는 마이그레이션 뒤로 일반 쿼리가 줄을 서며 시작도 안 한 DDL이 장애를 키움
+    * 무중단은 "DB가 켜져 있음"이 아니라 서비스 지표로 정의—오류율·p95/p99 지연·핵심 쓰기·복제 지연이 유지되고 데이터 손실·중복·오변환이 없으며 구·신 앱 버전이 함께 동작하고 즉흥 없이 중단·되돌리기 가능해야 함. 목표는 잠금을 없애는 게 아니라 빠르게 얻고 영향을 제한하는 것. 위험은 `ACCESS EXCLUSIVE` 잠금 자체보다 잠금 대기열—장기 트랜잭션을 기다리는 마이그레이션 뒤로 일반 쿼리가 줄을 서며 시작도 안 한 DDL이 장애를 키움
     * 실무 패턴: 확장-축소(expand-contract)로 새 구조 추가→이전→읽기/쓰기 전환→검증→기존 구조 제거를 각각 배포 단위로(컬럼 이름 변경도 새 컬럼+이중 쓰기로 여러 릴리스에 걸쳐), 축소 단계엔 담당자·일정 지정. 사전 점검(요청 잠금, 스캔/재작성 여부, 프로덕션 크기, 공존 앱 버전, 뷰·트리거·CDC·ETL 의존성, 중단 임계치, 롤백 가능성—DDL 역실행이 변환된 데이터를 되돌리진 못함). 짧은 `lock_timeout`, 동시 인덱스 생성·제약 추가/검증 분리, 작은 배치로 커밋·재개 가능하고 속도 제한한 백필, 완료 기준은 잔여 0행이 아닌 신·구 데이터 일치와 실서비스 검증, 기존 컬럼 삭제는 관찰 기간 뒤 별도로
 * [Move fast and migrate things: how we automated migrations in Postgres | by Vineet Gopal | Benchling Engineering](https://benchling.engineering/move-fast-and-migrate-things-how-we-automated-migrations-in-postgres-d60aba0fc3d4)
 * [Upsert Lands in PostgreSQL 9.5 – a First Look](http://www.craigkerstiens.com/2015/05/08/upsert-lands-in-postgres-9.5/)
@@ -1843,7 +1843,7 @@ SQL
 * [Understanding Database Sharding | DigitalOcean](https://www.digitalocean.com/community/tutorials/understanding-database-sharding)
 * [글로벌 칼럼 | DB 분산 처리 기법 '샤딩', "웬만하면 하지 마라" - ITWorld Korea](https://www.itworld.co.kr/news/200134) sharding
 * [대량 데이터를 나누는 기술, 파티셔닝과 샤딩 - YouTube](https://www.youtube.com/watch?v=lVRJv4qVWFo)
-  * 코딩하는기술사 채널. 단일 테이블·단일 DB 한계 시 적용하는 데이터 분리 전략—파티셔닝과 샤딩의 개념·차이 설명(7분)
+  * 코딩하는기술사 채널. 단일 테이블·단일 DB 한계 시 적용하는 데이터 분리 전략—파티셔닝과 샤딩의 개념·차이 설명
 
 # SQLite
 * [practice - python sqlite](https://github.com/hyunjun/practice/tree/master/python/test-sqlite3)

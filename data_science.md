@@ -661,7 +661,7 @@ Data Science
   * [dbt-charts: Declarative YAML around SQL for dbt-native dashboards | dbt Labs](https://github.com/dbt-labs/dbt-charts)
     * [Charts built for Chat · dbt Charts](https://dbtcharts.com/blog/charts-built-for-chat/)
     * [dbt Charts - AI와 대화로 만들고 Git으로 관리하는 대시보드 | GeekNews](https://news.hada.io/topic?id=33723)
-    * dbt Labs의 오픈소스 대시보드 언어—차트·필터·데이터 조회를 YAML 파일 하나로 정의해 **에이전트와 대화로 만든 대시보드도 Git으로 검토·거버넌스** 가능하게. AI가 여러 언어·파일을 늘어놓는 대신 한 파일에서 무엇을 어떻게 보여주는지 검토. Python, Apache-2.0
+    * dbt Labs의 오픈소스 대시보드 언어—차트·필터·데이터 조회를 YAML 파일 하나로 정의해 **에이전트와 대화로 만든 대시보드도 Git으로 검토·거버넌스** 가능하게. AI가 여러 언어·파일을 늘어놓는 대신 한 파일에서 무엇을 어떻게 보여주는지 검토
   * [SQLMesh](https://sqlmesh.com/)
     * [sqlmesh: Efficient data transformation and modeling framework that is backwards compatible with dbt](https://github.com/TobikoData/sqlmesh?tab=readme-ov-file)
     * [Introducing SQLMesh by Tobiko Data - YouTube](https://www.youtube.com/watch?v=UXpCeu0mD2E)
@@ -669,7 +669,7 @@ Data Science
     * [Quickstart - YouTube](https://www.youtube.com/playlist?list=PLwNHtUb1osYdu1l3uPkDJYlxQuZ4p3B5G)
 * [DecisionBox — Autonomous AI Discovery For Your Data](https://decisionbox.io/)
   * [decisionbox-platform: runs autonomous AI agents that write and execute SQL, and surfaces validated insights](https://github.com/decisionbox-io/decisionbox-platform)
-  * 데이터 웨어하우스에 연결해 자율 AI 에이전트가 SQL을 작성·실행하고 검증된 인사이트·실행 권고를 발굴하는 플랫폼. 셀프호스팅/엔터프라이즈/클라우드. Go, AGPL-3.0, 120 stars
+  * 데이터 웨어하우스에 연결해 자율 AI 에이전트가 SQL을 작성·실행하고 검증된 인사이트·실행 권고를 발굴하는 플랫폼. 셀프호스팅/엔터프라이즈/클라우드
 * [Decodable](https://www.decodable.co/)
   * [Announcing General Availability of the Decodable Real-Time Data Platform - Decodable](https://www.decodable.co/blog/decodable-is-ga)
 * [Digdag - a simple tool that helps you to build, run, schedule, and monitor complex pipelines of tasks](http://www.digdag.io/) Data Workflow Management Opensource Engine
@@ -1236,7 +1236,7 @@ Data Science
   * 투타워 아키텍처로 후보 생성/랭킹 분리, HNSW 그래프 인덱스로 콜드 스타트 해결, 모델 양자화로 크기 1/4 압축 및 속도 2배 향상, p99.9 지연 시간 기준 사용자 경험 평가
 * [How Netflix Built a Single Model for Search & Recommendations | InfoQ - YouTube](https://www.youtube.com/watch?v=mf1EeqkMbdk)
   * [Foundation Models for Ranking | InfoQ](https://www.infoq.com/presentations/foundation-models-ranking/)
-  * Netflix ML 매니저 Moumita Bhattacharya의 47분 발표—파편화된 bespoke ML 파이프라인을 벗어나 UniCoRn(Unified Contextual Ranker)과 자체 User Foundation Model로 검색·추천을 단일 아키텍처로 통합해 3억+ 사용자 서빙
+  * Netflix ML 매니저 Moumita Bhattacharya의 발표—파편화된 bespoke ML 파이프라인을 벗어나 UniCoRn(Unified Contextual Ranker)과 자체 User Foundation Model로 검색·추천을 단일 아키텍처로 통합해 3억+ 사용자 서빙
 * [2608.10257 GenRec: An LLM-Backed Recommendation Ranker at Netflix](https://arxiv.org/html/2608.10257v2)
   * [GenRec: Towards LLM-Native Recommendation at Netflix | Netflix TechBlog](https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3)
     * 수천 개 수작업 피처 기반 프로덕션 랭커를 LLM 기반으로 대체하는 실험. 사용자 이력·아이템 메타데이터·컨텍스트를 텍스트로 서술(verbalize)해 내부 파운데이션 LLM을 포스트트레이닝, 카탈로그 인지 스코어링 헤드 + 장기 멤버 가치 보상 정렬, vLLM prefill-only 모드로 비용 절감

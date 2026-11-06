@@ -245,7 +245,7 @@ C
   * [신생 시스템 프로그래밍 언어, Zig에 대해… Zig의 철학은 다음과 같다: “프로그래밍 언어 지식을 디버깅하기보다는 응용 프로그램을 디버깅하는 데 집중하세요.” - 숨겨진 제어 흐름이 없습니다. - 숨겨진 메모리 할당 없습니다. - 전처리기도 없고 매크로도 없습니다. — 얼마전 Rust의 wgpu를 활용한 그래픽스 개발을 하고 있었다… | Hwankee Baik](https://www.linkedin.com/posts/hwankee-baik-272948266_%EC%8B%A0%EC%83%9D-%EC%8B%9C%EC%8A%A4%ED%85%9C-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%96%B8%EC%96%B4-zig%EC%97%90-%EB%8C%80%ED%95%B4-zig%EC%9D%98-%EC%B2%A0%ED%95%99%EC%9D%80-%EB%8B%A4%EC%9D%8C%EA%B3%BC-%EA%B0%99%EB%8B%A4-activity-7389816132884418560-nu--)
   * [Zig는 왜 AI 코딩에 딱 맞을까? (Rust보다 컴파일 빠름) - YouTube](https://www.youtube.com/watch?v=dpn9XlqEEnU)
   * [How To Avoid Needy Software - Jonathan Marler | Zig SHOWTIME - YouTube](https://www.youtube.com/watch?v=4y1B8tFoy-k)
-    * Software You Can Love Vancouver 2026(44분). Zig 커뮤니티 컨퍼런스 발표—사용자에게 설치·설정·의존성 등 끊임없이 요구하는 "needy" 소프트웨어를 피하는 법. 자막을 받지 못해 제목·발표 정보만 기록
+    * Software You Can Love Vancouver 2026. Zig 커뮤니티 컨퍼런스 발표—사용자에게 설치·설정·의존성 등 끊임없이 요구하는 "needy" 소프트웨어를 피하는 법. 자막을 받지 못해 제목·발표 정보만 기록
   * [Zigbook – Learn the Zig Programming Language](https://www.zigbook.net/)
   * [zig-book: An open, technical and introductory book for the Zig programming language 📚📖](https://github.com/pedropark99/zig-book)
     * [Introduction to Zig](https://pedropark99.github.io/zig-book/)
@@ -505,7 +505,7 @@ C
 * [Raven: A lightweight, multithreaded GUI library in C for editors and tools. For C, Rust, C++, C#, Python, Zig, Lua, Go | oscar-soirey](https://github.com/oscar-soirey/Raven)
   * [Raven manual: Guide](https://oscar-soirey.github.io/Raven/)
   * [Raven - An Open Source Modern GUI Library Built with C & Vulkan | Oscar Soirey - YouTube](https://www.youtube.com/watch?v=woRba5SXxKg)
-  * 에디터·도구용 C11 GUI 라이브러리—Windows·Linux(X11)·macOS 네이티브 창을 Vulkan(macOS는 MoltenVK)으로 그리고, Slate식 레이아웃, XML 또는 코드로 쓰는 인터페이스(실행 중 XML을 저장하면 창이 따라 바뀌는 라이브 리로드), 코드 텍스트 에디터, 도킹, 글래스 머티리얼, 번역, 접근성, C++·Python·Rust·Go·C#·Zig·LuaJIT 바인딩. 보존형 트리라 바뀐 부분만 다시 그리며, 링크 의존성 없음(CMake 3.16+·C11, Vulkan 헤더는 설정 시 자동 다운로드). 폴더의 인터페이스를 폰·데스크톱 크기와 테마·언어별로 보며 만드는 `raven_designer`(컴파일 없음)와 테마 에디터 동봉, 매뉴얼에 Qt 6·Clay·Dear ImGui와의 비교표. 0.1 단계라 공개 API는 1.0 전까지 바뀔 수 있음. 영상은 0.1.3 기준 1분 반 소개. Apache-2.0, 1.5k stars
+  * 에디터·도구용 C11 GUI 라이브러리—Windows·Linux(X11)·macOS 네이티브 창을 Vulkan(macOS는 MoltenVK)으로 그리고, Slate식 레이아웃, XML 또는 코드로 쓰는 인터페이스(실행 중 XML을 저장하면 창이 따라 바뀌는 라이브 리로드), 코드 텍스트 에디터, 도킹, 글래스 머티리얼, 번역, 접근성, C++·Python·Rust·Go·C#·Zig·LuaJIT 바인딩. 보존형 트리라 바뀐 부분만 다시 그리며, 링크 의존성 없음(CMake 3.16+·C11, Vulkan 헤더는 설정 시 자동 다운로드). 폴더의 인터페이스를 폰·데스크톱 크기와 테마·언어별로 보며 만드는 `raven_designer`(컴파일 없음)와 테마 에디터 동봉, 매뉴얼에 Qt 6·Clay·Dear ImGui와의 비교표. 0.1 단계라 공개 API는 1.0 전까지 바뀔 수 있음. 영상은 0.1.3 기준 1분 반 소개
 * [RC is a dialect of C that adds safe, region-based memory management to C](http://www.barnowl.org/research/rc/)
 * [rdrview: Firefox Reader View as a command line tool](https://github.com/eafer/rdrview)
 * [Recur is a collection of Gstreamer plugins based on recurrent neural networks, along with a character level language modeller](https://github.com/douglasbagnall/recur)

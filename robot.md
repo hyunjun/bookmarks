@@ -48,11 +48,11 @@ Robot
 * [미쯔비시 로봇, Rubik's Cube를 0.305초만에 풀어 | GeekNews](https://news.hada.io/topic?id=15237)
 * [로봇 ML 모델의 경량화 1부: 훈련 후 양자화 | 우아한형제들 기술블로그](https://techblog.woowahan.com/18980/)
 * [GPU 없이 VLA 돌리기: 퀄컴 NPU에서 1.6초를 230ms로 | 노타 블로그](https://blog.nota.ai/kr/insights/vla-edge-npu-optimization)
-  * KRAIN 2026(2026-09-11, 서울) 시연 사례. VLA 모델 기반 SO-101 로봇팔을 GPU 서버가 아니라 손바닥 크기 보드의 NPU(퀄컴 Dragonwing IQ-9075)로 구동—관람객이 고른 색의 큐브만 집어 옮기는 라이브 데모. 추론 1.6초를 230ms로 줄인 엣지 NPU 최적화 과정
+  * KRAIN 2026(서울) 시연 사례. VLA 모델 기반 SO-101 로봇팔을 GPU 서버가 아니라 손바닥 크기 보드의 NPU(퀄컴 Dragonwing IQ-9075)로 구동—관람객이 고른 색의 큐브만 집어 옮기는 라이브 데모. 추론 1.6초를 230ms로 줄인 엣지 NPU 최적화 과정
 * [Everything is LLM - Vibe coding a robot task - YouTube](https://www.youtube.com/watch?v=OIw6zY_AQOg)
   * sentdex. XGO Mini2 4족 보행 로봇의 태스크를 LLM으로 바이브 코딩하는 실험—"모든 것이 LLM이 되는" 흐름에서 로봇 제어까지 자연어로 시도
 * [GLM 5.3 Flash Doing all High Level Robot Control - Everything is LLM P.2 | sentdex - YouTube](https://www.youtube.com/watch?v=g8WjRGi8o6w)
-  * 위 'Everything is LLM' 실험의 2편(55분)—XGO 로봇의 객체 인식과 모든 상위 제어 로직을 GLM 5.3 Flash의 함수 호출로 처리
+  * 위 'Everything is LLM' 실험의 2편—XGO 로봇의 객체 인식과 모든 상위 제어 로직을 GLM 5.3 Flash의 함수 호출로 처리
 * [GPT-6 Astra on robotic manipulation | Inspect Robots](https://openai.robocurve.org/gpt-6-astra/)
   * 같은 YAM 로봇 팔·같은 Inspect Robots 에이전트 정책·같은 두 과제로 GPT-6 Astra와 Claude Fable 5.1을 interleaved blinded 쌍으로 비교(각 20 시행, 사람 채점자가 0~4단계 최고 도달 단계로 채점해 실패해도 얼마나 갔는지 기록). 블록을 그릇에 넣는 과제는 Astra 19/20 vs Fable 5.1 8/20 vs Fable 5 1/20, 시행당 2.5분 vs 6.8분, 추정 비용 $0.94 vs $2.12—완수율 2.4배·비용 2.3배 우위에 출력 토큰은 80% 적음
   * 반면 퍼즐 조각을 홈에 끼우는 과제는 Astra 2/20 vs Fable 5.1 2/20으로 동일하고, Astra도 Fable과 똑같이 홈까지 도달한 뒤 마지막 삽입 단계에서 멈춤($1.36 vs $2.18). 모델이 좋아져도 정밀 삽입 같은 특정 병목은 그대로 남는다는 것을 같은 하네스·같은 채점 기준에서 보여주는 사례. Claude Fable 5 vs 5.1 비교 보고서의 후속
@@ -80,7 +80,7 @@ Robot
   * 영상과 액션을 공동 학습하면 액션만 학습한 경우보다 39개 작업 전부에서 우수, 실제 로봇 작업 평균 점수 20%→53%. 공개 가중치·API 없이 Dyna 로봇 셀 구매(벤더 운영) 방식으로만 제공되며 호텔·식당·세탁소 등 서비스업에 운영 중
 * [Embodied First Exam — The first exam for code agents in the physical world](https://www.embodied-first-exam.ai/)
   * [embodied-first-exam: The first exam for code agents in the physical world: frozen robot tasks from many benchmark suites, each answered with a program and verified in a separate sandbox. Runs on Harbor](https://github.com/mll-lab-nu/embodied-first-exam)
-  * 노스웨스턴대 MLL Lab(2026-10-19 공개, Python, MIT). "디지털 세계의 시험을 통과한 코드 에이전트가 물리 세계에 들어가는 첫 시험"—코딩 에이전트가 고정된 장면(frozen scene)의 로봇에 대한 프로그램을 작성·실행해 결과를 보고 고치며, 채점은 별도 샌드박스에서 리플레이로 검증(Harbor 위에서 실행). 자체 제작 9개 스위트: RoboPaint(붓·펜으로 서예·유화 재현), RoboARC(철사 퍼즐·로프 묶기·천 접기·IKEA 조립), RoboDynamicExam(날아오는 공·미끄러지는 퍽 잡기), Embodied Olympics Fun/Match(휴머노이드 스포츠 동작·탁구·배드민턴·축구·펜싱 대전), DexHandExam(다섯 손가락으로 책장 넘기기·병 열기·USB 꽂기·햄버거 만들기), RoboEngineer(공개 시뮬레이터에서 만든 컨트롤러를 숨은 역학 환경에 배포해 수정하는 sim-to-real 루프), Embodied Safety Exam(위해 요청 거절·위험 설명), iSpatialGym(사진 하나로 주어진 목표 상태까지 방 재배치)
+  * 노스웨스턴대 MLL Lab(2026-10-19 공개, Python). "디지털 세계의 시험을 통과한 코드 에이전트가 물리 세계에 들어가는 첫 시험"—코딩 에이전트가 고정된 장면(frozen scene)의 로봇에 대한 프로그램을 작성·실행해 결과를 보고 고치며, 채점은 별도 샌드박스에서 리플레이로 검증(Harbor 위에서 실행). 자체 제작 9개 스위트: RoboPaint(붓·펜으로 서예·유화 재현), RoboARC(철사 퍼즐·로프 묶기·천 접기·IKEA 조립), RoboDynamicExam(날아오는 공·미끄러지는 퍽 잡기), Embodied Olympics Fun/Match(휴머노이드 스포츠 동작·탁구·배드민턴·축구·펜싱 대전), DexHandExam(다섯 손가락으로 책장 넘기기·병 열기·USB 꽂기·햄버거 만들기), RoboEngineer(공개 시뮬레이터에서 만든 컨트롤러를 숨은 역학 환경에 배포해 수정하는 sim-to-real 루프), Embodied Safety Exam(위해 요청 거절·위험 설명), iSpatialGym(사진 하나로 주어진 목표 상태까지 방 재배치)
   * 여기에 BEHAVIOR-1K·LIBERO-MAX·RoboCasa(365·GR1)·MetaWorld+·HumanoidBench·MuJoCo Playground·MyoSuite·RoboTwin 2.0·BiGym 2.0·VLABench·AM-Bench·LabUtopia·ManiGuard·RoboDojo 등 기존 벤치마크 스위트를 통합해 리더보드 운영. Linux x86_64+uv+Docker(Compose v2·BuildKit, Slurm은 rootless podman), 스위트별로 RTX급 GPU(RT 코어 필요)·임의 NVIDIA GPU·CPU 전용으로 나뉘고 Isaac Sim 기반 이미지는 첫 실행 시 20~90분 빌드·최대 150GB 디스크. 에이전트 모델은 API 키 또는 구독으로 연결, 새 스위트 기여 가이드 제공
 * [HIL-SERL: Precise and Dexterous Robotic Manipulation via Human-in-the-Loop Reinforcement Learning](https://hil-serl.github.io/)
   * 다양한 복잡한 환경에서의 성공적인 로봇 강화학습법, HIL-SERL
@@ -115,11 +115,11 @@ Robot
   * [AI Sapiens Documentation | ROBOTIS](https://docs.robotis.com/docs/systems/aisapiens/introduction/)
   * [Open Humanoid ROBOTIS AI Sapiens #5: Runs Along the Hangang River - YouTube](https://youtu.be/rSsL4E2MwoI)
   * [AI Sapiens 한강변 Sim2Real 러닝 테스트 | Facebook](https://www.facebook.com/watch/?v=1045094528168446)
-  * ROBOTIS의 오픈 휴머노이드 프로젝트. 개발 환경과 소스코드를 모두 오픈소스로 공개. 38도 폭염의 서울 한강변에서 불규칙한 야외 노면을 달린 Sim2Real 러닝 테스트 현장 영상. C++, Apache-2.0
+  * ROBOTIS의 오픈 휴머노이드 프로젝트. 개발 환경과 소스코드를 모두 오픈소스로 공개. 38도 폭염의 서울 한강변에서 불규칙한 야외 노면을 달린 Sim2Real 러닝 테스트 현장 영상
 * [autoware: Autoware - the world's leading open-source software project for autonomous driving](https://github.com/autowarefoundation/autoware)
   * 자율주행 오픈소스 소프트웨어 프로젝트
 * [awesome-vla-wam: A Curated List of Vision-Language-Action (VLA) and World Action Models (WAM) Research and Beyond | DravenALG](https://github.com/DravenALG/awesome-vla-wam)
-  * VLA·월드 액션 모델(WAM) 연구 큐레이션. 1k stars
+  * VLA·월드 액션 모델(WAM) 연구 큐레이션
 * [dimos: Agentic operating system for physical space — program humanoids, quadrupeds, drones with natural language](https://github.com/dimensionalOS/dimos)
   * ROS 불필요. 자연어+Python으로 로봇 프로그래밍, SLAM 네비게이션, 다중 에이전트, MCP 인터페이스
 * [FarmBot | Open-Source CNC Farming](https://farm.bot/)
@@ -131,7 +131,7 @@ Robot
   * [2511.04831 Isaac Lab: A GPU-Accelerated Simulation Framework for Multi-Modal Robot Learning](https://arxiv.org/abs/2511.04831)
   * [GPU 가속 로봇 시뮬레이션과 강화학습을 위한 오픈소스 프레임워크, Isaac Lab | digitalbourgeois](https://digitalbourgeois.tistory.com/4055)
   * 강화학습·모방학습·포스트트레이닝 등 로봇 연구 워크플로를 통합하는 NVIDIA의 GPU 가속 오픈소스 프레임워크. 물리·렌더링 백엔드로 Newton·OVRTX·OVPhysX·Isaac Sim을 바꿔 끼우는 멀티 백엔드 구조(3.0.0은 Isaac Sim 6.2 대응), 강체·관절·변형체 물리, RTX 카메라·LiDAR·IMU·접촉 센서·레이캐스터 시뮬레이션, 16종 이상 로봇 모델과 30개 이상 사전 구축 학습 환경, RSL RL·SKRL·RL Games·Stable Baselines 연동, 로컬 또는 클라우드 분산 실행
-  * 티스토리 글의 주의점: 코어는 BSD-3-Clause지만 isaaclab_mimic 등 일부 확장은 Apache 2.0 또는 cuRobo가 필요한 독점 라이선스, Isaac Sim 버전 호환표 확인 필요, GPU 가속 성능은 설정·백엔드·하드웨어에 따라 다르고 Sim-to-Real은 시뮬레이션 결과 외 추가 검증 필요. Python, 8.5k stars
+  * 티스토리 글의 주의점: 코어는 BSD-3-Clause지만 isaaclab_mimic 등 일부 확장은 Apache 2.0 또는 cuRobo가 필요한 독점 라이선스, Isaac Sim 버전 호환표 확인 필요, GPU 가속 성능은 설정·백엔드·하드웨어에 따라 다르고 Sim-to-Real은 시뮬레이션 결과 외 추가 검증 필요
 * [Newton: GPU-accelerated physics simulation engine for robotics](https://newton-physics.github.io/newton)
   * [newton](https://github.com/newton-physics/newton)
   * NVIDIA Warp 기반, MuJoCo Warp 백엔드. OpenUSD 지원, 미분 가능, 빠른 반복·확장 가능한 로봇 시뮬레이션
@@ -140,7 +140,7 @@ Robot
   * 메이커용 DIY 로봇 청소기. 2D LiDAR 매핑·자율 주행, ROS 2·Home Assistant 연동, 클라우드 없는 로컬 우선, 3D 프린팅 부품. Raspberry Pi + 부품 $100~200으로 $500~600급 상용 청소기 목표
 * [Robocode Home](https://robocode.sourceforge.io/)
 * [RoboOS: A Universal Embodied Operating System for Cross-Embodied and Multi-Robot Collaboration | FlagOpen](https://github.com/FlagOpen/RoboOS)
-  * BAAI FlagOpen의 크로스 임바디먼트·멀티 로봇 협업용 임바디드 OS. Python, Apache-2.0, 626 stars
+  * BAAI FlagOpen의 크로스 임바디먼트·멀티 로봇 협업용 임바디드 OS
 * [로봇 아틀라스 — 생각에서, 움직임으로](https://robot-atlas.whchoi.net/)
   * [로봇 아틀라스 워크숍](https://robot-atlas.whchoi.net/workshop/)
   * 자연어로 로봇 팔에 작업을 지시하고 결과를 3D로 확인하는 Physical AI 실습 에셋. MuJoCo·NVIDIA Isaac Sim을 선택해 물건 옮기기·쌓기·정밀 배치 등 9가지 시연, Amazon Bedrock AgentCore 기반 작업 계획과 AWS 실행 환경 연결. 워크숍은 시뮬레이션 구성→클라우드 배포→EKS Spot 중단 대비 작업 복구까지 단계별 실습
@@ -148,11 +148,11 @@ Robot
 * [SimFoundry: Modular and Automated Scene Generation for Policy Learning and Evaluation](https://github.com/NVlabs/SimFoundry)
   * [SimFoundry | NVIDIA Research](https://research.nvidia.com/labs/gear/simfoundry/)
   * [2606.28276 SimFoundry](https://arxiv.org/abs/2606.28276)
-  * NVIDIA Labs. 짧은 실세계 영상 하나를 1시간 이내에 물리 시뮬레이션 씬으로 변환—수동 주석 없이 모든 물체를 자동 분할, 지오메트리 재구성, 텍스처 3D 메시 생성 후 물리 파라미터·digital cousin 변형·태스크 제안까지 포함한 OmniGibson 씬으로 컴파일. Python, Apache-2.0
+  * NVIDIA Labs. 짧은 실세계 영상 하나를 1시간 이내에 물리 시뮬레이션 씬으로 변환—수동 주석 없이 모든 물체를 자동 분할, 지오메트리 재구성, 텍스처 3D 메시 생성 후 물리 파라미터·digital cousin 변형·태스크 제안까지 포함한 OmniGibson 씬으로 컴파일
 * [soma-retargeter: SOMA BVH to humanoid robot motion retargeting library built with Newton and NVIDIA Warp](https://github.com/nvidia/soma-retargeter)
-  * SOMA 스켈레톤 BVH 파일의 사람 동작을 휴머노이드 로봇의 관절 애니메이션으로 변환—결과를 CSV로 내보내 검사·비교하거나 로봇 제어·시뮬레이션 도구에 전달. NVIDIA, Newton·Warp 기반. Python, Apache-2.0, 612 stars
+  * SOMA 스켈레톤 BVH 파일의 사람 동작을 휴머노이드 로봇의 관절 애니메이션으로 변환—결과를 CSV로 내보내 검사·비교하거나 로봇 제어·시뮬레이션 도구에 전달. NVIDIA, Newton·Warp 기반
 * [spectacles-dimensional-os: Snap Spectacles AR integration with Dimensional OS — controller for Unitree GO2 and G1 robots | v4c38](https://github.com/v4c38/spectacles-dimensional-os)
-  * Snap Spectacles AR 안경으로 Unitree GO2(4족)·G1(휴머노이드) 로봇을 제어하는 Dimensional OS 연동. TypeScript, MIT
+  * Snap Spectacles AR 안경으로 Unitree GO2(4족)·G1(휴머노이드) 로봇을 제어하는 Dimensional OS 연동
 * [uoais: Codes of paper "Unseen Object Amodal Instance Segmentation via Hierarchical Occlusion Modeling", ICRA 2022](https://github.com/gist-ailab/uoais)
   * [학습하지 않은 물체 인식하는 '로봇 시각 인공지능'... 지스트 이규빈 교수팀, 오픈소스로 공개 < 이미지 < AI Tech < 기사본문 - 인공지능신문](http://www.aitimes.kr/news/articleView.html?idxno=24251)
 

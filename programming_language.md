@@ -634,7 +634,7 @@ Programming Language
 * [MUMPS - Meet MUMPS, the Archaic Health-Care Programming Language That Predicted Big Data](http://motherboard.vice.com/read/meet-mumps-the-archaic-health-care-programming-language-that-predicted-big-data-2)
 * [Mycroft - A prolog-like language with compound truth value logic](https://github.com/enkiv2/mycroft)
 * [nerd-lang-core: Introducing NERD - the first intermediate language designed for machine authorship | Nerd-Lang](https://github.com/Nerd-Lang/nerd-lang-core)
-  * "No Effort Required, Done"—코드의 40%를 LLM이 쓰는 시대에 왜 여전히 사람 저자용으로 언어를 최적화하느냐는 문제의식에서 사람이 아니라 LLM을 위해 만든 중간 언어: 기계가 쓰고(사람은 소스를 건드리지 않음) 기계가 읽어 LLVM으로 네이티브 컴파일, 사람은 감사·관찰만(편집 불가), 같은 로직을 50~70% 적은 토큰으로. 지금은 LLM 호출·MCP 도구·얇은 오케스트레이션 같은 에이전트 우선 기능에 집중하는 초기 단계로 실사용은 아직. C, Apache-2.0
+  * "No Effort Required, Done"—코드의 40%를 LLM이 쓰는 시대에 왜 여전히 사람 저자용으로 언어를 최적화하느냐는 문제의식에서 사람이 아니라 LLM을 위해 만든 중간 언어: 기계가 쓰고(사람은 소스를 건드리지 않음) 기계가 읽어 LLVM으로 네이티브 컴파일, 사람은 감사·관찰만(편집 불가), 같은 로직을 50~70% 적은 토큰으로. 지금은 LLM 호출·MCP 도구·얇은 오케스트레이션 같은 에이전트 우선 기능에 집중하는 초기 단계로 실사용은 아직
 * [Newspeak](http://www.newspeaklanguage.org/)
   * [Newspeak on Squeak](http://bracha.org/newspeak-101.pdf)
 * [nf - A minimal programming language, designed as an interactive environment for my os/64](https://bitbucket.org/qx89l4/nf/src)
@@ -791,7 +791,7 @@ Programming Language
 * [Zephir - Hello World - 완두블로그](https://wani.kr/posts/2015/05/03/zephir-1/)
 * [zenc-lang: Zen C — Modern Ergonomics. Zero Overhead. Pure C. Write like a high-level language, run like C | Zuhaitz-dev](https://github.com/Zuhaitz-dev/zenc-lang)
   * [Zen C 공식 사이트](https://zuhaitz-dev.github.io/zenc-lang/)
-  * 사람이 읽을 수 있는 GNU C/C11로 컴파일되는 현대적 시스템 언어—타입 추론·패턴 매칭·제네릭·트레이트·RAII를 갖춘 수동 메모리 관리를 제공하면서 C ABI 100% 호환. 코어 컴파일러 `zc`·CLI·표준 라이브러리(zenc)와 문서·RFC 레포로 구성, Discord 커뮤니티, 8개 언어 README. C, MIT, 4.3k stars
+  * 사람이 읽을 수 있는 GNU C/C11로 컴파일되는 현대적 시스템 언어—타입 추론·패턴 매칭·제네릭·트레이트·RAII를 갖춘 수동 메모리 관리를 제공하면서 C ABI 100% 호환. 코어 컴파일러 `zc`·CLI·표준 라이브러리(zenc)와 문서·RFC 레포로 구성, Discord 커뮤니티, 8개 언어 README
 
 # Type
 * [What is the appeal of dynamically-typed languages?](https://gist.github.com/non/ec48b0a7343db8291b92)

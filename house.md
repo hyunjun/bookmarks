@@ -176,7 +176,7 @@ House
   * [Micasa: 터미널에서 주택 유지보수를 통합 관리하는 오픈소스 도구](https://digitalbourgeois.tistory.com/2806)
 * [Pascal — Create and share 3D architectural projects](https://editor.pascal.app/)
   * [editor: Create and share 3D architectural projects](https://github.com/pascalorg/editor)
-  * 3D 건축 프로젝트를 만들고 공유하는 웹 에디터. TypeScript, MIT, 20k stars
+  * 3D 건축 프로젝트를 만들고 공유하는 웹 에디터
 * [PublicDataReader](https://github.com/WooilJeong/PublicDataReader)
   * 부동산 실거래 데이터 조회 수집 파이썬 라이브러리
   * 국토교통부 제공 각종 부동산 실거래 데이터 관련 오픈 API 서비스들을 하나로 통합

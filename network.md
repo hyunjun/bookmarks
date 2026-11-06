@@ -393,7 +393,7 @@ Network
 * [awesome-connectivity-info: Awesome list of connectivity indexes and reports to help you better under who has access to communication infrastructure and on what terms.](https://github.com/stevesong/awesome-connectivity-info)
 * [awesome-selfhosted: A list of Free Software network services and web applications which can be hosted on your own servers](https://github.com/awesome-selfhosted/awesome-selfhosted)
   * [awesome-selfhosted.net — HTML version (recommended)](https://awesome-selfhosted.net/)
-  * 95개 카테고리 약 1,270개 셀프호스팅 자유 소프트웨어 목록(2015년 시작, 325k stars). 항목마다 웹사이트·소스·데모 링크와 별·언어·라이선스·플랫폼 태그, 비자유 소프트웨어는 별도 Non-Free 페이지, 데드 링크·미유지보수 CI 점검. HTML 사이트가 권장 버전
+  * 95개 카테고리 약 1,270개 셀프호스팅 자유 소프트웨어 목록(2015년 시작). 항목마다 웹사이트·소스·데모 링크와 별·언어·라이선스·플랫폼 태그, 비자유 소프트웨어는 별도 Non-Free 페이지, 데드 링크·미유지보수 CI 점검. HTML 사이트가 권장 버전
 * [CIDR (Classless inter-domain routing)](https://github.com/m7shapan/cidr)
 * Cicso packet tracer
   * [네트워크 장비 없이 공부하기 - Cisco Packet Tracer](https://www.youtube.com/watch?v=0f1viq6FjK4)
@@ -430,7 +430,7 @@ Network
   * containerlab + `nicolaka/netshoot`(동적 라우팅 편만 FRR). 편당 폴더 하나에 `*.clab.yml`+README+`fix.sh`+`WALKTHROUGH.md`(모범 답안—의도→실측 결과→해석). macOS는 `clab.sh` 래퍼로 containerlab을 컨테이너로 띄워 실행, EC2 실습 호스트 구성도 제공. `walkthrough.html` 웹 뷰어
 * [openvpn-install: Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS, Arch Linux and more](https://github.com/angristan/openvpn-install)
   * [How to set up a VPN server using WireGuard (with NAT and IPv6) | Stan's blog](https://stanislas.blog/2019/01/how-to-setup-vpn-server-wireguard-nat-ipv6/)
-  * VPS·전용 서버·집 컴퓨터에 몇 초 만에 자체 OpenVPN 서버를 세우고 기기별 클라이언트 설정 파일을 만들어 주는 설치 스크립트—인터넷 라우팅(기본 켜짐)·클라이언트 간 접근·서버 측 네트워크 접근을 따로 설정. Debian·Ubuntu·Fedora·openSUSE·CentOS·Amazon Linux·Arch·Oracle·Rocky·Alma 지원. Shell, MIT, 16.2k stars
+  * VPS·전용 서버·집 컴퓨터에 몇 초 만에 자체 OpenVPN 서버를 세우고 기기별 클라이언트 설정 파일을 만들어 주는 설치 스크립트—인터넷 라우팅(기본 켜짐)·클라이언트 간 접근·서버 측 네트워크 접근을 따로 설정. Debian·Ubuntu·Fedora·openSUSE·CentOS·Amazon Linux·Arch·Oracle·Rocky·Alma 지원
   * 같은 저자(angristan)의 WireGuard 가이드: PKI 없는 피어 간 point-to-point VPN으로 로밍(네트워크를 바꿔도 재연결 불필요)이 모바일 클라이언트에 유용, "OpenVPN 스크립트를 유지하지만 WireGuard가 거의 모든 면에서 낫다"며 서버 설치·피어 설정·라우팅과 NAT로 클라이언트 트래픽 전달·클라이언트 추가·IPv4/IPv6 듀얼 스택·DNS 변경·차단 포트 우회·Android 앱으로 설정 전송까지 단계별 설명
 * [Ophiuchi - Your Local Development Companion](https://www.ophiuchi.dev/)
   * [ophiuchi-desktop: A local https proxy server using docker as backend](https://github.com/apilylabs/ophiuchi-desktop)
@@ -455,13 +455,13 @@ Network
 * [Sniffnet: Free Network Traffic Monitoring Tool](https://sniffnet.app/)
   * [sniffnet: Comfortably monitor your network traffic | GyulyVGC](https://github.com/GyulyVGC/sniffnet)
   * 누구나 쉽게 쓰는 것을 지향하는 크로스플랫폼(Windows·macOS·Linux) 네트워크 트래픽 모니터 GUI 앱. 어댑터 선택·필터, PCAP 가져오기/내보내기, 실시간 트래픽 차트, 로컬 네트워크 연결 식별, 원격 호스트 지리 위치·도메인·ASN, 6000+ 상위 계층 서비스·프로토콜 식별, 대역폭을 쓰는 프로그램 표시, 커스텀 알림, IP 블랙리스트로 의심 연결 강조, 커스텀 테마. 26개 언어, 보안 감사 수행
-  * Rust(iced GUI), MIT/Apache-2.0 이중 라이선스, 41.6k stars
+  * Rust(iced GUI), MIT/Apache-2.0 이중 라이선스
 * [Stealth - Proton의 새로운 VPN 프로토콜 | GeekNews](https://news.hada.io/topic?id=16250)
   * [Defeat censorship with Stealth, our new VPN protocol | Proton](https://protonvpn.com/blog/stealth-vpn-protocol)
 * [teler: Real-time HTTP Intrusion Detection](https://github.com/kitabisa/teler)
 * [TinyCheck: TinyCheck allows you to easily capture network communications from a smartphone or any device which can be associated to a Wi-Fi access point in order to quickly analyze them. This can be used to check if any suspect or malicious communication is outgoing from a smartphone, by using heuristics or specific Indicators of Compromise (IoCs). In order to make it working, you need a computer with a Debian-like operating system and two Wi-Fi interfaces. The best choice is to use a Raspberry Pi (2+) a Wi-Fi dongle and a small touch screen. This tiny configuration (for less than $50) allows you to tap any Wi-Fi device, anywhere](https://github.com/KasperskyLab/TinyCheck)
 * [ttl: Fast, modern traceroute with real-time TUI, per-hop stats, ASN/geo lookup, ECMP detection, and MPLS label parsing. A better mtr | lance0](https://github.com/lance0/ttl)
-  * traceroute를 넘어서는 네트워크 진단 도구—하나 이상의 호스트 경로를 계속 추적하며 홉별 손실·지연·지터 통계를 유지하고, `--pmtud`로 VPN·터널의 MTU 블랙홀 이진 탐색, `-p udp --flows N`으로 ECMP 다중 경로 열거(플로우별 vs 패킷별 분산 구분), NAT 탐지, 경로 플랩 알림, IX 식별, ASN/지오 조회, MPLS 라벨 파싱. 인터랙티브 TUI 또는 헤드리스(JSON·CSV·텍스트 리포트·스트리밍 JSON·Prometheus). `cargo install ttl`/`brew install ttl`. Rust, MIT/Apache-2.0
+  * traceroute를 넘어서는 네트워크 진단 도구—하나 이상의 호스트 경로를 계속 추적하며 홉별 손실·지연·지터 통계를 유지하고, `--pmtud`로 VPN·터널의 MTU 블랙홀 이진 탐색, `-p udp --flows N`으로 ECMP 다중 경로 열거(플로우별 vs 패킷별 분산 구분), NAT 탐지, 경로 플랩 알림, IX 식별, ASN/지오 조회, MPLS 라벨 파싱. 인터랙티브 TUI 또는 헤드리스(JSON·CSV·텍스트 리포트·스트리밍 JSON·Prometheus). `cargo install ttl`/`brew install ttl`
 * [ttpoe](https://github.com/teslamotors/ttpoe)
   * [Tesla Transport Protocol over Ethernet (TTPoE) | GeekNews](https://news.hada.io/topic?id=16902)
 * [unity5-networking-HLAPI-getting-started - An example implementation of HLAPI LAN server-client model.(managing connection with client)](https://github.com/ifndefdeadmau5/unity5-networking-HLAPI-getting-started)
@@ -470,7 +470,7 @@ Network
   * [Whosthere - Go로 작성된 현대적 TUI 기반 LAN 탐색 도구 | GeekNews](https://news.hada.io/topic?id=26096)
 * [TCP Viewer — Native Packet Viewer for Mac](https://tcpviewer.proxyman.com/)
   * [TCPViewer: The best-in-class macOS app to See every packet clearly on your Mac. Alternative to Wireshark](https://github.com/ProxymanApp/TCPViewer)
-  * Proxyman 팀이 만든 macOS 네이티브 패킷 뷰어(Wireshark 대안). 간편한 패킷 캡처, PCAP/PCAPNG 드래그&드롭 미리보기, TCP 스트림 추적, 프로토콜 필터링. Swift, GPL
+  * Proxyman 팀이 만든 macOS 네이티브 패킷 뷰어(Wireshark 대안). 간편한 패킷 캡처, PCAP/PCAPNG 드래그&드롭 미리보기, TCP 스트림 추적, 프로토콜 필터링
 * Wireshark
   * [Decrypting your own HTTPS traffic with Wireshark – Trickster Dev](https://www.trickster.dev/post/decrypting-your-own-https-traffic-with-wireshark/)
   * [네트워크 성능 문제를 해결하는 필수 오픈소스 툴 ‘와이어샤크’ - ITWorld Korea](https://www.itworld.co.kr/news/239629)
@@ -574,7 +574,7 @@ Network
   * 방화벽으로 막힌 내부 네트워크 서비스에 접근하거나 보안되지 않은 프로토콜을 암호화하여 전송할 때 매우 유용
   * 복잡한 네트워크 구조에서도 안전한 통로를 구축하는 핵심 기법
 * [Homa: The End of TCP for AI Clusters — John Ousterhout, Stanford | AI Engineer - YouTube](https://www.youtube.com/watch?v=eZ8WWZzoaR0)
-  * 「A Philosophy of Software Design」 저자 John Ousterhout의 19분 발표. AI 워크로드가 대용량 전송에서 KV 캐시 조회·배리어 동기화 같은 소형 메시지 중심으로 바뀌며 incast 큐잉이 테일 레이턴시를 키워 GPU를 놀림—송신자 주도 혼잡제어·바이트 스트림 모델의 TCP/RDMA 대신 수신자 주도·메시지 단위 Homa 프로토콜 제안
+  * 「A Philosophy of Software Design」 저자 John Ousterhout의 발표. AI 워크로드가 대용량 전송에서 KV 캐시 조회·배리어 동기화 같은 소형 메시지 중심으로 바뀌며 incast 큐잉이 테일 레이턴시를 키워 GPU를 놀림—송신자 주도 혼잡제어·바이트 스트림 모델의 TCP/RDMA 대신 수신자 주도·메시지 단위 Homa 프로토콜 제안
 * [tcp-over-http: A TCP proxy using HTTP - Reach SSH behind a Nginx reverse proxy](https://github.com/julianbuettner/tcp-over-http)
 * [wa-tunnel: Tunneling Internet traffic over Whatsapp](https://github.com/aleixrodriala/wa-tunnel)
 

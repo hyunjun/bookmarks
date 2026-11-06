@@ -35,7 +35,7 @@ Science
 * [김효경 - 현미경의 역사와 잊힌 관찰자들: 왜 로버트 훅만 기억되는가 | Facebook](https://www.facebook.com/hyokyung.kim.165/posts/pfbid0uNWdSnJZQ4jpruVNFXF8UDVF37ZJmeXoQLL6GsLv2qg9V5bt5RF5AK4QffdVuDyul)
   * 훅의 <마이크로그라피아>(1665)보다 21년 앞선 호디에르나 <파리의 눈>(1644), 1년 앞선 헨리 파워 <실험 철학>, 285배율로 세균까지 본 레이우엔훅은 왜 잊혔는가—관계망·영향력, '무엇을 봤나'만 적고 '어떻게 봤나'는 안 적은 차이, 왕립학회 실험 책임자라는 훅의 위치, <철학회보>(1665) 창간으로 "발표하지 않으면 없는 것"이라는 규칙 성립. 현미경은 망원경과 달리 물음이 없어 200년간 구경거리에 머물렀지만, 보이지 않는 것도 실재함을 확인 가능한 방식으로 보여준 첫 도구
 * [math-science-video-lectures: List of Science courses with video lectures | Developer-Y](https://github.com/Developer-Y/math-science-video-lectures)
-  * cs-video-courses 자매 목록—수학·물리·화학·생물 등 과학 대학 강의 중 영상 공개분 모음. 4.2k stars
+  * cs-video-courses 자매 목록—수학·물리·화학·생물 등 과학 대학 강의 중 영상 공개분 모음
 
 # AI
 * [Understanding the brain with AI-driven explanations and experiments | Microsoft Research](https://www.microsoft.com/en-us/research/blog/understanding-the-brain-with-ai-driven-explanations-and-experiments/)
@@ -49,7 +49,7 @@ Science
   * [Meta TRIBE v2, 인간 뇌의 '디지털 트윈'을 만들다 - 박재홍의 실리콘밸리 | WikiDocs](https://wikidocs.net/blog/@jaehong/10702/)
   * ["챗GPT도 클로드도 아니다" AI 전쟁 끝낼 메타의 '최종병기'가 등장했습니다 | Softdragon SOD - YouTube](https://www.youtube.com/watch?v=SfRUFw4AEFY)
     * 메타버스에 110조 원 넘는 적자를 낸 Meta가 AI 글래스에선 상반기 세계 출하량 10대 중 8대로 압도적 1위라는 데서 출발—노리는 건 안경 판매가 아니라 상품 선택·결제가 모두 Meta를 거치게 하는 커머스 길목. 설정 때 음성·이미지 데이터 제공 동의를 묻는 Ray-Ban Meta 3세대 체험, 인스타 사진으로 가상 옷장·코디를 만드는 패션앱 Style Sketch, 2022년 900여 명의 1인칭 영상 3,600시간으로 학습한 연구(Ego4D), Muse 에이전트에 Shopify 상품·PayPal 결제 연결 발표를 엮어 "보는 순간 식별→옷장 매칭→Instagram Shop·Meta Pay 결제" 시나리오를 그리고, "정말 사고 싶은지 구경인지" 의도 판별의 과제에 대한 답으로 시각·청각 자극에 뇌가 어떻게 반응할지 예측하는 TRIBE v2를 지목. 3분기 매출 646억 달러 중 광고 631억 달러인 회사가 가장 잘하는 광고 영역으로 AI를 끌어오고 있으며, 가장 똑똑한 모델이 아니라 "뭘 살지 고민하는 순간 먼저 답하고 구매까지 연결한 회사"가 판을 뒤집을 수 있다는 주장(하이젠버그 리포트 기반)
-  * Meta FAIR의 TRImodal Brain Encoder v2—영상·소리·텍스트를 넣으면 인간 뇌의 fMRI 반응을 약 7만 복셀(fsaverage5 피질 메쉬 약 2만 꼭짓점) 수준으로 예측하는 "뇌의 디지털 트윈" 파운데이션 모델. Algonauts 2025 대회 1위(263팀) v1이 피험자 4명 데이터로 약 1,000개 피질 셀을 예측했다면 v2는 720명+·1,000시간+ fMRI로 학습해 해상도 70배·정확도 2~3배, 새 피험자·언어·과제에 재학습 없는 제로샷 예측이 가능하고 때로는 개별 피험자의 실제 스캔보다 집단 평균 신경 활동에 더 가까움. 구조는 프리즈한 V-JEPA2(시각)·Wav2Vec-BERT 2.0(청각)·LLaMA 3.2-3B(언어) 특징 추출→혈역학 반응 지연(4~6초)을 감안한 100초 컨텍스트의 8층 Temporal Transformer→피험자별 뇌 매핑 블록 3단계. 피험자를 MRI에 눕히지 않고 컴퓨터 안에서 가설을 수천 번 검증하는 인실리코 신경과학, 실어증 연구·BCI 개발·AI 내부 표현과 뇌 반응 비교(정렬 연구)에 응용 전망; 신경 데이터 동의 범위·거버넌스 문제, 스케일링 곡선 미포화, CC-BY-NC-4.0(상업 이용은 별도 협의)이 과제. 박재홍은 Meta 핵심 모델 3종의 쇼케이스이자 공개 fMRI 데이터 플라이휠 전략으로도 읽음(Hugging Face 월 5만+ 다운로드)
+  * Meta FAIR의 TRImodal Brain Encoder v2—영상·소리·텍스트를 넣으면 인간 뇌의 fMRI 반응을 약 7만 복셀(fsaverage5 피질 메쉬 약 2만 꼭짓점) 수준으로 예측하는 "뇌의 디지털 트윈" 파운데이션 모델. Algonauts 2025 대회 1위(263팀) v1이 피험자 4명 데이터로 약 1,000개 피질 셀을 예측했다면 v2는 720명+·1,000시간+ fMRI로 학습해 해상도 70배·정확도 2~3배, 새 피험자·언어·과제에 재학습 없는 제로샷 예측이 가능하고 때로는 개별 피험자의 실제 스캔보다 집단 평균 신경 활동에 더 가까움. 구조는 프리즈한 V-JEPA2(시각)·Wav2Vec-BERT 2.0(청각)·LLaMA 3.2-3B(언어) 특징 추출→혈역학 반응 지연(4~6초)을 감안한 100초 컨텍스트의 8층 Temporal Transformer→피험자별 뇌 매핑 블록 3단계. 피험자를 MRI에 눕히지 않고 컴퓨터 안에서 가설을 수천 번 검증하는 인실리코 신경과학, 실어증 연구·BCI 개발·AI 내부 표현과 뇌 반응 비교(정렬 연구)에 응용 전망; 신경 데이터 동의 범위·거버넌스 문제, 스케일링 곡선 미포화, CC-BY-NC-4.0(상업 이용은 별도 협의)이 과제. 박재홍은 Meta 핵심 모델 3종의 쇼케이스이자 공개 fMRI 데이터 플라이휠 전략으로도 읽음
 * [Connectome - Wikipedia](https://en.wikipedia.org/wiki/Connectome)
   * [Fly Connectome – Drosophila Connectomics Group, University of Cambridge](https://flyconnecto.me/)
   * 커넥톰은 뇌 신경 연결의 전체 지도, 즉 "배선도". MRI로 얻는 뇌 영역 간 기능적 커넥톰(mm 단위)부터 전자현미경으로 개별 뉴런과 시냅스를 추적한 신경 커넥톰까지 해상도가 다양
@@ -62,7 +62,7 @@ Science
     * Jean K. Min: 초파리 뇌를 비트로 옮겨 마인크래프트에서 날린 사건을 아서 클라크 《신의 망치》·《플루리버스》·《인터스텔라》의 "아톰보다 비트" 세계관과 연결. 영생 산업이 AI 최대 시장이 되고 반도체 수요는 이제 시작이라는 주장
   * [awesome-fly: A curated list of fruit fly connectome projects: MaleCNS, FlyWire, brain simulations, embodied models, games, and research tools | cobanov](https://github.com/cobanov/awesome-fly)
     * 초파리 커넥톰(MaleCNS·FlyWire)으로 만든 프로젝트 큐레이션 목록. Doom·Minecraft·Super Mario 64·Flappy Bird·FNAF·자율주행 게임 컨트롤러, 데스크톱 펫 초파리, 뇌 모델·Flybody/NeuroMechFly 신체 시뮬레이션, 데이터셋·분석 도구·논문까지 분류
-    * 항목마다 전체 그래프인지 회로 일부(circuit subset)인지, 학습된 것은 readout뿐인지, 음성 대조군 결과가 있는지 구분해 적음. "커넥톰은 연결만 기록할 뿐, 움직이는 파리나 게임 데모가 생물학적 충실도나 학습된 행동을 증명하지는 않는다"는 전제. fly-cartpole도 포함. 666 stars
+    * 항목마다 전체 그래프인지 회로 일부(circuit subset)인지, 학습된 것은 readout뿐인지, 음성 대조군 결과가 있는지 구분해 적음. "커넥톰은 연결만 기록할 뿐, 움직이는 파리나 게임 데모가 생물학적 충실도나 학습된 행동을 증명하지는 않는다"는 전제. fly-cartpole도 포함
   * [fly-cartpole: A fruit fly's flight-stabilisation circuit, wired from the MaleCNS connectome, balances CartPole as a reflex and tunes its own sensor gains | Curt-Park](https://github.com/Curt-Park/fly-cartpole)
     * [fly-cartpole web viewer](https://curt-park.github.io/fly-cartpole)
     * "초파리 뇌를 그대로 가져오면 CartPole을 풀 수 있을까"—성체 수컷 초파리 커넥톰 MaleCNS v1.0에서 비행 안정화 회로(5,459 뉴런)를 잘라내 Gymnasium CartPole-v1에 연결. 역전파로 학습한 인공신경망 없이 커넥톰에 기록된 연결 그대로 계산하고, 학습은 센서 게인 5개만 바꿈(매 에피소드 무작위 nudge 후 최근 기록을 넘었는지 보상 신호로 이동). 겹눈 위 ocelli가 막대 기울기를 몸의 롤로, 평형곤 halteres가 넘어지는 속도를, HS 세포가 카트 속도를 optic flow로 읽고 좌우 날개 차이로 밀 방향 결정, 랜드마크로 제자리 유지
@@ -72,7 +72,7 @@ Science
   * [OpenScience: 과학 연구를 위한 오픈소스 AI 워크벤치 기술 정리 | digitalbourgeois](https://digitalbourgeois.tistory.com/3345)
   * [OpenScience: AI 에이전트로 문헌 조사부터 데이터 분석, 실험 재현까지 자동화하는 오픈소스 연구 플랫폼 | digitalbourgeois](https://digitalbourgeois.tistory.com/3738)
   * 문헌 조사·가설 수립부터 코드 작성·실험·결과 분석까지 과학 워크플로를 자동화하는 AI 리서치 플랫폼. 브라우저 기반 워크스페이스, 290개+ 전문 스킬, 주요 과학 데이터베이스 연동, 멀티 모델 지원. ML·생물·물리·화학 연구에 활용, 벤더 락인 없음
-  * 2026.10 기준 보강—YC 투자 Synthetic Sciences. 데스크톱 앱(macOS·Windows·Linux, Electron)·브라우저 워크스페이스·CLI(`npm i -g @synsci/openscience` 또는 `npx synsci`)로 같은 프로젝트 폴더에서 동작하고 모든 턴이 생각→검색→실행→작성→답의 기록으로 남음. Shell·Python/R 커널·노트북, 명시적 읽기/쓰기 권한의 파일 시스템(프로젝트 밖은 별도 허가, 네트워크 명령은 호스트별 1회 승인), 로컬 커널에서 Modal·SSH·Slurm/PBS 클러스터까지 승인 후 실행하는 원격 컴퓨트, 생물·화학·물리·ML·글쓰기 371개 번들 스킬과 UniProt·PDB·ChEMBL·PubChem·arXiv 등 42개 과학 DB 커넥터, NVIDIA BioNeMo NIM BYOK 어댑터 10종(Boltz-2·DiffDock·Evo 2·OpenFold3·RFdiffusion 등), 리드 에이전트가 explore·general·도메인 전문 5종 워커에 병렬 위임. 모델은 자기 키·ChatGPT Plus/Pro 로그인·로컬(Ollama·LM Studio)·관리형 종량제 Ace 중 선택. Terminal-Bench Science·Terminal-Bench 4.0(science)·BiomniBench-DA(82.2)·자체 OpenScience Bench 선두 주장. MCP·커스텀 에이전트/명령·플러그인·TypeScript SDK로 확장. TypeScript, Apache-2.0, 4k stars
+  * 2026.10 기준 보강—YC 투자 Synthetic Sciences. 데스크톱 앱(macOS·Windows·Linux, Electron)·브라우저 워크스페이스·CLI(`npm i -g @synsci/openscience` 또는 `npx synsci`)로 같은 프로젝트 폴더에서 동작하고 모든 턴이 생각→검색→실행→작성→답의 기록으로 남음. Shell·Python/R 커널·노트북, 명시적 읽기/쓰기 권한의 파일 시스템(프로젝트 밖은 별도 허가, 네트워크 명령은 호스트별 1회 승인), 로컬 커널에서 Modal·SSH·Slurm/PBS 클러스터까지 승인 후 실행하는 원격 컴퓨트, 생물·화학·물리·ML·글쓰기 371개 번들 스킬과 UniProt·PDB·ChEMBL·PubChem·arXiv 등 42개 과학 DB 커넥터, NVIDIA BioNeMo NIM BYOK 어댑터 10종(Boltz-2·DiffDock·Evo 2·OpenFold3·RFdiffusion 등), 리드 에이전트가 explore·general·도메인 전문 5종 워커에 병렬 위임. 모델은 자기 키·ChatGPT Plus/Pro 로그인·로컬(Ollama·LM Studio)·관리형 종량제 Ace 중 선택. Terminal-Bench Science·Terminal-Bench 4.0(science)·BiomniBench-DA(82.2)·자체 OpenScience Bench 선두 주장. MCP·커스텀 에이전트/명령·플러그인·TypeScript SDK로 확장
 
 # Biology
 * [영장류의 움켜잡기 능력에 대한 새로운 연구](http://newspeppermint.com/2015/04/28/primate-grip/)
@@ -123,7 +123,7 @@ Science
   * [Oh Hyeunseung - 아마도 올해 최고의 연구 중 하나 | Facebook](https://www.facebook.com/hyeunseung82/posts/pfbid02W2TU5sZ6sA7ew5FaULqF39Q8AnXudMmqYvdHEYgJQQqSxE8VEPQogLCKgWRotnHql)
   * 야생 침팬지 최대 집단의 영구적 분열과 치명적 충돌을 30년 행동 관찰과 네트워크 분석으로 보고. 동물의 영토 분쟁이 인간 내전의 측면을 조명
 * [현대과학이 밝힌 박쥐의 새 사냥, 17세기 그림에 이미 있었다 | 조선비즈](https://v.daum.net/v/20260718004327266)
-  * 이영완 딥사이언스. 얀 브뤼헐 1세의 1611년 유화 '공기'에 새를 물고 있는 박쥐가 그려져 있는데, 도냐나 생물학 연구소가 PNAS(2026.6.29)에서 유럽 큰멧박쥐가 밤중에 공중에서 새를 잡아먹는 행동이 17세기부터 알려져 있었음을 이 그림으로 확인. 미술 작품이 동식물 생태의 기록이 될 수 있음을 보여준 사례
+  * 이영완 딥사이언스. 얀 브뤼헐 1세의 1611년 유화 '공기'에 새를 물고 있는 박쥐가 그려져 있는데, 도냐나 생물학 연구소가 PNAS에서 유럽 큰멧박쥐가 밤중에 공중에서 새를 잡아먹는 행동이 17세기부터 알려져 있었음을 이 그림으로 확인. 미술 작품이 동식물 생태의 기록이 될 수 있음을 보여준 사례
 
 ## Bee
 * [Quest for a Superbee](http://ngm.nationalgeographic.com/2015/05/building-bees/mann-text)

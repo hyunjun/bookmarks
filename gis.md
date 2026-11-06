@@ -73,7 +73,7 @@ GIS
     * [A Handy Introduction to Cloud Optimized GeoTIFFs | by Patrick Armstrong | Planet Stories | Medium](https://medium.com/planet-stories/a-handy-introduction-to-cloud-optimized-geotiffs-1f2c9e716ec3)
 * [Spatial Intelligence — God's Eye View](https://www.spatialintelligence.ai/)
   * [gods-eye-view: A spy satellite simulator in your browser, except the data is real](https://github.com/bilawalsidhu/gods-eye-view)
-  * 브라우저에서 도는 스파이 위성 시뮬레이터—실데이터 기반 오픈소스 공간 인텔리전스를 포토리얼 3D 지구본 위에 라이브로 표시. Bilawal Sidhu(전 Google 지도) 제작. JavaScript, 10.3k stars
+  * 브라우저에서 도는 스파이 위성 시뮬레이터—실데이터 기반 오픈소스 공간 인텔리전스를 포토리얼 3D 지구본 위에 라이브로 표시. Bilawal Sidhu(전 Google 지도) 제작
 * [Leaflet - a JavaScript library for interactive maps](https://leafletjs.com/)
   * [Leaflet Map Routing JavaScript App - YouTube](https://www.youtube.com/watch?v=F8dnYNTncoU)
 * [mapscii: MapSCII is a Braille & ASCII world map renderer for your console - enter => telnet mapscii.me \<= on Mac (brew install telnet) and Linux, connect with PuTTY on Windows](https://github.com/rastapasta/mapscii)
@@ -98,14 +98,14 @@ GIS
 * [Geohashing | AlgoMaster](https://blog.algomaster.io/p/geohashing)
 * [GeoAI: Artificial Intelligence for Geospatial Data | OpenGeos](https://opengeoai.org/)
   * [geoai: GeoAI: Artificial Intelligence for Geospatial Data](https://github.com/opengeos/geoai)
-  * leafmap·GeoLibre를 만든 OpenGeos의 AI-지리공간 데이터 통합 분석 프레임워크. Python, MIT, 3.4k stars
+  * leafmap·GeoLibre를 만든 OpenGeos의 AI-지리공간 데이터 통합 분석 프레임워크
 * [GeoLibre](https://github.com/opengeos/GeoLibre)
   * [GeoLibre](https://geolibre.app/)
   * 로컬에 데이터를 저장하는 무료 오픈소스 클라우드 네이티브 GIS 플랫폼. Tauri v2·React·MapLibre GL JS·DuckDB-WASM Spatial·deck.gl 기반으로 웹·데스크톱·모바일·Jupyter 동작. GeoJSON·Shapefile·GeoPackage 로딩, DuckDB SQL 워크스페이스, 3D 렌더링, 실시간 협업 편집, AI 자연어 GIS, Planetary Computer·Earth Engine 연동
 * [RustGIS - A fast, free and open-source GIS in pure Rust](https://rustgis.app/)
   * [RustGIS: A fast, free and open-source GIS in pure Rust](https://github.com/opengeos/RustGIS)
   * leafmap·GeoLibre를 만든 OpenGeos의 데스크톱 GIS—런타임·서버 없이 GPU로 그리는 단일 네이티브 프로그램(Windows·macOS·Linux)이자 WebAssembly로 컴파일해 web.rustgis.app에서 설치 없이 같은 앱. 데이터는 내 머신에만 있고 네트워크는 웹 베이스맵·플러그인·GeoLibre 도구·내가 고른 AI 모델처럼 요청할 때만 사용. GeoJSON·Shapefile·GeoPackage·GeoParquet·FlatGeobuf·KML·GPX·GeoTIFF/COG·벡터 타일·PMTiles·MBTiles·MapLibre 스타일을 3D 지구 또는 임의 투영으로, DuckDB SQL 선택, 등급별 색·충돌 없는 라벨·압출·레이아웃·지도 시리즈 같은 카토그래피, 스냅·템플릿·도메인 규칙 편집과 모든 변경 undo
-  * 리본의 모든 버튼이 id를 가진 명령이라 `rustgis-cli`·`rustgis` Python 패키지·노트북·ModelBuilder에서 스크립트하고 AI Assistant에게 실행시킬 수 있으며 MCP 서버로 에이전트가 지도 제작, 지형·수문·LiDAR·원격탐사용 GeoLibre·Whitebox 도구 1,000개+, 샌드박스 WebAssembly 플러그인. QGIS·ArcGIS·GeoLibre와의 비교 페이지 제공. winget·brew·AUR·Fedora COPR, Rust 1.90+, Apache-2.0, 948 stars
+  * 리본의 모든 버튼이 id를 가진 명령이라 `rustgis-cli`·`rustgis` Python 패키지·노트북·ModelBuilder에서 스크립트하고 AI Assistant에게 실행시킬 수 있으며 MCP 서버로 에이전트가 지도 제작, 지형·수문·LiDAR·원격탐사용 GeoLibre·Whitebox 도구 1,000개+, 샌드박스 WebAssembly 플러그인. QGIS·ArcGIS·GeoLibre와의 비교 페이지 제공. winget·brew·AUR·Fedora COPR, Rust 1.90
 * [Geospatial Agent on AWS: An AI agent that analyzes satellite imagery for any location on Earth using natural language | aws-samples](https://github.com/aws-samples/sample-geospatial-agent-on-aws)
   * "센트럴파크 식생 상태 보여줘" "2021년과 2022년 폴섬 호수 수위 비교" 같은 자연어 질문으로 지구 어디든 Sentinel-2 위성 영상을 분석해 인터랙티브 지도에 표시하는 AI 에이전트. 식생(NDVI)·수역(NDWI)·산불 피해(NBR) 분석, OSM 경계, 임베딩 기반 토지 변화 스캔
   * Strands Agents + Claude Sonnet 4.6을 Amazon Bedrock AgentCore Runtime에서 실행하고 Amazon Location Service를 MCP로 연결. 타일 서버(TiTiler)와 React·MapLibre GL 프런트엔드(ECS Fargate·CloudFront·Cognito)까지 CDK로 약 15분 배포. TypeScript, MIT-0
@@ -113,7 +113,7 @@ GIS
 * [GlobalBuildingAtlas](https://github.com/zhu-xlab/GlobalBuildingAtlas)
   * [27억5000만채…전세계 모든 건물 ‘용적’까지 파악한 입체지도 나왔다](https://v.daum.net/v/20251212093616829)
 * [google-maps-scraping-apis: A powerhouse collection of Google Maps scraping APIs you can start using immediately to build local lead lists, monitor reviews, and power location intelligence. One of the most valuable Maps data lists on GitHub](https://github.com/cporter202/google-maps-scraping-apis)
-  * scraping-apis-for-devs·social-media-scraping-apis·video-scraping-apis와 같은 저자(cporter202)의 Apify 액터 카탈로그—Google Maps 스크래핑용 Apify 액터 217개(리뷰 스크래퍼 103·이메일/연락처 추출 61·업종별 리드 파인더 19·장소 스크래퍼 30, 장소당 20~30 필드)를 catalog/README.md에 정리하고 지역 리드 파이프라인·리뷰 모니터링 플레이북을 붙임. 추천 액터: Compass Google Maps Scraper(월 3.9만+ 사용자·4.7★), Thirdwatch($0.002/결과 종량제), Bovi(장소당 27필드·신뢰도 점수), Compass Reviews Scraper. Google Maps가 핑거프린팅·속도 제한·CAPTCHA·레이아웃 변경으로 자체 스크래퍼 유지가 어려우니 프록시·재시도를 액터 작성자가 관리하는 Apify를 쓰라는 논리. 모든 Apify 링크에 제휴 코드(fpr=p2hrc6)가 붙어 있음을 공개. 코드 없는 디렉터리 레포, MIT, 2026-10-08 생성, 22 stars
+  * scraping-apis-for-devs·social-media-scraping-apis·video-scraping-apis와 같은 저자(cporter202)의 Apify 액터 카탈로그—Google Maps 스크래핑용 Apify 액터 217개(리뷰 스크래퍼 103·이메일/연락처 추출 61·업종별 리드 파인더 19·장소 스크래퍼 30, 장소당 20~30 필드)를 catalog/README.md에 정리하고 지역 리드 파이프라인·리뷰 모니터링 플레이북을 붙임. 추천 액터: Compass Google Maps Scraper(월 3.9만+ 사용자), Thirdwatch($0.002/결과 종량제), Bovi(장소당 27필드·신뢰도 점수), Compass Reviews Scraper. Google Maps가 핑거프린팅·속도 제한·CAPTCHA·레이아웃 변경으로 자체 스크래퍼 유지가 어려우니 프록시·재시도를 액터 작성자가 관리하는 Apify를 쓰라는 논리. 모든 Apify 링크에 제휴 코드(fpr=p2hrc6)가 붙어 있음을 공개. 코드 없는 디렉터리 레포, 2026-10-08 생성
 * [olmoearth_pretrain: Earth system foundation model data, training, and eval | Ai2](https://github.com/allenai/olmoearth_pretrain)
   * [OlmoEarth v1.3: State-of-the-art embeddings for the whole planet | Ai2](https://allenai.org/blog/olmoearth-v1-3)
   * [OlmoEarth Embeddings Explorer](https://olmoearth.allenai.org/embeddings)
@@ -123,7 +123,7 @@ GIS
   * 브라우저용 Embeddings Explorer로 로그인·GPU 없이 지도 위에서 유사도 검색과 경량 분류 실험 가능—작물 분류·토지 피복·산림 벌채·변화 탐지에 같은 임베딩을 재사용. OlmoEarth Artifact License, Python
 * [OSIRIS — Open Source Intelligence Platform | Live Flight Tracking, CCTV, OSINT Tools & More](https://osirisai.live/)
   * [osiris: Open Source Global Intelligence Platform - Real-Time OSINT Dashboard - A Palantir Alternative](https://github.com/simplifaisoul/osiris)
-  * 3D 지구 위에 항공기 1만+·위성 2천·전세계 CCTV를 실시간 추적하고, 브라우저에서 Nmap·DNS·WHOIS·위협 인텔리전스 스캔 실행. 20+ 라이브 인텔리전스 피드, Palantir 대안 지향. 무료 오픈소스, TypeScript, 9.6k stars
+  * 3D 지구 위에 항공기 1만+·위성 2천·전세계 CCTV를 실시간 추적하고, 브라우저에서 Nmap·DNS·WHOIS·위협 인텔리전스 스캔 실행. 20+ 라이브 인텔리전스 피드, Palantir 대안 지향. 무료 오픈소스
 * [H3: Uber’s Hexagonal Hierarchical Spatial Index](https://eng.uber.com/h3/) 지형 공간 데이터를 시각화 탐색을 용이하도록 하기 위해 개발한 오픈 소스 그리드 시스템
   * [h3: Hexagonal hierarchical geospatial indexing system](https://github.com/uber/h3)
   * [Large Scale Geospatial Indexing and Analysis on Apache Spark - YouTube](https://www.youtube.com/watch?v=TF_VvPUPCqU)

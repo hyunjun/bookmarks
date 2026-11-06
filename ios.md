@@ -196,7 +196,7 @@ iOS
 * [Introducing Apple’s On-Device and Server Foundation Models - Apple Machine Learning Research](https://machinelearning.apple.com/research/introducing-apple-foundation-models)
   * [애플의 새로운 온디바이스 및 서버 기반 파운데이션 모델 소개 | GeekNews](https://news.hada.io/topic?id=15283)
   * [Intents: a native macOS workbench for evaluating Apple's on-device Foundation Models](https://github.com/coryparrry/Intents)
-    * Apple 온디바이스 Foundation Model(호환 Core AI 모델·커스텀 로컬 HTTP 프로바이더도 가능)을 평가하는 네이티브 macOS 앱(Swift·SwiftUI, MIT, macOS 27+·Apple Intelligence 지원 Mac, `brew install --cask coryparrry/tap/intents`). 공유 지시문·첨부·반복 횟수를 가진 재실행 가능한 테스트 스위트, 채점 방식(정확 일치·포함 텍스트·1~4점 AI 루브릭·수집만), 네이티브 단계·도구 호출·토큰 사용량이 보이는 중첩 워크플로 트레이스, 저장된 런 비교·JSON 리포트
+    * Apple 온디바이스 Foundation Model(호환 Core AI 모델·커스텀 로컬 HTTP 프로바이더도 가능)을 평가하는 네이티브 macOS 앱(Swift·SwiftUI, macOS 27+·Apple Intelligence 지원 Mac, `brew install --cask coryparrry/tap/intents`). 공유 지시문·첨부·반복 횟수를 가진 재실행 가능한 테스트 스위트, 채점 방식(정확 일치·포함 텍스트·1~4점 AI 루브릭·수집만), 네이티브 단계·도구 호출·토큰 사용량이 보이는 중첩 워크플로 트레이스, 저장된 런 비교·JSON 리포트
     * AI 판정을 숨긴 채 사람이 먼저 리뷰하고 확인된 실패 패턴을 회귀 케이스로 승격, Development/Held-out 예시로 judge의 오수락·오거절 점검, 불변 데이터셋·재개 가능한 배치·코호트 게이트·감사 증거를 갖춘 프로덕션 배치. 인증된 MCP 서버로 코딩 에이전트가 앱과 같은 프로젝트·스위트·증거·배치 저장소를 다루고, Swift 패키지로 짝지은 iPhone·iPad·Mac에서 실제 앱 클로저를 평가, AppIntentsTesting 기반 Mac App Intent 테스트
 * [iPhone, iPad, Mac 전용 Apple Intelligence 공개 - Apple (KR)](https://www.apple.com/kr/newsroom/2024/06/introducing-apple-intelligence-for-iphone-ipad-and-mac/)
   * [애플, 개인용 인공 지능 시스템 Apple Intelligence 공개 | GeekNews](https://news.hada.io/topic?id=15275)
@@ -305,7 +305,7 @@ iOS
 * [TLPhotoPicker - application to pick images and videos from multiple smart album in iOS, similar to the current facebook app](https://github.com/tilltue/TLPhotoPicker)
 * [vftool: A simple macOS Virtualisation.framework wrapper](https://github.com/evansm7/vftool)
 * [vphone-cli: Run a virtual iPhone on an Apple Silicon Mac | Lakr233](https://github.com/Lakr233/vphone-cli)
-  * Apple Virtualization.framework과 PCC(Private Cloud Compute) 리서치 VM으로 Apple Silicon Mac(macOS 15+, 실기기만·macOS VM 안 됨)에서 iOS를 통째로 돌리는 가상 iPhone(Swift, 16k stars)—보안 연구·리버스 엔지니어링·디버깅 용도. 그래픽 창에서 앱·파일 탐색과 스크린샷·화면 녹화, 사전 패치된 펌웨어에 패키지 환경 설치, VM 내보내기·가져오기·복제, 로컬 HTTP/WebSocket 자동화 API, 런타임에 Xcode·Python·Homebrew 불필요. Recovery에서 `csrutil enable --without debug`·`csrutil allow-research-guests enable`로 디버깅 제한만 완화(SIP 유지), VM당 64GB 디스크, 복원 시 서명 티켓 온라인 조회
+  * Apple Virtualization.framework과 PCC(Private Cloud Compute) 리서치 VM으로 Apple Silicon Mac(macOS 15+, 실기기만·macOS VM 안 됨)에서 iOS를 통째로 돌리는 가상 iPhone—보안 연구·리버스 엔지니어링·디버깅 용도. 그래픽 창에서 앱·파일 탐색과 스크린샷·화면 녹화, 사전 패치된 펌웨어에 패키지 환경 설치, VM 내보내기·가져오기·복제, 로컬 HTTP/WebSocket 자동화 API, 런타임에 Xcode·Python·Homebrew 불필요. Recovery에서 `csrutil enable --without debug`·`csrutil allow-research-guests enable`로 디버깅 제한만 완화(SIP 유지), VM당 64GB 디스크, 복원 시 서명 티켓 온라인 조회
   * Launchpad 앱으로 호스트 설정→Core Bundle 설치→펌웨어 페어링 선택해 머신 생성(펌웨어 다운로드·패치·복원·부팅 자동). Claude Code·Codex 등 코딩 에이전트에게 맡길 수 있는 vphone-guest-control 스킬(SKILL.md)과 프롬프트 제공—SIP·boot-args 등 호스트 보안 설정은 건드리지 말고 펌웨어·디스크 확인 전엔 머신을 만들지 말라는 가드 포함. 암호화폐·토큰 발행과 무관하다는 경고문
 * [YouTubePlayerKit: A Swift Package to easily play YouTube videos 📺](https://github.com/SvenTiigi/YouTubePlayerKit)
   * [YouTubePlayerKit을 활용한 쇼츠 구현하기 :: iOYES](https://green1229.tistory.com/495)

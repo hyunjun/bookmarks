@@ -564,7 +564,7 @@ Python
 * [Python 3.15's JIT is now back on track | Python Insider](https://blog.python.org/2026/03/jit-on-track/)
   * Python 3.15a7 기준 JIT 현황. copy-and-patch JIT 최적화 진행 상황
 * [Python 3.15: The Features You’ll Actually Use - ArjanCodes - YouTube](https://www.youtube.com/watch?v=bgeqL4Btou0)
-  * 실제 프로젝트에 영향을 줄 Python 3.15 변경점을 짚는 13분 영상. lazy import, 내장 불변 딕셔너리 `frozendict`, 표준 sentinel, 컴프리헨션 안에서의 언패킹으로 컬렉션 평탄화, 새 샘플링 프로파일러, UTF-8 기본값, 확장 가능한 데이터를 위한 타이핑 개선, JIT과 free-threading 진행 방향
+  * 실제 프로젝트에 영향을 줄 Python 3.15 변경점을 짚는 영상. lazy import, 내장 불변 딕셔너리 `frozendict`, 표준 sentinel, 컴프리헨션 안에서의 언패킹으로 컬렉션 평탄화, 새 샘플링 프로파일러, UTF-8 기본값, 확장 가능한 데이터를 위한 타이핑 개선, JIT과 free-threading 진행 방향
 * [Compiled Python is FAST - YouTube](https://www.youtube.com/watch?v=umLZphwA-dw)
   * numpy mypyc cython numba taichi
 * [Stop making your python projects like it was 15 years ago… | by Bryson Meiling | Sep, 2024 | Level Up Coding](https://levelup.gitconnected.com/stop-making-your-python-projects-like-it-was-15-years-ago-125436b470a5)
@@ -1438,7 +1438,7 @@ Python
   * [pyftrace: Python function tracer](https://github.com/kangtegong/pyftrace) lightweight Python function tracing tool designed to monitor and report on function calls within Python scripts
   * [pyinstrument — Call stack profiler for Python. Shows you why your code is slow! | joerick](https://github.com/joerick/pyinstrument)
     * [pyinstrument docs](https://pyinstrument.readthedocs.io/)
-    * 느린 이유를 보여 주는 콜 스택 프로파일러—통계적 샘플링으로 오버헤드가 낮고, 함수 단위 대신 호출 트리로 시간을 보여 줌. BSD-3-Clause, 8k stars
+    * 느린 이유를 보여 주는 콜 스택 프로파일러—통계적 샘플링으로 오버헤드가 낮고, 함수 단위 대신 호출 트리로 시간을 보여 줌
   * [Pympler - a development tool to measure, monitor and analyze the memory behavior of Python objects in a running Python application](https://pythonhosted.org/Pympler)
   * [pyperf: Toolkit to run Python benchmarks](https://github.com/psf/pyperf)
     * [CPython 3.11 recursive benchmark](https://gist.github.com/corona10/bb782b1d85a501747d2738d724cb9dd1)
@@ -2825,7 +2825,7 @@ Python
 * [DOTXCEL - Paint Your Image To Excel!](https://github.com/yongsk0066/dotxcel)
 * [ExStruct Documentation](https://harumiweb.github.io/exstruct/)
   * [exstruct: Conversion from Excel to structured JSON (tables, shapes, charts) for LLM/RAG pipelines, and autonomous Excel reading/writing by AI agents via CLI and MCP integration](https://github.com/harumiWeb/exstruct)
-  * 두 가지 역할—Excel 워크북에서 표·도형·차트를 레이아웃 의미를 살려 LLM/RAG용 구조화 JSON으로 추출(Python API가 정식 인터페이스), 공개 패치 기반 코어로 워크북 편집(`exstruct patch`·`exstruct make` CLI가 정식 운영 인터페이스). MCP 서버는 `PathPolicy`·전송·아티팩트를 담당하는 통합 계층으로 샌드박스·호스트 관리 도구에서 에이전트가 자율적으로 Excel을 읽고 씀. 기업용 라이선스 가이드 별도. Python, BSD-3-Clause
+  * 두 가지 역할—Excel 워크북에서 표·도형·차트를 레이아웃 의미를 살려 LLM/RAG용 구조화 JSON으로 추출(Python API가 정식 인터페이스), 공개 패치 기반 코어로 워크북 편집(`exstruct patch`·`exstruct make` CLI가 정식 운영 인터페이스). MCP 서버는 `PathPolicy`·전송·아티팩트를 담당하는 통합 계층으로 샌드박스·호스트 관리 도구에서 에이전트가 자율적으로 Excel을 읽고 씀. 기업용 라이선스 가이드 별도
 * [**Grid studio - a web-based spreadsheet application with full integration of the Python programming language.** https://gridstudio.io ](https://github.com/ricklamers/gridstudio)
   * [How I built a spreadsheet app with Python to make data science easier](https://hackernoon.com/introducing-grid-studio-a-spreadsheet-app-with-python-to-make-data-science-easier-tdup38f7)
   * [Say Goodbye to Excel? A Simple Evaluation of Python Grid Studio Using COVID-19 Data](https://towardsdatascience.com/say-goodbye-to-excel-a-simple-evaluation-of-python-grid-studio-using-covid-19-data-90624f322b81)
@@ -3564,7 +3564,7 @@ Python
   * [marimo-studio: Build custom reports, apps, and presentations from the same notebook](https://github.com/marimo-team/marimo-studio)
     * [marimo-studio](https://marimo-team.github.io/marimo-studio/)
     * [Introducing marimo-studio | marimo - YouTube](https://www.youtube.com/watch?v=p6bXk3IzMiw)
-    * 하나의 반응형 marimo 노트북을 리포트·대시보드·랩·슬라이드 같은 여러 뷰로—데이터·계산·컨트롤은 노트북에 두고 청중별 뷰를 각자의 프런트엔드 프로젝트로 만들며, 뷰가 노트북의 라이브 셀·컨트롤을 렌더링해 입력을 바꾸면 의존 결과가 갱신되고 모든 결과가 계산한 셀로 추적됨. Claude Code·Codex에 `uvx --with marimo-studio agent-plugins read marimo-studio`로 Studio의 에이전트용 지침을 읽혀 스크롤리텔링 리포트·슬라이드를 만들게 하거나, Studio 툴바의 Add view로 직접 작성. 실험 단계. Python, Apache-2.0
+    * 하나의 반응형 marimo 노트북을 리포트·대시보드·랩·슬라이드 같은 여러 뷰로—데이터·계산·컨트롤은 노트북에 두고 청중별 뷰를 각자의 프런트엔드 프로젝트로 만들며, 뷰가 노트북의 라이브 셀·컨트롤을 렌더링해 입력을 바꾸면 의존 결과가 갱신되고 모든 결과가 계산한 셀로 추적됨. Claude Code·Codex에 `uvx --with marimo-studio agent-plugins read marimo-studio`로 Studio의 에이전트용 지침을 읽혀 스크롤리텔링 리포트·슬라이드를 만들게 하거나, Studio 툴바의 Add view로 직접 작성. 실험 단계
   * 반응형 Python 노트북—변수 의존성을 추적해 연결된 셀을 자동 갱신, 순수 .py 파일이라 Git 친화적, 인터랙티브 UI 요소와 웹 앱 변환 지원
   * [Jupyter, Streamlit 대신 다음 세대를 위한 파이썬 Marimo | 오늘코드todaycode - YouTube](https://www.youtube.com/watch?v=D4o8PWIc2gs)
     * PyCon JP 2026 키노트에서 Jupyter 공동 제작자 Carol Willing이 "다음 세대를 위한 파이썬"으로 소개한 Marimo를 다루게 된 계기(발표자도 라이트닝 토크에 올라 "요즘 Jupyter를 안 쓰는 이유" 발표). 공공데이터포털 국민연금 사업장 가입 현황 데이터로 기업별 입·퇴사 추정·추정 연봉 대시보드를 Antigravity CLI+Gemini 1.5 Pro에 한두 줄 프롬프트("이 데이터로 종합 Marimo 대시보드 만들어줘", "필터와 KPI 카드 추가")로 만든 시연
@@ -3574,7 +3574,7 @@ Python
 * [nb-cli: A CLI-first interface for AI agents to work with notebooks](https://github.com/jupyter-ai-contrib/nb-cli)
   * [nb-cli: A Command-Line Interface for AI Agents and Notebook Automation · Jupyter Blog](https://blog.jupyter.org/posts/2026/nb-cli-a-command-line-interface-for-ai-agents-and/)
   * [AI 에이전트 시대의 Jupyter 자동화를 위한 CLI 도구, nb-cli 정리 | digitalbourgeois](https://digitalbourgeois.tistory.com/3160)
-  * 브라우저 없이 Jupyter 노트북을 읽고 고치고 실행하는 사람·AI 에이전트 겸용 CLI(Rust, BSD-3-Clause). 깊게 중첩된 .ipynb JSON 대신 `@@notebook`·`@@cell`·`@@output` 줄 단위 센티널과 JSON 메타데이터로 된 AI 최적화 마크다운을 기본 출력해 결정적으로 파싱, 프로그램용 JSON 출력도 지원. LLM이 CLI 사용에 강하다는 점을 노린 실험적 도구(Jupyter Blog 2026-05-11)
+  * 브라우저 없이 Jupyter 노트북을 읽고 고치고 실행하는 사람·AI 에이전트 겸용 CLI. 깊게 중첩된 .ipynb JSON 대신 `@@notebook`·`@@cell`·`@@output` 줄 단위 센티널과 JSON 메타데이터로 된 AI 최적화 마크다운을 기본 출력해 결정적으로 파싱, 프로그램용 JSON 출력도 지원. LLM이 CLI 사용에 강하다는 점을 노린 실험적 도구(Jupyter Blog 2026-05-11)
 * nbextension [Jupyter notebook 테마 및 확장기능(nbextensions) 설치 방법](https://devbull.xyz/jupyter-notebook-theme-extensions/)
 * [nbterm - edit and execute Jupyter Notebooks in the terminal](https://github.com/davidbrochart/nbterm)
   * [nbterm: Jupyter Notebooks in the terminal | by David Brochart | Apr, 2021 | Jupyter Blog](https://blog.jupyter.org/nbterm-jupyter-notebooks-in-the-terminal-6a2b55d08b70)
@@ -3796,7 +3796,7 @@ Python
   * 2025 Python Language Summit 보고로 PyPI 신규 프로젝트 네이티브 코드의 25~33%가 Rust, JetBrains 조사에서 Python 바이너리 확장의 Rust 사용률 27%→33%로 1년 만에 상승—Rust를 배우지 않고 Python을 쓰면서 뒷단만 Rust인 7개 도구 소개
   * uv(pip 대비 10~100배, 가상환경+패키지 관리 통합)·Ruff(Flake8·Black·isort를 `ruff format`/`ruff check --fix`로 대체, 800+ 규칙)·xy(Reflex가 내놓은 Rust 코어+WebGL2 플로팅, 1억 포인트까지 실시간 팬·줌, CSS/Tailwind 스타일링, Plotly·Matplotlib의 JSON 직렬화 병목 회피)·Granian(Hyper·Tokio 기반 HTTP 서버, ASGI·WSGI·자체 RSGI 지원)·Polars(멀티코어·지연 평가·스트리밍으로 pandas 대체)·Pydantic(Rust 검증 코어)·orjson(datetime·UUID·dataclass·NumPy 지원 고속 JSON)
 * [5 Python Libraries That Feel Illegal to Know | Byte Without Bite - YouTube](https://www.youtube.com/watch?v=o9Tgv4oZ3K4)
-  * 6분 소개—Manim(3Blue1Brown식 수학·기술 애니메이션을 코드로), Faker(이름·이메일·주소·회사 등 테스트 데이터 대량 생성), Gradio(ML 모델·함수를 인터랙티브 웹 UI로, Hugging Face 데모 표준), Diagrams(AWS·Azure·GCP·K8s 아이콘으로 아키텍처 다이어그램을 코드로), Marimo(변수 의존성을 추적해 셀을 자동 갱신하는 반응형 노트북, Git 친화적·웹 앱 변환 가능)
+  * 소개—Manim(3Blue1Brown식 수학·기술 애니메이션을 코드로), Faker(이름·이메일·주소·회사 등 테스트 데이터 대량 생성), Gradio(ML 모델·함수를 인터랙티브 웹 UI로, Hugging Face 데모 표준), Diagrams(AWS·Azure·GCP·K8s 아이콘으로 아키텍처 다이어그램을 코드로), Marimo(변수 의존성을 추적해 셀을 자동 갱신하는 반응형 노트북, Git 친화적·웹 앱 변환 가능)
 * [Abseil Python Common Libraries](https://github.com/abseil/abseil-py)
 * [Advanced Python Scheduler](https://apscheduler.readthedocs.io/)
   * [APScheduler - Python Advanced Python Scheduler](http://thingsthis.tistory.com/60)
@@ -4148,10 +4148,10 @@ Python
   * [George Hotz | Programming | minikeyvalue: a sub 1000 line key value store (for production!)](https://www.youtube.com/watch?v=cAFjZ1gXBxc)
 * [miracle-ad - AAA 중 Authorization 관련 모듈 - miracle-acl](http://mcchae.egloos.com/11272920)
 * [Monopoly is a Python library & CLI that converts bank statement PDFs to CSV](https://github.com/benjamin-awd/monopoly)
-  * 은행 명세서 PDF를 CSV로 변환하는 Python 라이브러리·CLI. 415 stars
+  * 은행 명세서 PDF를 CSV로 변환하는 Python 라이브러리·CLI
 * [Monty — A secure Python sandbox, written in Rust, for code written by AI | Pydantic](https://pydantic.dev/docs/monty/)
   * [monty: A secure Python sandbox, written in Rust, for code written by AI | pydantic](https://github.com/pydantic/monty)
-  * LLM이 쓴 코드를 돌리는 컨테이너 기반 샌드박스의 지연·복잡성·비용을 피하는 Rust 구현 Python 3.14 샌드박스—OSS Monty(MIT 패키지, 로컬)와 Full Monty(원격). 새 샌드박스+10개 명령 에이전트 실행 합계가 OSS Monty 1.2ms·Full Monty 7ms로 WASI 200ms·로컬 Docker 900ms·Pyodide 2.7s보다 빠름. 8.7k stars
+  * LLM이 쓴 코드를 돌리는 컨테이너 기반 샌드박스의 지연·복잡성·비용을 피하는 Rust 구현 Python 3.14 샌드박스—OSS Monty(MIT 패키지, 로컬)와 Full Monty(원격). 새 샌드박스+10개 명령 에이전트 실행 합계가 OSS Monty 1.2ms·Full Monty 7ms로 WASI 200ms·로컬 Docker 900ms·Pyodide 2.7s보다 빠름
 * [MORPHiS is a global encrypted distributed datastore intended to replace the cloud for storage and far more](https://morph.is/)
 * [moviepy: Video editing with Python](https://github.com/Zulko/moviepy)
 * [MUMPS : a parallel sparse direct solver](http://mumps.enseeiht.fr/)
@@ -4292,7 +4292,7 @@ Python
   * [Python, PyV8로 javascript 실행하기](https://blog.naver.com/dudwo567890/220895234080)
 * [PyWa — The Python framework for building WhatsApp bots](https://pywa.readthedocs.io/)
   * [pywa: The Python framework for building WhatsApp bots. Fast. Typed. Production-ready | david-lev](https://github.com/david-lev/pywa)
-    * WhatsApp Cloud API로 봇을 만드는 타입 있는 Python 프레임워크—메시지·콜백·플로우 처리. Python 3.10+, MIT
+    * WhatsApp Cloud API로 봇을 만드는 타입 있는 Python 프레임워크—메시지·콜백·플로우 처리. Python 3.10+
 * QPython
   * [1. 개발환경 구축](http://m.blog.naver.com/dls001215/220972361443)
 * [quack - Build system on top of build systems](https://github.com/Autodesk/quack)
