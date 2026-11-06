@@ -394,6 +394,9 @@ App
   * 인증된 레드팀·버그바운티용 외부 정찰 Claude 스킬 2종. 90+ recon 모듈, 48 secret-regex, 80+ dork, 9 read-only 크리덴셜 검증기, 27 공격경로 템플릿, 5,500+ 줄 tradecraft. SKILL.md drop-in. Python
 * [dark-web-osint-tools: OSINT Tools for the Dark Web](https://github.com/apurvsinghgautam/dark-web-osint-tools)
   * 다크웹 OSINT 조사용 도구 큐레이션. Tor 히든 서비스 검색·크롤링, .onion 주소 수집·분석 도구 모음
+* [detectflow-main: Prime Detect (구 DetectFlow) — Detection intelligence turbocharged with AI | socprime](https://github.com/socprime/detectflow-main)
+  * [Prime Detect](https://primedetect.live)
+  * SOC Prime의 스트리밍 탐지 플랫폼—SIEM에 들어가기 전 Kafka 토픽의 이벤트에 수만 개의 Sigma 룰을 Apache Flink 파이프라인(Match Node)으로 실시간 적용해 태깅·보강하고, SIEM의 15분+ 대비 0.005~0.01초 MTTD와 기존 인프라에서 10배 룰 용량을 내세움. SIEM 변경 없이 기존 수집 구조 위에서 동작하고 에어갭·클라우드 모두 지원(데이터는 고객 통제). 현재 릴리스: 실시간 대시보드, Flink ETL 파이프라인 관리, 로그 소스별 파싱 스크립트·필드 매핑, SOC Prime 플랫폼·SigmaHQ GitHub·로컬 저장소에서 룰 관리, 오탐을 줄이는 프리필터, Kafka 토픽 동기화, 재시작 없는 핫 리로드. 진행 중: Splunk·Sentinel·Elasticsearch·OpenSearch 연동, LLM 방화벽 AIDR Bastion 연동, 룰 스테이징, AI 스키마 검증·리매핑. Backend·UI·MatchNode·Schema Parser·원클릭 로컬 배포(macOS Minikube) 레포로 분리되어 있고 Kafka 3.8+·Kubernetes 1.28+·PostgreSQL 14+·Flink 1.13+ 필요
 * [EMAIL-CRAWL: professional-grade OSINT tool for advanced email address extraction through web crawling](https://github.com/techenthusiast167/EMAIL-CRAWL)
   * 웹 크롤링으로 이메일 주소를 대량 추출하는 OSINT 도구. 펜테스터·보안 분석가용
 * [flare-learning-hub: Free educational content on reverse engineering and malware analysis from the FLARE team](https://github.com/mandiant/flare-learning-hub)
