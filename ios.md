@@ -116,6 +116,8 @@ iOS
 * [iOS에서의 Audio Session](https://wlaxhrl.tistory.com/92)
 * [홈 화면에서 클릭 한 번에 QR 체크인하자!](https://velog.io/@sesang06/%ED%99%88-%ED%99%94%EB%A9%B4%EC%97%90%EC%84%9C-%ED%81%B4%EB%A6%AD-%ED%95%9C-%EB%B2%88%EC%97%90-QR-%EC%B2%B4%ED%81%AC%EC%9D%B8%ED%95%98%EC%9E%90)
 * [개발과 운영을 지속적으로 도와주는 XCode Cloud](https://brunch.co.kr/@synabreu/144)
+* [Mac at any scale | Namespace](https://namespace.so/blog/mac-at-any-scale)
+  * CI/빌드 인프라 회사 Namespace가 MacBook Pro 수백 대를 데이터센터 랙에 꽂는 영상이 화제가 된 뒤 쓴 배경 글—iOS 앱 빌드·시뮬레이터·App Store 제출에는 최신 Xcode가 돌아가는 Mac이 필수인데, Mac Mini는 수백 대 주문 시 1월 주문→7월 납품이고 M5 코어도 10개월 늦게 받아 "최신·최고"를 약속하려면 노트북을 쓸 수밖에 없었다는 공급망 사정. 노트북마다 IP KVM(펌웨어 유지보수가 GUI 전제)·외장 10G NIC·전원까지 4개 케이블, 발열을 유도하는 맞춤 홀더. 예상 밖 문제는 MagSafe가 아니라 자꾸 빠지는 HDMI, 재부팅 시 닫힌 노트북 화면에 뜨고 5분 뒤 사라지는 FileVault 암호 프롬프트(SSH 원격 해제도 5분 만료; `fdesetup authrestart` 팁), 전원이 끊긴 척하는 USB NIC 버그(네트워크 서비스 재생성으로 복구). Mac Mini·Studio는 내장 10G·자동 부팅·MDM 자동 구성으로 훨씬 쉬워 기류 시뮬레이션으로 설계한 쉘프에 10대씩 투입. 가상화는 Apple Virtualization 프레임워크(Firecracker에 비견, Hypervisor 프레임워크는 macOS를 못 돌림)—물리 Mac당 macOS VM 2개 제한이 상품에도 그대로 새어 나와 14코어 Mini에 6/12코어·18코어 MacBook에 8/16코어 인스턴스, VMM이 별도 프로세스라 커스텀 장치는 IPC 왕복 비용, 신뢰할 수 없는 코드를 돌리므로 gVisor의 유저스페이스 TCP/IP 스택으로 게스트 패킷을 전부 소프트웨어 처리하는 게이트웨이/방화벽. 수 초 안에 macOS 인스턴스를 띄우고 새 Xcode를 공개 몇 시간 뒤 제공
 * [iOS : Navigation Push & Pop | Medium](https://showcove.medium.com/ios-navigation-vs-modal-1-74c05e6e824f) Modal
 * [LINE 메신저 앱의 공유 모듈 통합 개발기 - 1 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/line-app-share-module-development-story-1/)
 * [LINE 메신저 앱의 공유 모듈 통합 개발기 - 2 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/line-app-share-module-development-story-2/)
