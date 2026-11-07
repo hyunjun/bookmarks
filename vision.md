@@ -482,6 +482,11 @@ Vision
 * [Pl@ntNet](https://github.com/plantnet)
   * [Identify flowers and trees with open source | Opensource.com](https://opensource.com/article/21/7/open-source-plantnet)
 * [Realtime Multi-Person Pose Estimation](https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation)
+* [RelayVSR: Large-Small Model Collaboration for Efficient Real-World Video Super-Resolution | kopperx](https://github.com/kopperx/RelayVSR)
+  * [RelayVSR project page](https://kopperx.github.io/RelayVSR)
+  * [2609.37850 RelayVSR: Large-Small Model Collaboration for Efficient Real-World Video Super-Resolution](https://arxiv.org/abs/2609.37850)
+  * [kopper/RelayVSR · Hugging Face (model weights)](https://huggingface.co/kopper/RelayVSR)
+  * 대형 생성 모델은 실세계 영상 초해상도에서 사실적인 디테일을 복원하지만 전 프레임을 처리하기엔 너무 비싸다는 문제를 "Sparse Generative Relay"로 푸는 스트리밍 4× VSR—대형 생성 모델(Wan)이 희소 키프레임의 참조 latent만 만들고, 경량 VSR 네트워크(Dual-Memory Video Transformer)가 그 참조와 저해상도 영상으로 모든 프레임을 복원하며 키프레임 정보를 프레임 간에 재사용하고 최근 영상 맥락을 갱신(첫 키프레임 조건·제한된 lookahead의 양 끝점 조건 지원). 공유 키프레임의 오류가 출력 프레임으로 전파·누적되므로 키프레임 품질만 최적화하면 부족하다는 "협업 간극"을 VARO(Video-Aware Reference Optimization)로 해결—고정된 경량 네트워크가 만든 최종 영상을 평가하는 시스템 수준 보상과 디코딩된 키프레임 품질을 평가하는 참조 수준 보상, 두 단계 보상의 RL로 대형 모델을 갱신해 공동 학습보다 좋은 결과. A100 80GB 한 장 1080p에서 15프레임 키프레임 간격 양 끝점 조건으로 29.29 FPS·13.82GB 피크 메모리·첫 프레임 지연 0.327초(FlashVSR-Tiny 7.80 FPS·24.4GB·2.83초 대비). 추론 코드와 wan·flash 두 체크포인트 공개, `--window-size`로 키프레임 간격 조절
 * [Slic: Single line image classifier](https://github.com/seungson/Slic) 한 줄의 명령어로 필요한 이미지 데이터셋을 생성, 자동으로 다중 분류 모델 학습, 학습이 종료되면 즉시 api를 빌드 및 테스트 환경(localhost) 구축
 * [smile-more - Check your face and make sure you smile using Google Vision API](https://github.com/hunkim/smile_more)
 * [Spann3R: 3D Reconstruction with Spatial Memory 3DV 2025 Award Candidate](https://hengyiwang.github.io/projects/spanner)
