@@ -3258,6 +3258,10 @@ NLP
       * [DeepSeek-V4.1-Flash-1017 - 추론, 코딩, 에이전트 및 시각 벤치마크 성능을 개선한 모델 업데이트 | GeekNews](https://news.hada.io/topic?id=35524)
       * 2026-10-17 소규모 업데이트—성능을 올리면서 작업 실행 시간과 출력 길이를 줄여 여러 에이전트 하네스에서 성능·비용 파레토 경계 개선. 도구 없는 HLE 36.8→42.6, Terminal-Bench 4.0(Claude Code 하네스) 31.2→42.3, DeepSWE v1.1(Mini-SWE-V2 하네스) 74.2→77.0, ProgramBench 20.3→29.1, Automation-Bench 54.8→60.5, Apex Bench v1.1 64.6→72.1, 시각 Chartography 78.9→83.0. K3·GLM-5.3·GPT-5.6 Sol·Opus 5와 비교해 에이전트 평가 4종은 선두지만 HLE·Terminal-Bench 등은 Opus 5가 더 높음
       * 1M 컨텍스트, 권장 temperature·top_p 1.0·max_tokens 256K 이상. Jinja 채팅 템플릿 대신 encoding.py 참조 구현과 프로덕션용 Rust 라이브러리 deepseek-recipe(Messages·Chat Completions·Responses 요청을 Conversation 형식으로 변환·인코딩, 사고·도구 호출·이미지 포함 출력 파싱) 제공, 로컬 추론 절차는 inference 폴더. 저장소·가중치 MIT. HN 반응: 벤치마크는 Sol·Gemini보다 낮아도 토큰 속도·TTFT가 좋고 CoT를 공개하며 보안 심사로 갑자기 차단하지 않아 체감이 좋다는 평
+      * [ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-Coder-GGUF · Hugging Face](https://huggingface.co/ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-Coder-GGUF)
+        * [🚀 DeepSeek V4.1 Flash를 1비트로 압축한 코딩 모델: GSQ-RCO Coder 설치·실행 가이드 | fornewchallenge](https://fornewchallenge.tistory.com/entry/%F0%9F%9A%80-DeepSeek-V41-Flash%EB%A5%BC-1%EB%B9%84%ED%8A%B8%EB%A1%9C-%EC%95%95%EC%B6%95%ED%95%9C-%EC%BD%94%EB%94%A9-%EB%AA%A8%EB%8D%B8-GSQ-RCO-Coder-%EC%84%A4%EC%B9%98%C2%B7%EC%8B%A4%ED%96%89-%EA%B0%80%EC%9D%B4%EB%93%9C)
+        * [2605.00649 Model Compression with Exact Budget Constraints via Riemannian Manifolds](https://arxiv.org/abs/2605.00649)
+        * ISTA-DASLab(오스트리아 과학기술원)의 실험적 코딩 특화 압축판—763.2B(트랜스포머 551.9B) 1017 모델에서 레이어당 라우팅 전문가 384개 중 192개를 RCO(Riemannian Manifold Constrained Optimization, 레이어별 KL을 최적화하면서 GGUF가 요구하는 레이어당 동일 전문가 수 예산을 정확히 만족)로 골라 제거하고 남은 전문가는 IQ2_XXS(2.00 bpw) GSQ 양자화를 유지해 트랜스포머 가중치를 비압축 IQ2_XXS 138.2GB에서 72.1GB로. "1비트"는 72.12GB를 원본 551.9B 파라미터로 나눈 1.05 bits/param(제거된 전문가는 0비트 계산)이고 남은 280.1B는 평균 2.06비트, Engram 룩업 테이블(110.6GB, 4.50 bpw)은 행렬곱 가중치가 아니라 제외(포함 시 1.92 bits/param, 전체 182.7GB로 비압축 대비 66GB 절감). 캘리브레이션을 코드·에이전트 도구 사용·긴 컨텍스트·비전에 집중해 SWE-bench Verified 94.8%·LiveCodeBench v6 98.7%를 유지하되(멀티턴 에이전트 궤적은 오류 누적으로 손실이 더 큼) 범용 대화는 저하를 감수—범용 용도는 비압축 GSQ-RCO 릴리스 권장. 블로그는 파일 구성(5개 샤드+Engram+비전 프로젝터)과 llama.cpp 설치·실행 절차 안내
     * 20층 Causal Encoder+20층 Decoder 비대칭 구조—Prefill 8B·Decode 16B 활성화, 텍스트+이미지 멀티모달. CSA2가 층마다 반복하던 KV·토큰 선택 계산을 Full/Reindex/Reuse 3모드로 재사용, MoE·Sparse Attention·Engram(메모리 조회) 결합. 토큰당 KV 캐시 V3.2 48,068B→V4-Flash 3,514B→V4.1-Flash 890B로 9개월 만에 약 1/54(100만 토큰 기준 48.1GB→0.89GB)
     * DeepSWE v1.1 74.2(Opus 5 74.0)·Automation-Bench 54.8·CyberGym 88.1·Terminal-Bench 2.1 90.6으로 Opus 5와 경쟁하며 가격은 약 1/17~1/21(캐시 적중 입력 $0.006/M, 비혼잡 시간대·주말 추가 반값)
   * [ds4 (DwarfStar 4): DeepSeek 4 Flash local inference engine for Metal and CUDA | antirez](https://github.com/antirez/ds4)
@@ -4050,6 +4054,7 @@ NLP
       * [#5 메시지 관리 시스템 | Facebook](https://www.facebook.com/donghak.kim.3893/posts/pfbid0DkmrB5Rp6WmcEa4HwQvwn5xHDdE6RZLHjBp2hmPNcm16AmcBykPWQrGciZSpR9yol)
     * [agentic-rag-for-dummies: Modular Agentic RAG system using LangGraph](https://github.com/GiovanniPasq/agentic-rag-for-dummies/)
       * 계층적 문서 인덱싱, 대화 메모리, 지능형 쿼리 명확화를 갖춘 모듈식 Agentic RAG
+      * 기본 RAG 튜토리얼과 모듈식 에이전트 시스템 사이의 간극을 메우는 학습 자료+확장 가능한 아키텍처—작은 청크로 정밀 검색하고 큰 부모 청크로 맥락을 가져오는 계층 인덱싱(Qdrant), 모호한 질문을 다시 쓰거나 멈춰서 사용자에게 묻는 human-in-the-loop 질의 명확화, 복잡한 질문을 병렬 하위 질의로 쪼개는 멀티 에이전트 map-reduce, 결과가 부족하면 자동 재질의하는 자기 수정, 긴 검색 루프에서 작업 메모리를 가볍게 유지하는 컨텍스트 압축, Langfuse 관측과 RAGAS 평가. Ollama·OpenAI·Anthropic·Google 프로바이더, 개념을 단계별로 따라가는 Colab 노트북 학습 경로와 바로 확장하는 코드 경로 두 가지
     * [agent-skills: LangGraph Agent Skill 가이드](https://github.com/kyopark2014/agent-skills)
       * [LangGraph Agent Skill | Kyoungsu Park](https://www.linkedin.com/posts/kyoungsu-park-9b9a1068_langgraph-agent-skill-ugcPost-7433472108283748352-N6RL)
     * [CopilotKit: React UI + elegant infrastructure for AI Copilots, in-app AI agents, AI chatbots, and AI-powered Textareas 🪁](https://github.com/CopilotKit/CopilotKit)
@@ -5366,6 +5371,7 @@ NLP
   * [PageIndex](https://github.com/VectifyAI/PageIndex)
   * [Vectorless·Reasoning 기반 RAG, PageIndex로 다시 정의하는 문서 검색과 분석 :: 지식의 섬](https://digitalbourgeois.tistory.com/3062)
   * 벡터 DB 없이 문서 계층 트리 인덱스 구축 → LLM 추론 기반 검색. 청킹·임베딩 불필요, 페이지 참조 추적 가능. FinanceBench 98.7% 정확도
+  * 이후 업데이트—"유사도 ≠ 관련성"이라는 문제 제기(벡터 검색은 비슷하지만 무관한 것을 돌려주고 관련 있지만 비슷하지 않은 것을 놓침)에서 AlphaGo에 영감을 받아 트리 인덱스를 LLM이 추론으로 탐색하는 2단계(인덱스 생성→에이전틱 트리 검색) 구조를 유지하면서 `pip install pageindex` SDK가 로컬(내 LLM 키)·클라우드 두 모드로 인덱싱·검색·채팅을 한 클라이언트에 통합, 텍스트 PDF의 트리 인덱스를 빠르게 만드는 PageIndex Flash가 로컬 기본 인덱서, 문서 하나가 아닌 코퍼스 전체를 파일 단위 트리로 추론하는 PageIndex File System으로 수백만 문서 확장, 질문마다 답이 있는 페이지만 약 1초에 찾아 LLM에 그 페이지만 보내 문서 QA 토큰 비용 97% 절감을 내세우는 Page Search API(벡터 검색 대비 정확·고속 벤치마크 공개), 긴 전문 문서용 분석 에이전트 PageIndex App. 트리 구조는 LLM 없이 레이아웃에서 추출하므로 인덱스 모델은 기본 모델로 충분하고 검색 모델에 성능을 쓰라는 권장
 * [PIKE-RAG: sPecIalized KnowledgE and Rationale Augmented Generation](https://github.com/microsoft/PIKE-RAG)
   * [2501.11551 PIKE-RAG: sPecIalized KnowledgE and Rationale Augmented Generation](https://arxiv.org/abs/2501.11551)
   * [PIKE-RAG: 전문 지식과 추론으로 정확도를 높인 Microsoft의 산업용 RAG 프레임워크 | PyTorchKR](https://discuss.pytorch.kr/t/pike-rag-microsoft-rag/11323)
