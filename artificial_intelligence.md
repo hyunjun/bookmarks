@@ -2175,6 +2175,7 @@ Artificial Intelligence
 * [qm — Multiplayer agent harness for work](https://qm.ycombinator.com/)
   * [qm](https://github.com/yc-software/qm)
   * YC의 멀티플레이어 에이전트 하네스. 여러 사람과 에이전트가 함께 작업하는 협업 환경
+  * 개인 비서형으로 설계된 에이전트를 회사 전체에 쓰려면 금방 복잡해진다는 문제에서 출발한 스타트업용 하네스—직원마다 격리된 개인 워크스페이스를 갖고 Slack 채널·그룹 메시지·프로젝트에서는 같은 에이전트와 협업하며, 사람·룸(scope)마다 별도의 메모리·파일·키체인 뷰·권한·크론·웹앱·내구성 샌드박스. Slack과 웹에서 같은 정체성·설정이 이어지고, 관리자가 조직 수준의 보안·공유 정책과 사용 가능한 모델을 정하고, 스킬은 scope 소유로 권한 부여로 공유하고 관리자 승인으로 전사 승격(git 레포에서 스킬 팩 임포트), 크론·watch·인바운드 웹훅으로 부재 중 백그라운드 작업. 활용: 사내 노트·이메일·문서·DB·웹 통합 검색, 내부 앱을 만들어 대상에게 배포, 과거 메일로 글 투를 배워 일정에 맞춰 받은편지함 분류·답장 초안, 기존 레포에서 테스트·PR·CI·로그, 공유 채널의 프로젝트 추적. 헤드리스 코어(API·identity·정책·스케줄러)+Pi 기반 에이전트 루프+scope별 샌드박스, Postgres에 세션·메모리·큐. 내 클라우드에 내 모델·키로 배포하며 Pi가 여러 프로바이더를 돌려 특정 벤더에 묶이지 않음—"코딩 에이전트에게 이 레포를 배포하라고 말하면 가이드를 따라 설치"
 * [Qoder - The Agentic Coding Platform](https://qoder.com/)
 * [Quicksand — Full Linux VMs from Python | Microsoft](https://microsoft.github.io/quicksand/)
   * [quicksand: Quickly sandbox your AI agent | microsoft](https://github.com/microsoft/quicksand)
@@ -5571,6 +5572,8 @@ Artificial Intelligence
 * [evmbench.pdf](https://cdn.openai.com/evmbench/evmbench.pdf)
   * [Introducing EVMbench | OpenAI](https://openai.com/index/introducing-evmbench/)
     * [EVMbench: AI 에이전트의 스마트 컨트랙트 취약점 탐지·패치·공격 역량을 검증하는 벤치마크](https://digitalbourgeois.tistory.com/2785)
+* [FlashProve: A research prototype for zero-knowledge proofs of AI inference. Not maintained | anthropics](https://github.com/anthropics/FlashProve)
+  * AI 제공자가 "이 답은 약속한 그 모델이 낸 것"임을 가중치를 공개하지 않고 증명하는 연구 프로토타입(유지보수·기여 받지 않음). Commit—가중치 한 세트에 묶이는 커밋 ID를 공개(가중치에 의존하는 모든 값은 선언된 목록 외엔 마스킹)→Prove—응답마다 제공자 GPU가 "커밋된 모델의 출력"이라는 증명 생성→Verify—누구나 가중치 없이 일반 CPU에서 `cp_verify`로 수 초 안에 검증. Llama 4 Maverick 전체 크기를 1,024 토큰 컨텍스트로 H100 한 장에서 돌려 배치 24에서 prefill 약 110 토큰/초, 프로토콜 건전성은 Lean 4로 증명(커밋되지 않은 출력을 속여 넘기면 해시 질의 q회 후 약 q/2^124+2^-101 확률을 제외하고 적발). 빌드·실행·정확한 비교가 길어 코딩 에이전트가 돌리도록 설계—README를 에이전트에 읽혀 검증기 빌드와 예제 증명 확인(Linux·g++, 2GB RAM, 수 분)부터 CPU 토이 증명, H100의 8층 합성 모델, 전체 크기 합성 가중치(280GB RAM), 공개 4비트 변환 Maverick(232GB) 1토큰 증명(330GB RAM, 수 시간)까지 머신이 감당할 수 있는 경로를 고르게 함. 무엇이 숨겨지지 않는지 문서로 명시
 * [GODMOD3.AI](https://godmod3.ai/)
   * [G0DM0D3: LIBERATED AI CHAT](https://github.com/elder-plinius/G0DM0D3)
   * 포스트 트레이닝 레이어의 한계를 시험하는 오픈소스 멀티모델 채팅 인터페이스—레드팀·인지 연구용. GODMODE CLASSIC(5개 프롬프트+모델 조합 병렬 경합), ULTRAPLINIAN(5티어 12~60개 OpenRouter 모델 평가+복합 점수), Parseltongue(33개 기법 3단계 입력 교란 엔진), AutoTune(20개 질의 맥락별 샘플링 파라미터)
@@ -9687,6 +9690,8 @@ Artificial Intelligence
   * [AI 에이전트와 함께 영상 편집한다, macOS 오픈소스 편집기 palmier-pro | digitalbourgeois](https://digitalbourgeois.tistory.com/3532)
   * Swift 기반 macOS 전용(macOS 26 Tahoe·Apple Silicon) 비디오 편집기. 타임라인 안에서 Seedance·Kling·ElevenLabs 등 생성 모델로 이미지·비디오·오디오 생성, MCP 서버로 Claude Code/Codex/Cursor 연동해 편집 자동화
   * 편집기 본체·MCP 서버·에이전트 챗은 오픈소스(GPL-3.0)·무료, 생성형 AI 처리 부분은 클로즈드소스(로그인·구독 필요)
+* [recap-shorts-automation: 커뮤니티 인기글 하나로 30~40초 한국어 요약 쇼츠를 만드는 Windows 앱 | CHE0DAN](https://github.com/CHE0DAN/recap-shorts-automation)
+  * 디시인사이드·블라인드 인기글 주소를 넣으면(또는 "인기글에서 찾기"로 실시간 베스트에서 고르면) 글·댓글 화면을 Edge로 캡처하고, Gemini로 대본을 쓰고, 목소리를 입혀 ffmpeg로 영상 파일까지 만드는 8단계 파이프라인—중간 확인 단계에서 멈춰 사람이 보고 넘기는 구조. 영상 규격(화면·자막·길이·소리)은 공개된 쇼츠 32편을 재서 만든 규격표를 따름. 블라인드는 로그인 없이 보이는 글만, robots.txt가 막는 검색·활동 경로는 쓰지 않고, 닉네임·회사명은 읽지도 저장하지도 않으며 캡처에서 흐리게 가림. React 화면+FastAPI 백엔드+pywebview 데스크톱 창, PowerShell 설치 스크립트 하나로 패키지·화면 빌드·받아쓰기 모델(선택: 로컬 목소리 모델 Supertonic)·바탕화면 바로가기를 처리하고 Gemini API 키만 설정에 넣으면 동작
 * [seedance-prompt-skill: Seedance 2.0 video prompt generation skill for Claude Code](https://github.com/songguoxs/seedance-prompt-skill)
   * [Claude Code에서 Seedance 2.0 영상 프롬프트를 자동 생성하는 방법 | digitalbourgeois](https://digitalbourgeois.tistory.com/3497)
   * 자연어 아이디어를 ByteDance Seedance 2.0(即梦)용 구조화 영상 프롬프트로 변환하는 Claude Code 커스텀 스킬. Timestamp Storyboarding, Negative Prompting, @이미지/@영상/@오디오 멀티모달 참조, 15초 초과 시 Multi-Segment Stitching 등 10가지 기능
