@@ -664,6 +664,7 @@ Web
   * [AI 에이전트 브라우저를 따로 써야 할까? ego(lite) 사용기 | 요즘IT](https://yozm.wishket.com/magazine/detail/3971)
     * 효빈. 사람이 쓰는 크롬과 에이전트용 크로미움을 나눠 쓰다 로그인 풀림·탭 누적에 지쳐 일주일 사용—같은 프로세스 안의 작업별 격리 공간 Space 덕에 이미 로그인한 사이트는 재인증 없이 바로 진행, 에이전트가 작업하는 동안 사용자의 페이지·마우스·포커스는 그대로, 탭은 작업 단위로 묶여 정리 범위가 분명. 바뀐 요청 방식: 종료 조건(결과물 형식·남길 탭)을 미리 정하고, 조회와 변경을 분리해 "읽기 전용" 범위를 명시하고, 2차 인증·캡차·결제·게시처럼 되돌리기 어려운 단계는 사람이 제어권을 받아 처리. mac 전용·lite 단계라는 한계
   * Codex·Claude Code 등 AI 에이전트에 로그인된 브라우저 상태를 방해 없이 공유해 브라우저 자동화를 실행. 무료·무설정
+  * README의 설계 관점—browser-use·agent-browser 같은 기존 도구는 브라우저로 가는 "다리"일 뿐 자기 브라우저가 아니어서 별도 브라우저를 띄워야 하고 로그인 데이터가 온전히 넘어가지 않고 연결이 불안정하며 사람과 에이전트가 제어권을 다투게 된다는 진단에서, 처음부터 둘이 함께 쓰도록 만든 브라우저 하나. 에이전트는 같은 브라우저 안의 격리 작업공간 Spaces에서 작업하고 사람은 자기 공간에서 계속 쓰며, 에이전트는 `ego-browser` 스킬로 실제 로그인·탭에 접근하고 자동화는 더 적은 토큰으로 더 빨리 끝남. 앱 설치 시 모든 에이전트의 스킬 디렉터리에 `ego-browser`가 추가되고, `npx skills add citrolabs/ego-lite`로 스킬만 먼저 넣거나 에이전트에게 설치 문서를 읽혀 설정 가능. macOS·Windows 지원, Linux는 로드맵
 * [fingerprint-suite: Browser fingerprinting tools for anonymizing your scrapers](https://github.com/apify/fingerprint-suite)
   * Apify의 브라우저 핑거프린팅 도구. header-generator(현실적 HTTP 헤더), fingerprint-generator(JS API+HTTP 영향 지문), fingerprint-injector(Playwright/Puppeteer 주입), generative-bayesian-network(베이지안 생성 네트워크). 모듈러 npm 패키지
 * [Browserflow - Web Scraping & Web Automation](https://browserflow.app/)
@@ -723,6 +724,8 @@ Web
     * 주의점: 자동 접근·로그인 세션 재사용은 플랫폼 정책 위반 소지가 있어 부계정 권장, 에이전트에게 넘기는 설치 명령은 실행 전 검토, Groq·OpenAI 키는 채팅이 아닌 터미널 `agent-reach configure`로 관리, 실험 채널은 반봇 강화로 언제든 깨질 수 있음. PyPI의 동명 패키지는 이 프로젝트가 아님
   * [👁️ Agent-Reach : 9.2만 스타, API 비용 0원으로 에이전트에 인터넷 눈을 달아주는 CLI | fornewchallenge](https://fornewchallenge.tistory.com/entry/%F0%9F%91%81%EF%B8%8F-Agent-Reach-92%EB%A7%8C-%EC%8A%A4%ED%83%80-API-%EB%B9%84%EC%9A%A9-0%EC%9B%90%EC%9C%BC%EB%A1%9C-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EC%97%90-%EC%9D%B8%ED%84%B0%EB%84%B7-%EB%88%88%EC%9D%84-%EB%8B%AC%EC%95%84%EC%A3%BC%EB%8A%94-CLI)
   * AI 에이전트에게 인터넷 접근 능력을 부여하는 CLI 도구. Twitter, Reddit, YouTube, GitHub 등 14+ 플랫폼 통합, API 비용 없이 yt-dlp·Jina Reader·GitHub CLI 등 오픈소스 도구 활용. 원커맨드 설치, 로컬 자격증명 저장으로 프라이버시 보장
+* [ai-goofish-monitor: 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI | Usagi-org](https://github.com/Usagi-org/ai-goofish-monitor)
+  * 중국 중고거래 플랫폼 셴위(闲鱼, Goofish)를 Playwright로 실시간·정기(Cron) 모니터링하고 AI로 상품을 분석하는 셀프호스팅 시스템—"상세 요구사항"을 자연어로 적으면 AI가 판단 기준(프롬프트)을 생성하고, 멀티모달 모델이 상품 사진·설명을 읽어 조건에 맞는 매물만 골라 ntfy.sh·기업 위챗·Bark·Telegram·Webhook으로 알림. 태스크별 키워드·가격대·신규 등록 기간·성/시/구 3단계 지역·무료배송 필터와 독립 AI 프롬프트, 다중 계정(Chrome 확장으로 로그인 상태 JSON 추출)·태스크별 계정 바인딩·프록시 풀 로테이션과 실패 재시도, 태스크·계정·AI 기준 편집·로그·결과·가격 이력을 다루는 Web 관리 UI. Docker Compose 한 번으로 배포(Chromium 내장), SQLite 주 저장소, OpenAI 호환 API의 이미지 입력 모델 필요
 * [bb-browser: CLI and MCP server for AI agents to control Chrome with your login state](https://github.com/epiral/bb-browser)
   * 103개 명령어×36개 플랫폼. 인증된 브라우저 세션 그대로 사용, CLI/MCP/OpenClaw 통합. 10분만에 새 사이트 어댑터 추가 가능
 * [brightdata-mcp: A powerful Model Context Protocol (MCP) server that provides an all-in-one solution for public web access | Bright Data](https://github.com/brightdata/brightdata-mcp)
