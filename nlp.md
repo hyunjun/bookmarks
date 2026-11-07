@@ -502,6 +502,9 @@ NLP
   * [KV 캐시를 이렇게까지 압축해도 성능이 유지된다면? TurboQuant 초압축 AI 기술 핵심](https://digitalbourgeois.tistory.com/2924)
   * [어텐션 방식의 또한번의 도약: 트랜스포머의 메모리 장벽을 넘는 세 번째 기술적 돌파구 | Sungjin Kim, Ph.D.](https://www.linkedin.com/pulse/%EC%96%B4%ED%85%90%EC%85%98-%EB%B0%A9%EC%8B%9D%EC%9D%98-%EB%98%90%ED%95%9C%EB%B2%88%EC%9D%98-%EB%8F%84%EC%95%BD-%ED%8A%B8%EB%9E%9C%EC%8A%A4%ED%8F%AC%EB%A8%B8%EC%9D%98-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EC%9E%A5%EB%B2%BD%EC%9D%84-%EB%84%98%EB%8A%94-%EC%84%B8-%EB%B2%88%EC%A7%B8-%EA%B8%B0%EC%88%A0%EC%A0%81-%EB%8F%8C%ED%8C%8C%EA%B5%AC-sungjin-kim-ph-d--2ranc/)
     * 어텐션 진화 3단계(2014 동적 문맥 참조 → 2017 셀프 어텐션 → 현재 KV 캐시 압축) 정리. TurboQuant·CommVQ·KVTC 등 3~4비트 극단적 압축으로 메모리 장벽 극복, 연산-메모리 간 데이터 이동 병목 최소화
+* [영화 '호프' 속 외계어처럼 세상에 없던 언어…인공어의 세계 | 과학동아, 다음뉴스](https://v.daum.net/v/20261107080123884)
+  * [2508.06094 ConlangCrafter: Constructing Languages with a Multi-Hop LLM Pipeline](https://arxiv.org/abs/2508.06094)
+  * 나홍진 감독 영화 '호프'의 외계어 '네히네치'를 설계한 서울대 언어학과 제임스 황·정선우 교수 인터뷰로 풀어 본 인공어(conlang) 이야기—차별 없는 국제 공용어를 목표로 1887년 만들어진 에스페란토(예외 없는 문법, 접사 파생)와 톨킨 이후 세계관의 미학을 위한 '예술어'의 두 흐름. 네히네치는 몽골어·에스키모어·핀란드어 등 북방 언어를 참고해 '춥고 강한' 분위기를 내고, 마찰음은 두드러지되 파열음·비음이 거의 없는 자연어에 없는 음운 체계와 영어식 주+술+목 어순에 한국어식 명사 앞 수식을 섞어 어느 나라 사람에게도 낯설게 설계. 인공어가 소통 수단으로 퍼지지 못한 이유는 영어라는 강력한 공용어 앞에서 배울 동기가 약했기 때문(에스페란토 사용자 약 200만 vs 영어 15억)이지만, 1700년 넘게 일상어가 아니던 히브리어를 언어학자들이 문법을 체계화해 공용어로 부활시킨 것처럼 '인공어적 요소'는 사멸 언어 전승에 쓰임. 마이애미대 모리스 알퍼 교수는 LLM의 환각을 창작 능력으로 삼아 음운→형태→문법→어휘→번역 순으로 언어를 설계하는 ConlangCrafter(ACL 2026)를 공개—난수 생성으로 유형론적 다양성을, 자기 개선 루프로 논리적 일관성을 확보하며 '자음 없는 언어' 같은 인간이 쓰지 않는 불가능한 언어까지 만듦
 
 # 띄어쓰기
 
@@ -2931,6 +2934,9 @@ NLP
   * 장문. 계기는 "변태 아키텍처 3대장"—같은 1M context를 서로 전혀 다른 길로 가는 Kimi K3(93 layer 중 69개를 linear attention KDA로, residual은 depth 방향 attention, RoPE 없는 NoPE), GLM-5.3-Flash(Kimi식 KDA 3:1 골격에 DeepSeek의 sparse attention·mHC), DeepSeek-V4.1(softmax attention을 지키되 KV를 압축하고 40 layer 중 global KV는 4개만 만들어 layer 간 공유). 공통 배경은 reasoning·agent로 context가 128K→1M이 되며 O(T²) 연산과 token마다 쌓이는 KV cache가 학습·서빙 병목이 된 것—세 계보 모두 KV를 줄이되 방법이 다름
   * Stanford CS336의 표준 Transformer와 decode에서 KV 읽기가 병목인 이유에서 출발해 KV를 줄이는 다섯 축을 계보별로 추적: MHA→MQA/GQA→SWA·attention sink→MLA(K,V 대신 latent 하나), linear attention→Mamba/Mamba2→DeltaNet→Gated DeltaNet→KDA(key 차원별 decay gate)→Kimi Linear(KDA 3:MLA 1), RoPE vs NoPE와 Canon layer. DeepSeek V3(aux-loss-free load balancing)→R1(SFT 없는 R1-Zero와 다단계 RL)→V3.2(DSA의 token 선택)→V4(CSA/HCA hybrid, mHC 다차선 residual, Muon)→V4.1-Flash(encoder 20 layer만 도는 CED prefill, layer 축 KV 공유 CSA2, FP4 KV, 영구 저장 안 하는 SWA Bounded Replay)로 네 세대가 축을 하나씩 더한 과정
   * 비교 프레임: attention은 "압축해서 골라 읽기(DeepSeek)" vs "노트를 고쳐 쓰기(Kimi)", MLA로 42배 줄인 KV가 여전히 큰 이유, residual은 차선 늘리기 vs depth 방향 attention, MoE는 routing 방식 vs expert 계산 공간, 설계 철학은 보수·공격·절충. 마지막으로 서빙 엔진에 주는 변화—"단일 KV cache" 전제가 깨져 vLLM(하나의 block pool)과 SGLang(종류별 pool)이 다르게 대응
+* [2610.42147 Latent Sparse Attention: Towards Subquadratic Ultra-Long Context Attention](https://arxiv.org/abs/2610.42147)
+  * [Accelerating Attention for Ultra-Long Context | Prefrontal](https://prefrontal.ai/news/lsa)
+  * 1M 토큰을 넘는 초장문 컨텍스트에서 full attention은 비용이 2차로 늘고, 희소 어텐션도 "어느 토큰을 볼지" 고르는 인덱서가 2차 비용이거나 긴 컨텍스트에서 정확도를 잃는다는 문제(10M에서 희소 어텐션 시간의 98%가 토큰 선택)에 대한 Prefrontal의 답—키를 학습된 잠재 공간에서 유사도 기준으로 계층 클러스터링하고 쿼리가 키 하나하나가 아니라 클러스터 계층을 단계별로 점수화해 컨텍스트 길이와 무관한 고정 개수의 키에만 어텐션, 완전 계층이면 O(T²)→O(T log T). 사전학습 모델의 어텐션을 짧은 증류로 교체하는 D-LSA와 처음부터 넣고 학습하는 N-LSA 두 변형. D-LSA는 10M 토큰에서 Qwen-3.8-27B의 어텐션 층 prefill 72.4배·decode 42.5배(H200, SGLang 8GPU 엔드투엔드 TTFT 9.2배), GLM-5.3-Flash의 기존 희소 어텐션 대비 22.7배/4.6배 가속하면서 MMLU-Pro·GPQA·AIME 등은 2점 이내, RULER는 Qwen이 10M까지 동등하고 GLM은 2~5M에서 최대 8점 뒤짐. N-LSA는 128k까지 full attention과 같은 검증 손실(SWA·NSA·PISA는 못 따라옴)에 층당 학습 1.6배 빠름
 * [Beyond Tokenization: How Hierarchical Networks (H-Nets) are Revolutionizing Language Models | by Jossue Amador | Jul, 2025 | Medium](https://medium.com/@jfaa27/beyond-tokenization-how-hierarchical-networks-h-nets-are-revolutionizing-language-models-0068d242673b)
   * [토큰화의 경계를 넘다: H-넷의 혁신 | AIB프레스](https://aibpress.com/news/7643)
 * [정확도는 안 떨어졌는데, LLM 모델이 바보가 됐습니다: metric만 보면 놓치는 것](https://velog.io/@isanghao/%EC%A0%95%ED%99%95%EB%8F%84%EB%8A%94-%EC%95%88-%EB%96%A8%EC%96%B4%EC%A1%8C%EB%8A%94%EB%8D%B0-LLM-%EB%AA%A8%EB%8D%B8%EC%9D%B4-%EB%B0%94%EB%B3%B4%EA%B0%80-%EB%90%90%EC%8A%B5%EB%8B%88%EB%8B%A4-metric%EB%A7%8C-%EB%B3%B4%EB%A9%B4-%EB%86%93%EC%B9%98%EB%8A%94-%EA%B2%83)
@@ -3684,6 +3690,10 @@ NLP
   * kanana o
     * [이미지와 음성을 아우르는 카카오의 멀티모달 언어모델 Kanana-o 알아보기 - tech.kakao.com](https://tech.kakao.com/posts/702)
     * [더욱 똑똑하게 답하며, 더욱 풍부한 감정표현을 향한 Kanana-o의 진화 과정 - tech.kakao.com](https://tech.kakao.com/posts/802)
+  * kanana-2-v-decide
+    * [AI 에이전트를 위한 멀티모달 의사결정 모델 ‘Kanana-2-v-decide’ 오픈소스 공개 - tech.kakao.com](https://tech.kakao.com/posts/846)
+    * [kanana-2-v-decide · Hugging Face collection](https://huggingface.co/collections/kakaocorp/kanana-2-v-decide)
+    * 카카오 Applied AI Model팀(정성효·이주영). Kanana-2-v-3b 기반 3B 멀티모달 Decision 모델—문의 분류·상품 사진 확인·에이전트 도구 선택처럼 긴 답변보다 명확한 판단이 반복되는 자리에서 텍스트+이미지를 함께 보고 문장 대신 Noul(참일 확률)·Choice(선택지와 확률)·Score(단계별 확률 반영 점수)를 반환하며 한 요청에 여러 질문(파손 여부+문의 유형+고객 감정)을 묶을 수 있고 Jev 호환 API로 호출. H200 1장에서 판단 1건 약 42ms로 GPT-6 Luna 대비 약 43배 빠름. Jev의 구조는 비공개지만 공개된 vLLM Semantic Router d3가 "LLM+head"로 답 코드 255개 안에서 선택지 순서에 영향을 받는 것과 달리, 입력+질문을 벡터 q로, 선택지 각각을 벡터 a₁…aₙ(2,560차원)으로 임베딩해 코사인 유사도→softmax로 확률을 내는 임베딩 기반 구조—선택지 수 제한 없음(ImageNet 1,000 클래스도 한 번에), 순서 독립, 같은 선택지 임베딩 재사용으로 고정 분류 체계·도구 목록의 반복 호출에 유리(새 선택지는 최초 한 번 임베딩 필요). 자체 평가·공개 벤치마크에서 비교 모델 중 최고 점수
 * [KICE_slayer_AI_Korean: 수능 국어 1등급에 도전하는 AI](https://github.com/NomaDamas/KICE_slayer_AI_Korean)
 * [Kimi - 更强大的 AI 助手](https://www.kimi.com/)
   * [Kimi K2: Open Agentic Intelligence](https://moonshotai.github.io/Kimi-K2/)
