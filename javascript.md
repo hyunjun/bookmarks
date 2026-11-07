@@ -3101,6 +3101,9 @@ Javascript
 * [wildflower-touch - A Wildflower IDE for touch devices](https://github.com/pschanely/wildflower-touch)
 * [winbox: WinBox is a professional HTML5 window manager for the web: lightweight, outstanding performance, no dependencies, fully customizable, open source!](https://github.com/nextapps-de/winbox)
 * [WinJS: The Windows Library for JavaScript](https://dev.windows.com/en-us/develop/winjs)
+* [wterm — Terminal Emulator for the Web | Vercel Labs](https://wterm.dev/)
+  * [wterm: A terminal emulator for the web | vercel-labs](https://github.com/vercel-labs/wterm)
+  * 터미널 행을 캔버스가 아닌 DOM 텍스트로 렌더링해 네이티브 텍스트 선택·복사/붙이기·브라우저 찾기·스크린 리더가 그냥 동작하는 웹 터미널 에뮬레이터("dub-term")—코어는 Zig로 쓴 VT 파서를 약 49KB WASM으로 컴파일한 것이고, 더 완전한 VT 호환(Kitty 이미지·OSC 133 셸 통합·소프트랩 리플로)이 필요하면 `@wterm/ghostty`로 libghostty 코어를 꽂아 쓰는 플러거블 구조. 더티 행 추적으로 매 프레임 바뀐 행만 갱신하고 링 버퍼 스크롤백 중 일부만 DOM에 마운트, 터미널이 많은 페이지는 공유 WebGL2 컨텍스트 렌더러와 파싱을 워커로 옮기는 WorkerCore, OSC 8 하이퍼링크·mode 2026 동기화 출력·대체 화면(vim·less·htop)·CJK/이모지 와이드 셀·IME 조합·24비트 색. 패키지는 `@wterm/core`(헤드리스 WASM 브리지·WebSocket PTY 전송)·`@wterm/dom`·React·Vue 3·Svelte 바인딩·`@wterm/just-bash`(브라우저 안 Bash)·`@wterm/markdown`, `webmcp` 옵션으로 페이지 안 AI 에이전트가 WebMCP 도구로 터미널 목록·화면·스크롤백을 읽고 명령을 치게 할 수 있음(읽기 전용 모드 지원). SSH·로컬 셸 예제 제공
 * [WYSIWYG editors](https://github.com/cheeaun/mooeditable/wiki/Javascript-WYSIWYG-editors)
 * [XType - jElegant, highly efficient data validation for JavaScript](http://xtype.js.org/overview)
 * [yjs: Shared data types for building collaborative software](https://github.com/yjs/yjs)
