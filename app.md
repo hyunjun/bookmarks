@@ -1063,6 +1063,8 @@ App
 * [IT Tools - Handy online tools for developers](https://it-tools.tech/)
   * [it-tools: Collection of handy online tools for developers, with great UX](https://github.com/CorentinTh/it-tools)
   * [Every Techie Needs This: IT Tools - YouTube](https://www.youtube.com/watch?v=CbIASgzUIUU)
+* [kensaku: Search inside documents, code, and even screenshots - instantly and locally. A free, open-source file launcher with OCR, semantic search, and MCP agent access | yjid](https://github.com/yjid/kensaku)
+  * "파일 이름은 기억 안 나고 내용만 기억나는" 상황을 위한 로컬 파일 검색 런처(Windows·macOS·Linux)—`notes-final-2.pdf`로 저장한 DB 인덱싱 PDF, 로그 폴더 어딘가의 배포 실패 라인, 이름 없는 CUDA 오류 스크린샷을 기억나는 말로 찾아 일치 부분을 하이라이트하고 Enter로 열기. 파일명은 10만 개를 밀리초에(메타데이터 약 12MB), 그 위에 PDF·DOCX·PPTX·XLSX·EPUB·RTF 등 문서와 50여 코드·데이터 포맷의 전문 검색, 스크린샷·이미지의 OCR(기본 PP-OCRv6, 더 정밀한 Indra·Tesseract 선택), 의미 검색("인덱싱에 관한 PDF"), 자연어 시간("지난주 스크린샷"), 중국어·일본어·한국어를 유니그램+바이그램 토크나이저로 기본 처리, 오타 허용 퍼지 매칭, 바뀐 파일만 다시 읽는 증분 인덱싱. Everything·Listary·PowerToys Run과 달리 파일 안을 읽고, Spotlight·Raycast처럼 macOS 전용이 아니며 Alfred의 유료 기능인 내용 검색을 무료로. 같은 인덱스를 Claude·Cursor 같은 AI 에이전트가 MCP로 읽기 전용·로컬에서 검색 가능. 모든 처리는 기기 안에서
 * [Lando - A Local Dev Tool For Every Project | Lando](https://lando.dev/)
 * [Macro — The unified workspace for your company](https://macro.com/)
   * [macro: Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory](https://github.com/macro-inc/macro)
