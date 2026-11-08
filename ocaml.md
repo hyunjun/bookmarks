@@ -23,6 +23,10 @@ Ocaml
 * [Detecting use-cases for GADTs in OCaml | Mads Hartmann](https://blog.mads-hartmann.com/ocaml/2015/01/05/gadt-ocaml.html)
 * [Effective Programming in OCam • KC Sivaramakrishnan • YOW! 2021 - YouTube](https://www.youtube.com/watch?v=X28PFYvZ_V8)
 * [OCaml for Fun & Profit: An Experience Report • Tim McGilchrist • YOW! 2023 - YouTube](https://www.youtube.com/watch?v=TxuLrsQZprE)
+* [Creator of OCaml: Functional Programming, Formal Verification, Programming Languages | Xavier Leroy | Ryan Peterman - YouTube](https://www.youtube.com/watch?v=9Cswiqrq6So)
+  * [Creator of OCaml: The Danger of Almost-Correct AI Code | Xavier Leroy | Ryan Peterman - YouTube](https://www.youtube.com/watch?v=WixJ0ww_cYA)
+  * [Creator of OCaml: Functional Programming | developing.dev (transcript)](https://www.developing.dev/p/creator-of-ocaml-functional-programming)
+  * OCaml을 만들고 형식 검증된 C 컴파일러 CompCert를 이끈 Xavier Leroy와의 인터뷰—OCaml을 다르게 만드는 것, OCaml vs Rust와 수동 메모리 관리가 더 빠른 이유, JavaScript vs OCaml, Rob Pike의 유명한 인용, 타입 추론의 동작 원리, 형식 검증이 무엇이고 어떻게 작동하는지(CompCert·seL4 사례), OCaml 멀티코어 지원이 어려웠던 이유, 언어 간 상호 호출, LLM이 언어를 어떻게 바꿀지, 산업 vs 학계, 미해결 문제, 책 추천(『Programming Pearls』·『How to Design Programs』). 형식 검증을 모르는 인터뷰어가 배우면서 묻는 구성이라 입문 자료로 적합. 하위 클립은 "거의 맞는" LLM 코드의 위험 대목—그럴듯하지만 미묘하게 틀린 코드가 사람의 검토를 통과하기 쉬운 문제를 형식 검증 전문가의 관점에서 다룸
 
 # Library
 * [Unix system programming in OCaml](https://ocaml.github.io/ocamlunix/)
