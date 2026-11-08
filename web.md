@@ -2790,6 +2790,10 @@ Web
   * [웹에서 WebAssembly를 퍼스트 클래스 언어로 만들기 | GeekNews](https://news.hada.io/topic?id=27429)
 * [무료 AI 동영상 업스케일러가 WebGPU + WebCodecs를 사용하여 서버 비용 없이 MAU 25만 명에게 서비스를 제공하는 방법 | web.dev](https://web.dev/case-studies/ai-video-upscaler-case-study?hl=ko)
   * WebGPU 컴퓨트 셰이더로 AI 추론 + WebCodecs API로 로컬 인코딩/디코딩 + Streams API 파이프라인. 서버 비용 $0으로 일일 1만 동영상 처리, MAU 25만 달성
+* [2026년과 이후 JavaScript의 동향 - WebAssembly](https://d2.naver.com/helloworld/7770448)
+  * 2020년 글에서 예고한 스레드·SIMD·참조 타입·꼬리 호출·ESM 통합의 결말을 확인하고, W3C 권고 대신 "살아 있는 표준"이 된 wasm 2.0과 GC·Memory64·예외 처리·JS string builtins를 담은 3.0, Shared-Everything Threads·JSPI·Source Phase Imports 등 진행 중 제안을 정리
+  * WasmGC로 Java·Kotlin·Dart·Flutter·Google Sheets가 웹에 올라온 사례, Component Model·WIT·WASI 0.2/0.3이 바꾼 브라우저 밖 생태계(Wasmtime, Spin/Akamai, Cloudflare), NAPI-RS wasm 폴백·esbuild·Rolldown 등 JS 개발자가 모르고 쓰는 wasm 패키지와 JS↔wasm 경계 비용 측정의 중요성
+  * AI 시대의 wasm: 브라우저 내 추론(ONNX Runtime Web, Transformers.js v4, WebLLM), LLM 생성 코드를 격리하는 샌드박스(Pyodide, bolt.new WebContainers, BrowserPod, Wasmer Edge.js, mcp-run-python의 한계), 에이전트 도구를 wasm 컴포넌트로 배포하는 Wassette. wasm은 JS를 대체하지 않았지만 여러 언어의 공통 실행 형식으로 범위가 넓어졌다는 결론
 * [AssemblyScript](https://www.assemblyscript.org/)
   * [The AssemblyScript Project](https://github.com/AssemblyScript)
 * [backgroundremover: Background Remover lets you Remove Background from images and video using AI with a simple command line interface that is free and open source.](https://github.com/nadermx/backgroundremover)
