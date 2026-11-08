@@ -241,6 +241,11 @@ Git
   * [Git at Any Scale | 박상길](https://www.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_git-at-any-scale-cursor-share-7495962762305536001-hEeV/)
   * Git 저장소 대규모 호스팅은 packfile 기반 설계 탓에 확장성·안정성 한계가 있고, 해법은 파일시스템·packfile·Git 자체를 분산하는 세 갈래. GitHub Spokes는 3단계 커밋 합의로 복제본 일관성을 지켰지만 대규모 모노레포와 수백만 소규모 저장소에서 한계 노출
   * Cursor의 Continuity 시스템은 S3 기반 선행 기록 로그(WAL)를 핵으로 완전한 일관성을 유지하면서 무제한 수평 확장을 제공
+* [OpenAI의 Git 확장 (Scaling Git at OpenAI) | OpenAI](https://openai.com/ko-KR/index/scaling-git-at-openai/)
+  * [openai/git: OpenAI의 Git 빌드](https://github.com/openai/git)
+  * Codex로 병렬 작업이 폭증해 모노리포의 페치·푸시가 느려지고 병합 신뢰성이 90% 아래로 떨어지자, Git 프로토콜·클라이언트 호환을 유지한 채 새 서버 백엔드 Pando를 만든 과정. 복제본 간 3단계 커밋(3PC)과 블롭 스토리지 공유 WAL 방식을 시뮬레이션으로 비교하고, 두 방식 모두 리포지터리 전체 일관성을 위한 단일 조율 지점이 병목이 됨을 보임
+  * Pando는 리포지터리 전체 일관성을 포기하고 참조(브랜치)별 인과적 일관성만 보장해 무관한 브랜치 푸시를 독립 처리하고, 푸시 팩파일을 풀지 않고 불변 블롭으로 저장해 이후 페치에 그대로 재사용(packfile-uri로 별도 다운로드, 지역별 캐시 Express). 푸시 시 트렁크 참조 하나만 광고해 팩 의존성을 추적 가능하게 하고, LSM 트리처럼 L0 팩을 백그라운드에서 병합해 뒤처진 클라이언트의 페치 비용을 로그 시간으로 유지
+  * 엔지니어 한 명의 설계를 에이전트 팀이 Rust로 구현해 10주 만에 프로덕션 투입, GPT-6 Astra로 Lean·TLA+ 형식 검증. 기존 시스템 앞의 프록시로 시작해 무중단 이전했고 푸시 지연 중앙값 약 80% 감소. 병렬 팩 다운로드·명시적 have 등 클라이언트 개선은 공개 Git 빌드와 업스트림 패치로 공유
 * ['폴리리포주의자'가 모노리포를 반대하는 3가지 이유 - ITWorld Korea](https://www.itworld.co.kr/news/214234)
 * [모노레포에서 Github Actions 현명하게 사용하기](https://f-lab.kr/blog/wise-use-of-github-actions-in-monorepo)
 * [GitHub Packages Container registry is generally available | The GitHub Blog](https://github.blog/2021-06-21-github-packages-container-registry-generally-available/)
