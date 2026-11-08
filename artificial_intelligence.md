@@ -6580,6 +6580,10 @@ Artificial Intelligence
 * [UFO: The Desktop AgentOS](https://github.com/microsoft/UFO)
   * [새로운 논문 "UFO2: The Desktop AgentOS"는 대규모 언어 모델(LLM) 기반의 데스크톱 자동화 에이전트(CUA)의 한계를 해결하는 운영 체제 통합 접근 방식을 제시](https://www.linkedin.com/posts/himskim_github-microsoftufo-the-desktop-agentos-activity-7324212164846592001-LPKD/)
 * [UI Skills - A set of skills to polish interfaces built by agents](https://www.ui-skills.com/) 에이전트가 따라야 할 UI 제약 조건
+* [skills: A collection of agent skills that help you build great interfaces | jakubkrehel](https://github.com/jakubkrehel/skills)
+  * [Interfaces — design engineering magazine](https://interfaces.dev/)
+  * 디자인 엔지니어링 매거진 Interfaces의 Jakub Krehel이 자기 글을 스킬로 옮긴 모음. better-interface(접근성·레이아웃·카피·타이포그래피·색·UI 폴리시를 한 번에 검토해 순위별 보고서), better-ui(border radius·광학 정렬·그림자·아이콘 상태·애니메이션 수치), better-typography, better-colors(팔레트 생성·시맨틱 토큰·포맷 변환·대비 측정), better-accessibility(WCAG 2.2 기준 키보드·ARIA·폼·스크린리더), better-layout(번역·미러링·리사이즈에도 버티는 구조), better-writing(라벨·오류·빈 상태 카피)
+  * 사용자 호출형 스킬도 포함: interface-review(브랜치·PR이 들여온 UI 회귀 검토), explain-interface(URL·스크린샷으로 구현 방식 설명), break(컴포넌트를 가능한 모든 시나리오로 스트레스 테스트), state-machine(모든 상태를 임시 페이지에 렌더), variant(여러 변형을 만들어 고르기), build-design(Figma·이미지에서 기존 토큰·컴포넌트로 UI 구현), teardown(기술 일러스트 SVG/PNG/PDF), afk(자리 비운 동안 개선점을 찾아 로컬 브랜치에 구현하고 보고서 작성). npx skills add 또는 Claude Code 플러그인(interfaces@interfaces)으로 설치
 * UXCanvas.ai [AI UI/UX Design Agent | UXCanvas.ai | Idea To UI/UX Design In Seconds](https://uxcanvas.ai/)
   * [바이브 코딩을 지원하는 여러 툴들이 있지만 UX 디자인을 해주는 특화된 툴이 있네요](https://www.linkedin.com/posts/duckjungkim_%EB%B0%94%EC%9D%B4%EB%B8%8C-%EC%BD%94%EB%94%A9%EC%9D%84-%EC%A7%80%EC%9B%90%ED%95%98%EB%8A%94-%EC%97%AC%EB%9F%AC-%ED%88%B4%EB%93%A4%EC%9D%B4-%EC%9E%88%EC%A7%80%EB%A7%8C-ux-%EB%94%94%EC%9E%90%EC%9D%B8%EC%9D%84-%ED%95%B4%EC%A3%BC%EB%8A%94-%ED%8A%B9%ED%99%94%EB%90%9C-%ED%88%B4%EC%9D%B4-activity-7323698556458979329-11zF/)
 * [vibecode-pro-max-kit: A spec-driven coding harness for AI agents — Your AI forgets. This remembers](https://github.com/withkynam/vibecode-pro-max-kit)
