@@ -263,6 +263,8 @@ Graph
   * PyData & PyCon Yerevan 2026 키노트. AI와 비즈니스 지식 사이의 잃어버린 고리로서의 시맨틱 레이어
 * [Why Agentic Systems Need Ontologies — Frank Coyle, UC Berkeley - YouTube](https://www.youtube.com/watch?v=Sir59K8ZDPU)
   * AI Engineer. 확률적 에이전트가 저지르는 실수(같은 주문 이중 환불, 잘못된 수취인에게 지급, "아마 배송됨" 같은 모호한 상태)를 온톨로지로 방지—에이전틱 시스템에 온톨로지가 필요한 이유
+* [Ontologies as Guardrails for AI | frank coyle - YouTube](https://www.youtube.com/watch?v=4Z4ie_MQOTw)
+  * 위 UC Berkeley 발표와 같은 Frank Coyle의 짧은 설명 영상—문제 도메인의 개체와 관계를 담는 어휘 체계인 온톨로지를 두면, 본질적으로 확률적인 LLM의 출력을 논리로 제약할 수 있다는 것. 그럴듯하지만 틀린 환각 응답으로 새지 않게 궤도를 잡아 주는 "가드레일"로서, AI 에이전트의 자유분방한 응답을 상쇄하는 견제와 균형 장치로 온톨로지를 어디에 어떻게 배치하는지 단계별로 설명
 * [#2. 온톨로지는 검색이 아니라 실행이어야 합니다 — AI-Native 금융을 향한 두 개의 축 | Hongsoo Kim](https://www.linkedin.com/posts/hongsoo-kim-2bb23512_toss-ainative-ontology-share-7506149649385197569-AFHM/)
   * 토스. 고객데이터 온톨로지(마이데이터 기반 시맨틱 레이어—테이블·컬럼 위에 지표 노드를 올리고 각 지표에 SQL 표현을 묶어 숫자를 검증된 채로 답하게)와 사내지식 온톨로지 두 축. 틀린 숫자는 틀린 답이 아니라 사고라는 관점
 * [고객들은 화려한 그래프에 감탄했습니다. 하지만 딱 거기까지였습니다 — 행위 없는 온톨로지는 죽은 지식 | OS Kim](https://www.linkedin.com/posts/os-kim-087a7a131_snctsirxgtfm-ontology-palantir-share-7522444746703896576-E8sX/)
