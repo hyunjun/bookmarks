@@ -1090,6 +1090,8 @@ Artificial Intelligence
   * [Shopify Staff Engineer: Why Your Multi-Agent AI Architecture Will Fail | InfoQ - YouTube](https://www.youtube.com/watch?v=KA9195tqkTs)
   * [What I Learned Building Multi-Agent Systems — Shopify Paulo Arruda 발표 정리 | Dohyun Jung](https://kr.linkedin.com/posts/dohyun-jung-b66b8262_what-i-learned-building-multi-agent-systems-activity-7470985234059120640-9a7g)
   * Shopify Staff Engineer Paulo Arruda의 QCon AI 발표. 2024년 OpenAI·Anthropic 계약과 LibreChat·Cursor·Copilot이 있었지만 매일 AI를 쓰는 엔지니어는 적었고, Rails 모놀리스의 의존성 그래프+GPT 요약으로 테스트를 생성하려던 첫 실험은 유지 비용 때문에 실패. 전환점은 Claude Code 리서치 프리뷰—인덱싱 없이 grep·read로 코드베이스를 이해하는 "에이전틱 검색"이 더 낫고, Claude Code 두 인스턴스를 연결하자 각자 못 풀던 문제를 함께 풂. YAML로 멀티 에이전트를 구성하는 Ruby gem Claude Swarm을 만들어 테마 리뷰 22시간→7~20분, 후보자 평가 1시간 미만, Claude Code 15개로 업무 기능별 다차원 리서치. 거대한 프롬프트 대신 좁고 전문화된 에이전트 떼(lean, narrow-focused swarms)가 일관되게 더 나았고, 에이전트를 "마이크로서비스 아키텍처"처럼 다루면 네트워킹·트레이싱·디버깅의 악몽이 돌아옴("Agentic Slop"). "AI SWAT 팀" 안티패턴과 팀별 파편화된 도입을 넘어 멀티 프로바이더·YAML/Ruby DSL·워크플로·이벤트 훅·관측성을 갖추고 Ruby fiber 스케줄링으로 단일 프로세스에서 돌아가는 통합 오케스트레이션 SwarmSDK로 수렴. 향후 과제는 MCP 도구의 컨텍스트 비대화—Read·Grep·Glob·Search 도구를 제어하는 어댑터 층 llm-fuse로 DB·정보 시스템을 파일시스템처럼 노출하고 메모리 디프래그먼테이션. 세 교훈: 최고의 해법은 직접 겪은 고통에서 나오고, 에이전트는 좁게 전문화하며, 전담 AI 팀 대신 모든 팀이 에이전트를 만들게 하라
+* [7 Things Your AI Coworker Needs - Philipp Schmid, Google DeepMind | AI Engineer - YouTube](https://www.youtube.com/watch?v=EtZwTYahfek)
+  * Google DeepMind의 Philipp Schmid가 Gemini와 Gemini API의 Managed Agents로 금융용 자율 AI 동료 "Bug"를 만드는 발표—동료에게 필요한 7가지(두뇌·컴퓨터·플레이북·도구·자격증명·사내 규칙·일정)를 하나씩 구현: 에이전트 전용 샌드박스 컴퓨터 안의 스킬·플레이북·파일, 내장 도구와 MCP 서버, 프롬프트 인젝션으로 훔칠 수 없게 네트워크 프록시가 요청 시점에 바꿔 끼우는 자격증명, 승인 등 사내 규칙을 강제하는 훅, cron 트리거 일정. Gemini 4의 새 기능 소개 뒤 포트폴리오를 감사해 Google Sheet를 일정에 맞춰 갱신하는 에이전트 라이브 데모로 마무리
 * [2506.02153 Small Language Models are the Future of Agentic AI](https://arxiv.org/abs/2506.02153)
   * [NVIDIA의 Peter Belcak가 소개하는 소형 언어 모델(SLM)이 에이전트 AI의 미래인 이유](https://www.arizekorea.com/insights/post/nvidias-small-language-models-are-the-future-of-agentic-ai-paper-jNrUOzqlulGhemG)
   * [Demystifying Agentic AI Using Small Language Models - YouTube](https://www.youtube.com/watch?v=nk5BNz8v_9E)
@@ -4704,6 +4706,8 @@ Artificial Intelligence
   * [Agentic Code Quality | 박상길](https://www.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_agentic-code-quality-share-7492533951845265408-Kgy5/)
   * AI 에이전트가 대량의 코드를 생성하는 시대에는 전통적 코드 리뷰 대신 "품질 게이트"라는 자동화된 제약으로 품질을 관리해야 함. 단위 테스트·보안 검사·성능 메트릭 등 다층 검증 체계로 에이전트 결과물이 프로덕션에 가기 전 안전성 확보
   * 보안과 속도의 트레이드오프를 고려해 팀의 가치관에 맞게 제약 조건을 조정해야 지속적으로 고품질 소프트웨어를 제공할 수 있음
+* [AI-Friendly Code: The Missing Link for Speed with Quality • Adam Tornhill • GOTO Copenhagen 2026 | GOTO Conferences - YouTube](https://www.youtube.com/watch?v=ciRTdOIhNCc)
+  * 『Your Code as a Crime Scene』 저자이자 CodeScene 창업자 Adam Tornhill의 발표—AI로 초기 생산성이 올랐다가 복잡도와 장애 속에 사라지는 흔한 패턴의 원인은 기존 기술 부채이며, 에이전트가 개발 루프에 들어오면 부채는 "증폭기"가 되어 결함·비용뿐 아니라 높은 breakage rate로 AI 위험을 키우고 유망한 에이전트를 레거시 코드 생성기로 만든다는 진단. 코드가 이해하기 쉬운 정도를 재는 Code Health, AI 코딩·개발자 생산성에 관한 대규모 실증 연구에서 실제로 통하는 것과 안 통하는 것, "즉석 소프트웨어의 환상"에 대한 반론, 성공 기준 세 가지—AI가 생성·수정한 모든 코드에 안전장치, 비즈니스 크리티컬 코드를 AI-ready로, 코드 헬스 개선을 에이전트에게—와 에이전트로 대규모 리팩터링을 수행한 사례 연구, 조직이 적응하는 토대로 마무리
 * [MIT report: 95% of generative AI pilots at companies are failing | Fortune](https://fortune.com/2025/08/18/mit-report-95-percent-generative-ai-pilots-at-companies-failing-cfo/)
   * [MIT report: 95% of generative AI pilots at companies are failing | Sean Lee](https://www.linkedin.com/posts/sean-lee-97908319_mit-report-95-of-generative-ai-pilots-at-activity-7363840701177974785-ply-)
 * [AI in the workplace: A report for 2025 | McKinsey](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/superagency-in-the-workplace-empowering-people-to-unlock-ais-full-potential-at-work)
@@ -5513,7 +5517,10 @@ Artificial Intelligence
 * [AiSOC by Cyble, the autonomous SOC](https://tryaisoc.com/)
   * Cyble의 자율 SOC 플랫폼(동명의 오픈소스 AiSOC와는 별개 상용 제품)
 * [AiSOC: Open-source AI-powered Security Operations Center](https://github.com/beenuar/AiSOC)
+  * [AiSOC Docs](https://beenuar.github.io/AiSOC/)
   * 오픈소스 AI 기반 보안 관제 센터(SOC). 알림 융합, 퍼플팀 훈련, 에이전트 보조 트리아지, MITRE ATT&CK 조사. 셀프호스팅
+  * 텔레메트리를 공통 스키마로 정규화해 Kafka로 흘리고, 실제 커넥터 이벤트를 재생해 "발화가 확인된" 규칙만 실행 가능으로 인정하는 Sigma 기반 탐지 룰셋과 슬라이딩 윈도 규칙으로 알림을 만든 뒤 상관분석으로 인시던트로 묶음. 에이전트 조사는 모든 프롬프트·도구 호출을 Investigation Ledger에 기록해 재생·감사할 수 있고, 코파일럿 답변은 각 주장을 원장 항목에 인용. 조사 결과는 서명된 증거 번들(OCSF)로 내보냄
+  * 플레이북은 배포·테넌트·플레이북 세 스위치가 모두 켜져야 실행되며 기본은 미리보기, 승인 단계는 Postgres에 영속되는 중단점. CISA KEV 등 위협 인텔을 API 키 없이 받아 이미 수집한 이력을 재스윕하고, Splunk·Sentinel·Elastic·CrowdStrike·Okta·AWS·Kubernetes 등 커넥터와 S3/SQS·GCP Pub/Sub·Azure Event Hubs·syslog 수집기, SPL/KQL/EQL 규칙 마이그레이션 도구, Claude·Cursor용 MCP 서버를 제공. Docker Compose 한 번(make up)으로 로컬 모델 포함 셀프호스팅
 * [AISVS: The AI Security Verification Standard (AISVS) focuses on providing developers, architects, and security professionals with a structured checklist to verify the security of AI-driven applications. · GitHub](https://github.com/OWASP/AISVS)
 * [akca: AKCA Advanced Web Security Scanner](https://github.com/akha-security/akca)
   * Go로 쓴 증거 지향 오픈소스 DAST 스캐너—크롤 후 모든 엔드포인트에 페이로드를 쏟아붓는 대신 HTTP·브라우저 보조 크롤링·JavaScript 분석·API 임포트로 숨은 라우트·JS 로딩 엔드포인트·미문서화 파라미터·접근 제어 경로를 먼저 발견하고, 기술·WAF 핑거프린팅으로 요청 속도와 안전한 페이로드 변형을 조정, 엔드포인트·메서드·파라미터·모듈 조합에 작업을 배분, 레이트 리밋·차단 시 일시 중지·복구, 유망 신호는 베이스라인·음성 대조·상태 확인·ID 비교·OAST 콜백으로 재검증한 뒤에만 finding으로 승격하고 요청·응답·페이로드·신뢰도·증명 정책을 보존. Acunetix·Invicti·Burp Pro와의 동등성은 주장하지 않음. Go 1.25
