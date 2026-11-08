@@ -1377,6 +1377,10 @@ App
 * [타임머신 앱? 카메라 대면 옛날 사진이…](http://techholic.co.kr/archives/31096)
 * [bloxp - Export any blog and turn it into a downloadable ebook. Save your favorite blog as a unique, readable file!](http://www.bloxp.com/)
 * [ferdium-app: All your services in one place, built by the community](https://github.com/ferdium/ferdium-app)
+* [Freeter – a smarter way to work on your computer](https://github.com/FreeterApp/Freeter)
+  * [Freeter](https://freeter.io/)
+  * 프로젝트·워크플로 단위로 작업에 필요한 것을 한 화면에 모아 두는 오픈소스 데스크톱 오거나이저(Linux·Windows·macOS). 각 워크플로 화면에 임베디드 웹 페이지(태스크 관리자·Gmail·문서), 파일/링크 오프너, 사이트 검색, 메모, 빌드 스크립트 실행 등의 위젯을 배치하고 Ctrl/Cmd+Shift+F 핫키나 트레이에서 바로 전환
+  * 워크플로별 별도 브라우저 세션을 쓰므로 여러 계정(메일·SNS)을 로그아웃 없이 프로젝트마다 따로 유지할 수 있고, 개발·메시지·릴리스처럼 맥락별 화면을 나눠 컨텍스트 스위칭을 줄이는 것이 목적
 * [noti - Trigger notifications when a process completes](https://github.com/variadico/noti)
 * [Overwatch — interactive 3D globe with ~31 live data streams](https://overwatch.earth/)
   * 로그인·결제 없이 브라우저에서 약 31개 실시간 데이터 스트림을 3D 지구본에 표시. 항공기·선박·날씨·위성·지진·산불·번개·오로라·인터넷 이벤트 등. NASA·NOAA·ADS-B·AIS 등 공개 피드, 서버사이드 fetch(IP 비공유)
