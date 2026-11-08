@@ -489,6 +489,10 @@ Javascript
   * [브라우저 밖의 JavaScript](https://d2.naver.com/helloworld/5644368)
 * [2019년과 이후 JavaScript의 동향 – 브라우저 밖의 JavaScript 1](https://d2.naver.com/helloworld/7700312) Deno등 node 개발 환경의 여러가지 다른 library등의 이야기도 나옴
 * [2019년과 이후 JavaScript의 동향 – 브라우저 밖의 JavaScript 2](https://d2.naver.com/helloworld/7975004)
+* [2026년과 이후 JavaScript의 동향 - 브라우저 밖의 JavaScript](https://d2.naver.com/helloworld/1443473)
+  * 2019년 글 이후 7년: Node.js는 require(esm)·타입 스트리핑(node app.ts)·권한 모델·내장 테스트 러너/SQLite를 갖추고 Node 27부터 연 1회 메이저 릴리스(전 버전 LTS, 버전=연도)로 전환. Deno와 Bun은 Node 호환으로 수렴한 뒤 각각 Cloudflare 합류(런타임 개발 1년 뒤 종료)·Anthropic 인수로 귀결, WinterTC(Ecma TC55)가 서버 런타임 공통 API를 표준화
+  * 패키지 생태계는 npm 존속 걱정에서 공급망 공격(chalk/debug 계정 탈취, Shai-Hulud 웜, Axios)으로 걱정이 바뀌어 npm 12·pnpm·Bun 모두 postinstall 기본 실행을 끄고 classic 토큰 폐기·minimumReleaseAge 같은 기본값을 도입. Electron·Tauri·React Native·PWA·OpenJS Foundation 현황도 정리
+  * AI 도구는 npm 위에서 배포되고(MCP SDK, Claude Code, Codex CLI) 공격자는 설치된 AI CLI를 정찰 도구로 악용(Nx s1ngularity)하며 슬롭스쿼팅이 등장. Bun의 Zig→Rust 53만 줄 이식, Node.js의 AI 기여 정책과 저품질 보안 보고 폭증까지, 병목이 코드를 만드는 일에서 검증하는 일로 옮겨 가고 있다는 진단
 * [THIS에 대하여 1](https://studystorage.blogspot.com/2017/03/javascript-this-1.html)
 * [자바스크립트 this 바인딩 우선순위](http://blog.jeonghwan.net/2017/10/22/js-context-binding.html)
 * [자바스크립트 this? 간단히 핵심만 파악하기](https://www.youtube.com/watch?v=PAr92molMHU)
@@ -1757,6 +1761,10 @@ Javascript
   * JSON 파일을 import 할 때 보안 이슈 존재 가능(JSON 파일인 줄 알았는데 이름만 .json 이고 실제로는 악의적인 스크립트 였다던가)
   * import 시 해당 파일이 JSON 인지 스크립트인지 명시할 수 있는 기능이 내년에 표준 도입 예정
     * 이 경우 JSON 이라고 명시해서 import 했는데 JSON 이 아니면 에러 발생
+* [2026년과 이후 JavaScript의 동향 - JavaScript(ECMAScript)](https://d2.naver.com/helloworld/2675915)
+  * 2020년 글의 예측(ESM 전환, 비JS 언어로 만든 도구, TypeScript 보편화)이 어떻게 실현됐는지 되짚고, Record & Tuple 철회→Composites, Pipeline Operator 정체, Temporal Stage 4 등 당시 제안들의 결말을 정리
+  * TC39에 Stage 2.7이 신설되고 조건부 진행·단계 후퇴(Decorators)가 생긴 과정, ES2026의 7개 기능(Array.fromAsync, Error.isError, Math.sumPrecise, Uint8Array base64/hex, Iterator.concat, JSON.rawJSON, getOrInsert)과 ES2027 예정 기능(Temporal, using, 이터레이터 zip/chunks), import defer 같은 진행 중 제안을 예제 코드로 설명
+  * Oracle 상대 JavaScript 상표 취소 심판 경과, Go로 이식된 TypeScript 7과 erasableSyntaxOnly, 그리고 AI 코딩 도구의 영향(TypeScript가 GitHub 1위가 된 배경, MDN·Chrome·Next.js의 에이전트용 문서/MCP, Ladybird LibJS Rust 이식, TC39 AI 정책)을 다룸. AI가 확산될수록 표준과 Test262 같은 검증 수단의 가치가 커진다는 결론
 * Babel
   * [Babel 너 믿을수 있니?](http://sculove.github.io/blog/2016/07/26/Babel-%EB%84%88-%EB%AF%BF%EC%9D%84%EC%88%98-%EC%9E%88%EB%8B%88/)
   * [번역 Everything you need to know about BabelJS](https://jaeyeophan.github.io/2017/05/16/Everything-about-babel/)
@@ -3136,6 +3144,10 @@ Javascript
 * [리액트(React.js)와 뷰(Vue.js)의 차이점](https://brunch.co.kr/@skykamja24/573)
 * [2020년과 이후 JavaScript의 동향 - 라이브러리와 프레임워크 1](https://d2.naver.com/helloworld/7226235) React, Angular
 * [2020년과 이후 JavaScript의 동향 - 라이브러리와 프레임워크 2](https://d2.naver.com/helloworld/6951656) Vue.js, Svelte, and Stimulus
+* [2026년과 이후 JavaScript의 동향 - 라이브러리와 프레임워크](https://d2.naver.com/helloworld/0627744)
+  * 2020년의 "3(+1)대 프레임워크" 구도가 "React와 나머지"로 바뀌었지만 유지 의향은 Svelte·Solid·Vue가 높고 React는 하락. React 18(동시성)·19(Actions, use, 서버 컴포넌트, Compiler), Angular(Signals, standalone, zoneless, Signal Forms), Vue 3.6(Vapor), Svelte 5(runes) 등 각 프레임워크의 내부 변화를 정리
+  * 프레임워크 간 공통 흐름: Signals로의 수렴, 메타 프레임워크와 서버 렌더링 회귀, TanStack, Vite/Rolldown·Oxc 등 Rust 기반 빌드 도구, Vitest, popover·view transition·Customizable select 같은 웹 표준의 흡수, 웹 컴포넌트(Lit)의 위치
+  * AI 코딩 도구가 React+Tailwind+shadcn/ui를 기본값으로 굳히고, 프레임워크들은 llms.txt·MCP 서버·AGENTS.md·번들 문서(Next.js 16.3)·TanStack Intent로 "LLM을 사용자"로 대하기 시작. 12개 스택으로 같은 앱을 Claude Code에 만들게 한 비용 비교 실험과 AI SDK 등 AI 기능 라이브러리의 부상까지 다룸
 
 ## Library Build
 * [Publish, ship, and install modern JavaScript for faster applications](https://web.dev/publish-modern-javascript/)
