@@ -171,6 +171,8 @@ Programming
 * [Book Review: A Philosophy of Software Design | Johz Blog](https://johz.bearblog.dev/book-review-philosophy-software-design/)
 * [The Philosophy of Software Design – with John Ousterhout | The Pragmatic Engineer - YouTube](https://www.youtube.com/watch?v=lz451zUlF-k)
   * 1시간 21분. 『A Philosophy of Software Design』 저자이자 스탠퍼드 교수 John Ousterhout와 Gergely Orosz의 대담—Cursor·Copilot 같은 도구가 자동완성·테스트·문서 생성에 능해져도 소프트웨어 설계의 본질은 크게 바뀌지 않으며, 오히려 AI가 코드를 더 잘 만들수록 좋은 설계가 더 중요해진다는 관점
+* [Code Health Guardian • Artie Shevchenko & Titus Winters • GOTO 2026 | GOTO Conferences - YouTube](https://www.youtube.com/watch?v=_-6DpjiO200)
+  * GOTO Book Club—Google에서 1,000명 넘게 수강한 코드 리뷰 사내 강의, 『A Philosophy of Software Design』 발표, 대학 강의를 거쳐 『Code Health Guardian』을 쓴 Artie Shevchenko(Canva)와 『Software Engineering at Google』 공저자 Titus Winters의 대담. Ousterhout의 복잡도 문제 세 가지(변경 증폭·인지 부하·unknown unknowns)는 "무엇을 먼저 고칠지" 순위를 매기는 데 유용해 그대로 두되, 원인이 모호성과 의존성이라는 데는 동의하지 않음—의존성은 모든 소프트웨어의 구성 요소이기도 하므로 더 구체적인 여섯 원인(거짓 인터페이스·복잡한 인터페이스·낯섦·과다 의존·중복·불안정한 의존)으로 교체, Titus도 "모든 의존성은 나쁘다"는 핵심을 놓친 말이며 의존성은 이점이자 부채라고 동의. AI 논의는 "이해"로 수렴—거의 같은 답을 내는 두 수험생(이해한 학생 vs 암기한 학생) 비유로 대부분은 넘어가지만 항상은 아니므로 사람 "코드 헬스 가디언"이 AI 출력을 검증해야 코드베이스의 지적 통제를 잃지 않으며, 리뷰 우선순위는 아직 배우는 중이고 테스트 줄은 예전처럼 꼼꼼히 안 읽게 됐다는 고백; Titus의 최대 걱정은 나중에 바꾸기 가장 어려운 것(의존성·프레임워크·상태 저장·API·DB 스키마)이라 인터페이스가 최상위라는 Artie와 일치. 지적 통제 vs 통계적 통제(테스트는 증거), 기본 불변인 "준함수형 프로그래밍"이 모호성을 줄이고 상태 없는 코드는 테스트가 쉽다는 데 합의, 아직 아무도 AI 보조 개발의 완전한 플레이북을 갖지 못했다는 결론
 * [Software Design — Orthogonality. Software Design can seem tricky or… | by Yoganathan Shiv | Level Up Coding](https://levelup.gitconnected.com/software-design-orthogonality-7cd2d50267b6)
 * [Twenty Years of Patterns’ Impact](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6648592) celebrates the 20th year of software patterns
 * [Analysis & Design · Present](https://present.do/decks/60c21e8267ba0b4949e79f42)
@@ -7882,6 +7884,7 @@ Programming
   * [10월 3주 소식(빅데이터/인공지능, 하드웨어, 읽을거리 부문) | 컴퓨터 vs 책](https://jhrogue.blogspot.com/2026/10/b-10-3.html)
   * [10월 4주 소식(개발/설계/경력관리/보안/클라우드/데이터베이스 관련 소식 정리) | 컴퓨터 vs 책](https://jhrogue.blogspot.com/2026/10/b-10-4.html)
   * [10월 5주 소식(개발 + 인공지능 통합) | 컴퓨터 vs 책](https://jhrogue.blogspot.com/2026/10/b-10-5.html)
+  * [11월 1주 소식(개발 + 인공지능 통합) | 컴퓨터 vs 책](https://jhrogue.blogspot.com/2026/11/b-11-1.html)
 * [ByteByteGo Newsletter | Alex Xu | Substack](https://blog.bytebytego.com/)
 * [GN#114 신입 웹개발 커리큘럼과 SaaS 스타트업 부트스트래핑 도구 | GeekNews](https://news.hada.io/weekly/202137)
 * [goQuality-dev-contents: { 고퀄리티 개발 컨텐츠 모음 }](https://github.com/Integerous/goQuality-dev-contents)
