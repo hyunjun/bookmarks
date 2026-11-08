@@ -156,9 +156,10 @@ Hardware
   * 프리릴리스(2026-10)—실제 Revit 세션에서 검증된 것이 아직 없고(Python 서버는 mock 프로바이더 테스트, CI는 애드인 컴파일만) README가 설명하는 Revit 동작은 전부 UNVERIFIED로 취급하라는 경고. 프로젝트 복사본에서 먼저 시험할 것
 * [Cognitum — AI Agent Platform: Seed Device, MCP Tools & Developer SDK](https://cognitum.one/)
   * WASM 런타임·암호화 ID·벡터 스토리지 내장 Seed 하드웨어 + Rust/Node.js/Python SDK
-* [gpu-unlock: Unlock FP/BF16 instruction issue rate on Nvidia 3000's cards to their professional equivalents | Zagitta](https://github.com/Zagitta/gpu-unlock)
+* [gpu-unlock: Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up to 2× FP16 / BF16 / TF32 tensor throughput | Zagitta](https://github.com/Zagitta/gpu-unlock)
   * [gpu-unlock-ada: GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally | JustAResearcher](https://github.com/JustAResearcher/gpu-unlock-ada)
   * NVIDIA GeForce 카드의 FP16/BF16(FP32 누산) 텐서 명령 발행 속도 제한(speed-select)을 드라이버 로드 전에 해제하는 Linux 커널 모듈—패치된 NVIDIA 드라이버나 UEFI 앱이 아니라 FLR 후 순정 드라이버가 바인딩되므로 드라이버 업데이트마다 수정 불필요. Ampere(GA102/103/104/106): 3090 Ti 8192³ GEMM BF16 87.5→157.4 TFLOPS 등 카드별 +25~80%. Ada 포트(RTX 4090·4070 Ti SUPER 등): 4090 FP16/BF16→FP32 명령 처리량 약 165→331 TF/s(2×)지만 실제 cuBLAS GEMM은 shape별로 0~34% 향상. 커뮤니티 보고 기반의 실험적 레지스터 해킹이라 안정성 보증 없음
+  * 2.0에서 Ampere(RTX 30)에 더해 Ada(RTX 40)·Turing(RTX 20)을 본 저장소에서 직접 지원(Blackwell RTX 50은 미지원 예정), TF32도 해제 대상에 포함. make install로 배포판별 패키지를 빌드하고 커널 커맨드라인에 gpu_unlock.targets=all을 추가해 부팅 시 적용. 실사용 효과는 LLM prefill·첫 토큰 지연 25~55%, BF16 파인튜닝 25~50%, SDXL 등 이미지 생성 30~55% 개선이고 메모리 바운드인 토큰 생성·INT8/FP8/INT4·게임은 변화 없음. 출력은 비트 단위로 동일. 노트북은 dGPU 전원이 꺼지면 해제가 풀림. Windows는 제3자 포트(impacifist/Windows-GPU-UNLOCK)만 있고 떠도는 설치기·코인은 프로젝트와 무관
 * [openTPU: An open-source AI accelerator, developed by AI — RTL, ISA, simulator, compiler and profiler in one repo. Runs Qwen3, LFM2.5 and Qwen3.5 on a Kintex-7 PCIe card | FeSens](https://github.com/FeSens/openTPU)
   * [Нафиг NVIDIA! Часть 2. Запустил 8 нейросетей на FPGA за $50 — и упёрся в DDR3 (КЕДР) | Habr](https://habr.com/ru/articles/1095564/)
     * [AI Agents KR | 50달러짜리 중고 FPGA에서 8종의 AI 언어모델을 실행하는 데 성공했다 | Facebook](https://www.facebook.com/groups/9546662462016100/posts/30076844201904625/)
