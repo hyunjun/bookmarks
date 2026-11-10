@@ -2406,6 +2406,10 @@ Artificial Intelligence
   * [안드레이 카파시: 바이브 코딩에서 에이전틱 엔지니어링으로](https://livewiki.com/ko/content/karpathy-vibe-coding-agentic-engineering)
   * [스테이지5 - 안드레이 카파시, 바이브 코딩에서 에이전틱 엔지니어링으로 | Facebook](https://www.facebook.com/stage5/posts/1504300551253766/)
   * Karpathy가 AI Ascent 2026에서 Sequoia Stephanie Zhan과 대담. "vibe coding" 이후 1년간의 변화, 그 위에 자리잡는 본격 규율로서의 agentic engineering. LLM은 동물이 아닌 유령—뾰족하고 통계적인 소환된 존재라는 관점
+* [한글자막 세계 최고 AI 엔지니어 카파시가 실제로 AI를 쓰는 법 | Tech Bridge - YouTube](https://www.youtube.com/watch?v=lcp0_GnT54o)
+  * [HackerTube](https://hackertube.org/)
+  * [Andrej Karpathy blog](https://karpathy.bearblog.dev/)
+  * 크리에이터 Nick Saraev가 2주간 카파시의 공개 글·댓글에서 추린 실제 AI 사용 습관을 한국어 자막으로—Claude Code 데스크톱 앱+Opus 5.5, 기본은 중간 추론 강도. 코드를 읽지도 쓰지도 않고 터미널 명령도 직접 실행하지 않는다는 원칙, 항공 정비 매뉴얼식 영어 ASD-STE100으로 설명을 받고 프롬프트는 갈수록 짧아짐, 긴 글 대신 다이어그램·HTML 페이지·설명 영상을 요청. 공개 벤치마크를 믿지 않고 "육지야, 바다야?" 세계 지도 같은 직접 실험으로 모델을 재고, 거슬리면 직접 만든다(HackerTube), 싼 필터로 거른 뒤 Sonnet 서브에이전트에 위임하는 구조, 앱 대신 데이터와 프롬프트를 공유하는 이유, Claude에게도 예의 바르게. 습관 정리는 원본 제작자의 해석이라는 단서
 * ["코딩은 이제 공짜가 됐다" 25년차 장고 창시자가 말하는 AI 시대 | eopla.net](https://eopla.net/magazines/41947)
   * Django 공동창시자 Simon Willison이 2025년 11월이 AI 코딩 에이전트의 변곡점이었다고 회고. "agentic engineering" 실무, 수동 리뷰가 사라진 "dark factories" 등장, OpenClaw처럼 디지털 시스템을 자율 조작하는 AI 어시스턴트의 보안 함의
 * [The Short Leash AI Coding Method For Beating Fable | Greg Slepak](https://blog.okturtles.org/2026/07/short-leash-ai-method/)
@@ -3516,6 +3520,9 @@ Artificial Intelligence
   * [comma.ai for the people to experiment with](https://github.com/commaai/research)
   * [人工知能による車の自動運転（comma.ai）](https://www.youtube.com/watch?v=BJzgcSJm9SM)
   * [George Hotz on Comma.AI and the state of self-driving cars](https://www.youtube.com/watch?v=Hxoke1lDJ9w)
+* [craft-anything: Craft Anything — understand how any software works, and craft your own | storytold](https://github.com/storytold/craft-anything)
+  * ArtCraft 커뮤니티(CADCraft와 같은 storytold)의 Rust 데스크톱 앱(Apache-2.0, 25.6k stars). 대상을 가리키고 원하는 것을 말하면 네 단계—Study(웹사이트는 모든 화면 폭의 페이지·코드·파일·실행 방식을 실제 검사 도구로 조사, 모든 답에 증거 첨부)→Build(요청한 언어·프레임워크·엔진으로 코딩 에이전트가 새 프로젝트 구축, "이 게임의 플레이를 Rust로 재현")→Check(세 화면 폭의 페이지 비교, 게임 자체 셀프테스트, 앱 실행 비교로 원본과의 차이 목록)→Ready(열어 보고 수정 요청하면 다듬음). 320개 도구가 각각 CLI 명령이자 MCP 도구라 어떤 에이전트든 앱과 같은 엔진을 몰 수 있고, 검사 자체엔 AI가 필요 없음
+  * Simple 모드(웹사이트·앱·게임 고르고 설명·Start, 진행 카드와 유사도 표시, "Just look inside"로 빌드 없이 질문만)와 Advanced 워크벤치(함수·문자열·pseudo-C·디스어셈블리·hex·콜 그래프·증거·미지 항목·잡·로그·에이전트 콘솔). 기본은 Clean room—원본의 코드·파일·페이지 소스는 읽지 않고 방문자가 보는 것(스크린샷·보이는 텍스트·측정한 레이아웃·색·폰트·여백·열어 본 메뉴, 허용 시 앱 창 그림)만으로 작업하고 안을 들여다보는 도구는 거부; Deep 모드는 내장 엔진(설치 시 Ghidra)으로 코드·파일·JS까지 읽음. Clean room은 OS 샌드박스가 아니라 제공·거부 규칙이라는 점을 명시. 빌드엔 로컬 코딩 에이전트가 필요—Claude Code 우선 지원(내 `claude`를 그대로 실행, 계정은 보지 않음), Codex 어댑터(미검증), Copilot CLI(ACP), Grok Build
 * [crewAI - Platform for Multi AI Agents Systems](https://www.crewai.com/)
   * [Crew AI로 AI 에이전트 팀을 몇 분 안에 구축하기!](https://www.toolify.ai/ko/ai-news-kr/crew-ai-ai-1317636)
   * [크루 AI: AutoGEN 보다 더 나은 인공지능](https://www.toolify.ai/ko/ai-news-kr/ai-autogen-2396938)
@@ -4358,6 +4365,8 @@ Artificial Intelligence
   * 업계 내 형성된 압박과 왜곡된 현실 인식
   * 전문가 진단: 생산성의 본질과 AI의 올바른 자리
   * 개발자가 취해야 할 자세: 데이터에 기반한 냉정한 평가
+* [What the Top Companies Do Differently With AI Coding — Martin Harrysson & Prakhar Dixit, McKinsey | AI Engineer - YouTube](https://www.youtube.com/watch?v=21tuT-e4NVo)
+  * 대기업들의 소프트웨어 개발 AI 에이전트 도입을 관찰한 McKinsey의 보고—대부분은 여전히 완만한 개선에 머물지만 상위 20~25%는 end-to-end 2배 개선을 내고 있으며, 환멸의 골짜기를 빠져나오는 그 기업들이 다르게 하는 네 가지: 2주 스프린트 대신 에이전트 주도의 짧은 사이클(운영 모델), 역할을 합친 더 작은 팟(인재), 큐레이션된 스킬과 공유 컨텍스트·신뢰(기술), 파일럿을 넘어선 규모의 변화 관리. 코드 생성이 빨라질수록 품질이 떨어질 수 있는 이유, 병목이 요구사항과 릴리스로 이동하는 현상, 그리고 영향 측정이 여전히 가장 어려운 부분인 이유
 * [2601.20245v2 How AI Impacts Skill Formation](https://arxiv.org/abs/2601.20245)
   * [AI 코딩이 오히려 개발자의 생산성을 떨어뜨린다? - Anthropic 논문](https://bcho.tistory.com/1500)
 * [바이브 코딩이 없앤 유지보수 | AIstar](https://haseong.github.io/blog/2025/08/30/vibe-coding-no-maintenance.html)
@@ -4649,6 +4658,8 @@ Artificial Intelligence
   * [아마존은 해고, 월마트는 고용! AI 시대, 일자리 전략 승자는?](https://livewiki.com/ko/content/amazon-ai-firings-walmart-hires)
 * ["AI가 조직의 중심, 사람은 가장자리에서 일한다"는 잭 도시 - YouTube](https://www.youtube.com/watch?v=BeeSuExA9wM)
   * 티타임즈TV. 트위터 공동창업자 잭 도시가 블록(Block)에서 시작한 AI 중심 조직 실험—전 직원 40% 감원·중간관리자 폐지, 인간 관리자가 하던 정보 전달·조율을 AI 에이전트에 넘기고 인간은 실무만 담당하는 구상
+* ["AI가 준 선물은 생산성이 아니라 진짜 비즈니스를 시작할 수 있는 것" (송인혁 유니크굿컴퍼니 대표) | 티타임즈TV - YouTube](https://www.youtube.com/watch?v=6Omv_KD9l98)
+  * 1천 명 규모 유통회사를 이끌다 번아웃으로 그만둔 CEO가 컨테이너 수출의 복잡한 절차를 AI로 하나씩 풀어 곧 월 매출 11억 원을 올리고, 하루 200명 환자가 오는 종합병원 원장이 수술 뒤 골방에서 고객센터 통화 기록으로 노쇼 예측 알고리즘을 만들어 노쇼율을 약 80% 줄인 사례—두 명이 월 매출 12억을 만드는 '나노벤처'. 그러나 AI를 잘 쓰는 것이 목표가 되어선 안 되고 AX의 최종 목표는 비즈니스의 본질을 향해야 한다는 주장. 삼성전자에서 조직·협업에 관심을 갖게 된 계기, 연결된 조직이 만드는 협업의 힘, AI 시대 조직이 무엇부터 바꿔야 하는지, 대기업의 AI 전환을 조직 전체로 확산하는 방법
 * [AI 생활혁명 "AI 직원이 늘자 회사 실적표가 달라졌다"…마이크로소프트가 바꾸는 기업 보고 방식 | AI라이프경제](https://www.aifnlife.co.kr/news/articleView.html?idxno=27786)
   * 마이크로소프트가 기존 3개 사업 부문(생산성·비즈니스 프로세스, 지능형 클라우드, 개인 컴퓨팅)을 '에이전트·인프라'와 '디바이스·소비자' 2개 축으로 재편(WSJ 보도)—M365·GitHub·Azure를 AI 에이전트가 연결하는 하나의 생태계로 묶고, 실적 보고도 제품 판매량보다 AI가 만든 성과·운영 효율 중심으로 전환
 * [AI is polytheistic, not monotheistic - balajis.com](https://balajis.com/p/ai-is-polytheistic-not-monotheistic)
@@ -5753,6 +5764,10 @@ Artificial Intelligence
   * 관통하는 원칙은 "커밋된 아티팩트": 각 단계가 intent.md·spec.md·plan.md·diff+테스트·리뷰 findings·인시던트 기록을 버전 관리에 커밋하고 다음 단계가 그걸 읽음—커밋 체인이 곧 감사 추적. 에이전트 다층 리뷰+훅을 승인 게이트로, 인간 리뷰는 규제·핵심 코드에 집중
 * [The new AI-driven SDLC | CircleCI Blog](https://circleci.com/blog/ai-sdlc/)
   * Jacob Schmitt. 계획→설계→개발→테스트→배포→운영의 SDLC는 Agile·CI/CD·DevOps로 자동화와 반복이 더해졌어도 여전히 구조화된 핸드오프와 사람의 주의에 의존했고, 회의·피드백 주기·가용성이 속도를 정했음. LLM 도구가 산출물 생성·검증·선제적 개선으로 전 수명주기에 직접 참여하면서 단계가 순차가 아니라 동시에 펼쳐지고 피드백이 여러 방향으로 흐르는 구조로 재편—AI 시대 SDLC의 모습, 새 제약과 기회, 팀이 새 속도에 맞춰 관행을 진화시키는 방법
+* [17 agents, one SDLC: How Levi Strauss reimagined development on GitHub | Jenny Patchen, GitHub Universe 2026 - YouTube](https://www.youtube.com/watch?v=-GpxKKgoWWg)
+  * 공장에 전기가 처음 들어왔을 때 증기 모터를 전기 모터로 바꾸고 끝내 생산성이 수십 년간 제자리였다는 경제학자 Paul David의 이야기로 시작—에이전트도 "낡은 공장에 새 모터"인 지금, 공정 자체를 다시 설계해야 한다는 틀. Levi Strauss의 Back Pocket 앱 SDLC는 6개 역할에 걸친 핸드오프 12번으로 수 개월이 걸렸고 긴 장대는 사용자 스토리 작성과 QA·회귀 테스트. 제품·엔지니어링·개발자 속도·QE·AI 프린시펄이 사흘간 노트북을 덮고 현재 상태 지도→미래 비전→필요한 조력자를 종이에 그린 뒤 Plan·Build·Verify·Release로 재배선
+  * GitHub Copilot 커스텀 에이전트 플랫폼 위에 전문 에이전트 17개—각 에이전트는 트리거·입력·행동·출력·핸드오프로 정의(요구사항 에이전트: 기능 요청이 오면 티켓·스펙 템플릿을 받아 테스트 가능한 요구사항을 쓰고 모호하면 되묻고, 사람이 스펙 PR을 머지). 흐름: 스펙 승인→Copilot 클라우드 에이전트가 빌드 PR→선택적 전문가들→항상 같은 순서로 도는 품질 게이트(테스트→접근성→성능→코드 리뷰→보안, 보안이 마지막인 이유는 다른 에이전트의 모든 변경을 보기 위해)→관측성 에이전트. PR마다 독립 에이전트 5~11개가 리뷰하고 문제를 고쳐 브랜치에 커밋하되 사람 승인 게이트 유지, Jira·Confluence·New Relic은 MCP로 연결, 개발자는 GitHub·Copilot CLI·VS Code 등 기존 도구에서 작업
+  * 표준 강제: TypeScript~Swift 등 주요 언어별 스타터 킷 10개(agents.md·Copilot instructions 내장으로 에이전트가 도착 즉시 레포를 이해, CI/CD·문서·런북 모범 사례), "좋은 브레이크가 있어야 빨리 갈 수 있다"며 모든 PR에 의존성 리뷰·테스트·커버리지·New Relic 프리플라이트, CI 실패를 에이전트가 조사해 수정안을 PR로 밀어 주는 Copilot agentic auto fix, 기존 레포용 도구도 제공. 확산: 사내 마켓플레이스로 에이전트 재사용, 샌드박스 대신 실제 문제로 교육, 개발자 속도 오피스 아워, AI 전용 해커톤. 결과: MVP를 레거시 대비 훨씬 빨리 출시하면서 테스트 통과율 54%—속도와 품질이 함께 오른 드문 케이스, AI 보조 PR은 26%에서 시작. 처리량 증가가 곧 성과는 아니라는 점도 명시
 * [Prompt to Prod: Engineering an Autonomous SDLC at Scale | InfoQ](https://www.infoq.com/presentations/autonomous-ai-software-development-roblox)
   * [Roblox Engineering Director: "Prompt to Prod" Is Broken Without Trust - YouTube](https://www.youtube.com/watch?v=x_dnHivzYtk)
   * QCon AI. Roblox의 Andrew Swerdlow(Sr. Director, ex-Google·Instagram)가 AI 자동완성에서 완전 자율 "Prompt to Prod" 파이프라인으로 안전하게 전환한 과정—"typing vs. trust" 역설을 자동 코드 리뷰 에이전트, 샌드박스 런타임, 코드 리뷰 exemplar로 조직 지식 추출, 생산성 지표 재정의(피처 속도·장시간 AI 턴)로 해결. DAU 수천만 규모 플랫폼의 신뢰 기반 자동 배포
