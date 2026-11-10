@@ -473,6 +473,8 @@ Programmer
 * [AI 코딩 시대, 더이상 성장하지 않는 개발자들 | evan-moon](https://evan-moon.github.io/2026/04/18/developers-who-stopped-growing-in-ai-era/)
   * [AI 코딩 시대, 성장이 멈추는 개발자의 뇌에서 일어나는 일 | GeekNews](https://news.hada.io/topic?id=28653)
   * AI를 잘 쓰는 핵심은 출력물 품질을 판단·교정하는 능력인데, AI에 의존할수록 이 능력이 약화. Bjork의 '바람직한 어려움' 이론, 인출 연습 효과
+* [Why You Can't Explain What You Code | Thu Vu - YouTube](https://www.youtube.com/watch?v=4ok_u6EJ_hQ)
+  * AI가 학습에 미치는 영향 연구에서 출발해 "바이브 코딩"의 함정을 짚는 짧은 에세이 영상—돌아가는 코드를 얻었지만 왜 그렇게 동작하는지 설명할 수 없는 상태, LLM을 생각을 대신해 주면서 사고력을 잠식하는 "인지 바이러스"로 보는 관점, 통제권을 되찾는 방법, 그리고 "거의 맞는" 해답이 문제 해결 능력에 남기는 영향. 데이터·AI 교육 크리에이터의 강의 홍보 포함
 * [Agentic Coding is a Trap | Lars Faye](https://larsfaye.com/articles/agentic-coding-is-a-trap)
   * AI 에이전트 감독에 필요한 코딩 능력 자체가 과잉 사용으로 위축되는 역설. AI를 계획·임시 도움 보조 역할로 격하하고 직접 코딩 유지 권장. 토큰 기반 서비스 벤더 락인·비용 리스크 경고
   * [에이전트 코딩은 함정이다 (Agentic Coding is a Trap) | Flowkater Nugget](https://flowkater.io/nuggets/2026-05-11-agentic-coding-trap/)
