@@ -1150,6 +1150,9 @@ Web
 * :user-invalid [CSS 가상 선택자로 폼 밸리데이션 표시하기 — :invalid 대신 :user-invalid – 형우의 웹개발](https://mytory.net/archives/16110)
 * [ฅ^•ﻌ•^ฅ ♥ AdorableCSS](https://developer-1px.github.io/adorable-css/)
 * [Buttons Generator - Marko Denic - Web Developer](https://markodenic.com/tools/buttons-generator/)
+* [astryx: An open source design system that's fully customizable and agent ready | meta](https://github.com/meta/astryx)
+  * [Astryx — Docs](http://astryx.atmeta.com)
+  * Meta 안에서 8년간 자라 13,000개+ 앱을 떠받치는 사내 최대 디자인 시스템을 오픈소스로(Beta, React 19+·StyleX, TypeScript, MIT, 24k stars). 접근성 갖춘 컴포넌트 150+, 브랜드 수준 테마·다크 모드·바로 쓰는 템플릿·CLI를 한 시스템으로—사전 빌드된 CSS를 가져오고 타입이 있는 React 컴포넌트를 쓰면 되어 빌드 플러그인·스타일링 라이브러리 강제 없음. 차별점: 상위 API 뒤에 잠기지 않은 열린 내부(빌딩 블록을 직접 export, 필요하면 swizzle로 소스 eject), StyleX로 작성했지만 소비자에겐 보이지 않아 Tailwind·CSS Modules·일반 CSS로 `className` 오버라이드, 테마는 CSS 커스텀 프로퍼티 오버라이드 집합이라 포크·래핑 없이 커스터마이즈, 사람과 AI 에이전트가 같은 레퍼런스로 같은 방식으로 만들도록 API·문서·CLI를 함께 설계
 * [Cloudscape Design System](https://cloudscape.design/)
   * AWS가 2016년부터 개발한 오픈소스 클라우드 UX 디자인 시스템. AWS 웹앱 UX 향상·개발 가속용. Foundation(색상·여백·아이콘) + React 컴포넌트 라이브러리(테스트·접근성·반응형) + 패턴 가이드라인 + 데모. 94 컴포넌트, 62 패턴, 33 데모. 다크/라이트 모드, 테마, 접근성, 반응형
   * CSS 그리드에서 그리드 컨테이너의 직접 자식에만 영향을 주는데
