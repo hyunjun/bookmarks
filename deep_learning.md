@@ -2811,6 +2811,8 @@ CVPR2016)
 * [MAME RL Algorithm Trainig Toolkit - A Python toolkit used to train reinforcement learning algorithms against arcade games](https://github.com/M-J-Murray/MAMEToolkit)
 * [Mava: A new Open-Source Framework for Multi-Agent Reinforcement Learning | InstaDeep - Decision-Making AI For The Enterprise](https://www.instadeep.com/2021/07/mava-a-new-framework-for-distributed-multi-agent-reinforcement-learning/)
 * MuJoCo [DeepMind MuJoCo Multi-Agent Soccer Environment](https://github.com/deepmind/dm_control/tree/master/dm_control/locomotion/soccer)
+  * [mujoco: Multi-Joint dynamics with Contact. A general purpose physics simulator | google-deepmind](https://github.com/google-deepmind/mujoco)
+    * 로봇공학·생체역학·그래픽스·애니메이션·머신러닝처럼 환경과 상호작용하는 관절 구조를 빠르고 정확하게 시뮬레이션해야 하는 분야를 위한 범용 물리 엔진(C++, Apache-2.0, 17.6k stars, Google DeepMind 관리). C API 기반으로 내장 XML 컴파일러가 미리 할당한 저수준 데이터 구조 위에서 성능을 극대화한 런타임, 네이티브 데스크톱·웹 브라우저 인터랙티브 시각화, 물리량 계산 유틸리티, Python 바인딩과 Unity 플러그인
 * [Psychlab](https://github.com/deepmind/lab/tree/master/game_scripts/levels/contributed/psychlab)
   * [Psychlab: A Psychology Laboratory for Deep Reinforcement Learning Agents](https://arxiv.org/abs/1801.08116)
   * [Open-sourcing Psychlab](https://deepmind.com/blog/open-sourcing-psychlab/)
