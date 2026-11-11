@@ -110,6 +110,9 @@ Hardware
   * libusb를 사용하면 소켓 프로그래밍 수준의 난이도로 사용자 공간 USB 드라이버 구현 가능. Fastboot 프로토콜 실습 예시 포함
 * [The era of open voice assistants has arrived - Home Assistant](https://www.home-assistant.io/blog/2024/12/19/voice-preview-edition-the-era-of-open-voice/)
   * [오픈소스 음성 비서의 시작: Home Assistant Voice (Preview Edit | GeekNews](https://news.hada.io/topic?id=18368)
+* [ha-mcp: HA-MCP — Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants | homeassistant-ai](https://github.com/homeassistant-ai/ha-mcp)
+  * [HA-MCP Docs](https://homeassistant-ai.github.io/ha-mcp/)
+  * Home Assistant를 AI 어시스턴트가 설정·자동화하게 하는 MCP 서버(Python, MIT, 7k stars). 권장 설치는 HA 안에서 전체 서버를 in-process로 돌리는 HA-MCP 통합—HA 2026.8~2026.10은 HACS, 2026.11+는 내장 Settings→Marketplace에서 설치(기본 카탈로그 수록)→재시작→서버가 대신 행동할 관리자 계정 결정(내 계정의 장기 액세스 토큰 또는 HA-MCP 전용 계정)→Devices & Services에서 HA-MCP Server 추가→Configure 화면의 connect URL을 AI 클라이언트에 붙이면 끝. v7.3.0에서 `ha_config_set_yaml`은 베타로 이동
 * [The World's Most Important Machine - YouTube](https://www.youtube.com/watch?v=MiUHjLxm3V0)
   * [김성완 - ASML의 EUV Lithography는 아마 인류가 만든 가장 정밀하고 복잡한 기계 | Facebook](https://www.facebook.com/seongwan.kim.3/posts/pfbid09LtshTixmJd6fFGdE2xrmptntLUFwSL2oUVp7EiWgE9aK8i42sTVTAUYFkLieK7xl)
   * ASML의 EUV 리소그래피 장비 제작 과정. 반도체 제조의 가장 핵심적인 장비의 40년 역사
