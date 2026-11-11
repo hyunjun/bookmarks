@@ -3087,6 +3087,8 @@ Artificial Intelligence
     * 팩토리 스택: 코드로 정의한 팩토리 → 데이터·컨텍스트(런·트랜스크립트·스크린샷·메모리) → 샌드박스 컴퓨트 → 플러거블 인퍼런스 → 개선 프리미티브 → 오케스트레이션(사람 게이트+지능적 라우팅, 멀티 하네스) → MCP·Slack·Jira·GitHub·API 등 접근점. Warp는 6주 만에 PR당 비용 $55→$15, PR 처리량 +40%, 리버트율 감소
   * Warp 창업자(전 Google Docs 엔지니어링 리드)는 6개월째 코드 한 줄 안 쓰고도 계속 배포—자동완성→대화형 에이전트→자동화로 넘어가며 소프트웨어 엔지니어링이 "팩토리 엔지니어링"이 되고, CI/CD처럼 모든 프로젝트가 팩토리를 갖게 된다는 주장. Warp는 5년 비공개 끝에 오픈소스화(활성 개발자 80만+)하고 이슈 흐름·에이전트 작업을 보여주는 공개 팩토리 build.warp.dev 운영—만들기·복제가 싸지면 좋은 제품만으로 부족해 공개 개발로 생태계·브랜드를 쌓고, 시끄러운 이슈·엉성한 PR 같은 오픈소스 유지 부담은 자동화가 흡수
   * 팩토리 공정: 입력(팀·사용자 아이디어, Slack·트래커·모니터링)→에이전트 triage(쉽고 명확하면 바로 구현, 어려우면 제품 스펙·기술 스펙 작성 후 사람 검토)→클라우드 코딩 에이전트 구현(diff)→에이전트 리뷰 후 위험도에 따라 사람 리뷰→computer use·CI/CD 검증과 사람 제품 리뷰→배포·크래시/사용량 모니터링이 다시 입력으로. 사람이 고친 리뷰 코멘트를 관찰자가 리뷰 스킬에 반영하는 스킬 개선 루프, 사람 시간·토큰 대비 산출 측정, 스타터 레포, 신입 조언·취향의 중요성 Q&A
+  * [Your AI Agent Is Hiding Its Mistakes From You — Ben Holmes, Warp | AI Engineer - YouTube](https://www.youtube.com/watch?v=pz74r-4dGfQ)
+    * 소프트웨어 팩토리에서 "팩토리 자체를 엔지니어링하는" 자기 개선 루프—모든 에이전트 대화를 툴 호출·출력까지 한곳에 모으고, 중복 테스트·장황함·효율성 같은 LLM-as-judge 루브릭으로 점수를 매긴 뒤(루브릭 작성법과 실제 대화 채점 시연), 매일 도는 에이전트가 실패 패턴을 찾아 스킬·설정을 고치는 PR을 열게 함. 에이전트가 망가진 지시를 말없이 우회하며 작업한다는 관찰, 자기 Claude Code·Codex 히스토리에 돌려 볼 수 있는 Skill Doctor 스킬 데모, 점수의 시간 추이 추적, Warp 내부의 자기 개선 PR 사례
 * [Fixing the PR Bottleneck — Matt Pocock, AIHero | AI Engineer - YouTube](https://www.youtube.com/watch?v=LlgiOCmFG_w)
   * [Fixing the PR Bottleneck — Matt Pocock, AIHero | AI Engineer](https://ai.engineer/talks/LlgiOCmFG_w-youtube-40c0a903db79223717ca)
   * AI Engineer Paris 2026. 에이전트로 PR 열기는 쉬워졌지만 리뷰할 가치가 있는 PR은 그렇지 않음—자동 트리거로 가속만 하는 팩토리는 "slop cannon"이 되고 나쁜 코드는 다음 에이전트의 작업 환경을 망치므로 브레이크 3층(결정적 검사·자동 리뷰·사람 리뷰)이 필요. 녹색 CI도 거짓말할 수 있음—상수 재확인, 렌더링 대신 소스 문자열 순서 비교, 실패 경로 없는 mock 같은 테스트. Ousterhout의 deep module(작은 인터페이스·큰 구현)로 에이전트가 인터페이스 통해 의미 있는 테스트를 쓰게 하고, 모듈 심화·코드베이스 설계 스킬로 공통 어휘(locality·leverage·seam) 제공
@@ -9357,6 +9359,8 @@ Artificial Intelligence
   * 핵심 메시지는 새 모델 추가 자체보다 "Kiro의 스펙 주도 방식+GPT-5.6=저비용·고품질"이라는 price-performance. Swami Sivasubramanian(AWS Agentic AI VP)·Colleen Kapase(OpenAI 전략 파트너십 VP) 인용으로 양사 협력 지속 강조
 * [Spec-Driven Dev Is Back. But Not How You Think • Daniel Terhorst-North & Gojko Adzic • GOTO 2026 - YouTube](https://youtube.com/watch?v=6mLYZF97oaU)
   * BDD 창시자 Daniel Terhorst-North와 Gojko Adzic이 대담. 명세 기반 개발의 재조명, 새로운 관점에서 살펴보는 현대적 SDD
+* [우리 팀만의 스펙 주도 개발 정착기 | NAVER D2 - YouTube](https://www.youtube.com/watch?v=6R1V_PFJdUw)
+  * NAVER Engineering Day 10th 세션. 스펙 주도 개발(SDD)을 팀 개발 정책으로 채택한 배경과 시행착오—SDD를 도입하게 된 이유, 팀이 채택한 SDD의 구조, 팀 SDD 정책을 세우며 마주친 고민 일곱 갈래, 다음 고민과 남은 숙제. SDD 도입을 고민하는 개발자 대상
 * [Learnings from a No-Code Library: Keeping the Spec Driven Development Triangle in Sync | dbreunig](https://www.dbreunig.com/2026/03/04/the-spec-driven-development-triangle.html)
 * [Stop Writing Prompts. Start Writing Specs - YouTube](https://www.youtube.com/watch?v=Orr7qadkZD8)
   * Microsoft Developer, Udo Diva(Microsoft MVP·클라우드 아키텍트). 프롬프트 우선 AI 코딩은 시작에는 유용했지만 큰 프로젝트·엔터프라이즈에서는 취약한 기반—프롬프트는 사적이고 일시적이며 리뷰가 어렵고 빌드는 되지만 요점을 놓친 결과물을 만든다는 문제 제기
