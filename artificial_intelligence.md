@@ -7062,6 +7062,8 @@ Artificial Intelligence
   * [Claude Cookbook](https://platform.claude.com/cookbook/)
     * [Claude Cookbook: 에이전트부터 RAG·멀티모달·운영까지 | GeekNews](https://news.hada.io/topic?id=31793)
     * Claude 애플리케이션 구현 실전 가이드·예제 모음. 에이전트 구축, RAG, 도구 사용, 멀티모달, 평가부터 Agent SDK·Managed Agents의 멀티에이전트 조율·세션 관리·배포·장애 대응 운영 패턴까지
+  * [claude-quickstarts: A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API | anthropics](https://github.com/anthropics/claude-quickstarts)
+    * 구 anthropic-quickstarts(Python, MIT, 20.7k stars). 그대로 확장해 쓰는 출발점 프로젝트들—지식 베이스에 접근하는 고객 지원 에이전트, 인터랙티브 데이터 시각화로 채팅하며 분석하는 금융 데이터 분석가, 최신 `computer_toolset`을 지원하는 컨테이너형 Computer Use 데모, 컨테이너 대신 macOS 데스크톱에서 직접 도는(VM 권장) 교육용 컴퓨터 사용 에이전트 레퍼런스 Computer Use Best Practices, Browser Use 데모 등
   * [Scaling Managed Agents: Decoupling the brain from the hands | Anthropic](https://www.anthropic.com/engineering/managed-agents)
     * [What is Claude Managed Agents? - YouTube](https://www.youtube.com/watch?v=NLWiIj47IdI)
     * [Claude Managed Agents: 프로덕션 에이전트 개발과 배포를 10배 빠르게 만드는 방법](https://digitalbourgeois.tistory.com/2974)
