@@ -282,6 +282,9 @@ Bitcoin
     * Hashed 대표 김서준 님이 Opus 4.5 출시 직후 첫 바이브 코딩으로 만든 ETHval의 v1.0 업데이트 소개. VanEck은 수익을 내는 자산으로, CoinShares는 화폐·담보 가치까지 더해 보듯 ETH를 무엇으로 보느냐에 따라 출발점이 달라진다는 관점에서 "계산에서 검증으로"—모형 12개가 독립적 증거 12개는 아니라 평균·중앙값·절사평균과 모형 하나 제외 시 변화를 비교, 목표가보다 그 가격에 필요한 조건을 묻는 시나리오 시뮬레이터, 기관 전망에 원문·발표일 연결
     * 과거 재구성과 당시 실제 평가를 구분한 30·90·180일 수익률, 뉴스와 가격 흐름을 한 차트에 둔 News Impact(인과는 아님), BTC 대비 수익률 비교, ETH·BTC·SOL 수수료·수익 기반 상대평가, 모형별 공식·가정·입력 데이터 내려받기와 AI 해설의 생성 시점·모델 표시, 공유 카드·임베드·월별 보고서
   * Hashed의 무료 이더리움 내재가치 대시보드. 4개 범주 12개 평가모형—전통 금융(Staking DCF·P/S Ratio·Fee Yield·Validator Economics), 온체인 자산 가치(TVL Multiple·App Capital), 네트워크 효과(Metcalfe's Law·ETH Monetary·Ecosystem Settlement·L2 Ecosystem), 공급 희소성(Staking Scarcity·Liquidity Premium)—의 단순 평균으로 종합 적정가 산출, 모형을 켜고 끄며 계산 가능. X 로그인 후 모형 2개를 평가하면 3년 이력과 What-If 시뮬레이터 개방
+* [kohaku-cli: 공개 이더리움 계정과 Tornado Cash·Railgun·Privacy Pools의 비공개 잔액 사이에서 자금을 옮기는 CLI 지갑 | kassandraoftroy](https://github.com/kassandraoftroy/kohaku-cli)
+  * [Kohaku CLI Wiki](https://kohaku.gwei.domains)
+  * 시드에서 파생한 공개 계정과 프라이버시 프로토콜(Tornado Cash, Railgun, Privacy Pools V1)의 비공개 잔액 사이에서 shield·unshield로 자금을 옮기는 명령줄 지갑—프로토콜 자격 증명도 같은 시드 문구에서 나옴. ENS·GNS·WNS 이름과 EIP-5564 스텔스 주소도 다룸. RPC URL만 지정해 쓰고 비공개 상태는 eth_getLogs를 구간별로 호출해 동기화. Vitalik Buterin이 "Digital minimalism"에서 웹 UI 대신 쓰는 도구로 소개. 감사를 받지 않았고 개발 중이라 자금을 잃을 위험이 있으니 무엇을 하는지 정확히 알지 못하면 메인넷에서 쓰지 말라는 경고가 맨 위에 있음
 * [Polygon: A Multi-Sided Approach to ZK Scaling | Messari](https://messari.io/article/polygon-a-multi-sided-approach-to-zk-scaling?referrer=category:all-research)
 * [Polygon 시리즈 #1: Polygon PoS — Mass Adoption을 향한 여정의 시작 | by 100y | a41-allforone | Medium](https://medium.com/a41-ventures/polygon-%EC%8B%9C%EB%A6%AC%EC%A6%88-1-polygon-pos-mass-adoption%EC%9D%84-%ED%96%A5%ED%95%9C-%EC%97%AC%EC%A0%95%EC%9D%98-%EC%8B%9C%EC%9E%91-b907d20fd84f)
 * [SMARTIAN: 데이터 흐름 분석을 활용한 스마트 컨트랙트 퍼징](https://engineering.linecorp.com/ko/blog/smartian-smart-contract-fuzzing-with-data-flow-analyses)
