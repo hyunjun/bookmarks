@@ -3163,6 +3163,9 @@ Programming
   * Orion 비행 컴퓨터: 8개 CPU 병렬 다중 중복 구조, 방사선/하드웨어 결함에도 무중단. 시간 트리거형 이더넷, 백업 소프트웨어
 * [Optimization in Automated Driving: from Complexity to Real-Time Engineering - InfoQ](https://www.infoq.com/articles/optimization-in-automated-driving/)
   * 자율주행 기술 아키텍처. 센서 퓨전, MPC 솔버 등 최적화 기법으로 원시 센서 데이터를 안전한 제어 명령으로 변환
+* [An order is placed. Payment succeeds. Inventory fails. Now what? — 9 essential Event-Driven Architecture patterns | Shalini Goyal](https://www.linkedin.com/posts/goyalshalini_an-order-is-placed-payment-succeeds-inventory-share-7522207474506977280-RzfJ/)
+  * 주문은 들어가고 결제는 성공했는데 재고 처리가 실패하는 상황을 예로, 신뢰할 수 있는 이벤트 기반 시스템은 Kafka·RabbitMQ를 붙이는 것 이상이 필요하다며 알아야 할 패턴 9가지를 정리. ①Publish/Subscribe—한 이벤트가 느슨하게 결합된 여러 구독자에게 전달 ②Message Queue—경쟁하는 워커들에 작업 분배 ③Partitions & Consumer Groups—파티션 안의 순서를 지키며 처리 확장 ④Delivery Guarantees—at-most-once·at-least-once·exactly-once ⑤Dead Letter Queue—반복 실패 메시지를 따로 빼 조사·복구 ⑥Transactional Outbox—업무 데이터와 내보낼 이벤트를 한 DB 트랜잭션에 저장 ⑦Event Sourcing—추가 전용 이벤트 이력을 재생해 상태 복원 ⑧CQRS—읽기·쓰기 모델 분리(동기화 지연 감안) ⑨Saga—로컬 트랜잭션과 보상 동작으로 서비스 간 트랜잭션 조율
+  * 프로덕션에서 중요한 전제: 이벤트는 두 번 이상 올 수 있고, 컨슈머는 예고 없이 죽고, 큐에는 밀린 일이 쌓이고, 서비스마다 처리 속도가 다르고, 분산 트랜잭션은 부분만 성공할 수 있음—그래서 멱등성·재시도·모니터링·복구 장치가 필요. 댓글의 보충: 멱등성 없는 재시도는 장애를 키우고, DLQ는 보관만이 아니라 재처리 전략과 감시가 있어야 하며, 컨슈머 지연은 금방 장애가 되고, Event Sourcing의 재생 로직과 스키마 진화·CQRS의 최종 일관성은 운영 부담
 * [Ably: the platform to power synchronized digital experiences in realtime | Ably Realtime](https://ably.com/)
   * [실시간 데이터 시대 핵심 기술⋯이벤트 기반 아키텍처의 이해 - ITWorld Korea](https://www.itworld.co.kr/news/253048)
 * [CloudEvents | A specification for describing event data in a common way](https://cloudevents.io/)
