@@ -2143,6 +2143,11 @@ Artificial Intelligence
     * [Build Your Own Open-Source Dots with Pi and Telegram - Hugging Face - YouTube](https://www.youtube.com/watch?v=HU03WDFB_tQ)
     * Pi 코딩 에이전트 세션을 오래 띄워 두고 Telegram으로 대화하게 해 주는 게이트웨이. 장기 실행 프로세스가 Telegram 대화를 Pi JSONL 세션 파일에 SQLite로 매핑하고, 에이전트 기록의 원본은 Pi가 유지. `uv tool install`로 설치
     * 영상: Hugging Face의 Alejandro AO가 OpenAI dots 같은 상시 실행 AI 비서를 오픈소스로 만드는 튜토리얼. VPS나 DGX Spark 같은 상시 머신에 에이전트 워크스페이스·스킬·Google Workspace CLI 접근을 구성하고, 개인 비서와 Kimi K3 기반 리서치 에이전트를 Telegram으로 시연. 다른 메신저 연동·자동화 확장은 데모 범위 밖
+  * [pi-gpui: A native GUI for the pi coding agent, built with Rust and GPUI. For macOS (Apple silicon) and Linux | bytesbay](https://github.com/bytesbay/pi-gpui)
+    * [Pi GPUI](https://pi-gpui.dev)
+    * [Pi GPUI: Rust와 GPUI로 구현한 경량 네이티브 AI 코딩 에이전트 환경 | digitalbourgeois](https://digitalbourgeois.tistory.com/4431)
+    * Zed의 UI 프레임워크 GPUI로 만든 pi 네이티브 데스크톱 앱(Electron·웹뷰 없음). 새 에이전트가 아니라 이미 설치된 pi를 RPC로 실행하므로 터미널에서 쓰던 모델·확장·스킬·세션을 그대로 씀. 세션마다 별도 pi 프로세스라 전환해도 다른 작업이 멈추지 않고, 개발자 측정으로 Electron 기반 pi 클라이언트보다 창 실행이 빠르고 유휴 메모리가 훨씬 적음
+    * Zed식 좌우 도킹 패널(프로젝트·세션 / git 상태 색 파일 트리·변경 사항), 키보드로 탐색하는 세션 트리와 분기 요약, 아무 메시지에서 fork, 확장의 select·confirm·input 질문을 대화 안에서 바로 응답, 세션별 모델·thinking 수준, 컨텍스트 사용량·압축 시점·프롬프트 캐시 적중률·구독 한도를 보여 주는 컨텍스트 링. 어떤 언어로든 버튼·단축키·도구·도구 호출 안 라이브 뷰를 그리는 플러그인(DOOM 예제), pi install npm:pi-gpui 후 /gpui로 터미널 세션을 앱으로 옮기기
   * [pi-herdsman: Asynchronous Pi subagents and agent fleet orchestration for parallel coding agents with nested delegation, background work, and supervision in herdr](https://github.com/boadij/pi-herdsman)
     * [pi-herdsman · Packages · Pi](https://pi.dev/packages/pi-herdsman)
     * Pi(코딩 에이전트 대화 담당)와 herdr(프로세스·pane·워크스페이스·worktree 배치 담당) 사이의 오케스트레이션 계층—독립 Pi 세션들을 위임·소유·감독·프로젝트 오케스트레이션으로 묶어 백그라운드 에이전트 하나에서 브랜치 기반 병렬 프로젝트 작업까지. 일반 Pi 세션=Lead가 Agent들을 소유하고(중첩 위임 가능), 독립 프로젝트 작업은 Lead가 Manager 모드로 Lead들을 조정, 선택적 런타임 전역 감독자 Chief(감독: Chief→Manager→Lead, 소유: Lead→Agent). 소유 세션들의 Pi 네이티브 토큰·비용 집계, `/agents` 관리 화면, 자기 에이전트 정의·모델·스킬·확장 그대로 사용
@@ -2459,6 +2464,11 @@ Artificial Intelligence
   * OpenAI·Anthropic·Google 블로그·엔지니어링 글·SDK 문서·쿡북·논문에 흩어진 에이전트 지식(에이전트 루프·도구 호출·MCP·메모리·장기 워크플로·코딩 에이전트·하네스·평가·안전)을 195개 큐레이션 자료로 묶은 학습 로드맵. Phase 0(에이전트 루프)~6(평가·프로덕션)+7(에이전트 학습·검색 심화)을 단계별 Read First·Then Read·Build Exercise 체크리스트로 진행하고, 코딩 에이전트·보안·코드 리뷰·SRE 응용 트랙과 P0/P1/P2 우선순위 전체 읽기 표 제공. Andrew Ng의 AI Engineering Skills Map을 출발점으로 연결
 * [awesome-agentic-engineering: Curated resources for adopting agentic engineering — AI agents that plan, write, test, and develop software autonomously](https://github.com/jordimas/awesome-agentic-engineering)
   * 팀 도입 가이드(Claude Code/Codex 문서·베스트 프랙티스), 코딩 에이전트 도구(Aider/Cline/OpenHands/Plandex·Cursor/Claude Code), 멀티에이전트 프레임워크(LangChain/LangGraph/AutoGen/CrewAI), 브라우저 자동화, 표준·프로토콜(agents.md·MCP), 사례·논문 큐레이션. 이론보다 팀 적용 실용 자료 중심
+* [html-plan: Get a plan you can read in a minute and answer in place | anthropics/claude-plugins-community](https://github.com/anthropics/claude-plugins-community/tree/main/html-plan)
+  * [글자로 된 계획은 이제 그만! Claude Code 화면 미리보기 플러그인 | techyoo - YouTube](https://www.youtube.com/watch?v=YpI2FFqQKa4)
+    * 설치(claude plugin marketplace add anthropics/claude-plugins-community → install html-plan@claude-community)부터 공개 예제인 메일 예약 발송 계획서로 화면 미리보기 확인, 주장별 코멘트, 질문 답하기와 선택지 변경, Respond로 응답을 모아 Claude에 붙여 넣는 흐름, SKILL.md의 작동 원리까지 따라가는 한국어 시연. 바로 구현하지 말고 화면과 결정할 질문부터 한국어로 보여 달라고 요청하는 예시 포함
+  * Anthropic Thariq Shihipar의 Claude Code 플러그인. /html-plan <요청>으로 구현 계획을 글 목록이 아니라 인터랙티브 HTML 한 페이지로 만들고, 사용자의 응답이 오기 전에는 구현하지 않음. 계획은 "주장의 트리"—제목(무엇) 아래 Why에 사용자 원문 인용, 1단계 무엇을 하거나 볼 수 있나(UI 목업·상태 머신), 2단계 어떻게 동작하나(호출 스택·스키마·코드), 3단계 어디인가(file:line)—이고 주장마다 증거 하나
+  * 결정 질문은 그 질문이 바꾸는 주장 위에 2~5개만 두고 기본값을 체크. 접힌 트리가 곧 요약이라 1단계 주장만 읽어도 변경 전체가 보여야 함. 최상위는 파일·레이어가 아니라 동작 단위로 나누고, 마지막에 공유 레코드(aux="shared")와 바꾸지 않는 것(aux="scope")을 명시. 문장은 ASD-STE100 단순 기술 영어로 쓰고, node 기반 pack.mjs가 규칙·STE 위반을 검사해 오프라인용 단일 파일로 묶음. 독자는 선택지 고르기·스키마 편집·주장별 코멘트 후 Respond로 결정·diff·삭제 항목이 담긴 마크다운 답변 하나를 Claude에 돌려줌
 
 ## Context Engineering
 * [The new rules of context engineering for Claude 5 generation models | Claude](https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models)
