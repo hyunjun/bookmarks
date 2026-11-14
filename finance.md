@@ -445,6 +445,7 @@ Finance
   * Claude Code 스킬. 인도 주식시장 퀀트 트레이딩 봇 생성 마법사, NSE 지수 구성·유동성 수집, Fortress 시그널(승률 65% 문서화), 백테스트-라이브 패리티 검증. 16개 지식 도메인 1,780줄 운영 노하우, 30+ gotcha, Parquet 캐싱 28배·Polars 37배 가속. 교육용 가이드(투자 보장 아님)
 * [stock-market-signal-automation: Build your own data-driven market edge with swing-trade signal webhooks, dashboards, alerts, AI agents, and automation examples](https://github.com/cporter202/stock-market-signal-automation)
   * 스윙 트레이드 시그널 웹훅·대시보드·알림·AI 에이전트·자동화 예제 모음
+  * 주식 시그널 멤버십 KamdenAI의 공개 자동화 가이드. 개장 후 검토에서 순위가 매겨진 후보 최대 8개에 Confirmed(진입·손절·목표가 공개)/Watch only/No buy/Ungraded 판정을 내리고, 그 이벤트(research_watchlist·morning_scan·confirmed_buys·quick_exit_results)를 서명된 웹훅으로 보내면 구독자가 검증해 알림·시트·대시보드·저널·AI 요약으로 연결하는 수신 측 예제를 제공. 시그널 엔진과 선정 공식은 비공개이고 예제는 가상 종목, 주문은 대신 넣지 않으며 Confirmed 시그널도 손실이 날 수 있다고 명시
 * [TaxHacker: Self-Hosted AI Accounting](https://github.com/vas3k/TaxHacker)
   * [SungJae Shim - TaxHacker — 프리랜서를 위한 셀프호스팅 AI 회계 | Facebook](https://www.facebook.com/sungjae.shim/posts/pfbid0UFVW9tP5puJqRNRGjkXodzJRTdztbCQ3GbBBnvgfVChtaNmKFhxt2NYtPLnsagurl)
   * 프리랜서/소상공인용 셀프호스팅 AI 회계 앱. 영수증/PDF 업로드→날짜·금액·통화·벤더·카테고리·세금 정보 자동 추출. 170+ 통화·14개 암호화폐 환율 자동 변환. OpenAI/Gemini/Mistral/Ollama/LM Studio/vLLM 모두 지원. Next.js+Prisma+PostgreSQL, Docker 배포
