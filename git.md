@@ -246,6 +246,15 @@ Git
   * Codex로 병렬 작업이 폭증해 모노리포의 페치·푸시가 느려지고 병합 신뢰성이 90% 아래로 떨어지자, Git 프로토콜·클라이언트 호환을 유지한 채 새 서버 백엔드 Pando를 만든 과정. 복제본 간 3단계 커밋(3PC)과 블롭 스토리지 공유 WAL 방식을 시뮬레이션으로 비교하고, 두 방식 모두 리포지터리 전체 일관성을 위한 단일 조율 지점이 병목이 됨을 보임
   * Pando는 리포지터리 전체 일관성을 포기하고 참조(브랜치)별 인과적 일관성만 보장해 무관한 브랜치 푸시를 독립 처리하고, 푸시 팩파일을 풀지 않고 불변 블롭으로 저장해 이후 페치에 그대로 재사용(packfile-uri로 별도 다운로드, 지역별 캐시 Express). 푸시 시 트렁크 참조 하나만 광고해 팩 의존성을 추적 가능하게 하고, LSM 트리처럼 L0 팩을 백그라운드에서 병합해 뒤처진 클라이언트의 페치 비용을 로그 시간으로 유지
   * 엔지니어 한 명의 설계를 에이전트 팀이 Rust로 구현해 10주 만에 프로덕션 투입, GPT-6 Astra로 Lean·TLA+ 형식 검증. 기존 시스템 앞의 프록시로 시작해 무중단 이전했고 푸시 지연 중앙값 약 80% 감소. 병렬 팩 다운로드·명시적 have 등 클라이언트 개선은 공개 Git 빌드와 업스트림 패치로 공유
+* [AI 시대, git push 앞뒤에서 바뀌는 것들 | GeekNews](https://news.hada.io/article/git-push-in-the-agent-era)
+  * 여러 에이전트의 동시 작업으로 저장소 부하가 커지자 나온 시도들을 "Git을 쓴다"는 일의 세 층—클라이언트와 프로토콜, 서버와 저장소, 협업 흐름—으로 나눠 각 팀이 어디서 막혀 어느 층까지 바꿨는지 정리한 긱뉴스 아티클. 서버만 바꾸고 Git 명령은 유지한 쪽: OpenAI Pando(브랜치별 독립 푸시, 팩파일 재사용), GitHub(팩 데이터와 브랜치 참조 분리), Cursor Continuity(S3 변경 로그, 디스크는 캐시), Entire(지역 미러에서 clone/pull), GitLab(백엔드 재설계와 필요한 파일·이력만 요청하는 인터페이스). 클라이언트·프로토콜까지 교체한 쪽은 Anthropic Scion(온라인 전제, 커밋·리베이스·병합을 서버에서 처리, 일반 Git으로 내보내는 방법은 확인되지 않음)
+  * 푸시가 빨라져도 main에 합치는 일은 남는다는 지적—Pando 설계를 독립 구현한 오픈소스 서버 Aspen의 실험에서 브랜치별 푸시 처리량과 main에 순차 반영하는 처리량은 자릿수가 다르고, 충돌 없이 합쳐진 변경이 함께 동작하는지는 병합 큐와 CI가 따로 확인해야 함. 리뷰할 때 보는 기록도 달라져 Zed Delta는 PR 대신 에이전트 작업 스레드에 동료를 초대해 코드와 대화를 함께 보게 하고, 대화·편집 기록은 Git 커밋과 다른 경로(DeltaDB, Entire의 별도 참조)에 남아 저장소만 옮겨서는 따라오지 않음
+* [What comes after git | East River Source Control](https://ersc.io/blog/what-comes-after-git)
+  * [Git 다음에는 무엇이 올까 | GeekNews](https://news.hada.io/topic?id=36752)
+  * [김헌기 - 단상: Git 다음에는 무엇이 올까, 그리고 승인이라는 새로운 병목 | Facebook](https://www.facebook.com/hnki0104/posts/pfbid02NUs8FANxHBFMCVkVRuu9ziyNsCUSdyjZs3WPeXZYRkQTuuKdRWc2JVL4eNEQCBmJl)
+    * 이번에 Git 대체 이야기가 다시 나온 이유는 AI 에이전트—개발자 한 명이 에이전트 수십 개를 동시에 돌려 브랜치·수정·테스트가 쏟아지니 Git이 느려진 게 아니라 Git을 쓰던 방식이 달라지고 있다는 관찰. Anthropic은 Git을 떠나 Scion으로, OpenAI는 Git을 유지한 채 Pando 백엔드로, ERSC는 프로토콜만 유지하고 저장은 자체 엔진으로 가는 서로 다른 선택을 비교. 소스 관리가 빨라져 하루 수천 건의 변경을 처리해도 사람이 모든 PR을 읽고 승인해야 한다면 코드 생산의 병목을 없애고 승인이라는 새 병목을 만든 것 아니냐는 질문—Anthropic이 모든 줄 대신 변경 의도를 검토하는 쪽으로 바뀐 점에 주목
+  * 에이전트 개발이 저장소 크기·활성 브랜치 수·병합 경합을 키우고 격리된 클라우드 환경마다 빠른 클론을 요구해, 큰 회사만 겪던 문제가 모두의 문제가 됐다는 진단. ERSC의 답은 일반 git 클라이언트와 Git 프로토콜은 그대로 받되 서버에는 Git 저장소를 두지 않고 자체 저장 엔진을 쓰는 것(Git bridge 뒤의 비-Git 엔진)—Git 저장소를 진실의 원천으로 삼는 시스템과 달리 수평 확장되고, 전역 통합 플랫폼이 아닌 고객별 분리 배포라 다른 회사의 사용량에 영향받지 않음. Git은 2005년 Linux 커널(오픈소스)의 제약에 맞춘 설계라 미래의 소스 관리는 아니라고 보지만 도구 생태계의 네트워크 효과 때문에 프로토콜은 유지
+  * 점진적 도입 경로로 Jujutsu(jj)를 지목—jj가 여러 백엔드와 말할 수 있어 동료가 git을 써도 개인이 jj를 택할 수 있듯, 서버 쪽에서도 하나의 저장 엔진이 여러 프로토콜을 지원하게 해 처음엔 git, 이후 jj가 다른 프로토콜로 같은 엔진에 접근하는 구상(아직 없는 향후 작업이며 업스트림의 jj 네이티브 프로토콜이라고 주장하지 않음). 저장소가 기반이라 먼저 내놓고, 코드 리뷰·CI·이슈 추적은 단일 포지가 아니라 기존 도구와 조합할 수 있는 구성 요소로 제공할 계획
 * ['폴리리포주의자'가 모노리포를 반대하는 3가지 이유 - ITWorld Korea](https://www.itworld.co.kr/news/214234)
 * [모노레포에서 Github Actions 현명하게 사용하기](https://f-lab.kr/blog/wise-use-of-github-actions-in-monorepo)
 * [GitHub Packages Container registry is generally available | The GitHub Blog](https://github.blog/2021-06-21-github-packages-container-registry-generally-available/)
