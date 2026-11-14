@@ -1592,6 +1592,10 @@ Git
   * [gitleaks: Find secrets in your code](https://github.com/gitleaks/gitleaks)
   * Git 저장소·파일·stdin에서 비밀번호/API 키/토큰 탐지. regex+엔트로피, TOML 규칙, GitHub Action/pre-commit hook/Docker/CLI. JSON/CSV/JUnit/SARIF 리포트, base64/hex 재귀 디코딩, baseline 비교
 * gitlocalize.com [오픈소스를 번역할 때 유용한 Git Localize 사용법 - 사진찍는 웹 개발자](https://donghoon-song.github.io/posts/2021-01-02---%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%EB%A5%BC-%EB%B2%88%EC%97%AD%ED%95%A0-%EB%95%8C-%EC%9C%A0%EC%9A%A9%ED%95%9C-Git-Localize-%EC%82%AC%EC%9A%A9%EB%B2%95/)
+* [gitmanual: Generate a step-by-step setup guide for a GitHub repository](https://github.com/zainudinnoori/gitmanual)
+  * [gitmanual](https://gitmanual.com)
+  * GitHub에서 찾은 저장소를 직접 실행하고 싶은 초보자를 위한 설치 매뉴얼 생성기. github.com 주소의 hub를 manual로 바꾸면(gitmanual.com/owner/repo) 저장소를 클론·실행하지 않고 파일만 읽어 내 OS·칩에서 돌아가는지(예/아마도/아니오와 이유), 필요한 런타임·패키지 관리자·DB·.env 목록, macOS·Windows·Linux별 복사용 명령과 흔한 오류 해결, 다시 실행해도 안전한 setup.sh/ps1 스크립트, 맞는 릴리스 다운로드를 정리해 줌
+  * 막히면 저장소·시스템·단계를 채운 채 Claude·ChatGPT 대화로 넘기고, 시스템별 "실행 성공" 투표로 다음 사람에게 기대치를 알려 줌. 메인테이너용 README 배지, AI 어시스턴트용 MCP 서버(get_setup_manual·get_setup_script)와 JSON API·llms.txt, GitHub 저장소 페이지에 Setup manual·Ask AI 버튼을 붙이는 Chrome 확장 제공. 셀프호스팅 가능
 * [GitMCP](https://gitmcp.io/)
   * [git-mcp: Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project](https://github.com/idosal/git-mcp)
   * [GitHub 저장소를 AI 코딩 도구의 문서 허브로 연결하는 원격 MCP 서버 GitMCP의 사용법과 활용 예제 | digitalbourgeois](https://digitalbourgeois.tistory.com/4029)
