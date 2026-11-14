@@ -2430,6 +2430,9 @@ Javascript
 * [JavaPoly.js Java(script) in the Browser](https://www.javapoly.com/)
 * [javascript.com - Not exactly sure what JavaScript is?](https://www.javascript.com/)
 * [JAWS: The Javascript + AWS Stack – A monstrously scalable, server-free, web application boilerplate using bleeding-edge AWS services](https://github.com/servant-app/JAWS)
+* [jax-js – Open-source web ML framework](https://jax-js.com/)
+  * [jax-js: JAX in JavaScript – ML library for the web, running on WebGPU & Wasm | ekzhang](https://github.com/ekzhang/jax-js)
+  * JAX에서 영감을 받아 순수 JavaScript로 처음부터 작성한 ML 라이브러리 겸 컴파일러(외부 의존성 없음). 고수준 연산을 가벼운 JIT 컴파일러가 WebGPU·WebAssembly 커널로 번역해 신경망·이미지 알고리즘·시뮬레이션·수치 코드를 브라우저(Chrome·Firefox·iOS·Android)에서 전부 클라이언트 측으로 실행. NumPy/JAX와 가까운 API, `npm install @jax-js/jax`. 브라우저가 도는 곳이면 어디서나 도는 GPU ML 프레임워크를 지향하며 사이트에 라이브 에디터와 로컬 AI 모델·시뮬레이션·기하 처리 데모 제공
 * [joist: A small (~2kb) library to help with the creation of web components and web component based applications](https://github.com/joist-framework/joist)
   * [Introducing Joist. I’ve done it. I have done the thing… | by Danny Blue | ITNEXT](https://itnext.io/introducing-joist-313f111a428)
 * [JOY.JS - make happy little programs](https://ncase.me/joy/) paintbrush같은 그리기 도구 및 여러가지 표현을 쉽게 제작 가능
