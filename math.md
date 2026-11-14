@@ -414,6 +414,8 @@ Math
 * [T>T: When Double Precision is Not Enough | Dr Adam Luke Baskerville](https://adambaskerville.github.io/posts/LespEigenvalues/)
 * [한 점이 다각형 내부에 위치하는지 판별하기 - 로스카츠의 AI 머신러닝](https://losskatsu.github.io/machine-learning/py-polygon01/#)
 * [Manim Community v0.16.0.post0](https://docs.manim.community/en/stable/index.html) 수학을 이용한 설명을 할때, 관련되는 애니메이션을 만들어주는 라이브러리
+  * [manim: A community-maintained Python framework for creating mathematical animations | ManimCommunity](https://github.com/manimcommunity/manim)
+  * 3Blue1Brown 영상에 쓰이는, 설명용 수학 영상을 코드로 정밀하게 만드는 애니메이션 엔진. Grant Sanderson이 만든 3b1b/manim에서 갈라져 커뮤니티가 유지하는 판(ManimCE)으로 두 버전은 설치 방법이 달라 섞어 쓰면 안 됨. `Scene` 클래스의 `construct`에서 도형을 만들고 `self.play(Create(...))`, `Transform`, `FadeOut` 같은 애니메이션을 순서대로 호출한 뒤 `manim -p -ql example.py SquareToCircle`로 렌더. 설치 전에 온라인 Jupyter 환경에서 시험해 볼 수 있고 Docker 이미지도 제공
 * [ManimGX — The animation engine for agents: blazingly fast math and 3D videos with Manim's Python API, on a Rust GPU core](https://manimgx.academa.ai/)
   * [manimgx: The animation engine for agents | academa-labs](https://github.com/academa-labs/manimgx)
   * Manim CE API 호환 Python 애니메이션 엔진을 Rust+wgpu GPU 코어로 재구현. 1080p60 5개 장면 36.2초 영상을 M4 Pro에서 3.08초에 렌더—ManimCE 대비 90.6×, ManimGL 11.5×, Blender Workbench 18.7× 빠름(벤치마크 공개). `pip install manimgx`(Python 3.13+, 폰트·조판·인코딩 포함) 또는 에이전트에 "llms.txt를 따라 설치하고 태양계 3D 애니메이션을 만들어 열어라" 프롬프트 한 줄
