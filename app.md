@@ -169,6 +169,8 @@ App
 * [Organic Maps: Offline Hike, Bike, Trails and Navigation](https://organicmaps.app/)
   * [organicmaps: 🍃 Organic Maps is a free Android & iOS offline maps app for more than 6M travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data](https://github.com/organicmaps/organicmaps)
   * MAPS.ME를 만들었던 사람들이 커뮤니티로 만드는 프라이버시 중심 오프라인 지도·GPS 앱—광고·추적 없음, 인터넷 없이 100% 동작(지도 내려받고 SIM 빼고 일주일 트레킹). OpenStreetMap 기반 상세 오프라인 지도, 자전거·하이킹·도보 경로. 2025-12 600만 설치
+* [CoMaps: Hike, Bike, Drive Offline – Navigate with Privacy](https://www.comaps.app/)
+  * Organic Maps·Maps.Me에서 갈라져 오픈소스 커뮤니티가 이끄는 오프라인 지도 앱. 모바일 데이터 없이 GPS만으로 검색과 도보·자전거·자동차 턴바이턴 안내(음성 포함)를 하고, 아웃도어 모드로 등산로·야영지·식수원과 등고선을 강조하며 오프라인 Wikipedia 문서를 함께 볼 수 있음. 일부 도시는 지하철·경전철 레이어 제공. 사람을 식별하거나 추적하지 않고 정보를 수집하지 않으며 Exodus 감사를 받았고, 지도 데이터는 OpenStreetMap, 코드는 Codeberg에서 기여
 * [Oven - 크리에이티브 프로젝트를 위한 세계에서 가장 진보된 온라인 프로토타이핑 툴](https://ovenapp.io/)
 * [Paintbrush](https://sourceforge.net/projects/paintbrush)
   * [맥에는 '그림판'이 없나요? 무료로 쓸 수 있는 맥용 스케치∙드로잉 프로그램 3가지](http://macnews.tistory.com/4173)
@@ -1375,6 +1377,10 @@ App
 # Etc
 * [다운로드 없이 SMS 문자만으로 즐기는 “앱”](http://techneedle.com/archives/20495)
 * [타임머신 앱? 카메라 대면 옛날 사진이…](http://techholic.co.kr/archives/31096)
+* [Digital minimalism | Vitalik Buterin](https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html)
+  * [비탈릭 부테린의 디지털 미니멀리즘 | GeekNews](https://news.hada.io/topic?id=36339)
+  * 물건을 줄이는 미니멀리즘 다음으로, 디지털 기술에 접근하는 방식을 기본값에 끌려가지 않고 의식적으로 고르자는 제안과 직접 해 본 실험 세 가지. ①소셜미디어—X라는 플랫폼은 떠나지 않되 인터페이스를 떠나 X·BlueSky·Farcaster·Lens를 함께 보는 통합 클라이언트 Firefly로 옮겼더니 기분이 나아지고 논쟁에 대한 관심이 줄었음. 불쾌한 글을 구경하는 호기심까지 관심사로 해석해 더 보여 주는 추천 알고리듬이 없기 때문이라고 추정 ②셀룰러—100일간 비행기 모드와 와이파이만으로 생활. 셀룰러에 붙은 폰은 상시 위치 추적 장치이고 익명 SIM으로도 IMEI와 이동 패턴 때문에 부족하다는 프라이버시 이유와, 인터넷 없이 지내는 습관을 되찾는 정신 건강 이유. SMS 인증이 막혀 불편했지만 이후에도 비행기 모드를 기본으로 유지
+  * 오프라인 길 안내는 OpenStreetMap 데이터를 내려받아 기기 안에서 처리하는 CoMaps로(생활 정보는 Google Maps보다 못하지만 자연 속 길은 더 잘 앎), 세계 지식도 압축 Wikipedia나 OSM planet 데이터처럼 로컬에 담을 만한 크기라는 점에서 로컬 지식 앱에 주목—온디바이스 LLM이 오래 추론하는 방식은 너무 느렸고 로컬 의미 검색으로 즉시 결과를 보여 준 뒤 작은 LLM이 답을 쓰는 방식이 실용적. 도시별 공공 와이파이 접근성 순위도 기록 ③웹—웹 앱은 열 때마다 서버를 다시 신뢰해야 하고 기본적으로 프라이버시에 나쁘며 다크 패턴에 노출되므로, 작은 도구를 조합하는 Unix 철학을 로컬 AI와 자연어로 되살려 kohaku-cli 같은 명령줄 도구로 대체하자는 주장
 * [bloxp - Export any blog and turn it into a downloadable ebook. Save your favorite blog as a unique, readable file!](http://www.bloxp.com/)
 * [ferdium-app: All your services in one place, built by the community](https://github.com/ferdium/ferdium-app)
 * [Freeter – a smarter way to work on your computer](https://github.com/FreeterApp/Freeter)
@@ -3287,6 +3293,8 @@ App
       * Writer's Studio(플러그인 제작자). 옵시디안 노트를 워드 거치지 않고 바로 출력물 수준 PDF로 만드는 Beautiful PDF 플러그인 업데이트—설정창 개선, 머릿글·바닥글 편집, 표·이미지 편집, 가로선·숫자 목록 스타일 추가
   * [chatgpt-md: A (nearly) seamless integration of ChatGPT into Obsidian](https://github.com/bramses/chatgpt-md)
     * [Discover the Top 5 Obsidian ChatGPT Plugins for Ultimate Productivity](https://brianchristner.io/discover-the-top-5-obsidian-chatgpt-plugins-for-ultimate-productivity/)
+  * [claude-obsidian: Self-organizing AI second brain for Obsidian + Claude Code | AgriciDaniel](https://github.com/AgriciDaniel/claude-obsidian)
+    * Karpathy의 LLM Wiki 패턴을 따르는 Claude Code 플러그인(스킬·에이전트 묶음). 논문·기사·대본·메모를 `inbox/`에 넣으면 원본은 그대로 두고 Claude가 읽어 출처가 달린 연결 노트·인덱스·맵을 써서 하나의 지식 그래프로 정리. 볼트를 고치지 않고 인용과 함께 답하는 질의(`wiki-query`), 남길 답만 노트로 저장(`save`), 죽은 링크·고아 페이지·빈틈을 찾는 점검(`wiki-lint`), 기존 볼트를 옮기지 않고 받아들이는 설정(`wiki`). 전부 로컬의 평문 Markdown이라 AI 없이도 일반 Obsidian 볼트로 쓸 수 있고 Codex·OpenCode·Gemini·Cursor 등에서도 동작
   * [claudesidian: Claude Code + Obsidian Starter Kit](https://github.com/heyitsnoah/claudesidian)
   * [Copilot for Obsidian - The Ultimate AI Assistant for Your Second Brain](https://www.obsidiancopilot.com/)
     * [obsidian-copilot: THE Copilot in Obsidian](https://github.com/logancyang/obsidian-copilot)
@@ -3338,7 +3346,9 @@ App
   * [Obsidian-RAG: 벡터DB 없는 RAG — Obsidian + Claude Code 개인 지식 관리](https://github.com/daje0601/Obsidian-RAG)
     * [벡터DB 없는 RAG를 만들어봤습니다 — Obsidian + Claude Code | WikiDocs](https://wikidocs.net/289873)
     * 벡터DB·임베딩 없이 마크다운+LLM만으로 개인 지식 베이스 구축. Clip(수집)→Compile(정리)→Query(질의)→Audit(점검) 4단계. 마스터 인덱스→토픽 인덱스→관련 문서 1-3개 탐색, 쿼리 결과를 새 위키 문서로 자기성장. 5,000문서 이하 개인/소규모 팀용
-  * [obsidian-skills: Agent skills for Obsidian (Markdown, Bases, JSON Canvas, CLI)](https://github.com/kepano/obsidian-skills/)
+  * [obsidian-second-brain: Persistent memory for Claude Code, Codex and other AI agents, stored as plain markdown in your Obsidian vault | eugeniughelbur](https://github.com/eugeniughelbur/obsidian-second-brain)
+    * 채팅이 끝나면 잊는 에이전트와 쌓이기만 하는 Obsidian 노트를 잇는 스킬—대화를 사람·프로젝트·결정·할 일의 연결 노트로 저장(`/obsidian-save`), 링크·PDF·음성 메모·스크린샷을 받아 새 노트를 쌓는 대신 기존 노트를 갱신(`/obsidian-ingest`), 내 노트에서 맥락과 함께 답하기(`/obsidian-find`), 계획을 과거 결정에 비춰 반박(`/obsidian-challenge`). Karpathy의 LLM Wiki와 달리 새 자료가 오면 기존 페이지를 다시 쓰고, 모순을 자동으로 조정하며, 이름 없는 패턴을 찾아 종합 페이지를 쓰고, 예약 에이전트가 아침 브리핑·야간 정리·주간 리뷰·볼트 점검을 수행. 여러 에이전트가 서로 한 일을 아는 공유 로그북(Crew)도 제공. 핵심 명령은 API 키 불필요
+  * [obsidian-skills: Agent skills for Obsidian (Markdown, Bases, JSON Canvas, CLI)](https://github.com/obsidianmd/obsidian-skills)
     * [Obsidian CLI + Claude Code로 20+ 프로젝트 관리 | 배수정](https://www.linkedin.com/posts/crystal0224_obsidian-cli-obsidian-help-share-7443117177697832960-4msv)
     * Obsidian 창시자 Steph Ango의 스킬 모음. obsidian-cli(노트·검색·태그), obsidian-markdown(위키링크·콜아웃·속성), obsidian-bases(DB), json-canvas(비주얼 캔버스), defuddle(웹→마크다운). Obsidian 1.12+ CLI 활성화 후 3줄 설치
   * [Obsidian TTRPG Tutorials](https://obsidianttrpgtutorials.com/)
@@ -3557,7 +3567,10 @@ App
   [DemoPro – Screen annotation and countdown timer for Mac](http://www.demoproapp.com/)
 * [Epic Pen: The worlds most popular screen marker app!](https://epic-pen.com/)
 * [openscreen: Create stunning demos for free. Open-source, no subscriptions, no watermarks. An alternative to Screen Studio](https://github.com/siddharthvaddem/openscreen)
+  * [openscreen: Record your screen, ship a demo. Free and open-source, GPU-accelerated, no watermarks, no subscriptions | getopenscreen](https://github.com/getopenscreen/openscreen)
+  * [OpenScreen](https://getopenscreen.com/)
   * Screen Studio 대체 오픈소스 화면 녹화/데모 도구. 무료, 구독 없음, 워터마크 없음, 상업적 사용 가능
+  * 원 저장소(siddharthvaddem)는 v1.5.0 이후 아카이브되고 제작자 승인 아래 같은 이름으로 getopenscreen에서 개발이 이어짐. 창·전체 화면 녹화와 마이크·시스템 오디오, 웹캠 오버레이, 커서를 따라가는 자동 줌과 수동 줌, 커서 스무딩·클릭 효과, 모션 블러, 타임라인 자르기·구간별 속도, 텍스트·화살표 주석, MP4·GIF GPU 내보내기. 새로 더해진 것은 기기 안에서 받아쓰는 자동 자막과 편집 가능한 대본(문장을 지우면 영상에서도 잘림), 채팅으로 컷·줌·속도 조절을 시키는 AI 편집 도우미(자기 API 키 사용, 기본 꺼짐), 화면 없이 녹화·프로젝트 JSON 편집·렌더링을 하는 CLI, 그리고 코딩 에이전트에게 "이 기능의 데모 영상을 만들어 줘"라고 시키는 openscreen-demo 스킬
 * [Recordly: Open-source app for incredible screen recordings](https://recordly.dev/)
   * [Recordly](https://github.com/webadderallorg/Recordly)
   * 오픈소스 Screen Studio 대안. auto-zoom, 모션 블러 커서, 웹캠 오버레이, 타임라인 편집기, MP4/GIF 내보내기. macOS/Windows/Linux 지원
