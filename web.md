@@ -2797,6 +2797,9 @@ Web
   * 2020년 글에서 예고한 스레드·SIMD·참조 타입·꼬리 호출·ESM 통합의 결말을 확인하고, W3C 권고 대신 "살아 있는 표준"이 된 wasm 2.0과 GC·Memory64·예외 처리·JS string builtins를 담은 3.0, Shared-Everything Threads·JSPI·Source Phase Imports 등 진행 중 제안을 정리
   * WasmGC로 Java·Kotlin·Dart·Flutter·Google Sheets가 웹에 올라온 사례, Component Model·WIT·WASI 0.2/0.3이 바꾼 브라우저 밖 생태계(Wasmtime, Spin/Akamai, Cloudflare), NAPI-RS wasm 폴백·esbuild·Rolldown 등 JS 개발자가 모르고 쓰는 wasm 패키지와 JS↔wasm 경계 비용 측정의 중요성
   * AI 시대의 wasm: 브라우저 내 추론(ONNX Runtime Web, Transformers.js v4, WebLLM), LLM 생성 코드를 격리하는 샌드박스(Pyodide, bolt.new WebContainers, BrowserPod, Wasmer Edge.js, mcp-run-python의 한계), 에이전트 도구를 wasm 컴포넌트로 배포하는 Wassette. wasm은 JS를 대체하지 않았지만 여러 언어의 공통 실행 형식으로 범위가 넓어졌다는 결론
+* [The last mile of a long road: faster NumPy in the browser | notebook.link](https://notebook.link/blog/the-last-mile-faster-numpy)
+  * 브라우저의 NumPy는 오랫동안 가속 BLAS 없이 캐시·SIMD를 모르는 단순 C 루프로 행렬 곱을 계산했는데, Emscripten-forge의 NumPy 패키지가 WebAssembly용 OpenBLAS를 링크하면서 np.matmul과 np.linalg가 수십 배 빨라졌다는 QuantStack의 보고. Emscripten-forge는 conda-forge와 함께 conda 생태계를 WebAssembly용으로 다시 빌드하는 언어 중립 배포판(Pyodide·WebR처럼 언어별 배포판이 아님)
+  * 여기까지의 긴 길: LAPACK·SciPy·R의 바닥인 Fortran을 wasm32로 컴파일할 Flang 패치(Pyodide는 f2c로 우회했지만 R은 실제 Fortran 컴파일러가 필요), WebAssembly의 엄격한 호출 규약에 맞춘 OpenBLAS 패치, 그리고 마지막으로 NumPy 링크. 다음 OpenBLAS 릴리스에는 QuantStack이 업스트림에 기여한 WASM SIMD128 커널(GEMM/TRMM·AXPY·GEMV)과 선택형 Relaxed SIMD(FMA) 빌드가 들어가 더 빨라짐. 업스트림과 conda 패키지로 들어갔으므로 Pyodide 등 다른 WebAssembly Python 스택도 같은 이득을 볼 수 있음. JupyterLite·notebook.link 환경 설정 예시 포함
 * [AssemblyScript](https://www.assemblyscript.org/)
   * [The AssemblyScript Project](https://github.com/AssemblyScript)
 * [backgroundremover: Background Remover lets you Remove Background from images and video using AI with a simple command line interface that is free and open source.](https://github.com/nadermx/backgroundremover)
