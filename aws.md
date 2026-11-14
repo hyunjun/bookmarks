@@ -3253,7 +3253,14 @@ AWS
 * [How to Test Serverless Applications in AWS](https://www.freecodecamp.org/news/how-to-test-serverless-applications-in-aws/)
 * [aws-emulator: AWS Emulator is a local emulator of the AWS APIs](https://github.com/aws/aws-emulator)
   * [What is AWS Emulator? - AWS Emulator User Guide](https://docs.aws.amazon.com/emulator/latest/userguide/what-is-service.html)
+  * [Getting started with AWS Emulator - AWS Emulator User Guide](https://docs.aws.amazon.com/emulator/latest/userguide/getting-started.html)
+    * 시작하는 네 가지 경로: `aws-emulator` 스킬을 설치하고 AI 코딩 에이전트에게 설치·실행·연결을 맡기기(AWS CLI 2.35.0 이상), Linux용 RPM·Debian 패키지, Windows·macOS용 Docker 이미지, Rust 테스트 프로세스 안에서 테스트별 격리 상태로 돌리는 임베디드 모드. Linux·Docker 경로는 127.0.0.1의 9297 포트에서 HTTPS 요청을 받는 로컬 프로세스를 띄우고 환경 변수로 AWS CLI·SDK가 그 엔드포인트를 보게 함
   * [AWS Emulator로 AWS 계정 없이 로컬 환경에서 클라우드 애플리케이션 테스트하기 | digitalbourgeois](https://digitalbourgeois.tistory.com/4426)
+  * [aws-emulator-evaluation-suite: Evaluation Suite for AWS Emulator](https://github.com/aws/aws-emulator-evaluation-suite)
+    * 에뮬레이터가 실제 AWS와 똑같이 동작하는지 보는 fidelity 테스트 모음과 실행기. 테스트 하나는 boto3로 워크플로를 돌리고 리소스의 결과 상태와 오류 코드·메시지를 단언하는 짧은 Python 프로그램이며, 모두 샌드박스 AWS 계정 두 곳 이상에서 검증해 실제 AWS 동작을 단언함(테스트가 덮지 않는 동작은 검증되지 않은 것). 실행기는 루프백 엔드포인트만 받고 내 환경의 AWS 자격 증명·프로필·프록시 없이 테스트를 돌리며, 테스트마다 별도 에뮬레이터를 띄워 리포트를 모은 뒤 서비스별 점수로 집계. AI 에이전트가 작성·관리하는 읽기 전용 저장소라 이슈·PR을 받지 않음
+  * [AWS Emulator: a local emulator built 100% by autonomous AI agents | About Amazon](https://www.aboutamazon.com/news/aws/how-autonomous-ai-agents-built-aws-emulator)
+    * 에뮬레이터 코드는 전부 자율 에이전트가 썼고 팀은 한 줄도 쓰거나 리뷰하지 않았다는 제작기. Anthropic의 에이전트 C 컴파일러 실험에서 "명확한 스펙과 참조 구현이 있으면 에이전트가 스스로 구현한다"는 점에 착안—AWS API 모델이 스펙, 실제 AWS가 참조 구현. Kiro에 "CLI 기반 테스트 작성→실제 AWS에서 통과할 때까지 반복→같은 테스트를 통과하는 인메모리 구현"이라는 프롬프트를 주자 15분 만에 SQS 초안이 나왔고 주말 동안 나머지를 만든 것이 출발점. 에이전트에게는 칠할 영역이 정해진 "색칠 공부 책" 같은 가드레일이 필요하다는 비유
+    * 세 에이전트 팀: ①API 모델에서 실제 시나리오 테스트를 만들고 실제 AWS에서 검증해 제출하는 팀(fidelity 테스트 수만 개) ②테스트를 재생해 에뮬레이터와 어긋나는 지점을 찾고 원인이 같아 보이는 실패를 묶어 이슈로 올리는 팀(처음엔 438개 API 모델 요청을 받기만 하는 빈 웹 서버에서 시작) ③이슈 하나씩 맡아 고치는 팀. 변경은 컴파일·코딩 표준·보안·fidelity 퇴행 여부를 에이전트가 검사하는 머지 게이트를 통과해야 하며, 수백 에이전트가 동시에 작업해 하루 수천 건의 이슈를 고침. 고친 이슈와 밀린 이슈가 저장소 issues 디렉터리에 그대로 공개되고, 초기 버전에서 Lambda 지원용 Python 인터프리터를 직접 만들려 해 기존 라이브러리를 재사용하라는 지침을 준 일화도 소개
   * AWS가 직접 내놓은 로컬 AWS API 에뮬레이터. AWS 계정 없이 개발 PC·개발 서버·CI에서 요청이 AWS 대신 에뮬레이터로 가므로 실제 리소스와 비용이 생기지 않음. GUI 없이 AWS API 엔드포인트를 서빙하는 프로그램이라 환경 변수로 AWS CLI·SDK가 그 엔드포인트를 보게 하고 코드는 그대로 실행. 서버 모드(Linux는 RPM·Debian 패키지, Windows·macOS는 컨테이너)와, Rust 테스트에서 dev-dependency로 넣어 테스트마다 격리된 인스턴스를 프로세스 안에서 띄우고 에뮬레이터의 HTTP 클라이언트를 SDK에 직접 연결하는 임베디드 모드
   * 개발·테스트 전용으로 프로덕션 워크로드나 보안 테스트에는 쓰지 말라고 명시. 서비스별로 실제 AWS와 얼마나 일치하는지 릴리스마다 fidelity 점수를 공개하고, 아직 안 되는 API·동작은 저장소의 issues 디렉터리에서 추적. 코딩 에이전트용 aws-emulator 스킬로 설정을 맡길 수 있음. Rust 워크스페이스에 서비스당 크레이트 하나(Smithy 모델에서 와이어 프로토콜 생성) 구조라 소스 빌드와 임베디드 모드 첫 빌드는 디스크와 시간이 많이 듦
 * [Floci - Any Cloud. Locally. Light, fluffy, and always free](https://floci.io/floci/)
