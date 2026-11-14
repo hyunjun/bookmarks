@@ -2724,6 +2724,9 @@ NLP
   * [GN#258 1년 동안 LLM과 함께 구축하며 배운 점 | GeekNews](https://news.hada.io/weekly/202425)
 * [Uncensor any LLM with abliteration](https://huggingface.co/blog/mlabonne/abliteration)
   * [Abliteration 으로 LLM 무삭제 검열 해제하기 | GeekNews](https://news.hada.io/topic?id=15331)
+* [This DeepSeek v4.1 is powerful and uncensored, let's run it | David Ondrej - YouTube](https://www.youtube.com/watch?v=9tOu4r-FiQI)
+  * [heretic](https://github.com/p-e-w/heretic)
+  * 모델이 abliterated(검열 해제)됐다는 것이 무슨 뜻이고 어떻게 이뤄지는지, 어떻게 실행하고 윤리적 목적에 쓰는지를 설명하는 영상. AI가 검열·수정되는 방식, 사이버보안 같은 방어적 활용 사례, Heretic을 이용한 자동 검열 제거, 모델 고르는 기준, 하드웨어·메모리 요구 사항, 데이터 보존과 안전, Hugging Face·Ollama로 실행하는 방법, 오픈 웨이트 모델의 효용, 실제 배포 안내 순으로 진행
 * [Solar 10.7B: 간단하지만 효과적으로 수리능력이 강화된 sLLM | Upstage 2023 | 조진욱 - YouTube](https://www.youtube.com/watch?v=DRq4ZGXCc6M)
   * [솔라 프리뷰 프로 DocumentParse 테.. : 네이버블로그](https://blog.naver.com/ulsancoding/223639638559)
   * [LIVE From Scratch로 학습한 Solar-Open-100B 공개 검증세션 - YouTube](https://www.youtube.com/live/2YY9aAUSo_w)
@@ -2827,15 +2830,22 @@ NLP
     * vs Fable 5.1: Artificial Analysis 지수 Astra 61 vs Fable 66(192개 모델 중 1위), HLE 57.2% vs 60.9%(도구 65.0%), 단가는 동일하되 Fable은 75% 내린 캐시 읽기($0.25)가 무기. 강점 분포—Astra는 컴퓨터 조작·보안·과학/수학, Fable 5.1은 에이전트 지식 노동·글쓰기·비용 효율. 실사용 후기는 풀린 뒤에 봐야 하며 Fable 5.1 후기는 "정말 좋지만 토큰이 미친 듯이 빨리 사라진다"
 * [Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights | rikiyat.github.io](https://rikiyat.github.io/blog/weight-space-programming)
   * [lm_understand-logs: 모든 실험의 전체 로그](https://github.com/RikiyaT/lm_understand-logs)
+  * [Weight-Space Programming explained in 10min.. | Caleb Writes Code - YouTube](https://www.youtube.com/watch?v=77hHgDkbtLI)
+    * LLM이 신경망을 읽고 써서 모델의 결함을 찾아 고치는 weight-space programming을 설명하는 영상—가중치만 보고 무엇을 학습했는지와 어디를 고쳐야 할지 알아낸 Astra 실험의 설정과 결과, 한계, 활용처, 벤치마크 순으로 다루고 잠재 공간에 담긴 정보를 우리가 얼마나 이해할 수 있는지를 묻음
   * 프런티어 LLM이 신경망 가중치를 코드처럼 직접 읽고 쓰기 시작했다는 초기 실험 보고. 가중치를 프로그램처럼 다뤄 무엇을 계산하는지 읽고, 옵티마이저에 맡기는 대신 직접 써서 계산을 바꾸는 것을 Weight-Space Programming이라 부름—프로그래머는 자연어 명세만 받은 범용 LLM이고 경사도도, 때로는 환경 피드백도 없음. 지금까지 가중치는 최적화·가중치를 쓰도록 학습된 전용 네트워크·형식 프로그램 컴파일러가 썼고, 사람은 코드는 손으로 최적화해도 가중치는 못 했기에 기호적 알고리즘(Adam 등)의 영역으로 남아 있었음
   * 실험: (읽기) 도구 없이 원시 가중치만 보고 같은 구조의 PPO 정책 네 개가 각각 어떤 게임으로 학습됐는지 선택지 없이 맞히고, 확산 모델이 그릴 도형·소형 언어 모델의 학습 언어·두 언어 모델 중 아첨하도록 학습된 쪽을 식별. (고치기) 물리 제어에 실패하는 정책의 가중치 일부를 한 번에 편집해 성공시키고, Qwen3.5-0.8B에서 모델 카드도 경고하는 추론 루프의 원인을 가중치에서 찾아 극히 일부만 고쳐 학습 없이 수학 정답률을 크게 올림(지시 따르기에도 일반화). (쓰기) 환경 피드백 없이 MinAtar 게임·바둑을 두는 소형 네트워크를 처음부터 작성. 최적화와 해석 가능성 양쪽에 의미가 있다는 주장이며 스스로 "아주 초기 결과"라고 밝힘
+  * 실험별 세부: 게임 식별은 17,253개 가중치의 첫 레이어 기하 구조에서 읽어냈고, 확산 모델은 출력 레이어에서 도형 윤곽을 그려 보여 순전파 흉내가 아니라 구조를 읽었음을 드러냄. 720만 파라미터 문자 단위 트랜스포머는 중간 레이어만 받고도 세 모델의 언어를 모두 맞히고, 시키지 않았는데 가중치 행렬을 곱해 복사(induction) 헤드를 정확히 찾아냄. 차량 제어 수정은 가중치 3.5%를 고쳐 작은 우회 경로를 덧붙인 것. 처음부터 쓴 MinAtar 네트워크는 세 게임 모두 1억 스텝 PPO를 넘었고, 9×9 바둑 네트워크는 레이어별 "바둑 프로그램"으로 작성돼 순전파 50회 탐색으로 같은 크기의 PPO를 이김. Qwen3.5-0.8B의 루프 방향은 15·19번 레이어 MLP의 출력 열 64개씩(가중치의 0.016%)에 있었고 무작위 방향 대조군과 비교해 MATH-500·GSM8K·IFEval이 오름
+  * 한계와 해명: 아첨 모델은 가중치만으로는 가려내지 못하고 스스로 쓴 텍스트에 대한 어텐션 패턴을 함께 봐야 했음. 루프를 거의 돌지 않는 Gemma 3 270M은 개선하지 못함—편집은 능력을 가리던 장애물을 치울 수 있을 뿐 없는 능력을 더하지는 못함. 댓글에 대한 답에서 WSP는 방법이 아니라 개념이자 능력에 대한 주장이며 "natively"는 학습 루프 없이 LLM이 직접 추론한다는 뜻이라고 정리. 전망으로 평가 없이 가중치를 감사하는 백도어 탐지, 더 싼 최적화, 데이터 없는 스티어링·언러닝을 들고 벤치마크와 하네스를 만드는 중
 * [최승준 - Unified Neural Computer: Weight Space Programming·Qwenputer에서 착안한 고정 가중치 신경망 프로그램 실행기 실험 | Facebook](https://www.facebook.com/seungjoon.choi/posts/pfbid0279TY7sTVUYfcWZxqaXtYzp55Pzo97KQcrSNvMaKFme8MSckwe94CCwoZiFUPz8i3l)
   * [2301.13196 Looped Transformers as Programmable Computers](https://arxiv.org/html/2301.13196v1)
     * ICML 2023(Giannou·Rajput·Sohn·Kangwook Lee·Jason Lee·Papailiopoulos). 특정 가중치로 프로그래밍한 트랜스포머를 루프에 넣어 범용 컴퓨터로 쓰는 틀—입력 시퀀스가 명령어와 데이터 읽기/쓰기 메모리를 담은 펀치카드 역할. 상수 개의 인코더 레이어로 임베딩 편집·비선형 함수·함수 호출·프로그램 카운터·조건 분기를 구성해 소형 명령어 집합 컴퓨터를 에뮬레이트하고, 루프를 도는 13층 트랜스포머가 입력의 지시에 따라 계산기·선형대수 라이브러리·역전파를 쓰는 인컨텍스트 학습 알고리즘을 실행
+    * 에뮬레이트 대상은 명령어 하나짜리 컴퓨터(OISC)인 SUBLEQ이고, 루프 덕분에 깊이는 프로그램 길이와 무관하며 폭만 로그로 늘어남. 함수 호출을 더해 일반화한 FLEQ으로 덧셈·뺄셈·곱셈·역수·제곱근 계산기, 역행렬·거듭제곱법, 인컨텍스트 SGD와 역전파를 구성. 남은 과제로 손으로 짠 모델과 사전학습 트랜스포머의 융합, 명령을 자연어 토큰으로 표현하기, 증류를 듦
   * [Tracr: Compiled Transformers as a Laboratory for Interpretability | Google DeepMind](https://deepmind.google/research/publications/22295)
     * NeurIPS 2023. 사람이 읽을 수 있는 프로그램을 표준 디코더 전용 트랜스포머로 "컴파일"하는 Tracr. 구조를 아는 모델이 나오므로 해석 가능성 기법이 맞았는지 판정할 정답으로 쓸 수 있고(학습된 트랜스포머는 내부 "프로그램"을 몰라 해석 성공 여부가 불분명), 다단계 알고리즘을 실행하는 트랜스포머의 superposition 연구에도 사용. 토큰 빈도 계산·정렬·괄호 검사 프로그램으로 시연, 오픈소스 구현 공개
+    * 컴파일은 RASP 프로그램→"어셈블리" 격인 Craft→가중치의 여섯 단계(계산 그래프 구성, 값 집합 추론, 연산을 MLP·어텐션 블록으로 변환, 레이어 배정, 모델 구성, 행렬 조립). 잔차 스트림에 학습된 사영을 걸어 압축하면 필요 없는 특징은 버려지고 드문 특징끼리 차원을 공유하는 superposition이 나타나며, 압축 모델이 같은 정확도를 내도 내부 부호화가 달라질 수 있어 같은 계산인지 확인해야 함. 용도는 해석 도구의 테스트 케이스·벤치마크, 모델 부품 교체, 현상 분리이고, 표현력·효율·현실성 한계 때문에 통과해야 할 최소 기준("모양을 아는 물체에 현미경을 대 보는 일")으로 보라고 함
   * Weight Space Programming과 Qwenputer에서 착안해 Lambda Calculus·ByteBeat·Shader 같은 결정론적 프로그램을 뉴럴넷으로 실행하는 실험(Neural ByteBeat VM·Neural Lambda VM·Neural Shader Studio)을 해 보니 꽤 간단히 됐다는 기록과, 세 실행기를 통합하라는 에이전트 인계 프롬프트 전문. 목표는 하나의 고정 가중치 신경망이 공통 명령어 집합(ISA)과 공통 메모리로 세 언어를 모두 실행하는 것—프로그램을 가중치에 컴파일하는 게 아니라 프로그램을 입력으로 받아 실행하는 계산 기계를 가중치로 구현. 언어 선택 신호로 세 회로를 골라 쓰는 방식은 기준선일 뿐 통합으로 인정하지 않고, 명령어 해독·산술·분기·메모리 갱신을 호스트 코드가 아닌 네트워크가 계산해야 하며 매 스텝 상태를 참조 구현과 비교하라는 엄격한 성공 조건
   * 인용한 문제의식: 신경망은 함수 근사 장치일 뿐 아니라 다른 프로그램을 해석·실행하는 범용 계산 기계의 구현 매체가 될 수 있고, 계산 능력을 가르는 것은 "신경망이냐 기호적 프로그램이냐"가 아니라 상태 표현·메모리 접근·연산 규칙·반복 실행을 어떻게 구성하느냐이며, 정확한 계산 회로를 갖춘 신경망이 학습으로 그 회로를 선택·조합·수정하게 되면 무엇이 가능한가. 이 실험들은 신경망 컴파일러가 아니라 실행기—코드를 바이트코드로 바꾸는 일은 아직 외부 도구가 담당
+  * 인계 프롬프트 후반: 검증은 ByteBeat(비트 연산·32비트 오버플로·기존 음향 식), Lambda(고차 함수·재귀·Church encoding·지연 평가·자체 인터프리터), Shader(분기·반복·광선 추적·SDF 장면)에 무작위 프로그램·경계 입력·잘못된 프로그램·장시간 실행까지 요구하고 가중치 수·깊이·명령어당 비용·참조 구현 불일치 건수·호스트 코드와 신경망의 책임 구분을 보고하게 함. 진행은 공통 아키텍처 설계→최소 통합 VM→세 언어 컴파일·실행→정확성·성능 검증→최적화 순을 권하되 바꿔도 되고, 결과물은 같은 가중치로 세 언어를 돌려 PC·레지스터·메모리를 단계별로 추적하고 참조 실행기와 비교하는 브라우저 앱. 효율보다 공통성과 정확성이 먼저이며, 마지막 질문은 계산 능력을 정하는 것이 가중치의 표현력·공통 명령어 집합·외부 메모리와 주소 지정·반복 깊이·회로와 프로그램 표현의 분리 중 무엇인가
 * [LLM vs. 전문가: AI가 인간의 직관과 경험을 대체할 수 있는가? - 인간의 직관이 중요한 이유. - 해경](https://www.haegyung.com/llm-vs-%EC%A0%84%EB%AC%B8%EA%B0%80-ai%EA%B0%80-%EC%9D%B8%EA%B0%84%EC%9D%98-%EC%A7%81%EA%B4%80%EA%B3%BC-%EA%B2%BD%ED%97%98%EC%9D%84-%EB%8C%80%EC%B2%B4%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8A%94%EA%B0%80/)
 * [경량화 레시피: Teacher 지식 조린 소형 모델, 근데 성능을 곁들인](https://d2.naver.com/helloworld/8866888)
 * [LLM 기반 체크리스트 생성 툴 공유](https://chance-doe.tistory.com/26)
@@ -4160,6 +4170,12 @@ NLP
   * [LFM3: Every Modality for Specialized Intelligence | Liquid AI](https://www.liquid.ai/blog/lfm3)
     * [Introducing LFM3: Every Modality for Specialized Intelligence | Liquid AI - YouTube](https://www.youtube.com/watch?v=6XedR2Feb6k)
     * 새 하이브리드 아키텍처의 2B급 멀티모달 파운데이션 모델 세대(22T 토큰 사전학습)—하나의 공유 백본에서 텍스트·비전·오디오·옴니·의사결정 모델을 제공하고 LFM2보다 35% 적은 파라미터로 더 높은 성능, LFM3-1.7B는 에이전트 작업에서 훨씬 큰 모델과 경쟁. 엣지 기기·프라이빗 인프라·클라우드 어디서든 특화·파인튜닝·배포하도록 설계(단일 GPU 파인튜닝), Hugging Face·Liquid AI Playground·API로 오픈 웨이트 공개. 영상은 소개
+  * [LiquidCodec: High-Fidelity Audio Tokenization Optimized for Speed | Liquid AI](https://www.liquid.ai/blog/liquidcodec)
+    * [Liquid-Codec | LiquidAI - Hugging Face](https://huggingface.co/LiquidAI/Liquid-Codec)
+    * [Liquid AI Releases LiquidCodec, a 74M-Parameter Streaming Audio Codec | MarkTechPost](https://www.marktechpost.com/2026/11/12/liquid-ai-liquidcodec-streaming-audio-codec/)
+    * [Liquid AI, 74M 파라미터 기반 스트리밍 오디오 코덱 LiquidCodec 공개 | digitalbourgeois](https://digitalbourgeois.tistory.com/4457)
+    * LFM3-Audio-2B·LFM3-Omni-2B에 쓰인 자체 스트리밍 오디오 코덱(약 74M 파라미터)—음성을 언어 모델이 예측할 토큰으로 바꾸고 다시 오디오로 되돌림. 설계 목표는 모델이 예측하기 쉬운 토큰과 매우 빠른 복원. 이전 세대는 Kyutai의 Mimi를 쓰다가 디토크나이저만 교체했는데, 토크나이저까지 직접 만들어 양자화를 RVQ(코드북이 앞 코드북의 잔차를 순차 근사)에서 그룹별로 독립 양자화하는 GFSQ로 바꿔 코드북 12개를 MaskGIT 방식으로 병렬 예측. 24kHz 파형·12.5Hz 프레임(80ms), 인코더와 디코더가 대칭이고 인코더는 완전 인과적이며, 스펙트럼 계수를 직접 예측해 전치 합성곱 업샘플링을 피함
+    * 학습은 2단계—107개 언어 26만 4천 시간으로 적대적 손실 없이 파형·스펙트럼 손실만 써서 사전학습한 뒤, 24kHz 이상 깨끗한 음성 5만 5천 시간으로 적대적 비평기를 붙여 미세조정해 "금속성" 잡음을 제거하고, 엣지용으로 디코더만 양자화 인지 학습. 결과(자체 측정): LibriSpeech·Seed-TTS·FLEURS(한국어 포함) 8개 테스트셋 모두에서 ViSQOL 최고·멜 거리 최저, 같은 조건으로 학습한 TTS에서 자연스러움(UTMOSv2) 전부 1위·명료도 4개 1위(Qwen3-1.7B 백본으로도 같은 경향). M4 Max CPU 단일 스레드에서 인코딩 약 361배속·디코딩 약 87배속으로 Mimi보다 인코딩 약 13배 빠름. PESQ와 화자 유사도는 NanoCodec이 대체로 앞섬
   * [RIPL: Real-time Intelligence When Every Millisecond Counts | Liquid AI](https://www.liquid.ai/blog/low-latency)
     * [생성형 AI를 50ms 미만 실시간 요청 경로에 올리는 Liquid AI의 저지연 추론 엔진 RIPL | digitalbourgeois](https://digitalbourgeois.tistory.com/4071)
     * Liquid RIPL(Real-time Inference Pipeline)—검색 랭킹·상품 추천·사기 탐지·결제 승인처럼 밀리초 단위 응답이 필요한 실시간 경로에서 큰 배치·긴 처리에 맞춰진 기존 서빙 대신 피크 트래픽(초당 1,000 요청 테스트)에서도 생성 응답을 엔드투엔드 50ms 미만으로 끝내는 저지연 추론 엔진. 그래디언트 부스팅 트리·소형 임베딩 같은 덜 정확한 전통 기법을 생성형 모델로 대체하는 것이 목표
@@ -4555,6 +4571,11 @@ NLP
   * [Introducing Mistral Large 4 | Mistral](https://mistral.ai/news/mistral-large-4/)
     * [Mistral Large 4 발표 - 코딩·보안·시각 이해를 강화한 1조 파라미터 오픈웨이트 모델 | GeekNews](https://news.hada.io/topic?id=34890)
     * 2026-10-06 퍼블릭 프리뷰(별칭 "Le Chonk", 가중치는 10월 말 공개). 총 1.05조 파라미터·활성 약 50B의 세분화 MoE 네이티브 멀티모달 모델, 1.6B 비전 인코더, 100만 토큰 컨텍스트, 지시 수행·추론·에이전트 기능 통합. 코딩·에이전트·사이버 보안·금융·법률 업무에 집중해 DeepSWE v1.1 61.7%, 코딩 에이전트 종합 평가에서 DeepSeek V4 Pro·Qwen3.8 Max를 앞서고 시각 위치 찾기(Dense 200)에서 GPT-6 Astra를 소폭 앞섬. 유럽 자체 데이터센터의 NVIDIA Grace Blackwell 3,800개로 처음부터 학습, 160+ 언어
+  * [Le Chonk: Built for Coders, Trusted by Defenders — Mistral Large 4 open weights | Mistral](https://mistral.ai/news/mistral-large-4-oss/)
+    * [1조짜리 AI가 공짜로 풀렸다… 내 노트북에서 돌아갈까? (미스트랄 '르 청크') | 진실의 섬 - YouTube](https://www.youtube.com/watch?v=Zim5W1nTbJ0)
+      * 모델 카드·라이선스 원문·파일 크기를 직접 확인해 떠도는 주장을 판정하는 영상. "1조짜리 AI를 공짜로 풀었다"는 대체로 사실(다운로드는 무료지만 서비스형 모델 사업은 별도 상업 라이선스), "세계 최초"는 거짓(Kimi K2가 먼저 공개된 1조 파라미터 모델), "내 노트북에서 돌린다"는 거짓(가장 작은 압축판도 흔한 노트북 메모리를 크게 넘음), "해킹 AI를 풀었다"는 거짓(공개판은 악성 요청을 거절하고 공격 연구용 특화판은 심사를 거친 기업에만), "오픈 모델 1등"은 과장(코딩은 1위 주장이지만 종합 지수는 중국 오픈 모델이 위라고 모델 카드가 명시). 성능 수치는 Mistral 자체 발표라는 단서
+    * 10월 초 프리뷰였던 Mistral Large 4(Le Chonk)의 개선판 가중치를 10월 29일 공개. 프리뷰 뒤 3주간 강화학습을 더 확장해 코딩과 방어적 사이버보안이 크게 올랐고 추론 효율도 개선—FrontierCode·Terminal-Bench에서 오픈웨이트 선두, Coding Agent Index는 GLM-5.3과 사실상 동률이면서 작업당 토큰을 절반 가까이 덜 씀. 추론 모드는 Low·Medium·High(기본) 세 가지
+    * 보안: 취약점 발견·재현·패치를 재는 Cyber Index에서 방어 작업을 불필요하게 거절하지 않으면서, 내장 가드레일이 방어와 악성 공격 요청을 구분해 악성 요청 평균 거절률이 오픈 모델 중 가장 높다고 밝힘. 다만 실제 공격을 돕는 uplift 가능성을 인정하고 가드레일을 계속 수정 중이며, 침투 테스트·레드팀용 특화 변형은 엄격한 심사와 계약을 거친 파트너에게만 제공. 그 밖에 재무 스프레드시트 작업·웹 브라우징·에이전트 보안 벤치마크 개선과, 유럽 인프라에서 처음부터 학습해 조직이 직접 검사·커스터마이즈·자체 배포할 수 있다는 "주권 AI" 메시지
   * [mixtral-offloading: Run Mixtral-8x7B models in Colab or consumer desktops](https://github.com/dvmazur/mixtral-offloading/tree/master)
     * [What is better than running a Mixtral-8x7B model?](https://www.linkedin.com/posts/itamar-g1_what-is-better-than-running-a-mixtral-8x7b-activity-7146889906101948416-62bp/)
     * [demo.ipynb - Colaboratory](https://colab.research.google.com/github/dvmazur/mixtral-offloading/blob/master/notebooks/demo.ipynb)
@@ -4954,6 +4975,8 @@ NLP
   * [atdev-serve: Up to 14.2x faster Qwen3.8-27B inference on a single A100 - a drop-in plugin for vLLM 0.31.0 | atdev-company](https://github.com/atdev-company/atdev-serve)
     * [이거 만드느라 진짜 고생했어. 이제 Qwen3.8-27B를 A100 한 장에서 최대 14.2배 빠르게 돌릴 수 있어! | atdevcompany, Threads](https://www.threads.com/@atdevcompany/post/DfUNRdZGpvo)
     * [atdev-company/Qwen3.8-27B-atdev-c1 · Hugging Face](https://huggingface.co/atdev-company/Qwen3.8-27B-atdev-c1)
+    * [atdev 최적화에서 영감을 받아 Qwen3.8-flash-next에 드래프터를 적용해 3배 넘는 속도 향상 | taewoo.lee.315, Threads](https://www.threads.com/@taewoo.lee.315/post/DfeDtDGId1t)
+      * atdev가 공개한 기법 중 드래프터 재학습만 Qwen3.8-flash-next에 적용한 후기—AWQ W4A16으로 A100 4장에서 돌리던 환경이라 추가 학습이 필요했지만 self-distillation으로 드래프터를 학습하니 원본과 거의 같은 품질로 디코딩이 약 70% 빨라졌고, ThinkingCap으로 추론량을 줄이는 추가 학습까지 더해 전체 3배 이상. 학습 데이터는 영어·한국어 공개 대화 데이터셋 질문 1만 7천 개, 드래프터 베이스는 incoai 드래프터. DeepSeek-V4.1-Flash는 이미 드래프터가 적용돼 있어 같은 이득을 못 얻었다고 덧붙임
     * 한국 ATDEV가 공개한 vLLM 0.31.0용 드롭인 플러그인—vLLM을 수정하지 않고 플러그인 엔트리포인트로 끼어들어 커스텀 CUDA 커널·트리 기반 speculative decoding·퓨전·스케줄링을 추가하고 OpenAI 호환 서버 API는 그대로. A100 80GB 한 장에서 Qwen3.8-27B 단일 사용자 디코딩이 bf16 기본 vLLM 28.9 → 408.9 tok/s(14.2배, 최적 vLLM 설정 196.5 대비 2.08배), 32 동시 요청 집계 처리량은 2,688.1 tok/s(bf16 대비 4.0배). 혼자 쓸 때용 C1(3비트 가중치 W3 오버레이+재학습한 DFlash2 드래프터)과 다중 사용자용 C32(Hadamard W4A4) 프로파일로 나누고, 같은 모델 파일만 쓰는 "엔진만" 결과(1.45배/1.22배)와 모델 측 변경을 포함한 "풀 스택" 결과를 분리해 보고. GSM8K는 기준 대비 1점 이내·롱컨텍스트 검색 36/36 게이트 통과(좁은 게이트라 폭넓은 정확도 보장은 아님을 명시), 최대 262,144 컨텍스트. AI_SETUP.md를 코딩 에이전트에 주면 설치·실행·검증을 알아서 함. 다른 모델도 순차 공개 예정
   * [nano-vllm: Nano vLLM](https://github.com/GeeeekExplorer/nano-vllm)
     * [nanoRLHF 프로젝트에서 가장 어려웠던 nanovllm 개발 종료](https://www.facebook.com/story.php?story_fbid=3811983599094612&id=100008490288977)
@@ -4966,6 +4989,10 @@ NLP
   * [vLLM-Omni](https://docs.vllm.ai/projects/vllm-omni/)
     * [vllm-omni: A framework for efficient model inference with omni-modality models | vllm-project](https://github.com/vllm-project/vllm-omni)
     * 옴니모달(텍스트·이미지·오디오·비디오) 모델 추론용 vLLM 프로젝트
+  * [vLLM Router: A high-performance and light-weight router for vLLM large scale deployment](https://github.com/vllm-project/router)
+    * [대규모 vLLM 추론 환경을 위한 고성능 요청 라우팅 시스템, vLLM Router](https://digitalbourgeois.tistory.com/4442)
+    * 여러 vLLM 워커 앞에 두는 Rust 요청 전달기(`pip install vllm-router`로도 설치). 로드 밸런싱 정책 다섯 가지—round robin, random, 같은 세션·사용자를 같은 워커로 보내 KV 캐시를 재사용하는 consistent hash(`X-Session-ID` 헤더), 무작위 두 워커 중 덜 바쁜 쪽을 고르는 power of two, prefix 캐시 적중을 노리는 cache-aware. Prefill과 Decode를 다른 워커가 맡는 분리 구성을 지원하며 NIXL(URL 직접 지정)·NCCL(ZMQ 디스커버리)·Mooncake(KV 전송 파라미터를 요청에 주입) 커넥터별로 설정하고 단계마다 정책을 따로 줄 수 있음
+    * 그 밖에 에이전트 워크로드용 Program 스케줄링(Program 식별, 요청 풀 수용 제어, Progress-TTL, 전역 큐 배치), Kubernetes 셀렉터 기반 워커 자동 발견, 지수 백오프 재시도와 서킷 브레이커, Prometheus 메트릭, 요청 ID 헤더 추적, 토큰 검증 URL을 통한 인증, 실패 시 요청을 막는 WASM 요청 미들웨어, vLLM Rust Inference API를 쓰는 `grpc://` 워커 지원. SGLang Model Gateway의 포크로 시작해 vLLM 호환에 필요한 최소 변경만 한 상태이며 이후 갈라질 예정
 * VRAM & Performance Calculator [Can You Run This LLM? VRAM Calculator (Nvidia GPU and Apple Silicon)](https://apxml.com/tools/vram-calculator)
   * [내 맥북에서 어떤 LLM까지 돌릴 수 있을까? ](https://www.facebook.com/syp.sypark/videos/1404010003932593)
 * [webGPT: LLM이 Human Sequence of Actions을 모방할 수 있는가? | OPENAI 2021 | 조용래 - YouTube](https://www.youtube.com/watch?v=0yMZyIru-X0)
@@ -5299,6 +5326,11 @@ NLP
 * [김헌기 - 단상 AgenticRAG는 거의 왔고, AgenticEmployee는 아직 멀다 | Facebook](https://www.facebook.com/hnki0104/posts/pfbid02k7oKndfRmbSepmFAGNAVsEu7Aqyd1rCgm2U9WFBG8QWaBmap33xYbMLMjcDjbcwl)
   * 사내 지식 플랫폼 OREO를 보며 쓴 단상—종착점은 사내 지식을 AgenticWorker가 운영하고 AgenticEmployee가 그 지식으로 구성원 요청에 따라 Teams·Google Chat·Gemini Enterprise로 전달하는 세상인데, 현재는 네 단계가 섞여 있음. ①AgenticRAG: Adaptive-RAG·CRAG·Self-RAG·IRCoT 패턴은 코드에 있지만 활성화 플래그 꺼짐·Shadow/Replay 검증 미완, Relevancy는 높아도 Groundedness·Retrieval Topicality·First Useful Answer가 목표 미달—"구현됨"과 "운영 가치 검증됨"은 다르다 ②GraphRAG: Neo4j 클라이언트·엔티티 추출·커뮤니티 탐지 등 부품은 있지만 live search 경로에 연결되지 않아 사용자 입장에선 0 ③AgenticWorker: Temporal·agent registry·Datadog·Postgres 위에서 HR sync·KB health·golden question regression 워커가 돌지만 문제를 자동으로 고치고 반영하는 폐루프는 사람 승인 의존—"관찰자이자 보고자" ④AgenticEmployee: L1~L3 구조와 Teams proactive delivery는 승인됐지만 핵심 인스턴스(E2 KnowledgeQueryInstance·E4 KBEditorEmployee)는 미구현
   * 결론: 멋진 걸 더 붙이기보다 AgenticRAG를 켜기 전 품질 폐루프 확인, GraphRAG는 무결성 확인 후 live 연결 시점 결정, Worker는 평가→보수 폐루프, 가장 큰 병목은 비전의 주인공인 Employee를 코드에 세우는 일. "RAG는 기능, Graph는 기억 구조, Worker는 운영 체계, Employee는 회사가 AI와 함께 일하는 방식"—네 가지가 하나의 폐루프로 이어져야 검색 플랫폼이 아닌 Agentic Ops Platform이 된다
+* [Faster Retrieval for Better, More Efficient RAG | Apple Machine Learning Research](https://machinelearning.apple.com/research/faster-retrieval)
+  * [Amortizing Maximum Inner Product Search with Learned Support Functions | Apple Machine Learning Research](https://machinelearning.apple.com/research/amortizing-inner-product-search)
+  * [더 나은, 더 효율적인 RAG를 위한 빠른 검색 | GeekNews](https://news.hada.io/topic?id=37031)
+  * 추천·검색·RAG의 핵심 연산인 최대 내적 검색(MIPS)을 실제 질의 분포에 맞춰 빠르게 하는 ICML 2026 논문 해설. 기존 근사 검색은 키 집합의 기하 구조로만 인덱스를 만들어 짧은 사용자 질문과 길고 정제된 문서 키가 다르다는 점, 서비스의 질의 분포가 안정적이라는 신호를 쓰지 못함. 질의를 최대 내적값에 대응시키는 함수는 볼록 해석의 지지 함수(support function)이고 그 기울기가 곧 최적 키라는 구조에 착안해, 고정된 키 DB에 대해 작은 신경망을 오프라인으로 한 번 학습(표본 질의마다 전수 검색으로 정답을 구해 회귀)
+  * SupportNet은 입력 볼록 신경망으로 클러스터별 지지 함수를 배워 "이 클러스터 안의 가장 좋은 키가 얼마나 좋은가"로 라우팅—중심점과의 거리만 보는 IVF 라우팅이 중심에서 먼 키를 놓치는 문제를 줄임. KeyNet은 질의를 최적 키에 가까운 벡터로 바꿔 기존 IVF 인덱스에 그대로 넣는 질의 재작성기이며 동차 함수에 대한 오일러 정리에서 나온 일관성 손실로 학습. 약 260만 passage의 Natural Questions(FAISS IVF)에서 신경망 실행 시간을 포함해도 SupportNet은 95% 라우팅 재현율에 중심점 라우팅보다 약 1.9배 빨리 도달하고, KeyNet은 99% 재현율까지 걸리는 시간을 최대 약 8배 줄임. 속도가 병목이면 KeyNet, 재순위화·임곗값에 쓸 보정된 점수도 필요하면 SupportNet
 * [2509.01092 REFRAG: Rethinking RAG based Decoding](https://arxiv.org/abs/2509.01092)
   * [Meta Researchers Introduce REFRAG: A New RAG Approach | Avi Chawla님이 토픽에 대해 올림 | LinkedIn](https://www.linkedin.com/posts/avi-chawla_researchersfrommetabuiltanewragapproach-activity-7383088093597220864-wXLO)
   * [토큰을 버리고 임베딩을 선택하다, Meta가 다시 쓴 RAG 공식 | Suk Hyun Kim](https://www.linkedin.com/posts/suk-hyun-kim-31ba9b369_ai-suaqtztfmqvz-rag-activity-7405368460823658496-aE2B)
@@ -5778,6 +5810,10 @@ NLP
 * [**The Super Duper NLP Repo**](https://notebooks.quantumstat.com/)
 * Text2SQL
   * [if(kakao)dev2022 RYANSQL: 한국어 Text2SQL 모델 개발](https://if.kakao.com/2022/session/71)
+  * [QueryWeaver: An open-source Text2SQL tool that transforms natural language into SQL using graph-powered schema understanding | FalkorDB](https://github.com/FalkorDB/QueryWeaver)
+    * [app.queryweaver.ai](https://app.queryweaver.ai)
+    * [자연어 질문을 SQL로 변환하는 Text2SQL 솔루션, FalkorDB QueryWeaver 살펴보기](https://digitalbourgeois.tistory.com/4439)
+    * 평문 질문을 SQL로 바꿔 실행하고 SQL·결과·AI 응답을 돌려주는 Text2SQL 도구. 대상 DB(PostgreSQL·MySQL)의 테이블·컬럼·외래 키를 FalkorDB에 그래프로 저장해 테이블 간 관계를 고려한 쿼리를 생성하고, 사용자별 대화 메모리도 FalkorDB에 두어 이전 질문·결과를 잇는 멀티턴 질의를 지원(TTL로 유휴 메모리 정리 가능). 쓰는 방법은 셋—Docker로 띄우는 웹 앱과 REST API(그래프 목록·스키마 조회·업로드·스트리밍 질의, API 토큰 인증), Text2SQL 흐름을 담은 MCP 서버(`list_databases`·`connect_database`·`database_schema`·`query_database`), 웹 서버 없이 앱에 넣는 Python SDK(`pip install queryweaver`). INSERT·UPDATE·DELETE는 확인을 거쳐야 실행되며 LLM은 OpenAI·Gemini·Anthropic·Azure 키로 설정
   * [SPARTA: Semantic Parsing And Relational Table Aware Model that generates SQL from question written in Korean language](https://github.com/TooTouch/SPARTA)
     * [Text2SQL 한국어 데이터 테스트 - YouTube](https://www.youtube.com/watch?v=qzeufyuyrEE)
 * [text-to-text-transfer-transformer: Code for the paper "Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer"](https://github.com/google-research/text-to-text-transfer-transformer)
