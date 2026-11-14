@@ -3403,6 +3403,10 @@ Docker
   * [Devbox - 격리 쉘/컨테이너를 쉽게 만들어주는 CLI도구 | GeekNews](https://news.hada.io/topic?id=7279)
   * [I replaced Docker with THIS. - YouTube](https://www.youtube.com/watch?v=Mpmjl5RTAlA)
 * [docker-machine-for-mac: Docker Machine for Mac - an alternative to Docker for Mac](https://github.com/stenh0use/docker-machine-for-mac)
+* [kiri: A small, fast container runtime for macOS, Windows and Linux](https://github.com/libracoder/kiri)
+  * [Kiri](https://runkiri.com)
+  * Docker Desktop·OrbStack을 대체하는 Rust 기반 경량 컨테이너 런타임. 작은 Linux VM 하나(Linux에서는 커널 위에서 직접)로 컨테이너를 돌리고 Docker Engine API를 그대로 구현해 기존 docker CLI·Compose·buildx·docker login을 `kiri` 컨텍스트로 그대로 사용, amd64 이미지는 Rosetta로 실행. VM은 유휴 시 잠들었다가 바로 깨어나 평소 자원 사용이 작음
+  * `<이름>.kiri.local` 로컬 도메인과 자체 인증 기관 HTTPS, 명령 하나로 띄우는 단일 노드 Kubernetes(kiri k8s start), Linux 머신 생성(kiri machine), 컨테이너·이미지·볼륨·네트워크를 다루는 네이티브 창과 메뉴 막대 항목, OrbStack·Docker Desktop에서 이미지·볼륨·컨테이너를 가져오는 kiri import. Windows는 WSL 2 위에서 동작
 * [lima: Linux virtual machines, on macOS (aka "Linux-on-Mac", "macOS subsystem for Linux", "containerd for Mac", unofficially)](https://github.com/lima-vm/lima)
   * [**containerd & Lima: Open source alternative to Docker for Mac | by Akihiro Suda | nttlabs | Sep, 2021 | Medium**](https://medium.com/nttlabs/containerd-and-lima-39e0b64d2a59)
   * [Man Seok Techne Schoe: Lima + docker server 구성](https://manseok.blogspot.com/2022/04/lima-docker-server.html)
