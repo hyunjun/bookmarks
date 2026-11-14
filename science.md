@@ -73,6 +73,11 @@ Science
   * [OpenScience: AI 에이전트로 문헌 조사부터 데이터 분석, 실험 재현까지 자동화하는 오픈소스 연구 플랫폼 | digitalbourgeois](https://digitalbourgeois.tistory.com/3738)
   * 문헌 조사·가설 수립부터 코드 작성·실험·결과 분석까지 과학 워크플로를 자동화하는 AI 리서치 플랫폼. 브라우저 기반 워크스페이스, 290개+ 전문 스킬, 주요 과학 데이터베이스 연동, 멀티 모델 지원. ML·생물·물리·화학 연구에 활용, 벤더 락인 없음
   * 2026.10 기준 보강—YC 투자 Synthetic Sciences. 데스크톱 앱(macOS·Windows·Linux, Electron)·브라우저 워크스페이스·CLI(`npm i -g @synsci/openscience` 또는 `npx synsci`)로 같은 프로젝트 폴더에서 동작하고 모든 턴이 생각→검색→실행→작성→답의 기록으로 남음. Shell·Python/R 커널·노트북, 명시적 읽기/쓰기 권한의 파일 시스템(프로젝트 밖은 별도 허가, 네트워크 명령은 호스트별 1회 승인), 로컬 커널에서 Modal·SSH·Slurm/PBS 클러스터까지 승인 후 실행하는 원격 컴퓨트, 생물·화학·물리·ML·글쓰기 371개 번들 스킬과 UniProt·PDB·ChEMBL·PubChem·arXiv 등 42개 과학 DB 커넥터, NVIDIA BioNeMo NIM BYOK 어댑터 10종(Boltz-2·DiffDock·Evo 2·OpenFold3·RFdiffusion 등), 리드 에이전트가 explore·general·도메인 전문 5종 워커에 병렬 위임. 모델은 자기 키·ChatGPT Plus/Pro 로그인·로컬(Ollama·LM Studio)·관리형 종량제 Ace 중 선택. Terminal-Bench Science·Terminal-Bench 4.0(science)·BiomniBench-DA(82.2)·자체 OpenScience Bench 선두 주장. MCP·커스텀 에이전트/명령·플러그인·TypeScript SDK로 확장
+* [Microcosmos | Artificial Life Institute](https://alife.institute/en/blog/microcosmos-release)
+  * [2607.02954 Microcosmos: Reimagining Artificial Life for the GPU Era](https://arxiv.org/abs/2607.02954)
+  * [microcosmos: Reimagining Artificial Life for the GPU Era | alife-institute](https://github.com/alife-institute/microcosmos)
+  * 생명체를 점성 유체 속을 헤엄치는 탄성 필라멘트 사슬로 모델링한 GPU 네이티브·완전 미분 가능 인공 생명 엔진(JAX). 인공 생명이 자연 같은 개방형 진화 복잡성을 못 낸 이유를 도구에서 찾음—셀룰러 오토마타 같은 추상 세계는 진화시키기 싸지만 몸·유체·힘이 없고, 물리 기반 체화 시뮬레이터는 그럴듯하지만 대규모 진화에 비쌈. 편모·세포골격·근섬유·예쁜꼬마선충처럼 생물에 흔한 필라멘트는 최근접 연결뿐인 사슬이라 표현력과 확장성을 함께 얻는 구성 단위
+  * 필라멘트(연속 공간의 늘어남·굽힘에 저항하는 이산 탄성 막대)와 장(유체 등 환경 격자, Lattice Boltzmann)을 겹쳐 하나의 동역학계로 진화시키고, 유전 부호가 형태와 행동을 함께 지정. 같은 프레임워크에서 경사 하강(필라멘트를 목표 글리프 모양으로 접기)과 진화 탐색(다양한 유영·먹이 찾기 행동)을 모두 수행하고 유체 결합이 실제 물리 제약을 따르는지 검증. 글에 필라멘트를 끌어 볼 수 있는 WebGPU 라이브 데모 포함
 
 # Biology
 * [영장류의 움켜잡기 능력에 대한 새로운 연구](http://newspeppermint.com/2015/04/28/primate-grip/)
@@ -291,6 +296,13 @@ Science
 * [별은 노래한다](http://techholic.co.kr/archives/31601)
 * [위성 안테나 크기와 스마트폰 직접 통신의 물리 | Gunn Kim](https://www.facebook.com/gunn.kim.79/posts/pfbid02Zhoo6p5cRtz3EFKxeAaczzyBPj3Cbn7WKa66fRtADQSfQPQYcpi842pCFyS5huEwl)
   * 일반 통신위성 안테나는 지름 2~3m지만, 스마트폰처럼 출력 낮은 기기 신호를 우주에서 직접 수신하려면 수신 면적(안테나)이 훨씬 커져야 함. 하지만 크게 만들면 위성 질량이 늘어 발사가 어려워지는 트레이드오프 설명
+* [Deep-learning enabled generalized inverse design of multi-port radio-frequency and sub-terahertz passives and integrated circuits | Nature Communications](https://www.nature.com/articles/s41467-024-54178-1)
+  * [Near real-time full-wave inverse design of electromagnetic devices | Nature Communications](https://www.nature.com/articles/s41467-026-69477-y)
+    * Stanford·USC. 기존 전자기 역설계는 반복마다 비싼 풀웨이브 시뮬레이션을 돌리거나 신경망 대리 모델용 대규모 데이터셋이 필요했는데, 설계에서 바뀌지 않는 부분을 한 번의 병렬 사전 계산으로 수치 그린 함수에 담아 두는 Precomputed Numerical Green Function 방법을 제안—후보 평가 비용이 수정하는 영역 크기에만 비례하고, 저랭크 행렬 갱신으로 근사 없이 반복당 밀리초 수준까지 낮춤. 선형 시간 복잡도로 기존 솔버 대비 최대 1만 6천 배 빨라져 며칠~몇 주 걸리던 설계가 몇 분으로 줄어듦. 학습 데이터 없이 정확 계산으로 승부한 접근
+  * [RF 칩 무늬 역설계와 바둑—AI가 그린 QR 코드 같은 패턴과 알파고의 37수 | Gunn Kim](https://www.facebook.com/gunn.kim.79/posts/pfbid038NE1GjzBndCmbDF1hD5btnHnNF3YxnifozEpBVmZ6mUmfTYHonuieC49nB3HVwy7l)
+    * 두 논문을 바둑에 빗댄 해설. 휴대전화 RF 칩은 금속 선 무늬가 성능을 정하는데 수십 년간 숙련 설계자가 기본 모양(정석)에서 출발해 몇 주~몇 달 다듬어 왔음. 역설계는 순서가 거꾸로—원하는 성능을 먼저 말하면 AI가 그 성능을 내는 무늬를 찾고, 결과는 나선도 대칭도 없는 QR 코드 같은 모양인데 실제 칩으로 만들어 측정하니 5G 대역을 넓고 고르게 증폭. 25×25칸에 금속을 놓거나 비우는 경우의 수는 바둑 국면 수보다 많고, 한 칸이 전류의 길을 잇거나 끊어 성능을 뒤집지만 승부는 판 전체 모양으로 결정
+    * 풀이도 알파고를 닮아 무늬를 보고 전파 흐름을 맞히는 신경망(형세 판단)과 후보 수천 개를 섞고 바꾸며 세대를 진화시키는 탐색을 결합. 다른 점은 상대가 맥스웰 방정식 하나로만 응수하는 자연이라 형세를 정확히 계산할 수 있다는 것—2026년 논문은 금속 한 칸을 뒤집을 때 달라지는 부분만 계산해 이 점을 파고듦. 정석은 탐색을 줄여 주는 지혜이자 울타리였고, 이기는 모양을 찾는 일은 기계가, 그 모양이 왜 이기는지 읽어 다음 세대의 정석으로 만드는 일은 사람이 맡게 됐다는 결론
+  * Princeton 등. mm-Wave·서브테라헤르츠 집적회로 설계는 사람이 고른 정형 토폴로지와 매개변수화된 전자기 구조 템플릿을 스윕으로 다듬는 상향식이라 설계 공간이 근본적으로 제한됨. 임의 형상의 다중 포트 전자기 구조를 원하는 방사·산란 특성에서 거꾸로 합성하고 능동 회로와 함께 설계하는 범용 역설계 방법을 딥러닝 모델로 구현—복잡한 mm-Wave 수동 구조와 종단 간 광대역 회로를 수 분 안에 합성해 사람의 직관 밖 구조를 찾아냄
 * 암흑물질
   * [2년 만에…암흑물질 해명 나선 LHC](http://techholic.co.kr/archives/31719)
   * [암흑물질의 상세한 지도가 최초로 공개됐다](http://www.huffingtonpost.kr/2015/04/23/story_n_7123840.html)
