@@ -1522,6 +1522,9 @@ Docker
     * 일반 컨테이너가 모두 종료되면 종료되는 특징
     * 이 동작을 이해할 수 있는 그림과 함께 예제도 제공해서 이해하기 좋음
 * [쿠버네티스 네이티브 사이드카 컨테이너 (Sidecar Containers)](https://d2.naver.com/helloworld/5564264)
+* [사이드카의 선언적 관리: OpenKruise SidecarSet 도입과 운영 | NAVER D2](https://d2.naver.com/helloworld/2983631)
+  * 네이버클라우드 관리형 DB 서비스 사례. DB Pod는 몇 달씩 그대로 두지만 헬스 체크·메트릭·로그 수집 사이드카는 자주 바뀌어, DB를 재시작하지 않고 실행 중인 Pod의 사이드카만 바꿔야 함. Kubernetes만으로는 사이드카 이미지가 Pod 템플릿마다 따로 지정돼 한 번에 바꿀 수 없고, 템플릿을 고치면 DB까지 재시작되며, in-place 이미지 수정은 Pod마다 해야 하고 반영 여부도 Pod별로 비교해야 함. 스크립트는 실행 순간에만 맞추므로 결국 의도한 상태에 계속 맞추는 조정 루프(컨트롤러)가 필요—직접 만드는 대신 완료 판정, 동시성·범위 제어, 진행 집계를 이미 갖춘 CNCF 인큐베이팅 프로젝트 OpenKruise의 SidecarSet을 도입
+  * SidecarSet은 사이드카 정의 전체와 주입 대상 레이블을 CR 하나에 선언하고, 새 Pod에는 웹훅이 최신 정의를 주입하며 선언을 바꾸면 컨트롤러가 실행 중인 Pod를 맞춤. 배포는 updateStrategy의 partition(이전 버전으로 남길 범위)과 maxUnavailable(동시 교체 속도)로 조절하고 status로 진행을 조회. 주의점: 즉시 반영되는 것은 이미지뿐이고 securityContext·볼륨·환경 변수 등은 Pod가 다시 만들어질 때 반영, partition 기본값 0은 선언 즉시 롤아웃이라 선언과 적용을 분리해야 하고, 도입 전 Pod는 한 번 재생성해야 관리 대상이 됨. kruise 웹훅은 failurePolicy가 Fail이라 장애 시 SidecarSet과 무관한 Pod 생성·수정·삭제·eviction까지 막히므로(실행 중인 Pod는 영향 없음) 컨트롤러를 여러 노드에 레플리카로 두고 영향 범위를 장애 대응 절차에 반영
 * [실사례로 본 DB on Kubernetes 효과. 기업의 가장 중요한 자산은 Data이다. 그 Data를 보관하고… | by Jerry(이정훈) | Apr, 2021 | Medium](https://jerryljh.medium.com/%EC%8B%A4%EC%82%AC%EB%A1%80%EB%A1%9C-%EB%B3%B8-db-on-kubernetes-%ED%9A%A8%EA%B3%BC-eaed8e4e5811)
 * [실수 없이 안전하게 쿠버네티스 운영하기](https://toss.im/slash-21/sessions/1-5)
 * [11 Ways (Not) to Get Hacked | Kubernetes](https://kubernetes.io/blog/2018/07/18/11-ways-not-to-get-hacked/)
