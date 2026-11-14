@@ -1272,6 +1272,11 @@ Web
 * [The asteroid currently hitting frontend web development | Nolan Lawson](https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development/)
   * [AI라는 소행성이 강타한 프론트엔드 웹 개발 | GeekNews](https://news.hada.io/topic?id=33223)
   * 프론트엔드 교육자들(Axel Rauschmayer, Josh Comeau 등)이 활동을 접거나 줄이고, 유명 인사들은 AI 이야기로 전향하는 현상 진단. 저자의 전문 분야였던 CSS 성능 분석조차 Claude가 Chrome trace를 읽고 처리하는 시대—AI라는 소행성이 프론트엔드 지식 생태계에 미친 충격에 대한 에세이
+* [The AI cost of JavaScript frameworks | Nolan Lawson](https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/)
+  * [JavaScript 프레임워크별 AI 개발 비용 비교 | GeekNews](https://news.hada.io/topic?id=36393)
+  * 에이전트 시대에도 "이 프레임워크가 에이전트에 더 좋다"는 주장이 증거 없이 돈다며 직접 만든 벤치마크. PokéAPI 기반 포켓몬 도감 앱 하나를 12개 스택(Hono+htmx·Astro·Nuxt·Vanilla·Next.js·Qwik·TanStack Start·SolidStart·React Router·SvelteKit·Gracile+Lit·Angular)으로 Claude Code(Opus 5.5, high effort)에 다섯 번씩 만들게 하고 접근성 트리 기반 적합성 테스트로 걸러 비용·시간·토큰·코드량·Lighthouse 점수를 중앙값으로 비교. 공정성을 위해 스택마다 공식 MCP·스킬을 쓰게 하고 SSR/CSR이나 성능 최적화는 지시하지 않음
+  * 결과: 비용과 시간은 Hono+htmx·Astro·Nuxt가 낮고 Angular·Gracile+Lit·SvelteKit이 높았으며 Angular는 두 번은 측정 가능한 앱을 만들지 못함. 프레임워크 없는 Vanilla(Vite)가 여러 프레임워크보다 못해 "뭐라도 있는 편이 낫다"는 관찰, 공식 MCP·스킬이 오히려 해가 될 수 있다는 의심. 단서도 분명히 밝힘—콘텐츠 중심의 작은 앱 하나, 모델 하나, 결과가 매우 확률적이고 Lighthouse·Core Web Vitals는 SPA에 불리. 목적은 승자를 가리는 것이 아니라 바이브 코딩 시대에도 분위기가 아닌 증거로 기술 스택을 고를 수 있음을 보이는 것이며 벤치마크는 GitHub에 공개
+  * 품질·유지보수 쪽 결과: Lighthouse 성능·접근성·CLS 점수는 모든 스택이 거의 만점. 전송되는 JS는 Astro·Vanilla·Gracile+Lit·Hono+htmx가 가장 작고 React Router·TanStack Start·Next.js가 가장 크며, TBT는 Next.js·Angular가 높고 LCP는 MPA에 유리(SPA 중 Qwik이 예외). 유지보수성은 코드 줄 수로 보았는데 Hono+htmx가 가장 적고 Angular가 가장 많음—코드량이 이후의 토큰 비용을 좌우하기 때문. 비용 원인으로 SvelteKit은 매번 마이그레이션 가이드를 읽었고 Gracile은 에이전트가 소스를 읽었으며 Angular는 코드량 자체가 큼. Vanilla에서는 다섯 번 모두 SPA를 골랐고 Gracile에서는 두 번 Lit을 쓰지 않았으며, Angular의 실패 두 번은 SSR 앱이 localhost가 아닌 요청을 거부한 탓. MCP·스킬은 쓰임이 들쭉날쭉(Nuxt MCP는 한 번도 안 쓰임, Next.js 스킬은 다섯 번 중 한 번)
 
 # GraphQL
 * [REST vs GraphQL | AlgoMaster](https://blog.algomaster.io/p/rest-vs-graphql)
