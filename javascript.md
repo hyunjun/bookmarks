@@ -1673,6 +1673,11 @@ Javascript
   * [디자인 시스템이 AI를 만났을 때: FE 개발 패러다임의 변화 - NAVER D2](https://livewiki.com/ko/content/design-system-ai-fe-paradigm-shift)
 * [당연해진 디자인시스템, 그다음 이야기: AST와 MCP로 여는 미래 #우아콘2025 #우아한형제들 - YouTube](https://www.youtube.com/watch?v=HTHcsVgI_CM)
   * [디자인시스템의 미래: AST와 MCP로 우아한형제들 개발 효율을 높이다](https://livewiki.com/ko/content/design-system-ast-mcp-future)
+* [Design Systems Should Be Fast by Default | Den Odell](https://denodell.com/blog/design-systems-should-be-fast-by-default)
+  * [design-system-performance-tests](https://github.com/denodell/design-system-performance-tests)
+  * 디자인 시스템은 브라우저·프레임워크 위, 제품 코드 아래의 층이라 여기서 느리면 그 위의 모든 앱이 느려지고 앱 팀은 고칠 수 없으므로, 접근성처럼 성능도 디자인 시스템 팀의 우선순위여야 한다는 주장. 컴포넌트는 보통 항목 몇 개로만 테스트돼 실제 데이터 양에서 문제가 드러남. 오픈소스 디자인 시스템 10종(Mantine·Ant Design·Material UI·React Spectrum·Carbon·Fluent·Web Awesome·UI5·Spectrum Web Components·Ionic)을 249개 국가 선택 드롭다운 열기와 체크박스 100개 일괄 선택으로 측정(CPU 4배 감속)—컴포넌트 단위 성능 테스트를 자동으로 돌리는 곳은 한 곳뿐이었고 대부분은 번들 크기만 확인
+  * 결과: 성능은 프레임워크만으로 결정되지 않음(같은 Lit 기반끼리도 두 배 넘게 차이, 같은 시스템이 한 작업엔 느리고 다른 작업엔 빠름). 원인 프로파일링—Ionic 드롭다운은 shadow DOM을 쓰지 않는 라디오 그룹에서 Stencil의 슬롯 처리가 옵션을 추가할 때마다 기존 옵션을 여러 번 훑어 옵션 수에 따라 급격히 느려짐(Ionic·Stencil 양쪽에 제보), Ant Design은 보이는 옵션만 렌더하는 가상화로 빠르되 스크린 리더용 숨은 사본을 유지, UI5는 숨겨 둔 팝오버의 옵션 스타일 계산이 열릴 때 한꺼번에 발생. 각 문제마다 수정 방법을 제안하고 테스트 코드를 공개
+  * 나머지 원인과 제안: UI5는 숨은 팝오버의 요소 약 1,500개가 한꺼번에 스타일 계산되는 것이 원인이라 가상화를 권함. React Spectrum은 React Aria가 옵션마다 가시성을 확인하며 레이아웃 스래싱을 일으킴(이슈 제기). Ant Design 체크박스는 애니메이션 100개가 동시에 돌아 느리므로 직접 누른 항목만 애니메이션하고 opacity 페이드로 컴포지터 스레드에 맡기라고 제안. 테스트 방법은 Playwright에서 CDP의 작업 시간 측정·CPU 4배 감속·Long Animation Frames API·성능 예산(총 300ms, 블로킹 100ms)을 쓰는 것이고, 가장 쓸모 있는 단일 테스트는 전체 목록과 절반 목록의 시간 비가 2.5 미만인지 보는 스케일링 테스트. 권고는 빠른 동작을 기본값으로(자동 가상화), 테스트한 항목 수를 문서화, 앱 팀에서 실제 프로파일 수집
 * [astryx: An open source design system that's fully customizable and agent ready | Meta](https://github.com/facebook/astryx)
   * [Astryx 공식 사이트](https://astryx.atmeta.com/)
   * [Meta가 공개한 오픈소스 디자인 시스템 'Astryx'란? 특징부터 아키텍처까지 한눈에 정리 | digitalbourgeois](https://digitalbourgeois.tistory.com/3349)
