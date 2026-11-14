@@ -52,6 +52,8 @@ GIS
   * [Planetary prediction engine: Automating global models via Earth AI | Google Research](https://research.google/blog/planetary-prediction-engine-automating-global-models-via-earth-ai/)
   * [Planetary Prediction Engine, 지리공간 예측 모델 구축을 자동화하는 AI 기술 | digitalbourgeois](https://digitalbourgeois.tistory.com/3595)
   * Google Earth AI의 실험적 연구 역량 PPE(Planetary Prediction Engine). 데이터 발견부터 모델 학습까지 지리공간 모델링 워크플로 전체를 자동 실행—수 주 걸리던 수작업 데이터 큐레이션·피처 엔지니어링·공간 검증을 대체. 공중보건·식량 안보·환경 재해 위험·사회경제 취약성 예측 태스크에서 성능 향상
+* [Planet OSM](https://planet.openstreetmap.org/)
+  * OpenStreetMap 데이터베이스 전체의 정기 사본을 내려받는 곳. 매주 전체 데이터가 압축 XML과 PBF 형식으로 새로 올라오고(토렌트 제공), 과거 버전과 삭제된 항목까지 담은 history 파일과 모든 변경 묶음의 메타데이터인 changesets 파일도 있음. 전체가 매우 크므로 국가·지역 단위 추출본은 GeoFabrik·BBBike 같은 제3자 미러를 쓰라고 안내하고, 형식 변환은 Osmosis, PostGIS 적재는 osm2pgsql을 소개. 2012년 9월 이후 파일은 Open Database License
 
 # Go
 * [find3: High-precision indoor positioning framework, version 3](https://github.com/schollz/find3)
