@@ -451,7 +451,7 @@ Algorithm
 
 # Dynamic Programming
 * [Egg Dropping Problem - Approach to write the code (Dynamic Programming) | GeeksforGeeks](https://www.youtube.com/watch?v=KVfxgpI3Tv0)
-* [Grokking Dynamic Programming Patterns for Coding Interviews](https://www.educative.io/collection/5668639101419520/5633779737559040)
+* [Grokking Dynamic Programming Patterns for Coding Interviews](https://www.designgurus.io/course/grokking-dynamic-programming)
 * [An Illustrative Introduction to Dynamic Time Warping | by Esmaeil Alizadeh | Oct, 2020 | Towards Data Science](https://towardsdatascience.com/an-illustrative-introduction-to-dynamic-time-warping-36aa98513b98) DTW
 * [A Dynamic Programming Model For Baseball](http://footballcommentary.com/bbmodel.htm)
 * [LCS example](http://www.tk0221.com/2015/05/dynamic-programming.html)

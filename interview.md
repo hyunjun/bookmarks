@@ -179,7 +179,7 @@ Interview
 * [머신러닝 인터뷰 준비](https://docs.google.com/document/d/10bJK8S4T7sBIP-pzdQm9xRpW0HcLsrh6D047pE_kFE8)
 * [Bet you can’t solve this Google interview question](https://medium.freecodecamp.org/bet-you-cant-solve-this-google-interview-question-4a6e5a4dc8ee) matrix coloring
 * [The best software Interview material - Prepare in less than 3 months](https://www.youtube.com/watch?v=bBPHpH8aKjw)
-* [Grokking the Object Oriented Design Interview](https://www.educative.io/collection/5668639101419520/5692201761767424)
+* [Grokking the Object Oriented Design Interview](https://www.designgurus.io/course/grokking-the-object-oriented-design-interview)
 * [SDE Skills - Programming Interviews Easy - Session 5](https://www.youtube.com/watch?v=NSINx2v_5Lw)
 * [번역 코딩 인터뷰에서 Golang을 사용해야하는 이유](https://medium.com/@EJSohn/%EB%B2%88%EC%97%AD-%EC%BD%94%EB%94%A9-%EC%9D%B8%ED%84%B0%EB%B7%B0%EC%97%90%EC%84%9C-golang%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%B4%EC%95%BC%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0-8b638ab33068) 전반부는 동의할 수 없고 후반부는 어느 정도 동의
 * [14 Patterns to Ace Any Coding Interview Question](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
@@ -381,7 +381,7 @@ Interview
 * [Top 30 Apple Coding Interview Questions (With Solutions) | by The Educative Team | Better Programming](https://betterprogramming.pub/top-30-apple-coding-interview-questions-with-solutions-19990071ebfc)
 
 # Architecture, System Design
-* [Grokking the System Design Interview](https://www.educative.io/collection/5668639101419520/5649050225344512) 유료 course
+* [Grokking the System Design Interview](https://www.designgurus.io/course/grokking-the-system-design-interview) 유료 course
 * [Is Grokking Advanced System Design Interview on Educative worth it? Review | by javinpaul | Javarevisited | Sep, 2022 | Medium](https://medium.com/javarevisited/is-grokking-advanced-system-design-interview-on-educative-worth-it-review-d0be0148c9f0)
 * [Is Grokking System Design Fundamentals on DesignGuru.io Worth It? Review | by javinpaul | Javarevisited | Apr, 2024 | Medium](https://medium.com/javarevisited/is-grokking-system-design-fundamentals-on-designguru-io-worth-it-review-2ea2188699f1)
 * [Preparing for the System Design Interviews V2 - End to End | Udemy](https://www.udemy.com/course/preparing-for-system-design-interviews/) 유료 course
@@ -622,7 +622,7 @@ Interview
       * 각 방식을 애니메이션으로 보여주어 이해 용이
   * Short / Tiny URL
     * [Design a service like TinyUrl](https://www.youtube.com/watch?v=fMZMm_0ZhK4)
-    * [Designing a URL Shortening service like TinyURL](https://www.educative.io/collection/page/5668639101419520/5649050225344512/5668600916475904)
+    * [Designing a URL Shortening service like TinyURL](https://www.designgurus.io/course-play/grokking-the-system-design-interview/doc/designing-a-url-shortening-service-like-tinyurl)
     * [How to implement TinyURL (System Design Interview)](https://www.youtube.com/watch?v=eCLqmPBIEYs)
     * [System Design: URL Shortener](https://www.youtube.com/playlist?list=PL5tcWHG-UPH38OBsRIdxVvNV2nwrXkf6t)
     * [How to Interview an Engineer for your Startup](https://www.tkkader.com/2012/03/how-to-hire-a-hacker-for-your-startup/)
@@ -645,7 +645,7 @@ Interview
       * [Agora - Clubhouse Is Just One Of The Possibilities (NASDAQ:API) | Seeking Alpha](https://seekingalpha.com/article/4403413-agora-clubhouse-is-just-one-of-possibilities)
     * Instagram
       * [Designing Instagram: System Design of News Feed](https://www.youtube.com/watch?v=QmX2NPkJTKg)
-      * [Designing Instagram](https://www.educative.io/collection/page/5668639101419520/5649050225344512/5673385510043648)
+      * [Designing Instagram](https://www.designgurus.io/course-play/grokking-the-system-design-interview/doc/designing-instagram)
       * [How to Build a Mobile App like Instagram? (Instagram Clone)](https://www.engineerbabu.com/blog/how-to-build-a-mobile-app-like-instagram/)
       * [System Design Mock Interview: Design Instagram - YouTube](https://www.youtube.com/watch?v=VJpfO6KdyWE)
       * [Instagram System Architecture. Please clap and share if you like this… | by JIN | InterviewNoodle | Medium](https://medium.com/interviewnoodle/instagram-system-architecture-fdbec22e48ee)
@@ -740,7 +740,7 @@ Interview
   * [**번역 최신 네트워크 로드 밸런싱 및 프록시 소개**](https://ziwon.github.io/post/modern-network-load-balancing-and-proxying/)
   * [Scaling out load balancer devices and a backend network device](https://serverfault.com/questions/951086/scaling-out-load-balancer-devices-and-a-backend-network-device)
     * DB 샤드 갯수도, 웹서버 클러스터도 너무 많다고 가정. 그들간의 네트워킹을 이어주는 장치(스위치 허브 등)에 과부하가 걸리면 어떻게 수평확장?
-  * [Load Balancing](https://www.educative.io/collection/page/5668639101419520/5649050225344512/5747976207073280)
+  * [Load Balancing](https://www.designgurus.io/course-play/grokking-the-system-design-interview/doc/load-balancing)
   * [Introduction to modern network load balancing and proxying](https://blog.envoyproxy.io/introduction-to-modern-network-load-balancing-and-proxying-a57f6ff80236)
   * [Load Balancer 비교](https://medium.com/@giljae/load-balancer-%EB%B9%84%EA%B5%90-c537247b699f)
   * [Introducing Sidekick - A High Performance Load Balancer](https://blog.min.io/introducing-sidekick-a-high-performance-load-balancer/)
