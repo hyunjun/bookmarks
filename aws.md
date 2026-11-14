@@ -3251,6 +3251,11 @@ AWS
 # TDD, Test
 * [AWS Release ‘SAM Local’ to Facilitate Local Build and Test of AWS Lambda Serverless Applications](https://www.infoq.com/news/2017/08/sam-local-beta)
 * [How to Test Serverless Applications in AWS](https://www.freecodecamp.org/news/how-to-test-serverless-applications-in-aws/)
+* [aws-emulator: AWS Emulator is a local emulator of the AWS APIs](https://github.com/aws/aws-emulator)
+  * [What is AWS Emulator? - AWS Emulator User Guide](https://docs.aws.amazon.com/emulator/latest/userguide/what-is-service.html)
+  * [AWS Emulator로 AWS 계정 없이 로컬 환경에서 클라우드 애플리케이션 테스트하기 | digitalbourgeois](https://digitalbourgeois.tistory.com/4426)
+  * AWS가 직접 내놓은 로컬 AWS API 에뮬레이터. AWS 계정 없이 개발 PC·개발 서버·CI에서 요청이 AWS 대신 에뮬레이터로 가므로 실제 리소스와 비용이 생기지 않음. GUI 없이 AWS API 엔드포인트를 서빙하는 프로그램이라 환경 변수로 AWS CLI·SDK가 그 엔드포인트를 보게 하고 코드는 그대로 실행. 서버 모드(Linux는 RPM·Debian 패키지, Windows·macOS는 컨테이너)와, Rust 테스트에서 dev-dependency로 넣어 테스트마다 격리된 인스턴스를 프로세스 안에서 띄우고 에뮬레이터의 HTTP 클라이언트를 SDK에 직접 연결하는 임베디드 모드
+  * 개발·테스트 전용으로 프로덕션 워크로드나 보안 테스트에는 쓰지 말라고 명시. 서비스별로 실제 AWS와 얼마나 일치하는지 릴리스마다 fidelity 점수를 공개하고, 아직 안 되는 API·동작은 저장소의 issues 디렉터리에서 추적. 코딩 에이전트용 aws-emulator 스킬로 설정을 맡길 수 있음. Rust 워크스페이스에 서비스당 크레이트 하나(Smithy 모델에서 와이어 프로토콜 생성) 구조라 소스 빌드와 임베디드 모드 첫 빌드는 디스크와 시간이 많이 듦
 * [Floci - Any Cloud. Locally. Light, fluffy, and always free](https://floci.io/floci/)
   * [floci: Light, fluffy, and always free - The AWS Local Emulator alternative](https://github.com/floci-io/floci)
   * 무료 오픈소스(MIT) 로컬 AWS 에뮬레이터—계정·인증 토큰·유료 기능 게이트 없이 `docker compose up`만으로 localhost:4566에 AWS 호환 서비스 제공. AWS SDK·CLI·Terraform·CDK·OpenTofu·테스트 스위트를 그대로 사용, Testcontainers 연동, 웹 콘솔, LocalStack 마이그레이션 가이드. Java 구현
