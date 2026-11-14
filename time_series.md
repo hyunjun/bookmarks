@@ -83,6 +83,11 @@ Time Series
 # Library
 * [TIMESERIES DATASTORES](http://abhishekkr.github.io/slides/2015.ggn.geeknight.timeseriesdb.htm#/)
   * [시계열 DB (OpenTSDB , 인플럭스 DB , Graphite ) 정리](http://hamait.tistory.com/440)
+* [arc: Open, SQL-native time-series database for telemetry you need to keep | Basekick-Labs](https://github.com/Basekick-Labs/arc)
+  * [Basekick](https://basekick.net)
+  * [Arc 데이터베이스란? 초고속 시계열 데이터 수집과 Parquet 기반 데이터 분석 플랫폼 | digitalbourgeois](https://digitalbourgeois.tistory.com/4448)
+  * 원본 해상도의 텔레메트리 이력을 비용 때문에 다운샘플링·삭제하지 않고 오래 보관하려는 팀을 위한 시계열 분석 DB. 수집 파이프라인, 표준 Apache Parquet 저장(로컬 디스크·S3·Azure·MinIO·R2 등 내 스토리지)과 자동 컴팩션, DuckDB 기반 표준 SQL(윈도 함수·CTE·조인), 보존 정책, 연속 쿼리를 단일 바이너리에 담아 최근 데이터와 과거 데이터를 한 번에 조회. 항공우주 텔레메트리용으로 만들었고 에어갭 환경도 지원
+  * InfluxDB Line Protocol·Telegraf 호환이라 기존 수집 계층을 바꾸지 않고 일부만 이중 쓰기해 결과를 비교한 뒤 대시보드 단위로 옮기는 점진적 이전 경로를 제시. 웹 콘솔 Arc Launchpad와 CLI arcli 별도 제공. 트랜잭션 위주면 TimescaleDB, PromQL 의존 메트릭이면 VictoriaMetrics, AGPL 승인이 안 되면 상용 라이선스를 검토하라고 스스로 적합하지 않은 경우를 밝힘
 * [aresdb - A GPU-powered real-time analytics storage and query engine. https://eng.uber.com/aresdb ](https://github.com/uber/aresdb)
   * [Introducing AresDB: Uber’s GPU-Powered Open Source, Real-time Analytics Engine](https://eng.uber.com/aresdb/)
   * [Introducing AresDB - Uber’s New Engine for Massively Scalable Real Time Analytics](https://towardsdatascience.com/introducing-aresdb-6d34216b2d2d)
