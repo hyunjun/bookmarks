@@ -152,6 +152,10 @@ English
 * [jargonism.com](http://jargonism.com/)
 * [lang-8.com](http://lang-8.com/)
 * [learn.livemocha.com](https://learn.livemocha.com)
+* [LLPlayer: The media player for language learning, with dual subtitles, AI-generated subtitles, real-time translation, and more!](https://github.com/umlx5h/LLPlayer)
+  * [LLPlayer](https://llplayer.com)
+  * 자막 기능에 집중한 어학용 Windows 동영상 플레이어. 학습 언어와 모국어 자막을 동시에 띄우는 이중 자막, Whisper(whisper.cpp·faster-whisper)로 자막 없는 영상·음성에서 실시간 자막 생성, Google·DeepL·Ollama·LM Studio·OpenAI 실시간 번역과 LLM으로 앞뒤 문맥을 반영하는 번역, 비트맵 자막의 실시간 OCR 텍스트 변환
+  * 자막 사이드바에서 문장 단위 탐색·검색, 자막 단어 즉시 사전 조회와 검색 사이트를 지정할 수 있는 브라우저 검색, Yomitan 같은 브라우저 사전 확장 연동, yt-dlp로 유튜브 등 온라인 영상도 URL 붙여 넣기로 바로 재생하면서 같은 기능 사용. opensubtitles 자막 다운로더 내장
 * [Ludwig • Find your English sentence](https://ludwig.guru/)
   * [이빈 - 일반인들이 잘 모르는 영어 공부 도구 Ludwig.guru | Facebook](https://www.facebook.com/BinLeeMasterClass/posts/pfbid0FPy1PjCtSHac234Li8zuCecBY74N88dpUyc38Vt66mnH1w87RfBk9KyLJZyFEhQRl)
   * 뉴욕타임스·BBC·가디언·이코노미스트 등 신뢰할 수 있는 언론·학술지 문장에서 영어 표현을 검색하는 문장 검색 엔진. VS로 두 표현의 사용 비율을 그래프로 비교, 언더바(_)로 문맥에 맞는 동의어 추천, 한국어로 입력하면 번역 후 원어민 사용 맥락의 예문 확인
