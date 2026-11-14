@@ -212,6 +212,13 @@ Math
   * 상위 결과의 약 42%를 Lean으로 형식화해 컴퓨터 검증이 가능하고 나머지는 검증 단계가 달라 오류 가능성을 명시, 수정 시 이전 버전 보존과 원고별 BibTeX 제공. π의 무리성 지수·Mahler 추측·Vlasov–Maxwell 계 등 추론 요약 10건 공개. 고등연구소(IAS) 수학·AI 자문단의 공개 권고를 반영했고, 결과를 이해하는 학술 행사 지원과 해당 모델 공개를 추진
 * [Mathos | AI Math Solver & Calculator](https://www.mathgptpro.com/)
   * [이상선 - 클릭 몇 번으로 수학 문제 해결하기 학생들을 위한 간단한 AI 수학 도우미, 어려운 문제를 직관적이고... | Facebook](https://www.facebook.com/lsszz1/posts/pfbid031KyLEQh4mFAMinVxsabr953nTub7eyBjzwYZGjz8XjbnNTqKKePXySe8njGhjmr4l)
+* [OpenBLAS: an optimized BLAS library based on GotoBLAS2 1.13 BSD version | OpenMathLib](https://github.com/OpenMathLib/OpenBLAS)
+  * [OpenBLAS](http://www.openblas.net)
+  * 벡터·행렬 연산의 표준 인터페이스 BLAS(Basic Linear Algebra Subprograms)를 CPU별로 최적화해 구현한 라이브러리로 LAPACK도 함께 포함—NumPy·SciPy·R 등 과학 계산 스택의 행렬 곱·분해가 실제로 실행되는 바닥 층. 빌드 시 CPU를 자동 감지하거나 TARGET으로 지정하고, Fortran 컴파일러가 없으면 C로 기계 번역된 LAPACK을 사용. 기본 브랜치는 develop. WebAssembly 타깃 커널이 추가돼 브라우저 NumPy가 빨라진 경위는 web.md의 "faster NumPy in the browser" 글 참고
+* [Sagebrush · Permissively licensed research mathematics software for Python, JavaScript and Rust](https://sagebrush.space/)
+  * [sagebrush: Fast, certified, parallel engines for research mathematics in Rust, usable from Python and JavaScript (early experiment) | sagemathinc](https://github.com/sagemathinc/sagebrush)
+  * SageMath 창시자의 초기 실험. 수학자와 함께 일하는 AI 에이전트가 수천 레벨·수백만 객체 규모의 질문을 몇 초에 답받게 하자는 목표로, 하나의 거대 시스템 대신 코어를 공유하는 작고 강한 Rust 엔진 여럿(모듈러 심벌·newform, 타원곡선 a_p, Z 위 다항식, 수체의 류군·단수)을 두고 모든 결과에 "증명됨/휴리스틱" 상태를 붙임. Python·JavaScript·Sage·Magma는 얇은 인터페이스
+  * 허용적 라이선스가 설계 원칙—널리 쓰이는 연구 수학 소프트웨어 다수가 GPL(PARI·Sage·FLINT)이거나 비공개(Magma·Mathematica)라 어디에나 임베드할 수 있는 부품이 되도록 논문·책에서 클린룸으로 구현하고 GPL 시스템은 테스트의 오라클로만 사용, 그래서 결과가 일치하면 독립적 확인이 됨. 사이트는 서버 없이 브라우저에서 도는 노트북(JavaScript로 컴파일한 Python+numpy, Sage·Magma·MATLAB 모드), `pip install sagebrush`·`npx sagebrush`, 에이전트용 llms.txt와 MCP 서버 제공
 
 # Linear Algebra
 * [그래디언트와 공변 미분](http://psychist.blog.me/220679012186)
