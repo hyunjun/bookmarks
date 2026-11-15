@@ -152,6 +152,9 @@ Time Series
 * [MetricsGraphics.js](http://metricsgraphicsjs.org/)
   * [metrics-graphics - A library optimized for concise, principled data graphics and layouts. http://metricsgraphicsjs.org](https://github.com/mozilla/metrics-graphics)
 * [Monarch: Google’s Planet-Scale In-Memory Time Series Database](https://www.micahlerner.com/2022/04/24/monarch-googles-planet-scale-in-memory-time-series-database.html)
+* [nixtla: TimeGPT-2.1 — production ready pre-trained Time Series Foundation Model for forecasting and anomaly detection](https://github.com/Nixtla/nixtla)
+  * [Nixtla Docs](https://www.nixtla.io/docs)
+  * 시계열용 생성형 사전학습 트랜스포머 TimeGPT의 SDK. 사전 학습 데이터 없이 바로 예측과 이상 탐지를 수행하는 zero-shot 추론이 기본이고, 내 데이터로 미세조정하거나 특별한 날짜·이벤트·가격 같은 외생 변수를 넣고 여러 시계열을 한꺼번에 예측할 수 있음. 모델은 API로 호출하며(다른 언어용 API 제공, 자체 인프라 배포도 가능) Snowflake 안에서 저장 프로시저로 실행하는 배포 스크립트 제공
 * [PipelineDB](http://www.pipelinedb.com/)
   * [파이프라인DB, 오픈소스 스트리밍 SQL DB 출시](http://www.bloter.net/archives/231952)
   * [High-Performance Time-Series Aggregation for PostgreSQL 11](https://www.pipelinedb.com/blog/high-performance-time-series-aggregation-for-postgresql-11)
