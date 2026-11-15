@@ -325,6 +325,12 @@
   * [atuin: 🐢 Magical shell history](https://github.com/ellie/atuin)
   * [Atuin - 쉘 히스토리를 SQLite에 저장하기 | GeekNews](https://news.hada.io/topic?id=4276)
   * [Your favourite CLI just got better. - YouTube](https://www.youtube.com/watch?v=pzRze1JZjsc)
+  * [atuin: ✨ Making your shell magical](https://github.com/atuinsh/atuin)
+  * [Atuin Threads: All your agent sessions on every machine](https://blog.atuin.sh/threads-agent-sessions/)
+    * [Atuin Threads: 여러 AI 코딩 에이전트의 작업 세션을 통합하고 이어서 사용하는 방법 | digitalbourgeois](https://digitalbourgeois.tistory.com/4425)
+    * 셸 히스토리가 '무엇을 했는지'만 남긴다면 에이전트 세션은 명령·출력·의도·시행착오까지 담는다는 문제의식에서, Atuin 18.24부터 Claude Code·Codex·Pi·Omp·OpenCode 세션을 장비를 넘나들며 검색·재개(`atuin resume`)하고 다른 에이전트 하네스로 포크하는 Threads 추가
+    * 기존의 암호화 동기화 엔진이 append-only 로그라면 무엇이든 동기화할 수 있어 그대로 확장—종단 간 암호화, 호스팅·셀프호스팅·로컬 전용 선택, 세션 수집은 opt-in. `atuin mcp install`로 에이전트가 과거 세션을 직접 검색·참조
+    * 사례: 배포하지 못한 온보딩 시도와 중단 이유를 다음 에이전트가 참고, 키 교체 뒤 아바타 업로드 장애를 이전 조사 세션에서 찾아 빠르게 수정, 느린 장비의 조사 세션을 MacBook으로 포크해 벤치마크 뒤 결과를 회수. 팀 단위 opt-in 세션 공유도 개발 중
 * [aws-lc-rs: aws-lc-rs is a cryptographic library using AWS-LC for its cryptographic operations. The library strives to be API-compatible with the popular Rust library named ring](https://github.com/awslabs/aws-lc-rs)
   * [Introducing AWS Libcrypto for Rust, an Open Source Cryptographic Library for Rust | AWS Open Source Blog](https://aws.amazon.com/ko/blogs/opensource/introducing-aws-libcrypto-for-rust-an-open-source-cryptographic-library-for-rust/)
 * [BulletinBoard DHT - A general-purpose DHT](https://github.com/manuels/bulletinboard-dht)
