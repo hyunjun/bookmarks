@@ -3200,6 +3200,8 @@ CVPR2016)
 * [Tensor.Art | FREE online image generator and model hosting site!](https://tensor.art/)
   * [사진 만드는 AI 혁명! 기존 AI는 다 버리세요! Tensor Art AI - YouTube](https://www.youtube.com/watch?v=hSmkwC491T8)
     * [프롬프트 문구 종류별 정리](https://letsgotitan.tistory.com/38)
+* [TRELLIS.2: Native and Compact Structured Latents for 3D Generation | microsoft](https://github.com/microsoft/trellis.2)
+  * 이미지 한 장에서 고해상도 3D 에셋을 만드는 4B 파라미터 생성 모델. 필드를 쓰지 않는 희소 복셀 구조 O-Voxel로 열린 표면(옷·잎)·비다양체 형상·내부에 닫힌 구조처럼 등위면 방식이 다루기 어려운 위상을 손실 없이 표현하고, 기본 색·거칠기·금속성·투명도까지 PBR 재질을 모델링. 16배 공간 다운샘플링하는 희소 3D VAE로 압축한 잠재 공간에서 일반 DiT로 생성하며 H100에서 512³는 약 3초, 1536³는 약 60초. 데이터 전처리 도구와 학습 코드 공개
 
 # Text to video text2video
 * [AGI KR | 중국, 비디오 생성 AI '러시'...바이트댄스·알리바바도 '소라' 라이벌 합류 - Jimeng AI, Tora (출처:뉴스) | Facebook](https://www.facebook.com/groups/agikr/posts/2358831657791212/)
