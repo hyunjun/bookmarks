@@ -1810,6 +1810,8 @@ NLP
   * [나만의 AI agent 서비스를 개발 중이시라면, 이 오픈소스를 꼭 참고하세요! 🤖 OpenAI, Anthropic, Google 등 유명 LLM 챗봇 서비스들의 프롬프트를 비교 분석하고, AI 에이전트 설계에 활용해 보실 수도 있을 거예요. System Prompts Leaks 라는 오픈소스인데, 현재 7개 대형 회사의 프롬프트를 제공합니다. API… | HaYeJin Kang](https://www.linkedin.com/posts/h4y3j1n_%EB%82%98%EB%A7%8C%EC%9D%98-ai-agent-%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC-%EA%B0%9C%EB%B0%9C-%EC%A4%91%EC%9D%B4%EC%8B%9C%EB%9D%BC%EB%A9%B4-%EC%9D%B4-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%EB%A5%BC-%EA%BC%AD-%EC%B0%B8%EA%B3%A0%ED%95%98%EC%84%B8%EC%9A%94-activity-7369096013514539008-YKPs)
 * [ultraprompt: Fable5 Solution Tracing prompting skills](https://github.com/rlaope/ultraprompt)
   * 프론티어 코딩 모델(Claude Fable 5)의 추론 트레이스를 추출해 다른 에이전트용 이식 가능한 전략 스킬 프롬프트로 증류하는 프로젝트. ~16개 코딩 도메인 케이스 실행→탐색 순서·가설 유지·완료 판단·접근 포기 시점 등 반복 전략 추출→SKILL.md로 배포. 산출물은 코드가 아닌 프롬프트
+* [Vibe-Prompting: AI-Powered Prompt Generator | Addy-shetty](https://github.com/Addy-shetty/Vibe-Prompting/)
+  * 아이디어를 AI용 프롬프트로 바꿔 주는 프롬프트 생성 웹 앱. Gemini와 OpenRouter 모델로 프런트엔드·백엔드·DevOps·보안 등 14개 범주별 프롬프트를 실시간 스트리밍으로 생성하고 태그로 정리하며 공개 갤러리에서 다른 사람의 프롬프트를 볼 수 있음. 가입 없이 3회 체험, 가입자에게 크레딧을 주는 방식
 
 ## ChatBot Python
 
@@ -2846,6 +2848,12 @@ NLP
   * Weight Space Programming과 Qwenputer에서 착안해 Lambda Calculus·ByteBeat·Shader 같은 결정론적 프로그램을 뉴럴넷으로 실행하는 실험(Neural ByteBeat VM·Neural Lambda VM·Neural Shader Studio)을 해 보니 꽤 간단히 됐다는 기록과, 세 실행기를 통합하라는 에이전트 인계 프롬프트 전문. 목표는 하나의 고정 가중치 신경망이 공통 명령어 집합(ISA)과 공통 메모리로 세 언어를 모두 실행하는 것—프로그램을 가중치에 컴파일하는 게 아니라 프로그램을 입력으로 받아 실행하는 계산 기계를 가중치로 구현. 언어 선택 신호로 세 회로를 골라 쓰는 방식은 기준선일 뿐 통합으로 인정하지 않고, 명령어 해독·산술·분기·메모리 갱신을 호스트 코드가 아닌 네트워크가 계산해야 하며 매 스텝 상태를 참조 구현과 비교하라는 엄격한 성공 조건
   * 인용한 문제의식: 신경망은 함수 근사 장치일 뿐 아니라 다른 프로그램을 해석·실행하는 범용 계산 기계의 구현 매체가 될 수 있고, 계산 능력을 가르는 것은 "신경망이냐 기호적 프로그램이냐"가 아니라 상태 표현·메모리 접근·연산 규칙·반복 실행을 어떻게 구성하느냐이며, 정확한 계산 회로를 갖춘 신경망이 학습으로 그 회로를 선택·조합·수정하게 되면 무엇이 가능한가. 이 실험들은 신경망 컴파일러가 아니라 실행기—코드를 바이트코드로 바꾸는 일은 아직 외부 도구가 담당
   * 인계 프롬프트 후반: 검증은 ByteBeat(비트 연산·32비트 오버플로·기존 음향 식), Lambda(고차 함수·재귀·Church encoding·지연 평가·자체 인터프리터), Shader(분기·반복·광선 추적·SDF 장면)에 무작위 프로그램·경계 입력·잘못된 프로그램·장시간 실행까지 요구하고 가중치 수·깊이·명령어당 비용·참조 구현 불일치 건수·호스트 코드와 신경망의 책임 구분을 보고하게 함. 진행은 공통 아키텍처 설계→최소 통합 VM→세 언어 컴파일·실행→정확성·성능 검증→최적화 순을 권하되 바꿔도 되고, 결과물은 같은 가중치로 세 언어를 돌려 PC·레지스터·메모리를 단계별로 추적하고 참조 실행기와 비교하는 브라우저 앱. 효율보다 공통성과 정확성이 먼저이며, 마지막 질문은 계산 능력을 정하는 것이 가중치의 표현력·공통 명령어 집합·외부 메모리와 주소 지정·반복 깊이·회로와 프로그램 표현의 분리 중 무엇인가
+* [블랙박스 LLM의 크기를 재는 법 — Trillion Labs Research](https://blog.trillionlabs.co/posts/estimating-closed-source-llm-parameters/)
+  * 파라미터 수를 공개하지 않는 프런티어 모델의 크기를 가격·속도가 아니라 "얼마나 많은 사실을 기억하는가"로 추정하는 Incompressible Knowledge Probes(IKP) 논문 해설. 추론 능력은 더 좋은 학습법으로 작은 모델에도 담기지만 서로 독립적인 희귀 사실은 저장 공간이 있어야 한다는 발상—추론으로는 답할 수 없고 알아야만 맞히는 질문을 희귀도 7단계로 구성. 크기가 공개된 오픈웨이트 모델 93개에서 파라미터가 10배 늘 때마다 정답률이 약 15.9%p 올랐고(R² 0.910), 모델을 하나씩 숨기고 맞혀 보면 오차는 약 1.48배. 같은 크기에서 최신 모델일수록 더 많이 기억하는 경향은 없어 Densing Law와 달리 시간에 안정적
+  * 이 기준선에 비공개 모델의 점수를 대입하면 Claude Sonnet 4.6은 약 766B급, 최상위 모델들은 수조 파라미터급 지식 용량으로 추정. 다만 이는 "그만큼의 사실을 기억하는 오픈웨이트 모델이라면 어느 크기인가"라는 유효 지식 용량이지 실제 파라미터 수가 아니고, 1T 이상은 기준 모델이 두 개뿐이라 불확실성이 큼. MoE에서는 기억량이 활성 파라미터보다 전체 파라미터와 더 강하게 연결되며, Musk 발언에서 역산한 수치와는 Sonnet은 가깝고 Opus는 차이가 큼—수백B급인지 수T급인지 체급을 가늠하는 도구로 읽으라는 결론
+* [How prompt caching works - Paged Attention and Automatic Prefix Caching plus practical tips | sankalp](https://sankalp.bearblog.dev/how-prompt-caching-works/)
+  * 프롬프트 캐싱이 내부에서 어떻게 동작하는지를 vLLM 엔진 기준으로 풀어 쓴 글. 출발점은 필자의 잘못된 멘탈 모델—캐시를 대화 단위로 생각해 시스템 프롬프트 끝에 사용자별 데이터를 붙였는데, 실제로는 제공자가 동시 요청을 비동기 분산 엔진으로 처리하며 동일한 프롬프트 접두사의 KV 텐서를 재사용하므로 캐시는 대화가 아니라 내용 단위이고 다른 사용자 사이에서도 시스템 프롬프트부터 적중할 수 있음. 캐시 적중을 높이는 팁: 접두사를 안정적으로(동적·사용자별 내용을 시스템 프롬프트에서 제거), 컨텍스트는 append-only로(도구 출력을 중간에 잘라내면 접두사가 깨짐), JSON은 `sort_keys=True`처럼 결정적으로 직렬화, 도구 정의를 동적으로 바꾸지 않기, OpenAI의 `prompt_cache_key`는 캐시 지점이 아니라 라우팅 힌트
+  * 원리 부분: prefill과 decode, KV 캐시의 기초에서 시작해 요청마다 연속된 메모리를 잡는 방식이 확장되지 않는 이유를 설명하고, OS 페이징처럼 KV 캐시를 고정 크기 블록으로 나눠 블록 테이블로 매핑하는 Paged Attention(vLLM)을 소개(SGLang은 radix 트리 기반 Radix Attention). 블록 내용을 앞 블록 해시와 이어 해시해 해시→블록 맵에서 가장 긴 일치 접두사를 찾는 것이 자동 접두사 캐싱이며, 접두사가 조금만 바뀌어도 해시 체인 전체가 깨지기 때문에 제공자가 정적 접두사를 요구한다는 결론. 캐시 쓰기에 비용을 받는 이유(KV 텐서를 GPU 메모리나 로컬 저장소에 두는 비용)도 짚음
 * [LLM vs. 전문가: AI가 인간의 직관과 경험을 대체할 수 있는가? - 인간의 직관이 중요한 이유. - 해경](https://www.haegyung.com/llm-vs-%EC%A0%84%EB%AC%B8%EA%B0%80-ai%EA%B0%80-%EC%9D%B8%EA%B0%84%EC%9D%98-%EC%A7%81%EA%B4%80%EA%B3%BC-%EA%B2%BD%ED%97%98%EC%9D%84-%EB%8C%80%EC%B2%B4%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8A%94%EA%B0%80/)
 * [경량화 레시피: Teacher 지식 조린 소형 모델, 근데 성능을 곁들인](https://d2.naver.com/helloworld/8866888)
 * [LLM 기반 체크리스트 생성 툴 공유](https://chance-doe.tistory.com/26)
@@ -4130,6 +4138,8 @@ NLP
     * [langrepl: Interactive terminal CLI for building and running LLM agents](https://github.com/midodimori/langrepl/)
       * LangChain/LangGraph 기반 대화형 터미널 CLI. 파일 접근, 명령 실행, MCP 서버 통합
     * [LLMCompiler : 한국인이 만든 추론 방법론으로 AI Agent를 만듭니다. 역시 '빨리빨리' - YouTube](https://www.youtube.com/watch?v=PSTsSCvuoMk)
+      * [LLMCompiler: An LLM Compiler for Parallel Function Calling | SqueezeAILab](https://github.com/SqueezeAILab/LLMCompiler/)
+        * ICML 2024 논문의 구현. 여러 함수 호출을 순차적으로 추론·실행하면 지연과 비용이 커지는 문제를 풀기 위해, 문제를 여러 태스크로 분해하고 어떤 것이 병렬로 실행 가능하고 어떤 것이 서로 의존하는지 자동으로 가려 함수 호출을 병렬 오케스트레이션. 사용자는 도구와 선택적인 인컨텍스트 예시만 지정하면 되고 오픈소스 모델과 GPT 모두에서 지연·비용·정확도 개선을 보고. LangGraph와 LlamaIndex에도 포함
       * [LG_LLMCompiler.ipynb - Colab](https://colab.research.google.com/drive/1LEiKJ21l3Z-9HbKXmjque_PL5Qd9v2gm?usp=sharing)
       * [LLMCompiler 2 : AI 시대 코딩 배워야 합니다. AI App Flow를 아시면 무엇을 배워야 하는지 아실 수 있습니다. - YouTube](https://www.youtube.com/watch?v=lBPidxUL8zg)
     * [rag-with-reflection: It shows an advanced RAG with Reflection where LangGraph is used for workflow management](https://github.com/kyopark2014/rag-with-reflection)
@@ -4214,6 +4224,16 @@ NLP
   * [Everything we announced at our first-ever LlamaCon](https://ai.meta.com/blog/llamacon-llama-news/)
     * [Meta가 첫번째 LlamaCon에서 발표한 모든 것 | GeekNews](https://news.hada.io/topic?id=20667)
   * [라마 API (llama API) 바이브 코딩.. : 네이버블로그](https://blog.naver.com/ulsancoding/223855611631)
+  * [구독료 0원, 내 PC에 심는 프라이빗 로컬 AI: 보안 걱정 없이 사내 기밀을 다루는 온디바이스 AI & 로컬 RAG 구축법 - WikiDocs (강희열)](https://wikidocs.net/book/21480)
+    * 사내망에서 상용 챗봇이 막혀 있거나 기밀 유출·구독료·토큰 제한이 걸림돌인 비개발자 직장인을 위해, 코딩이나 고가 GPU 없이 Ollama + Open WebUI로 인터넷을 끊은 채 돌아가는 프라이빗 AI 작업실을 만드는 법을 다루는 위키독스 연재 도서
+    * 구성: PC 사양 진단과 모델 매칭 → Ollama·LM Studio·Open WebUI 설치와 한국어 모델 선택 → bge-m3 임베딩 기반 무유출 로컬 RAG(부서별 지식 컬렉션, 청킹·출처 강제 프롬프트) → Modelfile 커스텀 모델·구조화 출력·로컬 Whisper·비전 → Obsidian·로컬 MCP·Continue 연동과 로컬/클라우드 하이브리드 라우팅 → 계약서 독소조항 검토·PII 마스킹 같은 보안 업무 사례 → 남는 PC 한 대로 부서용 ChatGPT 서버(RBAC, n8n 자동화) → 폐쇄망 USB 반입 설치 등 부록
+  * [뉴비가이드 로컬 LLM에 대한 모든 것(스압, 모션그래픽 포함) - AI 활용 마이너 갤러리](https://gall.dcinside.com/mgallery/board/view?id=ai_utilize&no=139836)
+    * 로컬 LLM 입문 종합 가이드—쓰는 이유(보안·비용·오프라인·튜닝)와 한계, 클라우드와 섞어 쓰는 하이브리드 운영, 필수 용어(양자화, GGUF/MLX/safetensors, KV 캐시, 오프로딩, 투기적 디코딩), 메모리 계산법(파라미터×비트÷8 + 여유 2~4GB)과 VRAM 구간별 추천 모델·양자화 파일 선택
+    * 생태계 구조: 런처·에이전트가 OpenAI 호환 API(`localhost:포트/v1`)로 추론 엔진을 호출. 엔진별 구동법(LM Studio, Ollama, llama.cpp + llama-swap, vLLM·SGLang, MLX-LM)과 Open WebUI·AnythingLLM·OpenClaw·Hermes Agent·OpenCode·Aider 연결, SearXNG 웹 검색·MCP(mcpo 브리지)·Docling·Speaches 음성 연동까지 명령어 단위로 정리
+    * 핵심 원칙은 모델 가중치와 KV 캐시가 VRAM에 100% 들어가게 하는 것(Flash Attention, q8_0 KV 캐시, 16GB 카드는 3비트 동적 양자화). 보안 수칙 5가지(127.0.0.1 바인딩, VPN·API 키, 안전한 포맷, 작업 폴더 격리, 기밀 RAG 때 클라우드 모델 혼용 금지)와 자주 겪는 문제 해결법 포함
+  * [Local LLM 으로 나만의 ChatGPT 만들기 : 한 달 제작 후기 | 아빠 개발자 하우스](https://greypencil.tistory.com/305)
+    * VRAM 6GB·RAM 24GB 게이밍 노트북에 Ubuntu + Ollama + Open WebUI + Cloudflare 터널로 개인용 챗봇 "ChatDaddy"를 한 달간 만든 후기. 모델은 VRAM에 통째로 올라가야 하고, 웹 검색·PDF 읽기는 모델이 아니라 Open WebUI가 담당하며, Ollama는 실행기일 뿐이라는 점을 시행착오로 정리
+    * 질문 유형을 소형 라우터 모델(qwen2.5:1.5b)로 분류해 한국어 대화·문서 RAG는 EXAONE 3.5, 코딩은 qwen2.5-coder, 추론은 qwen3, 임베딩은 bge-m3, 무거운 질문은 Gemini Flash로 보내는 구성—한글 토큰 속도는 EXAONE이 압도적. 결론은 "클라우드가 더 좋지만, 사내 보안망에서 쓸 ChatGPT를 만들 수 있느냐에는 YES"
   * code-llama
     * [Introducing Code Llama, a state-of-the-art large language model for coding](https://ai.meta.com/blog/code-llama-large-language-model-coding)
       * Meta에서 코드와 코드에 대한 자연어를 생성할 수 있는 LLM인 Code Llama 공개
@@ -4468,6 +4488,9 @@ NLP
 * [The /llms.txt file – llms-txt](https://llmstxt.org/)
   * [Llms.txt - LLM에게 웹사이트 이용정보를 제공하기 위한 표준 제안 | GeekNews](https://news.hada.io/topic?id=16676)
   * [생성형 엔진 최적화(GEO)의 핵심, llms.txt](https://www.facebook.com/groups/1183007433518603/?multi_permalinks=1246588737160472&hoisted_section_header_type=recently_seen)
+* [llmstxt_architect: LLMsTxt Architect | rlancemartin](https://github.com/rlancemartin/llmstxt_architect)
+  * [llmstxt_architect (0xSojalSec 포크)](https://github.com/0xSojalSec/llmstxt_architect)
+  * 웹사이트 내용을 LLM에 알려 주는 표준인 `llms.txt`(사이트 내 URL과 그 설명을 나열한 마크다운)를 LLM으로 자동 생성하는 Python 패키지. URL 목록이나 기존 `llms.txt`에서 시작해 페이지를 불러와 설명을 쓰게 하며 LLM 제공자·모델·설명 생성 프롬프트를 지정할 수 있고 Anthropic 같은 클라우드 모델이나 Ollama 로컬 모델로 실행. 기존 파일의 구조와 URL 순서를 유지한 채 설명만 갱신하는 옵션 제공. LangGraph·LangChain 문서의 `llms.txt`가 이 도구로 만들어짐
 * [LLMSurvey: A collection of papers and resources related to Large Language Models](https://github.com/RUCAIBox/LLMSurvey)
   * [A Survey of Large Language Models (LLMs)](https://www.linkedin.com/posts/jae-hong-eom-93368248\_survey-large-language-activity-7052275487703793665-WUfC/)
 * [llm-tutorials: A set of LLM Tutorials from my youtube channel](https://github.com/samwit/llm-tutorials)
@@ -4672,6 +4695,9 @@ NLP
   * [FREE Local LLMs on Apple Silicon | FAST! - YouTube](https://www.youtube.com/watch?v=bp2eev21Qfo)
   * [Open WebUI : 1. OpenWebUI 란? - YouTube](https://www.youtube.com/watch?v=Qk74tAvJNls)
   * [아직도 Streamlit으로 챗봇 만드신다면 보세요 feat.OpenWebUI, Msty, AnythingLLM - YouTube](https://www.youtube.com/watch?v=4Hx1uE6UYnw)
+  * [1. Open-WebUI 는 무엇인가요 - Open-WebUI를 통한 단위학교 간단 LLM 서버 구축 | WikiDocs](https://wikidocs.net/303611)
+    * 학교에서 Open WebUI 서버에 여러 회사 모델을 API로 연결해 교사·학생이 한 계정으로 쓰게 한 운영기를 담은 위키독스 책의 도입 장. 장점은 다중 모델 동시 사용, ChatGPT와 닮은 인터페이스, RAG·에이전트 제작, 사용자·권한 관리, 종량제 비용 절감(개별 구독 월 100만 원 상당을 월 평균 15만 원 수준의 API 비용으로 운영)
+    * 단점은 딥 리서치·동영상 같은 대형 플랫폼 기능을 그대로 재현하기 어렵고, 목적에 맞는 모델을 사용자가 직접 골라야 하며, 서버 운영의 지속 가능성 부담. 이후 장에서 서버 구축, 도메인 호스팅, PostgreSQL 전환, 관리자 설정을 다룸
 * [optillm: An OpenAI API-compatible optimizing inference proxy for 2-10x better accuracy on math, coding, logical reasoning](https://github.com/algorithmicsuperintelligence/optillm)
   * 20+ SOTA 추론 시점 최적화 기법(Best-of-N, Monte Carlo Tree Search, Mixture of Agents, planning) 내장. base URL만 바꾸면 즉시 적용, 학습·파인튜닝 불필요. OpenAI/Anthropic/Google/Cerebras + LiteLLM으로 100+ 모델, 메모리·프라이버시·웹 검색·코드 실행 플러그인
 * [OptiMind: Teaching LLMs to Think Like Optimization Experts - Microsoft Research](https://www.microsoft.com/en-us/research/publication/optimind-teaching-llms-to-think-like-optimization-experts/)
@@ -4697,6 +4723,8 @@ NLP
     * 속도는 불편함 느끼지 못하게 빠름. 스트리밍 방식은 지원하지 않음. 일관된 성능을 보장해주는 느낌
     * 아직 버전이 0.1.0이라 갈 길이 많이 남았음. 응답을 내려주지 못하는 경우가 꽤 존재. Who are you 에도 대답을 못함; 구글에서는 이미 알고 있는 문제라고 함. 오히려 복잡한 질문에는 잘 대답
     * 현재 영어만 지원
+* [paperai: AI for medical and scientific papers | neuml](https://github.com/neuml/paperai/)
+  * 의학·과학 논문 저장소를 훑어 질문들에 대한 답을 LLM 프롬프트와 RAG 파이프라인으로 대량 생성하는 보고서 생성 애플리케이션. 설정 파일 하나로 수백 건의 프롬프트를 내 데이터에 한꺼번에 돌리는 방식이며 결과를 Markdown·CSV로 내거나 PDF에 답을 직접 주석으로 표시. 논문 색인은 자매 프로젝트 paperetl이 담당
 * [Personal AI Router for Local Inference | NVIDIA PAIR](https://www.nvidia.com/en-us/ai-on-rtx/personal-ai-router/)
   * [Personal-AI-Router: Router that virtually distributes inference across connected devices in the home](https://github.com/NVIDIA/Personal-AI-Router)
   * 집 안의 연결된 디바이스들(RTX PC·DGX Spark·Mac)에 AI 추론을 가상으로 분산 라우팅하는 NVIDIA 오픈소스
@@ -4709,6 +4737,8 @@ NLP
   * [Japanese StableLM, Marking Entry into International Language Model  Market — Stability AI](https://stability.ai/blog/stability-ai-new-jplm-japanese-language-model-stablelm)
   * [polyglot-finetuning-oslo](https://github.com/jason9693/polyglot-finetuning-oslo)
     * [oslo/FEATURES.md at tp-3d · EleutherAI/oslo · GitHub](https://github.com/EleutherAI/oslo/blob/tp-3d/FEATURES.md)
+* [PromptCache: Reduce LLM cost and latency with semantic caching | messkan](https://github.com/messkan/prompt-cache/)
+  * 애플리케이션과 LLM 제공자 사이에 두는 셀프 호스팅 시맨틱 캐시 프록시(OpenAI 호환 SDK의 주소만 바꿔 사용). 비슷한 프롬프트를 감지하면 모델을 다시 부르지 않고 캐시된 응답을 반환—유사도가 높으면 바로 적중, 낮으면 미스, 애매한 회색 지대는 작은 모델로 의도를 확인하는 2단계 임계값 방식. 반복 질문이 많은 RAG·에이전트·고객 지원 봇이 대상. 의미 매칭은 확률적이라 두 프롬프트가 같다고 보장하지 못하고, 사용자·테넌트 간 권한 경계로 써서는 안 된다고 명시. 스트리밍과 캐시 워밍 지원
 * [PromptCraft-Robotics: Community for applying LLMs to robotics and a robot simulator with ChatGPT integration](https://github.com/microsoft/PromptCraft-Robotics)
 * [promptfoo — Test your prompts, agents, and RAGs](https://www.promptfoo.dev/)
   * [promptfoo: Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more](https://github.com/promptfoo/promptfoo)
@@ -4866,6 +4896,9 @@ NLP
   * [마이크로소프트의 Semantic Kernel](https://www.facebook.com/seungjoon.choi/posts/pfbid022q3xw2Fcrfe1X2ycz3gqZF19uZkeZHwSyajEJWsWXWD6WeWtpDcDZeipx1KNkuXnl)
   * [Power of Semantic Kernel and Custom Plugin with SAP Data | LinkedIn](https://www.linkedin.com/pulse/power-semantic-kernel-azure-openai-sap-data-chanjin-park-y8u3c%3FtrackingId=NOVhGXKhTUOtjl%252FOOp7%252BJg%253D%253D/)
   * [“컨텍스트 대화를 위한 런타임” 시멘틱 커널을 사용한 AI 에이전트 만들기 - ITWorld Korea](https://www.itworld.co.kr/news/323287)
+* [semantic-router: Superfast AI decision making and intelligent processing of multi-modal data | aurelio-labs](https://github.com/aurelio-labs/semantic-router/)
+  * [Semantic Router | Aurelio AI](https://www.aurelio.ai/semantic-router)
+  * LLM과 에이전트 앞에 두는 초고속 결정 계층. 도구 사용 여부를 느린 LLM 생성에 맡기지 않고, 요청의 의미를 벡터 공간에서 미리 정의한 route의 예시 발화들과 비교하거나 작은 결정 모델을 한 번 호출해 밀리초 단위로 판단. 결정마다 신뢰도가 붙고 보지 않은 라벨 질의로 보정해 임계값을 두면 "해당 없음"을 반환할 수 있음. 로컬 임베딩 모델만으로 API 키 없이 실행되며 OpenAI·Cohere·Hugging Face 인코더도 사용 가능. 1.x는 보정된 신뢰도·결정 모델·조합 가능한 라우터 중심으로 재작성된 라인
 * [SGLang – Fast, Open-Source LLM & Multimodal Serving Framework](https://www.sglang.io/)
   * [sglang: SGLang is a high-performance serving framework for large language models and multimodal models | sgl-project](https://github.com/sgl-project/sglang)
   * [Ollama 보다 빠르다는 vLLM을 뛰어넘었습니다! 로컬 LLM 서빙 엔진 SGLang 소개 | 괴발자 - YouTube](https://www.youtube.com/watch?v=hG9X3ihi3oQ)
@@ -5206,6 +5239,9 @@ NLP
   * [Judgment Labs](https://judgmentlabs.ai/)
   * [LLM 에이전트의 성능 개선과 운영 관리를 지원하는 오픈소스 도구, Judgeval | digitalbourgeois](https://digitalbourgeois.tistory.com/4408)
   * 에이전트의 실패를 찾아내고 원인을 가려 운영 데이터로 수정안을 검증하게 하는 Python SDK. OpenTelemetry 기반 트레이싱—`@Tracer.observe()`로 함수를 계측해 입력·출력·LLM 토큰 사용량을 수집하고 `wrap()`으로 OpenAI·Anthropic·Google GenAI·Together 클라이언트를 자동 계측(LangGraph·Claude Agent SDK 연동). Agent judge는 프롬프트로 정의한 채점기가 트레이스에 라벨을 붙이는 방식(조건이 참이면 라벨을 붙이는 binary, 선택지 중 하나를 고르는 classification)으로, 라벨이 쌓여 에이전트가 어떻게 행동했는지의 검색 가능한 기록이 됨. 운영 트래픽을 서버 쪽에서 지연 없이 자동 채점하고 라벨이 붙으면 Slack으로 알리며, 과거 트레이스에 judge를 다시 돌려 수정이 실제 문제 사례를 고쳤는지 배포 전에 확인. 가상 스키마에 대한 읽기 전용 SQL 조회, CLI, MCP 서버 제공. SDK는 오픈소스지만 Judgment 플랫폼의 API 키와 조직 ID가 필요
+* [langtrace: an open-source, Open Telemetry based end-to-end observability tool for LLM applications | Scale3-Labs](https://github.com/Scale3-Labs/langtrace)
+  * [Langtrace](https://langtrace.ai)
+  * LLM API·벡터 DB·LLM 프레임워크를 쓰는 애플리케이션의 트레이스와 지표를 수집·디버깅·분석하는 오픈소스 관측 도구. OpenTelemetry 표준을 따르는 트레이스를 생성하고(LLM용 시맨틱 컨벤션을 별도 저장소에서 정의 중) 지연·비용·사용 패턴을 분석. TypeScript·Python SDK를 설치해 초기화하면 되고, 관리형 클라우드와 셀프 호스팅 모두 가능
 * [openllmetry: Open-source observability for your LLM application, based on OpenTelemetry](https://github.com/traceloop/openllmetry)
   * [OpenLLMetry - LLM 어플리케이션을 위한 오픈소스 Observability | GeekNews](https://news.hada.io/topic?id=13482)
 
@@ -6817,6 +6853,9 @@ NLP
   * [텍스트 없이 음성만으로 학습한 AI, Block의 풀 듀플렉스 음성 모델 Dessa | digitalbourgeois](https://digitalbourgeois.tistory.com/4096)
   * Block 연구 조직의 진짜 speech-to-speech 모델—음성을 텍스트로 바꾸는 단계 없이 텍스트 데이터·사전학습 모델 없이 사람의 대화 녹음만 듣고 실시간 대화를 배움. 사람처럼 듣고 말하기를 동시에 하는 풀 듀플렉스, 실제 말 속도보다 빠른 추론, 말 중간의 웃음·비꼼·감정 표현과 "yeah"·"got it" 같은 백채널의 자연스러운 타이밍, MacBook Pro M4 Max 이상에서 로컬 실행, 학습은 NVIDIA GB200 NVL72 한 대로(LLM보다 수백 배 적은 단어로 학습했다고 주장). 연구자·안전 전문가·얼리 액세스 대기자 명단으로 공개, 오픈소스 여부는 미공개. 티스토리 글은 주장들이 외부 독립 검증이 필요하다고 짚음
 * [dia2: TTS model capable of streaming conversational audio in realtime](https://github.com/nari-labs/dia2)
+* [diart: A python package to build AI-powered real-time audio applications](https://github.com/juanmc2005/diart/)
+  * [diart docs](https://diart.readthedocs.io)
+  * 실시간 오디오 애플리케이션용 Python 프레임워크로 핵심은 실시간 화자 분리(diarization). 화자 세그멘테이션 모델과 화자 임베딩 모델을 결합해 대화가 진행될수록 정확해지는 점진적 클러스터링을 수행(기본은 pyannote.audio 모델). 화자 분리와 음성 구간 검출 파이프라인을 사전 제공하고, 커스텀 파이프라인 구성·벤치마크·하이퍼파라미터 튜닝·웹소켓 서빙을 지원
 * [Diffusion-Speech-Tokenizer: This repository contains a series of works on diffusion-based speech tokenizers, including the official implementation of the paper: "TaDiCodec: Text-aware Diffusion Speech Tokenizer for Speech Language Modeling" https://arxiv.org/abs/2508.16790](https://github.com/HeCheng0625/Diffusion-Speech-Tokenizer)
   * [TaDiCodec · Hugging Face](https://huggingface.co/amphion/TaDiCodec)
   * TaDiCodec — 초고효율 음성 토크나이저
@@ -7022,6 +7061,11 @@ NLP
   * [500ms 이하 지연 시간의 음성 에이전트를 처음부터 구축한 방법 | GeekNews](https://news.hada.io/topic?id=27164)
   * Deepgram Flux + LLM 스트리밍 + TTS 파이프라이닝으로 ~400ms E2E 지연. 상용 플랫폼(Vapi) 대비 2배 빠름
 * [silero-models: Silero Models: pre-trained speech-to-text, text-to-speech and text-enhancement models made embarrassingly simple](https://github.com/snakers4/silero-models)
+* [Soniox Compare: Compare speech-to-text APIs live on your own audio](https://soniox.com/compare/stt)
+  * [soniox-compare](https://github.com/soniox/soniox-compare)
+  * [얼마 전까지 저는 음성 인식 회의론자였어요 | 이예찬](https://www.linkedin.com/posts/yechanny_soniox-speech-to-text-ai-share-7443662401012613120-lp7P)
+    * 사무실에서 작게 속삭여도 알아듣고, "GitHub"·"commit"·`--dangerously-skip-permissions` 같은 영어 용어를 한국어 문장 속에서 정확히 받아 적으며, 언어를 오가도 인식하는 STT를 찾다가 여러 API 중 Soniox에서 원하던 UX를 찾았다는 경험담. "API"를 "API"로 알아듣는 곳조차 드물었다고 하며 Compare 페이지로 직접 비교해 보길 권함
+  * 같은 음성을 여러 STT 제공자(Soniox·OpenAI·Google·Azure·Speechmatics·Deepgram·AssemblyAI·ElevenLabs 등)에 동시에 스트리밍해 도착하는 전사 결과를 나란히 비교하는 도구. 언어 힌트·언어 식별·화자 분리·타임스탬프·종료 지점 감지 등 스트리밍 기능 지원 여부 표를 제공하고, 소스가 공개돼 있어 제공자별 연동 코드와 설정을 확인하고 내 API 키로 로컬에서 같은 비교를 돌릴 수 있음. 벤치마크가 오도하는 이유도 설명—WER은 하나의 정답 전사와의 일치만 재고, 결과는 데이터셋(낭독·억양·통화 잡음·회의)에 좌우되며, 숫자·이름 표기 정규화에는 한계가 있고, 비공개 벤치마크는 검증할 수 없고, 영어 중심 평가는 다국어·언어 전환을 보여 주지 못하므로 내 음성으로 직접 비교하라는 주장
 * [SoundStorm](https://google-research.github.io/seanet/soundstorm/examples/)
 * SoundStream [구글, End-to-End 뉴럴 오디오 코덱 SoundStream 공개 | GeekNews](https://news.hada.io/topic?id=4824)
 * [speakrs: Speaker diarization in Rust with pyannote-level accuracy. 1790–5970x realtime on NVIDIA GPUs, 430–910x on Apple Silicon | avencera](https://github.com/avencera/speakrs)
@@ -7124,6 +7168,8 @@ NLP
     * [인프런이 자동으로 자막을 생성하기까지 (AI/인프라 편)](https://tech.inflab.com/20231031-inflearn-subtitle/)
 * [Return Zero Inc. - The future of next-generation speech AI](https://www.rtzr.ai/en)
   * [음성인식 API (STT API) - RTZR STT](https://developers.rtzr.ai/)
+* [Whispering: Record, transcribe, transform, and keep it all as files | EpicenterHQ/epicenter](https://github.com/EpicenterHQ/epicenter/tree/main/apps/whispering)
+  * 음성 메모 앱. 오디오를 녹음하고, 직접 고른 OpenAI 호환 엔드포인트(또는 Epicenter 호스팅 API)로 전사하고, 내가 쓴 지시문으로 전사문을 다른 텍스트로 변환하며, 녹음·전사·지시문·결과를 모두 평범한 파일로 보관. 파일 배치는 공개된 계약(`recordings/`·`transcriptions/`·`transformations/`·`transformation_runs/` 아래의 마크다운과 오디오)을 따르므로 같은 배치로 쓰는 어떤 프로그램도 유효한 작성자가 됨—전사 파일에는 어느 녹음에서 어떤 모델·엔드포인트로 만들었는지, 변환 실행 파일에는 보낸 프롬프트와 입력까지 기록. 웹 판은 로그인한 사용자의 저장소 위에서 동작하고 브라우저에는 아무것도 남기지 않으며, 데스크톱 판(Tauri)은 컴퓨터의 폴더에 저장하고 전역 단축키로 녹음을 토글
 * [speech-to-speech: Build voice agents with open-source models](https://github.com/huggingface/speech-to-speech)
   * [Huggingface Speech To Speech - 오픈소스 모델로 로컬 음성 에이전트 | GeekNews](https://news.hada.io/topic?id=32753)
   * VAD→STT→LLM→TTS 파이프라인을 오픈소스 모델로 조합해 로컬 음성 에이전트 구축
