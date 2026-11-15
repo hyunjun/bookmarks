@@ -316,7 +316,11 @@ Graph
   * AI 에이전트 장기 기억 시스템. 멘토링 통해 도메인 전문성 축적, 하이브리드 검색, 메모리 감쇠, 환각 방지
 * [LightRAG: Simple and Fast Retrieval-Augmented Generation](https://arxiv.org/abs/2410.05779)
   * [LightRAG](https://github.com/HKUDS/LightRAG)
+  * [2410.05779v3 LightRAG: Simple and Fast Retrieval-Augmented Generation (HTML)](https://arxiv.org/html/2410.05779v3)
+  * [LightRAG 완벽 이해하기: 지식 그래프 기반 RAG의 구조와 주요 기능, 설치 및 활용 방법 | digitalbourgeois](https://digitalbourgeois.tistory.com/4415)
   * 텍스트 인덱싱에 그래프 구조 통합한 dual-level 검색. NaiveRAG, GraphRAG보다 우수한 성능
+  * 논문(EMNLP 2025, 베이징우전대·홍콩대): 기존 RAG는 평면적인 청크 표현에 의존해 개체 간 상호 의존성을 놓치고 답이 파편화된다는 문제에서 출발. 문서를 청크로 나눠 LLM이 개체와 관계를 추출해 지식 그래프를 만들고 그래프와 벡터 표현을 함께 사용. 질의에서 구체 키워드와 추상 키워드를 뽑아 특정 개체·속성을 찾는 low-level 검색과 여러 개체에 걸친 주제를 모으는 high-level 검색을 병행. 새 문서는 같은 절차로 만든 그래프를 기존 그래프와 노드·엣지 합집합으로 합쳐 전체 재색인 없이 증분 갱신. 비용 비교(법률 데이터셋)에서 GraphRAG는 검색 때 커뮤니티 리포트 610개(약 61만 토큰)와 수백 번의 API 호출이 드는 반면 LightRAG는 키워드 생성에 100토큰 미만과 호출 한 번
+  * 현재 레포: 질의 모드 다섯 가지—local(개체 중심)·global(관계·주제 중심)·hybrid(둘 병합)·naive(그래프 없는 청크 벡터 검색)·mix(셋 병합, 기본값). WebUI와 REST API를 갖춘 서버(`lightrag-hku[api]`, Docker Compose)와 SDK로 제공. 문서 삭제 시 색인 때의 LLM 캐시로 영향받은 개체·관계만 재구성하는 선택적 삭제, MinerU·Docling·Native 파싱 엔진과 이미지·표·수식을 그래프로 본문과 연결하는 멀티모달 처리, 청킹 전략 네 가지(고정 길이·재귀 문자·벡터 의미·문단 의미), 리랭킹 지원. 저장소는 KV·벡터·그래프·문서 상태 네 종류가 필요하고 기본값은 인메모리라 테스트용이며 운영에는 PostgreSQL 권장(벡터는 Milvus·Qdrant, 그래프는 Neo4j·Memgraph도 가능)
 * [neocarta: Library built for generating semantic layer graphs for query routing, query generation and data discovery](https://github.com/neo4j-labs/neocarta)
   * [Neocarta로 구축하는 Neo4j 기반 Semantic Layer와 AI Agent 데이터 활용 | digitalbourgeois](https://digitalbourgeois.tistory.com/3593)
   * Neo4j Labs의 시맨틱 레이어 구축 라이브러리. 원본 데이터는 소스에 그대로 두고 스키마 메타데이터·비즈니스 용어집·메트릭 정의·쿼리 이력만 Neo4j 그래프로 통합, MCP 서버로 AI 에이전트에 제공—어떤 데이터가 어디에 있고 무엇을 뜻하며 어떻게 조인되는지 이해시켜 Text2Query·쿼리 라우팅·데이터 디스커버리를 신뢰성 있게. BigQuery 등 커넥터 제공
