@@ -247,6 +247,9 @@ Science
   * [미국 청소년의 경우, 9~13세 사이에 소셜 미디어 사용이 증가할수록 독해, 기억력, 어휘력, 종합 인지 능력 측정 점수가 낮아지는 것으로 나타났습니다](https://www.facebook.com/story.php?story_fbid=26188790160723181&id=100000566632124)
 * [Brain Maps](https://thehighestofthemountains.com/brainmaps.html)
   * [Tae Hyung Kim - 인간의 뇌가 어떻게 세상을 인식하고 배우는지를 이 인포그래픽스는 압축적으로 이야기하고... | Facebook](https://www.facebook.com/socialego/posts/pfbid0324G3k1bV4RCHQaDDgUriiYofG46ixBJAjn7NonmkSskNHgYqqNTjTVR2gvXcrrMDl)
+* [NeuroMatch Academy (NMA) Computational Neuroscience syllabus | NeuromatchAcademy/course-content](https://github.com/NeuromatchAcademy/course-content)
+  * [Computational Neuroscience | Neuromatch Academy](https://compneuro.neuromatch.io)
+  * Neuromatch Academy의 계산 신경과학 3주 과정 교재 저장소(본문은 온라인 ebook으로 읽는 것을 권장). 날짜별 튜토리얼 노트북 구성—1주차 모델의 종류·모델 피팅·일반화 선형 모델·차원 축소·딥러닝, 2주차 모델링 실습·신호 처리·선형 시스템·생물학적 뉴런 모델·동역학계, 3주차 베이즈 의사결정·숨은 동역학·강화학습·네트워크 인과성, 보너스로 오토인코더와 최적 제어. 강의와 함께 소그룹(pod) 프로젝트를 진행해 제안서와 초록 작성까지 하는 일정이며 강사용·학생용 노트북이 따로 제공됨
 
 ### DNA
 * [DNA 이중나선 구조를 푼 사람은 누구인가?](http://ppss.kr/archives/48498)
