@@ -8754,6 +8754,11 @@ Artificial Intelligence
   * 20-30+ AI 에이전트 동시 조율. Git worktree+Beads 원장 기반 영속 상태, Mayor(코디네이터), Convoy(작업 번들), Refinery(머지 큐), 3단계 감시 시스템. Go 94.8%
 * [GeneralStaff: Open-source local-first dispatcher for AI coding agents. Verification-gated, BYOK, rolls back on test failures | lerugray](https://github.com/lerugray/generalstaff)
   * 에이전트의 "완료" 보고를 그대로 믿지 않는 검증 게이트—매 사이클 테스트 통과·비어있지 않은 diff·별도 리뷰어 AI의 스코프 일치 확인을 코드로 강제하고 실패 시 롤백, 전 과정을 PROGRESS.jsonl 감사 로그로 기록. 코딩 배경 없는 게임 디자이너가 AI 지시만으로 만든 프로젝트
+* [gentle-ai: Gentle-AI configures the AI coding agents you already use: Claude Code, Cursor, OpenCode, Codex, Pi, and more | Gentleman-Programming](https://github.com/Gentleman-Programming/gentle-ai)
+  * [Gentleman Programming](https://gentlemanprogramming.com/)
+  * [AI 에이전트의 작업 연속성과 코드 품질을 높이는 개발 환경, Gentle-AI | digitalbourgeois](https://digitalbourgeois.tistory.com/4444)
+  * 쓰던 에이전트는 그대로 두고 메모리·작업 흐름·증거를 덧입히는 설정 도구(17개 에이전트를 각자의 네이티브 설정으로 구성). 구성 요소: 에이전트가 배운 것을 적어 두고 다음 세션에서 먼저 찾아보는 영구 메모리 Engram, 작업 크기를 파일 수가 아니라 이해도·위험·재개 가능성으로 가르는 ODD(Organic Driven Development)—diff만으로 재개할 수 있는 작은 일은 서브에이전트나 문서 없이 인라인으로, 여러 세션에 걸치는 일만 사용자의 스펙을 그대로 담은 기능 문서 하나로 관리하며 관련 테스트가 있으면 테스트 우선. 위임은 이유를 댈 수 있을 때만(탐색, 편집 범위가 겹치지 않는 병렬 작성, 긴 세션의 컨텍스트 넘기기, 고위험 변경의 독립 검증). 리뷰는 RDD(Receipt-Driven Development)—읽기 전에 후보를 고정해 증거가 정확히 그 버전에 묶이게 하고 고위험일 때만 자동 실행, 커밋·푸시는 사용자 몫
+  * 라우팅 규칙은 벤치마크에서 나왔다며 수치를 제시(각 1회 실행)—3줄 버그는 서브에이전트 없이 인라인 처리로 335초·56턴에서 77초·10턴으로, 73줄 스펙은 요약 전달 대신 문서를 참조로 넘겨 누락을 줄임. Pi용 통합 작업 환경 Gentle Shell은 별도 패키지
 * [Ghostex | The Most Powerful All-in-one Agents Workspace](https://ghostex.dev/)
   * [Ghostex: The Best Native Agents Workspace. Fully Rust & GPUI based. Mobile apps. 20+ agents. Native Ghostty | maddada](https://github.com/maddada/Ghostex)
   * 여러 에이전트를 동시에 살려 두는 개발자용 네이티브 올인원 워크스페이스(Rust·GPUI, 네이티브 Ghostty 터미널). 에이전트마다 채팅 뷰, 내장 Chromium 패널, 모바일 앱이 한 워크스페이스를 공유하고 모든 세션이 재시작 후에도 유지. 필요할 때만 로드되는 VS Code 내장 IDE, Easy Connect 코드·SSH로 원격 머신 사이드바 연결, Claude·Codex 사용량 한도 표시와 자동 계정 전환, 태스크별 worktree·분할 패널·Arc식 spaces, 예약 프롬프트·메뉴바·사운드 알림, 브라우저·Kanban·Docs 등 선택 플러그인(직접 작성 가능)
@@ -8769,6 +8774,10 @@ Artificial Intelligence
 * [houtini-lm: MCP server that saves Claude Code tokens by delegating bounded tasks to local or cloud LLMs](https://github.com/houtini-ai/houtini-lm)
   * [Cut Your Claude Code Token Use by Offloading Work to Cheaper Models with Houtini-LM](https://houtini.com/how-to-cut-your-claude-code-bill-with-houtini-lm/)
   * MCP 서버가 바운디드 태스크를 저렴한 LLM(LM Studio, Ollama, vLLM, DeepSeek, Groq, Cerebras)에 위임해 Claude Code 토큰 절감
+* [how-to-build-a-coding-agent: A workshop that teaches you how to build your own coding agent. Similar to Roo code, Cline, Amp, Cursor, Windsurf or OpenCode | ghuntley](https://github.com/ghuntley/how-to-build-a-coding-agent)
+  * [how to build a coding agent: free workshop | ghuntley.com](https://ghuntley.com/agent/)
+  * [Go와 Claude API로 단계별 구현하는 AI 코딩 에이전트의 구조와 핵심 기능 | digitalbourgeois](https://digitalbourgeois.tistory.com/4441)
+  * Go와 Anthropic API로 코딩 에이전트를 여섯 단계로 직접 만들어 보는 워크숍—기본 채팅(`chat.go`)에서 시작해 파일 읽기, 디렉터리 목록, 셸 명령 실행, 파일 편집, ripgrep 기반 코드 검색 도구를 하나씩 더함. 모든 단계가 같은 이벤트 루프를 공유: 입력을 받아 Claude에 보내고, Claude가 도구 사용을 요청하면 이름으로 도구를 찾아 실행한 결과를 다시 보내고, 도구 요청이 없을 때 텍스트를 출력. 도구는 이름·입력 스키마·실행 함수로 정의하는 플러그인 형태라는 점을 보여 주며, AI 전문가가 아니어도 따라 만들 수 있게 구성
 * [Humanize KR: Claude Code skill for removing AI writing traces from Korean text](https://github.com/epoko77-ai/im-not-ai)
   * [I'm Not AI](https://imnotai.kr/)
   * [한글로 글을 쓰면 빠지는 함정, '번역투'를 정면으로 파고든 오픈소스 | beseeyong | LinkedIn](https://www.linkedin.com/posts/beseeyong_chatgpt%EB%93%A0-claude%EB%93%A0-gemini%EB%93%A0-%ED%95%9C%EA%B8%80%EB%A1%9C-%EA%B8%80%EC%9D%84-%EC%93%B0%EB%A9%B4-%EB%B9%A0%EC%A7%80%EB%8A%94-%ED%95%A8%EC%A0%95%EC%9D%B4-share-7466016740741771264-ANiQ/)
@@ -9308,6 +9317,10 @@ Artificial Intelligence
     * [Goos Kim - 요즘 Orca vs Paseo가 또 불이 붙었는데… | 모두의AI Facebook](https://www.facebook.com/groups/426073703607223?multi_permalinks=1039820072232580)
     * Paseo를 Tauri에서 Electron으로 이전한 회고. 작은 바이너리·낮은 메모리라는 Tauri의 장점("쿨한 선택"이라는 인식 포함)보다 렌더링 일관성·알림·Node 데몬 번들링이 더 중요해진 지점. macOS·Windows(WebView2)는 문제없었지만 웹뷰를 번들하지 않는 Linux에서 문제가 커짐
   * Claude Code/Codex/OpenCode 원격 관리. 폰·데스크톱·CLI 크로스 디바이스, 음성 제어 지원
+* [Plannotator - Plan & Code Review for AI Coding Agents](https://plannotator.ai)
+  * [plannotator: The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click](https://github.com/backnotprop/plannotator)
+  * [AI 코딩 에이전트의 작업 검토와 피드백을 효율화하는 Plannotator | digitalbourgeois](https://digitalbourgeois.tistory.com/4413)
+  * 코딩 에이전트용 로컬 브라우저 리뷰 화면. 플러그인·훅·명령으로 에이전트에 직접 붙어, 에이전트가 계획이나 결정·HTML 산출물을 내놓거나 작업을 끝내면 브라우저가 열리고 사람이 표시·댓글을 단 뒤 피드백을 에이전트에게 바로 돌려보냄. 세 축—계획·스펙·마크다운·HTML·에이전트의 마지막 메시지에 주석 달기(`/plannotator-annotate`, 플랜 모드는 훅으로 자동 연결), 로컬 변경이나 GitHub PR·GitLab MR의 diff에 댓글과 수정 제안을 다는 코드 리뷰(`/plannotator-review`, Git·GitButler·Jujutsu·Perforce 지원), 여러 에이전트가 일하는 동안 질문·파일·검토 요청을 남기는 한 창짜리 Inbox(답을 기다리며 세션을 붙잡지 않고, 답은 질문한 세션의 다음 턴으로 전달). Claude Code·Codex·Copilot CLI·Gemini CLI·OpenCode·Pi 등을 지원하고 다른 에이전트는 MCP로 연결. 터미널판 Herdr Annotate와 TUI도 제공. 사용 통계를 수집하지 않고 계획·diff·주석은 기본적으로 로컬에 보관
 * [Poco — Your Pocket Coworker](https://poco-ai.com/)
   * [poco-claw](https://github.com/poco-ai/poco-claw)
   * Claude Code 기반 에이전틱 AI 웹 인터페이스. 격리 컨테이너 실행, GitHub 통합, 아티팩트 프리뷰(HTML/PDF/이미지/다이어그램), 백그라운드 실행, 스케줄 트리거, DingTalk/Feishu/Telegram 통합
