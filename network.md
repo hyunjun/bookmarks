@@ -444,6 +444,8 @@ Network
 * prism_pacman [**글로벌 네트워크 에뮬레이터 prism_pacman 소개**](https://d2.naver.com/helloworld/7847943)
 * [Proxyman · Native, Modern Web Debugging Proxy · Inspect network traffic from Mac, iOS, Android devices with ease](https://proxyman.io/)
   * [누가 재시도 요청을 하였는가?](https://squarelab.co/blog/who-did-retry-the-request/)
+* [PyFRC2G: Unified Firewall Rules to Graph Converter](https://github.com/olivierb46/PyFRC2G/)
+  * 방화벽 규칙을 흐름 그래프와 감사·컴플라이언스 보고서로 바꿔 주는 도구. pfSense·OPNsense(API 또는 XML 백업), FortiGate·iptables·nftables·Stormshield(설정 파일) 등을 지원. 엔진(명령줄)은 파서·감사·변경 보고·컴플라이언스 정책·위험 점수·존 매트릭스·그래프와 PDF/HTML/Excel/CSV 보고서를 제공하고, Flask 웹 앱은 방화벽별 대시보드·차트, API 방화벽 설정, 사용자·역할 관리를 더함
 * [rallyup: rallyup is a lightweight Wake-On-LAN (WOL) scheduler and dependency manager designed for small businesses and homelabs](https://github.com/darwindarak/rallyup)
   * [rallyup - 경량 Wakeup-On-Lan 스케줄러 | GeekNews](https://news.hada.io/topic?id=17641)
 * [rustnet: Per-process network monitoring for your terminal with deep packet inspection](https://github.com/domcyrus/rustnet)
