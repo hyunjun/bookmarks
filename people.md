@@ -20,6 +20,8 @@ People
 * [역사 속 쿨가이, 화학의 아버지 라부아지에](http://ppss.kr/archives/56009)
 * [Edsger W. Dijkstra](https://www.cs.utexas.edu/~EWD/)
 * Elon Musk [김택균 - 21세기 가장 혁신적인 기업가 일론 머스크는 단순한 사업가를 넘어 인류의 미래를 재설계하는 비전가다.... | Facebook](https://www.facebook.com/permalink.php?story_fbid=pfbid02qfwsZUonUsUUP5Psxf8RomrRTcB5CJ4r9LofsSAw5ngt7JoRvV3cJJb7sQuW1nQTl&id=100010185753256)
+  * [Elon Musk Archive](https://silicon-valley.tech/)
+    * 1998년부터 지금까지의 인터뷰·팟캐스트·강연·키노트·증언 녹취 영상을 한곳에 모은 아카이브. 영상을 사이트 안에서 바로 재생하고 주제 태그로 탐색하며 일부는 클릭 가능한 스크립트를 제공
 * Jared Diamond
   * [What I’ve Learned About the Past 13,000 Years](http://nautil.us/issue/4/the-unlikely/what-ive-learned-about-the-past-13000-years)
   * [Jared Diamond@Vimeo interview](https://vimeo.com/72741207)
