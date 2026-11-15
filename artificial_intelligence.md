@@ -1301,6 +1301,13 @@ Artificial Intelligence
     * [A Complete Guide to AGENTS.md | 박상길](https://www.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_a-complete-guide-to-agentsmd-share-7495027599690174464-vhmR/)
     * AGENTS.md는 작게 유지할 것—프로젝트 설명 1줄, 패키지 매니저, 빌드 명령어 정도. 거대한 AGENTS.md는 토큰 낭비·문맥 오염·유지보수 악몽을 부르므로 타입스크립트 규칙·테스트 패턴 같은 세부는 별도 파일로 분리하는 점진적 공개(progressive disclosure) 방식 권장
     * 모노레포에서는 루트 수준과 패키지 수준에 각각 AGENTS.md를 두어 병합 가능. 모든 지시사항은 명확하고 실행 가능해야 함
+  * [The Home Repo Pattern | AI Hero](https://www.aihero.dev/the-home-repo-pattern)
+    * [Home Repo | AI Coding Dictionary | AI Hero](https://www.aihero.dev/ai-coding-dictionary/home-repo)
+    * [The Home Repo: The effortless multi-repo agent setup | Matt Pocock - YouTube](https://www.youtube.com/watch?v=hWe-j78vNpc)
+    * [맷 포콕이 공개한, AI 하나로 모든 프로젝트를 관리하는 방법 | MINDUNG - YouTube](https://www.youtube.com/watch?v=EV8NmofeWPk)
+      * 한국어 정리 영상. 홈 레포를 그룹 본사, 각 레포를 계열사에 빗대 설명—공통 규칙·스킬(공개하지 않는 스킬 포함)·위키·도구는 본사에 두고 계열사는 자기 코드만 맡음. Claude Code는 다른 폴더를 연결해도 그 폴더의 지침 파일을 항상 읽지는 않으므로 홈 레포 지침에 "작업 전에 해당 레포의 지침 파일부터 읽어라"를 함께 적어 둠. Matt은 여기에 Karpathy식 개인 위키와 Gmail·Slack·Discord·YouTube·캘린더 등을 잇는 도구를 붙여, Discord 메시지를 찾아 강의 레포 코드를 고치고 다른 레포의 스킬로 영상까지 수정하는 식으로 사업·콘텐츠 제작에도 활용
+    * Matt Pocock의 Home Repo 패턴—스킬·AGENTS.md·공유 문서를 담고 다른 레포들을 가리키는 레포 하나에서 에이전트를 실행. 프로젝트가 여러 레포에 걸치면 한 레포에서 시작한 에이전트는 그 레포만 보고, 레포마다 스킬과 설정 사본이 생겨 서로 어긋나며, 레포를 넘나드는 기능을 전체 그림 없이 계획하게 되는 문제를 해결. 홈 레포에는 공통 스킬, 레포별 포인터가 든 AGENTS.md, 코딩 표준·용어집·시스템 전반의 결정, 외부 서비스 연결용 CLI를 두고, 각 레포에는 코드와 자기 AGENTS.md·빌드/테스트 명령·레포 전용 문서를 그대로 둠. 포인터는 레포 이름·디스크 경로·없을 때 클론할 원격을 적은 한 줄이며 필요하면 "먼저 그 레포의 AGENTS.md를 읽어라" 같은 힌트를 덧붙임
+    * 규모: 20개 안팎은 포인터 한 줄씩으로 충분, 수백 개면 사업 영역별 파일을 가리키고 그 안에 레포를 나열하는 점진적 공개, 수천 개면 스킬 마켓플레이스가 적합. 레포는 한 번만 클론하고 기능마다 워크트리를 만들어 여러 에이전트가 동시에 작업. 공개·비공개 레포가 섞이거나 팀이 모노레포를 받아들이지 않을 때의 대안이고, `~/.claude/skills` 대신 레포로 두는 이유는 git으로 버전 관리하고 팀이 공유할 수 있기 때문. 글에는 에이전트가 레포와 스킬을 직접 조사한 뒤 라운드별로 결정을 묻고 승인 전에는 읽기만 하는 4단계 셋업 프롬프트(레포 목록화→공유 자료 분류→계획 합의→적용)가 실려 있음
   * [AGENTS.md — a simple, open format for guiding coding agents](https://github.com/agentsmd/agents.md)
   * [AGENTS.md](https://github.com/golbin/AGENTS.md)
   * [What the 100 biggest GitHub repos put in their AGENTS.md files | coldtea](https://www.coldtea.ai/blog/agents-md-field-study)
@@ -1798,6 +1805,10 @@ Artificial Intelligence
   * [세상이 바뀐 것 같습니다 (23살 AI 에이전트 Instinct 창업자) | ARBTY 아비트라리 - YouTube](https://www.youtube.com/watch?v=9s38NJgzF00)
     * 창업자 Noah Shinn 영어 인터뷰. 1년 전 창업한 Instinct는 "그냥 개인 비서"—초기 트랙션의 비결은 비전을 믿어달라는 게 아니라 "그냥 된다(it just works)". 코드 생성 1년 전과 비슷하거나 더 큰 개인 에이전트의 순간이며, 대부분의 사람이 기술과 상호작용하는 새 방식이 여기서 나올 것이라는 전망
     * 무료 서비스의 광고 모델("돈을 안 내면 당신이 상품")을 거부하고 Instinct는 사용자 의도만 대리해야 한다는 원칙. 배포 채널 없는 스타트업의 복리 성장과 변곡점, 사용자 2배가 요청 2배가 아닌 특수한 스케일링 문제(시간의 40%를 여기에 쓴다), 구독제라는 국소 최적에서 벗어나기 위해 거래량·산업별 경험을 증명하는 데 자본을 쓰는 이유
+* [iphone-cli (iph): Let AI agents read and operate any app on a real iPhone through the accessibility tree. No XCUITest, WebDriverAgent or Xcode signing | HyunSeob](https://github.com/HyunSeob/iphone-cli)
+  * [AI 에이전트를 내 재무 관리자로 만드는 방법 (아이폰 자동화) | 허드의 AI딸깍 - YouTube](https://www.youtube.com/watch?v=jaKvinAjpqE)
+    * 제작자의 소개 영상. "iph로 토스 최근 일주일 지출 내역 가져와 줘", "사진첩에서 이어폰 사진 찾아 당근에 올려 줘"처럼 웹으로는 안 되고 앱으로만 되는 일을 에이전트가 실제 폰에서 수행하는 시연. 기존 방법과 비교—아이폰 미러링+컴퓨터 유즈(phone-harness)는 OCR이 숫자·글자를 틀리게 읽어 에이전트가 상세 화면을 일일이 확인하느라 느리고 스크립트가 쉽게 깨지며 맥 전용, mobile-mcp는 Xcode와 테스트 앱 서명(매주 재서명)이 필요, Poki는 원리가 좋지만 함께 깔 도구가 많아 그 원리만 참고해 새로 구현. 같은 요청에서 iph가 훨씬 빨랐고 저장한 스크립트로는 지출 내역 조회가 1분 만에 끝남. 에이전트가 일하는 동안 폰은 잠금 해제 상태로 두고 만지지 말 것, Face ID·비밀번호는 직접 풀 것, 개인 정보가 민감하면 세컨드 폰 권장
+  * Xcode·WebDriverAgent·폰에 설치하는 앱 없이, Xcode가 쓰는 것과 같은 Apple 개발자 서비스(접근성·HID)에 USB나 Wi-Fi로 직접 붙어 실제 아이폰을 읽고 조작하는 단일 네이티브 바이너리(macOS·Windows). 스크린샷이 아니라 접근성 트리로 화면의 구조화된 요소를 읽고(`iph read`), 탭·입력·스와이프를 보내며(`iph tap "General"`), 내장 QuickJS 엔진으로 여러 단계 흐름을 한 번에 실행(`iph script`). 에이전트용으로 CLI와 MCP 서버(`iph mcp`)를 제공하고 결과를 `done`·`not_sent`·`unknown`으로 구분해 보냈는지 불확실한 동작을 드러냄. iOS 27 이상 실기기 전용(터치·입력이 iOS 27에 새로 생긴 화면 공유 서비스를 거침)이며 시뮬레이터·Android·가로 모드는 범위 밖. `iph setup`/`iph doctor`가 페어링·개발자 모드·개발자 디스크 이미지·잠금 해제·터치 동작을 점검하고 폰에서 할 일을 안내
 * [jai - easy containment for AI agents](https://jai.scs.stanford.edu/)
   * 스탠포드 연구. AI 에이전트를 위한 초경량 Linux 샌드박스
   * [oh-my-product: Multi-agent orchestration for Gemini CLI](https://github.com/jjongguet/oh-my-product)
@@ -7550,6 +7561,9 @@ Artificial Intelligence
     * [AI 코딩 결과물의 품질을 높이는 방법, Antislop의 핵심 기능과 활용 방안 | digitalbourgeois](https://digitalbourgeois.tistory.com/4436)
     * 뻔한 AI 생성 UI·문장·코드를 걸러내는 코딩 에이전트 규칙 모음(`skills.sh` 등록). 아래 slop-free-korean이 이 가이드의 한국어판
     * 에이전트가 세션마다 읽는 규칙집으로 스타일 가이드가 아니라 필터—색·폰트·레이아웃을 정해 주지 않고 목적 없는 기법만 걸러내며, 방향은 사용자의 `DESIGN.md`가 줌(UI를 출시하려면 필수, 없으면 "방향 없는 초안"으로 표시). 세 계층(Hard Gate·Purpose-Gate·Quality Locks)의 규칙 40개, 걸러낸 뒤 밋밋해지지 않게 하는 Liveliness Toolkit(ENERGY·RHYTHM·MOTION), 마지막에 반드시 내는 PASS/FAIL 보고(Delivery Gate), 필요할 때만 로드되는 스킬 6개—핵심 필터와 ui·copywriting(가짜 통계·과장 문구)·human(대비·키보드·포커스 접근성)·layoutmobile(반응형)·code(AI 티 나는 주석 정리). 만드는 동안 안내하는 During과 기존 결과물을 감사해 승인받고 고치는 After 두 모드. `npx antislop-ai` 설치기나 Claude Code·Codex·Cursor·Cline·Pi 등 에이전트별 플러그인, 또는 채팅창에 붙여 넣는 `antislop.md` 단일 파일로 사용
+  * [AnyScene: Photoreal Blender scenes from a one-paragraph brief, built by AI agents — image→3D props on fal, scripted layout, lighting, camera and grade](https://github.com/apekshik/anyscene)
+    * 장소의 참고 이미지나 한 문단짜리 설명을 주면 Claude Code 에이전트가 `SKILL.md`를 따라 소품 하나하나가 별도 모델인 방을 꾸미고 조명·때·연무·카메라 무빙·색보정까지 한 Blender 씬을 만드는 프로세스와 코드. 소품은 손으로 모델링하지 않고 이미지로 생성한 뒤 fal의 이미지→3D 모델 두 종(Tripo·Meshy)으로 변환해 같은 조명의 렌더를 비교해 더 나은 쪽을 고름. 단계는 브리프→씬 스펙→콘셉트 이미지→소품 목록과 소품별 참고 이미지→3D 변환·선택→스크립트로 짠 방 구조와 큰 가구부터 잔 소품까지 배치(충돌·공중 부양 검사)→때·상표 제거·실제 광원·연무·김·비→Cycles 렌더와 그레이딩. 단계마다 에이전트가 콘택트 시트를 확인해야 넘어가는 게이트가 있고 전부 스크립트라 .blend는 재생성 가능한 빌드 산출물
+    * 예시 씬은 도쿄 전자 수리점·라멘 가게, 홍콩 다이파이동, 1970년대 관제실(소품 70~80여 개씩)이며 파리 빵집은 참고 이미지 한 장으로 fal GPU 워커에서 사람 개입 없이 2시간 안에 제작. 직접 돌리려면 Blender 5.0+·fal API 키·12~16GB GPU가 필요하고 소품당 약 1.65달러(90개 씬 약 150달러), 에이전트 시간 거의 하루와 최종 렌더 1~2 GPU시간이 듦. 설치 없이 쓰는 호스팅 엔드포인트, 완성 씬을 촬영하는 AnyShot, 스타일 맞춘 소품 키트를 만드는 AnyKit, fal GPU로 렌더하는 Blender 애드온이 함께 있음. `builder/CRAFT.md`는 좋은 씬을 만든 리뷰 루프(렌더해서 보고, 문제를 정확히 이름 붙이고, 코드로 고치고, 독립 비평을 받기)를 정리
   * [ARIS: Auto-Research-In-Sleep — autonomous ML research workflow for Claude Code](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep)
   * [autoskills: Auto-install best AI skills for your project](https://github.com/midudev/autoskills)
     * [autoskills — Auto-install best AI skills for your project](https://www.autoskills.sh/)
