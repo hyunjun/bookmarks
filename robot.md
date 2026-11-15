@@ -95,6 +95,11 @@ Robot
   * [Ant Group's Robbyant Unveils LingBot-VA 2.0 | MarkTechPost](https://www.marktechpost.com/2026/07/11/ant-groups-robbyant-unveils-lingbot-va-2-0/)
   * [LingBot-VA 2.0: 물리 AI를 위해 처음부터 설계된 차세대 비디오-액션 파운데이션 모델 | digitalbourgeois](https://digitalbourgeois.tistory.com/3372)
   * Ant Group의 로봇 AI 조직 Robbyant가 공개. 영상 생성 모델을 변형한 게 아니라 물리 AI(Physical AI)를 위해 처음부터 설계된 Causal Video-Action 파운데이션 모델. Foresight Reasoning으로 앞을 예측하며 실시간 행동, 환경 변화와 행동의 인과 관계 학습으로 로봇 제어의 속도·물리 이해 한계 극복
+* [Introducing Praxis-1: Runway's Open-Weight World Action Model](https://runway.com/research/introducing-praxis-1)
+  * [Runway Praxis-1 Is Now Available: Open-Weight Robotics Model](https://runway.com/news/company-news/praxis-1-is-now-available)
+    * 2026-11-11 Apache 2.0으로 가중치와 추론·미세조정 코드(전체 미세조정과 LoRA)를 공개. 영상과 행동을 함께 예측하는 27B 파라미터 mixture-of-experts 확산 트랜스포머이며, NVIDIA RoboLab-120에서 1,200 에피소드 성공률 46.2%로 FLUX 3 Action(42.9%)·Cosmos3 Nano(36.8%)·π0.5(28.0%)를 앞섬. 학습 데이터에 없던 Google RT-1 로봇에 미세조정하면 SimplerEnv 성공률 80.0%(원래 RT-1 정책 52.4%). GitHub·Hugging Face(LeRobot 지원)·vLLM-Omni로 제공되고 데이터센터 GPU부터 로봇에 싣는 Jetson Thor까지 실행
+  * [Runway, 오픈소스 기반 로봇 행동 모델 'Praxis-1' 공개… 다양한 로봇 하드웨어에 적용 가능 | digitalbourgeois](https://digitalbourgeois.tistory.com/4450)
+  * 영상 생성 모델의 대규모 비디오 사전학습을 실제 로봇 제어로 옮긴 Runway의 첫 world action model 발표(2026-09). 문제의식은 범용 정책에 필요한 실세계 로봇 데이터가 희소하고 비싸다는 것—반면 영상은 사실상 무한하고, 물체가 어떻게 움직이고 손이 어떻게 움직이며 작업 중간이 어떤 모습인지를 영상에서 배운 정책은 행동 데이터만으로 만든 정책보다 훨씬 앞에서 출발한다는 주장. 3인칭 영상을 늘릴수록 정책 성능이 오르고, 웹 영상으로 사전학습한 경우와 원격 조작 로봇 영상으로 한 경우의 미세조정 후 오차가 사실상 같았다는 결과를 제시. 같은 정책이 재학습 없이 스튜디오와 가정 주방을 오갔고, 파트너사(Noble Machines·Standard Bots·Ultra)가 각자의 하드웨어에서 시험. 물리 AI에서 하드웨어 개발자에게 통제권을 주려면 개방이 필요하다는 이유로 오픈 웨이트를 택함
 * [ProtoBot — A Palm-Sized Robot for Makers | Microbots](https://microbots.io/products/protobot)
   * [Meet ProtoBot: A Palm-Sized Robot for Makers - YouTube](https://www.youtube.com/watch?v=p5PKpLMmyNI)
   * 메이커·학생·교육자를 위한 손바닥 크기 오픈소스 로봇 플랫폼. 빌드 가이드로 조립 후 폰으로 제어·자동화, Arduino 프로그래밍, 오픈소스 예제로 하드웨어·소프트웨어 커스터마이즈
