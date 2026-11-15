@@ -5639,6 +5639,11 @@ Artificial Intelligence
 * [Awesome-AI-Security: Curated resources, research, and tools for securing AI systems](https://github.com/TalEliyahu/Awesome-AI-Security)
   * [Awesome AI Security — Discover. Learn. Build. Secure AI Systems.](https://www.awesomeaisecurity.com/)
   * AISecHub 커뮤니티가 관리하는 AI 시스템 보안 큐레이션—거버넌스·관리 프레임워크, 통제·검증 표준, 구현 가이드·패턴, 테스트·평가·레드티밍, 에이전틱 시스템 표준·거버넌스·패턴, 위협 모델링, 정책 템플릿, 툴킷·자가 진단, 핵심 인프라 등으로 분류. 웹사이트는 프레임워크·통제 맵, 가드레일·스캐너·테스트 하네스·게이트웨이·모니터링 GitHub 도구, 연구·데이터셋·교육·사고 사례를 한곳에서 탐색
+* [BLA: Blind LLM Agents — open-source Blue Defense MCP server & CLI protecting software releases against AI reverse-engineering agents](https://github.com/qybaihe/bla)
+  * [bla.tools](https://bla.tools)
+  * [BLA: AI 기반 역공학으로부터 소프트웨어를 보호하는 오픈소스 방어 솔루션 | digitalbourgeois](https://digitalbourgeois.tistory.com/4412)
+  * AI 역공학 에이전트(REA류, 자율 디컴파일러)가 `.asar`를 풀고 SourceMap을 복원해 핵심 로직을 싼값에 복제하는 상황을 겨냥한 방어 도구—변수 이름만 바꾸는 기존 난독화는 LLM이 쉽게 요약하므로, "Poison → Exhaust → Hallucinate"로 분석 비용을 키우는 방식. ①Poison: 형식상 유효한 카나리, 가짜 SourceMap, 그럴듯한 가짜 상태 머신으로 에이전트가 상충하는 가설을 쫓게 함 ②Exhaust: 분석기의 자원 상한(ASAR 헤더 크기, WASM 표현 한도, JSON 중첩 깊이 등)을 정확히 넘겨 분석을 용량 오류로 떨어뜨림 ③Entangle: JS·WASM·네이티브 산출물을 런타임 해시로 묶어 미끼만 걷어내거나 단일 검사만 패치하지 못하게 함 ④런타임: Electron fuse 강화와 디버거·Frida 부착 감지 시 가짜 텔레메트리 제공
+  * 사용: `npx bla-agents harden .`가 빌드 산출물을 찾아 audit→protect→verify 수행, `setup`으로 코딩 에이전트에 MCP 서버를 등록하면 에이전트가 소스 수준 문자열 암호화·로직 엮기부터 산출물 보호까지 조율, Vite·Rollup·Webpack·esbuild 플러그인 제공. JS/TS·Electron ASAR·WASM·Python·네이티브 바이너리·SQLite·GGUF/Safetensors·Android DEX 지원. 실제 REA를 돌려 형식별로 어떤 한도 오류가 났는지 공개하되 Ghidra·Frida 등 실행하지 않은 경로는 미검증이라고 구분해 밝힘. 자기 소프트웨어 보호용으로만 쓰라는 고지
 * [claude-bug-bounty: BugHunter — AI-powered bug bounty hunting toolkit](https://github.com/shuvonsec/claude-bug-bounty)
   * [ShuvonSec — Ethical Hacker & AI Agent Builder](https://shuvonsec.me/)
   * 정찰(서브도메인 열거·호스트 발견·URL 크롤링)→헌팅(20개 웹 취약점+10개 스마트컨트랙트 버그 스캔)→검증(7문항 게이트로 false positive 필터)→HackerOne/Bugcrowd 제출용 리포트 생성. CLI+Claude Code 플러그인, Ollama(로컬)/Groq(무료)/DeepSeek 등 무료 AI 프로바이더, 세션 간 패턴 기억·취약점 체이닝. 승인된 스코프 내 사용 강조
@@ -7987,6 +7992,10 @@ Artificial Intelligence
     * Apple Silicon Mac에서 Tart VM 기반 셀프호스트 GitHub Actions. @claude/@codex 멘션으로 AI 에이전트 트리거, 동적 작업 프로필, 유휴 자원 제로
   * [im-not-ai (Humanize KR): 한글 AI 티 제거기](https://github.com/epoko77-ai/im-not-ai/)
     * 한국어 AI 문체 40+ 패턴 10개 카테고리 탐지·자연스러운 문장으로 변환. 7개 전문 에이전트, 13항목 콘텐츠 충실도 감사, 30% 경고/50% 강제 중지 안전장치. Fast/Strict 2모드, 작가 보이스 프로필
+  * [improve: Use your most capable model to audit your codebase and write plans for cheaper models to execute | shadcn](https://github.com/shadcn/improve)
+    * [AI 에이전트의 코드 분석부터 실행 가능한 개발 계획까지 자동화하는 shadcn/improve | digitalbourgeois](https://digitalbourgeois.tistory.com/4402)
+    * 코드베이스를 감사해 다른 에이전트가 실행할 구현 계획을 쓰는 에이전트 스킬(`npx skills add shadcn/improve`). 지능이 복리로 쌓이는 부분(코드베이스 이해, 할 가치 판단, 스펙 작성)에는 가장 좋은 모델을 쓰고 실행은 싼 모델에 넘긴다는 발상이라 스킬 자신은 아무것도 구현하지 않음—"계획이 곧 산출물". 흐름은 Recon(스택·컨벤션·빌드/테스트/린트 명령 파악, ADR·PRD 등 의도 문서 반영)→Audit(정확성·보안·성능·테스트·기술 부채 등 9개 범주를 병렬 서브에이전트로, 모든 발견에 `file:line` 근거)→Vet(과잉 보고를 직접 재확인해 오탐 제거, 기각 사유 기록)→Prioritize(영향÷노력 순 표)→Plan(`plans/`에 발견당 파일 하나와 인덱스·의존 그래프)
+    * 계획은 가장 약한 실행자를 가정해 작성: 파일 경로·현재 코드 발췌·검증된 명령을 모두 담은 자기완결형, 단계마다 명령과 기대 출력이 붙는 검증 게이트, 범위 밖 목록과 "X면 멈추고 보고" 식의 STOP 조건. `/improve quick·deep·security·branch·next` 등 모드, `execute`는 격리된 워크트리에서 싼 모델에 맡기고 diff를 계획과 대조해 판정(머지는 사용자), `reconcile`은 백로그 정리, `--issues`로 GitHub 이슈 발행
   * [insane-search: Auto-bypass for blocked websites in Claude Code — Phase 0→3 adaptive scheduler, no API keys](https://github.com/fivetaku/insane-search/)
     * [시즌 3 온갖 크롤링 코드 안녕~ 공개된 페이지를 모두 긁어버리는 Insane-search - YouTube](https://www.youtube.com/watch?v=vjSZIyYd0NI)
     * [지피타쿠 스레드](https://www.threads.com/@gptaku_ai/media?hl=ko)
