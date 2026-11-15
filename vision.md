@@ -1113,6 +1113,13 @@ Vision
   * [ControlEmbed project page](https://joefioresi718.github.io/ControlEmbed_webpage/)
   * UCF CRCV(Mubarak Shah 그룹) 외, ECCV 2026. CLIP 같은 멀티모달 임베딩은 고수준 의미를 벡터 하나로 압축해 주 객체 같은 지배적 의미만 표현하고 카메라 앵글·색조 같은 다른 속성은 억제되는 문제. 속성 범주의 자연어 설명("color", "art style")을 조건으로 네트워크가 그 속성을 강조하는 아핀 변환을 생성하는 텍스트 조건부 시각 임베딩 변환—텍스트 조건이라 많은 속성을 동시에 학습하고 추론 시 직관적 인터페이스로 접근
   * 변환된 임베딩을 고정(frozen) 잠재 공간에 정렬하도록 학습해 기존 대규모 임베딩을 재인코딩 없이 검색에 활용, 집합 전체에 적용하면 멀티 클러스터링 같은 속성 분리(disentanglement)로 잠재 공간 변환. 속성 기반 검색·다중 속성 조직화 모두 SOTA, 추론 비용 거의 0. 발표 영상 15분
+* [Mirage: A vision model for image understanding and structured extraction | Cactus-Compute - Hugging Face](https://huggingface.co/Cactus-Compute/mirage)
+  * [Mirage: VLM + OCR + Detection + Segment + Decide in 22 MB | Cactus](https://cactuscompute.com/blog/mirage)
+  * [mirage-demo: Mirage Describe | joemaddalone](https://github.com/joemaddalone/mirage-demo)
+    * [Vision, OCR, Decision Model in a Browser with Web Assembly: Cactus Compute Mirage 22MB | Joe Maddalone - YouTube](https://www.youtube.com/watch?v=j5DBU4SBLpc)
+    * 사진을 올리면 객체·텍스트·장면을 이미지 위에 박스·마스크·라벨로 그려 주는 데모 앱의 두 버전—내 머신의 `cactus` CLI를 호출하는 Bun 서버판과, 엔진과 가중치(약 23MB)를 탭에서 내려받아 WebAssembly로 추론하는 서버 없는 브라우저판(이미지는 업로드되지 않음). 영상은 CLI로 정지 표지판 사진을 분석해 scene·objects·text·relations·reasoning JSON을 살펴보고, 최소 신뢰도 슬라이더와 이미지 속 텍스트 복사 UI를 만든 뒤, GitHub Pages에 올린 브라우저판으로 독일 영수증 OCR과 휴대폰 카메라 촬영 사진 인식을 시연(오리를 사과로 본 오인식도 나옴). Mirage는 자체 엔진으로만 돌고 llama.cpp에서는 실행 불가
+  * 휴대폰·웨어러블·로봇용 소형 비전 모델(5,130만 파라미터, 2비트 양자화로 약 22MB, Needle·Whistle과 같은 바이너리에서 실행). 한 번의 패스로 장면 묘사, 고정 클래스 목록에 묶이지 않는 객체 검출과 색·모양·재질 속성, 객체별 세그멘테이션 마스크, 영역 박스가 달린 텍스트 읽기, 객체 간 관계·사건, 그리고 주어진 라벨 중 선택·범위 내 개수·짧은 텍스트 같은 결정/폼 채우기를 JSON으로 반환—이름·속성·관계가 작은 장면 그래프를 이룸. Galaxy S26 NPU에서 74ms, CPU에서 107ms. `pip install -U cactus-compute` 후 `cactus.Mirage().describe("photo.png")`, 필요한 섹션·필드만 요청하거나 `extract`로 선택지 확률을 받을 수 있고 묘사는 영어 등 7개 언어 지원
+  * 텍스트 모델과의 조합 실험: Mirage의 JSON을 Qwen3-0.6B에 질문과 함께 넘기면(모델은 픽셀을 보지 않음) VQAv2 일부에서 31.3점, 다른 이미지의 기록을 주면 22.2점—reasoning 트레이스를 빼도 점수가 떨어지지 않아 트레이스의 효과는 확인되지 않음. 구조는 Walsh-Hadamard 변환 사이에 띠 모양 합성곱을 둔 HConvGLU 인코더(이미지 셀 256개)와 Needle 계열 8층 디코더이며, 디코더의 묘사를 박스·마스크·OCR 헤드 출력과 엔진이 합쳐 생성 토큰 수를 줄임
 * [MyColPali: The PyQt6 application using ColPali and OpenAI to show Efficient Document Retrieval with Vision Language Models](https://github.com/hyun-yang/MyColPali)
 * [peepshow — video → frames → LLM. Any LLM CLI. Any storage backend.](https://www.peepshow.dev/)
   * [peepshow: Turn a video — or an animated GIF, APNG, or WebP — into a timeline of still frames so an LLM can read it | t0mtaylor](https://github.com/t0mtaylor/peepshow)
