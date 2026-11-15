@@ -1388,6 +1388,9 @@ App
   * 프로젝트·워크플로 단위로 작업에 필요한 것을 한 화면에 모아 두는 오픈소스 데스크톱 오거나이저(Linux·Windows·macOS). 각 워크플로 화면에 임베디드 웹 페이지(태스크 관리자·Gmail·문서), 파일/링크 오프너, 사이트 검색, 메모, 빌드 스크립트 실행 등의 위젯을 배치하고 Ctrl/Cmd+Shift+F 핫키나 트레이에서 바로 전환
   * 워크플로별 별도 브라우저 세션을 쓰므로 여러 계정(메일·SNS)을 로그아웃 없이 프로젝트마다 따로 유지할 수 있고, 개발·메시지·릴리스처럼 맥락별 화면을 나눠 컨텍스트 스위칭을 줄이는 것이 목적
 * [noti - Trigger notifications when a process completes](https://github.com/variadico/noti)
+* [Openreads: A mobile books tracker written in Flutter that respects your privacy](https://github.com/mateusz-bak/openreads)
+  * [독서 기록을 체계적으로 관리하는 오픈소스 앱, Openreads | digitalbourgeois](https://digitalbourgeois.tistory.com/4404)
+  * 읽은 책을 기록하는 프라이버시 지향 오픈소스 앱(Android·iOS, F-Droid·Play 스토어·App Store 배포). 다 읽은 책·읽는 중·읽고 싶은 책·읽다 만 책 네 목록으로 나누고 사용자 태그로 걸러 보며 독서 통계를 제공. 책은 Open Library 검색, 바코드 스캔, 직접 입력으로 추가. CSV 가져오기·내보내기를 지원해 GoodReads·BookWyrm 기록을 옮겨 올 수 있음. 데이터 출처는 크라우드소싱 도서 DB인 Open Library 하나뿐이며 독점 소스를 추가할 계획은 없음
 * [Overwatch — interactive 3D globe with ~31 live data streams](https://overwatch.earth/)
   * 로그인·결제 없이 브라우저에서 약 31개 실시간 데이터 스트림을 3D 지구본에 표시. 항공기·선박·날씨·위성·지진·산불·번개·오로라·인터넷 이벤트 등. NASA·NOAA·ADS-B·AIS 등 공개 피드, 서버사이드 fetch(IP 비공유)
 * [plexo: Speed up downloads by combining multiple network connections in parallel](https://github.com/anmolkapil/plexo)
@@ -2173,6 +2176,9 @@ App
   * 백업 탐색, 메시지 내보내기, 사진 추출, 앱 관리. 구독·iCloud 락인 없음
 * [Pika • Super High Fives](https://superhighfives.com/pika)
 * Post-it for Mac [3M, 아이폰과의 동기화를 지원하는 Post-it for Mac을 발표](https://tagilog.tistory.com/441)
+* [Procexp-Mac: Sysinternals Process Explorer for Mac | microsoft](https://github.com/microsoft/Procexp-Mac)
+  * [macOS에서 프로세스와 시스템 리소스를 통합 관리하는 Sysinternals Process Explorer | digitalbourgeois](https://digitalbourgeois.tistory.com/4427)
+  * Windows의 Sysinternals Process Explorer 핵심 경험을 macOS 네이티브로 구현한 앱(macOS 14 이상). 실시간 프로세스 트리를 서비스·내 프로세스·새로 생긴/사라진·일시 중지·샌드박스 프로세스별 색으로 보여 주고, 아래 창에서 로드된 이미지·핸들(파일 디스크립터)·스레드를 검사. 프로세스별 속성 창은 이미지·성능·성능 그래프·스레드·TCP/IP(원격 주소 역방향 DNS 포함)·보안·환경 변수·문자열 탭으로 구성되고, 코드 서명 검사에서 서명자·인증서 체인·Team ID·공증 상태·SHA-256과 VirusTotal 조회를 제공. 시스템 정보 창에 CPU(코어별, Apple Silicon의 성능/효율 코어 구분)·메모리·스왑·디스크·네트워크·GPU 그래프와 하드웨어 세부, 메뉴 막대 CPU 이력. 프로세스 동작은 종료·트리 종료·일시 중지/재개·우선순위·재시작·샘플링이며, 다른 사용자 프로세스의 상세와 권한이 필요한 제어는 선택 설치하는 루트 헬퍼(launchd 데몬, XPC)로 처리
 * [QLMarkdown: macOS Quick Look extension for Markdown files | sbarex](https://github.com/sbarex/QLMarkdown)
   * Finder에서 스페이스바로 Markdown 파일을 렌더링해 미리 보는 Quick Look 확장
 * [QLStephen - 확장자에 관계없이 텍스트 파일 미리보기 QLStephen](http://mcchae.egloos.com/10981138)
