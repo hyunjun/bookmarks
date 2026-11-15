@@ -1228,6 +1228,10 @@ Artificial Intelligence
   * [agent-client-protocol: A protocol for connecting any editor to any agent](https://github.com/agentclientprotocol/agent-client-protocol)
   * [eclipse-agents (kiro-acp branch): Eclipse implementation of MCP and ACP protocols](https://github.com/ivorycirrus/eclipse-agents/tree/kiro-acp)
     * Eclipse IDE에 MCP(에이전트↔도구·리소스 통신)+ACP(IDE↔에이전트 통신) 통합. IDE 내장 MCP 서버, 워크스페이스/에디터/콘솔 등 플랫폼 서비스, MCP 도구·리소스 확장 포인트, ACP 채팅(Gemini·Claude Code·Goose 지원). ivorycirrus의 fork에서 kiro-acp 브랜치 364 커밋
+* [agent-desktop: Computer use CLI for AI agents | vercel-labs](https://github.com/vercel-labs/agent-desktop)
+  * [agent-desktop docs](https://agent-browser.dev/desktop)
+  * 스크린샷이나 픽셀 매칭 없이 OS 접근성 트리로 macOS·Windows·Linux 데스크톱 앱을 보고 조작하게 하는 CLI이자 C 라이브러리(agent-browser의 데스크톱판). 앱의 접근성 트리를 JSON으로 돌려주며 조작 가능한 요소마다 ref를 붙이고, 에이전트는 ref에 클릭·입력한 뒤 다시 스냅샷을 떠 결과를 확인하는 루프를 돎—루프는 에이전트 쪽에 있고 도구 안에는 모델이 없음. ref는 스냅샷에 묶여 UI가 바뀌면 `STALE_REF`를 내므로 새로 떠야 하고, 기본은 포인터를 움직이거나 포커스를 뺏지 않는 헤드리스 동작(`--headed`로 물리 입력 허용). 복잡한 앱은 `--skeleton`으로 뼈대를 먼저 본 뒤 한 영역만 파고듦
+  * 명령은 관찰(snapshot·find·screenshot), ref 조작(click·type·set-value·scroll 등), 키보드·마우스, 앱·창 관리, 알림, 클립보드, wait, 세션·트레이스, 샌드박스로 묶이고 모든 명령이 JSON 봉투 하나를 출력하며 `error.disposition.retry`가 `safe`일 때만 재시도. `agent-desktop mcp`로 모든 명령을 MCP 도구로 제공하고, 버전에 맞는 사용 가이드를 바이너리가 내장(`skills get desktop`)하며 skills.sh로 스킬 설치 가능. 플랫폼별로 AX API·UI Automation·AT-SPI를 사용. 스냅샷·클립보드·스크린샷에 사적인 화면 내용이 담길 수 있어 공개 로그에 남기지 말라는 주의
 * [AgentEvolver: AgentEvolver: Towards Efficient Self-Evolving Agent System](https://github.com/modelscope/AgentEvolver)
   * [Welcome - AgentEvolver](https://modelscope.github.io/AgentEvolver/)
 * [agent-framework: A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET](https://github.com/microsoft/agent-framework)
@@ -1892,6 +1896,7 @@ Artificial Intelligence
 * [Mercury — Soul-Driven AI Agent with Permission Guardrails | Cosmic Stack](https://mercury.cosmicstack.org/)
   * [mercury-agent: Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access](https://github.com/cosmicstack-labs/mercury-agent)
   * TS/Node.js 백그라운드 데몬, 31개 내장 도구, 스킬 시스템, CLI+Telegram 멀티 채널. 커스터마이즈 가능한 마크다운 "soul files"로 성격 설정, 자동 메모리 시스템, 폴더 레벨 권한 스코프. DeepSeek/OpenAI/Anthropic/Ollama 지원, cron 스케줄, SQLite 로컬 저장
+  * 현재 모습: 공식 사이트가 [mercuryagent.sh](https://mercuryagent.sh/)로 옮겨졌고(기존 주소는 리다이렉트), 채널이 터미널 UI·Telegram·Discord·Slack·Signal·로컬 웹 대시보드로 늘어 하나의 백그라운드 프로세스가 같은 에이전트·권한·메모리를 모든 채널에 제공. 추가된 축—저장소 안에서 계획과 구현을 한 흐름으로 하고 빌드·테스트·타입체크가 실제로 통과해야만 완료를 보고하는 Mercury Code(`mercury code`), 자기 페르소나·모델·메모리·권한·일일 예산을 가진 상주 전문가들이 일정에 따라 일하고 서로 작업을 넘기며 결과 파일을 폴더나 Telegram으로 전달하는 Mercury Bots(리드 봇이 크루에 위임하는 fleet), 대화마다 선호·목표·결정 같은 사실을 신뢰도와 함께 추출해 충돌을 정리하고 다음 답 전에 회상하는 Second Brain(SQLite+FTS5, 메모리 유형 10가지, 매시간 통합). 매 턴 적용되는 일일 토큰 예산과 Token Saver, 덮어쓸 수 없는 셸 차단 목록·폴더별 읽기/쓰기 범위·사설 주소 차단, 카드 단위로 처리하는 Kanban, 실패 시 다른 프로바이더로 넘어가는 폴백, Node.js 없이 설치되는 단일 바이너리
   * [Mercury Skills — the hub for agent skills](https://skills.mercuryagent.sh/)
     * [mercury-agent-skills](https://github.com/cosmicstack-labs/mercury-agent-skills)
     * Mercury Agent용 큐레이션된 오픈소스 스킬 레지스트리. 23 카테고리 127 스킬, 트렌딩·카테고리 브라우징·검색. `mercury skills install` 터미널 설치. Mercury Agent + OpenClaw + Hermes 호환
