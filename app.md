@@ -1098,6 +1098,9 @@ App
   * Tauri v2 + Rust 코어 + React 19, AES-256 암호화
 * [TeamGantt - Online Gantt Chart Software](https://www.teamgantt.com/)
 * Termius [멀티 플랫폼 SSH 클라이언트: Termius](https://macnews.tistory.com/5728)
+* [Tuff: The command bar, reimagined for those who build | talex-touch](https://github.com/talex-touch/tuff/)
+  * [tuff.tagzxia.com](https://tuff.tagzxia.com)
+  * 로컬 우선·AI 네이티브를 내세운 확장형 데스크톱 커맨드 센터(구 TalexTouch). 어디서든 ⌘E(Ctrl+E)로 CoreBox를 열어 앱·파일 검색, 명령 실행, 워크플로 자동화, AI 제공자 연결을 키보드 중심으로 수행하고 TypeScript SDK와 플러그인 스토어로 확장. macOS·Windows·Linux 패키지 제공. 현재 공개 범위는 실행·검색과 검증된 공식 플러그인이며 AI와 미완성 UI는 베타로 표시
 * Zapier
   * [바쁜 실무자를 위한 자동화 Tool - Zapier](https://brunch.co.kr/@expnote/62)
   * [단순 반복 업무를 없애보기로 했다. (feat. Zapier)](https://jeongje.github.io/2022-07-30/story-automation-zapier)
