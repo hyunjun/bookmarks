@@ -572,6 +572,9 @@ Vision
   * [GaussianYoloV3_Detector](https://github.com/JONGGON/Gluon-Detector/tree/master/GaussianYoloV3_Detector)
   * [OpenDataCam - An open source tool to quantify the world](https://www.move-lab.com/project/opendatacam/) YOLO기반 카메라 활용
   * [labelImg: 🖍️ LabelImg is a graphical image annotation tool and label object bounding boxes in images](https://github.com/tzutalin/labelImg)
+  * [anylabeling: Effortless AI-assisted data labeling with AI support from YOLO, Segment Anything (SAM+SAM2), MobileSAM | vietanhdev](https://github.com/vietanhdev/anylabeling)
+    * [anylabeling (0xSojalSec 포크)](https://github.com/0xSojalSec/anylabeling)
+    * LabelImg와 Labelme를 합치고 UI를 개선한 뒤 자동 라벨링을 더한 데이터 라벨링 도구. 폴리곤·사각형·원·선·점 주석을 지원하고 YOLOv8과 Segment Anything(SAM·SAM2)으로 자동 라벨링하며 텍스트 검출·인식·핵심 정보 추출(KIE) 라벨링도 가능. 실행 파일을 받거나 PyPI로 설치
   * [MS-DAYOLO: Multiscale Domain Adaptive YOLO for Cross-Domain Object Detection](https://github.com/Mazin-Hnewa/MS-DAYOLO)
   * [tfjs-yolo: YOLO v3 and Tiny YOLO v1, v2, v3 with Tensorflow.js](https://github.com/shaqian/tfjs-yolo)
   * [TincyYOLO: a real-time, low-latency, low-power object detection system running on a Zynq UltraScale+ MPSoC](https://forums.xilinx.com/t5/Xcell-Daily-Blog/Tincy-YOLO-a-real-time-low-latency-low-power-object-detection/ba-p/815840)
@@ -1131,6 +1134,9 @@ Vision
 * [Phi-4-reasoning-vision-15B: Microsoft's 15B multimodal reasoning model](https://github.com/microsoft/Phi-4-reasoning-vision-15B)
   * [Phi-4-Vision-Reasoning — training a multimodal reasoning model | Microsoft Research](https://www.microsoft.com/en-us/research/blog/phi-4-reasoning-vision-and-the-lessons-of-training-a-multimodal-reasoning-model/)
   * 이미지 캡셔닝, 문서 인식, 수학·과학 추론 특화. Azure Foundry 클라우드 또는 로컬 호스팅 가능
+* [Rex-Omni: Detect Anything via Next Point Prediction | IDEA-Research](https://github.com/IDEA-Research/Rex-Omni)
+  * [Rex-Omni project page](https://rex-omni.github.io/)
+  * 객체 검출을 비롯한 여러 시각 인식 과제를 다음 토큰(점) 예측 문제로 재정의한 3B 파라미터 멀티모달 LLM(CVPR 2026). `RexOmniWrapper`로 모델을 불러 검출을 실행하고 transformers나 고처리량용 vLLM 백엔드를 선택. 절반 크기의 AWQ 양자화판, 평가 코드와 데이터셋, 미세조정 코드가 공개돼 있고 포인팅 과제는 SFT와 GRPO로 커스텀 데이터셋 학습 가능. 쿡북과 Gradio 데모 제공
 * [SketchVLM: Vision Language Models Can Annotate Images to Explain Thoughts and Guide Users](https://github.com/brandon-collins7/sketchvlm)
   * [2604.22875 SketchVLM: Vision language models can annotate images to explain thoughts and guide users](https://arxiv.org/abs/2604.22875)
   * [SketchVLM Interactive Demo](https://sketch-vlm-demo.vercel.app/)
