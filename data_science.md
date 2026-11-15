@@ -737,6 +737,9 @@ Data Science
   * [Diving Deeper into Psyberg: Stateless vs Stateful Data Processing | by Netflix Technology Blog | Nov, 2023 | Netflix TechBlog](https://netflixtechblog.com/2-diving-deeper-into-psyberg-stateless-vs-stateful-data-processing-1d273b3aaefb)
 * [quary: Open-source BI for engineers](https://github.com/quarylabs/quary)
   * [Quary - 엔지니어를 위한 오픈소스 BI | GeekNews](https://news.hada.io/topic?id=14953)
+* [quelmap: Open Source Local Data Analysis Assistant](https://github.com/quelmap-inc/quelmap/)
+  * [quelmap.com](https://quelmap.com)
+  * 로컬에서 도는 데이터 분석 어시스턴트. 데이터 시각화, 테이블 조인, 통계 검정을 대화로 수행하고 행 수 제한 없이 30개 넘는 테이블을 함께 분석하며 내장 Python 샌드박스에서 코드를 실행. Docker Compose로 앱·샌드박스·PostgreSQL 세 컨테이너를 띄우고 기본은 Ollama 연동—이 용도로 학습한 경량 모델 Lightning-4b를 쓰면 16GB RAM 노트북에서도 실용적이라고 안내. OpenAI·Anthropic 같은 외부 제공자를 연결하면 데이터셋 스키마가 전송된다는 주의
 * [Tensorlake](https://www.tensorlake.ai/) 구조화되지 않은 문서에서 맞춤 정의된 구조화된 데이터를 3단계로 추출하는 도구
   * [Tensorlake is a Document Ingestion API and a serverless platform for building data processing and orchestration APIs](https://github.com/tensorlakeai/tensorlake)
 * [Trellis AI](https://runtrellis.com/)
