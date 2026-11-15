@@ -470,6 +470,11 @@ Programming Language
 * [F\*](https://www.fstar-lang.org/)
 * [Garam-Interpreter: "훈민정음은 디자인이다" 가람은 튜링 완전 프로그래밍 언어입니다](https://github.com/ericlee05/Garam-Interpreter)
 * [Genie Language](https://wiki.gnome.org/Projects/Genie#More_Resources)
+* [Gleam programming language](https://gleam.run/)
+  * [You should try Gleam | nchagnet.eu](https://nchagnet.eu/blog/you-should-try-gleam)
+    * Rust를 즐겨 쓰는 필자의 Gleam 권유기—Rust의 함수형 부분만 남긴 느낌이라 코드의 80%는 문법만 바꾸면 Rust로 옮겨질 정도. 좋은 점: 불변 변수, 메서드가 없어 `|>` 파이프로 함수를 잇는 방식, 콜백 중첩을 펴 주는 `use` 문법, 반복문이 없어 재귀와 꼬리 호출 최적화에 의존하는 구조, enum과 struct를 겸하는 대수적 데이터 타입, 오류는 `Result` 값. BEAM이 프로세스를 관리하고 OTP의 액터·슈퍼바이저로 일부가 죽어도 전체가 살아남는 서비스를 만들 수 있어, Kubernetes 파드로 나눠 두고 REST API를 중복 유지하던 Go 스케줄러 구성을 한 VM 안의 액터들로 합치고 프런트엔드와 타입 정의를 공유하는 재설계를 예로 듦. 아쉬운 점은 작은 생태계, 매크로·커링이 없는 단순함, 뒤에서 밀어 주는 대기업이 없는 BEAM의 낮은 인지도
+  * [Gleam 언어의 특징과 장단점: BEAM 기반 동시성 처리부터 프론트엔드·백엔드 코드 공유까지 | digitalbourgeois](https://digitalbourgeois.tistory.com/4411)
+  * "확장되는 타입 안전 시스템을 만들기 위한 친근한 언어"—타입 시스템의 힘과 함수형의 표현력을 Erlang 런타임(BEAM)의 동시성·장애 허용성 위에 익숙한 문법으로 얹은 언어. 수백만 개의 경량 프로세스를 돌리는 액터 기반 동시성, 불변 자료구조, null과 예외가 없는 설계와 명확한 오류 메시지. 컴파일러·빌드 도구·포매터·에디터 통합·패키지 매니저가 내장돼 `gleam new`로 시작하고, Erlang·Elixir 패키지를 그대로 쓸 수 있으며 JavaScript로도 컴파일돼(TypeScript 정의 생성) 브라우저에서 같은 코드를 사용
 * [The Goose Programming Language — A memory-safe systems language with no heap allocator, garbage collector, or lifetime annotations](https://aardappel.github.io/goose/)
   * [New Language Claims to Be as Safe as Rust, but Faster and Simpler | Code to the Moon - YouTube](https://www.youtube.com/watch?v=kHDsfGvMlPU)
     * Goose의 기원과 주요 기능 개관, 로드맵에 바랐으면 하는 것, AI 시대에도 프로그래밍 언어가 여전히 중요한 이유
