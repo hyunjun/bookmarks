@@ -390,6 +390,9 @@ Finance
   * [Anthropic just open-sourced Wall Street (11.4k stars) - YouTube](https://www.youtube.com/watch?v=E4GNZxJQqfM)
   * [GitHub - anthropics/financial-services | 박상길](https://www.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_github-anthropicsfinancial-services-share-7457524869207851008-0aCT)
   * 10개 명명 에이전트(Pitch/Market Researcher/Earnings Reviewer/Model Builder/Meeting Prep/GL Reconciler/Month-End Closer/Statement Auditor/Valuation Reviewer/KYC Screener), 7개 버티컬 플러그인, 11개 MCP 데이터 커넥터(FactSet/S&P Global/Morningstar/Moody's/PitchBook/LSEG/Daloopa 등). Claude Code/Managed Agents 양쪽 배포
+* [FinRobot: An Open-Source AI Agent Platform for Financial Applications using Large Language Models | AI4Finance-Foundation](https://github.com/AI4Finance-Foundation/FinRobot)
+  * [finrobot.ai](https://finrobot.ai)
+  * 금융 의사결정용 에이전트 프레임워크. 원칙은 "모델은 추론하고, 소프트웨어는 계산하고, 에이전트는 조율하고, 시스템은 검증한다"—모델은 바꿀 수 있고 신뢰성은 도구·워크플로·검증·출처 추적에서 나온다는 관점으로, 단일 모델 방식의 FinGPT와 달리 주식 리서치·퀀트 트레이딩·리스크 분석 등의 종단 간 워크플로를 지원. 세 프로젝트로 구성—실제 리서치용 네이티브 데스크톱 워크스테이션(V2), 티커를 HTML/PDF 보고서로 만드는 셀프 호스팅 웹 앱(V1), 백서의 바탕이 된 교육용 AutoGen 라이브러리(V0, `pip install finrobot`)
 * [firma: Local-first CLI portfolio tracker for overseas investors, with built-in MCP server for Claude](https://github.com/evan-moon/firma)
   * [firma: Claude를 내 포트폴리오 AI 비서로 만드는 로컬 퍼스트 자산관리 CLI | GeekNews](https://news.hada.io/topic?id=28884)
 * [Goose 스킬 하나로 시작하기 · 모두의 주식](https://stock.mo.ai.kr/)
@@ -584,12 +587,16 @@ Finance
 * [KIS Developers](https://apiportal.koreainvestment.com/intro) 한국투자증권
   * [open-trading-api: Korea Investment & Securities Open API Github | koreainvestment](https://github.com/koreainvestment/open-trading-api)
   * 한국투자증권 Open API(KIS Developers) 공식 샘플 코드 저장소—ChatGPT·Claude 같은 LLM과 Python 개발자 모두가 쓰기 쉽게 구성(`llms.txt` 제공). `examples_llm/`(인증·국내주식·국내채권·해외주식·선물옵션 등 기능 단위 샘플), `examples_user/`(상품별 통합 자동매매 예제), `strategy_builder/`(비주얼 UI로 매매 전략 설계·시그널 생성), `backtester/`(QuantConnect Lean 기반 백테스팅). 2026년 10월 23일부터 포털에서 API 질문·샘플 작성·오류 해결을 돕는 OpenAPI AI 에이전트(로그인 후 챗봇)와 개발환경 없이 웹에서 전략을 만드는 투자전략 플레이그라운드(AI도구 메뉴) 제공
+* [nofx: Your AI trading terminal assistant for US stocks, commodities, forex, and crypto | NoFxAiOS](https://github.com/NoFxAiOS/nofx)
+  * 내 머신에서 돌리는 오픈소스 트레이딩 시스템(Docker Compose로 설치, 브라우저 UI). Frontier 모드는 차트 옆에서 AI와 대화하며 시장가·지정가·분할(ladder)·TWAP 진입 계획을 진입가·손절·목표·레버리지와 함께 비교하고 사용자가 명시적으로 승인해야 주문이 나감. Autopilot 모드는 전략을 계속 실행. Binance USDT 무기한·Hyperliquid·OKX·Bitget을 지원하고 설정한 모델과 거래소 계정을 사용
 * [OctoBot — Crypto trading bot for automated strategies](https://www.octobot.cloud/)
   * [OctoBot: Free open source crypto trading bot to automate AI, Grid, DCA and TradingView strategies](https://github.com/Drakkar-Software/OctoBot)
   * AI·Grid·DCA·TradingView 전략을 자동화하는 오픈소스 암호화폐 트레이딩 봇. Binance·Hyperliquid 등 15개+ 거래소 지원, 자금은 사용자가 직접 보관(non-custodial)
 * openbb [Investment research for everyone](https://openbb.co/)
   * [OpenBB: Investment research for everyone, everywhere](https://github.com/OpenBB-finance/OpenBB)
   * 오픈소스 투자 리서치 플랫폼. 주식, 옵션, 암호화폐, 외환, 거시경제 데이터 분석. Python 기반, 터미널 UI 및 SDK 제공
+* [pennywiseai-tracker: PennyWise AI — Free & Open-Source, private SMS-powered expense tracker](https://github.com/sarim2000/pennywiseai-tracker)
+  * 은행이 보내는 거래 문자를 읽어 지출 내역으로 바꿔 주는 Android 가계부. SMS 읽기 권한만 주면 금액·가맹점·범주·날짜를 추출하고 새 문자를 실시간으로 반영하며, 파싱·저장·AI가 모두 기기 안에서 돌아 계정도 서버도 없음. 26개국 176개 은행 형식을 지원하고 다중 통화, 패턴 규칙 기반 자동 분류, 예산 그룹, 차트·히트맵 분석, 구독 파악, 다중 계좌 잔액 추적을 제공. "식비로 얼마 썼지?" 같은 질문에 답하는 온디바이스 AI 어시스턴트(Qwen 2.5) 내장. 규칙 무제한·PDF 명세서 가져오기 등은 유료 Pro
 * [Securo - Privacy-First Expense Management](https://www.usesecuro.com/)
   * [securo: Open-source personal finance manager. Self-hosted, privacy-first](https://github.com/securo-finance/securo)
   * 셀프호스팅·프라이버시 우선 개인 지출/재무 관리 앱
