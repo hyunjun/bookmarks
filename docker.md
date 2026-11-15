@@ -3313,6 +3313,9 @@ Docker
   * [openship: Self-hosted deployment platform](https://github.com/oblien/openship)
   * [Openship란? 오픈소스 셀프 호스팅 CI/CD 배포 플랫폼의 특징과 동작 방식 | digitalbourgeois](https://digitalbourgeois.tistory.com/3445)
   * 셀프호스팅 AI 기반 배포 플랫폼. 무료 SSL, 무제한 도메인, 즉시 롤백, CLI/MCP 지원
+* [OSX-Hyper-V: OpenCore configuration for running macOS on Windows Hyper-V | Qonfused](https://github.com/Qonfused/OSX-Hyper-V)
+  * [MacOS-On-Hyper-v (0xSojalSec 사본)](https://github.com/0xSojalSec/MacOS-On-Hyper-v)
+  * Windows Hyper-V에서 macOS를 돌리기 위한 Hackintosh 프로젝트로, OpenCore 부트로더와 OCE-Build 빌드 매니저 위에 MacHyperVSupport 패키지를 구현. 절차는 저장소 클론→하드웨어(Intel·AMD)에 맞게 OpenCore 설정→OCE-Build로 빌드→Hyper-V VM 구성→만들어진 EFI로 macOS 설치. macOS 10.4부터 지원 범위를 표로 정리(Sequoia까지 지원, Tahoe는 진행 중)하고 문제 해결 안내 포함
 * [Packer](https://www.packer.io/)
   * [패커(Packer)로 도커(Docker) 이미지 빌드 및 AMI 자동 빌드 시스템 구축](http://blog.remotty.com/blog/2015/09/30/paekeopackerro-dokeodocker-imiji-bildeu-mic-ami-jadong-bildeu-siseutem-gucug/)
 * [Podman - Manage pods, containers, and container images](https://podman.io/)
