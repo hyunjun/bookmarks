@@ -488,6 +488,8 @@ Haskell
   * [Polysemy - Part III - Tests](https://sir4ur0n.github.io/posts/polysemy-tests.html)
   * [Writing a discord library using Polysemy](https://nitros12.github.io/writing-a-discord-library-using-polysemy/)
 * [Reanimate](https://reanimate.readthedocs.io/)
+  * [reanimate: Haskell library for building declarative animations based on SVG graphics](https://github.com/reanimate/reanimate)
+  * 수학·2D 벡터 드로잉에 맞춘 프로그래밍 방식 애니메이션 라이브러리로 3Blue1Brown의 manim에서 영감을 받음. 여러 기술을 이어 붙이는 "배터리 포함" 접착제를 지향—이미지 형식은 SVG, 조판은 LaTeX, 영상 인코딩은 ffmpeg, 래스터화는 inkscape·imagemagick, 벡터화는 potrace, 3D는 blender·povray, 스크립팅은 Haskell. `main = reanimate $ docEnv $ playThenReverseA drawCircle` 같은 한 줄 코드가 애니메이션이 되고, stack 템플릿으로 시작해 `reanimateLive`로 코드를 고치면 브라우저에서 바로 갱신. 지도(GeoJSON·투영법), 2D 물리, 대본에 애니메이션 타이밍을 맞추는 음성 정렬, 온라인 플레이그라운드 지원
 * [rei - Process lists easily with](https://github.com/kerkomen/rei)
 * [Servant - Webservice API combinators](http://haskell-servant.github.io/)
   * [A Servant API Testing Example From the Wild](https://vadosware.io/post/a-servant-api-testing-example-from-the-wild/)
