@@ -4158,6 +4158,8 @@ App
     * [tailcat: like netcat, but over Tailscale's data plane, without Tailscale's control plane](https://github.com/tailscale/tailcat)
     * [Tailcat: Secure Connections Without the Setup | Tailscale - YouTube](https://www.youtube.com/watch?v=pA8e1uX195A)
       * 데모—단순 연결부터 HTTP 서버 접근·파일 전송·SSH·공개키 SSH 인증, 직접 연결이 안 될 때의 동작, 다른 프로젝트에 라이브러리로 내장하는 사례, 브라우저 실행까지
+    * [Tailscale Without Tailscale, By Tailscale - TailscaleUp 2026 | Tailscale - YouTube](https://www.youtube.com/watch?v=QkmjKr2QXM8)
+      * TailscaleUp 2026 발표. Tailscale이 WireGuard 위에 더한 것과 Tailcat이 WireGuard·DERP·유저스페이스 네트워킹을 조합하는 방식을 설명하고 두 머신 연결, SSH 접속과 인증, tailcat 주소와 자체 DERP 서버 운영을 시연. 별도 Tailscale 클라이언트 없이 월드를 공유하게 해 주는 Minecraft 모드(Tailcat 라이브러리 내장)와 브라우저 지원, Tailcat으로 붙은 Windows 머신을 Claude로 디버깅하는 사례, 연결에 DNS 이름을 쓰는 방법 소개
     * "Tailscale without Tailscale, by Tailscale"—Tailscale 오픈소스 조각(magicsock 데이터 플레인)을 조합해 컨트롤 플레인 없이 netcat처럼 쓰는 도구. 두 머신 사이 WireGuard 종단간 암호화 터널을 DERP로 부트스트랩한 뒤 NAT 홀펀칭으로 직접 P2P UDP로 승격(실패 시 DERP 릴레이), 연결 메타데이터는 대역 외로 원하는 방식대로 교환. 서버 쪽이 받은 짧은 tailcat 주소를 클라이언트에 넘기면 연결. Tailscale 계정·root 권한 불필요(라우팅·DNS 변경 없음), 무료 레이트 리밋 DERP 또는 자체 derper. CLI+Go 라이브러리, WebAssembly 브라우저 데모
   * [We're making Tailscale faster | Tailscale Blog](https://tailscale.com/blog/making-tailscale-faster)
     * [Tailscale을 더 빠르게 만들기 | GeekNews](https://news.hada.io/topic?id=34222)
