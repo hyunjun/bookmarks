@@ -2863,6 +2863,11 @@ Artificial Intelligence
   * [이상선 - 100만 줄을 2주 만에 옮겼다, Anthropic이 공개한 Claude Code 대규모 마이그레이션 비법 | Facebook](https://www.facebook.com/lsszz1/posts/pfbid02jgjKM9vuiY9fGGRvNCDaMosRpP8N7G8W6tPLAqsU7QvXa9tn7zr2n2NNSMuoU1Phl)
   * Anthropic이 Claude Code로 대규모 언어 마이그레이션을 운영하는 방법. 핵심은 코드가 아니라 프로세스—AI가 무작정 수정하게 하지 않고 반복되는 판단 기준을 '룰북'으로 먼저 정리. 마이그레이션용 프롬프트·템플릿·스크립트 킷 공개
 * [출근하면 코드부터 짜던 개발자가 이제 봇부터 켭니다 | 요즘IT](https://yozm.wishket.com/magazine/detail/3906)
+  * [AI에게 처음부터 끝까지 개발을 맡겼습니다 | 요즘IT](https://yozm.wishket.com/magazine/detail/4012)
+    * 같은 필자(꼼비)의 후속편. Jest 테스트는 전부 통과했는데 요구사항 명세 40개 중 25개만 구현됐던 일을 추적—AI가 원문에서 요구사항 목록을 뽑고 거기서 수용 조건·BDD 시나리오·테스트를 만드는 같은 파이프라인이라, 목록에서 검색 필터 하나가 빠지면 아래 단계 어디에도 그 항목이 없어 누락이 실패로 잡히지 않았음. 파이프라인이 "작성된 테스트가 통과했는가"만 완료 조건으로 봤기 때문이라 요구사항→수용 조건→시나리오→테스트→코드 연결을 한 줄씩 적는 요구사항 추적표 검토를 완료 조건에 추가. 두 번째 결함은 mock—프런트엔드와 mock을 같은 추정 타입으로 만들어 서로 모순이 없었지만 실제 API는 필드명이 달라 스테이지에서 깨졌고, 실제 응답을 먼저 캡처해 타입·fixture·mock을 만드는 순서로 변경
+    * 원칙: 결함이 처음 생긴 산출물(원본 문서·Figma·API 계약)로 돌아가 고치고 그 아래를 다시 생성. E2E는 접근법을 세 단계로 바꿔 가며 단계당 세 번, 아홉 번 실패하면 사람에게 스킵·힌트·시나리오 수정·중단을 물음. 같은 실패는 다음 작업의 규칙이 되되 늘 읽는 지시문이 아니라 필요한 단계의 체크리스트와 완료 조건에만 넣음(세 번 이상 반복된 품질 이벤트를 규칙 후보 초안으로 뽑고 채택은 사람). "전체 PASS" 보고를 받으면 추적표부터 연다는 결론
+  * [code-forge: AI agent의 skills, agents 등을 조합해서 세팅해주는 code-forge | ggombee](https://github.com/ggombee/code-forge/)
+    * 위 두 글에서 쓴 필자의 Claude Code 하네스 플러그인. GROUND→APPLY→VERIFY→ADAPT 사고모델을 공통으로 깔고 전문 에이전트·슬래시 스킬·스택 모듈을 제공. `/setup`이 package.json에서 스택을 감지해 CLAUDE.md·AGENTS.md를 생성, `/start feature.md`는 분석→디자인 확인→구현→테스트→린트→커밋→PR을 한 번에 진행하며 구현과 커밋 전 두 번만 확인, `/handoff`는 대화에만 있는 결정·이유·미결 질문을 progress.md에 남기고 다음 세션 킥오프 프롬프트를 만듦. 그 밖에 `/test`·`/e2e`(Playwright 자율 루프)·`/debate`(모델 간 토론)·`/codex`. 에이전트는 읽기만/Bash만/수정만/전체로 권한을 나누고 작업 난도에 따라 haiku·sonnet·opus로 라우팅. `bin/forge whet --draft`가 세 번 넘게 반복된 품질 이슈를 컨벤션 후보로 초안화
   * 하네스 엔지니어링 기반으로 직접 코드를 쓰던 방식에서 AI 봇(Anvil)에게 작업을 위임하는 방식으로 전환한 실무 기록. 봇 결과를 신뢰할 수 있는 이유는 자동 린트 검사·위험 명령 차단·정책 문서 기반 판단 같은 기술적 게이트가 모든 변경을 검증하기 때문
   * 개발자의 시간이 구현에서 정책 명시화·요구사항 문서화로 이동하고, 비개발자도 봇을 통해 개발 작업을 진행할 수 있게 됨
 * [Kimi K3 + GLM-5.3: Self-Improvement (RSI) Unlocked - YouTube](https://www.youtube.com/watch?v=-4tobA2vRIE)
@@ -7626,6 +7631,8 @@ Artificial Intelligence
     * [Configure cloud environments | Claude Code Docs](https://code.claude.com/docs/en/cloud-environments)
     * [개인 맥미니를 쓸 일이 거의 없어졌습니다 — Claude·Codex 클라우드 환경 활용 | Jongwon Choi](https://www.linkedin.com/posts/jongwon-choi-366b5b111_%EA%B0%9C%EC%9D%B8-%EB%A7%A5%EB%AF%B8%EB%8B%88%EB%A5%BC-%EC%93%B8-%EC%9D%BC%EC%9D%B4-%EA%B1%B0%EC%9D%98-%EC%97%86%EC%96%B4%EC%A1%8C%EC%8A%B5%EB%8B%88%EB%8B%A4-%EC%A0%80%EB%8A%94-%EA%B7%B8%EB%8F%99%EC%95%88-%ED%95%AD%EC%83%81-%ED%95%AB%EC%8A%A4%ED%8C%9F%EC%9D%84-%EC%97%B0%EA%B2%B0%ED%95%98%EB%A9%B0-share-7504460013940203520-lHUT/)
     * Claude·Codex 구독료에 이미 클라우드 실행 환경이 포함—실행당 과금 없이 구독 토큰만 소모. 레포에 curl 설치 스크립트를 두고 부팅 스크립트로 Claude 환경에 Codex를, Codex 환경에 Claude를 상호 설치, Xvfb+headless Chrome으로 브라우저 제어까지 클라우드 안에서 처리해 개인 맥미니가 필요 없어졌다는 경험담
+    * [ghostty-split: opens the other side of /branch and /fork in a new Ghostty split](https://github.com/jongwony/cc-plugin/tree/main/ghostty-split)
+      * Claude Code의 `/branch`·`/fork`를 실행하면 반대편 세션을 옆 Ghostty 분할 창에 띄워 주는 mod(내장 명령은 그대로 동작하고 대화에 아무것도 추가하지 않음). 원래 대화가 항상 왼쪽에 오도록—`/branch`는 왼쪽 새 창에 `claude --resume <원래 세션>`을, `/fork`는 오른쪽 새 창에 `claude attach <새 백그라운드 세션>`을 엶. macOS와 AppleScript가 켜진 Ghostty 1.3 이상, 함수 훅을 지원하는 Claude Code가 필요하고 첫 실행 때 자동화 권한을 허용해야 함. `/branch`는 명령 전후의 세션 id를 읽어 원래 세션을 찾고, `/fork`는 새 id를 넘겨받지 못해 확인 메시지 줄의 형식을 트리거로 삼음
   * [cc-plugins: Collection of Claude Code plugins for various domains - Auth0 security, MFA, token security, compliance](https://github.com/modu-ai/cc-plugins)
     * [astory-blog-writers 완벽 가이드: DNA 기반 하이브리드 저자 시스템과 7인 협업 Crew Mode | DevBlog](https://goos.kim/ko/blog/astory-hybrid-author-system)
   * [cc-token-saver: Claude Code plugin for token and cost management](https://github.com/ww-w-ai/cc-token-saver)
@@ -9821,6 +9828,14 @@ Artificial Intelligence
   * [Opus 5.5 videos | Skillry](https://skillry.dev/ai-videos/opus-5-5)
   * [Awesome Opus 5.5 Videos | digitalbourgeois](https://digitalbourgeois.tistory.com/4004)
   * Claude Opus 5.5에 애니메이션을 코드(HTML·Canvas·SVG·Three.js·GSAP·GLSL)로 쓰게 해 만든 바이럴 영상과 창작자가 공개한 프롬프트(없으면 원본 X 포스트)를 모은 큐레이션. 프롬프트 703개(`prompts/`·`data/videos.json`), 그중 418개는 Skillry에서 원본 옆에 라이브 리메이크를 나란히 재생, README 하이라이트 100개는 모션 그래픽 58·설명형 16·3D 장면 14·게임/인터랙티브 12. 하이라이트 기술 태그는 Canvas 72·SVG 41·GSAP/Three.js/GLSL 각 20. 쓰는 법: 프롬프트 블록을 복사해 Claude Code·Claude 앱·Opus 5.5 에이전트에 붙이고 단일 HTML로 렌더링하게 한 뒤 필요하면 화면을 녹화. 2026-10-12 프롬프트 285개 추가. 개별 영상·프롬프트 권리는 각 창작자에게 귀속
+* [DemoCut](https://democut.ai/)
+  * [AI 영상 제작을 배포 파이프라인처럼: DevOps 회사가 DemoCut을 만드는 이유 | 인포그랩](https://insight.infograb.net/blog/2026/10/28/democut/)
+  * [구글 CEO가 말한 AI 화면의 미래 | AI트렌드 1화 | 데모컷 - YouTube](https://www.youtube.com/shorts/AGLUifu3oAk)
+    * 글에서 제작 과정을 풀어 보인 예시 숏폼. 순다르 피차이가 팟캐스트에서 한 말("지금까지는 사람이 기계에 맞췄지만 이제 AI가 사람에게 맞춘다, 그래도 화면은 남는다")을 원문 출처와 함께 여덟 컷으로 정리
+  * [AI 영상 제작을 배포 파이프라인처럼: DevOps 회사가 DemoCut을 만드는 이유 | 신철호](https://www.linkedin.com/posts/dexter-shin_aiswkupm-ax-aislsstwswktxu-share-7521385599661137920-t-Fz/)
+    * 글을 공유하며 붙인 AX 관점. 같은 회사 같은 라이선스에서도 일하는 방식을 스스로 새로 짜는 사람과 가이드를 기다리다 냉소적으로 변하는 사람이 갈리고, 차이는 도구 배포가 아니라 "구체적인 일하는 방식"을 본 적이 있느냐—리더의 일은 그렇게 일하는 사람이 실제로 있음을 옆 사람이 볼 수 있게 만드는 것. DemoCut 빌더는 7월부터 한 달에 한 번꼴로 세 번 피벗하며(영상 문법 워크플로→영상 공장→에이전트 기반 캔버스) 개발·검증·운영 에이전트를 함께 갈아 끼웠다는 사례
+  * DevOps·자동화 회사 인포그랩이 영상을 "반복해서 만들어야 하는 산출물"로 보고 자동화해 온 기록. 2025년 n8n 숏폼 워크플로(Notion 주제 입력→LLM 대본→HeyGen 렌더링→Slack 승인→채널별 게시)로 시작했지만 컷 몇 장에 AI 음성을 얹는 숏폼으로는 높아진 눈높이를 못 맞춘다고 보고 중단, UI가 바뀔 때마다 다시 찍어야 하는 제품 데모·기술 가이드 영상 쪽으로 방향 전환. DemoCut은 말로 설명하면 컷 단위 시나리오가 나오고 컷마다 AI 영상·모션그래픽·유튜브 클립·이미지 영상 중 맞는 방식으로 만들며 마음에 안 드는 컷만 다시 생성—사람은 웹 캔버스에서, 에이전트는 MCP 도구로 같은 프로젝트를 다룸
+  * 설계 기준 셋: AI 결과를 사람이 컷 단위로 확인·수정하기 쉬울 것(비용이 드는 생성은 견적을 먼저 보여 줌), 목소리·자막·레터박스 같은 형식을 프로젝트 기본값으로 고정할 것, 내용만 바꿔 계속 만들 수 있을 것. 예시 영상은 에이전트가 MCP만으로 만들고 사람이 네 번 피드백해 컷 단위로 고침. 일주일짜리 사내 영상 공모전으로 도그푸딩해 테스트를 통과하고도 남아 있던 문제(자막 표시, 에이전트 작업 흐름, 영상 관리)를 찾았고, 완성도를 가른 것은 무엇을 만들고 어느 컷을 고를지 정하는 사람의 안목이었다는 결론
 * [eian-riso-broll: 孔版双色风格的口播信息动画 Skill：逐字稿 → 1080×1920 竖屏 mp4 · Risograph-style info animations for talking-head videos](https://github.com/yian6557/eian-riso-broll)
   * 토킹헤드·설명형 숏폼 영상의 대본(또는 SRT 자막)을 Claude Code·Codex·Cursor·Gemini CLI 등 코딩 에이전트에 주면, 시각화할 문장을 골라 2색 리소그래프 인쇄 풍의 세로 1080×1920 mp4 정보 애니메이션(B-roll)으로 만드는 스킬. 큰 숫자·다수→소수·전후 비교·핵심 인용 등 10종 템플릿이 종이·잉크·폰트·헤더를 공유해 한 에피소드가 통일된 시리즈로 보임
   * 화면 텍스트는 발화에서만 발췌(없는 수치·UI는 비워두거나 placeholder), 자막 타이밍에 길이 맞춤, 스토리보드→전체 샷 스틸→최종 렌더 3단계마다 승인을 받아 수정 비용 절감. 세로 플랫폼 상단바·자막 영역·우측 버튼을 피하고 글자 크기·대비·프레임 이탈 자동 점검. 투명 배경판 제공. Node.js 22+·Chrome·ffmpeg만으로 이미지 생성 모델·네트워크 없이 로컬 오프라인 렌더. 타이포그래피는 중국어 기준(라틴 문자도 가능)
