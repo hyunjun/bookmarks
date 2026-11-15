@@ -3636,6 +3636,7 @@ AWS
 
 # VPN
 * [한 달 만원으로 스타트업 VPN 구축하기 (SoftEther VPN, OpenLDAP, FreeRadius)](https://medium.com/chequer/%ED%95%9C%EB%8B%AC-%EB%A7%8C%EC%9B%90%EC%9C%BC%EB%A1%9C-vpn-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-softether-vpn-openldap-freeradius-9c629f923eb0)
+  * 13명 규모의 체커(현 QueryPie)가 고정 IP 없는 사무실·외부 접속 때문에 사내 시스템을 공개로 열어 두던 문제를 풀려고 VPN과 LDAP을 도입한 기록. AWS t2.micro 한 대에 오픈소스 SoftEther VPN을 설치하고, 계정 통합 관리를 위해 OpenLDAP과 GUI 관리 도구 PHP-LDAP-Admin을 구성. SoftEther가 LDAP을 직접 지원하지 않아 FreeRadius를 사이에 둬 SoftEther→RADIUS→LDAP로 인증을 연결. Mac은 L2TP로, Windows는 SoftEther 클라이언트나 기본 VPN 설정으로 접속하고, NGINX 허용 IP와 AWS Security Group에 VPN 서버 IP를 넣어 사내 시스템과 AWS 접근을 VPN 경유로 제한. 속도는 절반가량 떨어지지만 업무에는 지장 없고, 트래픽이 많으면 전송 비용이 더 들 수 있다는 단서
 * [원격근무의 필수조건, AWS에 OpenVPN 구축기](https://elegantcoder.com/aws-openvpn-begins)
 * [AWS와 GCP VPN 연동 예제](https://zigispace.net/1024)
 * [AWS와 Azure VPN 연동 예제](https://zigispace.net/1026)
