@@ -1683,6 +1683,9 @@ Machine Learning
   * [A Practical Guide to ARIMA Models using PyCaret — Part 3 | by Nikhil Gupta | Nov, 2021 | Towards Data Science](https://towardsdatascience.com/a-practical-guide-to-arima-models-using-pycaret-part-3-823abb5359a7)
   * [PyCaret 2.3.5 Is Here! Learn What’s New | by Moez Ali | Nov, 2021 | Towards Data Science](https://towardsdatascience.com/announcement-pycaret-2-3-5-is-here-learn-whats-new-7f0256c71797)
   * [Machine Learning Made Easy With PyCaret • Moez Ali • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=k4zNjIHacr4)
+  * [pycaret: Open-source, low-code AutoML platform for Python. PyCaret 4.0: sklearn-native engine + React control plane](https://github.com/pycaret/pycaret)
+  * [PyCaret Time Series Forecasting: Machine Learning Workflow to Find the Best Model | Matt Macarty - YouTube](https://www.youtube.com/watch?v=c0-p9pYNmYU)
+    * 예측 모델을 하나씩 맞추는 대신 PyCaret으로 여러 후보를 한 줄로 비교하는 튜토리얼(Python 시계열 예측 시리즈 4편, 항공 승객 데이터). PyCaret은 scikit-learn 위에서 여러 모델을 맞추고 오차 순으로 순위를 매기는 지루한 부분을 맡아, 프로덕션 코드를 쓰기 전에 출발점이 될 모델을 빨리 찾게 해 줌. 순서: Python 3.11이 필요해 uv로 그 환경을 만들기→시계열 실험 설정(데이터·주기·시드)→자동 진단 읽기(학습/테스트 분할·계절성·이상치)→모델 비교와 순위→분할과 예측 구간이 있는 예측 플롯→이 데이터에서 지수 평활(ETS·Holt-Winters)이 이기는 이유. 같은 setup·compare·predict 흐름이 회귀·분류 모듈에도 그대로 이어짐
 * [PyCM - Multi-class confusion matrix library in Python http://pycm.ir ](https://github.com/sepandhaghighi/PYCM)
   * [PyCM 2.5 released : Multi-class confusion matrix library in Python](https://www.reddit.com/r/MachineLearning/comments/diqyb7/p_pycm_25_released_multiclass_confusion_matrix/)
 * PyGAD [Welcome to PyGAD’s documentation! — PyGAD 2.9.0 documentation](https://pygad.readthedocs.io/)
