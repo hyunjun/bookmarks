@@ -594,6 +594,10 @@ Finance
   * [securo: Open-source personal finance manager. Self-hosted, privacy-first](https://github.com/securo-finance/securo)
   * 셀프호스팅·프라이버시 우선 개인 지출/재무 관리 앱
 * [StonksWatcher](https://github.com/khalidabuhakmeh/StonksWatcher) uses WebSocketClient to stream stock information to the console window in real-time! c#
+* [Sure: The personal finance app for everyone (by everyone) | we-promise](https://github.com/we-promise/sure)
+  * [sure.am](https://sure.am)
+  * [개인 금융 관리를 위한 오픈소스 플랫폼, Sure의 아키텍처와 주요 기능 살펴보기 | digitalbourgeois](https://digitalbourgeois.tistory.com/4406)
+  * 개발이 중단된 Maybe Finance의 커뮤니티 포크인 개인 재무·자산 관리 앱(AGPLv3, "Maybe" 상표와 로고는 포크에서 쓸 수 없음). Maybe Finance 팀은 2021~2022년 약 100만 달러를 들여 실제 재무설계사 연결 기능까지 갖춘 앱을 만들었지만 사업이 성립하지 않아 2023년 중반 개발을 멈추고 오픈소스로 공개했고, 잠깐 운영한 호스팅 서비스도 접은 뒤 커뮤니티가 코드베이스를 이어받음. Docker로 셀프 호스팅하며 브라우저·macOS 데스크톱 앱·모바일 앱·API 클라이언트·LLM 에이전트로 접근. Render 원클릭 배포는 AI 없음, OpenAI 기반 Simple AI(pgvector 준비된 PostgreSQL), 외부 AI 어시스턴트 연동(AlphaClaw·OpenClaw 게이트웨이) 세 구성. Ruby 앱에 PostgreSQL·Redis·Sidekiq 워커 구조
 * Tart [크롬과 주식으로 창업하기](https://parkayun.kr/f8d49b62ced245df8cb61def68efc5bb)
 * [wallstreetlocal: Free and open-source stock tracking website for America's biggest money managers. Democratizing SEC filings by making them more accessible and useful](https://github.com/leftmove/wallstreetlocal)
   * [Wallstreetlocal – 미국 최대 투자자들의 투자 현황 조회 오픈소스 | GeekNews](https://news.hada.io/topic?id=13732)
