@@ -4814,6 +4814,8 @@ NLP
       * [Qwen3.8 27B, Artificial Analysis 지능 지수 52점 기록 | GeekNews](https://news.hada.io/topic?id=32599)
     * [Qwen3.8-27B-Uncensored-MLX · Hugging Face](https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-MLX)
       * [Qwen3.8-27B-Uncensored-MLX - 애플 실리콘용 검열 제거 버전 | GeekNews](https://news.hada.io/topic?id=32636)
+    * [Underdog Saluki 27B](https://underdog.ai/saluki)
+      * Qwen3.8-27B를 약 54GB에서 7.89GB로 줄인 2비트 빌드로, 전용 포크 없이 순정 llama.cpp에서 돌고 16GB 노트북에서 실행. 도구 호출에 맞춘 빌드—Berkeley Function Calling Leaderboard에서 고른 120문제(Underdog Bench)에서 88개를 통과해 원본(84)과 다른 2비트 빌드(Mia 85, ISTA 76, Ternary Bonsai 2 70)를 앞섰고, 맞는 함수를 고르는 두 유형은 48개 중 47개. 다만 120문제는 작은 시험이고 차이 일부는 실행 간 변동일 수 있다고 스스로 밝힘. 약점도 공개—여러 도구를 한 번에 부르는 병렬 호출은 Mia가 뚜렷이 앞서고(엄격 채점 42 대 69, 관대한 파서를 쓰면 55), 경시 수학(AIME)은 원본의 82~85%, 글자 단위 말장난에 약하며 이미지 입력 없음. SWE-bench Verified 50문제 중 30개 수정(원본 33), 웹 탐색 150문제 중 60개. ISTA-DASLab의 2비트 공개본을 바탕으로 제작
     * Qwen 팀의 27B 비전-언어 모델. Gated DeltaNet+Gated Attention 혼합 64층 아키텍처, 네이티브 262K(최대 1M) 컨텍스트. 코딩·에이전트 벤치마크 강세(SWE-bench Pro 61.7, OSWorld-Verified 84.3, GPQA Diamond 89.2)
   * [Qwen3.8-Flash-Next Technical Report PDF](https://github.com/QwenLM/Qwen3.8-Flash-Next/blob/main/tech_report.pdf)
     * [Qwen3.8-Flash-Next: the foundation model developed by Qwen Team, Alibaba Group](https://github.com/QwenLM/Qwen3.8-Flash-Next/)
