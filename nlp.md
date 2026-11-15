@@ -3742,6 +3742,12 @@ NLP
     * 카카오 Applied AI Model팀(정성효·이주영). Kanana-2-v-3b 기반 3B 멀티모달 Decision 모델—문의 분류·상품 사진 확인·에이전트 도구 선택처럼 긴 답변보다 명확한 판단이 반복되는 자리에서 텍스트+이미지를 함께 보고 문장 대신 Noul(참일 확률)·Choice(선택지와 확률)·Score(단계별 확률 반영 점수)를 반환하며 한 요청에 여러 질문(파손 여부+문의 유형+고객 감정)을 묶을 수 있고 Jev 호환 API로 호출. H200 1장에서 판단 1건 약 42ms로 GPT-6 Luna 대비 약 43배 빠름. Jev의 구조는 비공개지만 공개된 vLLM Semantic Router d3가 "LLM+head"로 답 코드 255개 안에서 선택지 순서에 영향을 받는 것과 달리, 입력+질문을 벡터 q로, 선택지 각각을 벡터 a₁…aₙ(2,560차원)으로 임베딩해 코사인 유사도→softmax로 확률을 내는 임베딩 기반 구조—선택지 수 제한 없음(ImageNet 1,000 클래스도 한 번에), 순서 독립, 같은 선택지 임베딩 재사용으로 고정 분류 체계·도구 목록의 반복 호출에 유리(새 선택지는 최초 한 번 임베딩 필요). 자체 평가·공개 벤치마크에서 비교 모델 중 최고 점수
 * [KICE_slayer_AI_Korean: 수능 국어 1등급에 도전하는 AI](https://github.com/NomaDamas/KICE_slayer_AI_Korean)
 * [Kimi - 更强大的 AI 助手](https://www.kimi.com/)
+  * [Attention-Residuals: official repository for Attention Residuals (AttnRes) | MoonshotAI](https://github.com/MoonshotAI/Attention-Residuals)
+    * [2603.15031 Attention Residuals](https://arxiv.org/abs/2603.15031)
+    * [Attention_Residuals.pdf](https://github.com/MoonshotAI/Attention-Residuals/blob/master/Attention_Residuals.pdf)
+    * [Introducing Attention Residuals: Rethinking depth-wise aggregation | Kimi.ai, X](https://x.com/Kimi_Moonshot/status/2033378587878072424)
+    * Transformer의 표준 잔차 연결을 그대로 갈아 끼우는 대체재. 표준 잔차는 모든 레이어 출력을 고정된 1의 가중치로 더하기 때문에 깊어질수록 각 레이어의 기여가 희석되고 은닉 상태 크기가 한없이 커지는데(PreNorm의 알려진 문제), AttnRes는 이 누적을 앞선 레이어 출력들에 대한 softmax 어텐션으로 바꿔 레이어마다 학습된 의사 쿼리 벡터 하나로 입력에 따라 과거 표현을 골라 가져옴—시간(시퀀스)과 깊이의 쌍대성에서 착안. 모든 레이어에 적용하면 메모리가 커지므로 Block AttnRes는 레이어를 블록으로 묶어 블록 안에서는 표준 잔차로 누적하고 블록 표현들에만 어텐션을 걸며, 약 8개 블록으로 전체 방식의 이득 대부분을 회복
+    * 결과: 모든 연산 예산에서 기준선보다 낮은 손실을 보여 1.25배 더 많은 연산으로 학습한 기준선과 맞먹고 추론 지연 증가는 2% 미만. Kimi Linear 구조(총 48B·활성 3B, 1.4T 토큰)에서 MMLU·BBH·HumanEval 등 전 항목이 올랐고 다단계 추론(GPQA-Diamond +7.5)과 코드 생성에서 폭이 큼. 출력 크기가 깊이에 걸쳐 유계로 유지되고 그래디언트 노름이 레이어에 더 고르게 분포
   * [Kimi K2: Open Agentic Intelligence](https://moonshotai.github.io/Kimi-K2/)
     * [🛠️🤖🔓Kimi K2: 오픈소스 에이전트 AI 시대의 개막](https://fornewchallenge.tistory.com/entry/%F0%9F%9B%A0%EF%B8%8F%F0%9F%A4%96%F0%9F%94%93Kimi-K2-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-AI-%EC%8B%9C%EB%8C%80%EC%9D%98-%EA%B0%9C%EB%A7%89)
     * [뉴테크프라임 » My AI Smarteasy와 글 읽기 – Kimi K2: 오픈소스 에이전트 AI 시대의 개막](http://www.umlcert.com/0718-03/)
