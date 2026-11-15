@@ -5194,6 +5194,10 @@ NLP
   * [🦜🔗 Langchain Integration - Langfuse Blog](https://langfuse.com/blog/langchain-integration)
 * [helicone](https://github.com/Helicone/helicone)
   * [Helicone - Open-Source Generative AI Platform for Developers](https://www.helicone.ai/)
+* [judgeval: The Continuous-Improvement Stack for Agents — environment data and evals power agent improvement and monitoring | Judgment Labs](https://github.com/JudgmentLabs/judgeval)
+  * [Judgment Labs](https://judgmentlabs.ai/)
+  * [LLM 에이전트의 성능 개선과 운영 관리를 지원하는 오픈소스 도구, Judgeval | digitalbourgeois](https://digitalbourgeois.tistory.com/4408)
+  * 에이전트의 실패를 찾아내고 원인을 가려 운영 데이터로 수정안을 검증하게 하는 Python SDK. OpenTelemetry 기반 트레이싱—`@Tracer.observe()`로 함수를 계측해 입력·출력·LLM 토큰 사용량을 수집하고 `wrap()`으로 OpenAI·Anthropic·Google GenAI·Together 클라이언트를 자동 계측(LangGraph·Claude Agent SDK 연동). Agent judge는 프롬프트로 정의한 채점기가 트레이스에 라벨을 붙이는 방식(조건이 참이면 라벨을 붙이는 binary, 선택지 중 하나를 고르는 classification)으로, 라벨이 쌓여 에이전트가 어떻게 행동했는지의 검색 가능한 기록이 됨. 운영 트래픽을 서버 쪽에서 지연 없이 자동 채점하고 라벨이 붙으면 Slack으로 알리며, 과거 트레이스에 judge를 다시 돌려 수정이 실제 문제 사례를 고쳤는지 배포 전에 확인. 가상 스키마에 대한 읽기 전용 SQL 조회, CLI, MCP 서버 제공. SDK는 오픈소스지만 Judgment 플랫폼의 API 키와 조직 ID가 필요
 * [openllmetry: Open-source observability for your LLM application, based on OpenTelemetry](https://github.com/traceloop/openllmetry)
   * [OpenLLMetry - LLM 어플리케이션을 위한 오픈소스 Observability | GeekNews](https://news.hada.io/topic?id=13482)
 
