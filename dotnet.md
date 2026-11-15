@@ -190,6 +190,9 @@
 * [.NET MAUI란? - .NET MAUI | Microsoft Docs](https://docs.microsoft.com/ko-kr/dotnet/maui/what-is-maui)
   * [Learn .NET MAUI | Free tutorials, courses, videos, and more](https://dotnet.microsoft.com/en-us/learn/maui)
   * [.net maui 로 앱을 만들어볼까 했다가 | K리그 프로그래머](https://jeho.page/essay/2022/08/19/maui.html)
+* [LLMTornado: The .NET library to build AI agents with 30+ built-in connectors | lofcz](https://github.com/lofcz/LLMTornado/)
+  * [llmtornado.ai](https://llmtornado.ai)
+  * 제공자에 얽매이지 않고 AI 에이전트와 워크플로를 만들고 오케스트레이션하는 .NET SDK. Anthropic·OpenAI·Google·Mistral·DeepSeek 등 30개 넘는 API 제공자와 벡터 DB 커넥터를 내장하고(퍼스트파티 SDK 의존 없음) vLLM·Ollama·LocalAI 로컬 배포를 지원. 에이전트 오케스트레이션은 Orchestrator(그래프)·Runner(노드)·Advancer(엣지) 세 개념으로 구성하며 핸드오프·병렬 실행을 제공. 텍스트·이미지·영상·문서·오디오 멀티모달, MCP·A2A·Skills 프로토콜 지원
 * [Mono - Cross platform, open source .NET framework](https://www.mono-project.com)
   * [Roslyn and Mono](http://tirania.org/blog/archive/2015/Jul-21.html)
   * [Microsoft, Mono Project를 Wine 팀에 기부 | GeekNews](https://news.hada.io/topic?id=16495)
