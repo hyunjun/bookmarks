@@ -3311,6 +3311,9 @@ NLP
   * [김헌기 - AI 및 LLM(Large Language Model) 분야에서 최근에 주목받고 있는 오픈소스 플랫폼인... | Facebook](https://www.facebook.com/hnki0104/posts/pfbid0eWeiS8tCGar1J59MuyLNJtLtjiVQzqC78b6rA74LnfVMietaCZEa95uG83tMrrvMl)
 * [distilabel: ⚗️ AI Feedback framework for scalable LLM alignment](https://github.com/argilla-io/distilabel)
 * [dllm: dLLM: Simple Diffusion Language Modeling](https://github.com/ZHZisZZ/dllm)
+* [dna-eval: DNA Evaluation Harness — benchmarking framework for evaluating LLMs on the DNA evaluation suite in a reproducible manner | dnotitia](https://github.com/dnotitia/dna-eval)
+  * [DNA Evaluation Suite | Hugging Face collection](https://huggingface.co/collections/dnotitia/dna-evaluation-suite)
+  * 디노티시아 LLM 팀이 DNA 모델 내부 평가에 쓰는 LLM-judge 벤치마크와 평가 코드(Python, Apache-2.0, Inspect AI 태스크로 구현). 문항마다 대상 모델이 답을 생성하면 judge 모델이 `src/dna_eval/rubrics`의 YAML 루브릭(프롬프트에 주입)으로 채점하고, 수치 안정성을 위해 15회 반복 후 절사평균을 보고하며 루브릭 점수를 0~1로 정규화해 0.7 초과를 통과로 판정. 태스크: performance·hallucination·persona·degeneration·style·uncensorship(데이터 비공개, 이름 지정 시만 실행)과 한국어 벤치마크 kmmlu_pro/redux/hard·click·kobalt·hrm8k_ksm·haerae_bench·kosimpleqa·kormedmcqa·kbl·haerae_vision·kmmmu. OpenAI 호환 엔드포인트(`VLLM_BASE_URL`·`JUDGE_BASE_URL`)를 환경변수로 주고 `bash run.sh <task> vllm/<model> openai-api/judge/<judge> [reference-model]`, `-T thinking=false`·`--max-connections` 옵션. 독자 파운데이션 모델(독파모) 평가 데이터도 공개 예정
 * [dna-factory: DNA Factory — clean, config-driven LLM post-training: SFT, DPO, GRPO, OPD, SDFT, one YAML, any topology | dnotitia](https://github.com/dnotitia/dna-factory)
   * [DNA Factory | likejazz.com](https://likejazz.com/dna-factory/)
   * [Sang Park - 왜 또 다른 LLM 학습 도구가 필요할까요? | Facebook](https://www.facebook.com/likejazz/posts/pfbid02RtrrfBskNeicJFnMZNBZGi4tJ9qA7iizTS5VqwjPWAXAVXmKuYvJV7bnkQYQjm5Tl)
