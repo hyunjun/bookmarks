@@ -2503,6 +2503,9 @@ Artificial Intelligence
       * 금요일 밤 YouTube가 과장된 썸네일과 뻔한 추천의 "슬롭 벽"으로 보여, 다음 날 아침 Opus 5.5에게 Hacker News에서 추천된 영상으로 YouTube 클론을 만들게 한 기록. Opus가 HN 댓글 전체를 내려받아 걸러내고 Claude Code의 Workflow로 Sonnet을 돌려 스팸을 제거해 YouTube 영상을 추천하는 댓글만 남긴 뒤 YouTube식 UI로 감싸 VPS에 배포·보안 강화·최적화까지 약 2시간에 완료. 업로드 썸네일 대신 영상 중간 프레임 사용, 계정 없이 브라우저 세션에 상태를 두는 추천, 키보드 단축키, 자기 버전을 만들 수 있는 데이터 내보내기 제공. 덧붙인 작업 방식: Claude Code 데스크톱 앱에서 Opus 5.5 Medium을 기본으로 쓰고 코드를 읽거나 쓰거나 터미널을 치지 않으며, 직접 한 일은 Google Cloud API 키 발급·VPS 부팅·도메인 구매뿐
   * [Andrej Karpathy blog](https://karpathy.bearblog.dev/)
   * 크리에이터 Nick Saraev가 2주간 카파시의 공개 글·댓글에서 추린 실제 AI 사용 습관을 한국어 자막으로—Claude Code 데스크톱 앱+Opus 5.5, 기본은 중간 추론 강도. 코드를 읽지도 쓰지도 않고 터미널 명령도 직접 실행하지 않는다는 원칙, 항공 정비 매뉴얼식 영어 ASD-STE100으로 설명을 받고 프롬프트는 갈수록 짧아짐, 긴 글 대신 다이어그램·HTML 페이지·설명 영상을 요청. 공개 벤치마크를 믿지 않고 "육지야, 바다야?" 세계 지도 같은 직접 실험으로 모델을 재고, 거슬리면 직접 만든다(HackerTube), 싼 필터로 거른 뒤 Sonnet 서브에이전트에 위임하는 구조, 앱 대신 데이터와 프롬프트를 공유하는 이유, Claude에게도 예의 바르게. 습관 정리는 원본 제작자의 해석이라는 단서
+* [Give me 15min, I'll make you a top 0.2% Engineer | Aleks Gornik - YouTube](https://www.youtube.com/watch?v=dej0mT2zUsY)
+  * [Andrej Karpathy on X — ~75% of the planet has barely touched AI](https://x.com/karpathy/status/2109361546505966046)
+  * 카파시의 "지구의 약 75%는 AI를 거의 안 써 봤고 20%는 챗봇으로만 쓰며 제대로 쓰는 건 극소수"에서 출발해, 자기 공학 과제를 예로 상위 0.2% AI 사용자가 되는 다섯 가지를 시연—①채팅 대신 코딩 에이전트(실습 폴더를 읽혀 시험 공부용 시각 시뮬레이션을 만들게) ②시스템을 먼저 설계(다이어그램의 상자마다 지시 파일을 둔 서브에이전트로 쪼개고 순서대로 돌려 출력을 넘기는 오케스트레이션을 짜되 계획을 먼저 보여 달라) ③eval 작성(불만족스러운 출력에 0~10점 피드백을 주고 객관적·검증 가능한 평가 스크립트를 만들어 다음 실행을 개선) ④리서치 에이전트로 알파 찾기(관심 분야 핵심 소스를 긁어 매일 아침 9시 상위 5개로 요약하는 도구) ⑤지식은 만료된다—계속 최신 상태 유지. 영상의 모든 애니메이션은 Claude Code+Remotion으로 코드로 제작(레포 공개), 설명란에 프롬프트 원문 수록. CV 템플릿·코칭 홍보 포함
 * ["코딩은 이제 공짜가 됐다" 25년차 장고 창시자가 말하는 AI 시대 | eopla.net](https://eopla.net/magazines/41947)
   * Django 공동창시자 Simon Willison이 2025년 11월이 AI 코딩 에이전트의 변곡점이었다고 회고. "agentic engineering" 실무, 수동 리뷰가 사라진 "dark factories" 등장, OpenClaw처럼 디지털 시스템을 자율 조작하는 AI 어시스턴트의 보안 함의
 * [The Short Leash AI Coding Method For Beating Fable | Greg Slepak](https://blog.okturtles.org/2026/07/short-leash-ai-method/)
@@ -8276,6 +8279,10 @@ Artificial Intelligence
       * 비밀주의로 유명한 퀀트 트레이딩 회사 Jane Street가 2026-11-03 처음 공개한 AI 에이전트 스킬이 트레이딩 봇이 아니라 "선생님"이라는 점을 소개(Altos Ventures Min Jeong에게 배운 내용)
     * "teach me·quiz me·drill me"처럼 가르쳐 달라고 명시할 때만 켜지는 산파술 튜터—단발성 "X 설명해줘"에는 평소처럼 답하고, 의도가 모호하면 한 번 물어본 뒤 시작. 주제를 4~10개 하위 기술로 쪼개고 쉬운 것부터 어려운 것까지 3~5문항 진단으로 하위 기술별 시작 수준을 잡은 다음, 0(모름)~5(가르칠 수 있음) 단계의 스킬 맵을 ASCII 막대로 그려 수준이 바뀔 때마다 갱신
     * 수업 규칙: 질문은 한 번에 하나만 던지고 힌트 없이 답을 기다림, 결과 예측·이유 설명·그럴듯한 오답의 결함 찾기 같은 질문 위주, 틀리면 답을 주지 않고 모순이 드러나는 더 좁은 질문으로(2~3번 실패 후에만 직접 설명하고 다른 각도에서 재시험), 맞아도 가끔 반박해 방어하게 함. 평가는 엄격—독립된 확인 2회 이상(그중 하나는 답을 듣지 않은 상태의 회상)이어야 승급, 예고 없는 간격 복습에서 틀리면 강등, 칭찬 금지. 모든 하위 기술이 목표 수준(기본 4/5)에 이르면 종합 최종 평가
+    * [agent_skills: Agent skills from Jane Street | janestreet](https://github.com/janestreet/agent_skills)
+      * socratic-tutor를 담은 Jane Street의 에이전트 스킬 모음 레포(MIT, 9.8k stars). 각 스킬은 `SKILL.md`가 든 디렉터리—SKILL.md 형식을 지원하는 코딩 에이전트는 스킬 폴더에 복사해 "teach me X"로 쓰고, 일반 챗봇은 SKILL.md 본문을 시스템/커스텀 프롬프트에 붙인 뒤 원하는 주제를 요청
+    * [A $40 Billion Trading Firm Just Open-Sourced an AI Skill. I Tested It. | Unbiased Trading - YouTube](https://www.youtube.com/watch?v=kSILjd2cmY4)
+      * 알고리즘 트레이더가 Claude Code에 socratic-tutor를 설치(레포 zip의 tutor 폴더를 `.claude/skills/`에)하고 마켓 메이킹을 가르치게 한 시연—진단 질문으로 이해도를 매핑한 뒤 "반대편에서 거래하는 사람"에 대한 빈틈을 짚고, 주사위 계약(공정한 주사위 눈만큼 지급, 기대값 $3.50)을 $3.75에 팔면 25센트 엣지 같지만 주사위를 이미 본 구매자는 4·5·6에서만 사므로 평균 $5짜리를 $3.75에 파는 셈이라 거래당 약 $1.25 기대 손실이라는 역선택을 좁은 질문으로 깨닫게 하고, 정답을 맞혔어도 방법을 방금 보여 준 뒤라 레벨을 3/5에 묶어 둠. Jane Street 팟캐스트 인용—"4주짜리 인턴 프로젝트가 프롬프트 하나로 끝나니 인턴 평가 방식이 바뀌어야 했다". 레포에 내부 교육 자료는 없음. 트레이딩 그룹 홍보 포함
   * [srt-whiteboard-animation: SRT 자막을 따뜻한 미황색 종이 배경의 흐르는 필적 화이트보드 손그림 애니메이션으로 만드는 skill](https://github.com/geeklee/srt-whiteboard-animation)
     * SRT 자막을 25~35초 단위 장면으로 쪼개 서사 순서대로 그려지는 화이트보드 손그림 영상(MP4)으로 변환. 화면 좌표가 아니라 자막 이벤트 기준으로 요소의 의미적 그리기 순서를 정하고, 영역별로 연속 필적(`ink` 선화 → `color` 채색)을 얹음
     * `annotation.json`으로 영역·타이밍·자막 연관·겹침 보호구역 관리, 브라우저 프리뷰 대에서 조정. 분경→선화→주석→영역/방향 확인→렌더링 각 단계마다 확인을 받아 렌더 비용 낭비 방지. 미황색 배경(#F5EBD7)·짙은 회색 스케치선 등 시각 규범 고정. Python
