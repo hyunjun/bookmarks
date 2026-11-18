@@ -2018,6 +2018,9 @@ App
   * 최근 버전은 로컬 오픈소스 모델 실행, 폴더 대상 로컬 RAG 검색(한글 파일명 지원), LinkedIn·Threads·X·Medium 글을 마크다운으로 보관하는 Web Scrap과 지식 그래프를 추가
   * [링크드인에서 좋은 글 발견하면 어디에 저장하세요? 공유 버튼 한 번으로 본문·미디어를 내 맥에 마크다운으로 | 류장근 | LinkedIn](https://www.linkedin.com/posts/jkryu_batiflow-secondbrain-rxgtekai-ugcPost-7462487352670781440-5LbX)
     * 링크드인 모바일 앱은 공유 시 URL만 내보내 카톡 "나에게 보내기"로 모은 링크는 매번 재로그인이 필요하고 원본이 지워지면 휘발—"모바일 공유→텔레그램→BatiFlow→로컬 마크다운→AI 분석→RAG 검색"의 우회 크롤링 아키텍처로 본문·댓글·이미지까지 .md로 저장. 저장 위치는 내 Mac/iCloud(표준 마크다운이라 Obsidian·VS Code 어디서든), 로컬 LLM이 요약·태그 자동 부착, 주제·인물·회사로 연결되는 그래프 뷰, 의미 기반 로컬 유사도 검색. 초기 버전은 링크드인 파싱 위주
+* [불편해서 만든 카카오톡 웹버전 제작기 - 어디서나 카톡 동시사용 가능 | 머클 블로그](https://blog.muckle.kr/production/kakaotalk-web-version-build/)
+  * PC 카톡은 한 대에서만 로그인되는 불편을 풀기 위해 사무실 맥미니 한 대에만 공식 카카오톡을 켜 두고 노트북·회사 PC·휴대폰은 브라우저로 접속하는 웹버전을 AI와 대화하며 설계·코딩·시험. 카카오 메시지 API(채팅방 읽기 기능 없음)와 가상 안드로이드에서 대화 DB를 읽는 방법은 버리고, 사람이 보는 화면을 프로그램이 읽고 누르는 길을 택함—Swift 연결 앱이 macOS 손쉬운 사용 API(AXUIElement, AXUIElementCopyMultipleAttributeValues로 묶어 조회)로 채팅 목록·대화 표를 읽고 말풍선 위치로 보낸 사람을 판별, AXSelectedText로 입력·AXPress로 전송(키 입력 흉내 없음). 웹 서버는 파이썬 표준 라이브러리, 프런트는 프레임워크 없는 HTML/CSS/JS, 둘은 Unix 소켓으로만 통신
+  * 막힌 곳: 맥 카톡의 '나와의 채팅' 창 제목이 프로필 이름이라 못 찾음, 글을 바로 넣으면 전송 버튼이 안 켜져 타이핑처럼 끼워 넣기, 0.25초 응답 대기로 성공을 실패로 기록→'보낸 글이 대화 끝에 나타나면 보냄'으로 기준 변경(자동 재전송 없음, 요청 번호+SQLite로 중복 전송 방지), 다른 앱이 앞에 있으면 우클릭 메뉴가 안 열려 잠깐 카톡을 앞으로, 리빌드마다 접근성 권한이 풀려 개발자 인증서로 서명. 상위 12개 방만 자주 읽어 목록 0.03~0.44초·전송 0.5초대. 외부 접근은 맥미니→회사 서버 SSH 역방향 터널 + nginx 세션 검사 + 공유 헤더 값, 메시지 본문은 서버에 저장 안 함, 공개 전 보안 검토
 * [Beamer: free software KVM for Mac, Windows and Linux](https://beamerapp.co.uk/)
   * [beamer: One keyboard and mouse for a Mac and a Windows PC over the local network, in either direction | kalkman-code](https://github.com/kalkman-code/beamer)
   * 같은 네트워크의 기기들 사이에서 키보드·마우스(트랙패드) 하나를 공유하고 클립보드도 함께 넘어가는 무료 오픈소스 소프트웨어 KVM(v1.5.14)—포인터를 상대 기기 쪽 화면 가장자리(선택한 구간·모서리·맥북 노치)로 밀면 같은 위치로 이어지고, 트리거 키(Mac Right Option·PC Right Ctrl, 변경 가능) 더블탭·홀드로도 전환, 도착 지점에 짧은 애니메이션. 최대 32대 직접 페어링, Mac↔Mac·PC↔PC는 키가 그대로, 단축키 유지, 입력은 네트워크 밖으로 나가지 않음. Linux는 실험적 Flatpak(x86-64)
@@ -2288,6 +2291,9 @@ App
   * [Installing Windows 11 on MacBook M1 (ARM64) | by Damilola Omoyiwola | Medium](https://princessdharmy.medium.com/installing-windows-11-on-macbook-m1-arm64-e1e7e0f52ce0)
   * [MacBook Apple Silicon에서 UTM을 이용해 Debian 12 (ARM64) 설치해보기](https://webnautes.kr/macbook-apple-siliconeseo-utmeul-iyonghae-debian-12-arm64-seolcihaebogi/)
   * UTM SE [Install Ubuntu on iPad or iPhone | Linux for iPad and iPhone - YouTube](https://www.youtube.com/watch?v=7fMhRWx7TN8)
+  * [무료로 맥북에 윈도우까지 같이 설치하는 법! 이제 오버워치도 가능합니다 💻 | BGS REVIEW - YouTube](https://www.youtube.com/watch?v=f_vdmHrd1E8)
+    * UTM 5.0.8부터 DirectX(DX12까지) 3D 그래픽 가속과 맥북 120Hz ProMotion을 지원하게 되어 Windows 11 ARM을 처음부터 다시 설치하는 확장편—getutm.app의 Download for Mac은 무료(앱스토어판은 후원용 유료), 구버전 사용자도 그래픽 드라이버가 바뀌어 VM을 새로 만드는 편이 좋음. 메모리 최소 4GB(영상은 16GB), CrystalFetch로 Windows 11 ARM 한국어 정식 ISO, 디스크 64GB 기본(늘리려면 UTM 설정+파티션 매니저 두 번 손봐야 하니 크게 잡기), 공유 폴더, 부팅 직후 'Press any key' 타이밍, Guest Tools와 3D 가속 드라이버 설치, 해상도·배율·120Hz
+    * x86 앱은 Windows Prism 번역으로 실행(안티치트 게임은 아직 불가, Riot이 롤·발로란트 ARM 지원 발표), 마우스가 뻣뻣하면 "입력 장치 캡처"(Ctrl+Option 토글), 보안 프로그램·HTS 실행, DirectX 진단으로 DX12 확인, Rosetta 설치(`softwareupdate --install-rosetta --agree-to-license`). M3 Max에서 외장 SSD의 스팀 오버워치가 90~102프레임—초반 셰이더 컴파일로 출렁이고 드라이버는 실험 단계. 더 빠른 길은 Whisky(시카루기르) 엔진 11 + Game Porting Toolkit 4.0 D3DMetal로 '매우 높음' 설정 플레이, DX11까지는 DXMT 레이어도 대안, 와인 프로세스 꼬이면 `pkill -9 -f wine`
 * [Vibe Island - Dynamic Island for Your AI Agents](https://vibeisland.app/)
   * 26개 AI 코딩 에이전트용 macOS 노치 패널. 실시간 상태 표시, GUI 권한 승인, 정확한 터미널 점프. Claude Code·Codex·Cursor·Gemini CLI 등 지원, 제로 설정
 * Vim [install mac vim - gvim](https://gist.github.com/hectorperez/71040d264044f7164d64)
