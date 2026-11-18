@@ -2848,6 +2848,10 @@ Programming
     * 2 - Rate Limiting
     * 3 - Bulkheads
     * 4 - Health Checks with Load Balancers
+* [Find Distributed Systems Bugs Before You Write Code • Hillel Wayne • QCon London 2026 | InfoQ - YouTube](https://www.youtube.com/watch?v=v-0G54nmEtM)
+  * 《Learn TLA+》《Logic for Programmers》 저자가 "아직 없는 시스템의 버그를 찾는" 형식 기법의 사고법을 수식 없이 전달. "확인→완료 표시→실행" 순서의 Thing Doer는 실패 후 재시도 시 영영 실행되지 않고(liveness 위반), 순서를 바꾸면 두 인스턴스가 동시에 실행해 두 번 수행(safety 위반)—패키지 2개 발송·스케줄 중복 같은 실제 장애의 추상형. 속성(property)은 참/거짓이며 강한 속성이 약한 속성을 함의: 강한 속성의 통과는 정확성을 보이고 약한 속성의 실패는 원인을 짚어 주므로 테스트 피라미드에 유닛 테스트가 많다
+  * 검증은 상태(step·marked·done)를 최소로 추상화해 상태 공간을 전부 탐색하는 것—머신 변수(우리가 통제)와 월드 변수(되돌릴 수 없음) 구분, 동시성은 비결정성으로 표현. 머릿속 검증은 "그렘린"(적대적 비결정성): 모든 실패·재시도·경쟁·타임아웃이 최악으로 풀린다고 가정. 환경(가정)도 강약이 있어 "절대 실패 안 함"보다 "유한 번만 실패"가 방어 가능하고, 가정·속성·시스템 복잡도는 서로 맞물려 하나를 고정하면 둘이 움직인다(벤더가 강한 일관성→최종 일관성으로 바뀌면 내 속성이 깨짐)
+  * Q&A: 레거시에선 과거 장애를 50줄 스펙으로 재현해 가치 입증이 쉬움, 컴포넌트 합성은 추상화↔정제(refinement)로 단계적 접근, LLM은 속성(특히 liveness) 도출이 아직 매우 서툴러 경험자가 다뤄야 함. 자료: learntla.com, TLA+ 외 Alloy·P·Quint·PRISM
 * [Jepsen is an effort to improve the safety of distributed databases, queues, consensus systems, etc](http://jepsen.io/)
 * [How Do You Distribute Your Database over Hundreds of Edge Locations? - YouTube](https://www.youtube.com/watch?v=AI-yhny7DRE)
 * [Distributed Systems in One Lesson by Tim Berglund](https://www.youtube.com/watch?v=Y6Ev8GIlbxc) Consistent Hashing, CAP, map reduce, hadoop, spark, kafka
