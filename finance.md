@@ -461,6 +461,9 @@ Finance
     * 공식 논문—단일 에이전트나 독립적 데이터 수집을 넘어 **실제 트레이딩 회사의 협업 역학을 멀티 에이전트로 재현**하는 프레임워크 제안
   * [MIT Researchers Built An AI Hedge Fund (Here's How To Use It) | AI Pathways - YouTube](https://www.youtube.com/watch?v=w-8XSCgwzHw)
     * MIT·UCLA 연구진이 만든 TradingAgents를 헤지펀드처럼 굴리는 사용법 튜토리얼(투자 자문 아님 고지 포함)
+  * [I Tested The #1 Viral AI Trading Repo (Claude Hedge Fund) | Miles Deutscher Finance - YouTube](https://www.youtube.com/watch?v=ikE6BAjZUiA)
+    * 112K 스타 TradingAgents 신버전 리뷰—ChatGPT 구독 플랜 안에서 실행 가능(Claude는 API 키 필요), 매 실행마다 원페이저 HTML 리포트 자동 저장, 에이전트 병렬 실행, 공정한 백테스트, 다양한 모델 제공자. 분석가 4명(펀더멘탈·센티먼트·뉴스·기술)→불/베어 리서처 구조화 토론→트레이더→리스크 팀(공격/중립/보수)→PM의 흐름을 Opus 5.5 high로 NVIDIA에 실행: 리서치 매니저 Overweight(5단계 척도), 진입 216.5·손절 199·표준 배분의 0.4x·목표가·기간 제시
+    * 포트폴리오 UI/MD 파일과 투자자 프로필 문서를 연결해 보유 종목 전체에 데스크 등급(금 Underweight·트림, NVDA Hold 등)을 매기고 매일 7시 스케줄 루프로 돌리는 법(상시 켜둔 VPS 권장). 레포 자체는 브로커 연동을 하지 않으므로 Alpaca(페이퍼 계정) API 키를 .env에 넣고 dry run 후 "NVDA $1,000 추가 매수" 같은 자연어로 주문. 추천 프롬프트: 세컨드 오피니언, 워치리스트 랭킹 알파 헌트(quick mode), 어닝 프렙, 집중도 점검, Claude·GPT 교차 검증
   * 펀더멘탈·센티먼트·뉴스·기술 분석 에이전트 + 불/베어 리서처 토론 + 트레이더·리스크 관리·포트폴리오 매니저로 구성된 멀티 에이전트 트레이딩 시스템
   * [Someone open-sourced a hedge fund (53k stars on GitHub) - YouTube](https://www.youtube.com/watch?v=9FoEsXNGLwI)
 * [tradingcodex: Turn Codex into your investment workflow team](https://github.com/monarchjuno/tradingcodex)
@@ -470,6 +473,9 @@ Finance
     * 공식 TradingView MCP 서버(`https://mcp.tradingview.com/mcp`) 공개 베타—Claude(웹·데스크톱·모바일·Claude Code) 등 MCP 호환 클라이언트에 사용자 지정 커넥터로 추가하고 TradingView 로그인·승인하면 끝. Essential 이상 유료 플랜 대상, 베타 중 일일 요청 제한. 시세·가격 이력 조회, 스크리너 실행, 펀더멘털·뉴스·공시(실적 콜 녹취록·10-K/10-Q/8-K)·경제 캘린더 분석, 왓치리스트·얼러트 생성, 얼러트 로그 사후 분석("지난 7일 발동된 얼러트와 이후 2세션 가격 움직임·헤드라인"), 종목 비교표, Claude Code에서 API 키·CSV 없이 2년치 봉차트+CPI 받아 상관관계 계산 등 활용 예시와 첫 프롬프트 10가지
   * [트레이딩뷰 공식 MCP 나왔습니다, 클로드 연결부터 한계까지 | Running the System - YouTube](https://www.youtube.com/watch?v=yEbJe1uILiM)
     * 7분 실연: MCP는 USB 같은 것, 누가 쓸 수 있나(에센셜 이상·베타 제한), 클로드에 연결하기, 도구 권한 설정(읽기는 항상 허용·쓰기는 승인 필요), 트레이더가 쓸 만한 기능, 말로 왓치리스트 만들기, 얼러트 기록으로 거래 횟수 세기, 써 보니 아쉬운 점과 되는 것·아직인 것 정리
+  * [I Cloned TradingView and Made It FREE (Insanely Cool) | Lewis Jackson Investing - YouTube](https://www.youtube.com/watch?v=ifQKpTFfBdQ)
+    * X에서 화제가 된 REA(Reverse Engineer Anything)로 TradingView를 역공학한 사례를 보안 문제를 손봐 재구축한 "Quant Terminal"—프롬프트 하나를 Claude Code(약 1분)나 Codex(약 6분)에 붙이면 내 컴퓨터에 설치(Mac·Windows·Linux). 동시 차트 최대 16개, 차트당 제한 없는 59개 지표, 드로잉 도구, 웹훅 알림, 전략 테스터(JSON 편집·저장), 바 리플레이, 스크리너(상위 100 크립토 볼린저 밴드폭 조건 등), 히트맵, 시즈널, 미국 주식 재무, 페이퍼 트레이딩, 경제 캘린더. "매트릭스 색으로 바꿔라" "랜덤 전략을 지표로 올려라"처럼 Claude에게 말로 커스터마이즈
+    * 백테스트가 운이었는지 가리는 퀀트 체크 5종 내장—워크포워드, 과적합(PBO), deflated Sharpe, 수수료 스트레스(TradingView 백테스트가 수수료를 빠뜨리는 문제 지적), 인접 파라미터, 거래 몬테카를로. 5개 모두 통과한 뒤에만 실거래 권고. 실매매는 본인이 만든 유료 PTQ 연동(월 $29 커뮤니티·$500 전략 대회 홍보)
 * [TrendSpider - All-in-One Market Research & Trading Software](https://trendspider.com/)
   * 개인 트레이더부터 기관까지 쓰는 AI 기반 통합 시장 분석·거래 플랫폼(월 구독). 자동 차트 패턴·추세선 인식, 머신러닝 기반 전략 개발과 50년+ 과거 데이터 백테스팅, 실시간 시장 스캐너, 코드 없는 클라우드 알림·자동 매매, AI 거래 조수 Sidekick("챗봇이 아니라 워크봇"). 스캐너·계산기·학습 센터는 무료 제공
 * [vibe-investing: 투자를 위한 AI 투자(Vibe Investing) 큐레이션, 시장 분석 칼럼, AI 트레이딩 도구 2종 (Harness Quant v2 + Earnings Momentum Agent) 를 다루며 미국 나스닥, S&P500, 가상화폐 투자를 다룹니다](https://github.com/gameworkerkim/vibe-investing/)
@@ -482,6 +488,9 @@ Finance
   * [Vibe-Trading Wiki — Finance Research Agent](https://vibetrading.wiki/)
   * [Vibe-Trading - AI 다중 에이전트 트레이딩 전략 플랫폼 | GeekNews](https://news.hada.io/topic?id=29055)
   * [자연어로 만드는 퀀트 전략 자동화 플랫폼, Vibe-Trading 기술 정리 :: 지식의 섬](https://digitalbourgeois.tistory.com/3061)
+  * [Open Source Vibe Trading on DeepSeek and Claude: Setup, Backtest and Committee | David Arias, CFA - YouTube](https://www.youtube.com/watch?v=MSbSeLtvY0o)
+    * VS Code에서 클론→Python 3.11 venv→lock 파일→.env 모델 설정→Docker(터미널 앱이 셸 도구를 항상 켜두므로 격리 필수) 순서로 설치하고, 3대 기능을 DeepSeek Flash/Pro·Claude Haiku/Sonnet으로 테스트. ①NVIDIA 단일 에이전트 분석(등급·진입·손절·목표): Flash 4.5분 약 15센트, Haiku 80초 2센트지만 그라운딩 게이트가 수치 16개를 가림, Sonnet 2분15초 63센트 ②Larry Connors RSI(2) 풀백 전략 SPY 2015~ 백테스트: 엔진은 견고하나 DeepSeek 4회 중 3회 생성 코드가 신호를 하루 더 밀어 51.6%로 보고(재구성 시 39.8%), Haiku·Sonnet과 라이브 Flash는 정확한 날에 거래(38.3%, 103건)—이 신호 지연은 PR #2137로 제출 ③투자위원회(bull·bear·리스크 오피서·PM): Flash 10분 Buy, Haiku 등급 없음, Sonnet 7.5분 Hold+헤지
+    * 3기능 1회 비용 Flash 약 40센트·Haiku 11센트·Sonnet 2.80달러. Glassbench로 TradingAgents·AI Hedge Fund와 비교; 같은 랩의 AI-Trader 논문(arXiv 2512.10971) 언급
   * 자연어→실행 가능 트레이딩 전략 변환. 68개 금융 스킬, 29개 에이전트 스웜 팀(투자위원회·트레이딩 데스크·리서치). A주/홍콩/미국/크립토/선물 크로스마켓 백테스팅, TradingView Pine Script 내보내기, MCP 플러그인
   * 위키는 스스로를 "브로커 실행이 아닌 금융 리서치용" 에이전트로 규정: 자연어 요청→스킬·데이터·스웜 팀 라우팅→시장 데이터·문서·브로커 저널 그라운딩→백테스트·팩터 분석·옵션 검증→run card·리포트·도구 추적·주의사항 전달의 루프. A주·글로벌·인도·한국·베트남 주식·크립토·선물·외환·옵션 11개 백테스트 엔진, 브로커 거래 저널을 파싱해 암묵적 규칙을 뽑고 반사실 백테스트·감사 리포트를 내는 Shadow Account. 실거래는 opt-in·기본 읽기 전용으로 직접 승인한 브로커(Robinhood Agentic Trading 등)와 한도 안에서만. v0.1.17(33명 638커밋)은 일별 종가 봉에 주문·전략을 매칭하는 paper trading(`paper_trade_step` 도구·CLI·REST·웹)과 "계산 불가면 그럴듯한 숫자 대신 null" 정확성 수정, v0.1.18은 도구 스키마 지연 로딩으로 모델 호출 12→7회·입력 토큰 약 1/5. 공식 토큰·밈코인은 없다는 사칭 경고
 * [worldmonitor: Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface](https://github.com/koala73/worldmonitor)
