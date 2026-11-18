@@ -3378,6 +3378,12 @@ NLP
   * [2026년 4~7월 공개 프론티어 MoE 9종을 8x B200 단일 노드 vLLM으로 서빙·벤치마크 | Daekeun Kim](https://www.linkedin.com/posts/daekeun-kim_aws-llminference-vllm-share-7493909499871924224-JO6B/)
   * GLM-5.2, DeepSeek-V4-Pro, MiMo-V2.5-Pro, Ring-2.6, Nemotron-3-Ultra, SKT A.X-K2, LG K-EXAONE-2.0 등 9종의 서빙 방법·메모리 사용량·벤치마크. 파라미터 수만으로는 GPU 메모리 예측이 어려움(1.6T DeepSeek-V4-Pro와 743B GLM-5.2의 메모리 차이가 14% 수준). HF 모델 ID로 RTX 6000 Pro/A100/H100/H200/B200/B300 필요 GPU 수 계산 도구 포함
 * [Fuzz4All: Universal Fuzzing with Large Language Models](https://fuzz4all.github.io/)
+* [Gemini 4 Hydrogen: Introducing Gemini 4 Hydrogen | Google](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/)
+  * [llm-gemini 0.37 — Gemini 4 Hydrogen, the lowest cost member of the Gemini 4 family | Simon Willison](https://simonwillison.net/2026/Nov/12/llm-gemini/)
+    * Gemini 4 가격표가 헷갈린다는 지적—Carbon·Argon은 같은 값($2/$10, 12월 1일부터 $4/$20로 두 배)이고 Hydrogen($1.5/$0.075 캐시/$7.5)은 지금은 25% 할인에 그치며 12월 이후에야 큰 폭 할인. Claude Haiku 5.5·GPT-6 Luna($0.10/$0.50)의 15배. 세 모델×세 effort의 펠리컨 비교 그리드에서 Hydrogen 품질 차이가 두드러짐
+  * [제미나이 4 하이드로젠 출시: 무료로 쓰는 곳 3곳과 API 1.5달러 | 오픈위키](https://wikidocs.net/blog/@openwiki/36936)
+    * 2026-11-12 공개된 Gemini 4 제품군의 막내—무료 Gemini 앱(자동 모델 선택 시에만)·구글 검색 AI 기능·AI Studio/Gemini API 무료 티어까지 내려오는 첫 Gemini 4 모델(Antigravity·Sheets 연동은 AI Pro·Ultra 전용). 생각 수준 low/medium/high(기본)/xhigh(신규), 100만 컨텍스트, Gemini 3.8 Flash 자리를 대체. 구글 자체 수치: Terminal-Bench 57% vs 18.2%, Artificial Analysis 지능 지수 51(Argon 50), 3.8 Flash보다 2.5배 빠르고 환각 1/5 이하. Carbon·Argon이 설계·디버깅 같은 큰 판단, Hydrogen이 코드 작성·테스트·검증 반복 실무를 맡는 멀티 모델 구도
+    * 가격 함정: 표준가($1.5/$7.5)가 현행 3.8 Flash($0.75/$3.75)의 정확히 두 배라 비용 때문에 갈아타면 청구서가 두 배. 2027-01-01에 3.8 Flash가 같은 값으로 인상돼 그때부터 구분 무의미. 배치·플렉스는 반값, 우선 처리는 1.8배, 명시적 캐싱 미지원(암묵적만). 월 1,000만 입력+200만 출력 계산 예시와 한국 사용 가능 여부·원화 구독가(AI Plus 7,500원·Pro 29,000원) 정리
 * [gemma-4-12B-it-heretic-GGUF · Hugging Face | igorls](https://huggingface.co/igorls/gemma-4-12B-it-heretic-GGUF)
   * [인터넷 연결 없이 PC에서 실행하는 무료 AI 모델, 안전 제한을 제거한 Gemma 4 | 이상선](https://www.linkedin.com/posts/soulai_gemma4-ollama-rxgtekai-share-7526545420995416064-tDkX/)
     * 가입·구독 없이 PC에서 돌리고 프롬프트가 외부 서버로 나가지 않는 로컬 모델로 소개. Ollama 설치→`ollama pull igorls/gemma-4-12B-it-heretic-GGUF`→`ollama run`→`/set nothink` 순서
