@@ -4976,6 +4976,9 @@ NLP
   * [TutorialLLM - LLM에 의해 진행되는 프로그래밍 학습 플랫폼 | GeekNews](https://news.hada.io/topic?id=17646)
 * [txtai: 💡 All-in-one open-source embeddings database for semantic search, LLM orchestration and language model workflows](https://github.com/neuml/txtai)
   * [txtai - 시맨틱 검색, LLM 오케스트레이션, 언어모델 워크플로우를 위한 올인원 임베 | GeekNews](https://news.hada.io/topic?id=15957)
+  * [txtai documentation](https://neuml.github.io/txtai)
+  * NeuML의 올인원 AI 프레임워크(Apache-2.0, Python 3.11+, Transformers·Sentence Transformers·FastAPI 기반). 핵심은 희소·밀집 벡터 인덱스+그래프 네트워크+관계형 DB를 합친 임베딩 데이터베이스—SQL 결합 벡터 검색, 객체 저장소, 토픽 모델링, 그래프 분석, 텍스트·문서·오디오·이미지·비디오 멀티모달 인덱싱. 위에 LLM 프롬프트·QA·라벨링·전사·번역·요약 파이프라인, 파이프라인을 잇는 워크플로, smolagents 기반 에이전트(agents.md·skill.md 프롬프팅, Hugging Face·llama.cpp·LiteLLM 경유 OpenAI/Claude/Bedrock), 웹 API와 MCP API(JS·Java·Rust·Go 바인딩)
+  * `embeddings.index([...]); embeddings.search("positive", 1)` 두 줄로 시작, app.yml+uvicorn으로 바로 API. 로컬 실행·마이크로모델부터 LLM까지·저용량 설치가 장점. 노트북 70개+ 예제: 이미지 유사도 검색, 시맨틱 그래프, RAG 파이프라인과 인용, "RAG is more than Vector Search"(웹·SQL 컨텍스트), Wikipedia GraphRAG, 음성↔음성 RAG, LLM 엔티티 추출로 지식 그래프 구축, 에이전트 자율성·툴킷·스킬. 호스팅판 txtai.cloud
 * [TWO](https://www.two.ai/)
   * [투플랫폼 “수트라 한국어 추론 능력이 국내 모델보다 뛰어나“ < 인터뷰 < 산업 < 기사본문 - AI타임스](https://www.aitimes.com/news/articleView.html?idxno=159362)
 * [Ultramarine 1 Flash — Paper Instruments](https://www.paperinstruments.com/ultramarine)
