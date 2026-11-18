@@ -310,6 +310,9 @@ Hardware
 * [더북(TheBook): 모두의 마이크로비트](https://thebook.io/080233/) 0~8장만
 * [더북(TheBook): 모두의 아두이노 환경 센서](https://thebook.io/080261/)
 * [Embedded Recipes - 친절한 임베디드 시스템 개발자 되기 강좌](http://recipes.egloos.com/)
+* [그라운드 임베디드 GROUND EMBEDDED — 현업 개발자가 알려주는 상위 1% 지식](https://groundembedded.com/)
+  * 구독자 2.8만 유튜브 채널 Ground Embedded의 학습 사이트—"C 언어부터 모터 제어까지" 임베디드 개발자가 되는 길. 기초(C·자료구조·디지털 논리·컴퓨터구조)→하드웨어(회로이론·전자회로·소자·PCB·계측)→펌웨어(어셈블리·MCU·통신 프로토콜·RTOS·설계와 품질)→응용(제어공학·센서·전력전자·모터 제어·임베디드 리눅스·자동차 SW) 4갈래 20과목 182주제 로드맵에 읽은 주제가 밝아지는 진도 표시
+  * 무료 전자책 3권(직렬통신 UART~CAN·RS-485 / 센서—물리량이 숫자가 되는 과정 / BLDC 모터 제어 입문 6스텝~FOC, 79쪽 57장), 설치 없이 브라우저에서 값을 바꿔 보는 실험실 14개(BLDC 6스텝 3D·PID 서보·PWM 듀티비와 STM32 PSC/ARR/CCR·UART 파형·I2C 버스·SPI 모드·H 브리지·RC 회로·ADC 분해능·CAN 중재), 영상을 글로 정리한 노트(풀업 저항·UART 기초·PWM 기초). 대표 영상: 직렬통신 12가지, 센서 총정리, DC·BLDC·PMSM 모터 40분 정리
 * [Kolban's Book on the Raspberry Pi](https://leanpub.com/pi)
 * [Raspberry Pi: Measure, Record, Explore](https://leanpub.com/RPiMRE/read_full)
 * [Raspberry Pi Computing: Ultrasonic Distance Measurement](https://leanpub.com/rpcultra/read_full)
