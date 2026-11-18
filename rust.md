@@ -389,6 +389,9 @@
 * [GPUI Component](https://longbridge.github.io/gpui-component/)
   * [gpui-component: Rust GUI components for building fantastic cross-platform desktop application by using GPUI](https://github.com/longbridge/gpui-component)
   * [Rust 크로스플랫폼 GPUI 컴포넌트 | GeekNews](https://news.hada.io/topic?id=23960)
+  * [GPUI Kit — Build fantastic, high-performance desktop apps](https://gpui-kit.com/)
+    * gpui-component가 GPUI Kit(크레이트 `gpui-kit`, v0.10)으로 확장된 공식 사이트. Longbridge 프로덕션에서 검증된 Rust UI 프레임워크(Apache-2.0, macOS·Windows·Linux·WebAssembly)로 75+ 컴포넌트·프리미티브, 수십만 행 가상 스크롤 데이터 테이블, 도킹 레이아웃, 차트, Rope+Tree-sitter+LSP 기반 20만 줄 코드 에디터, 시맨틱 토큰 멀티 테마, AccessKit 접근성, 헤드리스 윈도우 UI 통합 테스트
+    * 세 계층: 완성된 비주얼 시스템 gpui-component / 포커스·오버레이·가상화·접근성 동작만 제공하고 픽셀은 앱이 소유하는 무스타일 gpui-base / Rust 호스트가 capability를 하나씩 허가해 같은 프로세스에서 JavaScript 확장이 UI를 그리는 gpui-shell(저장 시 핫 리로드). 모바일·웹·터미널·임베딩은 자매 프로젝트 Native Shell 권장. llms-full.txt·Skills 제공
 * [hck: A sharp cut(1) clone](https://github.com/sstadick/hck)
 * [ht: headless terminal - wrap any binary with a terminal interface for easy programmatic access](https://github.com/andyk/ht)
   * [ht - 헤드리스 터미널 | GeekNews](https://news.hada.io/topic?id=15182)
