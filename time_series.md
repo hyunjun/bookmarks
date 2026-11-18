@@ -143,6 +143,10 @@ Time Series
 * [Khronus - A reactive time series database](https://github.com/Searchlight/khronus)
 * [Kronos: A Foundation Model for the Language of Financial Markets](https://arxiv.org/abs/2508.02739)
   * [Kronos](https://github.com/shiyu-coder/Kronos)
+  * [Open Source Kronos AI: Candlestick Trading Model Tested in AI Agents | David Arias, CFA - YouTube](https://www.youtube.com/watch?v=0Qv1W4qTWQ4)
+    * [kronos: code behind the video — the desk, the tests and the agents | davidalmeida90/yt-videos-guide](https://github.com/davidalmeida90/yt-videos-guide/tree/main/kronos)
+    * 칭화대의 캔들스틱(K-line) 파운데이션 모델을 빈 폴더에서 설치해(일반 예측은 GPU 메모리 1GB 미만) 백테스트하고 에이전트 셋업 셋에 끼워 본 전면 검증—결론은 "작은 도구로는 잘 돌지만 증명된 엣지는 없다". 학습 컷오프(2024-06) 이후 117주·1,404회 결정·편측 5bp 비용 백테스트에서 미국 대형주 12종목 buy and hold +60.53% vs Kronos 규칙 +33.35%, 결과를 본 뒤 추가한 "지난주의 반대" 한 줄 규칙 +34.96%(Kronos와 같은 방향 66%, 상관 0). 10~90 백분위 구간이 실제 5세션 움직임을 담은 비율 34.6%(80%여야 함). 고정된 huggingface_hub 때문에 추론 시 학습 모드로 도는 issue 415를 고치면 예측이 더 나빠졌고, 일봉 400바에서 80.8%를 하락으로 예측(실제 하락 42.8%), 레포 웹 UI의 멋진 한 장(예측 +16.52% vs 실제 +14.47%)도 33개 창에서는 마지막 가격 반복이 75.8% 더 정확
+    * 에이전트 ①Kronos를 라이브 도구로 부르는 Claude 하나—NVDA에서 모든 경로가 상승(10백분위 +8.6%)인데 "믿지 않는다"며 FLAT ②TradingAgents의 시장 분석가 한 명에게만 예측 첨부(Glassbench로 실행)—12건에서 평가 변경 빈도가 예측 없을 때와 비슷해 측정 가능한 차이 없음 ③도구 없는 LLM 하나에 종목·날짜를 숨기고 가격을 100으로 리베이스해 진짜 vs 가짜 예측을 붙인 1,404회—LLM은 가짜 예측도 진짜만큼 따랐고 사전 등록한 t>2 기준을 어느 모델도 넘지 못함. 논문 헤드라인 수치의 의미와 같은 백테스트에서 단순 규칙이 내는 성과도 비교. 연구 목적, 주문 실행·투자 조언 아님
   * 금융 캔들스틱(K-line) 특화 파운데이션 모델. 45+ 글로벌 거래소, 120억 K-line 레코드로 학습. 가격 예측 RankIC 93% 향상, 변동성 예측 MAE 9% 감소. 4.1M~499.2M 파라미터 4종, Qlib 백테스팅 통합
 * [M3 - The fully open source metrics platform built on M3DB, a distributed timeseries database](https://www.m3db.io/)
   * [Introducing M3 - The Time-Series Infrastructure that Powers Metrics at Uber](https://towardsdatascience.com/introducing-m3-8790c503ce24)
