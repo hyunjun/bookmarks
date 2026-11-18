@@ -476,6 +476,11 @@ Finance
   * [I Cloned TradingView and Made It FREE (Insanely Cool) | Lewis Jackson Investing - YouTube](https://www.youtube.com/watch?v=ifQKpTFfBdQ)
     * X에서 화제가 된 REA(Reverse Engineer Anything)로 TradingView를 역공학한 사례를 보안 문제를 손봐 재구축한 "Quant Terminal"—프롬프트 하나를 Claude Code(약 1분)나 Codex(약 6분)에 붙이면 내 컴퓨터에 설치(Mac·Windows·Linux). 동시 차트 최대 16개, 차트당 제한 없는 59개 지표, 드로잉 도구, 웹훅 알림, 전략 테스터(JSON 편집·저장), 바 리플레이, 스크리너(상위 100 크립토 볼린저 밴드폭 조건 등), 히트맵, 시즈널, 미국 주식 재무, 페이퍼 트레이딩, 경제 캘린더. "매트릭스 색으로 바꿔라" "랜덤 전략을 지표로 올려라"처럼 Claude에게 말로 커스터마이즈
     * 백테스트가 운이었는지 가리는 퀀트 체크 5종 내장—워크포워드, 과적합(PBO), deflated Sharpe, 수수료 스트레스(TradingView 백테스트가 수수료를 빠뜨리는 문제 지적), 인접 파라미터, 거래 몬테카를로. 5개 모두 통과한 뒤에만 실거래 권고. 실매매는 본인이 만든 유료 PTQ 연동(월 $29 커뮤니티·$500 전략 대회 홍보)
+  * [MASTER AI Trading in 70 Minutes (Full Claude + TradingView Course) | Mind Math Money - YouTube](https://www.youtube.com/watch?v=54i7wfbuCQA)
+    * [How to Connect Claude to TradingView (Step-by-Step, No Coding Required) | Mind Math Money](https://www.mindmathmoney.com/articles/how-to-connect-claude-to-tradingview-step-by-step-no-coding-required)
+      * 오픈소스 비공식 커뮤니티 도구 TradingView MCP로 Claude 데스크톱 앱↔TradingView 데스크톱 앱(유료 플랜 필요, 브라우저판 불가)을 로컬에서 연결—Node.js 설치부터 디버그 모드까지를 Claude가 대화로 안내하게 하는 설치 프롬프트 하나 제공(15~30분). 스크린샷이 아니라 OHLCV·지표 값을 숫자로 읽고 심볼·타임프레임 전환, 수평선 그리기까지 제어하지만 실거래 주문은 불가
+    * AI 트레이딩 입문 풀코스—AI는 매수·매도 결정을 대신하는 게 아니라 통제권은 트레이더가 갖는 보조 도구라는 전제(AI 보조 분석~완전 자동 시스템의 스펙트럼, 할 수 있는 것과 없는 것). 연결 후 차트를 보는 Claude에게 프롬프트하는 법과 워크플로 5가지: 시장 구조 분석, 지지·저항 레벨, SMA+MACD 지표 해석, 다중 타임프레임 분석, 규칙 기반 전략 구축→코딩 없이 즉석 백테스트(기준은 S&P 500 또는 buy & hold, 수수료 반영 시 대개 못 이김)
+    * 마무리는 AI 리스크 관리—포지션 사이징 계산, 손절 포함 트레이딩 플랜, 진입 전 체크리스트 생성, 알림 설정, 일일 루틴 예시와 AI를 안전하게 쓰는 모범 사례
 * [TrendSpider - All-in-One Market Research & Trading Software](https://trendspider.com/)
   * 개인 트레이더부터 기관까지 쓰는 AI 기반 통합 시장 분석·거래 플랫폼(월 구독). 자동 차트 패턴·추세선 인식, 머신러닝 기반 전략 개발과 50년+ 과거 데이터 백테스팅, 실시간 시장 스캐너, 코드 없는 클라우드 알림·자동 매매, AI 거래 조수 Sidekick("챗봇이 아니라 워크봇"). 스캐너·계산기·학습 센터는 무료 제공
 * [vibe-investing: 투자를 위한 AI 투자(Vibe Investing) 큐레이션, 시장 분석 칼럼, AI 트레이딩 도구 2종 (Harness Quant v2 + Earnings Momentum Agent) 를 다루며 미국 나스닥, S&P500, 가상화폐 투자를 다룹니다](https://github.com/gameworkerkim/vibe-investing/)
