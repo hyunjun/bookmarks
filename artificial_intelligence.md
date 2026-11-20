@@ -3019,6 +3019,11 @@ Artificial Intelligence
   * 장기 실행 LLM 에이전트가 상태 유지·진행 추적·도구 호출·결과 검증·경험 재사용을 위해 의존하는 외부 실행 지원(하네스). 노이즈 섞인 상호작용 트레이스로부터의 상태 형성(state formation)과 외부 상태 접근에 대한 런타임 제어라는 두 결합된 과제를 다룸
   * [Self-Evolving AI: Learning from Its Own Runs | Code Pointer](https://codepointer.dev/p/self-evolving-ai-learning-from-its)
     * 자기 실행 결과로부터 학습하는 AI 딥다이브—모델·하네스·옵티마이저·환경 각각에 대한 변경의 메커니즘, 변경 타이밍, 수용 제어(acceptance control)를 정리
+* [FrontierHarness Eval v1.1 — RUNTA](https://runta.com/blog/introducing-frontierharness-eval-v1-1/)
+  * [모델별로 가장 좋은 하네스는 무엇일까? | GeekNews](https://news.hada.io/topic?id=37362)
+  * Runta가 Baseten과 함께 22개 하네스 구성 × 5개 모델(GLM-5.3, GLM-5.3 Flash, DeepSeek V4.1 Flash, Muse, Kimi-K3) × 62개 터미널 작업 × 4회 시도(830억 토큰, 27,280회 실행)로 "모델을 바꾸면 하네스도 바꿔야 하는가"를 측정한 리더보드. 가성비(통과당 비용) 최적 하네스가 모델마다 달랐음—GLM-5.3은 Codex CLI, GLM Flash는 Pi, DeepSeek은 ZCode, Muse는 Oh My Pi, Kimi-K3는 Alma
+  * 작업당 비용 순위는 모델이 바뀌면 중앙값 기준 22위 중 11계단 이동(Codex CLI는 GLM-5.3에서 1위, Kimi-K3에서 16위). 같은 모델에서도 하네스에 따라 작업당 비용이 1.8~5.0배 차이 나고 비싼 하네스가 통과율을 보장하지 않음. GLM-5.3+Codex CLI만 재표본추출에서 99.6% 우위였고 나머지 넷은 근접한 후보 중 하나
+  * 실행 단계가 많을수록 통과당 비용이 높아지고(매 단계 전체 문맥 재전송), 비용의 64.5%가 실패한 시도에 쓰임. 보상 해킹 216건(163건은 온라인 조회)은 0점 처리. 공개 모델·단일 제공자 환경에 한정된 결과라 자체 작업으로 다시 비교하라고 권고
 * [GovCode Harness - 보안이 내재화된 개발 하네스 | ROBOCO](https://roboco.io/govcode-harness-guide)
   * [govcode-harness: 보안이 내재화된 개발 하네스 — 공공 프로젝트의 보안 기준을 검사·수정 지원·승인·증적으로 연결하는 Apache-2.0 오픈소스 프로젝트 | roboco-io](https://github.com/roboco-io/govcode-harness)
   * 공공 프로젝트에서 비개발자가 안전하게 바이브 코딩을 하도록 보안 기준을 **검사→수정 지원→재검사→승인·증적**으로 개발 흐름 안에 연결하는 하네스. AI는 설명·수정안을 제안하고 정책 엔진과 필수 검사가 판정, 담당자 승인·서명 증적을 같은 흐름에 둠—개발자(탐지→다음 행동)·보안 검토자(어떤 정책으로 검사하고 누가 승인했는지)·프로젝트 책임자(실행·정책·증적 조회)가 같은 기준으로 협업. 개인정보 로깅을 첫 사례로 시작해 법령·규칙·가이드라인 규정 팩으로 확장 설계, 현재 Python 검사 지원 v0.10.0 합성 데모 파일럿(Python 3.10+, 추가 패키지 없이 `python3 -m govcode_harness demo`)
@@ -3490,6 +3495,11 @@ Artificial Intelligence
     * 기본 에이전트부터 멀티 에이전트, 상태 관리, 도구 사용, 콜백 처리 등 다양한 실습 제공
     * API 키 설정, 환경 세팅 방법 등 실무 적용에 필요한 절차도 포함
 * [agents: An Open-source Framework for Autonomous Language Agents](https://github.com/aiwaves-cn/agents)
+* [ag-ui: AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications](https://github.com/ag-ui-protocol/ag-ui)
+  * [AG-UI](https://ag-ui.com)
+  * [🔌 AG-UI: CopilotKit이 시작한 이벤트 규약이 세 언어 SDK로 굳은 과정 | fornewchallenge](https://fornewchallenge.tistory.com/entry/%F0%9F%94%8C-AG-UI-CopilotKit%EC%9D%B4-%EC%8B%9C%EC%9E%91%ED%95%9C-%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EA%B7%9C%EC%95%BD%EC%9D%B4-%EC%84%B8-%EC%96%B8%EC%96%B4-SDK%EB%A1%9C-%EA%B5%B3%EC%9D%80-%EA%B3%BC%EC%A0%95)
+  * 에이전트와 사용자 화면 사이의 이벤트 규격. 프레임워크마다 다르던 스트리밍(토큰 출력, 도구 호출, 공유 상태 갱신, 사람 승인 대기)을 타입이 붙은 이벤트 열로 고정해, 화면을 하나 더 붙일 때마다 쌓이던 접착 코드를 없앰. CopilotKit에서 출발해 커뮤니티와 함께 개발
+  * 1.0 규격은 스키마를 동결해 JSON 스키마로 배포하고 TypeScript·Python·.NET SDK를 그 스키마에서 생성. 이벤트는 8개 계열 31종이며 필수는 실행 생명주기(RUN_STARTED·RUN_FINISHED)뿐. 전송은 HTTP+SSE가 기본이고 바이너리 바인딩도 가능, 같은 이벤트를 React·Angular·Vue 렌더러와 Slack·Teams·CLI 클라이언트가 나눠 소비
 * [AI Agent Toolkit](https://www.aiagenttoolkit.xyz/) A curated list of AI agent frameworks, launchpads, tools, tutorials, & resources
 * [AI Compiler Study](https://carpedm30.notion.site/AI-Compiler-Study-aaf4cff2c8734e50ad95ac6230dbd80b) OpenAI의 멤버 김태훈 님의 notion
 * [AI Design: A Beginner's Guide - gulli](https://docs.google.com/document/d/1GWShQ74DwZRUVs4e0yoS3rYmBxUVR-x4N_Xt5xl5dtE/mobilebasic)
@@ -5331,6 +5341,9 @@ Artificial Intelligence
 * [모델이 그렇게 좋다면 오픈AI는 왜 직접 회사를 차리지 않을까 | 요즘IT](https://yozm.wishket.com/magazine/detail/4017/)
   * 요즘 프로덕트 메이커 주간 3선. ①써볼 것—성공한 런치 영상 163편을 분석해 페이싱·리듬·시각 원칙을 뽑아낸 huashu-motion: AI 코딩 도구가 텍스트 프롬프트로 제품 런치 영상을 만들되 비디오 AI가 아닌 웹 애니메이션으로 렌더해 클릭으로 수정 가능, 스타일 변주와 애니메이션에 맞춘 음악 생성 ②Anthropic S-1 공시—매출 2023년 $41M→2024년 $3.86B→2025년 $4.6B, 2026년 상반기만 $16.3B(전년 대비 14배)로 80%가 토큰 사용량 과금($13.1B)·20%가 구독($3.2B), 연 $10만 이상 고객 11,900+·$100만 이상 1,900+, 상반기 영업비용 $17B 중 R&D $9.7B
   * ③Hacker News 750+ 댓글 토론 "모델이 그렇게 좋다면 왜 직접 회사 100개를 안 차리나"—AI는 두뇌일 뿐 실행에는 시간·관계·자본이 필요, 고객 확보가 제품 제작보다 여전히 어렵다, 곡괭이와 삽을 파는 쪽이 리스크가 작다, 이미 그 영역에서 경쟁 중이라는 반론. 기능 복제 속도가 빨라진 시대에 기술 외의 경쟁 우위(고객 관계·유통 채널)가 중요하다는 결론
+* [출시 취소 후 새로 나온 GPT-6.2 Astra, 무엇이 달라졌을까 | 요즘IT](https://yozm.wishket.com/magazine/detail/4053)
+  * 요즘 프로덕트 메이커 주간 3선. ①써볼 것—OpenAI가 9월 말 GPT-6.1 Astra 출시를 취소(지시 불이행, 한 일·안 한 일을 정직하게 알리지 않음, 허락 없는 외부 도구 사용)한 지 7주 만에 낸 GPT-6.2 Astra·Sol. 더 적은 토큰으로 더 나은 결과, 스크린샷 한 장으로 슬라이드 양식 맞추기, Astra API 가격 20% 인하. 다만 시스템 카드에서는 막힌 사실을 말하지 않고 넘어가는 비율이 코딩 과제 22.28%(GPT-6 Astra 11.09%), 검색 과제 23.00%(7.58%)로 늘어 "못 한 부분이 있었어?"를 한 번 더 물으라고 권함
+  * ②참고할 것—Crissy Field·한델스블라트 조사: Lovable로 만든 앱 15만 9천여 개 중 Supabase를 쓰는 3만 4,545개를 살펴, 7,403개 사이트에서 로그인 없이 이메일이 든 기록(프로필·결제·여권 정보 등)을 읽을 수 있었음. ③적용해볼 것—구글 AI 개요가 웹사이트 클릭을 얼마나 줄였는지에 대한 RevScope 분석과 검색 유입 대비
 * [AILit Framework — AI Literacy Framework for Primary and Secondary Education](https://ailiteracyframework.org/)
   * [이재흥 - OECD와 EU가 확정 발표한 AI 리터러시 프레임워크 | Facebook](https://www.facebook.com/weirdo0613518/posts/pfbid02Jdv5jJCrjJrn6PC7ECdFHHSbCe5QwZJ81a4dfWw8qLpyeQs6RwMyxt3EP8kYqyUwl)
   * EU와 OECD가 공동 개발한 초중등 AI 리터러시 교육 프레임워크. 4개 영역(AI 이해·AI 창작·AI 관리·AI 형성)의 학습 역량과 교수 역량 기준 제시. 100개국 2,000명+ 교육자·학생·정책가·과학자 협의로 완성
@@ -8402,6 +8415,8 @@ Artificial Intelligence
   * [Codex security is now in research preview | OpenAI](https://openai.com/ko-KR/index/codex-security-now-in-research-preview/)
     * [codex-security: OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities](https://github.com/openai/codex-security)
     * [OpenAI Codex Security 오픈소스 공개, AI 기반 코드 보안 점검의 새로운 접근 | digitalbourgeois](https://digitalbourgeois.tistory.com/3436)
+    * [🛡️ Codex Security: 취약점 리포트를 쌓기만 하면 코드는 그대로입니다 | fornewchallenge](https://fornewchallenge.tistory.com/entry/%F0%9F%9B%A1%EF%B8%8F-Codex-Security-%EC%B7%A8%EC%95%BD%EC%A0%90-%EB%A6%AC%ED%8F%AC%ED%8A%B8%EB%A5%BC-%EC%8C%93%EA%B8%B0%EB%A7%8C-%ED%95%98%EB%A9%B4-%EC%BD%94%EB%93%9C%EB%8A%94-%EA%B7%B8%EB%8C%80%EB%A1%9C%EC%9E%85%EB%8B%88%EB%8B%A4)
+      * 스캔→후보 검증→패치 생성→기존 수정 확인을 한 파이프라인에 묶은 구조 해설. 진입점은 CLI(`cs scan .`)·TypeScript SDK·GitHub Action 세 갈래(로컬 serve·브라우저 대시보드는 제거), 범위는 `--path`/`--exclude-path`, 변경분만 보는 `--diff origin/main`, 반복 스캔 뒤 중복을 합치는 `--mode deep`. 첫 스캔 범위 정하기, 리포트 읽는 순서, 자동화 시 비용 한도 등 주의점 정리
     * 코드 취약점을 AI로 찾고·검증·수정하는 CLI/TypeScript SDK. 로컬·CI 통합
   * [Using Goals in Codex - OpenAI Cookbook](https://developers.openai.com/cookbook/examples/codex/using_goals_in_codex)
     * [Codex의 Goals를 활용하는 법 | GeekNews](https://news.hada.io/topic?id=29639)
@@ -9409,6 +9424,8 @@ Artificial Intelligence
 * [Plannotator - Plan & Code Review for AI Coding Agents](https://plannotator.ai)
   * [plannotator: The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click](https://github.com/backnotprop/plannotator)
   * [AI 코딩 에이전트의 작업 검토와 피드백을 효율화하는 Plannotator | digitalbourgeois](https://digitalbourgeois.tistory.com/4413)
+  * [📝 Plannotator: 에이전트가 계획을 세울 때 브라우저가 먼저 열리는 이유 | fornewchallenge](https://fornewchallenge.tistory.com/entry/%F0%9F%93%9D-Plannotator-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EA%B0%80-%EA%B3%84%ED%9A%8D%EC%9D%84-%EC%84%B8%EC%9A%B8-%EB%95%8C-%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EA%B0%80-%EB%A8%BC%EC%A0%80-%EC%97%B4%EB%A6%AC%EB%8A%94-%EC%9D%B4%EC%9C%A0)
+    * 예/아니오뿐인 계획 승인 창을 줄 단위 주석이 가능한 검토 창으로 바꾼 구조 해설—설치 스크립트가 11종 에이전트를 감지해 훅·명령을 구성하고, ExitPlanMode 훅으로 계획 생성 시점을 가로채거나 `/plannotator-review`(미커밋 변경·PR·MR)·`/plannotator-last`로 수동 호출, 브라우저에서 남긴 주석과 결정을 세션으로 되돌려 보냄. 에이전트별 연동 차이와 원격 접속 시 막아야 할 포트도 다룸
   * 코딩 에이전트용 로컬 브라우저 리뷰 화면. 플러그인·훅·명령으로 에이전트에 직접 붙어, 에이전트가 계획이나 결정·HTML 산출물을 내놓거나 작업을 끝내면 브라우저가 열리고 사람이 표시·댓글을 단 뒤 피드백을 에이전트에게 바로 돌려보냄. 세 축—계획·스펙·마크다운·HTML·에이전트의 마지막 메시지에 주석 달기(`/plannotator-annotate`, 플랜 모드는 훅으로 자동 연결), 로컬 변경이나 GitHub PR·GitLab MR의 diff에 댓글과 수정 제안을 다는 코드 리뷰(`/plannotator-review`, Git·GitButler·Jujutsu·Perforce 지원), 여러 에이전트가 일하는 동안 질문·파일·검토 요청을 남기는 한 창짜리 Inbox(답을 기다리며 세션을 붙잡지 않고, 답은 질문한 세션의 다음 턴으로 전달). Claude Code·Codex·Copilot CLI·Gemini CLI·OpenCode·Pi 등을 지원하고 다른 에이전트는 MCP로 연결. 터미널판 Herdr Annotate와 TUI도 제공. 사용 통계를 수집하지 않고 계획·diff·주석은 기본적으로 로컬에 보관
 * [Poco — Your Pocket Coworker](https://poco-ai.com/)
   * [poco-claw](https://github.com/poco-ai/poco-claw)
