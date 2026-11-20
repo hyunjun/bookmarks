@@ -3451,6 +3451,10 @@ NLP
   * [🏯🧠Hunyuan-T1: GPT 4.5 뛰어넘은 세계 최초 Hybrid-Transformer-Mamba MoE 모델](https://fornewchallenge.tistory.com/entry/%F0%9F%8F%AF%F0%9F%A7%A0Hunyuan-T1-GPT-45-%EB%9B%B0%EC%96%B4%EB%84%98%EC%9D%80-%EC%84%B8%EA%B3%84-%EC%B5%9C%EC%B4%88-Hybrid-Transformer-Mamba-MoE-%EB%AA%A8%EB%8D%B8)
 * HY3 [Tencent Hy Research - HY3](https://hy.tencent.com/research/hy3)
   * [텐센트, 오픈AI 출신 과학자 영입 후 차세대 AI 모델 HY3 공개 | CIO](https://www.cio.com/article/4164030/%ED%85%90%EC%84%BC%ED%8A%B8-%EC%98%A4%ED%94%88ai-%EC%B6%9C%EC%8B%A0-%EA%B3%BC%ED%95%99%EC%9E%90-%EC%98%81%EC%9E%85-%ED%9B%84-%EC%B0%A8%EC%84%B8%EB%8C%80-ai-%EB%AA%A8%EB%8D%B8-hy3.html)
+* Hy4 flash [Introducing Hy4 flash: Ultimate cost-efficiency for everyday productivity | Tencent Hy](https://hy.tencent.ai/research/hy4-flash)
+  * [🐧 Hy4 flash: 모델이 클수록 비싸다는 공식이 깨진 지점 | fornewchallenge](https://fornewchallenge.tistory.com/entry/%F0%9F%90%A7-Hy4-flash-%EB%AA%A8%EB%8D%B8%EC%9D%B4-%ED%81%B4%EC%88%98%EB%A1%9D-%EB%B9%84%EC%8B%B8%EB%8B%A4%EB%8A%94-%EA%B3%B5%EC%8B%9D%EC%9D%B4-%EA%B9%A8%EC%A7%84-%EC%A7%80%EC%A0%90)
+  * 텐센트가 2026-11-16 공개한 가성비형 오픈 웨이트 모델. 총 224B 파라미터(Engram 64B 포함) 중 토큰당 12B만 활성화, 네이티브 멀티모달·1M 토큰 컨텍스트. 혼합 어텐션·LatentMoE·Engram으로 KV 캐시를 Hy3의 1/24·Hy4의 1/6로 줄이고, Hy4 자기 증류+강화 학습으로 출력 토큰을 절반으로, megakernel·4bit 양자화·DFly로 디코딩 150 tokens/s 이상
+  * 내부 벤치마크 WorkIndex(슬라이드·문서 편집·표 복구·음성/영상·시각 이해 8개 평가)에서 Hy4 preview를 근소하게 앞서면서 작업당 비용은 Hy4 preview의 1/13, Hy4의 1/20. 검색·문서·슬라이드·컴퓨터 사용 같은 일상 업무는 flash, 장기 소프트웨어 공학은 Hy4를 권장. 블로그 해설은 이 수치들이 출시 측 내부 측정이라는 점과 배수로 인용해야 한다는 점을 짚음
 * [Hy4-preview](https://github.com/Tencent-Hunyuan/Hy4-preview)
   * [AGI KR 그룹 공유 포스트 | Facebook](https://www.facebook.com/groups/255834461424286?multi_permalinks=3071486279859076)
   * Tencent Hunyuan의 Hy4 프리뷰. Python
