@@ -1668,6 +1668,11 @@ Web
 * [Top 25 Nginx Web Server Best Security Practices - nixCraft](https://www.cyberciti.biz/tips/linux-unix-bsd-nginx-webserver-security.html)
 * [Nginx, GitHub로 이전 | GeekNews](https://news.hada.io/topic?id=16651)
 * [NGINX - Zero To Hero: Your Ultimate Guide from Beginner to Advanced Mastery | by Saquib Khan | Medium](https://medium.com/@ksaquib/nginx-zero-to-hero-your-ultimate-guide-from-beginner-to-advanced-mastery-57e2dad6a77a)
+* [NGINX2Root: New Remote Code Execution Vulnerabilities in nginx Require Urgent Patching | Xint Blog](https://xint.io/blog/nginx2root-remote-code-execution)
+  * [nginx2root - nginx 원격 코드 실행 취약점 5개와 Linux 커널 권한 상승 | GeekNews](https://news.hada.io/topic?id=37438)
+  * Xint가 찾은 nginx 비인증 원격 코드 실행 취약점 5개(각각 독립적으로 워커 권한 명령 실행)와 Linux SCTP 커널 취약점 1개. 둘을 이으면 호스트 root 확보와 Docker 컨테이너 탈출까지 가능. 가장 광범위한 CVE-2026-123007은 HTTP/2 흐름 제어의 정수 연산 오류로, HTTP/2가 켜진 1.9.5~1.31.8 전 릴리스에 해당. 나머지는 요청 시 DNS 조회(resolver+mirror), HTTP/2·HTTP/3 업스트림 전달, 메일 프록시 설정에서 발생
+  * 대응: stable 1.30.7 또는 mainline 1.31.9 이상으로 올리고 재시작으로 실행 중인 바이너리까지 교체(리로드만으로는 부족). HTTP/2를 끄는 것은 5개 중 2개만 차단하며 커널 취약점은 별도 대응. 배포판 백포트 때문에 `nginx -v`만으로는 패치 여부를 알 수 없어 전체 패키지 버전과 보안 공지를 대조해야 함
+  * 공격에 쓰이는 HTTP/2 제어 프레임은 접근 로그에 남지 않으므로, 수신량만 급증하는 장시간 연결, 워커의 외부 프로그램 실행(auditd로 execve 감시), 워커 비정상 종료 같은 신호를 함께 조사하라고 안내
 * [Angie - drop-in replacement for Nginx](https://github.com/webserver-llc/angie)
   * [Добро пожаловать — документация Angie 1.0.0](https://angie.software/)
 * [bunkerized-nginx: nginx Docker image secure by default](https://github.com/bunkerity/bunkerized-nginx)
