@@ -481,6 +481,9 @@ Finance
       * 오픈소스 비공식 커뮤니티 도구 TradingView MCP로 Claude 데스크톱 앱↔TradingView 데스크톱 앱(유료 플랜 필요, 브라우저판 불가)을 로컬에서 연결—Node.js 설치부터 디버그 모드까지를 Claude가 대화로 안내하게 하는 설치 프롬프트 하나 제공(15~30분). 스크린샷이 아니라 OHLCV·지표 값을 숫자로 읽고 심볼·타임프레임 전환, 수평선 그리기까지 제어하지만 실거래 주문은 불가
     * AI 트레이딩 입문 풀코스—AI는 매수·매도 결정을 대신하는 게 아니라 통제권은 트레이더가 갖는 보조 도구라는 전제(AI 보조 분석~완전 자동 시스템의 스펙트럼, 할 수 있는 것과 없는 것). 연결 후 차트를 보는 Claude에게 프롬프트하는 법과 워크플로 5가지: 시장 구조 분석, 지지·저항 레벨, SMA+MACD 지표 해석, 다중 타임프레임 분석, 규칙 기반 전략 구축→코딩 없이 즉석 백테스트(기준은 S&P 500 또는 buy & hold, 수수료 반영 시 대개 못 이김)
     * 마무리는 AI 리스크 관리—포지션 사이징 계산, 손절 포함 트레이딩 플랜, 진입 전 체크리스트 생성, 알림 설정, 일일 루틴 예시와 AI를 안전하게 쓰는 모범 사례
+  * [I Built an AI Trading System With Claude + TradingView | Humbled Trader - YouTube](https://www.youtube.com/watch?v=IqvnryFzZD4)
+    * 10년 넘은 전업 트레이더가 코딩 배경 없이 Claude Code와 TradingView를 연결해 매매 계획 과정을 자동화하는 실연. TradingView 연동은 시장 전체를 한 번에 스캔하지 못하므로, 장전 갭 스캐너(전일 대비 5% 이상 갭 상승·주가 3달러 이상·장전 거래량 조건, Yahoo Finance 시세+Benzinga 뉴스 촉매 한 줄)로 후보를 추린 뒤 자기 전략 조건 스캐너에 넣는 2단 구조로 우회
+    * 전략을 Pine Script로 만들어 한 종목→대형 기술주 여러 종목·15분봉으로 백테스트를 넓히고, 두 스캐너를 장전·장중 일정으로 돌려 결과를 Telegram 봇 알림으로 받도록 구성. TradingView 자체 AI(차트 코파일럿, Remix)는 같은 스캔은 되지만 예약 실행·외부 알림이 안 된다는 한계 확인. "AI가 수익을 내주지는 않으며 트레이딩 경험과 전략이 먼저"라는 전제를 반복
 * [TrendSpider - All-in-One Market Research & Trading Software](https://trendspider.com/)
   * 개인 트레이더부터 기관까지 쓰는 AI 기반 통합 시장 분석·거래 플랫폼(월 구독). 자동 차트 패턴·추세선 인식, 머신러닝 기반 전략 개발과 50년+ 과거 데이터 백테스팅, 실시간 시장 스캐너, 코드 없는 클라우드 알림·자동 매매, AI 거래 조수 Sidekick("챗봇이 아니라 워크봇"). 스캐너·계산기·학습 센터는 무료 제공
 * [vibe-investing: 투자를 위한 AI 투자(Vibe Investing) 큐레이션, 시장 분석 칼럼, AI 트레이딩 도구 2종 (Harness Quant v2 + Earnings Momentum Agent) 를 다루며 미국 나스닥, S&P500, 가상화폐 투자를 다룹니다](https://github.com/gameworkerkim/vibe-investing/)
