@@ -470,6 +470,10 @@
 * [ruffle: A Flash Player emulator written in Rust](https://github.com/ruffle-rs/ruffle)
 * [Rusoto, an AWS SDK for Rust](http://blog.dualspark.com/aws/api/rust/sdk/2015/10/05/introducing-rusoto.html)
 * [rust-analyzer - an implementation of Language Server Protocol for the Rust programming language](https://rust-analyzer.github.io/)
+* [rust-anything: Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java](https://github.com/erkamyaman/rust-anything)
+  * 기존 앱(Node.js·Python·C·Go·Ruby·Java·Kotlin의 CLI·HTTP 서버·라이브러리)을 조각 단위로 Rust로 옮기되, 코드를 번역해 주는 게 아니라 "재작성이 원본과 똑같이 동작함"을 증명하는 도구. Rust 코드는 코딩 에이전트(Claude Code·Codex·Cursor·Gemini CLI·OpenCode에 MCP 서버·스킬로 등록)나 사람이 작성
+  * 흐름: record(생성한 엣지 케이스와 직접 준 입력으로 원본을 돌려 반환값·예외를 기록) → bridge(Rust 크레이트와 래퍼를 만들어 호출 측 API는 그대로) → diff(기록된 모든 케이스를 Rust에 재생, 전부 일치하고 gate를 통과해야 완료) → lift(폴백 없이 통과하면 순수 Rust 앱으로). profile로 옮길 가치가 있는 핫 루프부터 찾음
+  * 기록이 다루는 범위만 잡아낼 수 있다는 한계를 명시하고, 원본 코드를 케이스마다 실제로 실행하므로 프로젝트 사본·테스트 DB에서 돌리라고 경고. 사례로 Prettier(15,837/17,224 실행이 Rust로 처리, 출력은 바이트 단위 동일, 19배 빠름), json-server, Fuse.js 포팅 제시
 * [Rustation PlayStation emulator](https://github.com/simias/rustation)
 * [Rust-Bio - a bioinformatics library for the Rust language](https://rust-bio.github.io/)
 * [rust-doom - A Doom Renderer written in Rust](https://github.com/cristicbz/rust-doom)
