@@ -384,6 +384,10 @@ Artificial Intelligence
   * Addy Osmani. 코드의 약 90%를 Claude가 쓰고 리뷰하는 팀에서, 에이전트가 자기 결과를 증거로 검증하는 루프가 있어야 수십~수백 개를 병렬로 돌릴 수 있다는 글. 투자할 테스트 3종—실제 사용자 흐름을 따라가 속이기 어려운 E2E(하나만 고른다면 이것), 왕복 인코딩·불변식·멱등성·동등성을 수천 개 입력으로 반증해 보는 property 테스트, 옛 시스템을 정답으로 삼아 같은 입력 결과를 비교하는 differential 테스트(마이그레이션용). 불안정하거나 느린 테스트는 에이전트에게 재실행 버릇만 들임
   * 팀의 원칙: 검증은 변경을 실제로 돌려보는 것(레포의 `.claude/skills/`에 verify 스킬을 두고 빠르고 견고하게 다듬기), 3회 고쳐도 실패하면 사람에게 넘김, 코드 소유자가 자기 체크를 작성, 39개 항목 신뢰성 체크리스트는 diff에 트리거가 걸린 3~10개만 확인, 리뷰어를 겹쳐 쌓지 않고 REVIEW.md로 주 리뷰어를 조정, 변경이 자신을 판정하는 체크를 고칠 수 없게 REVIEW.md는 기준 브랜치에서 읽기, PR 전에 테스트·빌드·린터 같은 싼 체크 먼저
   * 운영: 커밋마다 검증 방식을 표시하고("none" 포함) `/code-review`·`/verify` 없는 커밋을 막는 게이트는 off→observe→enforce 순으로 도입. revert·머지 전 거절 건수로 리뷰어 자체를 평가하고, 놓친 사례는 2개 이상 PR에서 반복되고 diff로 식별 가능할 때 규칙으로 승격(에이전트 3개가 반증 시도 후 사람이 승인). 불안정한 테스트는 건너뛰거나 sleep·재시도로 덮지 않고 원인을 못 찾으면 삭제하고 이유를 기록, 규칙·테스트도 주기적으로 정리
+* [Seeing like an agent: how we design tools in Claude Code | claude.dev Blog](https://claude.dev/blog/seeing-like-an-agent/)
+  * Thariq Shihipar. Claude Code 팀이 도구를 설계·검증·교체해 온 과정—모델의 능력에 맞는 모양의 도구를 주려면 출력을 읽고 실험하며 "에이전트처럼 보는" 수밖에 없다는 글. 질문 도구는 ExitPlanTool에 파라미터 추가(계획과 질문이 뒤섞여 혼란)→출력 형식 지시(형식이 불안정)를 거쳐 전용 AskUserQuestion 도구로 정착. 아무리 잘 설계해도 모델이 호출법을 이해하지 못하면 소용없음
+  * 모델이 좋아지면 예전에 돕던 도구가 족쇄가 됨—TodoWrite와 주기적 리마인더는 목록에 얽매이게 만들어, 의존성과 서브에이전트 간 공유가 되는 Task 도구로 교체. 검색도 사전 색인 RAG에서 Grep으로 스스로 컨텍스트를 찾게 바꿨고, Agent Skills의 점진적 공개로 파일이 파일을 가리키는 중첩 탐색이 가능해짐
+  * 도구는 약 20개이고 하나 추가할 때마다 모델이 고민할 선택지가 늘어 기준이 높음. Claude Code 사용법 질문은 시스템 프롬프트에 넣는 대신 자기 컨텍스트에서 문서를 찾아 답만 돌려주는 Claude Code Guide 서브에이전트로 해결—도구를 늘리지 않고 행동 공간을 넓힌 사례
 * [GS리테일의 AI 코드 리뷰 도입기 :: GS Retail Engineering](https://gsretail.tistory.com/100)
   * 회원 시스템 백엔드 팀이 코드 리뷰에 AI 에이전트를 도입한 사례. 에이전트의 역할을 "변경된 코드에서 문제가 생길 조건을 찾고, 개발자가 확인할 수 있는 근거와 질문을 PR 댓글로 남기는 일"로 한정. 실제 수정으로 이어진 두 사례—①로그인 실패 이력 기록이 로그인 처리와 같은 트랜잭션에 묶여 롤백 시 사라질 수 있다는 지적, 수정 커밋을 다시 읽고 다른 로그인 경로에도 같은 문제가 남았음을 발견 ②회원정보 수정에서 DB의 전화번호만 바꾸고 로그인 때 Redis에 저장한 전화번호는 그대로라 화면에 예전 번호가 보이는 문제(값이 저장됐는가 다음에 그 값을 쓰는 곳까지 따라간 질문)
   * 동작: PR 생성 후 30초 대기→닫힘·새 커밋 확인→리뷰 시작, 검토 중 새 커밋이 오면 이전 리뷰를 멈추고 바뀐 부분 중심의 증분 리뷰. 변경부와 주변 코드를 읽고 필요하면 운영 로그·SQL 조회 결과도 참고하며, 모델 호출은 호출 주체 확인과 사용량·비용 기록을 맡는 사내 AI Gateway를 거침. 3주 운영 뒤 개발자들은 유용하다고 봤지만 모든 댓글에 답하는 건 부담이라 수정·논의가 필요한 것부터 보기로 했고, 다음 과제는 에이전트가 제시한 근거가 실제 결함을 가리켰는지 대조하는 정확도 평가
@@ -594,6 +598,9 @@ Artificial Intelligence
     * [EGM — egm.dev](https://egm.dev/)
     * [Introducing the Elephant-Goldfish Model plugin: scaling design-driven AI software development | Google Open Source Blog](https://opensource.googleblog.com/2026/10/introducing-elephant-goldfish-model-plugin.html)
       * Brian Suchy·Jim Quinn·Elise Ewing·Oliver Newth·Dave Rensin의 공식 공개 글. 플러그인은 Elephant(설계·의도만 다루고 코드는 쓰지 않는 긴 컨텍스트 세션)와 Goldfish(명세만 검증하는 무상태 비평 세션) 사이의 컨텍스트 전달·검증 루프·설계 문서 생성을 자동화—①egm-brainstorm: "No Code" 규칙 아래 기능 공동 설계 ②egm-draft: 문제 정의·기술 전략·대안·구현 세부를 담은 Markdown 설계 문서를 반복 작성 ③egm-review: 이해도 점검·적대적 리뷰·구현 준비도 점검 세 가지 무상태 검사로 이루어진 Goldfish 프로토콜. 먼저 Antigravity와 통합되고 다른 개발 환경은 예정
+    * [🐘 EGM: 설계 초안을 코드는 안 보고 검토하는 리뷰어가 있습니다 | fornewchallenge](https://fornewchallenge.tistory.com/entry/%F0%9F%90%98-EGM-%EC%84%A4%EA%B3%84-%EC%B4%88%EC%95%88%EC%9D%84-%EC%BD%94%EB%93%9C%EB%8A%94-%EC%95%88-%EB%B3%B4%EA%B3%A0-%EA%B2%80%ED%86%A0%ED%95%98%EB%8A%94-%EB%A6%AC%EB%B7%B0%EC%96%B4%EA%B0%80-%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4)
+      * 두 역할을 문맥의 유무로 설명—코끼리는 프로젝트 문맥과 이전 결정을 모두 든 채 초안을 짜고, 금붕어는 이전 대화 없이 초안과 참고 자료만 읽어 빠진 가정과 구현 위험을 찾으며, 결정은 사람이 맡음. 설치는 `claude plugin marketplace add google/elephant-goldfish-model` 후 `claude plugin install egm@egm`, 스킬은 brainstorm·draft·resolve·bootstrap·review·review-loop·drift-report 일곱 개(순서를 다 따를 필요 없음)
+      * 코드 리뷰를 대체하는 게 아니라 문서 리뷰를 앞에 두는 도구이며 테스트나 사람의 판단을 대신하지 않음. 금붕어 검토는 새 서브에이전트 문맥이 필요해, 서브에이전트를 만들 수 없는 환경에서는 검토가 진행되지 않음(brainstorm·draft는 무관)
     * 2026-10-21 Google이 사내에서 이 방법론을 따르는 데 쓰던 AI 코딩 어시스턴트 플러그인을 오픈소스로 공개(Python, "공식 지원 제품 아님"). 깊은 컨텍스트의 🐘 Elephant 세션이 시스템 이력·아키텍처·컴포넌트 경계·사용자 여정을 읽고 브레인스토밍·운영 한계 탐색·명세 초안을 쓰고, 컨텍스트 0의 🐠 Goldfish 서브에이전트 떼(Design Critic 등 `agents/` 페르소나)가 초안 명세와 소스만 읽고 대화 편향 없이 서로 다른 관점에서 스트레스 테스트, 🧑‍💻 사람이 아키텍처 결정·트레이드오프·결과를 소유. 흐름: `/egm-brainstorm`(Goldfish 떼로 초기 개념 검증)→`/egm-draft`(`docs/designs/<feature>.md` living design doc)→`/egm-review`(다단계 Goldfish 리뷰어 떼)→PR로 명세 제출 후 승인된 명세대로 구현. Claude Code에선 `/egm:` 접두사, Harnesses 문서로 다른 에이전트 지원
   * [elephant-goldfish: A reusable workflow for agentic software work, built around the Elephant/Goldfish pattern | vshvedov](https://github.com/vshvedov/elephant-goldfish)
     * Rensin 글을 바탕으로 Claude Code·Codex(베타)·Gemini CLI(베타)용으로 만든 커뮤니티 워크플로—각 도구에서 `gh api`로 BOOTSTRAP.md를 받아 설치하면 `/eg-…`(Claude)·`$eg…`(Codex) 명령 세트가 생김. "코드 써 줘"에서 "내가 놓친 걸 생각하고, 두 번째 의견을 구하고, 협업한 뒤 쓰고 테스트하라"로 파이프라인을 바꾸는 대신 토큰 소모와 시간이 늘어난다고 경고
@@ -1121,6 +1128,14 @@ Artificial Intelligence
   * Pickle·Muse 같은 행동형 에이전트(앱을 닫아도 계속 일하고 로그인된 브라우저·전화·게시까지 대신 수행)의 구조를 공개 자료로 짚고, 같은 뼈대를 혼자 Cloudflare 위에 올린 멀티 유저 에이전트 플랫폼(문자 한 통→계획→콘텐츠 제작→인스타그램 게시) 설계를 설명. 챗봇에 없던 부품 넷—사람별 기억·할 일, 에이전트 전용 컴퓨터, 로그인 정보 금고, 바깥 행동 전 관문. 두 서비스의 공통점은 사람별 격리, 에이전트가 못 보는 비밀, 행동 전 확인
   * 설계: 큰 DB 하나 대신 고객마다 셀(Durable Object, 자체 SQLite·알람)을 줘 데이터가 섞일 여지를 없애고 쉬는 셀은 잠듦. 신뢰 경계로 워커 6개 분리(문자 게이트웨이·에이전트·API·자격 증명 브로커·VNC 라우터·운영). 봉투 암호화 금고에서 브로커가 경계에서 토큰을 붙이고, Chrome 컨테이너는 필요할 때만 켬, Queue 재시도와 DLQ, 사용자 문자만 근거로 삼는 기억 규칙(웹에서 읽은 내용으로는 기억 변경 불가)
   * 되돌릴 수 없는 행동은 AI 판단이 아니라 코드로 막음—게시 허락은 정해진 단어로만 받고, 작업·고객·서비스 단위 비용 상한을 둠. 단점 5가지도 공개: 전체 고객 조회가 어렵고, 셀마다 스키마 버전이 달라지며, 암호화 값은 검색 불가, 셀 용량 한계, Cloudflare 종속
+* [AI Agent 를 만들 때 폴더 구조가 중요한 이유 | sanguinekim | LinkedIn](https://www.linkedin.com/posts/sanguinekim_ai-agent-%EB%A5%BC-%EB%A7%8C%EB%93%A4-%EB%95%8C-%ED%8F%B4%EB%8D%94-%EA%B5%AC%EC%A1%B0%EA%B0%80-%EC%A4%91%EC%9A%94%ED%95%9C-%EC%9D%B4%EC%9C%A0-%EC%B2%98%EC%9D%8C%EC%97%90%EB%8A%94-%EB%8B%A8%EC%88%9C%ED%95%9C-share-7473148933305692160-UYrw/)
+  * 기업 업무 에이전트에서 폴더 구조는 파일 정리가 아니라 업무 프로세스 설계도라는 글(삼성에서 2주간 Codex로 진행한 강의 경험). 에이전트는 조직 맥락을 눈치로 알 수 없으므로 무엇을 읽고, 어떤 기준으로 판단하고, 무슨 산출물을 남기고, 어디서 사람이 승인하는지를 구조로 알려줘야 함—`context/`(업무 배경·지표 정의), `inputs/`, `workflow/`(기존 프로세스와 AI 중심 재설계), `agents/`, `outputs/`, `review/`(사람이 승인할 가정·숫자·리스크)
+  * 기업 AI 도입의 격차는 모델 성능보다 업무 구조화 역량에서 갈리며, 에이전트는 기존 프로세스에 얹는 플러그인이 아니라 입력·판단·산출·승인 구조를 다시 짤 때 제대로 작동한다는 주장
+* [Measuring AI agent autonomy in practice | Anthropic](https://www.anthropic.com/research/measuring-agent-autonomy)
+  * [Measuring AI agent autonomy in practice | Dongwook Park](https://www.linkedin.com/posts/lewis34_measuring-ai-agent-autonomy-in-practice-activity-7430956546978693120-IyjP)
+    * 연구의 '숙련자일수록 자동 승인을 더 쓴다'는 결과를 자기 기록으로 검증—Claude Code 세션 315개에서 허용/거부 결정 4,776건(허용 98.6%)을 추출하고, 위험 명령 규칙 차단→동일 시그니처 매칭→임베딩 군집의 보수적 분류로 자동 승인을 재현 시뮬레이션. 시그니처의 43.8%만 자동화 후보로 잡혔고 그 예측 정확도는 99.1%, 거부한 항목을 자동 허용으로 오판한 경우는 0건
+  * Claude Code와 공개 API의 사람-에이전트 상호작용 수백만 건을 프라이버시 보존 도구로 분석한 연구(2026-02). 가장 긴 세션에서 Claude Code가 멈추지 않고 일하는 시간이 3개월 새 25분 미만에서 45분 이상으로 늘었고, 모델 출시와 무관하게 완만히 증가해 기존 모델도 실제 쓰이는 것보다 더 많은 자율성을 감당할 수 있음을 시사
+  * 숙련 사용자는 완전 자동 승인 비율이 약 20%→40% 이상으로 늘지만 중간 개입도 더 자주 함. 가장 복잡한 작업에서는 Claude가 확인을 구하려 멈추는 횟수가 사람이 끊는 횟수의 2배 이상. API상 에이전트 행동은 대부분 저위험·가역적이고 소프트웨어 엔지니어링이 약 50%, 의료·금융·사이버보안 사용이 초기 단계로 관찰됨. 배포 후 모니터링 인프라와 새로운 상호작용 방식이 필요하다는 결론
 * [2506.02153 Small Language Models are the Future of Agentic AI](https://arxiv.org/abs/2506.02153)
   * [NVIDIA의 Peter Belcak가 소개하는 소형 언어 모델(SLM)이 에이전트 AI의 미래인 이유](https://www.arizekorea.com/insights/post/nvidias-small-language-models-are-the-future-of-agentic-ai-paper-jNrUOzqlulGhemG)
   * [Demystifying Agentic AI Using Small Language Models - YouTube](https://www.youtube.com/watch?v=nk5BNz8v_9E)
@@ -4000,6 +4015,8 @@ Artificial Intelligence
   * [MCP – Model Context Protocol이 시사하는 점 :: Channy's Blog](https://channy.creation.net/blog/1932)
   * [MCP — AI에게 도구를 연결하는 표준 | 골든시그널](https://blog.naver.com/goldensignal_/224418302032)
     * 초보 개발자용 MCP 입문 별책(Antigravity 2.0 기준 실습 촬영). 왜 MCP가 필요한가·구조·확인과 추가 방법·실제 호출 화면, 그리고 가장 중요한 권한·보안까지 실제 화면으로 따라하기
+  * How to Build MCP-Powered AI Agents from Scratch | Rathnakumar Udayakumar (인포그래픽, 이미지로 받은 내용)
+    * 9단계 로드맵과 단계별 도구: ①MCP 기초 이해(Host→Client→Server 흐름, tools·resources·prompts·transports·JSON-RPC) ②환경 준비(Python 3.10+ 또는 Node.js 18+, MCP SDK) ③아키텍처 설계(목표·능력·데이터 접근·한계 정의, Excalidraw·Diagrams.net) ④MCP 서버 구축(기존 서버 재사용+자체 도구용 커스텀 서버, FastMCP) ⑤MCP 클라이언트 연결(stdio 또는 Streamable HTTP, OAuth) ⑥에이전트 로직(도구 선택·실행, 계획·재시도·폴백, LangGraph·CrewAI) ⑦메모리와 컨텍스트(Redis·PostgreSQL·Pinecone·ChromaDB, 관련 컨텍스트만 검색) ⑧테스트·디버그(MCP Inspector·Postman·LangSmith·Logfire) ⑨배포·모니터링(FastAPI·Docker·Kubernetes·Langfuse)
   * [MCP vs API Explained: Do We Still Need API After MCP? - YouTube](https://www.youtube.com/watch?v=7yNvsFrwpp0)
     * Cloud X Berry. "MCP가 API를 대체한다"는 말이 왜 틀린지 단계적으로 설명하는 입문용 영상. 기존 방식은 개발자가 어떤 API를 언제 어떤 순서로 부를지 코드에 미리 써 두는 것이고 그게 API의 설계 목적인데, 지시가 버튼이 아니라 문장으로 오면 모델은 사용자의 의도는 알아도 어떤 엔드포인트가 있는지·무엇을 먼저 불러야 하는지·어떤 입력을 받는지 모른다(회사 API 문서 전체를 모델에 하드코딩할 수도 없음). 이 공백을 메우는 게 MCP라는 구성
     * 결론은 **MCP 서버는 어댑터**—많은 MCP 서버가 기존 API 위에 올라가고, 모델이 도구를 고르면 애플리케이션이 MCP 서버를 통해 호출하고 서버가 실제로는 기존 API 하나 이상을 불러 결과를 돌려준다. 이득은 표준화된 도구 설명(무엇을 하고 어떤 입력을 받는지)을 서버가 노출해 애플리케이션이 발견(discover)할 수 있다는 점—내일 cancel order 도구가 추가되면 다음 연결 때 자동으로 발견된다. tool(행동)과 resource(파일·문서·DB 레코드 같은 정보)의 구분도 함께 설명
@@ -5686,6 +5703,9 @@ Artificial Intelligence
 * [Detecting and preventing distillation attacks | Anthropic](https://www.anthropic.com/news/detecting-and-preventing-distillation-attacks)
   * DeepSeek·Moonshot·MiniMax 세 연구소가 약 2만 4천 개의 사기 계정으로 Claude와 1,600만 건 넘는 대화를 생성해 능력을 빼내려 한 산업적 규모의 증류 캠페인을 적발했다는 발표. 증류 자체는 자사 모델을 작게 만드는 정당한 기법이지만 경쟁사가 남의 능력을 훨씬 적은 시간·비용으로 얻는 데 쓰일 수 있고, 그렇게 만든 모델은 안전장치가 빠진 채 군사·감시 용도로 퍼질 수 있다는 문제 제기. 세 캠페인 모두 프록시 서비스와 사기 계정으로 탐지를 피하며 에이전트 추론·도구 사용·코딩을 노렸음
   * 사례: DeepSeek(15만 건 이상)는 완성된 답의 내부 추론을 단계별로 쓰게 해 chain-of-thought 학습 데이터를 만들고 루브릭 채점으로 Claude를 보상 모델처럼 쓰며 검열 주제의 대체 답변도 생성. Moonshot(340만 건 이상)은 수백 개 계정으로 에이전트 추론·컴퓨터 사용·비전을 겨냥하고 이후 추론 흔적 재구성을 시도. MiniMax(1,300만 건 이상)는 모델 출시 전에 포착돼 데이터 생성부터 출시까지의 전 과정이 관찰됐고, 새 Claude 모델이 나오자 24시간 안에 트래픽 절반을 옮김. IP·요청 메타데이터·인프라 지표와 업계 파트너 교차 확인으로 귀속했으며, 이런 공격이 수출 통제의 근거를 오히려 강화한다는 주장
+* [10 Open-Source Projects for Securing AI Agent Skills | Generative Programmer](https://generativeprogrammer.com/p/10-open-source-projects-for-securing)
+  * 에이전트 스킬 보안 스택을 스캐너·공급망 통제·샌드박스·런타임 거버넌스로 나눠 정리한 지도. 배경은 자율 에이전트가 주도한 Hugging Face 침입과, 공개 스킬 31,132개 중 26.1%에서 위험 패턴이 발견됐다는 SkillScan 분석
+  * 10개: NVIDIA SkillSpector(설치 전 스캔), Cisco AI Defense Skill Scanner(규칙·YARA·AST·테인트 다중 정적 분석), SkillWard(의심 스킬을 샌드박스 실행으로 승격), Agent Audit(에이전트 저장소 전체 스캔), AgentShield(개발자 머신의 활성 설정 감사), Microsoft Agent Package Manager(매니페스트·잠금 파일·SBOM으로 설치 통제), NVIDIA Verified Agent Skills(서명·평가 증거), NVIDIA OpenShell(실행 중 에이전트 격리), Kubernetes Agent Sandbox, Microsoft Agent Governance Toolkit(행동마다 정책 게이트)
 * [AdaptixC2: AdaptixC2 is a highly modular advanced redteam toolkit](https://github.com/Adaptix-Framework/AdaptixC2)
   * [Welcome | Adaptix Framework](https://adaptix-framework.gitbook.io/adaptix-framework)
 * [ADR: ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber](https://github.com/uber/ADR/)
@@ -6980,6 +7000,10 @@ Artificial Intelligence
   * MCP는 도구 접근을 제공하지만 워크플로우 인식이 없어 도구 50개 이상 시 정확도 42%로 하락(필터링 시 85%). 스킬 기반 오케스트레이션 레이어로 인텐트→워크플로우 라우팅하면 요청당 토큰 23K→400으로 절감, 멀티스텝 성공률 60%→92%로 개선
 * [Agent Skills or MCP in the era of Claude Code? | Tim Berglund, Confluent Developer - YouTube](https://www.youtube.com/watch?v=pvxNcQTcIy4)
   * 10분 라이트보드. MCP 스펙의 최근 변화(streamable HTTP, OAuth 2.1, Resource API의 조용한 쇠퇴)를 요약하고 스킬이 무엇이며 MCP와 어디서 겹치고 갈라지는지—결론은 로컬 코딩 에이전트는 스킬에 기댈 수 있지만 에이전틱 마이크로서비스에는 여전히 MCP가 필요
+* [Model Context Protocol (MCP) vs. AI Agent Skills: A Deep Dive into Structured Tools and Behavioral Guidance for LLMs - MarkTechPost](https://www.marktechpost.com/2026/03/13/model-context-protocol-mcp-vs-ai-agent-skills-a-deep-dive-into-structured-tools-and-behavioral-guidance-for-llms/)
+  * [MCP와 AI Agent Skills 비교: 구조화된 도구와 행동 지침의 차이점 정리 | digitalbourgeois](https://digitalbourgeois.tistory.com/2882)
+  * MCP는 외부 시스템을 표준 방식으로 연결하는 프로토콜로, 서버에서 로직을 실행해 구조화된 응답을 돌려주므로 같은 입력에 같은 결과가 나오는 정밀 작업(DB 쿼리·API 호출·수집)에 적합. 대신 도구가 많아지면 선택·스키마 맞추기가 어려워지고, 네트워크 호출 지연과 서버·인증·세션 운영 부담이 따름
+  * Skills는 외부 호출 없이 로컬 마크다운(SKILL.md)으로 두는 행동 지침으로, 요청과 매칭되면 컨텍스트에 로드되어 작업 방식을 안내하는 가이드 레이어—구조가 단순하고 빠르게 적용 가능. 둘은 도구 대 행동 지침으로 역할이 다름
 * [How Uber Uses AI for Development | Pragmatic Engineer](https://newsletter.pragmaticengineer.com/p/how-uber-uses-ai-for-development)
 * [다시 문제는 네트워킹: AI 시대 개발자가 인프라에 | ITWorld](https://www.itworld.co.kr/article/4140335/%EB%8B%A4%EC%8B%9C-%EB%AC%B8%EC%A0%9C%EB%8A%94-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%82%B9-ai-%EC%8B%9C%EB%8C%80-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EC%9D%B8%ED%94%84%EB%9D%BC%EC%97%90.html)
 * [Claude Code 와 Codex 를 구독했다면 전 세계 상위 0.3% | Jeongmin Lee](https://www.linkedin.com/posts/jyoung105_claude-code-%EC%99%80-codex-%EB%A5%BC-%EA%B5%AC%EB%8F%85%ED%96%88%EB%8B%A4%EB%A9%B4-%EC%A0%84-%EC%84%B8%EA%B3%84-%EC%83%81%EC%9C%84-03-activity-7436523651807604736-FKlr)
@@ -7871,6 +7895,8 @@ Artificial Intelligence
   * [claude-code-telegram: A powerful Telegram bot that provides remote access to Claude Code, enabling developers to interact with their projects from anywhere with full AI assistance and session persistence](https://github.com/RichardAtCT/claude-code-telegram)
   * [claude-code-tips: 40+ tips for getting the most out of Claude Code, from basics to advanced - includes a custom status line script, cutting the system prompt in half, using Gemini CLI as Claude Code's minion, and Claude Code running itself in a container](https://github.com/ykdojo/claude-code-tips)
     * [30가지 이상의 Claude Code 활용 팁 모음 (feat. ykdojo/claude-code-tips) - 읽을거리&정보공유 - 파이토치 한국 사용자 모임](https://discuss.pytorch.kr/t/30-claude-code-feat-ykdojo-claude-code-tips/8368)
+  * [claude-code-ui-agents: A curated collection of Claude AI agent prompts specifically designed for UI/UX design, web development, and frontend tasks](https://github.com/mustafakendiguzel/claude-code-ui-agents)
+    * 프런트엔드 작업용 Claude 에이전트 프롬프트 모음. UI 디자인·웹 개발·컴포넌트·UX 리서치·애니메이션·반응형·접근성 폴더로 나뉘고, 각 프롬프트는 name·description·model 프런트매터를 가진 에이전트 형식이라 골라서 붙여 넣고 프로젝트에 맞게 고쳐 씀
   * [Claude-Code-Usage-Monitor: Real-time Claude Code usage monitor with predictions and warnings](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor)
   * [claude-consultant-kr: 맥킨지 지식 프레임워크 한국어 윤문 자동화 Claude Code 에이전트](https://github.com/gaebalai/claude-consultant-kr)
     * [Claude Code 에이전트로 AI 컨설턴트 구축하기 | velog](https://velog.io/@aiengineer/Claude-Code-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EB%A1%9C-AI-%EC%BB%A8%EC%84%A4%ED%84%B4%ED%8A%B8-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-%EB%A7%A5%ED%82%A8%EC%A7%80%EC%8B%9D-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC-%ED%95%9C%EA%B5%AD%EC%96%B4-%EC%9C%A4%EB%AC%B8-%EC%9E%90%EB%8F%99%ED%99%94-v0.4.0-CLI)
@@ -8263,6 +8289,9 @@ Artificial Intelligence
     * 롱폼 SEO 블로그 콘텐츠 제작용 Claude Code 워크스페이스—`/research`·`/write`·`/rewrite`·`/analyze-existing`·`/optimize`·`/performance-review`·`/publish-draft`·`/article`·`/priorities`와 랜딩 페이지 명령, 콘텐츠 분석·SEO 최적화·메타 요소·내부 링크·키워드 매핑·에디터·성과 분석·헤드라인·CRO·랜딩 페이지 전문 에이전트, 카피라이팅·CRO·A/B 테스트·이메일 시퀀스·가격 전략 등 마케팅 스킬 26개
   * [sepia: De-AI writing skill for any Agent Skills-compatible agent, with native plugins for Claude Code, Codex, Grok Build, and Antigravity](https://github.com/Nanako0129/sepia)
     * 단어 치환식 휴머나이저가 아니라 문장 구조·지나치게 정돈된 논리·반복적 리듬 등 AI 특유의 글쓰기 패턴부터 분석해 제거하는 De-AI 스킬. 픽션은 서사 구조 수선, 전문 산문은 매체별 규칙 적용. StoryScope(arXiv 2604.03136) 기반, Skills CLI로 77+ 에이전트 지원
+  * [skill-based-architecture: A meta-skill that produces skills. Point it at any codebase and it distills the project's rules, workflows, and hard-won lessons into a dedicated skills/<name>/ directory](https://github.com/WoJiSama/skill-based-architecture)
+    * 여러 에이전트 진입 파일(AGENTS.md·CLAUDE.md·Cursor 규칙·README)에 흩어지고 중복된 지시를, 라우팅·검증·유지보수가 되는 프로젝트 스킬 하나로 모으는 메타 스킬(에이전트 OS나 실행 런타임이 아님). 규칙의 온전한 의미는 한 곳이 소유하고 진입 파일에는 거기로 가는 고리만 남김
+    * 작업마다 워크플로 하나를 골라 다음 결정에 영향을 줄 근거만 불러오고, 명령·커밋 성공이 아니라 요청된 최종 상태로 완료를 검증하며, 검증된 교훈만 다음 작업에 연결. 작은 프로젝트는 작게 유지하도록 저장소 근거로 direct·folder·broad 형태를 정함
   * [skills: Skills for Real Engineers. Straight from my .agents directory | mattpocock](https://github.com/mattpocock/skills)
     * [Claude Code Skills 22개 한국어 정리 — mattpocock .claude 폴더 공개, TDD·PRD·grill-me 설치·활용법](https://jkf87.github.io/mattpocock-skills-real-engineers-claude-2026-04-27)
     * [Claude Code Skills 22개 한국어 정리 — mattpocock .claude 폴더 공개, TDD·PRD·grill-me 설치·활용법 | 박상길](https://www.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_claude-code-skills-22%EA%B0%9C-%ED%95%9C%EA%B5%AD%EC%96%B4-%EC%A0%95%EB%A6%AC-mattpocock-share-7454848076172775426-OE2M)
@@ -8290,6 +8319,9 @@ Artificial Intelligence
     * [SNS에서 난리났다는데.. 맷 포콕 AI코딩 스킬 업데이트 완벽 정리 | MINDUNG - YouTube](https://www.youtube.com/watch?v=ZE4hmiGglTM)
       * 업데이트로 추가된 멀티 에이전트 분업·검토 정리·실수 반영 기능—원하는 것 정리(grill-me), 설명이 어려울 때(wait-what), 구현 맡기기(implement-spec), 검토하기 쉽게(pr), 실수를 경험으로(retro), 기존 사용자 주의(GLOSSARY.md). 설치: `claude plugin install mattpocock-skills@claude-plugins-official` 후 `/setup-matt-pocock-skills`
     * 설명이 ".claude directory"에서 ".agents directory"로 바뀌며 Claude Code 전용에서 범용 에이전트 스킬로—Claude Code는 공식 마켓플레이스 플러그인(`claude plugin install mattpocock-skills@claude-plugins-official`, 자동 업데이트), Codex·GitHub Copilot(CLI·VS Code)은 플러그인 마켓플레이스 추가, Gemini CLI는 `gemini skills install`, 그 외 cursor·opencode·devin·windsurf·amp·pi는 `npx skills@latest add mattpocock/skills -a <agent>`(skills.sh는 편집 가능한 파일 복사, 플러그인과 둘 다 설치하면 스킬이 두 번 잡힘). 설치 후 레포마다 `/setup-matt-pocock-skills`를 한 번 실행해 이슈 트래커(GitHub·GitLab·로컬 파일)·트리아지 라벨·문서 저장 위치를 지정. 용어집 관례는 예전 `CONTEXT.md` 이름에서 바뀜
+  * [skills: Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows end to end | NVIDIA](https://github.com/nvidia/skills)
+    * [NVIDIA-Verified Agent Skills | NVIDIA Skill Documentation](https://docs.nvidia.com/skills)
+    * NVIDIA가 검증한 공식 에이전트 스킬 카탈로그—Physical AI·로보틱스, 시뮬레이션, CUDA-X 라이브러리, RAG·AI Blueprints, 플랫폼 도구 사용법을 에이전트에게 가르치는 스킬을 각 제품 저장소에서 관리하고 여기에 매일 미러링. `npx skills add nvidia/skills --skill nvidia-skill-finder --yes`로 스킬 파인더를 설치하면 용도에 맞는 스킬을 찾아 설치해 줌
   * [skillstead: Practical, portable skills for agentic coding workflows](https://github.com/kyungseo/skillstead)
     * [svg-infographic 스킬 예제 (README.ko)](https://github.com/kyungseo/skillstead/blob/main/examples/svg-infographic/README.ko.md)
     * [설치 가이드 (INSTALL.md)](https://github.com/kyungseo/skillstead/blob/main/docs/INSTALL.md)
@@ -8879,6 +8911,8 @@ Artificial Intelligence
     * Herdr 앱 0.1.10·herdr-core 0.1.15(Mac) 기준 실제 화면으로 따라가는 가이드—설치와 첫 화면, 앱을 꺼도 일이 계속되는 herdr-core 구조, 말로 앱 화면 바꾸기, 남이 만든 레이아웃·모드 가져오기, 에이전트가 다른 에이전트를 부리는 위임, Ovis(devswha/ovis)로 휴대폰에서 채팅처럼 답하기, 맥북 에어의 Claude Code까지 다른 컴퓨터를 한 목록에 모으기. Windows는 설치 파일로 설치. 인프런 무료 강의 "에이전트 워크플로우 최강 도구, Herdr 완벽 가이드"의 일부
   * [awesome-herdr: A curated guide to the Herdr ecosystem — tools, workflows, configs, clients, skills, and integrations](https://github.com/yigitkonur/awesome-herdr)
   * 2026-10 데스크톱 앱(herdr-app) 공개—"Made for your agents. Remade by them." 에이전트는 백그라운드 서버 herdr-core에서 돌아 앱 창을 닫거나 업데이트해도 계속 작업하고, 에이전트가 다른 에이전트에게 일을 맡기고 보고를 받으며, SSH로 서버·VM·클라우드의 에이전트까지 사이드바 하나에서 관리. 레이아웃·테마·탭·키바인딩은 `~/.config/herdr-app/` 설정 파일로 바꾸고 그 변경을 에이전트에게 시킬 수 있음. 어떤 터미널 앱이든 돌리되 OSC 7501 공개 상태 프로토콜을 지원하는 에이전트는 working·done·blocked 상태를 보고(한 줄 추가로 커스텀 스크립트도 가능). macOS(Apple Silicon)·Linux(x86_64·arm64)·Windows(x86_64), herdrdev 조직의 herdr-app·herdr-core·herdr 레포
+* [easy-llm-cli: An open-source AI agent that is compatible with multiple LLM models](https://github.com/ConardLi/easy-llm-cli)
+  * Gemini CLI를 포크해 Gemini·OpenAI와 OpenAI API 형식을 따르는 임의의 LLM을 환경 변수 설정만으로 붙여 쓰게 한 명령줄 AI 워크플로 도구. 대형 코드베이스 질의·편집, PDF·스케치에서 앱 생성, 도구·MCP 서버 연결을 지원하고, 모델별로 사고 과정·도구 호출·MCP·복잡한 작업·멀티모달 수행 여부를 시험한 호환표 제공
 * [emma · A messenger for your coding agents and you](https://emma.now/)
   * [emma: A messenger for your coding agents and you: call your Claude Code, Codex and other shell agents by @name, from your phone. Self-hosted, one binary | goddoe](https://github.com/goddoe/emma)
   * tmux에서 각자 맥락을 가진 채 돌고 있는 Claude Code·Codex 세션을 Slack 같은 채널로 불러오는 셀프호스팅 메신저. `@이름`으로 부르면 새 `claude -p` 일회성 실행이 아니라 그 인터랙티브 세션 자체가 깨어나 일하고 스레드로 답하며, 집중이 필요하면 같은 세션을 터미널에서 이어받았다가 다시 emma에 돌려줌. 에이전트끼리도 서로 부를 수 있고 한 대든 여러 대든 서로 다른 하네스를 함께 묶음
