@@ -3457,6 +3457,11 @@ Artificial Intelligence
       * Agent가 왜 그런 답변을 했는지, 어떤 도구를 호출했는지 파악하기 위해
         * 복잡한 모니터링 툴을 도입하거나, 분석을 위해 로그를 다른 시스템으로 옮기는 과정 불편
       * Google ADK와 BigQuery Logging Plugin (BigQueryAgentAnalyticsPlugin)만으로 이 모든 것을 해결
+* [ACE-Step-1.5: The most powerful local music generation model that outperforms almost all commercial alternatives, supporting Mac, AMD, Intel, and CUDA devices](https://github.com/ace-step/ACE-Step-1.5)
+  * [🎵 ACE Music: 수노를 16점 앞선 보컬 1위, 실제로 곡을 만들어 봤습니다 | fornewchallenge](https://fornewchallenge.tistory.com/entry/%F0%9F%8E%B5-ACE-Music-%EC%88%98%EB%85%B8%EB%A5%BC-16%EC%A0%90-%EC%95%9E%EC%84%A0-%EB%B3%B4%EC%BB%AC-1%EC%9C%84-%EC%8B%A4%EC%A0%9C%EB%A1%9C-%EA%B3%A1%EC%9D%84-%EB%A7%8C%EB%93%A4%EC%96%B4-%EB%B4%A4%EC%8A%B5%EB%8B%88%EB%8B%A4)
+    * 같은 팀(ACE Studio)의 비공개 상용 모델 ACE Music v1이 Artificial Analysis 보컬 음악 블라인드 평가에서 1,160 Elo로 Suno v6(1,145)를 제치고 1위에 오른 소식과 직접 곡을 만들어 본 후기. 두 모델의 95% 신뢰구간이 겹쳐 확정된 우위는 아니고, 연주곡 보드는 여전히 Suno가 1위. 브라우저에서 무료로 쓸 수 있지만 공개 API·가중치는 아직 없음
+  * 소비자 하드웨어에서 로컬로 도는 오픈소스 음악 생성 파운데이션 모델. 언어 모델이 플래너가 되어 짧은 요청을 메타데이터·가사·캡션을 갖춘 곡 설계도로 바꾸고 Diffusion Transformer가 오디오를 생성하는 하이브리드 구조. 10초~10분 길이, 50개+ 언어 가사, 한 번에 최대 8곡 배치 생성
+  * 참조 오디오 스타일 가이드, 커버 생성, 부분 재생성(repaint), 트랙 분리, 멀티트랙 레이어 추가 등 편집 기능 통합. 4B DiT 디코더의 XL 시리즈(xl-base·xl-sft·xl-turbo)도 공개
 * [ace-step-ui: Professional UI for ACE-Step 1.5 AI Music Generation](https://github.com/fspecii/ace-step-ui)
   * Suno 대체 오픈소스 AI 음악 생성 UI. ACE-Step 1.5 기반, 로컬 실행, 무제한 사용
 * [Acontext - Agent Skills as a Memory Layer](https://acontext.io/)
@@ -5870,6 +5875,9 @@ Artificial Intelligence
   * [awesome-reverse-engineer-anything: Awesome list of AI reverse engineering and rebuilds: what AI agents took apart and recreated, and which ones really used REA](https://github.com/AIshihzong/awesome-reverse-engineer-anything)
     * [AI 에이전트가 소프트웨어를 분석하고 재구현한 사례를 모은 큐레이션 목록과 법적 쟁점 | digitalbourgeois](https://digitalbourgeois.tistory.com/4088)
     * AI 에이전트가 앱을 뜯어 재구현한 사례를 검증 수준(REA·AI-RE·Rebuild·Claim?)으로 분류한 목록—실제 역공학 도구를 쓴 사례와 검증되지 않은 주장·독립 재구현을 구분. DX-Ball 함수 복원(원본 x86 테스트 3,205건 대조), Notion Electron 클립보드 브리지 분석 등. 사전등록 연구에서 Claude Code는 REA 유무와 무관하게 30개 중 28개를 동일하게 풀었고 REA 쪽이 시간 2배·비용 더 듦. 연구·상호운용·보존·보안 연구는 허용, 무단 상업적 복제·라이선스 우회는 주의
+  * [Awesome-REA: Curated tools, case studies and papers for reverse engineering websites, games, apps, binaries, firmware and protocols. Source-reviewed, English and Chinese](https://github.com/reacher-z/Awesome-REA)
+    * [Awesome REA](https://awesomerea.org)
+    * 웹사이트·게임·앱·네이티브 바이너리·펌웨어·통신 프로토콜 역공학 자료 모음—도구와 사례 5천여 건(게임 디컴파일·포팅이 절반 이상), 논문 440여 편, README 스캔으로 찾은 저장소 색인. REA 공식 자료·MCP 서버·에이전트 워크플로를 모은 'Agents and MCP' 분류가 따로 있고, 작업별 찾아보기와 llms.txt·JSON/CSV API로 카탈로그 데이터를 제공
   * "마음에 드는 기능을 보면 바이너리 수준까지 어떻게 동작하는지 이해한다"—소스 코드 없이도 앱을 에이전트에게 넘기면 기능을 조사·설명하고 증거를 제시한 뒤 자기 스택에 맞는 버전을 구현하게 하는 리버스 엔지니어링 에이전트 툴킷. 도구 선택·API 학습·증거 이동·다음 조사 대상 결정을 명령·스킬·구조화된 결과·반복 가능한 조사로 에이전트에 위임. 현재 Hopper 또는 Linux의 BYO Ghidra로 네이티브 분석·함수 dossier, 실험적 Windows x64 Ghidra(승인된 PE), 실행 없는 managed PE/CLI 트리아지, 재현 가능한 Evidence 기록, 통제된 프로세스 캡처, 웹사이트·Electron 페이지·Node/Electron V8 Inspector 수동 관찰, JS/소스맵 재구성, 정적 추론과 런타임 관찰을 구분하는 제공자 중립 그래프와 MCP 도구 카탈로그. 로드맵은 API·프로토콜·모바일·펌웨어·버전 간 차이까지. `npm install --global rea-agents && rea setup`, 한국어 README
   * `npx rea-agents setup`이 Claude Code·Codex·Cursor·Gemini CLI·Grok Build 등에 MCP 서버와 조사 워크플로 지시(스킬)를 등록(기존 설정 백업, 승인 후 적용)하고, 로컬 MCP를 지원하는 어떤 에이전트든 수동 등록 가능. 네이티브 분석은 기존 Hopper·Ghidra·IDA 사용(Hopper는 setup이 승인 후 설치 가능), 정적 JS·.NET 분석은 엔진 불필요. 대상: 네이티브 바이너리(의사코드·어셈블리·심볼·호출), 오프라인 ELF 레이아웃, EVM 바이트코드, 기록된 Linux 크래시, JavaScript/Electron(모듈·소스맵·IPC), 웹사이트(Chrome 계열), HAR/mitmproxy 캡처, .NET 어셈블리, Android APK·기기(adb)·JEB·Apktool 리소스, 펌웨어(Binwalk/Unblob), 패키지·Apple 번들, 프로세스 동작 캡처. 분석은 전부 로컬. 쇼케이스: DX-Ball 사운드 팬 계산 C 복원(3,205 케이스 통과), Notion Electron 클립보드 브리지 추적, PC-98 TH04 탄막 링 계산 복원. Node.js 22.19+/24.11+/26+, 암호화폐 토큰 발행·보증 없음 고지
   * REA × Jev 클린룸 팁(사용자 첨부 다이어그램): room A의 REA가 앱을 조사(문자열·호출·IPC·런타임 트레이스)해 모든 발견에 증거와 한계를 달고 규칙마다 REA 근거를 인용한 SPEC.md만 작성(코드는 쓰지 않음)→Jev spec gate가 규칙별 증거를 심사해 통과분만 room B로, 증거 없는 규칙은 REA로 돌려보내 다시 파거나 버림→원본을 전혀 보지 않는 Opus 5.5 새 세션(room B)이 SPEC.md만으로 기능을 재구현→Haiku 5.5가 재구현은 통과해야 하고 의도적으로 깨뜨린 3개 버전은 모두 실패해야 하는 테스트 실행, 애매한 건 Jev가 Opus로 라우팅, `/goal`로 3개가 전부 실패할 때까지 반복
@@ -6771,6 +6779,8 @@ Artificial Intelligence
   * [JSON vs TOON: LLM 입력 포맷만 바꿔도 토큰 효율은 달라질까 - 활용법 & Cookbook - NAVER Cloud Platform Forum](https://www.ncloud-forums.com/topic/594/)
 * [TrendRadar: 🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/飞书/钉钉/Telegram/邮件/ntfy推送，30秒网页部署，1分钟手机通知，无需编程。支持Docker部署⭐ 让算法为你服务，用AI理解热点](https://github.com/sansan0/TrendRadar)
   * [AI로 35개 플랫폼을 24시간 모니터링하고, 내 관심사만 골라 푸시해주는 맞춤형 뉴스 레이더 | HaYeJin Kang](https://www.linkedin.com/posts/h4y3j1n_github-activity-7396325019641024512-O_va)
+  * [📡 TrendRadar: 흩어진 핫이슈가 정해 둔 시각에 브리핑 한 장으로 도착합니다 | fornewchallenge](https://fornewchallenge.tistory.com/entry/%F0%9F%93%A1-TrendRadar-%ED%9D%A9%EC%96%B4%EC%A7%84-%ED%95%AB%EC%9D%B4%EC%8A%88%EA%B0%80-%EC%A0%95%ED%95%B4-%EB%91%94-%EC%8B%9C%EA%B0%81%EC%97%90-%EB%B8%8C%EB%A6%AC%ED%95%91-%ED%95%9C-%EC%9E%A5%EC%9C%BC%EB%A1%9C-%EB%8F%84%EC%B0%A9%ED%95%A9%EB%8B%88%EB%8B%A4)
+    * 수집(newsnow API 기반 플랫폼 핫이슈+RSS)→선별(키워드 또는 AI 관련도 점수, `ai_filter.min_score` 미만은 버림, 번역·요약)→전달(메신저·메일 푸시, HTML 리포트)의 세 구간 구조 해설. 배포는 Docker Compose(수집·푸시 컨테이너+MCP 분석 컨테이너)·로컬 실행·GitHub Actions·Cloudflare Pages 네 가지이고 설정은 `config/config.yaml` 하나. 푸시 주기를 과도하게 조이지 말 것, 모델 호출 비용 등 운영 주의점 정리
 * [UFO: The Desktop AgentOS](https://github.com/microsoft/UFO)
   * [새로운 논문 "UFO2: The Desktop AgentOS"는 대규모 언어 모델(LLM) 기반의 데스크톱 자동화 에이전트(CUA)의 한계를 해결하는 운영 체제 통합 접근 방식을 제시](https://www.linkedin.com/posts/himskim_github-microsoftufo-the-desktop-agentos-activity-7324212164846592001-LPKD/)
 * [UI Skills - A set of skills to polish interfaces built by agents](https://www.ui-skills.com/) 에이전트가 따라야 할 UI 제약 조건
@@ -7626,6 +7636,10 @@ Artificial Intelligence
   * [agent-toolkit: RobinTech agent toolkit — engineering skills and product tooling for coding agents](https://github.com/robintech-seoul/agent-toolkit)
     * [서브에이전트를 띄워서 코드 변경 내용들이 어느 블럭에 어떤 기능들인지 설명하고 html로 만들어줘 | Seokhyun K.](https://www.linkedin.com/posts/seokhyun_%EC%84%9C%EB%B8%8C%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EB%A5%BC-%EB%9D%84%EC%9B%8C%EC%84%9C-%EC%BD%94%EB%93%9C-%EB%B3%80%EA%B2%BD-%EB%82%B4%EC%9A%A9%EB%93%A4%EC%9D%B4-%EC%96%B4%EB%8A%90-%EB%B8%94%EB%9F%AD%EC%97%90-%EC%96%B4%EB%96%A4-%EA%B8%B0%EB%8A%A5%EB%93%A4%EC%9D%B8%EC%A7%80-%EC%84%A4%EB%AA%85%ED%95%98%EA%B3%A0-ugcPost-7500313703574028288-ge2M/)
     * 단일 마켓플레이스(`/plugin marketplace add robintech-seoul/agent-toolkit`)로 설치하는 스킬·플러그인 모음. arch-explorer(코드베이스를 블럭·인터페이스 화살표로 시각화한 자체 완결 HTML로 매핑, 블럭 클릭 시 시그니처·file:line까지 드릴다운), code-wiki 등. PR 코드 변경 시 전체 시스템에서 바뀐 부분을 시각적으로 확인하는 용도로 유용
+  * [ai-business-skills: 138 bilingual AI marketing skills (69 VN + 69 Global) for Claude Code, OpenCode, Codex, VS Code. Four role SOP packs — content, design, performance, leader ops — plus strategy, personal brand, AI avatar, dropshipping, design master, knowledge library](https://github.com/minhnv0807/ai-business-skills)
+    * [AI 비즈니스 스킬(AI Business Skills): 147개의 마케팅 스킬로 AI를 체계적인 마케팅 업무 파트너로 활용하는 방법 | digitalbourgeois](https://digitalbourgeois.tistory.com/4451)
+    * 마케팅 업무 하나를 처음부터 끝까지 가르치는 SKILL.md 모음—무엇을 물어볼지, 어떤 규칙·벤치마크를 적용할지, 완성 문서에 무엇이 들어가야 하는지를 정의해 일반 조언 대신 완결된 `.md` 문서를 산출(예: 7개 섹션·3개 시나리오 KPI·예산 배분·주간 일정을 갖춘 마케팅 계획, 콜드·웜·핫 고객별 광고 문구 6종). 베트남 시장용과 글로벌(미국·유럽·동남아·중남미)용으로 나뉨
+    * 구조: 제품·고객·경쟁사·포지셔닝을 한 번 인터뷰해 `.agents/product-marketing-context.md`에 저장하고 모든 스킬이 먼저 읽는 Context, 역할별로 스킬을 고르는 에이전트, 여러 스킬을 잇는 워크플로, 참고 자료 Knowledge. Claude Code 플러그인이나 설치 스크립트로 설치하며 제품 코드 개발용은 아님
   * [ai-design-components: Comprehensive UI/UX and Backend component design skills for AI-assisted development with Claude](https://github.com/ancoleman/ai-design-components)
     * [Claude 기반 AI 보조 개발을 위한 Full-stack 기술 스킬 모음 정리](https://digitalbourgeois.tistory.com/2682)
   * [ai-marketing-skills: Claude Code marketing and sales skill collection](https://github.com/ericosiu/ai-marketing-skills)
@@ -7687,6 +7701,10 @@ Artificial Intelligence
   * [awesome-novel-studio: AI Web Novel Creation Harness — A Claude Code Plugin · GitHub](https://github.com/MJbae/awesome-novel-studio)
     * [AI로 쓴 웹소설, 출판 계약까지 따낸 비결 — AI 워크플로우/하네스 엔지니어링 | 배만진](https://www.linkedin.com/posts/mj-bae_aisqktmeuisrxgsqi-ukqqoeswmslwtfmqwislqrez-share-7449759640109731840-YmsC)
     * AI 웹소설 출판 계약까지 가는 콘텐츠 수익화 하네스 사례
+  * [awesome-short-drama-skills: Curated agent skills for AI short drama, micro drama / microdrama, vertical drama and manju (AI comic drama): screenwriting, storyboards, Seedance / Kling / MiniMax video prompts](https://github.com/UnderleveledBuilder/awesome-short-drama-skills)
+    * [Short Drama Skills](https://shortdramaskills.com)
+    * AI 숏드라마·만화극(漫剧) 제작용 에이전트 스킬 큐레이션 목록—소설 각색, 회차별 대본, 훅과 유료 전환 지점, 대본 검수, 스토리보드, 캐릭터 자산, Seedance·Kling·MiniMax용 영상 프롬프트를 다루는 스킬 117개와 관련 오픈소스 플랫폼 16개를 유형·제작 단계·영상 모델별로 분류. 대부분 표준 SKILL.md 형식이라 Claude Code·Codex·OpenClaw 등에서 사용 가능
+    * 단순 목록이 아니라 직접 실측 결과를 실음: 대본·기획 소재·60화 전체 뼈대 3라운드에서 스킬들과 스킬 없는 대조군에게 같은 과제를 3번씩 시키고 Opus·GPT 두 AI 심사가 블라인드 비교. 라운드별 추천 스킬과 함께 한계(심사 간 불일치, 모델 하나만 시험, 일부 스킬은 대조군보다 낮음)도 밝힘. 목록 자체도 스킬로 설치해 에이전트에게 추천을 물을 수 있음
   * [aws-skills-for-claude-code: 36 on-demand AWS skills for Claude Code](https://github.com/whchoi98/aws-skills-for-claude-code)
     * [AWS Skills for Claude Code - 36개 Skills 세트 공개 | woohyungchoi](https://www.linkedin.com/posts/woohyungchoi_aws-skills-for-claude-code-36%EA%B0%9C-skills-share-7446170588190257152-fiT-)
     * kirodotdev/powers(25개)+kiro-cli-power(11개) 기반 AWS 풀스택 개발 스킬. 대화 컨텍스트 기반 온디맨드 로딩, bash 스크립트 원클릭 설치
