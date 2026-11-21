@@ -3256,6 +3256,16 @@ CVPR2016)
   * [2601.08587 MoCha: End-to-End Video Character Replacement without Structural Guidance](https://arxiv.org/abs/2601.08587)
   * [MoCha project page](https://orange-3dv-team.github.io/MoCha)
   * CVPR 2026(Orange 3DV Team). 영상 속 캐릭터를 사용자가 준 캐릭터로 바꾸는 과제에서, 프레임별 마스크와 포즈·깊이 같은 구조 가이드에 의존하던 기존 재구성 방식은 가림·희귀 포즈·사물 상호작용·복잡한 조명에서 아티팩트와 시간적 불연속이 생김—MoCha는 첫 프레임 마스크 하나만 받고 여러 조건을 단일 토큰 스트림으로 통합해 캐릭터를 다시 렌더링. condition-aware RoPE로 다중 참조 이미지와 가변 길이 영상 지원, 짝지어진 학습 영상 부족은 자체 데이터 합성 파이프라인으로 해결. 추론 코드 공개, kijai의 ComfyUI-WanVideoWrapper 노드에 포함
+* [MovieRoll: A Systematic Framework for Rolling Out Long-Form Videos](https://tencent-hunyuan.github.io/MovieRoll/)
+  * [2611.21339 MovieRoll: A Systematic Framework for Rolling Out Long-Form Videos](https://arxiv.org/html/2611.21339v1)
+  * [MovieRoll: A Systematic Framework for Rolling Out Long-Form Videos](https://github.com/Tencent-Hunyuan/MovieRoll)
+  * 북경대·Tencent Hunyuan·HKUST. 스트리밍(자기회귀) 비디오 생성이 학습 길이를 넘어서도 품질을 유지하도록, 다단계 Base 모델에서 소수 단계 Distilled 모델까지 잇는 프레임워크. 텍스트→비디오·이미지→비디오를 지원하고, 프롬프트 하나 또는 순서대로 이어지는 여러 이벤트 프롬프트로 1분 길이까지 같은 인물·장면을 유지하며 생성
+  * 구성: WinTF(윈도 안에서는 양방향 어텐션, 앞선 이력에는 인과적 접근으로 청크를 함께 디노이징하는 윈도 단위 teacher forcing), HieraKV(얕은 층은 전체 이력, 깊은 층은 sink+최근 이력만 남겨 KV 캐시 메모리를 최대 78% 절감), CuLT-DMD(긴 자기 롤아웃 동안 파라미터를 고정하고 구간별 그래디언트를 평균해 소수 단계 생성기를 증류), 임계값 기반 KV 재계산과 AnnealCFG(가이던스를 점차 줄여 Base의 장기 열화 완화)
+  * HeliosBench에서 Distilled 모델이 단일·다중 이벤트 60초까지 비교 대상 중 최고 총점, Base는 15초 이하 영상으로 학습하고도 30초에서 경쟁력 유지. 코드·가중치 공개, SGLang Diffusion·vLLM-Omni 백엔드 지원
+* [MPEG-Diffusion: Mixed-Resolution Video Generation](https://dennismenn.github.io/mpeg-diffusion)
+  * [2611.12069 MPEG-Diffusion: Mixed-Resolution Video Generation](https://arxiv.org/html/2611.12069v1)
+  * UT Austin·Roblox. 비디오 코덱이 중요한 영역에 비트를 더 쓰듯, 비디오 DiT가 시각적으로 중요한 영역만 고해상도로, 나머지는 저해상도로 생성하게 해 연산을 줄이는 방법. 전체 해상도 토큰의 30%만 처리해 Wan2.1 14B에서 디노이징을 평균 4.8배 빠르게 하면서 전체 해상도에 가까운 품질
+  * 기존 혼합 해상도 방식의 품질 저하 원인 셋을 각각 해결—①이중 해상도 어텐션(고·저해상도 K/V 캐시를 분리해 각 쿼리가 자기 해상도의 K/V를 읽음) ②혼합 해상도 디코더(두 잠재 표현을 하나로 합친 뒤 디코딩해 경계 이음매 제거) ③고해상도 영역 자가 선택(DiT 중간 특징에 선형 층 하나를 얹어 디노이징 중에 영역을 고르므로 사전 지정 불필요). 이미지 생성(FLUX.2)에도 적용
 * [Open Generative AI — Free AI Image & Video Studio | Muapi](https://muapi.ai/open-generative-ai)
   * [Open-Generative-AI: Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation | Anil-matcha](https://github.com/Anil-matcha/Open-Generative-AI)
   * 계정 없이 Flux·Kling·Veo·Seedance 등 200+ 모델로 이미지·영상 생성하는 오픈소스 스튜디오
