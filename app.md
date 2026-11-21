@@ -344,6 +344,21 @@ App
 * [로그프레소 CTI 토스증권 사칭 macOS 악성코드 유포 분석 보고서 | 로그프레소](https://logpresso.com/ko/blog/2026-09-15-macos-malware-distribution-report-kor)
   * 페이스북 유료 광고 → 토스증권 사칭 사이트(tos[.]sinvest-land[.]com) → macOS `.pkg` 다운로드 경로. postinstall이 외부 서버 스크립트를 curl→bash로 서명·해시 검증 없이 실행하는 드로퍼이고, 함께 설치되는 앱에는 화면 기록·전체 디스크 접근·입력 모니터링 권한 승인을 자동화하는 코드가 있음. 분석 시점에 Apple 개발자 인증서·공증은 폐기됐으나 **VirusTotal 안티바이러스 61종 0/61, 도메인 평판 89종 0/89로 전 엔진 미탐지**—평판만 믿을 수 없다는 점이 핵심. 토스증권과 도용된 언론사도 피해자
   * 광고 유형 3종(개인 계정 명의·실존 가상자산 매체 명의로 공식 도메인 표시·The Korea Herald 사칭)이 광고주와 링크 도메인을 바꿔가며 순환하므로 특정 도메인 차단으로는 대응 불가—서명·식별자 기준 차단을 EDR에 적용하라는 권고. Meta 광고의 표시 링크는 실제 목적지와 다르게 넣을 수 있고 심사·노출 시점에 다른 페이지를 보여줄 수도 있음. 유형 B 광고 본문에 마크다운 `**`가 그대로 남아 생성 도구로 대량 제작한 흔적. 악성 파일 미실행 정적 분석(pkgutil·strings·otool·codesign)만으로 수행, IOC 공개
+* 악성코드 분석을 배우는 YouTube 채널들
+  * [John Hammond - YouTube](https://www.youtube.com/@_JohnHammond)
+    * 무료 사이버 보안 교육과 윤리적 해킹. 악성코드 사례, 보안 이슈 해설, 보안 엔지니어 인터뷰
+  * [Eric Parker - YouTube](https://www.youtube.com/@EricParker)
+    * 악성코드 조사와 잘 알려지지 않은 기술·오픈소스 소프트웨어. 게임·업데이터로 위장한 악성코드, 랜섬웨어 복구 업체 문제 등 실제 사건을 파헤쳐 보안 인식을 높이는 내용
+  * [Anuj Soni - YouTube](https://www.youtube.com/@sonianuj)
+    * 20년 넘은 경력의 악성코드 리버스 엔지니어가 실무형 분석 기술을 가르침. 분석 랩 구축, 실행 없이 분석하는 정적 분석 입문, 동적 분석 도구와 흐름, 페이로드 추출, Binary Ninja·AI 활용
+  * [Dr Josh Stroschein - The Cyber Yeti - YouTube](https://www.youtube.com/@jstrosch)
+    * 악성코드 분석·리버스 엔지니어링·윤리적 해킹 무료 교육. 패킹과 난독화 강의 시리즈(UPX·ASPack 언패킹, 엔트로피 확인, PE-Sieve로 IAT 복구 등)
+  * [MalwareAnalysisForHedgehogs - YouTube](https://www.youtube.com/@MalwareAnalysisForHedgehogs)
+    * G DATA의 수석 악성코드 연구원이 운영. V8 JavaScript 바이트코드 스틸러 디컴파일, 커널 드라이버 루트킷 분석, PE 파일 시각화 도구 PortexAnalyzer 등 실제 샘플 분석
+  * [OALabs - YouTube](https://www.youtube.com/@OALABS)
+    * 악성코드 분석 도구·기법·튜토리얼. IDA Free로 EXE·DLL을 단계별로 분석하는 강좌, IDA·Ghidra용 MCP를 쓴 AI 자동 리버싱 등
+  * [Invoke RE - YouTube](https://www.youtube.com/@InvokeReversing)
+    * 악성코드 분석 교육을 제공하는 스타트업의 채널. Rust·Go 로더 분석, 취약 드라이버 악용(BYOVD) 사례, YARA 탐지 규칙 작성, Frida 활용 등 라이브 분석 스트림
 * [AgentHound: Red team framework for AI agent infrastructure](https://agenthound.io/)
   * [adithyan-ak/AgentHound: Offensive security framework for AI agent infrastructure](https://github.com/adithyan-ak/AgentHound)
   * AI 에이전트 인프라(MCP·A2A·게이트웨이·추론·벡터스토어)를 겨냥한 오픈소스 레드팀 프레임워크. 정찰·크리덴셜 탈취·모델 exfiltration·포이즈닝·공격경로 분석을 수행하고 모든 공격 경로를 Neo4j 그래프로 증명. "에이전틱 스택의 BloodHound"
@@ -392,6 +407,10 @@ App
   * [Cybersecurity-Projects: Building 70 Projects ranging from beginner to advanced](https://github.com/CarterPerez-dev/Cybersecurity-Projects)
   * 경험 없는 입문자를 위한 게임화 사이버보안 학습 플랫폼. 몇 가지 질문으로 SOC 분석가·침투 테스터 등 적합 직무 로드맵 추천, 26,000개+ 연습 문제·실습 게임·영상, CompTIA Security+/Network+/CCNA 등 20개+ 자격증 대비, AI 이력서 빌더·진로 상담. 무료/월 $25/연 $99.69
   * 연동 레포는 초급~고급 70개 사이버보안 프로젝트를 공개—학습·참고·복사해 쓸 수 있게 구성
+* [clamav: ClamAV® is an open source antivirus engine for detecting trojans, viruses, malware & other malicious threats](https://github.com/Cisco-Talos/clamav)
+  * [ClamAVNet](https://www.clamav.net/)
+  * [ClamAV Documentation](https://docs.clamav.net/)
+  * Cisco Talos가 관리하는 오픈소스 안티바이러스 엔진. 메일 게이트웨이 스캐닝의 사실상 표준으로, 멀티스레드 스캐너 데몬·온디맨드 파일 검사용 명령줄 도구·시그니처 자동 업데이트를 제공하고 다양한 파일 형식과 압축 해제, 여러 시그니처 언어를 지원. 누구나 시그니처를 작성할 수 있도록 매뉴얼 공개, Docker 이미지와 Linux·macOS·Windows용 설치 패키지 제공
 * [Claude-OSINT: Two paired Claude skills turning Claude into an external recon operator for authorized red-team and bug-bounty](https://github.com/elementalsouls/Claude-OSINT)
   * 인증된 레드팀·버그바운티용 외부 정찰 Claude 스킬 2종. 90+ recon 모듈, 48 secret-regex, 80+ dork, 9 read-only 크리덴셜 검증기, 27 공격경로 템플릿, 5,500+ 줄 tradecraft. SKILL.md drop-in. Python
 * [dark-web-osint-tools: OSINT Tools for the Dark Web](https://github.com/apurvsinghgautam/dark-web-osint-tools)
@@ -429,6 +448,10 @@ App
 * [KittySploit — Open security framework, professional reports](https://kittysploit.com/)
   * [Kittysploit-framework: Python Exploitation Framework, V8 Engine Debugger, Proxy interceptor, marketplace, post-exploitation, backdoor generator](https://github.com/SIA-IOTechnology/Kittysploit-framework)
   * 오픈소스 보안 프레임워크. Python 익스플로잇 프레임워크, V8 엔진 디버거, 프록시 인터셉터, 마켓플레이스, post-exploitation, 백도어 생성기. 증거를 클라이언트 리포트로 변환하는 KittySploit Reports(E2E 암호화)
+* [MISP Open Source Threat Intelligence Platform & Open Standards For Threat Intelligence Sharing](https://www.misp-project.org/)
+  * [MISP: MISP (core software) - Open Source Threat Intelligence and Sharing Platform](https://github.com/MISP/MISP)
+  * 사이버 보안 사고·악성코드 분석에서 나온 침해 지표와 위협 정보를 수집·저장·배포·공유하는 오픈소스 위협 인텔리전스 플랫폼. 사고 분석가·보안 담당자·악성코드 분석가가 구조화된 정보를 주고받도록 설계됐고, NIDS·로그 분석 도구·SIEM이 그 정보를 바로 소비할 수 있게 함
+  * 지표 간 관계를 드러내는 자동 상관 분석 엔진(퍼지 해시·CIDR 매칭 포함), 객체를 서로 연결하는 유연한 데이터 모델, 인스턴스 간 자동 동기화와 공유 그룹 단위의 세밀한 배포 정책, 워크플로 시스템, OpenAPI ReST API와 PyMISP. STIX 1·2, OpenIOC, Suricata·Snort·Zeek 등으로 내보내기·가져오기, MITRE ATT&CK 등을 담은 galaxy 어휘와 분류 체계(taxonomy) 지원
 * [MobileHackersWeapons: A collection of cool tools used by Mobile hackers. Happy hacking, Happy bug-hunting](https://github.com/hahwul/MobileHackersWeapons)
   * iOS·Android 모바일 해킹 도구 큐레이션 리스트. 카테고리별(Analysis/Pentest/Proxy/RE/Scanner/Utils/Device) × 플랫폼별 분류.
 * [naabu: A fast port scanner written in go with a focus on reliability and simplicity](https://github.com/projectdiscovery/naabu)
@@ -448,6 +471,8 @@ App
   * 마이크로소프트 월간 보안 업데이트(Patch Tuesday)를 분석·시각화하는 도구. CVE 심각도·악용 여부·유형별 통계와 추세를 제공. Python
 * [PwnPad: affordable, hands-on hardware hacking platform for practical learning](https://github.com/twelvesec/PwnPad)
   * 저렴한 실습형 하드웨어 해킹 학습 플랫폼. PCB 설계부터 사이드채널 공격까지 핵심 하드웨어 보안 개념을 단계별 챌린지로 학습
+* [RedTeam-Tools: Tools and Techniques for Red Team / Penetration Testing](https://github.com/A-poc/RedTeam-Tools)
+  * 레드팀 활동에 쓰이는 도구·자료 150여 개를 MITRE ATT&CK 전술 순서(정찰→자원 개발→초기 접근→실행→지속→권한 상승→방어 회피→자격 증명 접근→탐색→측면 이동→수집→C2→유출→영향)로 분류한 모음. 도구마다 설명과 설치·사용 명령 예시를 달았고, 앞부분에 레드팀 팁 모음 수록. 정보·교육 목적임을 명시하며 방어 측용 BlueTeam-Tools 저장소도 따로 있음
 * [robin: AI-Powered Dark Web OSINT Tool](https://github.com/apurvsinghgautam/robin)
   * AI 기반 다크웹 OSINT 도구
 * [RustScan: The Modern Port Scanner](https://github.com/bee-san/RustScan)
@@ -1137,6 +1162,10 @@ App
   * [직접 만들게 된 프로젝트 및 업무 관리 서비스 | 이성주](https://www.linkedin.com/posts/lsjsj92_%EC%A7%81%EC%A0%91-%EB%A7%8C%EB%93%A4%EA%B2%8C-%EB%90%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%B0%8F-%EC%97%85%EB%AC%B4-%EA%B4%80%EB%A6%AC-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%A0%80%EB%8A%94-%EC%A7%80%EA%B8%88-%ED%9A%8C%EC%82%AC%EC%97%90%EC%84%9C-%EB%B3%B4%EC%95%88-ugcPost-7441454843396960256-HVJB)
   * 보안·네트워크 제약으로 SaaS 사용 불가한 팀을 위한 내부 서버 Jira/Notion 대체제. 드래그&드롭 칸반(Epic/Story/Task/Sub-task 계층), 간트 타임라인, 팀·역할 관리, 대시보드, 필터링. Python 3.12 + FastAPI + React 18 + PostgreSQL 16 + Docker Compose
 * [focalboard: Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.](https://github.com/mattermost/focalboard)
+* [It's a Plan — Open Source Issue Tracker Where AI Agents Take Work](https://itsaplan.dev/)
+  * [itsaplan: Open-source, self-hosted alternative to Linear and Plane. Project management and issue tracking where teams and AI agents work side by side to plan and ship products](https://github.com/croffasia/itsaplan)
+  * 셀프호스팅 이슈 트래커 겸 프로젝트 관리 도구. 처음에는 일반 트래커로 쓰다가, 동료에게 맡기듯 이슈를 에이전트에 배정하고 결과를 직접 검토하거나 다른 에이전트가 확인하게 할 수 있음. 에이전트는 역할·권한·담당자 자리를 가진 프로젝트 멤버로, 서버에서 임의 모델로 도는 내부 에이전트와 내 PC의 Claude Code·Codex·Copilot CLI·opencode 계정으로 도는 외부 에이전트(`@itsaplan/runner`) 두 종류. @멘션·배정·일정으로 실행
+  * 칸반·표·타임라인·캘린더 뷰, 사이클, 커스텀 필드, 대시보드, Markdown 문서, 노트 보드, 프로젝트 템플릿, Linear·Trello·Plane 가져오기. REST API(OpenAPI)·MCP 서버·웹훅, OIDC SSO·SCIM·패스키 지원, 한국어 포함 13개 언어
 * [Kan.bn | The open source alternative to Trello](https://kan.bn/)
   * [kan: The open source Trello alternative](https://github.com/kanbn/kan)
     * [Kan.bn - Trello의 오픈소스 대체제 | GeekNews](https://news.hada.io/topic?id=21257)
@@ -1688,6 +1717,10 @@ App
 
 # Homeserver
 * [(EP.12) 평생 서버비용 아끼는 방법. 무료 홈서버 BEST 5 (N100 미니PC 활용) - YouTube](https://www.youtube.com/watch?v=2SuHn0jMjIM)
+* [Homescape: your Home Assistant home as a live 3D dollhouse](https://homescape.muratozturk.dev)
+  * [homescape: Your Home Assistant home as a live, interactive 3D dollhouse. Fully local, no cloud. Every 3D object is generated by code written by AI: no GLB or other model files](https://github.com/muratozturkdev/homescape)
+  * 집을 브라우저에서 3D로 그리고 Home Assistant와 실시간 동기화하는 대시보드—방마다 조명이 켜지고, 센서에 따라 문·창문이 열리고, 사람과 반려동물이 집 안을 이동. 호버·탭으로 바로 켜고 끄고 클릭하면 기기별 상세 제어. 첫 평면은 Home Assistant의 영역과 엔티티에서 자동 생성하고 이후 3D에서 방·벽·층·가구(150종+)를 직접 편집, 1인칭 걷기 모드와 날씨·공간 음향 지원
+  * 3D 모델 파일(GLB·glTF·OBJ)이 하나도 없고 소파부터 가로등·사람까지 모든 오브젝트를 AI가 작성한 코드로 생성. Home Assistant가 제공하는 정적 파일로 브라우저에서만 동작해 클라우드·계정·추적이 없고, 평면은 Home Assistant 사용자 데이터에 저장되어 백업에 포함
 * [MicroRealEstate | Leases, rents and receipts in one app](https://microrealestate.app/)
   * [microrealestate: Self-hosted property management app for landlords to manage leases, rents and receipts](https://github.com/microrealestate/microrealestate)
   * 임대인용 셀프호스팅 부동산 관리—물건·임차인·임대계약·임대료·영수증을 한 앱에서. 개인 임대인(5호 이하) 무료
@@ -2931,6 +2964,10 @@ App
 * [NVIDIA Broadcast 앱: AI 기반 음성 및 영상 | NVIDIA](https://www.nvidia.com/ko-kr/geforce/broadcasting/broadcast-app/)
 * [omni-clip](https://omniclip.app/)
   * [Omniclip - 오픈소스 웹 비디오 편집기 | GeekNews](https://news.hada.io/topic?id=14776)
+* [OpenFilm | The open source AI video agent](https://openfilm.dev)
+  * [openfilm: The open source AI video agent: turns any coding agent into a video agent, with editors to change anything it makes](https://github.com/openfilm/openfilm)
+  * 코딩 에이전트(Claude Code·Codex 등, 또는 데스크톱 앱 내장 에이전트)를 영상 제작 에이전트로 바꾸는 도구. 에이전트가 영상·음악·음성을 찾고 숏을 작성해 이어 붙이는 과정을 사람이 실시간으로 보고, 사람이 고친 것도 에이전트가 같은 파일에서 이어받음. 클립·타임라인 구간·프레임 속 위치·자막 줄을 가리켜 수정을 요청하거나 직접 편집(요소 이동·크기·회전, 텍스트·색·폰트, 트림·분할·속도·음량·크롭)
+  * 같은 영상을 다루는 네 가지 편집기—전체 화면으로 보며 지점을 가리키는 Screening, 타임라인 Edit(Final Cut Pro·Premiere Pro·DaVinci Resolve로 내보내기), 노트·이미지·클립을 늘어놓고 계획하는 Canvas, 스코프·컬러 휠·LUT로 보정하는 Color. `npx skills add openfilm/openfilm`으로 스킬 설치
 * Owncast [Owncast - 오픈소스 라이브 스트리밍 서버 | GeekNews](https://news.hada.io/topic?id=3450)
 * [PassportPhoto4You](https://www.idphoto4you.com/)
   * [증명사진 만들고 편집하는 사이트](https://chagoonbass.tistory.com/300)
