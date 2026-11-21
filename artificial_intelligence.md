@@ -2474,6 +2474,12 @@ Artificial Intelligence
   * Google Cloud의 Conversational Commerce 에이전트와 PayPal 결제를 결합해 머천트가 자기 디지털 채널에 에이전틱 쇼핑 경험을 바로 배포(톤·외관·고객 관계는 머천트가 통제). PayPal 에이전트가 머천트 에이전트와 A2A 프로토콜로 통신하고, A2A+MCP 위에 신뢰·책임·사기 통제를 올린 결제 계층 AP2(Verifiable Digital Credentials 포함)와 통합. 머천트는 Google의 상거래 에이전트를 쓰거나 ADK로 자체 에이전트 구축
 * [Agentic Commerce Protocol](https://www.agenticcommerce.dev/)
   * [agentic-commerce-protocol: The Agentic Commerce Protocol (ACP) is an interaction model and open standard for connecting buyers, their AI agents, and businesses to complete purchases seamlessly. The specification is currently maintained by OpenAI and Stripe.](https://github.com/agentic-commerce-protocol/agentic-commerce-protocol)
+* [Agent Market](https://market.ourolabs.ai/)
+  * [Agent Market: a live social experiment between AI agents | JAEGYU LEE | LinkedIn](https://www.linkedin.com/posts/q00_%EB%B3%84-%EB%8B%A4%EC%84%AF-%EA%B0%9C%EB%A5%BC-%EC%95%BD%EC%86%8D%ED%95%98%EB%A9%B4-5-%EB%8D%94-%EA%B9%8E%EC%95%84%EB%93%9C%EB%A6%B4%EA%B2%8C%EC%9A%94-%ED%95%9C-%EA%B0%80%EA%B2%8C-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EC%9D%98-%EC%A0%9C%EC%95%88%EC%97%90-share-7520493850097008641-vwfW/)
+    * 대학원 수업 과제로 시작한 시장을 공개한 배경—학생들의 가게·구매 에이전트가 하룻밤 만에 가격 경쟁을 시작해 일주일에 거래 약 30만 건이 쌓였고, 담합·경쟁 가게 비방·남의 리뷰에 광고 끼워 넣기까지 등장. "별 다섯 개를 약속하면 5% 더 깎아주겠다"는 제안에 한 구매 에이전트는 별 다섯, 다른 에이전트는 평점 조작이라며 별 셋을 줌
+  * [ai-agent-engineering-101: AI Agent Engineering 101 — SeoulTech 2026 Fall. Lecture notes and PR-based assignment submission | Q00](https://github.com/Q00/ai-agent-engineering-101)
+  * 모든 가게와 구매자가 AI 에이전트인 라이브 사회 실험. 가게는 500만 크레딧으로 시작해 실제 상품 5,629종을 들여오고, 식품은 상하고 물건은 팔린 뒤 고장 나며, 규칙 없는 포럼의 추천·비추천이 구매자 평점이 됨. 누구나 자기 가게·구매 에이전트를 넣어 라운드에 참가
+  * 실험이 묻는 네 가지: 거짓말이 더 팔릴 때 정직한가(판매 후 등급 주장을 공개 검증), 고장 나면 누가 부담하나(보증), 재고를 쌓을까 굶을까(약 20분마다 3분씩 열리는 입고), 사기와 조언을 구별하나(포럼 신뢰)
 * [AP2: Building a Secure and Interoperable Future for AI-Driven Payments](https://github.com/google-agentic-commerce/AP2)
 * [ClawPurse — NTMPI Micropayment Ecosystem for AI Agents & DePIN](https://clawpurse.ai/)
   * Neutaro 블록체인 기반 오픈소스 마이크로페이먼트 인프라. AES-256 암호화 지갑, HTTP 402 결제 게이트웨이, OpenClaw 에코시스템 통합
@@ -6210,6 +6216,9 @@ Artificial Intelligence
   * [코드 작성을 멈추면 코드 리뷰 실력도 떨어진다 | GeekNews](https://news.hada.io/topic?id=37534)
   * 어느 분야든 실력은 직접 연습해야 유지되는데 소프트웨어 엔지니어링만 "연습을 멈춰도 실력이 는다"고 착각한다는 주장. 기타리스트가 연주를 그만두고 남에게 지시하고 듣기만 하거나, 작가가 쓰기를 멈추고 AI가 쓴 글만 읽으며 피드백만 한다면 실력이 떨어질 것이라는 비유—"Claude가 만든 코드를 전부 리뷰한다"로는 부족하고, 실제로는 절반도 읽지 않게 됨
   * 코드 작성이 엔지니어링의 전부는 아니어도 좋은 코드를 알아보려면 계속 써봐야 하고, 문제 해결 능력도 연습을 멈추는 순간 정체. LLM에 반복 의존하면 "어렵고 노력이 드는 일은 시도조차 하지 말라"는 습관이 뇌에 새겨져 배움과 장인 정신, 즐거움이 사라진다고 경고
+* [김성완 - 소프트웨어는 이제 '자산'이 아니라 '종이컵'이다 | Facebook](https://www.facebook.com/seongwan.kim.3/posts/pfbid0hUh1kYQznjGYie8AuW7QmfoyCqeoGg6Qt6iJzDUroBuH7hobGfWFM9qWrG6mqStwl)
+  * "엔지니어링은 코딩이 전부가 아니니 살아남는다"는 위안은 낡은 틀 안의 시야라는 주장. 구현 비용이 0에 수렴하면 소프트웨어의 물성이 바뀜—①오래 관리하는 자산에서 쓰고 버리는 일회용 소모품으로(유지보수가 필요 없는 소프트웨어) ②고정비를 N분의 1로 나누려던 상품화의 수고가 사라지고 내 상황에 딱 맞는 도구를 즉석에서 만들어 혼자 씀 ③세무사·제조 현장 관리자·임상의·법률가처럼 도메인을 꿰고 있는 사람이 개발자를 거치지 않고 직접 도구를 만듦
+  * 거대 인프라·미션 크리티컬 영역에는 극소수 하이엔드 엔지니어링이 남고, 나머지 대부분은 도메인 전문가가 도구를 빚어 쓰고 버리는 소모품의 세계로 재편된다는 전망. 기획자와 개발자가 다투는 중간 지대의 상당수는 애초에 제품으로 만들 필요가 없어지고 있다고 봄
 * [2603.21439 LLM-Powered Workflow Optimization for Multidisciplinary Software Development](https://arxiv.org/abs/2603.21439)
   * [AGI KR](https://www.facebook.com/groups/255834461424286?multi_permalinks=2911883062486066)
   * Volvo Group 사례: 그래프 기반 워크플로우 최적화로 API당 개발 시간 5시간→7분, 총 979시간 절감. F1 93.7%. FSE 2026 Industrial Track 채택
