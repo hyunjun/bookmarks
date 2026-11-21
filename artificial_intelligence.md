@@ -5854,6 +5854,9 @@ Artificial Intelligence
 * [PentAGI — Penetration Testing AGI](https://pentagi.com/)
   * [pentagi](https://github.com/vxcontrol/pentagi)
   * 자율 AI 기반 자동 침투 테스트. Docker 샌드박스, 20+ 보안 도구, Neo4j 지식 그래프, 벡터 DB 장기 메모리. 10+ LLM 프로바이더 지원
+* [pentest-agents: Bug bounty agent framework for Claude Code, Codex, Gemini, Cursor, Windsurf, Copilot, and OpenClaw — 48 agents, 26 commands, 19 CLI tools, 2 MCP servers, autonomous hunt loops, exploit chain builder](https://github.com/H-mmer/pentest-agents)
+  * 버그 바운티 헌팅용 에이전트 프레임워크. 구체적 페이로드를 갖춘 헌팅 방법론, 7개 질문 게이트로 발견 사항 검증, 자율 헌트 루프, A→B 익스플로잇 체인 구성, 엔드포인트를 추적하는 영속 '브레인', 훅 기반 비용 추적, HackerOne 등 바운티 플랫폼 연동 MCP 서버로 구성
+  * `scaffold.py`가 프로그램별 작업 공간을 만들고 `/sync`·`/brain init`·`/hunt <도메인>` 순으로 진행. 설치기가 Claude Code 형식의 에이전트·명령·규칙·MCP 설정을 Codex·Gemini·Cursor·Windsurf·VS Code Copilot·OpenClaw 각자의 네이티브 형식으로 변환해 배포(서브에이전트 개념이 없는 도구에는 스킬·규칙으로 렌더링)
 * [pentest-ai · find it. chain it. prove it.](https://pentestai.xyz/)
   * [pentest-ai-agents](https://github.com/0xSteph/pentest-ai-agents)
   * 자율 침투 테스트 CLI. 3단계(서브도메인·지문→12개 전문 에이전트 취약점 탐지→발견 체이닝) 자동화. 웹앱·API·클라우드 커버, ~191개 보안 도구, SARIF/PDF/JUnit 리포트, CI/CD 통합. 무료 오픈소스+유료 티어
