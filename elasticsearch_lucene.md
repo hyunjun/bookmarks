@@ -707,6 +707,10 @@ ElasticSearch - Lucene
   * [KOMORAN 3.0 beta](http://shineware.tistory.com/entry/KOMORAN-30-beta)
   * [3.2.0](https://github.com/shin285/KOMORAN/releases/tag/3.2.0)
   * [PyKOMORAN - wrapped KOMORAN in Python using Py4J. https://pydocs.komoran.kr ](https://github.com/shineware/PyKOMORAN)
+* KURE-Sparse-nano [nlpai-lab/KURE-Sparse-nano · Hugging Face](https://huggingface.co/nlpai-lab/KURE-Sparse-nano)
+  * [0.1B 모델이 6배 큰 임베딩 모델을 압도했습니다. 직접 적용해 본 결과를 공유합니다 | Jeffrey Dongkyu | LinkedIn](https://www.linkedin.com/posts/jeffrey-dongkyu_01b-%EB%AA%A8%EB%8D%B8%EC%9D%B4-6%EB%B0%B0-%ED%81%B0-%EC%9E%84%EB%B2%A0%EB%94%A9-%EB%AA%A8%EB%8D%B8%EC%9D%84-%EC%95%95%EB%8F%84%ED%96%88%EC%8A%B5%EB%8B%88%EB%8B%A4-%EC%A7%81%EC%A0%91-%EC%A0%81%EC%9A%A9%ED%95%B4-%EB%B3%B8-%EA%B2%B0%EA%B3%BC%EB%A5%BC-ugcPost-7528087656493121536-SM6q/)
+    * AutoRAG 에이전트를 만들며 저사양 PC(8GB RAM 윈도우, M1 맥북 에어)에서도 도는 로컬 검색이 필요해 Dense 임베딩(Qwen3-Embedding-0.6B)을 SPLADE 계열인 KURE-sparse-nano로 대체한 후기. 자기 문서(주로 한국어) 대상 수백 쿼리 평가에서 비슷한 쿼리 속도·훨씬 적은 메모리(추론 시 1.5GB 미만)로 더 높은 검색 성능. LanceDB 인덱싱과 inverted index를 Rust로 구현해 AutoRAG Agent에 넣어 둠
+  * 한국어·영어를 지원하는 0.1B 학습형 희소 검색(LSR) 모델. 벡터가 36,282개 고정 어휘 위에 놓여 역색인으로 색인할 수 있고 매칭된 용어를 확인 가능. 최대 8,192 토큰 문서, 쿼리당 평균 147개·문서당 843개 차원만 활성. MTEB(kor, v2) Retrieval 평균 nDCG@10 0.7716으로 0.5B 미만 한국어 지원 희소 모델 중 최고이며 훨씬 큰 dense 모델도 앞섬. Sentence Transformers `SparseEncoder`와 KURE API로 사용
 * [Lyra: Disrupting full Text Search industry with JavaScript - YouTube](https://www.youtube.com/watch?v=B0MfK-rBK90)
 * [Manticore Search – Open-source database for search applications – Manticore Search](https://manticoresearch.com/homepage/)
   * [es2ms: Elasticsearch -> Manticore Search data migration tool](https://github.com/manticoresoftware/es2ms)
