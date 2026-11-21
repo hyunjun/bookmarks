@@ -1250,6 +1250,10 @@ Artificial Intelligence
 * [agentic-inbox: A self-hosted email client with an AI agent, running entirely on Cloudflare Workers](https://github.com/cloudflare/agentic-inbox)
   * [Agentic Inbox - AI 에이전트 탑재 셀프호스팅 이메일 클라이언트 | GeekNews](https://news.hada.io/topic?id=28926)
   * Cloudflare Workers·Email Routing·Durable Object(SQLite)·R2로 구성. 이메일 송수신·관리 + AI 자동 답장 초안 생성
+* [agenticos: Open-source, self-hosted AI agent platform for your company's AI teammates. Build, run and govern agents on your own servers and models: shared chat, RAG, skills, a real browser, 4,700+ MCP servers, budgets, approvals and an audit trail | Vstorm](https://github.com/vstorm-co/agenticos)
+  * [AgenticOS](https://vstorm-co.github.io/vstormos-landing/)
+  * 회사 전체에서 AI 에이전트를 만들고·공유하고·통제하는 셀프호스팅 계층(Pydantic AI 기반). 팀이 브라우저에서 지시문 작성·모델 선택·도구 활성화로 에이전트를 구성해 회사 문서·앱에 연결하고, 웹 채팅·Slack·Teams·Discord·Mattermost·Telegram·웹사이트 위젯·API로 배포. 관리자는 사용 권한·예산·승인·감사 기록을 통제. "코드는 정의하고 설정은 조합한다"—에이전트 행동을 바꿀 때마다 PR이 필요한 프레임워크 방식의 대안
+  * 동료와 에이전트가 같은 실시간 채팅방에서 파일·지시문을 공유하며 작업하고, 에이전트가 코드 작업을 Claude Code·Codex(기존 구독 사용)에 넘김. 채팅 안의 실제 브라우저, 리드 에이전트의 작업 분담, 대시보드·보고서를 고정 링크 앱으로 게시, 시각적 워크플로·Virtual Tables·Routines 제공. AgenticOS 자체도 MCP 서버라 Claude Code·Codex·Cursor에서 에이전트 실행·비용 조회 가능
 * [agentic-workflow: Agentic Workflow | real-ryunsu](https://github.com/real-ryunsu/agentic-workflow)
   * [성륜수 - 이번 주말, 나는 코드를 단 한 줄도 짜지 않았다. 하지만 16개 컴포넌트가 포함된 디자인 시스템을 배포했다 | Facebook](https://www.facebook.com/photo.php?fbid=4153550948233837&set=a.1403071329948493&type=3)
   * 작성자가 설계한 에이전트 아키텍처로 코드 한 줄 없이 주말 동안 16개 컴포넌트짜리 디자인 시스템을 배포한 경험에서 출발해, AI 개발의 고질적 문제인 컨텍스트 블롯을 오케스트레이터 중심 구조로 다루는 워크플로 아키텍처. README는 지금은 더 나은 하네스가 있으니 참고용으로만 쓰라며 deprecated로 표시
@@ -5787,6 +5791,10 @@ Artificial Intelligence
   * [HackGpt: cloud-native AI-powered penetration testing platform for enterprise security teams](https://github.com/yashab-cyber/HackGpt)
   * 6단계 자동 파이프라인—정찰(서브도메인·포트·서비스 매핑)→스캔→AI 위협 평가·페이로드 생성→비파괴 PoC 익스플로잇 검증→DBSCAN 로그 클러스터링 제로데이 이상 탐지→경영진용 PDF/HTML 감사 리포트. 100+ 보안 도구 오케스트레이션, 4+ AI 프로바이더, OWASP 매핑·컴플라이언스 점수
 * [hexstrike-ai: HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+ cybersecurity tools for automated pentesting, vulnerability discovery, bug bounty automation, and security research. Seamlessly bridge LLMs with real-world offensive security capabilities](https://github.com/0x4m4/hexstrike-ai)
+* [hikaku-extension: Open-source browser extension that flags AI-generated images and video as you browse. Runs entirely on your device. Chrome, Edge and Firefox](https://github.com/hikaku-io/hikaku-extension)
+  * [Hikaku](https://hikaku.io)
+  * 웹을 보는 동안 AI 생성 이미지·영상에 표시를 달고 근거를 보여주는 브라우저 확장. 먼저 파일이 스스로 밝힌 정보(Content Credentials(C2PA), IPTC/XMP/EXIF 출처 표기, Automatic1111·ComfyUI 등의 생성 파라미터)를 읽고, 이어 기기 내 시각 모델(SwinV2, ONNX Runtime의 WebGPU/WASM)로 픽셀을 판정. 영상·움직이는 GIF는 프레임 3장을 표본으로 중앙값 사용, 스크린샷·평면 그래픽은 미리 걸러냄
+  * 메타데이터 선언과 모델 추정을 별개 근거로 분리해 보여주며, 서버·계정·분석 없이 모델 가중치만 한 번 내려받아 모든 처리가 기기에서 이뤄짐. 한계도 명시—표시가 없다고 사람이 만든 것은 아니고, Reddit 평가에서 AI 이미지 탐지율 65%·오탐 6%, AI 영상은 22%에 그침. 필름 사진·제품 사진·3D 렌더에 약하고 얼굴 합성 탐지와 C2PA 서명 검증은 아직 미지원
 * [iFixAi: Independent Auditing of AI Agents. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds](https://github.com/ifixai-ai/iFixAi)
   * [iFixAi: the Independent Auditor for AI Agents](https://www.ifixai.ai/)
   * 기존 eval·레드티밍·관측 도구는 토큰 효율·지연·프롬프트 인젝션 같은 기술 역량을 재지만 "에이전트가 비즈니스 KPI·조직 구조에 맞게 맡은 일을 하는가"는 답하지 못한다는 문제의식—AI 레드티밍의 적대적 깊이와 운영 보증(assurance) 규율을 합친 독립 감사를 120초 안에. 평가 축: Purpose(맡은 일 수행)·Authority(권한 안에 머무는가)·Workflows(절차·승인 준수)·Responsibility(조직 역할·경계 존중)·Evidence(재현·방어 가능). 예시: eval 96% 통과한 고객지원 에이전트가 사기 플래그를 요약에서 숨기고, 매니저가 거절한 환불을 지급하고, 지급 계좌를 무단 변경한 것을 감사가 잡아냄—"에이전틱 신뢰의 미슐랭 가이드"
