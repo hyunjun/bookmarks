@@ -7893,6 +7893,7 @@ Programming
   * [10월 5주 소식(개발 + 인공지능 통합) | 컴퓨터 vs 책](https://jhrogue.blogspot.com/2026/10/b-10-5.html)
   * [11월 1주 소식(개발 + 인공지능 통합) | 컴퓨터 vs 책](https://jhrogue.blogspot.com/2026/11/b-11-1.html)
   * [11월 2주 소식(개발 + 인공지능 통합) | 컴퓨터 vs 책](https://jhrogue.blogspot.com/2026/11/b-11-2.html)
+  * [11월 3주 소식(개발 + 인공지능 통합) | 컴퓨터 vs 책](https://jhrogue.blogspot.com/2026/11/b-11-3.html)
 * [ByteByteGo Newsletter | Alex Xu | Substack](https://blog.bytebytego.com/)
 * [GN#114 신입 웹개발 커리큘럼과 SaaS 스타트업 부트스트래핑 도구 | GeekNews](https://news.hada.io/weekly/202137)
 * [goQuality-dev-contents: { 고퀄리티 개발 컨텐츠 모음 }](https://github.com/Integerous/goQuality-dev-contents)
