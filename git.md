@@ -366,6 +366,12 @@ Git
 * [Federation of Forges | Tangled Blog](https://blog.tangled.org/federation/)
   * [포지의 연합이 필요하다 | GeekNews](https://news.hada.io/topic?id=29030)
   * git+AT Protocol 기반 분산 오픈소스 협업. git 서버를 "knots"로 연결, 크로스 서버 저장소 협업·포킹·PR 지원. ForgeFed(ActivityPub) 대안으로 AppView 아키텍처, 개인 데이터 저장소 분리
+* [Git은 이러라고 만든 게 아님 | Scion & Pando | 개발동생 - YouTube](https://www.youtube.com/watch?v=iysCcCRKZA4)
+  * [Redesigning source control | Anthropic](https://www.anthropic.com/research/redesigning-source-control)
+  * [Scaling Git at OpenAI](https://openai.com/index/scaling-git-at-openai/)
+  * 에이전트가 하루 PR 3만 개를 합치고 CI가 하루 2,500만 번 코드를 받아 가는 규모에서 Git이 벽을 만난 이유와 두 회사의 해법 비교. Git은 리누스가 흩어진 개발자의 수정본을 합치려고 만든 도구라 전체 이력을 모두가 들고 다니고 계산도 각자 하는 전제가 깔려 있음—shallow·sparse·partial clone 같은 '다이어트'로는 한계
+  * Anthropic의 Scion은 Git을 버리고 필요한 것만 받고 계산·커밋을 서버가 하게 해 서버 CPU·메모리를 200분의 1로 줄였지만 오프라인 작업은 포기. OpenAI의 Pando는 Git 명령은 그대로 두고 서버를 새로 만들어 push 시간을 5분의 1로(엔지니어 한 명 설계+Codex 구현 10주), 대신 여러 브랜치를 한꺼번에 본 일관성 보장과 객체 중복 전송을 감수. 공통점은 모노레포와 메인 브랜치 하나
+  * 대부분의 팀은 Git을 계속 써도 되고, 그 규모에서 실제로 막히는 곳은 따로 있음—에이전트마다 git worktree로 작업 공간 분리, CI는 바뀐 부분만 돌리고 겹치는 실행 취소, 줄 단위 대신 의도 기반 코드 리뷰
 
 # Action
 * [GitHub Actions 소개](https://blog.outsider.ne.kr/1412)
