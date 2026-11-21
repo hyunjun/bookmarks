@@ -73,6 +73,12 @@ Time Series
   * Tao Wu·Kazuyuki Aihara·Jürgen Kurths 등. 동역학계 이론과 ML을 결합한 결측치 복원 프레임워크 FPRM(Full-Partial Reconstruction Mapping). 시계열 간 상호의존을 직접 피팅하는 대신 Takens embedding theorem에 따라 완전 관측된 단 하나의 변수로 상태공간(끌개)을 재구성하고, 결측 변수의 끌개와의 diffeomorphic 매핑을 Gaussian Process Regression으로 학습
   * 변수 하나만 완전 관측되고 나머지 전부가 90% 결측인 고차원 시스템(120차원 Lorenz·Rössler)에서도 다수 변수를 신뢰성 있게 복원—기존 방법들이 못 하던 과제. 생태계·Lorenz 모델과 교통 점유율·EEG·환율·풍속 실데이터에서 검증
   * 공유자(김재경)가 짚은 한계: Takens 정리에는 성립 조건이 있고 결측치의 정확한 복원을 보장하는 정리는 아님. 성능 향상이 동역학 구조 덕인지 여러 시점 관측값을 함께 쓴 덕인지 더 구분해 볼 필요
+* [Learning dissipative chaotic dynamics with boundedness guarantees | PNAS](https://www.pnas.org/doi/abs/10.1073/pnas.2533077123)
+  * [dissipative_chaos: Learning Dissipative Chaotic Dynamics with Boundedness Guarantees | azizanlab](https://github.com/azizanlab/dissipative_chaos)
+  * ["AI 예측은 물리적 한계를 벗어나지 않는다"…MIT, 혼돈계에서도 안정성 보장하는 머신러닝 기술 오픈소스로 | 인공지능신문](https://www.aitimes.kr/news/articleView.html?idxno=42835)
+  * MIT의 Sunbochen Tang·Themistoklis Sapsis·Navid Azizan. 기상·난류 같은 혼돈계를 학습한 신경망이 장기 롤아웃에서 궤적이 무한히 발산해 통계가 무의미해지는 문제를, 궤적의 유계성(boundedness)을 수학적으로 보장하는 모듈형 프레임워크로 해결. 동역학 에뮬레이터와 에너지 유사 함수를 함께 학습하고, 제어 이론에 기반한 '소산 투영 계층'이 학습된 경계 밖에서 에너지 값이 줄도록 강제해 궤적을 유한 영역으로 되돌림
+  * 손실 함수에 벌점을 주는 연성 제약이 아니라 계산 구조에 넣은 강성 제약이라 학습 때 못 본 상태에서도 성립하고, 값에 임의 상한을 씌우는 방식과 달리 복잡한 움직임은 그대로 학습. 학습된 불변 수준 집합은 이상 끌개의 바깥 추정치가 됨. Lorenz 96과 Kuramoto–Sivashinsky 축소차수 모델 등에서 유계 궤적과 장기 통계 재현을 확인, 투영 계층은 다른 신경망 구조에도 붙일 수 있음
+  * 한계(기사): 보장되는 것은 유계성뿐이며 매 시점의 정확한 일치나 에너지 보존까지 보장하지는 않고, 검증은 연구용 혼돈계 모델 수준으로 대규모 실제 기상 예측에는 아직 적용 전
 
 # Book
 * [Deep Learning for Time Series Forecasting - Predict the Future with MLPs, CNNs and LSTMs in Python](https://machinelearningmastery.com/deep-learning-for-time-series-forecasting/)
