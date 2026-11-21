@@ -1965,6 +1965,10 @@ App
     * [ffmpeg buddy](https://evanhahn.github.io/ffmpeg-buddy/)
     * [ffmpeg-screen-record-agent: ffmpeg을 이용한 화면 녹화 에이전트](https://github.com/ryujt/ffmpeg-screen-record-agent)
       * [10bun.tv](http://ffmpeg-screen-record-agent.s3-website.ap-northeast-2.amazonaws.com/) FFmpeg를 이용한 화면녹화 모듈 개발
+    * [ffmpeg-skill: Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys](https://github.com/kajisho5/ffmpeg-skill)
+      * 코딩 에이전트(Claude Code·Cursor·Codex 등 SKILL.md를 읽는 에이전트, MCP 클라이언트)에게 로컬 FFmpeg 기반 영상 편집기를 쥐여 주는 Agent Skill. 자르기·이어 붙이기·무음 제거·길이와 화면비 맞추기·자막과 가라오케·오버레이·음량 정규화·플랫폼별 내보내기 등 42개 도구를 제공하며 클라우드·API 키 없이 `ffmpeg`와 `python3`만 있으면 동작
+      * "FFmpeg를 아는" 에이전트가 프레임률을 가정하고 결과를 열어보지 않은 채 완료를 보고하는 문제를 겨냥—probe로 실제 파일을 먼저 측정 → 가능하면 무손실 편집 → 결과물을 다시 probe해 길이·해상도·오디오를 확인하는 고정 흐름. 에이전트는 셸 문자열 대신 `--aspect 9:16` 같은 타입 있는 옵션만 넘기고, 도구별 입력·출력·검증 방법을 `contract --json`으로 읽음. 원본 파일 덮어쓰기는 거부
+      * 편집 뒤 각 단계와 검사 결과, 플랫폼 안전 영역을 씌운 결과물을 보여주는 로컬 리뷰 페이지 생성. `npx ffmpeg-skill setup`으로 설치하고 `doctor`로 FFmpeg 구성 요소 점검
     * [FFMPEG.WASM](https://ffmpegwasm.github.io/)
       * [FFmpeg.wasm을 활용하여 웹에서 GIF 및 MP4 파일를 변환해보자 | by Jusung Hwang | Aug, 2021 | Medium](https://nabigraphics.medium.com/ffmpeg-wasm%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%98%EC%97%AC-%EC%9B%B9%EC%97%90%EC%84%9C-gif-%EB%B0%8F-mp4-%ED%8C%8C%EC%9D%BC%EB%A5%BC-%EB%B3%80%ED%99%98%ED%95%B4%EB%B3%B4%EC%9E%90-8fad6e873008)
     * [Shotcut - Home](https://shotcut.org/)
