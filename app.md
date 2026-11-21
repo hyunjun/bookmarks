@@ -2015,6 +2015,10 @@ App
 * 절전 모드 방지
   * Amphetamine
   * caffeinate [맥용 잠자기 방지 도구 caffeinate](https://seorenn.tistory.com/61)
+  * [ClamDown: Keep coding agents working on a MacBook with the lid closed. Free menu bar app: no sleep, fan control by CPU temperature, screen lock, battery and heat cut-offs](https://github.com/delef/ClamDown)
+    * [ClamDown: keep your MacBook working with the lid closed](https://clamdown.app)
+    * 덮개를 닫아도 Claude Code·Codex 같은 에이전트가 계속 돌게 하는 메뉴 막대 앱. `caffeinate`류의 전원 어서션은 덮개를 닫으면 무시되고(외부 디스플레이·전원 연결 시 제외), 깨어 있게만 하는 앱은 닫힌 맥북의 팬이 거의 돌지 않아 과열·방전 위험이 남는다는 점을 겨냥—덮개 닫힘 시 잠자기 방지, CPU 온도에 따른 팬 곡선 제어(Apple Silicon), 화면 잠금
+    * 배터리 하한·발열 단계·타이머·전원 분리 시 스스로 꺼져 잠자기로 돌리고, 루트 헬퍼의 워치독이 앱이 죽거나 멈추면 잠자기·저전력 모드·팬 설정을 원래대로 복구
   * [dontsleep: Keep the Mac awake with the lid closed](https://github.com/innocarpe/dontsleep)
     * [맥북 뚜껑을 닫아도 Claude Code 세션이 끊기지 않도록 만든 DontSleep | Wooseong Kim](https://kr.linkedin.com/posts/wooseong-kim_github-innocarpedontsleep-keep-the-mac-activity-7494435145022885888-Aa5O)
   * [**KeepingYouAwake - A Caffeine clone for OS X Yosemite (and Dark Mode)**](https://github.com/newmarcel/KeepingYouAwake)
