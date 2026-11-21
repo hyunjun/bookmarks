@@ -1673,6 +1673,11 @@ Web
   * Xint가 찾은 nginx 비인증 원격 코드 실행 취약점 5개(각각 독립적으로 워커 권한 명령 실행)와 Linux SCTP 커널 취약점 1개. 둘을 이으면 호스트 root 확보와 Docker 컨테이너 탈출까지 가능. 가장 광범위한 CVE-2026-123007은 HTTP/2 흐름 제어의 정수 연산 오류로, HTTP/2가 켜진 1.9.5~1.31.8 전 릴리스에 해당. 나머지는 요청 시 DNS 조회(resolver+mirror), HTTP/2·HTTP/3 업스트림 전달, 메일 프록시 설정에서 발생
   * 대응: stable 1.30.7 또는 mainline 1.31.9 이상으로 올리고 재시작으로 실행 중인 바이너리까지 교체(리로드만으로는 부족). HTTP/2를 끄는 것은 5개 중 2개만 차단하며 커널 취약점은 별도 대응. 배포판 백포트 때문에 `nginx -v`만으로는 패치 여부를 알 수 없어 전체 패키지 버전과 보안 공지를 대조해야 함
   * 공격에 쓰이는 HTTP/2 제어 프레임은 접근 로그에 남지 않으므로, 수신량만 급증하는 장시간 연결, 워커의 외부 프로그램 실행(auditd로 execve 감시), 워커 비정상 종료 같은 신호를 함께 조사하라고 안내
+* [Unauthenticated Remote Code Execution in NGINX: CVE-2026-123633 and CVE-2026-123007 | Wiz Blog](https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities)
+  * [NGINX HTTP/2 처리에서 인증 없이 원격 코드 실행 가능한 취약점 발견 | GeekNews](https://news.hada.io/topic?id=37417)
+  * Wiz Research·Ikotas Labs·Metnir·Rapid7·Xint가 독립적으로 찾은 NGINX의 Critical(CVSS 4.0 9.2) 비인증 원격 코드 실행 취약점 2건. 둘 다 HTTP/2 활성화가 전제이고 결함이 NGINX 자체에 있어 애플리케이션 코드가 안전해도 영향. CVE-2026-123633은 HEADERS 프레임을 일부만 받은 연결이 요청 시작 뒤에도 '재사용 가능' 목록에 남아, 업스트림 연결 슬롯이 부족할 때 닫히면서 생기는 해제 후 사용
+  * CVE-2026-123007은 스트림 취소 시 전송 윈도 복원이 최대치를 검사하지 않아 생기는 정수 언더플로→범위 밖 메모리 복사로, 2015년 1.9.5부터 존재했고 정적 파일만 제공하는 서버에서도 ASLR을 우회한 코드 실행 확인. 수정 버전은 1.30.7 stable·1.31.9 mainline, 즉시 업그레이드가 어렵다면 HTTP/2 임시 비활성화
+  * Wiz는 AI 코드 스캐닝 하네스 Wiz Atlas로 두 결함을 찾고 Gemini 4 Carbon·ChatGPT 5.6 Sol로 영향을 검증—10년 넘게 숨어 있던 메모리 안전성 결함을 여러 팀이 동시에 찾은 것을 두고, 발견·악용을 어렵게 하던 복잡성 장벽을 AI가 허물고 있다고 평가
 * [Angie - drop-in replacement for Nginx](https://github.com/webserver-llc/angie)
   * [Добро пожаловать — документация Angie 1.0.0](https://angie.software/)
 * [bunkerized-nginx: nginx Docker image secure by default](https://github.com/bunkerity/bunkerized-nginx)
