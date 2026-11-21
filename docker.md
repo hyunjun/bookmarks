@@ -3528,6 +3528,9 @@ Docker
   * 쿠버네티스 감사 로그를 베이스라이닝해 실전 탐지 규칙을 만드는 방법
 * [Docker Sandboxes: The New Standard for Running AI Agents Safely | raeveen](https://blog.raeveen.dev/docker-sandboxes-the-new-standard-for-running-ai-agents-safely)
   * Claude Code·Gemini CLI·Copilot CLI·Codex 같은 AI 코딩 에이전트가 프로덕션 도구가 된 시대에 Docker Sandboxes로 에이전트를 격리 실행하는 방법
+* [에이전트 시대에 꼭 필요한 컨테이너 샌드박싱 전략 | Sionic Tech Blog](https://blog.sionic.ai/agent-sandboxing-strategy)
+  * 송명하. AI가 생성한 코드와 주입된 프롬프트가 컨테이너 안에서 실행되는 환경에서 과하게 걱정하는 것과 반드시 막아야 할 것을 gVisor·Kata Containers·SecurityContext·NetworkPolicy·RBAC을 직접 시험하며 구분. `/etc/passwd` 읽기는 단독 위험은 낮지만 공격 초기 신호, 내부망 SSRF는 Capital One 사례처럼 계정 탈취로 이어지는 실제 벡터, 컨테이너 root는 user namespace를 켜지 않으면 호스트 root와 같고, RBAC은 `automountServiceAccountToken: false`와 최소 권한이 기본
+  * 확실히 위험한 두 가지는 네트워크를 통한 횡적 이동·데이터 유출(egress)과 커널 익스플로잇을 통한 컨테이너 탈출—NetworkPolicy가 유출 차단의 첫 방어선이고, 에이전트 워크로드 격리는 gVisor가 사실상 표준, 하드웨어 격리가 필요하면 Kata Containers. 그 위에 PSS Restricted, seccomp 프로파일(io_uring 계열 제외), readOnlyRootFilesystem+emptyDir, 런타임 모니터링을 겹침
 * anchore
   * [How to perform security scan with grype and syft ? learn in 20 min#devops #docker #maven - YouTube](https://www.youtube.com/watch?v=EhDuxQ4uepk)
   * [grype: A vulnerability scanner for container images and filesystems](https://github.com/anchore/grype)
