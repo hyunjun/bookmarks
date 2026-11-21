@@ -3440,6 +3440,10 @@ App
 * [treemd: A (TUI/CLI) markdown navigator with tree-based structural navigation.](https://github.com/Epistates/treemd)
 * [turndown: An HTML to Markdown converter written in JavaScript](https://mixmark-io.github.io/turndown/)
   * [turndown](https://github.com/mixmark-io/turndown)
+* [Vaultite - Private, open source notes for you and your AI](https://vaultite.com/)
+  * [vaultite: Own your memories. A fast and local AI native knowledge base, in plain Markdown files. A free and open source Obsidian/Notion alternative](https://github.com/Vaultite/vaultite)
+  * 사람과 AI 에이전트가 함께 쓰는 로컬 Markdown 노트 앱(오픈소스 Obsidian 대안). 데이터베이스 없이 폴더 속 Markdown 파일이 곧 볼트라 다른 앱·grep·git·iCloud와 그대로 호환되고, 페이지와 지식 그래프로 보여줌. 기존 Obsidian 볼트를 그대로 열 수 있고 Dataview·Templater·Tasks·Excalidraw·Kanban 등 커뮤니티 플러그인 다수가 동작
+  * Claude Code·Codex와 MCP 클라이언트가 `vau` CLI·MCP·HTTP의 같은 연산으로 볼트를 읽고 쓰며, ChatGPT·Claude 등은 웹·휴대폰에서 커넥터로 볼트에 기록. 노트마다 사람·AI·혼합·검토됨 표시를 달 수 있고, AI 스위치를 끄면 아무것도 스스로 실행되지 않음. 계정·텔레메트리 없음, 파일 트리까지 모든 기능이 플러그인, 에이전트용 터미널·브라우저 내장
 * [VNote - A note-taking application that knows programmers and Markdown better](https://vnotex.github.io/vnote)
 * [Zettlr | A Markdown Editor for the 21st Century](https://www.zettlr.com/)
 
