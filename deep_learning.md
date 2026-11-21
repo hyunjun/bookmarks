@@ -3146,6 +3146,10 @@ CVPR2016)
 * [Redream: Realtime Diffusion, using Automatic1111 Stable Diffusion API](https://github.com/Fictiverse/Redream)
 * [Scribble Diffusion](https://scribblediffusion.com/)
   * [scribble-diffusion: Turn your rough sketch into a refined image using AI](https://github.com/replicate/scribble-diffusion)
+* [Shisei · Free mannequin pose reference: 1,200+ line-art views plus clay, depth and normal maps](https://shisei.indaloop.app)
+  * [shisei: Free CC0 mannequin pose reference library for AI image tools (Nano Banana, ChatGPT, ComfyUI, Midjourney) — 250+ poses × 5 angles in line art, names in ja/zh/en/ko](https://github.com/wquguru/shisei)
+  * AI 이미지 도구에 포즈·구도 참조로 넣는 얼굴 없는 마네킹 포즈 라이브러리. 포즈마다 정면·3/4·측면·위·아래 5개 카메라 각도의 선화로 제공해, 같은 포즈를 여러 각도로 넣으면 컷 사이 인물 일관성을 유지. 대부분의 뷰에 클레이·depth·normal 맵이 선화와 픽셀 정렬로 함께 있어 ControlNet에 바로 사용 가능
+  * 전신 표준·상반신·전신 섹시·2인 4개 시리즈 280개 포즈, 포즈 이름과 분류는 일본어·중국어·영어·한국어. 모든 뷰를 검수해 실패한 것은 제거하고 사유를 기록. 이미지는 CC0로 자유 이용, 섹시·2인 시리즈는 선정적 성인 포즈라 갤러리에서 기본 블러 처리
 * [stable diffusion 2.0 코랩+그라디오 웹앱으로 만들어보기 - YouTube](https://www.youtube.com/watch?v=HgKuI-Ye0YI)
   * [스테이블 디퓨전2.0 예제.ipynb - Colaboratory](https://colab.research.google.com/drive/1cZkXc8gw5lkc_tpz7dO85T0s1AfVCbOB)
   * [stable-diffusion-webui: Stable Diffusion web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
