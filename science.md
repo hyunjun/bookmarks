@@ -245,6 +245,9 @@ Science
   * [뇌과학자로서 이것만은 말리고 싶어요 | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5650836/5341187)
 * [Social Media Use Trajectories and Cognitive Performance in Adolescents | Adolescent Medicine | JAMA | JAMA Network](https://jamanetwork.com/journals/jama/article-abstract/2839941)
   * [미국 청소년의 경우, 9~13세 사이에 소셜 미디어 사용이 증가할수록 독해, 기억력, 어휘력, 종합 인지 능력 측정 점수가 낮아지는 것으로 나타났습니다](https://www.facebook.com/story.php?story_fbid=26188790160723181&id=100000566632124)
+* [인간과 침팬지 뇌, 가른 건 '고대 바이러스'였다 | 랑펀미디어](https://www.langfunmedia.com/articles/718016)
+  * 스웨덴 룬드대 연구팀(Science Advances)—수백만 년 전 침팬지 집단을 감염시킨 내인성 레트로바이러스 PTERV1의 잔해가 침팬지 유전체에 남아, 인간의 초기 뇌 발달에 중요한 LINC00662 유전자를 침팬지에서 꺼 놓았다는 연구. 줄기세포로 만든 뇌 오가노이드에서 이 유전자는 인간 쪽에서만 발현됐고, CRISPR로 침팬지 세포의 바이러스 서열을 제거하자 다시 발현
+  * 인간 오가노이드에서 이 유전자를 끄면 신경세포 발달·연결 형성 관련 유전자 활동이 감소. 두 종의 차이가 어떤 유전자를 가졌느냐가 아니라 어떤 유전자가 켜져 있느냐에서 올 수 있음을 시사
 * [Brain Maps](https://thehighestofthemountains.com/brainmaps.html)
   * [Tae Hyung Kim - 인간의 뇌가 어떻게 세상을 인식하고 배우는지를 이 인포그래픽스는 압축적으로 이야기하고... | Facebook](https://www.facebook.com/socialego/posts/pfbid0324G3k1bV4RCHQaDDgUriiYofG46ixBJAjn7NonmkSskNHgYqqNTjTVR2gvXcrrMDl)
 * [NeuroMatch Academy (NMA) Computational Neuroscience syllabus | NeuromatchAcademy/course-content](https://github.com/NeuromatchAcademy/course-content)
