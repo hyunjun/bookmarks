@@ -2862,6 +2862,10 @@ Docker
 * [StormForge Optimize](https://docs.stormforge.io/)
   * [How to Optimize Java Apps on Kubernetes  – The New Stack](https://thenewstack.io/how-to-optimize-java-apps-on-kubernetes/)
 * [Submariner k8s project documentation website](https://submariner.io/) 다중 Kubernetes 클러스터 연결, 서비스 디스커버리 제공
+* [substrate: Agent Substrate: the core system — Zero-trust sandboxing for millions of agents on Kubernetes](https://github.com/agent-substrate/substrate)
+  * [Agent Substrate](https://ate.dev/)
+  * 표준 Kubernetes 위에서 신뢰할 수 없는 에이전트·도구를 대량으로 돌리는 제로 트러스트 샌드박스 런타임(에이전트 SDK가 아님). 많은 수의 '액터'(상태를 가진 워크로드)를 적은 수의 준비된 '워커' 파드에 매핑—에이전트가 대부분 모델·도구·사람을 기다린다는 점을 이용해 쉬는 액터의 메모리·파일시스템을 스냅샷으로 내리고 요청이 오면 500ms 안에 복원, 일반 컨테이너 대비 10배 이상 밀도
+  * 보안 모델: 모든 액터를 gVisor 또는 Cloud Hypervisor microVM 안에서만 실행(일반 컨테이너 미지원), 액터별 단기 SPIFFE 인증서, 자격 증명은 샌드박스 밖 egress 게이트웨이가 승인된 요청에만 주입해 탈취할 것이 없게 함, 기본 차단 네트워킹, 교체 가능한 정책 집행 지점. OCI 이미지를 그대로 돌려 ADK·LangChain·Claude Code·Codex·MCP 서버를 SDK 변경 없이 수용하며 Google의 Agent Executor(AX)와 kagent가 이 위에서 동작
 * [Talos Linux](https://www.talos.dev/)
   * [K3s vs. Talos Linux: What’s the Difference? - Civo.com](https://www.civo.com/blog/k3s-vs-talos-linux)
   * [K3s vs Talos Linux](https://www.cloudraft.io/blog/k3s-vs-talos-linux)
