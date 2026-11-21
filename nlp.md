@@ -2921,6 +2921,9 @@ NLP
   * [vLLM과 SGLang의 내부를 소스 코드로 따라가면서 살펴본 글을 블로그에 작성했다 | Jongsu Kim](https://kr.linkedin.com/posts/jongsu-kim-63458347_inside-vllm-%EC%84%9C%EB%B2%84-%EC%8B%9C%EC%9E%91%EB%B6%80%ED%84%B0-kv-cache%EA%B9%8C%EC%A7%80-%EC%86%8C%EC%8A%A4-%EC%BD%94%EB%93%9C-%ED%86%BA%EC%95%84%EB%B3%B4%EA%B8%B0-activity-7522180136696320000-dk7J)
   * vLLM v0.32.0: 요청을 하나씩이 아니라 step 단위로 묶어 GPU forward 한 번에 여러 요청을 처리(prefill·decode가 한 step에 섞임), API 서버와 EngineCore 프로세스가 ZMQ로 통신. 서버 초기화 6단계(포트 바인딩→CLI→VllmConfig 해석→AsyncLLM 클라이언트·ZMQ 소켓→핸드셰이크로 EngineCore 기동→모델 로드·프로파일링으로 KV 캐시 할당·스케줄러→Uvicorn), 채팅 요청의 토큰화→스케줄링→forward→디토크나이즈, 기본 16토큰 고정 블록의 PagedAttention식 KV 관리와 기본 활성화된 1급 기능 prefix caching(O(1) 큐를 위한 자체 이중 연결 리스트), step N 실행 중 N+1을 플레이스홀더로 계획하는 async scheduling, 패딩 없이 여러 요청의 토큰을 한 배치에 넣고 slot mapping·block table로 요청별 KV 블록을 연결하는 배치 구조
   * SGLang v0.5.22: KV 캐시를 요청별 임시 메모리로 보고 prefix caching을 얹은 vLLM과 달리 요청 간 재사용을 위한 영구 저장소로 다룬다는 근본 차이—main(HTTP)·scheduler(GPU)·detokenizer 3프로세스를 ZeroMQ로 연결해 토큰화·디토큰화를 독립 확장, RadixAttention의 radix tree가 토큰 수준 prefix 공유와 분기점 동적 노드 분할로 16토큰 블록 해시보다 세밀한 재사용, 프로파일링 대신 `mem_fraction_static` 보수적 비율로 KV 크기 결정(시작은 빠르지만 간헐적 OOM 위험)과 `new_token_ratio`로 메모리 수요 예측 후 틀리면 retraction, prefill(EXTEND)·decode(DECODE)를 기본 분리해 새 요청 prefill 우선(vLLM은 섞어 decode 지연을 고르게), full·sliding-window·Mamba(SSM) 레이어가 메모리 풀은 따로 두되 논리 캐시 구조는 공유하는 컴포넌트 기반 하이브리드 어텐션. 글의 계기는 두 엔진의 /health가 다른 이유(vLLM은 엔진 생존만, SGLang은 토큰 1개를 실제 생성해 보고 준비 여부는 /ready로 따로)와 vLLM 질문에 깊이 답하지 못한 경험
+* [Transformer와 Context Parallelism | Jongsu Liam Kim](https://blog.liam.kim/posts/2026/11/Transformer-and-Context-Parallelism/)
+  * Kimi K3를 vLLM으로 띄우다 TP·PP·EP 조합으로는 성능이 안 나온 경험에서 출발해 context parallelism(CP)을 정리한 글. Transformer layer에서 attention은 토큰끼리 context를 주고받는 연산, FFN은 토큰별로 따로 하는 연산이라 맞는 병렬화 축이 다르고, TP는 head를 나누지만 KV cache는 GPU마다 통째로 복제된다는 점이 핵심(TP8이면 GPU마다 MLA query head 12개씩 맡지만 압축 KV 이력은 전부 저장)
+  * vLLM이 CP를 둘로 나눈 이유—PCP(Prefill CP)는 한 프롬프트의 토큰을 GPU들에 나눠 prefill 계산을 병렬화하고, DCP(Decode CP)는 그 프롬프트의 KV cache 저장을 GPU들에 나눔. 둘 다 head나 weight가 아니라 sequence 축을 따라 분할. prefill·decode의 텐서 형태와 agentic 워크로드의 부하 분포, PD disaggregation, pass-KV와 pass-Q 선택, 각각의 비용과 적용 조건, GLM-5.3·DeepSeek-V4.1-Flash·Kimi K3에 필요한지까지 검토
 * [Optimizing LLM Serving Efficiency: Moving Beyond KV Cache Reuse to Token-Load Awareness with Ray Serve LLM | Anyscale](https://www.anyscale.com/blog/llm-kv-token-aware-routing)
   * [Balancing KV Cache Reuse and Token Load in Ray Serve LLM | Jeffrey (Yu-Che) Wang | LinkedIn](https://www.linkedin.com/posts/jeffrey-yu-che-wang_optimizing-llm-serving-efficiency-moving-share-7498057959357374464-sHdv/)
   * Jeffrey Wang·Seiji Eicher·Kourosh Hakhamaneshi(Anyscale)·Rudy Pei(NVIDIA), 2026-08-25. vLLM 레플리카 플릿에서 라우터의 "다음 요청을 누가 받나"가 TTFT·TPOT·처리량을 좌우—LLM 서빙은 KV 캐시 재사용(상태성)·요청 이질성·예측 불가한 실행 비용 때문에 전통 마이크로서비스 라우팅(consistent hashing 등)과 근본적으로 다름. KV 캐시 적중률만 높인다고 지연이 줄거나 처리량이 늘지 않는다는 오해를 짚음
@@ -3306,6 +3309,13 @@ NLP
     * [A few words on DS4 | antirez](https://antirez.com/news/165)
     * [DS4에 대한 몇 마디 | GeekNews](https://news.hada.io/topic?id=29541)
     * antirez(Salvatore Sanfilippo) 자작 DeepSeek V4 Flash 특화 네이티브 추론 엔진. GGUF/llama.cpp 래퍼가 아닌 self-contained. Metal 주력(96/128GB MacBook), NVIDIA CUDA(DGX Spark), AMD ROCm(별도 브랜치). DS4 전용 로딩·프롬프트 렌더링·툴 호출·KV 상태(RAM/디스크), HTTP 서버 API, 통합 코딩 에이전트. GGUF/imatrix 생성 도구, 품질·속도 테스트. 512GB Mac Studio 클래스에서 DS4 PRO 실험 지원. C 64.2%
+* deleting-weights [The Surprising Effectiveness of Deleting Weights in LLM Post-Training | Agentic Learning AI Lab](https://agenticlearning.ai/deleting-weights/)
+  * [2611.10866 The Surprising Effectiveness of Deleting Weights in LLM Post-Training](https://arxiv.org/html/2611.10866)
+  * [deleting-weights: Public code release for the paper "The Surprising Effectiveness of Deleting Weights in LLM Post-Training"](https://github.com/agentic-learning-ai-lab/deleting-weights)
+  * [0.05% 미만의 가중치를 삭제한 것만으로도 풀 파인튜닝 이상의 효과를 낸다고 합니다 | Kiwoong Yeom | LinkedIn](https://www.linkedin.com/posts/kiwoong-yeom_005-%EB%AF%B8%EB%A7%8C%EC%9D%98-%EA%B0%80%EC%A4%91%EC%B9%98%EB%A5%BC-%EC%82%AD%EC%A0%9C%ED%95%9C-%EA%B2%83%EB%A7%8C%EC%9C%BC%EB%A1%9C%EB%8F%84-%ED%92%80-%ED%8C%8C%EC%9D%B8%ED%8A%9C%EB%8B%9D-%EC%9D%B4%EC%83%81%EC%9D%98-%ED%9A%A8%EA%B3%BC%EB%A5%BC-%EB%82%B8%EB%8B%A4%EA%B3%A0-ugcPost-7527747340120547328-ig1v/)
+    * 방법 풀이—원래 가중치 W는 얼리고 같은 크기의 스위치 점수판 G만 학습. 트랜스포머 블록 SwiGLU MLP의 gate_proj만 대상으로 Wanda 점수로 초기화한 뒤 시그모이드 소프트 마스크로 학습하다 끝에서 0/1로 수렴시키고, 배포 때 음수인 위치를 0으로 지움. 학습 없이 Wanda만으로 지우면 베이스와 거의 같지만 강화학습으로 지울 위치를 배우면 최대 53.2점 상승. 비트마스크만 저장해 Llama-8B 기준 30.6GB 체크포인트가 8.4MB
+  * NYU·캘거리대(NeurIPS 2026). 사전학습 LLM 가중치의 0.05% 미만을 0으로 만드는 것만으로, 다른 수정 없이 강화학습(GRPO)·지도 미세조정(SFT)·온폴리시 증류 세 가지 post-training에서 풀 파인튜닝과 대등한 성능을 낸다는 연구. Deletion Tuning은 트랜스포머 블록의 gate projection 위에 이진 마스크를 학습하고 새 값은 쓰지 않음
+  * 이점 둘: 학습된 마스크가 풀 파인튜닝 체크포인트보다 수백~수천 배 작고, 망각이 훨씬 적어 강화학습 후 이전 과제 정확도가 베이스 수준을 유지(FFT·LoRA·무작위 희소 튜닝은 최대 5.4점 하락). stable rank·스펙트럼 변화·주요 가중치 중첩으로 본 업데이트 기하도 LoRA나 무작위 희소 튜닝보다 풀 파인튜닝에 가장 가까움
 * [Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production](https://github.com/langgenius/dify)
   * [Dify - The Platform for Production-Ready Agentic Workflows](https://dify.ai/)
   * [김헌기 - AI 및 LLM(Large Language Model) 분야에서 최근에 주목받고 있는 오픈소스 플랫폼인... | Facebook](https://www.facebook.com/hnki0104/posts/pfbid0eWeiS8tCGar1J59MuyLNJtLtjiVQzqC78b6rA74LnfVMietaCZEa95uG83tMrrvMl)
@@ -3781,10 +3791,21 @@ NLP
   * [Kimi K3 Tech Blog: Open Frontier Intelligence](https://www.kimi.com/blog/kimi-k3)
     * [충격 받았습니다. Fable 5를 이긴 오픈 소스 모델이 나왔습니다 | Jeongmin Lee](https://www.linkedin.com/posts/jyoung105_%EC%B6%A9%EA%B2%A9-%EB%B0%9B%EC%95%98%EC%8A%B5%EB%8B%88%EB%8B%A4-fable-5-%EB%A5%BC-%EC%9D%B4%EA%B8%B4-%EC%98%A4%ED%94%88-%EC%86%8C%EC%8A%A4-%EB%AA%A8%EB%8D%B8%EC%9D%B4-%EB%82%98%EC%99%94%EC%8A%B5%EB%8B%88%EB%8B%A4-ugcPost-7483608530126831616-lqRa)
     * [오늘은 GPT-5.6과 Fable 5와 경쟁하는 성능을 지닌 2.8T 크기의 오픈 모델 | Kiwoong Yeom](https://www.linkedin.com/posts/kiwoong-yeom_%EC%98%A4%EB%8A%98%EC%9D%80-gpt-56%EA%B3%BC-fable-5%EC%99%80-%EA%B2%BD%EC%9F%81%ED%95%98%EB%8A%94-%EC%84%B1%EB%8A%A5%EC%9D%84-%EC%A7%80%EB%8B%8C-28t-%ED%81%AC%EA%B8%B0%EC%9D%98-ugcPost-7483675426213556225-nyfm)
+    * [Kimi와 세계 AI 질서의 변화, 그리고 한국 | junepark.kr](https://junepark.kr/news/kimi-k3-open-weight-ai-order)
+      * '중국이 미국을 따라잡았나'보다 프론티어급 모델을 오픈웨이트로 푸는 것이 경쟁 구조를 어떻게 바꾸는지가 본질이라는 분석. 열리는 것은 지능을 생산하는 수단 전체가 아니라 만들어진 지능을 복제·변형할 권한이며, 권장 운영 규모가 가속기 64개 이상 슈퍼노드라 자체 호스팅 주체는 제한적—영향력은 호스팅 사용자 수가 아니라 파생 모델·도구·증류로 측정해야 함
+      * 미국 랩의 폐쇄형 API·구독 모델에 대해, 다소 뒤처져도 충분한 성능을 낮은 비용과 높은 통제력으로 공급해 미국 모델이 받을 수 있는 가격 상한을 낮추는 '값싼 상품' 전략으로 해석
+    * [KIMI K3가 만든 미국 반도체 시장의 허리케인 | gameworkerkim/vibe-investing](https://github.com/gameworkerkim/vibe-investing/blob/main/02.Investment%20Idea%20Column/AI%20Bouble/KIMI-K3-Effect-0717.md)
+      * [KIMI K3가 만든 미국 반도체 시장의 허리케인 | Dennis Kim | LinkedIn](https://www.linkedin.com/pulse/kimi-k3%EA%B0%80-%EB%A7%8C%EB%93%A0-%EB%AF%B8%EA%B5%AD-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%8B%9C%EC%9E%A5%EC%9D%98-%ED%97%88%EB%A6%AC%EC%BC%80%EC%9D%B8-dennis-kim-zzirc)
+      * 2026년 7월 Kimi K3 공개 뒤 필라델피아 반도체 지수가 6월 고점 대비 20% 넘게 빠진 상황을 다룬 투자 칼럼. 고성능·저비용 조합이 '대규모 AI 인프라 투자가 곧 경쟁력'이라는 가정을 흔들었고, 2025년 1월 DeepSeek 쇼크와 달리 레버리지 규모, 고점권 밸류에이션, 반복에서 오는 학습 효과가 다르다고 진단
+      * 수출 통제 속에서 아키텍처 최적화·강화학습·증류로 우회한 알고리즘 혁신이 자본 우위를 이기고 있고, 오픈웨이트+OpenAI 호환 API로 전환 비용을 없애 기존 생태계를 숙주로 삼는 진입 전략이라고 해석. 1980년대 인텔-일본 대결에 이은 반도체 전쟁의 연장선으로 서술
     * Moonshot AI가 공개한 세계 최초 오픈 3T급 모델. 코딩·지식노동·추론 전반에서 프런티어 성능, 네이티브 멀티모달, 1M 컨텍스트. GPT-5.6·Claude Fable 5와 경쟁하는 오픈 웨이트(2.8T) 모델이라는 평가
     * [Kimi K3 Is Here: Efficient Day-0 Support on vLLM | vLLM Blog](https://vllm.ai/blog/2026-07-27-k3)
       * [vLLM에서 Kimi K3를 효율적으로 서빙하는 방법과 주요 최적화 기술 | digitalbourgeois](https://digitalbourgeois.tistory.com/3441)
       * vLLM의 Kimi K3(2.8T MoE, 1M 컨텍스트) Day-0 서빙. 하이브리드 KDA prefix caching, DSpark speculative decoding, 프로덕션 규모 disaggregation, 최적화 커널
+    * [Is memory the moat? | Wafer](https://www.wafer.ai/blog/kimi-k3-mi355x)
+      * [AMD MI355X에서 Kimi K3를 실행해 B300보다 높은 달러당 성능 달성 | GeekNews](https://news.hada.io/topic?id=32089)
+      * 가중치만 1.5TB가 넘는 Kimi K3를 8× AMD MI355X 한 노드에서 서빙해 총 952 tok/s·단일 스트림 118 tok/s. B300이 총 처리량은 약 1.65배 높지만 GPU 시간당 가격이 약 2.4배 싸서 달러당 처리량은 MI355X가 앞섬(48 대 33 tok/s/$). GPU당 288GB VRAM이라 가중치와 100만 토큰 KV 캐시가 한 노드에 들어가는 반면, 192GB B200은 두 노드 TP16이 필요해 노드 간 all-reduce 비용을 부담
+      * 외부 블록 확산 초안 모델(Kimi-K3-DSpark)을 쓴 추측 디코딩으로 단일 스트림을 약 2.2배 높였고, ROCm에서 빠져 있던 top-k 재정규화는 새 커널 없이 PyTorch 함수로, AITER MLA의 헤드 수 제약은 제로 패딩으로 우회. 큰 HBM 용량이 초대형 모델 서빙의 실질적 비용·성능 우위로 이어진다는 결론
     * [Kimi K3 - How to Run Locally | Unsloth Documentation](https://unsloth.ai/docs/models/kimi-k3)
       * [Unsloth AI on X](https://x.com/UnslothAI/status/2082463988953367031)
       * Unsloth의 Kimi K3 로컬 실행 가이드. quant 버전을 로컬 환경에서 구동하는 방법
@@ -4819,6 +4840,10 @@ NLP
     * [flash-moe: Pure C/Metal inference engine — Qwen3.5-397B on MacBook Pro 48GB at 4.4+ tok/s](https://github.com/danveloper/flash-moe)
       * [Autoresearching Apple's "LLM in a Flash" to run Qwen 397B locally](https://x.com/danveloper/status/2034353876753592372)
       * SSD에서 209GB 모델 스트리밍, Metal 컴퓨트 셰이더, Python 의존성 없음
+    * [Qwen/Qwen3.5-27B-FP8 · Hugging Face](https://huggingface.co/Qwen/Qwen3.5-27B-FP8)
+      * [Qwen/Qwen3-30B-A3B-Instruct-2507 · Hugging Face | SH Park | LinkedIn](https://www.linkedin.com/posts/5throck_qwenqwen3-30b-a3b-instruct-2507-hugging-activity-7434745371555262465-nADR)
+        * Qwen3-30B-A3B GGUF를 LM Studio로 맥미니 24GB·Intel 32GB에서 돌려 본 후기—로딩은 걸리지만 개인용 PC에서 30B 모델치고 응답 속도가 괜찮고 16GB급에서도 동작한다고 함. 토큰을 많이 쓰는 에이전트 용도에 유용하며 Qwen 3.5도 같은 식으로 쓸 수 있길 기대
+      * Qwen3.5-27B의 FP8 양자화 가중치(블록 크기 128의 세밀한 fp8, 원본과 성능 지표가 거의 동일). Transformers·vLLM·SGLang·KTransformers 호환. Qwen3.5는 멀티모달 토큰 조기 융합 학습, Gated Delta Networks+희소 MoE 하이브리드 구조, 대규모 에이전트 환경 강화학습, 201개 언어·방언 지원이 특징
   * [qwenputer: A computer, compiled into the weights of a language model — an exact CPU inside Qwen3.5-4B, with Gated DeltaNet state as RAM | divagr18](https://github.com/divagr18/qwenputer)
     * [divagr1925/Qwen3.5-4B-Qwenputer · Hugging Face](https://huggingface.co/divagr1925/Qwen3.5-4B-Qwenputer)
     * [AI Agents KR | LLM의 가중치 안에 실제 CPU를 구현한 실험적인 모델, Qwenputer가 공개되었습니다 | Facebook](https://www.facebook.com/groups/9546662462016100/posts/30013760514879661/)
@@ -4865,6 +4890,10 @@ NLP
       * [Qwen3.8-27B-Uncensored-MLX - 애플 실리콘용 검열 제거 버전 | GeekNews](https://news.hada.io/topic?id=32636)
     * [Underdog Saluki 27B](https://underdog.ai/saluki)
       * Qwen3.8-27B를 약 54GB에서 7.89GB로 줄인 2비트 빌드로, 전용 포크 없이 순정 llama.cpp에서 돌고 16GB 노트북에서 실행. 도구 호출에 맞춘 빌드—Berkeley Function Calling Leaderboard에서 고른 120문제(Underdog Bench)에서 88개를 통과해 원본(84)과 다른 2비트 빌드(Mia 85, ISTA 76, Ternary Bonsai 2 70)를 앞섰고, 맞는 함수를 고르는 두 유형은 48개 중 47개. 다만 120문제는 작은 시험이고 차이 일부는 실행 간 변동일 수 있다고 스스로 밝힘. 약점도 공개—여러 도구를 한 번에 부르는 병렬 호출은 Mia가 뚜렷이 앞서고(엄격 채점 42 대 69, 관대한 파서를 쓰면 55), 경시 수학(AIME)은 원본의 82~85%, 글자 단위 말장난에 약하며 이미지 입력 없음. SWE-bench Verified 50문제 중 30개 수정(원본 33), 웹 탐색 150문제 중 60개. ISTA-DASLab의 2비트 공개본을 바탕으로 제작
+    * [Qwen3.8-27B (NVFP4) on Single/Dual DGX Spark — SGLang + DFlash2, fully OpenAI-compatible | NVIDIA Developer Forums](https://forums.developer.nvidia.com/t/qwen3-8-27b-nvfp4-on-single-dual-dgx-spark-sglang-dflash2-fully-openai-compatible/380732)
+      * DGX Spark(GB10, 통합 메모리 128GB)에서 Qwen3.8-27B NVFP4를 SGLang+DFlash2 블록 확산 추측 디코딩으로 서빙하는 재현 가능한 레시피. `/v1/responses`를 OpenAI API와 실제로 호환되게 하는 패치와, RoCE로 두 대를 묶는 TP=2 구성(약 1.6배) 포함
+      * 단일 스트림 기준 코드 생성 52~61 tok/s(2대 87), 산문 26(41), 컨텍스트 262,144. DFlash2는 무손실 추측 디코딩이라 greedy 출력이 대상 모델과 일치하고 HumanEval pass@1 97.0%로 검증
+      * prefill 약 10K tok/s, 반복 prefix는 SGLang radix 캐시로 0.3~0.7초에 첫 토큰
     * Qwen 팀의 27B 비전-언어 모델. Gated DeltaNet+Gated Attention 혼합 64층 아키텍처, 네이티브 262K(최대 1M) 컨텍스트. 코딩·에이전트 벤치마크 강세(SWE-bench Pro 61.7, OSWorld-Verified 84.3, GPQA Diamond 89.2)
   * [Qwen3.8-Flash-Next Technical Report PDF](https://github.com/QwenLM/Qwen3.8-Flash-Next/blob/main/tech_report.pdf)
     * [Qwen3.8-Flash-Next: the foundation model developed by Qwen Team, Alibaba Group](https://github.com/QwenLM/Qwen3.8-Flash-Next/)
@@ -4875,6 +4904,10 @@ NLP
     * [Alibaba's AI coded for 16 days straight and every commit is on GitHub - The New Stack](https://thenewstack.io/qwen-autonomous-coding-audit/)
       * [Qwen3.8-Max, 16일 동안 스스로 코딩했다: 265개 커밋이 보여준 AI 자율 개발의 현재 | digitalbourgeois](https://digitalbourgeois.tistory.com/3478)
       * Qwen3.8-Max가 사람 개입 없이 약 16일간 CLI 도구를 개발—265 커밋·127 PR·151 이슈 처리, GitHub에 전 과정 공개(감사 가능). 한 번 생성으로 끝내지 않고 결과를 확인하며 다음 작업을 스스로 판단한 점이 핵심. 논문 결과 재현·칩 설계 최적화 사례도 함께 다룸
+  * [Qwen-AgentWorld: Language World Models for General Agents](https://qwen.ai/blog?id=qwen-agentworld)
+    * [Qwen-AgentWorld: 언어 모델이 환경을 이해하고 예측하는 새로운 접근 | digitalbourgeois](https://digitalbourgeois.tistory.com/3297)
+    * 에이전트의 행동이 주어졌을 때 환경의 다음 상태를 예측하도록 명시적으로 학습한 네이티브 언어 월드 모델. 한 모델이 텍스트 환경(MCP·Search·Terminal·SWE)과 GUI 환경(Web·OS·Android) 7개 도메인을 시뮬레이션하며, GUI도 픽셀이 아니라 DOM·접근성 트리·UI 마크업으로 표현. 환경 모델링이 사후 적응이 아니라 지속적 사전학습 단계부터 학습 목표
+    * 3단계 학습: 실제 환경 상호작용 트레이스 1천만 건 이상으로 CPT→다음 상태 예측 사고 패턴 SFT→LLM 판정+규칙 검증을 결합한 RL. 실제 환경 실행 결과를 정답으로 둔 7개 도메인 벤치마크 AgentWorldBench도 함께 공개. 활용은 실제 환경 대신 쓰는 분리된 시뮬레이터와 에이전트 파운데이션 모델 두 패러다임
   * [Qwen-7B: The official repo of Qwen-7B (通义千问-7B) chat & pretrained large language model proposed by Alibaba Cloud](https://github.com/QwenLM/Qwen-7B)
     * [알리바바, 오픈소스 LLM 출시...메타 '라마2'와 경쟁 < Global < 기사본문 - AI타임스](https://www.aitimes.com/news/articleView.html?idxno=152752)
     * [Qwen1.5-MoE: Matching 7B Model Performance with 1/3 Activated Parameters | Qwen](https://qwenlm.github.io/blog/qwen-moe/)
