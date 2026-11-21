@@ -6179,6 +6179,10 @@ Artificial Intelligence
 * [AI와 일하는 방식, 데자뷔 | cleancode | brunch](https://brunch.co.kr/@cleancode/108)
   * 본부장이 됐을 때 방향을 정하고 구현을 위임하고 리뷰에 참여하되 라인 단위로 다 읽지는 않았는데, AI가 만든 코드는 한동안 라인 단위로 다 읽으려 했다는 자기 관찰("구성원들과는 하지 않던 일을 AI와는 하고 있었다"). 그 이유는 업계 전체가 탐색 단계로 돌아온 불안과 코드를 쓰며 저절로 생기던 이해가 사라진 것
   * 인수테스트를 적용한 뒤 생각이 바뀜. 코드가 아니라 외부 행위를 검증하고, 명세는 가볍게 써서 코드와 함께 갱신하며 승인 왕복 횟수를 줄이고, 필요할 때는 이해할 수 있게 해 두되 개발 조직의 병목은 코딩이 아니라 점진적·안정적 반영이라는 정리. "파도를 멈출 수는 없지만 서핑하는 법을 배울 수는 있다"
+* [If you stop writing code, you also get worse at reviewing it | cekrem.github.io](https://cekrem.github.io/posts/if-you-stop-writing-code-you-also-get-worse-at-reviewing-it/)
+  * [코드 작성을 멈추면 코드 리뷰 실력도 떨어진다 | GeekNews](https://news.hada.io/topic?id=37534)
+  * 어느 분야든 실력은 직접 연습해야 유지되는데 소프트웨어 엔지니어링만 "연습을 멈춰도 실력이 는다"고 착각한다는 주장. 기타리스트가 연주를 그만두고 남에게 지시하고 듣기만 하거나, 작가가 쓰기를 멈추고 AI가 쓴 글만 읽으며 피드백만 한다면 실력이 떨어질 것이라는 비유—"Claude가 만든 코드를 전부 리뷰한다"로는 부족하고, 실제로는 절반도 읽지 않게 됨
+  * 코드 작성이 엔지니어링의 전부는 아니어도 좋은 코드를 알아보려면 계속 써봐야 하고, 문제 해결 능력도 연습을 멈추는 순간 정체. LLM에 반복 의존하면 "어렵고 노력이 드는 일은 시도조차 하지 말라"는 습관이 뇌에 새겨져 배움과 장인 정신, 즐거움이 사라진다고 경고
 * [2603.21439 LLM-Powered Workflow Optimization for Multidisciplinary Software Development](https://arxiv.org/abs/2603.21439)
   * [AGI KR](https://www.facebook.com/groups/255834461424286?multi_permalinks=2911883062486066)
   * Volvo Group 사례: 그래프 기반 워크플로우 최적화로 API당 개발 시간 5시간→7분, 총 979시간 절감. F1 93.7%. FSE 2026 Industrial Track 채택
