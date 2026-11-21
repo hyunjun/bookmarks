@@ -528,6 +528,9 @@ Git
   * [Github Actions에서 DB를 실행하고, S3에 저장한 뒤, 공개 억세스 하기 | GeekNews](https://news.hada.io/topic?id=18321)
 * [I'll think twice before using Github Actions again](https://ninkovic.dev/blog/2025/think-twice-before-using-github-actions)
   * [Github 액션을 다시 사용하기 전에 한번 더 생각해보려고 합니다 | GeekNews](https://news.hada.io/topic?id=18845)
+* [GitHub Actions schedule는 제시간에 돌지 않는다, 한 달 87번 실행 지연 실측 | KLOG](https://nokkiwa.github.io/infra/2026/11/01/github-actions-schedule-delay.html)
+  * Jekyll 예약 발행을 위해 schedule(cron)로 매일 빌드를 돌린 실측기. 정각 직후(UTC 00:05)로 잡은 첫 설정은 실행 자체가 없던 날이 있어, 정각을 피한 23분·하루 3회로 변경. 한 달간 예정 90번 중 87번 실행, 지연 중앙값 약 4시간 50분·최대 약 7시간 40분, 1시간 안에 시작한 것은 2번뿐
+  * 교훈: cron은 "이 시각에 실행"이 아니라 "이 시각 이후 언젠가 실행"—분 단위 정확도가 필요하면 쓰지 말 것, 정각 근처를 피하고 하루 여러 번 돌리되 작업은 멱등하게. 공개 저장소는 60일간 활동이 없으면 예약 워크플로가 꺼지고, schedule은 기본 브랜치의 워크플로 파일로만 동작
 * [act: Run your GitHub Actions locally 🚀](https://github.com/nektos/act)
   * [act으로 깃허브 액션즈를 로컬에서 테스트하기](https://blog.naver.com/pjt3591oo/222890739427)
   * [다들 Github Actions 파이프라인을 만드실 때, 매번 Github에 올려서 테스트하시나요?](https://www.linkedin.com/posts/%EB%B3%91%EC%A7%84-%EC%98%A4-5aa905237_github-nektosact-run-your-github-actions-activity-7314995231215480833-7oY_/)
