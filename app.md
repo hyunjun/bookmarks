@@ -2916,6 +2916,10 @@ App
   * [Lottie Creator: 로티 애니메이션을 제작할 수 있는 웹 기반 무료 디자인 도구 | GeekNews](https://news.hada.io/topic?id=17094)
 * [MoseoriTube](https://github.com/moseoridev/MoseoriTube) youtube downloader
   * [moseoritube.herokuapp.com](https://moseoritube.herokuapp.com/)
+* [motlab: Video as code: canvas scenes rendered with WebCodecs in headless Chrome, a review viewer, and agent skills that build the video from your references](https://github.com/staryone/motlab)
+  * 모든 장면이 코드인 비디오 엔진과 그 장면을 대신 써 주는 에이전트 스킬. 각 장면은 시각 `t`의 프레임을 그리는 `renderAt(t)` 함수 하나를 가진 캔버스 페이지이고, 참고 자료 폴더(로고·스크린샷·영상·폰트·음악·음성)와 방향을 주면 에이전트(Claude Code·Codex·Cursor 등)가 장면을 만들어 뷰어를 띄움. AI 이미지 생성은 쓰지 않음
+  * 웹 뷰어에서 실제 페이지를 오디오와 함께 프레임 단위로 재생하며, 프레임 클릭·영역 드래그·시간 구간 표시에 메모를 달면 에이전트가 `selection.json`에서 번호순으로 읽어 수정. 버전을 나란히 보관하고 720p~4K MP4로 내보내기(전환·음악·음성 믹스 포함)
+  * 프레임을 페이지 안에서 WebCodecs로 인코딩해 이미지로 꺼내지 않으므로 자체 벤치마크에서 Remotion·HyperFrames보다 2~4배 빠름. 긴 토킹헤드 영상을 쉬는 구간에서 자르고 자막을 얹는 기능, 아이콘·2D 캐릭터·3D 오브젝트 같은 재사용 에셋 키트를 만드는 `motlab-assets` 스킬 포함
 * [movie2gif](https://mazeline.tech/freeapps/movie2gif/)
   * 영상 파일을 GIF로 변환하는 Windows 무료 앱. ffmpeg 2-pass 파이프라인 내장, 드래그앤드롭 + 필름스트립 트리밍, 4가지 웹 최적화 프리셋 제공
 * [mplayerx.org](http://mplayerx.org) 설치할 때 yahoo 관련 설치가 먼저 나오는데 skip할 것
