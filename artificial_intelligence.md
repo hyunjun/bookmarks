@@ -1143,6 +1143,10 @@ Artificial Intelligence
     * 연구의 '숙련자일수록 자동 승인을 더 쓴다'는 결과를 자기 기록으로 검증—Claude Code 세션 315개에서 허용/거부 결정 4,776건(허용 98.6%)을 추출하고, 위험 명령 규칙 차단→동일 시그니처 매칭→임베딩 군집의 보수적 분류로 자동 승인을 재현 시뮬레이션. 시그니처의 43.8%만 자동화 후보로 잡혔고 그 예측 정확도는 99.1%, 거부한 항목을 자동 허용으로 오판한 경우는 0건
   * Claude Code와 공개 API의 사람-에이전트 상호작용 수백만 건을 프라이버시 보존 도구로 분석한 연구(2026-02). 가장 긴 세션에서 Claude Code가 멈추지 않고 일하는 시간이 3개월 새 25분 미만에서 45분 이상으로 늘었고, 모델 출시와 무관하게 완만히 증가해 기존 모델도 실제 쓰이는 것보다 더 많은 자율성을 감당할 수 있음을 시사
   * 숙련 사용자는 완전 자동 승인 비율이 약 20%→40% 이상으로 늘지만 중간 개입도 더 자주 함. 가장 복잡한 작업에서는 Claude가 확인을 구하려 멈추는 횟수가 사람이 끊는 횟수의 2배 이상. API상 에이전트 행동은 대부분 저위험·가역적이고 소프트웨어 엔지니어링이 약 50%, 의료·금융·사이버보안 사용이 초기 단계로 관찰됨. 배포 후 모니터링 인프라와 새로운 상호작용 방식이 필요하다는 결론
+* [J. Nelen - A/B Testing Plenary Debates in the Dutch Parliament with Multi-Agent AI using LangGraph | PyData - YouTube](https://www.youtube.com/watch?v=qQOArNXTK2c)
+  * Kickstart AI가 싱크탱크 Denkwerk와 만든 네덜란드 하원 본회의 토론 시뮬레이션—의장, 정당 대변인, 장관 등 15개 에이전트가 실제 법안을 놓고 발언·수정안 제출·표결. LangGraph로 상태·발언 순서·의사 규칙을 관리(오케스트레이터가 턴 수와 발언권 관리, 요약 노드로 컨텍스트 압축)하고, 입장 발언은 의석수 규칙, 자유 토론은 "얼마나 답하고 싶은가"를 써내는 입찰로 다음 발언자를 정하되 개입 횟수에 상한을 둠. LangSmith로 프롬프트·도구 호출·비용을 추적하고 이해관계자용 대본 UI를 따로 제작
+  * 현실성 확보: 맥락이 없으면 큰 정당은 극단적으로, 신생 정당은 환각으로 흐르므로 의석수·발언 스타일·실제 인용·여야 구분·법안 요약을 프롬프트에 넣고, 정당별로 필터링한 RAG(강령·연정 합의문)와 관련 법안 표결 이력을 도구로 제공. 싱크탱크와 현직 의원이 대본을 검증
+  * A/B 테스트: 현행·개혁안 5개 각각·전부 적용의 7개 시나리오 × 법안 5개로 토론 238회를 생성해 토론 품질과 결과 지표(1~10점)를 기준선과 비교, 싱크탱크 보고서의 보조 근거로 사용. 한계는 같은 기반 모델이라 쉽게 동의한다는 점(temperature 차등·명시적 지시로 완화)과 확률적 출력(조합당 여러 번 실행해 평균), 실제 표결 결과와의 대조는 아직 못 함
 * [2506.02153 Small Language Models are the Future of Agentic AI](https://arxiv.org/abs/2506.02153)
   * [NVIDIA의 Peter Belcak가 소개하는 소형 언어 모델(SLM)이 에이전트 AI의 미래인 이유](https://www.arizekorea.com/insights/post/nvidias-small-language-models-are-the-future-of-agentic-ai-paper-jNrUOzqlulGhemG)
   * [Demystifying Agentic AI Using Small Language Models - YouTube](https://www.youtube.com/watch?v=nk5BNz8v_9E)
@@ -7997,6 +8001,8 @@ Artificial Intelligence
       * [65줄의 스킬에 깃허브 스타 6500개, 단순하지만 직관적 가이드라인으로 성능을 끌어올린 사례 - 안티그래비티에 적용하기 feat : 생활형 계산기 10개 - YouTube](https://www.youtube.com/watch?v=tcDoacn64Lo)
       * [Andrej Karpathy가 LLM 코딩의 문제점을 지적하자마자 그걸 | h4y3j1n](https://www.linkedin.com/posts/h4y3j1n_andrej-karpathy%EA%B0%80-llm-%EC%BD%94%EB%94%A9%EC%9D%98-%EB%AC%B8%EC%A0%9C%EC%A0%90%EC%9D%84-%EC%A7%80%EC%A0%81%ED%95%98%EC%9E%90%EB%A7%88%EC%9E%90-%EA%B7%B8%EA%B1%B8-share-7450026880222646272-x-Jx)
       * Think Before Coding(가정 명시·모호함 드러내기)·Simplicity First(최소 코드, 투기적 기능 배제)·Surgical Changes(필요한 부분만 수정)·Goal-Driven Execution(검증 가능한 성공 기준) 4대 원칙
+  * [claude-md-management: Tools to maintain and improve CLAUDE.md files — audit quality, capture session learnings, and keep project memory current | anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official/tree/main/plugins/claude-md-management)
+    * Anthropic 공식 플러그인. 용도가 다른 두 도구로 구성—`claude-md-improver` 스킬은 CLAUDE.md를 현재 코드베이스 상태와 대조해 품질 점수와 권장 수정안을 내는 정기 점검용("audit my CLAUDE.md files"), `/revise-claude-md` 명령은 세션에서 빠져 있던 맥락이 드러났을 때 세션 끝에 배운 내용을 CLAUDE.md에 반영
   * [claude-obsidian-assistant: Starter Obsidian vault template integrated with Claude Code](https://github.com/nemocake/claude-obsidian-assistant)
     * Claude Code 연동 Obsidian vault 템플릿. Johnny Decimal 폴더 구조, `/obsidian` 스킬(작업 디렉토리↔vault 매칭, 코드베이스 읽고 프로젝트 정보·개발로그·아키텍처 다이어그램 갱신), 아키텍처 캔버스, 5종 CSS 테마. CLAUDE.md 내장
     * [내가 사용해 본 가장 유용한 MCP 서버 😎 - YouTube](https://www.youtube.com/watch?v=ktr-4JjDsU0&t=1s)
