@@ -2680,6 +2680,10 @@ AWS
     * 다운타임 없는 롤링 업데이트 지원
     * A/B 테스팅을 위한 트래픽 분할
 * [data-science-on-aws/workshop: AI and Machine Learning with Kubeflow, Amazon EKS, and SageMaker](https://github.com/data-science-on-aws/workshop)
+* [trnrt: The open LLM inference engine for AWS Trainium: NKI megakernels, 1M-token context, OpenAI-compatible API | RunAnywhere](https://github.com/runanywhereai/trnrt)
+  * [Serving GLM-5.3-Flash on one Trainium2 box with NKI layer megakernels | RunAnywhere](https://runanywhere.ai/blog/glm-5-3-flash-trainium2-nki-megakernels)
+  * [AWS Trainium2 기반 대규모 언어 모델 추론 엔진, TrnRT의 아키텍처와 성능 분석 | digitalbourgeois](https://digitalbourgeois.tistory.com/4633)
+  * AWS Trainium2에서 LLM을 돌리는 추론 엔진. 토큰을 하나씩 만드는 Decode 단계의 병목이 연산량보다 작은 커널 사이의 실행 전환·데이터 이동이라는 데서 출발해, NKI(Neuron Kernel Interface)로 레이어 절반 단위 연산을 하나로 융합한 메가커널을 구성하고 작업 데이터를 SBUF에 유지. Sparse·Linear Attention 기반 최대 100만 토큰 컨텍스트, Prefix Cache, 한 인스턴스 두 엔진 구조, CPU 호스트 오프라인 컴파일, OpenAI 호환 API(스트리밍·tool call). 현재 지원 모델은 GLM-5.3-Flash
 * [vllm-omni-neuron: vLLM Omni backend plugin for diffusion and multimodal generation on AWS Trainium | aws-neuron](https://github.com/aws-neuron/vllm-omni-neuron)
   * [vLLM Omni Neuron documentation](https://awsdocs-neuron.readthedocs-hosted.com/en/latest/vllm-omni-neuron/docs/index.html)
   * [AWS Neuron Documentation](https://awsdocs-neuron.readthedocs-hosted.com/)
