@@ -954,6 +954,14 @@ AWS
 * [sample-deep-insight: Production-grade multi-agent data analysis framework](https://github.com/aws-samples/sample-deep-insight)
   * [프로덕션 Multi-Agent 시스템이 해결해야 할 5가지 문제 — Deep Insight 아키텍처로 배우는 실전 설계 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/practical-design-lessons-from-the-deep-insight-arch/)
   * Strands SDK+Amazon Bedrock 기반 계층형 에이전트(Coordinator→Planner→Supervisor→Tool Agents). Claude Code 스타일 Skill 시스템, Human-in-the-Loop, 에이전트별 토큰 추적
+* [sample-moonshotai-on-aws: Samples for getting started with Kimi models by Moonshot AI, on AWS](https://github.com/aws-samples/sample-moonshotai-on-aws)
+  * [Kimi K3.1 Pro - Highspeed - Amazon Bedrock](https://docs.aws.amazon.com/bedrock/latest/userguide/model-card-moonshot-ai-kimi-k3-1-highspeed.html)
+    * Bedrock 사용 설명서의 모델 카드. 네이티브 비전과 100만 토큰 컨텍스트를 갖춘 Moonshot AI의 오픈 웨이트 모델로 2026-11-04 출시, Chat Completions API 권장. 응답 스트리밍·클라이언트 측 도구 호출·구조화 출력·추론 강도 설정 지원, 암묵적 프롬프트 캐싱이 기본이고 명시적 캐싱(체크포인트당 최소 256토큰, 30분 이상 유지)은 Responses·Chat Completions·InvokeModel에서만 지원(Converse 미지원)
+  * [Getting Started with Kimi Code & Kimi K3 on Amazon Bedrock | AWS Builder Center](https://builder.aws.com/content/3JWn21K5S5mKNqS2V3g2lz9g2B3/getting-started-with-kimi-code-and-kimi-k3-on-amazon-bedrock)
+    * Kimi Code CLI를 Bedrock의 OpenAI 호환 엔드포인트에 연결해 Kimi K3를 쓰는 실습 안내. 추론 프로필은 지역 제한이 없으면 `global.moonshotai.kimi-k3`(지역 프로필보다 약 10% 저렴), 미국 내 처리가 필요하면 `us.moonshotai.kimi-k3`. Kimi Code는 AWS 자격 증명으로 서명하지 않고 Bedrock API 키를 bearer 토큰으로 받으므로 `AWS_BEARER_TOKEN_BEDROCK`을 `KIMI_API_KEY`로 넘기거나 `aws-bedrock-token-generator`로 단기 토큰(최대 12시간)을 발급. `~/.kimi-code/config.toml`에 provider(`type = "openai"`, `base_url`은 `https://bedrock-runtime.<리전>.amazonaws.com/openai/v1`)와 모델을 등록하고 `kimi doctor config`로 검증
+  * [Use open weight models as your AI coding agent with Amazon Bedrock | AWS Artificial Intelligence Blog](https://aws.amazon.com/ko/blogs/machine-learning/use-open-weight-models-as-your-ai-coding-agent-with-amazon-bedrock/)
+    * 터미널 코딩 에이전트 OpenCode를 Bedrock의 오픈 웨이트 모델과 묶어, 코드·프롬프트가 자기 AWS 계정 안에 머물고 좌석당 요금 없이 쓴 만큼만 내는 구성을 안내. 작업별로 모델을 나누는 다중 모델 워크플로—`opencode.json`에서 계획(plan)은 추론이 깊고 컨텍스트가 100만 토큰인 Kimi K3, 구현(build)은 처리량이 높은 NVIDIA Nemotron 3 Super 120B, 기본은 OpenAI GPT-OSS 120B. IAM·CloudTrail·PrivateLink 같은 보안 통제를 그대로 쓰고 요금은 Priority·Standard·Flex(50% 저렴) 3단계. 이벤트 소싱 주문 서비스 생성, 분산 데드락 진단 예제와 Ethara.AI의 운영 사례 포함
+  * Kimi·Moonshot AI 모델을 AWS에서 시작하는 코드 샘플·노트북 모음. Bedrock의 Kimi K3.1 Pro 시작 노트북, AWS Marketplace의 Kimi API Platform, 직접 배포 예제(SageMaker HyperPod·EKS에 Kimi K3, SageMaker AI에 Kimi K2.5) 안내
 
 # Book
 * [아마존 웹 서비스를 다루는 기술: 실무에서 필요한 AWS 클라우드의 모든 것!](http://pyrasis.com/book/TheArtOfAmazonWebServices)
