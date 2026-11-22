@@ -659,8 +659,11 @@ Artificial Intelligence
 * [The Economics of Intelligence: How and when does AGI lead to economic transformation? | Google DeepMind Institute](https://institute.deepmind.com/essays/the-economics-of-intelligence/)
   * [Organizing Intelligence (PDF) | Imas·Koh·Legg, Google DeepMind](https://storage.googleapis.com/deepmind-media/papers/organizing-intelligence.pdf)
     * 108쪽 이론 논문. 사람과 AI가 다차원 역량을 지닌 채 경쟁하는 기업들로 스스로 나뉘어 들어가는 균형 모형으로, AI 실력이 오르면 관리자 한 명이 AI로 더 많은 일을 해 기업이 먼저 작아지고, 협업 문턱을 넘으면 기업 크기를 막던 코즈의 천장이 깨져 거대 AI 기업으로 상전이한 뒤, 적은 수의 AI로 시장이 포화돼 다시 작아지는 비단조 경로를 보임. 사람 고용은 사람·AI 혼합 기업 안에서 대체될 때는 서서히, AI 기업이 사람 기업을 밀어낼 때는 갑자기 변함. 임금 변화는 기존 기업 안에서 사람의 가치가 바뀌는 기술 효과와 기업의 크기·구성이 바뀌는 재조직 효과로 나뉘며 재조직이 기술 효과를 뒤집을 수 있음. 시나리오는 예측이 아니라 가정에서 나온 결과라고 거듭 밝힘
+  * [2611.05417 Organizing Intelligence](https://arxiv.org/abs/2611.05417)
   * [AI 발전에도 경제는 왜 그대로일까? 딥마인드가 논문으로 밝혔습니다 | 미주일기 - YouTube](https://www.youtube.com/watch?v=bGiY5KPSndE)
     * 논문과 해설 글을 바탕으로 한 한국어 설명—사람 한 명과 회사의 차이, 협업 능력이 회사의 크기를 정한다는 점, 협업을 훈련하기 시작한 AI, 협업이 문턱을 넘을 때 벌어지는 일 순으로 풀고, 실무 능력이 오르면 변화가 천천히 나타나지만 협업 능력이 오르면 경제가 한꺼번에 바뀐다는 분석을 소개. 논문의 숫자는 학술 토론용 가상 모델의 예시라는 단서
+  * [구글이 90년 묵은 경제학 이론을 폐기한 이유 - AI시대, 인간이 비싸지는 역설! | Byunghyun So](https://www.linkedin.com/feed/update/urn:li:activity:7529009766854107137/)
+    * 코즈의 기업 이론(내부 조율 비용이 외부 거래 비용과 같아질 때까지만 기업이 커진다)에 비춰 읽은 해설. 외부 AI가 싸지면 작은 기업들이 시장을 나눠 가질 거라는 통념과 달리, AI가 조직 내부의 소통·조율까지 맡으면 "코즈의 천장"이 깨져 소수의 초대형 AI 기업으로 재편된다는 것. 그래도 AI는 무한 복제돼 초과 이윤이 0에 수렴하는 반면 사람의 역량은 공급이 고정되고 강점이 제각각이라, 서로 다른 사람들이 모인 "모자이크 지능"의 희소 가치는 오히려 커진다는 결론
   * AI는 계속 이정표를 넘는데 경제는 왜 그대로인가에 대한 답: 개별 에이전트는 경제 분석의 단위가 아님. 벤치마크는 혼자 문제를 푸는 에이전트를 재지만 경제적 변화는 조직들이 경쟁하는 균형의 결과이고, 조직은 서로 다른 방향으로 들쭉날쭉한 사람들을 비교우위대로 맞춰 개인보다 강한 "모자이크 지능"을 만듦. AI 모델들은 서로 비슷한 방향으로 들쭉날쭉해 복사본을 늘려도 폭이 넓어지지 않으므로, 모든 사람의 평균을 넘는 모델도 잘 짜인 사람 팀에는 질 수 있음. 한편 AI는 연산 비용만으로 복제되고(사람 임금이 연산 비용에 묶임), 사람 조직의 크기를 막던 대역폭·암묵지·이해 상충 한계가 적용되지 않을 수 있다는 점이 기존 기술과 다름
   * 역량을 competence(개인 실력, 산출의 수준을 정함)와 coordination(협업, 조직이 커질 수 있는 규모를 정함)으로 나눈 "조직 스케일링 법칙"—실력 향상은 가격·임금·사람과 AI의 비율을 완만히 바꾸지만 협업이 supercooperative 문턱을 넘으면 구성원이 늘수록 생산성이 오르는 볼록 수익으로 뒤집혀 시장 집중·고용·임금이 급변. 네 체제: minimal AGI(구조는 그대로이고 임금만 먼저 변해, 고용 통계가 멀쩡하다는 것은 AI가 영향이 없다는 증거가 못 됨), supercompetent AI(작고 날렵한 기업들의 "집중 없는 풍요", 사람의 비교우위는 판단과 조율로 이동), supercooperative AI(깊고 표준화된 시장에서 소수의 대형 AI 전용 기업으로 급격한 재편), ASI. 틈새 시장과 사람의 관여 자체가 가치인 관계 부문은 다르게 움직임
   * ASI 단계에서는 틈새 시장도 사람 팀의 피난처가 못 되지만, 농업·제조업 자동화 때처럼 부가 희소한 관계 부문(의료·교육, 아직 상상하지 못한 일)으로 흘러 이 부문이 커지고 높은 실질임금으로 많은 사람을 고용할 수 있으며, 범용화된 생산 쪽 보수는 연산 비용에 묶인다는 전망. 현재는 이 틀과 맞아떨어짐—실력은 지수적으로 오르는데 협업은 뒤처져 있고(수천 에이전트를 협업시키기 어렵다는 Noam Brown의 언급), 노동시장에는 더 날렵한 스타트업·평평해진 조직·주춤한 신입 채용·경험 많은 조율자 수요가 나타남
@@ -6231,6 +6234,9 @@ Artificial Intelligence
 * [김성완 - 소프트웨어는 이제 '자산'이 아니라 '종이컵'이다 | Facebook](https://www.facebook.com/seongwan.kim.3/posts/pfbid0hUh1kYQznjGYie8AuW7QmfoyCqeoGg6Qt6iJzDUroBuH7hobGfWFM9qWrG6mqStwl)
   * "엔지니어링은 코딩이 전부가 아니니 살아남는다"는 위안은 낡은 틀 안의 시야라는 주장. 구현 비용이 0에 수렴하면 소프트웨어의 물성이 바뀜—①오래 관리하는 자산에서 쓰고 버리는 일회용 소모품으로(유지보수가 필요 없는 소프트웨어) ②고정비를 N분의 1로 나누려던 상품화의 수고가 사라지고 내 상황에 딱 맞는 도구를 즉석에서 만들어 혼자 씀 ③세무사·제조 현장 관리자·임상의·법률가처럼 도메인을 꿰고 있는 사람이 개발자를 거치지 않고 직접 도구를 만듦
   * 거대 인프라·미션 크리티컬 영역에는 극소수 하이엔드 엔지니어링이 남고, 나머지 대부분은 도메인 전문가가 도구를 빚어 쓰고 버리는 소모품의 세계로 재편된다는 전망. 기획자와 개발자가 다투는 중간 지대의 상당수는 애초에 제품으로 만들 필요가 없어지고 있다고 봄
+* [오픈AI 연구원은 에이전트에 하루 2400달러, 애플은 200달러로 깎았다…AI 값이 개발자 월급을 넘었나 | AI 뉴스 데일리](https://ailetter.ai.kr/ko/e/2026-11-22/ai-agent-cost-vs-salary)
+  * "AI가 사람보다 비싸졌다"는 말을 숫자로 검증. OpenAI 연구 가속 보고서 기준 2026-10 연구원 한 명의 하루 에이전트 사용량은 API 정가 환산 중간값 2,400달러(상위 10%는 2만3,000달러)로 현금 급여의 약 두 배지만, 보상의 70~80%인 주식을 넣으면 총보상의 40~60%이고 정가 환산이라 실제 지출과 다름. Anthropic이 밝힌 Claude Code 기업 평균은 개발자당 하루 13달러(월 150~250달러)
+  * 기업들은 한도부터 설정—애플 일부 엔지니어 하루 300→200달러, 테슬라 주당 200달러, 우버 코딩 도구 하나에 월 1,500달러, 메타 토큰 예산. Gartner의 "2028년 AI 코딩 비용이 개발자 급여 추월" 전망은 세계 평균 월 2,000달러 기준. 국내도 토큰 한도 초과로 업무 중단, 환율 탓 예산 초과 사례가 나오며 AI 핀옵스·토큰 게이트웨이 등장. 토큰 사용량과 생산성 사이의 직접 관계는 아직 확인되지 않음
 * [2603.21439 LLM-Powered Workflow Optimization for Multidisciplinary Software Development](https://arxiv.org/abs/2603.21439)
   * [AGI KR](https://www.facebook.com/groups/255834461424286?multi_permalinks=2911883062486066)
   * Volvo Group 사례: 그래프 기반 워크플로우 최적화로 API당 개발 시간 5시간→7분, 총 979시간 절감. F1 93.7%. FSE 2026 Industrial Track 채택
@@ -6382,6 +6388,10 @@ Artificial Intelligence
   * [ai-workflow: 🚀 170+ pre-built skills for Claude Code, Cursor, Codex & 14+ AI tools. Stop re-teaching your AI the same things. One command → instant domain expertise. Marketing, SEO, Trading, Video, PM workflows included](https://github.com/nicepkg/ai-workflow)
 * [Aider - AI Pair Programming in Your Terminal](https://aider.chat/)
   * [aider: aider is AI pair programming in your terminal | Aider-AI](https://github.com/Aider-AI/aider)
+  * [aider-desk: Platform for AI-powered software engineers | magiksoft](https://github.com/magiksoft/aider-desk)
+    * [AiderDesk](https://aiderdesk.dev)
+    * [AiderDesk로 구현하는 투명하고 통제 가능한 AI 에이전트 개발 환경 | digitalbourgeois](https://digitalbourgeois.tistory.com/4623)
+    * Aider CLI의 GUI로 출발해 에이전트 작업을 관리하고 여러 모델·도구를 잇는 오케스트레이션 계층을 지향하는 플랫폼. 원칙은 투명성(토큰·컨텍스트 파일·코드 변경 제안 확인), 통제(도구 실행 승인, 파괴적 작업 허가, 작업 포크, 채팅 이력 편집), 확장성(Extensions·커스텀 도구·MCP). 저장소 단위 Project와 기능 개발·버그 수정 단위 Task로 관리하고 Git worktree로 작업마다 격리된 디렉터리에서 실험
   * 터미널에서 LLM과 페어 프로그래밍—새 프로젝트를 시작하거나 기존 코드베이스 위에서 작업하며 레포 전체의 맵을 만들어 큰 코드베이스에서도 동작, 변경을 자동 git 커밋, 셸 명령 실행. Claude·DeepSeek·OpenAI 등 클라우드와 로컬 LLM 거의 전부 연결. GitHub·pip 설치 680만·주당 150억 토큰, 최신 릴리스 새 코드의 88%를 aider 자신이 작성했다는 'Singularity' 지표를 사이트에 표시
 * [Alt - AI Lecture Notetaker](https://www.altalt.io/)
   * [alt - ai lecture notetaker | 이정연](https://www.linkedin.com/posts/pa-rang_alt-ai-lecture-notetaker-activity-7391336738700353536-o8yo) Local AI 강의 필기·요약앱, Alt를 완전 무료로 배포
