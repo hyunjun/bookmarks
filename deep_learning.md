@@ -3019,6 +3019,9 @@ CVPR2016)
 * [나노바나나는 어떻게 일관성을 유지하는거지? 왜 이미지는 텍스트처럼 안되는걸까?](https://www.linkedin.com/posts/jongsu-kim-63458347_rosinality-rosinality-on-x-activity-7367359743285207040-KVhe)
 * [우분투에서 파이썬으로 로컬 이미지 생성하기: diffusers + SDXL 설치부터 실행까지 (RTX 4060 8GB) | webnautes](https://webnautes.com/%ec%9a%b0%eb%b6%84%ed%88%ac%ec%97%90%ec%84%9c-%ed%8c%8c%ec%9d%b4%ec%8d%ac%ec%9c%bc%eb%a1%9c-%eb%a1%9c%ec%bb%ac-%ec%9d%b4%eb%af%b8%ec%a7%80-%ec%83%9d%ec%84%b1%ed%95%98%ea%b8%b0-diffusers-sdxl/)
   * 리눅스 PC(메모리 64GB, RTX 4060 8GB)에서 diffusers+SDXL 로컬 이미지 생성 환경 구축부터 터미널 대화형 스크립트(image_gen_cli.py) 실행까지 전 과정 정리
+* [FlowMatching | 생성모델의 새로운 패러다임 - YouTube](https://www.youtube.com/shorts/kxAMuVq4oxU)
+  * 요즘 생성 모델이 디퓨전 대신 쓰는 Flow Matching을 코드부터 설명—가우시안 노이즈에서 x0, 데이터에서 x1을 뽑고 시간 t로 두 점을 잇는 직선 위의 xt를 구한 뒤, 신경망이 xt와 t를 받아 방향 x1 - x0를 맞추도록 학습. 생성은 노이즈에서 출발해 신경망이 알려준 방향으로 조금씩 이동(dx/dt = u_t(x)를 오일러 방법으로 푸는 ODE)
+  * 왜 동작하는가: 생성 모델은 가우시안의 확률 밀도를 데이터가 모인 좁은 영역으로 옮기는 일이고, 이를 각 점의 방향·속도를 주는 벡터장으로 표현. 정답 벡터장은 알 수 없으므로 데이터점 하나를 고정한 직선 경로의 속도 x1 - x0를 정답으로 쓰는 조건부 손실(L_CFM)을 쓰는데, 원래 손실과 값은 상수만큼 달라도 기울기는 같음. 짝마다 직선이 엇갈려 실제 경로는 휘므로 Rectified Flow가 모델이 만든 짝으로 다시 학습해 경로를 펴고, 노이즈 스케줄 없이 적은 스텝으로 샘플링할 수 있어 Stable Diffusion 3도 채택
 * [AI Gallery - Create stunning AI-powered artwork instantly](https://aigallery.app/create)
   * [무료+무제한+검열없음+상업용까지 = 최강 이미지 생성 AI 등장! - YouTube](https://www.youtube.com/watch?v=HH5TXYPzqTY)
 * [ai-pose-gallery-zh: 中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊 | anhao](https://github.com/anhao/ai-pose-gallery-zh)
