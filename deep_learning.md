@@ -3242,6 +3242,8 @@ CVPR2016)
   * [可灵大模型](https://kling.kuaishou.com/)
   * [중국이 SORA 대체! AI 동영상 생성 게임 체인저! AI 영상 길이 화질 창의력 모두 완벽! Kling, kuaishou 오후다섯씨 - YouTube](https://www.youtube.com/watch?v=n9aZQBRq3sM)
   * [이젠 뮤비까지 만들어 버리네요… 가수 HYNN 박혜원 신곡 '영하' AI로 뮤직비디오 제작한 충격 후기 - YouTube](https://www.youtube.com/watch?v=iIE3vONbHcQ)
+* [LongCat-Video: foundational video generation model for Text-to-Video, Image-to-Video and Video-Continuation | Meituan](https://github.com/meituan-longcat/longcat-video)
+  * 텍스트→영상, 이미지→영상, 영상 이어 만들기를 한 모델로 처리하는 136억 파라미터 영상 생성 모델. 영상 이어 만들기 과제로 사전학습해 색 번짐이나 품질 저하 없이 분 단위 긴 영상을 생성하고, 시간·공간 축의 coarse-to-fine 전략과 Block Sparse Attention으로 720p 30fps 영상을 수 분 안에 생성, 다중 보상 GRPO 기반 RLHF 적용. 음성 구동 인물 영상용 LongCat-Video-Avatar도 함께 공개
 * [LongLive: Real-time Interactive Long Video Generation | NVIDIA](https://nvlabs.github.io/LongLive/)
   * [2605.18739 LongLive: Real-time Interactive Long Video Generation](https://arxiv.org/abs/2605.18739)
   * [LongLive: Real-time Interactive Long Video Generation](https://github.com/NVlabs/LongLive)
