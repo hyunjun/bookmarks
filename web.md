@@ -1165,6 +1165,8 @@ Web
   * 사이즈가 달라져도 깨지지 않도록 Flexbox나 백그라운드 이미지, 스크롤 등 CSS 팁을 정리한 사이트로 상황별로 어떤 문제가 있는지 정리, 재현 가능한 예제 제공
 * [flyonui: 🚀 The easiest, free and open-source Tailwind CSS component library with semantic classes](https://github.com/themeselection/flyonui)
   * [FlyOnUI - Tailwind CSS를 위한 컴포넌트 라이브러리 오픈소스 | GeekNews](https://news.hada.io/topic?id=17679)
+* [Glass-Dashboard](https://github.com/Mobey-eth/Glass-Dashboard)
+  * HTML과 CSS만으로 만든 게임 구독 서비스 사용자 대시보드 예제. 반투명 유리 효과(Glassmorphism)를 `backdrop-filter`·linear gradient·z-index·flex 배치로 구현한 학습용 프로젝트
 * [Keyframes.app](https://keyframes.app/)
 * [Open Props: sub-atomic styles](https://open-props.style/)
   * [State of CSS 2023](https://2023.stateofcss.com/en-US/)에 따르면 관심/만족도에서 Tailwind CSS를 앞지름
