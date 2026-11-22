@@ -487,6 +487,9 @@ Vision
   * [Pixerise - 고성능 3D 소프트웨어 렌더링 엔진 테스트](https://webnautes.tistory.com/2427)
 * [Pl@ntNet](https://github.com/plantnet)
   * [Identify flowers and trees with open source | Opensource.com](https://opensource.com/article/21/7/open-source-plantnet)
+* [pointdit: PointDiT: Pixel-Space Diffusion for Monocular Geometry Estimation | google-research](https://github.com/google-research/pointdit)
+  * [PointDiT](https://haofeixu.github.io/pointdit/)
+  * 이미지 한 장에서 3D 기하를 추정하는 픽셀 공간 Diffusion Transformer(ICML 2026). 고정된 DINOv3의 이미지 토큰을 조건으로 평범한 ViT가 3D 포인트 맵 패치를 직접 디노이즈—포인트 맵 토크나이저, 잠재 확산, 혼합 아키텍처, 복잡한 손실 설계 없이 구성. B·L·H 크기별 256·512 해상도 모델 공개
 * [Realtime Multi-Person Pose Estimation](https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation)
 * [RelayVSR: Large-Small Model Collaboration for Efficient Real-World Video Super-Resolution | kopperx](https://github.com/kopperx/RelayVSR)
   * [RelayVSR project page](https://kopperx.github.io/RelayVSR)
