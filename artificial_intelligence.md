@@ -3459,6 +3459,10 @@ Artificial Intelligence
   * [dflash-2 컬렉션 · Hugging Face](https://huggingface.co/collections/incoai/dflash-2)
   * [DFlash 2, 병렬 Drafting으로 LLM 추론 속도를 높이는 방법 | digitalbourgeois](https://digitalbourgeois.tistory.com/3556)
   * 자기회귀 LLM의 순차 디코딩 병목을 투기적 디코딩으로 완화하되, 기존 방식이 드래프팅 자체를 자기회귀로 해 여전히 순차적이라는 한계를 지적. 병렬 생성이 가능한 diffusion LLM을 블록 디퓨전 드래프터로 써서 속도를 높이는 접근
+* [2604.07609 Blink: CPU-Free LLM Inference by Delegating the Serving Stack to GPU and SmartNIC](https://arxiv.org/html/2604.07609)
+  * [Blink: GPU와 SmartNIC 기반의 CPU-Free LLM 추론 아키텍처와 성능 개선 효과 | digitalbourgeois](https://digitalbourgeois.tistory.com/4618)
+  * 기존 LLM 서빙은 요청 수락·연속 배칭·KV 캐시 관리·CUDA 커널 호출을 호스트 CPU가 토큰마다 맡아, 같은 서버의 다른 작업이 CPU를 쓰면 처리량이 단독 실행의 28~54%(TensorRT-LLM·SGLang·vLLM)로 떨어짐. Blink는 요청 처리를 SmartNIC에 넘겨 RDMA로 입력을 GPU 메모리에 바로 넣고, 상주 GPU 커널이 배칭·스케줄링·KV 캐시 관리를 수행해 정상 추론 경로에서 CPU를 제거
+  * 단독 실행에서도 기존 시스템보다 P99 TTFT 최대 8.47배·P99 TPOT 최대 3.40배 단축, 디코드 처리량 최대 2.1배, 토큰당 에너지 최대 48.6% 절감. CPU 간섭 아래에서도 성능 유지
 * [5 Github repos that print $$$ | Corey Ganim - YouTube](https://www.youtube.com/watch?v=LxHeTQWqDjE)
   * AI 서비스 사업용으로 소개한 오픈소스 5개—Scrapling(적응형 웹 스크래핑), Dify(LLM 앱·워크플로 플랫폼), OpenSEO(Semrush·Ahrefs 대안), OpenShorts(롱폼→세로 숏폼 클립 생성), Presenton(AI 프레젠테이션 생성). 각 항목은 web.md·nlp.md·business.md·이 파일 Video·presentation.md에 개별 등록
 * [A2A](https://github.com/google/A2A)
@@ -6217,6 +6221,7 @@ Artificial Intelligence
   * 인수테스트를 적용한 뒤 생각이 바뀜. 코드가 아니라 외부 행위를 검증하고, 명세는 가볍게 써서 코드와 함께 갱신하며 승인 왕복 횟수를 줄이고, 필요할 때는 이해할 수 있게 해 두되 개발 조직의 병목은 코딩이 아니라 점진적·안정적 반영이라는 정리. "파도를 멈출 수는 없지만 서핑하는 법을 배울 수는 있다"
 * [If you stop writing code, you also get worse at reviewing it | cekrem.github.io](https://cekrem.github.io/posts/if-you-stop-writing-code-you-also-get-worse-at-reviewing-it/)
   * [코드 작성을 멈추면 코드 리뷰 실력도 떨어진다 | GeekNews](https://news.hada.io/topic?id=37534)
+  * [AI 시대, 코드를 직접 작성하지 않는 개발자는 실력이 향상될 수 있을까요? | digitalbourgeois](https://digitalbourgeois.tistory.com/4634)
   * 어느 분야든 실력은 직접 연습해야 유지되는데 소프트웨어 엔지니어링만 "연습을 멈춰도 실력이 는다"고 착각한다는 주장. 기타리스트가 연주를 그만두고 남에게 지시하고 듣기만 하거나, 작가가 쓰기를 멈추고 AI가 쓴 글만 읽으며 피드백만 한다면 실력이 떨어질 것이라는 비유—"Claude가 만든 코드를 전부 리뷰한다"로는 부족하고, 실제로는 절반도 읽지 않게 됨
   * 코드 작성이 엔지니어링의 전부는 아니어도 좋은 코드를 알아보려면 계속 써봐야 하고, 문제 해결 능력도 연습을 멈추는 순간 정체. LLM에 반복 의존하면 "어렵고 노력이 드는 일은 시도조차 하지 말라"는 습관이 뇌에 새겨져 배움과 장인 정신, 즐거움이 사라진다고 경고
 * [김성완 - 소프트웨어는 이제 '자산'이 아니라 '종이컵'이다 | Facebook](https://www.facebook.com/seongwan.kim.3/posts/pfbid0hUh1kYQznjGYie8AuW7QmfoyCqeoGg6Qt6iJzDUroBuH7hobGfWFM9qWrG6mqStwl)
@@ -6660,6 +6665,8 @@ Artificial Intelligence
   * [구글이 또 무료로? 구글 OPAL, n8n·Make 대체할 수 있을까? - YouTube](https://www.youtube.com/watch?v=-xW4rko5Q-M)
 * [open-code-review: Hybrid architecture code review tool — deterministic pipelines + LLM Agent | Alibaba](https://github.com/alibaba/open-code-review)
   * [Open Code Review 공식 사이트](https://open-codereview.ai/)
+  * [개발자 2만 명이 쓰던 알리바바 코드 리뷰 AI, 공짜로 풀렸다 - YouTube](https://www.youtube.com/shorts/NPHW6-SI9CY)
+    * 알리바바가 사내에서 2년간 쓰며 개발자 2만 명이 리뷰를 300만 번 넘게 돌린 도구를 공개. 볼 파일 고르기·묶기·코멘트 위치 잡기는 정해진 코드가 하고 판단만 AI가 맡아, 큰 변경에서 일부 파일만 보거나 줄 번호가 어긋나는 문제를 줄임. 알리바바 테스트에서 같은 모델의 Claude Code 대비 정확도는 두 배 이상, 시간은 13분→1분 23초, 토큰은 1/9. Claude Code 플러그인으로 설치하면 별도 키 없이 쓰던 Claude로 동작
   * Alibaba 규모에서 검증된(수백만 실제 태스크) AI 코드 리뷰 도구. 결정론적 파이프라인+LLM 에이전트 하이브리드 구조로 정확한 라인 단위 코멘트, 다국어 내장 룰셋(NPE·스레드 안전성·XSS·SQL 인젝션), OpenAI·Anthropic 호환—어떤 LLM이든 연결하고 데이터는 완전 프라이빗 유지. `npm i -g @alibaba-group/open-code-review`, OpenSSF Gold
 * [openai-cs-agents-demo: Demo of a customer service use case implemented with the OpenAI Agents SDK](https://github.com/openai/openai-cs-agents-demo)
   * [OpenAI + Temporal: Building Durable, Production Ready Agents - Cornelia Davis, Temporal - YouTube](https://www.youtube.com/watch?v=k8cnVCMYmNc)
@@ -7690,6 +7697,9 @@ Artificial Intelligence
     * 모델이 좋아지면서 지난 1년간 Claude Code 설정에 덧붙여 온 것들이 오히려 발목을 잡는다는 발표(한국어 해설 영상 기준 정리). CLAUDE.md는 확 줄일 것—대문자 IMPORTANT·NEVER 강조는 지금 모델을 엉뚱한 쪽으로 몰고, 코드에서 알 수 있는 내용은 지우고 코드만 봐서는 모르는 사정만 남김(`/doctor prompt-audit`로 불필요한 지시 점검)
     * 자동 모드는 위험한 명령을 사람(14%)보다 훨씬 잘 막지만(89%) 일부는 통과하므로, 절대 금지 사항은 거부 규칙에(.env 등) 적고 샌드박스를 함께 켜 테스트 중 도는 서드파티 코드까지 OS 수준에서 차단. 오래 걸리는 일은 저장소만 받아 도는 클라우드 세션에 맡김
     * 결과 확인도 자동화—훅으로 파일 수정 시 검사·종료 시 테스트를 강제하고 실패 시 종료 코드 2를 반환해 Claude가 다시 고치게 함, 리뷰는 코드를 쓰지 않은 새 Claude에게, 변경 위험도에 따라 사람 검토 인원 차등. 지휘 세션(Fable 5.2)이 일을 나눠 작업 스레드(Opus 5.5)를 띄우고 결과를 검증하는 구조에서는 완료 기준을 명확히 하고 작게 나눠 각각 테스트 가능하게 맡길 것
+  * [3dviz-pro-max: Agent skill for creative 3D visualization: turn an idea into a Three.js/Blender scene worth exploring](https://github.com/viettranx/3dviz-pro-max)
+    * [3Dviz Pro Max — Turn an idea into a 3D scene worth exploring](https://3dviz.dev)
+    * 한 문장의 아이디어를 탐색할 수 있는 3D 장면으로 만드는 에이전트 스킬—세계의 형태와 규칙을 잡고 상호작용을 넣은 뒤 실제 화면에 나온 결과를 확인하는 10단계 작업 흐름. 검색 가능한 레시피·지식 카탈로그, 실행 가능한 Three.js 템플릿·키트, 에이전트가 렌더링한 프레임을 직접 살펴보게 하는 캡처 도구 포함. 렌더러 선택이나 명세 작성 없이 기존 프로젝트 스택에 맞춰 시작
   * [academic-research-skills: Academic Research Skills for Claude Code: research → write → review → revise → finalize](https://github.com/Imbad0202/academic-research-skills)
     * [Edward Wu - Open-source AI-powered academic research tools | Buy Me a Coffee](https://buymeacoffee.com/crucify020v)
     * 학술 연구 전체 파이프라인 지원 Claude Code 스킬 패키지. 4가지 스킬—Deep Research(13 에이전트·7 모드), Academic Paper(12 에이전트·LaTeX), Reviewer(7 에이전트·100점 평가), Pipeline(10단계 오케스트레이터). Semantic Scholar+OpenAlex+Crossref+arXiv 4-인덱스 인용 검증 게이트, 시간 일관성 검증, Socratic·Devil's Advocate 모드. APA/Chicago/MLA/IEEE/Vancouver, EN/zh-TW/zh-CN/JP. CC BY-NC 4.0
@@ -7726,6 +7736,8 @@ Artificial Intelligence
   * [animate: Procedural animation in any style for Claude Code — short single-file canvas videos with story, look and storyboard check-ins | cth9191](https://github.com/cth9191/animate)
     * 짧은 애니메이션 영상을 전부 코드로 만드는 Claude Code 스킬/플러그인(`/plugin marketplace add cth9191/animate`)—`<canvas>` 하나에 프레임 단위로 결정론적으로 그리고 소리도 절차적으로 만들어 헤드리스 브라우저+ffmpeg로 MP4 렌더. 설명 영상·연표·짧은 스토리용. 비싼 애니메이션 작업 전에 값싼 세 가지를 먼저 승인받는 흐름—인테이크 질문(주제·포맷·목소리·룩·히어로·음악·제품)→스토리 체크(고른 포맷과 번호 매긴 비트 표, 사실은 웹 검증)→룩 체크(풀사이즈 스타일 프레임 2~4장, 새 룩이면 레퍼런스와 나란히 비교)→스토리보드(비트마다 키 프레임+사운드+전환, 패널 번호로 👍/👎)→빌드→전달(비트 그리드 위 컷·스토리 아크 라우드니스·히어로 앵커링·침묵 뒤 최대 음량·내레이션 속도를 측정한 체크 동봉)
     * 스타일은 플러그인—스토리 문법·타이밍·사운드·렌더러·도구는 공유하고 스타일은 드로잉 키트만 공급(`piece.json`의 `"style"`). 내장 7종: cut paper(찢은 종이·크레용·얼굴 있는 캐릭터), crosshatch(2s로 끓는 잉크 해칭), riso(3색 리소그래프 하프톤·오버프린트·미스레지스트레이션), sketchbook(흑연+포인트 컬러·손글씨), math(manim식 검은 무대·축·그래프), pixel(실제 저해상도로 그려 최근접 업스케일·비트맵 폰트), isometric(일정한 헤어라인 등각 선화); 8번째는 레퍼런스(영상·스틸·웹페이지)에서 팔레트·선 굵기·텍스처·모션·컷 리듬을 측정해 맞춘 나만의 룩(`styles/<name>/`에 저장, 레퍼런스는 로컬에만). 내장 요소—8가지 숏폼 포맷 스토리 문법(히스토리는 셰이프 모프로 이은 연표, 미션은 비트에 컷; "상수 하나, 색은 한 의미, 페이오프 전 침묵·페이오프에 최대 음량, 끝은 바뀐 시작"), 시드 난수·카메라·셰이프 모프 전환 렌더러·신시사이저·폰 재생용 라우드니스 키트, build/tile/still/storyboard/export/review/compare 도구, ElevenLabs 커넥터나 녹음으로 받은 보이스오버를 faster-whisper 단어 타이밍에 맞춰 그림 정렬, 내 음악의 비트(템포·바·히트·드롭)를 매핑해 가장 큰 히트에 페이오프, 내 사이트 스크린샷·로고를 스타일 안에서 애니메이션, 9:16·1:1·4:5·16:9를 크롭 없이 각각 레이아웃, 긴 작품은 씬 파일별 에이전트 병렬 빌드. 예제 history-of-ai(60초 cut paper, 튜링 1950→Claude Code 2025 15시대, 셰이프 모프 13회). 요구: Node 18+·Playwright Chromium·ffmpeg
+  * [antialgorithm: Agent skill that steers the model away from its first, most average pick in creative work: names, ideas, logo, posters, UI](https://github.com/mankidev/antialgorithm)
+    * 이름·이야기·게임 아이디어·포스터·UI 같은 창작 작업에서 모델이 가장 먼저 떠올린 평균적인 선택을 스스로 지목하게 한 뒤, 프로젝트에서 찾은 이유를 근거로 거기서 벗어나게 하는 스킬. 요청이 빈약할 때 `seed.py`가 시스템 난수로 출발점(제작 방식·색·레이아웃·서체, 글의 목소리·어조 등)을 뽑고 최근 값은 건너뛰어 세션마다 반복을 피함
   * [anti-slop: Rules for an AI coding agent to filter out generic AI-generated UI designs, text, and code | miqdadbadjuber](https://github.com/miqdadbadjuber/anti-slop)
     * [antislop.ai.id](https://antislop.ai.id)
     * [AI 코딩 결과물의 품질을 높이는 방법, Antislop의 핵심 기능과 활용 방안 | digitalbourgeois](https://digitalbourgeois.tistory.com/4436)
@@ -8227,6 +8239,8 @@ Artificial Intelligence
     * Claude Code 터미널별 AI 에이전트를 가상 사무실의 픽셀 아트 캐릭터로 시각화하는 VS Code 확장. 실시간 활동 추적(타이핑/읽기/대기), 사무실 커스터마이징, 음성 알림 지원
   * [planning-with-files: Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition](https://github.com/OthmanAdi/planning-with-files)
     * [Planning with Files: Manus 방식으로 AI 에이전트 컨텍스트 문제 해결하기 - AI Sparkup](https://aisparkup.com/posts/8340)
+    * [코딩 에이전트의 장시간 작업을 안정적으로 관리하는 파일 기반 계획 시스템, Planning with Files | digitalbourgeois](https://digitalbourgeois.tistory.com/4629)
+      * `task_plan.md`(목표·단계 체크박스)·`findings.md`(조사 결과·결정)·`progress.md`(진행 상황) 세 파일에 작업 상태를 남겨 컨텍스트 초기화나 세션 종료 뒤에도 이어가는 구조—컨텍스트 창은 RAM, 파일시스템은 디스크로 쓰는 발상. 라이프사이클 훅으로 활성 계획을 다시 주입하고 계획 해시(SHA-256)를 검증하며 모든 단계가 끝나기 전에는 종료를 제한, 장시간 실행용 Autonomous·Gated 모드 제공
     * [Planning with Files: Manus 방식으로 AI 에이전트 컨텍스트 문제 해결 | GeekNews](https://news.hada.io/topic?id=25841)
   * [playwright-skill: Claude Skill for writing and executing Playwright browser automation](https://github.com/lackeyjb/playwright-skill)
   * [plugins-for-claude-natives: Claude Code plugins for power users](https://github.com/team-attention/plugins-for-claude-natives/)
@@ -8333,6 +8347,7 @@ Artificial Intelligence
     * 설명이 ".claude directory"에서 ".agents directory"로 바뀌며 Claude Code 전용에서 범용 에이전트 스킬로—Claude Code는 공식 마켓플레이스 플러그인(`claude plugin install mattpocock-skills@claude-plugins-official`, 자동 업데이트), Codex·GitHub Copilot(CLI·VS Code)은 플러그인 마켓플레이스 추가, Gemini CLI는 `gemini skills install`, 그 외 cursor·opencode·devin·windsurf·amp·pi는 `npx skills@latest add mattpocock/skills -a <agent>`(skills.sh는 편집 가능한 파일 복사, 플러그인과 둘 다 설치하면 스킬이 두 번 잡힘). 설치 후 레포마다 `/setup-matt-pocock-skills`를 한 번 실행해 이슈 트래커(GitHub·GitLab·로컬 파일)·트리아지 라벨·문서 저장 위치를 지정. 용어집 관례는 예전 `CONTEXT.md` 이름에서 바뀜
   * [skills: Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows end to end | NVIDIA](https://github.com/nvidia/skills)
     * [NVIDIA-Verified Agent Skills | NVIDIA Skill Documentation](https://docs.nvidia.com/skills)
+    * [NVIDIA Agent Skills로 확장하는 AI 코딩 에이전트의 기술 활용과 관리 체계 | digitalbourgeois](https://digitalbourgeois.tistory.com/4624)
     * NVIDIA가 검증한 공식 에이전트 스킬 카탈로그—Physical AI·로보틱스, 시뮬레이션, CUDA-X 라이브러리, RAG·AI Blueprints, 플랫폼 도구 사용법을 에이전트에게 가르치는 스킬을 각 제품 저장소에서 관리하고 여기에 매일 미러링. `npx skills add nvidia/skills --skill nvidia-skill-finder --yes`로 스킬 파인더를 설치하면 용도에 맞는 스킬을 찾아 설치해 줌
   * [skillstead: Practical, portable skills for agentic coding workflows](https://github.com/kyungseo/skillstead)
     * [svg-infographic 스킬 예제 (README.ko)](https://github.com/kyungseo/skillstead/blob/main/examples/svg-infographic/README.ko.md)
@@ -8491,6 +8506,11 @@ Artificial Intelligence
   * [코딩 에이전트들이 이제는 정말 완벽... 그 결과물을 읽고 리뷰하기 전까지는 | LinkedIn](https://www.linkedin.com/posts/eatnug_github-team-attentionsidecar-stay-in-activity-7404656180175982593-lo30/)
 * [codesight: AI context generator for Claude Code, Cursor, Copilot, Codex](https://github.com/Houseofmvps/codesight)
   * 코드베이스 자동 분석으로 문서 맵 생성, AI 어시스턴트가 파일 탐색 없이 프로젝트 구조 파악. 대화당 수천 토큰 절약
+* [Codewhale: An open-source coding agent for your terminal, written in Rust. It works with any model, can split one task across several agents, and every line of it is yours to read](https://github.com/codewhale-hq/Codewhale)
+  * [Codewhale · The model can be anyone's. The agent should be yours.](https://codewhale.net/)
+  * [🐋 Codewhale: 터미널 에이전트를 고를 때 라이선스보다 먼저 볼 것 | fornewchallenge](https://fornewchallenge.tistory.com/entry/%F0%9F%90%8B-Codewhale-%ED%84%B0%EB%AF%B8%EB%84%90-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EB%A5%BC-%EA%B3%A0%EB%A5%BC-%EB%95%8C-%EB%9D%BC%EC%9D%B4%EC%84%A0%EC%8A%A4%EB%B3%B4%EB%8B%A4-%EB%A8%BC%EC%A0%80-%EB%B3%BC-%EA%B2%83)
+    * 모델 목록·가격보다 "무엇을 고쳤고 어떤 명령을 승인받아 실행했으며 되돌릴 수 있는가"를 먼저 보라는 관점의 소개. 세션이 바꾼 파일·실행한 명령·웹/MCP 호출·시작한 에이전트·승인자·실패 항목을 한 목록으로 남기는 영수증(`/receipts`)과 요청 단위 되돌리기(`/undo`·`/restore`)가 핵심
+  * 터미널 코딩 에이전트. Plan(읽기만)·Work(편집·실행)·Operate(목표 확인까지 계속) 모드와 권한 수준(기본 Ask: 저장소 안 편집은 바로 적용, 읽기 전용이 아닌 셸 명령은 확인), 제공자 40개 이상 내장(기본 DeepSeek, Ollama·vLLM 로컬 서버 연결), 서브에이전트·플릿으로 한 작업 분담, 스크립트용 `exec`·로컬 웹 클라이언트·PR 검토·런타임 API 등 여러 진입점
 * [codex: Lightweight coding agent that runs in your terminal](https://github.com/openai/codex)
   * [Codex App Server README](https://github.com/openai/codex/blob/main/codex-rs/app-server/README.md)
   * [OpenAI Codex | OpenAI](https://openai.com/index/openai-codex/)
@@ -9442,7 +9462,7 @@ Artificial Intelligence
   * [OpenMinis: The AI Agent app across platforms](https://github.com/OpenMinis/OpenMinis)
   * [이제 AI가 스마트폰을 직접 씁니다… '오픈미니스' 최초 공개 | 코난쌤 - YouTube](https://www.youtube.com/watch?v=_V5H_e3530A)
   * 크로스플랫폼 무료 오픈소스 AI 에이전트 앱—코난쌤 영상은 아이폰에서 설치·ChatGPT 연동, 카카오톡 실행 자동화, 사진첩 분석·중복 사진 정리, HWPX·PPT 문서 생성, 온디바이스 로컬 모델·Apple Foundation 연결, 네이버 검색·이미지 생성 브라우저 자동화까지 시연
-* [OpenMontage: World's First Open-Source, Agentic Video Production System](https://github.com/calesthio/OpenMontage)
+* [OpenMontage: World's First Open-Source, Agentic Video Production System](https://github.com/OpenMontageInc/OpenMontage)
   * AI 코딩 어시스턴트를 영상 제작 스튜디오로 전환. 11개 프로덕션 파이프라인, 49개 도구, 400+ 에이전트 스킬. 리서치→편집→합성 자동화. Claude Code/Cursor/Copilot 지원
 * [OpenMythos: Open-source reverse-engineered Claude Mythos architecture](https://github.com/kyegomez/OpenMythos)
   * [OpenMythos - Claude Mythos 역설계 오픈소스 | GeekNews](https://news.hada.io/topic?id=28689)
@@ -10043,6 +10063,8 @@ Artificial Intelligence
   * [Opus 5.5 videos | Skillry](https://skillry.dev/ai-videos/opus-5-5)
   * [Awesome Opus 5.5 Videos | digitalbourgeois](https://digitalbourgeois.tistory.com/4004)
   * Claude Opus 5.5에 애니메이션을 코드(HTML·Canvas·SVG·Three.js·GSAP·GLSL)로 쓰게 해 만든 바이럴 영상과 창작자가 공개한 프롬프트(없으면 원본 X 포스트)를 모은 큐레이션. 프롬프트 703개(`prompts/`·`data/videos.json`), 그중 418개는 Skillry에서 원본 옆에 라이브 리메이크를 나란히 재생, README 하이라이트 100개는 모션 그래픽 58·설명형 16·3D 장면 14·게임/인터랙티브 12. 하이라이트 기술 태그는 Canvas 72·SVG 41·GSAP/Three.js/GLSL 각 20. 쓰는 법: 프롬프트 블록을 복사해 Claude Code·Claude 앱·Opus 5.5 에이전트에 붙이고 단일 HTML로 렌더링하게 한 뒤 필요하면 화면을 녹화. 2026-10-12 프롬프트 285개 추가. 개별 영상·프롬프트 권리는 각 창작자에게 귀속
+* [claude-make-an-anime: A Claude Code plugin that turns a story into a finished anime](https://github.com/makevoid/claude-make-an-anime)
+  * 이야기 하나를 완성된 애니메이션으로 만드는 Claude Code 플러그인—캐릭터 시트, 카메라 연출이 들어간 샷, 목소리, 배경 음악, 타이틀, 자막, 효과음, 마무리 VFX까지 처리. 12초 장면부터 12분 넘는 내레이션 다큐(약 40장면)까지 길이에 상관없이 같은 단계로 제작. 유료 생성은 모두 Fal을 거쳐 Fal API 키가 필요하고 Ruby·FFmpeg·ImageMagick 등을 사용
 * [DemoCut](https://democut.ai/)
   * [AI 영상 제작을 배포 파이프라인처럼: DevOps 회사가 DemoCut을 만드는 이유 | 인포그랩](https://insight.infograb.net/blog/2026/10/28/democut/)
   * [구글 CEO가 말한 AI 화면의 미래 | AI트렌드 1화 | 데모컷 - YouTube](https://www.youtube.com/shorts/AGLUifu3oAk)
@@ -10055,6 +10077,7 @@ Artificial Intelligence
   * 토킹헤드·설명형 숏폼 영상의 대본(또는 SRT 자막)을 Claude Code·Codex·Cursor·Gemini CLI 등 코딩 에이전트에 주면, 시각화할 문장을 골라 2색 리소그래프 인쇄 풍의 세로 1080×1920 mp4 정보 애니메이션(B-roll)으로 만드는 스킬. 큰 숫자·다수→소수·전후 비교·핵심 인용 등 10종 템플릿이 종이·잉크·폰트·헤더를 공유해 한 에피소드가 통일된 시리즈로 보임
   * 화면 텍스트는 발화에서만 발췌(없는 수치·UI는 비워두거나 placeholder), 자막 타이밍에 길이 맞춤, 스토리보드→전체 샷 스틸→최종 렌더 3단계마다 승인을 받아 수정 비용 절감. 세로 플랫폼 상단바·자막 영역·우측 버튼을 피하고 글자 크기·대비·프레임 이탈 자동 점검. 투명 배경판 제공. Node.js 22+·Chrome·ffmpeg만으로 이미지 생성 모델·네트워크 없이 로컬 오프라인 렌더. 타이포그래피는 중국어 기준(라틴 문자도 가능)
 * [FreeVideo: Make videos on the computer you already own. FreeVideo runs MiniMax H3 in as little as 8 GB of VRAM and 16 GB of RAM, and adapts its acceleration path to your hardware](https://github.com/flashml-org/freevideo)
+  * [일반 GPU 환경에서 고품질 AI 동영상 생성을 지원하는 로컬 추론 엔진, FreeVideo | digitalbourgeois](https://digitalbourgeois.tistory.com/4616)
   * MiniMax H3를 8GB VRAM·16GB RAM 소비자 GPU에서 돌리는 로컬 추론 엔진—OpenVDN의 8스텝 VDN-H3 모델과 Video DeltaNet 하이브리드 어텐션 기반으로 VRAM·시스템 메모리·디스크를 조율해 가중치 배치·연산 정밀도(GeForce·RTX 30은 int8, 워크스테이션·데이터센터는 FP8)·어텐션 커널을 하드웨어에 맞게 자동 선택. ComfyUI 플러그인으로 동작하며 Windows·macOS(Apple silicon)·Linux 런처 제공
   * Light~Max 4단계 품질, 반해상도 미리보기 후 마음에 드는 것만 완성, 생성 영상을 ComfyUI 캔버스에 떨어뜨리면 프롬프트·시드·설정 복원, 커뮤니티 LoRA, v0.4.0에서 Claude Code·Codex 같은 에이전트가 스스로 영상 생성·1분 이상 영상·타임라인 편집
 * [huashu-art-motion: 艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来 — 코딩 에이전트가 예술 스타일을 움직이는 그림으로 쓰게 하는 스킬](https://github.com/alchaincyf/huashu-art-motion)
