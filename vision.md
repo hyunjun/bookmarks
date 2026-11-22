@@ -468,6 +468,9 @@ Vision
 * [OmniParser](https://microsoft.github.io/OmniParser/)
   * [OmniParser: A simple screen parsing tool towards pure vision based GUI agent](https://github.com/microsoft/OmniParser)
   * GUI 스크린샷 파서, 최근 나온 클로드 Computer Use 같은 GUI 상호작용 에이전트 개발 가능할 걸로 예상. 아이콘 감지·기능 설명으로 UI 스크린샷을 구조화 요소로 파싱해 VLM의 grounded 액션 생성 향상. V2는 GUI grounding 벤치마크 SOTA
+* [openMVS: open Structure-fom-Motion and Multi-View Stereo reconstruction library](https://github.com/cdcseacave/openmvs)
+  * [OpenMVS by cdcseacave](http://cdcseacave.github.io)
+  * 여러 장의 사진으로 3D를 복원하는 파이프라인 중 Multi-View Stereo 단계를 맡는 라이브러리. OpenMVG 같은 Structure-from-Motion 도구가 낸 카메라 포즈와 희소 점군을 입력으로 받아 조밀한 점군 복원→메시 복원→메시 정제→메시 텍스처링까지 수행. 메모리에 안 들어가는 대규모 장면은 하위 장면으로 나눠 복원 후 병합하는 스크립트 제공
 * [**OpenPose: A Real-Time Multi-Person Keypoint Detection And Multi-Threading C++ Library**](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
   * [Human Pose Detection](https://medium.com/@samim/human-pose-detection-51268e95ddc2)
   * [Multi-Person Face/Body/Hand Keypoint Detection](https://www.youtube.com/watch?v=cPiN2ncuK0Y)
