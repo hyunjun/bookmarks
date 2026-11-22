@@ -2187,6 +2187,10 @@ Artificial Intelligence
 * [PaperClip — Open-Source Orchestration Platform for zero-human companies](https://paperclip.ing/)
   * [paperclip: Open-Source Orchestration Platform](https://github.com/paperclipai/paperclip)
   * [PaperClip + OpenClaw + OpenCode: The Ultimate Open Source Swarm Intelligence Mission Control - YouTube](https://www.youtube.com/watch?v=iNxNkvZfNHM)
+* [paper-orchestra: PaperOrchestra is a multi-agent framework for automated AI research paper writing | google-research](https://github.com/google-research/paper-orchestra)
+  * [PaperOrchestra](https://yiwen-song.github.io/paper_orchestra/)
+  * [Google Research가 AI 논문 작성을 자동화하는 다중 에이전트 프레임워크 PaperOrchestra를 공개했습니다 | Dohyun Jung](https://www.linkedin.com/feed/update/urn:li:activity:7529754359094771712/)
+  * 연구 아이디어와 실험 기록 같은 정리되지 않은 초기 자료를 제출 가능한 수준의 LaTeX 논문으로 바꾸는 다중 에이전트 프레임워크. 개요 작성·문헌 검토·섹션 집필·내용 다듬기·도표 생성 에이전트가 분업하고, 관련 문헌을 자동으로 찾아 우선순위를 매겨 본문에 통합하며 학회 템플릿에 맞춰 출력. 스크립트·CLI로 파이프라인을 실행하고 Streamlit 데모와 자동 평가 스크립트 포함(데이터셋은 추후 공개 예정)
 * [Paperthin — Low-level agentic design patterns](https://paperthin.ai)
   * [paperthin: Turning old engineering wisdom into reflexes your agent reaches for on its own—on any agent](https://github.com/LilMGenius/paperthin)
   * [AI 에이전트의 작업 품질을 높이는 Paperthin, 엔지니어링 원칙을 자동화하는 저수준 설계 패턴 | digitalbourgeois](https://digitalbourgeois.tistory.com/3585)
@@ -2236,6 +2240,13 @@ Artificial Intelligence
       * Hacker News 의견 정리—TUI에서 데스크톱 GUI로 옮긴 사람들(세션 대량 관리, 깔끔한 대화 기록)과 여러 에이전트 동시 실행에는 TUI가 낫다는 쪽의 논쟁, 공급자 종속을 피하려 여러 추론 서비스로 전환 가능한 도구를 고른다는 이유, Pi를 Anthropic 구독과 쓰면 약관 위반으로 차단될 수 있고 확장(제3자 코드)에 OAuth 토큰을 맡기는 위험이 있으며 압축·캐시는 Claude Code가 낫다는 반론, 대화를 뒤에만 추가하는 구조가 아니면 캐시가 깨진다는 지적
     * 오랜 Claude Code 사용자가 작은 불만이 쌓여 주 코딩 하네스를 Pi로 옮긴 이유. AGENTS.md를 뒤늦게 지원해 CLAUDE.md와 복사·심볼릭 링크로 맞춰야 했던 점, IDE에 연결된 세션이 하나뿐이라 두 번째 탭이 텍스트 선택을 못 받는 오래된 문제(Pi에서는 확장으로 20분 만에 해결), 슬래시 명령·상태 줄·서브에이전트 출력이 부실한 VS Code GUI 확장, 품질보다 기능 추가(dynamic workflows·agent teams·ultrareview)가 앞서는 릴리스, 릴리스 대부분이 시스템 프롬프트나 도구 설명을 바꿔 개인 설정이 흔들리는 점, 모델이 이미 아는 git·PR 안내로 긴 Bash 도구 설명 같은 오버헤드를 꼽음
     * 비난만은 아니라는 단서—하네스는 새 분야이고 먼저 혁신한 쪽이 어려우며 Pi 같은 후발 도구는 무엇이 핵심인지 보고 시작한 이점이 있음. 다만 Claude Code는 요청에 "아니오"라고 말하는 사람 없이 각자 워크플로에 맞는 기능이 덧붙은, 방향이 뚜렷하지 않은 제품처럼 느껴진다고 평가. Pi는 초기 며칠의 손질 뒤 안정성·미니멀리즘·높은 커스터마이징이 만족스러워 확장을 직접 만들어 쓰는 중
+  * [이 영상 4개로 에이전트 앱 개발자라면 무조건 알아야 하는 Pi 를 학습하세요 | Jeongmin Lee](https://www.linkedin.com/posts/jyoung105_%EC%9D%B4-%EC%98%81%EC%83%81-4%EA%B0%9C%EB%A1%9C-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EC%95%B1-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%9D%BC%EB%A9%B4-%EB%AC%B4%EC%A1%B0%EA%B1%B4-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%98%EB%8A%94-pi-%EB%A5%BC-share-7530171130570096640-Rlzo/)
+    * [Building pi in a World of Slop — Mario Zechner | AI Engineer - YouTube](https://www.youtube.com/watch?v=RjfbvDXpFls&t=324s)
+    * [Building Pi, and what makes self-modifying software so fascinating | The Pragmatic Engineer - YouTube](https://www.youtube.com/watch?v=n5f51gtuGHE&t=2255s)
+    * [312 - Understanding Pi Durable with Mario & Armin of Earendil | Fragmented - AI Developer Podcast - YouTube](https://www.youtube.com/watch?v=7mBQknCnovM&t=581s)
+    * [Pi Durable - Mario Zechner | Vienna AI Engineering - YouTube](https://www.youtube.com/watch?v=EreOxs9Vvrg&t=207s)
+    * 이름 정리: Pi는 꼭 필요한 기능만 담고 나머지는 플러그인으로 붙이는 가벼운 코딩 에이전트, omp(Oh My Pi)는 서브에이전트·LSP/DAP·슬래시 명령·내장 도구를 미리 넣은 쪽. Pi SDK는 에이전트의 대화·도구·플러그인을 내 앱에 부품처럼 임베드하는 도구, Pi Durable은 장기 실행 에이전트에 태스크 체크포인트·크래시 복구·스케줄링·공유 상태를 주는 도구—한 번의 대화로 끝나는 작업이면 SDK, 며칠씩 이어지는 일이면 Durable
+    * 추천 순서와 시작 지점: ①05:24부터 작은 코어·확장·워크플로 제어권 ②37:35부터 모델 인터페이스·에이전트 루프·코딩 에이전트의 관계 ③09:41부터 SDK가 있는데도 Durable을 따로 만드는 이유 ④03:27부터 에이전트가 멈췄을 때 같은 작업이 두 번 실행되지 않게 막는 방법
   * [pi-context: Letting AI Actively Manage Its Own Context | ttttmr](https://github.com/ttttmr/pi-context)
     * Pi용 Agentic Context Management(ACM) 확장—유용한 지점에 체크포인트(`context_checkpoint`)를 남기고 활성 히스토리 구조를 타임라인(`context_timeline`)으로 보고, 끝난 경로의 잡음을 상태 요약으로 압축(`context_compact`). kimi-cli d-mail에서 영감을 받아 Pi 세션 트리에 무손실 time travel을 가져왔으며 압축 후에도 이전 메시지는 보이고 백업 체크포인트·`/tree`로 원래 컨텍스트로 복귀. 이름은 Git과 비슷하지만 대화 기록만 관리하고 파일·외부 상태는 되돌리지 않음. Pi ≥1.2.0에서 자동 동작, `/context` 대시보드로 컨텍스트 창 사용량·토큰 분포 확인. `pi install npm:pi-context`
   * [PI-Desktop | A modular desktop workspace for AI agents](https://pi-docs.aiuo.net/)
