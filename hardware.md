@@ -151,6 +151,10 @@ Hardware
   * 알리바바의 AI 에이전트 코딩 플랫폼 Qoder가 2026년 9월 3일 공식 출시한 안경 버전. 단순 스마트 안경이 아니라 개발자의 일하는 방식을 바꿀 수 있는 웨어러블 코딩 인터페이스
 * [텐스토렌트, RISC-V 기반 데스크톱 AI 워크스테이션 공개..."1200억 파라미터 모델 온디바이스 실행" | 인공지능신문](https://www.aitimes.kr/news/articleView.html?idxno=39028)
   * 짐 켈러의 Tenstorrent가 공개한 TT-QuietBox 2—액체 냉각 저소음 데스크톱에서 최대 120B 파라미터 LLM을 로컬·오픈소스 스택으로 실행하는 RISC-V 기반 AI 워크스테이션. 컴파일러부터 커널까지 전 소프트웨어 계층을 오픈소스로 제공해 모든 계층을 확인·수정 가능, $9,999부터, 글로벌 출시 2분기. 클라우드 AI 지출의 55%+가 추론이라며 토큰 과금 클라우드 vs 폐쇄형 하드웨어 사이의 제3 선택지로 포지셔닝
+* [Vibecoding an inference chip | Ankit Gupta](https://ankitg.me/blog/vibecoding-inference-chip/)
+  * [코딩 에이전트로 FPGA 기반 LLM 추론 칩 구현하기: 33배 성능 향상을 이끈 바이브 코딩 실험 | digitalbourgeois](https://digitalbourgeois.tistory.com/4635)
+  * FPGA도 Verilog도 다뤄 본 적 없는 저자가 코딩 에이전트만으로 AWS F2 인스턴스의 FPGA에 DeepGrove의 3진(ternary) 가중치 LLM을 올린 기록. 클라우드 에이전트가 며칠간 실험 수백 번을 돌려 C++·Verilog를 쓰고 출력을 검증했고, 저자의 프롬프트는 대부분 "2배 더 빠르게 가 보자" 수준의 격려와 가끔의 ML 조언(speculative decoding 등). 첫 비트 정확(bit-exact) 기준선 6.43 tok/s에서 213 tok/s로 33배—버스트 어텐션, 병렬 MoE 라우터, 정확한 speculative decoding, 무손실 가중치 패킹 등 단계마다 1.5배 안팎의 개선이 누적
+  * 사람 조언의 효과: 같은 일을 먼저 해 본 팀의 설계 메모를 붙여 넣었지만 설계 아이디어 대부분은 에이전트가 이미 계획했거나 나중에 스스로 도달했고, 출력 비트를 바꾸는 수치 지름길 5개는 비트 정확 규칙 때문에 기각. 바로 효과를 낸 건 "몇 시간 걸리는 일은 하지 마라"는 진행 방식 조언—사람은 빠른 반복 방법과 정확성의 기준을 정하고, 탐색은 에이전트가 맡는 분업. 같은 벤치마크에서 비트 정확 CPU 구현(32코어)보다 1.65배 빠름
 * [2607.08993 StreamDQ: Near-Memory Weight DeQuantization in Custom HBM for Scalable AI Inference Acceleration](https://arxiv.org/html/2607.08993)
   * [Deepseek v4-Flash를 DGX spark에 올리기 | DongHyuk Im | LinkedIn](https://www.linkedin.com/posts/dhihm_deepseek-v4-flash%EB%A5%BC-dgx-spark%EC%97%90-%EC%98%AC%EB%A6%AC%EA%B8%B0-%EC%96%BC%EB%A7%88-%EC%A0%84-share-7489999069386469376-mxiR/)
   * SK하이닉스(Minki Jeong 외, 2026-07). 양자화된 가중치를 커스텀 HBM 근처에서 역양자화(near-memory dequantization)해 AI 추론 가속을 확장. LinkedIn 맥락: DRAM이 적은 DGX Spark에 DeepSeek V4 Flash를 SSD expert streaming으로 올리면 초당 1토큰, H100 4장 GLM-5.2는 약 15 tok/s—HBM expert 캐시·streaming/연산 overlap·expert 양자화/역양자화를 실험하다 PCIe 병목 안에서 "DRAM→HBM 로드 시점에 H/W로 dequant"를 떠올렸는데 마침 이 논문을 발견(작은 모델일수록 효과가 클 것이라는 평)
