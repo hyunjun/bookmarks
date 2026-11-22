@@ -139,10 +139,17 @@ Game
   * [엘리베이터 프로그래밍 게임 | GeekNews](https://news.hada.io/topic?id=4703)
 * [EnTT - a header-only, tiny and easy to use library for game programming and much more written in modern C++, mainly known for its innovative entity-component-system (ECS) model](https://github.com/skypjack/entt)
 * ['Factorio'가 실리콘밸리를 매혹한 방법 | GeekNews](https://news.hada.io/topic?id=17449)
+* [fifa-street-pc-port: ReStreet: FIFA Street (2012) recompiled for Windows PC, with online play, a launcher with friends, chat and rooms. Bring your own game](https://github.com/samuelit0davila/fifa-street-pc-port)
+  * [ReStreet — FIFA Street 2012 on PC, online again](https://samuelit0davila.github.io/fifa-street-pc-port/)
+  * Xbox 360판 FIFA Street(2012)를 재컴파일한 Windows PC 버전. 설치 파일 하나와 런처, 커뮤니티 서버의 온라인 대전(친구·채팅·게임 룸)을 제공하며 게임 파일은 포함하지 않아 본인 소유의 Xbox 360 ISO가 필요. 2.0에서 Direct3D 12·Vulkan 기반 새 그래픽 엔진과 FSR·내부 해상도 배율 등 그래픽 옵션, 자동 업데이트 추가
 * [Game - A list of popular/awesome videos games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine](https://github.com/leereilly/games)
 * [greasyphone - Play NES using smartphones as joypads](https://github.com/olahol/greasyphone#greasyphone)
 * [HACK THE PLANET - The Gibson Mainframe](https://hackthegibson.pro/)
   * 1995년 영화 *Hackers* 오마주 브라우저 해킹 시뮬 게임. Zero Cool/Acid Burn/Cereal Killer 페르소나 선택, WASD로 3D 깁슨 노드 비행, 6분 타이머 안에 방화벽 우회·패스워드 챌린지·Gibson Decrypter AI 터미널 조작. CRT/ASCII 미학 + 리더보드
+* [horizon: Minecraft: Java Edition 26.3 rewritten from scratch in Rust, checked against vanilla with 281 differential harnesses](https://github.com/horizon-rust/horizon)
+  * [Horizon: Minecraft Rust Edition, Java 26.3 rewritten in Rust](https://playhorizon.dev)
+  * Minecraft Java Edition 26.3을 Rust로 처음부터 다시 구현한 클라이언트·서버. 바닐라와 같은 지형·몹·주민·레드스톤으로 서바이벌·크리에이티브·하드코어를 지원하고 기존 세이브와 바닐라 서버에 그대로 접속. 바닐라와의 일치는 차등 테스트 하네스 281개로 검증. Minecraft 파일은 포함하지 않아 본인이 구매한 Java Edition이 필요
+  * 자체 모드 시스템과 셰이더 팩, 최대 1,024청크 시야, HDR, 컨트롤러 지원, 메모리 사용이 적고 시작이 빠른 전용 서버 소프트웨어 제공
 * [Invaders: Space Invaders clone, written in Java](https://github.com/RobertoIA/Invaders)
 * [Kaboom: an unusual Minesweeper](https://pwmarcz.pl/blog/kaboom/)
 * [LDtk by Deepnight Games](https://deepnight.itch.io/ldtk)
