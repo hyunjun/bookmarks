@@ -583,6 +583,8 @@ Artificial Intelligence
 * [AI-Driven Development Lifecycle](https://prod.d13rzhkk8cj2z0.amplifyapp.com/)
   * [AI 주도 개발 생명주기 (AI-DLC) 방법론 정의서 | AI-DLC 방법론 한국어 번역](https://serithemage.github.io/AI-DLC/)
   * [김태영 - AI 멀티 에이전트 개발 효과성 분석: AI 에이전트 11명에게 스프린트를 통째로... | Facebook](https://www.facebook.com/projectresearch/posts/pfbid031jsx4i89yF9ytDtaetVby4W9rATrJSoo7XXPUC7AgWCU8Yhvpy6QDvzshd22BMXdl)
+  * [The SDLC had PRDs, wikis, and tribal knowledge. The ADLC replaces all with files an agent can read | Rakesh Gohel](https://www.linkedin.com/posts/rakeshgohel01_aiagents-agenticai-generativeai-share-7509232566680330241-Ytpb/)
+    * SDLC의 PRD·위키·암묵지를 에이전트가 읽는 파일로 바꾸는 것이 ADLC의 핵심이라는 정리. ①`intent.md`가 PRD를 대체—백로그·유저 스토리·정제 회의 대신 발의자가 에이전트와 브레인스토밍해 무엇을·왜·어떤 제약에서 원하는지 직접 작성 ②`CLAUDE.md`가 암묵지를 대체—빌드 명령·컨벤션·아키텍처·반복되는 실수를 한 페이지 이내로 담고, 에이전트가 같은 실수를 두 번 하면 교정 내용을 추가 ③스킬은 권고(위반을 드물게), 훅은 결정적(허용·질문·차단)이므로 항상 지켜야 하는 정책은 스킬 뒤에 훅을 둘 것. 조직 지식이 사람 머리에서 버전 관리로 옮겨 가 검토·감사·강제가 가능해진다는 결론
   * [aidlc-workflows: Adaptive workflow steering rules for AI coding agents](https://github.com/awslabs/aidlc-workflows)
     * [AI-DLC-Workflows 2.0 Specification (PDF, v2)](https://github.com/awslabs/aidlc-workflows/blob/v2/assets/AI-DLC-Workflows-2.0-Specification.pdf)
     * Kiro, Amazon Q Developer, Cursor, Cline, Claude Code, GitHub Copilot 등 멀티플랫폼 지원. 3단계 적응형 워크플로우, 컨텍스트 인식 규칙으로 AI 에이전트 품질 유도
