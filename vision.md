@@ -447,6 +447,9 @@ Vision
 * [libfacedetection](https://github.com/ShiqiYu/libfacedetection)
 * [LingBot-Map: Geometric Context Transformer for streaming 3D reconstruction](https://github.com/Robbyant/lingbot-map)
   * 스트리밍 비디오에서 3D 장면을 재구성하는 피드포워드 3D 파운데이션 모델. Geometric Context Transformer 아키텍처로 연속 비디오→3D 포인트클라우드 실시간 생성. ~20 FPS, paged KV cache attention으로 10,000+ 프레임 처리, FlashInfer 가속(PyTorch 2.8+CUDA 12.8). 기존 스트리밍·최적화 기반 대비 우수한 재구성 품질, HuggingFace/ModelScope 체크포인트
+* [lotvulture: Real-time parking lot occupancy detection using existing security cameras and on-device computer vision](https://github.com/lotvulture/lotvulture)
+  * 기존 IP·RTSP 카메라를 주차장 점유 감지 센서로 바꾸는 시스템. 카메라 영상에 기기 내 컴퓨터 비전 추론을 돌려 주차면 단위 실시간 점유 지도, 초 단위로 되감는 이력 타임라인, 알림(Webhook·MQTT·이메일), 이용률 분석을 제공—바닥 매립 센서나 전용 카메라 없이 제조사 무관하게 동작
+  * 폴리곤 편집기로 주차면을 지정하고, 이중 임계값 히스테리시스로 조명·그림자에 따른 상태 깜빡임을 억제. 운영자가 오탐을 UI에서 바로잡아 학습에 반영. 커뮤니티 에디션은 CPU 추론, GPU 가속은 상용 에디션
 * [LUMINOTH - Open source Computer Vision toolkit](https://luminoth.ai/)
 * [mac-local-vision: Zero-token, on-device vision for AI agents — OCR, pixel-exact UI targeting, and face grouping on Apple Vision | junmo-kim](https://github.com/junmo-kim/mac-local-vision)
   * [스크린샷 한 장을 그대로 Claude Code나 Codex에 넘기면 토큰이 1만 9천 개쯤 나갑니다 — macvis | Junmo Kim | LinkedIn](https://www.linkedin.com/posts/junmo-kim_github-junmo-kimmac-local-vision-zero-token-share-7481760054753288192-ArWd/)
