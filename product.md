@@ -143,6 +143,10 @@ Product
 
 # Camera
 * [“흔들림 없는 4K 짐벌캠”](http://techholic.co.kr/archives/41979)
+* [M-Film · Your Canon, shot like film](https://hngseries.github.io/mfilm-canon-film-simulation/)
+  * [mfilm-canon-film-simulation: M-Film: film simulation for Canon EOS cameras with Magic Lantern. 68 film stocks (Portra, Velvia, Tri-X, CineStill…), a film-camera interface and an in-camera darkroom that develops your RAWs](https://github.com/hngseries/mfilm-canon-film-simulation)
+  * Magic Lantern이 돌아가는 Canon EOS 카메라(5D Mark III·6D·600D·650D·700D·EOS M 등)의 메뉴를 필름 카메라 인터페이스로 바꾸는 펌웨어 애드온. 68종 필름 선반에서 롤을 골라 장전하면 ISO가 필름에 맞춰지고, 촬영 후 화면에 사진이 뜨지 않으며 프레임 카운터만 올라감—롤을 다 찍은 뒤 현상해야 결과를 봄
+  * 카메라 안 암실이 롤을 프레임별로 JPEG로 현상해 밀착 인화지처럼 보여주고, RAW는 모두 보존되어 같은 롤을 다른 필름으로 다시 현상 가능. 컴퓨터에서는 Darkrooms로 현상
 
 # Car
 * [차는 살아남도록 설계됐다. 그런데 구조되도록 설계는 되었는가? | AEM](https://www.autoelectronics.co.kr/article/articleView.asp?idx=6918)
