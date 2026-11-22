@@ -1516,6 +1516,8 @@ Git
 * [git-cliff: A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️](https://github.com/orhun/git-cliff) Git 히스토리를 이용해서 체인지로그 문서를 만드는 CLI 도구
 * [gitcolony - THE NEXT GENERATION OF PULL REQUESTS](https://www.gitcolony.com/)
 * [git compound - Compose you projects using Git repositories and Ruby tasks](https://github.com/grzesiek/git_compound/)
+* [gitcraft: A visual git client, simple to use yet powerful. Light, fast and debloated](https://github.com/Vancete/GITcraft)
+  * 그래프 기반 git GUI를 단순하게 다듬은 데스크톱 클라이언트(Windows·Linux·macOS). 설치된 `git` 명령을 그대로 구동해 기존 설정·자격 증명·훅이 적용됨. 저장소별 탭, 왼쪽에 브랜치·리모트·워크트리, 가운데 그래프, 오른쪽에 커밋 안 한 변경, 아래 통합 터미널. 브랜치 표시를 더블클릭해 체크아웃·이동(변경은 자동 stash 후 재적용), 브랜치 숨기기·solo, 메시지·작성자·해시·코드(`git log -S`) 검색, 우클릭으로 커밋 메시지 수정·순서 이동·삭제(대화형 rebase 없이, 실행 취소 가능)·cherry-pick·revert·reset
 * [gitea 설치로 git 웹호스팅 서버 구축하기](https://geeksvoyage.com/raspberry%20pi/gitea-for-pi/)
 * [Git Exercises](https://gitexercises.fracz.com/) local machine에서 문제를 하나씩 해결해 git을 배우는 방식
 * [Git Explorer](https://gitexplorer.com/) Find the right commands you need without digging through the web
