@@ -1,9 +1,12 @@
 #!/bin/sh
 AMEND=""
+ALLOW_DUP=""
 FILENAMES=()
 for arg in "$@"; do
   if [ "$arg" = "--amend" ]; then
     AMEND="--amend"
+  elif [ "$arg" = "--allow-dup" ]; then
+    ALLOW_DUP="1"
   else
     FILENAMES+=("$arg")
   fi
@@ -17,8 +20,21 @@ fi
 for FILENAME in "${FILENAMES[@]}"
 do
   echo "$FILENAME"
-  sed -i '' 's/	/  /g' "$FILENAME"
+  sed -i '' 's/  /  /g' "$FILENAME"
 done
+
+# 이번 커밋에 추가되는 URL이 저장소에 이미 있으면 멈춘다. 의도한 중복이면 --allow-dup.
+if [ -z "$ALLOW_DUP" ]; then
+  if [ -n "$AMEND" ]; then
+    DUP_BASE="HEAD~1"
+  else
+    DUP_BASE="HEAD"
+  fi
+  if ! $PYTHON3 check_duplicate_urls.py --diff --base "$DUP_BASE" "${FILENAMES[@]}"; then
+    echo "중복 URL이 있어 커밋을 멈춥니다. 그대로 커밋하려면 --allow-dup을 붙이세요."
+    exit 1
+  fi
+fi
 
 # '@@' hunk 헤더도 함께 넘긴다 — subject 생성 시 hunk 단위로 북마크 그룹을 구분하기 위함.
 # (replace_commit_message.py가 본문에서는 '@@' 라인을 무시하므로 본문 출력은 동일)
