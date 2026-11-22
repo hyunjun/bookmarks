@@ -1735,6 +1735,9 @@ Artificial Intelligence
   * 3.3K 라인 시드에서 시작해 스킬 트리를 성장시키는 자기 진화 에이전트. 전체 시스템 제어 달성, 토큰 사용량 6배 절감. 100줄 Agent Loop 코어, 30K 미만 컨텍스트, 계층적 메모리(메타 규칙·인사이트·글로벌 지식·태스크 스킬·세션 아카이브), self-bootstrap 증명
   * [GenericAgent - 3K 줄 코드로 성장하는 자체 진화 AI 에이전트](https://fornewchallenge.tistory.com/entry/%F0%9F%9A%80-GenericAgent-3K-%EC%A4%84-%EC%BD%94%EB%93%9C%EB%A1%9C-%EC%84%B1%EC%9E%A5%ED%95%98%EB%8A%94-%EC%9E%90%EC%B2%B4-%EC%A7%84%ED%99%94-AI-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8)
   * [GenericAgent 기술 개념과 구조 정리: 최소 코드로 스스로 진화하는 자율 에이전트 프레임워크 :: 지식의 섬](https://digitalbourgeois.tistory.com/3060)
+* [go-bot: Go implementation of DeepSeek Harness and self-hosted personal agent](https://github.com/xyc999-ai/go-bot)
+  * DeepSeek Harness를 Go로 구현한 셀프호스팅 개인 에이전트로, Meta Muse·OpenAI dots·Grok Bot의 오픈소스 대안을 표방. 웹 검색과 Chromium 브라우저 자동화, 이미지 생성·편집, Word·PowerPoint·Excel 문서 읽기·작성(OfficeCLI), 계정별 장기 기억과 과거 대화 검색, 예약 알림을 제공
+  * 개인용은 Docker로 로컬 실행하고, 팀은 Alibaba Cloud ECI로 계정마다 전용 Host를 둔 자체 개인 에이전트 제품을 구성. 포함된 웹 UI는 시험용 클라이언트이며 Controller의 HTTP·SSE API로 모바일·데스크톱·메신저 인터페이스를 직접 만들 수 있음
 * [GOD - Govern, Observe, Direct — An operator console for inspectable agent-society replays](https://xiaoluolyg.github.io/GOD/)
   * [GOD: Govern, Observe, Direct - a real-time control room for agent societies](https://github.com/XiaoLuoLYG/GOD)
   * 언어 에이전트 사회 시뮬레이션을 지켜보기만 하는 대신 조작하는 실시간 컨트롤 룸—시간 정지, 특정 주민(한 명·그룹·마을 전체)에게 자연어로 질문(`/ask`), 다음 스텝에 지시 주입(`/intervene`), 월드 리셋을 한 화면에서. 스텝 단위 리플레이 스크럽, 노코드 설정 위저드(OpenAI 호환 엔드포인트 아무것이나, 모델·시나리오만 고르면 에이전트·스텝 자동 생성), Agent Studio(정체성·외모·성격·일과)와 Map Studio(맵 초안 생성·충돌 보정·검증·퍼블리시), Experiment/Map/Agent 팩 ZIP 내보내기·가져오기로 재현 가능. 사회적 현실성을 주장하는 게 아니라 에이전트 사회를 "검사"하기 위한 도구
