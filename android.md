@@ -676,6 +676,10 @@ Android
   * [agent-device: Mobile app automation and verification for AI coding agents. CLI, MCP server, and typed Node.js API for iOS, Android, HarmonyOS, TV, web, macOS, and Linux | callstack](https://github.com/callstack/agent-device)
   * [agent-device - AI 에이전트가 iOS/Android 기기를 제어하도록 돕는 CLI | GeekNews](https://news.hada.io/topic?id=32078)
   * 웹 에이전트를 실용화한 브라우저 자동화 패턴(Vercel agent-browser의 inspect-act-verify)을 네이티브 모바일·TV 앱에 적용—`agent-device open … --platform ios`→`snapshot -i`로 접근성 트리를 `@e2` 같은 안정적 ref와 함께 토큰 효율적으로 읽고 `press @e2`처럼 ref·텍스트·라벨·역할 셀렉터로 조작, 필요할 때만 스크린샷·비디오·로그·트레이스·네트워크·성능·크래시·React 프로필 증거 수집. 정상 단계는 `.ad` 스크립트로 저장해 CI 재현하거나 Maestro YAML로 내보냄. 백엔드: iOS/tvOS XCTest, Android ADB, Vega CLI, macOS 로컬 헬퍼, Linux AT-SPI
+* [Agentic AI Toolkit for React Native & Swift | Argent by Software Mansion](https://argent.swmansion.com)
+  * [argent: MCP server for AI agents to control, debug and profile iOS simulators, Android emulators, MacOS apps and TVs | Software Mansion](https://github.com/software-mansion/argent)
+  * [Argent: AI 어시스턴트를 활용한 모바일·데스크톱 앱 제어 및 테스트 자동화 도구 | digitalbourgeois](https://digitalbourgeois.tistory.com/4627)
+  * AI 어시스턴트가 CLI를 떠나지 않고 iOS 시뮬레이터, Android 에뮬레이터·실기기, TV(Apple TV·Android TV·Fire TV), Electron/Chromium 앱, 네이티브 Mac 앱을 직접 조작하게 하는 MCP 서버(`npx @swmansion/argent@latest init`). 탭·스와이프·제스처·입력·하드웨어 버튼 조작, 한 번 기록한 경로를 결정적으로 재생하는 E2E·재현 테스트, OCR·폰트를 고려한 시각 회귀 비교, 프로파일링(Hermes·React DevTools·Xcode Instruments·Perfetto), 로그·네트워크·JS 평가·네이티브/React 트리 디버깅, React Native 빌드·실행 지원
 * [EmuHub is an innovative tool designed to simplify the testing of Android applications by providing access to multiple emulators via web browsers. Built with Docker and NoVNC (HTML5-based VNC client), EmuHub offers developers and QA engineers a seamless platform for testing APKs across various Android device configurations](https://github.com/mohamed-helmy/emuhub)
 * [Espresso  |  Android 개발자  |  Android Developers](https://developer.android.com/training/testing/espresso)
   * [Android UI Test와 Espresso를 사용하는 방법](https://developer88.tistory.com/232)
