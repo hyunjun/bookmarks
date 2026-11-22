@@ -1085,6 +1085,8 @@ Interview
   * [2017 STATE OF GLOBAL TECH SALARIES](https://hired.com/state-of-salaries-2017)
 * [hiring-without-whiteboards: ⭐️ Companies that don't have a broken hiring process](https://github.com/poteto/hiring-without-whiteboards)
 * [interviewinsider.io](https://interviewinsider.io/) 회사별 아주 간단한 인터뷰 정보 요약
+* [JobCraft: JobCraft AI — Autonomous Career Engine, Real-time Job Radar & Application Studio](https://github.com/jastfan/JobCraft)
+  * 구직 과정을 자동화하는 로컬 실행 도구. 여러 채용 포털을 실시간으로 긁어 모으는 Job Radar, 공고와 이력의 적합도·부족한 점 분석, 1쪽 ATS 이력서·자기소개서 작성, AI 모의 면접, 학습 로드맵, 지원 현황 칸반 보드를 웹 스튜디오와 Chrome 확장으로 제공. 외부 데이터베이스 없이 내 컴퓨터에서 돌고 분석에는 Google Gemini를 사용
 * [jobpoacher.com](https://jobpoacher.com/)
 * [jobstart](https://www.jobstart.co/)
 * [jobtrial - Work for 3 days, and decide](http://jobtrial.co/)
