@@ -129,6 +129,11 @@ NoSQL
 * [ClickHouse의 Hardware Sympathy | Park Soohyun | LinkedIn](https://www.linkedin.com/pulse/clickhouse%EC%9D%98-hardware-sympathy-park-soohyun-o9usc)
   * Hardware Sympathy=CPU 처리 폭·캐시/메모리 대역폭·NUMA·순차 vs 임의 I/O·저장장치 지연·네트워크 왕복·압축 해제 CPU 비용 같은 물리 특성을 전제로 데이터 구조와 실행 경로를 설계하는 것. ClickHouse에서는 컬럼 저장+벡터 단위 실행(SIMD), Granule·희소 인덱스(ORDER BY는 물리 배치 정책), 컬럼별 Codec(압축은 디스크 I/O와 CPU의 교환), 배치 INSERT·async_insert(Part 수와 Merge 부하)로 나타나며 데이터 표현·배치·실행 자원·저장 경로·장애 배치 5층위로 정리
   * 쿠버네티스는 하드웨어를 숨기는 운영 계층이라 이를 "포기"시키는 게 아니라 "다시 선언"해야 하는 층—전용 노드 풀, CPU requests=limits 정수 코어·Guaranteed QoS·CPU Manager static/Topology Manager로 독점, max_threads 검증, 로컬 NVMe/Provisioned IOPS SSD PVC, 존 단위 Replica·Shard·Keeper 배치. 공식 Operator·ClickHouse Private 가이드(로컬 NVMe 캐시+S3+Keeper 영속 스토리지)가 쿠버네티스 위에서도 하드웨어 특성 보존이 가능함을 보여주는 사례
+* [ClickHouse Observability | ClickHouse](https://clickhouse.com/observability)
+  * [ClickHouse Observability 퍼블릭 베타와 Observability Apps 발표 정리 | MyoungSig Youn](https://www.linkedin.com/posts/myoungsig-youn_clickhouse-observability-qtktapspf-share-7529862920894201856-EUyi/)
+    * 빅테크가 직접 구축해 쓰던 ClickHouse 기반 관측성 플랫폼을 완전 관리형으로 제공(2026-11 ClickHouse Observability 퍼블릭 베타, Observability Apps 프라이빗 프리뷰). 관리형 OTLP·Datadog 호환 엔드포인트로 보내기만 하면 수집·스키마 최적화·오토스케일링을 맡고 샘플링 없이 원본 보존
+    * 수집량 기반 과금—로그·트레이스는 GB당, 메트릭은 고유 시계열 수가 아닌 데이터 포인트 수 기준이라 고카디널리티 태그에 추가 비용이 없음. 내장 ClickStack MCP 서버로 AI 에이전트가 로그 검색·트레이스 추적·SQL 조인으로 근본 원인을 분석하고, 읽기·쓰기·알림·에이전트용 컴퓨팅이 분리돼 수집에 영향이 없음. Observability Apps는 자연어 설명으로 실시간 데이터 위의 맞춤형 분석 앱을 생성. 오픈소스 ClickStack과 Managed ClickStack도 유지
+  * 샘플링·롤업·인프라 운영 없이 모든 로그·메트릭·트레이스를 보존하는 AI 에이전트·SRE용 관리형 관측성 서비스. OpenTelemetry 데이터를 관리형 엔드포인트 하나로 보내면 수집·저장·확장을 처리
 
 # CockroachDB
 * [CockroachDB](https://github.com/cockroachdb/cockroach)
