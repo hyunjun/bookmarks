@@ -223,6 +223,9 @@ Game
 ## Library Javascript
 * [Build Pac-Man Game With JavaScript - YouTube](https://www.youtube.com/watch?v=YBtzzVwrTeE)
 * [conway: real-time, persistent, multiplayer version of Conway's Game of Life](https://github.com/drewblaisdell/conway)
+* [inkline-town: A town simulation in pale isometric line art, implemented with Ritmo ECS and PixiJs 3D](https://github.com/sandromaglione/inkline-town)
+  * [Inkline Town](https://inkline.typeonce.games)
+  * 가는 3D 선화로 그려지는 브라우저 도시 건설 게임(작은 Anno 풍). 45·60·90분 임기의 시장이 되어 도로를 깔고 정착민을 들이고 생산 사슬(벌목→제재, 채석·광산→대장간, 밀→제분→빵, 양모→직조)을 지어 작은 마을을 도시로 키우며, 파산·반란·공동화로 끝날 수도 있음. 짐은 직접 옮기지 않고 수레꾼과 시장 상인이 도로를 따라 운반하고, 시드마다 다른 섬이 생성되며 임기가 끝나면 평결이 나옴
 * [isomiddleearth: An isometric world-builder set in Tolkien's Middle-earth](https://github.com/hasanharman/isomiddleearth)
   * Shire/Gondor/Mordor/Lothlorien/Rohan/Moria/Rivendell 7개 렘 + 혼합 모드, 3x3~20x20 그리드, 지형·물·식물·주거·건물·장식 6개 타일 카테고리, 8개 호빗 스프라이트. 클릭/드래그 페인팅, Cmd+Z 실행 취소, PNG/JSON 내보내기. Zustand+localStorage 상태 유지
 * [Kaboom!! - a fun JavaScript game programming library & environment](https://replit.com/kaboom)
