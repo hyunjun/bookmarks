@@ -904,6 +904,9 @@ App
   * Parisa Tabriz·Paul Kinlan 외. 세 축—①AI 에이전트가 웹을 만들고 상호작용하게: WebMCP(웹사이트를 에이전트 툴킷으로), 모던 웹 가이던스(코딩 에이전트용 청사진), 에이전트용 Chrome DevTools 자동 디버깅, AI 보조 디버깅, 서버·예산 없이 쓰는 내장 AI ②웹 UI·성능: HTML-in-Canvas과 요소 범위 view transitions, SPA용 Core Web Vitals, Immediate UI 모드 인증, 실트래픽 기반 Baseline 타깃 ③Gemini in Chrome: Android 브라우징 어시스턴트, 지루한 작업을 맡기는 auto browse, Nano Banana 이미지 변환, 프롬프트를 원클릭 도구로 만드는 Skills in Chrome, 화면 선택 프롬프트, 음성
 * [codecopy: A browser extension that adds copy to clipboard buttons on every code block](https://github.com/zenorocha/codecopy)
 * [DevTools Timeline Viewer](https://chromedevtools.github.io/timeline-viewer/)
+* [FlowMouse: An open-source mouse gesture extension designed for ultimate smoothness. Supports gesture navigation, super drag, wheel and rocker gestures, and the ability to customize all gestures and more](https://github.com/hmily-lcg/flowmouse)
+  * [FlowMouse - Chrome Web Store](https://chromewebstore.google.com/detail/fnldhkfidchnjiokpoemdhoejmaojkgp)
+  * Chrome·Edge·Firefox용 마우스 제스처 확장. 기본 제스처 16개에 사용자 정의 제스처를 무제한 추가하고, 슈퍼 드래그(텍스트는 검색, 이미지는 열기·저장·역검색, 링크는 열기·복사), 휠 제스처(우클릭한 채 스크롤로 탭 전환), 로커 제스처(한 버튼을 누른 채 다른 버튼으로 뒤로·앞으로), Shift+드래그 영역 선택으로 링크 일괄 열기, 한 제스처에 여러 동작을 묶는 명령 체인을 지원
 * [Form Helper Chrome | Devpost](https://devpost.com/software/form-helper-chrome)
 * [Graphmark](https://graphmark.framer.website/)
   * [Graphmark - 북마크한 웹페이지를 그래프로 보여주는 크롬 익스텐션 | GeekNews](https://news.hada.io/topic?id=15393)
