@@ -4673,6 +4673,10 @@ NLP
   * [Jeongkyu Shin - 전자신문 박종진 기자님께서 MLXcel 오픈소스화에 대해 글을 써 주셨다 | Facebook](https://www.facebook.com/jeongkyu.shin/posts/pfbid0k4qXhUjKWjyeFJvSDZxPKFFpR6ZwDtcWXPPvTiC39Ce2WGANVLHokwFZE9UctTHnl)
     * 래블업 신정규 대표의 공개 당일 글—MLX 형식의 LLM/VLM을 애플 실리콘·CUDA에서 가속 실행하는 추론 엔진 겸 서버(맥·iOS·DGX Spark). AI Expo에서 엣지 AI를 이야기하던 기자와 한-UAE 행사 중 애플 AI 움직임을 통화하다 "곧 오픈소스"라 말한 것이 기사화되어 당일을 넘기지 않으려 주말부터 실행 파일 빌드 체인 검증·우분투 PPA·Homebrew 등록을 작업. 모델 서버 만들기는 뉴럴넷이 근본적으로 무엇인지 생각하게 하며, 박사 주제였던 의미론적 네트워크 중첩화 연구가 구체적 가치를 주는 프로그램이 되기까지의 소회. 공개 레포의 실험용 커밋 로그를 못 남겨 "시원섭섭"
   * Rust로 구현한 로컬 추론 CLI 겸 프로덕션 모델 서버—MLX Safetensors 체크포인트를 Apple Silicon(주 타깃)·Linux/CUDA(보조)·AMD ROCm(실험)에서 실행. 텍스트 생성·멀티모달·임베딩·리랭킹·음성(WAV/MP3/FLAC 전사, 토큰당 ASR 델타 스트리밍)과 continuous batching·프롬프트 캐시·speculative decoding. `llama-server` 옵션·라우트 376개 호환 검증, OpenAI(Chat/Completions/Responses/Embeddings/Reranking/Audio)·Anthropic Messages·Vertex 호환 API, 모델 스토어·INI 프리셋에서 온디맨드 로드·LRU 축출하는 멀티모델 라우터와 라이브 LoRA 어댑터, BERT·ModernBERT·SigLIP·Qwen3-VL·ColBERT류 임베딩/리랭커
+* [Model-Optimizer: A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. | NVIDIA](https://github.com/nvidia/model-optimizer)
+  * [NVIDIA Model Optimizer 문서](https://nvidia.github.io/Model-Optimizer/)
+  * 양자화·가지치기·NAS·증류·추측 디코딩·희소화를 한 라이브러리에 모은 모델 최적화 도구(ModelOpt). Hugging Face·PyTorch·ONNX 모델을 입력받아 Python API로 기법을 조합하고, 양자화된 체크포인트를 SGLang·TensorRT-LLM·TensorRT·vLLM 같은 추론 프레임워크용으로 내보냄. 학습이 필요한 기법은 Megatron-Bridge·Megatron-LM·Hugging Face Accelerate와 연동
+  * 공개 사례: NVFP4 양자화와 양자화 인식 증류(QAD)로 정확도를 회복한 Nemotron 체크포인트, KV 캐시 혼합 정밀도 자동 탐색(AutoQuant KV), 추측 디코딩용 초안 모델 학습, 가지치기+2단계 증류+FP8 양자화 튜토리얼
 * [MosaicML | Home](https://www.mosaicml.com/)
   * [MPT-30B: Raising the bar for open-source foundation models](https://www.mosaicml.com/blog/mpt-30b)
 * [motif-llm](https://github.com/moreh-io/motif-llm)
