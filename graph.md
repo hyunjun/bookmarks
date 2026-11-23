@@ -208,6 +208,11 @@ Graph
   * [Fully Reactive - from Data to UI with OrientDB + Node.js + Socket.io - Dell'Aquila](https://www.youtube.com/watch?v=-JR5spf_Nm4)
   * [How to Install OrientDB 1.7 Document Graph NoSQL DBMS in Windows 7 - Part 1](https://www.youtube.com/watch?v=fYExtJIWOc8)
   * [OrientDB 1.7 Document Graph NoSQL DBMS - Part 2](https://www.youtube.com/watch?v=1Ge-V5kOR3g)
+* [Relate — Help agents understand data | Neo4j](https://relatedb.ai/)
+  * Neo4j가 NODES 2026(11월 11일)에서 공개한 에이전트용 오픈소스 임베디드 그래프 DB—가입도 서버 배포도 없이 애플리케이션 안에서 라이브러리로 돌며 데이터를 인메모리·디렉터리·단일 `.rl` 파일 중 하나에 저장. 에이전트·스크립트·앱이 같은 그래프를 Cypher로 읽고 쓰고, 에이전트 스킬(`relate skill install --agent claude-code` 등 12종)과 MCP 엔드포인트, CLI, Python·JavaScript·Rust·Swift·Java·.NET·Go·C 바인딩 제공. 용도 예: 에이전트 메모리, 코드베이스 컨텍스트(`parse_config()`를 바꾸면 깨지는 함수), 추천. 브라우저 안에서 WASM으로 도는 Cypher 플레이그라운드, CSV 로드·Aura 미러링, 결과는 사람용 테이블/에이전트용 JSON
+  * [서버없이 실행하는 그래프 DB, relate 직접 사용해보기 | relate, relate-agent-memory 스킬 | 에이전트 메모리 | 공원나연 - YouTube](https://www.youtube.com/watch?v=sX1ezd8mtOE)
+    * Windows PowerShell로 Relate 1.1.0을 설치해 `relate query`로 Cypher 실행(세미콜론 전까지 이어 쓰기, `.quit`), 인메모리 그래프는 종료 시 사라지므로 `--database demo.rl`로 파일에 쓰고 read-only·table 모드로 다시 읽기. 이어 relate 스킬을 Claude Code에 설치해 에이전트가 직접 Cypher로 지식 그래프를 만드는 시연—코드베이스를 지식 그래프로 변환해 쓰던 경우의 대안으로 소개
+    * relate-agent-memory 스킬의 스키마: Episode(대화 메시지)·Entity(추출된 대상)·Fact(추출된 사실). Fact는 실제 유효 기간 valid_from/valid_to와 에이전트가 그렇게 믿은 기간 recorded_at/closed_at을 따로 갖고, 바뀐 사실은 지우지 않고 SUPERSEDES 관계로 새 Fact에 연결해 이력 추적. memory.rl에 여섯 번의 요청(새 세션 포함)을 쌓으며 "밝은 테마만 지원"이 "다크 모드 버튼 추가"로 대체되는 과정을 확인하고 Claude Code에게 그래프 시각화를 시킴
 * [s2graph](https://github.com/daumkakao/s2graph)
   * [HBaseCon 2015: S2Graph - A Large-scale Graph Database with HBase](http://www.slideshare.net/HBaseCon/use-cases-session-5)
   * [Apache S2Graph(incubating) At Kakao A Large Scale Distributed Graph Database](http://readme.skplanet.com/wp-content/uploads/%ED%8A%B8%EB%9E%992-5.Apache-S2GRAPHincubating%EA%B0%9C%EB%B0%9C-%EC%8A%A4%ED%86%A0%EB%A6%AC%EC%99%80-%EC%A0%81%EC%9A%A9%EC%82%AC%EB%A1%80.pdf)
