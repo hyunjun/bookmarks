@@ -4264,6 +4264,10 @@ Business
 * [awesome-ai-lead-generation: A curated list of AI tools for finding customers, social listening, and automated outreach. The modern growth stack](https://github.com/toofast1/awesome-ai-lead-generation)
   * 정적 DB에서 의도(intent) 기반 AI 고객 획득으로 옮겨가는 "모던 그로스 스택" 큐레이션. 5개 분류—소셜 리스닝·의도 분석(Leado·Awario·F5Bot·GummySearch·Syften), 데이터 스크래핑·인리치먼트(Apify·Apollo·Bright Data·Clay·PhantomBuster), 콜드 아웃리치·이메일 AI(Instantly·Lavender·Lemlist·Smartlead), 보이스 에이전트·콜링(Bland AI·Synthflow·Vapi), AI 카피라이팅·개인화(Copy.ai·Jasper·Taplio·Warmer.ai)
   * LaunchOnIt(launchon.it) 메이커가 운영하며 Reddit 리드 생성 도구 Leado를 Editor's choice로 내세움
+* [sellbird: Sellbird (formerly Harvey) — the open-source outreach platform that runs on your Claude or ChatGPT plan. Finds companies and decision makers, verifies emails, writes personal cold email, sends it and handles the replies](https://github.com/ethanplusai/sellbird)
+  * [Sellbird](https://sellbird.ai)
+  * 내 제품이 필요한 회사 찾기→의사결정자 찾기→이메일 주소 검증→개인화 콜드 메일 작성→발송→답장 처리까지 한 파이프라인으로 돌거나 어느 단계에서든 멈출 수 있는 로컬 실행 아웃리치 플랫폼(Python). 기본값은 승인 전 발송 없음. 회사 탐색은 OpenStreetMap 무료(유료 소스는 실행 전 비용 표시), 구매 신호는 각 회사 웹사이트를 HTTP 3회로 읽어 모델 호출 없이 판별, 회사당 최대 2명, 주소는 verified/risky/guess/invalid로 표시해 전달 가능한 곳에만 발송, Gmail·Microsoft 365·SMTP로 일일 한도·상대 근무 시간 안에 발송, 답장은 초안 작성·자동응답 분리·수신 거부 즉시 반영
+  * 모델 API 요금 없이 Claude Pro/Max의 Claude Code CLI나 ChatGPT 플랜의 Codex로 추론(API 키·토큰 과금 없음, 사용자의 다른 작업 몫을 남기도록 스로틀)—Apollo·ZoomInfo·Clearbit·Clay 불필요. 레포를 클론해 `claude`에서 "set up Sellbird for me"라고 하면 CLAUDE.md가 설치 가이드 역할, 또는 `sellbird train <사이트>`→`signals`→`discover`→`dashboard`→`run`. 목록만 필요하면 `sellbird export`로 CSV. 호스팅판 sellbird.ai는 얼리 액세스
 
 # Startup
 * [원대로 - 20대 창업 신화를 깨는 32년 추적 연구 | Facebook](https://www.facebook.com/drwonsg/posts/pfbid0YSqhkx9beXbaY3T28JZ75Fh1n1wWSNPaq5RaETzubKbc6RSP1VCwMmv1apNxeRgil)
