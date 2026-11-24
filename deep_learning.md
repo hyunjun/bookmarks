@@ -3106,6 +3106,11 @@ CVPR2016)
     * SavedModel도 모두 Hugging Face Hub(Model)에 업로드
   * 모든 절차는 Jupyter Notebook 형식으로 검증, 저장소에 포함된 10종의 노트북을 통해서 작동 방식을 확인 가능
 * [LAION-5B: A NEW ERA OF OPEN LARGE-SCALE MULTI-MODAL DATASETS | LAION](https://laion.ai/blog/laion-5b/)
+* [LATO.2: Official repo for the paper "LATO.2: Factorized 3D Mesh Generation with Vertex and Topology Flow"](https://github.com/LoHhhha/LATO.2)
+  * [LATO.2 project page](https://lohhhha.github.io/LATO.2/)
+  * [2607.10623 LATO.2: Factorized 3D Mesh Generation with Vertex and Topology Flow](https://arxiv.org/abs/2607.10623)
+  * 화중과기대·Meshy AI·TUM(Hang Long·Tianhao Zhao 외, Matthias Nießner·Yuanming Hu 참여). 기존 토폴로지 인식 메시 생성은 정점과 연결성을 한 잠재 공간에서 함께 모델링해 연속적인 정점 기하와 이산적인 조합 구조가 얽히고 정점 드리프트·깨진 표면이 생김—LATO.2는 p(V,E|c)=p(V|c)·p(E|V,c)로 분해해 공유 coarse 복셀 스캐폴드 위에서 정점 흐름(V-Flow, 정점 수 지정 가능)→실현된 정점에 조건화한 토폴로지 흐름(T-Flow) 순으로 생성. V-VAE는 서브복셀 오프셋으로 정점을 복원하고 T-VAE는 이산 인접 관계를 연속 잠재로 임베딩해 쌍별 엣지 확률로 디코드, 샘플링은 약 5초+5초
+  * 분해 덕에 파트별 고해상도 생성과 토폴로지 적응 편집이 가능. 2026-11-18 사후 학습으로 다듬은 v1.0+rl 가중치(NMER 9.19%→0.12%, BER 2.46%→0.99%)와 11-19 image-to-mesh 파이프라인 공개. conda `lato2`(Python 3.10·PyTorch 2.6·CUDA 12.4), Hugging Face 가중치·데모, Mesh2Mesh·이미지 입력 추론 스크립트
 * [Lexica](https://lexica.art/)
 * LoRA [Using LoRA for Efficient Stable Diffusion Fine-Tuning](https://huggingface.co/blog/lora)
 * MAI-Image-1
