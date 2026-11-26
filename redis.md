@@ -253,6 +253,9 @@ Redis
     * 특히 클라이언트 수에 따라서 성능 변화가 생길수가 있는데, 그런 부분에서 7.0에서는 개선
 * [ElastiCache IO 기술의 변화 - Google Slides](https://docs.google.com/presentation/d/193Bra3z7kjhx1YcrIzo9oxcuJ5lZlqv_0WWEiO2TAuM/edit)
 * [AWS 블로그 ElastiCache 이야기, 특히 Network 관련 성능 개선, 바닐라에는 들어오지 않았지만 엄청난 개선들](https://www.facebook.com/daemyung.kang/posts/pfbid02rkzkYHfaRqXqcSS5jajXpHpdig8CaT1qUC2Xn76MrBeVYPj2upDGHQMrBgTFQwXNl)
+* [Amazon ElastiCache Distributed KV Caching | whchoi98](https://whchoi98.github.io/docs/techblog/database/elasticache-distributed-kv-caching/)
+  * 자체 호스팅 LLM 서버 여러 대가 KV 캐시를 공유하는 ElastiCache distributed KV caching을 도쿄 리전의 GPU 서버 2대(vLLM·LMCache·EFA)로 테스트(서울 리전은 아직 미제공)—다른 서버가 계산한 14,984토큰 프롬프트를 공유 캐시에서 RDMA로 읽으면 TTFT가 4,194.8ms→614.9ms로 6.8배 빨라지고(982토큰에서는 차이 없음), 세션이 GPU·호스트 메모리를 넘는 멀티턴 부하에서 초당 요청 1.7~2.7배, TTFT p50은 3.1~5.7초→0.47~0.95초
+  * 비용: 캐시 노드 한 대(시간당 37.806 USD)가 GPU 서버 2대의 2.88배라 이 규모에서는 요청 1,000건당 비용이 1.36~2.11배로 오름. 캐시 노드는 고정 비용이어서 계산상 g6e.8xlarge 4~8대부터 요청당 비용도 내려감—작은 규모에서는 지연 시간을 사는 비용, 큰 규모에서는 비용과 지연을 함께 줄이는 수단
 
 # Go
 * [miniredis: Pure Go Redis server for Go unittests](https://github.com/alicebob/miniredis)
