@@ -6508,6 +6508,9 @@ Artificial Intelligence
   * 코드베이스를 미리 인덱싱해 쿼리 가능한 지식 그래프로 만들어 MCP로 에이전트에 노출—파일을 열기 전에 프로젝트 맵을 질의하게 해서 토큰과 도구 호출을 줄이는 접근. Tree-sitter로 20+ 언어를 증분 파싱(추측이 아닌 실제 AST에서 심볼·엣지 추출), 코드 변경 시 자동 동기화, 심볼의 호출자·피호출자와 영향 반경(impact radius)을 추적하는 impact analysis. 완전 로컬이고 `npx @colbymchenry/codegraph`로 실행. Claude Code·Codex·Gemini·Cursor·OpenCode·Antigravity·Kiro·CoPilot·Hermes 지원
   * The Gray Cat의 비교 실험(같은 커밋·같은 프롬프트·같은 모델 고정, Gray Cut 기능 하나 구현)—plain Claude 6.55M 토큰·9분 42초, Graphify 5.34M 토큰에 27초 단축이나 첫 인덱싱에 약 3분 30초와 Gemini·Claude API 비용 약 $2.30, CodeGraph 4.23M 토큰·8분 45초에 인덱싱은 모델 호출 없이 2초 미만. 정확성은 100개 1프레임 클립 테스트에서 갈렸는데 Graphify는 33ms 드리프트로 컷 근처 단어를 빠뜨릴 수 있었고 plain Claude는 1ms 오차, **CodeGraph만 두 타이밍 검사를 모두 통과**
   * 단 영상 제작자 본인이 "설정당 1회 실행일 뿐이므로 더 일반적인 주장을 하기 전에 CodeGraph를 먼저 시도해 보고 더 큰 벤치마크를 돌려보겠다"고 명시—단일 실행 결과로 받아들일 것. 비교 대상 Graphify는 같은 섹션에 별도 항목으로 있음
+* [CodeKB: Code understanding across every repository, for people and agents | awslabs](https://github.com/awslabs/codekb)
+  * "자율 소프트웨어 팩토리를 위한 코드 이해"—브라운필드 작업에서 어떤 저장소가 관련되는지 사람이 골라 워크스페이스에 모으는 방식은 수백~수천 저장소의 기업에서 확장되지 않음(시스템이 어떻게 맞물리는지는 부족 지식). 작업을 설명하면 조직 전체에서 관련 저장소를 자동 선별하고 실제 동작에 근거해 에이전트를 그라운딩—"코드 인덱싱이 아니라 코드 이해". 영향 분석뿐 아니라 계획·기능 개발·디버깅·리팩터링·코드 리뷰·현대화에 사용
+  * 제공 기능: Space Overview(비즈니스 개요·애플리케이션 아키텍처·기술 스택·배포 아키텍처 Markdown 생성), 의도 기반 시맨틱 코드 검색("결제 승인은 어디서?"), 분석된 코드에 근거해 답하고 Impact Analysis 모드를 가진 채팅 에이전트 Agent Hopper, 여러 저장소(space)를 묶는 Hyperspace, Kiro·Claude Code용 MCP 도구. 웹 UI·REST API·MCP 서버를 한 컨테이너로 실행하고 저장 데이터와 모델 호출은 모두 내 AWS 계정(Bedrock LLM·Guardrail·Titan 임베딩, S3 Vectors, S3, KMS) 안에서 처리
 * [computer-use-large: Large-scale dataset for computer use agents](https://huggingface.co/datasets/markov-ai/computer-use-large)
 * [CUA - Computer Use Agent 2.0 - a Hugging Face Space by smolagents](https://huggingface.co/spaces/smolagents/computer-use-agent)
 * [deep-scholar](https://deep-scholar.vercel.app)
@@ -9587,6 +9590,8 @@ Artificial Intelligence
   * [Orca - 여러 병렬 코딩 에이전트를 위한 오픈소스 ADE | GeekNews](https://news.hada.io/topic?id=32253)
   * [ORCA로 Claude, Codex AI 에이전트를 동시에 제어하는 방법 - YouTube](https://www.youtube.com/watch?v=hcDz6yGT59M)
     * techyoo. 오픈소스 Orca로 여러 AI 에이전트를 각자 다른 worktree 브랜치에서 동시 실행하는 오케스트레이션 데모. Claude Code vs Codex 같은 과제 경쟁(레이스) + 기능 분담 병렬 개발
+  * [my-orca: Orca on EC2 - Secure Architecture | whchoi98](https://github.com/whchoi98/my-orca)
+    * Orca headless 서버(`orca-ide serve`)를 AWS CDK 또는 Terraform으로 CloudFront와 ALB 뒤의 Private EC2에 배포해 브라우저만으로 접속. 접근은 2단계—CloudFront Function+KeyValueStore의 비밀번호 게이트(UI·정적 자산·WebSocket 앞단) 뒤 Orca 페어링으로 브라우저를 기기 단위 승인. 오리진은 CloudFront만 허용(prefix list+무작위 `X-Custom-Secret` 헤더), EC2는 프라이빗 서브넷. 전용 서버(새 VPC·ALB·EC2, Claude Code·Codex·Kiro CLI와 Bedrock 호출 권한 사전 설치) 또는 기존 VS Code 서버에 추가하는 두 모드, Claude Code에서 `/install-orca` 스킬로 가이드 설치, 재부팅 없는 업그레이드 스크립트
   * [Orca vs. Paseo vs. 순정: 에이전트 관리 도구 비교하기 | 요즘IT](https://yozm.wishket.com/magazine/detail/3903)
     * 2026년 개발 환경의 핵심 과제가 된 "에이전트 여러 대 동시 관리" 관점 비교. Orca는 병렬 워크트리+디자인 모드로 한 화면에서 여러 에이전트 감독, Paseo는 휴대폰 등 어느 기기에서나 조종하는 접근성 중심. 세션이 적거나 한 곳에서만 작업하면 순정 터미널로 충분—다중 세션 관리 필요성 vs 이동성 우선순위로 선택
   * [무조건 쓰세요. 다른 터미널 툴을 압도하는 현존 최고의 IDE Orca의 특징은? | 찐AI - YouTube](https://www.youtube.com/watch?v=T9mypKihAeY)
