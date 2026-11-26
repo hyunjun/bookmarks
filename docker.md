@@ -1785,6 +1785,8 @@ Docker
 * [AI jobs are waiting while GPUs sit idle. Kubernetes has a new plan | The New Stack](https://thenewstack.io/kubernetes-agentic-ai-inference/)
   * [에이전틱 AI 시대의 Kubernetes 운영 변화: GPU 오토스케일링부터 AI 추론·관측성까지 | digitalbourgeois](https://digitalbourgeois.tistory.com/4091)
   * 에이전틱 AI 워크로드로 달라진 K8s 운영—스케줄러와 오토스케일러의 GPU 할당 불일치, llm-d v1.0 분산 추론(비용 11.5배 절감 보고), SRE용 AI 에이전트(Claude Code 등 MCP 연동 시 2분 내 86% 진단), 메트릭만으로는 ACL 변경·slowlog 같은 이벤트를 놓치는 관측성 공백
+* [GPU 노드 검증 자동화: 상시 점검부터 부하 검증까지 | NAVER D2](https://d2.naver.com/helloworld/7131556)
+  * NAVER Engineering Day 10th 발표(NAVER Cloud AI Cloud Product 유용혁·이지환)—GPU 노드의 하드웨어 고장을 워크로드 시작 전에 찾아내는 검증 시스템과, 상시 점검·부하 검증을 Kubernetes Operator로 자동화한 과정. 목차: 필요성→검증 설계→상시 점검→부하 검증→preflight→구현→운영 현황과 남은 과제. 대규모 학습 중 느린 노드·고장 노드로 고생하는 GPU 클러스터 플랫폼·MLOps 엔지니어 대상(본문은 발표 영상)
 * [AWS Summit Korea 2022 Kubernetes를 위한 Observability | 와탭랩스 세션 - YouTube](https://www.youtube.com/watch?v=DXXJEAfhjiQ)
 * [How Kubernetes Reinvented Virtual Machines (in a good sense)](https://iximiuz.com/en/posts/kubernetes-vs-virtual-machines/)
 * [kubernetes volume 사용 방법 정리하기. 사용하는 volume의 종류에 따라 ML training… | by Ryan Kim | Aug, 2022 | Medium](https://equus3144.medium.com/kubernetes-volume-%EC%82%AC%EC%9A%A9-%EB%B0%A9%EB%B2%95-%EC%A0%95%EB%A6%AC%ED%95%98%EA%B8%B0-49cc6bc5d761)
