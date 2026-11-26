@@ -486,6 +486,10 @@ Artificial Intelligence
   * Block의 Jack Dorsey가 인력 40%(4,000명+) 해고를 발표하며 "지능 도구+더 작고 평평한 팀이 회사를 만들고 운영하는 방식을 근본적으로 바꿨다"고 한 트윗, Citrini Research의 연쇄 해고 예측, Matt Shumer의 "Something Big Is Happening"("원하는 걸 영어로 말하고 4시간 뒤 돌아오면 완성돼 있다", 컴퓨터로 하는 일은 6개월 안에 거의 완벽해진다)을 놓고 기자가 직접 프로그래머들을 인터뷰한 글. 결론: Shumer는 진척 속도를 과장함—한 프롬프트로 프로덕션 소프트웨어가 나오는 건 사실이 아니고 아키텍처 결정·상세 지시·검증에 사람이 여전히 필요—하지만 "뭔가 큰 일이 벌어지고 있다"는 건 맞음. 전 Google 매니저 Jim Muller는 Claude Code를 "무모하고 엉뚱한 엔지니어"라 부르면서도 생산성이 극적으로 올랐다고 하고, 비영리 20명 팀 매니저는 1년 사이 PR 수 기준 2배 이상 생산성 증가와 함께 단점도 짚음(이후 유료 구간)
 * [에이전트, 개념부터 같이 정리해봐요 - 워크플로우·하네스·Context/Memory·MCP/A2A | NAVER D2](https://d2.naver.com/helloworld/8118359)
   * 에이전트 개념을 워크플로우, 하네스, Context/Memory, MCP/A2A로 나눠 정리한 NAVER D2 입문 글
+* [운영자의 시간을 아끼는 AI 에이전트 2부 - MCP 부터 Agent 설계까지 | NAVER D2 - YouTube](https://www.youtube.com/watch?v=DRghWwm3dt8)
+  * [운영자의 시간을 아끼는 AI 에이전트 1부 - RCA·Q&A 운영 지식 그래프 | NAVER D2 - YouTube](https://www.youtube.com/watch?v=0Ed8CUSrZgo)
+    * 운영자의 장애 분석 시간을 줄이려고 흩어진 RCA와 Q&A를 운영 지식 그래프로 구축·운영한 경험—기존 운영 문의 대응 방식, 문의 속에 숨은 구조인 RCA, 대화를 그래프로, 더 정확하게 찾기, 진단이 아닌 질문(Q&A), 최종 구조와 Care AI, 성과와 향후 계획
+  * NAVER Engineering Day 10th 세션. 운영 업무용 LLM 에이전트를 만들며 MCP를 활용한 도구 설계부터 컨텍스트 구성, 에이전트의 판단과 실행 흐름까지 실제 구현 경험으로 정리—처음 만든 에이전트, MCP 응답 설계, 모델 vs 코드(무엇을 모델에 맡기고 무엇을 코드로 처리할지), 답변 설계, 결과, 그리고 주문 데이터 문의부터 답변까지의 데모. MCP 서버·도구를 설계하거나 에이전트 답변의 정확도·신뢰성을 높이려는 사람 대상
 * [AI 해커톤 후기 코드와 문서만 읽은 LLM은 어떻게 사람과 같은 팀을 1위로 골랐을까 | NAVER D2](https://d2.naver.com/helloworld/2541696)
   * NAVER 사내 AI 해커톤 후기—코드·문서만 읽은 LLM이 사람 심사와 같은 1위 팀을 골라낸 과정을 분석한 글
 * [AI 해커톤 후기 AI 시대의 해커톤과 인간의 역할: AI의 계획과 사람의 전략 | NAVER D2](https://d2.naver.com/helloworld/1883072)
