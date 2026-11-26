@@ -201,6 +201,19 @@ Bitcoin
 * ["영지식 인증 기대주" zk-SNARK의 이해 - ITWorld Korea](https://www.itworld.co.kr/news/251230)
 * [오픈 소스, 블록체인 그리고 탈중앙 애플리케이션](https://snack.planetarium.dev/kor/2022/12/oss-blockchain-and-decentralized/)
 * [블록체인 탐색기 속 숨겨진 가상 자산 이야기 | 요즘IT](https://yozm.wishket.com/magazine/detail/2222/)
+* [키 보관을 넘어 서명 통제로 — KODA 커스터디 코어 아키텍처 | 한국디지털에셋 Tech Blog](https://www.kodax.com/en/blog/custody-core-architecture)
+  * "MPC·멀티시그·HSM 중 뭐가 제일 안전하냐"에 대한 답—셋 다 키를 어떻게 보관·분산할지의 답일 뿐, 커스터디의 진짜 위협은 키 유출이 아니라 HSM 안에 멀쩡히 있는 키가 허가받지 않은 명령에 서명하는 일. 세 방어선: ①온라인 Service Zone과 에어갭 ColdWallet Zone을 암호화된 단방향 QR로만 연결 ②Cold Zone 내부 책임 분리(콜드월렛 앱·PIV 기반 FIPS 인증 하드웨어 인증 장치의 타임스탬프+챌린지 2단 서명·키 관리 미들웨어·HSM)와 승인자가 다른 시간에 승인해도 되는 비동기 워크플로(멱등 요청, HSM 정책과 동기화된 만료) ③정족수 t-of-n과 정책 객체(권한 규칙→승인 토큰(OR)→승인자 그룹(AND)→승인자 4계층)를 장비 안에서 재검증하는 쿼럼 빌트인 HSM
+  * 그 위 KODA 통합 레이어: 사용/변경·차단/해제·정상 운영/비상 복구 권한 분리, 정책을 코드로 관리하고 승인자↔인증 장치 화이트리스트를 검증하는 미들웨어, 요청 권한(미들웨어 인증·인가)과 실행 권한(HSM 쿼럼)의 2단 분리, 미들웨어·HSM audit log 연계. 12개 위협별 완화 통제 표와 시스템이 못 푸는 한계(물리 침해, QR 채널 처리량, 승인자 담합, 승인 화면과 서명 대상 일치) 명시
+* [Powering programmable crypto wallets at Coinbase with AWS Nitro Enclaves | AWS Web3 Blog](https://aws.amazon.com/ko/blogs/web3/powering-programmable-crypto-wallets-at-coinbase-with-aws-nitro-enclaves/)
+  * Coinbase Developer Platform Wallet API 구조—모든 암호 연산을 Nitro Enclave(메모리·CPU 격리, 영구 저장소·외부 네트워크 없음, 원격 증명) 안의 Secure Signer에서만 수행해 개인 키를 Coinbase 자체 인프라로부터도 격리. 개발자는 API 인증 키와 별개의 키 쌍으로 요청에 서명하고 enclave가 검증, 키는 enclave 안에서만 암·복호화하며 유일한 egress는 vsock 프록시를 통한 AWS KMS. 재현 가능한 EIF 빌드와 PCR 증명, 위협 모델, AWS와 협업한 enclave 처리량 10배 개선
+* [Build secure multi-party computation (MPC) wallets using AWS Nitro Enclaves | AWS Web3 Blog](https://aws.amazon.com/ko/blogs/web3/build-secure-multi-party-computation-mpc-wallets-using-aws-nitro-enclaves/)
+  * [Condition keys for Nitro Enclaves and Nitro Sandboxes - AWS Key Management Service](https://docs.aws.amazon.com/kms/latest/developerguide/conditions-nitro-enclave.html)
+    * `kms:RecipientAttestation:ImageSha384`(PCR0) 등 조건 키로, 요청에 실린 서명된 증명 문서의 이미지 다이제스트가 일치할 때만 Decrypt·GenerateDataKey 등을 허용하는 키 정책 작성법—유효한 증명 문서가 없으면 거부
+  * 멀티시그(온체인·프로토콜 종속·추가 가스)와 MPC(오프체인·프로토콜 무관·단일 서명) 지갑 비교 후, Fireblocks 고객 MPC cosigner를 Nitro Enclave 안에 구현하는 설계—DKG로 키 샤드를 분산 생성해 완전한 개인 키가 어느 한 곳에도 존재하지 않고, AWS 쪽 샤드 연산은 enclave 안에서만 수행. enclave 정체성(PCR0)·작성자(PCR8)를 증명 문서로 검증하고 KMS 키 복호화 권한을 enclave 이미지 해시에 결합
+* [Thales Luna HSM integration guide | Ripple Custody (Vault) Documentation](https://docs.ripple.com/products/custody/deployment/integrate-kms/on-premise-hsm/thales-luna)
+  * Ripple Custody(Vault)의 notary·vault 구성요소 키를 Thales Luna 7(FIPS 140-2 Level 3)로 보호하는 통합 가이드—Luna Network HSM 7 어플라이언스(NTLS, 포트 1792)와 Luna PCIe HSM 7(A700) 카드 모두 동일한 PKCS#11 인터페이스·7.x 펌웨어라 HSM 정책·Scalable Key Storage(SKS)·키 파생 설정이 같고 전송 계층 설정만 다름. 같은 문서군에 클라우드 HSM, Securosys Primus·BlockSafe·IBM LinuxONE, MPC 통합 가이드
+* [Transaction Security Broker: Multi-Authorization Workflow | Securosys Smart Key Attributes](https://docs.securosys.com/ska/Concepts/tsb/#multi-authorization-workflow)
+  * Smart Key Attributes(SKA)는 키 사용 승인 정책을 HSM 안에서 강제하고, TSB는 애플리케이션과 HSM 사이에서 여러 승인자의 부분 승인 수집·타임락 대기 같은 상태 관리를 맡는 REST 계층(보안상 결정적인 승인 검증 자체는 HSM 내부). 흐름: 앱이 서명 요청→TSB가 요청 ID 발급·승인자별 대기 작업 생성→승인 클라이언트가 조회·승인→규칙 충족 시 승인 데이터와 페이로드를 HSM에 전달→HSM이 키 속성과 대조해 서명→앱이 서명 회수. SKA 없이 REST-to-JCE 변환 계층으로도 사용
 * [Holochain | App framework with P2P networking](https://www.holochain.org/)
   * [What is Holochain? - Holochain Docs](https://developer.holochain.org/what-is-holochain/)
 
