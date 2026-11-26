@@ -600,6 +600,11 @@ Finance
 * [Goldman Sachs · GitHub](https://github.com/goldmansachs/)
   * [Home - Goldman Sachs Developer](https://developer.gs.com/discover/home)
   * [Goldman Sachs Has an Open Source Python Package Called GS-Quant - YouTube](https://www.youtube.com/watch?v=6PSlX7Qqd1U)
+  * [gs_quant.skills: Bundled agent skills for gs-quant, Python toolkit for quantitative finance | goldmansachs/gs-quant](https://github.com/goldmansachs/gs-quant/tree/master/gs_quant/skills)
+    * gs-quant 패키지에 동봉된 실험적 에이전트 스킬(SKILL.md 패키지)과 설치 CLI—`python -m gs_quant.skills install --global`(또는 `--project`)로 `.claude/skills/`에 설치해 Claude Code·GitHub Copilot 등이 읽음(Linux/macOS는 심볼릭 링크라 패키지 업데이트 시 자동 갱신, Windows는 복사). 현재 스킬은 `gs-quant-overview` 하나: GsSession 세션, 인스트루먼트 resolve, 포트폴리오, 프라이싱·리스크, 결과, 데이터셋, 백테스팅을 다루는 gs_quant 코드 작성 가이드(backtesting·pricing·risk-measures·scenarios 등 보조 문서 포함)
+    * [Goldman Sachs Open-Sourced an AI Skill for Backtesting. I Tested It. | Unbiased Trading - YouTube](https://www.youtube.com/watch?v=cLUa-qOQS5Q)
+      * 스킬을 설치해 내용을 뜯어본 리뷰—GS 로그인 없이는 프라이싱 호출이 에러라 자체 가격 데이터로 대체. 백테스팅 가이드는 "엔진이 정말 필요한가"에서 출발해 트리거(달력 날짜·가격 수준·리스크 한도, 예: 델타 ±50,000 밴드 이탈 시 헤지)와 액션으로 나누고, 리스크 척도 기준 포지션 사이징, 정액·규모 비례·리스크 연동 비용과 진입·청산 비용 분리, 보유 포지션 상한, 가격·변동성 충격 시나리오 재평가, 19개 성과 통계와 손익 분해를 설명
+      * GS 예제의 평균회귀 규칙(30일 평균에서 2표준편차 이탈 시 진입, 평균 재교차 시 청산)을 유로와 미국 거래량 상위 500종목 5년에 적용—승률은 약 70%·65%였지만 연 수익은 1.55 수준으로 SPY에 크게 뒤짐(오래 열린 거래일수록 손실이 큼). 백테스팅 스킬의 좋은 입문 자료라는 평
 * [hometaxbot](https://github.com/finecodekr/hometaxbot)
 * [KIS Developers](https://apiportal.koreainvestment.com/intro) 한국투자증권
   * [open-trading-api: Korea Investment & Securities Open API Github | koreainvestment](https://github.com/koreainvestment/open-trading-api)
