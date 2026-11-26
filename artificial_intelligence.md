@@ -1393,6 +1393,9 @@ Artificial Intelligence
     * RahulMCA. Anthropic 시니어 엔지니어의 1시간 무료 강의 소개—CLAUDE.md·Plan mode 입문, 스킬·훅 만들기, 에이전트·서브에이전트 구축, 루프·그래프 기반 자기 개선 에이전트 팀까지. "$500짜리 에이전틱 엔지니어링 코스를 대체"
   * [Claude Code를 설치했다면 알아야 할 22가지 Skills, 개발부터 디자인·리서치·마케팅까지 | digitalbourgeois](https://digitalbourgeois.tistory.com/3706)
     * `npx skills add [repo]`로 설치하는 22개 스킬을 4영역으로 정리. BUILD: superpowers(계획·디버깅)·gstack(23개 스킬 팩)·caveman·ponytail·codex·i-have-adhd, DESIGN: ui-ux-pro-max·taste-skill·impeccable·hyperframes·emil·gsap, RESEARCH: skill-creator·graphify·last30days·agent-browser·find-skills·claude-hud, MARKETING: remotion·marketingskills(40개)·humanizer·social-media-skills. 원저자가 가장 많이 쓰는 건 superpowers·caveman·last30days
+  * [클로드코드 1,000시간 써보고 찾았습니다 ㄷㄷ 전 세계가 열광하는 '미친 스킬' 8가지 | 보스턴빌더 - YouTube](https://www.youtube.com/watch?v=XJILzLeuAfg)
+    * 비개발자 눈높이로 스킬을 "AI에게 주는 업무 매뉴얼"로 설명하고 GitHub에서 받아 쓰는 8개를 기획→개발→디자인→문구→기억→설명→홍보 순으로 시연: ①Grill Me(mattpocock/skills, `/grill-me`로 AI가 계획을 한 질문씩 면접) ②Ponytail(AI를 "게으른 고수"로—달력 부탁에 323줄 대신 브라우저 기본 기능으로 31줄) ③UI UX Pro Max(디자인 감각) ④Marketing Skills(coreyhaines31, 스킬 53개—대상의 걱정부터 정하고 헤드라인 작성) ⑤Humanizer(위키피디아의 AI 글 특징 기반으로 AI 티 제거, 한국어판 im-not-ai는 번역투 교정·사실과 숫자는 불변) ⑥Claude-Mem(지난 작업 기억) ⑦Archify(구조를 클릭 가능한 단일 HTML 다이어그램으로) ⑧HyperFrames(HeyGen, 말로 설명한 영상을 MP4로 렌더)
+    * 설치는 `claude plugin marketplace add <repo>`→`claude plugin install <name>` 또는 `npx skills add`(Node.js 필요), 설치 후 Claude Code 재시작. Claude-Mem은 설치 중 로그인·30일 체험 화면이 나오며 체험 없이 쓰면 기록 정리가 내 요금제 사용량으로 돌아감
   * [클로드 스킬 꿀팁 꼭 읽으세요. Anthropic Claude Code 팀의 Thariq Shihipar가 내부에서 수백 개의 스킬을 운영하며 얻은 교훈 | Seungpil Lee](https://kr.linkedin.com/posts/seungpil_%ED%81%B4%EB%A1%9C%EB%93%9C-%EC%8A%A4%ED%82%AC-%EA%BF%80%ED%8C%81-%EA%BC%AD-%EC%9D%BD%EC%9C%BC%EC%84%B8%EC%9A%94-anthropic-claude-code-%ED%8C%80%EC%9D%98-activity-7440532562331992064-qIb7)
     * 스킬은 텍스트 파일이 아니라 스크립트·템플릿·데이터까지 담는 폴더(AI가 필요할 때 꺼내 쓰는 도구 상자). Anthropic 내부 스킬을 분류하면 9유형—API 레퍼런스(이 라이브러리 쓸 때 조심할 실수), 제품 검증(헤드리스 브라우저로 가입·결제 흐름 테스트), 데이터 수집·분석, 반복 업무 자동화(스탠드업·티켓·주간 리캡), 코드 템플릿, 코드 품질·리뷰(서브에이전트가 비판·수정 반복), CI/CD·배포(PR 감시·재시도·점진 롤아웃·롤백), 장애 대응 런북, 인프라 운영—좋은 스킬은 한 카테고리에 명확히 속하고 "이 스킬이 뭘 하는 거지?"가 나오면 범위가 넓다는 신호
     * 핵심 팁: ①AI가 자주 틀리는 "함정 목록"을 꼭 넣고 새 실패마다 한 줄씩 추가(가장 유용한 섹션) ②정보를 한 번에 주지 말고 references/·assets/로 나누는 점진적 공개(Progressive Disclosure) ③너무 세세히 지시하지 말고 핵심만 주고 판단은 AI에게(재사용성) ④Description은 사람이 아니라 AI를 위해 "무엇을 하는가"가 아닌 "언제 실행할지"로. 실전 패턴으로 이전 실행 결과를 로그 파일로 남겨 다음 실행에 "어제 이후 뭐가 바뀌었지?"만 판단하게 하고, 배포는 누구나 GitHub 샌드박스 폴더에 올려 Slack에 공유하면 많이 쓰이는 것이 마켓플레이스로 승격되는 상향식. 대부분의 좋은 스킬은 몇 줄 메모와 함정 하나로 시작해 반복하며 좋아진 것—설계보다 시작과 반복
@@ -2162,6 +2165,11 @@ Artificial Intelligence
 * [OpenTag: An open-source alternative to Claude in Slack](https://github.com/CopilotKit/OpenTag)
   * [Slack에서 직접 운영하는 오픈소스 AI 에이전트, OpenTag 기술 정리 | digitalbourgeois](https://digitalbourgeois.tistory.com/3338)
   * 셀프호스팅 Slack AI 에이전트. 스레드를 읽고 질문에 답하고 도구를 호출하며 리치 결과를 대화에 렌더링. CopilotKit 봇 SDK 기반—런타임·모델 선택·도구 통합을 완전히 소유, 좌석당 과금·벤더 락인 없음. 인간 승인 워크플로우 지원
+* [OpenToolSearch: Open-source tool retrieval for function-calling agents — a small reranker, a drop-in tool_search, and a reproducible ToolRet evaluation | AI3 Inc.](https://github.com/ai3inc/opentoolsearch)
+  * [에이전트가 호출하는 MCP 서버나 스킬이 많아지면 맥락에 실려야 하는 토큰이 많아지고, 그만큼 비용 낭비와 환각 문제가 생깁니다. 그래서 AI3에서 OpenToolSearch를 개발했습니다 | 표철민](https://www.facebook.com/charlespyo/posts/pfbid02PTzGz1ZMcLKocR7ymFTXEp139RQiEsAnttgYxR6WrUUGmZxPtrt9FGvxKPZQXenAl)
+    * 1.2B 크기로 Claude·OpenAI·Gemini의 호스팅 Tool Search를 영어와 한글 모두에서 앞서고 속도 25~120배·비용 90~330배 우위라는 소개. 사전 임베딩·인덱싱 없이 방금 만든 스킬도 0.1초 만에 호출되고 삭제도 실시간 반영. 웍스AI의 맥락 토큰 비용 절감용으로 개발했고, 도구가 매우 많아질 로봇·개인용 에이전트와 온디바이스 Tool Search에도 쓰이길 기대하며 Apache-2.0으로 공개
+  * 수백~수천 개의 도구(함수 선언·MCP 서버·스킬) 중 요청에 필요한 몇 개만 에이전트에 싣는 오픈 웨이트 도구 검색—0.6B 임베더가 후보를 찾고 0.6B 리랭커가 순서를 매김(둘 다 교체 가능). GPU 한 장에서 검색당 0.10초·1,000건 $0.19. 인덱스는 프로세스 안의 작은 파일(1,000개 도구 4.6MB)이라 벡터 DB도 야간 재임베딩도 없이 도구 추가·수정 16ms, 삭제 1ms 미만(`index.sync()`가 바뀐 것만 임베딩). 도구 설명이 외부로 나가지 않음
+  * 품질: 공개 ToolRet 벤치마크에서 OpenAI·Claude 호스팅 tool search와 Gemini 3.6-flash를 앞서고 Gemini 3.8-flash와 동률, gemini-4-hydrogen에는 2.7점 뒤짐. 8B 오픈 모델 쌍 Tool-DE가 여전히 더 높음. 영어 중심 학습에 한국어 일부—영어 도구 설명에 한국어 요청 시 0.8점 손실. 실패한 실행까지 전부 LEDGER로 공개
 * [openui: The Open Standard for Generative UI | thesysdev](https://github.com/thesysdev/openui)
   * [OpenUI 1.0: Intelligent UI for every agent | Thesys - YouTube](https://www.youtube.com/watch?v=GG8RdSrikwg)
   * [OpenUI - The Open Standard for Generative UI](https://www.openui.com/)
@@ -3308,6 +3316,9 @@ Artificial Intelligence
   * [Fixing the PR Bottleneck — Matt Pocock, AIHero | AI Engineer](https://ai.engineer/talks/LlgiOCmFG_w-youtube-40c0a903db79223717ca)
   * AI Engineer Paris 2026. 에이전트로 PR 열기는 쉬워졌지만 리뷰할 가치가 있는 PR은 그렇지 않음—자동 트리거로 가속만 하는 팩토리는 "slop cannon"이 되고 나쁜 코드는 다음 에이전트의 작업 환경을 망치므로 브레이크 3층(결정적 검사·자동 리뷰·사람 리뷰)이 필요. 녹색 CI도 거짓말할 수 있음—상수 재확인, 렌더링 대신 소스 문자열 순서 비교, 실패 경로 없는 mock 같은 테스트. Ousterhout의 deep module(작은 인터페이스·큰 구현)로 에이전트가 인터페이스 통해 의미 있는 테스트를 쓰게 하고, 모듈 심화·코드베이스 설계 스킬로 공통 어휘(locality·leverage·seam) 제공
   * 상세 코딩 표준은 구현 에이전트 컨텍스트에서 빼고 diff와 표준 파일만 읽는 별도 리뷰 서브에이전트에 맡김(make it work→make it good). 리뷰어는 장황한 코멘트 대신 고칠 수 있는 건 커밋으로 반영. PR에는 "merge danger" 요약—되돌릴 수 없는 one-way door(6만 명에게 메일 발송·마이그레이션·데이터 손실)와 blast radius를 적고, 다이어그램(HumanLayer Show Me 스킬)으로 변경을 보여줌. Retro 스킬로 세션·PR·리뷰를 회고해 같은 리뷰 코멘트를 두 번 쓰지 않도록 검사·표준·탐색 포인터·도구 선택·지시문 비대화를 개선
+* [The factory mindset: Agentic workflows in production | GitHub Universe 2026 - YouTube](https://www.youtube.com/watch?v=TYhsC-S-Fx0)
+  * Peli de Halleux(GitHub Next), Tim Mason(Marks and Spencer), Paul Snider(Provation/Fortive)—"공장은 산출물이 아니라 그것을 만드는 프로세스로 정의된다". GitHub Actions와 Copilot 기반 Agentic Workflows로 소프트웨어 팩토리를 만드는 사례: 엔지니어 5명 팀이 주 460개 PR 출하, M&S는 자율 워크플로로 하루에 이슈 77건 수정. M&S의 난제는 저장소 5,000개로의 확장—일관성(엔지니어 개입 없이 매번 같은 프롬프트), ROI 계산, 거버넌스와 드리프트, 보안·감사, 도입 마찰을 풀기 위해 승인된 워크플로 카탈로그에서 원클릭 배포(PR 생성)·버전 추적·OpenTelemetry 수집·저장소별 설정을 제공하는 agentic control plane을 구축
+  * Provation은 규제 대상 의료(병원 시스템 3,300곳) 환경에서 감사 가능한 에이전트 운영—"요리는 다들 좋아하지만 설거지는 아무도 안 한다, AI에게 설거지를 시키자"(코딩만 빨라지면 제약이 QA·출시로 옮겨갈 뿐이니 SDLC 전체의 통제·증적·문서화를 작업 단위로 파악). 교훈: 신뢰에서 시작해 기존 도구 위에 쌓기, 현재 SDLC의 병목과 toil 파악 후 자동화, 하네스 끌어올리기, 확장 전에 비용·품질·가치를 OpenTelemetry로 계측
 * [Fighting Code Slop: The State of Software Factories - Dexter Horthy | Agentic AI Foundation - YouTube](https://www.youtube.com/watch?v=ix1qQK1IvmA)
   * [2603.24755 SlopCodeBench](https://arxiv.org/abs/2603.24755)
     * [SlopCode-Bench leaderboard | Snorkel AI](https://snorkel.ai/leaderboard/slopcode-bench/)
@@ -6725,6 +6736,8 @@ Artificial Intelligence
   * [Open Code Review 공식 사이트](https://open-codereview.ai/)
   * [개발자 2만 명이 쓰던 알리바바 코드 리뷰 AI, 공짜로 풀렸다 - YouTube](https://www.youtube.com/shorts/NPHW6-SI9CY)
     * 알리바바가 사내에서 2년간 쓰며 개발자 2만 명이 리뷰를 300만 번 넘게 돌린 도구를 공개. 볼 파일 고르기·묶기·코멘트 위치 잡기는 정해진 코드가 하고 판단만 AI가 맡아, 큰 변경에서 일부 파일만 보거나 줄 번호가 어긋나는 문제를 줄임. 알리바바 테스트에서 같은 모델의 Claude Code 대비 정확도는 두 배 이상, 시간은 13분→1분 23초, 토큰은 1/9. Claude Code 플러그인으로 설치하면 별도 키 없이 쓰던 Claude로 동작
+  * [Alibaba가 사내 개발자 수만 명이 2년 동안 쓰던 AI 코드리뷰 도구를 통째로 오픈소스로 풀었습니다 | HaYeJin Kang](https://www.linkedin.com/posts/h4y3j1n_alibaba-alibaba-tgkrgureerze-share-7530506610163777536-BQWE/)
+    * 비결은 "전부 AI에게 맡기지 않는다"—리뷰할 파일 고르기·관련 파일 묶기·코멘트 위치 확정처럼 틀리면 안 되는 단계는 일반 코드로 고정하고 판단만 에이전트에게. 같은 모델 기준 Claude Code 대비 정밀도·F1은 높고 토큰은 약 1/9(대신 재현율은 낮음—오탐을 줄이는 쪽을 택한 설계), 실제 PR 200개·10개 언어·시니어 엔지니어 80명+이 검증한 이슈 1,505개 벤치마크, `ocr review`(diff)·`ocr scan`(레포 전체), Apache 2.0. "리뷰 봇 코멘트가 너무 많아 다들 무시하는" 팀에 권함
   * Alibaba 규모에서 검증된(수백만 실제 태스크) AI 코드 리뷰 도구. 결정론적 파이프라인+LLM 에이전트 하이브리드 구조로 정확한 라인 단위 코멘트, 다국어 내장 룰셋(NPE·스레드 안전성·XSS·SQL 인젝션), OpenAI·Anthropic 호환—어떤 LLM이든 연결하고 데이터는 완전 프라이빗 유지. `npm i -g @alibaba-group/open-code-review`, OpenSSF Gold
 * [openai-cs-agents-demo: Demo of a customer service use case implemented with the OpenAI Agents SDK](https://github.com/openai/openai-cs-agents-demo)
   * [OpenAI + Temporal: Building Durable, Production Ready Agents - Cornelia Davis, Temporal - YouTube](https://www.youtube.com/watch?v=k8cnVCMYmNc)
@@ -10225,6 +10238,9 @@ Artificial Intelligence
 
 # World Model
 * [(1) 류내원 - 얀 르쿤 "5년 내 LLM 한계…AI의 다음 혁명은 월드 모델" (출처: 뉴스) 현재 AI 모델은 세계를... | Facebook](https://www.facebook.com/story.php?story_fbid=24784508421171891&id=100001182289254)
+* [모두가 언어 모델에 걸 때 '막다른 길'이라 말한 사람, 이번에도 옳을까 | 얀 르쿤 | 성공인물사전 - YouTube](https://www.youtube.com/watch?v=QNzQP33sH8E)
+  * 얀 르쿤 일대기—학계가 손 뗀 신경망을 혼자 파고들다 Hinton에게 발견되고, 벨 연구소에서 합성곱 신경망으로 수표를 읽는 기계를 만든 뒤(2000년대 초 미국 수표의 10~20% 처리) 신경망 겨울을 Hinton·Bengio와 함께 건너 2019년 튜링상. 2013년 Facebook AI 연구소를 맡을 때 "연구 공개·논문 발표 의무·뉴욕대 교수직 유지"를 조건으로 걸었고, 2025년 조직 개편으로 보고 대상이 28세 Alexandr Wang으로 바뀌고 연구 공개 비중이 줄자 메타를 떠나 파리에 AMI Labs 창업(2026년 3월 시드 10억 3천만 달러, 2026년 가을 직원 60여 명·제품과 매출 없음)
+  * LLM은 막다른 길이라는 주장의 근거(네 살 아이가 눈으로 받은 정보량 대 LLM이 읽은 글)와 대안인 월드 모델, Hinton·Bengio의 반론(AI 위험·통제 문제)도 함께 다룸—누가 옳은지는 아직 모름. 뽑아낸 세 원리: 가장 먼 목표에서 거꾸로 걸어오기, 생각은 공개해서 검증받기, 조건은 먼저 말하고 깨지면 떠나기
 * [구글이 이걸 푸네요… HBM 더 폭증 | 월드모델 Genie 3 사용자들 경악 | 월드 모델은 LLM과는 아예 다른 경쟁 기준이 됩니다 - YouTube](https://www.youtube.com/watch?v=JIhQ-30VASQ)
   * [구글 딥마인드 Genie 3 출시: HBM 병목 및 LLM과 다른 월드 모델 경쟁 기준 분석](https://livewiki.com/ko/content/google-hbm-world-model-genie)
 * [This new AI model thinks in images, not just words | Fast Company](https://www.fastcompany.com/91571127/this-new-ai-model-think-in-images-not-just-words)
