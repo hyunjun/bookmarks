@@ -157,6 +157,7 @@ Writing
   * 2024년 National Book Awards에서 뉴요커가 찍은 짧은 인터뷰. 노벨 문학상 수상자 앤 카슨은 글쓰기 조언을 받아 본 적이 있느냐는 질문에 전혀 없다고 답하고, 그럼 조언을 해 달라는 질문에는 망설임 없이 "Start in the middle(중간에서 시작하라)". 어떤 글이든 시작이 가장 어렵다는 공유자의 덧붙임. 책 추천도 함께
 
 # App
+* [HumanPen](https://humanpen.net/ko) - 문서 번역(대상 12개 언어)과 35개 언어 리라이팅을 제공하며 원본 서식을 최대한 보존하는 유료 크레딧 서비스. 가입 시 100크레딧을 1회 지급.
 * latex
   * [Free & Interactive Online Introduction to LaTeX](https://www.overleaf.com/latex/learn/free-online-introduction-to-latex-part-1)
   * [Scripts for Latex to HTML5 conversion](https://github.com/smarr/latex-to-html5)
