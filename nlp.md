@@ -3465,6 +3465,10 @@ NLP
   * [🐧 Hy4 flash: 모델이 클수록 비싸다는 공식이 깨진 지점 | fornewchallenge](https://fornewchallenge.tistory.com/entry/%F0%9F%90%A7-Hy4-flash-%EB%AA%A8%EB%8D%B8%EC%9D%B4-%ED%81%B4%EC%88%98%EB%A1%9D-%EB%B9%84%EC%8B%B8%EB%8B%A4%EB%8A%94-%EA%B3%B5%EC%8B%9D%EC%9D%B4-%EA%B9%A8%EC%A7%84-%EC%A7%80%EC%A0%90)
   * 텐센트가 2026-11-16 공개한 가성비형 오픈 웨이트 모델. 총 224B 파라미터(Engram 64B 포함) 중 토큰당 12B만 활성화, 네이티브 멀티모달·1M 토큰 컨텍스트. 혼합 어텐션·LatentMoE·Engram으로 KV 캐시를 Hy3의 1/24·Hy4의 1/6로 줄이고, Hy4 자기 증류+강화 학습으로 출력 토큰을 절반으로, megakernel·4bit 양자화·DFly로 디코딩 150 tokens/s 이상
   * 내부 벤치마크 WorkIndex(슬라이드·문서 편집·표 복구·음성/영상·시각 이해 8개 평가)에서 Hy4 preview를 근소하게 앞서면서 작업당 비용은 Hy4 preview의 1/13, Hy4의 1/20. 검색·문서·슬라이드·컴퓨터 사용 같은 일상 업무는 flash, 장기 소프트웨어 공학은 Hy4를 권장. 블로그 해설은 이 수치들이 출시 측 내부 측정이라는 점과 배수로 인용해야 한다는 점을 짚음
+  * [tencent/Hy4-flash · Hugging Face](https://huggingface.co/tencent/Hy4-flash)
+    * 공식 가중치와 모델 카드(Tencent Hy License, image-text-to-text)—42층 백본(dense 1+MoE 41), 희소 어텐션과 슬라이딩 윈도 어텐션을 1:3으로 섞은 하이브리드 어텐션, 512개 중 16개 전문가를 저차원 잠재 공간에서 라우팅하는 LatentMoE, 해시 조회로 가져오는 bigram·trigram 임베딩 Engram, SigLIP2 기반 비전 인코더. Transformers·OpenAI 호환 API 퀵스타트, DFly2 추측 디코딩, 양자화·GGUF, vLLM·SGLang 배포, 파인튜닝 안내
+  * [텐센트가 공짜로 푼 2,200억짜리 AI… 유료 AI 대신 써도 될까? | 진실의 섬 - YouTube](https://www.youtube.com/watch?v=6COCv0N6TrU)
+    * 텐센트·허깅페이스 원문을 맞대 본 판정—①공짜로 풀었다: 사실(gated 없음, no-charge·royalty-free, 파일 200개 440.5GB) ②한국에선 못 쓴다: 거짓(한국 제외는 옛 Hy3 preview·Hunyuan-A13B 약관 얘기, Tencent Hy License 1.0엔 지역 조항 없음; 연매출 5천만 달러 초과·월 이용자 1억 명 초과의 모델 API 대여 사업만 별도 계약) ③Claude 같은 유료 AI만큼 한다: 확인 안 됨(블라인드 만족도 2.79 대 Haiku 5.5 2.81 등 모두 텐센트 자체 시험) ④누구나 공짜로 써 본다: 과장(공식 무료 길은 워크버디 가입, 11월 30일까지) ⑤형님 모델보다 낫다: 대체로 사실(WorkIndex 42.1 대 Hy4 preview 39.7). API 표값은 100만 토큰당 입력 $0.070·출력 $0.281
 * [Hy4-preview](https://github.com/Tencent-Hunyuan/Hy4-preview)
   * [AGI KR 그룹 공유 포스트 | Facebook](https://www.facebook.com/groups/255834461424286?multi_permalinks=3071486279859076)
   * Tencent Hunyuan의 Hy4 프리뷰. Python
@@ -5481,6 +5485,9 @@ NLP
     * [🤖 E02. RAG 평가하다 $700 날렸다... by Markr.AI 김동규, 김병욱 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/804643)
   * [AutoRAG 튜토리얼 #2 - RAG 평가 데이터 생성 - YouTube](https://www.youtube.com/watch?v=l1j4QUELLNY)
   * [🔥 AutoRAG 총출동 한국어 Advanced RAG 최적화를 위한 평가 데이터셋, 평가, 최적화 꿀팁들 대방출 🔥 - YouTube](https://www.youtube.com/live/zjUPWtsjdWk)
+  * [RAG의 시작을 바꾸는 VLM: Document Parse 2.0 | AutoRAG Community Meetup 2026 | 최송기 발표 | 테디노트 TeddyNote - YouTube](https://www.youtube.com/watch?v=5HeF1R8J2Us)
+    * 업스테이지 Document AI 팀 리드의 "읽어야 찾는다"—손글씨를 팩스로 보낸 신청서는 기본 OCR에서 전화번호·이메일이 깨지고, 요금표는 글자만 읽으면 "필라테스 기초반 청소년 7만 원" 같은 관계 정보가 사라져 어떤 LLM도 답을 못 찾음. 문서는 구조 자체가 정보이고, AX는 DX(읽을 수 없는 문서까지 AI가 읽는 텍스트로 만드는 일)를 가정한다는 주장
+    * OCR·레이아웃 검출·표 인식·차트 인식을 엮는 파이프라인 방식은 앞 단계 실수(표 귀퉁이 잘림)를 뒤에서 못 고치고 전역 맥락을 못 봄→올인원 VLM인 Document Parse 2.0은 페이지 전체를 한 번에 보고 전화번호 칸임을 인지해 손글씨 오인식을 바로잡고, 글자 없는 사진도 "콘크리트 벽면 균열"처럼 설명을 달아 검색 대상으로 만듦(Document Parse MCP+AutoRAG MCP로 재인덱싱 후 "벽 균열 찾아줘" 검색 시연). 깔끔한 문서는 AutoRAG 기본 파서로 충분하고, 복잡한 표·차트·손글씨에 권장
   * [AutoRAG-example-korean-embedding-benchmark: AutoRAG example about benchmarking Korean embeddings.](https://github.com/Marker-Inc-Korea/AutoRAG-example-korean-embedding-benchmark)
     * [어떤 한국어 임베딩 모델 성능이 가장 좋을까? 직접 벤치마크 해보자](https://velog.io/@autorag/%EC%96%B4%EB%96%A4-%ED%95%9C%EA%B5%AD%EC%96%B4-%EC%9E%84%EB%B2%A0%EB%94%A9-%EB%AA%A8%EB%8D%B8-%EC%84%B1%EB%8A%A5%EC%9D%B4-%EA%B0%80%EC%9E%A5-%EC%A2%8B%EC%9D%84%EA%B9%8C-%EC%A7%81%EC%A0%91-%EB%B2%A4%EC%B9%98%EB%A7%88%ED%81%AC-%ED%95%B4%EB%B3%B4%EC%9E%90)
 * [AutoRAG-Research: Automate your RAG research](https://github.com/NomaDamas/AutoRAG-Research)
