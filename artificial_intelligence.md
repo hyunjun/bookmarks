@@ -1537,18 +1537,21 @@ Artificial Intelligence
   * Karpathy의 AI 연구 자동화 에이전트. 단일 GPU에서 nanochat 학습 실험을 자동으로 실행·분석. 5분 고정 학습 후 val_bpb 기준 평가, 시간당 약 12회 실험 반복
   * [Claws는 이제 LLM 에이전트 위에 추가된 새로운 계층임 | GeekNews](https://news.hada.io/topic?id=26883)
     * Karpathy autoresearch 분석: AI 시대 핵심 역량은 코드 생성이 아닌 평가 시스템 설계. 탐색 공간·평가 기준을 정의하는 '평가자 설계자'가 미래 전문성
-  * [nanochat: Streamlined language model training framework](https://github.com/karpathy/nanochat)
-  * [serverless-autoresearch: Parallel evolution pipeline for autoresearch on SageMaker Spot Training (H100)](https://github.com/roboco-io/serverless-autoresearch)
-    * [Serverless Autoresearch: Vibe Coding을 통한 서버리스 ML 실험 파이프라인 기록 :: ROBOCO](https://roboco.io/posts/serverless-autoresearch-vibe-coding)
-    * SageMaker Spot으로 원본 대비 2.3배 빠르고 5~18배 저렴. HUGI 패턴으로 병렬 실험, 세대당 86% 개선 확률
+  * [Oleh Kostromin, Iryna Kondrashchenko - ML Experimentation with Coding Agents | PyData - YouTube](https://www.youtube.com/watch?v=3UJiWMKw660)
+    * 코딩 실행과 ML 최적화는 다른 문제—소프트웨어는 성공이 국소적·이진적이지만 ML은 코드 정합성이 전제일 뿐 여러 궤적의 반복 실험으로 진전을 잼. 한 궤적을 끝까지 미는 코딩 에이전트는 긴 호라이즌에서 표류하고, 변경을 한 단계에 묶어 결과 귀속이 안 되며, 세션 사이 맥락을 잃어 이미 시험한 가설이 표현만 바뀌어 돌아옴. LLM 오케스트레이터를 얹어도 그 에이전트가 표류하고, autoresearch는 워크트리·CSV 로깅까지 하지만 탐색 궤적이 하나이고 얕음—수백 번 실험에서의 안정성은 더 나은 프롬프트가 아니라 결정적 코드가 필요
+    * 해법: 비LLM 오케스트레이터가 가설로 제약된 수정에 대한 트리 탐색을 돌리고 각 가지는 별도 git worktree, 노드 유형으로 제안·구현·디버깅을 분리해 노드마다 새 컨텍스트와 좁은 범위, 반복 방지 메모리, 실험 추적 시스템을 토큰 효율적으로 조회하는 인터페이스로 컨텍스트를 리셋해도 이력 유지, Claude Code·Codex 같은 기존 CLI를 추상화 없이 그대로 호출. human-in-the-loop과 일반 Optuna 탐색이 여전히 나은 경우도 다룸
   * [autoresearch, in the browser! | Lucas Gelfond](https://autoresearch.lucasgelfond.online/)
     * [autoresearch-webgpu: Let AI agents run research experiments + train small language models (in your browser!)](https://github.com/lucasgelfond/autoresearch-webgpu)
     * Karpathy의 autoresearch를 브라우저로 옮긴 데모—학습 코드를 생성하고 실험을 돌리고 결과를 보며 반복하는 루프 전체가 기기 안에서 WebGPU로 돌아가 작은 언어 모델을 학습. Eric Zhang의 jax-js 위에 구현. 메모리를 많이 써서 모바일에서는 탭이 죽기 쉬움
   * [autoresearch-mlx: Apple Silicon (MLX) port of Karpathy's autoresearch](https://github.com/trevin-creator/autoresearch-mlx)
     * PyTorch 없이 Mac에서 자율적인 AI 연구 루프 실행. MLX 프레임워크 활용, 고정 시간 예산 내 모델 반복 개선
+  * [nanochat: Streamlined language model training framework](https://github.com/karpathy/nanochat)
   * [pi-autoresearch: Autonomous experiment loop extension for pi](https://github.com/davebcn87/pi-autoresearch)
     * [pi-autoresearch: Karpathy의 "AI 자율 실험" 아이디어를 범용화한 오픈소스 | GeekNews](https://news.hada.io/topic?id=28600)
     * Karpathy의 autoresearch를 범용화. 테스트 속도, 번들 크기, LLM 훈련 등 어떤 최적화 목표에도 적용 가능한 "시도→측정→유지/폐기→반복" 루프
+  * [serverless-autoresearch: Parallel evolution pipeline for autoresearch on SageMaker Spot Training (H100)](https://github.com/roboco-io/serverless-autoresearch)
+    * [Serverless Autoresearch: Vibe Coding을 통한 서버리스 ML 실험 파이프라인 기록 :: ROBOCO](https://roboco.io/posts/serverless-autoresearch-vibe-coding)
+    * SageMaker Spot으로 원본 대비 2.3배 빠르고 5~18배 저렴. HUGI 패턴으로 병렬 실험, 세대당 86% 개선 확률
 * [awesome-agent-frameworks: Architecture-focused guide to open-source personal AI agent frameworks (the Claw ecosystem) | subinium](https://github.com/subinium/awesome-agent-frameworks)
   * [많은 바이브코딩 포스트가 SKILL 또는 하네스를 중심으로 이야기가 논의되지만, 그에 못지 않게 중요한 것이 에이전트에게 주입되는 정보/데이터 | Subin An](https://kr.linkedin.com/posts/subin-an-841975110_github-subiniumawesome-agent-frameworks-activity-7449506474843865088-u50Z)
   * 링크 덤프가 아니라 "어떤 문제를 어떻게 풀고 왜 그 접근이 중요한가"를 항목마다 설명하는 아키텍처 중심 가이드—Claw 계열 개인 AI 에이전트 프레임워크의 기원, 아키텍처 맵, 분류(풀 플랫폼·경량·Rust 네이티브·임베디드/엣지·독특한 패러다임·Python·모바일·기타 언어), 보안 모델·채널 커버리지·LLM 제공자 전략·메모리와 학습·배포 타깃의 횡단 비교, 인기순, 선택 프레임워크. 동작하는 소프트웨어가 아닌 설계 의도를 기술한다는 면책 조항. 영·중·일·한 README
@@ -2260,6 +2263,10 @@ Artificial Intelligence
     * [Pi Durable - Mario Zechner | Vienna AI Engineering - YouTube](https://www.youtube.com/watch?v=EreOxs9Vvrg&t=207s)
     * 이름 정리: Pi는 꼭 필요한 기능만 담고 나머지는 플러그인으로 붙이는 가벼운 코딩 에이전트, omp(Oh My Pi)는 서브에이전트·LSP/DAP·슬래시 명령·내장 도구를 미리 넣은 쪽. Pi SDK는 에이전트의 대화·도구·플러그인을 내 앱에 부품처럼 임베드하는 도구, Pi Durable은 장기 실행 에이전트에 태스크 체크포인트·크래시 복구·스케줄링·공유 상태를 주는 도구—한 번의 대화로 끝나는 작업이면 SDK, 며칠씩 이어지는 일이면 Durable
     * 추천 순서와 시작 지점: ①05:24부터 작은 코어·확장·워크플로 제어권 ②37:35부터 모델 인터페이스·에이전트 루프·코딩 에이전트의 관계 ③09:41부터 SDK가 있는데도 Durable을 따로 만드는 이유 ④03:27부터 에이전트가 멈췄을 때 같은 작업이 두 번 실행되지 않게 막는 방법
+  * [pi-agent-computer-use: Computer use for the Pi coding agent — Windows apps, browsers and desktops through native UI trees, screenshots and real input | alexshpunt](https://github.com/alexshpunt/pi-agent-computer-use)
+    * [pi-agent-computer-use · Packages · Pi](https://pi.dev/packages/pi-agent-computer-use)
+    * Pi 에이전트가 Windows 앱과 브라우저를 직접 쓰게 하는 확장(Windows·WSL)—창을 찾아 UI Automation 접근성 트리(역할·이름·값·좌표)와 스크린샷을 읽고, 요소마다 붙는 `1:a` 같은 짧은 힌트로 좌표 추측 없이 클릭·타이핑·드래그·브러시 스트로크, 웹 페이지는 Playwright 스냅샷·액션, 동작 뒤엔 바뀐 UI 행과 변경 영역 표시로 결과 확인. `computer_open`·`computer_click`·`computer_type`·`computer_wait`·`computer_browser` 등 도구는 `tool_search`로 찾기 전엔 목록에 안 올라와 미사용 세션은 토큰 부담 없음. 네이티브 캡처·입력은 Cua Driver 포크 기반
+    * 기본 YOLO 모드는 가리킨 어떤 창이든 읽고 조작, `/computer-mode safe`는 에이전트가 직접 연 창만—Windows Sandbox·격리 세션·SSH 원격 머신도 지원. 데모: 다른 Windows 머신의 GIMP에서 참고 그림을 직접 따라 그리기(deepseek-flash 82분 $0.34, claude-haiku-5-5 27분 $0.33, claude-opus-5-5 78분 $5.04, gpt-6.1-sol 61분 $1.05, gpt-6.1-terra 14분 $0.25)
   * [pi-context: Letting AI Actively Manage Its Own Context | ttttmr](https://github.com/ttttmr/pi-context)
     * Pi용 Agentic Context Management(ACM) 확장—유용한 지점에 체크포인트(`context_checkpoint`)를 남기고 활성 히스토리 구조를 타임라인(`context_timeline`)으로 보고, 끝난 경로의 잡음을 상태 요약으로 압축(`context_compact`). kimi-cli d-mail에서 영감을 받아 Pi 세션 트리에 무손실 time travel을 가져왔으며 압축 후에도 이전 메시지는 보이고 백업 체크포인트·`/tree`로 원래 컨텍스트로 복귀. 이름은 Git과 비슷하지만 대화 기록만 관리하고 파일·외부 상태는 되돌리지 않음. Pi ≥1.2.0에서 자동 동작, `/context` 대시보드로 컨텍스트 창 사용량·토큰 분포 확인. `pi install npm:pi-context`
   * [PI-Desktop | A modular desktop workspace for AI agents](https://pi-docs.aiuo.net/)
@@ -4603,6 +4610,10 @@ Artificial Intelligence
   * 개발자가 취해야 할 자세: 데이터에 기반한 냉정한 평가
 * [What the Top Companies Do Differently With AI Coding — Martin Harrysson & Prakhar Dixit, McKinsey | AI Engineer - YouTube](https://www.youtube.com/watch?v=21tuT-e4NVo)
   * 대기업들의 소프트웨어 개발 AI 에이전트 도입을 관찰한 McKinsey의 보고—대부분은 여전히 완만한 개선에 머물지만 상위 20~25%는 end-to-end 2배 개선을 내고 있으며, 환멸의 골짜기를 빠져나오는 그 기업들이 다르게 하는 네 가지: 2주 스프린트 대신 에이전트 주도의 짧은 사이클(운영 모델), 역할을 합친 더 작은 팟(인재), 큐레이션된 스킬과 공유 컨텍스트·신뢰(기술), 파일럿을 넘어선 규모의 변화 관리. 코드 생성이 빨라질수록 품질이 떨어질 수 있는 이유, 병목이 요구사항과 릴리스로 이동하는 현상, 그리고 영향 측정이 여전히 가장 어려운 부분인 이유
+* [AI is an Amplifier: Scale High Performance, Not Dysfunction | Nathen Harvey | InfoQ](https://www.infoq.com/presentations/dora-ai-adoption-engineering-performance/)
+  * [What DORA Found: AI Amplifies Good and Bad Systems Alike | InfoQ - YouTube](https://www.youtube.com/watch?v=iF_JsNZSTo4)
+  * QCon London 2026, DORA 리드의 2025년 연구(약 5,000명 설문+정성 인터뷰) 해설—응답자 약 90%가 업무에 AI를 쓰고 하루 중앙값 2시간, "AI 쓰느냐"는 더 묻지 않기로 함. AI 도입 점수만 올리는 시뮬레이션에서 개인 효과성이 가장 크게 오르고 조직·팀·제품 성과, 코드 품질, 처리량도 개선되지만 **배포 불안정성도 증가**, 번아웃과 마찰은 0 근처에서 그대로("일이 싫은데 AI를 쥐여 줘도 여전히 싫다"). 모두 AI를 쓰는데도 팀 프로필은 7가지로 갈려(프로세스에 묶인 팀 대 조화로운 고성과 팀) 차이는 AI가 아니라 기존 시스템에서 나옴—AI는 좋은 시스템도 나쁜 시스템도 증폭
+  * 도입을 성과로 잇는 DORA AI Capabilities Model의 7가지 역량(명확히 전달된 AI 사용 방침 등, dora.dev에서 성과별로 탐색). 도입률은 이사회 질문에만 답하는 지표이고 AI가 생성한 코드 줄 수는 "멍청한 지표". Deming의 "나쁜 시스템은 좋은 사람을 매번 이긴다"와 Kaizen 대 Kaikaku를 들어, 새 병목이 된 코드 리뷰를 없애고 그 역량을 가드레일·검증 자동화·페어 프로그래밍에 투자하자는 도발적 제안. 마지막 당부는 "우리 연구를 믿지 말고 자기 조직 맥락에서 실험하라"
 * [2601.20245v2 How AI Impacts Skill Formation](https://arxiv.org/abs/2601.20245)
   * [AI 코딩이 오히려 개발자의 생산성을 떨어뜨린다? - Anthropic 논문](https://bcho.tistory.com/1500)
 * [바이브 코딩이 없앤 유지보수 | AIstar](https://haseong.github.io/blog/2025/08/30/vibe-coding-no-maintenance.html)
@@ -7259,6 +7270,9 @@ Artificial Intelligence
     * [Don't Build Agents, Build Skills Instead – Barry Zhang & Mahesh Murag, Anthropic - YouTube](https://www.youtube.com/watch?v=CEvIs9y1uog)
       * [에이전트가 아닌 '스킬'을 구축해야 하는 이유: Anthropic의 새로운 에이전트 아키텍처 및 스킬 생태계 혁신](https://livewiki.com/ko/content/agents-skills-anthropic)
       * [스킬은 직접 만드는 Micro SaaS입니다. 에이전트 만들지 말고 Skills을 만드세요. 정교한 Skills가 많이 만들어지고 있습니다. 어떤 사람들은 Skills는 마크다운 패키징에 불과하다고 하지만, 이건 AI를 잘 쓰는 사람들의 패턴입니다. 1. 에이전트는 천재지만 전문가가 아닙니다 현재의 LLM 에이전트는 IQ 300의 천재처럼 복잡한 계산을… | 정구봉 Goobong Jeong](https://www.linkedin.com/posts/gb-jeong_%EC%8A%A4%ED%82%AC%EC%9D%80-%EC%A7%81%EC%A0%91-%EB%A7%8C%EB%93%9C%EB%8A%94-micro-saas%EC%9E%85%EB%8B%88%EB%8B%A4-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EB%A7%8C%EB%93%A4%EC%A7%80-%EB%A7%90%EA%B3%A0-skills%EC%9D%84-activity-7404274903606321152--F0F)
+      * [Anthropic's Engineers Stopped Building AI Agents (Here's What They Build Instead) | Jay E | RoboNuggets - YouTube](https://www.youtube.com/watch?v=IMSYKloMFrE)
+        * Barry Zhang의 비유(모델=칩, 에이전트 하네스=OS, 스킬=앱)를 출발점으로 스킬 공개 1년 뒤의 사용법 정리—범용 에이전트 하나에 전문성을 얹는 편이 수백 에이전트 관리보다 낫고(작업 폴더 하나에 스킬을 몰아 다듬기), 스킬은 SKILL.md가 든 폴더이며 이름·설명이 호출 여부를 가르는 라벨. 70개+ 플랫폼이 채택한 오픈 표준이라 도구를 바꿔도 재사용
+        * 6단계: 0 직접 작성(비추천)→1 Skill Creator로 Anthropic 모범 사례대로 생성→2 Claude와 한 번 같이 일한 뒤 세션과 교정 내용을 스킬로 굳히기(가장 권장, 쓸 때마다 다듬기)→3 데스크톱 앱 'record a skill'로 화면 녹화+음성 설명→4 절차가 아닌 스킬(고객 데이터 링크를 모은 database 스킬, 브랜드 디자인 시스템 artifact 스킬, 한 단어의 뜻만 고정하는 definition 스킬, 한 줄짜리 GrillMe)→5 Anthropic 마켓플레이스·skills.sh의 남의 스킬(신뢰 출처만, 에이전트에게 먼저 점검시키고 내 환경에 맞게 수정)→6 가끔 스킬 없이 실행—Boris Cherny의 'hobbling': 오래된 세부 지시가 똑똑해진 모델을 가로막아 Claude Code 팀도 시스템 프롬프트를 80% 줄였으니 스킬 유무로 결과를 비교
     * [How We Use Claude Code Skills to Run 1,000+ ML Experiments a Day](https://huggingface.co/blog/sionic-ai/claude-code-skills-training)
       * [Sionic AI Leverages Claude Code for Efficient ML Experimentation | Jin Hyung Park (Sigrid Jin) 🌈 posted on the topic | LinkedIn](https://www.linkedin.com/posts/sigridjineth_how-we-use-claude-code-skills-to-run-1000-activity-7403866537516077056-k8r-)
     * [클로드 스킬 이 영상으로 끝! | Subagent, MCP, Custom Commands 차이점 완벽 정리! - YouTube](https://www.youtube.com/watch?v=wKIQbRMZ4Cs)
@@ -8614,6 +8628,10 @@ Artificial Intelligence
     * 8GB 로그·비활성 채팅 누적이 체감 속도 저하 원인. 정리 후 10배 빨라짐. 핵심: 채팅은 실행용, 기억은 handoff 문서. 8단계 최적화 + Codex 팀 Tibo의 skill 제공
   * [원격 바이브코딩 완벽공략집 Codex - YouTube (코드깎는노인)](https://www.youtube.com/watch?v=L2P0qn0Doio)
     * 코드깎는노인 채널, 28분. Codex로 원격 바이브코딩하는 방법 가이드. 코드깎는노인클래스(cokac.com) 노하우 정리
+  * [New Ways of Working with Codex — Dominik Kundel & Charlie Guo, OpenAI | AI Engineer - YouTube](https://www.youtube.com/watch?v=IPh9YsWvDQk)
+    * [Codex로 일하는 새로운 방식 영상 | GeekNews](https://news.hada.io/topic?id=37556)
+    * CODE Summit 2026 발표—오픈소스 Codex 하네스가 CLI·데스크톱 앱·ChatGPT 업무 기능·Slack의 @ChatGPT·Dots·Agents API의 공통 기반이 되어 로컬 코딩을 넘어 클라우드 장기 작업과 업무 도구 연결로 확장. 세부 지시 대신 목표를 주는 "vague prompting"을 위해 컨텍스트 수집이 핵심: 코딩 규칙은 저장소(agents.md·린터)에, 플러그인은 MCP 서버·스킬·리소스 묶음(원격 MCP라 기기에 안 묶임), 플러그인 확장으로 사이드바·패널·입력창 커스터마이즈, 스크린샷+접근성 트리를 넘기는 Appshots, 백그라운드 computer use와 Chrome 확장, 사용 패턴을 기억으로 쌓는 computer history(일시 중지·소급 삭제·앱 제외), 사람과 에이전트가 함께 편집하는 ChatGPT Space
+    * 사례: 문서 사이트 자정 출시를 PR 준비→승인 확보→Slack 막판 변경 확인→20분 전 배포→공개 확인까지 Codex에 위임. 빠른 UI 반복은 Ultrafast 모델+주석, 수 시간~수일 작업은 환경을 자동 구성하는 Codex Cloud, 배포는 DB·저장소·인증을 갖춘 ChatGPT Sites(DaVinci Resolve로 영상을 편집하는 사내 앱 Cutroom), 코드 리뷰, 음성·Dots·하위 에이전트로 위임하며 복잡한 문제와 반복 작업에 다른 모델·reasoning effort 배정
   * [codex-plugin-cc: Use Codex from inside Claude Code for code reviews or to delegate tasks](https://github.com/openai/codex-plugin-cc)
     * /codex:review(코드 리뷰), /codex:adversarial-review(설계 도전적 리뷰), /codex:rescue(Codex 서브에이전트로 조사·수정 위임). 기존 Codex CLI 인증·설정 활용, 백그라운드 작업 관리
     * [Codex in Claude Code 사용해보기 | reach_vb on X](https://x.com/reach_vb/status/2038671858862583967)
