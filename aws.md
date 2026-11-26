@@ -2840,6 +2840,13 @@ AWS
   * [aws-ai-ml-workshop-kr/README.md at master · aws-samples/aws-ai-ml-workshop-kr](https://github.com/aws-samples/aws-ai-ml-workshop-kr/blob/master/aiservices/lex-korean-workshop/README.md)
 * [generative-ai-demo-using-amazon-sagemaker-jumpstart-kr/blogs/korean-chatbot-using-varco-llm-and-opensearch at main · aws-samples/generative-ai-demo-using-amazon-sagemaker-jumpstart-kr · GitHub](https://github.com/aws-samples/generative-ai-demo-using-amazon-sagemaker-jumpstart-kr/tree/main/blogs/korean-chatbot-using-varco-llm-and-opensearch)
   * [VARCO LLM과 Amazon OpenSearch를 이용하여 한국어 Chatbot 만들기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/korean-chatbot-using-varco-llm-and-opensearch/)
+* [gpu-sandbox-on-aws: GPU reward sandboxes (gVisor, Kata + Cloud Hypervisor, Kata + QEMU) for on-policy RL on Amazon EKS and SageMaker HyperPod | daekeun-ml](https://github.com/daekeun-ml/gpu-sandbox-on-aws)
+  * [GPU Sandbox on AWS 가이드북](https://daekeun-ml.github.io/gpu-sandbox-on-aws/)
+  * [GPU Sandbox on AWS: Replay Demo](https://dohbsn4kn34ya.cloudfront.net/)
+  * [샌드박스 서비스와 오픈소스는 늘어나는데, AWS GPU 샌드박스의 모범 아키텍처와 핸즈온 코드는 찾기 어려웠습니다 | Daekeun Kim](https://www.linkedin.com/posts/daekeun-kim_aws-sagemakerhyperpod-gpu-share-7530840818740412416-INnv)
+    * 왜 따로 만들었나—수학 답안 비교나 단위 테스트 보상은 CPU 샌드박스로 충분하지만 GPU에서 코드를 실행해야 하면 선택지가 좁아짐(Firecracker 기반 E2B는 CPU 전용, AWS Nitro Sandboxes도 GPU passthrough 미지원). 쓰임새: GRPO에서 모델이 짠 CUDA·Triton 커널의 정확도와 속도로 보상 산정, 코딩 에이전트가 고친 GPU 코드의 실장치 테스트, 수강생 Jupyter 노트북의 GPU 격리 실행
+  * 모델이 작성한 GPU 커널을 학습 노드와 분리된 샌드박스에서 실행해 정답 여부와 기준 구현 대비 속도를 GRPO 보상에 반영하는 실습. 시나리오 A(학습·GPU 샌드박스를 별도 EC2에), B1(HyperPod 학습+EC2 채점), B2(시스템·학습·채점 모두 HyperPod 관리형 워커), C(CPU 전용 c8i에서 gVisor·Kata+QEMU·Kata+Cloud Hypervisor 비교), AWS 계정 없이 하는 로컬 실습. `./scripts/quickstart.sh <시나리오>`로 단계별 실행·정리
+  * 요청 경로: trainer가 routing ConfigMap 스냅샷으로 런타임·버전을 정해 한 reward batch는 항상 같은 pool에서 채점, headless Service로 Ready pod에 `POST /v1/evaluate` 직접 전송(바쁘면 503→다른 pod 재시도), projected ServiceAccount 토큰을 JWKS로 오프라인 검증, `sandbox` 네임스페이스는 default-deny. 가이드북은 초심자 가이드·개념·핸즈온·Production(Karpenter, gateway, reward 무결성, veRL on KubeRay, 비용), 데모는 채점·격리 검증·GRPO 학습·런타임 벤치마크 재생
 * [sagemaker-demos](https://github.com/cyrusmvahid/sagemaker-demos)
 * [sagemaker-hyperpod-cli: A CLI tool that helps manage training jobs on the SageMaker HyperPod clusters orchestrated by Amazon EKS](https://github.com/aws/sagemaker-hyperpod-cli)
 * [SageMaker Studio Lab](https://studiolab.sagemaker.aws/)
