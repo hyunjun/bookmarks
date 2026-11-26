@@ -833,6 +833,8 @@ AWS
 * [단일 LLM Gateway 아키텍처 : Claude Code와 Codex를 Amazon Bedrock을 통해 한 곳에서 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/single-llm-gw-arch/)
   * [AWS 환경에서는 Amazon Bedrock을 통해 Claude Code와 Codex를 동시에 사용할 수 있습니다 | Jinsung Huh | LinkedIn](https://www.linkedin.com/posts/jinsungh_aws-%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C%EB%8A%94-amazon-bedrock%EC%9D%84-%ED%86%B5%ED%95%B4-claude-code%EC%99%80-share-7476169742467362816-viXd/)
   * 2026-06-26(2026-08-21 GPT-5.6이 bedrock-runtime으로 호출 가능해져 bedrock-mantle 내용 갱신). 조직의 고민은 "도입할까"가 아니라 "어떻게 운영할까"—Claude Code와 Codex를 하나의 LLM Gateway로: ①단일 인증·단일 엔드포인트 ②단일 API Key 단위로 두 도구 예산 통합, 초과 시 실시간 차단 ③MCP 서버 자격증명 중앙 관리·권한·호출 내역 통합 추적 ④단일 진입점에서 PII·자격증명·프롬프트 인젝션을 같은 정책으로 차단하는 Guardrails ⑤Bedrock-Runtime과 Mantle의 로깅 차이를 게이트웨이가 흡수해 Observability 통합(Jinsung Huh·Dohyung Kim SA)
+* [Claude on Bedrock - Artifact/Design | Jinsung Huh](https://jinsungh.notion.site/Claude-on-Bedrock-Artifact-Design-422cb8fc0fde800e9808f465a7ce4f88)
+  * Amazon Bedrock에 연결한 Claude Desktop(3P)에서 Artifact와 Design·Slides를 켜는 방법—Artifact는 기본 활성, Design·Slides는 기본 비활성이라 구성에 `artifactsEnabled`·`artifactsDesignEnabled`·`artifactsSlidesEnabled`를 true로 추가. 방법 1: `~/Library/Application Support/Claude-3p/configLibrary/`에서 `_meta.json`의 appliedId에 해당하는 구성 파일을 백업 후 세 키 추가하고 앱 재시작. 방법 2: 조직의 HTTPS Bootstrap 엔드포인트가 반환하는 JSON에 같은 키를 포함하고 Developer→Configure Third-Party Inference→Source에 URL 지정(Enterprise on 3P는 Admin Console의 Desktop 3P→Capabilities→Artifacts). 공식 문서(configuration-format, design-and-slides) 링크 포함
 * [Build a Production-Ready AI Agent From Scratch — With LangGraph & AWS AgentCore](https://joudwawad.medium.com/production-ready-ai-agent-from-scratch-with-langgraph-aws-agentcore-e236cd3f675f)
   * [Build a Production-Ready AI Agent From Scratch | Darryl R.](https://www.linkedin.com/posts/darryl-ruggles_build-a-production-ready-ai-agent-from-scratch-activity-7430485562177863681-hrnc)
 * [Automate Oracle PL/SQL to PostgreSQL migration with Amazon Bedrock and Strands Agents | AWS](https://aws.amazon.com/ko/blogs/database/automate-oracle-pl-sql-to-postgresql-migration-with-amazon-bedrock-and-strands-agents/)
@@ -2329,6 +2331,9 @@ AWS
   * S3 Files for Lambda로 S3를 로컬 파일시스템처럼 마운트. 다운로드/업로드 보일러플레이트 제거. AI 에이전트가 마운트된 S3 워크스페이스를 공유하는 서버리스 코드 리뷰 시스템 구축 사례
 * [2026년 상반기 가장 큰 AWS 신규소식! 드디어 출시된 Lambda MicroVM 정리합니다 - YouTube](https://www.youtube.com/watch?v=zxZKU-0iAMs)
   * AWS 강의실. 2026 상반기 최대 AWS 신규 소식인 Lambda MicroVM 정리
+* [AWS Lambda GPU 함수의 시작과 동시성 | whchoi98](https://whchoi98.github.io/docs/techblog/aws-core/lambda-gpu-functions-seoul-test/)
+  * 2026-11-18 출시된 Lambda GPU 함수를 서울 리전에 배포해 테스트—vLLM 함수의 버전 발행부터 Active까지 중앙값은 S3 스트리밍+SOCI 328초, S3 스트리밍 364초, Hugging Face 다운로드 453초. SOCI는 이미지 준비를 192초→54초로 줄였지만 초기화가 101초→208초로 늘어 전체로는 10% 단축. g6.2xlarge(L4 한 장)가 동시 1건에서 초당 74토큰, 48건에서 2,885토큰 처리, 한도를 넘은 요청은 대기 없이 429
+  * 유휴 인스턴스가 있을 때 확장에 약 2분(그동안 초과 요청은 429), 0으로 축소된 함수는 첫 호출 5분 15초 뒤 응답. 새 버전 교체 중 1초 간격 호출 1,242회 모두 성공했지만 용량 공급자의 vCPU 한도에 여유가 없으면 배포가 실패하고 이전 버전 유지. 기본 핸들러는 토큰 스트리밍 미지원
 * [AWS-FullStack-Application](https://github.com/Jana0509/AWS-FullStack-Application)
   * [“Building a Full Stack Application: A Serverless Approach with AWS” | by Janarthanan Ravikumar | Medium](https://medium.com/@tojanasg/building-a-full-stack-application-a-serverless-approach-with-aws-ecdeba6e3d88)
     * A straightforward example of building an app on AWS using serverless services using API Gateway, Lambda, and DynamoDB
@@ -2624,6 +2629,9 @@ AWS
   * AWS의 대표적인 ALB와 NLB를 서버와 클라이언트에서 직접 패킷 덤프를 보면서 뭐가 다른지 비교 설명
   * 차근차근 설명하면서 보여주기 때문에 ALB가 L7에서 동작하고 NLB가 L4에서 동작한다는 게 무슨 의미인지 이 때문에 어떤 차이가 생기는지 이해하기 좋음
 * [애플리케이션 로드 밸런서를 위한 mTLS 소개 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/introduction-mtls-for-application-loadbalancer/)
+* [AWS Network Load Balancer mTLS | whchoi98](https://whchoi98.github.io/docs/techblog/networking/aws-network-load-balancer-mtls/)
+  * 2026-11-19 발표된 NLB 상호 TLS 인증을 서울 리전에서 클라이언트 인증서 48종으로 테스트—결과는 문서와 일치. TCP 연결부터 첫 응답까지 mTLS 없음 8.1ms, ECDSA P-256 8.6ms, RSA 2048 11.9ms, RSA 4096 33.0ms(늘어난 시간은 클라이언트 서명 시간과 거의 같음). 설정 변경(활성화·필터·CRL 추가)은 호출 후 31~48초에 적용되기 시작해 41~62초에 완료
+  * 주의: 변경 전에 맺은 연결은 필터 불일치·인증서 폐기 뒤에도 유지되고, 거부된 클라이언트에는 사유 없이 평문 `close_notify` 7바이트만 전달돼 원인은 액세스 로그의 `tls_verify_status`로만 확인(실패 항목에 인증서 주체 미기록). 체인 깊이 4·크기 16KB 한도는 클라이언트가 보내는 인증서 기준
 * [Application Load Balancer for SAP Enterprise Portal | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/elb-application-load-balancer-sap-portal/)
 * [AWS Network Load Balancer에서 Application Load Balancer 연결](https://zigispace.net/1139)
 * [AWS Network Load Balancer에서 Application Load Balancer 연결2](https://zigispace.net/1140)
@@ -3606,6 +3614,9 @@ AWS
 * [AWS Network Firewall Suricata 규칙에서 Flow 키워드 사용하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/aws-network-firewall-suricata-rule-flow-keyworkd/)
 * [AWS VPC/VPN(Openswan) 연동](https://blog.leedoing.com/32)
 * [VPC Peering 과 Transit Gateway 어떻게 다를까](https://dev.classmethod.jp/articles/different-from-vpc-peering-and-transit-gateway)
+* [AWS Transit Gateway 1:1 NAT | whchoi98](https://whchoi98.github.io/docs/techblog/networking/aws-transit-gateway-1-1-nat-seoul-test/)
+  * 서울 리전의 기존 Transit Gateway에서 1:1 NAT 테스트—CIDR이 같은 두 VPC가 양쪽 연결에 NAT를 활성화하자 통신(주소가 10.0.0.5로 같은 두 인스턴스가 서로를 100.64.0.5·100.64.1.5로 호출, TCP·UDP 포트 불변). 활성화 요청부터 enabled까지 17~32초, 주소가 바뀌는 순간 8.8초 무응답. ICMP 왕복 중앙값은 NAT 없이 0.61ms, NAT 경유 0.86~1.20ms. Flow Logs에는 변환 전 실제 주소가 남고 변환 트래픽은 새 CloudWatch 지표 4개로 집계
+  * 함정: 한쪽에만 활성화하면 원래 주소로 가던 요청이 끊기지 않고 CIDR이 같은 **다른 VPC의 서버에 오류 없이 도착**하며, 연결 사이의 변환 대역 중복을 API가 막지 않음
 * [AWS-VPC-Flowlog-Athena](https://linuxer.name/2020/06/aws-vpc-flowlog-athena/)
 * [HBsmith가 AWS Client VPN로 갈아탄 이유. 소프트웨어는 건물과 비슷해서 첫 배포된 이후부터 폐기될 때까지 계속… | by Jesang Yoon | Hard Boiled Smith Stories | Oct, 2020 | Medium](https://medium.com/hbsmith/hbsmith%EA%B0%80-aws-client-vpn%EB%A1%9C-%EA%B0%88%EC%95%84%ED%83%84-%EC%9D%B4%EC%9C%A0-29119ecdc381)
 * [NCP-to-AWS-IPsec-multi-Cloud - 리눅서의 기술술 블로그](https://linuxer.name/2020/11/ncp-to-aws-ipsec-multi-cloud/)
