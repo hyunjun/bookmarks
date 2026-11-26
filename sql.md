@@ -513,6 +513,9 @@ SQL
   * 단일 조회를 1만 건씩 청크로 분할해 각 스냅샷 수명을 단축하고 조회를 리더 복제본으로 이동시켜 해결
 * [Aurora MySQL Failover: 수동 전환 데모와 자동 복구, Multi-AZ가 지켜 주는 범위 | AtomAI](https://blog.atomai.click/aurora-mysql-failover/)
   * Aurora MySQL Failover 동작 정리—수동·자동 Failover의 차이와 활용 상황, Multi-AZ가 제공하는 가용성 범위, Writer 전환 후 애플리케이션의 재연결·재시도 시 고려할 사항을 다루고 동작 이해를 돕는 시뮬레이션 데모 영상 2편(실제 콘솔 녹화·장애 실측이 아님)과 재현용 CLI·쓰기 관측 스크립트를 포함. "Aurora니까 Multi-AZ"로 가용성을 판단하면 안 되는 이유: 데이터가 3개 AZ 6개 복사본에 저장되는 것(스토리지)과 다른 AZ에서 SQL을 처리할 인스턴스가 준비된 것(컴퓨트)은 별개이므로 Writer와 최소 한 Reader를 서로 다른 AZ에 둘 것(Writer 1대·같은 AZ·다른 AZ·3AZ 구성별 장애 시 의미 표). 알아둘 다섯 가지: 자동 Failover가 항상 다른 인스턴스로 전환하진 않고 같은 인스턴스 재시작이 빠르면 그 경로로 복구, 수동 Failover도 기존 연결·진행 중 작업에 영향(계획 전환≠무중단), Writer Endpoint 이름은 유지되지만 DNS 응답이 바뀌고 기존 TCP 연결은 넘어가지 않음, 완료 판단은 Writer 역할 변경이 아니라 애플리케이션의 쓰기 성공으로. Aurora 운영과 Failover 테스트 준비에 도움
+* [Amazon Aurora 클러스터의 VPC 이동과 중단 시간 | whchoi98](https://whchoi98.github.io/docs/techblog/database/aurora-move-cluster-to-different-vpc/)
+  * 2026-11-19 발표된 클러스터 VPC 이동 기능을 서울 리전에서 Aurora PostgreSQL·MySQL·Serverless v2로 38회 테스트—데이터와 엔드포인트 이름은 유지, 쓰기 중단은 VPC 간 이동 30회 중앙값 24.7초(18.1~31.3초)로 엔진·데이터 크기(0.2GB·23GB)에 따른 차이 없음. 시간 순서: API 호출 후 10.9초에 연결 끊김→27.8초 완료 이벤트→34.6초 DNS가 새 IP로 전환, writer와 reader가 함께 끊김
+  * 함정: 엔진이 재시작하지 않고 연결이 오류 없이 끊겨 타임아웃 없는 클라이언트의 기존 연결은 963초 동안 멈추고(새 연결은 25초 만에 성립), 서버에는 끊긴 세션과 행 잠금이 약 360초 남음—이동 직후 이전 세션을 종료하면 10초 안에 해제. 가용 영역이 빠진 서브넷 그룹·다른 VPC의 보안 그룹·RDS Proxy 대상은 호출 시점에 거부되지만, 보안 그룹을 생략한 요청은 거부되지 않고 이동 뒤 접속이 막힘
 
 # Book
 * [SQL 전문가 되어보기](https://wikidocs.net/book/159)
