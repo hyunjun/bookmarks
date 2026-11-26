@@ -2200,6 +2200,10 @@ NLP
 * [LLMOps (LLM Bootcamp) - YouTube](https://www.youtube.com/watch?v=Fquj2u7ay40)
 * [Large Language Model Operations (LLMOps) Explained - YouTube](https://www.youtube.com/watch?v=cvPEiPt7HXo)
   * EDA -> data prep -> prompt engineering -> fine tuning -> mode review/governance -> model inference -> model monitoring
+* [The Architecture of an LLM Gateway: Routing, caching, guardrails and cost tracking | Anirban Chakraborty](https://www.linkedin.com/posts/anirban-chakraborty_your-llm-works-perfectly-in-testing-then-share-7530631558249242624-DCY9/)
+  * "테스트에선 완벽하던 LLM이 프로덕션에서 API 청구서를 터뜨린다"—앱과 여러 모델 사이의 관제 센터인 LLM Gateway 구조: ①인증·레이트 리밋(가상 키, 팀별 한도·예산) ②입력 가드레일(PII 마스킹·안전성 검사) ③시맨틱 캐시(유사도 임계값 이상이면 캐시 응답) ④모델 라우팅(품질 기준을 넘는 가장 싼 모델) ⑤폴백·재시도(에러·429·타임아웃 시 다음 모델) ⑥출력 가드레일(안전성 검사·PII 복원) ⑦관측성(토큰·지연·비용·가드레일 히트 트레이스) ⑧품질 평가 ⑨비용·품질 지표로 라우팅 규칙 튜닝
+  * 도구 스택: LiteLLM(게이트웨이·라우터·지출 로그), Redis(캐시·카운터), Postgres(키·지출), Presidio(PII 마스킹), Llama Guard(안전성), Langfuse(트레이스·평가), vLLM(셀프호스팅); 모델 풀은 OpenAI·Anthropic·AWS Bedrock·vLLM
+    * <img src="images/llm_gateway_architecture_anirban_chakraborty.png" alt="The Architecture of an LLM Gateway: auth and rate limiter, input guardrails, semantic cache, model router, fallback and retry, output guardrails, observability pipeline, router tuning" width="300"/>
 * [일반 기업이 LLM기반 AI개발 하려면? LLMOps vs MLOps 세미남282@토크아이티, 쿤텍 김성환이사, 데이터이쿠 홍용민 부사장 - YouTube](https://www.youtube.com/watch?v=h6dNiR-C1t4)
 * [LLMOps (LLM Bootcamp) - YouTube](https://www.youtube.com/watch?v=Fquj2u7ay40)
 * [What is LLMOps | MLOps for Large Language Models Explained in 3 Minutes - YouTube](https://www.youtube.com/watch?v=XICCkRraeHQ)
@@ -3513,6 +3517,10 @@ NLP
   * 프롬프트 인젝션 가드레일 실험 메모: 공격 확률 임계값 0.8 이상 차단 시 98.93%, 0.7로 낮추면 99.5%를 걸러냄(놓친 사례는 사람도 판단이 어려운 수준). 같은 날 셀렉트스타가 동일 프롬프트 예제로 적대적 공격 99.4% 방어를 발표했는데, 막 나온 외산 순정 모델이 훨씬 빠르고 싼 가격으로 그 이상을 보여준 셈(Bedrock 탑재 요청 PFR도 이미 올라옴). 보안 가드레일뿐 아니라 입력 인텐트 분류로 의도에 따라 적절한 agent flow나 결정론적 레거시 흐름을 태우는 등 "행동을 위한 결정이 필요한 순간"에 활용 가치—가장 무서운 건 속도와 비용
   * [Building a Harness with Jev - YouTube](https://www.youtube.com/watch?v=VE5dsWll06M)
     * LangChain. Jev를 에이전트 하네스에 통합하는 방법—분류형 태스크에서 LLM 대비 최대 200배 빠르고 400배 저렴해 모델 라우팅과 "Jev as a judge" 온라인 eval에 적합
+  * [Building Agent Harnesses with Jev: Where Decision Models Fit | LangChain - YouTube](https://www.youtube.com/watch?v=qquIt--ANqI)
+    * [Building a harness with Jev | LangChain Blog](https://www.langchain.com/blog/building-a-harness-with-jev)
+    * LangChain SF Meetup, Sydney Runkle(오픈소스 팀 PM)—에이전트 루프를 감싼 하네스(가드레일·라우팅·루브릭 채점·검색·컴팩션)의 상당수가 추가 LLM 호출로 돌아 앱이 느리고 비싸지는데, 상태+질문을 넣으면 확률이 붙은 타입드 답을 주는 결정 모델을 그 자리에 넣자는 정리. 쓰임새: 모델 라우팅(LangChain A/B 테스트에서 라우팅된 스레드가 더 느렸던 원인이 라우팅용 LLM 호출 자체였음을 Jev로 바꾸고서야 발견), 도구·스킬·메모리의 점진적 공개를 위한 검색, 위험한 도구 호출을 판정하는 auto mode와 보안 가드레일, goal 루프의 루브릭 강제, 표류·정체 루프를 감시하는 watchdog
+    * 모범 사례: 결정 모델도 결국 컨텍스트 엔지니어링(컨텍스트 창이 작으니 무엇을 보여 줄지 신중히), 흐릿한 문제를 좁은 질문 여러 개로 쪼개 결과를 조합, 신뢰도·확률을 테스트로 보정, "기본은 싸게, 프런티어는 예외로". Browserbase는 웹 탐색 도구를 결정 모델로 옮겨 에이전트 탐색 속도 4배—신뢰도가 임계값에 못 미치면 LLM으로 폴백하기 때문에 100배가 아닌 4배
   * [JEV RAG: A More Efficient Solution for RAG Systems? | Gao Dalie - YouTube](https://www.youtube.com/watch?v=sa1qESk1x-o)
     * RAG 파이프라인에서 Jev의 자리를 검증하는 데모—쿼리 라우팅·문서 관련성 판정 같은 판단 지점을 70~500ms 타입드 판정+보정 확률로 대체해 LLM 호출 대비 수십~수백 배 비용 절감
   * [Jev가 AI 틈새 기술? 구글이 바로 반응합니다… 빠른 응답에 돈을 내는 이유 | 세레브라스, Groq도 절대 안되는 기술이라 했죠 - YouTube](https://www.youtube.com/watch?v=qV5p14OSgXU)
