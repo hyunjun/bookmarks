@@ -4416,6 +4416,8 @@ Programming
 * [cloudquery transforms your cloud infrastructure into queryable SQL tables for easy monitoring, governance and security](https://github.com/cloudquery/cloudquery)
 * [Coolify](https://coolify.io/)
   * [Coolify - 오픈소스 Heroku & Netlify 대체제 | GeekNews](https://news.hada.io/topic?id=4138)
+  * [coolify: An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify](https://github.com/coollabsio/coolify)
+  * 정적 사이트·데이터베이스·풀스택 앱과 360개 이상의 원클릭 서비스를 내 서버에 배포하는 셀프호스팅 PaaS
 * [클라우드타입](https://cloudtype.io/)
   * [클라우드타입 | Disquiet\*](https://disquiet.io/product/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%ED%83%80%EC%9E%85-1652628787292)
 * [Dapr - Distributed Application Runtime](https://dapr.io/)
