@@ -1154,6 +1154,14 @@ Artificial Intelligence
   * Kickstart AI가 싱크탱크 Denkwerk와 만든 네덜란드 하원 본회의 토론 시뮬레이션—의장, 정당 대변인, 장관 등 15개 에이전트가 실제 법안을 놓고 발언·수정안 제출·표결. LangGraph로 상태·발언 순서·의사 규칙을 관리(오케스트레이터가 턴 수와 발언권 관리, 요약 노드로 컨텍스트 압축)하고, 입장 발언은 의석수 규칙, 자유 토론은 "얼마나 답하고 싶은가"를 써내는 입찰로 다음 발언자를 정하되 개입 횟수에 상한을 둠. LangSmith로 프롬프트·도구 호출·비용을 추적하고 이해관계자용 대본 UI를 따로 제작
   * 현실성 확보: 맥락이 없으면 큰 정당은 극단적으로, 신생 정당은 환각으로 흐르므로 의석수·발언 스타일·실제 인용·여야 구분·법안 요약을 프롬프트에 넣고, 정당별로 필터링한 RAG(강령·연정 합의문)와 관련 법안 표결 이력을 도구로 제공. 싱크탱크와 현직 의원이 대본을 검증
   * A/B 테스트: 현행·개혁안 5개 각각·전부 적용의 7개 시나리오 × 법안 5개로 토론 238회를 생성해 토론 품질과 결과 지표(1~10점)를 기준선과 비교, 싱크탱크 보고서의 보조 근거로 사용. 한계는 같은 기반 모델이라 쉽게 동의한다는 점(temperature 차등·명시적 지시로 완화)과 확률적 출력(조합당 여러 번 실행해 평균), 실제 표결 결과와의 대조는 아직 못 함
+* [B. Martos - Agent-Friendly Data Platforms: Semantic Layers, Tool APIs, and Guardrails for Agentic | PyData - YouTube](https://www.youtube.com/watch?v=3MhDpU6bP-I)
+  * 이커머스 고객의 데이터 웨어하우스에 자연어 질의 에이전트를 붙이며 테스트 단계에서 잡은 실수들로 풀어 가는 발표. "사기 +280%"는 환각이 아니라 정의가 틀린 수치였음—주소 변경 때 자동 생성돼 2분 안에 해소되는 soft flag까지 센 것. 에이전트는 분석가처럼 이상한 숫자를 의심하지 않으므로 도메인 전문가가 승인한 정의를 담은 시맨틱 레이어(dbt metrics·Cube·LookML)를 첫 접점으로 두고, 정의 초안은 LLM으로 채움
+  * 같은 긴급 티켓이 사흘 뒤 다른 사람에게 다시 배정된 사례는 분석 저장소·문서(벡터) 저장소에 에이전트의 모든 행동과 이유를 남기는 트랜잭션 저장소를 더한 세 가지 메모리로 해결. 데이터 접근은 행을 컨텍스트에 붓거나 SQL 권한을 직접 주는 대신 범위가 정해진 도구 동사("create support escalation" 등)로—에이전트는 자격 증명이 아니라 동사를 받음. JSON 출력은 검증·재시도 후 dead letter queue, 쓰기는 멱등, 환불은 반드시 사람 승인
+  * 피해 반경을 줄이는 관점: 문제는 오동작 확률이 아니라 한 번의 오동작이 얼마나 치명적인가. 개발자·관리자·팀 공용 계정을 에이전트에 물리면 권한이 새므로, 접근 권한은 호출마다 "도구가 만질 수 있는 것 ∩ 대화 상대가 볼 수 있는 것"으로 다시 계산. 쿼리·도구 호출과 그 이유를 한 레코드로 이어 기록해 "무엇을 보고 왜 접근했나"에 이틀이 아니라 5분 만에 답함
+* [LLM agents work for their parent companies, not for you | Michael Harley](https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/)
+  * [LLM 에이전트는 사용자가 아니라 제공 회사를 위해 일한다 | GeekNews](https://news.hada.io/topic?id=37778)
+  * Instagram 릴스에서 들은 곡의 아티스트를 찾아 Bandcamp 구매 링크를 주는 Claude Code 스킬을 쓰던 저자의 경험. Bandcamp 검색 페이지에 챌린지가 생기자 에이전트가 우회를 돕지 않겠다고 먼저 밝혔는데, 같은 스킬의 다른 갈래인 YouTube 곡 내려받기는 그대로 수행—음악가에게 돈을 내려는 쪽은 막히고 한 푼도 안 가는 쪽은 되는 모순. 문제는 특정 거절이 아니라 비싼 값을 내는 "내 로봇"이 제공사가 허용하는 한도에서만 나를 위해 일한다는 점이라고 지적
+  * Google이 걸어간 길처럼 답변이 광고비에 따라 가중될 수 있고, 챌린지 우회를 막을 수 있다면 정부 요구도 따르게 할 수 있다는 우려. 그래서 홈랩에서 도는 로컬 모델을 원하며, "오픈 모델"은 학습 방식이 관건이라 FOSS와 그대로 대응되지 않는다는 점(중국 모델의 대만 관련 답변 거부 등)도 짚음. AI를 도구로 보는 입장에서 도구에 걸린 인위적 제한을 싫어한다는 결론
 * [2506.02153 Small Language Models are the Future of Agentic AI](https://arxiv.org/abs/2506.02153)
   * [NVIDIA의 Peter Belcak가 소개하는 소형 언어 모델(SLM)이 에이전트 AI의 미래인 이유](https://www.arizekorea.com/insights/post/nvidias-small-language-models-are-the-future-of-agentic-ai-paper-jNrUOzqlulGhemG)
   * [Demystifying Agentic AI Using Small Language Models - YouTube](https://www.youtube.com/watch?v=nk5BNz8v_9E)
@@ -3339,6 +3347,12 @@ Artificial Intelligence
 * [software factory explained by a Senior Engineer (step by step) | theSeniorDev - YouTube](https://www.youtube.com/watch?v=WOhJflEz3mY)
   * 제품을 만드는 일에서 팩토리를 만드는 일로—스택·비용, 버그를 자동 수집하는 triage 에이전트, 버그 리포트를 범위가 정해진 티켓으로 바꾸는 refinement 에이전트, 무엇을 만들지 정하는 prioritizer, CLAUDE.md·스킬·MCP 서버를 쓰는 implementer 에이전트. "코드가 아니라 팩토리를 고쳐라"는 관점 전환
   * 내장 품질 파이프라인: TDD보다 E2E 테스트와 시각적 diff, 막힌 에이전트의 100턴 제한, PR의 blast radius와 자동 머지, AI 리뷰어, staging·스모크 테스트·QA 에이전트, 형식 검증, 관측성과 에이전트 친화적 코드베이스. 다음 단계로 모델 라우터·문서 에이전트·피처 플래그, 엔지니어 역할 변화와 장인정신은 끝났는가에 대한 생각
+* [All Code Is Slop (Except Mine) — Lauren Tan, SpaceXSI | AI Engineer - YouTube](https://www.youtube.com/watch?v=O_zcc6Xl12g)
+  * [All Code Is Slop (Except Mine) — Lauren Tan, SpaceXSI | AI Engineer](https://ai.engineer/talks/O_zcc6Xl12g-all-code-is-slop-except-mine)
+  * [The Rise Of AI Coworkers | Y Combinator - YouTube](https://www.youtube.com/watch?v=y1-9yeYLJUo)
+    * Grok Bot을 첫 코드부터 출시까지 7주에 만든 핵심 팀의 Lauren Tan·Roman Ugarte가 Lightcone에 나와 봇과 나란히 일하는 일상을 이야기. 자기 신원·로그인을 가진 AI 팀원이 백그라운드에서 계속 일하고, 마케팅팀은 봇에 광고 예산을 맡겼으며, Lauren은 Cursor를 열지 않고 Slack 스레드 하나에서 기능 하나를 완성. 봇 하나 대 전문 봇 팀, 회사 전체의 봇 공유, AI 동료의 신원·권한, 봇 간 협업과 신뢰, 월 4,000 PR의 작업 흐름, 에이전트가 자기 작업을 검증하게 하는 법, 코드 리뷰의 적정선, 토큰을 아끼는 코드베이스 가드레일을 다루며, 어려운 부분이 일을 하는 것에서 무엇을 왜 할지 정하는 제품 판단으로 옮겨 간다는 결론
+  * Grok Bot 팀이 한 달에 PR 11,000건(발표자 혼자 3,000건, 상당수는 자는 동안)을 프로덕션에 내보내면서 되돌림 비율을 약 0.5%로 유지한 방법. "역 신뢰 피라미드"—가장 넓은 층은 코드로 한 번에 내리는 결정(실수를 표현하기 어렵게 만드는 API·리팩터링, 린트·타입·테스트), 그 위에 런타임·형식 검증, 가장 좁은 층이 판단이 필요한 산문 규칙·스킬. 저장소 자체가 에이전트의 가장 큰 입력이라 남겨 둔 우회 코드는 다음 에이전트에게 패턴이 됨
+  * 사례: 자체 클라이언트 프레임워크 Dune이 제품 코드의 `useEffect`를 금지하고 렌더러·메인 코드를 최상위 디렉터리로 나눠 린트로 상호 import를 차단. 주석의 99%를 금지하고 지침은 위반 순간에 뜨는 린트 진단에 담음. 실행 중인 앱을 조작하는 CLI와 사용자 관점의 기능 지도(feature map)로 스크린샷·영상 증거를 남기는 런타임 검증, TLA+ 모델 검사·Lean 증명·속성 기반 UI 테스트. 토큰의 대부분을 검증에 쓰며, 안쪽 루프가 먼저 돌아야 릴리스마다 퍼징→수정 PR→자동 병합 같은 팩토리 자동화가 가능
 
 # Artificial Neural Networks
 * [A Gentle Introduction to Artificial Neural Networks](https://theclevermachine.wordpress.com/2014/09/11/a-gentle-introduction-to-artificial-neural-networks/)
@@ -6898,6 +6912,12 @@ Artificial Intelligence
   * [strix: Open-source AI agents for penetration testing](https://github.com/usestrix/strix)
 * [SuperFoodAI: Python, FastAPI, SQLAlchemy, Node.js, Express.js, JWT, Sequelize, PostgreSQL, React.js, Bootstrap, Jest, Selenium](https://github.com/doganenes/SuperFoodAI)
 * [Super Productivity – Open-Source Deep Work Task Manager](https://super-productivity.com/)
+* [SurfSense: Air-gapped, private AI for confidential documents. Open-source NotebookLM alternative that runs on your computer](https://github.com/MODSetter/SurfSense)
+  * [SurfSense is winding down as a company, and the app stays free | SurfSense](https://www.surfsense.com/announcements/2026-11-25-surfsense-is-winding-down)
+    * SurfSense Inc.가 2026-11-27에 문을 닫고, 앱은 2.4.0부터 라이선스 없이 모든 기능이 무료. 유료였던 보안 설문 자동 작성·계약서 redline 작업까지 Apache-2.0으로 공개되며 창업자 Rohan Verma가 개인 프로젝트로 유지(업데이트는 느려짐). 라이선스 활성화·호스팅 플러그인·호스팅 웹 검색 같은 온라인 서비스는 종료되어 웹 검색은 자체 SearXNG 서버를 연결해야 하고, 파일·대화·색인은 원래 내 컴퓨터에 있어 영향 없음
+  * [SurfSense: 100% Free Complete Private NotebookLM Alternative | AwesomeFOSS - YouTube](https://www.youtube.com/watch?v=kTbWGOlH36g)
+    * 회사 정리 발표와 그 과정에서 전 기능이 무료·오픈소스가 된 경위를 다룬 후속 영상—정리 공지와 창업자의 말, 무료가 된 기능, 모바일 사용, 같은 분야의 남은 대안들, 유지보수자가 한 명이 된 데 따른 위험
+  * 기밀 문서용 데스크톱 앱—NotebookLM식 에이전트가 내 컴퓨터에서 문서를 조사(출처 인용 답변)·생성·편집·변환. 색인은 디스크에 남고 모델은 로컬(llama.cpp 내장)·원격 중 선택, 계정 불필요. PDF 양식 채우기·병합·분할, Word 본문을 변경 내용 추적·메모로 편집, Excel 수식·차트 생성과 pandas 분석, PowerPoint 생성·수정, 이미지 OCR 지원. Docker로 서버에 올려 네트워크의 다른 기기에서 접속 가능
 * [surya: OCR, layout analysis, reading order, table recognition in 90+ languages](https://github.com/datalab-to/surya)
   * [0$ 데이터 자산화의 좋은 시작점이 되어줄 Surya 오픈소스 라이브러리](https://www.linkedin.com/posts/h4y3j1n_upstage-activity-7361683055100485632-z-pJ/)
 * [TaskMaster AI](https://www.taskmaster.one/)
@@ -8525,6 +8545,8 @@ Artificial Intelligence
     * [한영자막 GitHub 1위 개발자가 만든 새로운 Claude 스킬이 대단한 이유입니다 - YouTube](https://www.youtube.com/watch?v=Hnm18BesInM)
       * Tech Bridge. 컨텍스트가 쌓일수록 게을러지는 AI 에이전트의 근본 원인(컨텍스트 오버헤드), 기존 완료 체크 방식(Ralph 루프·goal 커맨드)의 허점, 직렬 실행을 10개 병렬 에이전트로 2시간에 단축한 프롬프트 수정법
     * 쉬운 것만 하고 다 했다고 하는 AI 에이전트의 '게으름' 해결 스킬. 핵심은 Depth Tree 기법—작업을 N층 깊이 트리로 분할하고 모든 리프에 전체 작업의 시간 예산을 부여해 깊이에 비례해 노력이 증폭. 명령어 실행 결과로만 완료를 증명하는 Gates 원장 검증. 모델 게으름·underthinking·조기 완료에 관한 2025-2026 연구 기반. JavaScript
+  * [UrCat — 바탕 화면에 사는 고양이, 알림 비서 | UrAI](https://urai.kr/apps/urcat)
+    * Mac·Windows 바탕 화면에서 키우는 고양이 앱(개인·기업 무료, 미리보기 버전). 창 위를 걸어 다니고 창 옆면을 타고 오르다가, Claude Code 작업이 끝나거나 권한 확인·입력이 필요하면 고양이 소녀로 변신해 프로젝트 이름과 함께 말풍선으로 알려 줌—말풍선을 누르면 Claude Code가 실행 중인 터미널 탭으로 이동. `urcat say "할 말"` 명령으로 오래 걸리는 작업 뒤에 알림을 붙일 수 있고, 쓰다듬기·하트·도감, 정해진 시각의 밥·물·잠 같은 돌봄 요소와 두 번째 동물(앵무새) 포함
   * [vibe-tree: Vibe code with Claude in parallel git worktrees](https://github.com/sahithvibudhi/vibe-tree)
   * [yc-startup-school: YC Startup School 전체 강의를 Claude Code 플러그인으로](https://github.com/team-attention/yc-startup-school)
     * [YC Startup School 풀 트랜스크립트를 Claude Code 플러그인으로 | 정구봉 Goobong Jeong](https://www.linkedin.com/posts/gb-jeong_yc-startup-school-%ED%92%80-%ED%8A%B8%EB%9E%9C%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%A5%BC-claude-code-%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8%EC%9C%BC%EB%A1%9C-share-7438763528926220288-XaFT)
@@ -10195,6 +10217,8 @@ Artificial Intelligence
   * "AI 비디오 = 프롬프트 한 번에 슬롯머신"이 아니라 실제 모션 디자인 스튜디오처럼 brief→script→style frames→transition board→animatic→build→final 단계마다 사람이 검토·승인하는 게이트 구조. 프레임의 특정 지점·영상의 특정 순간·대본 문단에 노트를 핀하면 다음 버전이 노트에 하나씩 답하고 변경점을 보여줌. 1인용—Claude Code 로그인(요금제 과금) 또는 Anthropic API 키(토큰당)로 Claude가 작업하고 Mortiflix는 파이프라인·게이트·리뷰룸·세션 간 메모리를 맡는 하네스. 데모 영상도 Mortiflix로 제작
   * 세션은 검토물을 제출하고 handoff를 저널에 쓴 뒤 게이트에서 종료, 응답하면 새 세션이 이어받아 대기 비용 0. 규칙은 프롬프트가 아닌 코드에—승인은 사람만, 에러 체크 미보고·이전 노트 미응답 제출은 거부, 검토된 산출물은 세션 손이 닿지 않는 곳에 복사. 실수를 지적하면 새 체크("텍스트가 프레임 가장자리에 닿지 않게")를 제안하고 한 번 승인하면 모든 영상에 적용, 취향은 TASTE.md로 프로젝트 간 누적. 파이프라인은 pipeline.json(단계·검토 방식·에러 체크)+PIPELINE.md(기법)+skills 폴더라 누구나 작성 가능
   * 인터페이스 3종: CLI(`mortiflix new/run/review`), 웹 스튜디오(`mortiflix serve`, 대기 중인 검토·실시간 로그·리뷰룸), Claude Code 플러그인(`/mortiflix`, 대화가 가이드 역할·게이트 결정은 절대 대신 안 함). 파이프라인 4종—explainer(30초~2분, 나레이션·오리지널 스코어), social-short(45초~3분 세로 숏폼), logo-sting(3~8초), song(장르+주제→MIDI·채널별 악기·마스터링된 연주곡). Remotion(React) 빌드+ffmpeg QC(포맷·블랙/프리즈 프레임·라우드니스·Claude가 봐야 하는 프레임 시트), 나레이션·효과음·음악은 ElevenLabs. Node 20+·ffmpeg, Linux 위주 테스트(Windows 2026-10-20 예정·macOS 미검증)
+* [Nuance Labs: Talk to Emma and Nora](https://app.nuancelabs.ai/)
+  * 실시간 AI 캐릭터 Emma·Nora와 브라우저에서 얼굴을 마주 보고 영상 대화를 하는 Nuance Labs의 리서치 프리뷰. "AI의 감정적 간극을 메운다"를 내세움
 * [OpenShorts - Free Open Source AI Clip Generator (MIT)](https://www.openshorts.app/)
   * [openshorts: Open source AI clip generator: turns long videos into viral 9:16 shorts with AI moment detection, face tracking, subtitles and dubbing](https://github.com/mutonby/openshorts)
   * Clip Generator(롱폼에서 AI가 바이럴 구간을 찾아 9:16 숏폼으로, 얼굴 추적·자막·더빙)·AI Shorts(AI 배우 UGC 영상)·YouTube Studio 3종을 묶은 오픈소스 AI 영상 플랫폼. 두 명이 나오면 화면을 위아래로 쌓고 자막을 경계선에 두며 한 명일 땐 얼굴 추적 크롭으로 전환하는 레이아웃을 영상마다 자동 선택. Docker 셀프호스팅 무료(MIT) 또는 GPU 클라우드 $12/월부터, AI 에이전트용 MCP 서버·API
