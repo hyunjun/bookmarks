@@ -416,6 +416,11 @@ Hardware
 * [MicroPython officially becomes part of the Arduino ecosystem | Arduino Blog](https://blog.arduino.cc/2022/11/10/micropython-officially-becomes-part-of-the-arduino-ecosystem/)
 * [17 How-To Intel® IoT Technology Code Samples Now Available in Python](https://software.intel.com/blogs/2017/03/17/17-how-to-intel-iot-technology-code-samples-now-available-in-python)
 * [IOT 스크린세이버 프로그램(nodeMCU + VL53L0X + python)](https://blog.naver.com/nanotoly/221917301039)
+* [instro: An open-source library for hardware test instrumentation | nominal-io](https://github.com/nominal-io/instro)
+  * [instro: Python Library for Controlling Test Equipment](https://dev.nominal.io/instro/)
+  * [L. Chanpaibool - Instro: An open-source Python library for interfacing with hardware test equipment | PyData - YouTube](https://www.youtube.com/watch?v=EUEgTKiytKc)
+    * 계측기 제조사마다 SDK와 SCPI 방언, "전압 설정"의 의미가 달라 테스트 코드가 그날 벤치에 있던 장비에 묶이고 장비를 바꾸면 다시 쓰게 되는 문제에서 출발. 내장 시뮬레이터로 전원 공급 장치를 실시간 구동하고, 미지원 계측기의 드라이버를 직접 작성하며, 추상화가 의도적으로 멈추는 지점을 포함한 설계 결정을 설명하는 데모 중심 발표
+  * 벤더에 종속되지 않는 Python 계측기 제어 라이브러리—전원 공급 장치·멀티미터·임의 파형 발생기·전자 부하·오실로스코프·유량 제어기·DAQ·I2C·Modbus·EtherNet/IP 앞에 타입이 있는 API 하나를 두어, 테스트를 한 번 쓰고 드라이버만 바꿔 끼움(예: LabJack ↔ NI-DAQ). 측정값은 파일(JSONL)·Plotly 같은 publisher로 내보내고, 시뮬레이션 드라이버로 장비 없이 테스트 가능
 * [pyOCD](https://pyocd.io/)
   * [VSCode에서 pyOCD로 디버깅 하기 - YouTube](https://www.youtube.com/watch?v=kq7in-XPnn0)
   * [VSCode에서 pyOCD로 디버깅하기 : 네이버 블로그](https://blog.naver.com/chcbaram/223240810583)
