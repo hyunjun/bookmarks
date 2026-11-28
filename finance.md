@@ -619,6 +619,10 @@ Finance
   * 오픈소스 투자 리서치 플랫폼. 주식, 옵션, 암호화폐, 외환, 거시경제 데이터 분석. Python 기반, 터미널 UI 및 SDK 제공
 * [pennywiseai-tracker: PennyWise AI — Free & Open-Source, private SMS-powered expense tracker](https://github.com/sarim2000/pennywiseai-tracker)
   * 은행이 보내는 거래 문자를 읽어 지출 내역으로 바꿔 주는 Android 가계부. SMS 읽기 권한만 주면 금액·가맹점·범주·날짜를 추출하고 새 문자를 실시간으로 반영하며, 파싱·저장·AI가 모두 기기 안에서 돌아 계정도 서버도 없음. 26개국 176개 은행 형식을 지원하고 다중 통화, 패턴 규칙 기반 자동 분류, 예산 그룹, 차트·히트맵 분석, 구독 파악, 다중 계좌 잔액 추적을 제공. "식비로 얼마 썼지?" 같은 질문에 답하는 온디바이스 AI 어시스턴트(Qwen 2.5) 내장. 규칙 무제한·PDF 명세서 가져오기 등은 유료 Pro
+* [PineWASM: An independent Rust compiler for Pine Script® v6 source, targeting WebAssembly | AI Edge](https://github.com/artificial-intelligence-edge/PineWASM)
+  * [Optimize TradingView Strategies in Seconds (Free & Open-Source) | Justin Dehorty - YouTube](https://www.youtube.com/watch?v=PYdMBZD2wj0)
+    * PineWASM과 그 위에 만든 브라우저용 AI Edge Studio·Optimizer 소개. 백테스트 한 번으로는 부족하다는 문제의식에서 설정값 수천 개를 브라우저에서 시험하며, 모든 백테스트가 사용자 하드웨어에서 돌아 무료. JavaScript로 변환하지 않는 이유, Lean 4 정리·보조정리 38,000여 개로 컴파일러를 형식 검증한 과정, 4시간봉 비트코인 전략을 설정만 바꿔 250회 시험하는 시연
+  * Pine Script를 다른 언어로 번역하는 기존 프로젝트와 달리 자체 바이트코드(시계열용 CSIL)와 독립 WebAssembly로 직접 컴파일해 브라우저에서도 네이티브에 가까운 속도로 실행. 전략을 한 번만 컴파일하고 모듈과 시세 데이터를 올려 둔 채 시험마다 상태만 새로 만들어 반복 백테스트가 빠름—자체 벤치마크에서 PineTS·PineForge·PyneCore 대비 15~24배. TradingView와는 무관한 독립 구현
 * [Securo - Privacy-First Expense Management](https://www.usesecuro.com/)
   * [securo: Open-source personal finance manager. Self-hosted, privacy-first](https://github.com/securo-finance/securo)
   * 셀프호스팅·프라이버시 우선 개인 지출/재무 관리 앱
