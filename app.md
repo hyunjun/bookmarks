@@ -420,6 +420,10 @@ App
   * SOC Prime의 스트리밍 탐지 플랫폼—SIEM에 들어가기 전 Kafka 토픽의 이벤트에 수만 개의 Sigma 룰을 Apache Flink 파이프라인(Match Node)으로 실시간 적용해 태깅·보강하고, SIEM의 15분+ 대비 0.005~0.01초 MTTD와 기존 인프라에서 10배 룰 용량을 내세움. SIEM 변경 없이 기존 수집 구조 위에서 동작하고 에어갭·클라우드 모두 지원(데이터는 고객 통제). 현재 릴리스: 실시간 대시보드, Flink ETL 파이프라인 관리, 로그 소스별 파싱 스크립트·필드 매핑, SOC Prime 플랫폼·SigmaHQ GitHub·로컬 저장소에서 룰 관리, 오탐을 줄이는 프리필터, Kafka 토픽 동기화, 재시작 없는 핫 리로드. 진행 중: Splunk·Sentinel·Elasticsearch·OpenSearch 연동, LLM 방화벽 AIDR Bastion 연동, 룰 스테이징, AI 스키마 검증·리매핑. Backend·UI·MatchNode·Schema Parser·원클릭 로컬 배포(macOS Minikube) 레포로 분리되어 있고 Kafka 3.8+·Kubernetes 1.28+·PostgreSQL 14+·Flink 1.13+ 필요
 * [EMAIL-CRAWL: professional-grade OSINT tool for advanced email address extraction through web crawling](https://github.com/techenthusiast167/EMAIL-CRAWL)
   * 웹 크롤링으로 이메일 주소를 대량 추출하는 OSINT 도구. 펜테스터·보안 분석가용
+* [f-ck_data_brokers: a free, open-source Python script that sends opt-out and deletion requests to data brokers on your behalf](https://github.com/gary23w/f-ck_data_brokers)
+  * [Someone basically open-sourced DeleteMe (750+ data brokers) | Indie Hacker News - YouTube](https://www.youtube.com/watch?v=xD054HrudHs)
+    * 데이터 브로커에서 사람들 정보를 지워 주는 일을 하던 제작자가 자신의 방법을 스크립트 하나로 공개했다는 소개—DeleteMe·Incogni·Optery가 돈을 받고 하는 요청과의 비교, 삭제가 이뤄지는 과정, 파일 내부, 설치, 첫 편지가 상대에게 넘겨주는 정보 등 쓰는 사람이 치르는 비용을 다룸
+  * 의존성 없는 Python 파일 하나로 내 컴퓨터에서만 동작. 정부 등록부에 올라 있는 데이터 브로커 600여 곳의 목록을 가져와 거주지 법률을 인용한 삭제·옵트아웃 요청서를 내 이름으로 작성(이름·이메일·도시·거주지만 사용, 한 번에 20통)하고, 내 메일함에서 보내거나 `send.html`의 버튼으로 발송. 브로커의 답장을 붙여 넣으면 어떤 핑계인지 분류해 답장을 써 주고, 무응답 업체는 다시 독촉하며 거부하는 곳은 민원 제기처를 안내
 * [flare-learning-hub: Free educational content on reverse engineering and malware analysis from the FLARE team](https://github.com/mandiant/flare-learning-hub)
   * [FLARE Learning Hub | ThreatVector](https://www.facebook.com/threatvector/posts/pfbid03AxputqPdYQymZVXwFMKb3S8rqswzJZvTGHXuL1bhNJ6uGj2FJqXqVtByCd9E4zGl)
   * Mandiant FLARE 팀의 무료 리버스 엔지니어링·악성코드 분석 교육 자료. 실습 랩·레퍼런스·연습문제
@@ -533,6 +537,8 @@ App
   * [Kopia - 빠르고 안전한 오픈소스 백업 소프트웨어 | GeekNews](https://news.hada.io/topic?id=11100)
 * [mackup - Keep your application settings in sync (OS X/Linux)](https://github.com/lra/mackup)
   * [Mackup으로 시스템 설정 파일(dotfiles) 백업하고 복원하기 | 44BITS](https://www.44bits.io/ko/post/managing-dotfiles-by-using-mackup)
+* [mirrorsync: MirrorSync – 1:1 mirroring with a web GUI and schedules](https://github.com/DerMilderJoghurt/mirrorsync)
+  * 폴더를 단방향 1:1로 미러링(FreeFileSync의 Mirror처럼 삭제까지 반영해 대상이 원본의 정확한 사본이 됨)하는 Docker 컨테이너. 동기화 엔진이 rclone이라 SMB·WebDAV(Nextcloud)·SFTP·FTP·S3·로컬 폴더 등을 임의 조합으로 연결하고 양방향 동기화(bisync)도 지원. 웹 GUI에서 작업·저장소 위치 생성과 테스트, cron·연쇄·수 분 간격 연속 스케줄, 제외 패턴, dry run, `.versions/` 버전 보관, 일정 수 이상 삭제 시 중단하는 삭제 보호, 복원 테스트, 감사 로그 제공. 다중 사용자·역할·2FA·패스키, REST API와 MCP 서버 포함
 * [restic: Fast, secure, efficient backup program](https://github.com/restic/restic)
 
 # Blog
@@ -3090,6 +3096,9 @@ App
 * [YT-Spammer-Purge: Allows you easily scan for and delete scam comments using several methods](https://github.com/ThioJoe/YT-Spammer-Purge)
   * [YT-Spammer-Purge : 유튜브 스팸댓글 자동 삭제 도구 | GeekNews](https://news.hada.io/topic?id=6324)
 * [ytm-player: Full-featured YouTube Music player for the terminal with vim-style keybindings](https://github.com/peternaame-boop/ytm-player)
+* [ytm-rs: Fast, native YouTube Music desktop app for Windows, macOS and Linux, built in Rust. No Electron, synced karaoke lyrics, 30 themes](https://github.com/grapedjuice/ytm-rs)
+  * [ytm-rs: a fast, native YouTube Music desktop app for Windows, macOS and Linux](https://grapedjuice.github.io/ytm-rs/)
+  * 웹사이트를 숨은 브라우저로 띄우는 기존 YouTube Music 데스크톱 앱과 달리 화면을 직접 그리는 네이티브 앱(egui·rodio)이라 재생 중 메모리가 약 130MB(같은 PC의 Chrome 탭 496MB, Pear Desktop 638MB). 음악 피드·탐색·검색·라이브러리·업로드, 대기열 드래그 정렬, 곡 라디오·스마트 셔플·갭리스·크로스페이드·A-B 반복·수면 타이머, 싱크 가사 지원
 * [Zrythm - Digital Audio Workstation](https://www.zrythm.org/en/index.html)
 
 # Note
