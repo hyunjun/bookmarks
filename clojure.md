@@ -836,6 +836,9 @@ Clojure
 * [REPL Based Debugging in Clojure](https://medium.com/appsflyer/repl-based-debugging-in-clojure-278fb468a33)
 * [Clojure observability and debugging tools](http://www.futurile.net/2020/05/16/clojure-observability-and-debugging-tools/)
 * [Inline def: an effective\* debugging technique for Clojure](https://blog.michielborkent.nl/inline-def-debugging.html)
+* [Analyzing Clojure Heap Dumps - Santiago Cabrera (Clojure/Conj 2026) | ClojureTV - YouTube](https://www.youtube.com/watch?v=dvUlxY2Zoqw)
+  * Clojure 프로세스가 메모리 부족으로 죽었을 때 JVM 힙 덤프를 Eclipse MAT으로 열어 누수를 찾는 진단 과정. dominator tree에서 출발해 Java 클래스 이름을 Clojure 구성 요소(var·리스트·벡터·맵, 스택 메모리, core.async 채널·go 블록)로 되짚는 법과, 자주 걸리는 패턴(memoize된 함수, 동적 var를 붙잡는 go-loop, 오래 띄운 REPL 세션에서 끝없이 자라는 레지스트리)을 설명
+  * Nubank 사내 테스트 스위트의 메모리 사용을 최대 50GB에서 수 GB로 줄인 조사와, 힙 덤프 분석 없이는 찾기 어려웠을 `clojure.core.cache`의 메모리 문제를 실제 사례로 다룸
 * [clj-debugger](https://github.com/razum2um/clj-debugger)
 * [debug-repl](https://github.com/gfredericks/debug-repl)
 * [debux - A simple debugging library for Clojure and ClojureScript](https://github.com/philoskim/debux)
