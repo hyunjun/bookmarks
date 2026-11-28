@@ -7090,6 +7090,8 @@ NLP
   * 음성·멀티모달 대화형 AI 오픈소스 프레임워크. 실시간 STT-LLM-TTS 파이프라인 구성, 저지연 스트리밍, 다양한 프로바이더·전송(WebRTC/WebSocket) 통합
 * PlayHT [AI Voice Generator & Realistic Text to Speech Online | PlayHT](https://play.ht/)
   * [Play 3.0 Mini 공개 - 경량, 비용 효율적인 다국어 Text-To-Speech | GeekNews](https://news.hada.io/topic?id=17564)
+* playmore tiny-tts [초경량 한국어 음성 합성 | 플레이모어](https://playmore.ai/showcase/tiny-tts)
+  * 플레이모어의 초경량 한국어 TTS 시연 페이지—합성이 서버가 아니라 브라우저 안에서 이루어짐. 모델 크기 4.73MB, 모델 로딩 후 첫 소리까지 약 80ms(Apple M4 중앙값). 일상·날짜·시간·짧은 대화 예문이나 직접 입력한 문장을 바로 들어 볼 수 있음
 * [pocket-tts: A TTS that fits in your CPU (and pocket) | Kyutai Labs](https://github.com/kyutai-labs/pocket-tts)
   * CPU 실행 최적화 100M 파라미터 경량 TTS. 첫 청크까지 ~200ms 저지연, 다국어·음성 복제·스트리밍 출력, GPU 불필요
 * [pyttsx3 - Text-to-speech x-platform — pyttsx3 2.6 documentation](https://pyttsx3.readthedocs.io/)
