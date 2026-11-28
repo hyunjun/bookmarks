@@ -440,6 +440,10 @@ Vision
     * exif meta정보를 이용해서 이미지 정보를 가지고 있는데, 문제는 이 exif가 구형 이미지 뷰어나, python의 imread를 활용할 때
     * exif를 인식하지 못하여, exif에 있는 orientaion 항목이 아니라, exif를 무시한체 raw한 픽셀정보로 띄우다 보니
     * 만약 orientaion과 실제 픽셀이 구성된 방향이 다르면 자연스럽게 뒤집어져서 로드
+* [kandinsky-image-sr: Diffusers pipeline for Kandinsky Image Super-Resolution 2.0](https://github.com/kandinskylab/kandinsky-image-sr)
+  * Kandinsky ImageSR 2.0 모델의 Diffusers 추론 파이프라인. 트랜스포머 가중치 한 벌로 x2·x4 업스케일을 모두 처리하고, 텍스트 타워와 교차 어텐션 50개 층을 타임스텝별 작은 테이블로 미리 구워 넣은 zero-text 조건을 사용. 창의성(creativity) 단계로 원본 충실도와 생성 정도를 조절
+* [kandinsky-video-sr: Kandinsky 6.0 Video SR: Models for Video Super-Resolution](https://github.com/kandinskylab/kandinsky-video-sr)
+  * Kandinsky 6.0 Video 파이프라인용 타일 방식 영상 초해상도—KVAE 인코딩→잠재 업스케일러→DiT(타일)→KVAE 디코딩으로 최대 15초 클립을 x2·x4·x2.25 업스케일. Diffusers의 `Kandinsky6SRPipeline`, `kandy-sr` CLI, ComfyUI 노드로 제공되며 증류 체크포인트는 타일당 2스텝으로 동작(Diffusers에서는 `num_inference_steps=2`를 직접 지정해야 함). VSR 2.0은 x4(SD→2K) 결과가 더 깨끗해짐
 * [Kinetics is a large-scale, high-quality dataset of YouTube video URLs which include a diverse range of human focused actions](https://deepmind.com/research/open-source/open-source-datasets/kinetics/)
 * [LabelAnything: Multi-class few-shot semantic segmentation using visual prompts (ECAI 2025)](https://github.com/pasqualedem/LabelAnything)
 * [LAION-400M - 4억개짜리 이미지-텍스트 쌍 데이터셋 | GeekNews](https://news.hada.io/topic?id=5016)
