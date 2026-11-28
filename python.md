@@ -97,6 +97,11 @@ Python
   * [올바르게 GIL 이해하기 - 바이트코드와 쓰레드 안정성](https://blog.naver.com/pjt3591oo/222926625510)
   * [파이썬에서 GIL 삭제된다⋯“병렬 처리의 혁신적 진전” - ITWorld Korea](https://www.itworld.co.kr/news/302737)
   * [Visualizing Python GIL Bottleneck](https://devroach.hashnode.dev/python-gil)
+  * [Improving NumPy Performance on Free-Threaded Python | Real Python Podcast #307 - YouTube](https://www.youtube.com/watch?v=014owf-ILtc)
+    * Christopher Trudeau와 PyCoder's Weekly 대담. free-threaded CPython에서 NumPy 멀티스레드 워크로드가 스케일하지 못하던 병목—GIL 제거만으로는 부족하고 프로파일링으로 NumPy·CPython의 숨은 병목을 찾아낸 작업. PyPI 소식, 순수 Python SIMD, Django 스키마 리뷰 도구 등 커뮤니티 소식 포함
+  * [Auxten Wang - No GIL, Real Gains: Porting a C++ Python Extension to Free-Threaded Python 3.14 | PyData - YouTube](https://www.youtube.com/watch?v=7zPS7aIbuW4)
+    * 멀티스레드 C++ 분석 엔진(ClickHouse)을 임베드한 chDB를 free-threaded Python 3.14로 옮긴 사례. 엔진은 원래 병렬이지만 Python UDF 호출과 pandas 문자열 열(셀마다 PyObject 포인터) 접근에서 GIL 때문에 스레드 하나만 돌고 나머지는 대기. GIL 제거 시도의 역사와 PEP 703의 기법(biased reference counting, 불멸 객체, 객체 단위 락)으로 단일 스레드 저하가 한 자릿수 %에 그친 배경도 설명
+    * 한 일: pybind11 모듈을 GIL 비의존으로 선언하고, GIL이 가려 주던 가정(빌린 참조 사용 중 다른 스레드가 리스트를 비우는 경우 등)을 고치며 UDF 레지스트리·엔진 싱글턴을 뮤텍스로 보호 → UDF를 여러 스레드가 병렬 호출해 5~6배. 문자열은 인코딩별 저수준 경로를 직접 구현해 16스레드에서 2.6배, pandas 3의 Arrow 기반 문자열 열을 쓰면 약 10배. 의존 라이브러리 하나라도 미지원이면 GIL 모드로 돌아가므로 3.14t로 스택 전체를 점검하라는 조언
   * [nogil: Multithreaded Python without the GIL](https://github.com/colesbury/nogil)
     * [Multithreaded Python without the GIL - YouTube](https://www.youtube.com/watch?v=W_e54RvADMU)
     * [Keynote: Multithreaded Python without the GIL - presented by Sam Gross - YouTube](https://www.youtube.com/watch?v=9OOJcTp8dqE)
@@ -111,8 +116,6 @@ Python
       * 이후 새로운 ABI인 abi4를 만들자는 아이디어를 채택해서 프로토타입을 개발 중이며 PEP가 필요하다는 데까지 합의가 된 상황
     * [Eyes For you — 지금이 Free Threading Python에 기여하기 좋은 시점입니다](https://iz4u.net/free-threading-pyconus2025-ko.html)
       * [지금이 Free Threading Python에 기여하기 좋은 시점입니다 | GeekNews](https://news.hada.io/topic?id=21017)
-  * [Improving NumPy Performance on Free-Threaded Python | Real Python Podcast #307 - YouTube](https://www.youtube.com/watch?v=014owf-ILtc)
-    * Christopher Trudeau와 PyCoder's Weekly 대담. free-threaded CPython에서 NumPy 멀티스레드 워크로드가 스케일하지 못하던 병목—GIL 제거만으로는 부족하고 프로파일링으로 NumPy·CPython의 숨은 병목을 찾아낸 작업. PyPI 소식, 순수 Python SIMD, Django 스키마 리뷰 도구 등 커뮤니티 소식 포함
 * [“파이썬은 느리다”에 대한 반론 | 요즘IT](https://yozm.wishket.com/magazine/detail/1608/)
 * [Modern Python performance considerations LWN.net](https://lwn.net/Articles/893686/)
 * [3 PROGRAMMING LANGUAGES TO REPLACE SHELL SCRIPTING](http://www.tactoth.com/3-programming-languages-to-replace-shell-scripting/)
