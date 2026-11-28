@@ -4600,6 +4600,12 @@ NLP
   * [강화학습 파이프라인을 역할별 서비스로 나누는 비동기 RL 프레임워크, OpenBMB Meshy | digitalbourgeois](https://digitalbourgeois.tistory.com/4073)
   * 추론·학습·롤아웃 등 RL 실행의 모든 역할을 독립 서비스(프로세스)로 두고, RPC를 뿌리거나 텐서를 중계하는 드라이버 없이 단일 TransferQueue 데이터 플레인의 큐 컬럼으로만 통신—컬럼 준비 여부가 유일한 제어 신호라 서비스 간 핸드셰이크가 없고 게이트 펄스·GPU 소유권 토큰·텐서가 같은 미들웨어로 흐름. 전체 토폴로지는 선언적 레시피 하나에서 각 프로세스가 SPMD식으로 로컬 계산(서비스 디스커버리 불필요, 잘못된 레시피는 시작 시 탐지)
   * on-policy·제한 off-policy·완전 비동기 학습을 같은 서비스 코드로 롤아웃 페이싱 윈도만 조절해 지원, 같은 GPU 세트에 임의 개수 서비스 colocation 또는 분리 배치, 서비스별 로그 파일. SGLang+torchtitan 기반, 사전 빌드 Docker·Dockerfile·수동 설치. 티스토리 글은 0.1.0-alpha 버전이고 공개 벤치마크가 없어 도입 전 직접 검증이 필요하다고 지적
+* [Micro Language Models Enable Instant Responses](https://arxiv.org/html/2604.19642v1)
+  * [Micro Language Models Enable Instant Responses | 프로젝트 페이지](https://ulm.cs.washington.edu/)
+  * [micro-language-model-project: EMNLP 2026 MAIN official repo of "Micro Language Models Enable Instant Responses"](https://github.com/Sensente/micro-language-model-project)
+  * [Micro-language models enable instant responses via collaborative generation | Paul G. Allen School - YouTube](https://www.youtube.com/watch?v=MdrKDA2XXQk)
+  * 스마트워치·스마트 글래스 같은 엣지 기기는 전력·연산 제약으로 1억~10억 파라미터급 모델도 상시 구동하지 못하고, 클라우드 추론은 수 초의 지연이 생기는 문제를 겨냥. 800만~3,000만 파라미터의 마이크로 언어 모델(μLM)이 기기에서 맥락에 맞는 응답의 첫 4~8단어를 즉시 생성하고 클라우드 모델이 이어서 완성해 지연을 가림. 클라우드 모델을 응답자가 아니라 "이어 쓰는 쪽"으로 재정의해 문장 중간에서 매끄럽게 넘기고, 기기 쪽 첫머리가 틀렸을 때를 위한 오류 교정 방법 세 가지를 둠
+  * 이 극단적 크기에서도 7,000만~2억 5,600만 파라미터급 기존 모델 여럿과 맞먹는 생성 품질을 보였다고 보고. 저장소의 데모는 로컬 Swen-28M(hidden 512, 8층)이 첫 8단어를 내고 GPT-4o가 그 접두를 반복하지 않고 이어 쓰는 구성이며 체크포인트는 Hugging Face에 공개
 * [MicroLLM lab — tiny LLMs, Q4, in your browser | stateofutopia](https://stateofutopia.com/experiments/microllmlab/)
   * [브라우저에서 소형 LLM 7개를 직접 실행하는 MicroLLM Lab | digitalbourgeois](https://digitalbourgeois.tistory.com/3714)
   * 설치·계정 없이 브라우저에서 소형 언어 모델을 내려받아(IndexedDB 캐시) 기기 GPU로 추론하고 속도·정확도를 비교하는 실험 도구—WebGPU 우선, 불가 시 WASM→JS 폴백(안내 기준 WASM 8~20 tok/s vs WebGPU 100~300+ tok/s). Q4 양자화로 1억+ 파라미터 모델을 50~84MB에. 모델 7종: PetitGPT research-v1 125M·SmolLM2 135M/360M Instruct·L20-Edu 135M·MiniMind2 104M/Small 26M·GPT-2 124M(15.4~215.9MB)
